@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210511005137/en/Avenda-He
 webUrl: "https://www.businesswire.com/news/home/20210511005137/en/Avenda-Health-Granted-FDA-Breakthrough-Device-Designation-for-Technology-to-Treat-Prostate-Cancer"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "FDA grants breakthrough device designation to AI-based focal therapy system"
+    excerpt: "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia."
+    publishedDateTime: 2021-05-11T00:00:00Z
+    webUrl: "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system"
+    type: article
+    provider:
+      name: urologytimes
+      domain: urologytimes.com
+    quality: 52
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/urologytimes/33bac5b4b295369649455c6e7f13d51c0b268650-500x218.jpg?auto=format"
+        width: 500
+        height: 218
+        isCached: true
   - title: "FDA Grants Breakthrough Device Designation to Lumpectomy Product in Prostate Cancer"
     excerpt: "The FDA has granted a breakthrough device designation to the Avenda Health Focal Therapy System, a male “lumpectomy” product under development to treat patients with prostate cancer in office while preserving quality of life."
     publishedDateTime: 2021-05-11T20:10:00Z

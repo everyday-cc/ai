@@ -26,21 +26,69 @@ images:
     isCached: true
 
 related:
-  - title: "Say What!? This AI System Can Detect Sarcasm in Social Media Posts"
-    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer programme to do it and do it well."
-    publishedDateTime: 2021-05-08T17:27:00Z
-    webUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/"
-    ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
+  - title: "Indian researchers develop AI that may help in the fight against Covid-19"
+    excerpt: "Given limited testing facilities for Covid-19, there's a rush to develop AI tools for quick analysis using X-rays. Experts say it can be very useful in smaller towns where access to CT scans is poor"
+    publishedDateTime: 2021-05-11T11:08:00Z
+    webUrl: "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 57
+      name: Business Standard
+      domain: business-standard.com
+    quality: 60
     images:
-      - url: "https://s3.india.com/wp-content/uploads/2019/07/artificial-intelligence-stock-image.jpg"
-        width: 805
-        height: 537
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/11/full/1620721373-4459.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Conversational AI becomes the unlikely hero during the COVID-19 pandemic"
+    excerpt: "As India hunts for COVID-19 resources such as oxygen cylinders and hospital beds, technologists leverage conversational AI — such as Introbot AI and CovidIndResBot — to create an online space for real"
+    publishedDateTime: 2021-05-11T09:44:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 58
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/abnvyo/article34533819.ece/ALTERNATES/LANDSCAPE_615/introbot-2"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
+    excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
+    publishedDateTime: 2021-05-11T15:49:00Z
+    webUrl: "https://www.wkyc.com/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 50
+    images:
+      - url: "https://media.wkyc.com/assets/WKYC/images/3c9c9308-39b5-4292-94c3-64320c64cf07/3c9c9308-39b5-4292-94c3-64320c64cf07_1140x641.png"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "DRDO develops artificial intelligence algorithm to detect Covid-19 presence from chest X-rays"
+    excerpt: "\"It can be a very useful tool especially in smaller towns in our country owing to lack of easy access to CT scans.\""
+    publishedDateTime: 2021-05-07T09:14:00Z
+    webUrl: "https://indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/"
+    ampWebUrl: "https://indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 48
+    images:
+      - url: "https://images.indianexpress.com/2021/05/delhi-hospital.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."
@@ -51,61 +99,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
-  - title: "How to Detect Sarcasm with Artificial Intelligence"
-    excerpt: "Humans make inferences about tone and meaning, but algorithms can find hidden relationships between words to detect irony and intentional falsehood."
-    publishedDateTime: 2021-05-10T21:21:00Z
-    webUrl: "https://www.defenseone.com/technology/2021/05/how-detect-sarcasm-artificial-intelligence/173936/"
+  - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
+    excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
+    publishedDateTime: 2021-05-10T06:09:00Z
+    webUrl: "https://www.mos.ru/en/news/item/89990073/"
     type: article
     provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/05/10/GettyImages_1232196218/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "AI to detect sarcasm on social media"
-    excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands and it may have just gotten a little easier thanks t"
-    publishedDateTime: 2021-05-11T18:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269410497/ai-to-detect-sarcasm-on-social-media"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1620756355.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "This AI is a bit smarter"
-    excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
-    publishedDateTime: 2021-05-09T18:40:00Z
-    webUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/this-ai-is-a-bit-smarter-2021-05-10.jpg"
-        width: 1000
-        height: 800
-        isCached: true
-  - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
-    excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."
-    publishedDateTime: 2021-05-09T19:30:00Z
-    webUrl: "https://www.indiawest.com/news/technology/university-of-central-florida-ai-system-can-detect-sarcasm-in-social-media-posts/article_2ee7f5a6-b08c-11eb-ab8d-2b04793c3b1a.html"
-    type: article
-    provider:
-      name: India West
-      domain: indiawest.com
+      name: mos
+      domain: www.mos.ru
     quality: 32
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/3c/63c4900e-b08c-11eb-a984-3f9e8a97ded7/60977b8e36009.image.jpg?resize=945%2C599"
-        width: 945
-        height: 599
+      - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "w0NYHXlibmxmB6UQEQkyNsR3HXFxmdfwX8Qf917hGLqozgOQmObxiHdTtqz5Cdhte9bg3hr4+BnKPWpPmKl00Gg43lnJxDI22yAkUbf28vTDN4H5cE66lFDD6ZkeNlk0spUxS21L1+35QpjfVsmO+voOk08ylPpcl2G1N0f/aFOmhMNmEV8gxG8FioRpdD1P7k8JU/75AoIM9vwMLVwz9Qg02NlQiFEVogk2bMbMnoL+tJeyb+hDu7vduZh4FNSFyqcz0znTsIledXG2fuTDWb/LVnjRK/YcHwzDbohsnBcpqeA4cA5F+ieTCtyMUgbFB/9z50voWFMFAwDX09WLKCY0ij/pWHFWoIDt1/FI9SAtYUXO5MjXHsKNtoSZPBey1IfFclfDUWJvicgdpfPNlPGa9EXf896hpUrltSdg8B/9Bo/tRmRKi4cunKmESjEo1lTODUM3Nf/juxztMQRBj+I2nmLqIC7zg8qn6VGvEXc9mxconnI3SKDPsloi5xMLFmCUc9mWgI0Km5fyV6YO8g==;4TgdrNupRUDum4sTaNoE0g=="

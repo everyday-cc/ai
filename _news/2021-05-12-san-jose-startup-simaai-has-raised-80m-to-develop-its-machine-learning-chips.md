@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-11T22:28:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2021/05/11/simaai-raises-80m-in-series-b-funding.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/11/simaai-raises-80m-in-series-b-funding.html"
 type: article
-quality: 30
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 related:
   - title: "Edge AI chipset developer Sima.ai raises $80M"

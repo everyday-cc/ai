@@ -34,15 +34,6 @@ related:
         width: 2000
         height: 1374
         isCached: true
-  - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
-    excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
-    publishedDateTime: 2021-05-07T08:54:00Z
-    webUrl: "https://www.financialbuzz.com/procore-acquires-construction-artificial-intelligence-company-indus-ai/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 32
 
 secured: "41snimfyr5lf327A2s9Z9H0Ej8BuPMrdwBcIO4mpEv4slBM1dX3lw43Srzow46fREzsFb/xmfy9eqI5JYRvSNuUAgWhk1z+YwGmkJyJe3dZY3Lh+emB8gNZ1b+e0ynW2aXZ4LkHiosBWoSVyrDC0qEayvZsXGfU2e7HRtlybpJxf9A+O7bdsuzjpu5mo77+gEnecVsxBQsZCBmwTY0GtFHRMGu95piaDNn5MlTL7WOwnn1KKhokEk2e8eTq2p6ef7UY7IPzcjIJnRZ41cLOz6QwjsIrbKW2+crfHC8vqULkNMwhDM6TVfxiO1aUh74aGGuuMWHcOudQywiMVZ2gDbyFQLhNJkED3aniE6OAkEzI=;CXmzd2Yj3H4Kx3KWFOYktQ=="
 ---

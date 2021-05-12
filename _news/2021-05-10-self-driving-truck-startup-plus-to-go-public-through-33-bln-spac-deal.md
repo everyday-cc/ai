@@ -1,18 +1,24 @@
 ---
 category: news
 title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
-excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-publishedDateTime: 2021-05-10T10:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
-webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
+excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital  Corp. V in a deal that values the self-driving truck technology startup at $3.3 billion. (Reporting by Niket Nishant in Bengaluru;"
+publishedDateTime: 2021-05-10T09:08:00Z
+originalUrl: "https://www.reuters.com/article/plus-ma-hennessy-idUSL4N2MX2I9"
+webUrl: "https://www.reuters.com/article/plus-ma-hennessy-idUSL4N2MX2I9"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2MX2I9"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2MX2I9"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -103,6 +109,6 @@ related:
         height: 600
         isCached: true
 
-secured: "GZuDVZFUoSj4/D73nQ769wku/IJJU0o6ulH5nxjSYiSYqrZZKSJCnzK+P7uwDgCzBFqH8FGj4ovVoeNvSU7G2cVMFNOAwZrnkmyZnciKy5M8YB1IDTHmFE6GqDljY8e1hxbJdlxZEmB+JvB/1k+n2dlA1UmrkyQr/RhFdFG0EQPh3s4xnvQ1KpiVE9TYXq+0kTbTyYgf+QY0zdsL6wWpH5O6m//FuyfZ0cRQSBV6g4GGQKV4hKlxhaFBK1Go17zV/BjL9znWa3XHbethN2cYYf7mr1d+eBHkkYBvV0x28jV1F8Wm57fYKDdXrQanVZbCw9z2c+ZK1WUZtB+MyIC1XYIPEybmyZiLYjVNKJEqRVI=;9cZhpAPSAG6IPTOHhzDdqQ=="
+secured: "D7QsGWV2TbGieX5a+YQZFGiO1Gm4Do7ZnKfTJfUBC0R4ZI1TI46wtutjJE5RoSrNKT1RlQaiTgXEKyVGmREW6hbr2tHGHNKxhwVWtobrCUewLKvpP9ZUEhzHxQdycB6fvoD992RZ+S4IkgYssRPR1k6mmMkiY1QidnNqOJcowz59iYeUrEdM/rj4c3OJK+SzpFnH6T3foyVhf5zgiezGy/m6OZRmyhwMEXeYoLeb+k/iM/2BY+Ks2rgAxfpcW3dQHAPBVFs/yCGCL6TA1+PfIiE17gJ7f+zgdzR76dafd5v0jchnhBrWqYf/w0E2m3mmI1qC/1lrF+0quWUG2Lo0ZcAvmmQwq8mv8hVSqfjaqzc=;oE5vXJfZkicVBqz49H/irg=="
 ---
 

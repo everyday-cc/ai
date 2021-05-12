@@ -35,15 +35,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
-    excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
-    publishedDateTime: 2021-05-07T08:54:00Z
-    webUrl: "https://www.financialbuzz.com/procore-acquires-construction-artificial-intelligence-company-indus-ai/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 32
 
 secured: "ClPTWiXRHai7ImXURQo6ULmQC29Tq19yVg8qkQzOAdRqPFYs5oeH0LfWnbnvdWahQtfILWA+yHLOQI8uEg0UlP4sCIWrFBljeeqzMs2Ics8WP16uoy23dGFVvNxJFf43EQPbaaYcbwxDC33y0eME7K5/l5vuMtXAWNLln96R2c8FX0CrBaJo6NCh8+UwI6yDWnjY9sl906KU/iiLN11PI/Kby/KGrbbuRaRllcEoTGoDaJEIdDBhjjGVSJLxc+lWAQQmIG20RooTZobwunh6znzvVJmtMoLd6CVJPT8a+Xm5pmHuIA44qWvh/ZIdYHomOS2/jv26oR+LjjjPSU3uuJszNBiofHbSUUYG/oN0/BM=;kOd+ItiSjsKgscrsibCoHQ=="
 ---

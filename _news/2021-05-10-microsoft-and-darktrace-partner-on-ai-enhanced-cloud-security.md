@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
 type: article
 quality: 121
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Hyperscience Joins Microsoft for Startups"
+    excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
+    publishedDateTime: 2021-05-11T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hyperscience-joins-microsoft-startups-/2021/05/11/9366313.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Artificial Intelligence in Cyber Security Market Projected to Show Strong Growth | Amazon, Cylance Inc., Darktrace, IBM Corporation, Intel Corporation"
     excerpt: "A latest statistical data titled as Global Artificial Intelligence in Cyber Security Market has been published by Infinity Business Insights. The report covers penetrative insights into distinctive market features such as recent trends which are comprehensively discussed in order to provide an in-depth analysis of the progress of the industries."
     publishedDateTime: 2021-05-08T09:52:00Z

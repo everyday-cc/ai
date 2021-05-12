@@ -41,6 +41,17 @@ related:
         width: 1000
         height: 663
         isCached: true
+  - title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
+    excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital  Corp. V in a deal that values the self-driving truck technology startup at $3.3 billion. (Reporting by Niket Nishant in Bengaluru;"
+    publishedDateTime: 2021-05-10T09:08:00Z
+    webUrl: "https://www.reuters.com/article/plus-ma-hennessy-idUSL4N2MX2I9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2MX2I9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2MX2I9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "Autonomous Truck Startup Plus Going Public Via $3.3 Billion Hennessy SPAC Deal"
     excerpt: "Self-driving truck startup Plus is going public via a $3.3 billion merger with the special purpose access company (SPAC) Hennessy Capital Investment Corp. V."
     publishedDateTime: 2021-05-10T15:21:00Z
@@ -57,15 +68,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
-    excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-    publishedDateTime: 2021-05-10T10:08:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Self-Driving Truck Startup Plus to Go Public Through $3.3 Billion SPAC Deal"
     excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V in a deal that values the self-driving truck technology startup at $3.3 billion. (Reporting by Niket Nishant in Bengaluru;"
     publishedDateTime: 2021-05-10T10:11:00Z

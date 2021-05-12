@@ -107,6 +107,15 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Hyperscience Joins Microsoft for Startups"
+    excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
+    publishedDateTime: 2021-05-11T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hyperscience-joins-microsoft-startups-/2021/05/11/9366313.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "u3VsmoPFcv+GFwBrRQkb0sibAJIivY8dcd+/V9ZgMgol/upHtWG47P9l2KYRQ8h0BrgWcQcDedMwnv6LImi9LvlN+Kx8lJDdYVVHFYic89TBQQ7HGQBI9gJuDuR32WdffheAyWhzWT8D6kzb6St1hvdbLjjxIb0xXcfnzTiefqVOc3lEPgLEM+A0aKc2pqoGbnvNMVwrU8j/g/8WoXpfSiemGgXRx1vX4X/6DDeNYkRZNR8gW7ZMspgcsJRv9s6q99ZDus2x2Y8wEaEb511pJeUPBBz+3+jW7LZ4I6e9UF/AbptmqvWCWkbWGKIITACOk46GwdzdI/q2y8XyQOp/O1DrnkVyTCjHtj33glYoCVo=;CnZ9uRShutQMh2eAPMBKaA=="
 ---

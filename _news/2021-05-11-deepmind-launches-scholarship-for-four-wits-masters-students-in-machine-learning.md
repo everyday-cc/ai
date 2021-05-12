@@ -7,8 +7,8 @@ originalUrl: "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scho
 webUrl: "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: techfinancials
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Now DeepMind is using AI to transform football"
-    excerpt: "The Alphabet-owned company is working with Liverpool to apply AI smarts to the high-stakes world of football tactics"
-    publishedDateTime: 2021-05-07T07:52:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-football-liverpool-ai"
-    ampWebUrl: "https://www.wired.co.uk/article/deepmind-football-liverpool-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-football-liverpool-ai/amp"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 74
-    images:
-      - url: "https://media.wired.co.uk/photos/60941e371d4c1b7d05a51325/master/pass/GettyImages-1277904311.jpg"
-        width: 3000
-        height: 2001
-        isCached: true
   - title: "Google-linked DeepMind launches scholarships in South Africa"
     excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."
     publishedDateTime: 2021-05-11T13:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-wa
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

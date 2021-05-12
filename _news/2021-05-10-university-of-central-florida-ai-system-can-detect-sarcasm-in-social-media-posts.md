@@ -40,31 +40,6 @@ related:
         width: 805
         height: 537
         isCached: true
-  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-    excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
-    publishedDateTime: 2021-05-07T15:14:00Z
-    webUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datascience.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-    excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."
-    publishedDateTime: 2021-05-11T14:01:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210507112040.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
   - title: "How to Detect Sarcasm with Artificial Intelligence"
     excerpt: "Humans make inferences about tone and meaning, but algorithms can find hidden relationships between words to detect irony and intentional falsehood."
     publishedDateTime: 2021-05-10T21:21:00Z

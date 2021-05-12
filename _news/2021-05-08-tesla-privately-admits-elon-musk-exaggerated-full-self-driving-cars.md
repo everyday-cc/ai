@@ -137,22 +137,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Tesla may not achieve full self-driving technology this year: Report"
-    excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
-    publishedDateTime: 2021-05-07T07:25:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
-    type: article
-    provider:
-      name: hindustantimes.com
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
     excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
     publishedDateTime: 2021-05-09T18:00:00Z
@@ -258,22 +242,6 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2019/03/tesla-model-3-sedan.jpg"
         width: 720
         height: 350
-        isCached: true
-  - title: "Get ready for self-driving cars"
-    excerpt: "Once again, New York City has been bested by a for-hire vehicle operator taking advantage of the city’s laws to their own benefit, flooding our streets with even more non-medallion taxi services at the expense of tens of thousands of medallion owner-operators who played by the rules,"
-    publishedDateTime: 2021-05-07T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
-    images:
-      - url: "https://www.nydailynews.com/resizer/aSDwZ8rwwZT2QdGe9ax8L_4nmOs=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XZ3HTVUBUZH3TDNLBHWDMFCYRA.jpg"
-        width: 1200
-        height: 786
         isCached: true
   - title: "Don’t expect actual self-driving cars from Tesla this year"
     excerpt: "After Elon Musk stated in a January earnings call that he was highly confident that a Tesla vehicle would “be able to drive itself with reliability in excess of human this year,” there’s a good possibility that won’t actually come to fruition."
