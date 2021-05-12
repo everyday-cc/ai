@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Autonomous trucking startup Plus going public via SPAC"
+    excerpt: "Autonomous trucking startup Plus is being acquired by Hennessy Capital Investment Corp. V, a special purpose acquisition company."
+    publishedDateTime: 2021-05-10T14:05:00Z
+    webUrl: "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/02/plus-autonomous-trucks.jpg"
+        width: 1000
+        height: 663
+        isCached: true
   - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
     excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
     publishedDateTime: 2021-05-11T01:32:00Z

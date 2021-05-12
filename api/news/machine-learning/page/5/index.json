@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-05-new-software-package-employs-deep-learning-algorithms-to-analyze-t-cell-receptor-sequencing-data.md",
+      "title": "New software package employs deep-learning algorithms to analyze T-cell receptor sequencing data",
+      "excerpt": "Researchers at the Bloomberg~Kimmel Institute for Cancer Immunotherapy at the Johns Hopkins Kimmel Cancer Center have developed DeepTCR, a software package that employs deep-learning algorithms to analyze T-cell receptor (TCR) sequencing data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
+      "publishedDateTime": "2021-04-05T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-evolution-sets-the-stage-for-more-powerful-spiking-neural-networks.md",
       "title": "Evolution sets the stage for more powerful spiking neural networks",
       "excerpt": "Spiking neural networks (SNNs) are a type of artificial neural network that most closely replicates the structure of the human brain. This makes SNNs an important step on the road to developing artificial intelligence.",
@@ -1255,50 +1298,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-blockchain-and-machine-learning-can-deliver-the-promise-of-omnichannel-marketing.md",
-      "title": "How blockchain and machine learning can deliver the promise of omnichannel marketing",
-      "excerpt": "Researchers from University of Minnesota, New York University, University of Pennsylvania, BI Norwegian Business School, University of Michigan, National Bureau of Economic Research, and University of North Carolina published a new paper in the Journal of Marketing that examines how advances in machine learning (ML) and blockchain can address inherent frictions in omnichannel marketing and raises many questions for practice and research.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
-      "originalUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
-      "publishedDateTime": "2021-03-24T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

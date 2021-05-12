@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
 type: article
 quality: 88
-heat: 89
+heat: 88
 published: true
 
 provider:

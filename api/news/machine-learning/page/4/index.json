@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-13-aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning.md",
+      "title": "AI.Reverie Appoints Former NVIDIA Deep Learning Guru Aayush Prakash as Head of Machine Learning",
+      "excerpt": "\"He brings incredible experience, unparalleled expertise and deep industry knowledge to AI.Reverie and our clients.” Prakash is renowned in the field of machine learning and recognized as one of the foremost synthetic data researchers in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210413005853/aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210413005853/aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-deep-learning-model-to-maximize-lifespan-after-liver-transplant.md",
       "title": "Deep Learning model to maximize lifespan after liver transplant",
       "excerpt": "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant.",
@@ -1334,49 +1368,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-new-software-package-employs-deep-learning-algorithms-to-analyze-t-cell-receptor-sequencing-data.md",
-      "title": "New software package employs deep-learning algorithms to analyze T-cell receptor sequencing data",
-      "excerpt": "Researchers at the Bloomberg~Kimmel Institute for Cancer Immunotherapy at the Johns Hopkins Kimmel Cancer Center have developed DeepTCR, a software package that employs deep-learning algorithms to analyze T-cell receptor (TCR) sequencing data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210405/New-software-package-employs-deep-learning-algorithms-to-analyze-T-cell-receptor-sequencing-data.aspx",
-      "publishedDateTime": "2021-04-05T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

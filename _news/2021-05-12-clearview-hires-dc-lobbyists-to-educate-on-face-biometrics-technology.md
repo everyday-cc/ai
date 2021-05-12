@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/clearview-hires-dc-lobbyist
 webUrl: "https://www.biometricupdate.com/202105/clearview-hires-dc-lobbyists-to-educate-on-face-biometrics-technology"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 260
     isCached: true
+
+related:
+  - title: "Microsoft looks to bring Nuance biometrics to healthcare in Philippines"
+    excerpt: "A top official from Microsoft says the tech giant is considering bringing its conversational artificial intelligence (AI) technology to the Philippines."
+    publishedDateTime: 2021-05-11T23:39:00Z
+    webUrl: "https://www.biometricupdate.com/202105/microsoft-looks-to-bring-nuance-biometrics-to-healthcare-in-philippines"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
+        isCached: true
 
 secured: "2OlHSAFjlVKKci5dxjnJyVoHtyVCJg3P4CUML6cheO5370uPOWXsHwwu45qCzgqPehoPLUEZLMTptjX7wSEr1VfpIONt2Hq06HvnqwFE+jYQcCkV9H+0oRkmzg/rMayZGC39h0pF2gb8vLJz56C8ppt4mdCvVpetyMpRG8u1z1vNbkPRFuvQWGRZ5xU3CY3KShrSGSRM+5vYgUvccYxzhi2bQVwgm26sBr2CVi2vBrRh1T+xk067Nb0Ft8KOYigrx5nUfqnb6IO/P0wIcj3LQlokEqV3fRMB9dDw+gXd5CJT6c6DTHApIA8zKD8QUdpOvTt7silvJFio/dWhvpBLusGrAKS6YV5bq2QCkzmiCFh7BfqMAknSSAUD3AMpgQxrY3rfZha7a3DHE27AL3VL/sfeuQ4BV0sHpK/iBjHihyhNpVRZ1Y15iLzxmAiS8t2e+BVMOrEtFMehcVZp0zsAitRj1V8QOdbU/97FA+N+ldS8At8J3Thnv+gQ5YzQ/0D1iMBqxH89rkV1rK/+WUG4EA==;UXEQjvRAdEBIcuByNFVMgg=="
 ---

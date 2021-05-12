@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-ne
 webUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
         width: 480
         height: 320
-        isCached: true
-  - title: "Using AI to augment public health services"
-    excerpt: "Out of the COVID-19 pandemic, key use cases are showing the effectiveness of AI tools to speed agencies' response to public crisis."
-    publishedDateTime: 2021-05-07T14:26:00Z
-    webUrl: "https://www.fedscoop.com/radio/using-ai-to-augment-public-health-services/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/05/GoogleCloud_public-health_Header.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Self-driving shuttles coming to Rochester this summer"
+    excerpt: "The shuttles are self-driving, go about 15 miles per hour and will follow a virtual \"track\" that will be electronically programmed. Each vehicle holds about 12 people."
+    publishedDateTime: 2021-05-11T18:11:00Z
+    webUrl: "https://myfox47.com/2021/05/11/self-driving-shuttles-coming-to-rochester-this-summer/"
+    type: article
+    provider:
+      name: My Fox 47
+      domain: myfox47.com
+    quality: 24
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/5/2021/05/rochestershuttlepic1.png"
+        width: 440
+        height: 306
+        isCached: true
 
 secured: "expOf/NPKVkjfiYpnSijtNkbTkUe8e9Dvv5oHjl9M6QW+9LhCHZXxXeyAknIJgaXUKknxgDMrekULyoiO6JntWIlIMdMC+bxn6wncoeDRFtuS8MxnI3Z/ad0euadBbu7Zdi1uud4EFTI/Bi1hZRHbR6f6pOS2hzE++O0epG/zPA0SsO17ph5juKjq3bixArIKCOgHlxtagx4LYofg3jUPMEMXNBG2TObepxXTYliVSRd59BdfGS72a5k9vxFKIOrMMDjFUqJ+3XnSb5vlXaaGa0kmtAI36ybMiUtfIcevC8EVv+AItSz6bmI7iX6EWLgqoCBqFHZX5jVeQBSu3UpguQm4j0uRnfJUtSfaDEMBRDwokVoxjELK8EHaehpS9l7eCCNobbWH6RCbXJFACka4faPIC0iiYyEtZVX9oi1FU3+a8GROTi5k/znmfdQtmVUYuIBsMzW8aaOzmD1+9y5nwDcYMvxerhH/lj1Zb5vbf2j+VVZ+XKMcl/M+jEbtXJLhFbqrUAu4+ff2WuAKz9e0g==;Usy+Xd96qhZlS6qofyPGTg=="
 ---

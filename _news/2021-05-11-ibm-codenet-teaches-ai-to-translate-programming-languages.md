@@ -2,17 +2,17 @@
 category: news
 title: "IBM CodeNet teaches AI to translate programming languages"
 excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
-publishedDateTime: 2021-05-11T10:16:00Z
-originalUrl: "https://www.cloudpro.co.uk/business-intelligence/9070/ibm-codenet-teaches-ai-to-translate-programming-languages"
-webUrl: "https://www.cloudpro.co.uk/business-intelligence/9070/ibm-codenet-teaches-ai-to-translate-programming-languages"
+publishedDateTime: 2021-05-11T13:29:00Z
+originalUrl: "https://www.techcentral.ie/ibm-codenet-teaches-ai-to-translate-programming-languages/"
+webUrl: "https://www.techcentral.ie/ibm-codenet-teaches-ai-to-translate-programming-languages/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: Mozilla
+  domain: techcentral.ie
 
 topics:
   - IBM AI
@@ -20,9 +20,9 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2018/10/code_shutterstock_634574354.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.techcentral.ie/wp-content/uploads/2018/12/code_face_insight_analysis_concept_web.jpg"
+    width: 620
+    height: 350
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 932
         isCached: true
 
-secured: "ILLifAZIhRgYPk1QqaS13w5pArRRv35SUE7t+4WU9+V4GnIsh3euTxONbVO0RxXUPQ4kBEy0NVXYPCW7KP9mfpO2bZnwYv5+IRBl6v4E0U1dYU+/Q+10m8l/jPNKrtwS7B1oSNsA0NFrkUx7b4tr0PnvleGrrgkyDPTjgmrutvb47TPm/DkjXfqcL+uEseQBUzoP/8d20TWsSsduOqwCzJOZWxOGUMaCY4rBszHWGel8bfgdDTegj1jQYzVzAeRtWlRN3Gi/tX5XsudcfbmwTPPXrQ4OfzAydUwWRmLmsxPvRyWrC8IOEBYX+pxrDM2kZWB1BaT4DGW1UU72U3+MOkSbyFBGffF9uqNEJensBvI=;c6epUL6WGB5U10Ud7PUkcA=="
+secured: "4fFeql6oRg8OngzFIvN2gezToERE/5iCB30zrBNmZT5e2jJKfcYDCOq0LvjRCkslAm5JQZWKJhCnRqBLhdYkXzZC8xTlqA7OTo5lR+/q1RxkYE6x+MIZkJWyST8Wtnux5ile9h0WHsp/rOOoqOcHxod3xy04v+V0F3jyHojoywsgCk98kYqHWuLakUJ2vP6rCT9jY3S0A7LA48uh75LCS5sOUQT1euRi7hzF16eiznXLJdZgKxFoCAoOlcQ7yo4Z4v4p/5fuAjDvQNFd0ZLDR1aUAY79p6Q0daviYBMnpala1DjOAZTgcE6dR9I5Ib1w5f2HT3AJHb7kKTOeXVAVZjyXCDZiJhqK4Chp4qDKgvU=;jb1D9Inl/av07h+yLdun7Q=="
 ---
 

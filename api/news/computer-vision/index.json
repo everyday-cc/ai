@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-12-funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology.md",
+      "title": "Funny faces in face recognition could increase phone security with new technology",
+      "excerpt": "But experts said the best way to keep your phone safe using facial recognition technology is by putting on a funny face. “We’ve been able to actually take a regular picture of ourselves and fool the system,",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
+      "originalUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2021/03/cell-phone.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
+      "publishedDateTime": "2021-05-11T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
       "title": "Your face, voice, and fingerprints could defend you against banking scams",
       "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
@@ -1380,40 +1424,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies.md",
-      "title": "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies",
-      "excerpt": "Inpixon, the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality, computer vision, localization, navigation, mapping, and 3 D reconstruction technologies, including patents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar",
-      "originalUrl": "https://www.nasdaq.com/press-release/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

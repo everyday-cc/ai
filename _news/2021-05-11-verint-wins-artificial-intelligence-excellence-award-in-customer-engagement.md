@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Verint Wins Artificial Intelligence Excellence Award in Customer Engagement"
-excerpt: "Verint® , The Customer Engagement Companytm, today announced it is among the winners of Business Intelligence Group's Excellence in Artificial Intelligence Awards. Verint Intelligent Virtual Assistant (IVA) was recognized in the natural"
-publishedDateTime: 2021-05-11T12:47:00Z
-originalUrl: "https://www.lelezard.com/en/news-19798016.html"
-webUrl: "https://www.lelezard.com/en/news-19798016.html"
+excerpt: "The Customer Engagement Company ™, today announced it is among the winners of Business Intelligence Group’s Excellence in Artificial Intelligence Awards. Verint Intelligent Virtual Assistant (IVA) was recognized in the natural language processing (NLP) product category."
+publishedDateTime: 2021-05-11T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210511005248/en/Verint-Wins-Artificial-Intelligence-Excellence-Award-in-Customer-Engagement"
+webUrl: "https://www.businesswire.com/news/home/20210511005248/en/Verint-Wins-Artificial-Intelligence-Excellence-Award-in-Customer-Engagement"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "n3B4wUbGwOGVxW4HnlnLt7TXS9EzBRcB0NkCrv66ppAsM8X0KvyPA6itxH2CZKmQ+FTuJd6hqyUiPJIema/9lNOY9V2Nxs7IAztzE8DqiGmfwuwJ6OakHlz1exq1vGtCBmgsBvAPa3BRkYGfEzOPRmxkKlqlwHXXyqFA+sdnizF89+bRr55pqHF0vSI3pkyx1XDbltF0bqU8WlO3oxdkd0UlOSrmPT0nnfaSmk4LEoSIAuaG+I0e/pvtcbcxB6E5mkFOQKXxa689Ope3QaK8bm2PQpIifnADofZWPQn4U1LiX3Ft0AZ4CTfGNL9yG4r13Up33KOeLniBY8MJ8CvhFElBhveEnxA5csoclz8rXrM=;rdmmesRGnNpQ67bhTm6oNQ=="
+secured: "85kYMKlsl2qipT6vpzj+KMTToAwTj7gfChvVVeLrUACFb85wf/k58heVB/gJuZWBUjDp/SAx1I3k5P3etfvKPL7oQctRbUJem7Ge214M0XbbDOADhUqSvjos9uEdFNJ6wPTVgsQN5D3K3fQ4ciiIwkckQm1JlKxZVOtK2T93n0Gft9GYECd3C/3N4MJJakQTNhOJLj6WekMLbQqVZRkVEtMarzkEGDnO5jiX6p5y3oEWAOrZk0Nj8ISVmTRDDvhMrWGFsRzYhj9uggFfQGvxpHjcwRqKDplM5n3KPtH+3IIbkAKKCFOG2SlhtnIHx1x9gexYfir4Blv82DpWPNQakTUp/h09PnjnFJNW5a0ONME=;enFx3FPk/2AYZ1LPqo+MUw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-aifoam-robots-interact-intellige
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.amp"
 type: article
 quality: 66
-heat: 86
+heat: 87
 published: true
 
 provider:

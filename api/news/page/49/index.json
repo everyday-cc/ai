@@ -2,6 +2,341 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
+      "excerpt": "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor.md",
+      "title": "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor",
+      "excerpt": "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments.md",
+      "title": "New Cachengo computer vision solution supports edge facial recognition deployments",
+      "excerpt": "Computer vision solutions provider Cachengo has announced a new on-premise optimized edge service with a proprietary content delivery network (CDN) technology and advanced analytics, capable of delivering artificial intelligence applications like face ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202103/new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments",
+      "originalUrl": "https://www.biometricupdate.com/202103/new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-usc-scientists-say-artificial-intelligence-can-compute-formulas-for-successful-vaccines-against-covid-variants.md",
+      "title": "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants",
+      "excerpt": "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
+      "originalUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
+      "publishedDateTime": "2021-03-19T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-fact-sheet-opportunity-hub-announces-new-racial-equity-focused-ecosystem-development-expansion-edge-technology-training-school-acquisition.md",
+      "title": "FACT SHEET: Opportunity Hub Announces New Racial Equity Focused Ecosystem Development Expansion, Edge Technology Training School Acquisition & Startup Entrepreneurship Support ...",
+      "excerpt": "To mark its ongoing commitment and work to scaling racial equity in the fourth industrial revolution and beyond, OHUB announces the following new acqu",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
+      "originalUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report.md",
+      "title": "Scotland, UK governments tackle biometrics ethics with new Commissioners, report",
+      "excerpt": "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report",
+      "originalUrl": "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-40-women-leading-the-way-in-ai-innovation.md",
+      "title": "40 women leading the way in AI innovation",
+      "excerpt": "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "originalUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-solving-barren-plateaus-is-the-key-to-quantum-machine-learning.md",
+      "title": "Solving 'barren plateaus' is the key to quantum machine learning",
+      "excerpt": "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html",
+      "originalUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp",
+      "publishedDateTime": "2021-03-19T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-shows-research-into-ai-wristband-with-nerve-signal-controls.md",
+      "title": "Facebook shows research into AI wristband with nerve signal controls",
+      "excerpt": "Facebook has shown some of its research into new forms of human-computer interaction, including a wristband that can work as the controller of an augmented reality headset. The platform is being developed by Facebook Reality Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558",
+      "originalUrl": "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-solving-barren-plateaus-is-the-key-to-quantum-machine-learning-image.md",
       "title": "Solving 'barren plateaus' is the key to quantum machine learning (image)",
       "excerpt": "A barren plateau is a trainability problem that occurs in machine learning optimization algorithms when the problem-solving space turns flat as the algorithm is run. Researchers at Los Alamos National Laboratory have developed theorems to prove that any given algorithm will avoid a barren plateau as it scales up to run on a quantum computer.",
@@ -578,359 +913,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031.md",
-      "title": "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031",
-      "excerpt": "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-heres-the-complete-journey-character-path-of-bucky-barnes-the-winter-soldier-in-the-mcu.md",
-      "title": "Here's The Complete Journey & Character Path Of Bucky Barnes, The Winter Soldier In The MCU",
-      "excerpt": "In Captain America: The Winter Soldier, we find out that Bucky was recaptured and brainwashed into a mind-controlled super ... where Tony destroys Bucky's robotic arm, and Cap disables Stark's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoopwhoop.com/entertainment/falcon-the-winter-soldier-origin-story-of-winter-soldier/?ref=page_cat",
-      "originalUrl": "https://www.scoopwhoop.com/entertainment/falcon-the-winter-soldier-origin-story-of-winter-soldier/?ref=page_cat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scoopwhoop.com/amp/entertainment/falcon-the-winter-soldier-origin-story-of-winter-soldier/",
-      "cdnAmpWebUrl": "https://www-scoopwhoop-com.cdn.ampproject.org/c/s/www.scoopwhoop.com/amp/entertainment/falcon-the-winter-soldier-origin-story-of-winter-soldier/",
-      "publishedDateTime": "2021-03-19T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScoopWhoop",
-        "domain": "scoopwhoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-top-10-machine-learning-companies-making-a-difference-in-2021.md",
-      "title": "Top 10 Machine Learning Companies Making a Difference in 2021",
-      "excerpt": "Machine learning companies are relentlessly evolving as the rate of data generation is high. Let’s have a look at the top 10 machine learning companies to watch out for in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-10-machine-learning-companies-making-a-difference-in-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/top-10-machine-learning-companies-making-a-difference-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-conneqt-techforceai-announce-strategic-partnership-to-accelerate-digital-workforce-adoption-within-enterprises.md",
-      "title": "Conneqt & Techforce.ai Announce Strategic Partnership to Accelerate Digital Workforce Adoption Within Enterprises",
-      "excerpt": "This partnership seeks to bring forth expertise in platform-first cognitive process outsourcing offerings ... Techforce.ai has partnerships with Microsoft Azure, Amazon Web Services, Oracle Cloud, Google Cloud, and several other enterprise application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr.com/press-release/832969",
-      "originalUrl": "https://www.pr.com/press-release/832969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR",
-        "domain": "pr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-right-wing-troll-chuck-johnson-claims-he-cofounded-facial-recognition-giant-clearview-ai.md",
-      "title": "Right-Wing 'Troll' Chuck Johnson Claims He Cofounded Facial Recognition Giant Clearview AI",
-      "excerpt": "Well, there seems to be a new accomplishment Johnson can add to his resume of oddities: helping to found sketchy surveillance giant Clearview AI. Per a report from the New York Times, Johnson claims to have contributed to the formation of the notorious security firm—connecting founder Hoan Ton-That to key principals like tech billionaire and funder Peter Thiel and entrepreneur Richard Schwartz (who would go on to become a co-founder of the company).",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
-      "originalUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
-      "publishedDateTime": "2021-03-18T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-this-week-in-xr-facebooks-invisible-computing-research.md",
-      "title": "This Week In XR: Facebook’s Invisible Computing Research",
-      "excerpt": "Facebook Reality Lab reveals the direction of AR smart glasses. For AR smart glasses to work as an all day every day device, AI and haptics need to be work with advanced optics within a new OS and user interface. The system will use a nerve reading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech.md",
-      "title": "AWS, Oxford University Explore Human-Machine Collaboration With AI, Cloud Tech",
-      "excerpt": "Amazon Web Services (AWS) and the University of Oxford in England have partnered to test proofs of concept for human-machine interaction in education and other research areas using artificial intelligence tools and cloud computing platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/",
-      "originalUrl": "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-facebook-teases-futuristic-wrist-based-wearable-that-will-let-you-control-ar-with-your-mind.md",
-      "title": "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind",
-      "excerpt": "Facebook is really, really serious about augmented reality. Last year, the company showed off a frankly ambitious framework for the future of AR, and now the social media giant has revealed some of the advanced gadgets it’ s designing to help people interact with the AR world.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201",
-      "originalUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp",
-      "publishedDateTime": "2021-03-18T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare.md",
-      "title": "What a potential sale of IBM's Watson Health means for AI in healthcare",
-      "excerpt": "Experts say the hype got ahead of the engineering but that doesn't mean algorithms can't make healthcare smarter and reduce costs too. Success with artificial intelligence in healthcare depends on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/",
-      "originalUrl": "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

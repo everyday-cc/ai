@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-11-ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business.md",
+      "title": "IBM Launches New Cloud, AI Services in Bid to Modernize Business",
+      "excerpt": "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges.md",
+      "title": "IBM’s CodeNet dataset aims to train AI to tackle programming challenges",
+      "excerpt": "IBM's Project CodeNet is an effort to spur the development of AI systems that can tackle programming challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/amp/",
+      "publishedDateTime": "2021-05-10T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-marketing-ai-institute-raises-in-1m-seed-funding.md",
+      "title": "Marketing AI Institute Raises in $1M Seed Funding",
+      "excerpt": "Cleveland, OH-based Marketing Artificial Intelligence Institute closed a $1m seed funding round. The round was led by Blue Cypress, a family of purpose-driven companies founded by technology entrepreneur Amith Nagarajan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/05/image-7.jpeg",
+          "width": 950,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-nurses-are-essential-to-ai-integration-in-healthcare.md",
       "title": "‘Nurses Are Essential’ to AI Integration in Healthcare",
       "excerpt": "Nurses are also crucial stakeholders as hospitals seek more uses for artificial intelligence and machine learning to deliver care.",
@@ -158,7 +307,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -301,6 +450,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-autonomous-trucking-startup-plus-going-public-via-spac.md",
+      "title": "Autonomous trucking startup Plus going public via SPAC",
+      "excerpt": "Autonomous trucking startup Plus is being acquired by Hennessy Capital Investment Corp. V, a special purpose acquisition company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
+      "originalUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/02/plus-autonomous-trucks.jpg",
+          "width": 1000,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -451,7 +643,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -608,7 +800,7 @@
       "originalUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1032,202 +1224,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-us-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech.md",
-      "title": "U.S. Senate committee revised a draft bill to fund AI, quantum, biotech",
-      "excerpt": "The U.S. Senate will consider a revised technology research bill to invest $95 billion in AI, semiconductors, quantum computing, and biotech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "originalUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "publishedDateTime": "2021-05-08T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts.md",
-      "title": "Say What!? This AI System Can Detect Sarcasm in Social Media Posts",
-      "excerpt": "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer programme to do it and do it well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/",
-      "originalUrl": "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2019/07/artificial-intelligence-stock-image.jpg",
-          "width": 805,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/",
-      "publishedDateTime": "2021-05-08T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-is-turning-us-into-de-facto-cyborgs.md",
-      "title": "AI is turning us into de facto cyborgs",
-      "excerpt": "It is dangerous that society is outsourcing its thinking to algorithms that are not in our collective best interests.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/",
-      "originalUrl": "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-9409679981.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/amp/",
-      "publishedDateTime": "2021-05-08T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes.md",
-      "title": "Longevity startup Gero AI has a mobile API for quantifying health changes",
-      "excerpt": "Sensor data from smartphones and wearables can meaningfully predict an individual’s ‘biological age’ and resilience to stress, according to Gero AI. The ‘longevity’ startup — which condenses its mission to the pithy goal of “hacking complex diseases and",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/",
-      "originalUrl": "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Gero_team-1.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/",
-      "publishedDateTime": "2021-05-07T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

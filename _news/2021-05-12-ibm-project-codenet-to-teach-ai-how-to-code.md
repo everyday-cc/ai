@@ -48,17 +48,17 @@ related:
         isCached: true
   - title: "IBM CodeNet teaches AI to translate programming languages"
     excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
-    publishedDateTime: 2021-05-11T10:16:00Z
-    webUrl: "https://www.cloudpro.co.uk/business-intelligence/9070/ibm-codenet-teaches-ai-to-translate-programming-languages"
+    publishedDateTime: 2021-05-11T13:29:00Z
+    webUrl: "https://www.techcentral.ie/ibm-codenet-teaches-ai-to-translate-programming-languages/"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: Mozilla
+      domain: techcentral.ie
     quality: 56
     images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2018/10/code_shutterstock_634574354.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.techcentral.ie/wp-content/uploads/2018/12/code_face_insight_analysis_concept_web.jpg"
+        width: 620
+        height: 350
         isCached: true
 
 secured: "m+fWQCg0szfAn0nZvg41x9PWEiemiRGIU7Q3neWni7KrJDC3ogo/QpJ+WSiTpAPSaI7BTATvsvC3rlJmGJKLWmMkgl3AulkPHRwBBcZC1Irvk/A8ehL1yq2nTg7R1aTFvvZt7xwElXAZY0C5ZKEReRgZsp74PgOC2kPDPNEmcTAg5f5sa8+VTwxEfUFQ7ICl+YrhFiubg6ODCeJu/QShqXduTb1o3aBCGEx8v/qexbSlAAJVP/n6e6J2pSfBWQCWgyC7DiaVbLWGxNU4MkChJ1NvEg56Cb/ZQlppmgs+oc3pPMTmB5oZbyndVHfljSUgx5dgH9umRcozNArtKLB0G6xNVkJnKuQTdNEQMxNcOvFhMQrHubfXW27PWwa3jqmzLC7OaE+UT0ZsgvuA7CBducoJo9CqQR9dFcnKAJKQTESuopzNGbAuRw+yV+vPFRnEvf9R1krWLMRXYe/mYcesFmq+B3sFXhL9OdoDcOF8AR1vjMoKC3Cwg1G069xbI6x1T9pjXupraSWxiIlCfYWMPw==;/cAAU5kc1a5lIrtmnpAvkQ=="

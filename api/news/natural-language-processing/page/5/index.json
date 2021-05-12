@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-15-anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive-results.md",
+      "title": "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results",
+      "excerpt": "Anyword, formerly known as Keywee, is the world's first Language Optimization Platform that helps marketers easily optimize the words that they use, introduces",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive/article_ec4a0cea-0cd2-5845-b5d8-bfbaff9fd4c7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive/article_ec4a0cea-0cd2-5845-b5d8-bfbaff9fd4c7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-ai-in-law-language-model-can-speed-up-work-of-lawyers.md",
       "title": "AI in law: language model can speed up work of lawyers",
       "excerpt": "The use of AI models can help legal practitioners understand complex legal texts. Julien Rossi, Amsterdam Business School researcher, is trying to",
