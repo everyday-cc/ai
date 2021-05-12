@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Streamlining Data Center Tasks with Machine Learning"
-    excerpt: "In this edition of, Service Express CTO Jake Blough shares how machine learning offers new opportunities in data centers."
-    publishedDateTime: 2021-05-07T13:57:00Z
-    webUrl: "https://datacenterfrontier.com/streamlining-data-center-tasks-with-machine-learning/"
+  - title: "Can machine learning help make a perfect dating match?"
+    excerpt: "The process of matching with someone through a dating app becomes more efficient when developers apply machine learning to the algorithms."
+    publishedDateTime: 2021-05-12T06:42:00Z
+    webUrl: "https://www.itweb.co.za/content/PmxVE7Kl6XXMQY85"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/PmxVE7Kl6XXMQY85"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/PmxVE7Kl6XXMQY85"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 54
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/05/AY0I0169-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://lh3.googleusercontent.com/LzocAc52-3C6k6yfLomzi7qK2q0aDh4zZOLVmw1Z1pRZGwnl-XaYhLzfyz7crgKadnax-KDCZdN9PXBx3ycSJN0=w816-h428"
+        width: 761
+        height: 428
         isCached: true
 
 secured: "GrlFoty/+qi1csDcWMdxMz9CLuGb2KnLnPQ0qdryralPbtBCLQwLR140yshNAtzUzE8MZB9eBSKwNFNMaPNSiovMt97l47PygOkGm+z0HHB9jho6LtTMM/HXgMgl+TZ+TydQwsFIscpuw89QO+SNSrYV2x8vLy0XItQsXdO9ARVqfgnOR/1YjZGreNotEx8eGJGVQt037HbPFX3KC+X1bJCSNdzKCq1sqorl4QZlwgeWE+LZDd9BfV80b/UDCVpYSdNQ9tF6jk8RyNQdKoWSdUX0zHWnhFpL7BWpTt6F3l8N3s9D4nnWU+l0m2b3VdkpMms4MRCeV8Jui6aQLx/WM797Wel1GNdsIRRSFXMB0vR6ksRjYkwngU/MEbY6y1Zv05YSMAgjJ4/jN08r+4fOvHrENh7OdG2nFkpEC0HVlEUY4jMhst78GxySNB2ql3dYvxfFxTm0YVGZiftSmLajp1MDlO1PlGPcBMhpeksZCl4Vuf+FU9IVf5+l6bWK82Lz6gOU8PdilsYWstELmxwOpg==;hnULE49jf/T7q/laAQjTaA=="

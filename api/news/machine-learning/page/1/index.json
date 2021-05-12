@@ -185,7 +185,7 @@
       "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -574,10 +574,10 @@
     {
       "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
       "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
-      "excerpt": "The solution uses Amazon Athena, AWS Glue, Amazon S3, Amazon SageMaker, and Amazon Translate. The automated ML natural language processing solution enables the company to replace a time-intensive ...",
+      "excerpt": "Rackspace Technology ®, a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663",
+      "webUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0",
+      "originalUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -587,21 +587,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:09:00-07:00",
+      "publishedDateTime": "2021-05-05T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

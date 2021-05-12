@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-05-a-quick-introduction-to-microsoft-azure-purview.md",
+      "title": "A Quick Introduction to Microsoft Azure Purview",
+      "excerpt": "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/",
+      "publishedDateTime": "2021-05-05T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Many companies extract data from scanned documents containing tables and forms, such as PDFs. Some examples are audit documents, tax documents, whitepapers, or customer review documents. For customer reviews, you might be extracting text such as product reviews, movie reviews, or feedback. Further understanding",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/03/2-1411-Specify-Detals.jpg",
+          "width": 800,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T09:32:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-white-house-announces-website-to-advance-artificial-intelligence.md",
       "title": "White House Announces Website to Advance Artificial Intelligence",
       "excerpt": "The new website will serve as a connection point to ongoing activities that will advance US leadership in artificial intelligence research and development.",
@@ -144,7 +240,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -191,50 +288,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
-      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
-      "excerpt": "The solution uses Amazon Athena, AWS Glue, Amazon S3, Amazon SageMaker, and Amazon Translate. The automated ML natural language processing solution enables the company to replace a time-intensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-5-entry-level-marketing-projects-for-ai-newbies.md",
       "title": "5 Entry-Level Marketing Projects for AI Newbies",
       "excerpt": "Marketing teams are increasingly turning to artificial intelligence (AI) to improve results, with marketers investing over $227 million in AI-based technologies in 2018 alone, according to Statista. Yet many companies have yet to use AI or have just started exploring it recently.",
@@ -275,6 +328,41 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
+      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
+      "excerpt": "Rackspace Technology ®, a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0",
+      "originalUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -768,6 +856,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
+      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
+      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-musicians-including-ratms-tom-morello-urge-spotify-never-to-use-patented-voice-recognition-tech.md",
       "title": "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech",
       "excerpt": "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in",
@@ -1061,136 +1183,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-it-began-as-an-ai-fueled-dungeon-game-it-got-much-darker.md",
-      "title": "It Began As an AI-Fueled Dungeon Game. It Got Much Darker",
-      "excerpt": "The game touted its use of the GPT-3 text generator. Then the algorithm started to generate disturbing stories, including sex scenes involving children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
-      "originalUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6091ff24317d6dd323f25581/master/pass/business_gpt3_ai-dungeon.jpg",
-          "width": 1688,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
-      "publishedDateTime": "2021-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
-      "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "publishedDateTime": "2021-05-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

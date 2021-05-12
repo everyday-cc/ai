@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4426400-want-to-rule-the-world-
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best of Both Worlds: Artificial Intelligence Makes Great Microscopes Better Than Ever"
-    excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data. To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy,"
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/"
-    ampWebUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/Fish-Heart-777x466.jpg"
-        width: 777
-        height: 466
-        isCached: true
   - title: "Can energy-efficient federated learning save the world?"
     excerpt: "Training the artificial intelligence models that underpin web search engines, power smart assistants and enable driverless cars consumes megawatts of energy and generates worrying carbon dioxide emissions."
     publishedDateTime: 2021-05-07T17:03:00Z

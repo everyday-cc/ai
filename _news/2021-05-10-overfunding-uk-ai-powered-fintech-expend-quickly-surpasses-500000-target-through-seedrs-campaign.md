@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-    excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
-    publishedDateTime: 2021-05-10T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
+    excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
+    publishedDateTime: 2021-05-10T08:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 63
     images:
-      - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
+      - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
         width: 400
         height: 225
         isCached: true

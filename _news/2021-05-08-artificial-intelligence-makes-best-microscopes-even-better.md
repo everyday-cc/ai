@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D."
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
-    ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Artificial intelligence can boost power, efficiency of even the best microscopes"
     excerpt: "With the help of artificial intelligence, even already powerful microscopes can see better, faster and process more data."
     publishedDateTime: 2021-05-07T19:00:00Z

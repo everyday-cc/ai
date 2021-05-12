@@ -58,6 +58,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Artificial intelligence that can detect sarcasm in social media developed"
+    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well."
+    publishedDateTime: 2021-05-12T06:01:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/05/12/1600x900/photo-1554177255-61502b352de3_1620799135211_1620799139809.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
     excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
     publishedDateTime: 2021-05-11T15:49:00Z
@@ -97,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
+    excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
+    publishedDateTime: 2021-05-12T06:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210511/3754375.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
 
 secured: "w0NYHXlibmxmB6UQEQkyNsR3HXFxmdfwX8Qf917hGLqozgOQmObxiHdTtqz5Cdhte9bg3hr4+BnKPWpPmKl00Gg43lnJxDI22yAkUbf28vTDN4H5cE66lFDD6ZkeNlk0spUxS21L1+35QpjfVsmO+voOk08ylPpcl2G1N0f/aFOmhMNmEV8gxG8FioRpdD1P7k8JU/75AoIM9vwMLVwz9Qg02NlQiFEVogk2bMbMnoL+tJeyb+hDu7vduZh4FNSFyqcz0znTsIledXG2fuTDWb/LVnjRK/YcHwzDbohsnBcpqeA4cA5F+ieTCtyMUgbFB/9z50voWFMFAwDX09WLKCY0ij/pWHFWoIDt1/FI9SAtYUXO5MjXHsKNtoSZPBey1IfFclfDUWJvicgdpfPNlPGa9EXf896hpUrltSdg8B/9Bo/tRmRKi4cunKmESjEo1lTODUM3Nf/juxztMQRBj+I2nmLqIC7zg8qn6VGvEXc9mxconnI3SKDPsloi5xMLFmCUc9mWgI0Km5fyV6YO8g==;4TgdrNupRUDum4sTaNoE0g=="
 ---

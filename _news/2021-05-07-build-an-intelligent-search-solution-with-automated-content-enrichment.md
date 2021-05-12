@@ -30,19 +30,14 @@ images:
 
 related:
   - title: "A New Frontier in Healthcare Intelligent Document Processing"
-    excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new capabilities represent a new frontier"
-    publishedDateTime: 2021-05-11T20:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/a-new-frontier-in-healthcare-intelligent-document-processing/article_94e88779-e899-59d7-a96f-061463144d26.html"
+    excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new capabilities represent a new frontier in healthcare document and data processing."
+    publishedDateTime: 2021-05-11T21:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/11/9367019.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/c7/ac7cb0d5-c639-5bcd-a982-c9709df24c9e/609aed17dd852.image.jpg?resize=573%2C234"
-        width: 573
-        height: 234
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "927E2lsA+oPmjIjhWVhP9jBxhPk9+YfSHijikh/5WwH4249Ne0pfkqhlWD/OaFg1ZIzul/9Cg8wQnctwdY9Iju1w29fiZmI07vXW6Fp24xFCDPSJ2l3Ry4hrnYjmbcexyG1lbEZ3ON+IZP7RPipSAhmfAW1WSCBwW18coIt+pzkncaJlLM+0U1MT/chTHCsEHUSOWVi66gTLB1Bu1QL9QOA2WBCYcYEH4cB2iIMtFr4SshRKYz+KzXUQqegQ76Yuz/7MJyasNRwTuzf81rhYIAjok8gn8FqaoT2LjGPb11pl20IYwN3G0kBaKiWOlCy/WiUbf17f48JKW36zyxh7ex5hqcRlUm5j6TLUynWxph4=;LHG8z2eA+x515mYpyJZJqw=="
 ---

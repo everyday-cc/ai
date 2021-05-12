@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Less than a third of car buyers support self-driving cars on UK roads despite government plans"
+    excerpt: "New data has shown that less than a third of drivers support self-driving cars on UK roads despite changes to government legislation.  Only 29 per cent of"
+    publishedDateTime: 2021-05-12T07:27:00Z
+    webUrl: "https://cardealermagazine.co.uk/publish/less-than-a-third-of-car-buyers-support-self-driving-cars-on-uk-roads-despite-government-plans/223145"
+    type: article
+    provider:
+      name: Car Dealer Magazine
+      domain: cardealermagazine.co.uk
+    quality: 12
+    images:
+      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2021/05/280685_Volvo_Cars_teams_up_with_world_s_leading_mobility_technology_platform_DiDi-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+
 secured: "d//Of3mTIB5+UVIkcsgNbK8vKCa87DIfQAdXz+DnUQCfVn8sD3K4WNodzvJsMFqCWVfvJCQ9VnAKiUPqcMU8uSShoHoRFJp2bzQb9LrXKGhi/u/UZqRuwKwAdk79jNvht13nyafoZY4OQJjK89jsu2GzFwJ/QrhQUE1F6W4dHvbTbK1/m+tW1Z9TzAWkMwWU7bSKmxudibfxAkK20TjgEWkY8Vk0B6BKXL/JGZqEy9xQLwt/3HqAkSZ+CVQXDKNhzdxvzk0NTvHM6zeYHbXLGgzEBe+CbrGPHK6ocHoxa+WJnMN/Si3Up+hTC7vBJIC1Nug6f6KfF9hp+mYrsKKO1kc7VWRj4dQxmQPLyt/pqcy7vd7t7LWI4SaU7W1+XOpfvJAEDSCfBPc2efrA+QFa1BeutQJ8TlgRkAGTF2VOl41XOmf2gtpKdEGMKDOhI7mC1ANUaANIqcQkEfKx1ked+tnakje5tEzrv1+5L+uGT1kplFVZ0QD1uQZqL2318Fqdxm9BwUoMEhaj3ZCN7zR7aQ==;ms4SLMMgCDcWs0z+ZFGAxg=="
 ---
 

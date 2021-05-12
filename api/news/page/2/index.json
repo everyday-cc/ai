@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-11-indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19.md",
+      "title": "Indian researchers develop AI that may help in the fight against Covid-19",
+      "excerpt": "Given limited testing facilities for Covid-19, there's a rush to develop AI tools for quick analysis using X-rays. Experts say it can be very useful in smaller towns where access to CT scans is poor",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/11/full/1620721373-4459.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
+      "publishedDateTime": "2021-05-11T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-nvidia-3050-laptops-bring-rtx-for-less-prices-start-at-799.md",
       "title": "NVIDIA 3050 laptops bring RTX for less: Prices start at $799",
       "excerpt": "NVIDIA revealed their new laptop gaming graphics processors and a series of notebooks that’ll house them. These laptops have the ability to deliver DLSS and RT Gaming, 60FPS+",
@@ -772,7 +816,7 @@
       "originalUrl": "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1159,48 +1203,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-ponyai-unveils-its-next-gen-robotaxi-with-lidar-from-luminar.md",
-      "title": "Pony.ai unveils its next-gen robotaxi with LIDAR from Luminar",
-      "excerpt": "Pony.ai’s next-generation robotaxi is distinctive because it appears to be missing the cone-shaped LIDAR sensor perched on the roof that’s typical of most autonomous vehicles. That’s because the startup,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/ponyai-unveils-its-next-gen-robotaxi-with-lidar-from-luminar/ar-BB1gyQE1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/8Z1I9ZGVVF03oCVeCijlVQaVkMc=/0x0:2085x1178/1400x933/filters:focal(877x423:1209x755):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69262019/Ponyai_Luminar_01.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china",
-      "publishedDateTime": "2021-05-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china",
-        "domain": "theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

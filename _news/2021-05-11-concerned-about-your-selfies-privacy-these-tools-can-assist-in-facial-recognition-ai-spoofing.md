@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/concerned-about-your-selfies-privacy-these-to
 webUrl: "https://techstory.in/concerned-about-your-selfies-privacy-these-tools-can-assist-in-facial-recognition-ai-spoofing/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 526
     isCached: true
+
+related:
+  - title: "Top 8 AI-Powered Privacy Tools To Fool Facial Recognition Systems"
+    excerpt: "While governments of different countries have placed mild to strict restrictions on such tech, there still seems to be a lot of scepticism and fear around."
+    publishedDateTime: 2021-05-12T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-ai-powered-privacy-tools-to-fool-facial-recognition-systems/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/FacialRecognition_AIM.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "aCMSQ2nfiPMs8TanEklnIksBhgZUmfhdxJTlU5yb4xkGGwH6XJMRaTe8uvijww7pktsksuRikvbNQz5yYe9Fgt2V5YyCleRKe/FbSAX1M7DBakYa272Rx0kVXG3Yt4ANQ1OC3cnTrtVUlU+FeIqQ6bk8QSv7kEkzM5H7h4OJ/adQdZzhbZJVwvRI+jeXU6EgRzGEolKF8hEclmJjYg/y2nzFQWbabjnf8Hyo8P03vuCGVmZtP8pPCTjW1PpXovvORBqpBRYAVaOtytoOL7/JJHGGAjfUoC/1jOlzvYVyJ9L02Z7qxo/w7lWdKX5Q+v0nKg0gwmuBZe8Y1dej3X1vbCcjInpCJ0f7F/i9/FEHLXpWd5rWomzmEeULszSM0wqy3X5Xt029Opnmk3WYqQa3y7mBoSwytjnqjtqVKgxVfowZkM7IoYQJNn1RAb9JDvq4G518H17VRR5i+0Kp5Pe6SDutyX4Q/v/GwNjWPpArt8hmOoPLQzH4GXrrQCKspH5F56iEVo84p2AJC1rrrJHhDA==;z8VFqwi+jNJCL+0pwF9XWw=="
 ---

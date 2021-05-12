@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla is making conflicting statements about its full self-driving tech"
-    excerpt: "Tesla Inc (NASDAQ:TSLA) told a regulator in California that its full self-driving technology might not be ready by the end of the year. However, that statement directly conflicts with what CEO Elon Musk said on the company’s fourth-quarter earnings call in January."
-    publishedDateTime: 2021-05-07T13:36:00Z
-    webUrl: "https://www.entrepreneur.com/article/371394"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/371394"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371394"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-371394.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
     excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
     publishedDateTime: 2021-05-07T22:33:00Z
@@ -242,20 +226,6 @@ related:
       - url: "https://cdni.rt.com/files/2021.05/xxl/6095772985f54070963db5e7.JPG"
         width: 1240
         height: 697
-        isCached: true
-  - title: "Don’t expect actual self-driving cars from Tesla this year"
-    excerpt: "After Elon Musk stated in a January earnings call that he was highly confident that a Tesla vehicle would “be able to drive itself with reliability in excess of human this year,” there’s a good possibility that won’t actually come to fruition."
-    publishedDateTime: 2021-05-07T14:14:00Z
-    webUrl: "https://knowtechie.com/dont-expect-actual-self-driving-cars-from-tesla-this-year/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/10/tesla-y-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’ – TechCrunch"
     excerpt: "What Tesla CEO Elon Musk says publicly in regards to the firm’s progress on a completely autonomous driving system doesn’t match up with “engineering actuality,” in line with a memo that summarizes a gathering between California regulators and workers on the automaker."

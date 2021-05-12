@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-se
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 471
     isCached: true
-
-related:
-  - title: "Using AI to augment public health services"
-    excerpt: "Out of the COVID-19 pandemic, key use cases are showing the effectiveness of AI tools to speed agencies' response to public crisis."
-    publishedDateTime: 2021-05-07T14:26:00Z
-    webUrl: "https://www.fedscoop.com/radio/using-ai-to-augment-public-health-services/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/05/GoogleCloud_public-health_Header.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "oHFpLu/7o+QD2Ubl360UPUOor2US/UHM94r3vT35BcWcRC5DZmXCEYzrxSXXqJQq9K18EhQu/hsLwEotwamKfkeAqwoz/rlDBUF/jQthZVbQarW8vhZsaKDmsSv0nUA9igACsEQH6SGAxFoHKtgakLZzbS7mkGeN5OEHxiv4P+nKMSKutWer1d3b8jN7VMVYPUG4VqZaja1h/21AprjMov/8C+yqp1QOigxu1N9BoXqF/DImUsBySNlmfREpMjFgIrR9ZzZayNVHbt3tD/N0FRSXNqkdpE071F2onJ8pJX5hGC6TYrxlOJJqUI3FJ3h9FliwjsJvwUJ2aj9IpNhWRo9F1MUuYKWFEeKrHHWp5kw=;gSNuB2ps+CY/uNDsSPL3rg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/indian-rese
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
 type: article
 quality: 60
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/abnvyo/article34533819.ece/ALTERNATES/LANDSCAPE_615/introbot-2"
         width: 615
         height: 384
+        isCached: true
+  - title: "Artificial intelligence that can detect sarcasm in social media developed"
+    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well."
+    publishedDateTime: 2021-05-12T06:01:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/05/12/1600x900/photo-1554177255-61502b352de3_1620799135211_1620799139809.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
@@ -99,6 +115,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
+    excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
+    publishedDateTime: 2021-05-12T06:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210511/3754375.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
 
 secured: "WZzhT8KkZ9UtCwNVVhtHUTJDwfMmnY2LfSOjdZHN8I+zPDTjabVHB6iBfxGhL9HutRs0/dR0TQJhH4yflcmfqBSe2Dw4Rm+XVQH+ZaIDIk20D7XMQDtpZlgJO6RYlqOKM51EGFu+B6eUmEMOXAE4CgkWjqg38we4o5BS4ysrd3v5gYUqYuvr8DbjULQMilkbteTsg0/V8+Gllz5iAmCiL8ZpnaJYgFnBn6nQvD5gPGq+ORP/baT8AAYL+Sx7N+GRJePaasNE+suhLCbnXRV+MSMOjgM8s4r1KCr4KW0w6HgQMJfsnzFJwDVHEMeUhddhmsxkEwlLGlrx4hCVXPOG8d4+bkAKMGd2lOlY89KGTrRJKLLpwT9wZBYxAxgzLR8MdAIkaeF38tn8KxSolIa/KCUax/c4JgW/vajAjl+/8y3Tr+SK5K4Bjymixw8Op/CrecGCp8G4gsWroyR9u4mMcKjy+PmPXuYSkSDK6v3ibv8MhXo8tR3m6tv9d4ecI45Xxp4J52rHF4gMOis04oXEyg==;1tQxgDI955QkMOKWm95dPA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-mac
 webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-13-3-127-780x470.png"
         width: 780
         height: 470
-        isCached: true
-  - title: "Industrial Machine Vision Lens Market to See Incredible Growth By 2026"
-    excerpt: "Industrial Machine Vision Lens Market is predicted to grow with a CAGR of 6.1% over the forecast period by generating a revenue of $9,537.4 million by 2026. Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine,"
-    publishedDateTime: 2021-05-07T13:25:00Z
-    webUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 24
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/6-12.png"
-        width: 628
-        height: 385
         isCached: true
   - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
     excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"

@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-19-what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare.md",
+      "title": "What a potential sale of IBM's Watson Health means for AI in healthcare",
+      "excerpt": "Experts say the hype got ahead of the engineering but that doesn't mean algorithms can't make healthcare smarter and reduce costs too. Success with artificial intelligence in healthcare depends on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/",
+      "originalUrl": "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-assessment-of-medication-self-administration-using-artificial-intelligence.md",
+      "title": "Assessment of medication self-administration using artificial intelligence",
+      "excerpt": "Artificial intelligence coupled with wireless home sensors can monitor the use of insulin pens and inhalers by patients and alert of errors in self-medication in an unobtrusive manner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41591-021-01273-1",
+      "originalUrl": "https://www.nature.com/articles/s41591-021-01273-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-021-01273-1/MediaObjects/41591_2021_1273_Fig2_HTML.png",
+          "width": 685,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-artificial-intelligence-system-detects-errors-when-medication-is-self-administered.md",
       "title": "Artificial intelligence system detects errors when medication is self-administered",
       "excerpt": "From swallowing pills to injecting insulin, patients frequently administer their own medication. But they don't always get it right. Improper adherence to doctors' orders is commonplace, accounting for thousands of deaths and billions of dollars in medical costs annually.",

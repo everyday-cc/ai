@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rek
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
-    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
-    publishedDateTime: 2021-05-07T14:19:00Z
-    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
   - title: "Civil liberty groups question facial recognition France tech rollout"
     excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."
     publishedDateTime: 2021-05-10T07:01:00Z
@@ -95,7 +81,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
+    quality: 23
 
 secured: "/tlqT+vQUS15xU1GGcma/x3HrwbOXwk6ZwQWKAi4ViWq/2Kx9sDWC4K85FZOQzbKrVLz0Mt9Gwr5uhbNvH1Ra2NSDDoVnwlYC+kEK33GbkYSXE0/tprx0Tyb3uOvXrEZT8xyUenNAAYTheOlCDDgDcIIhoxlqJpL7ZDWCLbf/iIIuRxq844VG9Fq8B6TczhDykkIjjrX1qjmvy6pddZZWuyOUGDmqOQrIEnjTNzrLOBLOtblYYwIxVJqbM5PCyeVejGGJo2fE5kPxmVWgXyZbJMnOAXVI4Crqo4yJokC9RhcVTTl/MpUWY/6EwaT1jh4mDk6B8SrZ+6zx+CdpY3uqNxfh+UmxRpVlKdZ5hfnOqNAVN1jWYSJTiyvrdHNSbGPpqp5PZgtQZRMt7NBHQsToXoitaVkFsggEA4JDv+rnWr8L2/3+wnBzqTKd7uhTc65Vcku9SY3BL0n8abSAIaiUcJroyGgQRJeZvL9gDAyOGCJzPjNO4hKAN4MhQ54HPawc2nQzl83pthmOGorN05gRA==;whW2RJg6BKPaCs8qexC8Ig=="
 ---

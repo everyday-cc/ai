@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-12T04:00:00Z
 originalUrl: "https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452"
 webUrl: "https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452"
 type: article
-quality: 19
+quality: 23
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
+  - AI Ethics
 
 related:
   - title: "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches"
@@ -34,20 +36,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
-    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
-    publishedDateTime: 2021-05-07T14:19:00Z
-    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
         isCached: true
   - title: "Civil liberty groups question facial recognition France tech rollout"
     excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."

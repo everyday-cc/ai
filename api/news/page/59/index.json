@@ -2,6 +2,180 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-03-12-professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read.md",
+      "title": "Professionals complain of eye problems; doctors call it ‘Computer Vision Syndrome’; read",
+      "excerpt": "Experts say the pandemic has lead to an increase in computer and mobile usage, leading to serious eye issues that range from visual fatigue, and headaches to more complicated problems, like dry eyes, blurred vision, double vision, irritation, watering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
+      "originalUrl": "https://www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/3/2021_3$largeimg_602738258.jpg",
+          "width": 660,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
+      "publishedDateTime": "2021-03-12T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-microsoft-seeing-ai-imagining-a-new-use-for-computer-vision.md",
+      "title": "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision",
+      "excerpt": "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg",
+          "width": 1665,
+          "height": 1158,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-baidu-to-build-intelligent-driving-project-in-chengdu.md",
+      "title": "Baidu to build intelligent-driving project in Chengdu",
+      "excerpt": "Under the 105 million yuan ($16 million) deal, Baidu will develop 30 kilometers of intelligent connected roads, build a 5G-based intelligent connected vehicle demonstration zone, and provide self-driving bus and taxi services to local residents ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/baidu-build-intelligent-driving-project-chengdu",
+      "originalUrl": "https://www.autonews.com/china/baidu-build-intelligent-driving-project-chengdu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20Apollo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-nuport-robotics-to-conduct-self-driving-middle-mile-truck-project.md",
+      "title": "NuPort Robotics to conduct self-driving middle-mile truck project",
+      "excerpt": "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
+      "originalUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insights.globalspec.com/images/assets/158/16158/Canadian_Tire.jpg",
+          "width": 752,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure.md",
       "title": "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure",
       "excerpt": "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management",
@@ -893,179 +1067,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions.md",
-      "title": "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions",
-      "excerpt": "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-scientific-machine-learning-and-hpc-ai-technology-convergence.md",
-      "title": "Scientific Machine Learning and HPC-AI Technology Convergence",
-      "excerpt": "Some of the most well-known examples of the use of machine learning technics in science applications are the detection and classification of gravitational-waves signals from LIGO and Virgo in astrophysics [1], the recent DeepMind Alpha-Fold2 capabilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
-      "originalUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/03/Illustration-2-HPC-AI.png",
-          "width": 300,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucking-technology.md",
-      "title": "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology",
-      "excerpt": "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5",
-      "originalUrl": "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-cisco-adds-real-time-translation-to-webex-video-meetings.md",
-      "title": "Cisco Adds Real-Time Translation to Webex Video Meetings",
-      "excerpt": "Audio is automatically translated into text for each participant using a choice of over 100 different languages.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

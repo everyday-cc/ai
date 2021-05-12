@@ -41,22 +41,6 @@ related:
         width: 768
         height: 424
         isCached: true
-  - title: "Best of Both Worlds: Artificial Intelligence Makes Great Microscopes Better Than Ever"
-    excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data. To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy,"
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/"
-    ampWebUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/Fish-Heart-777x466.jpg"
-        width: 777
-        height: 466
-        isCached: true
 
 secured: "K9qBQFUAn8knWvyeqD8D+taGExh0WIWAQQnzLUkayBJeSpH8n1/J5fHMIqgNoyVXLjQpIm2x+iDQ6GPgvp3V4g8yX1WhvdF7K+POXuqzICLx/PlooW+TdgaAeADSYwlG0ImVkuM2Vsa8y4CBA5oCVo8R8JptW/I64h9jcOKzwoKDHxNpcmlCDMe7p3PDiiL8w2CcYDcSp6wmrNHiAMer4a0WIINimvp/L82axxGRlGqEuA2mFTtF/7lDvJMd5vD02QQ9HiiyV2uDOGudHY48x7t49OrrglK9eafuBh3MP5SmgvR1ePJutsNRWaSCqHkMdzdUrZH2Zd2Ud8qekoJ9fpQeeQ/CcvvDge2DUkjwHzA=;ZjPLfglyrhoi2og7ZZTBPQ=="
 ---

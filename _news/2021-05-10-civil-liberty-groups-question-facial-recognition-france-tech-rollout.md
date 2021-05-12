@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
-    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
-    publishedDateTime: 2021-05-07T14:19:00Z
-    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
   - title: "OMS to offer facial recognition ID verification service"
     excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
     publishedDateTime: 2021-05-11T10:26:00Z
@@ -91,7 +77,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
+    quality: 23
 
 secured: "2fWC2e/8K9GB1io7X37nnq8QTbK2IsS5bR+IUlhhEyd/+p+dswDCwGfpws/8dRhpiloec8k6OrdnNDMSMgCIFyRKfTDAUeK30TXjPPfAXAsYmmSX+asl+6c0t6TH7+zZehuitd5dTce0I1P9uh4mmZwTh14drJ9+IpxQhRtqaJ0GLAHH6p9HOXQ+kFbrHIcPX9qeebsZJ/CuG4v6rnzjoyxz3B09bBMmaXc3uRUjzkk9diMwakw0PCljC+smymHiB5rZCSp6gT6bV5rHcURnryvBjICee6wHrO5195MhiwsdqXj07gMEggMgj2Iu2B4P9hTX5H5Tfcfg0zxS5/UyYXJ5T3/qpkU5uGWfgpZe1HIsEiA6BEiNbAxA+IHuWS45jZrhNELgsMxbHzkN/ISdO/9wvDvMRwAbmBmRlaMc629K+VStCjTfVruZKqkaQFFPT1OU6ZYkzHUChsgpnmxHTrI0a3/Xadtviuj0BOFw6gZP2pHNTbbCsQq/AC7N//lsiobk6OmN7mRmrlKcPkUdPw==;UtLsw5qEzmOCeMAObkdnRw=="
 ---

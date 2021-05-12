@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/05/07/germany-artificial-i
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: UPI.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D."
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
-    ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Artificial intelligence makes great microscopes better than ever"
     excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
     publishedDateTime: 2021-05-08T21:54:00Z

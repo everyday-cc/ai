@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
-    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
-    publishedDateTime: 2021-05-07T14:19:00Z
-    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
   - title: "Civil liberty groups question facial recognition France tech rollout"
     excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."
     publishedDateTime: 2021-05-10T07:01:00Z
@@ -91,7 +77,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
+    quality: 23
 
 secured: "PFgkBeMjXbR47zRRvvUsZb4Kgv4BsoPccZSqE07rkcka+9JFwifJcXRfUl8qJfSJC4cfvRXHiC/iPsPME4HwXfOk5FYL86zyt4GSojfRJMfs2oYVkKPpABlQTK0700l2G6Uj0u2Pv1r1TC9G+9U/GefFIaI9xLhW97YiV1jPodfziqLBdS6TweRU7ex/Ll1PHlBJBv35yDvekiZzpKAvQCMMPosFE+2PSgDC0+ET7eKTjSejslMb9EyZM4yor+MFzyMOpxt+Lez/NSHZR5NASQXS6UoiJI6K8X6q/R6xuIVGLdOjXDVypBCj2Ka1JQmZBYArKHOdiU8qcefxYB9sEJ/+eaFtE+CKjgc29jhrx27waciQTMgFCQlwyMTiz1Dqi2/dQH40TGsoZX1VidDrD+hL6Ll0B9BtAzaVdolPo/ETcjwLB8rHeO/SiPxjUlIx3rxWeM7yIH2P6s1CFsd5eKKwWp2AKDNdQ94vxI64blVOoQtfGG9l18mo5xKIw9dwJqAhzBMetAjsTaGJ+LchcA==;wDQa/5Mdrr8rVlSgEdQI+w=="
 ---

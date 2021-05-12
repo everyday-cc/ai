@@ -41,20 +41,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "IBM unveils world’s first 2-nanometer chip technology"
-    excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-    publishedDateTime: 2021-05-07T13:07:00Z
-    webUrl: "https://www.the-star.co.ke/business/kenya/2021-05-07-ibm-unveils-worlds-first-2-nanometer-chip-technology/"
-    type: article
-    provider:
-      name: The Star
-      domain: the-star.co.ke
-    quality: 39
-    images:
-      - url: "https://lh3.googleusercontent.com/kdBSZ7hbGK7yYR4SA2V9KEhUbkLT_p6K6-FGGUA_jGFwYJiyc4mX6v6VVgNfrRCkt8hK-6iLpKlyQAXGt1RtCjXvzDXZERGtwcWl8cdQUQ=s1000"
-        width: 1000
-        height: 605
-        isCached: true
   - title: "IBM Unveils World’s First 2 Nanometer Chip Technology"
     excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 Kenya breaking news | Kenya news today |"
     publishedDateTime: 2021-05-08T00:52:00Z

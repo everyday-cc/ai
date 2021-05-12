@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-07-artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound.md",
+      "title": "Artificial Intelligence Aids Radiologist to classify Masses in Breast Ultrasound",
+      "excerpt": "Artificial intelligence (AI) is gaining extensive attention for its excellent performance in image-recognition tasks and increasingly applied in breast ultrasound. In a recent study presented at",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "originalUrl": "https://medicaldialogues.in/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2021/05/05/152210-koios.jpg",
+          "width": 1024,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "publishedDateTime": "2021-05-07T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-how-voice-ai-is-changing-the-way-people-order-food.md",
+      "title": "How Voice AI Is Changing The Way People Order Food",
+      "excerpt": "As consumers continue to leverage voice-to-order from restaurants and voice-enabled technology continues to thrive, it’s clear that voice AI solutions should be a priority for restaurant leaders across the country this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
+      "publishedDateTime": "2021-05-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring.md",
       "title": "Battling Bias: Why Employers Should Not Fear AI For Diversity Hiring",
       "excerpt": "As more businesses look to achieve workplace equality this year, they will have to overcome a significant barrier to successful DE&I recruitment: unconscious bias.",
@@ -1128,109 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-ai-is-helping-nvidia-improve-us-postal-service-delivery.md",
-      "title": "How AI is helping Nvidia improve U.S. Postal Service delivery",
-      "excerpt": "Nvidia says it's helping the U.S. Postal Service to expedite and improve the reliability of mail delivery using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
-      "originalUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Postal-worker-e1620240510105.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/",
-      "publishedDateTime": "2021-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-the-global-chip-shortage-wont-ease-soon.md",
-      "title": "The Global Chip Shortage Won’t Ease Soon",
-      "excerpt": "The world is suffering from a systemic shortage of chips. What is causing these shortages, and when will it improve? Answers to those questions are included here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6092ecffb9d2b51f419d4448%2F0x0.png%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D20%26cropY2%3D611",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/amp/",
-      "publishedDateTime": "2021-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

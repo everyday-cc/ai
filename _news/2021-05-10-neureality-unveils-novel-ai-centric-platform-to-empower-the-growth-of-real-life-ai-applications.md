@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Discover the power of your sexuality with AI"
-    excerpt: "AI-powered platform Sexence has designed an app to help users navigate the fields of sexual health, well-being and pleasure."
-    publishedDateTime: 2021-05-09T06:50:00Z
-    webUrl: "https://www.israel21c.org/discover-the-power-of-your-sexuality-with-ai/"
+  - title: "Artificial intelligence is driving online sales to a new reality"
+    excerpt: "Online retailers have been given a phenomenal sales boost during the pandemic with so many physical stores closed. And those which use"
+    publishedDateTime: 2021-05-12T06:43:00Z
+    webUrl: "https://think.ing.com/articles/artificial-intelligence-steers-acceleration-of-online-retail-in-the-right-direction/"
     type: article
     provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
+      name: ING
+      domain: ing.com
+    quality: 54
     images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/04/main.jpg"
-        width: 1600
-        height: 904
+      - url: "https://think.ing.com/uploads/hero/_w800h450/11789706h.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "Y7zAmrDzaqoJeUBPYxx5Uw2FUBJug46tRn7E701wWwprBUfBgImnKMG9e+UywCPpXnrG984LjK/bOcJd8LnQitHtiy6f8LCyDQqfO5SiECllHMbMbnN2If5tUgdGe8/35deEaQ3V6sIQvbPOR5MYYOw3QMUVRwPCwf1urMx09kIsxiDTEsLiB1gLmwrLMScVivp6N2TVcxgw5B1+PdeEaX6UIHuUpeyqGtIHgcxBi62qdbyVCaU4xXsS9bafNDshQ0RlN0puu6KH2FmX4r6Ekk5AlrUUZccAtSFG/Pcm4WuWVBcxdukFy+lUvslNxy0RvW9IK1OrZEUUKHtxi+O8bgqaz88eYTKw7daYJy7jm74=;3LICSc6klL0sfa6G7zZYOQ=="
