@@ -55,20 +55,6 @@ related:
         width: 343
         height: 510
         isCached: true
-  - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
-    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
-    publishedDateTime: 2021-05-07T10:25:00Z
-    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
-        width: 948
-        height: 710
-        isCached: true
   - title: "OMS to offer facial recognition ID verification service"
     excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
     publishedDateTime: 2021-05-11T10:26:00Z

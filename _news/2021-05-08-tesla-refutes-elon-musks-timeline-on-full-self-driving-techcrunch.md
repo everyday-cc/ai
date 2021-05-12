@@ -271,20 +271,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Tesla’s self-driving tech may still have some ground to cover"
-    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
-    publishedDateTime: 2021-05-07T09:20:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Tesla and the self-driving vehicle industry need federal oversight"
     excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
     publishedDateTime: 2021-05-11T10:05:00Z

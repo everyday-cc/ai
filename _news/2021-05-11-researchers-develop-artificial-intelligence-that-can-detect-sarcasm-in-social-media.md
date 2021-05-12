@@ -87,22 +87,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "DRDO develops artificial intelligence algorithm to detect Covid-19 presence from chest X-rays"
-    excerpt: "\"It can be a very useful tool especially in smaller towns in our country owing to lack of easy access to CT scans.\""
-    publishedDateTime: 2021-05-07T09:14:00Z
-    webUrl: "https://indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/"
-    ampWebUrl: "https://indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 48
-    images:
-      - url: "https://images.indianexpress.com/2021/05/delhi-hospital.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z

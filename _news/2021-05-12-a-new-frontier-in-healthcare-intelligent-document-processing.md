@@ -1,18 +1,18 @@
 ---
 category: news
 title: "A New Frontier in Healthcare Intelligent Document Processing"
-excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new"
+excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new capabilities represent a new frontier"
 publishedDateTime: 2021-05-11T20:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/a-new-frontier-in-healthcare-intelligent-document-processing-301289175.html"
-webUrl: "https://www.prnewswire.com/news-releases/a-new-frontier-in-healthcare-intelligent-document-processing-301289175.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/a-new-frontier-in-healthcare-intelligent-document-processing/article_94e88779-e899-59d7-a96f-061463144d26.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/a-new-frontier-in-healthcare-intelligent-document-processing/article_94e88779-e899-59d7-a96f-061463144d26.html"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/c7/ac7cb0d5-c639-5bcd-a982-c9709df24c9e/609aed17dd852.image.jpg?resize=573%2C234"
+    width: 573
+    height: 234
     isCached: true
 
 related:
@@ -40,21 +40,7 @@ related:
         width: 800
         height: 321
         isCached: true
-  - title: "NICE Revolutionizes Contact Center Recording with the Launch of InterACT, the Industry's Only AI-Powered Agile Recording Solution"
-    excerpt: "NICE today announced it is transforming the way contact centers manage interaction recording with the launch of InterACT. A new AI-powered recording solution, InterACT automates end-to-end recording decisioning processes,"
-    publishedDateTime: 2021-05-07T10:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-19792748.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "t1MlciOY28kPEoNcA/ILwLJgpRcueoHvqbJyTguSOd3ZBB7O+DTq531v+PHAm/R4yT6IG2CqCYGE6RKpkOsI3wm/dETPbkIuQNF8dCyaVHCCAYSewIjKiP4c2ySy2bQGJ5uhky3mVkz0MGtnv78qkyGGY4SJQA7e4q6mCrJ4UUv1TFsOeLlEJjJhk57r3lUAOXmcWhvkpdBUz254pm6BUsmc4F9dLmDd3n1o5+q1iSw6DyXRi3+qlW14zugA+inQgtS/0hzGhxeiMN8YwTv0a+QUiLLxBE3L7XjSLBsKo23fQBHtFRp7SxSAbdWqSzwPmtfbDARtFcZG+nsWbRbYHZVwzXCU7FdmJOiyLJFZFdI=;WhLctUdaSKZLnuxYCsb9KA=="
+secured: "IBQjriXP/2H/EEkqgMmScapghhid/H/nlJXFOqLhP248Fk6JcJ/PtLe8Y72QwsLFJmX+Qdh16cnHsOItW93MzhCB9tthUPEABMaHBR1bFWEkdIj5qJq5vGI/QvZFBUrNg4qcMYs8TUSyoh99d7Tu3G6IIP2Vo4AF5KaaxykyEgEdgBvU3Sp9a3qyP/PPfTK+TH7W3S080nLStDPBOvZ8/6k2GscMx4SytiC/e+7h/dMmCOJPsD4aJdvfx5rgV4RN+AbiuZcMA04AzINZDS+0WeGupFelsWdmQ5FjflhCKXOo5/h3VtJV4rbh3P0KbsUBaeKhSeHMGTwSUZjBoHZfbYe1I3Id+6oP7piOwg48Y9I=;1Cwl4WdivrDMDsyRjCmNJw=="
 ---
 

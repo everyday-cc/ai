@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/indian-rese
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
 type: article
 quality: 60
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://media.wkyc.com/assets/WKYC/images/3c9c9308-39b5-4292-94c3-64320c64cf07/3c9c9308-39b5-4292-94c3-64320c64cf07_1140x641.png"
         width: 1140
         height: 641
-        isCached: true
-  - title: "DRDO develops artificial intelligence algorithm to detect Covid-19 presence from chest X-rays"
-    excerpt: "\"It can be a very useful tool especially in smaller towns in our country owing to lack of easy access to CT scans.\""
-    publishedDateTime: 2021-05-07T09:14:00Z
-    webUrl: "https://indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/"
-    ampWebUrl: "https://indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/drdo-develops-artificial-intelligence-algorithm-to-detect-covid-19-presence-from-chest-x-rays-7305758/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 48
-    images:
-      - url: "https://images.indianexpress.com/2021/05/delhi-hospital.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."

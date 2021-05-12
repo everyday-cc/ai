@@ -53,6 +53,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
+    excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
+    publishedDateTime: 2021-05-12T03:42:00Z
+    webUrl: "https://ksusentinel.com/2021/05/12/deep-learning-software-market-is-growing-worlwide-analysis-by-keyplayers-microsoft-trint-google-amazon-web-services-nuance-communications-ibm/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
 
 secured: "EfQL2pXKHGA8drvFGWLbZ29nyk2y67HYvrMS60hkBrvI8gP6GSCHl1UkVF2v0WPbDyLeqUyGn7eYNmSjuSSpNuMP3mscYlwzM8FQaSGgWn98Vw1XXMtE+Q3vRhlOhelxlJPZ/HIAtLMvZMps8PJaQhG2GKxoIgVKdSNDjTzm5MfUrQoBu6FCqED52VI7TOFHmdmAwL0ETjnkjqngdnR5DB9ziW2geF+s6SnL1yj31irlI9ctZjhXtrWFCD2CBXEbjA1BGuPYxMvZ45D19fqMJOfj2QH0Zw11D/utKQi7QuH5ZvRUDMVFaDCBWAGtUdu7YlnXC4yrc9bom/9yT62cn3s9Pn/+hDbRU5/9l9BOsA8=;NT0XZvFZkebX1j8gZ1miFg=="
 ---
