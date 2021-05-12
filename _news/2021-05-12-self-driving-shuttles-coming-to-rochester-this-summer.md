@@ -41,6 +41,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "TuSimple Reports Receiving 6,775 Orders For Its Self-Driving Electric Truck"
+    excerpt: "Self-driving trucking company TuSimple Holdings (NASDAQ: TSP) said on Monday it scored 1,000 new bookings in April and added 1,200 in the first quarter, taking its total booking to 6,775 trucks so far."
+    publishedDateTime: 2021-05-11T09:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tusimple-reports-receiving-6-775-orders-for-its-self-driving-electric-truck-1030413058"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/operations2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Self-driving VW electric minibuses in ride-sharing trial"
     excerpt: "The driverless future is a step nearer but, for all the scheme’s cleverness, will it reduce traffic as claimed – and do we really want it?"
     publishedDateTime: 2021-05-12T11:00:00Z

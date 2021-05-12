@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "OMS partners with Nivo to offer facial recognition"
-    excerpt: "One Mortgage System (OMS) has partnered with Nivo, a mobile messaging platform to offer facial recognition ID verification."
-    publishedDateTime: 2021-05-11T03:00:00Z
-    webUrl: "https://www.mortgageintroducer.com/oms-partners-nivo-facial-recognition/"
+  - title: "The Politics of Recognition vs. Redistribution"
+    excerpt: "Progressive politics based on an honest assessment of the multiple crises of today can only succeed if it includes all sectors of society."
+    publishedDateTime: 2021-05-12T12:30:00Z
+    webUrl: "https://www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/"
+    ampWebUrl: "https://www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/amp/"
     type: article
     provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 39
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 46
     images:
-      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2020/06/shutterstock_395378116.jpg"
-        width: 616
-        height: 370
-        isCached: true
-  - title: "One Mortgage System signs facial recognition deal with Nivo"
-    excerpt: "Platform One Mortgage System has partnered with tech firm Nivo to offer facial recognition verification. The Horsham-based platform says the new system helps navigate the previous requirement for certified ID,"
-    publishedDateTime: 2021-05-11T14:21:00Z
-    webUrl: "https://www.mortgagestrategy.co.uk/news/one-mortgage-system-signs-facial-recognition-deal-with-nivo/"
-    type: article
-    provider:
-      name: Mortgage Strategy
-      domain: mortgagestrategy.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn.mortgagestrategy.co.uk/content/uploads/2019/06/p34-Neal-Jannels.jpg"
-        width: 960
-        height: 640
+      - url: "https://www.fairobserver.com/wp-content/uploads/2021/05/Marine-Le-Pen.jpg"
+        width: 938
+        height: 450
         isCached: true
 
 secured: "7qSl16u8Alx+fBCmYG/rY7FssM9BSe87QAQxTudG/u/r/2J+pxEpXv/ZNzxpuoOjPLJ5aPQBnZjOytH0R3JB108sUGZ8eZGqBnyDCxz0hOrov9bwKNa383zOCRQ+odqh+RLdoLGm2XVtN7ZeYNPaNi6Il2BEjVjtDyi/fYaZtQyqUq9vI4iZOpd6AedrCMmidl+WO+34G8e69cSu8hdUPEHQOHacqlL1zN5ia5ijVnWd+6ct0SH9LM9Ks9CuWCMweu2f+EwjwaduLHCa0q9l0bu22UlafIqiHluLjQCaO13cUkjei8CWn4r1F/sQ5UclQaEQiUV6rOhMKLRZ+gwWTUnkQh4vIsKZjoo0A6SSokA=;8gqSjivyZgtEcOD0KA35Vw=="

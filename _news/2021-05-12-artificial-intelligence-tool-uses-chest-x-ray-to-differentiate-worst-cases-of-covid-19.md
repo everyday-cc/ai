@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
-excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which"
-publishedDateTime: 2021-05-12T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
+title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+publishedDateTime: 2021-05-12T09:00:00Z
+originalUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1506782/NPJDig_Med_Image1.jpg?p=facebook"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
     width: 1618
-    height: 846
+    height: 1400
     isCached: true
 
 related:
@@ -134,6 +136,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "JsW4u8sWDzE51uT9qfCJqeAXj9kIIHMR5/cVZMTH3djWrT+d2pdgJQAyXFLIm3ptqjd5DwFkNGrYYwBZ311SbH4ihuu7Hk5b0pGDWtBRXHXejjpiMtzNC2XtVBxWhaUzHgJzuw89ryzYDkXFgW+7ZRAXhfbKJ4/xzjwiCS4OVWZGUWLCk8l0sa4CyavHmzNQ68WBz1To38X1bt51zRgWqQAcgeo8cSMWhtByMdm1XdEVfogzz0UGC916PShU0y0NYz4X1JxixykIyLs52nLUt8Ji3TCib34hzQ76d9Cifb+NjkS6u2Fp7OuUKmyZYLb6v+W+zl6UTBvGh8QM91J52Fz5JM/xviw+fTsLwHlTVEo=;0EewjibcbC0V9DqCdYvNZQ=="
+secured: "/BVtw0BHkRhssKI/6vno3FmBqr0MRXiUy3m72xp7LDEKpcYHCZyM9NWne7fwq7EQwwvxTT3RPcInO0q/5VYwV9QhG9aGq24dd8J8LlenJcmEruT50Pezbkv2j7VwaTgrdJMsNAltMl/t5IRJMCxJKvG6DyKs3/4g7nSJRgqnGOXa6ZN3VGiNJgEm+26nKOSFIy0cslQSSGhsO2S+JqIge80Nc7QiSrCJbWfZ6CdbI/uZZfMsT/E6onJfT4s7mAdPIeCZZVdXP5eMi31c9dXZqOCg3dnuwyzC0lkRS1mC6iCXCnRW5RilGDQPBSg0s8pCrYdK5TCTIG/pVuaPCkJ6hzqY/Rhfvjf+nTKfG5zDK7E=;5SCOQD+pQ3ZHaUnDrvV/QQ=="
 ---
 

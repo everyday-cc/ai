@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning.md",
-      "title": "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning",
-      "excerpt": "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/",
-      "originalUrl": "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/04/wits-university.jpg",
-          "width": 960,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techfinancials",
-        "domain": "techfinancials.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-05-11-iit-hyderabad-invites-applications-for-free-online-course-on-deep-learning-for-computer-vision.md",
       "title": "IIT Hyderabad Invites Applications for Free Online Course on Deep Learning for Computer Vision",
       "excerpt": "IIT Hyderabad has offered a free online course on deep learning for computer vision on the NPTEL platform of the Ministry of Education",
@@ -221,6 +177,58 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-harnessing-the-power-of-machine-learning-with-mlops.md",
+      "title": "Harnessing the power of machine learning with MLOps",
+      "excerpt": "MLOps is a relatively new discipline that draws on operations teams, data scientists, and software developers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/",
+      "originalUrl": "https://venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/data_share.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/amp/",
+      "publishedDateTime": "2021-05-07T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -422,6 +430,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-understanding-self-supervised-learning-in-machine-learning.md",
+      "title": "Understanding Self-Supervised Learning in Machine Learning",
+      "excerpt": "Teaching machines how to learn is the basis of self-supervised learning. Source: iStock/Design Circle Self-supervised learning (SSL) is gaining a larger foothold in the world of machine learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
+      "originalUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.techopedia.com/images/uploads/self-supervised-learning.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1350,40 +1401,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-01T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-autoggn-a-gene-graph-network-automl-tool-for-multi-omics-research.md",
-      "title": "AutoGGN: A Gene Graph Network AutoML Tool for Multi-Omics Research",
-      "excerpt": "Here, we proposed a new multimodal method called AutoGGN to aggregate multi-omics data and molecular interaction networks based on graph convolutional neural networks. We evaluated AutoGGN using two different tasks: cancer type classification and single-cell stage classification.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/PPR/PPR319172",
-      "originalUrl": "https://europepmc.org/article/PPR/PPR319172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Europe PMC",

@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "DataRobot Joins World Economic Forum Initiative to Advance the Equity, Accountability, and Transparency of Artificial Intelligence"
+    excerpt: "DataRobot joined the World Economic Forum initiative to advance the equity, accountability, and transparency of AI and machine learning."
+    publishedDateTime: 2021-05-12T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210512005559/en/DataRobot-Joins-World-Economic-Forum-Initiative-to-Advance-the-Equity-Accountability-and-Transparency-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "6+8CRldY8GyadVoMWguPva0kEtUdVl4cE3VTD6a0wWqCNZNL0ehoGaflxmorg2Z5acpcKd3PlipxJNBAG+w+Y5aR2CTI3Thstchay3CwfH1C9qta5+o5Ua5//XpErlt/IrwW8tuINhTgV+eX+5bzQnUp2x+n+akVInPx6uSgJKXdYQHbFlrw4Bt7ZowT4t9rIvpz2W+6yth2pJqSJpr/0futWNxDWqrAErJjKqq8jYK0Rc18IyvGqz32G4M1NO/5p8l6fEGl+H1SmbC66KU8e/g5OWpHdXS5d/+dUsJltf6KpwrQTG4Dni2Pr4fAjIQO/aAqXaO9eVMsVbkf2Ga97+6u7KW33+zv1T9TLpHVJ5z0TYDZp34fSdT1vBHv+IrTd31wVOy4ikYk24uTlcWq2R+Dl6cgyMgxhPMCdNLXdnzVrBlIaxTZIBqIV9aJ3B06YR2beqvWAQiX9wN0aBR6B/8sKSdkrH+gwS7S3TeE2kYXRMFHoCgFI9Ru2W6khAu4qsvziz26RP30KHG7kLRigA==;fdsTf+n3JCQQxq1SjPmP0Q=="
 ---

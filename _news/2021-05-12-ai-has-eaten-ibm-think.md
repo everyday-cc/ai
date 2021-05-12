@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 131
 published: true
 
 provider:
@@ -64,36 +64,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
-    excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
-    publishedDateTime: 2021-05-11T20:30:00Z
-    webUrl: "https://thenextweb.com/news/ibm-think-2021-kicks-off-with-ai-innovations-and-some-interesting-quantum-news"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fthink-og.jpg&signature=e9c5be7ecec54f08f3a2ec819aa82374"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
-    excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
-    publishedDateTime: 2021-05-12T10:56:00Z
-    webUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/"
-    ampWebUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-Digitization-AI-Hybrid.png"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
     excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
     publishedDateTime: 2021-05-12T03:45:00Z
@@ -110,31 +80,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "At Think conference, IBM puts AI and hybrid cloud to work"
-    excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
-    publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://siliconangle.com/2021/05/11/think-conference-ibm-puts-ai-hybrid-cloud-work/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
-        width: 768
-        height: 499
-        isCached: true
-  - title: "IBM doubles down on AI and hybrid cloud"
-    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
-    publishedDateTime: 2021-05-11T04:04:00Z
-    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
-    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience"
     excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic."
     publishedDateTime: 2021-05-12T10:45:00Z

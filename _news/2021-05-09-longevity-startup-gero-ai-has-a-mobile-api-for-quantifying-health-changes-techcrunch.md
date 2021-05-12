@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Longevity startup Gero AI has a mobile API for quantifying health changes"
-    excerpt: "Sensor data from smartphones and wearables can meaningfully predict an individual’s ‘biological age’ and resilience to stress, according to Gero AI. The ‘longevity’ startup — which condenses its mission to the pithy goal of “hacking complex diseases and"
-    publishedDateTime: 2021-05-07T20:34:00Z
-    webUrl: "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/"
-    ampWebUrl: "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/"
+  - title: "Expert.ai Adds New Features to Its Natural Language API"
+    excerpt: "API developed by Expert.ai, an artificial intelligence platform for language understanding, boasts new advancements of features for its analysis capabilities according to a recent press release. Extracting emotions on a large-scale and identifying stylometric — meaning the application of the study of linguistic style — data that propels a complete fingerprint of content remains among the biggest challenges of AI developers within the NL ecosystem."
+    publishedDateTime: 2021-05-12T13:07:00Z
+    webUrl: "https://www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/"
+    ampWebUrl: "https://www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/Gero_team-1.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "i3i687DmLktvTv9SuHLj3YCbCF+qfO4FxRO50GkJB2J5OaTgnkxOw6qai26lOfd1SK0EGn1Ew+9wojrUQwpBNXAbksnAuyaSJ/uFsW1czIOBOJanBsjJOwLBucgiizsYsP7THE2/KqZDdI+UiJz+xkncXxMlmUEi+J8MXq7fGuYUxb+ghn4u7Wx6k0UBKcnCbYouWMEkb0VoNr+maeBaQFsZ6O5y6KjcInmtiMBX3h6LKQdj/S7ovR9ILutZoOt1emkpS3wsRer27gId2QPPXkRLqFI2FFLbFVoigYeYtRv1k4CK8ySgQI1FzDrYKJE+/7OFjzm3ZgV03KgwdTtlR9VJYxgkBxS2MEaEOtJ/ZZg=;4fZojUfJ1H0X5/gXImf5MA=="

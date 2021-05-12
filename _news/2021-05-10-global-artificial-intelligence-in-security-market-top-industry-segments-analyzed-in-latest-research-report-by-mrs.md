@@ -44,6 +44,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
+    excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"
+    publishedDateTime: 2021-05-12T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2283763/new-study-global-artificial-intelligence-ai-in-drug"
+    ampWebUrl: "https://www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
   - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
     publishedDateTime: 2021-05-10T12:48:00Z

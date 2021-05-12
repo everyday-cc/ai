@@ -59,6 +59,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+    publishedDateTime: 2021-05-12T09:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
+        width: 1618
+        height: 1400
+        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."
     publishedDateTime: 2021-05-11T14:01:00Z
@@ -95,20 +111,6 @@ related:
       - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which"
-    publishedDateTime: 2021-05-12T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1506782/NPJDig_Med_Image1.jpg?p=facebook"
-        width: 1618
-        height: 846
         isCached: true
   - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
     excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."

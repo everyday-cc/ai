@@ -43,6 +43,17 @@ related:
         width: 572
         height: 341
         isCached: true
+  - title: "New Research Report On Artificial Intelligence (AI) in Healthcare Market Is Growing In Huge Demand In 2020-2027"
+    excerpt: "The Global Artificial Intelligence AI in Healthcare Market analyzes growth and gives a clear impression on the international market regarding improvement and modernization It includes Artificial Intelligence AI in Healthcare Market development history competitive analysis and key shareholding regions The"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.openpr.com/news/2283734/new-research-report-on-artificial-intelligence-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
 
 secured: "ur9L4aUAYleTGo47RVHrqOk8UKjAA7AgiojILhAvtXQ7RvjSfOwZ/cgLdsZIucilid9BWVLx987eYXpdSqSqjWoQXvqbLjx/ZP3ZwrojrqFi35v7w477pBVkPMqNyoDs77ACI8rTqj7DTrZWNZJWp9STHGGQr8Gtha1EQjd9+LfqCt1rtg0RkM55pxOCVS/02n79i9S7dQJNuYy1Tih6Uo4CyiP83CUJExB2V08GmC4oIXt0d8zpc+Ph0wRLSpivCPiLu5dpk1EoUQ0mQ26aXY8IHkq/+dXVYOCdts/qFmLaPJmGln1/JZxlengCmkX7iiNG09zz9QauCFZiyk9mKpLC8dhAkUBWCPI/IUl23Nw2XUWfAG8liKCubZXidszuwhxUJpjoUDLfOgpaexOx3y9Aihh00qXF3O5tkDnpn+r7/3bfWFdI5tYOHZo/ZVojEv4BB/dO+RYvek98cNXH/rCktEiQTpGy6s9BfKNz944Dg4KUleEtwW3g1th8W5Spz7XDQ7G62W9D7j5Gy0e7EA==;o+BwcOVf5ydg8x8+m27acw=="
 ---

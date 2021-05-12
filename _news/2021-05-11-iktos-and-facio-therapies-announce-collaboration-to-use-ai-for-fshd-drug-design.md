@@ -2,22 +2,28 @@
 category: news
 title: "Iktos and Facio Therapies Announce Collaboration to Use AI for FSHD Drug Design"
 excerpt: "Iktos, a company specialized in Artificial Intelligence for new drug design, and Facio Therapies, a drug discovery and development company focused on developing treatments for facioscapulohumeral dystrophy (FSHD),"
-publishedDateTime: 2021-05-11T10:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210510006014/en/Iktos-and-Facio-Therapies-Announce-Collaboration-to-Use-AI-for-FSHD-Drug-Design"
-webUrl: "https://www.businesswire.com/news/home/20210510006014/en/Iktos-and-Facio-Therapies-Announce-Collaboration-to-Use-AI-for-FSHD-Drug-Design"
+publishedDateTime: 2021-05-11T06:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/europe-health-technology-business-4c070335a3014ec8b366c615b7fcd171"
+webUrl: "https://apnews.com/press-release/business-wire/europe-health-technology-business-4c070335a3014ec8b366c615b7fcd171"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "F3/NlgwjHzjoaXjFxm4QER88+XdB+A/NIF23OtmGBRlzn0Nl4C77RTDitFI5gogRkPDUJbzjBBq38smHZTyVyax0j76VMwi8+k2erT8/bWCoSY/OQBowgx+zGJY+NVYHLT3vByFn5fcFonYjjWMgb7cSgUaB9nn+qA1RGoGI+tiZOEFZ700lAzK7BRom0H7iKG2WDYMnwZszOS5Mu/TUa3jyOPcxZ01ecoUN1Sp8IUH+KWtkG9jE//WhhIzqv9AUmE3yYLC8UUzq554Wr/gU4e2chu4xIdlWt5hJnhkiLAVxZNq0GcOSUkZLOIgcozZCb/xVr4zO17BPhoZM7tVGcXp4o5coYkMjUyUtcZjAUGA=;qc2uGyDXbS7vgRZys2EvnA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "DIhkDwNlGa03u9m0vBmKNjHAxrfznC+qjS9bqj5U95iojD6f+EQm6w76avz2hWAKza9vK9E019A/dXFk4G+yFODKOV61HnAsumIHXjhf/iMlom9YrUQyoABu0lXdbZw9y61YJu7pOsfHmTLgUFBdZIxo2bSVxRt9l4l/9QxI5tA1Iz7BErMumZD6aIZyREoYmEca7ZPp8tVq89gsla4SK41I3Y0r4aKZukY7xQqznfoWawQqO6ssxL6jvEgjAbGJ8v2ul5pkSCro+9AoORVY7rvk1AyUxoD7HU1xTSk0eqdDw9ja4e+8XzuhYYANLpJOCE7mOVXQ4aMJUZDz+CyJEmn27Kf0LyDw/DwQgUMW5ws=;wRrfVcFdiGpNFBRXbrWf9w=="
 ---
 

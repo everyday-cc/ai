@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning"
-    excerpt: "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning."
-    publishedDateTime: 2021-05-11T11:44:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/"
+  - title: "DeepMind Leverages Nash Equilibrium To Tackle Fundamental ML Problems"
+    excerpt: "DeepMind has introduced an approach modeled on game theory to help solve fundamental machine learning problems."
+    publishedDateTime: 2021-05-12T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-leverages-nash-equilibrium-to-tackle-fundamental-ml-problems/"
     type: article
     provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 51
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
     images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/04/wits-university.jpg"
-        width: 960
-        height: 480
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/DeepMind-Leverages-Nash-Equilibrium-To-Tackle-Fundamental-ML-Problem.jpg"
+        width: 2240
+        height: 1260
         isCached: true
-  - title: "Google-linked DeepMind launches scholarships in South Africa"
-    excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."
-    publishedDateTime: 2021-05-11T13:57:00Z
-    webUrl: "https://mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html"
-    ampWebUrl: "https://mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
 
 secured: "c6RwdTxty5EVDWMr67sT6rLp1jBnxcY//s2gfxOvux7eObuKHxwatMVVWxFNMrGdkPupYGTaHZbPEK9GbkhFGzkFZ28Nvczts8Hv+mh6i1N64lRRngiGCuyeW6cEIokSlD/kI5L0y5JYg1CZyLspyfafJChOD2bXBtd/r8+a+UDcPVg/9MWBMtESQwWFrZVzaG8/79nlNiHj0pT3/DLfTkTgrRphocJt9TntfdWYfnq+xxSv6wHsKk3YC0jrsccS16e8vGN8ezR3gzHYBifOhvc524gNXKon0bd+NOdKuK8AbFIL+l0kyVxTAMuLUNDm1DL9H3h1yWQT6yoGlYQ58tsG5wBOnrjRCLfMD6HHg/I337xX4qo91ek4HouAjESnp2ZX9qisvq2j4Q8wXnIfafYt2fuVYIoV3YJklB7RG/KupEJr+Ja14T3wi7D8Z+BTI035xQU3BgH0xtCKUc3AhgT0aAoMs1Z+lcT508B3j+IsEHmzCHTDw0h8vvLJyEITr7LlRPUAf5JK46MQyJprUw==;tPH9dpqqeii0I6rkw0d8Cg=="
 ---

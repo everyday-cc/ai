@@ -1,18 +1,18 @@
 ---
 category: news
 title: "XCO and Atlazo Announce Joint Venture to Commercialize Virtual Healthcare Products Leveraging Edge AI System-on-Chip Technology"
-excerpt: "XCO Tech Inc. and Atlazo, Inc. have announced the formation of Recon Health Inc., a joint venture to commercialize a portfolio of"
+excerpt: "XCO Tech Inc. and Atlazo, Inc. have announced the formation of Recon Health Inc., a joint venture to commercialize a"
 publishedDateTime: 2021-05-10T20:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system-on-chip-technology-301287902.html"
-webUrl: "https://www.prnewswire.com/news-releases/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system-on-chip-technology-301287902.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system/article_0d1e6a2e-48ff-57fa-bf0b-b68061e41b97.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system/article_0d1e6a2e-48ff-57fa-bf0b-b68061e41b97.html"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
@@ -20,11 +20,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1506874/Virtual_Care_Patch.jpg?p=facebook"
-    width: 1919
-    height: 1005
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c7/3c7d6d13-f279-5e29-8e82-f83204fb91aa/60999bb0eba41.image.jpg?resize=1118%2C630"
+    width: 1118
+    height: 630
     isCached: true
 
-secured: "7DR5V3btfUcMlSgUlIlmJMcxVjzVttMgGVwt+TUVMEPLCsLwoUtys7Ars9bzq1V7ddAyHGWYnX89sJVu1ZgCDOIlfxkiV93AWy3CzVk1la3euVlKCXA22tbG6C4gkzx6xanuBoswObw9TvDmZDicrMPTZQVjDHw6m5bmK1dHtkBj/cc0wbJwK0ew8ODaEwZwemmmwFXxHT9RfMOEoL9NX8gQDPkM+uM/X9BN73zRY421c5pigmAthEfFxAU4lCQRr8Nt/0Cnog0oMSRIxepeLYLS7B2xMQgGFalJA67p0N0sskG1CB+SRi04IKM3wp9jS2+aAud1y/gnF9mlOQ6tzTRvKgxka8wD+38NhOX30Yg=;a4yeLNTNETfCqICZ5DZtKQ=="
+secured: "pPq6nV/iG98TZKf2Uc5nz1Sk71njTE27r7msQgwkVTisd8IYU5qbPu5JB5Eku/LTKlBWxjyElaaSzdjaGGj45x+76x8apF9KI7mOS6zY4KU+m+eSQcGnJrdrjerEp3da/dfbptuPqJ7fPB3HFzjIWN/rQ00c20VzBnt+mxAcbKnk9qBGhotMhHhG4QzDdbS+HonJcZ6EZvNH4JU4FVU3sm2oInEpxTRIla+AO4VM8k4D1JkeVgwmeHDWfFb3Q0EIadjL0B026vshEnoigjYnacNGqgdqIpPvZ5cATF/kzWVyQlGJ9FyFnbmOtUEWTBREcglTMTuuls+7pdNHb9eqLJ55wgYD6InOdIIcPTs67/0=;dzneygJwu1FPEIQJ160ozw=="
 ---
 

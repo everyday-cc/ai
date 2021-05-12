@@ -1,25 +1,29 @@
 ---
 category: news
 title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
-excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI"
-publishedDateTime: 2021-05-11T00:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/ab21050171/wimi-hologram-cloud-leads-high-simulation-5g-and-ai-naked-eye-vision-while-the-holographic-confer"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21050171/wimi-hologram-cloud-leads-high-simulation-5g-and-ai-naked-eye-vision-while-the-holographic-confer"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21050171"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21050171"
+excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
+publishedDateTime: 2021-05-11T01:54:00Z
+originalUrl: "https://www.digitaljournal.com/pr/wimi-hologram-cloud-leads-high-simulation-5g-and-ai-naked-eye-vision-while-the-holographic-conference-unveiled-at-shanghai-auto-show"
+webUrl: "https://www.digitaljournal.com/pr/wimi-hologram-cloud-leads-high-simulation-5g-and-ai-naked-eye-vision-while-the-holographic-conference-unveiled-at-shanghai-auto-show"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Finance
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/03/fb_image-1097-600x337.jpeg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True"
@@ -34,6 +38,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "WxnIuDMvmDSA5BEIdUNLHwmNfFn/EDajHdCtqHh3FRX4PHBjMsPVelwGFHUTeCUXt8Oe8vTRboTusSziCBDNghn5L1AP0C9hpRk7mtoN0aK6CRW97RrViIoTfcCwPOUFIJV2DllHfGxp9KfM33sp44QmxnX+DPCCrElGXcyCokGKNqZ/CgZzKJelDJiIqMgkqIq/U4hsT7WIhL7nlA4T6UEBoHNp76lsReGHoqQtGV/ZxaGoA0O/RlokosN8HMhoSlVnzh/SzWEaQSqcD6awCgxho/5X//CKZUH83z/w3JyaHk54dkGTi27+CReQ69zoaJ07MYJqMmE8akLMaHzfenOHvpoBenYJFS8rhkgTe74=;0tlhTfBCmwdticOs2Mhwkg=="
+secured: "N+DAIXfqFAEbkYV+3k8MSek2Ody0dX1SwJ33Y1tTKsLQllRrnp852/q3EC3/fqploYuPGVF3JzcJH6VMFIfME0iAepU9bjwj5/ylKQX7kCMDZYCpKy01XL50b51VZVUQ1QvvIdzIaUdeAKwPilY4YRUNkptAkFj78EIPKnlVkIHViHV6t0gqWtqa9O4J8RmsJ+mYPXBRlDoLEkH1KR7kNZKC39Lq0xBNJSCnPcuFg3/+NGDnniVzKhp9TCR37TJhoUV3ayCUzvCXNCRhO0e+5UGuDy97B6RvcisqsGGQ6Etc/ofEVMDFho72anxw2In2JVmR7n7pBjf9qJ8acnaA8zmD5YsB7Vwoe+LiiYNkdIc=;L/36LOdqdVUifQi7dQSLmw=="
 ---
 

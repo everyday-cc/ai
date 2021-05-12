@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/2021/05/11/datarobot-refreshes-ai-platfor
 webUrl: "https://www.datanami.com/2021/05/11/datarobot-refreshes-ai-platform-nabs-zepl/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: datanami.com
@@ -39,6 +39,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "DataRobot Joins World Economic Forum Initiative to Advance the Equity, Accountability, and Transparency of Artificial Intelligence"
+    excerpt: "DataRobot joined the World Economic Forum initiative to advance the equity, accountability, and transparency of AI and machine learning."
+    publishedDateTime: 2021-05-12T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210512005559/en/DataRobot-Joins-World-Economic-Forum-Initiative-to-Advance-the-Equity-Accountability-and-Transparency-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "KaFfqEezzZHnCfwffUhwv15WRnJP4AIpEPvBRJ3garou+c+4DTjByQBC45bru2afxs8s29XlxY3kPfH7ryzmj9UELz4bK0ImqiBltqEBKvLo+Nd6voEfiNWNKFbGz2JmyCkAFcILuhJc0rHiBdCX1ozC8n/dMoOkYbBDnYFXVPuJSw8spgl2GhwkTxW4EHv8GiJyXW2NAvJtyTLS+oeMMhjjIxrsM5khHDEZRrE0qJvVOQVfCIgN7LZKPimiaT9UJER0VdpJ7ZcqAbOAidSnhIAS9KOG+o1iISurhYcz9SJfzD1zSJP5p7Acs7yyeUJspTncQJmsq5R8cGjHlXg1YuiYBPT0MpeQWnL58b5zmZNwlCze9oGSWIH4LbLTRkR/KYWTudV4eHoAorwXA36/8d6W05yrWL0OYtrSl5R0BR8SAE0Gj9dDP6fwJw29zlaMXNCSAESmmWV5In0/39kPev53fhc518IBlbTQI9PVUhd60mu0DyVYV/DYDjJta8YlbNj3QAawT8bZodW1ar7gCw==;rI2dUnJkEjVjht9XfEnBDA=="
 ---

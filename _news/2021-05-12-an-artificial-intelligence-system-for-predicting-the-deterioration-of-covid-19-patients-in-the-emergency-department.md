@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+    publishedDateTime: 2021-05-12T09:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
+        width: 1618
+        height: 1400
+        isCached: true
   - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
     excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
     publishedDateTime: 2021-05-11T15:49:00Z
@@ -110,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which"
-    publishedDateTime: 2021-05-12T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1506782/NPJDig_Med_Image1.jpg?p=facebook"
-        width: 1618
-        height: 846
-        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
     publishedDateTime: 2021-05-12T06:14:00Z
@@ -134,6 +136,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "CkjipQ2vWnJZKIFnE5iIrMVrdW1LWHiR8ctNqRQY9NAbjJBXPcgKSCBBkWE+dO9cc1peVxTi9Lf0YOdh49e8DVKiECebvdWJfcod7UZRsUREFSV9hLzlV5KuJA1lEK0AG4lG7/ZzvVcLpax4BIVE8Fk25NLduC7DotdYI0TXHp54AiRUpHjk4Sys0ZOLxzJvaYFDrZ5kpYZwno6djj7ApvjtuoMzBzU6poiDWORdlbiTs6AUwbyeXTTabACfjAiMj0cmlbwVi9rYiurNEHbPzaSwOfH/CBpr9iNtewEXo5VQV6ueSsKZSG/Ci8VydV8UZmKvEmIhp+xwUrBFttz3hWPzy6yeJXr8MT2FUOEGIlo=;ua8+03UskgCDhsgqj+H9dA=="
+secured: "FtkiJbQHhCP7XRgGVzXyKwTrJ0edgifWn1WFJ2WgRFlSA4qNuNSkp4bWvtmlqaaw4i1qbP85L7YzYduq8nwP1gxtEzQitqtEEaAS3Iy3nQ7OuGUOIFy/xhalMOtTKzAHMTueio0j4zJGwVEqFO/aYu/7/hSr95pal7WBMzxOB/H7deWEK2Av6oP50VvOiSZLZjGjyMkVt6FosU6drISe8/DKTKNftTnVlhwRO0GIFIoAKi86XP94r1bYMerQBRilhFJLtfBvMzOUueHTiQc3AOqfboltVqSexQ6CWUkBY+20kz9o3oihgwM4LJ6uXYTeyLB77o1Lx3K7mUnn8TPs5f7PgfNuJ9Yyk8o5QKey/7wQP8ptCa2zejug7f5E2KYxCuC5KQ6Z01ki7f6BRJIm0adktWonmtD+u1EtVjYx1+zdyfIco5Dg7tlAs2PXJuqnPpdajJf5orT2AdEt70YZnyB48nrXJggbBT63TrLF6Nl7Y1L9n10VSoiYdUgZGsiLgeXy4VZy3oNKTDqGMRSxCQ==;T0FsmhbrDrYkFYn3GjFX6w=="
 ---
 

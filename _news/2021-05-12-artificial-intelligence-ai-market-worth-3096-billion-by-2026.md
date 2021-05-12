@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2283574/artificial-intelligence-ai-market
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "New Research Report On Artificial Intelligence (AI) in Healthcare Market Is Growing In Huge Demand In 2020-2027"
+    excerpt: "The Global Artificial Intelligence AI in Healthcare Market analyzes growth and gives a clear impression on the international market regarding improvement and modernization It includes Artificial Intelligence AI in Healthcare Market development history competitive analysis and key shareholding regions The"
+    publishedDateTime: 2021-05-12T12:00:00Z
+    webUrl: "https://www.openpr.com/news/2283734/new-research-report-on-artificial-intelligence-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
 
 secured: "XGS9egQcey96CcHDry63CO/uWSgHix04bdjoLVqSTRxzCEVs2Dk4CDCkaIeJGCzj/mH4LNT2/eBbAgz+1jABVzia2Fl98/sda7BaCCcXwrBkceWf3mX+PYTvf0Ch49lAt4b/sE1yryR1RFYPXxFZZQEwTeyn/ZoYt5zpeKHUkJjnY8r9h2finOh2VE62Df7iNa7ToBLa8fjbEQlhp8aJaaQMBjphq2ZAVxenGaI5+j93yCzxGHsM6UfmKp9/uX8Je70Zl6BfEuS4/DUO31wPSbDL0YHsCX00Z63h9ncDwKOD+6Qc+JIz0CZAr51Nya/cMdUgejcVxMKD00Jjc8TNLB8og10cr3bUCGVyeNMbNac=;Trd5ouNQtmvncGUW1sYpuQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets"
 excerpt: "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI"
 publishedDateTime: 2021-05-12T09:17:00Z
-originalUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
+webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 43
 
-secured: "4jfg4ke2vBiJhtksciZ+iefeOy1CC6wcxGOAglsax78C6Cm1rj4negaflSpYeST+fzcByaw1FXr17Uduy2dlj1ZyYLeED6EX/ozfrb3HN9s/wWT7B7bRoQ8IutVe3THBnN1hC8aV2X4EEIIoZjz8s4v1YBmts+64C+sL6KcUKsdA5KlyXi65M4v0T1/OsK4ciPDqQAkGTecbQghwtKH2KVGAsIWaF0omUnh69g/5XMLOv2byUdaOfA8VgaTpYllfAFISrp1EuurBiv5ZLOxRM6V4fYwZc3U4oAnM+ZNIty8SAT8u1fH1i535qrrkHOVJy8WlkeoNrMGZihPhwdTt5quGqedNABNV8e5dVIKaIeY=;5QbRKAfV5CXi1fnVVbi28w=="
+secured: "+XaV4kCmRdcE1ZuHnYsrR/eHUBGrZfwxi/2bNtCTiIHr/W8dyfobQEuO1/pPyIrq0N/LmF3CpWDpn2bQuGNk7ljWNPouHYYloj9w+PnILNAkBWbU2CszJeF9xjwHL3+rkzhhdq7mHBghNGprsIFx4pvKx5i2nxsOxzDiW6mCr0X9m7oPlaG0xYEJXsVHvRgiAv07Vr/H/Ts2kHuhwIR5L2szMXbZujZIB3LTbeZfyzSN0Fhjk0/iDALTdNiWeQZAOGcxity1lx6MnoJdy2DpnopLEZVO183MjENLcli/1Gxz4+N/O0SOGLNvaR9eF2awG6lGZVYgr5fBHzYs0VqAXRTybSqLst7rpESpe5L7mqA=;VhBIcx0uCmXuzqPnCf3iaA=="
 ---
 

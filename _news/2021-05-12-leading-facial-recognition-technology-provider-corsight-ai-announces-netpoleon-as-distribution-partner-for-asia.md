@@ -26,7 +26,7 @@ related:
   - title: "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets"
     excerpt: "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI"
     publishedDateTime: 2021-05-12T09:17:00Z
-    webUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav"
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
     type: article

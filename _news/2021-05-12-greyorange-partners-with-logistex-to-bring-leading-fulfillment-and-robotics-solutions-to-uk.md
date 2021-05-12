@@ -24,6 +24,17 @@ images:
     height: 304
     isCached: true
 
+related:
+  - title: "GreyOrange Partners with Logistex Limited to Bring Leading Fulfillment and Robotics Solutions to the UK"
+    excerpt: "GreyOrange, a global software and robotics provider that leverages artificial intelligence and machine learning to optimize fulfillment operations, today announced a partnership with Logistex Limited (Logistex),"
+    publishedDateTime: 2021-05-12T13:31:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/greyorange-partners-with-logistex-limited-to-bring-leading-fulfillment-and-robotics-solutions-to-the-uk/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 18
+
 secured: "iViT8giZ9x59QNyKtmBeBDdCLmx5J2w3mof9XQTkYsX9gbwf8wYspxUiDznJQFQf+hbQFIIYKC3c03RaHnUeZSlYCdX/kLUB0pQAWmpIx2fA30gKoWkcodHTJYIciDrHXphl6bQ+CKL3R+0jWcuPGyuloQtkcq8iM67ioMCdwyBA1nndT/gR2VxqKB3oI7lCRi3gikZtPSjeHK45XbQK9vDGF4Wyib/XzdcIJa40ucDYetVpL5nmwVoUXDkaaEHmIhl4XRkedwmsOS5GScwaQgqpKqno5fpD+FkSdlaP9fQDjhTmcg95jTFzrHqHEZRE9biWMLiyZ/L6Nn/MQLJbyu89BR7YF6XcMvNRArG7+lN/M2AyW7yJPxI1EDSzmZURePatO2NSW9/kUCjT6qE54FuSC5LplXojqR9aN6SXr159+IPojPAB3pp6ZVeAG62eqfGmcFPdZ2cFZ8rKCp1j6XRs758lnNGmGs7FRFarnS4Mg4sPOs1OIWcYuQhhAKb7xvHIRgQFdPCUzT84Dq3Qpg==;TlmAhmv4MlfrAinP3Oqdlg=="
 ---
 
