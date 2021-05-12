@@ -83,6 +83,15 @@ related:
         width: 1000
         height: 645
         isCached: true
+  - title: "Emotion recognition: can AI detect human feelings from a face?"
+    excerpt: "Its founder, a former teacher, Vicky Lim, says it reads the children’s feelings correctly about 85 per cent of the time. The popularity of the software has exploded during the pandemic, with the number of schools using 4 Little Trees in Hong Kong growing from 34 to 83 over the past year,"
+    publishedDateTime: 2021-05-12T04:00:00Z
+    webUrl: "https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "pVxaEz7Ey2Jjveez1PC6BeKC2h4g3861CreZ7pnR3C1kUpYw/5R0GO+DwDc5FQAIrPwOip8XZiXJEohES243wftCxYhmBaFO5YQ4IcqQ3jhyUA8kNvi/jdnyc4w6U3oF4BtFEwhjqdVvVO4J2CkcY8EbLTgn4SivkTe4xwjGYfIKxmDIfgJtY0eQB7nGD2kEoi/5MlzJja2K7KPxJtGtADuXVGmifF08CDM99py6/8wDNyRMBu2AzzDQkcf1ik6Yr7EMBJfylj+Ks+pAQ45yuB2h82CXyBR53zo4ezdDfzmVJD/AXGs+ABEHAj4gsn8ZHLpdnSB+9Vgbly4zblAKD5nQHr4Lwb7zF+iQ2IkewQb/TCNBaJJGeTVDYAmv6xhFHqTKojSMS41GHeBHpe+yGsQOlITLLfh/LbsHfC/CJ1rJLjB71mu/rhZZEet4vAa6ohlJjecD+JwyC/IiO55HAGqf4YzVWFswq2PB8UYUxqq5H2Gt/n2vDNc2e5apbKulMEwTQ8O4E+1vfCY0M8F1cg==;ZVV0euXcF78tMr5yE1hPFg=="
 ---

@@ -88,6 +88,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
+    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
+    publishedDateTime: 2021-05-12T03:45:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "IBM doubles down on AI and hybrid cloud"
     excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
     publishedDateTime: 2021-05-11T04:04:00Z
@@ -99,6 +115,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is"
+    publishedDateTime: 2021-05-12T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
+        isCached: true
 
 secured: "z6k2ozfBU3GU97ze8sGm8P/C9xa0Z6kaq9cxDQ602421e4vX3RHxb/y+k6b6abdRGMTW5TADIvRV7ubeK9Gj3KfDYuAofEEV32G9avJa2kxf1p0zynFA7IxBsUq0nqx77DTwBWmm5DZ281ofxbsO7xdGYVLcHwVJxtVEeb3KsxTN2qPu2mXfLg6nX4vCuYb65LDCIxyR9lt/APLVLz4W6ME42p9A9ZQr/ovaRFN43aUfbj0VjSzUSRT/NIgfP4BolBB/DnXk02xDzAp1uQuTXU2XJfu+CANufKs6pUip3RlcGtyqkECU3WyTB4FrAt0MCbX5Kg7s01Or2FeQ+gb82uGPND/VuWSTKScfOU7PftLRb1moDAq75Y8TA1bxhyiAwlYPIRTgcq+duhif+D6TDFGNiipwknzd47Wrqbst/5lB6dt41lfm3GlLHEDJITjrLelV/HtOGEf+TL/nLdcHBR6tl0MxxG79xDW/QG4l95q2HUtdhCBjrp1AWbGQJBqvXzAI9ooLUA439ja/JArcPw==;s2mOP4RUanPfEqcQpX2eEQ=="
 ---

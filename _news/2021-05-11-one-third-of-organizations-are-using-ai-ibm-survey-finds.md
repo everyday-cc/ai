@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
+    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
+    publishedDateTime: 2021-05-12T03:45:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "At Think conference, IBM puts AI and hybrid cloud to work"
     excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
     publishedDateTime: 2021-05-11T04:01:00Z
@@ -101,6 +117,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is"
+    publishedDateTime: 2021-05-12T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
+        isCached: true
 
 secured: "Vbt4mVGxXyf2KYPJCPPmSvugxwpHm7qgPIkYdkKHuN6AxIwjpBY/RwPOF4+DFVSYvPt+I5bzegEgTgtlsv9KTKPUWdqaTrS39GX+SiVD70bGM5xC60DCVY4jiI8M529fXBTqRsTnJcoYWiqvMFqf8XBMia9YxQxtobnYi2NO1T8vEi9c5hxwzGrBErOKUX1U1wmzMGzufTvMwBLDiWMCiL979Pa3fbFeZuXpmpc36bd1oh80H3rL5m6DhsnvWvBLjfZz+s7rERq0yFxNkAzCCw5PbKEnpHsCGcaBqqX/pipn1wWSIayMJyCZhB44gIfb4dZUhXa4WhVR+uuIwVXOOjL4izRaOhyeY+fiQyHFAPPWy+pmzy/V5tL5vbWi+/2lomfQFQxahNw/lEz30KZDm3EV6ObF3Fk7MmmeGary2HjXmNdYCUphoyrvEgCpGKIjPT9lpJHixpjuuzF3R67c7bcrODG5z54Iyw9lzNMNZ93PbJgAirfAhFqa6QP1HFkSFuRb/IMAs9p6/8xMoxPwXA==;m1rBdxvqmKGOWH+dAlSHpQ=="
 ---

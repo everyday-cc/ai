@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-11T17:56:00Z
 originalUrl: "https://www.wraltechwire.com/2021/05/11/ibm-enters-digital-century-in-full-force-with-deeper-embrace-of-cloud-ai-says-ceo/"
 webUrl: "https://www.wraltechwire.com/2021/05/11/ibm-enters-digital-century-in-full-force-with-deeper-embrace-of-cloud-ai-says-ceo/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"

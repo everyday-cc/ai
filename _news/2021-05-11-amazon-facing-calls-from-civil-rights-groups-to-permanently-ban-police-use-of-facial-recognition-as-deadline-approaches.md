@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rek
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Emotion recognition: can AI detect human feelings from a face?"
+    excerpt: "Its founder, a former teacher, Vicky Lim, says it reads the children’s feelings correctly about 85 per cent of the time. The popularity of the software has exploded during the pandemic, with the number of schools using 4 Little Trees in Hong Kong growing from 34 to 83 over the past year,"
+    publishedDateTime: 2021-05-12T04:00:00Z
+    webUrl: "https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "/tlqT+vQUS15xU1GGcma/x3HrwbOXwk6ZwQWKAi4ViWq/2Kx9sDWC4K85FZOQzbKrVLz0Mt9Gwr5uhbNvH1Ra2NSDDoVnwlYC+kEK33GbkYSXE0/tprx0Tyb3uOvXrEZT8xyUenNAAYTheOlCDDgDcIIhoxlqJpL7ZDWCLbf/iIIuRxq844VG9Fq8B6TczhDykkIjjrX1qjmvy6pddZZWuyOUGDmqOQrIEnjTNzrLOBLOtblYYwIxVJqbM5PCyeVejGGJo2fE5kPxmVWgXyZbJMnOAXVI4Crqo4yJokC9RhcVTTl/MpUWY/6EwaT1jh4mDk6B8SrZ+6zx+CdpY3uqNxfh+UmxRpVlKdZ5hfnOqNAVN1jWYSJTiyvrdHNSbGPpqp5PZgtQZRMt7NBHQsToXoitaVkFsggEA4JDv+rnWr8L2/3+wnBzqTKd7uhTc65Vcku9SY3BL0n8abSAIaiUcJroyGgQRJeZvL9gDAyOGCJzPjNO4hKAN4MhQ54HPawc2nQzl83pthmOGorN05gRA==;whW2RJg6BKPaCs8qexC8Ig=="
 ---

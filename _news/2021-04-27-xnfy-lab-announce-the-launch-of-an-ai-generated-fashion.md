@@ -1,24 +1,20 @@
 ---
 category: news
 title: "XNFY Lab Announce the Launch of an AI Generated Fashion"
-excerpt: "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,"
-publishedDateTime: 2021-04-27T02:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886"
-webUrl: "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886"
+excerpt: "EVOLUTION OF OUR AI GENERATED FASHION Overall, Microsoft Azure Machine Learning enhances the business potential for fashion by empowering researchers to collaborate, improve, train and deploy AI ..."
+publishedDateTime: 2021-04-27T09:03:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52690478-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52690478-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-008.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "XujXHmq9S09nq2YvSip+ly2cvhsrakxKqC0E0OE+l3/R4VOcqWAQ4x33mXcidJXsP4uZg5oX+lbsMPKg7P2kjM1OBAqCWpRPaxsnK1aqPErngYP4iNrqPhNqajsdp2W7aFAtA7OgDYN4xYOahE9x3tBDMbfrtY88vCPA/hfjEP/dzLj/ESDRuNFROgFqsCOTB0CxCnRx6MRfbCxavK/1bHFXi9zupP/h9hXyu8J0XuYXIrP9TTJW7MOOLMukVg9MUJ8hiH6cSECLAZFePuFpF7yA5rAudz/U34Y6nj3f4l02F96Dp1usRxgocnIZ+ihfKgWfDHe5RxsHj0Q3O3tdur3SYEQ+kAH1vdMCgRVc6qY=;H1Ystvybsqrtmlvrcm8Lyw=="
+secured: "dL5Ql5jyb1tmSwu8oNNMP/BcT93FE8lQPgnEsepUodSuimYp9PSv1D1XVpPv6kDfgkNQxXWm1JIOwsWWFxZDxyNE6dwpY5Mk0AGcDFS4yCVoUIqVrlomg+TLixFYXGXQDcBwgTgi/FHLTPQMA+DTOB5JXKmKSID6eoCwKw+hKGyFabTaN6PYqfWWNETijmFlhFIxMXDfS5Xd0QOshzIn8MoC+ieidFsfgmILjQ9g/vr0yAilHkDd7xd2DXbLMTfiroSgFg1yVNYbQwUFaL8d7j+3VSF1TUtYxP25tbyABiwBveMvvqTKDN3u1wm/RFuHQ6S6Ihg+VmspVnYntJpwG125a43auPpqidPDy1YIxsg=;aJ1WG0l6omRNJ5PBQ443Zg=="
 ---
 

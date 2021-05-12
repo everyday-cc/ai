@@ -1,54 +1,20 @@
 ---
 category: news
 title: "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns"
-excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep Learning Recommendations Algorithm, enabling brands to predict"
-publishedDateTime: 2021-04-28T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/article_764ef7af-d05e-5206-b920-a9c6d6157022.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/article_764ef7af-d05e-5206-b920-a9c6d6157022.html"
+excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep Learning Recommendations Algorithm, enabling brands to predict the next series of products a consumer is most likely to buy."
+publishedDateTime: 2021-04-28T08:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-dynamic-yields-deep-learning-product-recommendations-generate-exponential-/2021/04/28/9356153.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dynamic-yields-deep-learning-product-recommendations-generate-exponential-/2021/04/28/9356153.htm"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns"
-    excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep"
-    publishedDateTime: 2021-04-28T20:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns-301278670.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Dynamic Yield’s Deep Learning Product Recommendations Generate Exponential Revenue Returns"
-    excerpt: "Customers implementing the self-training algorithm have witnessed double-digit uplifts in purchases and incremental revenue, compared to other personalized recommendation strategies New York, April 28,"
-    publishedDateTime: 2021-04-30T13:37:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 9
-
-secured: "zOqGzNANpvRQMpuGx6jEcxiwsWXrg8u5TncrZ+t1DHZgCD1BhAyu0Xv4FYArAbpGVT/7yBkS+fU1hjMjJJOso2QlN38u2n6dtKIZ+pD88JSn9w0wpZdvrKQqzxoliePZ+NAxoc0PyonRVd5yrk6ntJuhe+cgGU115Kcv9hUf3/Ru1TcWjhzGgYwfJyMqMciCBNOAJnHI0w3XqimLTy8KKjxWnx5XMxrH3F9teIvyg/M6EDHS4nZevA7HLPm6yDbgSXWxca9rydz8U4dhImLH/Hbxv/SEcbls81FQauWC0Uc1oZ5BHMTdWD0nSKJCsO5l6NrtO0dFgTabjdI5cZV8VueardB1fnNFkjSgl7bBsEo=;Pd1HjK/uiaLFd8bO6Vc2yQ=="
+secured: "gWK/flLtrtVIeIMUgqkwoBWV7YNxdDaijmcmXRAFi34wrgQf72R8GkJYElNv0iGzbB4kucW8NF9k5ET45vzq+BUPCCVHJUOE7VFn3OEJ+u43CnX0nRHPVJsRqHUlbug44zsCyJltd4ATjfXtyUnDWPSCYZoRP4QthE0XpF31qtG4yClVovShaWuaohpan3gm/mgIQQo2ZXaZ+wYlIRLF+M68t/xA1PSwWOV4HbCN8eJzotVlwKbA/Ticl2e+8YqQ3BDl1L27LYYbKe0DMB7T0tNWIp4fZvm1eJXjkS6Y73MYyLzzH7c9DetS9GDsSuRA7YLunakX20LRf1/dhXtyQACiVUI/QQp3I8zYSAWNPxs=;PCLcoh5SMj16jCnnHtOGhQ=="
 ---
 

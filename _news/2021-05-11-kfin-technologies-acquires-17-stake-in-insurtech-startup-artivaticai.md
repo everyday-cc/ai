@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/kfin-technologies-acquires
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -43,6 +43,17 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "KFin Technologies Acquires 17% Stake In Insurtech Startup Artivatic.ai"
+    excerpt: "General Atlantic-owned KFin Technologies has acquired a 17% stake in insurance tech startup Artivatic.ai to enter the insurance segment."
+    publishedDateTime: 2021-05-12T05:07:00Z
+    webUrl: "https://inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/"
+    ampWebUrl: "https://inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 39
 
 secured: "RnQCGza9+OcBVBhC/in49nkve8OGyTEHa+8mqasrWV0aw49+vbWoa+NCO7Ed+K27ePjlHc0Trh7xMKbJNKYoZJACep75oFg0i5fjfLwL9eWCA7O6KSwLlGY1drVjzqAkmNtiU6T/7UauzpD57G7BSJ/owbFk1SpuH+XysUjNAWbRMHHGvL0dSTwtp6BE29RQoCrGbZP4w1iipcSW+7+NLVcHsd9JYMyqcSn2czrmfPzXdkNGcxGDVsIo/tiqD1D90yDLRdyVWXkCC7uMUnyI/jTTF9SeE7vTtpT1dymtX7nOCfWyo4vAmtMYm8tNtREoWCnBvLxvd+AXYrpxLsQmCWVDhhBC0ykT8UKJSa2Zg9VawQlgHeaj5xmdp9MkPxmLdF7VpLu8rcwHRFkYw/10ShN3MJ8gEjOI1JsOoFElmBEqK8kxt6eUG1t4fkJSDOBRX2PhqV59kKWWYYqxUuaDEleHtoI3yrj2n1BLFxMjVveqTFFKBCnwb/kD8lDkpPg+BX28LsyaoqYIBWaJMOFAEg==;O9ZuO3vAyA9SRFKklZFu9w=="
 ---

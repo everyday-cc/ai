@@ -84,6 +84,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
+    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
+    publishedDateTime: 2021-05-12T03:45:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "At Think conference, IBM puts AI and hybrid cloud to work"
     excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
     publishedDateTime: 2021-05-11T04:01:00Z
@@ -97,6 +113,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
         width: 768
         height: 499
+        isCached: true
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is"
+    publishedDateTime: 2021-05-12T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
         isCached: true
 
 secured: "vhw+EXCprvBmuGzhAurtD6ZosBWDLu//y/zpK6MC88WvcdKWTm6zZ32PJKqrLJCr2Q7raLU9tOHGJHQa2ckyFdfIQD3wOlP3RQulQPyC7Cqu1xYfOZdLYguJmCuQxRLibYi10RwyjGwA22Sgp7Us+aO9FID1qiw6TFjPyq4N+8lxWN9lVbPz3srjI6am7jJX4Kp6WZtcjW4vGb7OOrtlYK8BxKXImVzyMImsU6CJV8gTabpMYA+QE5hGi1Sel/KasfPLbqGOPTyZDzfJW3BXrUPRxPbfCCW7nYHxlXiCjB5X4TD18wt/O9lvrek3buy/Y5rIRBGfCekjPyKHsSrRzKfXVUECd3yPQQD3OOOiPVqHfO3G93heq/j97A59gwt+7VEadOJ4XKYrXoBcT773e2R+aInOQbb1IaqloMPVKfga3QBRB/syH3exaKU2eWl/BBfnA1GlWgCo7K7/cI5zOhTLst4aN+Oszf5BiQGBWndAtLoP0WxXoz6IKm0/upc3zAKqo/uC0Woj0wm8DDt8xg==;ukYwv7MytrpV8AHwjmaUaA=="

@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis"
-excerpt: "Rackspace Technology ®, a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’"
-publishedDateTime: 2021-05-05T15:05:00Z
-originalUrl: "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0"
-webUrl: "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0"
+excerpt: "The solution uses Amazon Athena, AWS Glue, Amazon S3, Amazon SageMaker, and Amazon Translate. The automated ML natural language processing solution enables the company to replace a time-intensive ..."
+publishedDateTime: 2021-05-05T15:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663"
+webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "yj+Z/rPO0DhzL9STTaSvO99Y6IBR0NpxL3cAEtleSLFQiAChCcMM30k14uokUNg8PWZSgc+E/gRJn2+wbZEKtogH43zpItXOL+qEhKiq7V5fViPY3AAz5woTK2xRCXYU3a2DsB27twCodf6Bml+R3rc3j7ROO6etdWf/EVwzx4Cd2MqjycLl5/tjwxraa4FbDhlP5qoeb3S7bgmXxaboQfbypFbGDS2A7/IRgrc3MrAsA8hK/sPLt9rHC2dzAP9zXMN9Xrnes5GYJ7BGWY9SxzJz3ePr8kTwHbU8nas+2HzeyuHzkRxRokRLxCZrcPDbvTJfv2s+uESc6YqiSFkfQC+O/GcmKBdxMcz+inrKFTs=;lms75QBEUrfQ28gULIhX6A=="
+secured: "OY7O4GzAcnSlzy2Cx58YpoNee8dKpQBopN4TeAyoYaY1nP0GaJgv8dYwBmdujQ2N7ghR7KnPkxFcK+E3cv9sFQ92HdIt442MbMwGMdLZQG0RGXbKo2QHLjg9vvjJm2rWLI18LMwn15I7TIENvO+ag+AA8yUczehQdPgLO6d8s+h/E3SaxJyexbdYluIxRPoR9XgJpKaa7NUM9DjXivNdULOTEpNjlerVdFghnmAKZ5VkxUJ0dAH93HS0X64jOlnWJtCTVUxFI4glxuWBcIQB2xt2vBajBExaNHZ8zt4Pg+iMS+dWrbg11OC88BwK/u3SOWnLbRhc93A1oiYAfX6HdNSjuhsKvEHyAzQFtexwOss=;QTsB9c1XWNOyJ6ZpvO/8AQ=="
 ---
 

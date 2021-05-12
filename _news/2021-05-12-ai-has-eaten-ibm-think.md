@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
+    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
+    publishedDateTime: 2021-05-12T03:45:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "At Think conference, IBM puts AI and hybrid cloud to work"
     excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
     publishedDateTime: 2021-05-11T04:01:00Z
@@ -103,6 +119,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is"
+    publishedDateTime: 2021-05-12T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
+        isCached: true
 
 secured: "2zd6Hyx/Ksc8c+RcSySBvvTgxs4v2J1SbGo6TtonXzu+qTFKhj9f9f6yWo2TZMLyMosPY30abSkZzrDghh3ftUCXasXZbtPrEvMu3NDGGM7ur3Hzmj742U6PBp3v5hvT+yTwXysulVIoVSId+A3DcPWqnzprCB8IdCg335PA6QXiB74v+5kT6Yy0zM82ML5deFT/iJ8Cy+dp6I+eqp5oEMI3S0TfRu6wdv97YrdUIBzMBVApHjAnhKOJAZEWVAeVC2vzfQ3bPW0kFyYC8s8hpoTTL9CY6Z+/gbHvgPZBZP4eP7QUhxd9DTrSE2sVP9AppQRPBnkxcqByAIPhFK8f/NXTO+y58YPgOoUAdqlAqxZ8ayvV6mzubXS43yvnp80D29UTw2X8/yZ6vCIBGR8Rqf/ROg1Q3E0t3yqxTUTMaN9V2jkG7kmmvmxIhwrDAzImjsG4Z6LJ1XjlagLRGdIfqEi8JPCa1+TxwWKv0uE3adBtaDHJPn7+sI3KC5k6rkPHMUJtKBXCbEi7AxnOBfS+rA==;XgQ9Kp4xRvK+ELW5KE7cvg=="
 ---

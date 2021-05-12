@@ -45,6 +45,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM builds new AI capabilities, hybrid cloud centre to accelerate digital transformation"
+    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
+    publishedDateTime: 2021-05-12T05:08:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
     publishedDateTime: 2021-05-11T07:57:00Z
@@ -74,6 +90,6 @@ related:
         height: 543
         isCached: true
 
-secured: "UQS90ny0nT2P+4ziUerl22H9k1GYpCPZjIbGNl+XyrZQAmcSkNoTtiU8579pKlUTph32WHNp21Y2GIy5wJ9jfCX/esPPI/k0INZ5ltjk0Qj4Belbt33/ekcAW18S5M6ji19DRNaRXV4wnhnVSHz6brufOZOiEQpT7qzbYeNjgMB1ZkFhoYimf5bgWa2fGvq0Gh/ifDD1qz+vudRbh+fTsxfQ+qxY1GzLhKXSEoQry7hCkfRKpZg17rU20+2Z4CBxB4nt2DXgssOjb8NLjb+JS/70xwuuiA/5oxx0SMANi3TikcTAgRBSbO2HPl3lkAyQfVKWTYD+1bnxFDVgXR00MpUeYZUwqAPuvZztQZT84ps=;XB/kvp5RHEsoTOmRwh5uEg=="
+secured: "cBRNZI5U1payVaMqNYC4M1T2CJ7qU5lLphSa0XZlRWfGGdqSPu44rYh3KWjpnvm6oqCJi92yvUI8tWXWEVvYA2NpCxB9Sh719fgKQNHxCIYLkUZWUl3koC4l82P5IOWW2xGYoGg1uOmJ5pY2IEiCQ6+qj8zLD/QjH/XITUkSXCQlFoV1xYpUJuCmd+r62cRa5T965PPPnNsVvMXiBLfUg+ikezASfFGtzJwEt46Vets+TZUu2N5zHThQWuAA6LKBqvncLgUf0NaC2v4A1/a9k41Tv4kh8TxLqCJo7PHtap6Wegpe+meYHsA69ivo2cLzaCcIOypcTy14vx1fvhTCoc4aefNxKQKPk0HFYSpzub/0iu6ORE9g38xEmn9+L0yMvvrJb07KCSjMSWok9Z8DXFsCK7pCp4y//BT9gGwLIWMk/fiR3e0K7bL7TYl/XzYPJVV+8BjZT80xNUEnYQy6uBSoFX/oyz4eyq1WPsPBL5Mz063j5PQY3JzjVAcRpmWCCin9EQXMZgi3bA1RUVJY3g==;Hvl0/g3PLo3NXtGQz5UUcQ=="
 ---
 

@@ -42,6 +42,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "KFin Technologies Acquires 17% Stake In Insurtech Startup Artivatic.ai"
+    excerpt: "General Atlantic-owned KFin Technologies has acquired a 17% stake in insurance tech startup Artivatic.ai to enter the insurance segment."
+    publishedDateTime: 2021-05-12T05:07:00Z
+    webUrl: "https://inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/"
+    ampWebUrl: "https://inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 39
 
 secured: "hG1Rp14bPaPuhXaEgcD6ud1kkZNJURANUTdpjcyDcTRfFXidkLo4ckQpyA7KiHqmZOHJ4GokTwCSRY60o4wbACaHh9TemSEadXtvLXv4yrSAxTal9T7SR0f8aJw0saVoflLTveV3mm8Nm8bnntsS2XxDXQ8yqTWLr2lm8Ed1I8WYGqq9nl9bQ1E/Pcp+ru5CGId1AjZST1+12O2rYPd59uD+YMl/R5XkH5Fe7LM0YJfFB6h5DI/O7ThhEAiwJytZe6/lj+6TqFTna6zkgjwIbLU9uEZaVkRaO2Sq9hq5/wWRPFC/ZWzp4PMd5GKeOFgNwbKVyo7cRVYjeYdjTmrzK7A5yOUCbJh6I6Q3u+90ZQVDkUyDcE5RUBWstYDgTcpjnFqN+laCTlPKTpxYsjTVohEgCSGMvtM+h62CGFqVTt7Z1/kSFy7YfLv+AYTGlAPWoVB+iLIEInQkYY+3yA3f9iXgAmvLtXDJ3T0VFlASIDlu5+x3jsMgM68SASPJ0BolwiL/mUjcuCCFFo6iJaTkYw==;UqOmUdoJV6jhUzV+h2y5vg=="
 ---

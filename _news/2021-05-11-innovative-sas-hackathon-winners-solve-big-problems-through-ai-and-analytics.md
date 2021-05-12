@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-publishedDateTime: 2021-05-11T14:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T15:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -86,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ME3Tqyejr1F4VBTy66Xvz1SnsTCCndomcow0rGJD6q8x75o740ViwJTXK34nIV2us49OXLoxC1XTnpYMJyIrgKK18Yg7beyyYsoM9uJ0o8L8g7GX7a+7AM8QHzRnLUc/0aCFXcYkhGW9jbxvtHyyoxyvlwIr+Row6T6sIayOPCnhSgQlvidBrL9+c3tdrkmCXXIvjCwdpV4nrdLfEshUpLowGBRT501JNXro4D14ch4Edm8tHsQdR2pSFh9C6L51cWHJIjfcoXUbNUD1eMgUpysJlCuyOPee4d3LoFt2+RC1NBpwYklxoc2n3OtKOTZc+LuydeWhrzhl0t6SFcSioZg9aRB4HLNOk6DXeMMIYSs=;bdqd3+zGGDY7O7qI/y+Zgw=="
+secured: "Xh2BWhAENV5w9okNOCQ6/GKnbFt12zGIYgxxHvpFJKwu2Dn3fi0VFjayTBtyWdxpZdIoQF9JRTRUGcytQ8AT3mAVBrCZVriqyNG7X4JyJenw6ysdTJ1yO6wZgKrNnZe6B56bHhiuG8DygXmCzTjmGlybsVV7++s+RzAHvTMwsSS5wN7h9RguBcy8+UXoyafYxIN9O9BkComOlfXd0Fm5jxWFMg9YPP79HXmK2eFm4dHA1pPtJ7Jgc5gnOzGhFkBQcYkRU0RL8zMC5hQfT1GL1qWU22RDdfDWcORPsd3jXwgKiFWhmO+qoMeao/Org3U390+qMBD9balvabcfTyBHAgCtD8uXgz1CMpnANVFeqVU=;HLbdg5Osh1suUpo5im2pMw=="
 ---
 
