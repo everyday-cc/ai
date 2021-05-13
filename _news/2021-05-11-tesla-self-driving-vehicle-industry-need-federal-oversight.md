@@ -89,20 +89,6 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
-    excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
-    publishedDateTime: 2021-05-08T21:56:00Z
-    webUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 54
-    images:
-      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20725166_G.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
     excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
     publishedDateTime: 2021-05-12T12:46:00Z

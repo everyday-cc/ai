@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-08-machine-learning-ai-making-its-way-into-clinical-lab-management.md",
+      "title": "Machine learning, AI making its way into clinical lab management",
+      "excerpt": "While clinical labs' use of machine learning and artificial intelligence is perhaps most prominently associated with areas like pathology and microbiology testing, these tools are also seeing uptake for lab management applications like specimen routing and billing support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management",
+      "originalUrl": "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-streamlit-nabs-35m-series-b-to-expand-machine-learning-platform.md",
       "title": "Streamlit nabs $35M Series B to expand machine learning platform",
       "excerpt": "As a company founded by data scientists, Streamlit may be in a unique position to develop tooling to help companies build machine learning applications. For starters, it developed an open-source project,",
@@ -1297,50 +1340,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
-      "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
-      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257268",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

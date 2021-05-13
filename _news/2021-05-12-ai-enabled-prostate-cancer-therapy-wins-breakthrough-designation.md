@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-pros
 webUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FDA grants breakthrough device designation to AI-based focal therapy system"
-    excerpt: "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia."
-    publishedDateTime: 2021-05-11T00:00:00Z
-    webUrl: "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system"
-    type: article
-    provider:
-      name: urologytimes
-      domain: urologytimes.com
-    quality: 52
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/urologytimes/33bac5b4b295369649455c6e7f13d51c0b268650-500x218.jpg?auto=format"
-        width: 500
-        height: 218
-        isCached: true
   - title: "FDA Breakthrough Device Designation Is Granted to Avenda Health for Laser Ablation System in Prostate Cancer"
     excerpt: "the company responsible for developing the artificial intelligence (AI)–enabled focal therapy system. 1 The product intended for use as a male “lumpectomy” device was developed as an alternative to traditional surgery or radiation, for which the ..."
     publishedDateTime: 2021-05-12T16:01:00Z

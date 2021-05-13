@@ -71,6 +71,20 @@ related:
         width: 978
         height: 611
         isCached: true
+  - title: "VW Promises AI-Powered Self-Driving Electric Minivan for Urban Transportation"
+    excerpt: "VW is promising a self-driven electric ID.Buzz microbus to be available in the market by 2025, offering a next-level solution for urban transportation and delivery services. The company is already testing the car and its AI vigorously to ensure that it will be safe to use in four years from now,"
+    publishedDateTime: 2021-05-13T12:05:00Z
+    webUrl: "https://www.industrytap.com/vw-promises-ai-powered-self-driving-electric-minivan-for-urban-transportation/57013"
+    type: article
+    provider:
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 36
+    images:
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/05/vw-1665127_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "WDg6qk/Gp6Y9lY85sYhwhTLZ3zbSTM+R4Roykw+E3Ea+JNtMCrzTR/VMrBNIavBPy0Z4NH4N2Pfue15T89iETO8GBawsWb4d7+4SDY12yMfqeBeRCAGq7r+x8L2bVeACrAKYGS15htvmC65roFP1chlaL7FEhi+HCxZqIUqy975CXux+ghP6AwMR3/INCWZwz6m9gPgxWEGFZOl2b1r++xFpy/dDOr/dymTyFhpg+vKkCh+31ABLNHHfif5XQSnAX6525UhBqcPYtvd/qXt6YNn8Uk9W0XJfzvXzfwwSdAccVMM7NavQemzUrfibZVeiaQson5iUhavAVRYZoAlET4QGDVgQgacSzfc6U0jgSsTdc5RTVunqs6vmSqEaUYuwF6ClawYg7sVXeIRi74xItSQIC6d8eM3XfByeEOUU/gwuKd/mXbi8n1UBj3TbO1BzSTJEakP9Wr9h0H6Y/Si7YBQ9TmhbnK/DBSnt64b5Di2XM6cBdPaMHf6Oi6dSJZ/RxSnXbrRY4OOnM37b0JFlPQ==;mjkDHqMniQKfXtGsSaLJjQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/plus-going-public-spac-autonomous-t
 webUrl: "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://aboutblaw.com/Q2V"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Scooter startup Bird to go public through merger with SPAC"
+    excerpt: "Bird Rides Inc. will go public by merging with a blank-check company, securing a new source of capital after venture capitalists largely lost interest in money-losing scooter rental startups. A special purpose acquisition company called Switchback II Corp."
+    publishedDateTime: 2021-05-13T15:31:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/scooter-startup-bird-go-public-through-merger-spac"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/needtoknow-01_i.jpg"
+        width: 792
+        height: 488
         isCached: true
 
 secured: "uB7O0sbkvqRf71nINTpYIdKyrFTk6kjr+9T0eDj1E8vtGBmbTe3U8slRhIqGGkRov8TZrcnmeQrpK1q6y9dsPG1k/suxYs7yIReYqdSAnKaN1SQQZCyv/SJyd0pviJwXGR1Zecr7wXs6IgYnpELeauElMdkllsGpIdY9kqB6TgaPvgRpI9aXGItmK0J8mr7Lj3Ar25cyuq5vLzi2viXo8mAIlR0gHOKeeYL7GzoTCtIU/jWdghIdAKd0eHp782IC83FjFwhga1h4G1Zxyl3Q1DHg4ZTQe45hynSlfvWU0l3ToU6vB6uHACE8lTQLxFaq4BO0dRHJsWKq20dQ7beI1SYHIqL90bXl1I8bWxGX0b9bLTdRSegJoQ/zWNJlrPsTcEGlBWpq3kQWP52C3L/RBUvdam/pWN9St9eKTnQdlY/pFEmg5Bz7hf0qHfp0RQVCpIqXlhTExKmkq+cZIwWPXdajoCKEwcy1ICjxN7rejiyxSD9bXkyeA5CwChMsFEqgixGK789hylop/Je/HNXuzQ==;IipPplRDuwSeDMp/xWDLkQ=="

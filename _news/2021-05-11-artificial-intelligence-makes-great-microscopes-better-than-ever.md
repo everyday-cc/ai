@@ -7,7 +7,7 @@ originalUrl: "https://www.labmanager.com/news/artificial-intelligence-makes-grea
 webUrl: "https://www.labmanager.com/news/artificial-intelligence-makes-great-microscopes-better-than-ever-25856"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
-    publishedDateTime: 2021-05-08T21:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210508082949.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "YQzjKTsZlSGvSU1kjqwKEPd6ktfoA1lMnaninsGIoBllB3duhXdQUkdravELsAXLVAUr2mlIBRBygPtmR28yYunn2gBoqYGLa+RtrEEycAxSRI3+ErKEhqoTIP/x0ZXdGF1///eJG0zJzcf4NZo79+IR6BOW8AyW8YVfioIm68N5W3LSNtmTYaI8j8kqDfUwIx0SsbYEWWsdi8Rbw5KV6xq58sTkLgVQNWsmKUwx6esHhoE0Wc3U5IsZpzruunEXTPNNoshkPM5Iey5fBv2xSmYhdt/EiiPsekSssd8WsmGz2vzlOjhZkjwAs8xMzPubODOEHS7sUJM4TmPzdyTXX2tVVCJ0WP3/RU0KrS5DU4cI2eOqN9tec3eC3R4htI19BlUNq6cemI1F1oEbZg7KmE/DzUhGQ7l2nR3ECHyswryfLNyFRavim54Vuo1V4lU6f6JJxzrAWXcgIj/rO7tWDN321g0UVhVfSXIDO0/f1YL5TqnyP0k0vSQM90Bo5znlZNjlFSu8D8Pf5guDyNnfUQ==;/SDK+HPyDLEaCVvivM3Jvg=="
 ---

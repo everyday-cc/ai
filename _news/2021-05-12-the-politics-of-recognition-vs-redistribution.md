@@ -42,6 +42,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
+    excerpt: "The \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression Recognition, Speech & Voice Recognition],"
+    publishedDateTime: 2021-05-13T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-emotion-detection-and-recognition-industry-is-expected-to-reach-37-1-billion-by-2026--301290799.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "h+fLp2G5LOQCcBuocQ2lfu+UgVCU6owaKH5ZkRZlt4QbCEtr77PGjduVw3jgBQN2DCEa4FXVo4q8fbfL+F1LF05kZ6Zr2opjYdoWZNIzCkFQqJRVevwG76MoiQ+kMnBjv+TPxyqfnkCKDwniOJgsAbfxhhSnFMEAVp5qbAewvZnnaeDYtDpR27I8stT+Seukn+TYZA3vuVE3q58Tpx1voREU/fC9dhvIf3BvDnjbWOEgZxsHlGkqIbM7ToHOa6p9erVjFJ0IZSrn6CdWRdXdvJX2e7B/qbGGF58xIumZpNvd0YS6a5WZkhHV6+VDZ0YLeQLzbif7qMaZEj3j/9Ctknyw6ZP9Huis+5VPKRjOeEuT2gUw0TC3LT26DUPTMbcOyvnUWtlx0cOjLAk0NrNS9JeoeZ1NWby9ns/wzzei7wfFOkVt/AvsI3KPiS7pyZGxz2FnR7c2AzKM64JpOQ3fau+/NGnoOJODbcYJUCWNnJWL2tG/mBg3HTXayBkVYS6amOWbaTlYu9u/Omu6JqQkQw==;QlUiOEII0Ld+viUqNf83Ug=="
 ---

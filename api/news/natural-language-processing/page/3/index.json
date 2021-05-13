@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-13-female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding.md",
+      "title": "Female Co-Founders advance AI translation technology with $5m in VC funding",
+      "excerpt": "Years after being told that she couldn’t be a fighter pilot for the US Airforce because she was female, Language I/O (LIO) Co-Founder and CEO Heather Morgan Shoemaker asked her co-founder, Kaarina Kvaavik,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
+      "originalUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Heather-and-Kaarina.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-big-shake-up-due-to-covid-19-on-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
       "title": "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market",
       "excerpt": "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of",
@@ -1238,49 +1290,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad.md",
-      "title": "AI-translated Nikkei content now available in English at home and abroad",
-      "excerpt": "The translation system featuring Nikkei’s unique AI technology lets users across the world quickly access a broad range of Nikkei content in English. This is the first time translated Nikkei content has been made available on any English-language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43584091/ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad",
-      "originalUrl": "https://www.wboc.com/story/43584091/ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20554093_G.jpg?lastEditedDate=1617224910000",
-          "width": 900,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T18:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WBOC",

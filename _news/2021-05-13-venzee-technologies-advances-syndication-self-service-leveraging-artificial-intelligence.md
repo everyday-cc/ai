@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Venzee Technologies Advances Syndication Self-Service Leveraging Artificial Intelligence"
-excerpt: "PRNewswire/ - Venzee Technologies Inc. (TSXV: VENZ) (\"Venzee\" or the \"Company\") announces today continued application, development and use of artificial"
+excerpt: "PRNewswire/ - (TSXV: VENZ) (\"Venzee\" or the \"Company\") announces today continued application, development and use of artificial and augmented intelligence technology now deployed"
 publishedDateTime: 2021-05-13T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/venzee-technologies-advances-syndication-self-service-leveraging-artificial-intelligence-301290449.html"
-webUrl: "https://www.prnewswire.com/news-releases/venzee-technologies-advances-syndication-self-service-leveraging-artificial-intelligence-301290449.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/venzee-technologies-advances-syndication-self-service-leveraging-artificial-intelligence/article_3b3a17ae-3333-56a4-9350-40ccc785318b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/venzee-technologies-advances-syndication-self-service-leveraging-artificial-intelligence/article_3b3a17ae-3333-56a4-9350-40ccc785318b.html"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1509436/Venzee_Technologies_Inc__Venzee_Technologies_Advances_Syndicatio.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
-
-secured: "syUq/hDRAp1NmkoT+piHuJcRQsc0biKNi3k01Y10614TQblNraqAaHi5mVdENT/DJETYRqdaB6W+BoFtuWcPE7nO+UqmS6GK7lw3orlZMFbh3WSCEBCipBW+OZeK5GJpKLbeQjkLxdm4A2MLHJXj1aqiy0ROJwwf/g8vHbx2A8FnDo8kO2TfZB/D21qY2sxMFeWqCPgEu4oaoA805KrOFz2zb4zANc8pQq2HpeW77DQ3WYWMMXZjghD0FvB+Dw4ykf9fcJ80mC9FqW1sjNN1QheBmDLhV32FtxMEGBmC7mDqVhqeyJMMer5THV+YF9MJ9wxFipR85xOj7TUtbhI7oetCjNn6dGppC09i6szh5AY=;sONPZs6rIPDosspwsYjc3Q=="
+secured: "I5ArhtS4H86Rn90pX/kkhvsUXHIZCbCD0dbweUqDSU1XmNDE3bdQrruRkvN6yjJzZeaLrgoPX+puOv+V9DV1zUN91h9jOMMbPbm4nFGL59gi+r4Y63dmJk2xV92DalpBvLJFMP5u5FXGYQQBMpbeXkS4PLctfZjFlV1CFX/TSl15O/4HjnYerGrpyI3UnvXpfiK8Qr0nVOkMMnJ2lttXcwwe/sBX2x0G2DtySHmQcSKegpquYXQwwMHSI19XCH64VGNNQfKJv0w8vSz+y8YkTZsuqbjBLPkF36whcRMIjZnG7zgBZtzANWgHd+sd0ZWEMo7SU9bSXFi00yMShLo8+MGzha8I3Opu4ivj6gWagsY=;aQ0MblJvp5mGQziaxOjpUw=="
 ---
 

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
-excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening"
-publishedDateTime: 2021-05-13T05:30:00Z
-originalUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-webUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-ampWebUrl: "https://medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications."
+publishedDateTime: 2021-05-13T14:49:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/05/210512083411.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/05/210512083411.htm"
 type: article
-quality: 51
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Daily
-  domain: medicaldialogues.in
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://medicaldialogues.in/h-upload/2020/09/02/133874-artificial-intelligence.jpg"
-    width: 1600
-    height: 960
-    isCached: true
 
 related:
   - title: "Indian researchers develop AI that may help in the fight against Covid-19"
@@ -166,6 +162,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "LOVZgfcCcxPsFPm3EGwiQAmX00QEsHBHmcCyBKm16b9gGQsFpCOimg4sUYaeSzmQd4bV+UWmW6stN9lhmGeeTyC811h9JZ82LF4B+vwf5TWym8fHSF+Vr/eKlQqlpVxMGwUZtuDueSWXBL1A3cobZ1FLKfyWJuLauQSujzwvpKZcXqcNGBEXKtZJSI6lIFEDKP19MpA0DTQMBbsRNyMgE7xM1sbQ5mxtWGiaUuZE9nbo3YcqcGBde0OEaDyA8HJxisp7QMiKo9zeJVG+wi8Y2LjiLUWt6Jq2Z7m6AZb+lKzBp3oEGhsn0/ZMOzrYdt7XfXcW4iowjS/SyYbc3wHoh1ITY0cUpTJqSF5fSpTHY9zcnaTyvzWtw40x6pAoEBRao+/3J4Sr3QAsHXZJsMsv0Z7TQvcOwWPF94bzHIrn8paqBIQfYvg7BuvRn7SEC0/+syJYqP9C/qOvg7y+SFa5erXaIa0hsjgAwdd6k0bxXiFZ8vztE7MAZMb3iuQnvR85gQp/KIcZ2HVd3YU+52LePQ==;2cAm6Yrn2tMtZGd3XP/Lfw=="
+secured: "tefbffLVsxysvljmERLHSZRk+2xZrsp0MKKFXki8WVl7xXvcDEiS2tPic449n3Drqw2Lqqh6FBWBr7NjEHoorM4kT98820+xlokhxYPdtnFV4BT0gDAK2Z6oDD/aO4RyI7At3/fWAX1SagvcLGvcIsVzah58dyxrf5KnoU3OeewgqrPnf1bnqbgVqfS4lTbqzydcqxolH5V7HbWx/oxvABO/ElphYRwIWwZuexhkWL1aBT1YBdsue3hewJ4QI1FbHYaF7Tv5SfqkQh/orNYpP0JpGZlqxnd75oZjh75sGBWt8juMFPRmL0U+uv7o8P/D9G9Cnn8KKkzACvfVQMvWoOKNTh5HF6joFx+/xEJy68g=;xTFYFWiEV2j8r+z/e4Lg2Q=="
 ---
 

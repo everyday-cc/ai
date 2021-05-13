@@ -2,6 +2,257 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
+      "title": "Proper data hygiene critical as enterprises focus on AI governance",
+      "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
+      "publishedDateTime": "2021-05-06T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-its-time-to-train-professional-ai-risk-managers.md",
+      "title": "It’s time to train professional AI risk managers",
+      "excerpt": "With European regulations underway that will mandate AI safety, businesses around the world will face AI audits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1252396964.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/",
+      "publishedDateTime": "2021-05-06T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-covid-era-education-tech-narrowed-college-learning-gap-for-poor-minorities.md",
+      "title": "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities",
+      "excerpt": "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
+      "originalUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1789945/online-learning-unlv.jpg",
+          "width": 2500,
+          "height": 1729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
+      "publishedDateTime": "2021-05-06T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-how-the-usps-uses-nvidia-gpus-and-ai-to-track-missing-mail.md",
+      "title": "How the USPS uses Nvidia GPUs and A.I. to track missing mail",
+      "excerpt": "You've got mail! But where is it? The USPS is leaning on A.I. at the edge and GPU-accelerated computing to help track and locate missing mail and packages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
+      "originalUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/united-states-postal-service-truck-2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
+      "publishedDateTime": "2021-05-06T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-states-push-back-against-use-of-facial-recognition-technology-by-police.md",
+      "title": "States push back against use of facial recognition technology by police",
+      "excerpt": "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "originalUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop",
+          "width": 640,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "cdnAmpWebUrl": "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "publishedDateTime": "2021-05-06T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mahoningmatters",
+        "domain": "mahoningmatters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-the-federal-government-gets-a-central-ai-website-in-aigov.md",
       "title": "The federal government gets a central AI website in AI.gov",
       "excerpt": "The National Artificial Intelligence Initiative Office compiled all government activities advancing the effort on a single website launched Wednesday. AI.gov features recent AI reports and news across agencies;",
@@ -376,6 +627,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
+      "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
+      "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
+      "originalUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2020/08/AdobeStock_287945965-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -829,6 +1123,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
+      "excerpt": "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
       "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
       "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",
@@ -879,307 +1216,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-minds-without-brains-the-promise-and-peril-of-artificial-intelligence.md",
-      "title": "Minds Without Brains? The promise and peril of artificial intelligence",
-      "excerpt": "In the view of many scientists, Artificial Intelligence (AI) isn’t living up to the hype of its proponents. We don’t yet have safe driverless cars—and we’re not likely to in the near future. Nor are robots about to take on all our domestic drudgery so that we can devote more time",
-      "sourceUrl": null,
-      "webUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
-      "originalUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3quarksdaily.com/wp-content/uploads/2021/05/Farrell-360x202.jpeg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "3 Quarks Daily",
-        "domain": "3quarksdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-ai-powered-gene-therapy-platform.md",
-      "title": "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AI-powered Gene Therapy Platform",
-      "excerpt": "Dyno Therapeutics, Inc., a biotechnology company applying artificial intelligence (AI) to gene therapy, today announced a $100 million Series A financing led by Andreessen Horowitz, with participation from a select syndicate of new investors including Casdin Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/06/9362890.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/06/9362890.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage.md",
-      "title": "Tesla, Apple Supplier Delta To Pour $7M In AI Semiconductor Startup Amid Chip Shortage",
-      "excerpt": "Tesla Inc (NASDAQ: TSLA) and Apple Inc (NASDAQ: AAPL) power components supplier Delta Electronics is backing Kneron, an artificial intelligence startup that",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
-      "originalUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/8615ceba8e07821a.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20981899",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20981899",
-      "publishedDateTime": "2021-05-06T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-gm-reports-strong-first-quarter-2021-results.md",
-      "title": "GM Reports Strong First-Quarter 2021 Results",
-      "excerpt": "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid",
-      "sourceUrl": null,
-      "webUrl": "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results",
-      "originalUrl": "https://www.albawaba.com/business/pr/gm-reports-strong-first-quarter-2021-results-1426280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png",
-          "width": 555,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
-      "excerpt": "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-us.md",
-      "title": "Autonomous trucking startup Einride raises $110M ahead of expansion into US",
-      "excerpt": "Einride, the Swedish startup known for its unusual-looking electric and autonomous pods that are designed to carry freight, has raised $110 million to help fund its expansion in Europe and into the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Sunset-Pod.jpg?w=1024",
-          "width": 1024,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/amp/",
-      "publishedDateTime": "2021-05-06T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tesla-supplier-delta-electronics-invests-7m-in-ai-chip-startup-kneron.md",
-      "title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
-      "excerpt": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence capabilities by using edge computing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/kneron-e1610971717245.jpg?w=839",
-          "width": 839,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
-      "publishedDateTime": "2021-05-05T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

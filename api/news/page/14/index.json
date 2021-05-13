@@ -2,6 +2,335 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-30-autoggn-a-gene-graph-network-automl-tool-for-multi-omics-research.md",
+      "title": "AutoGGN: A Gene Graph Network AutoML Tool for Multi-Omics Research",
+      "excerpt": "Here, we proposed a new multimodal method called AutoGGN to aggregate multi-omics data and molecular interaction networks based on graph convolutional neural networks. We evaluated AutoGGN using two different tasks: cancer type classification and single-cell stage classification.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR319172",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR319172",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-south-and-central-america-artificial-intelligence-ai-in-healthcare-market-future-prospects-and-opportunity-assessment-upto-2027.md",
+      "title": "South and Central America Artificial Intelligence (AI) in Healthcare Market Future Prospects and Opportunity Assessment Upto 2027",
+      "excerpt": "The Business Market Insights provides you regional research analysis on South and Central America Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai",
+      "originalUrl": "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U430418845_g.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai",
+      "publishedDateTime": "2021-04-30T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-waymo-ridehailing-and-delivery-focus.md",
+      "title": "Waymo Ridehailing and Delivery Focus",
+      "excerpt": "CEOs. The Waymo plan is to expand its ridehailing business from Phoenix to other places. Waymo One. They will expand Waymo driving to truck delivering services. Waymo Via. Waymo One and Waymo via will have no driver behind the wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/04/Screen-Shot-2021-04-29-at-11.50.03-PM.jpg",
+          "width": 1078,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "publishedDateTime": "2021-04-29T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-ibm-acquires-turbonomic-to-build-aiops-tools.md",
+      "title": "IBM Acquires Turbonomic To Build AIOps Tools",
+      "excerpt": "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb66bc6da454c5792d7d9fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4710%26cropY1%3D644%26cropY2%3D3293",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/",
+      "publishedDateTime": "2021-04-29T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-in-korea.md",
+      "title": "Samsung Bespoke Jet Bot AI Robot Vacuum Cleaner launched in Korea",
+      "excerpt": "Samsung has unveiled the Bespoke Jet Bot AI Robot Vacuum Cleaner designed to significantly improve home cleaning duties. The robot vacuum cleaner features enhanced capabilities for object recognition and adopts artificial intelligence (AI) technology which significantly improves the performance as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
+      "originalUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/Samsung-Bespoke-Jet-Bot-AI.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust.md",
+      "title": "Understanding AI And Machine Learning Concepts To Build Your AI Leadership Brain Trust.",
+      "excerpt": "This blog is the latest in the AI Leadership Brain Trust series which defines 50 key competencies required to build a world-class AI center of excellence in a large enterprise. This blog defines basic AI and ML terms for board directors and CEOs to step up their knowledge know-how and stay relevant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b5ce145ba745bee6050b2%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing.md",
+      "title": "Baidu to roll out fully automated self-driving taxi service in Beijing",
+      "excerpt": "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg",
+          "width": 3792,
+          "height": 2528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "publishedDateTime": "2021-04-29T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-cifar-10-image-classification-in-tensorflow.md",
       "title": "CIFAR-10 Image Classification in TensorFlow",
       "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
@@ -884,325 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud.md",
-      "title": "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud",
-      "excerpt": "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-as-an-investor-how-do-you-know-what-ai-products-to-invest-in.md",
-      "title": "As An Investor, How Do You Know What AI Products To Invest In?",
-      "excerpt": "As An Investor, How Do You Know What AI Products To Invest In? Answer by Haomiao Huang, Investor at Kleiner Perkins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60874940e6628fc24d0cf72e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
-      "publishedDateTime": "2021-04-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-machine-learning-algorithm-helps-unravel-the-physics-underlying-quantum-systems.md",
-      "title": "Machine learning algorithm helps unravel the physics underlying quantum systems",
-      "excerpt": "Scientists from the University of Bristol's Quantum Engineering Technology Labs (QETLabs) have developed an algorithm that provides valuable insights into the physics underlying quantum systems—paving the way for significant advances in quantum computation and sensing,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.html",
-      "originalUrl": "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-algor.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.amp",
-      "publishedDateTime": "2021-04-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-healthcare-robotics-startup-comofi-medtech-backed-by-iim-a-incubator.md",
-      "title": "Healthcare robotics startup Comofi Medtech backed by IIM-A incubator",
-      "excerpt": "It is building a patented deep tech surgery intervention platform nGuide that helps surgeons to visualize the target area in great detail and increase surgical efficiency, outcome and safety of healthcare practitioners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/",
-      "originalUrl": "https://www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2015/02/robotics.jpg",
-          "width": 498,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/amp/",
-      "publishedDateTime": "2021-04-29T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape.md",
-      "title": "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape",
-      "excerpt": "As brands and agencies look to diversify their media portfolios in ever-changing traditional web, IBM offers Watson AI for OTT market, where industry collaboration is critical to achieving scale",
-      "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/PressRelease/IBM-Watson-Advertising-Accelerator-Expands-to-Bring-AI-to-Fast-Growing-OTT-Media-and-Streaming-Landscape_52357.aspx",
-      "originalUrl": "https://www.streamingmedia.com/PressRelease/IBM-Watson-Advertising-Accelerator-Expands-to-Bring-AI-to-Fast-Growing-OTT-Media-and-Streaming-Landscape_52357.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-new-machine-learning-based-tool-to-help-physicians-determine-best-test-for-chest-pain.md",
-      "title": "New machine learning-based tool to help physicians determine best test for chest pain",
-      "excerpt": "The choice between two non-invasive diagnostic tests is a common dilemma in patients who present with chest pain. Yale cardiologist Rohan Khera, MD, MS, and colleagues have developed ASSIST, a new digital decision-aiding tool.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/chestpain.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
-      "publishedDateTime": "2021-04-29T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed.md",
-      "title": "Microsoft Giving Developers a Bigger Store Cut as New Commitment Plans Are Revealed",
-      "excerpt": "Looks like Microsoft is gearing up to make things better for game developers on their store front, as the company",
-      "sourceUrl": null,
-      "webUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
-      "originalUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mp1st.com/wp-content/uploads/2021/04/microsoftstore.jpg",
-          "width": 680,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mp1st.com",
-        "domain": "mp1st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

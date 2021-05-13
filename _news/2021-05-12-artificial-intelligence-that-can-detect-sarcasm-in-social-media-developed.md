@@ -59,22 +59,6 @@ related:
         width: 1618
         height: 1400
         isCached: true
-  - title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening"
-    publishedDateTime: 2021-05-13T05:30:00Z
-    webUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-    ampWebUrl: "https://medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 51
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2020/09/02/133874-artificial-intelligence.jpg"
-        width: 1600
-        height: 960
-        isCached: true
   - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
     excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
     publishedDateTime: 2021-05-11T15:49:00Z
@@ -100,6 +84,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications."
+    publishedDateTime: 2021-05-13T14:49:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210512083411.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "How India Fights COVID With Artificial Intelligence"
     excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
     publishedDateTime: 2021-05-12T11:30:00Z

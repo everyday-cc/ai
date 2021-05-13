@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning.md",
+      "title": "GTA 5 Looks Frighteningly Realistic Thanks To Intel Machine Learning",
+      "excerpt": "However, Intel may have actually achieved that thanks to a new machine learning project called \"Enhancing Photorealism Enhancement.\" Created by Intel researchers Stephan R. Richter, Hassan Abu Alhaija,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "originalUrl": "https://www.gamespot.com/articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3830284-grandtheftautovphotorealismintelmachinelearning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "publishedDateTime": "2021-05-13T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
+      "title": "Soniox taps unsupervised learning to build speech recognition systems",
+      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "publishedDateTime": "2021-05-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-artificial-intelligence-in-machine-learning-market-2021-growth-factors-opportunities-trends-and-key-manufacturers.md",
       "title": "Artificial Intelligence in Machine Learning Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers",
       "excerpt": "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Machine Learning Industry from its research database Artificial Intelligence in Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Machine",
@@ -42,49 +138,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.md",
-      "title": "Intel has made GTA V look incredibly realistic with machine learning",
-      "excerpt": "GTA V has been modded a few times over the years, but even the best mods don't make it look as realistic as the work Intel has done with machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning",
-      "originalUrl": "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/156890-games-news-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning-image1-c1quf0n2i5.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml",
-      "publishedDateTime": "2021-05-13T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1383,49 +1436,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
-      "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
-      "excerpt": "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook",
-          "width": 2503,
-          "height": 1312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

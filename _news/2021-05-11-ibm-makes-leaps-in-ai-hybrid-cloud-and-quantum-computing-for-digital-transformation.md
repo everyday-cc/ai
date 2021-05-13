@@ -176,6 +176,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "The secret to successful enterprise AI, automation transformation"
+    excerpt: "Experts have suggested that businesses embrace artificial intelligence and automation for years, and the pandemic gave the world a concrete reason why. “Companies that invested ahead of time in automation technology"
+    publishedDateTime: 2021-05-13T14:59:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/secret-successful-enterprise-ai-automation-transformation-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Ed-Lynch-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "JLcbQi6T7TxdbNHcmd64VDq9qIYe7B/GVHJs87JcWaxyj/7v2jgjbqwhc+NlbDW0dDwLubPm5Bu8cgFk9R4w6SjqJfyj/YAoxfGqO4pETr/nU/2ddTz4hbkUOCRsIoyWuCY0R8AmVIxSin0wyVSYtSBMk6dERshflFmKJex6REEaemck+/w2xfj11FR4K6f5FZBrAZBKfy8Aj23AacMMLvZs/0fHH5XksUhkeqXgcbTPTVg0WzHzU/Oh7Q5d1K/GBj3/ry7sHfSJ7pGRBNJpvcOvaYUj4HUuvwtg8JtnlE1N4q8rpXWNx8Z4O808fPQyjoa+TfeELyJB2nOi7LfOe7hfY7JfiFc9s8dYaDHFlG76vhey2EesTWxSwonP0OZ+Yv1J0UlICd4n64MRbY+mj5GcBcMSn9M8/If13bDJLnuxdiAiye2WW8d5oVM+D98bjxrK64hQVydsDgRjyK9d5N4cjRF3xhFr+k+cnyvpPri9XUokNyhFv4hoR7gndcLrTvD4qPObE8TzwaK9zOA3Zw==;c6O64eQ2VcKzehxWhG8YiA=="
 ---

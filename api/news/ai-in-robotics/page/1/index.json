@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
+      "title": "The fulfilling world of warehouse robotics",
+      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
+          "width": 1024,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "publishedDateTime": "2021-05-13T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-how-could-conversational-ai-shape-our-language-particularly-in-business.md",
       "title": "How Could Conversational AI Shape Our Language, Particularly In Business",
       "excerpt": "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice.",
@@ -107,7 +159,7 @@
       "originalUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1390,50 +1442,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-samsung-launches-jet-bot-ai-robot-vacuum-cleaner.md",
-      "title": "Samsung Launches Jet Bot AI Robot Vacuum Cleaner",
-      "excerpt": "Samsung unveiled its AI-powered Bespoke Jet Bot Robot Vacuum cleaner in Korea. Building upon the design of currently available",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
-      "originalUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/04/608bcadab1525.png",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
-      "publishedDateTime": "2021-04-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

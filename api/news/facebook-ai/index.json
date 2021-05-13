@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-we-need-to-design-distrust-into-ai-systems-to-make-them-safer.md",
+      "title": "We need to design distrust into AI systems to make them safer",
+      "excerpt": "Ayanna Howard, an acclaimed roboticist and educator, says our excessive faith in automated systems can lead us into dangerous situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/",
+      "originalUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/Dean-Howard-web-2.jpg?w=1500",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/",
+      "publishedDateTime": "2021-05-13T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ibms-ceo-says-its-leaving-consumer-ai-like-facial-recognition-to-other-companies-as-it-doubles-down-on-pitching-watson-to-businesses.md",
       "title": "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses",
       "excerpt": "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service.",
@@ -1388,40 +1431,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
-      "title": "Global AI in Fashion Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
-      "excerpt": "The major players in the global market are Microsoft, IBM, Google, Facebook, Adobe, AWS, SAP, Oracle, Huawei, Vue.ai, Catchoom, Heuritech ... latest technological advancements. Zion Market Research is an obligated company. We create futuristic, cutting ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,300 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-we-need-to-design-distrust-into-ai-systems-to-make-them-safer.md",
+      "title": "We need to design distrust into AI systems to make them safer",
+      "excerpt": "Ayanna Howard, an acclaimed roboticist and educator, says our excessive faith in automated systems can lead us into dangerous situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/",
+      "originalUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/Dean-Howard-web-2.jpg?w=1500",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/",
+      "publishedDateTime": "2021-05-13T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
+      "title": "The fulfilling world of warehouse robotics",
+      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
+          "width": 1024,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "publishedDateTime": "2021-05-13T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021.md",
+      "title": "Google will bring Starlink satellite connectivity to enterprises in late 2021",
+      "excerpt": "SpaceX and Google Cloud have partnered to bring satellite-powered broadband and cloud services to enterprises across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/s3.reutersmedia.net_-1-e1620916687924.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
+      "publishedDateTime": "2021-05-13T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning.md",
+      "title": "GTA 5 Looks Frighteningly Realistic Thanks To Intel Machine Learning",
+      "excerpt": "However, Intel may have actually achieved that thanks to a new machine learning project called \"Enhancing Photorealism Enhancement.\" Created by Intel researchers Stephan R. Richter, Hassan Abu Alhaija,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "originalUrl": "https://www.gamespot.com/articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3830284-grandtheftautovphotorealismintelmachinelearning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
+      "publishedDateTime": "2021-05-13T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
+      "title": "Soniox taps unsupervised learning to build speech recognition systems",
+      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "publishedDateTime": "2021-05-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-grand-theft-auto-v-mod-adds-uncanny-photorealism-through-ai.md",
+      "title": "'Grand Theft Auto V' mod adds uncanny photorealism through AI",
+      "excerpt": "Researchers have used machine learning to add photorealism to 'Grand Theft Auto V,' hinting at the future of AI-assisted graphics in games..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/gta-v-ai-photorealism-135046313.html",
+      "originalUrl": "https://www.engadget.com/gta-v-ai-photorealism-135046313.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/13689390-b3e7-11eb-becf-c3c4fa6662ed",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-moogsoft-rolls-out-new-aiops-features.md",
       "title": "Moogsoft rolls out new AIOps features",
       "excerpt": "AIOps startup Moogsoft this week announced the launch of new product capabilities and updates, including extended integration capabilities, incident workflow automations, and automatic event enrichment.",
@@ -398,49 +692,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-13-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.md",
-      "title": "Intel has made GTA V look incredibly realistic with machine learning",
-      "excerpt": "GTA V has been modded a few times over the years, but even the best mods don't make it look as realistic as the work Intel has done with machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning",
-      "originalUrl": "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/156890-games-news-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning-image1-c1quf0n2i5.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml",
-      "publishedDateTime": "2021-05-13T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-ai-powered-identity-access-management-platform-authomize-raises-16m.md",
       "title": "AI-powered identity access management platform Authomize raises $16M",
       "excerpt": "Cloud-based authorization startup Authomize today announced that it raised $16 million in series A funding led by Innovation Endeavors, bringing the startup’s total raised to $22 million to date. CEO and cofounder Dotan Bar Noy says that the capital will be used to support Authomize’s R&D and hiring efforts this year,",
@@ -751,7 +1002,7 @@
       "originalUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -999,245 +1250,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-datarobots-zepl-acquisition-bridges-the-ai-divide.md",
-      "title": "DataRobot’s Zepl acquisition bridges the AI divide",
-      "excerpt": "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/DataRobot-Composable-AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
-      "publishedDateTime": "2021-05-12T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes.md",
-      "title": "French scientists in Zimbabwe use facial recognition technology to ID giraffes",
-      "excerpt": "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "originalUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.rfi.fr/media/display/f910e0e2-b328-11eb-8460-005056a964fe/w:1280/p:16x9/2021_05_12%20Giraffe%20populations%20are%20in%20decline%20across%20Africa-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "publishedDateTime": "2021-05-12T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFI",
-        "domain": "www.rfi.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-elon-musk-tesla-full-self-driving-v9-is-weeks-away-fsd-subscription-about-a-month.md",
-      "title": "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month",
-      "excerpt": "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "originalUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "publishedDateTime": "2021-05-12T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast.md",
-      "title": "New KPMG survey says AI adoption is picking up speed, but is it moving too fast?",
-      "excerpt": "COVID-19 left business leaders no choice. Across industries, organizations went all in on digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-139631966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/",
-      "publishedDateTime": "2021-05-12T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-learns-to-type-on-a-phone-like-humans.md",
-      "title": "AI learns to type on a phone like humans",
-      "excerpt": "Touchscreens are notoriously difficult to type on. Since we can't feel the keys, we rely on the sense of sight to move our fingers to the right places and check for errors, a combination of tasks that is difficult to accomplish simultaneously.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-ai-humans.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-ai-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-learns-to-type-on-a.jpg",
-          "width": 719,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-ai-humans.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-humans.amp",
-      "publishedDateTime": "2021-05-12T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

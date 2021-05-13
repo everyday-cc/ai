@@ -2,6 +2,328 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-23-artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.md",
+      "title": "Artificial intelligence helps identify new key-lock pairs against coronavirus",
+      "excerpt": "The human immune defense is based on the ability of white blood cells to accurately identify disease-causing pathogens and to initiate a defense reaction against them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "publishedDateTime": "2021-04-22T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame.md",
+      "title": "Xiaomi Is Said to Mull Investing in AI Chipmaker Black Sesame",
+      "excerpt": "Mobile phone giant Xiaomi Corp. is among investors considering joining a funding round of at least 1.5 billion yuan ($231 million) for Black Sesame Technologies Inc., according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.y9b1.0zKA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention.md",
+      "title": "Tesla drivers with 'full self-driving' warned of risks and need to pay attention",
+      "excerpt": "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "originalUrl": "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-ally-explores-fintech-products-using-quantum-computing-with-microsoft.md",
+      "title": "Ally explores fintech products using quantum computing with Microsoft",
+      "excerpt": "Ally Financial and Microsoft are collaborating to explore quantum solutions to challenges in the fintech sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/",
+      "publishedDateTime": "2021-04-22T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-deepracer-web-server-package.md",
+      "title": "DeepRacer Web Server Package",
+      "excerpt": "The DeepRacer Web Server ROS package creates the web_publisher_node which launches a Flask application as a background thread and creates service clients and subscribers for all the services and",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
+      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/a4aaeee8bb166429ad04631f571ebc391ef502f6b17f1824364e2ae380e5ca82/aws-deepracer/aws-deepracer-webserver-pkg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-mind-reading-for-robotic-limb-control.md",
+      "title": "Mind Reading for Robotic Limb Control",
+      "excerpt": "The aim of the research is to develop real-time mind-controlled robotic limbs for the disabled, according to an announcement made at an April 16 symposium in Aichi prefecture. Although brain waves ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
+      "originalUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-nba-using-microsoft-cloud-and-ai-to-power-courtoptix-and-bring-enhanced-stats-to-fans.md",
+      "title": "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans",
+      "excerpt": "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
+      "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png",
+          "width": 630,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
+      "publishedDateTime": "2021-04-22T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-the-challenges-of-applied-machine-learning.md",
       "title": "The challenges of applied machine learning",
       "excerpt": "But using machine learning in real-world applications and business problems—often referred to as “applied machine learning” or “applied AI”—presents challenges that are absent in academic and scientific research settings.",
@@ -870,306 +1192,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-5-robotics-stocks-that-will-make-your-life-easier.md",
-      "title": "5 Robotics Stocks That Will Make Your Life Easier",
-      "excerpt": "Robotics stocks are also part of this trend, which will transform the way we live for the better. According to one report, the robotics market will increase to $176.8 billion by 2025 from $76.6 billion in 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-that-will-make-your-life-easier-2021-04-22",
-      "originalUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-that-will-make-your-life-easier-2021-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water.md",
-      "title": "AI for good: Tech company and nonprofits protect forests, track river pollution and deliver clean water",
-      "excerpt": "DataRobot offers training and support to help organizations build sustainable solutions for environmental problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/22/7797a070-8d12-4d4f-ba59-94f49b431bcc/resize/1200x/ebd4809db499445bc5bf0080b51815dc/gettyimages-482130569.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "publishedDateTime": "2021-04-22T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
-      "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
-      "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630",
-          "width": 1140,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
-      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
-      "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
-      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing.md",
-      "title": "Akamai boosts traffic by 350% but keeps energy use flat thanks to edge computing",
-      "excerpt": "Content delivery network gets 23% of global power needs from green sources including two wind farms and one solar array in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
-      "originalUrl": "https://www.techrepublic.com/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/c769bfe0-c3f3-4ec1-b376-3a25f2c66ba6/resize/1200x/475dd41c47a53de3dc2e908c23d3e2c2/gettyimages-1195482922.jpg",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
-      "publishedDateTime": "2021-04-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-blackrock-tudor-group-back-cybersecurity-startup-deep-instinct.md",
-      "title": "BlackRock, Tudor Group Back Cybersecurity Startup Deep Instinct",
-      "excerpt": "BlackRock Inc. is leading a $100 million investment round for Deep Instinct, a cybersecurity software startup. Other participating investors include Paul Tudor Jones’s Tudor Group, Neeraj ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-22/blackrock-tudor-group-back-cybersecurity-startup-deep-instinct",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-22/blackrock-tudor-group-back-cybersecurity-startup-deep-instinct",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQdbDfR8P7aQ/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-deep-neural-networks-see-same-as-humans-but-differently-iisc-study.md",
-      "title": "Deep neural networks see same as humans but differently: IISc study",
-      "excerpt": "\"Therefore, even though these neural networks and the human brain carry out the same object recognition tasks, the steps followed by the two are very different.\" Their study also finds that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "originalUrl": "https://www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "publishedDateTime": "2021-04-22T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

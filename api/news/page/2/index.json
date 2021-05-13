@@ -2,6 +2,245 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-12-datarobots-zepl-acquisition-bridges-the-ai-divide.md",
+      "title": "DataRobot’s Zepl acquisition bridges the AI divide",
+      "excerpt": "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/DataRobot-Composable-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
+      "publishedDateTime": "2021-05-12T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes.md",
+      "title": "French scientists in Zimbabwe use facial recognition technology to ID giraffes",
+      "excerpt": "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this",
+      "sourceUrl": null,
+      "webUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
+      "originalUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.rfi.fr/media/display/f910e0e2-b328-11eb-8460-005056a964fe/w:1280/p:16x9/2021_05_12%20Giraffe%20populations%20are%20in%20decline%20across%20Africa-1.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
+      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
+      "publishedDateTime": "2021-05-12T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RFI",
+        "domain": "www.rfi.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-elon-musk-tesla-full-self-driving-v9-is-weeks-away-fsd-subscription-about-a-month.md",
+      "title": "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month",
+      "excerpt": "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
+      "originalUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
+      "publishedDateTime": "2021-05-12T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast.md",
+      "title": "New KPMG survey says AI adoption is picking up speed, but is it moving too fast?",
+      "excerpt": "COVID-19 left business leaders no choice. Across industries, organizations went all in on digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-139631966.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/",
+      "publishedDateTime": "2021-05-12T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-learns-to-type-on-a-phone-like-humans.md",
+      "title": "AI learns to type on a phone like humans",
+      "excerpt": "Touchscreens are notoriously difficult to type on. Since we can't feel the keys, we rely on the sense of sight to move our fingers to the right places and check for errors, a combination of tasks that is difficult to accomplish simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-ai-humans.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-ai-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-learns-to-type-on-a.jpg",
+          "width": 719,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-ai-humans.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-humans.amp",
+      "publishedDateTime": "2021-05-12T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-how-could-conversational-ai-shape-our-language-particularly-in-business.md",
       "title": "How Could Conversational AI Shape Our Language, Particularly In Business",
       "excerpt": "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice.",
@@ -244,7 +483,7 @@
       "originalUrl": "https://www.zdnet.com/article/a-closer-look-at-ibm-autosql/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -743,7 +982,7 @@
       "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -983,255 +1222,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-edge-ai-chipset-developer-simaai-raises-80m.md",
-      "title": "Edge AI chipset developer Sima.ai raises $80M",
-      "excerpt": "Sima.ai, a startup developing an edge AI accelerator chipset, has secured $80 million in venture capital backing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/",
-      "originalUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/amp/",
-      "publishedDateTime": "2021-05-11T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai.md",
-      "title": "Global Shipping Logistics, Legal Risk And Compliance, Another Arena For Artificial Intelligence (AI)",
-      "excerpt": "Shippers and their customers must be able to know where product are and when they will get to where they should go. They must also be able to show to governments that the ships and cargo are in compliance with law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2021-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-google-plans-to-double-ai-ethics-research-staff.md",
-      "title": "Google Plans to Double AI Ethics Research Staff",
-      "excerpt": "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "originalUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-336712/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "publishedDateTime": "2021-05-11T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-kfin-technologies-acquires-17-stake-in-insurtech-startup-artivaticai.md",
-      "title": "KFin Technologies acquires 17% stake in insurtech startup Artivatic.ai",
-      "excerpt": "The stake purchase in Artivatic.ai will mark KFin Technologies foray into Indias insurtech space as the General Atlantic-backed fintech firm looks to diversify its portfolio of services.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102294,msid-82550299/acquisition.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
-      "publishedDateTime": "2021-05-11T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-data-days-current-and-future-trends-in-ai-and-analytics.md",
-      "title": "Data Days: Current And Future Trends In AI And Analytics",
-      "excerpt": "The ability to gather, manage, analyze and utilize vast amounts of data — discovering new connections and gleaning new insights — is a true game-changer across a wide range of applications. Powerful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c133884a7c98bf1c1bbb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/amp/",
-      "publishedDateTime": "2021-05-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

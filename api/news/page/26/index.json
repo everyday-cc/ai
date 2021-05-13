@@ -2,6 +2,332 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-21-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
+      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
+      "excerpt": "Leading an AI/Deep Learning driven revolution in manufacturingArtificial Intelligence will drive its 3D-AI/ML Distributed Digital Fabrication",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-cerebras-launches-new-ai-supercomputing-processor-with-26-trillion-transistors.md",
+      "title": "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors",
+      "excerpt": "Cerebras Systems has unveiled its new Wafer Scale Engine 2 processor with a record-setting 2.6 trillion transistors and 850,000 AI cores.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
+      "publishedDateTime": "2021-04-20T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-deepmind-ace-joins-cambridge-quantum-computing.md",
+      "title": "DeepMind ace joins Cambridge Quantum Computing",
+      "excerpt": "Cambridge Quantum Computing has secured a major coup by hiring DeepMind’s Professor Stephen Clark as head of Artificial Intelligence. At DeepMind – the UK AI subsidiary of Alphabet Inc – Professor Clark was a senior staff research scientist and led a team working on grounded language learning in virtual environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
+      "originalUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/professor_stephen_clark.jpg?itok=hFjpCQl9",
+          "width": 605,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Weekly",
+        "domain": "businessweekly.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-companies-continue-to-prioritize-ai-and-cloud-for-innovation-investment-according-to-the-latest-transforming-business-poll.md",
+      "title": "Companies continue to prioritize AI and cloud for innovation investment, according to the latest Transforming Business poll",
+      "excerpt": "Business decision-makers polled in the most recent Transforming Business survey said that AI and cloud are the top areas for innovation investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4",
+      "originalUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60751a6c3e3fe7001882a41e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp",
+      "publishedDateTime": "2021-04-20T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-digitate-two-individuals-named-recipients-of-business-intelligence-groups-excellence-in-artificial-intelligence-awards.md",
+      "title": "Digitate, Two Individuals Named Recipients of Business Intelligence Group’s Excellence in Artificial Intelligence Awards",
+      "excerpt": "New Jersey-based Business Intelligence Group recently announced the recipients of its Excellence in Artificial Intelligence Awards, with the Indian American-led firm Digitate and two Indian Americans among the honorees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiawest.com/news/global_indian/digitate-two-individuals-named-recipients-of-business-intelligence-group-s-excellence-in-artificial-intelligence-awards/article_c20133f2-a1a0-11eb-8b91-0393affdf6fd.html",
+      "originalUrl": "https://www.indiawest.com/news/global_indian/digitate-two-individuals-named-recipients-of-business-intelligence-group-s-excellence-in-artificial-intelligence-awards/article_c20133f2-a1a0-11eb-8b91-0393affdf6fd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/0/19/019778d2-a1a1-11eb-9522-6b174fceb925/607e73b5af139.image.jpg?resize=504%2C630",
+          "width": 504,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India West",
+        "domain": "indiawest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-synthesia-raises-125m-for-ai-that-generates-avatar-videos.md",
+      "title": "Synthesia raises $12.5M for AI that generates avatar videos",
+      "excerpt": "Synthesia, a startup developing AI that can generate videos of avatars for marketing purposes, has raised $12.5 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/maxresdefault-3-e1618843541929.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/",
+      "publishedDateTime": "2021-04-20T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-health-systems-embracing-ai-use-in-6-recent-tech-partnerships.md",
+      "title": "Health systems embracing AI use in 6 recent tech partnerships",
+      "excerpt": "Health systems are embracing the potential benefits of using artificial intelligence and data analytics in their healthcare model with these six recent tech partnerships. The following articles were published by Becker's Hospital Review in the last week: Rochester,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-systems-embracing-ai-use-in-6-recent-tech-partnerships.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-systems-embracing-ai-use-in-6-recent-tech-partnerships.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
       "title": "Xilinx launches Kria chips to handle AI for edge applications",
       "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
@@ -750,327 +1076,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
-      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "publishedDateTime": "2021-04-20T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
-      "title": "How Face Recognition Can Destroy Anonymity",
-      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
-      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
-          "width": 2000,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
-      "publishedDateTime": "2021-04-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips.md",
-      "title": "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips",
-      "excerpt": "Anari AI raised $2 million in seed funding led by Earlybird VC, to rebuild the AI hardware industry from scratch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
-      "originalUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-carnegie-learning-acquires-zorbits-math-to-strengthen-its-supplemental-software-offerings.md",
-      "title": "Carnegie Learning Acquires Zorbit's Math to Strengthen Its Supplemental Software Offerings",
-      "excerpt": "Carnegie Learning, a leader in artificial intelligence for education and formative assessment, announced today the acquisition of Zorbit's Math, a supplemental math software solution and curriculum that uses game-based adaptive learning to",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19757125.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19757125.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-facial-authentication-for-vaccination-not-the-same-as-facial-recognition-nandan-nilekani.md",
-      "title": "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani",
-      "excerpt": "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said during Microsoft India’s ExpertSpeak event on Tuesday. Nilekani is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/",
-      "originalUrl": "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2021/04/tobias-tullius-4dKy7d3lkKM-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years.md",
-      "title": "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years",
-      "excerpt": "SHANGHAI, April 19 (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
-      "originalUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I04N",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2MB06V",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2MB06V",
-      "publishedDateTime": "2021-04-20T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-how-communicators-can-help-address-ethical-ai-risks.md",
-      "title": "How Communicators Can Help Address Ethical AI Risks",
-      "excerpt": "Fortunately, as communications specialists, we can work cross-functionally to evaluate AI-powered products or services, determine if they have ethical risks and champion actions to manage them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3ff457ad853db35f0dbc5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
-      "publishedDateTime": "2021-04-20T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

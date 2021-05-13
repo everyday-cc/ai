@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Scooter startup Bird to go public through merger with SPAC"
+    excerpt: "Bird Rides Inc. will go public by merging with a blank-check company, securing a new source of capital after venture capitalists largely lost interest in money-losing scooter rental startups. A special purpose acquisition company called Switchback II Corp."
+    publishedDateTime: 2021-05-13T15:31:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/scooter-startup-bird-go-public-through-merger-spac"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/needtoknow-01_i.jpg"
+        width: 792
+        height: 488
+        isCached: true
 
 secured: "EdNYzaYx9Ztfhdf0wM7InZXfQPTdzo668NedEeRq3VVeEaF7DNVGVba3w4ZDs0l+dXMe5f2Ce8f/5LvqcPYFSmNXaVGD5eF5UCr3/u39U8bzuecTEgDML7DAshfEHyVbT7RoSy8CRVcbNij4HQ+uAmIiaDz9QJuDIIcA3CMbNWauJFXe9heqYakfAB8ohqfk3vgNeOXxuMGPA2pBJMFsOeXsH98I2z+hywg1UTS1HBWcPeMdLCXPSMqWNO9wX9PYkF/W5T8V422Fq87vxUC8bcsyMbdF/SXSNlbzDC70Qe+kVUBhYKzbk08w5pw/+I29vLVnc8tlZXfvUqEqSzT26/F4vpFrfgUw0JwhM+qF8w4=;jPBhf5a1nurojkO/uBvUmw=="
 ---

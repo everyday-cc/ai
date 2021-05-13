@@ -2,6 +2,325 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
+      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
+      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/19/1119160.JPG",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers.md",
+      "title": "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
+      "originalUrl": "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
+      "title": "In a year of major shifts, the self-driving car market is consolidating",
+      "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/",
+      "originalUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/",
+      "publishedDateTime": "2021-05-02T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-baidu-launches-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu launches driverless taxi service in Beijing",
+      "excerpt": "BEIJING — Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-333010/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "publishedDateTime": "2021-05-02T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
+      "publishedDateTime": "2021-05-02T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-driverless-taxi-service-rolls-out-in-beijing.md",
+      "title": "Driverless taxi service rolls out in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing",
+      "originalUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/932/470/driverless-taxis.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp",
+      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp",
+      "publishedDateTime": "2021-05-02T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 NY",
+        "domain": "fox5ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai.md",
       "title": "This new robotics challenge could bring us closer to human-level AI",
       "excerpt": "Developing robots that can physically sense the world and interact with their environment is the realm of embodied artificial intelligence, one of the long-sought goals of AI scientists.",
@@ -847,353 +1166,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-the-4-fallacies-of-artificial-intelligence.md",
-      "title": "The 4 Fallacies of Artificial Intelligence",
-      "excerpt": "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
-      "originalUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
-      "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
-      "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1249937449.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
-      "publishedDateTime": "2021-04-30T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
-      "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
-      "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
-      "originalUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
-      "publishedDateTime": "2021-04-30T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
-      "title": "A scientist created emotion recognition AI for animals",
-      "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
-      "originalUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-the-robot-surgeon-will-see-you-now.md",
-      "title": "The Robot Surgeon Will See You Now",
-      "excerpt": "As he moved the handles — up and down, left and right — the robot mimicked each small motion with its own two arms. Then, when he pinched his thumb and forefinger together, one of the robot’s tiny claws did much the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/04/science/00SCI-ROBOSURGERY-vidcover1/00SCI-ROBOSURGERY-vidcover1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html",
-      "publishedDateTime": "2021-04-30T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-how-the-global-chip-shortage-could-impact-your-business.md",
-      "title": "How the global chip shortage could impact your business",
-      "excerpt": "It will likely take at least 18-24 months to stabilize the supply chain. Until then, many companies will be affected (some more, some less).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-10161933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "publishedDateTime": "2021-04-30T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-hot-stocks-to-buy-today-4-tech-stocks-trending-now.md",
-      "title": "Hot Stocks To Buy Today? 4 Tech Stocks Trending Now",
-      "excerpt": "The company has five segments in the tech industry. It includes cloud and cognitive software and also global technology services. IBM stock currently trades at $141.34 as of 1:15 p.m. ET.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/370826",
-      "originalUrl": "https://www.entrepreneur.com/article/370826",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-370826.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/370826",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370826",
-      "publishedDateTime": "2021-04-30T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

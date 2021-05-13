@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
 type: article
 quality: 189
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "The secret to successful enterprise AI, automation transformation"
+    excerpt: "Experts have suggested that businesses embrace artificial intelligence and automation for years, and the pandemic gave the world a concrete reason why. “Companies that invested ahead of time in automation technology"
+    publishedDateTime: 2021-05-13T14:59:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/secret-successful-enterprise-ai-automation-transformation-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Ed-Lynch-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
     publishedDateTime: 2021-05-11T07:57:00Z
