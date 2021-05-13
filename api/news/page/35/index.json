@@ -2,6 +2,50 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-04-12-microsoft-ramps-up-focus-on-healthcare-ai-with-197b-nuance-acquisition.md",
+      "title": "Microsoft ramps up focus on healthcare AI with $19.7B Nuance acquisition",
+      "excerpt": "They formed a partnership in October 2019 that began by adding Nuance’s note-taking ambient AI to Microsoft’s Azure cloud computing service so it could be more easily integrated into healthcare providers’ electronic health record platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/medtech/microsoft-ramps-up-focus-healthcare-ai-19-7b-acquisition-nuance",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/microsoft-ramps-up-focus-healthcare-ai-19-7b-acquisition-nuance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1618239120/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?qudK_nywquIfw3O_HYthho9tDPC8zEQ5",
+          "width": 884,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-uses-machine-learning-to-predict-attackers-next-steps.md",
       "title": "Microsoft Uses Machine Learning to Predict Attackers' Next Steps",
       "excerpt": "Researchers build a model to attribute attacks to specific groups based on tactics, techniques, and procedures, and then figure out their next move.",
@@ -1036,40 +1080,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-orenda-chooses-eml-for-its-alluring-zero-code-fintech-as-a-service-platform-in-the-uk-europe.md",
-      "title": "Orenda Chooses EML For Its Alluring Zero-code FinTech-as-a-Service Platform In The UK & Europe",
-      "excerpt": "EML Payments Limited (ASX: EML) (S&P/ASX 200) is delighted to partner with Orenda, the zero-code, machine learning Banking-as-a-Service challenger built on event-driven, serverless technology. Orenda is empowering businesses and non-financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/orenda-chooses-eml-for-its-alluring-zero-code-fintech-as-a-service-platform-in-the-uk-europe/",
-      "originalUrl": "https://www.financialbuzz.com/orenda-chooses-eml-for-its-alluring-zero-code-fintech-as-a-service-platform-in-the-uk-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

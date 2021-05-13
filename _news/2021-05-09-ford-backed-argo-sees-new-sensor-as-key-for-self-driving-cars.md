@@ -75,22 +75,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
-    excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
-    publishedDateTime: 2021-05-08T11:08:00Z
-    webUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
-        width: 480
-        height: 264
-        isCached: true
   - title: "Elon Musk Announces Release Timeline For Tesla's Improved Self-Driving Feature"
     excerpt: "Musk announced via Twitter that his car company's newest fully self-driving system may come sooner than expected."
     publishedDateTime: 2021-05-12T16:52:00Z

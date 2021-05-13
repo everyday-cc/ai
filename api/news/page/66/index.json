@@ -2,6 +2,51 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-03-04-aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy.md",
+      "title": "AWS launches webinar for marketers looking to maximise their machine learning strategy",
+      "excerpt": "Machine Learning for CMOs: How to personalise the customer experience and drive innovation in marketing will see Mumbrella, Amazon Web Services ... at the Australian Financial Review, has worked ...",
+      "sourceUrl": null,
+      "webUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
+      "originalUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mumbrella.com.au/wp-content/uploads/2021/03/Untitled-design-1.png",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mumbrella",
+        "domain": "mumbrella.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-7-ways-to-ease-computer-vision-syndrome.md",
       "title": "7 Ways to Ease Computer Vision Syndrome",
       "excerpt": "Experiencing computer vision syndrome doesn’t mean you need to completely give up your screen time, though. The way you view a digital screen can make a big difference. To learn more about ...",
@@ -1046,59 +1091,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-rbac-support-is-now-generally-available-on-azure-machine-learning.md",
-      "title": "RBAC support is now generally available on Azure Machine Learning",
-      "excerpt": "At Microsoft's Ignite 2021 conference, the company has announced a host of new capabilities now available across its Azure Cognitive Search and Azure Machine Learning solutions. Additionally, it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
-      "originalUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/03/1614629172_azure_percept_story.jpg",
-          "width": 760,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

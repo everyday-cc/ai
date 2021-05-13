@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-04-05-edmonton-alberta-on-the-short-list-for-global-players.md",
+      "title": "Edmonton, Alberta: On The Short List For Global Players",
+      "excerpt": "This is why Google’s DeepMind chose the Edmonton region for its first international lab. “We’re going to solve AI,” says Adam White, senior researcher at DeepMind, “and we’re going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
+      "originalUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.businessfacilities.com/wp-content/uploads/2021/04/BF-JanFeb21_Edmonton_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
+      "cdnAmpWebUrl": "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
+      "publishedDateTime": "2021-04-05T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Facilities",
+        "domain": "businessfacilities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-ai-upscaling-and-the-future-of-content-delivery.md",
       "title": "AI Upscaling And The Future Of Content Delivery",
       "excerpt": "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ...",
@@ -1088,58 +1131,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc.md",
-      "title": "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc",
-      "excerpt": "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

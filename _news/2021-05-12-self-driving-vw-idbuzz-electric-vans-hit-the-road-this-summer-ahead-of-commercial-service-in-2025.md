@@ -25,34 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "When will self-driving cars hit the road?"
-    excerpt: "Tech enthusiasts often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers. Anticipation tends to build around everything from the"
-    publishedDateTime: 2021-05-11T20:47:00Z
-    webUrl: "https://www.tctimes.com/when-will-self-driving-cars-hit-the-road/article_1c167eb0-b29a-11eb-914e-03b6454735b6.html"
+  - title: "Volkswagen, Argo AI to Launch International Trials of Self-Driving ID. BUZZ"
+    excerpt: "Volkswagen AG and self-driving startup Argo AI will launch international autonomous driving trials of the all-electric VW ID.BUZZ microbus this summer, the German automaker said on Wednesday. The first self-driving prototypes based on the ID."
+    publishedDateTime: 2021-05-12T20:21:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/volkswagen-argo-ai-to-launch-international-trials-of-self-driving-id-buzz"
     type: article
     provider:
-      name: Tri-County Times
-      domain: tctimes.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/0/fc/0fc65ede-b293-11eb-a927-0b228025159c/609ae191e8eb7.image.jpg?resize=475%2C630"
-        width: 475
-        height: 630
-        isCached: true
-  - title: "Less than a third of car buyers support self-driving cars on UK roads despite government plans"
-    excerpt: "New data has shown that less than a third of drivers support self-driving cars on UK roads despite changes to government legislation.  Only 29 per cent of"
-    publishedDateTime: 2021-05-12T07:27:00Z
-    webUrl: "https://cardealermagazine.co.uk/publish/less-than-a-third-of-car-buyers-support-self-driving-cars-on-uk-roads-despite-government-plans/223145"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Volkswagen Will Start Testing Autonomous ID.Buzz In Hamburg"
+    excerpt: "If you see an ID.Buzz with a bunch of sensors driving around Hamburg this summer, don’t be freaked out if you can’t see the driver. Those sensors can see you. Volkswagen Commercial Vehicles and Argo AI will be testing level 4 autonomous driving technology around the German city with a view to getting it in consumers’ hands in a few years."
+    publishedDateTime: 2021-05-12T17:32:00Z
+    webUrl: "https://www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/"
+    ampWebUrl: "https://www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/amp/"
     type: article
     provider:
-      name: Car Dealer Magazine
-      domain: cardealermagazine.co.uk
-    quality: 12
-    images:
-      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2021/05/280685_Volvo_Cars_teams_up_with_world_s_leading_mobility_technology_platform_DiDi-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
+      name: Carscoops
+      domain: carscoops.com
+    quality: 22
 
 secured: "Dae8itqDk55WIlXG/Ngh2LXF76y4xUcW6Yg7qluZMUnmlBId3FZKQawNxvQuUP36jPzonHUoGX8awAaeE4QmnA5BilTzod1C/XL1tv3JPfOTsoZapVD/4ZR3TbG8/y2cxdjtXxdvehgEZiLh7CXT/RTLZDe4IfxPac/tqOPQ3tnX1Y8H95bQDyiNcnyQeMxZaKcagvdPxdDObzUgR63syjdVJIelG5SB+GAKLZ4nAXQH+SexX8dq9saFzm73r+YdZ3NUEIMkySwKiRRtqN8izXhqrOAZi/t2355DIqMYnkmC+1UcNml3lNvDnwOUhV01xVjUZ1ddE8uOvVwOKaAso1A5cEYw33Gdodwm4eCWXKAoIQS6QWQzKk3l/njGW3Hl5r2uJHrwkvHWRv+bdNsJd3CJNlBzwLtIvfY673mxC7WsYfuyYaUydNqo33+DjwASMr30M4gNbcIHx83psH7Ded0bvb6f6u9ACwXn1sTAXVH0ktDMxS6WfjCN6rtBp0+ReydXpd1ywhGASNb6QBSPkA==;tgqdFjTFrtVn+LxlK2yGPA=="
 ---
