@@ -15,7 +15,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=q_wYjF8AAAAJ
-  citations: 250633
+  citations: 250882
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Francisco Matorras"
 
-secured: "OA8bTHW0tdTN+bq2Sr0JHL9tHXS+1NG0y6KnirEdEAXcLPJFYqpwFxDU1zRa+TvMjorIoBL7BLcRXwtbVntiF5qhVOVbf4PmxQGboGuc7QI4zxy9G0luxbsLU7IzfBBp7K9SBwaJudi/QVp5xPagXh0pxcMfUH2iXMutC/Afz1qUp29XU5h/fJYgjj1O48LyWTSPwYbhyy1Mt3xKQRuEUqvvrjuSqmYuCFSbtjysb8Mg8ZmLHzM9uWMB9+Bej2z6xyUFzmfpjJd6jfdBJV8qJ75W8oDADvjooT1EN4bqiZhFYEd7hdA7+jLW9YZsxufTWRvL34C6xIvkqI0cwMPJAgbdJSp0vkhUojlef/Ip00tXrV5i5qvekC4tcTIabq+XMw5Wk2rsLac1HeCub4/l7CWg/XY6lmn0MBcrixEw3uA=;c+TRHqMZGLbrKIQwRVuEtw=="
+secured: "nZOL50Cs0TmmSpdPLe7/iFcwpykmnEmO1FOwZDraBoUa94YVMy/J/o425N2OdDudEXOcdDbopffEFJl4SNYUH/OStYdgSOleMoSmgNIbjapg0rbsQZ46cbQyGn48XTIvPjKxE8JBdOZvVTS5dF4T4juHl3NW/g3OCpitFppGEJ7kdcmr8xoCyyiltDL7QQMKx3p5Ri/dAwUbRJ0K2rGXIoYz0qWrtgIzlgp9cL8w9uyh9r/uxDecHY+E0NeGWm7JCUIKz4tdd/oCdTU1QITNXmTfakw1/nHR+Abv6CgTWfZS7SV8HQn5SD5RgWvqaTym5WRbFjpVEiSMfawIEzYvx0WQtjwmQcd2BgsZZFZyU9Hp4tc2AH7y+6nlzdZiqFMfOAnwQiajgk42p1O1dpNr0sEqo/MD0i6iKqMFVfHKQhA=;oJ5VjI8TX0Fu4tNOud2piA=="
 ---
 

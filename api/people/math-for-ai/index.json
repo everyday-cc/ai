@@ -17,11 +17,11 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 10474
+        "followers": 10475
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 172428
+        "citations": 172582
       },
       "affiliation": {
         "path": "",
@@ -33,7 +33,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 108,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
@@ -57,11 +57,11 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 7053
+        "followers": 7055
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 169552
+        "citations": 169636
       },
       "affiliation": {
         "path": "",
@@ -73,7 +73,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 71,
+      "heat": 119,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
@@ -134,7 +134,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 210221
+        "citations": 210333
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
