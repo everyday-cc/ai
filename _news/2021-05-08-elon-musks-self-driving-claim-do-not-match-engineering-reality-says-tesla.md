@@ -187,6 +187,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 31
+  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
+    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
+    publishedDateTime: 2021-05-12T23:05:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 11
 
 secured: "mdp0feB9VzYyJvE4FyPSUPMvGqvk2q+qlMYBW/B/Cb/sKETwVLVVcX2eu0VPTD/h4EXUP2QDboEHR7kFX2Wx9f2dcyzbhMSIjBu2x6P1IkJZJENXqkmIpO9+vvsowUEwzUrYO12yUWf58jcsXCduhzZfbHDmiJ48Eescm6DS8vvwFuGuwNHX74tr3NiOU5SDIOfVaxWaNR823xI0pGGNZfQZB0rOCb3e021EgoaBlNYzr8MDdHqGf4WZ8ZWio8Sx4qOiFMtuDgZFXV2cP0L9elLD/YN19wB6PufPMmMW86iUFPBWAYPIKAKFbDEb90iy6IMRw9lKj+pu77QovMIdRxwOCEyhAxgCfxiMVI5EYKk=;b/30pAt18Qk0/CrAF0G+zA=="
 ---

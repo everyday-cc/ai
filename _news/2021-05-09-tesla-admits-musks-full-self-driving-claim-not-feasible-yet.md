@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk says Tesla new self-driving rollout could take a couple of months"
-    excerpt: "Boss Elon Musk said Tesla Inc is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months."
-    publishedDateTime: 2021-05-12T19:27:00Z
-    webUrl: "https://www.reuters.com/article/tesla-autopilot-idUSL1N2MZ32Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MZ32Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MZ32Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month"
     excerpt: "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand"
     publishedDateTime: 2021-05-12T13:14:00Z
@@ -73,6 +57,31 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Tesla Privately Admits Elon Musk Exaggerated ‘Full Self-Driving’ Cars"
+    excerpt: "Tesla’s Autopilot system has been exaggerated by Elon Musk, the company has admitted in a new memo. Back in February during an appearance on the Joe Rogan Experience podcast, Musk said, ‘I think Autopilot’s getting good enough that you won’t need to drive most of the time unless you really want to."
+    publishedDateTime: 2021-05-08T11:34:00Z
+    webUrl: "https://www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 59
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Fteslaselfdriving.jpg"
+        width: 1200
+        height: 619
+        isCached: true
+  - title: "Musk says Tesla new self-driving rollout could take a couple of months"
+    excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
+    publishedDateTime: 2021-05-12T20:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months-2021-05-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:38:00Z
@@ -82,6 +91,31 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
+  - title: "Tesla admits that the ‘full’ in its Full Self-Driving autopilot is a lie"
+    excerpt: "Tesla's Autopilot is still Level 2, which denotes a semi-automated driving system that still needs constant supervision by a human driver."
+    publishedDateTime: 2021-05-10T15:26:00Z
+    webUrl: "https://knowtechie.com/tesla-admits-that-the-full-in-its-full-self-driving-autopilot-is-a-lie/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 38
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/consumer-reports-tesla-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
+    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
+    publishedDateTime: 2021-05-12T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 36
 
 secured: "Dh5Hrf0033L15FVSJc6EWqBvWlV2MQPxrXm3g3NnofuvMj2viMfgp2b1OVr0q4v5XpMPRJUOYdpvrXTEAT4vvPkkuy52TjMGVrTrEcDrEu/C1qJr+36KVJGjLcHlsM1amMtmF3bQoUNFD74vv7DRBjJCv85NNrKCcaN6/MJziHkOCovsL/A/enEOidVTXeTeRrzxJ2Xx4fqGj4GUBJ6P4poaKoohBmnBzGWz0H7XGh9/bgvf+r1wqYFPG/hviziNJf7OPQ2n3vkhq2a1w/F/i4CU8trA4dg3D3nAkb5O17V8o/dkATkEqKhv/IxYwkVP9WC1kKInauj7hzOcqQdM7Eg064GZWUul7sscpb4RUf8=;Yf4vCdYl7YZReWxMItrw8w=="
 ---

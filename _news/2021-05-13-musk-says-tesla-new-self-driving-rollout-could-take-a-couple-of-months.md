@@ -1,34 +1,22 @@
 ---
 category: news
 title: "Musk says Tesla new self-driving rollout could take a couple of months"
-excerpt: "Boss Elon Musk said Tesla Inc is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months."
-publishedDateTime: 2021-05-12T19:27:00Z
-originalUrl: "https://www.reuters.com/article/tesla-autopilot-idUSL1N2MZ32Q"
-webUrl: "https://www.reuters.com/article/tesla-autopilot-idUSL1N2MZ32Q"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MZ32Q"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MZ32Q"
+excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
+publishedDateTime: 2021-05-12T20:22:00Z
+originalUrl: "https://www.nasdaq.com/articles/musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months-2021-05-12"
+webUrl: "https://www.nasdaq.com/articles/musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months-2021-05-12"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month"
@@ -63,6 +51,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Tesla Privately Admits Elon Musk Exaggerated ‘Full Self-Driving’ Cars"
+    excerpt: "Tesla’s Autopilot system has been exaggerated by Elon Musk, the company has admitted in a new memo. Back in February during an appearance on the Joe Rogan Experience podcast, Musk said, ‘I think Autopilot’s getting good enough that you won’t need to drive most of the time unless you really want to."
+    publishedDateTime: 2021-05-08T11:34:00Z
+    webUrl: "https://www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 59
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Fteslaselfdriving.jpg"
+        width: 1200
+        height: 619
+        isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
     publishedDateTime: 2021-05-09T01:43:00Z
@@ -86,7 +90,32 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
+  - title: "Tesla admits that the ‘full’ in its Full Self-Driving autopilot is a lie"
+    excerpt: "Tesla's Autopilot is still Level 2, which denotes a semi-automated driving system that still needs constant supervision by a human driver."
+    publishedDateTime: 2021-05-10T15:26:00Z
+    webUrl: "https://knowtechie.com/tesla-admits-that-the-full-in-its-full-self-driving-autopilot-is-a-lie/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 38
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/consumer-reports-tesla-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
+    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
+    publishedDateTime: 2021-05-12T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 36
 
-secured: "7F7nLJlLbazqOdxeBzIIDRxHphcVR/mUK03E6gBO/ZFvbqwUPgS7s7zyUv5v4VBKD2UnyL5MzY7HpUyHHRf5y4+Vu7S8wmJ/L4LD/gmpMGhBiJ7f4YbPMbWv78urermgOTBIVK7dF36qedFWkkL8wdBQiCFC2v09blYjN/iFuk5/Qxs6cfjVKIEO8M3bNMkicKv2Y31RBeW+kSIDVXhzEpy9W9truHNZWE4MgSKZ+vWoOXj/tvhPfo+0MkjNKeKDIFS69N7BrjSE1aBl/2XuwjGglM2YB2fO84YMRP+YAj9TVK7CIs8WHjWzQXQVgI6iP0JdfE23uShF66cnLGlJqHiDqv55ssZUhwD18qGt89c=;gCwZanR1HUS70u6ROmuhRw=="
+secured: "+RH735ppiaLHuYbcHOC2jJ56pWS4Vco7zpt8mlmvhsP4N6f15wzLz9waNjP6IPrGFIG3ozRcA7Dc3bv4PYH0p+2POVK4WyytHcFR48dsG5xjmz2r6KeMBJebINxW+LdLQkAqvchJ4YEbR2v1Rb+4yA9BXqyHjoaIXxr/4IJfZZlG5YKiSOUm+1QH4/mJyzV5xeMPcXsegUEfWTAH1m4Am2InXtFEKE09RW0RLN8HazHqYsmqIMH1gHKBjwqzeoFIIXek8HcbWxuruZj/F9I8ejAA8q5IkcpByyDJ9uTG0cXQJ2IBf/YD8jqfqUMsbz8Nm6j9WITzPoltNXfZhmP/G8guPwbXhy0W8TnurQ30lT4p/e8zwbUiXG02A3oKHx1dMWhmHErywX+k4pcItg0YnuYKWKqYaSpUgrqi9p8khG36heQoP7NOKZrjcsyQpzmQWulspbOBON/+XbRi4iDt2WvYKTPGT2xv9UuHne8hrC7cjpmmEFphFuAGO2d4YPtrTesJPv8kyfb854u4GFPZyQ==;1mDxqk1OhbtCfvi5AOIqrQ=="
 ---
 

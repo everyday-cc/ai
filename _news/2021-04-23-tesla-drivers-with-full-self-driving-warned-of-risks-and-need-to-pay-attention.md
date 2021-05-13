@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
-excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
-publishedDateTime: 2021-04-23T00:32:00Z
-originalUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-webUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+excerpt: "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla."
+publishedDateTime: 2021-04-23T02:04:00Z
+originalUrl: "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+webUrl: "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
 type: article
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 678
     isCached: true
 
-secured: "+wNcLEGsiWq01Hf6ZqXkrwUliVNa/gaLDZN02aGtapUOa9LJ9Ng5K8d81xMj+4JYSMcBcFSKBytjFdTDAtKNBPuvtNzxbJpnc2VnrLT4DeLahxkHymIy1mEbXPtjeQSY+rNmEam9zeWs2Zv/I3s/BzFINQWjqTVEpTa6aZnvEmj4nFFYWqbhFyCf/1k2ZdaKtkIWOwnaPBVxStObt87MjB2Yf69hR+7UuD3VzCJvOR5eARDoD2D6tfQ5h1cJzBZt7SkwwkZ2kgXtXkg7CDfz72fnToznpBe2Al1R49yuHGzUm1GC9TYMvNxd/L+P9TRztMSSKTmb94c2Qszlf+3orHbeMIYAcH+BJpO4jIne8oWUJ/Z8RUzYNS9K0g4PnHmyMalRJBdI4tkEsKkChXVEBxXBN9tY0qAKG5k3i6Ra4tzT8oLh9w3cnSf00Av5kd+ahaKeZ6mc/cfSmDUWvl/Lc3GE3v2e6tmwRGEWpW9xYXk6WceA/+CHdnHQMuzUxFrl5VL06NQndXAfKOgp3MFulA==;rhgxHKyHnPWjDvOGjTrYkw=="
+secured: "vUTAduThGfPwG466FekSW6N4wSO05CIZMpo7ZXSA1qPVouIvaTql7swo63ECKR4z+2AlzqAjSeHZiymo+zULBSrJ2c0FsDsUb63YoirG+8UnTxewu1aiHqoBp2fzwwE09dSsBCgc9UBYrrOGfPA8f2tKp7bCXPxh+q/53QDX/bZtHihP8uceG9AJfsoNDlJSyFW0xW5IKKzG6gPRqRgaF5r/x9rAVhSia7ZTBiFhHYVHJacis46yS1rGMKfEAzvOzpfbFKMfxlHTQ4yzq1z4ouOGNhMX0VRs7vAOzkJNXD/Z/WUb2XAexZLLbhRmsS8uUCE4voUaJ6ohr+t/RPNLjTDBEY+MSAIy3YaIv1qOzJA=;1/ZulB8AM/aJ3UGGA8nAag=="
 ---
 

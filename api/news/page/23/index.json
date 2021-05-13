@@ -2,21 +2,21 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-04-22-ready-set-think-mind-controlled-drones-race-to-the-future.md",
-      "title": "Ready, set, think! Mind-controlled drones race to the future",
-      "excerpt": "Scientists have been able to detect brainwaves for more than a century, and mind-controlled technology already is helping paralyzed people move limbs or robotic prosthetics. But now the technology ...",
+      "path": "_news/2021-04-22-self-driving-cars-are-still-a-long-way-off-here-are-three-reasons-why.md",
+      "title": "‘Self-driving’ cars are still a long way off. Here are three reasons why",
+      "excerpt": "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today’s “self-driving” technologies. Tesla cars include an “autopilot” feature which monitors surrounding ...",
       "sourceUrl": null,
-      "webUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html",
-      "originalUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html",
+      "webUrl": "https://gcn.com/Articles/2021/04/22/self-driving-cars-challenges.aspx?Page=2",
+      "originalUrl": "https://gcn.com/Articles/2021/04/22/self-driving-cars-challenges.aspx?Page=2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/04/22/BC-US-Brain-Controlled-Drones-IMG-jpg-640x414.jpg",
-          "width": 640,
-          "height": 414,
+          "url": "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png",
+          "width": 760,
+          "height": 368,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html/amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-21T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
+        "name": "GCN",
+        "domain": "gcn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Autos",
         "AI"
       ]
     },

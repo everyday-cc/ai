@@ -41,6 +41,15 @@ related:
         width: 6517
         height: 4345
         isCached: true
+  - title: "Alphabet Waymo Self-Driving Unit CFO Following CEO Out the Door"
+    excerpt: "The chief financial officer of Alphabet Inc's self-driving unit Waymo is following its chief executive out the door, the company said on Wednesday. Waymo confirmed that CFO Ger Dwyer is leaving the company."
+    publishedDateTime: 2021-05-12T20:39:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Exclusive - Waymo, Cruise Seek Permits to Charge for Self-Driving Car Rides in San Francisco"
     excerpt: "Alphabet Inc’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed, setting the stage for the biggest tests yet of their technology in a dense urban environment."
     publishedDateTime: 2021-05-11T22:24:00Z

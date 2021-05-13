@@ -1,36 +1,40 @@
 ---
 category: news
-title: "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again"
-excerpt: "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot."
-publishedDateTime: 2021-05-12T17:45:00Z
-originalUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
-webUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
-ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
+title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
+excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
+publishedDateTime: 2021-05-12T23:05:00Z
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
 type: article
-quality: 93
-heat: 213
-published: true
+quality: 11
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg"
-    width: 2500
-    height: 1667
-    isCached: true
-
 related:
+  - title: "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again"
+    excerpt: "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot."
+    publishedDateTime: 2021-05-12T17:45:00Z
+    webUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
+    ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 93
+    images:
+      - url: "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
     publishedDateTime: 2021-05-08T09:19:00Z
@@ -191,16 +195,7 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 31
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-12T23:05:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 11
 
-secured: "bOaSl8BWPvsHgiFhlkgAY/pkdHbvA2n8SIRpp5CrgQKJMs7hIBNL3YhtLC1/axNKZGg1l1hg8KFNyqV5HAWKUryy0JPVMIXUhZpuSWyKOn+56bwR5o9kai09ggjLfI1MWTmwlU0eKQPhFpy74P+Cd7v/LMhXBVrLEiATsUBoScLUuzjwz5H3IhkJ3OfaZ6DA4EfYbzZdQmI5z9d1HSG5nFxaoRfcxtoOwPQXs7RPxFdHjdQYfUL8LQ+Ts9UQztMEsA7/Fr8SGe0MN70Vj2/p1Hy5OcWBmkue47cFgNaU1eUOnaaM/A7AbXjXpCYWigAiDEqH1wv6DFHY7/rtaQzb9Ws8YNxIQEr6OPfpuLf4gsE=;7O8l0I7FUgq348sU02Zocw=="
+secured: "y2Fm9feB3ODv5DCONU2A5gP8TSbzPAEfzna+wEG6v6Ky8QQBJSJbdVPaRzH9Wed8EdqJOomPup1PEzLne/k5kNOiATqs69/f/fMthZJL+lZIFL3lAOl8ZNFIC1SVloiWjtzWHwz7yUWmJ/Y5326qDUFambJSiAxIQtRPwD28jL/1cS4jsB7scBOjoosvD9iKjhJ7dsgcMIppGYZO7xfYBmcu83tqvMCSijCXkgOPdmEHZqSrEbwVi+Gtkpd9zAUanZ954ZbojZyK9D2zLbeDtnfiQXz1kOmKNYOtuanRpg77jX/npu+19+jBiRBN37lf/XXBHAoI8xFNqBJbzeSmivxzeNOhKOSsS/OxVrhs2h8cIhbEUXTzk/vybCuUksETZNwKaOxgHeO6XUpCyUBfnxIy59Uu0uclQ+uvifjub6fY3ObUa4k3nG3tpRFNo06FyiqEj+DLOlrNUwmULZvKCYg3nKnrmK1Wn7lErJqwZNJuQVgmxrDS3MghdNPebOi8qsWdcwTAhIc2dTKdpN2E4A==;HhTZYelHonbrm0FTUJhj5A=="
 ---
 

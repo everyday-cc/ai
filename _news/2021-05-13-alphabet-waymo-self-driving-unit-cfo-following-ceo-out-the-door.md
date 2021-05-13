@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Exclusive - Waymo, Cruise Seek Permits to Charge for Self-Driving Car Rides in San Francisco"
-excerpt: "Alphabet Inc’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed, setting the stage for the biggest tests yet of their technology in a dense urban environment."
-publishedDateTime: 2021-05-11T22:24:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-05-11/exclusive-waymo-cruise-seek-permits-to-charge-for-self-driving-car-rides-in-san-francisco"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-11/exclusive-waymo-cruise-seek-permits-to-charge-for-self-driving-car-rides-in-san-francisco"
+title: "Alphabet Waymo Self-Driving Unit CFO Following CEO Out the Door"
+excerpt: "The chief financial officer of Alphabet Inc's self-driving unit Waymo is following its chief executive out the door, the company said on Wednesday. Waymo confirmed that CFO Ger Dwyer is leaving the company."
+publishedDateTime: 2021-05-12T20:39:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
+webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
 type: article
-quality: 38
+quality: 49
 heat: -1
 published: false
 
@@ -39,15 +39,15 @@ related:
         width: 6517
         height: 4345
         isCached: true
-  - title: "Alphabet Waymo Self-Driving Unit CFO Following CEO Out the Door"
-    excerpt: "The chief financial officer of Alphabet Inc's self-driving unit Waymo is following its chief executive out the door, the company said on Wednesday. Waymo confirmed that CFO Ger Dwyer is leaving the company."
-    publishedDateTime: 2021-05-12T20:39:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
+  - title: "Exclusive - Waymo, Cruise Seek Permits to Charge for Self-Driving Car Rides in San Francisco"
+    excerpt: "Alphabet Inc’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed, setting the stage for the biggest tests yet of their technology in a dense urban environment."
+    publishedDateTime: 2021-05-11T22:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-11/exclusive-waymo-cruise-seek-permits-to-charge-for-self-driving-car-rides-in-san-francisco"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 49
+    quality: 38
   - title: "Waymo, GM's Cruise seek permits to charge for self-driving rides in San Francisco, report says"
     excerpt: "Alphabet Inc.’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed,"
     publishedDateTime: 2021-05-11T23:28:00Z
@@ -63,6 +63,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ShxlJvTJGNQTs3a88P6g1IS7dBxZiHvEtr5Uj1L5rrEcmADfMBghyV/iG41+dAxseKlRCb2m8h8Zx3aRR7EWss3LyhKAqrgYd3nVGEGAcMqv1D5/stT6Z7EUAedKUn+iui4+hANkG50M/50pGZd1Sv2E07TYc6h+Tch33kgVcLoUiOLoSDL0agTarDu5FaXeG/Orh0Wtz6V8vdclrNmLdA6YeTP/+8x5L5UqMhgemAOMBTmfHiBRxueEcd3b1EyEQK6+ihwBwYNQ/raUvusw35xXGZ/B26NsdJHADp5v+p4tWr+upJP+j0+h7xBCe55QLmzGoKzcmFW/JwDH0Tv4LQGolYvkrqYQRX/zp6+xetcwgC5Cdpc+tFClB/Y8Ugncs/NWZS5V3CJ12xQ/mRMv0ThcFMZSH7VljOtzs/DJVpZeW7PhJo066HUePOzEgqBYs+ztSqcfSUWSu8cyFl1Uqa4GIn252AZopzAcAOVoW1PwwQNCYtoj66W69E2lTstjStRonLyakYdBm/IFMoJxZg==;lWG54rTmaH363s66QZpS+w=="
+secured: "LJp64m+miIqXUNvhqh7ycSWee/PWOVN+tBE7DDd3QTMuLFg043M2it+6uHZBM4wYPaAqmg46qzljHp6IxjPQ33Q3Tum7g1WCIwbZQG0R6DYTlbJxAh1/agJcT7hweEat6qoFPbv+riBjHv/h9XKAYGThLfV8o0jy7vkAL9UIW+y7ty4UWv1MIg1Rekn/uaHRGJHUWtcr5C0BHzg6AemEVFqo8/3twM5bDGnvLO7FiIgF7mKCGwA8sNIH2Ua0zu8vdhcwg8sjlkQ981GkBvXCjMcVYM1W/m0go7bHnbwzO5xfRQgUJfsTKQgcG+0A99VX5QZQ7+vEPe8h0iw1oTvY4szS5TB7Bngo5PqSDnj1gR0Ior6oAQryyn/TBdWcAfpA2r9ED6kyRiwqxFL+700DvRdbD//IplnL43cTMsBZVHwE0zUAkesmRRsBFdc7YHrdi6jcBkaSAh4cjv3x5yKuF695AHdgEQHHf8Bx6sxc9fwLSvH8S1VXaRyk+SPgPXKS9VG5tbR9dZwWMjCmENQTCQ==;WLcCgnXNx0DQ/7datFR0fA=="
 ---
 
