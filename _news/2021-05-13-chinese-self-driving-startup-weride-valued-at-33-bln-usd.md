@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 589
         isCached: true
-  - title: "Driverless taxis to cancer drugs: Google's moonshots are serious business"
-    excerpt: "Alphabet could be underinvesting in the sustainability of its prosperous main business while overinvesting in adventurous sidelines."
-    publishedDateTime: 2021-05-09T01:41:00Z
-    webUrl: "https://www.business-standard.com/article/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/09/full/1620523537-7541.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Top 10 Chinese cities by AI innovation power"
     excerpt: "The latest China AI Development Report for 2020 and the AI Open Index were released during China's annual meeting for artificial intelligence in Jiangsu province from Sunday to Monday. According to the report,"
     publishedDateTime: 2021-05-10T00:18:00Z

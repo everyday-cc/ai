@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-mac
 webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 14
+  - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
+    publishedDateTime: 2021-05-13T17:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "1etBcoD5Q+55Wud5+2Q8IXZbz5RNVYwQYjYjxgqS5uiFjQwKPd0uSPwF4awT5F89mxI8DVOdVaCmxGppQ+bxeXDi9op1CEpJqBxoXv2I1rWL+kY69sNRIgYFKxORt8Y/RvcNUetYQ6qSxszUzUMpcTRdx9Yasib6wh57nNQiTV/0qSOouh4JfiJVFYWLjsi/9qXMMmpO8okmLKtSBupyD9oqo5bFdq+mGlxjSOvNExNBMq/OumNPXf4vqPJsi4Smb6rgOkidaaCwGWrmXj8WwGmrCqthxBGaJVUh2s0Vxpo9R90c7ASBE0PIVMd0iZMMYpzvToJ02pTrt+DbM1qzeYSrb/TG7Ccm3aauSG/YjQU/ZaE+AxLQCIoKrmiNIpEi3tBcyGtE8CluD28Uj4RueqduR3BotPGuwPLEH7pWAsRIf42gh3TFMjhspWyhoEZuoHT+u1duZ2WcOsk/iy767R0SYUT7lEdzrmXIp2hJ1GCtgDn8Y5HVsAqRcbH+wikBfc/5OnUy39PhUtSn/pJTEg==;kMAQXK7jfLodNQcpEkF9tw=="
 ---

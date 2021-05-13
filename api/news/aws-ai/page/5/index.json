@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-12-its-time-to-start-paying-attention-to-vector-databases.md",
+      "title": "It’s Time to Start Paying Attention to Vector Databases",
+      "excerpt": "He carried some of this over to AWS, where he ran Amazon AI labs and helped cobble together standards like AWS Sagemaker, all the while learning how vector databases could integrate with other platforms and connect with the cloud. “Vector databases are a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ab_networks_sdkfskn.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/amp/",
+      "publishedDateTime": "2021-03-11T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations.md",
       "title": "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations",
       "excerpt": "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS",

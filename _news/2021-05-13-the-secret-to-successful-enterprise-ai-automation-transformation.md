@@ -40,22 +40,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM simplifies automation with Watson Orchestrate"
-    excerpt: "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating"
-    publishedDateTime: 2021-05-11T14:40:00Z
-    webUrl: "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
   - title: "Expert.ai adds emotion and style detection tools to natural language API"
     excerpt: "Expert.ai added new tools to its natural language API to help AI developers detect emotions, behaviors, and styles in large-scale texts."
     publishedDateTime: 2021-05-10T15:20:00Z
@@ -85,6 +69,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fthink-og.jpg&signature=e9c5be7ecec54f08f3a2ec819aa82374"
         width: 1280
         height: 640
+        isCached: true
+  - title: "IBM Simplifies Automation With Watson Orchestrate"
+    excerpt: "IBM’s Watson Orchestrate is an AI-powered software tool designed to simplify and automate the process of finding and combining appropriate sets of data for a given task."
+    publishedDateTime: 2021-05-11T07:05:00Z
+    webUrl: "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
     excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."

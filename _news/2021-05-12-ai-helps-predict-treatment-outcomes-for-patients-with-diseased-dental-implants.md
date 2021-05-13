@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patient
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Medical Xpress
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI helps predict treatment outcomes for patients with diseased dental implants"
+    excerpt: "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition."
+    publishedDateTime: 2021-05-13T18:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210512115654.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "NH73lRsjBvxOehRpI2oMwdxbcq86a/KWjnscSIx7HEWNRvJKMS/xELk8NExS4aYjQOLJFcOcY/sjto3UxxFWES+SyA8BV5VhVyuwggTazdosQrG8LH+pAmyFdaKho2ZYIpZl918UipPA99dVWjYWd8gjc7f+UrukpmEmpqCmoud4pYJAI1VJg60w5iUjZ8wUeXPXyi1PpOJ0H7ZVFtD/cIcDJi1RMp1+Gqpaa+RoudW4xeAzSKp8eS4TNjLh6AbvoDomEHG5i8/otkTAwAuRIiHLLtEB60koozNBgqXekqntYjSDWCrNYGURP1MNLA9xvpIB9EMvUL2DzFlc1vbyfLaF8pdbQJ1u4XVhwmhIQqjPqI7qvV+I543dzNKJfNepRqp3PogD5RvE7O93BgGTZn306bmrCztUHO0EepGjpc7GsC50WzmFToa+9xlr09ecPfYseeumyoXx/Nbc7s68oM9BOaVQ2RgKlRvTJeupgPpD4q+SwldTpZe+OWF7feygL6uoBvRrbLS4z+QU0ZsMMw==;7yFj67rPJAHprh/EEGig5A=="
 ---

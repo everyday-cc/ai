@@ -106,6 +106,94 @@
       ]
     },
     {
+      "path": "_news/2021-05-13-ai-exposure-with-entr-analyzing-alphabet-nvidia-and-more.md",
+      "title": "AI Exposure with ‘ENTR’: Analyzing Alphabet, NVIDIA, and More",
+      "excerpt": "ERShares’s flagship fund, the ERShares Entrepreneurs ETF (ENTR), offers exposure to a range of disruptive technology sectors—including robotics and AI. With its emphasis on high growth companies driven by strong leaders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-exposure-with-entr%3A-analyzing-alphabet-nvidia-and-more-2021-05-13",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-exposure-with-entr%3A-analyzing-alphabet-nvidia-and-more-2021-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-chef-robotics-raises-77m-to-help-automate-kitchens.md",
+      "title": "Chef Robotics raises $7.7M to help automate kitchens",
+      "excerpt": "A year and a half’s worth of global pandemic has had a profound impact on virtually every sector of the workforce. When it comes to future automation food prep isn’t quite at the top of the list (that distinction likely goes to warehouse fulfillment,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-913931820.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
+      "publishedDateTime": "2021-05-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40.md",
       "title": "These noise-cancelling earbuds use AI to protect you out in the world. And they’re under $40.",
       "excerpt": "Sponsored Deals Thankfully, the bar on that process has been raised with the xFyro Active Noise Cancelling AI-Powered Wireless Earbuds.",
@@ -114,7 +202,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -300,6 +388,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-walmart-acquires-virtual-clothing-try-on-startup-zeekit.md",
+      "title": "Walmart acquires virtual clothing try-on startup Zeekit",
+      "excerpt": "Retail giant Walmart announced this morning it’s acquiring the Tel Aviv-based startup Zeekit, which allows consumers to virtually “try on” clothing when shopping online. The company leverages a combination of real-time image processing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/download.gif?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "publishedDateTime": "2021-05-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -607,49 +746,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-13-artificial-intelligence-in-machine-learning-market-2021-growth-factors-opportunities-trends-and-key-manufacturers.md",
-      "title": "Artificial Intelligence in Machine Learning Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers",
-      "excerpt": "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Machine Learning Industry from its research database Artificial Intelligence in Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2284351/artificial-intelligence-in-machine-learning-market-2021-growth",
-      "originalUrl": "https://www.openpr.com/news/2284351/artificial-intelligence-in-machine-learning-market-2021-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U513420815_g.jpg",
-          "width": 482,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth",
-      "publishedDateTime": "2021-05-13T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-how-to-compete-and-win-with-artificial-intelligence-podcast.md",
       "title": "How to Compete and Win with Artificial Intelligence (Podcast)",
       "excerpt": "Ash Fontana, Managing Director of Zetta, discusses his book \"The AI-First Company” on why companies need to prioritize artificial intelligence to succeed. Host: Carol Massar. Producer: Paul Brennan.",
@@ -916,7 +1012,7 @@
       "originalUrl": "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1115,7 +1211,7 @@
       "originalUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1156,111 +1252,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-us-fcc-asks-what-impact-chips-shortage-has-on-communications-sector.md",
-      "title": "U.S. FCC asks what impact chips shortage has on communications sector",
-      "excerpt": "The Federal Communications Commission (FCC) is studying the impact of the global shortage of semiconductors on the communications sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/fcc_22f158d67b6a07908650f167d595b6aa.nbcnews-fp-1200-800.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
-      "publishedDateTime": "2021-05-12T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge.md",
-      "title": "Klas Government Launches Market's First Tactical GPU That Extends AI/ML To Network Edge",
-      "excerpt": "Klas Government today announced the availability of VoyagerGPU, the market's first tactical GPU. Embedded graphics-processing units (GPUs) are critical for military systems with h",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1508870/VOY_GPU_890.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

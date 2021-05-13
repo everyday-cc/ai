@@ -54,31 +54,17 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
-    publishedDateTime: 2021-05-10T14:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=466375"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
-    excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"
-    publishedDateTime: 2021-05-12T12:19:00Z
-    webUrl: "https://www.openpr.com/news/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    ampWebUrl: "https://www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
+    publishedDateTime: 2021-05-10T15:54:00Z
+    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 26
+    quality: 35
   - title: "Business Intelligence (BI) Tools Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
     excerpt: "A recent market research report added to repository of ResearchMoz is an in depth analysis of Global Business Intelligence BI Tools Market On the basis of historic growth analysis and current scenario of Business Intelligence BI Tools market place the"
     publishedDateTime: 2021-05-12T05:31:00Z

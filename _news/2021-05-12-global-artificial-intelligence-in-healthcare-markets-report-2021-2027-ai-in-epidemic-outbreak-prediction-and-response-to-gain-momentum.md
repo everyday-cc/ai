@@ -22,6 +22,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
+    publishedDateTime: 2021-05-11T08:51:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
     excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
     publishedDateTime: 2021-05-09T22:11:00Z
@@ -40,17 +54,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 11
-  - title: "Global Speech Analytics Markets Report 2021: Market is Expected to Grow at the Rate of 20.3% CAGR by 2026"
-    excerpt: "The \"Speech Analytics Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2021-05-12T08:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076221/global-speech-analytics-markets-report-2021-market-is-expected-to-grow-at-the-rate-of-20-3-cagr-by"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076221"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076221"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
   - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
     publishedDateTime: 2021-05-12T11:11:00Z

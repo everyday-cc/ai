@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
+      "title": "Redefining what a map can be with new information and AI",
+      "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-will-ai-make-us-obsolete-kyna-premchandani-the-tiffin-girls-school.md",
       "title": "Will AI make us obsolete? - Kyna Premchandani, The Tiffin Girls' School",
       "excerpt": "AI does a vast amount of work which we as humans once did. This currently benefits us, allowing for greater efficiency, but will AI ever replace us? Artificial intelligence has begun to arise ...",
@@ -1191,49 +1234,6 @@
       "provider": {
         "name": "Sonic State",
         "domain": "sonicstate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-ceva-moves-to-standardize-dsp-enabled-bluetooth-audio-ip-with-new-bluebud-wireless-audio-platform-for-tws-earbuds-smartwatches-and-wearables.md",
-      "title": "CEVA Moves to Standardize DSP-enabled Bluetooth® Audio IP with New Bluebud™ Wireless Audio Platform for TWS Earbuds, Smartwatches and Wearables",
-      "excerpt": "activity classification and full support for Tensorflow Lite Micro machine learning models Bluebud addresses the technology complexities and scarcity of expertise that semiconductor and system ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ceva-moves-to-standardize-dsp-enabled-bluetooth-audio-ip-with-new-bluebud-wireless-audio-platform-for-tws-earbuds-smartwatches-and-wearables-301232195.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ceva-moves-to-standardize-dsp-enabled-bluetooth-audio-ip-with-new-bluebud-wireless-audio-platform-for-tws-earbuds-smartwatches-and-wearables-301232195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1441650/Bluebud_Media_Diagram_Infographic.jpg?p=facebook",
-          "width": 1088,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-06T00:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

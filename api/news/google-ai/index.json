@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-ai-exposure-with-entr-analyzing-alphabet-nvidia-and-more.md",
+      "title": "AI Exposure with ‘ENTR’: Analyzing Alphabet, NVIDIA, and More",
+      "excerpt": "ERShares’s flagship fund, the ERShares Entrepreneurs ETF (ENTR), offers exposure to a range of disruptive technology sectors—including robotics and AI. With its emphasis on high growth companies driven by strong leaders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-exposure-with-entr%3A-analyzing-alphabet-nvidia-and-more-2021-05-13",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-exposure-with-entr%3A-analyzing-alphabet-nvidia-and-more-2021-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-chaossearch-brings-sql-support-to-log-analytics.md",
       "title": "ChaosSearch brings SQL support to log analytics",
       "excerpt": "ChaosSearch adds support for SQL to a log analytics platform that stores data natively in object-based storage systems in the cloud.",
@@ -1412,49 +1448,6 @@
         "Machine Learning",
         "Microsoft AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-deepmind-ace-joins-cambridge-quantum-computing.md",
-      "title": "DeepMind ace joins Cambridge Quantum Computing",
-      "excerpt": "Cambridge Quantum Computing has secured a major coup by hiring DeepMind’s Professor Stephen Clark as head of Artificial Intelligence. At DeepMind – the UK AI subsidiary of Alphabet Inc – Professor Clark was a senior staff research scientist and led a team working on grounded language learning in virtual environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
-      "originalUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/professor_stephen_clark.jpg?itok=hFjpCQl9",
-          "width": 605,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Weekly",
-        "domain": "businessweekly.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

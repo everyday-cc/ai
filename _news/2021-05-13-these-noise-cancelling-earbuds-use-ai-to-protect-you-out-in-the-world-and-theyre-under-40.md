@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-us
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "m0aoXnbvLpyke7PU/ojKD5/VMNfehSvBjsLkiJ7t9hgLwq0I+Koiq54Ggu6NCQexFlY9hgTGQbpazjOhlsu5DFEmAyI5ND2PozyBfrD4cqhakxkAviG8juAr9iWxtaidlt86Lz1EdYgiQCISrnzjicoVxfxihBuuWAN54Ex7h5S1+YFVYnHDo6LFChRufwQMhk16eayA1Y0Ol292xnAPzLtPpeTq15AX4wfJ85K7BSHoTGoct/wg6R/ekiGBiNgMezt/8NyPb76oXkDAAJaL7McQXmyveMWyqH8U5+TTPB6Yux2sRwIeqp/Glya5p/z19wW20KuC2EYqIsbSa5dNR+RXzZKP6dsbvR3IwSmKfGE=;E4q7Ktsn7Qoaf9FkbZ9uMw=="
+secured: "eyXs7eDoLm2L5pWVzvdFykY2EtDoDD+tjc8U/Xb4UJwixv6xpcHJUMSDQEPT1Oip2SUtC8PK3v+vyfJk+41n7oT6ZP7G6JR7XErh+V6GbzuxGYN5h/f5yVf6qU1nMLbfX936EykqWaIL5eU8To0+i2qJRWci3FjuDYrJ8mclimnke2yvz2iGu+zgPE0yAC3Kxa2bxa4KoByU6NZgSFUzihYYcKHH4ldfa/wBFd1OEIRoyl3T4ELZckasQXGZ9oXwt2I9Cs1VYl3+mFLHGwQfHlMI6Hh9lGNybj33I63231HX7VuH/ridAQ9YqemDGQdT5lYOXhsly38I2eZ4c5spQZtUDjegx96+trx/U22d5BXN8JOm9Wnrx/v91AFg+pEpnSwry/PT1xuxcXw5UHEyZXmEAxqA8RnuLfHQRxpbfashwkw4xQyYKS6mnd2uv5cy7Yfi/WI4AhxRmxXHDVGsbPCJGWN9GrCIiHGQBYVdGlDnrmZpuJ2435QOb0QT+xtiioxq1uS1yVLImehUSwX9Sw==;MiWgB0Vf7w/6MGxYUiNVAg=="
 ---
 

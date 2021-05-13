@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-09T01:43:00Z
-    webUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "http://iansphoto.in/web/photoimages_new/400/2020/10/18/1763668c76c184b11fd739080dcc7beb.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:38:00Z

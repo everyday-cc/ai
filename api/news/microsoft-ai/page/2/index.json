@@ -174,6 +174,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-28-audiocodes-ltd-audc-q1-2021-earnings-call-transcript.md",
+      "title": "Audiocodes Ltd (AUDC) Q1 2021 Earnings Call Transcript",
+      "excerpt": "Q1 2021 Earnings Call Apr 27, 2021, 8:30 a.m. ET Hello, and welcome to the AudioCodes First Quarter 2021 Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "originalUrl": "https://www.fool.com/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 400,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "publishedDateTime": "2021-04-27T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-data-literacy-essentials-of-azure-databricks.md",
       "title": "Data Literacy: Essentials of Azure Databricks",
       "excerpt": "This course will teach you about the different components that make up Azure DataBricks. This is done by going through the different capabilities and how they help improve your data estate.",
@@ -1345,49 +1397,6 @@
         "Machine Learning",
         "Microsoft AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-download-ai-100-pdf-dumps.md",
-      "title": "Download AI- 100 PDF Dumps",
-      "excerpt": "The Microsoft AI-100 dumps learning material is available in pdf format, which is compatible with all smart devices. You can download the Microsoft Designing and Implementing an Azure AI Solution exam on your PC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
-      "originalUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg",
-          "width": 300,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mad in America",
-        "domain": "madinamerica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

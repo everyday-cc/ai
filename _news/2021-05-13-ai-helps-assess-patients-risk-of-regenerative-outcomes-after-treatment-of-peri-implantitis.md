@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI helps predict treatment outcomes for patients with diseased dental implants"
+    excerpt: "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition."
+    publishedDateTime: 2021-05-13T18:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210512115654.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "ehYrcWglYHZ14bOiW7mS0g00srjtEEXbpAnkD7XIEil7ITwfOxflMiSSFAUwaM2pVPuKliMwXJ4OuSLbuEIODrRi+LGXbb+26qqJYvuF84WeylFUfGmuR01lE3ijV1T9RcggCrGYwVAzL+Dg1heAFRYvF8V5OdwcIfMKl4KM8Jxg0J/Nyim+a0zccRkS4q8qdK3Qy20E31XmJhscDzcpDI31a0kfzPEVJrODR6JBlNmyTKNVccx/Do47egVya/CHyc/RZ9Y97AAkf+s8mfvuzTQHxob7RidWD+nPp1rQDp8ETLVkFSySowwYrykD4IEGCLAxjXOcWfeTf0PV9+MHozY3LhPYow60F3OJ9xOkLPM=;f9E8kAJlJc76Hduw7y4oTA=="
 ---

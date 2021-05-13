@@ -138,6 +138,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
+    excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
+    publishedDateTime: 2021-05-13T19:28:00Z
+    webUrl: "https://futurism.com/remorseless-man-brags-tesla"
+    ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-12T15:13:00Z

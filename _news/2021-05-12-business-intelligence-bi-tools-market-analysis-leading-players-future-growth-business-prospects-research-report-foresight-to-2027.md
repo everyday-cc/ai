@@ -54,6 +54,17 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
+    publishedDateTime: 2021-05-10T15:54:00Z
+    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
   - title: "AI in Medical Devices Market to Grow with a Moderate CAGR During 2021-2029 | Healthcare Tend to Drive the Market Growth"
     excerpt: "The AI in the medical devices market is attributed ... We believe in honesty and sheer hard work that we trust is reflected in our work ethics. Our vision is not just limited to gain the trust ..."
     publishedDateTime: 2021-05-12T10:21:00Z
@@ -68,31 +79,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
-    publishedDateTime: 2021-05-10T14:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=466375"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
-    excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"
-    publishedDateTime: 2021-05-12T12:19:00Z
-    webUrl: "https://www.openpr.com/news/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    ampWebUrl: "https://www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
 
 secured: "BnPY17tn/Cnpt0O7ZP9dhgDpRmt0DmHez8vdkAmNAgVVGXADHRBFXwlOyeRIhRCy3mZNopcT7L9B8YuHe4Ts2X946eDNGX9U42qiGlMGUwoMw+Nr+IBvFnOAJMaWmRFASDR9ySbDYaUCLvOP53d0nJI8dRMm9M8i2jiHuNm4yOWTvh/arXoQejC2IESJN4ST5X3EklQO0EeBY9J70wshs0S4yp2605yXJM0nykI5zuTKgMDS4M2O6FdQNVBlXDB/HWP8UXgC26Vj7gcJE2euE0Gyjnm1ABf075upkMVHKC+GaD/Cziye/EBRVs837ibRfB1wsYoSutVuiPie075FO7130sDAFWQW50Si2CoXijk=;QMD+DcvoW/LgZJ++7l3uKw=="
 ---

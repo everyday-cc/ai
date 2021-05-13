@@ -42,7 +42,7 @@ related:
   - title: "Smart industrial AI camera is first to use powerful new module"
     excerpt: "Adlink Technology, the Taiwanese edge computing specialist, has launched the first smart camera to use a new Nvidia module which is claimed to"
     publishedDateTime: 2021-05-13T10:18:00Z
-    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6723/Smart_industrial_AI_camera_is_first_to_use_powerful_new_module.html"
+    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6723/"
     type: article
     provider:
       name: drivesncontrols.com

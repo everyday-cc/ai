@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-09T01:43:00Z
-    webUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "http://iansphoto.in/web/photoimages_new/400/2020/10/18/1763668c76c184b11fd739080dcc7beb.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Musk says Tesla new self-driving rollout could take a couple of months"
     excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
     publishedDateTime: 2021-05-12T20:22:00Z

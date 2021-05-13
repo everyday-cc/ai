@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-21-download-ai-100-pdf-dumps.md",
+      "title": "Download AI- 100 PDF Dumps",
+      "excerpt": "The Microsoft AI-100 dumps learning material is available in pdf format, which is compatible with all smart devices. You can download the Microsoft Designing and Implementing an Azure AI Solution exam on your PC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
+      "originalUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg",
+          "width": 300,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mad in America",
+        "domain": "madinamerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure.md",
       "title": "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure",
       "excerpt": "Integrated with Microsoft 365 (Microsoft Teams ... Sinequa for Azure integrates Azure Cognitive Services to enable organizations to ingest all of their enterprise data sources, transform that data into searchable information, and enable users to get ...",
@@ -1269,49 +1312,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-whats-going-on-with-nuan-stock-msft-stock-and-pt-stock-today.md",
-      "title": "What's Going On With NUAN Stock, MSFT Stock And PT Stock Today?",
-      "excerpt": "Nuance Communications Inc. (NASDAQ: NUAN) shares are trading higher by 16.7% at $53.19 Monday morning after Microsoft Corporation (NASDAQ: MSFT) announced it will acquire the company for $56 per share. Nuance provides conversational and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/04/20579932/whats-going-on-with-nuan-stock-msft-stock-and-pt-stock-today",
-      "originalUrl": "https://www.benzinga.com/news/21/04/20579932/whats-going-on-with-nuan-stock-msft-stock-and-pt-stock-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_67.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20579932",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20579932",
-      "publishedDateTime": "2021-04-12T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg"
         width: 582
         height: 304
+        isCached: true
+  - title: "COVID caused conversational AI to accelerate, says IBM"
+    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
+    publishedDateTime: 2021-05-13T17:33:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "2zd6Hyx/Ksc8c+RcSySBvvTgxs4v2J1SbGo6TtonXzu+qTFKhj9f9f6yWo2TZMLyMosPY30abSkZzrDghh3ftUCXasXZbtPrEvMu3NDGGM7ur3Hzmj742U6PBp3v5hvT+yTwXysulVIoVSId+A3DcPWqnzprCB8IdCg335PA6QXiB74v+5kT6Yy0zM82ML5deFT/iJ8Cy+dp6I+eqp5oEMI3S0TfRu6wdv97YrdUIBzMBVApHjAnhKOJAZEWVAeVC2vzfQ3bPW0kFyYC8s8hpoTTL9CY6Z+/gbHvgPZBZP4eP7QUhxd9DTrSE2sVP9AppQRPBnkxcqByAIPhFK8f/NXTO+y58YPgOoUAdqlAqxZ8ayvV6mzubXS43yvnp80D29UTw2X8/yZ6vCIBGR8Rqf/ROg1Q3E0t3yqxTUTMaN9V2jkG7kmmvmxIhwrDAzImjsG4Z6LJ1XjlagLRGdIfqEi8JPCa1+TxwWKv0uE3adBtaDHJPn7+sI3KC5k6rkPHMUJtKBXCbEi7AxnOBfS+rA==;XgQ9Kp4xRvK+ELW5KE7cvg=="
