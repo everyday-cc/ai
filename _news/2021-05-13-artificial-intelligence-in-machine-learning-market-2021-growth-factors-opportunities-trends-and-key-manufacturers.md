@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2284351/artificial-intelligence-in-machin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
 type: article
 quality: 52
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial intelligence AI in Logistics Industry from its research database Artificial intelligence AI in Logistics Market is segmented by Regions Countries All the key market aspects that influence the Artificial intelligence AI in"
+    publishedDateTime: 2021-05-13T11:52:00Z
+    webUrl: "https://www.openpr.com/news/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/5/U513900568_g.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Artificial intelligence enters into manufacturing"
     excerpt: "The FAA Aerospace Forecast predicts that through 2031, the general aviation fleet will increase at an average annual rate of 0.9%, growing from an estimated 224,172 in 2010 to 270,920 aircraft in 2031."
@@ -94,6 +110,15 @@ related:
         width: 770
         height: 430
         isCached: true
+  - title: "Global Deep Learning Market to Exhibit Significant Increase in Demand in the Coming Years"
+    excerpt: "A new report has recently been published by Persistence Market Research to present a comprehensive analysis of the global deep learning market. Titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027),"
+    publishedDateTime: 2021-05-11T09:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/global-deep-learning-market-to-exhibit-significant-increase-in-demand-in-the-coming-years/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 10
   - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
     excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
     publishedDateTime: 2021-05-12T12:47:00Z
@@ -136,6 +161,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "gPCuiyAkgHc475IV6N/z/g9NEvOll1ImzkJqPULPUBSs96F6Z3GOVCTxq4zQHAHm6Bb+yrj0gScYbeOYWnvgIOTnC2KulzzVvexXYE4LeW8DTRaVGv0bW0whKFNs7YIreYikx/1IGhZP3xGNx4FhtaTit8Gf3hdGLl9VvGoHaAEB0eMJ24jO4tQ3v5eAKluAakC1xJXWVX38H3sCAPaxIHsfuHJUcZQ+kwqwXEMAoyOgdUuRn9btbU/dTgvJ2f2JPMDUeyv2cztB+yVHk1llH4fz8mk0gkbVR3loJKFsW3OgVqOXU/BVOTSCEJsTK2TuE7+HS/HQk1MOt1z//1lrt48DvWV4EAuFzi4O/Nyrphg=;D7Txsrt3czZBTyUIT23xxw=="
+secured: "1SR35aVv2fSHYksW2OVD8LFJsQOgif7rKHm/wXOMHpMll194+aDRrVrCafKj+QVIA7Cq4n32bcIhA8q3sd36vmNbh6oN2Zgqhz90pASOFkrCaKFlPsR0A0OBgRXCL5cc7H8gvhDYC/1JT+BaBqF7PurZCFXZWsGkjAvShPf26QwLbDFbA++dEhJasV6nxP9IiXIl1bgkTc3FmZo2l58ivamrd/bM03AjYFRBHfX9rF8vxI1IAdpRhfEJBEOrX3CWl2czh38xNhgK822gSJE6OqOnHAJxpwX76rTPo6S8UccZNzz4DRhrWhHxEvsO5kVsWkGrFobwq1o2J++W6fPqCrJwkgvNMSFeMIMS88LUGJMjzVsFKazwtH8DopiG5MOstzsQKsQ1cRWm6og8sbbyFy9hPdOB+cCPloXiDxoD22yCRqCGCmGZQMGiRXmJnQaWC9EGhyWrkeYdEYdyGrzMq8wnrrP491aYCfCPMW1DOOi0tiWgXdItwfhCYFNQaBWukdnfz0+GbP7JjGo6oyFtYg==;rU1/FObu7GdJ8ZzNDN6Vgw=="
 ---
 

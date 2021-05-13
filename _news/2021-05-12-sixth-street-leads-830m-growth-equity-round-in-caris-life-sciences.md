@@ -7,7 +7,7 @@ originalUrl: "https://www.pehub.com/sixth-street-leads-830m-growth-equity-round-
 webUrl: "https://www.pehub.com/sixth-street-leads-830m-growth-equity-round-in-caris-life-sciences/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Irving-based medical technology firm raises $830M investment from Sixth Street-led group"
+    excerpt: "Irving-based Caris Life Sciences, an innovator in molecular science and artificial intelligence (AI) focused on fulfilling the promise of precision medicine, an"
+    publishedDateTime: 2021-05-13T13:23:00Z
+    webUrl: "https://fortworthbusiness.com/business/irving-based-medical-technology-firm-raises-830m-investment-from-sixth-street-led-group/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 30
+    images:
+      - url: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixlib=rb-1.2.1&#038;ixid=eyJhcHBfaWQiOjE1MDQxOX0"
+        width: 5184
+        height: 3456
+        isCached: true
   - title: "Caris Life Sciences Raises $830 Million in Growth Equity Capital to Continue to Expand its Precision Medicine Platform"
     excerpt: "Caris Life Sciences ®, a leading innovator in molecular science and artificial intelligence (AI) focused on fulfilling the promise of precision medicine, announced an $830 million growth equity round at a post-money valuation of $7."
     publishedDateTime: 2021-05-11T21:16:00Z

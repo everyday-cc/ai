@@ -65,6 +65,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Chinese self-driving startup WeRide valued at 3.3 bln USD"
+    excerpt: "Chinese self-driving startup WeRide announced Thursday that it has closed a Series C round of funding giving it a valuation of 33"
+    publishedDateTime: 2021-05-13T13:50:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269449484/chinese-self-driving-startup-weride-valued-at-33-bln-usd"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "VkBCmlMOpshgoykYiQl2FWTe1vWZKSyHc9GueXfVd4Ik5Y9xsIAIPELWuUHK1Z0xoosE7bRS+81zc7Z8ibYRSjGAPjRk41XTDdFhuIBSeWc0LQdemdhWwmdbt5TskwlLsXmlwwtJOASOgh3ZTILL8FLjbkAzzdMzZumE+m+x6BHamsOBeAXv8ZHC/xPWKEZ+VYRgmGR0TvHsbmqnWGoHyOd49aURENvFgpd6SeKArMM5X2dcb03reZ6tRQGjkSHIZc9XB9bVUrsEhILEGmdaCHx4QK+x5JNs/jSs+jXlT4yLfA5Z98hIdFqKjn+rlqpHsHlq9ZJroW5TpYXgqxvtaef+W6sxbOlbbVOvjl5FYxB3LJHG5k+KQ9s/Hi4Gf/ilWhRXqYbJB5YgTM4aYyy4SHdB3t4wqBe6k172rhtBh+DH5ewtioTfR0Pol0CF1F4p25aDX3w8RJY+a4E1QJWIPi3gu/wta+YfX0nL9g8hh7GtOqdnHa8VDa+8BYjQSxCk4FDlBsKl4sM6deuETs5hjQ==;hSKBDUuhSOF/H1FDbKGE6A=="
 ---

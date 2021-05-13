@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Chinese self-driving startup WeRide valued at 3.3 bln USD"
+    excerpt: "Chinese self-driving startup WeRide announced Thursday that it has closed a Series C round of funding giving it a valuation of 33"
+    publishedDateTime: 2021-05-13T13:50:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269449484/chinese-self-driving-startup-weride-valued-at-33-bln-usd"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Am I wrong to hate drones and driverless cars?"
     excerpt: "An enterprising start-up in the Irish town of Oranmore, whose two drones deliver shopping to residents, has raised 18 million to expand this service into the suburban towns of Britain by the end of the year."
     publishedDateTime: 2021-05-11T01:23:00Z

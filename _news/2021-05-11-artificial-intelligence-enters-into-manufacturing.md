@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial intelligence AI in Logistics Industry from its research database Artificial intelligence AI in Logistics Market is segmented by Regions Countries All the key market aspects that influence the Artificial intelligence AI in"
+    publishedDateTime: 2021-05-13T11:52:00Z
+    webUrl: "https://www.openpr.com/news/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/5/U513900568_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
     publishedDateTime: 2021-05-10T15:54:00Z
@@ -94,6 +110,15 @@ related:
         width: 770
         height: 430
         isCached: true
+  - title: "Global Deep Learning Market to Exhibit Significant Increase in Demand in the Coming Years"
+    excerpt: "A new report has recently been published by Persistence Market Research to present a comprehensive analysis of the global deep learning market. Titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027),"
+    publishedDateTime: 2021-05-11T09:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/global-deep-learning-market-to-exhibit-significant-increase-in-demand-in-the-coming-years/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 10
   - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
     excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
     publishedDateTime: 2021-05-12T12:47:00Z

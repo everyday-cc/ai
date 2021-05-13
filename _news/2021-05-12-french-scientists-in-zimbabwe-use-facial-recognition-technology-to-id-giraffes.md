@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-
 cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists in Zimbabwe Use Facial Recognition to ID Giraffes"
+    excerpt: "A team of French scientists in Zimbabwe's Hwange National Park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this ..."
+    publishedDateTime: 2021-05-13T12:00:00Z
+    webUrl: "https://allafrica.com/view/group/main/main/id/00077934.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 39
+    images:
+      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00580843:62f15533dcee9eeae80ba4325afa678c:arc614x376:w1200.jpg"
+        width: 1200
+        height: 735
+        isCached: true
   - title: "French scientists in Zimbabwe use facial recognition technology to ID giraffes"
     excerpt: "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this iconic African species from extinction."
     publishedDateTime: 2021-05-13T08:06:00Z

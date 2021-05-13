@@ -26,17 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Research Overview Covering Growth Rate, Key Vendors, Demand Ratio and Forecast To 2025"
+    excerpt: "May 13, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence (Ai) in"
+    publishedDateTime: 2021-05-13T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-research-overview-covering-growth-rate-key-vendors-demand-ratio-and-forecast-to-2025-2021-05-13"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Driven Enterprises Market Research 2021 Report | Growth Forecast to 2027 Infosys, DataRobot, Deloitte"
+    excerpt: "AI-Driven Enterprises Market is growing at a 52.15% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-05-09T19:37:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-127-780x470.png"
+        width: 780
+        height: 470
+        isCached: true
   - title: "AI in Medical Devices Market to Grow with a Moderate CAGR During 2021-2029 | Healthcare Tend to Drive the Market Growth"
     excerpt: "The AI in the medical devices market is attributed ... We believe in honesty and sheer hard work that we trust is reflected in our work ethics. Our vision is not just limited to gain the trust ..."
     publishedDateTime: 2021-05-12T10:21:00Z
@@ -62,46 +79,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
-  - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
-    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
-    publishedDateTime: 2021-05-09T22:11:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-in-security-market-top-industry-segments-analyzed-in-latest-research-report-by-mrs/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 12
-  - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
-    publishedDateTime: 2021-05-10T12:48:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/10/artificial-intelligence-services-global-market-report-2021-covid-19-growth-and"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
-  - title: "Global Speech Analytics Markets Report 2021: Market is Expected to Grow at the Rate of 20.3% CAGR by 2026"
-    excerpt: "The \"Speech Analytics Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2021-05-12T08:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076221/global-speech-analytics-markets-report-2021-market-is-expected-to-grow-at-the-rate-of-20-3-cagr-by"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076221"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076221"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
-  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
-    publishedDateTime: 2021-05-12T11:11:00Z
-    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+  - title: "Business Intelligence (BI) Tools Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
+    excerpt: "A recent market research report added to repository of ResearchMoz is an in depth analysis of Global Business Intelligence BI Tools Market On the basis of historic growth analysis and current scenario of Business Intelligence BI Tools market place the"
+    publishedDateTime: 2021-05-12T05:31:00Z
+    webUrl: "https://www.openpr.com/news/2283397/business-intelligence-bi-tools-market-analysis-leading"
+    ampWebUrl: "https://www.openpr.com/amp/2283397/business-intelligence-bi-tools-market-analysis-leading"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283397/business-intelligence-bi-tools-market-analysis-leading"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 6
+    quality: 10
+    images:
+      - url: "https://cdn.openpr.com/U/5/U512338490_g.jpg"
+        width: 800
+        height: 424
+        isCached: true
 
 secured: "qKFD/LLAmy0DbIlmprH6tvEqt5hgaaoFrlTvv1oxjiaaV5iA2BjbSmUAiK+gKYXm+tNX2z12/exxsGGVtlz5CnaNJohrFuaaFpTWDa4PX2Zi/DUHdoYikHA4kFYt5htNPqmUylIWVOY7guat9SRYCTd0s++Xurl/gRGgNep6l/4ApkWjNFaKqzPmp6t/I4+g+IcmaglpEYjZ6nc+bkYrBSfVjpbq0mcy8gHxk6Ao3nGFbcc/KBnilG91bGFsbfXMul1JkhjgR35vBLnwABHGcE4fEvIqYaahm3ODC1i7jXPQ1CIQsD/2d5uvHHqUei4TxRpCVM48hdZKnpEPggHwh55CngvXczvaP12YC8mwN2c=;ZxjqPYeET1dICMxNsEXqJQ=="
 ---

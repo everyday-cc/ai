@@ -15,6 +15,7 @@ topics:
   - Google AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://circuitcellar.com/wp-content/uploads/2021/01/365_Jeff_SF_Lead.jpg"
@@ -22,6 +23,6 @@ images:
     height: 474
     isCached: true
 
-secured: "0Iv6yUjVkDcQ47X5XQNJgeRnePG+Rn2I31WvsDIeOvOEqawEfNjtbjqOYvb28WLSo7CI64cRvzhHxxbnGibcvhplbzD2K5exl+TdSlUC3XyTMgfxmCBHCsLzZZREwgNPjnRjeDOEs5/7+K/ERe3JFjqoV948s6I+tips6VynfO5P1fZJ4W6tdABc8bKBcbigFcCbhvBxe32v/mJipIvdTk1l4tShjY7YsASQ+pLIl/osElxCA+3CSLpl6wlWu8+faPlgrTexNXupDco5ZiEVMs78F8B9WpMPxGfPFFBHueUmmLcUCbTEZSpaWit6Ej0jIMWjf4wGTLZEyyhmGTdis4+P/ePoJYfzgRXMn/6nxPU=;/blt/+emB60uNFXCV8GRpg=="
+secured: "ySuVNx30xCQBI6fN8JIhF28SUW53bygvvwljkWwzRuBHh9lIUHBoZqwIku1zBL7MVpeq+OGUctEgbvzJaL1ilS4pAEuXiyPyFjYykDkecpTf5O3OuavgOKfKdXH26Sm9uMTCpIIGkZi2AwYXcGj9ubuJXjQVIp46Y5wBl6+3SxwYLqR9ZF6QbADJogwysdMBrwS2E5mzcZ/JdiO7h7YkTLlMCAfGR6fLK5ctDq9hmGBV9yMIRcSUXq1gCkUvxbAQUQqaBpT3vMpnIwsN3W/wOSPoHgTsG7xPR563/B3KKuIBx/F8PixqvHEIQjAxlXYKA+tTVxZd50r+VHzJn+gx7QdSQnSxr8sbVr9ko/G295NlH/5RmyxmYlJcNsMRpGlFER25xOBfDBQe048x/cKsckhkZzk9yM9fm/DWJgMgYj6k3cTA42lSXqqZsz/lXORKkJssCXlmB+tswvJ5MhcKpbbZJJX+MYuwZVk3l7/F6JDmG3UMvD2teCktjuK6LA4EUO5Wcn+uRrQsQwt//vpL4w==;Ez+jBt4zmAqJmF065n8J9Q=="
 ---
 

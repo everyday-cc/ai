@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Core Scientific Announces Expansion of AI & Blockchain Facility in Dalton, GA"
-    excerpt: "Core Scientific, the leader in customizable infrastructure and software solutions for Artificial Intelligence and Blockchain, announced that it has expanded its facility in Dalton, GA. With the construction of 3 new custom designed buildings,"
-    publishedDateTime: 2021-05-13T11:47:00Z
-    webUrl: "https://www.lelezard.com/en/news-19803558.html"
+  - title: "Microsoft Shuttering Azure Blockchain Services"
+    excerpt: "Microsoft announced that it will retire its Azure Blockchain on Sept. 10, 2021 and advised users to consider using the Quorum Blockchain."
+    publishedDateTime: 2021-05-13T13:18:00Z
+    webUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 36
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 89
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/05/BIC_microsoft_azure_blockchain_seize.jpg.optimal.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Core Scientific Announces Expansion of AI & Blockchain Facility in Dalton, GA"
+    excerpt: "Today, Core Scientific, the leader in customizable infrastructure and software solutions for Artificial Intelligence and Blockchain, announced that it has expanded its facility in Dalton, GA. With the construction of 3 new custom designed buildings,"
+    publishedDateTime: 2021-05-13T11:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/core-scientific-announces-expansion-of-ai-blockchain-facility-in-dalton-ga-1030425491"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1493833/Core_Scientific_Logo.jpg"
+        width: 400
+        height: 369
         isCached: true
 
 secured: "TOALr5fxNy3XSNjh7hMiUpcafrr/Lxi57H17qXn9AXwK8mGwtn53aLEr2zzFXU3F9EY6nerdqFom/L87u5THuuqEHFkJx3BIisfuLayB/0NGLKMCMGKBejMRhMvNq7ZPs15ed9ZZWK9MiHULw9gg1nDoyPN55nhwFbhkRQ5bFWVIGm+toXC1g7MsJ8nNJqikebdsTfKRYnLSA6zzkrqL/f9Qi6dBeqtBQS6uao4Q8qyMdEi7f4xOUcu+BNe6alZiRiXL4Pgun7kPv6ggZxLZ3sIc2KVOK8ked4QEpFvH2VaFvfr8Ee0YXcR6ypiu1ijiv/YkWGjru2xskyftG1kxclSMAnfRTVniYVTCCuX1w+4=;Sy6Dw/POT9tESbat0zslfg=="
