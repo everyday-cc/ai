@@ -34,6 +34,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Self-driving Volkswagen electric bus trials to start soon"
+    excerpt: "Volkswagen and Argo AI (US-based self-driving startup) have announced that international trials of the autonomous driving technology in the all-electric ID.Buzz microbus will commence this summer. The"
+    publishedDateTime: 2021-05-13T11:45:00Z
+    webUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon"
+    ampWebUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/volkswagen-id-buzz-microbus.jpg"
+        width: 1280
+        height: 653
+        isCached: true
   - title: "Volkswagen Will Start Testing Autonomous ID.Buzz In Hamburg"
     excerpt: "If you see an ID.Buzz with a bunch of sensors driving around Hamburg this summer, don’t be freaked out if you can’t see the driver. Those sensors can see you. Volkswagen Commercial Vehicles and Argo AI will be testing level 4 autonomous driving technology around the German city with a view to getting it in consumers’ hands in a few years."
     publishedDateTime: 2021-05-12T17:32:00Z

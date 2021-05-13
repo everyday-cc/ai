@@ -39,6 +39,20 @@ related:
         width: 3600
         height: 2045
         isCached: true
+  - title: "Smart industrial AI camera is first to use powerful new module"
+    excerpt: "Adlink Technology, the Taiwanese edge computing specialist, has launched the first smart camera to use a new Nvidia module which is claimed to"
+    publishedDateTime: 2021-05-13T10:18:00Z
+    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6723/Smart_industrial_AI_camera_is_first_to_use_powerful_new_module.html"
+    type: article
+    provider:
+      name: drivesncontrols.com
+      domain: drivesncontrols.com
+    quality: 39
+    images:
+      - url: "https://drivesncontrols.com/images//6723.photo.3.jpg"
+        width: 316
+        height: 370
+        isCached: true
 
 secured: "Tvped+qLtal8tSTz2pSDZegy4JEKSrre0lIrFbZJRUHZhXanTmb6CleBqtmCXoIqlnxMEBKkIuvBhHAduf2ISS4cDn/TxdRiUUV+pHcphnixonYq+4y9lubo2csQDlytO4A4VrVzymVEso4wJUgnrfPkPUgUwWw5Rp++Vu5AVSMu18Jp/TLZ5d3OMUkyP1oZsOq0LdENZpo7cKgJC3ROCms9E+59oH9KIwkdsLTTZFyDEQW1gN6o9vo58yHSZrgmd8kGGXDx97v381pxqU8MKbDcVn3TG6tLy11btygtpVs+D5l6wxTlzhRqXK+nSLgS5oOy6puxKGfGovnW6i14KmKy/a3eU9bgKEIDb9Hvn7Q=;m7ltPaxvzGjrQ6lrPcdP/Q=="
 ---

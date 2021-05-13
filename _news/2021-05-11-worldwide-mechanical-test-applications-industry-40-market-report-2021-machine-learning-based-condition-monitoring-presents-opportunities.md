@@ -19,15 +19,121 @@ topics:
   - AI
 
 related:
-  - title: "Middle East and Africa Deep Learning Neural Networks (DNNs) Industry Is Set to Boom in 2021 And Coming Years"
-    excerpt: "Market expectations for likely development openings have been mentioned clearly in this world class Middle East & Africa Deep Learning Neural Networks (DNNS) Market research report. Competition analysis has been taken into account while preparing this report."
-    publishedDateTime: 2021-05-11T13:06:00Z
-    webUrl: "https://ksusentinel.com/2021/05/11/middle-east-and-africa-deep-learning-neural-networks-dnns-industry-is-set-to-boom-in-2021-and-coming-years/"
+  - title: "Artificial Intelligence in Machine Learning Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Machine Learning Industry from its research database Artificial Intelligence in Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Machine"
+    publishedDateTime: 2021-05-13T11:52:00Z
+    webUrl: "https://www.openpr.com/news/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/5/U513420815_g.jpg"
+        width: 482
+        height: 350
+        isCached: true
+  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
+    excerpt: "According to the latest report by IMARC Group \"Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", The global computer vision market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-05-11T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-revenue-growth-opportunities-competitive-analysis-trends-and-demand-by-2026-2021-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence enters into manufacturing"
+    excerpt: "The FAA Aerospace Forecast predicts that through 2031, the general aviation fleet will increase at an average annual rate of 0.9%, growing from an estimated 224,172 in 2010 to 270,920 aircraft in 2031."
+    publishedDateTime: 2021-05-10T20:17:00Z
+    webUrl: "https://www.aerospacemanufacturinganddesign.com/article/artificial-intelligence-enters-into-manufacturing/"
+    type: article
+    provider:
+      name: aerospacemanufacturinganddesign.com
+      domain: aerospacemanufacturinganddesign.com
+    quality: 39
+    images:
+      - url: "https://giecdn.azurewebsites.net/storage/fileuploads/image/2021/05/10/Photo_3_ls-starrett-AVR_FOV_0.14X_fmt.png"
+        width: 320
+        height: 219
+        isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
+    publishedDateTime: 2021-05-10T15:54:00Z
+    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
+    publishedDateTime: 2021-05-11T08:51:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Verticals Market Seeks to New Posture of Market Trends, Opportunities and Breakthrough Point During 2020-2027"
+    excerpt: "Verticals Market Report at:  Key global participants in the Artificial Intelligence (AI) Verticals market include: DIDI ROSS Intelligence Toutiao Airbnb Uber Slack Salesforce Sentient Technologies Dataminr Please Check the Report Summary and Acquire A Complete TOC:  Table of Content 1 Report Overview 1."
+    publishedDateTime: 2021-05-10T02:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/10/global-artificial-intelligence-ai-verticals-market-seeks-to-new-posture-of-market-trends-opportunities-and-breakthrough-point-during-2020-2027/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 15
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/5.jpg"
+        width: 770
+        height: 430
+        isCached: true
+  - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
+    excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
+    publishedDateTime: 2021-05-12T12:47:00Z
+    webUrl: "https://ksusentinel.com/2021/05/12/global-facial-recognition-software-industry-2021-size-share-market-applications-manufactures-trends-shows-a-rapid-growth-by-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
+    images:
+      - url: "https://kickets.researchnreports.com/storage/1618317561_389hq/AN0GaZX32GXP4U49VVfY7tQ2YzfUWavfXNmu1uk1.jpeg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
+    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
+    publishedDateTime: 2021-05-10T11:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
+  - title: "Artificial Intelligence-based Cybersecurity Market : Global Market Size, Growth, Trends and 2025 Forecasts Report"
+    excerpt: "ReportsnReports recently announces a latest research report titled “Global Artificial Intelligence-based Cybersecurity Market 2020” which highlights the Artificial Intelligence-based Cybersecurity Market size,"
+    publishedDateTime: 2021-05-11T14:03:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/artificial-intelligence-based-cybersecurity-market-global-market-size-growth-trends-and-2025-forecasts-report/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "4veh0ememqoisMuhNX6Um4jLpXAnIZdc65nIVIsVFEDDYgAgtdS3ifiZVL9SAvv9obTUsOtB92Q+OrNV9SUWaJm1QxhLdgtmKDgKC7qlXKSaNni7R2pb4fwF5V6oh7haPE1g6E8z72Rul2EdoaBSFNabERZC5cXd9Ybx5K9VEfRNAgI9Q/FbKBSFCu94/QKHWz/7DWKfys5T6Ej+g5qwFXOOyqjJkMAX8KflOWr/sSHc4FPXr8yusJY6U1tr6B+9w7+kLeCnvXywjfSy7cgWcHS9dcfnDGJwyYiW4lr13aGybB2oNxOrlECN4JiP9jEMNL+k5nYcwTWclc/rnsmQHi8+RiG+oC1HYKOl36okDa0=;HOMKTLECxrj6cGlmoXqGrA=="
 ---

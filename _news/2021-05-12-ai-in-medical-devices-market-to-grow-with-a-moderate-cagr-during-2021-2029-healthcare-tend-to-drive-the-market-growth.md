@@ -37,6 +37,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
+    publishedDateTime: 2021-05-10T14:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=466375"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
     excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"
     publishedDateTime: 2021-05-12T12:19:00Z
@@ -66,6 +80,28 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 11
+  - title: "Global Speech Analytics Markets Report 2021: Market is Expected to Grow at the Rate of 20.3% CAGR by 2026"
+    excerpt: "The \"Speech Analytics Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2021-05-12T08:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076221/global-speech-analytics-markets-report-2021-market-is-expected-to-grow-at-the-rate-of-20-3-cagr-by"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21076221"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076221"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
+    publishedDateTime: 2021-05-12T11:11:00Z
+    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
 
 secured: "AViVx6U8UG4ll4dzQwFPpgXFUjBIlsEInjHKfP67a/AwR3VEaXCzi7L0UaLKMi1fxug/96UjaygmaJAWBJxFge6VuJbaS3UnUqSMuJ3SpDoYJrHlCVGDohpSJ0RjM0Lh/5Ed7hpOjsvLBaN/hvXTjK0z8czUpB6DbKqjV27yLx1VYJcppyHw6icIA5G/Urb3Zpu0EN/pklLZgK9xlWvB4WUGDxsPabtgF2iVE6R6Fa1Klu6bYpl8lqvltqbphmvPFdpeDwLl/x67OpP0liUhsd5I/Muj72Dx9BbW2NWUfZV+EqdE8DnUCmfnpw0I8TYR9pdclscRWGA/U9+0w3XT0aJvr+OvpPNVotIBXFzPbOI=;LYi7AUtqlT7QGY6bOmOM8g=="
 ---

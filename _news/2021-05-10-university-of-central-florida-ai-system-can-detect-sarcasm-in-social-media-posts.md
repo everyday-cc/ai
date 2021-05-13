@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Say What!? This AI System Can Detect Sarcasm in Social Media Posts"
-    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer programme to do it and do it well."
-    publishedDateTime: 2021-05-08T17:27:00Z
-    webUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/"
-    ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 57
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2019/07/artificial-intelligence-stock-image.jpg"
-        width: 805
-        height: 537
-        isCached: true
   - title: "How to Detect Sarcasm with Artificial Intelligence"
     excerpt: "Humans make inferences about tone and meaning, but algorithms can find hidden relationships between words to detect irony and intentional falsehood."
     publishedDateTime: 2021-05-10T21:21:00Z
@@ -67,20 +51,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1620756355.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "This AI is a bit smarter"
-    excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
-    publishedDateTime: 2021-05-09T18:40:00Z
-    webUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/this-ai-is-a-bit-smarter-2021-05-10.jpg"
-        width: 1000
-        height: 800
         isCached: true
 
 secured: "Qy+ph5RZd1sCdW6uVVWEhggCyUFSESaikh/NEeHPi5ANr80osawGExQhOlslpLQ03h3ZD4iY5hFNLDSYAuY32pEbEbqo1HhxW9v7/0f6wD9foR2kbkDdF+XHt9aNKw1cxyXFz7iwMAW4Y/7ztTM8LBTqLT4rb5ZvSsWz36mQ6POgGRawqzj/f/NHWruo1d5s9BDIEd4MXb8GH/NigH0imoCm9uJ6nyXa+kIPfc/+lh4jLTyJUj+/+Z3bTLRPeT/K8YwwryygaQIqaxM7HeWLwcOzfXuM6Bz3tlxRITOjuD57o9kZlf0Bbm1MAhdB1OzXpfs0vgrqahSlGURjW55RSpp5V8xcG863TJAJv8YmXTBw6OQNqR4mIfxkkBb5jldYIzIQ1FwFhlvxSHAz1plNAevyWFHWGJLw7puLRaF+ddR3ICU/wWBmxBdqky58RG2YB2J5igW7Rt45yOEaqVAlKlj2Zt8n8yXIIxDbMa3qSZg7QV98dyYFkVPFQyNATGfYLeViwkbWIODGIcDPCqUMBw==;bz4Z4tDjMo13+38cCdye/g=="

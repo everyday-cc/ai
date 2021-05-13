@@ -87,6 +87,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "How An MBA In Artificial Intelligence Can Kickstart Your Career In FinTech"
+    excerpt: "Want an MBA in Artificial Intelligence? HKU Business School offers an MBA AI for Business Leaders module, which is helping students start new careers in fintech"
+    publishedDateTime: 2021-05-13T10:35:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 57
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1620289993.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "Why fintech companies are winning big in banking and finance"
     excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
     publishedDateTime: 2021-05-11T09:50:00Z
@@ -131,20 +147,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Top Banking and Fintech Trends for 2021"
-    excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
-    publishedDateTime: 2021-05-08T17:25:00Z
-    webUrl: "https://www.analyticsinsight.net/top-banking-and-fintech-trends-for-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
   - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
     excerpt: "Riskfuel extends a winning streak by joining elite OnRamp Insurance Accelerator TORONTO, (GLOBE NEWSWIRE) — Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial."
     publishedDateTime: 2021-05-11T13:05:00Z
@@ -158,6 +160,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Fintech start-up raises £1.2m"
+    excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
+    publishedDateTime: 2021-05-13T11:11:00Z
+    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2075312-fintech-start-up-raises-1.2m"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 39
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/may_21/ubPn6mmQ-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "R6O2G6aV4vVTeERMcMG6lfos1DTBQyPZ2JGTY6f/61RbbZ79Zy9FQsBug1NjdrA1UXF6z72t/Z9meBFXKkkp9m1T0Jjbj9YMhJgijXUTFg0kIWEGHZop0LMCUVLGuhQ5B8FUF6dxJFi1X1HgQnKs8xceDIG0A/mwjDyZDbzmOQbwnH6GeR0AgKDQF4mQrAePZmreQRRdCxuz6gpeRl5d4WZ9nGA4rOUlfuNg/+bBQuDGXPT6nP5OTDN4d6DbNLiVud6CeES6wG7nDrdgosSze37HHhw9bbqpsocufxKgF975zqr3ykmTc1BOtlORT3TVWOC85pB7pDz2bYNtnpmXDc2086x971ALYRIpkx5u0SgqMPQ+DBGwshkyG+8Cfe35P5qNOYREFMYkZ634LuJlNmWxp/C2NU+KQG1L/LJtg/ZE0aiqqJ0Q2m/7OR59gx/4+ceIEc2eTj0a4JN9C6fKsKfYTKZ4ScfhUnDgntbN1K61Dz3UExRwE4/MR6FSNKmfaOEikCeznalLWkw0L6Gk7w==;xXqTeP4d1wWc6DOdEH/n6w=="

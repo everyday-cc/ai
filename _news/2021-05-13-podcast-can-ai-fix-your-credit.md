@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-f
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 3000
     height: 1687
     isCached: true
+
+related:
+  - title: "How to Compete and Win with Artificial Intelligence (Podcast)"
+    excerpt: "Ash Fontana, Managing Director of Zetta, discusses his book \"The AI-First Company” on why companies need to prioritize artificial intelligence to succeed. Host: Carol Massar. Producer: Paul Brennan."
+    publishedDateTime: 2021-05-13T11:30:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2021-05-13/how-to-compete-and-win-with-artificial-intelligence-podcast"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "u8Oxa5yyzX0yDfZx9mioah2+qckXzYcq9sXmIgJ0uQWe4dDB8XjL2d3+FVvoUThDMiYlh/4avcHFCc/ffXI8xu1ojR7Q9XjfMFz04N8hZXYO3DdEPCwk6fJo7oQbxgvV0TWGOGV5TBv3DzTprQxkdbNwK+ffk6exwY7YErCwjt4aSDHxWX6Cn4T6iza+ei+ke6706xBfctSoRFpVdDE2ws1YtYbTbbxIftnmy/lkYa879Muw9mn2sWP4MVz4uVCUGYmIvd1Wv5iXzIVnjeCLzzkT6f+2lI63wKkQAu8/l5C2SgkT1UC55tac1Xs4O9kZxJq81fudqHf8yGyk5/TjubPk52N5LXb+Nwm4bilAbeXJ5KpZPrAj+UGZ2FyHp9D6w21HfjI3JKVUAPArgSHIma5g5fFyd9mZEE7PLVAUGub+dYBcFZDnHeg2u9dvriYgo7bXNZVAA4Tz/6c2c1MPvrAPkGy+WjSOofF8CLNl39FmvW1YBFYZMkruB+pFVjBC6ycESNkseV6a3MtcxkjfMA==;EdvGzgnm+PFE6/HJENWUAA=="
 ---

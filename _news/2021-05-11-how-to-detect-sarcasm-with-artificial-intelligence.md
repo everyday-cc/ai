@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseone.com/technology/2021/05/how-detect-sarcasm-a
 webUrl: "https://www.defenseone.com/technology/2021/05/how-detect-sarcasm-artificial-intelligence/173936/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Say What!? This AI System Can Detect Sarcasm in Social Media Posts"
-    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer programme to do it and do it well."
-    publishedDateTime: 2021-05-08T17:27:00Z
-    webUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/"
-    ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 57
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2019/07/artificial-intelligence-stock-image.jpg"
-        width: 805
-        height: 537
-        isCached: true
   - title: "AI to detect sarcasm on social media"
     excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands and it may have just gotten a little easier thanks t"
     publishedDateTime: 2021-05-11T18:18:00Z
@@ -54,20 +38,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1620756355.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "This AI is a bit smarter"
-    excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
-    publishedDateTime: 2021-05-09T18:40:00Z
-    webUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/this-ai-is-a-bit-smarter-2021-05-10.jpg"
-        width: 1000
-        height: 800
         isCached: true
   - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
     excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."

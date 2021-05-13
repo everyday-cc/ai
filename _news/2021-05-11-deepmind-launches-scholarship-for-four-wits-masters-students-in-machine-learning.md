@@ -79,6 +79,20 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 52
+  - title: "DeepMind Releases Algorithm To Create Mind-Blowing Paintings Just From Text"
+    excerpt: "Like GANs, our work can be seen as artistic appropriation because it invents nothing new in terms of mapping from language to image."
+    publishedDateTime: 2021-05-13T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-releases-algorithm-to-create-mind-blowing-paintings-just-from-text/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-35.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google-linked DeepMind launches scholarships in South Africa"
     excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."
     publishedDateTime: 2021-05-11T13:57:00Z

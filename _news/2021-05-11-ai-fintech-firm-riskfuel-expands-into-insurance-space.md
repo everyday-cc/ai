@@ -87,6 +87,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "How An MBA In Artificial Intelligence Can Kickstart Your Career In FinTech"
+    excerpt: "Want an MBA in Artificial Intelligence? HKU Business School offers an MBA AI for Business Leaders module, which is helping students start new careers in fintech"
+    publishedDateTime: 2021-05-13T10:35:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 57
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1620289993.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
     excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
     publishedDateTime: 2021-05-11T12:17:00Z
@@ -145,19 +161,19 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Top Banking and Fintech Trends for 2021"
-    excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
-    publishedDateTime: 2021-05-08T17:25:00Z
-    webUrl: "https://www.analyticsinsight.net/top-banking-and-fintech-trends-for-2021/"
+  - title: "Fintech start-up raises £1.2m"
+    excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
+    publishedDateTime: 2021-05-13T11:11:00Z
+    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2075312-fintech-start-up-raises-1.2m"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: The UK
+      domain: thebusinessdesk.com
     quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
-        width: 1600
-        height: 1066
+      - url: "https://www.thebusinessdesk.com/_files/images/may_21/ubPn6mmQ-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "cf85z2hqmyTo5U8Vo0dfBDBpkK9TLcfIpvMZQusDojnIFmeOMh5ndflc14trwsRSEBkniWdHxjG3wFS58n4IzN1y+N+IbjhZpxUhxluGK8K9lPJ8GwwDuz6hy3pMsq74cTavaFtw9EBjPQXoHYR9uG4WbU6gPF/FS0xxkN/+17GMMYdrA6jmJF0d9SRLzi6tmgYocMQN/LHaeszcSXKtxB9AX5JKGgPc40X4bkCWOMPjXylxS6gFg9ZpFxDe5fhgNLMfcUZGEE+Bf9hjLEB5198a6120Eule+PjmYrfZKqGlApFbT/lxd6zPxVMCytRafps9COzubdEqgEXaLhhJ9s6RXFKVxx98vizbOOusXzbryELoffOUQt7+hW1nkm+BUWMGEvb6n1RZkAA5yBrOfMcT0Ook/FVhQKZDrdN5SfECA97Ahb9JNo6MLYM4RHOIFhjl+0Hrxe8dnq9RmYV3SeHSdlnhmty0GQf9lTRdoyVxANMK1fk+nej4benHdmlysxQ+mgbENhb5O+ugZpq1ow==;15NeZyU0JElvgOv8B0zNbw=="

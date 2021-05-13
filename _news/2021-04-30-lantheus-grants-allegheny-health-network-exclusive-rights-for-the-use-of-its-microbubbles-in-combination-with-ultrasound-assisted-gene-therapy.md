@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the Development of a Proposed ..."
-excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted the"
-publishedDateTime: 2021-04-30T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia"
-webUrl: "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia"
+title: "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the"
+excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to Find,"
+publishedDateTime: 2021-04-30T12:30:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=461697"
+webUrl: "https://us.acrofan.com/detail.php?number=461697"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "E40FxD4JX/ldvNITTwOn9LdXtvhqCqz7Sf/rAhgiJ7TTCLOGs0RJje9lPqT98oVtOWxn4aamI4cFyLjQHZf9Hh3WagbFqOBINMwmGnjnB5LJj2xOy0oU8KYQQLN3Jz+6aEnU0curJuNFKlQkRDAohFDcDlbR1ee9QojpKcvmHJHgzwqkQrhD5JjlG8vxms8+ltC0L5i3YrGN1J3myhrJv4bFY93401O2nEALDzFg2dPFN6DWHVNRW8xFa66s1iqXSb58sV27MsZ9gCXGfqThFSMZud+IOLaF2/LzpmneqKrW2Wu4g/FXKH7L1mqQO9dlA+akM6DE3ikgp2hua45oBAFQqZmLQayODfM+Wz0FpWA=;gC7LpzjrJPDzSjxeTbx5Gg=="
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "dzMEtu7b1USBcCQ54DwYwFTABLsl7/gO+OZqeg7jdmpnq2jPj8WgdIXrwXJQL+dCMq3cuCwX39fxnACrbzCP+ckhMsbau4Gtai+0TxBoRyfmjJpqE3O12VCR2dAxawIjnZaRhan8VwM3wT5EynPAWIy/CqW1J3jLEmF8PeqzUM8E1vx34crPs/SN+4Z1jM7JF/WmoPxt5q+RcECaw/7uwmLIjUSMz/WlnXci0734TfoGbIO+kjHy2PL2ZhZ43vC43AefSuMnmrVcejrwILXqg6SQCuakLa518IbyJvx60cZEyW/YlZImgJzf+QQ4fjFbpBykxLfWlHh0E9K5pNivhSiZbD5wCRFpZGLXRbNWgiM=;geHJKfxpHaU6LbbRUPSgOQ=="
 ---
 

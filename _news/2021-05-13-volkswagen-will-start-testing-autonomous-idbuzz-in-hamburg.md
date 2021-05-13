@@ -29,6 +29,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Self-driving Volkswagen electric bus trials to start soon"
+    excerpt: "Volkswagen and Argo AI (US-based self-driving startup) have announced that international trials of the autonomous driving technology in the all-electric ID.Buzz microbus will commence this summer. The"
+    publishedDateTime: 2021-05-13T11:45:00Z
+    webUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon"
+    ampWebUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/volkswagen-id-buzz-microbus.jpg"
+        width: 1280
+        height: 653
+        isCached: true
   - title: "Self-driving VW ID.Buzz electric vans hit the road this summer ahead of commercial service in 2025"
     excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
     publishedDateTime: 2021-05-12T14:00:00Z

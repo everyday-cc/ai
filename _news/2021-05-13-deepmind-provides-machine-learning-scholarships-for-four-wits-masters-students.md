@@ -64,6 +64,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "DeepMind Releases Algorithm To Create Mind-Blowing Paintings Just From Text"
+    excerpt: "Like GANs, our work can be seen as artistic appropriation because it invents nothing new in terms of mapping from language to image."
+    publishedDateTime: 2021-05-13T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-releases-algorithm-to-create-mind-blowing-paintings-just-from-text/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-35.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning"
     excerpt: "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning."
     publishedDateTime: 2021-05-11T11:44:00Z

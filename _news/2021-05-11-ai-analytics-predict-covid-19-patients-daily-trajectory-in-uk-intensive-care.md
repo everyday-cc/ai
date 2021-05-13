@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Soter Analytics Uses AI-Enabled Wearables And Neural Networks To Improve Worker Safety"
+    excerpt: "This startup takes a \"machine reliabilty\" approach to helping prevent repetitive motion injuries for industrial, warehouse and retail employees."
+    publishedDateTime: 2021-05-13T11:22:00Z
+    webUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/"
+    ampWebUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c7704bea7fa07a835a633%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in 35 days: The pandemic’s answer to excuse makers"
     excerpt: "Today, most still have advanced AI in their imaginations more often than their information technology departments. But some did hit a few of their AI targets in one short year, and they have lessons for the more sluggish among us."
     publishedDateTime: 2021-05-12T18:44:00Z

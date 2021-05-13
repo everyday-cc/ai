@@ -72,6 +72,22 @@ related:
         width: 840
         height: 480
         isCached: true
+  - title: "How An MBA In Artificial Intelligence Can Kickstart Your Career In FinTech"
+    excerpt: "Want an MBA in Artificial Intelligence? HKU Business School offers an MBA AI for Business Leaders module, which is helping students start new careers in fintech"
+    publishedDateTime: 2021-05-13T10:35:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 57
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1620289993.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
     excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
     publishedDateTime: 2021-05-11T12:17:00Z
@@ -130,20 +146,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Top Banking and Fintech Trends for 2021"
-    excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
-    publishedDateTime: 2021-05-08T17:25:00Z
-    webUrl: "https://www.analyticsinsight.net/top-banking-and-fintech-trends-for-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
   - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
     excerpt: "Riskfuel extends a winning streak by joining elite OnRamp Insurance Accelerator TORONTO, (GLOBE NEWSWIRE) — Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial."
     publishedDateTime: 2021-05-11T13:05:00Z
@@ -157,6 +159,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Fintech start-up raises £1.2m"
+    excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
+    publishedDateTime: 2021-05-13T11:11:00Z
+    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2075312-fintech-start-up-raises-1.2m"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 39
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/may_21/ubPn6mmQ-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "cVcDUd8717zoRb3gxw7O2622BAwPxiGWyHigTV5gcxXTffhRUMUgN8HBYHaPQStFZ5jmoAPsaoX+3JqelpwzDW2JB0+VuFkEOtzeEU+LWahAGbukWIUxIx/Xp/RBs1LN/Ii3eO0Ppb2qXEyDMJZk3zLAUJKhaHz1IDvMRUgX4dlmXy/R6qpRztINaHotB+vVBJMpFAbtX+rv2k5+4BS/pkZIYZ+Fz3l9cqRI7uBo6npUwZKPIe1j/cJn5ZNK7Kyb6Uu3ZbqnXTiSK5Qiv4kHAj9VcKASevwOFXRrlK+R1qKwkVLbw1A/a1a4uidNH0tv1N9XxZ9xF6lqUKaRgRKWHxNBgvCxsUuoSgYQA36JFURj5pV6qEpTiLmQt72XLFON/+3Avp5PQCDyGGmqzPBUXXfrtN62C3C2TRjJyccu9vEzuiZo/pfWuo+Py5w/56KTfHg8naTmC288j3iPn4qtrpQ795TAulrex7kQSs8qOA9Y4dMGESl9+4FprA0xN173j8vfH0ulQU/+iAOxQq70jw==;/fwPFGu1CCx6oTm6ay9NaA=="

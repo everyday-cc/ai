@@ -1,0 +1,47 @@
+---
+category: news
+title: "Learning deep features for dead and living breast cancer cell classification without staining"
+excerpt: "Automated cell classification in cancer biology is a challenging topic in computer vision and machine learning research. Breast cancer is the most common malignancy in women that usually involves phenotypically diverse populations of breast cancer cells and an heterogeneous stroma."
+publishedDateTime: 2021-05-13T10:59:00Z
+originalUrl: "https://www.nature.com/articles/s41598-021-89895-w"
+webUrl: "https://www.nature.com/articles/s41598-021-89895-w"
+type: article
+quality: 28
+heat: -1
+published: false
+
+provider:
+  name: Nature
+  domain: nature.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-89895-w/MediaObjects/41598_2021_89895_Fig1_HTML.png"
+    width: 685
+    height: 377
+    isCached: true
+
+related:
+  - title: "Male infertility scoring using AI-assisted image classification requiring no programming"
+    excerpt: "A research group led by Dr. Hideyuki Kobayashi at Toho University Omori Medical Center in Tokyo developed an AI-assisted image classifier that provides scores for histological testis images of patients with azoospermia."
+    publishedDateTime: 2021-05-10T11:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 48
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/male-infertility-scori-1.jpg"
+        width: 1309
+        height: 715
+        isCached: true
+
+secured: "Fg8nHLDvW7ObN1qgQ9cZLZbn+mk4gJBnCWXcu9p0rX7ECNq1hQHQCvZLFUlqMylVoSWtwgxldLYVRHcKaE6Q81lzEqQU1huJaGRHXkD5FXZ8yTzy2teoMXshFpKd+xrX0EGRpkxEZwrg9qsy7EJw6zC8dMLrEpKZa5dP+vGxIl6NxYWrM6nOxnxG8sb8EW1zYxHfSQy+9+F3qKxIjxAiPy3BAcLNStNoOvJ0Et6JMK5IXmVKryJRgQopEmeo2YzOSCDHF9J0NVijeNaYThDbpvGO6y9JR0P9+T2CzoBwWXFRSUbIYM27EcIF5UAndjtLF6LUYX11ncUxTbA4jwx6Pn5qtsy55FuKUkW0ZroG88o=;fhHrhK0TidxEbOsVavnRhw=="
+---
+

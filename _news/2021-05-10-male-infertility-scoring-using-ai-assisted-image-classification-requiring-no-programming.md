@@ -25,6 +25,22 @@ images:
     height: 715
     isCached: true
 
+related:
+  - title: "Learning deep features for dead and living breast cancer cell classification without staining"
+    excerpt: "Automated cell classification in cancer biology is a challenging topic in computer vision and machine learning research. Breast cancer is the most common malignancy in women that usually involves phenotypically diverse populations of breast cancer cells and an heterogeneous stroma."
+    publishedDateTime: 2021-05-13T10:59:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-89895-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 28
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-89895-w/MediaObjects/41598_2021_89895_Fig1_HTML.png"
+        width: 685
+        height: 377
+        isCached: true
+
 secured: "dr2YrTo0Kba4jMCcqmgdSbvtg/lDdY0yxz/HPeLU88/x3/wKDYu+w9arGoU5SfpaVdhnADjlhcZgjUmB1A9D9d5IWeAMIWybf4w8DXEzJ/hW3ika7U5iBp/yc+fUN4xqDINRr3O200j5emk02Vh7e0dhTNduUjFpviQl5OMRWg9EPkq/Eae4OYSHi0eXJOlrScQzS+euSoy/2RF5C7Mz44SXTCQc6lMTOv7mTUwZj6js2EffnI4Ccx2M5jZ3Fna11fsM9VSyEtqSZeo39QaR80WiC5goidZ6PgQs1inFm9EU57GN/U48Y/fpsj0JTke1k9I5kUhaSKI60aYEf+iFl3j8p0Diq/WdkiuYbgKYrTmioXYhsvzgiL8xRniQNytTqLKsglg2G2elHpOjpTpEhqZ+Xav8AXitOqw2aOJX0dUrwVVPhx2LrbEpByag2kUH9TU1FJxi9auQOxjbDSQHNKVn/pSWnIwjoFRE0SFjkzRUVdCmiR4K4RSEaBcW/sdSdhgUb9EMomgzmSm7xPzrzQ==;Pvvt8+LhI7LN96Vun3g1dQ=="
 ---
 
