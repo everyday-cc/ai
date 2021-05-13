@@ -1,28 +1,22 @@
 ---
 category: news
 title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
-excerpt: "The \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression Recognition, Speech & Voice Recognition],"
-publishedDateTime: 2021-05-13T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-worldwide-emotion-detection-and-recognition-industry-is-expected-to-reach-37-1-billion-by-2026--301290799.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-emotion-detection-and-recognition-industry-is-expected-to-reach-37-1-billion-by-2026--301290799.html"
+excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
+publishedDateTime: 2021-05-13T15:39:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-worldwide-emotion-detection-recognition-industry-expected-reach-371-/2021/05/13/9369134.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-worldwide-emotion-detection-recognition-industry-expected-reach-371-/2021/05/13/9369134.htm"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "The Politics of Recognition vs. Redistribution"
@@ -56,6 +50,6 @@ related:
         height: 640
         isCached: true
 
-secured: "t69IDLB+mPTlaK0R3ywEQvMN7phBlv+1q0nN5R18YzNd7svmLMfvrUq8WDGyURNLZ4QO1hswRWHFwzoMitw8H9XFPEZdB3j0le+i4NhHeAtxAG8zvuIMmtm2KL6Qt5t6hzUuHXoAs+brLtcl+xdumxj3TZLfehyezzFZW1ZHzDcJgdz/EmPFiQpvdZYQQOWvHWliMn0pqaQu5HPaotN07XX3kDQxMJubvqYCUQ3eRcC3cHN7UThKExKYUdkfI+ztIsHoSXM3VTUsWF3s/xKO/ymRzJyxEIbWH3fZ87eIgjUm4BWAFk6T6rACVs6geKvaYeEq8dBWeRYIoBsFj7ZBZ7CJJei8LrXBbrGR2ngAsO4=;4neLFVmgSu280si3JYG4Sw=="
+secured: "ccBHFRuxBNI1A4aNzaf7l9JNTVevgdcwMC99gclZLfDTBS/urzMXqYfr7J/JrEVCHpTcxzeTfJe2UO2QotB4yQBSgQyhNEkNcYkdN7vJJ/2KKM/97kfrwdFNxQ+vb9hQopCZLCtLUO+lwGCLdw1HA9zK9gxfQIuSb752fPRQ1I7fczBHsJU1Tzo3XDxGBZ6GjxSCx8uzaFEv21SMEKa0Xgm+jG10ZIXF90XWUPv//swmIdRtFtQ1Mqhaw+n/31TRObyp47V/m5gGYYujqbCGQJDXfHbR4EjS0panzH7mL1eWC99CKWpE+rDpaR4dZTkleIBHCCDPUpwAjlIbl6Mv06u7LxU/4+wf97YmnEADL+s=;UrqKnMbwDfSnt+EKIzHZTQ=="
 ---
 

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-publishedDateTime: 2021-05-11T14:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T16:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
 type: article
-quality: 36
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -101,6 +105,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
+    excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"
+    publishedDateTime: 2021-05-13T20:13:00Z
+    webUrl: "https://www.datanami.com/2021/05/13/chaossearch-widens-the-zone-for-data-lake-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/data_lake_shutterstock_ramcreations.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
     publishedDateTime: 2021-05-11T21:41:00Z
@@ -116,6 +134,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/ocTk5XCy8/ax069OIeK92PzPSxkEbU4bapjr24vu9j8EfP/jfKMvXWIrf373a/jiwqntVP27SJSiLTwxvLzZaIwqtyp2Pb3Uwupmhgj+n///Hrmbjy2gVQI78tVdDZE/VLF0UkG6MpLbu2TpNLtGCMPVbg9GWwgWqHl83bUsH7i54NA64pZuf/cujMFbN/9q5XfFhI6zgnwC43FdRUPpHox+A+Zj4pRja1WCnoHNHxPjEWTfSQsR03CbF8xvWc/prdS9UxfQcbGUl96YmCfgqFBk2Z43jEY4Kvw4YSpeT0Ht61MR8v5iavaGdXBxXWuclKEvJUUk1wownIsx75RCSFU/t4OAzcidyTEYTaYXk493/NgDhMOxUKbK8nFd5RAhq27O1mVPYpPrzIe4qquPrhVpfCi7GuCKvJvQxi1XdqsSqLM9A6hyhIrFDQkpkfJ8rJtWsj2lQ64Y4Dmx4aSRYCy6kijkZmS24c2uV2eR17Q4xPOUfHDRGqzMkAoSBOo2KFwDh8cR3K7gmSbgcRK/w==;TySN0lfa607nw7HXK7VdPA=="
+secured: "b7wKv8vkK073Zm+PmItvCceboh9gachh4sKVoWH1OvvrpVDGIpIeiXdqn1YHAQqFnp6NClYEuWhySJw+iEqxmyDIul6/46t4pBJcQgDcKhUSh5OyZUOBLJJBoXSAj0vE8NgiqIiPHJ3F6pkzIl6KY0B46l0uL3NOlmfMkA+OG/D8jJHLnav81I96v2XP8nKbXieV0iLHAjBbRHoFl1kh1Kcz+9VHx3655xIGTHlce1XcVSB2fTFhhO6b6Q3lVXlAg7xW+NcoJO+bhnLspOiC6cjOJoxOgpj8EvEq5oLINeZFwFR9rpSfdmVdxFWpQ+HlCeBxTcU0E05YWA61zRgkL5PjGroOvu71BE/1TPVcza0=;Cl1SdwqQO+0+eUEct2Yzxw=="
 ---
 

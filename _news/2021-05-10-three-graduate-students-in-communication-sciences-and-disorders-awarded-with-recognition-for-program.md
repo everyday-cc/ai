@@ -25,24 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Patriot One Technologies Announces Accuracy Enhancements to Video Recognition Software for Weapons and Threat Detection"
-    excerpt: "Patriot One Technologies Inc. (TSX: PAT) (OTCQX: PTOTF) (FRANKFURT: 0PL) (“Patriot One” or the “Company”) today announced enhancements to its Video Recognition Software (VRS) for identifying weapons and other threats in crowds."
-    publishedDateTime: 2021-05-13T13:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection-1030426288"
+  - title: "SparkCognition Government Systems and Intrinsic Awarded United States Air Force Contract to Improve Training Program Using AI"
+    excerpt: "PRNewswire/ -- (SGS), the first full-spectrum artificial intelligence (AI) company devoted entirely to government and national defense, is pleased to announce that"
+    publishedDateTime: 2021-05-12T15:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program/article_7e8d2048-b783-5fff-a858-bf665affb03c.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
-  - title: "Patriot One Technologies Announces Accuracy Enhancements to Video Recognition Software for Weapons and Threat Detection"
-    excerpt: "Patriot One Technologies Inc. (TSX: PAT) (OTCQX: PTOTF) (FRANKFURT: 0PL) (“Patriot One” or the “Company”) today announced enhancements to its Video Recognition Software (VRS) for identifying weapons and other threats in crowds."
-    publishedDateTime: 2021-05-13T18:58:00Z
-    webUrl: "https://www.officer.com/command-hq/technology/computers-software/press-release/21222735/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 0
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d0/ad0eecb0-9bfd-5dd5-904a-49adf7b2ba9a/606d9f13f386a.image.jpg?resize=1200%2C445"
+        width: 1200
+        height: 445
+        isCached: true
 
 secured: "tg5eNc3qIb1ZEVrgT2QbDjglmblCeQvqARtOLOlcl1fnhocLReebYICIGnswKcjbbdfUJwNb07rTb2cvVZBHEh18s2EFxYeyKrLhd5tNy1ZbzsX8/3aIyPJ70OM/6oMRtvIl03necKXaJnkEBP5utRuf95a0FYQyZm7zHt68wc7vtdmQv4RGzPnigiuuE6VWPY3oLuho93mzqckf96KgZG6CZHxZgAvkvVUQnI/rjc3XC23gqQfWkWZtGPXp4ILV9gxLSFXSRBUAA8xLI0fnggX/mGmrngvXRwx5AXW9kcMy1824lAK/secLvnMLMX+sXbb4LcmhdIAYyhDz/LFmS51NlVqVWihOykjqch3l2Zs=;kiIfjvFJiEiQCnse2CMgCQ=="
 ---

@@ -6,9 +6,9 @@ publishedDateTime: 2021-05-13T19:43:00Z
 originalUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
 webUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 55
+heat: 85
+published: true
 
 provider:
   name: insideHPC
@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2020/03/IHPC-Panasas_Storage2020-03-12_16-36-00.jpg"
+    width: 273
+    height: 354
+    isCached: true
 
 related:
   - title: "AI Exposure with ‘ENTR’: Analyzing Alphabet, NVIDIA, and More"

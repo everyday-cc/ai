@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "AI in 35 days: The pandemic’s answer to excuse makers"
     excerpt: "Today, most still have advanced AI in their imaginations more often than their information technology departments. But some did hit a few of their AI targets in one short year, and they have lessons for the more sluggish among us."
     publishedDateTime: 2021-05-12T18:44:00Z
@@ -86,19 +100,19 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-    publishedDateTime: 2021-05-11T14:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+  - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
+    excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"
+    publishedDateTime: 2021-05-13T20:13:00Z
+    webUrl: "https://www.datanami.com/2021/05/13/chaossearch-widens-the-zone-for-data-lake-analytics/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/data_lake_shutterstock_ramcreations.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."

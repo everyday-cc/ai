@@ -73,6 +73,22 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
+    excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
+    publishedDateTime: 2021-05-13T10:01:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Elon Musk Announces Release Timeline For Tesla's Improved Self-Driving Feature"
     excerpt: "Musk announced via Twitter that his car company's newest fully self-driving system may come sooner than expected."
     publishedDateTime: 2021-05-12T16:52:00Z
@@ -169,6 +185,15 @@ related:
     provider:
       name: Sacramento Bee
       domain: sacbee.com
+    quality: 11
+  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
+    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
+    publishedDateTime: 2021-05-13T19:27:00Z
+    webUrl: "https://www.star-telegram.com/news/nation-world/national/article251350568.html"
+    type: article
+    provider:
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
     quality: 11
 
 secured: "i9W0smaQO9MajnmJRvyn+hIFQBgoPgOdNcJxVWm3b8pdO4j9MlU33Es855dCZ2cjKrSgJ7xkWY50kEw3KdtfVFRlnM4gm4LjXbVc7K8ag9n49aDqYIiR7o/3WENNVsN5CPFk1glgkL45RIDaDgjzar9Uyjh2MqCswf/gl08Li1OmDKKWhynHPsZcOrTEimueEjtJWYstxfpXBf63pvs8M4b1BSeT8tJ5wr1YmwbA59WNhshlbIShD1dnOQT3IYhSw0p3luCfxwKaoa/887caQ/jGQKe4tStVucR3ytaPS5n52Y8IQrZSfmVta1Njn84ojQipTBvwPZraeMtbJHgCAFQk5uG8vdmyQ+Ao802Xirw=;DdcTb7K4VMtdRo7nYGPdLQ=="

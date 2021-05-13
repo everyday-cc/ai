@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC"
+    excerpt: "Today Anchore, a company focused on security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA’s NGC catalog."
+    publishedDateTime: 2021-05-13T19:43:00Z
+    webUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 55
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/03/IHPC-Panasas_Storage2020-03-12_16-36-00.jpg"
+        width: 273
+        height: 354
+        isCached: true
   - title: "AI Exposure with ‘ENTR’: Analyzing Alphabet, NVIDIA, and More"
     excerpt: "ERShares’s flagship fund, the ERShares Entrepreneurs ETF (ENTR), offers exposure to a range of disruptive technology sectors—including robotics and AI. With its emphasis on high growth companies driven by strong leaders,"
     publishedDateTime: 2021-05-13T16:21:00Z
@@ -28,15 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
-  - title: "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC"
-    excerpt: "Today Anchore, a company focused on security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA’s NGC catalog."
-    publishedDateTime: 2021-05-13T19:43:00Z
-    webUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
   - title: "U.S. chip makers are competing with Nvidia and Intel to produce next-gen AI chips"
     excerpt: "Image showing the Cerebras Systems WSE-2 chip size compared to a hockey puck. AI chip start-ups are raising large funds from venture capitalists to"
     publishedDateTime: 2021-05-11T18:00:00Z

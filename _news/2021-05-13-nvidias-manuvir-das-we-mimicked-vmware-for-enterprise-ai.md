@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-13T16:05:00Z
 originalUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-s-manuvir-das-we-mimicked-vmware-for-enterprise-ai"
 webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-s-manuvir-das-we-mimicked-vmware-for-enterprise-ai"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.crn.com/resources/0269-1244704fffc5-bc9a2ddec225-1000/manuvir-das-nvidia.jpg"

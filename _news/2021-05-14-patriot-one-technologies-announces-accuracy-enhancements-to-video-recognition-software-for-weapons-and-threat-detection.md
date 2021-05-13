@@ -28,20 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
-  - title: "Three Graduate Students in Communication Sciences and Disorders Awarded With Recognition for Program"
-    excerpt: "Samadhi Pusuba Devayalage, Kendra Ledbetter and Madeline Rudolph were recognized for excellence graduate program in communication sciences and disorders."
-    publishedDateTime: 2021-05-10T05:06:00Z
-    webUrl: "https://news.uark.edu/articles/56867/three-graduate-students-in-communication-sciences-and-disorders-awarded-with-recognition-for-program"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 9
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2021-05-07_01-18-12-PMMyPost2.jpg"
-        width: 900
-        height: 900
-        isCached: true
 
 secured: "kAJg5B2wf1JEVaRxwaQuSE97iijkiU9YAbp9a46MooNLKJDhJpzsN96Zph2vfd2MBnT57g2TLgrDhEANZ1efC7Fexn+coxO01ByC7XhzMCUN3466BqVhzR25SQ7jy48dD3Rgiq4cX3dBG9A84OBsa6rGFaHdeZeEySL1Bm72l2f+4GheSlnrSMZmXOr+qo4t/vX+B1ZXRw3QPdH4YJKlRqVZ3Jw3ZAcmqiCswcv05/nHIIdIhH22QJ0bCng7+oSSW9Nz/fLC0sy2z2fz3KdbxR0F7IO+RZWVmeRXnfzhslCvspbQefw7SbVCW4C7dtQP1x4p67JF1An/INgGOpg1f7hCNAU1BdA30Wi9t0dxUPI=;3ba2TTJKOaX00TGh/RLRPQ=="
 ---

@@ -53,6 +53,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "GBT Technologies developing long-range, real-time biometrics and object detection"
+    excerpt: "Calibre is intended to enable the real-time collection and analysis of data for object recognition and biometric identification."
+    publishedDateTime: 2021-05-13T21:28:00Z
+    webUrl: "https://www.biometricupdate.com/202105/gbt-technologies-developing-long-range-real-time-biometrics-and-object-detection"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18144612/long-distance-biometric-identification-small.jpg"
+        width: 720
+        height: 385
+        isCached: true
 
 secured: "2OlHSAFjlVKKci5dxjnJyVoHtyVCJg3P4CUML6cheO5370uPOWXsHwwu45qCzgqPehoPLUEZLMTptjX7wSEr1VfpIONt2Hq06HvnqwFE+jYQcCkV9H+0oRkmzg/rMayZGC39h0pF2gb8vLJz56C8ppt4mdCvVpetyMpRG8u1z1vNbkPRFuvQWGRZ5xU3CY3KShrSGSRM+5vYgUvccYxzhi2bQVwgm26sBr2CVi2vBrRh1T+xk067Nb0Ft8KOYigrx5nUfqnb6IO/P0wIcj3LQlokEqV3fRMB9dDw+gXd5CJT6c6DTHApIA8zKD8QUdpOvTt7silvJFio/dWhvpBLusGrAKS6YV5bq2QCkzmiCFh7BfqMAknSSAUD3AMpgQxrY3rfZha7a3DHE27AL3VL/sfeuQ4BV0sHpK/iBjHihyhNpVRZ1Y15iLzxmAiS8t2e+BVMOrEtFMehcVZp0zsAitRj1V8QOdbU/97FA+N+ldS8At8J3Thnv+gQ5YzQ/0D1iMBqxH89rkV1rK/+WUG4EA==;UXEQjvRAdEBIcuByNFVMgg=="
 ---
