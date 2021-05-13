@@ -112,6 +112,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their Windows Virtual Desktop technical practices are able to earn the Microsoft Windows Virtual Desktop advanced specialization."
+    publishedDateTime: 2021-05-13T17:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210513005625/en/Wipro-Has-Earned-the-Microsoft-Windows-Virtual-Desktop-Advanced-Specialization"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "ZqALfrM6VxF9GjedKtf/SerFraoywXwn20l6bble8f2ec657JVEcWwTcV6P8o6aeXiiHGRYNcryZIaNZCVuk+CDtRysbI6yKYAFBXpGvX/v7Fj7uqL2D47RFrFgMt9UbJpdhJLmPOSv3lVjkok0qZhbMaYaKlPh62xkK93RJkA7MQnAH5/1RA58rZEkwRrNbMrUVA/9H4eCnTqKWS0QNF+IwcuMooomQEoNdJiy0pQpWYHDVZPKevTzi+9kGJYo+fZ404wfr3y6VBTWP02nE8ZxyobRQUH7Ye0ITpDPthIV2RUBr8/r9qBPV4ZF9ZiDb+qijHIDDScaY1O78iM9xuDCJRKrb9Bd0suOTBPy2dndYZof6hVfijEwHGtMPqVZ+q2M07gumREbrhdl7ZOFfnRF/qLUfKyy2wy4YcpFW6LaqGjSpFFCKbYgFsm+0h9TIo5e3Dq4qokpEGzaIxnjP9qOmXOfsKWNY1TJ2VhYXn6y5/x8C0IVj3JAAv+m1kc6iunIaB05MaQGtdIt9GaaueQ==;LYMrgGfEa+XP7+dJWBxPxA=="
 ---

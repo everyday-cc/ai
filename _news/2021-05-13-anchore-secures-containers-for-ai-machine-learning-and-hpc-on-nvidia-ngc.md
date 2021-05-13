@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC"
-excerpt: "Anchore, the leader in continuous security and compliance for software containers, announced an expanded collaboration with NVIDIA"
-publishedDateTime: 2021-05-13T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc-301290235.html"
-webUrl: "https://www.prnewswire.com/news-releases/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc-301290235.html"
+excerpt: "Today Anchore, the leader in continuous security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA's NGC catalog."
+publishedDateTime: 2021-05-13T08:30:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210513la75887/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210513la75887/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc"
 type: article
-quality: 55
-heat: 65
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/1027990/anchore_Logo.jpg?p=facebook"
-    width: 597
-    height: 314
-    isCached: true
+  - AI
 
 related:
   - title: "U.S. chip makers are competing with Nvidia and Intel to produce next-gen AI chips"
@@ -36,6 +29,6 @@ related:
       domain: element14.com
     quality: 29
 
-secured: "Liy2yV5xf5NiX+dL8xl98yKr0EG3kq4ZebzYGoHE94MguND2hOi6819CMD1YHOGXd6mFn7vZRqchh7bVVnBnBiYLSZL3A/rYTUpQP8k8k9mVgv34N7dLkPur1gZjWM7/NAYUFurWx8Ws5TgveSt8a9E0m0l7HdA12YESZEPcGrrPUDhlSno7yFgCeJQUvizdY1UqzhKpZpxQ5sV7RVh09mjIMksUuuWPWBW/hDH+z5OBekTpFrv7fBbo/77hpeE8iedW03UkuhaUpivAsKFHoOEjkIXXHt22JIH+DFjc1U/5Q87Guw73b5Mo8U7u5JOKxagsV7sn8KKnl+a1ZqwthCwiqW92h6EQVDCGm0zI+M6H3UcrjikogqIUI6xOA+KsNA1Eh/Y+LnaON36iyMNq9WWImxEjWYT2Civuyq/dL3iWoseBRE+zXCGONfsvc0Ccdp+4gpQS0Zw9EpqEcpBnmF785lkGjDfhEEBaUbNteSsoP+GBiI5A1kuyyJN7EjhNEPXmm0IOI9QGLlkedSuKsg==;7Z1Qvpd0I0QLurF9QfF4FQ=="
+secured: "HUmoCGxVKdY2orr19S0khyMauL0GqIQd15g3C1BGmD82iDzLpaIAiTeRyWXiVaYcK7sw4Pf+4qZ9r87Ry+50ep6GdrRercN1kBV1gwtTlIJEnQlyfcKv07w7BZe7omJq/Fdgw56KRGS1KwAlj+sQD7Xu24rEYFzoSIDE6OpYWoVNnVAETg81m54PvQRsLWyoz6foxPTl2OtO4CFDhR0cosRFsZmAwUDp3az7RGX+XYbN2L+MI/qnnlG0J069G82aDjdlsfwPnWBk/DmAp5GHImZfEuIIv1SkxwlV5GcgOP/P3te5XwAMldmjUbIV5aTGm3RkpsZKjK2OPcTvrSthjV0UF0E+SxHSVbZwADHAR8g=;6b7ZONDUAvgjJFxNkbqKiw=="
 ---
 

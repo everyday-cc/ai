@@ -107,6 +107,15 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their Windows Virtual Desktop technical practices are able to earn the Microsoft Windows Virtual Desktop advanced specialization."
+    publishedDateTime: 2021-05-13T17:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210513005625/en/Wipro-Has-Earned-the-Microsoft-Windows-Virtual-Desktop-Advanced-Specialization"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "UB9CgE9TX8QaZ82/7DFw5cVcuFUDuwJ4HmV1EjgdCrh3h3fguF7Au3SN4R1Q9CaihneNOEVI/JUCA5L7R7Tncu1X7fOyTFV0ZiJvSOfAXnk5IhKEwZN0UiNnfSnF3jh1gQDCHOY+6/7XrA1r7T/QYxIQjAcrnULTKY52tIJEolS6Dbzg8oKhfKNW6nfklF6n3oauzn8wJvvx6qRNYjG/iBINsluPxp8XxFeNWAysQSU4sq225g9v8DPxvSdnX+JgdHgTVsVgC4GOC62QH3H1M0PEIBebmNwLQsXtwigeMzV48JIkHalVEEZsAIJf2FNUiz5WYP8RbNP66fofXR2151AsbN1kNIxRrDFOk5HIIiw=;bezacK9KvdI9W+OJzTP/Uw=="
 ---

@@ -2,6 +2,248 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-07-samsung-develops-an-innovative-i-cube4-chip-packaging-technology-faster-efficient.md",
+      "title": "Samsung develops an innovative I-Cube4 chip packaging technology: Faster & Efficient",
+      "excerpt": "Amidst the global chip shortage, leading chipmaker Samsung has announced a new chip packaging technology. Potentially, the new technology could yield more efficient and faster chips using an innovative chip-packing technique.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/",
+      "originalUrl": "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/samsung.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-ibms-new-2-nm-chips-have-transistors-smaller-than-a-strand-of-dna.md",
+      "title": "IBM's new 2-nm chips have transistors smaller than a strand of DNA",
+      "excerpt": "In a shining example of the inexorable march of technology, IBM has unveiled new semiconductor chips with the smallest transistors ever made. The new 2-nanometer (nm) tech allows the company to cram a staggering 50 billion transistors onto a chip the size of a fingernail.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
+      "originalUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c077382/2147483647/strip/true/crop/2700x1800+0+180/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2Fed%2Fec587f174302b746793b55afd657%2Fibm-2nm-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
+      "publishedDateTime": "2021-05-06T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers.md",
+      "title": "Microsoft – Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers",
+      "excerpt": "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group (ISG) ( Nasdaq :III),",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-ibm-sets-another-smallness-record-with-2nm-chip-blueprints.md",
+      "title": "IBM Sets Another Smallness Record with 2nm Chip Blueprints",
+      "excerpt": "IBM said the new chip is designed to achieve 45 percent higher performance and 75 percent lower energy use than today’s most advanced 7nm node chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/",
+      "originalUrl": "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/05/IBM-Worldu2019s-First-2-Nanometer-Chip.jpg",
+          "width": 718,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-advancing-sports-analytics-through-ai-research.md",
+      "title": "Advancing sports analytics through AI research",
+      "excerpt": "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+      "originalUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
       "title": "Proper data hygiene critical as enterprises focus on AI governance",
       "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
@@ -51,6 +293,40 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-best-tech-stocks-to-buy-now-4-names-to-know.md",
+      "title": "Best Tech Stocks To Buy Now? 4 Names To Know",
+      "excerpt": "The sector comprises businesses that sell goods and services in industries such as ... with the largest market capitalizations such as Microsoft Corporation (NASDAQ: MSFT) and Amazon.com (NASDAQ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
+      "originalUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -920,302 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-the-global-chip-shortage-wont-ease-soon.md",
-      "title": "The Global Chip Shortage Won’t Ease Soon",
-      "excerpt": "The world is suffering from a systemic shortage of chips. What is causing these shortages, and when will it improve? Answers to those questions are included here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6092ecffb9d2b51f419d4448%2F0x0.png%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D20%26cropY2%3D611",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2021/05/06/the-global-chip-shortage-wont-ease-soon/amp/",
-      "publishedDateTime": "2021-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-what-a-crossword-ai-reveals-about-humans-way-with-words.md",
-      "title": "What a Crossword AI Reveals About Humans' Way With Words",
-      "excerpt": "Dr. Fill, a puzzle-solving automaton, came out victorious at last week's national tournament—but human solvers shouldn't throw in the towel just yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/crossword-ai-humans-way-with-words/",
-      "originalUrl": "https://www.wired.com/story/crossword-ai-humans-way-with-words/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6091d5e00fb8afb8ea0ae88a/master/pass/AI-Crossword.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/crossword-ai-humans-way-with-words/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/crossword-ai-humans-way-with-words/amp",
-      "publishedDateTime": "2021-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-artificial-intelligence-and-the-future-of-humans.md",
-      "title": "Artificial Intelligence And The Future Of Humans",
-      "excerpt": "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer.md",
-      "title": "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer",
-      "excerpt": "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to support its growing base of global customers and Aqua's commitment to customer success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
-      "excerpt": "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
-      "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
-      "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60929a3d3eb73ec47a49edff%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1728%26cropY1%3D305%26cropY2%3D1277",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/05/06/the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products---with-help-from-robots/amp/",
-      "publishedDateTime": "2021-05-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

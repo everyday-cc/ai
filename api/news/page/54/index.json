@@ -2,6 +2,392 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-03-19-facebook-teases-futuristic-wrist-based-wearable-that-will-let-you-control-ar-with-your-mind.md",
+      "title": "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind",
+      "excerpt": "Facebook is really, really serious about augmented reality. Last year, the company showed off a frankly ambitious framework for the future of AR, and now the social media giant has revealed some of the advanced gadgets it’ s designing to help people interact with the AR world.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201",
+      "originalUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp",
+      "publishedDateTime": "2021-03-18T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare.md",
+      "title": "What a potential sale of IBM's Watson Health means for AI in healthcare",
+      "excerpt": "Experts say the hype got ahead of the engineering but that doesn't mean algorithms can't make healthcare smarter and reduce costs too. Success with artificial intelligence in healthcare depends on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/",
+      "originalUrl": "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-adlink-launches-compact-smarc-ai-on-module-to-drive-industrial-ai-at-the-edge.md",
+      "title": "ADLINK Launches Compact SMARC AI-on-Module to Drive Industrial AI at the Edge",
+      "excerpt": "ADLINK Technology Inc., a global leader in edge computing, has launched the LEC-IMX8MP SMARC module, the first SMARC rev. 2.1 AI-on-Module (AIoM) that",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adlink-launches-compact-smarc-ai-on-module-to-drive-industrial-ai-at-the-edge/article_a6eaa654-6e15-5a0a-a3fd-76101406c72f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adlink-launches-compact-smarc-ai-on-module-to-drive-industrial-ai-at-the-edge/article_a6eaa654-6e15-5a0a-a3fd-76101406c72f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation.md",
+      "title": "Proven Arabia strengthens commitment to AI and robotics innovation",
+      "excerpt": "Proven Arabia’s new AI and robotics-centered tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation",
+      "originalUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp",
+      "publishedDateTime": "2021-03-18T17:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-deepmind-is-teaching-its-ai-to-navigate-cities-using-street-view-images.md",
+      "title": "DeepMind is teaching its AI to navigate cities using Street View images",
+      "excerpt": "Vaughn Highfield Associate EditorKnown as the tallest man in tech (something he’s never personally claimed to be), Vaughn writes about a broad range of technology, from VR worlds to startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/google/1008999/google-ai-human-navigate-city",
+      "originalUrl": "https://www.alphr.com/google/1008999/google-ai-human-navigate-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-is-billie-eilish-musics-biggest-style-icon-music-fans-weigh-in-on-grammy-debates-with-ibm-watson-during-the-2021-grammy-awards-show.md",
+      "title": "Is Billie Eilish Music's Biggest Style Icon? Music Fans Weigh In On GRAMMY Debates With IBM Watson During The 2021 GRAMMY Awards Show",
+      "excerpt": "But for the 2021 GRAMMY Awards show, music-lovers around the world engaged in a series of structured, fun debates with GRAMMY Debates with IBM Watson, the first-ever AI-curated music debate platform. And they brought some serious logic during Music's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson",
+      "originalUrl": "https://www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson?amp",
+      "cdnAmpWebUrl": "https://www-grammy-com.cdn.ampproject.org/c/s/www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson?amp",
+      "publishedDateTime": "2021-03-18T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GRAMMY.com",
+        "domain": "grammy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-who-is-afraid-of-black-box-algorithms-on-the-epistemological-and-ethical-basis-of-trust-in-medical-ai.md",
+      "title": "Who is afraid of black box algorithms? On the epistemological and ethical basis of trust in medical AI",
+      "excerpt": "The use of black box algorithms in medicine has raised scholarly concerns due to their opaqueness and lack of trustworthiness. Concerns about potential bias, accountability and responsibility, patient autonomy and compromised trust transpire with black box algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
+      "originalUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMJ",
+        "domain": "bmj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation.md",
+      "title": "Robotics safety system developer Fort Robotics raises $13M to tackle workplace automation",
+      "excerpt": "Fort Robotics, a company developing safety systems for autonomous machines, has raised $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/",
+      "originalUrl": "https://venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/amp/",
+      "publishedDateTime": "2021-03-18T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-ceo-of-fintech-lender-upstart-now-a-billionaire-after-shares-soar-89-in-one-day.md",
+      "title": "CEO Of Fintech Lender Upstart Now A Billionaire After Shares Soar 89% In One Day",
+      "excerpt": "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
+      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-is-developing-a-neural-wristband-for-interacting-with-ar-glasses.md",
+      "title": "Facebook is developing a neural wristband for interacting with AR glasses",
+      "excerpt": "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/",
+      "originalUrl": "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/facebook.png",
+          "width": 708,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-skidmore-college-blocks-recognition-of-progressive-zionists-club.md",
       "title": "Skidmore College Blocks Recognition of Progressive Zionists Club",
       "excerpt": "Skidmore College denied recognition of a progressive Zionists club on March 13. The Algemeiner reported that the club, Progressive Zionists for Peace (PZP), was told by Skidmore’s Club Affairs Committee that their application for a trial period was not accepted due to concerns “that a dialogue focused club with one perspective being conveyed could be troublesome” and that the club needs to “try to either gain more diverse perspectives before becoming a club focused on dialogue or reframe the mission to be more advocate focused with a specific stance.",
@@ -553,374 +939,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-facebook-unveils-ar-control-device-that-taps-into-your-nervous-system.md",
-      "title": "Facebook Unveils AR Control Device That Taps Into Your Nervous System",
-      "excerpt": "Facebook has a team of engineers working on next-generation computing devices and interfaces. The group on Thursday provided a first look at its latest prototype: a wrist-based controller that",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!",
-      "originalUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/",
-      "publishedDateTime": "2021-03-18T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021.md",
-      "title": "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021",
-      "excerpt": "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program.md",
-      "title": "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program",
-      "excerpt": "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-facebook-lab-reveals-direction-of-ar-smartglasses.md",
-      "title": "Facebook Lab Reveals Direction Of AR Smartglasses",
-      "excerpt": "Facebook Reality Labs (FRL) takes the wraps off pioneering work on the AI and haptics needed for all day every  AR glasses. To have practical use, a number of technolo",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2021/03/18/facebook-lab-reveals-direction-of-ar-smartglasses/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/03/18/facebook-lab-reveals-direction-of-ar-smartglasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-safety-concerns-determine-level-of-public-support-for-driverless-vehicles-finds-ntu-study.md",
-      "title": "Safety concerns determine level of public support for driverless vehicles, finds NTU study",
-      "excerpt": "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ibms-ai-debating-system-able-to-compete-with-expert-human-debaters.md",
-      "title": "IBM's AI debating system able to compete with expert human debaters",
-      "excerpt": "IBM has developed an artificial intelligence-based system designed to engage in debates with humans. In their paper published in the journal Nature, the team members describe their system and how well it performed when pitted against human opponents.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
-      "publishedDateTime": "2021-03-18T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-artificial-intelligence-brings-new-vision-to-healthcare.md",
-      "title": "Artificial intelligence brings new vision to healthcare",
-      "excerpt": "Artificial intelligence applications support doctors' diagnostic decisions, automate certain tasks, says Turkish social media expert - Anadolu Agency",
-      "sourceUrl": null,
-      "webUrl": "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566",
-      "originalUrl": "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aa.com.tr",
-        "domain": "aa.com.tr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-facebook-reveals-latest-wrist-worn-prototypes-for-xr-input-haptics.md",
-      "title": "Facebook Reveals Latest Wrist-worn Prototypes for XR Input & Haptics",
-      "excerpt": "Facebook today revealed some of its latest research and vision for a wrist-worn input device that the company expects to form the basis of AR and VR interactions and haptics in the future. The device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/",
-      "originalUrl": "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/",
-      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/",
-      "publishedDateTime": "2021-03-18T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Road to VR",
-        "domain": "roadtovr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-is-your-privacy-governance-ready-for-ai.md",
-      "title": "Is Your Privacy Governance Ready for AI?",
-      "excerpt": "Privacy has always meant minimizing the collection of data to what is “fit for purpose,” and then limiting the access and retention of that data only to what is required. Artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
-      "originalUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-neural-network-based-on-autocatalytic-reaction-performs-image-classification.md",
-      "title": "Neural network based on autocatalytic reaction performs image classification",
-      "excerpt": "Researchers in the US have combined an autocatalytic click reaction with automated liquid handling and UV-Vis spectroscopy to create a simple neural network that can classify binary images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
-      "originalUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

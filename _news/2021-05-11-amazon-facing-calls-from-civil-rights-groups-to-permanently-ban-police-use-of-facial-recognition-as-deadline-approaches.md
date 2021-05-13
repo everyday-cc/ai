@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rek
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/05/istock-1144373579.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
+    excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
+    publishedDateTime: 2021-05-13T16:37:00Z
+    webUrl: "https://www.linktv.org/covid-19/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition"
+    type: article
+    provider:
+      name: Link TV
+      domain: linktv.org
+    quality: 39
+    images:
+      - url: "https://kcet.brightspotcdn.com/dims4/default/f52f46e/2147483647/strip/true/crop/1230x646+0+87/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2F49%2Ffa%2Faaad4a2f4099994b4db269146365%2Frtxb6owt-layout-comp.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Emotion recognition: can AI detect human feelings from a face?"
     excerpt: "Its founder, a former teacher, Vicky Lim, says it reads the children’s feelings correctly about 85 per cent of the time. The popularity of the software has exploded during the pandemic, with the number of schools using 4 Little Trees in Hong Kong growing from 34 to 83 over the past year,"

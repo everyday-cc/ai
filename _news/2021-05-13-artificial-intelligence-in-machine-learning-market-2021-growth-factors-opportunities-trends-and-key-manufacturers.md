@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2284351/artificial-intelligence-in-machin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
 type: article
 quality: 52
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
     images:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
         width: 780
+        height: 470
+        isCached: true
+  - title: "What are the Factors Driving the Growth of the Global Artificial Intelligence in Military Market?"
+    excerpt: "Artificial intelligence can be used in a variety of military roles, including autonomous operations, surveillance, command and control systems, cyber security systems, and many others. Artificial intelligence in the military market is expected to undergo significant growth owing to the increasing demand for advanced military equipment such as autonomous threat detection systems and unmanned aerial vehicles."
+    publishedDateTime: 2021-05-13T13:59:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/what-are-the-factors-driving-the-growth-of-the-global-artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-COVID-19-Impact-Analysis-12-720x470.jpg"
+        width: 720
         height: 470
         isCached: true
   - title: "Global Artificial Intelligence (AI) Verticals Market Seeks to New Posture of Market Trends, Opportunities and Breakthrough Point During 2020-2027"

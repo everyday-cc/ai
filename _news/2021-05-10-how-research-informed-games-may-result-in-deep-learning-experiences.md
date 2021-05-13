@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-05-10-how-research-informed-ga
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-05-10-how-research-informed-games-may-result-in-deep-learning-experiences"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 260
     isCached: true
+
+related:
+  - title: "5 developments around machine learning and AI in higher-ed research"
+    excerpt: "As faculty, researchers, and students turn to machine learning and AI across disciplines, best practices have emerged."
+    publishedDateTime: 2021-05-13T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/2021/05/13/5-developments-around-machine-learning-and-ai-in-higher-ed-research/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 54
+    images:
+      - url: "https://www.ecampusnews.com/files/2021/04/machine-learning.jpeg"
+        width: 500
+        height: 301
+        isCached: true
 
 secured: "wli9GMKVhLTbIX9RNLtXtQeXfAQ7zjv1E1Lrmfxsev24tdsWLR8xXfLZx0hXwxfxuZ2i/PJBhsXkl2I0kD481YSD6Y1L2rwvACtoMKJq6agCGRofq0SSUHoLLIDjwJQ2pPTE4BOUTt+zGNluyyRwAtgwrBKTRBBb1tDetg2NQa1IaaMcEcPAWjYdfjTWq5ufGu8+Ip5nG8bIsRuBUkawJejAw5fMPyhWwxEVrBhTENQbMXqh3D+EgJvYjukDvvfJ6TvnWZ+jsnaibR4C+xAIKXk8XdaRnd+HV8AD2mFsJa0K5YHzxqxEkPkvFXq2T7R1evs5lNSVw78s5CX2r2FS037a0cV+C71AlUz+F6UPvOMiA/pjtG3xe1yLy8mhY67CLR2AE8RSNAxDGL1SuOaF9iKPD4zw34ThM7y24UQZaE2et9eTIspVnobe8XYpTB89/YWe+ELH32x5LLSvGrquOY38UNXCaeZbhjzHngzJS9G3Jwpp6A1wbBCg+aoiYxDhwuPGy1l8gk/F9kOKLtPpFA==;Ry2IEXWcB7TpqlfCpJpOfw=="
 ---

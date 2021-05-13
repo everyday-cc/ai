@@ -2,6 +2,402 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-30-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Nokia Corporation (NOK) CEO Pekka Lundmark on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2021 Earnings Conference Call April 29, 2021 08:00 AM ET Company Participants Matt Shimao - Head of Investor Relations Pekka Lundmark - President &",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422547-nokia-corporation-nok-ceo-pekka-lundmark-on-q1-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-04-29T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed.md",
+      "title": "Microsoft Giving Developers a Bigger Store Cut as New Commitment Plans Are Revealed",
+      "excerpt": "Looks like Microsoft is gearing up to make things better for game developers on their store front, as the company",
+      "sourceUrl": null,
+      "webUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
+      "originalUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mp1st.com/wp-content/uploads/2021/04/microsoftstore.jpg",
+          "width": 680,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mp1st.com",
+        "domain": "mp1st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-vectra-ai-raises-130-million-led-by-blackstone-growth-bxg.md",
+      "title": "Vectra AI Raises $130 Million led by Blackstone Growth (BXG)",
+      "excerpt": "Vectra AI, a leader in threat detection and response today announced a $130 million round of funding led by funds managed by Blackstone Growth (BXG, “Blackstone Growth”). The investment will help fuel Vectra’s continued growth through platform innovation and expansion into new markets and geographies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/vectra-ai-raises-130-million-led-by-blackstone-growth-bxg/article_b65b7d1a-7766-5bd1-9f77-99b7e9090dcd.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/vectra-ai-raises-130-million-led-by-blackstone-growth-bxg/article_b65b7d1a-7766-5bd1-9f77-99b7e9090dcd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-breastfeeding-can-boost-your-childs-iq-babies-who-consume-breast-milk-for-even-just-a-few-months-score-higher-on-cognitive-tests-at-age-10.md",
+      "title": "Breastfeeding can boost your child's IQ: Babies who consume breast milk for even just a few months score higher on cognitive tests at age 10, study finds",
+      "excerpt": "Researchers in the US gave cognitive tests to nine and ten-year-olds whose mothers reported they were breastfed, and compared their results to scores of children who were not. The findings suggest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9520199/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9520199/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/28/09/42314098-0-image-a-151_1619598445935.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9520199/amp/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9520199/amp/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
+      "publishedDateTime": "2021-04-28T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-data-literacy-essentials-of-azure-databricks.md",
+      "title": "Data Literacy: Essentials of Azure Databricks",
+      "excerpt": "This course will teach you about the different components that make up Azure DataBricks. This is done by going through the different capabilities and how they help improve your data estate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pluralsight.com/courses/data-literacy-essentials-azure-databricks",
+      "originalUrl": "https://www.pluralsight.com/courses/data-literacy-essentials-azure-databricks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/data-literacy-essentials-azure-databricks-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
+      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
+      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (“C-FER”) and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft”) are pleased to announce that C-FER has entered into a technology sharing agreement with OneSoft’s wholly owned subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
+      "originalUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
+      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
+      "excerpt": "EVOLUTION OF OUR AI GENERATED FASHION Overall, Microsoft Azure Machine Learning enhances the business potential for fashion by empowering researchers to collaborate, improve, train and deploy AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-04/52690478-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-04/52690478-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
+      "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
+      "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups.md",
+      "title": "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups",
+      "excerpt": "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to preserve digital stories and",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d1/cd135112-3bc6-5c29-8306-b1c8139d53c6/6086d5a2c221e.image.jpg?resize=1119%2C630",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
       "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
       "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
@@ -992,387 +1388,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure.md",
-      "title": "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure",
-      "excerpt": "Integrated with Microsoft 365 (Microsoft Teams ... Sinequa for Azure integrates Azure Cognitive Services to enable organizations to ingest all of their enterprise data sources, transform that data into searchable information, and enable users to get ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ibm-ceo-arvind-krishnas-turnaround-plan-starting-to-bear-fruit.md",
-      "title": "IBM CEO Arvind Krishna’s turnaround plan starting to bear fruit",
-      "excerpt": "including Cloud and Cognitive Software, which saw a sales increase of 3.8% from a year earlier to $5.4 billion. The Global Business Services unit, which includes consulting, and the Systems unit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/04/20/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618887618624_1618887633680.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
-      "publishedDateTime": "2021-04-20T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-retail-analytics-market-research-methods-that-will-give-you-proven-results-study-with-oracle-microsoft-manthan-fujitsu-information-builders.md",
-      "title": "Retail Analytics Market Research Methods that Will Give You Proven Results | Study With Oracle, Microsoft, Manthan, Fujitsu, Information Builders",
-      "excerpt": "Retail analytics enables retailers to make improvements according to their customer behavior and preferences The rising number of social media users enables retailers to understand the demographic data such as shopping habits purchase history and preferences to design their promotional",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2272299/retail-analytics-market-research-methods-that-will-give-you",
-      "originalUrl": "https://www.openpr.com/news/2272299/retail-analytics-market-research-methods-that-will-give-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U419660259_g.jpg",
-          "width": 800,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2272299/retail-analytics-market-research-methods-that-will-give-you",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272299/retail-analytics-market-research-methods-that-will-give-you",
-      "publishedDateTime": "2021-04-19T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-billcom-announces-integrations-with-microsoft-dynamics-365.md",
-      "title": "Bill.com Announces Integrations with Microsoft Dynamics 365",
-      "excerpt": "“We are thrilled to bring our Microsoft Dynamics 365 relationship to market to power payments processes for small and midsize businesses, helping them build efficient payment workflows, simplify ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bill.com/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210419005209/en/Bill.com-Announces-Integrations-with-Microsoft-Dynamics-365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-does-exercise-protect-cognitive-health-you-might-not-like-the-answer.md",
-      "title": "Does exercise protect cognitive health? You might not like the answer",
-      "excerpt": "The growing realization that exercise doesn’t really help with weight loss can dampen the motivation to be active in many people — one reason why I advocate for decoupling exercise from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "originalUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "publishedDateTime": "2021-04-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us.md",
-      "title": "Cognitive Collaboration Market is Anticipated to Witness Massive Demand By 2027 | Cisco (US), Microsoft (US), Slack Technologies (US)",
-      "excerpt": "The Global Cognitive Collaboration Market is expected to witness a CAGR of xx% over the forecast period 2021-2027 and is expected to reach US$ xx million in 2027, from US$ xx million in 2021. The assessment provides a 360° view and insights,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jumbonews.co.uk/wp-content/uploads/2021/03/istock-1155230435.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
-      "title": "Why Microsoft’s new AI acquisition is a big deal",
-      "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
-      "originalUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
-      "publishedDateTime": "2021-04-17T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-cognitive-behavioral-therapy-for-avoidantrestrictive-food-intake-disorder.md",
-      "title": "Cognitive-Behavioral Therapy for Avoidant/Restrictive Food Intake Disorder",
-      "excerpt": "Cognitive‐behavioral therapy in the time of coronavirus: Clinician tips for working with eating disorders via telehealth when face‐to‐face meetings are not possible . International Journal of Eating Disorders, Vol. 53, Issue. 7, p. 1132. Wagner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/cognitivebehavioral-therapy-for-avoidantrestrictive-food-intake-disorder/9F00DB41FFD73BD36D705A1FFCE06670",
-      "originalUrl": "https://www.cambridge.org/core/books/cognitivebehavioral-therapy-for-avoidantrestrictive-food-intake-disorder/9F00DB41FFD73BD36D705A1FFCE06670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cambridge.org/97811084/01159/large_cover/9781108401159i.jpg",
-          "width": 497,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-17T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
-      "title": "Best Machine Learning Software in 2021",
-      "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
-      "originalUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg",
-          "width": 1500,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T11:20:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

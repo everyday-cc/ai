@@ -109,6 +109,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "What are the Factors Driving the Growth of the Global Artificial Intelligence in Military Market?"
+    excerpt: "Artificial intelligence can be used in a variety of military roles, including autonomous operations, surveillance, command and control systems, cyber security systems, and many others. Artificial intelligence in the military market is expected to undergo significant growth owing to the increasing demand for advanced military equipment such as autonomous threat detection systems and unmanned aerial vehicles."
+    publishedDateTime: 2021-05-13T13:59:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/what-are-the-factors-driving-the-growth-of-the-global-artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-COVID-19-Impact-Analysis-12-720x470.jpg"
+        width: 720
+        height: 470
+        isCached: true
   - title: "Global Deep Learning Market to Exhibit Significant Increase in Demand in the Coming Years"
     excerpt: "A new report has recently been published by Persistence Market Research to present a comprehensive analysis of the global deep learning market. Titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027),"
     publishedDateTime: 2021-05-11T09:11:00Z

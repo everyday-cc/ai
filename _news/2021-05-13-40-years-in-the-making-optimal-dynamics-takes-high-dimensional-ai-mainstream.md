@@ -1,30 +1,30 @@
 ---
 category: news
-title: "40 years in the making, Optimal Dynamics takes ‘high-dimensional AI’ mainstream"
-excerpt: "Optimal Dynamics has raised $18 million in a Series A round to fund the deployment of its CORE.ai decision-making engine for logistics operations."
-publishedDateTime: 2021-05-13T12:00:00Z
-originalUrl: "https://www.freightwaves.com/news/40-years-in-the-making-optimal-dynamics-takes-high-dimensional-ai-mainstream"
-webUrl: "https://www.freightwaves.com/news/40-years-in-the-making-optimal-dynamics-takes-high-dimensional-ai-mainstream"
-ampWebUrl: "https://www.freightwaves.com/news/40-years-in-the-making-optimal-dynamics-takes-high-dimensional-ai-mainstream/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/40-years-in-the-making-optimal-dynamics-takes-high-dimensional-ai-mainstream/amp"
+title: "40 Years In The Making, Optimal Dynamics Takes 'High-Dimensional AI' Mainstream"
+excerpt: "Forty years hardly makes a startup, but that's exactly what Optimal Dynamics is. The New York-based company is seeking to flip the script on what artificial intelligence can do"
+publishedDateTime: 2021-05-13T15:33:00Z
+originalUrl: "https://www.benzinga.com/news/21/05/21103413/40-years-in-the-making-optimal-dynamics-takes-high-dimensional-ai-mainstream"
+webUrl: "https://www.benzinga.com/news/21/05/21103413/40-years-in-the-making-optimal-dynamics-takes-high-dimensional-ai-mainstream"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21103413"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21103413"
 type: article
 quality: 53
 heat: 53
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2021/05/White-truck-on-road-truck-stock-images-768x432.jpg"
-    width: 768
-    height: 432
+  - url: "https://www.benzinga.com/files/images/story/2012/sparks-692122_1920_7.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
-secured: "TXdo04OhUAwayfCJ+adoQOTUe9zwCwFD5bdwF2IkPnZ8yBAInXi/MLDoubOBH4liOZyEqQTQEF+QhgMpTT0vX2PfNoR8vfARRJz+y/H0EkYooVCHbF5lWTtUx0gV8jYrNS7PMyxV4YSeSHSmWK+ofBaqtkmfBuWek+6USSH4bN9df4sO013lZbBVVROn9uS4EpbcF067+IDoJFZxHMcLYf+BzMhXjA6o5DgKaf7/ROShgJwejLVQDH3IhJsP62rq1p7KlENJUkV61Cr0yW0+djZ7Ov70RPe3CkFGqdR/glV2qva3HSJEHyFrXAB7m50xtSDHBE/F4k45H3fqC/KTymeoY6oJA7LPxK/IYXuS+pEtp6OmkNq5yo2fCx6hyZAdbb3Kh0o/OsmlP2B08bfyUQMOdqD9N2LLz3FY/fFKRdriXNStO4i2LhZXoNXOzY59K3yo45sncPqG4U/75b0P4LEITWeDAX+FvaobdVGYqWJpCIczCdrj+/yeqKKodgZUFe4GdUlVPeS6X5DxpkAftw==;BUyBT4ZrpuR3FRgPZOL56Q=="
+secured: "T3rS2J75vdfxSa+moUgEjOxYYIPr3xEPcJFxPqs3ckIL3UvIELtm56powFSNVN9cHNYn2KxiVN68aLWSzRiUs29gb35h+OiMTB3Yx7WlgT7ejy+1ZIv3rTnDmPW97ZDw3MY90lyKBYs154VTO6YH5bgU9gc4mFcxtNBCRcU7OMhhcz5wK4xFwEEg5wctyEFRUG0uArQWBTLjLjOhyA5r5YY+75CHzi8YzyCDKpRUvEHmwbGPGN58SEcLgmFvI9JtRRBK486wu2zLdu9HY+JZlBwgY1STx3AGndYvUTFkWh06Bp/mse5nwHTQzD8NOjBfUEajfTY10A+BBb191UQcZZfBu/6FQOCPAgN2zu0BTdc=;3flNf6JtXKFJZML8NiAfhA=="
 ---
 

@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-14-ai-shows-exxonmobil-downplayed-its-role-in-climate-change.md",
+      "title": "AI Shows ExxonMobil Downplayed Its Role in Climate Change",
+      "excerpt": "According to a new paper, the company’s own research showed that human activity was a contributor, but public statements suggested otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change",
+      "originalUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/609c6715518969560d194728/master/pass/business_exxon-mobil_1210615224.jpg",
+          "width": 2400,
+          "height": 1591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
+      "publishedDateTime": "2021-05-13T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-intel-applied-machine-learning-to-gta-v-and-it-looks-too-real.md",
+      "title": "Intel applied machine learning to GTA V, and it looks too real",
+      "excerpt": "The researchers’ work centers on enhancing the realism of synthetic images – in this instance, taking Grand Theft Auto V and making it look realistic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
+      "originalUrl": "https://www.techspot.com/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-13-image-15.jpg",
+          "width": 2500,
+          "height": 1570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
+      "publishedDateTime": "2021-05-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40.md",
+      "title": "These noise-cancelling earbuds use AI to protect you out in the world. And they’re under $40.",
+      "excerpt": "Sponsored Deals Thankfully, the bar on that process has been raised with the xFyro Active Noise Cancelling AI-Powered Wireless Earbuds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/sale_226505_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/",
+      "publishedDateTime": "2021-05-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-we-need-to-design-distrust-into-ai-systems-to-make-them-safer.md",
       "title": "We need to design distrust into AI systems to make them safer",
       "excerpt": "Ayanna Howard, an acclaimed roboticist and educator, says our excessive faith in automated systems can lead us into dangerous situations.",
@@ -149,49 +304,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-13-gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning.md",
-      "title": "GTA 5 Looks Frighteningly Realistic Thanks To Intel Machine Learning",
-      "excerpt": "However, Intel may have actually achieved that thanks to a new machine learning project called \"Enhancing Photorealism Enhancement.\" Created by Intel researchers Stephan R. Richter, Hassan Abu Alhaija,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
-      "originalUrl": "https://www.gamespot.com/articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3830284-grandtheftautovphotorealismintelmachinelearning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/gta-5-looks-frighteningly-realistic-thanks-to-intel-machine-learning/1100-6491438/",
-      "publishedDateTime": "2021-05-13T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
       "title": "Soniox taps unsupervised learning to build speech recognition systems",
       "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
@@ -200,7 +312,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -242,57 +354,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-grand-theft-auto-v-mod-adds-uncanny-photorealism-through-ai.md",
-      "title": "'Grand Theft Auto V' mod adds uncanny photorealism through AI",
-      "excerpt": "Researchers have used machine learning to add photorealism to 'Grand Theft Auto V,' hinting at the future of AI-assisted graphics in games..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/gta-v-ai-photorealism-135046313.html",
-      "originalUrl": "https://www.engadget.com/gta-v-ai-photorealism-135046313.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/13689390-b3e7-11eb-becf-c3c4fa6662ed",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -554,7 +615,7 @@
       "originalUrl": "https://www.openpr.com/news/2284351/artificial-intelligence-in-machine-learning-market-2021-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -648,7 +709,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -739,6 +800,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-dell-jumps-head-first-into-consumption-based-computing-with-apex.md",
+      "title": "Dell Jumps Head First Into Consumption-Based Computing With APEX",
+      "excerpt": "Senior Analyst, Servers Matt Kimball dives deeper as Dell Tech World came and went last night. Front and center was APEX, the company's consumption-based offering that enables companies of all sizes to consume IT infrastructure and solutions in a cloud-like fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609cae73e264b28942d29957%2F0x0.jpg",
+          "width": 1199,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
+      "publishedDateTime": "2021-05-12T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1148,109 +1261,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos.md",
-      "title": "Yelp built an AI system to identify spam and inappropriate photos",
-      "excerpt": "Yelp's engineers built a multi-part AI system to help identify spam and inappropriate photos across the company's platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Yelp-e1594622799259.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
-      "publishedDateTime": "2021-05-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-deepmind-wants-to-use-ai-to-transform-soccer.md",
-      "title": "DeepMind Wants to Use AI to Transform Soccer",
-      "excerpt": "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/",
-      "originalUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/1
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Positive Technology And The Cosmic Mission: How AI Is Helping Humans Achieve States Of High Energy And Success"
+    excerpt: "Up until now, we have been on our own to deal with negative emotions. But there are promising indications that AI can help."
+    publishedDateTime: 2021-05-13T16:58:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d594a890b77977267fd9a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Eight ways in which AI is transforming healthcare"
     excerpt: "AI has been at the forefront of the medical profession’s efforts to fight Covid-19 and treat patients during the coronavirus pandemic. Enabling healthcare providers to make fast, accurate and data-driven decisions,"
     publishedDateTime: 2021-05-12T15:20:00Z

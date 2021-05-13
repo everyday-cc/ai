@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,7 +46,16 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Soniox Debuts Speech AI Recognition Platform"
+    excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
+    publishedDateTime: 2021-05-13T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
-secured: "kJDNRMrATdvdnRmjqAbK1tYHIoGtDb490vAI0tUv8T+myTvzZgQ1CV2ueWdu1PrIPxAi4Rk0YBWnbBLApuMXUDxXHUHY5/eRMX7YsPatSRO+ezgVLWdsqMBx/UMFqRexIzkurM2LRq4DW6gAF4y1pYSgUJmmtGz0lWZ28/j1OiGpje0fXo79WcSpUn3jagORZRLvSr/H2uNd0nMDCqc3m/ek6LcgfMYrLhFgVovZAFmny5XlMqHn+0bFA8oFW0g8bjv4MKxy3rr9IlVwEUB3PzkPAgHc9tdcOp4NXzXsFDNrqNhjyowXpVHT8iMUSGNrhy86thK8qFwFk9MFbfUDBAdrglE4zEmiOmK+FDkSibw=;aYqBAwecgYmyO3Vak1Q7yw=="
+secured: "Cx1tOt4vmgzDJM5lNggRFV+XEyL4ZzSnYz6/JLgp696+p6wBf77/uZub157av+Leg3z9HKUiBiByNxRIyuuIDFFQlMieHysk3N+VlQHlgSwJbjgifvEvl8jnsn7l0bVRnisJCHpwqWmChOrd3E22zvNeJNqd1hqz/83zOMqPAEALPJp2lto5ZIRtkpoxt7pR3CT+eJAibaxUP+ZTJXsYV3DAu8g3X7QpkUkOu4gzImVpuPpqLi16eWqkg1rd1g2RJCdRk/3l1zGmbi4posKNc06ZwWazLqs5/0pcq6B3ZKJRGtu4/PJ1xXNs7uaS1p7iYUNV2oeN4O81qQ0woPyJRUYAVSZhRTy17aMf+SrxfVPl3CK2WQbizRPlLZZHdhgheJ384NdqTzCead2y0NIjsJP8YLZSXHH1nbmyHzRHP1k638BGVIRhnTsHSCW3Afllk/L8Ab7IVmJmgs5cWlshMvinpFbrVwtZHwP6WOU0rXNEC/OZbEQIE4lDAmsvvw2kEAm7MQWxNaowW/TiQ4Sm9A==;sm0SOutODor8KXlwc28AwA=="
 ---
 

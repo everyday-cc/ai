@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel applied machine learning to GTA V, and it looks too real"
+    excerpt: "The researchers’ work centers on enhancing the realism of synthetic images – in this instance, taking Grand Theft Auto V and making it look realistic."
+    publishedDateTime: 2021-05-13T16:52:00Z
+    webUrl: "https://www.techspot.com/news/89671-intel-applied-machine-learning-gta-v-looks-real.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-13-image-15.jpg"
+        width: 2500
+        height: 1570
+        isCached: true
   - title: "GTA 5 Looks Frighteningly Realistic Thanks To Intel Machine Learning"
     excerpt: "However, Intel may have actually achieved that thanks to a new machine learning project called \"Enhancing Photorealism Enhancement.\" Created by Intel researchers Stephan R. Richter, Hassan Abu Alhaija,"
     publishedDateTime: 2021-05-13T14:10:00Z
@@ -58,6 +74,22 @@ related:
       - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/156890-games-news-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning-image1-c1quf0n2i5.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Intel researchers use machine learning to make GTA ‘photorealistic’"
+    excerpt: "Researchers at Intel Labs have created a way to make video game footage look “photorealistic” using machine learning. The experiment used footage of Grand Theft Auto V, and when applied it replaces the game’s polygonal environments with images taken from real-life photographs."
+    publishedDateTime: 2021-05-13T13:38:00Z
+    webUrl: "https://www.videogameschronicle.com/news/intel-researchers-use-machine-learning-to-make-gta-photorealistic/"
+    ampWebUrl: "https://www.videogameschronicle.com/news/intel-researchers-use-machine-learning-to-make-gta-photorealistic/amp/"
+    cdnAmpWebUrl: "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/intel-researchers-use-machine-learning-to-make-gta-photorealistic/amp/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 59
+    images:
+      - url: "https://www.videogameschronicle.com/files/2021/05/gta-real-life.jpg"
+        width: 953
+        height: 521
         isCached: true
   - title: "Researchers use machine learning to make GTA V photorealistic"
     excerpt: "Researchers have developed a method of making synthetic images more realistic using neural networks and the results when applied to GTA V are pretty damn impressive. We present an approach to enhancing the realism of synthetic images."
@@ -99,6 +131,6 @@ related:
       domain: ubergizmo.com
     quality: 35
 
-secured: "uENdIMT3/PKKQXgHEA8FXAi/mP7emAni9vUVsOKHqpzLc8+Hy6MLlRT6fzNEju/RiCWDoeJBfctkVYX+n5FmP8G7VEp9bZ4CDGzrNOLCVUYP8rlfA3zFwTINuHJnMa2+p7ylNssMsPv1y478UnMiNpXeW2SfEKqEKusu2nJOcxPRF8lMq2az7jOBla8KE3kZ0vc1Na0BtZFk4sBDoIffrtnF5s094B3f8MNIV3KqW57vyGCcnjH1UoGxpgU1Fp2KuvLPWdocv6X74SITijv7NP9rjJn1Ud4boQjnV2KPS/S0qWaHIK23ooGpiqZuBrlRwH3HZ1Sj00GPAcPwBbBIBN+aaLJhYqtEUG6D59xI7kM=;tGMeXvpaErlbCQmVgjJciQ=="
+secured: "qArp930NTNcoY22Ogurs2EAaaY4xiTNh6Epoo9XN3+M9NCKV/6ZrWLQY+CpG1hzAISoh1C/1x5tEk5/5ljx1No5pXd8jqb4dnI0lRfZou6cIPfx9LRJZCG9D+5ufpiozJrCAZ4hjLypAddxo6COesqZ1GfSQ5n4zc61iXj7nChzHrnA4fZWnt1UuRs4vbpG65Tvr+sg4l1g285sjrT7+kgTGoNHMYmev4pAQhcf2+wqGhwqrGZOXiYiHS+L1MhKevxYCUD843LaFfuux4auBGXhDgmcuDWIZzHPrjesV5GPmnO6jWYUR2/yl1FUbK6m1TFrgVPjT+jJC6d/vXrs2Nd54EtJ6MZWPKO3aPNVkEhj8V/k6Rb50zL1Qg+lOJRsQakrsgcXgfrSLurF8cJR8dqZWiotZz+5JMTih8WZfH2UnX1cPm9+7TOzAjf5v3DiMkdwjJEJX7s8UiWuCW4LqF+sR/HGrLKwHfJufOsP36LPYoFc4T/RU+DZ4Dnp9PBXMtat/QdgorrPXAm8kEvZElQ==;L8aAUeh+Hfd6WxlIC5zhMg=="
 ---
 

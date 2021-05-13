@@ -46,7 +46,16 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "Soniox Debuts Speech AI Recognition Platform"
+    excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
+    publishedDateTime: 2021-05-13T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
-secured: "XiJw7mm0uZbfO4xfubkzg91qaFcPSwAHqEMIQ0fLI+Gv7D6h+vLKo6epnYha50Q3mcefaSCo1NtCMncMuKSHFVoJAoNB12yng6chshKcLO5XJSx8t7HEn402I9tSzB4hgyDUtbQvDfA/YlPFo3ud2ZT5UxOlFANw8Hjhge4mXxDVjEDKF/PQx25GEm2NnWoiOHDw00s+S1+2/U7l23nUWigiftDFJJkL4nQ7OfQVruGd+X2FtVscaH3QR6xMY8DpOQt06Z6ZVeT/yU0ZxZYEruqS7E88Mo4yq82KznnQvY8wlMGVONSVtYjqpizd/Be1KQ7Pzp0JqFfRcLclQceTeg/V2SoXbRIFAVz7ahsv5vg=;TfwY5uYjWSrTDHatAtkPVA=="
+secured: "SJ31hMjfY3fuPwpSs1ql1/NsURA+hm6R3A97VUpIser+DZsQAns8ik+mb5Xwvxobk1gZAPVLrj+MIPtb2FrclKadSqqYNWA3sFnajKBWIycHLyzTM0ct1G8tWj5rAwnGrvf63QUK2aU3RYecl3LUR3f8z/V9DxFu99Skz3gxqyWGIvy+VPns0S6i6Mb6lxWshNQwr8pvWSbGoEf3tJ3lgPXWcWdMTh+zsP0G+vBm0juHpFtwi5CHSgvH4lYUDG1yz9N97FxUiIyBJ8BoID7eswZFwE/ISwHOrIECxCyZyVkbOOds8B/MPwG/9/qT4BjPMFtQBvG3z3csxPInHqqvZ9KPSIY7GXdn/bhdoZpnGISNH8uKTtZLlj7dhdEd2Fen43It4FoQgdl0zPyF9EFWK7w9LrHJCFTHvzSJUyi982DjR2gnPEXA5w1d1Rs+v7hM/9JOgSFoUQUdhE9JGB5t8SJMMZva1Yn6ad+nwHTkRPuNRU0DAjsMtw3lIJoA5obOyBtFFKAI532xRWapP+XzFw==;GSOpvANhojOYuB01SjG/aQ=="
 ---
 

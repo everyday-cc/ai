@@ -96,6 +96,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "What are the Factors Driving the Growth of the Global Artificial Intelligence in Military Market?"
+    excerpt: "Artificial intelligence can be used in a variety of military roles, including autonomous operations, surveillance, command and control systems, cyber security systems, and many others. Artificial intelligence in the military market is expected to undergo significant growth owing to the increasing demand for advanced military equipment such as autonomous threat detection systems and unmanned aerial vehicles."
+    publishedDateTime: 2021-05-13T13:59:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/what-are-the-factors-driving-the-growth-of-the-global-artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-COVID-19-Impact-Analysis-12-720x470.jpg"
+        width: 720
+        height: 470
+        isCached: true
   - title: "Global Artificial Intelligence (AI) Verticals Market Seeks to New Posture of Market Trends, Opportunities and Breakthrough Point During 2020-2027"
     excerpt: "Verticals Market Report at:  Key global participants in the Artificial Intelligence (AI) Verticals market include: DIDI ROSS Intelligence Toutiao Airbnb Uber Slack Salesforce Sentient Technologies Dataminr Please Check the Report Summary and Acquire A Complete TOC:  Table of Content 1 Report Overview 1."
     publishedDateTime: 2021-05-10T02:11:00Z

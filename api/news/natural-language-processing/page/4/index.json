@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-01-will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know.md",
+      "title": "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know.",
+      "excerpt": "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know",
+      "originalUrl": "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad.md",
       "title": "AI-translated Nikkei content now available in English at home and abroad",
       "excerpt": "The translation system featuring Nikkei’s unique AI technology lets users across the world quickly access a broad range of Nikkei content in English. This is the first time translated Nikkei content has been made available on any English-language ...",
@@ -1179,49 +1222,6 @@
         "name": "ZigWheels",
         "domain": "zigwheels.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities.md",
-      "title": "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities",
-      "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

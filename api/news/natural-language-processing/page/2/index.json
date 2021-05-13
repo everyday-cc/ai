@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-29-amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum.md",
+      "title": "Amplio Launches Esperanza, a First of its Kind Digital Spanish-Language Dyslexia Curriculum",
+      "excerpt": "AmplioSpeech (\"Amplio\"), a developer of a digital platform that connects students, educators and therapists with advanced technologies to help students with special needs, announced today the launch of a digital Spanish-language dyslexia curriculum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210429da59680/amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210429da59680/amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-crushbank-the-natural-language-ai-solution-announces-strategic-development-with-comptia-on-innovative-it-assessments-and-training.md",
       "title": "CrushBank, the Natural-Language AI Solution, Announces Strategic Development with CompTIA on Innovative IT Assessments and Training",
       "excerpt": "CrushBank, developers of an artificial intelligence (AI) solution that leverages the power of IBM Watson and Natural Language Processing to provide answers used in IT support, today announced a strategic development initiative with CompTIA,",
@@ -1287,40 +1321,6 @@
       "provider": {
         "name": "unite",
         "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-logitech-and-baidu-brain-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
-      "title": "Logitech and Baidu Brain Partner to Transform the Way We Work Using AI and Voice",
-      "excerpt": "The Logitech Voice M380 Wireless Mouse is powered exclusively by intelligent Speech & Machine Translation technologies from Baidu ... “We saw an opportunity to leverage the power of Baidu AI to bring fast, accurate speech recognition to our customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "originalUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

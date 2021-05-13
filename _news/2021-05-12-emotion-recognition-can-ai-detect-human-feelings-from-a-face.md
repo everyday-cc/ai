@@ -79,6 +79,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
+    excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
+    publishedDateTime: 2021-05-13T16:37:00Z
+    webUrl: "https://www.linktv.org/covid-19/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition"
+    type: article
+    provider:
+      name: Link TV
+      domain: linktv.org
+    quality: 39
+    images:
+      - url: "https://kcet.brightspotcdn.com/dims4/default/f52f46e/2147483647/strip/true/crop/1230x646+0+87/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2F49%2Ffa%2Faaad4a2f4099994b4db269146365%2Frtxb6owt-layout-comp.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Gsz8lModcubpe/zEklHip4hGgVCIlB3619zFmsYbshNmXxq2lnxEyRFsB+Yq7uffNUmhFxNtfYLEiNpx4xzNCX38dbW5D2iNhzqlKnfP5DQcKrBTCZXE2uRnVnY8DzVByu9yJ6LzIf12wEP5BinQgLRBdWVm6WISm+Fbsphz9fVIQyRPh+uREqETd1O/3u1f0t0ce5i6UKR63UTMygDAkSaTxLYULKuE26imbgfEckQrAlHPxUb/RVLnKS9hHPKDtEmObeuQxBYoN3bfNLCoTW5j6ZqFjwgDYVF61M8keTABIotcsdM/mXZDRrjgOo457qEe3KowIUgfEz6gtLItD03rg7ziFkG/ZtPQ8TSIVbh8pr4m+gThBn0NoV31UrDRFVjLscm3dmFLjW9eyPuvETLNVG2jITmcJDWHibg4kgk0A1XJK+IqMPRF9HWhAzc8p75gRmxvRao4dIBKJ9XzOKBEFDQloAQjALqVG5oGnsCScJAXo6ieipj5kxUVApQyjvi5rzt+bz9Cfdif99ioiw==;Z/QR625UZ9EB1iXTRnuFsA=="
 ---

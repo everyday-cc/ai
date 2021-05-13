@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
 type: article
 quality: 121
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their Windows Virtual Desktop technical practices are able to earn the Microsoft Windows Virtual Desktop advanced specialization."
+    publishedDateTime: 2021-05-13T17:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210513005625/en/Wipro-Has-Earned-the-Microsoft-Windows-Virtual-Desktop-Advanced-Specialization"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "bEPci0QyO7ZLH7PVtwSGkFJBfIelicSamHpee5ZqGgXDb0ScQP84OIHZ6Bvz47UCgowztT/SFP7jsY5fBG3QLYk4zXU5koldfCNcOUeFO0RIu9k7ENo9p7AKS2HHOkcZ4AnlfiKOjM4YO3J56edOQeFdwYzKQ2yjgTb0UbDZTGkH+QYTd17c6gIJitXWk/H3AD6CNDKxTlPNoee6SlU7MuWXhubcyXbYU1KWeAAmpXov8SuTyN8xKrA8pPr+AgLrEQg7bZeUkhHpe3fsMf/vQwjdMfMS2Dl/vWUP5Y6HP86hMcE7hdV7kxGKktmUr3ZuBWhNCfJ/mP+j0S8940QsRtv7CFE1eawUdVqECvhoD2u0f/6uSLbjGNmVNpPdDrclIFiQ2K9s/xr5DM4nghziOk3yxNuaRS3K1MrmrQ3P6MBy7psOb47kEleOhxYjcdTqha5PH1uyrXtbHrb+SZv4X5w6bZpxQEP/L8x3YJH5UH3yO6v7JV/gnE6w+4hQl0VYSBvL+UHGTSe791H/DvK7+A==;JGsbR9noJswJxv/4clg9/w=="
 ---
