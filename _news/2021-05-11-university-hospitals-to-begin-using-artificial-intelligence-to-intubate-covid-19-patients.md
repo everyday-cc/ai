@@ -75,6 +75,22 @@ related:
         width: 1618
         height: 1400
         isCached: true
+  - title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening"
+    publishedDateTime: 2021-05-13T05:30:00Z
+    webUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+    ampWebUrl: "https://medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 51
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/09/02/133874-artificial-intelligence.jpg"
+        width: 1600
+        height: 960
+        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."
     publishedDateTime: 2021-05-11T14:01:00Z

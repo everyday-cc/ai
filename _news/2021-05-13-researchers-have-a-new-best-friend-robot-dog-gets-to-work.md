@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/researchers-have-a-new
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,19 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers' new best friend? Robot dog gets to work"
-    excerpt: "Deep underground in eastern France, a four-legged bundle of energy named Scar steps gingerly through vast caverns, loaded with sensors for taking measures in places where humans might fear to tread."
-    publishedDateTime: 2021-05-12T12:56:00Z
-    webUrl: "https://techxplore.com/news/2021-05-friend-robot-dog.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-friend-robot-dog.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-friend-robot-dog.amp"
+  - title: "Researchers' New Best Friend? Robot Dog Gets To Work"
+    excerpt: "Its name is a French acronym for \"Advanced Robotic Assistance System\", and the Ecole des Mines was the first in France to purchase the Spot robot from the US firm Boston Dynamics last September. On Tuesday,"
+    publishedDateTime: 2021-05-12T11:49:00Z
+    webUrl: "https://www.ibtimes.com/researchers-new-best-friend-robot-dog-gets-work-3197500"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/quotscarquot-at-the-ci.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/scar-at-the-cigeo-lab-in-eastern-france.jpg"
         width: 1024
         height: 681
         isCached: true

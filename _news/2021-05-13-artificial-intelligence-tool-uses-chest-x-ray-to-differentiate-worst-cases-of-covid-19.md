@@ -1,27 +1,29 @@
 ---
 category: news
-title: "How India Fights COVID With Artificial Intelligence"
-excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
-publishedDateTime: 2021-05-12T11:30:00Z
-originalUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
-webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
+title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
+excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening"
+publishedDateTime: 2021-05-13T05:30:00Z
+originalUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+webUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+ampWebUrl: "https://medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
+cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
 type: article
-quality: 39
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Daily
+  domain: medicaldialogues.in
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
+  - url: "https://medicaldialogues.in/h-upload/2020/09/02/133874-artificial-intelligence.jpg"
     width: 1600
-    height: 1067
+    height: 960
     isCached: true
 
 related:
@@ -73,22 +75,6 @@ related:
         width: 1618
         height: 1400
         isCached: true
-  - title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening"
-    publishedDateTime: 2021-05-13T05:30:00Z
-    webUrl: "https://medicaldialogues.in/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-    ampWebUrl: "https://medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/pulmonology/news/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-77537"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 51
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2020/09/02/133874-artificial-intelligence.jpg"
-        width: 1600
-        height: 960
-        isCached: true
   - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
     excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
     publishedDateTime: 2021-05-11T15:49:00Z
@@ -114,6 +100,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "How India Fights COVID With Artificial Intelligence"
+    excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
+    publishedDateTime: 2021-05-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z
@@ -152,6 +152,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "qQdh/6RgDR9FIe7EyhyOPmIljqbzdQew4mEAtJlIOJG1JALMgFBSspdnH+a58SzIXSLe3LEGWkIVAnHaaqzkqEpx6RRsWthRJ0Q0c5E2V/v4SsydgNTJQ6uR5ZAtMUMiRM53mTZyQBVjg6VY39na4DatgZguZoghMoZRMQ7E3aEWyYinHgBzZ/YnSdhrF6zYfy6tSxUbBWTVrYgoE2AahY2Iiw4UEA6USGy3wHVSoq/Qaj7q2x/CnggNUdxj2RwjM7iyRmW3KwxnfOeBUOVc40ifRgwWgWDCOysC5mSLHe3SVmAqoFVQnKv4huecO44km/vj99EMF2x8DlbxN0t7/5I62YuWcOZty0fDueU0pbCxAxZ4e4YlzDPedickKP8wnu4YL/qkYlodFz822UDRYC57aYwJlb03DansrL5TnpAB232uR5rupqIktvNxOy0RSNIKO7lhXF5UWbwbEqJD+inHv/4q2CeHNZAGx5sVAafyXz25z+td+8GemRmWoIh8yD5AGHTn9TQCxJgKgek4bA==;ErzE0/b1iRBOz4fVgxtLOQ=="
+secured: "ZE+7ZsoSF4WbkVWeYNPkoO09OOP1LWq9ys49Dq0WlF08HsR2KsvIaCgQPITeWls8ldkkGk89Nzi0PMbF8EBN22AWxHcPEb5V1dvtObz9Z+S4kRNKDV5mjAN26QlR1B9hIgznfAUDkorRlzLVOF4ndurVLGs0Ra2vHvG/aGRZ68EkixvhHqQo/jNVd/VftDvDyU9B7x+K3WyHcZmTaWTxtJNsswu/GJr2h404haxhosyxrXUs7CJwQ62R9XrhiODEOdCGmqboGlGU7qvzLc0DJ747gFLNYjHO2gllW+DDjmSW8XGmZAumuTmTfGU/mLS7XIzPq7OteCFz1z/xjCF4Fkh91P/HoBQIEabrj53afZo=;mnDSDtBqPjJMBWO08s/8qQ=="
 ---
 

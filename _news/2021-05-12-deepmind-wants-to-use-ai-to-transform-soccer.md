@@ -1,44 +1,34 @@
 ---
 category: news
-title: "English football club partners with DeepMind to improve match performance"
-excerpt: "The use of new technologies, including artificial intelligence, in the field of sport is progressing more and more. This is one of the themes of the fourth issue of our magazine, to be published on 18 May."
-publishedDateTime: 2021-05-11T08:44:00Z
-originalUrl: "https://www.actuia.com/english/english-football-club-partners-with-deepmind-to-improve-match-performance/"
-webUrl: "https://www.actuia.com/english/english-football-club-partners-with-deepmind-to-improve-match-performance/"
+title: "DeepMind Wants to Use AI to Transform Soccer"
+excerpt: "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports."
+publishedDateTime: 2021-05-12T15:47:00Z
+originalUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
+webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 84
+heat: 144
+published: true
 
 provider:
-  name: Actu IA
-  domain: actuia.com
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.actuia.com/wp-content/uploads/2021/05/Liverpool-et-DeepMind.jpg"
-    width: 800
-    height: 400
+  - url: "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg"
+    width: 1280
+    height: 670
     isCached: true
 
 related:
-  - title: "DeepMind Wants to Use AI to Transform Soccer"
-    excerpt: "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports."
-    publishedDateTime: 2021-05-12T15:47:00Z
-    webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "DeepMind Wants to Use AI to Transform Soccer"
     excerpt: "Now, defending Premier League champion Liverpool has joined forces with DeepMind to explore the use of artificial intelligence in the soccer world. A paper by researchers at the two organizations, published today by the Journal of Artificial Intelligence ..."
     publishedDateTime: 2021-05-12T18:42:00Z
@@ -92,6 +82,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "English football club partners with DeepMind to improve match performance"
+    excerpt: "The use of new technologies, including artificial intelligence, in the field of sport is progressing more and more. This is one of the themes of the fourth issue of our magazine, to be published on 18 May."
+    publishedDateTime: 2021-05-11T08:44:00Z
+    webUrl: "https://www.actuia.com/english/english-football-club-partners-with-deepmind-to-improve-match-performance/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 38
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Liverpool-et-DeepMind.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "DeepMind provides machine learnings scholarships for four Wits Master's students"
     excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
     publishedDateTime: 2021-05-13T07:40:00Z
@@ -102,6 +106,6 @@ related:
       domain: engineeringnews.co.za
     quality: 14
 
-secured: "c6RwdTxty5EVDWMr67sT6rLp1jBnxcY//s2gfxOvux7eObuKHxwatMVVWxFNMrGdkPupYGTaHZbPEK9GbkhFGzkFZ28Nvczts8Hv+mh6i1N64lRRngiGCuyeW6cEIokSlD/kI5L0y5JYg1CZyLspyfafJChOD2bXBtd/r8+a+UDcPVg/9MWBMtESQwWFrZVzaG8/79nlNiHj0pT3/DLfTkTgrRphocJt9TntfdWYfnq+xxSv6wHsKk3YC0jrsccS16e8vGN8ezR3gzHYBifOhvc524gNXKon0bd+NOdKuK8AbFIL+l0kyVxTAMuLUNDm1DL9H3h1yWQT6yoGlYQ58tsG5wBOnrjRCLfMD6HHg/I337xX4qo91ek4HouAjESnp2ZX9qisvq2j4Q8wXnIfafYt2fuVYIoV3YJklB7RG/KupEJr+Ja14T3wi7D8Z+BTI035xQU3BgH0xtCKUc3AhgT0aAoMs1Z+lcT508B3j+IsEHmzCHTDw0h8vvLJyEITr7LlRPUAf5JK46MQyJprUw==;tPH9dpqqeii0I6rkw0d8Cg=="
+secured: "Efb7GL/rqvUAQaZtsCJLInhEb+Ar49v1kgn+rcHaEqQQpBHbUXzHmWwgXD91rBGbwG95ud/8xdIxhkjPeICNVmCClEiA6P+SO3iTe/DJoZRnfBz5Xt0IhVSBVS5MySzDAMmFz3Sz1+O6h6KGKAOHbbBtMnM9avGuOtW5Fi6Xq4k90Ag92bX7aIA+EvLeOE84LPIZnB1fDmZ19CpQgrcBv7mUl6MarNm9xyJogSv0GsMI2M0gUsIU4/fp9w2yMIubbj36DzOEJrhQpYDhKTmXzKX8ernAag7BkbzyEgacmQshud0/cvBo+wMi+UWYDcUKnGNjyago8j4EffTRKHPmsFFPbjfGrbLOB/8DqFOJU1k=;Yh8KPAQCZ8H/t/XZWYIlSQ=="
 ---
 

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services"
-excerpt: "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in helping Canadian public sector organizations drive innovation and build solutions on the AWS Cloud."
-publishedDateTime: 2021-05-12T14:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm"
+excerpt: "CNW/ - Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in"
+publishedDateTime: 2021-05-12T14:30:00Z
+originalUrl: "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html"
+webUrl: "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - AWS AI
   - AI
 
-secured: "hyYvf6uhlNX3HM49+y1wA2T8siSlb5Q5Nkl10zpI9qjDLabRRxnePhJIWXJZtJwywR1rbCe+/NXINhB12h4SLBcMj8hLQHoZ7KxbyCEj2IUHKI2FG6OlLCc4HnCvD8qZcWVnKVRPTd+g52RYWNBbO2S7fnVM4hmwA26LmJEpegtaHoQLbhlmdCF2zULq/AyzdBK/Yxv+9JD+QIALA4FlgXY5xZVVEWuy1Z75LXSdvMSFmPG5D2DEsAS63F3S75pmMIowU4nAM+OLgVJFLFVdQ8ohT83PupGB/AYYnVltw3XeYcn399EoOVg+V1SRjfJTkP8V1B62jqcmtmwmBAJxJ7evGJPeG10DC6zg7ia2SIo=;z7abshhCvt+gbpIeEbTSNw=="
+images:
+  - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "7lmT1AcOh1ENDGPX9d76R5zb8YH7jBOeV2AdQVw0d2x+8SOKx9HCdxi+tIbCU9OuabCJh9dvNpgAMsVcn4D8Y+L6sqtHtvJASg0s4KMV7j+8FP1FdaMPpx7X3jwP4tsBs78yVqlQMOFhV37+NIJqzEAsRhRG97hb4Sub5IugrTVC9yB/Bk8S9EPrrK0tKPpqHs+3TBUj9vGdapxSE5oc+L3Gede1RscorJuLQzwUENCxbeHstEuubNurprNEYTDklHNhwDApIEwnIfXlw3JHkUS+zniUzQ04X7SS650wRW4UsPP8lSMlga1bl4RxGGvNV4XnYduFSZamW5yt4G/N2OsM3dAHvW+Q+/jOhPnrXHs=;5uydS1QhmN3OePEA1f/caA=="
 ---
 

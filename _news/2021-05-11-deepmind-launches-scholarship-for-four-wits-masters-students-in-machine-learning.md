@@ -27,6 +27,20 @@ images:
 
 related:
   - title: "DeepMind Wants to Use AI to Transform Soccer"
+    excerpt: "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports."
+    publishedDateTime: 2021-05-12T15:47:00Z
+    webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "DeepMind Wants to Use AI to Transform Soccer"
     excerpt: "Now, defending Premier League champion Liverpool has joined forces with DeepMind to explore the use of artificial intelligence in the soccer world. A paper by researchers at the two organizations, published today by the Journal of Artificial Intelligence ..."
     publishedDateTime: 2021-05-12T18:42:00Z
     webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/?utm_social-type=owned"
@@ -79,6 +93,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "DeepMind provides machine learnings scholarships for four Wits Master's students"
+    excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
+    publishedDateTime: 2021-05-13T07:40:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learnings-scholarships-for-four-wits-masters-students-2021-05-13"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 14
 
 secured: "BQfPkTTgVd9nujPWtOQQ0u0f3CzJaP9TkMxy4QpIM696wTW+wBJ52T+iqe/nZnK09dqA4Jm8QwT9xOCpDBe69XUDmz9wVs9eFGWpPl+A7yQoBcEhtgcgb0rQvKTeRHd2IE8LDkdgvyj9uYiaFvQwCtQHzJPUi/0vLhjmMmBP/bPirsGSANckiKtu1nsytZ+vLI8d85Qm61x2Em5FEUZkBwaVHxrfjOcSGdQ+SZD2v8ZFZcQkk3zf2UQpr3KOkehEd+mndrZR9IbLQyhItvxezI78iMbiGlnaQykuQQ6ONH3s93dsG9CL6Xm3+eHD2QukQBjuz2udmoqgqaICi3Ne7MjDxL+di2s8ZEhzB58tKAUierhwOV7fDDOucLK3CAnPRPjSrkq/RPkGLveC+lSMJqMmMmoCUt0u6xSirAaK+bIFORmwG3f2KcWxL68SulNrsuJ2v3hB8xpvRFZTysSM5zYvbm78aTjQImZaU8fk77IWfcilC/Bpeb4gj+BZIjlNy45aA3h7Wa7phCmL0YMMOQ==;s/wh7LeFsfT/NWkRlc8xNw=="
 ---

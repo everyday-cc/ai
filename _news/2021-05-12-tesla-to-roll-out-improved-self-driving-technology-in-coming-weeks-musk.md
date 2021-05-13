@@ -1,22 +1,20 @@
 ---
 category: news
-title: "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again"
-excerpt: "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot."
-publishedDateTime: 2021-05-12T17:45:00Z
-originalUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
-webUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
-ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
+title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
+excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
+publishedDateTime: 2021-05-12T12:46:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/tesla-to-roll-out-improved-self-driving-technology-in-coming-weeks-musk"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/tesla-to-roll-out-improved-self-driving-technology-in-coming-weeks-musk"
 type: article
-quality: 93
-heat: 203
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +22,23 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg"
-    width: 2500
-    height: 1667
-    isCached: true
-
 related:
+  - title: "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again"
+    excerpt: "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot."
+    publishedDateTime: 2021-05-12T17:45:00Z
+    webUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
+    ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 93
+    images:
+      - url: "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Latest Tesla News Contradicts Musk's Claim; Could Be Bad News For Self-Driving Car Fans"
     excerpt: "Tesla intends to expand its full self-driving beta to more drivers In March, Musk claimed the FSD Beta has expanded to approximately 2,000 owners A memo reveals Musk is \"extrapolating on the rates of improvement\" A Tesla engineer has informed California regulators that the electric vehicle company might not have a fully self-driving vehicle ready for this year."
     publishedDateTime: 2021-05-10T10:40:00Z
@@ -93,15 +101,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
-    excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
-    publishedDateTime: 2021-05-12T12:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/tesla-to-roll-out-improved-self-driving-technology-in-coming-weeks-musk"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Tesla Privately Admits ‘Full Self-Driving’ Claims Do Not Match Up To Engineering Reality"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do"
     publishedDateTime: 2021-05-10T16:12:00Z
@@ -178,6 +177,6 @@ related:
       domain: sacbee.com
     quality: 11
 
-secured: "bOaSl8BWPvsHgiFhlkgAY/pkdHbvA2n8SIRpp5CrgQKJMs7hIBNL3YhtLC1/axNKZGg1l1hg8KFNyqV5HAWKUryy0JPVMIXUhZpuSWyKOn+56bwR5o9kai09ggjLfI1MWTmwlU0eKQPhFpy74P+Cd7v/LMhXBVrLEiATsUBoScLUuzjwz5H3IhkJ3OfaZ6DA4EfYbzZdQmI5z9d1HSG5nFxaoRfcxtoOwPQXs7RPxFdHjdQYfUL8LQ+Ts9UQztMEsA7/Fr8SGe0MN70Vj2/p1Hy5OcWBmkue47cFgNaU1eUOnaaM/A7AbXjXpCYWigAiDEqH1wv6DFHY7/rtaQzb9Ws8YNxIQEr6OPfpuLf4gsE=;7O8l0I7FUgq348sU02Zocw=="
+secured: "5nu+LrIKC9VcJ24Ud/2aEg8dSQqEk8KA6Jl5UFTGpZvJKj62pYzw3NuDsRxG+VWqRS+LhhCjPLOaSFzjcLkzCoJR6fi+PWKqrsET4NRNfC8b18bVw/ue/JC9wcTT75gziQV3PM7QfC1APNLJCyGEjUWPTPcCCyxCswNxyBoqOmxhfjNxJ1/VyM7c2owcztgIYSDQ7gAYpirpbSlUOC83wsA24Jks96afpkLbubUfnuZnDSAAyI/lTjg97O24qbm/tlrg0evT9jZM47KyVjWjbqb+LMpTEqdv/6afVS3RVKsdAx3E23edMn9+/3KhwtJqneKV0ZABDhng2IFBtLXA/+VVOeRmxVi1EcdfogcAVtrZZRfIT9U/wlEYB47AW6kK0AifrK2c+7cvnpZU9mXPIed3sjZVq2+EIo2Ah2MHQCf20r1ydAS4scU4qbi6RIXDQWS3yLPB0uCmzeq+PYdr3KnoC39PPWxMqo8xfO2EqcwOa++QYLNMMkhhuAJy8H1+pjkGS30P9o4egE86TnVgwg==;j5wowaAEJLH5xzwl38PwMw=="
 ---
 

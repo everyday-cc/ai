@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-    excerpt: "Tesla vehicles are far from reaching a level of autonomy often described by Musk on social media, according to an internal memo obtained by"
-    publishedDateTime: 2021-05-08T13:53:00Z
-    webUrl: "https://www.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
-    ampWebUrl: "https://amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20210508/ARTICLE/210509167/AR/0/AR-210509167.jpg&NCS_modified=20210508151113&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Musk says Tesla new self-driving rollout could take a couple of months"
     excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
     publishedDateTime: 2021-05-12T20:22:00Z

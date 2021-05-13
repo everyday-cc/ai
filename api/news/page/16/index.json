@@ -2,6 +2,99 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-29-frances-macron-eyes-artificial-intelligence-to-monitor-terrorism.md",
+      "title": "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism",
+      "excerpt": "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "originalUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-330987/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "publishedDateTime": "2021-04-28T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.md",
+      "title": "Imagen AI uses artificial intelligence to edit your photos in Lightroom",
+      "excerpt": "Imagen AI recently announced its new desktop app for Mac and PC. Using artificial intelligence, it will automatically edit batches of your photos in Lightroom based on what it has learned from your past editing preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom",
+      "originalUrl": "https://www.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.img-dpreview.com/files/p/E~TS590x0~articles/1163298841/Screen_Shot_2021-04-28_at_1.38.30_PM.png",
+          "width": 590,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.amp",
+      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.amp",
+      "publishedDateTime": "2021-04-28T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Photography Review",
+        "domain": "dpreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-qa-vivienne-sze-on-crossing-the-hardwire-software-divide-for-efficient-ai.md",
       "title": "Q&A: Vivienne Sze on crossing the hardwire-software divide for efficient AI",
       "excerpt": "Vivienne Sze is an MIT researcher who is co-designing artificial intelligence hardware and software to be more energy efficient.",
@@ -1096,101 +1189,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year.md",
-      "title": "‘Self-driving’ cars could get green light for use on UK motorways this year",
-      "excerpt": "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "originalUrl": "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "publishedDateTime": "2021-04-27T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

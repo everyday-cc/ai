@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-    excerpt: "Tesla vehicles are far from reaching a level of autonomy often described by Musk on social media, according to an internal memo obtained by"
-    publishedDateTime: 2021-05-08T13:53:00Z
-    webUrl: "https://www.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
-    ampWebUrl: "https://amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20210508/ARTICLE/210509167/AR/0/AR-210509167.jpg&NCS_modified=20210508151113&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
     publishedDateTime: 2021-05-09T01:43:00Z

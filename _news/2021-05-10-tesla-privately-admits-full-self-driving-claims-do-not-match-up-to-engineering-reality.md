@@ -103,6 +103,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
+    excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
+    publishedDateTime: 2021-05-12T12:46:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/tesla-to-roll-out-improved-self-driving-technology-in-coming-weeks-musk"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
     excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
     publishedDateTime: 2021-05-09T10:23:00Z
