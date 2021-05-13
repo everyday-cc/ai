@@ -114,6 +114,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
+    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
+    publishedDateTime: 2021-05-12T18:53:00Z
+    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 39
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
+        width: 502
+        height: 263
+        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z
@@ -152,6 +166,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "ZE+7ZsoSF4WbkVWeYNPkoO09OOP1LWq9ys49Dq0WlF08HsR2KsvIaCgQPITeWls8ldkkGk89Nzi0PMbF8EBN22AWxHcPEb5V1dvtObz9Z+S4kRNKDV5mjAN26QlR1B9hIgznfAUDkorRlzLVOF4ndurVLGs0Ra2vHvG/aGRZ68EkixvhHqQo/jNVd/VftDvDyU9B7x+K3WyHcZmTaWTxtJNsswu/GJr2h404haxhosyxrXUs7CJwQ62R9XrhiODEOdCGmqboGlGU7qvzLc0DJ747gFLNYjHO2gllW+DDjmSW8XGmZAumuTmTfGU/mLS7XIzPq7OteCFz1z/xjCF4Fkh91P/HoBQIEabrj53afZo=;mnDSDtBqPjJMBWO08s/8qQ=="
+secured: "LOVZgfcCcxPsFPm3EGwiQAmX00QEsHBHmcCyBKm16b9gGQsFpCOimg4sUYaeSzmQd4bV+UWmW6stN9lhmGeeTyC811h9JZ82LF4B+vwf5TWym8fHSF+Vr/eKlQqlpVxMGwUZtuDueSWXBL1A3cobZ1FLKfyWJuLauQSujzwvpKZcXqcNGBEXKtZJSI6lIFEDKP19MpA0DTQMBbsRNyMgE7xM1sbQ5mxtWGiaUuZE9nbo3YcqcGBde0OEaDyA8HJxisp7QMiKo9zeJVG+wi8Y2LjiLUWt6Jq2Z7m6AZb+lKzBp3oEGhsn0/ZMOzrYdt7XfXcW4iowjS/SyYbc3wHoh1ITY0cUpTJqSF5fSpTHY9zcnaTyvzWtw40x6pAoEBRao+/3J4Sr3QAsHXZJsMsv0Z7TQvcOwWPF94bzHIrn8paqBIQfYvg7BuvRn7SEC0/+syJYqP9C/qOvg7y+SFa5erXaIa0hsjgAwdd6k0bxXiFZ8vztE7MAZMb3iuQnvR85gQp/KIcZ2HVd3YU+52LePQ==;2cAm6Yrn2tMtZGd3XP/Lfw=="
 ---
 

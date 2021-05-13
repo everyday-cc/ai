@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-13T07:06:00Z
 originalUrl: "https://semiengineering.com/11-ways-to-reduce-ai-energy-consumption/"
 webUrl: "https://semiengineering.com/11-ways-to-reduce-ai-energy-consumption/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Fig03_in_memory_computer_LinleyGroup.png?fit=499%2C377&#038;ssl=1"
@@ -24,6 +25,6 @@ images:
     height: 377
     isCached: true
 
-secured: "sRKIytbYRi72drxt+X9rKFP5zUlIXvRYwzqdWmCe4eS6YDeMlI9hEFXeKQoctr6YMzasT9VloORcxzwcGu4bFF/kD5gRI8/TgN7tixNz/6qiZfqA9yaPGAv18Iwjm2j2IkCJxWlvw1KyGQVbqqySn3hBZ8ApC+7g/jdI6xFJS3KGDyn+yxqM5/nRPuT7cpx7UHnWeiNi1RqQx0lJS3NoZbHaI/WpLMfNSPxXX6wfbQaWYVgBnK91D5bQcjNgDIW3tIOvUjy21VPqc7zNRHAZrxAuZbS2IE1UgQs4ae7tL6q6pnMa/bCd/oLAfR5K+RjsprkIs0rMYbnKq2MjEfqSzxd+K1hFfnSZ517tHCYDlUk=;NFUfQvIdptS8R8JGAD2Vtw=="
+secured: "ne8+Sz9Me0iw1FKiS1Cf0zBj1vJ00QWG45tA97kok239jGBXDgYYa3J3HFIgMEcproCYGaR9YWgEDOOkDJbwg/U6oQdZRjFXEVWSUQhN4lvjCXJA6KPOHxQOsa1Zlv0x23Dq8zivAp+eDr9wJDRE1JvHjELy2wzIRVYGdR8X+IlzZmGycKNcd0zDKp4VYEO4DF+/Puk/HQgEl9Zcty3uh5ke0QEdpLduyVCUxw8V1LqBLl1QLyKIEjgdkOX/FDh80dYmBoNVABnxyB0xztduqihkBQ/2c6Oo4glMC6hBhHLNfJRptmJaVyUGsIYoW3EeKrKPaGmK5OaD3ET+3UzlKCiic78Va0t9Wy7jbqlHNokNi6JFl2HWvN7wXH9CP3Y4EdZsEi+12h0ag+HHINkgmVXIhhtQT2VztymahuY7PfxDFC+A+IS4cX3J87egkNZ26Vdp2GYcPJqRzk6/1/nchY60aGM5Yq1E1ZXo4BzKd8A0xOkolfrKGLdqIv12NrPjx8kbHb0yH1aC7qYum0EJZg==;JpbpheYSZ2oyioyjY7qQdg=="
 ---
 

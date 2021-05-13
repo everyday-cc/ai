@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Experian Showcases Innovation Using Artificial Intelligence"
-excerpt: "Experian’s digital credit risk decisioning solutions have won two recent awards focused on application excellence in artificial intelligence."
+excerpt: "Experian’s best-in-class digital credit risk decisioning solutions have garnered industry-wide recognition, winning two recent awards focused on application excellence in artificial intelligence. Experian prides itself on using data and new technologies that solve real-world problems for businesses and consumers."
 publishedDateTime: 2021-05-12T20:32:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210512005926/en/Experian-Showcases-Innovation-Using-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210512005926/en/Experian-Showcases-Innovation-Using-Artificial-Intelligence"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-64d5ca6830b546228c3a5ca299cf0a10"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-64d5ca6830b546228c3a5ca299cf0a10"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "j9JFEW7Dw6D2N7Td9800A2KZjqc5UMwh5WNR8pSlWMj80I6ynVrg+BTAmaPJhF94xQGdMVfxSE7WAEsg+TkygtLdNH27K8sgkSLwoqzzhrAdO8SlHY6GGT31JFIpVwHBwiO8XE/n5KzIODzlvYa6cWed4ilYiiLHb7a8f7hOiJOhELaYZ8eNEXjHQIsMO8GDTvqs4Ka4yp8+hZJjitZlj6rYLpmVNdqF23EPoEa/yUUeBCg0PsKSGOKn5CkySJPt40VXYdumfRWYyfYsyGtSHBUiPAin4gResf4OfxNrjrI5SjxrwJ3qQYHw5n0iJJqop7Wfa75KjPml+MvlHagv02VFC9sGDafhIXBVipkQ6bk=;WNVc+cUbFa7hyDKNbDm7nA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "TXQ9yIOwaQRFtac/6JGLCA1NBDVK18yZmBh7HaK7Fv56G8/dGCd4SkHHFoufekUW7iCadh/WWlgOwulI9H6EmuBDkxNcIFN+OqEcxx6J1d23weWPFAtoDkWBFQ1g70EBayrlFphnwuHjENuz/pkl0VWQxiQlNFzN0Ro7JCV96bJrxIwxvdUcCohAiSPp6bX5vgwKpb2EdXIwLl8DKl/AG9TqjnTEA0gilX61RPY469eVo4QBUb31Fg3t8mM6YJvNX/L2t++5OliYCHjy5ij+K9u+YadptIi5weeIzEtKYluLfLwT5Llnluv96Idqb2gkHzlnRRa45wSOerj7zE+Q0djCUbM3K67XcXSq98103+M=;4TvB+jYXM2GFBcf+XcE3dg=="
 ---
 

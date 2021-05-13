@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-
 webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "DeepMind provides machine learning scholarships for four Wits Master's students"
+    excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
+    publishedDateTime: 2021-05-13T08:30:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13/rep_id:4136"
+    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581"
+    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 52
   - title: "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning"
     excerpt: "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning."
     publishedDateTime: 2021-05-11T11:44:00Z
@@ -106,6 +117,6 @@ related:
       domain: engineeringnews.co.za
     quality: 14
 
-secured: "Efb7GL/rqvUAQaZtsCJLInhEb+Ar49v1kgn+rcHaEqQQpBHbUXzHmWwgXD91rBGbwG95ud/8xdIxhkjPeICNVmCClEiA6P+SO3iTe/DJoZRnfBz5Xt0IhVSBVS5MySzDAMmFz3Sz1+O6h6KGKAOHbbBtMnM9avGuOtW5Fi6Xq4k90Ag92bX7aIA+EvLeOE84LPIZnB1fDmZ19CpQgrcBv7mUl6MarNm9xyJogSv0GsMI2M0gUsIU4/fp9w2yMIubbj36DzOEJrhQpYDhKTmXzKX8ernAag7BkbzyEgacmQshud0/cvBo+wMi+UWYDcUKnGNjyago8j4EffTRKHPmsFFPbjfGrbLOB/8DqFOJU1k=;Yh8KPAQCZ8H/t/XZWYIlSQ=="
+secured: "//Rc7dh5RJT6I0fs9vy1OTGMpTQGHd9FYsxCvcxL9A5AvDKldraBNYZrhyomhONGAl+rP/64hYLq6DEbywWEZAmkXPGnwmm+IPlnuqnc1RQkwX1QF/spgrDGEHj0j8aJTLbQ1e6s9wb7wJbORdQwIyai2ctGessrYJlocoKTZ02noDV4u8F0snNj19k6IxJuJ4itZRUI+Hwst+vtciNK29cL3ljwn5bUuSmwYyuNk5Qw5S1m5/j221KShF25Ej40Vf4sI3f7Y0OmlgkCO1Wnt/obpAW4f3IsHgh9Ymjp2jePUxWLwoTvoA3gRKOZhCp50v1qExnBeCij4uvuTjFWccr1Oy6qcTopwqb5ceNcm8tCGU7EfdNj4+GKS3vDfB/Faw1s+fBuOQUbfDSvnAOljYq/0pS6Wpy2/8GRwwCXTj/Nxjv6l4kA9VWsS980syR2yEKBRqCYvRzJUMPAgEOkAm0K+PfyHzndEPSxEoKCzsqWDuX7+AXz47PV6JEv1AhJ4EVFmgaOKur0sxukVe4dXQ==;5TSAz43pOB8YHusO013FTQ=="
 ---
 

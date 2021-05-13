@@ -117,6 +117,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
+    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
+    publishedDateTime: 2021-05-12T18:53:00Z
+    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 39
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
+        width: 502
+        height: 263
+        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z

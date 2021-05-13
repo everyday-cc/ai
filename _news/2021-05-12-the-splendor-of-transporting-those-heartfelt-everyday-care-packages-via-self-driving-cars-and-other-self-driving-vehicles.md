@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 794
         isCached: true
-  - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
-    excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
-    publishedDateTime: 2021-05-08T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608cd9913ed92beb8a48a802%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2143%26cropY1%3D13%26cropY2%3D1219"
-        width: 1199
-        height: 675
-        isCached: true
 
 secured: "y8zcwGUPUerMg8QTRh3kBEOHTeWTjJr7gRe0mDtdYBa/6ZYTaIOnUaysL4BQNB+/ExOyIGCuxdHMXE+uSLNXzBXzTD4BSdGrQrdRhIyHet7I7/fxvKSZwwwYHDdDGKHsKHhqF5ZVK1pFB/uTfhoXYxeAKuyqO4AHJE1QKDPYdKi4e9nM7u6bapOmoaJpuNmEdGXFdqp76cJYH3mXDVrg76LWv/uMTRYhv/Cy0vdhaH5VA8dSpaoU6WA4eH+cAIlo1qAEveRM0TEXG33Y5+F3BW2wf6T/IK/RFpPf0ur8bC4unNAAFEAT+f2sbjdQlWX6Dj/SVVzhI+6b+D12qAjxJJND4MBeCHg+1y3743meSOUWybiDtGQ/gqcz0mQmWLAwiZFpaZdNYIaixjS1CbpzUYtVe9H1IeDAE6FUOWQZp/dXexlS7YhmVdy/3OV1DUe8cC0hI1vYP+La7oJ+ecKSYph81f3EdHq6RxU2TCT5WnaR4k1zb/LfGoswmuqQsj9NTTZ8/6DHy9KOrPxeGeZ3Qg==;sjyLmIGB6G6S/9S6+b4mJA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/ai-pl
 webUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/ai-platform-construction/93169/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "SpinCar Acquires Pulsar AI, the Industry's Most Advanced Conversational Artificial Intelligence Platform"
-    excerpt: "Acquisition Adds Conversational AI and Marketing Automation Capabilities to Fuel Company Growth NEW YORK (PRWEB) May 11, 2021 SpinCar, the global leader in digital"
-    publishedDateTime: 2021-05-11T13:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/p21059412/spincar-acquires-pulsar-ai-the-industrys-most-advanced-conversational-artificial-intelligence-plat"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21059412"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21059412"
+  - title: "Dearth Of Core AI Products In India: A Deep Dive"
+    excerpt: "According to Seattle Times, close to 70% of Indian H1B visa holders in the US work in the tech industry, from just under 40% in 2003."
+    publishedDateTime: 2021-05-13T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/dearth-of-core-ai-products-in-india-a-deep-dive/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-34.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ClPTWiXRHai7ImXURQo6ULmQC29Tq19yVg8qkQzOAdRqPFYs5oeH0LfWnbnvdWahQtfILWA+yHLOQI8uEg0UlP4sCIWrFBljeeqzMs2Ics8WP16uoy23dGFVvNxJFf43EQPbaaYcbwxDC33y0eME7K5/l5vuMtXAWNLln96R2c8FX0CrBaJo6NCh8+UwI6yDWnjY9sl906KU/iiLN11PI/Kby/KGrbbuRaRllcEoTGoDaJEIdDBhjjGVSJLxc+lWAQQmIG20RooTZobwunh6znzvVJmtMoLd6CVJPT8a+Xm5pmHuIA44qWvh/ZIdYHomOS2/jv26oR+LjjjPSU3uuJszNBiofHbSUUYG/oN0/BM=;kOd+ItiSjsKgscrsibCoHQ=="
 ---

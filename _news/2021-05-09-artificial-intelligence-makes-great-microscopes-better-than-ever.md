@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence makes best microscopes even better"
-    excerpt: "During a recent study EMBL scientists combined artificial intelligence AI algorithms with two cutting-edge microscopy techniques an advancement that shortens"
-    publishedDateTime: 2021-05-08T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269329246/artificial-intelligence-makes-best-microscopes-even-better"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1620488160.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence Makes Great Microscopes Better than Ever"
     excerpt: "Now, EMBL scientists have combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques—an advance that shortens the time for image processing from days to mere seconds,"
     publishedDateTime: 2021-05-11T12:49:00Z
@@ -50,15 +36,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Artificial intelligence makes best microscopes better than ever"
-    excerpt: "During a recent study EMBL scientists combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques, an advancement that shortens the time for image processing from days to mere seconds while ensuring that the resulting images are crisp and accurate."
-    publishedDateTime: 2021-05-08T15:14:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210508/3752805.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "zbxzNVXBRM9gRJDI4uYDKrYTrFHCLUAvjC+dbEZh7gVIRso4UlNXw8stJoPQQxoiU4mT6IN9hQbH55HsbVkOM7wZx7wfEHzYOd/OINcKYR66i1rDCUFak7FQpweLkl73QeRfd9oxP8y8CSMjHG2zoiBD7zk2F7+yXyLPRsJgCPv1JcJyclNOoQ/9RTkdWDJAzgPEu3qez0id0SU8jkc3ZjiRRYGSA72R9SirewcugXbrhBdz1ioNf/HWNFUarU3M3dt8BhOLJEC4t1/vb9d4XVymJKwh6vsgyvgz1GinQKSp3JfXTjXj69bY6p50/nLvmRvL9wVX/DT75P1yWP/J7jyOjmosB5nrY3Mbdgr7nLg=;shBf4Vc6YhkMaZJaeaS6Fw=="
 ---

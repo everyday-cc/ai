@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/indian-rese
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
 type: article
 quality: 60
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
+    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
+    publishedDateTime: 2021-05-12T18:53:00Z
+    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 39
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
+        width: 502
+        height: 263
         isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."

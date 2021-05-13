@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chine
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:

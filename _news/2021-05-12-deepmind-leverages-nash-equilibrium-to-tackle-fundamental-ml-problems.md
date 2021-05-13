@@ -54,6 +54,17 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "DeepMind provides machine learning scholarships for four Wits Master's students"
+    excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
+    publishedDateTime: 2021-05-13T08:30:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13/rep_id:4136"
+    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581"
+    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 52
   - title: "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning"
     excerpt: "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning."
     publishedDateTime: 2021-05-11T11:44:00Z
