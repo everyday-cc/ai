@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
+      "title": "Machine learning & Artificial intelligence to Gain traction!",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
+      "originalUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/05/technology-5917370_1280.png",
+          "width": 1269,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
+      "publishedDateTime": "2021-05-11T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
       "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
       "excerpt": "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia.",
@@ -365,7 +409,7 @@
       "originalUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1176,58 +1220,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools.md",
-      "title": "IBM taps AI for new workflow automation and data migration tools",
-      "excerpt": "This week during its Think conference, IBM unveiled AI-driven products across its portfolio of enterprise platforms. Mono2Micro, a new capability in WebSphere, taps AI to streamline cloud app migration.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/",
-      "originalUrl": "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/",
-      "publishedDateTime": "2021-05-10T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

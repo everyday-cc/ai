@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-traces-of-ai-weiweis-politics-at-skirball-cultural-center.md",
+      "title": "Traces Of Ai Weiwei’s Politics At Skirball Cultural Center.",
+      "excerpt": "Trace” at the Skirball presents three of the six floor panels Ai Weiwei created in 2014 for an site-specific exhibition in San Francisco on Alcatraz Island concerning prisoners of conscience, political prisoners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/",
+      "originalUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c574f67f471f7beafe7d2%2F0x0.jpg",
+          "width": 480,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/",
+      "publishedDateTime": "2021-05-12T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-build-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker.md",
       "title": "Build a scalable machine learning pipeline for ultra-high resolution medical images using Amazon SageMaker",
       "excerpt": "Neural networks have proven effective at solving complex computer vision tasks such as object detection, image similarity, and classification. With the evolution of low-cost GPUs, the computational cost of building and deploying a neural network has drastically reduced. However, most techniques are designed",
@@ -52,6 +103,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months.md",
+      "title": "Musk says Tesla new self-driving rollout could take a couple of months",
+      "excerpt": "Boss Elon Musk said Tesla Inc is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tesla-autopilot-idUSL1N2MZ32Q",
+      "originalUrl": "https://www.reuters.com/article/tesla-autopilot-idUSL1N2MZ32Q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2MZ32Q",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MZ32Q",
+      "publishedDateTime": "2021-05-12T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -362,58 +465,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-elon-musk-tesla-full-self-driving-v9-is-weeks-away-fsd-subscription-about-a-month.md",
-      "title": "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month",
-      "excerpt": "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "originalUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "publishedDateTime": "2021-05-12T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1197,50 +1248,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
-      "title": "Machine learning & Artificial intelligence to Gain traction!",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
-      "originalUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/05/technology-5917370_1280.png",
-          "width": 1269,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
-      "publishedDateTime": "2021-05-11T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

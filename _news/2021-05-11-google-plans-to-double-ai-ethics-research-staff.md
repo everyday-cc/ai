@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-re
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ3NjU0NDU4MDA5NDk1/midday-report-apple-supplier-jabil-circuit-disappoints-stocks-down.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Google plans to double AI ethics team after fallout from staff departures"
+    excerpt: "Google plans to double the size of its artificial intelligence ethics team in the next few years, following controversy over Google's treatment of whistleblowers critical of its AI approach, according to a May 11 article by The Wall Street Journal."
+    publishedDateTime: 2021-05-12T18:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-plans-to-double-ai-ethics-team-after-fallout-from-staff-departures.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "OkWWR4YtSnqeW4zSTtsseXPUMh1gUr6b0MAFpdbl1tMvLyJY5t8JTKtRBUwFNh7Nr5G0cXVKgEIz+zz1BKVdpqp221ModHsyuPe06qBiGEsjMFzK4f9dISTfAlrlWtCkWBaUlC51OnXgAIZOBNtqtGB5y6xXWmb4BrzTPPQxUuCYspfxtrGxNp4R6UUo4PNaKmOKPq/OCJIKpb4Tx5eseAiFGFlkipsoDB6ScQJ0FZ/OlcTYHIDsspeT4EhEb39rD+9bMeCBmCfetv451GEo+RuqGZtWwclxbmSqRksH5UcMCz3WeLJVUaV3KonrRADL4VgeAK33z30It3IPc7ovN2YlRJW2KVt0sj5LgKVSZ5R0voDjnc4vlLdLl6+F2pflFbMY2mgBpZPTcBWUwlLoFnKiViRWHtfow/61LFpSlSdMyydY0AUJl2l7/msBDZgER/7j/b/Y79bo93N1K9O3/yI/yKF+sQSprqUH3heFWf6cRAl4HSE4O/3xFkMJWor5+Or2mmYqReDoqxQznRETZw==;EAlhlJGkjltK0sjTe/JfVQ=="
