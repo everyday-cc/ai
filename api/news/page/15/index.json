@@ -894,6 +894,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard.md",
+      "title": "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard",
+      "excerpt": "These two sources are fed into a neural network using TensorFlow. You train the system by driving the vehicle manually through the course a few times and then let it drive itself. In the video ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
+      "originalUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/06/self-driving-rc-cars.jpg",
+          "width": 3872,
+          "height": 2408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-promoting-artificial-intelligence-in-accounting-profession.md",
       "title": "Promoting Artificial Intelligence in Accounting Profession",
       "excerpt": "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across",
@@ -1121,57 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als.md",
-      "title": "How Verge Genomics Uses AI To Tackle Parkinson’s, Alzheimer’s And ALS",
-      "excerpt": "Using a combination of machine learning and proprietary data, CEO Alice Zhang is looking to develop more powerful treatments for neurodegenerative disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/",
-      "originalUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6089bc24454c256a3c33ee64%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/amp/",
-      "publishedDateTime": "2021-04-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

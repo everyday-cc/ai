@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Microsoft partners with Darktrace to help customers combat cyber threats with AI"
-excerpt: "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats."
-publishedDateTime: 2021-05-10T17:02:00Z
-originalUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
-webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
+title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+publishedDateTime: 2021-05-13T03:50:00Z
+originalUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
 type: article
-quality: 79
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: Total Telecom
+  domain: totaltele.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -44,6 +40,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg"
         width: 1000
         height: 679
+        isCached: true
+  - title: "Microsoft partners with Darktrace to help customers combat cyber threats with AI"
+    excerpt: "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats."
+    publishedDateTime: 2021-05-10T17:02:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Redstor unveils AI and Kubernetes offerings to help Microsoft partners manage customer data"
     excerpt: "The services are designed to transform the way Microsoft partners manage and protect customer data in Microsoft Azure and Microsoft 365."
@@ -75,20 +85,6 @@ related:
         width: 768
         height: 419
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-    publishedDateTime: 2021-05-13T03:50:00Z
-    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 54
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
     publishedDateTime: 2021-05-11T15:09:00Z
@@ -113,6 +109,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "ZqALfrM6VxF9GjedKtf/SerFraoywXwn20l6bble8f2ec657JVEcWwTcV6P8o6aeXiiHGRYNcryZIaNZCVuk+CDtRysbI6yKYAFBXpGvX/v7Fj7uqL2D47RFrFgMt9UbJpdhJLmPOSv3lVjkok0qZhbMaYaKlPh62xkK93RJkA7MQnAH5/1RA58rZEkwRrNbMrUVA/9H4eCnTqKWS0QNF+IwcuMooomQEoNdJiy0pQpWYHDVZPKevTzi+9kGJYo+fZ404wfr3y6VBTWP02nE8ZxyobRQUH7Ye0ITpDPthIV2RUBr8/r9qBPV4ZF9ZiDb+qijHIDDScaY1O78iM9xuDCJRKrb9Bd0suOTBPy2dndYZof6hVfijEwHGtMPqVZ+q2M07gumREbrhdl7ZOFfnRF/qLUfKyy2wy4YcpFW6LaqGjSpFFCKbYgFsm+0h9TIo5e3Dq4qokpEGzaIxnjP9qOmXOfsKWNY1TJ2VhYXn6y5/x8C0IVj3JAAv+m1kc6iunIaB05MaQGtdIt9GaaueQ==;LYMrgGfEa+XP7+dJWBxPxA=="
+secured: "3naIwB2TgGJA2Gi+Xnh2C+otL63oA3J7Cvhsrd1Ig0UlfMuwRWouU7CXcGWbglDfngAFScyFEHj8Ct8427VxD/qF3cCTK7AIyd1DG+rM89qZimzlrgDBRbbBw0OcDe0GwKUPrDoRMbV/h31bJ+MPFzP2N3Blanf/D1H0G9m9F/XcU6sXBFRs276hgJcDU8UzwMkI3a8WZtYKvkTTq7e+J7HDFFaEFSsUDzImc/jhQP1o9YjTFpHdcmCQPDiLopNQJqRJgk/2n6cJzofwHKtqe6jCN8u9yji3hrpxzqX3SvkgXtsyhUd/awOS9NqO2IsBbcIwbdrO/c62aHUHdelTGXUPzTqJmnaJ3Geosj40bqI=;hBaz+fwoCGZqlZK9MgCt5A=="
 ---
 

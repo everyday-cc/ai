@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Chinese company starts driverless taxi services"
+    excerpt: "A Chinese search engine giant, Baidu, has started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public for free on a trial basis since last October but now riders will have to pay for the service,"
+    publishedDateTime: 2021-05-13T03:04:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/DBzyPTNJa3IsYDR5hcE-VQshsU6JI_o9AYpq--42JmYXkzQ-BemUDrcEvXdVAeWNW_qI8fLp6bwW0Trjuk-9SMEa17tOmCzv33ZHD6gHTvyeWg=s1000"
+        width: 1000
+        height: 589
+        isCached: true
   - title: "Driverless taxis to cancer drugs: Google's moonshots are serious business"
     excerpt: "Alphabet could be underinvesting in the sustainability of its prosperous main business while overinvesting in adventurous sidelines."
     publishedDateTime: 2021-05-09T01:41:00Z
@@ -35,18 +51,18 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google’s Main Business Could Use Some Moonshots"
-    excerpt: "Time was when some investors valued Waymo above $100 billion ... To take just one example, DeepMind Technologies Ltd., the UK-based artificial intelligence company that is one of the “Other Bets,” has made important advances in using artificial ..."
-    publishedDateTime: 2021-05-10T04:00:00Z
-    webUrl: "https://english.aawsat.com/home/article/2964486/leonid-bershidsky/google’s-main-business-could-use-some-moonshots"
+  - title: "Top 10 Chinese cities by AI innovation power"
+    excerpt: "The latest China AI Development Report for 2020 and the AI Open Index were released during China's annual meeting for artificial intelligence in Jiangsu province from Sunday to Monday. According to the report,"
+    publishedDateTime: 2021-05-10T00:18:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202105/10/WS609864c4a31024ad0babccbd.html"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 39
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 37
     images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2017/09/27/leonid_bershidsky.jpg?itok=jp6AQ9bY"
-        width: 320
+      - url: "http://img2.chinadaily.com.cn/images/202105/10/609864c4a31024adbdc6c054.jpeg"
+        width: 720
         height: 480
         isCached: true
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-friend-robot-dog.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-friend-robot-dog.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 681
     isCached: true
+
+related:
+  - title: "Researchers' have a new best friend: Robot dog gets to work"
+    excerpt: "Its name is a French acronym for \"Advanced Robotic Assistance System\", and the Ecole des Mines was the first in France to purchase the Spot robot from the US firm Boston Dynamics last September. On Tuesday,"
+    publishedDateTime: 2021-05-13T03:59:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/05/12/1600x900/114691_1620836890151_1620836899846.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "o3IOfDJJWisXkPQmgaNiyLx0qIQ6iu1hfZzUeNV4AwJCYAa3k+4U9mOH2bP31EVs0kZCyS0JH+K5Cvzl7ku2FzD9w24uMOrX58nilE928gpUr4JifGNC3fQzcExm6uwX2VW+vrYzam3zHnrbDK7xTHlQfOW+x1Tm4h1MNNjlrS9CWXPu+fRzKR2PpoxPXTGc/htcDuGbPnU+QS/Ityc8Y0jkqD9Ly8/TULLNdyF4MfRztccPvkBEuX3Ww6oT5gLlPlpXKLOrCv0kA/5f7XoZfQSWjvEljXKT3Xw/eZm9RaGuBPyvgz46QpWmFd1H4Xlt/D2uLb4ZvZ9i20RHC/R8IMW4tf+XF8XCuXX+w8AdpUv8pA7Xh3QINO76lxQ6jcwpWdJf6Mozj7C8ksUir/JJTyf2EmsrROG5MCjgoDk/OQCmRlwZdmliH/PLBsTY08n3zGCDwDt2oaZODae3rUmcxc3YVkIukdwReh0l+vGHeod6W1fGL45cWjCg7zqlbE/5qiohSzN8uMk0vfAFPg2fzw==;nfkTD6wr6g0edAKw16EkzQ=="
 ---

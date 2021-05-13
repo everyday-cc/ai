@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-08T09:19:00Z
-    webUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Latest Tesla News Contradicts Musk's Claim; Could Be Bad News For Self-Driving Car Fans"
     excerpt: "Tesla intends to expand its full self-driving beta to more drivers In March, Musk claimed the FSD Beta has expanded to approximately 2,000 owners A memo reveals Musk is \"extrapolating on the rates of improvement\" A Tesla engineer has informed California regulators that the electric vehicle company might not have a fully self-driving vehicle ready for this year."
     publishedDateTime: 2021-05-10T10:40:00Z

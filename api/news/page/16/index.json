@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-29-how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als.md",
+      "title": "How Verge Genomics Uses AI To Tackle Parkinson’s, Alzheimer’s And ALS",
+      "excerpt": "Using a combination of machine learning and proprietary data, CEO Alice Zhang is looking to develop more powerful treatments for neurodegenerative disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/",
+      "originalUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6089bc24454c256a3c33ee64%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/amp/",
+      "publishedDateTime": "2021-04-28T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
       "title": "Leaked AI report could hint at future for US regulation",
       "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
@@ -1134,50 +1185,6 @@
         "AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-aws-deepracer-follow-the-leader-ftl-sample-project.md",
-      "title": "AWS DeepRacer Follow the Leader (FTL) sample project",
-      "excerpt": "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T18:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

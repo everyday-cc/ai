@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-08T09:19:00Z
-    webUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
     excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
     publishedDateTime: 2021-05-09T18:00:00Z

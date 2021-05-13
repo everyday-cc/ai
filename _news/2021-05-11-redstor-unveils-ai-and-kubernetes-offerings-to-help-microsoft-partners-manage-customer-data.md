@@ -71,6 +71,20 @@ related:
         width: 768
         height: 419
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-05-13T03:50:00Z
+    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 54
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
     publishedDateTime: 2021-05-11T15:09:00Z
@@ -94,15 +108,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Artificial Intelligence in Cyber Security Market Projected to Show Strong Growth | Amazon, Cylance Inc., Darktrace, IBM Corporation, Intel Corporation"
-    excerpt: "A latest statistical data titled as Global Artificial Intelligence in Cyber Security Market has been published by Infinity Business Insights. The report covers penetrative insights into distinctive market features such as recent trends which are comprehensively discussed in order to provide an in-depth analysis of the progress of the industries."
-    publishedDateTime: 2021-05-08T09:52:00Z
-    webUrl: "https://ksusentinel.com/2021/05/08/artificial-intelligence-in-cyber-security-market-projected-to-show-strong-growth-amazon-cylance-inc-darktrace-ibm-corporation-intel-corporation/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "YXxWCm9w59R5I+pTKc5uCdbGd1lY9sFHrevK2CW2eWkTRlx1Qa+AcAfo9cYb0OQFBrR/87h6DXy5wgcu2B7wiEZF92yJKU4xGejYYYnN5ObfilLctyf7+IoCS9jVKBVH++/mBHcXe/oLkXI5XE2mhPWUt64JkJ740CA01kKpprx7Ui3UkCNeVpPwHhpC+h9nteH1n+lU3PcI+XyKtK4xVGYqPBM3+SU1so7qWx36zGzop5Sm18QNpUUvJj9e61SAEUgFeLSTF+M+DJUuAysmkiMjnrWWWIM2DorYVmnlWB7qVhZPXhPAuwfEmQFiY6xdCrMl/4ER5WwXJG3y7N3V40WsvuwEGGBAzFFLZXbBhYxarV9fhuXtdELMOPqFiqT86kmQUoAynggXuqoZVb/qGd2aLPGW59TCmoIiqfQxHxbLuyfetts9aj/wVMlgrmYrmeSO3y+Yl91tX2GXdhGyMpvOvDbBGKjSlnavKZObTcpvhxoUa9shlBqt+Sn/ZWu5L0WoQHZNAMdwQlYjszd8/A==;4/yR64IknK+jW7FLlDJH9g=="
 ---

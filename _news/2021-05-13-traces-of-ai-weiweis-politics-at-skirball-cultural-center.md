@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-wei
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
