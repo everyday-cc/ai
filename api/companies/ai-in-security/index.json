@@ -19,7 +19,7 @@
       "twitter": {
         "username": "zscaler",
         "url": "https://twitter.com/zscaler",
-        "followers": 10277
+        "followers": 10278
       },
       "yearFounded": 0,
       "locations": [
@@ -57,7 +57,7 @@
       "twitter": {
         "username": "Tanium",
         "url": "https://twitter.com/Tanium",
-        "followers": 6486
+        "followers": 6487
       },
       "yearFounded": 0,
       "locations": [
@@ -201,7 +201,7 @@
         "AI in Security",
         "Machine Learning"
       ],
-      "heat": 59,
+      "heat": 58,
       "tags": [
         "Security"
       ],

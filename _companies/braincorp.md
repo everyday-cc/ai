@@ -4,7 +4,7 @@ otherNames:
   - "Brain"
 overview: "Brain Corp is a San Diego-based AI company creating transformative core technology for the robotics industry. Brain Corp’s comprehensive solutions support the builders of today's autonomous machines in successfully producing, deploying, and supporting robots across commercial industries and applications. Brain Corp is funded by the SoftBank Vision Fund and Qualcomm Ventures."
 type: "profile"
-heat: 51
+heat: 50
 
 website: https://www.braincorp.com
 
