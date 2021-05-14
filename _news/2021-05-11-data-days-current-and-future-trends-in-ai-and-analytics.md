@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
         width: 2699
         height: 1414
+        isCached: true
+  - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
+    excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
+    publishedDateTime: 2021-05-14T01:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 31
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-300x230.jpg"
+        width: 300
+        height: 230
         isCached: true
   - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
     excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/emergent-tech/97675-nybl-gets-closer-to-take-ai-
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97675-nybl-gets-closer-to-take-ai-to-the-people-with-acquisition-of-nubila?amp"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -18,31 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "nybl acquires Mexico-based machine learning startup Nubila"
-    excerpt: "UAE-based nybl, an artificial intelligence (AI) and machine learning startup has acquired Nubil, a Mexico-based visual data mining"
-    publishedDateTime: 2021-05-09T08:11:00Z
-    webUrl: "https://www.wamda.com/2021/05/nybl-acquires-mexico-based-machine-learning-startup-nubila"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 39
-    images:
-      - url: "https://cdn.wamda.com/feature-images/27a012355824388.png"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "How Dubai-based start-up nybl has 'ripped up the playbook' for AI"
-    excerpt: "Science-based AI pioneer announces latest acquisition and reveals plans for an upcoming IPO Science-based artificial intelligence (AI) pioneer, nybl, has acquired Nubila, a visual data mining and machine learning (ML) platform in a deal that will see Nubila’s founder,"
-    publishedDateTime: 2021-05-10T07:19:00Z
-    webUrl: "https://www.arabianbusiness.com/startup/463238-how-dubai-based-start-up-nybl-has-ripped-up-the-playbook-for-ai"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 17
 
 secured: "/XsP50c68n/KfnLsQztUL/U6CJhwBEcRkjxG2L4j0r0gLkgsZ9PKOKx/0t2axA1prKVgPOmVTHvqJ0lxTAPb5gaFbRzLCWGrAiRzw0K+N+OMki4ZXqQUpxbJ7XzyZQ9eqmFkMZavkBLYXNDqiKPvtGjYStn7zcqLsnNXBB0KAR+tS9p17MXo0BVps9MkaZE0Q9ZTTUnSoMdHM8rajYjEgr+xEkGNs7h1kEO+zCMz10vATPihpdkaPN4WLEYk7TkbTaT9iLS8jLLzq4o21+tIeTlZ/oq3uUCv+iS/kcIQXck2j07KGJaDYoPN9JaYFMkJXFLkDGrbPBFTYDBBv9IxTpg4w782LK6Cz3bW5i//oOvITz/Il1vk3I+cwttkhsr092o8cf7WarduLTqK5Uqu0G7eOL56CilbQ2ojU4Dg3XSTVi7acO49qVvXh1kUET4uMKhcdvU58BlVWvXpUC2x4NsNGSMWUs9A3XImiggc28BVh/7V4bhy8TBs3umnY7MkVgeH0ATpkRySxs6a+GFJYQ==;DZHESUoHH+P2dacB7JiQMg=="
 ---

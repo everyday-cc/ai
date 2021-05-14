@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/05/10/softbank-backe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/05/10/softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "SoftBank Invests in Video AI Startup Jellysmack"
+    excerpt: "Jellysmack, the global creator company, announced that it has raised a Series C investment round from SoftBank Vision Fund 2."
+    publishedDateTime: 2021-05-14T01:04:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/19743-softbank-invests-in-video-ai-startup-jellysmack"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e02e6d829c18a27d0a348f41beb8627b.jpg?t=20210514_010026"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "rNghwKW2sRcL66FECXPk1PMqLQoA3E7AkjRImcJwGxhvWOc3L876mTZONvK2C2XebL48WAv+j9IVxUkE2gPJaUUKxmcVxMZkdyWUGizX4bMZZ88RDAOreUl6pZksnoFEEsvsZWTmqjWsednEBjJna4clErFWiizkmXPSUBcYzLnqKkBsir/ibtUDcZ1PmBVw28O2kzSShezAQlTiye3b5iTTVZErI2+RIGb5+operpqsek+fbgcIyTBSo9fxuWGR3CfhNNGoxQsWlITV578ZkwFjNK8C7HQFEcwKAJUupVH+DZVE4A7KMq5NBfnWyCIpP3hrs+aVHs4tCMhZTV7mNeoASoiDuFD+6+seqYUHHuy8FCTXWs7oXvlineH1qLU/HpkVlKVlItYrH2pYS7YLkB5INCuvES59rJ1OCe0lCvBx9vmWzxs76bq+iljsO92EJ0z+oSXLXtle+TBzcG8aw5N231Z2mfdMfZia97bvLazmbZEn9G11hl+UX9kjVFhKrpJT7NBEceWlhNXqAa1TaQ==;ifAGprH8tsZaqPl/T8vwJg=="
 ---

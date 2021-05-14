@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Mobile Speech Recognition Software Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2026"
+    excerpt: "Global Mobile Speech Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026 identifies the current and future industry trends, enabling the readers to know the products and services so they could drive revenue growth and profitability."
+    publishedDateTime: 2021-05-12T21:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2026-2021-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
     excerpt: "According to the latest report by IMARC Group \"Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", The global computer vision market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-05-11T04:33:00Z

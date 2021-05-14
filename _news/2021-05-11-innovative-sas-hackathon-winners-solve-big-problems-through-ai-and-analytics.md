@@ -101,6 +101,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
+    excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
+    publishedDateTime: 2021-05-14T01:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 31
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-300x230.jpg"
+        width: 300
+        height: 230
+        isCached: true
   - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
     excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"
     publishedDateTime: 2021-05-13T20:13:00Z
@@ -130,6 +146,6 @@ related:
         height: 630
         isCached: true
 
-secured: "C4fgwKLdFhHe1owFygwAnK6pdT6Usv158/HfalfjUXhyYHf9yG//2TIAIn74Oa95uwDyoY3Z4pjFMpSrV7pXI4/he1Wt87OUgJ4tUv6cGWVFwmviOAEE9JpYW2Wkn6+XWm/b3w2W5RLieUMk+/kdvNx7vs/jXZlCGK9Q0KrU73aIEOIxHXpIf47yKofH2uPNsnp8lRAA/+zzAN5MAATIU+leO1y0Un7eijfNRQ6UtKNe6lH8IYvIjByqGdcviHmRfdriTVCiG6BtGmYevz3XEJRTvACLlLHaRR0HvDigFVt9npoLF5+qC5058jUReaE2fyv6NlSkyphfqbsms2bbC/mKSuCW7h5sU7w2JcgYrz8=;esxhKB/bew20C/c2mEHn/w=="
+secured: "yPBupLw/m/Fuognm+OeAjG3/4R8h7APoiaoAydf9WA3qQKSQFMtrONAVrRBgjkK6ee6MsfyNYg+B1nOQUTaMBWpv73SPmC0ZTlwz/eE5Zbh5XOaTbO8rJHl/NSyLath1BUIi3tayMmPkhBSwry+cZJEHJb3oQ+bbiJkpVeHBCIxi8lNct/2gG/xmeoGe2bHYQqPGjPDNvLkbpTKhdjVvLoo6pAIV/XZh8NnoxXSvSlVBAm0eBZ7QRcy/j0rhE1ygm/rS8heGGLL2B95E8wyCEMY0hgAUmiYgP48ztqWiHjGT8r7Fyqxk0TXGOPe6hYEbQxVkcO66xPLGVQw3kO0s25ad64Exc8u2X7eYKdRD1BY3AOkHjZRfX1dLm/Hjwq3FSIGlEpC41UZ84K8RJvleqSFHGFMvZpAUHQIpADfbQIVUnuWRODHDSi8kS/IvXF25VvIcJebajjptPGn4gf4R8Au/+hjGn34VZaQ3Gv2O4cFXJqoUqVQ0xpJA9sP2+Hm8msZgFuViHHqjwG8KNvjwkg==;Kq65XtOfbc/jDMSqxXbtVw=="
 ---
 

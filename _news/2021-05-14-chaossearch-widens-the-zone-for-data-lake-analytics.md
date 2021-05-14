@@ -115,6 +115,22 @@ related:
         width: 2699
         height: 1414
         isCached: true
+  - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
+    excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
+    publishedDateTime: 2021-05-14T01:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 31
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-300x230.jpg"
+        width: 300
+        height: 230
+        isCached: true
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
     publishedDateTime: 2021-05-11T21:41:00Z

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
+    excerpt: "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks."
+    publishedDateTime: 2021-05-12T16:56:00Z
+    webUrl: "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CT1NJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT1NJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 76
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:38:00Z

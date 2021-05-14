@@ -75,6 +75,22 @@ related:
         width: 953
         height: 521
         isCached: true
+  - title: "Intel machine learning makes GTA 5 look even more realistic"
+    excerpt: "GTA 5 is a great-looking game, but Intel's machine learning experiment takes it up a notch. Even if GTA 5 is not that impressive graphically (it is a game from 2013, after all), that doesn't mean the game looks terrible."
+    publishedDateTime: 2021-05-13T23:56:00Z
+    webUrl: "https://www.sportskeeda.com/gta/intel-machine-learning-makes-gta-5-look-even-realistic"
+    ampWebUrl: "https://www.sportskeeda.com/amp/gta/intel-machine-learning-makes-gta-5-look-even-realistic"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/gta/intel-machine-learning-makes-gta-5-look-even-realistic"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 59
+    images:
+      - url: "https://staticg.sportskeeda.com/editor/2021/05/e71ac-16209435501335-800.jpg"
+        width: 800
+        height: 423
+        isCached: true
   - title: "Watch GTA 5 Morph Into A Photorealistic Sim With Machine Learning Trickery From Intel"
     excerpt: "Some people are concerned about games like GTA 5 affecting peoples' behavior in real life, but what if those games actually looked like real life? Researchers at Intel Labs may have figured out how to do just that using machine learning to make rendered footage look photorealistic."
     publishedDateTime: 2021-05-13T15:03:00Z
@@ -131,6 +147,6 @@ related:
       domain: ubergizmo.com
     quality: 35
 
-secured: "RkxqijAlGPDCz3aK2gbZu5nW41MU++UJ2u411lHkxGLs07TymZkPBUCKRYPt42bvWmGMGAGWJXa8XHyUfqmjWn0RsGiEUDEav0J75uMfNDcw8JDgknT8KGw9lH2T2SzI2axahPQMueMykldMCyci+PA328uSubh82Xv0OjU9BPzMKzHVe3PCWt+bg7DMsMbp8OKxAcNnTZDk0QJaTz6vbfp2zn4QwCGCYrw2CUEXAidLkwiByjT60+l07Uccz/scod9Ufi2TLxu5ifs5MBTTk7U8vs0aVQ7XTmt1j7m8Z7SumJYcTIYfkjZ88tzbA+/127CO150/siXHdpAbMAe3+DzeHKrQl4dEM1JvxbRE1MA=;Zps74pQAgT0lSTsL/EsDCw=="
+secured: "AWEz3H+w6NPCqTCPs9hgqKVvigfKUXj+s0RewPb5lPmGz2rgPSIgkGV/r92FIuXQl0MgeeVVp+goBy6INsqVSUxghVcnhzyBu8XSPitXjydJaxcX2FcSNQXOkeMFyI7U3zboAtgRSf9IEsYh5A45s95DyFAZPu9aze+ksIxr8IzFlA6t3z5NfiwwrcSeYogj5uH6JLjcSd3T1bFWjOSV53oTZPDBfdOboG0X8AsuZvJcIyezKWrxhZ47MNvC0ZDdwTURjHvwxpl5HpyZlTTZltVZxFkQGm9enJschhrviwKzwyWqffDkHky5OOFCJlLwwWfInwPEhxmo5Sht993H7PMo5tvvELARN1jdlArL7oqB3VReuKQfm6pcmSrmirFlSVHEgFNSLZ77ZWHPtc4BjG5EDt19r6zpAKpYNLZejshm9Ib1TpVPRnAMYzFqcQa9QTAdKn3n5pChPicSSVIZLpup5/Q7LjAszvoV+fWjCXxhM7IQ6Rk8tGM1bj9jgN+yQZE6Ut8Dd9YoU7B4HiSyrQ==;e2L5M9+h4OJrck/oGiYdDw=="
 ---
 
