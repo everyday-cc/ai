@@ -47,7 +47,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 265,
+          "heat": 257,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
@@ -92,7 +92,7 @@
             "Machine Learning",
             "AI in Autos"
           ],
-          "heat": 432,
+          "heat": 466,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -105,7 +105,7 @@
         }
       ],
       "size": 6,
-      "heat": 318,
+      "heat": 308,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
@@ -141,7 +141,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 351,
+          "heat": 343,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -165,7 +165,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 155,
+          "heat": 0,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -210,7 +210,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 248,
+          "heat": 236,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -223,7 +223,7 @@
         }
       ],
       "size": 23,
-      "heat": 297,
+      "heat": 283,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -283,7 +283,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 248,
+          "heat": 236,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -307,7 +307,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 306,
+          "heat": 274,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -320,7 +320,7 @@
         }
       ],
       "size": 3,
-      "heat": 248,
+      "heat": 236,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -356,7 +356,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 351,
+          "heat": 343,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -379,7 +379,7 @@
             "Natural Language Processing",
             "Machine Learning"
           ],
-          "heat": 176,
+          "heat": 138,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -403,7 +403,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 155,
+          "heat": 0,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -438,128 +438,13 @@
         }
       ],
       "size": 5,
-      "heat": 211,
+      "heat": 165,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrew Ng",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/collections/female-pioneers-in-robotics-2020.md",
-      "title": "Female Pioneers in Robotics – 2020",
-      "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/female-pioneers-in-robotics-2020/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/female-pioneers-in-robotics-2020/",
-      "type": "collection",
-      "name": "Female Pioneers in Robotics – 2020",
-      "bio": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Jean Liu",
-          "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "type": "profile",
-          "name": "Jean Liu",
-          "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 77,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Jean Liu",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Alice M. Agogino",
-          "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "type": "profile",
-          "name": "Alice M. Agogino",
-          "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 32,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-              "width": 400,
-              "height": 400,
-              "title": "Alice M. Agogino",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Noramay Cadena",
-          "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "type": "profile",
-          "name": "Noramay Cadena",
-          "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "topics": [
-            "AI"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Noramay Cadena",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Madeline Gannon",
-          "excerpt": "Inventing better ways to communicate with machines.",
-          "type": "profile",
-          "name": "Madeline Gannon",
-          "bio": "Inventing better ways to communicate with machines.",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Madeline Gannon",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
           "isCached": true
         }
       ],
@@ -588,7 +473,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 265,
+          "heat": 257,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
@@ -610,7 +495,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 0,
+          "heat": 102,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
@@ -644,13 +529,128 @@
         }
       ],
       "size": 3,
-      "heat": 0,
+      "heat": 102,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Joy Buolamwini",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/female-pioneers-in-robotics-2020.md",
+      "title": "Female Pioneers in Robotics – 2020",
+      "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/female-pioneers-in-robotics-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/female-pioneers-in-robotics-2020/",
+      "type": "collection",
+      "name": "Female Pioneers in Robotics – 2020",
+      "bio": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Jean Liu",
+          "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+          "type": "profile",
+          "name": "Jean Liu",
+          "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+          "topics": [
+            "AI",
+            "AI in Autos"
+          ],
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Jean Liu",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Alice M. Agogino",
+          "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+          "type": "profile",
+          "name": "Alice M. Agogino",
+          "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
+              "width": 400,
+              "height": 400,
+              "title": "Alice M. Agogino",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Noramay Cadena",
+          "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+          "type": "profile",
+          "name": "Noramay Cadena",
+          "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+          "topics": [
+            "AI"
+          ],
+          "heat": 18,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Noramay Cadena",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Madeline Gannon",
+          "excerpt": "Inventing better ways to communicate with machines.",
+          "type": "profile",
+          "name": "Madeline Gannon",
+          "bio": "Inventing better ways to communicate with machines.",
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Madeline Gannon",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 49,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
           "isCached": true
         }
       ],
