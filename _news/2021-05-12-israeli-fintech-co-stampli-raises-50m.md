@@ -7,7 +7,7 @@ originalUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-stampli-rais
 webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-stampli-raises-50m-1001370890"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Fintech Stampli Secures $50 Million Through Series C Investment Round Led By Insight Partners"
-    excerpt: "Stampli, an U.S.-based fintech that is focused on AI-driven AP automation, announced on Wednesday it raised $50 million through its Series C funding round, which was led by Insight Partners with participation from SignalFire and Nextworld Capital."
-    publishedDateTime: 2021-05-12T16:57:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
+  - title: "Israeli Startup Nimble Raises $10M For Autonomous Manicure Robot"
+    excerpt: "Nimble is said to be the world's first device that uses artificial intelligence to paint and dry nails in 10 minutes per hand."
+    publishedDateTime: 2021-05-12T14:54:00Z
+    webUrl: "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Stampli_co-Founders_Ofer_Feldman_L_and_Eyal_FeldmanR.jpg"
-        width: 480
-        height: 320
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg"
+        width: 1024
+        height: 684
         isCached: true
-  - title: "Fintech Stampli Raises $50 Million To Put Controllers Back in Control of Payables"
-    excerpt: "AI-driven AP Automation innovator Stampli today announced $50 million in Series C funding for their platform, which helps CFOs and controllers close the disconnect between accounts payables and the broader organization."
+  - title: "Israeli AI-based insurance co Planck raises $20m"
+    excerpt: "Planck provides insurance-related data insights and analytics for more than 50 major business segments. Israeli AI-based data platform for commercial insurance developer Planck has raised $20 million from new investors 3L Capital and Greenfield Partners and existing investors which include Team8,"
     publishedDateTime: 2021-05-12T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210512005048/en/Fintech-Stampli-Raises-50-Million-To-Put-Controllers-Back-in-Control-of-Payables/"
+    webUrl: "https://en.globes.co.il/en/article-israeli-ai-based-insurance-co-planck-raises-20m-1001370898"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Capture800x392.2018703T143653.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "emmGqJqr1540M/QUMljiLIfVRAIt9VPwLdDkIJzHYHnIlX6QxMGX5Zxad5iqOSfAJ6RBSwNo1dTkAsCeE1wPBZcsn8zzNjRr3NWnzL3VCMdZInGQFabM/u1tP8YKRHgicPhlaUzYT4vCFEkLVMzQNjzpoL+XXvmbE/pJhdfhCu6bU7UHJcmlE4sGSNNLKhQSMT742SFugc55I0xHTRYKOAdFRojh2T7Jk85E1GKMYsI53Bb+IewASNDqlne1Vbs7qqaeyNlD+1M0xGbK17SmBB5oMMSk7GiREY0eyyd/jqAdQJ14zl5+y36auffIjVIKsBqqhGa4X8qa9syIV7QVR2u6tIa7/AuUMhUs5eJ5M7U=;bOh1tIOQubJTCMvKE8DH8A=="
 ---

@@ -40,7 +40,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 91
+    quality: 87
     images:
       - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
         width: 600
@@ -77,6 +77,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RzDaBxzBXSGuORE7Nn4Aob/dtI9k/K3akRIaIslIvscth6lc/0aCgVML4xlrOD2E0i0/VTLEVdo7zi7wqeXJ88DSN8ffl1GzIVF5o7fySbVsAaiqyzVYrQQtusKqqGisRiwnivsj7NuoOzAiZTliV7nL4KYysxr27nd56oZ2Aa42htWgLRq9eUtYBDjnXlLbzmjnxlXucUI71ZHc+FCDu6Rg+eMpsHamPPqFwkJxkBHQH+QgWWf4kikrrj2Cx6/9F8eNATOkqbbLLoMsHvcCtT8pZlRfrjv4ojwAaRjex9/p/GwM9B1JKsAqxHhi+yb9dRSu3apU3eDOk6f6YoinnBoPGUZxwlnGZzJ8tpdO7LE=;/7uQ3pS4rvFOhPEwhoEGTQ=="
+secured: "AZu5yAnTE9OqCqZLFhUJKOqm7Gxaffca4MkjwR+TuYjmNmc6wbl74cfyhgkqEx+Qn6yScVEyZpH4JV0txn4r9lIESwEUgBGxCPVhb6IxGn0Jo33WXmdIREr6zx7X0jkpPGrs1vf7FWkfpqwc6chAFw93bXoOMvIbte3ubgl88MMPvS5u3BENiZBNDdy9UfFYjOoe6FmyLcrb8sdLnX4J2vbybb0QqhQZjjlegICUH+Lpp2e/R+pqP3gWYAi/TqGqTehg4CJI4zSvs2plvCCrF1gFGEgD6wWwFtT4ZQmy7jmcZzOdvSjK/CDBdUyXdy4sMBApcgBUa6r01r+o+ANKpby90kEuy1Y7u9Xg+R0uUrY1n/7pN3a5X0zGVur/QZ47yaM1noBnavvv6FdShkRPynrCSd4haL/+9TK4wZGMzBfzVvVQ1973a+worCVqVSGV/FNjNrp0jy3pjpoOf9d5ZHAVGg/HOjL3oBm3iX9Zu21z9K+CF3G9blxoOXF3jzSHnAu0AoBhOSxMKCYQ+M22rw==;ay6P3e18/4EvwbbI2BlrpQ=="
 ---
 

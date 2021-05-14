@@ -1154,6 +1154,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-01-china-makes-worlds-largest-satellite-image-database-to-train-ai-better.md",
+      "title": "China makes ‘world’s largest satellite image database’ to train AI better",
+      "excerpt": "The fine-grained object recognition in the high-resolution remote sensing imagery (FAIR1M) database is tens or even hundreds of times larger than similar data sets used in other countries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3131819/china-makes-worlds-largest-satellite-image-database-train-ai",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3131819/china-makes-worlds-largest-satellite-image-database-train-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/30/8e292260-08f3-434f-aafd-78801004936c_0f90dd96.jpg?itok=eRJsmS98&v=1619782917",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3131819/china-makes-worlds-largest-satellite-image-database-train-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3131819/china-makes-worlds-largest-satellite-image-database-train-ai",
+      "publishedDateTime": "2021-04-30T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
       "title": "A scientist created emotion recognition AI for animals",
       "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
@@ -1393,59 +1445,6 @@
         "name": "ProPakistani",
         "domain": "propakistani.pk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-in-korea.md",
-      "title": "Samsung Bespoke Jet Bot AI Robot Vacuum Cleaner launched in Korea",
-      "excerpt": "Samsung has unveiled the Bespoke Jet Bot AI Robot Vacuum Cleaner designed to significantly improve home cleaning duties. The robot vacuum cleaner features enhanced capabilities for object recognition and adopts artificial intelligence (AI) technology which significantly improves the performance as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
-      "originalUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/Samsung-Bespoke-Jet-Bot-AI.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

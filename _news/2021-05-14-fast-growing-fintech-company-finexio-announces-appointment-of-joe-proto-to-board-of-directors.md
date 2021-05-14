@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Ping An Completes $200 Million First Close of Voyager Partners Fintech and Digital Health Fund"
-    excerpt: "Company Limited (\"Global Voyager\"), a wholly-owned subsidiary of Ping An with a significant track record in venture investing in fintech and digital health. In 2017, Ping An committed US$1 billion to support Global Voyager's investment strategy."
-    publishedDateTime: 2021-05-12T10:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419598"
+  - title: "NXCR Appoints FinTech and Mobility Executive Martin Prescher as Chief Technology Officer"
+    excerpt: "NXCR, the fintech and insurtech vehicle subscription platform, announced that consumer finance technology and mobility executive, Martin Prescher, has joined the company as Chief Technology Officer."
+    publishedDateTime: 2021-05-11T13:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19798312.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/1507333/Martin_Prescher_Chief_Technology_Officer_NXCR.jpg"
+        width: 267
+        height: 400
+        isCached: true
 
 secured: "Lcoad339aqfrwBfwJIZNhPU7eBTjUGXbGS+GL535T6aqI+BXZVNmprbaPUF0DNW3Jlwn4YH+e/auGML0uic071S0rfTVSe/AL1I717V8hh/ul8BXhPlkWbWLRwJjjAFjlzKistveHJDN5Bs0QL4e2gxUc5TINhIJ/a2aJHJamXxRTmnt2LsSLyvv02/3GAfHR9bHtqp8htyZD+CS3RW3djm0cCmpZqSZFxCIrmuXsDeAIfS1LNG8oEv+taG57o0EXc5x8wh9UK5WGt69WBa2ODW07BPsKpGZ1GnGUFykRGmzGY7WUfA2Qi68TIWyQTDSBodwO1nt3n0y2t8WO3tLj2wW+dPD+lIOup5JMUZWBBo=;k5WBqkB8uI7047JxN0nFCg=="
 ---

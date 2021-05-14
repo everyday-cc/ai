@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-15-new-deep-learning-model-brings-image-segmentation-to-edge-devices.md",
+      "title": "New deep learning model brings image segmentation to edge devices",
+      "excerpt": "AttendSeg is a new neural network architecture from DarwinAI designed to perform image segmentation on low-power/capacity computing devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/",
+      "originalUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
+      "publishedDateTime": "2021-05-14T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-ai-weekly-how-to-implement-ai-responsibly.md",
+      "title": "AI Weekly: How to implement AI responsibly",
+      "excerpt": "Implementing AI responsibly requires involving all stakeholders in the development, design, deployment, and maintenance phases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/",
+      "originalUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/amp/",
+      "publishedDateTime": "2021-05-14T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace.md",
       "title": "As M&A accelerates, deal-makers are leveraging AI and ML to keep pace",
       "excerpt": "Using AI and ML to cut out the labor-intensive parts of M&A both speeds the process and reduces the time-consuming tasks that lead to burnout in the industry.",
@@ -149,7 +252,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/371987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -188,9 +291,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "IBM AI"
+        "AI"
       ]
     },
     {
@@ -202,7 +303,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -643,7 +744,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1135,101 +1236,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how.md",
-      "title": "Experimental AI Tool Makes GTA 5 Look Stunningly Photorealistic - Here's How",
-      "excerpt": "An AI research group has released a new video showcasing a new photorealism enhancement tool being applied to GTA 5 – and the results are stunning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
-      "originalUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2021/05/12/untitled-1-1620842797696.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
-      "title": "Soniox taps unsupervised learning to build speech recognition systems",
-      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
-      "publishedDateTime": "2021-05-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

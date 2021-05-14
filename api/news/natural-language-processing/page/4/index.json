@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-06-natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact.md",
+      "title": "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact",
+      "excerpt": "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/",
+      "originalUrl": "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indus Tribune",
+        "domain": "industribune.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-google-translate-is-sexist-what-it-needs-is-a-little-gender-sensitivity-training.md",
       "title": "Google Translate is sexist. What it needs is a little gender-sensitivity training",
       "excerpt": "Adjusting the gender in languages like German is especially ... instead of millions – to adjust the behaviour of translation AI in targeted ways. When testing gendered professions in translation ...",
@@ -1206,40 +1240,6 @@
       "provider": {
         "name": "Jewish Journal",
         "domain": "jewishjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
-      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
-      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "originalUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
         "images": null,
         "publishers": null,
         "authors": null

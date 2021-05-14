@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
-publishedDateTime: 2021-05-06T07:08:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
+excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-05-06T12:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "cw9pCXa1lRgthUY938nERLT4FgNCnzS/HAOnCc9eG3k0UUDsCcixsRRjpJab2H00pg3y9allO4G7TgsMd55sHi0Qv+7Mj4jL+7mbc+mq0W1Dp3UJ/ze95aG4sGJdqJhJVMZkphUFl5yhsuxz9yRo3h2r9tpgdX1j8mtDwWTksIxHbKLIbR+fhbPPejidkJ4vlok/YU2ffMEPerODUkzTGmW8jI6P3xyJpFA6Z76q4EaDLNK7cBrOStYrHSMDNg5OFlugl1RpeeXQRBBYmB4YzzxoPlpRkFtSMth28Ag31ZyMgV281Z/94lsVdzLCBHTnxv8heAnLiP5yHTI6JZxS1VxNfqdp32EioCblm61sD3E=;C8wQf8xVuIp5RZWY2ZPVGA=="
+secured: "btw7ocvYt+mz8PrS4WJ2S/wlY7RW2klGy0Bb6RpanrIeOeltIGhJpjbP7w6AVVzSx+dkZd0iS1+TsVG+wMFA84CQBvtqjLxhh4bqSRns//jHWgNcnjyTW/yiWLPZtitly0pORLN98twA0XzIW1+UkeJImuEtMfhvdhK9K9NAN/zgN15s/aDiSS7Dk0NvFUTt+284xr04JNP3HdWGuJS5aVbk49N5KPOCcbwWjecVfq4TV+GAPiJgNH6s17Qc4PhIgTOB4VpD+ad/R6CLEg0zUdI2jLGxD81iH/yFqLpHVMYfal+MXlE2KzdSPM9PVWVbeDyLucclmIJNZnK75ivMDkmdcMW+p9EKinO8MN8aZKo=;h0Oc/4IpgWVmMbmJoAO03Q=="
 ---
 

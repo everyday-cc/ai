@@ -43,6 +43,20 @@ related:
         width: 800
         height: 411
         isCached: true
+  - title: "Prepare data for predicting credit risk using Amazon SageMaker Data Wrangler and Amazon SageMaker Clarify"
+    excerpt: "For data scientists and machine learning (ML) developers, data preparation is one of the most challenging and time-consuming tasks of building ML solutions. In an often iterative and highly manual process, data must be sourced, analyzed, cleaned, and enriched before it can be used to train an ML model."
+    publishedDateTime: 2021-05-14T20:30:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-for-predicting-credit-risk-using-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-clarify/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/8-2609-high-risk.jpg"
+        width: 800
+        height: 393
+        isCached: true
 
 secured: "QYckSKtIlxgW275YPou1MTgSzl4UFK7RZAkiCtAgO0I/1Vr6JA0I2TCkTlxfcNqvJC3vUJR3c4kcP32LJaw6kBOEupJe8FCUi23zE0q3yZXZdoPArZU9cXhO8NmhUVkRtFw0/mybh488Rjs5o4xKQQQ/0W1YHavD2FjjkbLCFjWnVdKwt43+afDRDI1KGUPik8gDXT9gOrP1+f4WbB2jeKO9lHvY3YekpI0a/1y35DX1sPdJcbPmqTCaLW1FnHl+CGiG9gbYtd9ejKRobNwvh3HjRk+Z0h5iTmSWaAKXS0Pk6MDIQG+HnqOeH0lIhW+dgNVxdf5N3XLtn4ELkDyPMjrD1A3cPUeaNtw7+yjf5SA=;eW4qIf9H5NXhlBlxQ8PHGA=="
 ---

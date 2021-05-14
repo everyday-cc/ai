@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "Kiromic BioPharma Reports First Quarter 2021 Financial Results and Continued Corporate Progress"
+    excerpt: "Kiromic BioPharma achieved important scientific and operational milestones during the year that we believe have us well positioned for preparing our staff and our facilities for the first in-human dosing in Q3 2021,"
+    publishedDateTime: 2021-05-14T20:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210514005463/en/Kiromic-BioPharma-Reports-First-Quarter-2021-Financial-Results-and-Continued-Corporate-Progress"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Kd/5l2UcKyLHKjTO7FGYicqgQdFCMax5y79hwZBYbCe7nDsEz0WuIDrdKzYE6Xy5App6/S4WPanO093Kcfm/3zX/V4HVs571Be3JDMoXX74rm5OnmdHypikRzklLTIwwYlTMRicQDlQTjm7QhJvvU9Tz2UIhYBuC9Om4O+yTvikWuzv3amonfyYJZpWtpLyNWCcQq+kloyZ47IrXNJqp4sByyMvugdzEE1MlzL9hOPvhQ6haVbJIxiX0wuDBGSNejy5g37Rk1FBu/YDLn8kMiLOCm8ldLoOS3DzZej3aMWHD4W/TdCSQdycCusV4+xTkGSdMDSK/ra/10wrglPZVB7A751PE8flDLBBhc0Wg+sA=;ZbrFzzDxqsy/agQOgQ3UNg=="
 ---

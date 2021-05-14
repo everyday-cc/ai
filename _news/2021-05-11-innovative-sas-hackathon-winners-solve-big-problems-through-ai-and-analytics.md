@@ -2,21 +2,17 @@
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
 excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-publishedDateTime: 2021-05-11T16:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
-webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+publishedDateTime: 2021-05-11T15:01:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-innovative-sas-hackathon-winners-solve-big-problems-through-/2021/05/11/9366663.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-innovative-sas-hackathon-winners-solve-big-problems-through-/2021/05/11/9366663.htm"
 type: article
-quality: 66
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -235,6 +231,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cJ5lpHQnQX387NZ7s88dp95X41TSQ5PG4KSZLL36YvN5MRhMRWqjQkviXX02PAj2HAuC6tmEEqSJT5g+VHyVdxJtgusqw3Gq/9HIXNjo94lgXmyPjCYuLMN8X3Kz6K1E1uwGVb6wagZT44++npcorDnJ4TM1pxCSP1ylGkKqVfaD0u7DwrYvZd+kqvoixpuA6ltfDwZ+PvvBuGgbvwWX290X5/hC6pTIZZ1oagcv8jZf7eubchUSk0daPQ826OzVLb/BR51Kfvlk6Ord10fIThMIQkAuEqJHY75yi+pQZI9VruZtFpP/KYVAQwC5fXB8o+eS7QUqOZQUj4iADyvsRwAyTbNFTQPxDgQ/WKxWBHu/5UrGud+KWDdoVvwUBKvBHVIa5lDBhmT1vTl/Tv+CHYqkFd8YZu1Mbwvc3Bxbd25gnw8e959JpOvl+tAQLE7c9wvMEqXRapvXPL2ISK3RVbjyVD4LGEeBfrU0IjjxxC8qX6AHgUyXyWyZRArCVjEqvDP0gSBCEmgPQQ8qpFjjmw==;cjyIVIhFgl3mkZfufEd/dg=="
+secured: "vV1Qg763z+76cxIT8nS08hq1a3gFelTk8FbfFufbwvr8ltKC+dV3C0kPvXqWzQ88jCt44PMvksn09SycPKcteYQeVe3FTiQOgQc1vfuKv4O14yEJhkAagTiLDs5tGbO6PLB/eQZCJx7seFLNDGZaWqE+JZioKjiQ5FCtQOd2TqMEQvGD3ahl0F37mX8N3BaBMd645GlfNzhMMGpPopBvZluvibaXMBOjiPnC1+sao6UKn8j4sjq6ZZBWLNn1FD66D0TTdpvZLU0zBumwF6LqGNOXa0P0vUcyuekscU13/rYACCdh3BRNlLvGCGIcfVeIezuI9SDT+18cmxYNukENkwoCNxJRHNQrhfEUC4sTKsc=;o7Yujy+rqghqpoz2SbXKMQ=="
 ---
 

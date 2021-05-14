@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-30-ic-and-software-solutions-enable-machine-learning.md",
+      "title": "IC and Software Solutions Enable Machine Learning",
+      "excerpt": "Machine learning has a narrower definition than AI. While there are many definitions of AI, the fundamental idea is about enabling a computing system to think, to make decisions equally as well or better than a human can.",
+      "sourceUrl": null,
+      "webUrl": "https://circuitcellar.com/cc-blog/ic-and-software-solutions-enable-machine-learning/",
+      "originalUrl": "https://circuitcellar.com/cc-blog/ic-and-software-solutions-enable-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://circuitcellar.com/wp-content/uploads/2021/01/365_Jeff_SF_Lead.jpg",
+          "width": 800,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Circuit Cellar",
+        "domain": "circuitcellar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio.md",
       "title": "Speech Recognition Market including top key players Nuance, Microsoft, Agnitio",
       "excerpt": "The study provides company profiling, product picture and specifications, sales, market share and contact information of key manufacturers of Speech Recognition Market, some of them listed here are Nuance,",
@@ -1332,49 +1377,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026.md",
-      "title": "Global Cognitive Computing Market 2020 COVID-19 Impact Analysis, Size, Share, Growth, Trends And Forecast Opportunities To 2026",
-      "excerpt": "Understand the influence of COVID-19 on the Cognitive Computing Market with our analysts monitoring the situation across the globe. Cognitive Computing Market analysis covering the period 2021 to 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccourier.com/wp-content/uploads/2021/03/Market-Trends.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli fintech co Stampli raises $50m"
-    excerpt: "Israeli fintech company Stampli today announced the completion of a $50 million Series C financing round led by Insight Partners, with participation from SignalFire, Nextworld Capital, UpWest, Hillsven,"
-    publishedDateTime: 2021-05-12T14:00:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-stampli-raises-50m-1001370890"
+  - title: "Ping An Completes $200 Million First Close of Voyager Partners Fintech and Digital Health Fund"
+    excerpt: "Company Limited (\"Global Voyager\"), a wholly-owned subsidiary of Ping An with a significant track record in venture investing in fintech and digital health. In 2017, Ping An committed US$1 billion to support Global Voyager's investment strategy."
+    publishedDateTime: 2021-05-12T10:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419598"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1620827127/direct/%D7%90%D7%99%D7%9C_%D7%9E%D7%99%D7%9E%D7%99%D7%9F_%D7%A2%D7%95%D7%A4%D7%A8_%D7%9E%D7%A9%D7%9E%D7%90%D7%9C_-_%D7%94%D7%90%D7%97%D7%99%D7%9D_%D7%A4%D7%9C%D7%93%D7%9E%D7%9F_zmi4lj.jpg"
-        width: 800
-        height: 392
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Fintech Stampli Raises $50 Million To Put Controllers Back in Control of Payables"
     excerpt: "AI-driven AP Automation innovator Stampli today announced $50 million in Series C funding for their platform, which helps CFOs and controllers close the disconnect between accounts payables and the broader organization."
     publishedDateTime: 2021-05-12T14:15:00Z
