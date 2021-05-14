@@ -2,6 +2,92 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-04-23-machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel.md",
+      "title": "Machine Learning Chips Market Size and Latest Trends & Advancement From 2021-2027 | Wave Computing, Graphcore, Google, Intel",
+      "excerpt": "Machine Learning Chips Market report provides results and potential opportunities and challenges to future industry growth. Market Report acts as a valued source of information with which businesses can achieve a telescopic view of the current market trends,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
+      "originalUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breakout.live/wp-content/uploads/2021/03/report-1.gif",
+          "width": 540,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies.md",
+      "title": "Exclusive: Legion Capital CTO J. Bradley Hilton On AI, GoLegion, Cryptocurrencies",
+      "excerpt": "leading the company's continued innovations in FinTech powered specialized business lending and direct investing platforms,” according to a company press release. Legion Capital wants to use AI to help find qualified customers that might otherwise be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
+      "originalUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/screenshot_2021-04-23_8.25.20_am.png",
+          "width": 569,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20624407",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20624407",
+      "publishedDateTime": "2021-04-23T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-video-see-how-a-self-driving-car-perceives-the-world.md",
       "title": "Video: See how a self-driving car perceives the world",
       "excerpt": "Motional has partnered with Derq to test how driverless technology reacts to a broader view of the world from a bird’s eye view. Derq, an artificial intelligence and vehicle-to-everything (V2X) vendor,",
@@ -1032,113 +1118,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-is-poor-data-quality-undermining-your-marketing-ai.md",
-      "title": "Is poor data quality undermining your marketing AI?",
-      "excerpt": "Inconsistent data quality and lack of data governance leave marketing teams struggling with data accuracy, consistency, and validity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "publishedDateTime": "2021-04-22T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
-      "title": "Microsoft details the latest developments in machine learning at GTC 21",
-      "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
-      "publishedDateTime": "2021-04-22T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "AI in Finance"
       ]
     }
   ],

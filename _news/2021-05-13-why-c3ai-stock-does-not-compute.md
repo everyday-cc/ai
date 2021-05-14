@@ -45,6 +45,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "When AI meets BI: 5 red flags to watch for"
+    excerpt: "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult."
+    publishedDateTime: 2021-05-14T18:42:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Research harnesses AI to fight breast cancer"
     excerpt: "Breast cancer has recently overtaken lung cancer to become the most common cancer globally, according to the World Health Organization. Advancing the fight against breast cancer, the BreastPathQ Challenge was launched at SPIE Medical Imaging 2019 to support the development of computer-aided diagnosis for assessing breast cancer pathology."
     publishedDateTime: 2021-05-10T21:01:00Z

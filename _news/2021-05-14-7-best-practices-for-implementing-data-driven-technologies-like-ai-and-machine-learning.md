@@ -2,33 +2,21 @@
 category: news
 title: "7 best practices for implementing data-driven technologies, like AI and machine learning"
 excerpt: "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively."
-publishedDateTime: 2021-05-14T14:38:00Z
-originalUrl: "https://www.techrepublic.com/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
-webUrl: "https://www.techrepublic.com/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
+publishedDateTime: 2021-05-14T14:38:13Z
+originalUrl: "https://www.msn.com/en-us/news/technology/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/ar-BB1gJRb3"
+webUrl: "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115"
 type: article
-quality: 95
-heat: 115
+quality: 125
+heat: 145
 published: true
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115
+  domain: forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115
 
 topics:
-  - Machine Learning
   - AI
-
-images:
-  - url: "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"
-    width: 1200
-    height: 900
-    isCached: true
+  - Machine Learning
 
 related:
   - title: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology"
@@ -55,6 +43,6 @@ related:
       domain: wfmz.com
     quality: 8
 
-secured: "hQiTucz3OcI1emCGpRRR+iLNN1RZ2YHmCcQn2IU6fS9vjutJ4oRCGRHqoWhr2VA5jA49PluIJLqP5haOOenbMhzmKDSYjHnOur+JucWa59xQiFVx/QJK8/vRdDute01U5tLTKYXtaAhzCPTwXPtCZ0R8WmKgfnRm95eA6nNC1Z6to/BGNwTwMED+C1c2kZVQiC1ZAatYFm5lk9cw9jYjRnxYUCAQlWjvdJqgBPsC4aFOkPr+Ezs8J9qGL3C470aldPvPUJKaJ3FpZ7ONGBzycBW6cX08cR8ltpvAuqN3Qj0RxKwxCSZX7SKa36Hpz+ZflzfYvdtA3+x4I66U2lk6JzRsUpZm4ZQ50Qnd5L/cWvg=;q3JM63nJteMW0v4ZarwF6A=="
+secured: "s9kqfaRMDydMcWQ/7D8DGXHxwGZ8KP6yqm6O35uP1Ez6Yx+3BS6+3iDqmfsOEtvC8W9WE43DKN2bCtI2KmKKB+O81Y3F5qU41OrxkKws5lq1lMPiP9shOrsGKPQpKpFEleDUbHvxDbaeKK/O5jJOdMDL8eljSc2EepweP9ZTbxeWQvMf31rdxkzHFjgSvaMMX3D1MbAqAheHdfIt54EO12RMxXnbcALYXjy03lQjTw1ZDsW1wWo2/1xBHvNk90eZ92u2Xf4x3NyRPGGk6YHiJDux4WP+gC3B3hXHgmOqpum5A/0L3HOGaI2iMvDlT/qjeVOYDzmbJgjjjOcBEJMSSLSiieGOoFSmoedJQmanZYVx281v462GYrkdEu/JQiGkCXs6xTAXCG1FWIKUX+puLw6GGEKGvq/J2mdKS+Rc2Sav7MTYBgMUYvhd5dOsifFyV3w3U3KV/f2PI1m0lEk10Xb+9yAl5FLHGfrWH+oJY4RGFKI28fsLsihHM95sVuV4MtZczIV6apxZH1b5JUyeYuRQe5OXUUR0yfdVLk1h+/g=;okEpkFTF6n40U5hgVU2d5A=="
 ---
 

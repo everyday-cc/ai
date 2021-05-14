@@ -27,20 +27,13 @@ images:
 related:
   - title: "7 best practices for implementing data-driven technologies, like AI and machine learning"
     excerpt: "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively."
-    publishedDateTime: 2021-05-14T14:38:00Z
-    webUrl: "https://www.techrepublic.com/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/"
+    publishedDateTime: 2021-05-14T14:38:13Z
+    webUrl: "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 95
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115
+      domain: forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115
+    quality: 125
   - title: "Venzee Technologies Advances Syndication Self-Service Leveraging Artificial Intelligence"
     excerpt: "PRNewswire/ - (TSXV: VENZ) (\"Venzee\" or the \"Company\") announces today continued application, development and use of artificial and augmented intelligence technology now deployed"
     publishedDateTime: 2021-05-13T13:00:00Z

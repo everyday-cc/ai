@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-13-chinese-company-starts-driverless-taxi-services.md",
-      "title": "Chinese company starts driverless taxi services",
-      "excerpt": "A Chinese search engine giant, Baidu, has started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public for free on a trial basis since last October but now riders will have to pay for the service,",
+      "path": "_news/2021-05-14-cruise-expects-gm-to-begin-production-of-new-driverless-vehicle-in-early-2023.md",
+      "title": "Cruise expects GM to begin production of new driverless vehicle in early 2023",
+      "excerpt": "Cruise's CEO disclosed the timing Thursday, giving the most specific time frame yet for the vehicle and commercialization of its autonomous vehicle business.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "originalUrl": "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
+      "webUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 206,
       "tags": null,
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/DBzyPTNJa3IsYDR5hcE-VQshsU6JI_o9AYpq--42JmYXkzQ-BemUDrcEvXdVAeWNW_qI8fLp6bwW0Trjuk-9SMEa17tOmCzv33ZHD6gHTvyeWg=s1000",
-          "width": 1000,
-          "height": 589,
+          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
+          "width": 810,
+          "height": 421,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "publishedDateTime": "2021-05-12T20:04:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "publishedDateTime": "2021-05-13T13:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

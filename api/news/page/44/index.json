@@ -2,6 +2,93 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-04-03-ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle.md",
+      "title": "AI Infrastructure Market to Witness Astonishing Growth With Vital Key Players | Intel Corporation, CISCO, Amazon Web Services, Facebook, Oracle",
+      "excerpt": "The Global Report on AI Infrastructure Market Size, Status, Growth and Forecast 2021-2027. The report provides a unique tool for evaluating the AI Infrastructure Market highlighting opportunities, and supporting strategic and tactical decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/03/ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle/",
+      "originalUrl": "https://ksusentinel.com/2021/04/03/ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techgenyz.com/wp-content/uploads/2018/08/ai-in-business.jpg",
+          "width": 780,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-03T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-chinese-computer-vision-startup-raises-31m-for-rd.md",
+      "title": "Chinese computer-vision startup raises $31m for R&D",
+      "excerpt": "Clobotics, a startup that provides computer vision technology and services, has raised 200 million yuan ($31 million) in a preseries B-4 funding round. GP Capital and Xiaomiao Longcheng, as well as existing shareholders CDIB Capita and CDIB Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F8%252F5%252F33105818-3-eng-GB%252FCropped-161612795420210319%252036Kr.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure.md",
       "title": "How NVIDIA Is Embracing Cloud Native To Scale GPU Infrastructure",
       "excerpt": "NGC - The Hub for Cloud Native, GPU-Optimized AI Resources The NVIDIA GPU Cloud (NGC) is a one-stop-shop for accessing GPU-optimized containerized software. One of the key elements of NGC is the NVIDIA Container Registry (NVCR), an image registry with a ...",
@@ -1046,102 +1133,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
-      "title": "Study finds that even the best speech recognition systems exhibit bias",
-      "excerpt": "Register for free or grab a discounted VIP pass today. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/shutterstock_135445031-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
-      "publishedDateTime": "2021-04-01T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
-          "width": 600,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2021-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

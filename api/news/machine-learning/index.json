@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-14-7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning.md",
-      "title": "7 best practices for implementing data-driven technologies, like AI and machine learning",
-      "excerpt": "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively.",
+      "path": "_news/2021-05-15-as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace.md",
+      "title": "As M&A accelerates, deal-makers are leveraging AI and ML to keep pace",
+      "excerpt": "Using AI and ML to cut out the labor-intensive parts of M&A both speeds the process and reduces the time-consuming tasks that lead to burnout in the industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/",
-      "originalUrl": "https://www.techrepublic.com/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/",
+      "webUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
+      "originalUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-494329461.jpg?w=608",
+          "width": 608,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/",
-      "publishedDateTime": "2021-05-14T07:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T12:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,42 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning.md",
+      "title": "7 best practices for implementing data-driven technologies, like AI and machine learning",
+      "excerpt": "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/ar-BB1gJRb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T07:38:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "domain": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -741,6 +775,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-06-tackling-the-new-frontier-of-fraud-with-machine-learning.md",
+      "title": "Tackling the new frontier of fraud with machine learning",
+      "excerpt": "Register for our latest webinar with Sift on Thursday 24 June 2021 at 15:00 BST as industry experts discuss tackling the new frontier of fraud with machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
+      "originalUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/sift-event.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-understanding-self-supervised-learning-in-machine-learning.md",
       "title": "Understanding Self-Supervised Learning in Machine Learning",
       "excerpt": "Teaching machines how to learn is the basis of self-supervised learning. Source: iStock/Design Circle Self-supervised learning (SSL) is gaining a larger foothold in the world of machine learning (ML).",
@@ -1350,102 +1428,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-leveraging-uncertainty-from-deep-learning-for-trustworthy-material-discovery-workflows.md",
-      "title": "Leveraging Uncertainty from Deep Learning for Trustworthy Material Discovery Workflows",
-      "excerpt": "In this paper, we leverage predictive uncertainty of deep neural networks to answer challenging questions material scientists usually encounter in machine learning-based material application workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://pubs.acs.org/doi/10.1021/acsomega.1c00975",
-      "originalUrl": "https://pubs.acs.org/doi/10.1021/acsomega.1c00975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png",
-          "width": 323,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-undergraduates-explore-practical-applications-of-artificial-intelligence.md",
-      "title": "Undergraduates explore practical applications of artificial intelligence",
-      "excerpt": "SuperUROP scholars funded by the MIT Quest for Intelligence worked with faculty this past year exploring AI applications ranging from optimized scheduling to modeling ocean dynamics to improve climate model projections.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
-      "originalUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202104/mit-superurops.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

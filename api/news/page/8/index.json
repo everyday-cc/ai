@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-06-self-driving-startup-aeva-says-its-sensor-can-detect-vehicles-over-500m-away.md",
+      "title": "Self-Driving Startup Aeva Says Its Sensor Can Detect Vehicles Over 500m Away",
+      "excerpt": "Self-driving sensor startup Aeva Technologies Inc, founded by former Apple Inc engineers, said on Thursday its sensor can detect other vehicles from beyond 500 meters and pedestrians from a distance of more than 350 meters.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2021-05-06/self-driving-startup-aeva-says-its-sensor-can-detect-vehicles-over-500m-away",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2021-05-06/self-driving-startup-aeva-says-its-sensor-can-detect-vehicles-over-500m-away",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards.md",
       "title": "Eko Recognized for Artificial Intelligence Innovation in Healthcare with 2021 MedTech Breakthrough Awards",
       "excerpt": "Eko, a cardiopulmonary digital health company, today announced that it has been selected as the winner of the “Best Use of Artificial Intelligence in Healthcare” award in the fifth annual MedTech Breakthrough Awards program conducted by MedTech Breakthrough,",
@@ -42,6 +85,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-tackling-the-new-frontier-of-fraud-with-machine-learning.md",
+      "title": "Tackling the new frontier of fraud with machine learning",
+      "excerpt": "Register for our latest webinar with Sift on Thursday 24 June 2021 at 15:00 BST as industry experts discuss tackling the new frontier of fraud with machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
+      "originalUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/sift-event.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1095,102 +1182,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-a-quick-introduction-to-microsoft-azure-purview.md",
-      "title": "A Quick Introduction to Microsoft Azure Purview",
-      "excerpt": "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/",
-      "publishedDateTime": "2021-05-05T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend.md",
-      "title": "Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend",
-      "excerpt": "Many companies extract data from scanned documents containing tables and forms, such as PDFs. Some examples are audit documents, tax documents, whitepapers, or customer review documents. For customer reviews, you might be extracting text such as product reviews, movie reviews, or feedback. Further understanding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/03/2-1411-Specify-Detals.jpg",
-          "width": 800,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T09:32:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

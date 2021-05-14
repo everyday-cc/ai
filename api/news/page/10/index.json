@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-05-how-machine-learning-can-unlock-cures-for-tomorrows-diseases.md",
+      "title": "How Machine Learning Can Unlock Cures For Tomorrow's Diseases",
+      "excerpt": "We take advances in machine learning for granted in our daily lives, but if we apply similar data-driven thinking in drug discovery, we could unlock hidden patterns in biological data that will allow us to understand diseases and produce cures thought previously unreachable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609159f654c6ad719f24438d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/amp/",
+      "publishedDateTime": "2021-05-05T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto.md",
+      "title": "DeepMind extends hunt for the world’s best A.I. researchers to Toronto",
+      "excerpt": "The company posted a job ad for a research scientist in Toronto on its website last week and confirmed that it plans to build a small team in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/deepmind-extends-hunt-for-the-world-e2-80-99s-best-ai-researchers-to-toronto/ar-BB1gnHIb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-334603/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
+        "domain": "wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
       "excerpt": "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data.",
@@ -1113,110 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-steve-wozniaks-woz-ed-agreed-a-deal-to-start-teaching-virtual-robotics-to-k-12-students.md",
-      "title": "Steve Wozniak's Woz ED agreed a deal to start teaching virtual robotics to K-12 students",
-      "excerpt": "Steve Wozniak's K-12 education programme will start offering robotics courses to thousands of schools across the US after it partnered with Robotify.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/wozniak-woz-ed-agrees-deal-offer-robotics-courses-us-schools-2021-5",
-      "originalUrl": "https://www.businessinsider.com/wozniak-woz-ed-agrees-deal-offer-robotics-courses-us-schools-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609153b2f22c6b00185db726?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-it-pro-2020-understanding-our-complicated-relationship-with-ai.md",
-      "title": "IT Pro 20/20: Understanding our complicated relationship with AI",
-      "excerpt": "Welcome to issue 16 of IT Pro 20/20. This time we look at our strained, confusing, and often contentious relationship with artificial intelligence, and how that is shaping development. We’ve addressed some of the more concerning issues surrounding the eager rollout of the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619787080/itpro/IT_Pro_20-20_Issue_16_teaser.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
-      "publishedDateTime": "2021-05-04T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

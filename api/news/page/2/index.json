@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-13-moogsoft-rolls-out-new-aiops-features.md",
+      "title": "Moogsoft rolls out new AIOps features",
+      "excerpt": "AIOps startup Moogsoft this week announced the launch of new product capabilities and updates, including extended integration capabilities, incident workflow automations, and automatic event enrichment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/moogsoft-rolls-out-new-aiops-features/amp/",
+      "publishedDateTime": "2021-05-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-deepscribe-raises-53m-to-transcribe-medical-notes-with-ai.md",
+      "title": "DeepScribe raises $5.3M to transcribe medical notes with AI",
+      "excerpt": "DeepScribe, a company developing a platform for health note transcription, has raised $5.3 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/deepscribe-raises-5-3m-to-transcribe-medical-notes-with-ai/amp/",
+      "publishedDateTime": "2021-05-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics.md",
       "title": "Optimal Dynamics nabs $22M for AI-powered freight logistics",
       "excerpt": "Optimal Dynamics, an AI- and machine learning-powered logistics platform, raised $22 million in venture capital.",
@@ -307,49 +411,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-chinese-company-starts-driverless-taxi-services.md",
-      "title": "Chinese company starts driverless taxi services",
-      "excerpt": "A Chinese search engine giant, Baidu, has started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public for free on a trial basis since last October but now riders will have to pay for the service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "originalUrl": "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/DBzyPTNJa3IsYDR5hcE-VQshsU6JI_o9AYpq--42JmYXkzQ-BemUDrcEvXdVAeWNW_qI8fLp6bwW0Trjuk-9SMEa17tOmCzv33ZHD6gHTvyeWg=s1000",
-          "width": 1000,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/",
-      "publishedDateTime": "2021-05-12T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1188,49 +1249,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-eliminating-bias-from-healthcare-ai-critical-to-improve-health-equity.md",
-      "title": "Eliminating bias from healthcare AI critical to improve health equity",
-      "excerpt": "Artificial intelligence (AI)-driven healthcare has the potential to transform medical decision-making and treatment, but these algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/eliminating-bias-from.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.amp",
-      "publishedDateTime": "2021-05-11T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

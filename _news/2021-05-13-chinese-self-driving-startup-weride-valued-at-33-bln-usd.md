@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese company starts driverless taxi services"
-    excerpt: "A Chinese search engine giant, Baidu, has started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public for free on a trial basis since last October but now riders will have to pay for the service,"
-    publishedDateTime: 2021-05-13T03:04:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
+  - title: "WeRide Raises Fresh Capital as It Ponders How to Make Money Off Self-Driving Cars"
+    excerpt: "Chinese startup WeRide said on Thursday that it has raised hundreds of millions of dollars in its series C funding round, as the company explores commercializing its autonomous vehicle services. Investors participating in the round,"
+    publishedDateTime: 2021-05-13T09:07:00Z
+    webUrl: "https://www.caixinglobal.com/2021-05-13/weride-raises-fresh-capital-as-it-ponders-how-to-make-money-off-self-driving-cars-101712401.html"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 34
     images:
-      - url: "https://lh3.googleusercontent.com/DBzyPTNJa3IsYDR5hcE-VQshsU6JI_o9AYpq--42JmYXkzQ-BemUDrcEvXdVAeWNW_qI8fLp6bwW0Trjuk-9SMEa17tOmCzv33ZHD6gHTvyeWg=s1000"
-        width: 1000
-        height: 589
+      - url: "https://img.caixin.com/2021-05-13/1620896785806050_560_373.png"
+        width: 560
+        height: 291
         isCached: true
   - title: "Chinese self-driving startup WeRide valued at 3.3 bln USD"
     excerpt: "Chinese self-driving startup WeRide announced Thursday that it has closed a Series C round of funding, giving it a valuation of 3.3 billion U.S. dollars."
@@ -55,15 +53,6 @@ related:
         width: 516
         height: 516
         isCached: true
-  - title: "Am I wrong to hate drones and driverless cars?"
-    excerpt: "An enterprising start-up in the Irish town of Oranmore, whose two drones deliver shopping to residents, has raised 18 million to expand this service into the suburban towns of Britain by the end of the year."
-    publishedDateTime: 2021-05-11T01:23:00Z
-    webUrl: "https://www.theaustralian.com.au/life/gadgets/am-i-wrong-to-hate-drones-and-driverless-cars/news-story/1a7192003fe29545ceac2021bf0400c9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "RufD3AKBDD49T/cBbw0us6n5ynpURnN1v6bUM8TFXbBnN+9jTo8TCvN4Ov+3BXfP7Bbed6dNMSBCzBP9wB66yG+dMfKu2+yYtAzjyd99ds75JgBCRoz+UZyDtqD/fqLl/MY3JSydVVWC6jOok9bzeNxd1J7nvUNClI98R7iGtmsR22SFMTAdQ2TwHDd2Lzh55QcuTG1GQTywrK2PzJ+JGx7uATVGjScO3nGcFy3+guaH7YHLeLJiZDFWFEvrJiMFrMs/79uwiokO+w6UdonR36HZXpKdryNvecb5PGMgLZjnTGvQnhlTummuoyk72LzvbCWpDijhgkUfgsbcFnOM+en59A2k6ElQkJ/Zea6p0Fs=;GDWtuX/vBM7Qz6wdofivHQ=="
 ---

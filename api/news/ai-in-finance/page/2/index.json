@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-computer-science-students-research-machine-learning.md",
+      "title": "Computer Science students research machine learning",
+      "excerpt": "Students in Morehead State's computer science programs have the opportunity to conduct groundbreaking research alongside experienced faculty members, and two such students are currently researching the real-world applications of machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moreheadstate.edu/News/2021/April/Computer-Science-students-research-machine-learnin",
+      "originalUrl": "https://www.moreheadstate.edu/News/2021/April/Computer-Science-students-research-machine-learnin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.moreheadstate.edu/MSU/media/News/2021/ambol_spurlock.jpeg",
+          "width": 606,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morehead State University",
+        "domain": "moreheadstate.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-book-review-machine-learning-for-kids.md",
       "title": "Book Review: Machine Learning for Kids",
       "excerpt": "I greatly enjoyed reading and reviewing this delightful new book, Machine Learning for Kids: A Project-based Introduction to Artificial Intelligence, by Dale Lane, which was developed to introduce machine learning technology to children.",
@@ -1240,58 +1284,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fintech-startup-qraft-technologies-raises-9-mn-from-smilegate-investments.md",
-      "title": "Fintech Startup Qraft Technologies Raises $9 Mn From Smilegate Investments",
-      "excerpt": "Seoul-based fintech company Qraft Technologies, which uses artificial intelligence (AI) to create and manage exchange-traded funds (ETFs), announced on Tuesday to have closed a funding round worth $9 million. Veteran South Korea-based venture capital (VC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/367792",
-      "originalUrl": "https://www.entrepreneur.com/article/367792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616568382-CEO-Marcus-Kim-1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367792",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367792",
-      "publishedDateTime": "2021-03-23T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "When AI meets BI: 5 red flags to watch for"
+    excerpt: "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult."
+    publishedDateTime: 2021-05-14T18:42:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Why C3.ai Stock Does Not Compute"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) is, in some ways, one of the next big things to have already"
     publishedDateTime: 2021-05-12T18:17:00Z
