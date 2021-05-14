@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-service
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
+    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
+    publishedDateTime: 2021-05-14T04:37:00Z
+    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
+        width: 620
+        height: 348
+        isCached: true
   - title: "Core Scientific Announces Expansion of AI & Blockchain Facility in Dalton, GA"
     excerpt: "Today, Core Scientific, the leader in customizable infrastructure and software solutions for Artificial Intelligence and Blockchain, announced that it has expanded its facility in Dalton, GA. With the construction of 3 new custom designed buildings,"
     publishedDateTime: 2021-05-13T11:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-lum
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
 type: article
 quality: 157
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Toyota-Backed Self-Driving Car Pony.ai Partners With Luminar"
+    excerpt: "Rendering of a robotaxi with Pony.ai?s next generation self-driving technology using Luminar?s Iris lidars, in this undated handout image supplied by Pony.ai. Pony.ai/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
+    publishedDateTime: 2021-05-10T11:04:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-10/toyota-backed-self-driving-car-ponyai-partners-with-luminar"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
     excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
     publishedDateTime: 2021-05-10T21:00:00Z

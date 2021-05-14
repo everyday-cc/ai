@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-29-lacuna-fund-announces-second-round-of-funding-to-projects-supporting-natural-language-processing-technologies-across-africa.md",
+      "title": "Lacuna Fund announces second round of funding to projects supporting Natural Language Processing technologies Across Africa",
+      "excerpt": "Lacuna Fund announces second round of funding to projects supporting Natural Language Processing technologies Across Africa",
+      "sourceUrl": null,
+      "webUrl": "https://africabusinesscommunities.com/tech/tech-news/lacuna-fund-announces-second-round-of-funding-to-projects-supporting-natural-language-processing-technologies-across-africa/",
+      "originalUrl": "https://africabusinesscommunities.com/tech/tech-news/lacuna-fund-announces-second-round-of-funding-to-projects-supporting-natural-language-processing-technologies-across-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://adserver.africabusinesscommunities.com/www/delivery/avw.php?zoneid=14&cb=INSERT_RANDOM_NUMBER_HERE&n=a7292f1d",
+          "width": 336,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "africabusinesscommunities.com",
+        "domain": "africabusinesscommunities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum.md",
       "title": "Amplio Launches Esperanza, a First of its Kind Digital Spanish-Language Dyslexia Curriculum",
       "excerpt": "AmplioSpeech (\"Amplio\"), a developer of a digital platform that connects students, educators and therapists with advanced technologies to help students with special needs, announced today the launch of a digital Spanish-language dyslexia curriculum,",
@@ -1289,49 +1332,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases.md",
-      "title": "Algorithms Used by Companies Like Netflix Could Decipher Biological Language of Neurodegenerative Diseases",
-      "excerpt": "Powerful algorithms used by companies like Netflix, Facebook, and Amazon could have major implications in healthcare. They have demonstrated the ability to predict the biological language of cancer and other neurodegenerative diseases such as Alzheimer’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
-      "originalUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/04/dna-3539309_1280.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

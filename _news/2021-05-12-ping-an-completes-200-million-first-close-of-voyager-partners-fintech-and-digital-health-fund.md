@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Payments to Participate in Barclays Emerging Payments and Fintech Forum"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President and Chief Financial Officer,"
-    publishedDateTime: 2021-05-13T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=468790"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 20
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
     excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
     publishedDateTime: 2021-05-13T23:16:00Z

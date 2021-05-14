@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
+    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
+    publishedDateTime: 2021-05-14T04:37:00Z
+    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
+        width: 620
+        height: 348
+        isCached: true
   - title: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology"
     excerpt: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology Platon Now Offers Breakthrough Solutions to Break the Data Island and Release the Value Potential Singapore,"
     publishedDateTime: 2021-05-12T10:45:00Z

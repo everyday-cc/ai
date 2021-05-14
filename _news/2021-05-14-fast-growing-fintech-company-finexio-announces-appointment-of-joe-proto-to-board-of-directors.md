@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "Global Payments to Participate in Barclays Emerging Payments and Fintech Forum"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President and Chief Financial Officer,"
-    publishedDateTime: 2021-05-13T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=468790"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 20
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "Lcoad339aqfrwBfwJIZNhPU7eBTjUGXbGS+GL535T6aqI+BXZVNmprbaPUF0DNW3Jlwn4YH+e/auGML0uic071S0rfTVSe/AL1I717V8hh/ul8BXhPlkWbWLRwJjjAFjlzKistveHJDN5Bs0QL4e2gxUc5TINhIJ/a2aJHJamXxRTmnt2LsSLyvv02/3GAfHR9bHtqp8htyZD+CS3RW3djm0cCmpZqSZFxCIrmuXsDeAIfS1LNG8oEv+taG57o0EXc5x8wh9UK5WGt69WBa2ODW07BPsKpGZ1GnGUFykRGmzGY7WUfA2Qi68TIWyQTDSBodwO1nt3n0y2t8WO3tLj2wW+dPD+lIOup5JMUZWBBo=;k5WBqkB8uI7047JxN0nFCg=="
 ---

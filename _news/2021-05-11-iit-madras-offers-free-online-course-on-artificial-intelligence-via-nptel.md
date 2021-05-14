@@ -34,22 +34,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "IIT Madras Invites Applications for Free Online Artificial Intelligence Course"
-    excerpt: "IIT Madras has started to accept applications for a free online artificial intelligence course on the National Programme on Technology Enhanced Learning"
-    publishedDateTime: 2021-05-09T11:38:00Z
-    webUrl: "https://www.dqindia.com/iit-madras-invites-applications-free-online-artificial-intelligence-course/"
-    ampWebUrl: "https://www.dqindia.com/iit-madras-invites-applications-free-online-artificial-intelligence-course/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-invites-applications-free-online-artificial-intelligence-course/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
-        width: 850
-        height: 576
-        isCached: true
   - title: "IIT Delhi Invites Applications for Six-Month Certificate Online Course on Data Science and Machine Learning"
     excerpt: "IIT Delhi has invited applications from interested participants for a six-month free online course on data science and machine learning"
     publishedDateTime: 2021-05-10T09:12:00Z

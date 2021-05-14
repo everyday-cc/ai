@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IBM's CodeNet dataset can teach AI to translate computer languages"
+    excerpt: "AI and machine learning systems have ... “Having said that, there has been work done in human language areas, like neural machine translation which, rather than doing pairwise, actually becomes ..."
+    publishedDateTime: 2021-05-11T06:00:00Z
+    webUrl: "https://www.engadget.com/ibm-codenet-dataset-can-teach-ai-to-translate-computer-languages-020052618.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/e5dfa070-b1e4-11eb-8ffd-c77387193c53"
+        width: 7800
+        height: 5200
         isCached: true
   - title: "IBM Launches New Cloud, AI Services in Bid to Modernize Business"
     excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
