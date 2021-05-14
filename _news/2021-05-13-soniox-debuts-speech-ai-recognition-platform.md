@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
-publishedDateTime: 2021-05-13T14:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
+excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
+publishedDateTime: 2021-05-13T14:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
@@ -50,6 +50,6 @@ related:
         height: 800
         isCached: true
 
-secured: "JxUg9UnEHwrb2Or6zWrbaqNyCqipUPiJRUBiAzdJFz2mXjcTOqJCSNx+G8zFPEYH5CTlpmV2NIcutaBqjPo30aRVgFvDD/bzoaGEPyTQOj1bIwWnT8vo+uMGo2iJ9rJzXZp0LCH1XUQowdCvPW9DRA9u9KbWqgFkumGkMu0XUirWH9RncdQanJNywiWEHxsuUABapSEeM+2/7/X8mKpr0MHCSW/QVkBj04+10oDV75he6yri/7y41XQW8fT2eBqLYu6N3DcUjdJsjRIxv+n7CgATLkHImezfAtq8uY7rwLdifzaOtrqUnF4VeLDa7O0cpDdX0El3uPY4CA4ShJlvv6wUxOPDAma8D9fzSzFc5Gs=;MUZU15uomA3a6uR7XvEiGA=="
+secured: "l3R8Iryk9nxG7U7VLBdrfW4W2iAC+C3Lgq7rtuXRY6ryxPjqz6wkIs6SmyjISKLQjf5+u5+ie0YQcKH6gzz1Pj0k5VwoKKzNY4EFcjm4TQh3s9445GVTsKlX9StGxtWD5fS/RNCtKuQQhO5WFeDXHgVIPMbZQ6HRghVy5GIUB3ziyXTEOZiEKT3huoMcGYknQhu9gnXraFm/ZxQp/vVnsONuSX2YYFae9gX/hPfmfKa0y+m2PnBywDHfYhAZpdmE4+YeWYcdI+m/cHncAU/jnwJcAGnBy9xRcHj0bvOKcrgVRtr2DsW/bi0ithFKFtDT8TcWc2d5rcrWpHvJTc5ZkzhgCoYDiwmtxlELaeNySHg=;rrbuzxDyEoXYJxftLlAs3Q=="
 ---
 

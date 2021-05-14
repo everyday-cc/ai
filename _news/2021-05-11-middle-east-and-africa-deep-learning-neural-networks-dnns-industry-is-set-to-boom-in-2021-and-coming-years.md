@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
-    excerpt: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
-    publishedDateTime: 2021-05-11T10:44:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/11/worldwide-mechanical-test-applications-industry-4-0-market-report-2021-machine"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
-
 secured: "dma9xuJruV9MoLx0a9J0KXJvMVrNELwg6v6RlL/3FXBAkta3GKV3KfXyawgGfVQ6ufc76WP59aXcu5dID+wI6qGVhmON9KvXAZK33qFTjksPRfGseOdkeRGpARLBuEzzKeuDahxPgLyvfhiADi1aYJSO4YrcYzw6k78L8M//czDL5GmRKVhPP6BKDPzbZw/3IPx1awaTbbd7xON0qEIb9Vt146IeQrP9FaYhQXlnJ3SNaqL+98aKFuqa3VxZS9w940ZaG9705fKr8qrXJwJVyLPNjl8cvNN9rSKC5FvOPuS0i+igcDQJbdxUFLn+CMkiVwb5GMk5uWsg7r0E4vg2mlc8Xk3Gt2V0zNr0IijWSPg=;LzbRTE1Bi5ODK6Ue9jpQlg=="
 ---
 

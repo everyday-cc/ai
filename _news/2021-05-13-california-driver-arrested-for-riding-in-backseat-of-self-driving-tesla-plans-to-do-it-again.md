@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
 type: article
 quality: 93
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/22/tesla-is-facing-more-scrutiny-over-its-autopilot-AFP_98K63K.jpg"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
-    excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
-    publishedDateTime: 2021-05-09T18:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
-    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 59
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-07_sag6zodjcw.jpg"
-        width: 718
-        height: 300
         isCached: true
   - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
     excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."

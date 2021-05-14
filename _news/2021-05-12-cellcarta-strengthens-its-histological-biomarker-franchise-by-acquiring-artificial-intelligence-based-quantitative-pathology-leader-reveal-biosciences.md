@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "CellCarta Strengthens its Histological Biomarker Franchise by Acquiring Artificial Intelligence-Based Quantitative Pathology Leader Reveal Biosciences"
-    excerpt: "CNW Telbec/ - CellCarta, a global provider of precision medicine services, announced today the acquisition of Reveal"
-    publishedDateTime: 2021-05-11T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cellcarta-strengthens-its-histological-biomarker-franchise-by-acquiring-artificial-intelligence-based-quantitative-pathology-leader-reveal-biosciences-1030414538"
+    excerpt: "PRNewswire/ - CellCarta, a global provider of precision medicine services, announced today the acquisition of Reveal"
+    publishedDateTime: 2021-05-11T14:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cellcarta-strengthens-its-histological-biomarker-franchise-by-acquiring-artificial-intelligence-based-quantitative-pathology-leader-reveal-biosciences-1030414541"
     type: article
     provider:
       name: Business Insider

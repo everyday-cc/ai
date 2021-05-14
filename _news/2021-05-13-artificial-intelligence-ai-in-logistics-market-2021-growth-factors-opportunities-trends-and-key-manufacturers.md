@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market to Register Incremental Revenue Opportunities During the Forecast Period 2021-2027"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period."
+    publishedDateTime: 2021-05-14T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-register-incremental-revenue-opportunities-during-the-forecast-period-2021-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
     publishedDateTime: 2021-05-13T10:26:00Z
@@ -93,6 +107,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
+    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. 1) An overview of the global market for Artificial Intelligence ..."
+    publishedDateTime: 2021-05-14T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Far-Field Speech and Voice Recognition Market Research Study 2021 Insights with COVID-19 Impact Analysis by 2020"
+    excerpt: "The far-field speech and voice recognition market is expected to reach more than US$ 4339 million by 2026 growing at a CAGR of 23.80%. Global Far-Field Speech and Voice Recognition market is segmented based on Application as Smart TV/STB,"
+    publishedDateTime: 2021-05-14T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-research-study-2021-insights-with-covid-19-impact-analysis-by-2020-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

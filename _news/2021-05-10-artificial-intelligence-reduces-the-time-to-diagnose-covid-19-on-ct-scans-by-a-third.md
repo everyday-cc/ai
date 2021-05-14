@@ -135,6 +135,20 @@ related:
         width: 502
         height: 263
         isCached: true
+  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
+    excerpt: "With AI more than rising to the challenge of Covid-19, its spread throughout the business ecosphere will only be a matter of time  –  and industries are already changing because of it. Artificial intelligence,"
+    publishedDateTime: 2021-05-14T10:04:00Z
+    webUrl: "https://www.airforce-technology.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 39
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/05/shutterstock_1764865133.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
     excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."
     publishedDateTime: 2021-05-12T10:02:00Z
@@ -148,6 +162,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
         width: 490
         height: 685
+        isCached: true
+  - title: "COVID-Classifier: an automated machine learning model to assist in the diagnosis of COVID-19 infection in chest X-ray images"
+    excerpt: "However, the similarity between features of CXR images of COVID-19 and pneumonia caused by other infections makes the differential diagnosis by radiologists challenging. We hypothesized that machine learning-based classifiers can reliably distinguish the CXR images of COVID-19 patients from other forms of pneumonia."
+    publishedDateTime: 2021-05-10T17:24:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88807-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88807-2/MediaObjects/41598_2021_88807_Fig1_HTML.png"
+        width: 685
+        height: 353
         isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-13T12:51:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/8c/b8c36c4a-4da4-5026-895f-4e587da25cd6/609d22d725b4f.image.jpg?resize=1120%2C630"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "TheMNC+oLUlcUUZl5MgEFKATkalpckUThdOM8XTtZJZ81EUMVXbp8mh92HPgW02/OT/9jdb3vtL5Mr+7gwNSaxeegll19WT5I03nDUKhJu++/iIuZn+fkynNS/kEIt4THjRTOjHDvudCmib12GqbgsfXHg7cWyHbFhOiA/S77gTYdabwRgqLNQrNiQUK3gUpkgeKReKi2QQhsEZeHm8hepMgZhljnWd8tN9shYIFzWDvCiIyRIT4Dz2UsOxiJNsOJmg2RvDR9KE80CkT8CWWNcf1xXb7NyIIgqcPnO+D4IZ83v1HKwD3MBAPfXFRRuF2p1i7L+3slc93rB+xWAqI6AHvqMAeyx8RpO7zLizjvNg=;zLfngeTpzP2isJzXCBoW5Q=="
+secured: "BAwrR4nrv4AbmmQ871FBGO/2aTZciQAtbeyUmnetuARbC5+4TJCskuOX7142jGs4YsuASJyGLPEF8ACNfDK6YIPFc0FWKcPK8nQ69GMywB3GUtkbtFZt9Kru/nur6fo9qC4Psy+85br2gFAcg4F+lGTNEh0I/Ti0OKeGDzuejym8pucfeO7kTS4EbolMcIDEXUpghFPwKMH1e5Op0ajq77yfUpbBSd0olBb335p9w6py5pd44woD7ihPHsJUM6jQQ6AWxkTZgNaUGspEE1R2STduTd04NIeix4maKlgReU7vLEauxBBS+t7SNgZVrQJgryri9f9m+gpa4CUOoB0hy6XbJmymhur3GkDKt7f1+uo+dm8LTOCGI4Pcu67g0mV1OhkpIRYJo+EHogCUvsSwfgFMmlq/ABb+15CbvA8scrEoEjBTieSCnFmAWkantUApKkl/66cR2zg3+0LAEvAM0Up+1r5Oqk/B8+5xjejFD9kbiBqWAqXkDaooMmRM7nLAwZyjg1ITUgl1QgwGrxqUMg==;dWSnTiLa2zT9cQEbmxF+sw=="
 ---
 

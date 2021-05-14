@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/89671-intel-applied-machine-learni
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html"
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:

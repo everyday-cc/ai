@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Some iffy on police use of facial recognition"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness"
+    publishedDateTime: 2021-05-12T19:00:00Z
+    webUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.html"
+    ampWebUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
+    cdnAmpWebUrl: "https://cumberlink-com.cdn.ampproject.org/c/s/cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: cumberlink.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "Civil liberty groups question facial recognition France tech rollout"
     excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."
     publishedDateTime: 2021-05-10T07:01:00Z
@@ -44,20 +60,6 @@ related:
       - url: "https://www.connexionfrance.com/var/connexion/storage/images/_aliases/social_network_image/media/images/manif-gj-belfort/1372754-1-eng-GB/Manif-GJ-Belfort.jpg"
         width: 639
         height: 426
-        isCached: true
-  - title: "OMS to offer facial recognition ID verification service"
-    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
-    publishedDateTime: 2021-05-11T10:26:00Z
-    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 39
-    images:
-      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
-        width: 1000
-        height: 645
         isCached: true
   - title: "Privacy watchdog warns facial recognition tools endanger human rights"
     excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"

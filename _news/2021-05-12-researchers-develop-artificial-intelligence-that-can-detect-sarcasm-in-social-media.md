@@ -128,6 +128,20 @@ related:
         width: 502
         height: 263
         isCached: true
+  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
+    excerpt: "With AI more than rising to the challenge of Covid-19, its spread throughout the business ecosphere will only be a matter of time  –  and industries are already changing because of it. Artificial intelligence,"
+    publishedDateTime: 2021-05-14T10:04:00Z
+    webUrl: "https://www.airforce-technology.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 39
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/05/shutterstock_1764865133.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z
@@ -155,6 +169,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
         width: 490
         height: 685
+        isCached: true
+  - title: "COVID-Classifier: an automated machine learning model to assist in the diagnosis of COVID-19 infection in chest X-ray images"
+    excerpt: "However, the similarity between features of CXR images of COVID-19 and pneumonia caused by other infections makes the differential diagnosis by radiologists challenging. We hypothesized that machine learning-based classifiers can reliably distinguish the CXR images of COVID-19 patients from other forms of pneumonia."
+    publishedDateTime: 2021-05-10T17:24:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88807-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88807-2/MediaObjects/41598_2021_88807_Fig1_HTML.png"
+        width: 685
+        height: 353
         isCached: true
 
 secured: "Elbm6U9B/V/VZnbOqU//0mYK6rFxiu0gGR1NclN+xHDlKGgD6CgSD5MrrythKtHfdAz2AK0F9zIbWFg9QghHT6O6pR4N/lE/IWpzlwvXMOPFPCDcdVxfLozxlE3xASi8KYCSVmrtI59nGJ1oGhYov6U0TR2DsRywi26nTsb1YgMXmhMAazEIdyrkvv+we96wYFMRFfOmk077Fd7YhPiROUBuLhfihTxJbi5SVQ1ARjaMW+qyCywJPebmBQN1kof1PwPCLC2mvc4vztSynv7WHAhb6hqc+7e4k1bdIBdf+9VK+km52wYoQeXYrqtU8155MJX/uPgedu8p6bOGsKuArHX2u6MmywQtvlexUvwtCyY=;pk8lcQDYLRuTp0kpzRfcLg=="

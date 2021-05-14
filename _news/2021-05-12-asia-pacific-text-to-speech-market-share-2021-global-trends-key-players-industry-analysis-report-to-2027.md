@@ -21,41 +21,63 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
+  - title: "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027"
+    excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
+    publishedDateTime: 2021-05-14T08:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
-    publishedDateTime: 2021-05-10T15:54:00Z
-    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "AI in Medical Devices Market to Grow with a Moderate CAGR During 2021-2029 | Healthcare Tend to Drive the Market Growth"
-    excerpt: "The AI in the medical devices market is attributed ... We believe in honesty and sheer hard work that we trust is reflected in our work ethics. Our vision is not just limited to gain the trust ..."
-    publishedDateTime: 2021-05-12T10:21:00Z
-    webUrl: "https://menafn.com/1102066047/AI-in-Medical-Devices-Market-to-Grow-with-a-Moderate-CAGR-During-2021-2029-Healthcare-Tend-to-Drive-the-Market-Growth"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Research Report and Predictive Business Strategy By 2027"
+    excerpt: "In 2018, the global cognitive computing market was valued at US$ 30.67 Billion and is expected to reach US$ 360.55 Billion"
+    publishedDateTime: 2021-05-14T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-research-report-and-predictive-business-strategy-by-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
+    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
+    publishedDateTime: 2021-05-11T01:20:00Z
+    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
+    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 46
+    images:
+      - url: "https://www.reportsgo.com/img/img-6.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "AI-Driven Enterprises Market Research 2021 Report | Growth Forecast to 2027 Infosys, DataRobot, Deloitte"
+    excerpt: "AI-Driven Enterprises Market is growing at a 52.15% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-05-09T19:37:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-127-780x470.png"
+        width: 780
+        height: 470
         isCached: true
   - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
     excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
@@ -71,6 +93,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence in Video Games Market Industry Analyses 2021 – 2030"
+    excerpt: "A new market assessment report on Artificial Intelligence in Video Games market brings to light a detailed statistics on the dramatic shift in the competitive landscape and business environment of the Artificial Intelligence in Video Games market for the forecast period 2019 – 2030."
+    publishedDateTime: 2021-05-11T14:58:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/artificial-intelligence-in-video-games-market-industry-analyses-2021-2030/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 15
   - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
     excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
     publishedDateTime: 2021-05-09T22:11:00Z
@@ -80,15 +111,31 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 12
-  - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
-    publishedDateTime: 2021-05-10T12:48:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/10/artificial-intelligence-services-global-market-report-2021-covid-19-growth-and"
+  - title: "Business Intelligence (BI) Tools Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
+    excerpt: "A recent market research report added to repository of ResearchMoz is an in depth analysis of Global Business Intelligence BI Tools Market On the basis of historic growth analysis and current scenario of Business Intelligence BI Tools market place the"
+    publishedDateTime: 2021-05-12T05:31:00Z
+    webUrl: "https://www.openpr.com/news/2283397/business-intelligence-bi-tools-market-analysis-leading"
+    ampWebUrl: "https://www.openpr.com/amp/2283397/business-intelligence-bi-tools-market-analysis-leading"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283397/business-intelligence-bi-tools-market-analysis-leading"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
+    images:
+      - url: "https://cdn.openpr.com/U/5/U512338490_g.jpg"
+        width: 800
+        height: 424
+        isCached: true
+  - title: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
+    excerpt: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
+    publishedDateTime: 2021-05-11T10:44:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/05/11/worldwide-mechanical-test-applications-industry-4-0-market-report-2021-machine"
     type: article
     provider:
       name: Stockhouse
       domain: stockhouse.com
-    quality: 11
+    quality: 0
 
 secured: "dq626GF63DIbFHsbKffhnX4T4J4Vtz6Jfso1DS9sTvY4BNMlE2o0N8t9+fg1GselkRBHTGvWUB/L3skxAi4tkR08kls7WrlJWQPGyo7Uyj/hW8F8vFJim5S/nlqkanyYjngexUtN2lE6W5WMT/CPi4v7i7BO60bpi3XzgAnKeSjHxHhZno2+MU3hX3oaexVnZzmGFUFOiLk/03UDbf3pmJKaNaMK27SFW8K49ilMm9BRom3PBqkwqpuN1svFqy7bzhw5am54ApWU58tiblkko8JBWiuRj2So33GwtQu10WlQGBgZPiJxGt9j+DnJqbb8HwKoFXytqE9vXzl2hVNGTitBW8fbSJ6ZTHxQzt6tAkc=;XtvgNWq+IC/OaUsrY/f4OA=="
 ---
