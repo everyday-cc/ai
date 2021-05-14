@@ -2,6 +2,83 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-03-11-supercom-announces-partnership-with-mars-vision-to-make-gaming-accessible-to-the-visually-impaired.md",
+      "title": "Super.com Announces Partnership with Mars Vision to Make Gaming Accessible to the Visually Impaired",
+      "excerpt": "Innovative New Software Opens Up Video Games to the Visually Impaired NICOSIA, CYPRUS / ACCESSWIRE / March 10, 2021 / Today, Super.com is proud to announce its partnership with Mars Vision in order to launch an innovative new application that will allow the visually impaired to play games without the need for modding.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-lifestyle-software-industry-recreation-and-leisure-93c92358a2f5416cb1c800597cf08488",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-lifestyle-software-industry-recreation-and-leisure-93c92358a2f5416cb1c800597cf08488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-the-structure-dilemma-in-biological-and-artificial-neural-networks.md",
+      "title": "The structure dilemma in biological and artificial neural networks",
+      "excerpt": "Going far beyond the obvious macroscopic structure of the brain, which hardly differs between human individuals, various authors postulated a coupling of structure and function 1, 2, 3. Neurons, hubs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-84813-6",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-84813-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84813-6/MediaObjects/41598_2021_84813_Fig1_HTML.png",
+          "width": 531,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T07:33:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
       "title": "Raspberry Pi machine learning with TensorFlow Lite",
       "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",
@@ -1021,91 +1098,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
-      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
-      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "publishedDateTime": "2021-03-09T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need.md",
-      "title": "How a Startup Uses AI to Help You Find the Market Research You Need",
-      "excerpt": "IBM’s knowledge management study. Bottom Line: Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291",
-      "originalUrl": "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lcolumbus.files.wordpress.com/2021/03/startup-finds-the-market-research-you-need-image.jpg",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp",
-      "publishedDateTime": "2021-03-09T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

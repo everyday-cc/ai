@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-29-case-study-autonomous-earthmoving-robots.md",
+      "title": "Case Study: Autonomous Earthmoving Robots",
+      "excerpt": "A new San Francisco-based startup develops AI guidance systems to transform heavy equipment into fully autonomous robots. Their guidance systems are deployed today across the $1 trillion earthmoving industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/article/2021/04/case-study-autonomous-earthmoving-robots/16745",
+      "originalUrl": "https://www.roboticstomorrow.com/article/2021/04/case-study-autonomous-earthmoving-robots/16745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/articles/16745.jpg",
+          "width": 680,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-gpu-as-a-service-market-industry-size-share-business-strategies-growth-analysis-regional-demand-by-2025.md",
+      "title": "GPU as a Service Market Industry Size Share, Business Strategies, Growth Analysis, Regional Demand By 2025",
+      "excerpt": "Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the regional landscape of GPU as a Service market in tandem with its competitive terrain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-industry-size-share-business-strategies-growth-analysis-regional-demand-by-2025-2021-04-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-industry-size-share-business-strategies-growth-analysis-regional-demand-by-2025-2021-04-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-nypds-robot-dog-will-be-returned-after-outrage.md",
       "title": "NYPD’s robot dog will be returned after outrage",
       "excerpt": "The NYPD will part ways with “Digidog,” the robotic police dog that became the subject of a City Council subpoena after images of it went viral.",
@@ -149,6 +244,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
+      "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
+      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, announced support for the AWS for Media & Entertainment initiative from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/8b/c8b5b739-be2c-5990-9bd7-43368bd99665/608a9cec01459.image.jpg?resize=1181%2C630",
+          "width": 1181,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-vectra-ai-raises-130-million-led-by-blackstone-growth-bxg.md",
       "title": "Vectra AI Raises $130 Million led by Blackstone Growth (BXG)",
       "excerpt": "Vectra AI, a leader in threat detection and response today announced a $130 million round of funding led by funds managed by Blackstone Growth (BXG, “Blackstone Growth”). The investment will help fuel Vectra’s continued growth through platform innovation and expansion into new markets and geographies,",
@@ -241,49 +379,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
-      "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
-      "excerpt": "AWS for Media & Entertainment is an initiative featuring new and existing services and solutions from AWS and AWS Partners, built specifically for content creators, rights holders, producers, broadcasters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.northwestgeorgianews.com/associated_press/business/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_79f2060c-8908-5f32-8e20-8b462160d1d9.html",
-      "originalUrl": "https://www.northwestgeorgianews.com/associated_press/business/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_79f2060c-8908-5f32-8e20-8b462160d1d9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/3/af/3af29790-58d4-535d-a192-0db1ea2c24dd/608a9cd90f0e3.image.jpg?resize=1181%2C630",
-          "width": 1181,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rome News-Tribune",
-        "domain": "northwestgeorgianews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1090,84 +1185,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-ibm-extends-watson-advertising-ai-to-ott-media-and-streaming.md",
-      "title": "IBM extends Watson advertising AI to OTT media and streaming",
-      "excerpt": "As brands and agencies look to diversify their media portfolios in ever-changing traditional web, IBM offers Watson AI for OTT market, where industry collaboration is critical to achieving scale NEW YORK — IBM (NYSE: IBM) today announced the expansion of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltvnews.net/?p=36354",
-      "originalUrl": "https://www.digitaltvnews.net/?p=36354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital TV News",
-        "domain": "digitaltvnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard.md",
-      "title": "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard",
-      "excerpt": "These two sources are fed into a neural network using TensorFlow. You train the system by driving the vehicle manually through the course a few times and then let it drive itself. In the video ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
-      "originalUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/06/self-driving-rc-cars.jpg",
-          "width": 3872,
-          "height": 2408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

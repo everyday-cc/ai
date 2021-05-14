@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The Myth of Artificial Intelligence--AcademicInfluence.com Features Author and Computer Scientist Erik Larson"
-excerpt: "If the dystopian alarm of the news is any indication, the robot apocalypse will soon be upon us. Not so fast, says author and"
+excerpt: "Not so fast, says author and computer scientist Erik Larson, Ph.D. In his latest book, The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do, he notes that perhaps the replacement of human beings with artificial intelligence and \"thinking machines\" is not as imminent as we fear."
 publishedDateTime: 2021-05-13T12:51:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-myth-of-artificial-intelligenceacademicinfluencecom-features-author-and-computer-scientist-erik-larson-301290879.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-myth-of-artificial-intelligenceacademicinfluencecom-features-author-and-computer-scientist-erik-larson-301290879.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1509251/growing_up_with_artificial_intelligence_pr.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/8c/b8c36c4a-4da4-5026-895f-4e587da25cd6/609d22d725b4f.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "k3MJxQlFfFV6nFUdoRMQx+FVEDjX1YUdHn8MuiSJd8Y8RtspHRyvgOugaVzHOrFQ1GV4hiNlzKupbDCFDLiv9/mjsGO8pkpVlk+aSHiEAAtD1AeefBietMycEK5YqhWNzkrZzWV6L2mHj93p1ngcbQF+HFqtXsq/+O/+vyBM1gcpLjUpj+7wiAe325iGOCu38u5H3lQyPFdDYrPaSOOHde+Q7c8BjLSQhzWxFmdPQG5ZKPsqEjYRN1PIhNdAee5GVefmy4D6PdZABP6WaabbXeK3H569r+SacucG+tFnF4YDeZ++Ac9A+opKnJ6sslyPpatt4DQfN0G9LuQrcAJqnmr2pIasAI8Ac8v4QThFP+A=;eiGSb4fip9AxANIHRJzaFA=="
+secured: "XZ9Y2p+T51IKsIjiLXRWIqQVLvb77JhMuKIWzFdZ6+HVI/u/tk/hs/P+erObx2LaliGTMOKpQ/qpupUYaqb/lj80IO4T3tv1yKnjxwuHbYNfzZvoSDqOCgJV2O6Xs6+6Jf0KWozNSSnICmkaI88DD8VGvZd1En53EFgoMMQpv5r1CKWP5SE24H2r9UOJa9y/6PW9vnQtH2lT4BKBUlomDJrySsyI/62bM6TI3UD/MkSLm7Tcl0/nhA09o8R2fmtciCAYU3SZzYmLuwiytrWM5ooLjsSYpd4D4d6Aj9y2qtE4uedIy1EzXTJmoBdl4ULD+RT4e7i03E2+tJdaaMvgRYx6glvSBY0nfzgfc/McmpE=;77DJVmonbhW4CnSlGmgBrw=="
 ---
 

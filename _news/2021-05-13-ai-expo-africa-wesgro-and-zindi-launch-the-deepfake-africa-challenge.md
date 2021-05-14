@@ -43,6 +43,22 @@ related:
         width: 883
         height: 589
         isCached: true
+  - title: "Startup Lets Checked-Out Influencers Deepfake Themselves for Product Endorsements"
+    excerpt: "Why bother recording a commercial or cameo when a deepfake can do it for you? Influencer Automation. A startup called Veritone is launching a new AI platform that will let celebri"
+    publishedDateTime: 2021-05-14T15:11:00Z
+    webUrl: "https://futurism.com/the-byte/startup-influencers-deepfake-themselves"
+    ampWebUrl: "https://futurism.com/startup-influencers-deepfake-themselves/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/startup-influencers-deepfake-themselves/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2021/05/startup-influencers-deepfake-themselves-endorsements-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "R/ZNNyuHDV7DlR9pRW6YASKlSEyHdN5NJ/Ly2+7CReY0MtWJL7niXcNZOsPBfhRfgIC6i/wmsEIri9G+i4jO9IGCRXY9agHaC9kQzdKXgX8EOzl0WbeXsZ8CN+2Q3lnEXBKAovhkTbpC0dKqeaFmliYAvLsgu8hwD2PHErWDI7sxtsQS+v64zx1i0POkwZP2edlIBIfk4McU4rt12f6BxoYw/PC1IT1SMyl60a8xEvuBq1MYZ2pI1+WdBrT0cRSKihA17gnc4OqMklmP5CZmgOEbbfahKcCRvkaPwbIF+foR3/kZH5dEJpVjgeuE9WnKCGMiTH/FOZBPXcvjngPzs6aHu27Vw4asNLkqI+tiWKReRFuNXgzBflXgb6kI+BWPwLMu9hvgMYtu6pQyAB5JJlOYI4QpELlASkh7jEuFCdUfBz6h1LuXUevy5jLyRGr8+JDq7SJKoL+5gSwq2QZVx7VA3LVwtmyqC+03VTt6gyA4v5uRn4A7bRuCjJneNDZTppcXhXZtJ7xndgoWYND6Eg==;23TWU4bF8xelLHl5Xe7sjw=="
 ---

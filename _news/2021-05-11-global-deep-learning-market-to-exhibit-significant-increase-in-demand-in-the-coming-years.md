@@ -174,15 +174,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
-  - title: "Global Artificial Intelligence Market Gains Momentum DURING FORECAST PERIOD of 2021 to 2027 – MRS"
-    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence Market Analysis and Forecast 2020-2026. Latest updated report published by Ma"
-    publishedDateTime: 2021-05-09T22:12:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-market-gains-momentum-during-forecast-period-of-2021-to-2027-mrs/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
   - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
     excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
     publishedDateTime: 2021-05-12T12:47:00Z

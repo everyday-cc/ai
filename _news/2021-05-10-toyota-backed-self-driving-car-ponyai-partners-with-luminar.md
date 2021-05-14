@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Toyota-backed self-driving car Pony.ai partners with Luminar"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor (NYSE: TM) Corp, said on Monday its next-generation technology for robotaxis will be using lidars made by Luminar Technologies, Inc. Lidars are laser-based sensors that are a key component to many autonomous vehicle technologies and help them perceive the environment around the cars."
+    publishedDateTime: 2021-05-14T15:51:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/toyotabacked-selfdriving-car-ponyai-partners-with-luminar-2506931"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA7D094_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
     excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
     publishedDateTime: 2021-05-10T21:00:00Z

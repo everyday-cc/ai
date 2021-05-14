@@ -2,6 +2,101 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-04-12-nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think.md",
+      "title": "NVIDIA DRIVE Atlan promises driverless cars sooner than you’d think",
+      "excerpt": "NVIDIA has revealed its newest chipset for smart cars and autonomous vehicles, with DRIVE Atlan promising to be “an AI data center on wheels” with an exponential uptick in processing",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/",
+      "originalUrl": "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/NEW_NVIDIA-DRIVE-Atlan-SoC.jpg",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/",
+      "publishedDateTime": "2021-04-12T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-aws-launches-next-phase-of-covid-19-diagnostic-tools-with-20m-expanded-scope.md",
+      "title": "AWS launches next phase of COVID-19 diagnostic tools with $20M, expanded scope",
+      "excerpt": "wearables and data analytics tools that use artificial intelligence and machine learning to detect the virus. Starting today, AWS is expanding the scope into three new areas: early disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/",
+      "originalUrl": "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/analysis-2030265_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-nvidia-and-global-computer-makers-launch-industry-standard-enterprise-server-platforms-for-ai.md",
       "title": "NVIDIA and Global Computer Makers Launch Industry-Standard Enterprise Server Platforms for AI",
       "excerpt": "NVIDIA today introduced a new class of NVIDIA-Certified Systems ™, bringing AI within reach for organizations that run their applications on industry-standard enterprise data center infrastructure. These include high-volume enterprise servers from top manufacturers,",
@@ -964,92 +1059,6 @@
       "provider": {
         "name": "dbta.com",
         "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-deeponet-a-deep-neural-network-based-model-to-approximate-linear-and-nonlinear-operators.md",
-      "title": "DeepONet: A deep neural network-based model to approximate linear and nonlinear operators",
-      "excerpt": "Artificial neural networks are known to be highly efficient approximators of continuous functions, which are functions with no sudden changes in values (i.e., discontinuities, holes or jumps in graph representations).",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deeponetadee.jpg",
-          "width": 998,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.amp",
-      "publishedDateTime": "2021-04-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-latest-release-of-the-indico-ipa-platform-delivers-unmatched-scalability-performance-for.md",
-      "title": "Latest Release of the Indico IPA Platform Delivers Unmatched Scalability & Performance for ...",
-      "excerpt": "Indico, a provider of intelligent process automation for the intake, understanding, and automation of document-based workflows, today announced significant enhancements to its award-winning Indico IPA software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

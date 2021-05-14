@@ -102,6 +102,20 @@ related:
       name: West Hawaii Today
       domain: westhawaiitoday.com
     quality: 36
+  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
+    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
+    publishedDateTime: 2021-05-14T12:41:00Z
+    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
 
 secured: "j4gvBWCgjP9cFCiNbTETmW4qo0iIpyRoWB8D/vQcpANm+xOFYStHCX3sY8ooSq2lAS6VdJojDm5FTX86qZLY6UKXdNca0Dij27gppPouHaEZtxcpVlZ+yran+ObiZptSPxgAmyyPXL/3nBnJt2Po8xHYXpwnAF+WQy1HfDDBPks/n5RaWoPqLQDEefqBRep9luHt3MZtqdmatF61Iy2d+ZmlolTN/1r5CT9MKMtQbi/O7G//+RbuAbdcADPF54NO73XpVzkg9N1csOrTI+J2FBFOAd4anAw782ODhv07YLCGF1BH2gkr+kzcqseXxAGcAygxdXImBch7xeAL36t4FFdHRFXeMLM/8+z4ZBbrUET3d3+xCx253KLOrnDS0fTCrbMeZupXYRI2IG1gY8EQtba66t3c3fC64YlVc15EGaggG2UHzKnV6JpfJ6aA9bS1eL9HscrEmFVcHe4teZUxhK/IM+oR2SHVvdUlEWgOQ90VHR271hLftYIjRZoP6EMxAHFKRgPgZTkxkilHIdTfyg==;/E4/Dqltic0bKjlbl/LXfA=="
 ---

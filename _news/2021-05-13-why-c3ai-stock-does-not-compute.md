@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-stock-do
 webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-stock-does-not-compute-1030422978"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,15 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "3 Artificial Intelligence Stocks Leading the New Wave"
-    excerpt: "Artificial Intelligence, AI, may just be the next big idea. It’s not quite new – computer scientists and programmers have been working on ‘intelligent machines’ since the 1950s, at least – but the tech is finally maturing,"
-    publishedDateTime: 2021-05-13T00:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-new-wave-2021-05-12"
+  - title: "4 Artificial Intelligence Stocks To Watch Right Now"
+    excerpt: "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?"
+    publishedDateTime: 2021-05-14T14:24:00Z
+    webUrl: "https://www.entrepreneur.com/article/371987"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Research harnesses AI to fight breast cancer"
+    excerpt: "Breast cancer has recently overtaken lung cancer to become the most common cancer globally, according to the World Health Organization. Advancing the fight against breast cancer, the BreastPathQ Challenge was launched at SPIE Medical Imaging 2019 to support the development of computer-aided diagnosis for assessing breast cancer pathology."
+    publishedDateTime: 2021-05-10T21:01:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/grand-challenge-resear.jpg"
+        width: 920
+        height: 450
+        isCached: true
 
 secured: "BBzOfRIuBfWmnW8SjBMYAyvDsbeu4m+PMF3oTKjhRSjlSpvHcbCooSYENEVJETBV4uZYbiu6XoKO4N193MvdIHHiZQ6pXgat0P5Mm+BUXCm85IwiaDaMFb2XNwRfARoRI+ycwll17erYfXPbA5vg7xnHaqtVzA4bHjPvqIw+bKPu+q2EVq1Abp7G1nOgIALZhvSM579JQcN01SY6To1jbjdp11p/wzn1cP5bcJRdEmw1eDRVS48UQILZPqwY6kFa9zdHDkLYE7R5CqlWqYoecMO7iB8yd9vm4h0SY1myhGzvMtRdAwCAaMVnMDY5D7x3PQtWB0cS+Dtb6xxAYX3ICSUFzjJeYAOaU4R4zxaQANk=;UcdaLIpinvxU9pyiXul5nw=="
 ---

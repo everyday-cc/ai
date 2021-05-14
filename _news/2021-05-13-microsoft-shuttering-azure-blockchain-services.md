@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-service
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1493833/Core_Scientific_Logo.jpg"
         width: 400
         height: 369
-        isCached: true
-  - title: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology"
-    excerpt: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology Platon Now Offers Breakthrough Solutions to Break the Data Island and Release the Value Potential Singapore,"
-    publishedDateTime: 2021-05-12T10:45:00Z
-    webUrl: "https://menafn.com/1102066078/Data-Island-Problem-Can-Be-Solved-by-Combining-Privacy-Computing-AI-and-Blockchain-Technology"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "3VZKnEJZQajcvKgGWfrfAAd+52g1TuGMlw4hctywT0+Kwxb+JnEGGGPXgaHZ8JIpo6PApIW9T8g52hJuXaAr8gsYn6gsitxi+Jcn2Uvk+tELBX3UqKLsCS+69OZp2OJ+1DSdfDx8VInI8IBWSvs+QEupNuNRl1cqGzduCUpNzlx82IBph7/otkLUDj/RO3Ga12/Z2kzfMR/MMbsyiwEfOGw3+Wh9Wjr+Y6H3Zck5YZfoE4hao5Z0yP/kUV+NSGd/KKtDLGcInWQLP/Uzox64qfnaSPZ2PQCiP6HGqPVinzoX8zpGct6Je3OX8lP/sF2oJziCfRTchozLQDx6Odh84OBgwX7o/D+zLSyHP/6tDqgC3Awa+iOzycArfiVvlmJbjxEXhTWHEiX39Atg0x+ysCSV/PRdR/fFArLsCgDDmuVSEgq6wDHLS+swR+PVo9+4tJ+InMKjkjfPkDN4ytx6iJdGOLpdYSJ/NGQv8NSs8vfy8qu5Qh+ApCwSZjkQH82J1qvndGteAb20o5NK1fyimw==;z/xXH/x+X1Mzc/YGID2SVg=="

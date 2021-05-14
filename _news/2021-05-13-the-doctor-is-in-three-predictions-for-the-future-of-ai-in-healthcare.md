@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/1
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1428
         height: 644
         isCached: true
+  - title: "AI and the Lab of the Future"
+    excerpt: "The laboratory of the future does not look at all like what we think of today—a fluorescent-lit room bound by four walls and a fume hood. The laboratory of the future will be a network of physical and virtual spaces,"
+    publishedDateTime: 2021-05-14T15:44:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/05/14/ai-and-the-lab-of-the-future"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 19
 
 secured: "Vqb18n1Y/GfcggOKjh9vnyra6wRFngSlYg2a4gAQ0lmkRQOTzccX55+SYnaemXnHUYViG5dZKxbh1Z3rPGjtic5FGeDqO+ptxjRat2YTUqZfbCfTa+gYopxmJtwSW7gSUevfmEFe2/uWQMB+ekfj2tf40xRiBznHGl3Skg2oO4Udwrjbozy39O6yBf+KA1wL4ChpH8Io989aOeUjR+xwbU9+kvuulNJ5FRfMp2GJsWUp0dZIwl8mOKdNdWAwMNstcr9ChAc4+YMvKNN2QSzd7iYgOjYIS8TBMnharmEkdU6GMSnA50CPiT4/CMzlHPu0XVFJMMYPDwc/dNIZQGvVeo38aonDUlkTVlKpcITb+JPH/8mPEeEL1XB0ayoZS8tupJPNCO38ZSRbx2LBGjDuG6ylw/c9VHHbI38qM7lmvHuhy6iN1cc43kbCEkxNV/cytyavUK1+lDvaSu7p0GigTtWIeS/eqROznlEDdt6sDB1ggjBGyaALAXR0yALTgJCJ3uF7BDcmZzI0a4H6gY4tJQ==;bXflcZgtbzN/oqOennf6Mw=="
 ---

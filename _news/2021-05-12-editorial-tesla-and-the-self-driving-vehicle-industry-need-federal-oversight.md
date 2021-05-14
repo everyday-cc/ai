@@ -101,6 +101,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
+    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
+    publishedDateTime: 2021-05-14T12:41:00Z
+    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
 
 secured: "u8IwU8JWmM//9X73LfyD71+g2IvdNWSy9gYpwhTYcdVOaa3FtIFQcM1EsbsC6s6Dy7DpUBenE4eZAKzfGi3QLXJgu9tzjp9WqDYk2Obxdg7FhV0JEmaZT9fYZNI/Xg6sTxazu+7luE5X6l6CDD9mCgydLe+EUGXjmq4wMYYvtN5GFR3RGKfuF3NxkDzbF8E1CcjHAfQMSMxT4Ovo7+vlOLr/84BlTTvZOaiF8T3cCMFWzxw0x6NwkirMVRVXTH7Huw1xaxXqlNAJ3e3ASThMajwEK0jfPjPyfr/PrAS64EUCs9zrHuquiOFi4SD/GO0Z1LytoeosW7AgcL81H8M1Adv7u99+fNTofcWzWIEgRf4=;ACh6p7C2a0UWHrsuv2ZraA=="
 ---

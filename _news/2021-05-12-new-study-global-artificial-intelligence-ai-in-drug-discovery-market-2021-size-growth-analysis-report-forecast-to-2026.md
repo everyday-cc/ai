@@ -164,15 +164,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Global Artificial Intelligence Market Gains Momentum DURING FORECAST PERIOD of 2021 to 2027 – MRS"
-    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence Market Analysis and Forecast 2020-2026. Latest updated report published by Ma"
-    publishedDateTime: 2021-05-09T22:12:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-market-gains-momentum-during-forecast-period-of-2021-to-2027-mrs/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
   - title: "Global Deep Learning Market to Exhibit Significant Increase in Demand in the Coming Years"
     excerpt: "A new report has recently been published by Persistence Market Research to present a comprehensive analysis of the global deep learning market. Titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027),"
     publishedDateTime: 2021-05-11T09:11:00Z

@@ -57,20 +57,6 @@ related:
         width: 400
         height: 369
         isCached: true
-  - title: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology"
-    excerpt: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology Platon Now Offers Breakthrough Solutions to Break the Data Island and Release the Value Potential Singapore,"
-    publishedDateTime: 2021-05-12T10:45:00Z
-    webUrl: "https://menafn.com/1102066078/Data-Island-Problem-Can-Be-Solved-by-Combining-Privacy-Computing-AI-and-Blockchain-Technology"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "03HPkXTPdYtvrVa0XXo7tFnnSQdETgbkzKr+ghF9z9JCzKu9oYW3ZhtDuhF4mPvaIHYBFfhMM1ot2wDKPQXQO8z/mqwXToaASWYLK5xiYj+qeVanf/rnPuR/4NmwGKWQlDOchiKOACOg3dScgE+vHYs+JeeGc6j97y/hi0pWUKxodAX0770mN7etHJFhBI3dBx0T5XPmF8eGJHvt/KboyxgtCzRh6klYQxiARqEGSZKLloeRHQeyZWWmzou1m+YViSBfoxDZB57kjcF1Kz5DSK3dgVnJynBhlApNUwhsi2ajRsDGeXGrnrm+7tBiDQMsrlwJjk1eagLNC0o222jKH9gsWrmZFRhS1Ppmt2DuJ6Q=;6bpGuMn/KHfsMtXfSbZHQQ=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Veritone Announces Support for AWS for Media & Entertainment Initiative"
-excerpt: "AWS for Media & Entertainment is an initiative featuring new and existing services and solutions from AWS and AWS Partners, built specifically for content creators, rights holders, producers, broadcasters,"
-publishedDateTime: 2021-04-29T11:31:00Z
-originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_79f2060c-8908-5f32-8e20-8b462160d1d9.html"
-webUrl: "https://www.northwestgeorgianews.com/associated_press/business/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_79f2060c-8908-5f32-8e20-8b462160d1d9.html"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, announced support for the AWS for Media & Entertainment initiative from ..."
+publishedDateTime: 2021-04-29T12:18:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html"
+webUrl: "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html"
 type: article
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/3/af/3af29790-58d4-535d-a192-0db1ea2c24dd/608a9cd90f0e3.image.jpg?resize=1181%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/8b/c8b5b739-be2c-5990-9bd7-43368bd99665/608a9cec01459.image.jpg?resize=1181%2C630"
     width: 1181
     height: 630
     isCached: true
 
-secured: "6nM7c6jAGAHaUrygB1MDwDjldQdF+R7ccm81LcUBowE707Mod7KJn3LorHRVwGEuIz+5QQ5mb9/uZIZITtKfHoMnw0wVUH5qHIUGqujRIF2qooai4gKKsaNBdJ9/K2HEBBllu0ZqLj6vDj9dfsnPdykBY22W7cqHwExjA6MjCgHuvDSmtXVJGKRBRddWvHcas1/DtXxB9XSecFgH37MZawyReLic9SdXLsAsGjE/p7y1KrjU5LtXnX5KyrB75f+NhC8sRIj8LTSfz4frJnIcMAhfyCS06lvOQpeLYGTmtKIRkp2N27+YEaW0C2UAI4k2mwy5hRwXBCU8yZHszC6IJIsLwWowSq9iToD/OBoX5za6e9jBnz8V2rL+OPHJn4yxGNWZ40rPr80+TAdmf4Uc6OT5zQfrNEV13dlnoGGP94wazFb8ME2E+Kaq6kdj2kpaKW89zU3UxoH4QIz1qsfFLG0CpR1Jc1WyvUX7rvucB3lQY8/RFVLNycpX7v5axh2sLnvpz6lpdlMRrUQGSNZSig==;Cye3uhBpSAsP8uNxFlChkg=="
+secured: "EzaMuSgVc2JSEQp4cKd4K8uYYUcWsyoGQoUGIaTyybvK2UIJgfmBRIpZ6nzd49zzrj+Q4UH6+1/kEtPMLIfzyTtQCt9ovOk1zLxv5DLNgVQisxyQYUmST8/Ngd5WpdhW8rQLt05tiLSGmJ5tjVzD6It3+zN9RavFlO9z1UvvvmWM62isTYUjMG7O22K+ScjKJgX/+YrZgzIOLe1vpFGkwiwo1waMxRnu5r5fodNsQrpeCRkJIwSy7mo+X/ih81MhlVafjJrpIUZPqHRQD6JOgtrzqNO5jQBYgwWvlWg0Ld7QsD/Pw5OgyegNgvqRWkNBeBodD5c7Nak2sy5bW0O3NdZJ3LnFSha+a50Dr7DS/zo=;J5Yku7mhLWnd6NJ7n+TD8A=="
 ---
 

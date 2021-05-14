@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       name: West Hawaii Today
       domain: westhawaiitoday.com
     quality: 36
+  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
+    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
+    publishedDateTime: 2021-05-14T12:41:00Z
+    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
 
 secured: "7dIBnEkjYwoVW2hdS4x7eH2PdFuK+G1AyOZeEDEYNcyhJqDyQvUSjmmVmolKp06BrKvoYK073E0D2VaujEMDE/3Pei1g/OGClAud4cGLCgfSgDrb+6WXng5yHx++wxO4yNMaTdI2G9PqP2ZZ8uP6+gR1prOnqdYhawqkhVe5WcJC8OqXkLrbV2/ZYAAMewEshlDJzNOU/Owc/eVajyocliKvdGaCRLS2H/Zfjttedo4s2qoW4umhwhjfiHdD03g7jjYu86sl3MieV8W6ED3bqSsQnBKciueWq0LORoXocmcRdNpD2k5mMYI83ZhcVbPKX7zD+X+6bk4wkvHfwCGlepGZJQeSZCQr5/tlYP/E0+dBF5PXxQ1hiRyWy1iyijV7rQ7efjbbM0oAccbNp2M2XosphPEQ5ZAokP9p9s5nrDFEaK4srHwwsJDcG205IjtJjN8Weyt1H9kMiLT/BcGam53bCbmKkxYjErhYTgA9TJ5TwSwCriPGiUBQEjzdrv4AO57eFg/3guesL56FrVZw3w==;I024xJC3PRM9bHcq+JrZ6w=="
 ---

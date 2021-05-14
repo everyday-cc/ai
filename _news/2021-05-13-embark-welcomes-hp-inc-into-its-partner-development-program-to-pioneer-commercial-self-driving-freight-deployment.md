@@ -2,25 +2,27 @@
 category: news
 title: "Embark Welcomes HP Inc. Into Its Partner Development Program to Pioneer Commercial Self-Driving Freight Deployment"
 excerpt: "Embark Trucks Inc., a leading developer of autonomous technology for the trucking industry, today announced that HP Inc. is joining its Partner Development Program (PDP) to test and deploy autonomous freight within its carrier network."
-publishedDateTime: 2021-05-13T15:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/embark-welcomes-hp-inc-into-its-partner-development-program-to-pioneer-commercial-self-driving-freight-deployment-1030426704"
-webUrl: "https://markets.businessinsider.com/news/stocks/embark-welcomes-hp-inc-into-its-partner-development-program-to-pioneer-commercial-self-driving-freight-deployment-1030426704"
+publishedDateTime: 2021-05-13T15:06:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-9ac90f30f8eb473b3f3342107ffa32e2"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-9ac90f30f8eb473b3f3342107ffa32e2"
 type: article
-quality: 12
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Aeva Technologies Inc: Jumps on self-driving car sensor development deal"
@@ -35,6 +37,6 @@ related:
       domain: nationalpost.com
     quality: 23
 
-secured: "H2c3Wd8x1yLMFG4BheUTkNg+7KxkQWY/V8fmBE4VwN5vrm4Nr0p09tSCc0bfWY9jr390ywySgrH8RJqaIOgwIdOi9KPkjzUlInhg+3AzBhVxASwiDlq5HKCk1rRGE0QKnGzioSVH/ZOOvapgJo3RdM7tB8RKg9ws18jUI8IfSThxvrV3w+AJhzSbrCgUQxiWr5u1+mwRr5Soo+BJ7FVt+MPJCOmE9tWL4ZABypf7K8lhxqqvTzfGh7TdSGxPwKgbSpDjzHLHwA11hwHvXwsUBiSw2ClnvBP5maVCq2abq4dwUbHrDFgT0glpHV3qMXlzNX3pCBkLWMfbUV0P61vLjm4nKWy6LQ+icDS4iYA/hb8=;IxSLbRQuci5WaaK/cjnntg=="
+secured: "31ltjSnHfMmXVe0SBOJ340z3+YdoAPXGH4tkBnOPBxvENtTegpANszl24Yvsusoxsgu9la+N4XOFDVdbl/QCTt0w5tle5qED3UXr5JFw4mSwE0crzJYWoRKwwmeEe0F6kajcCsTOjyYlbv7GcbNqxIQ91vSUEeWyDtQ1QN2sEzQJuMFQIGEIrLJQRYTbM8l5mEiVpToKTwNEW26HHmLus2fpHPyu+DOIe4Og/L5r+sqQ4971FMcUS8pFDdco5OaczCjWQtrguNGbV2z2AddjRrZPQWVGTjEHXhgk1Pd57SF45G/aL/DstfeSXU/yvzJwR0R5PQbMX3yST6ISaWZy4hJJZskg8LrjbFlwRqOKDrU=;Rk3+gPURSaPl/PRIoUHFnw=="
 ---
 

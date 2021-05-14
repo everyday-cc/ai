@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-04-01-using-artificial-intelligence-to-discover-new-drug-treatments-science-next.md",
+      "title": "Using Artificial Intelligence To Discover New Drug Treatments: Science Next",
+      "excerpt": "In the fields of medicine and pharmacology, drugs have historically been discovered either by identifying active ingredients from traditional remedies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
+      "originalUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/6e23bb3/2147483647/strip/true/crop/1109x683+46+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrkf%2Ffiles%2F202103%2FAI_AVPs.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
+      "cdnAmpWebUrl": "https://www-wrkf-org.cdn.ampproject.org/c/s/www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
+      "publishedDateTime": "2021-03-31T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRKF",
+        "domain": "wrkf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company.md",
+      "title": "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company",
+      "excerpt": "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-ai-startup-kinta-aims-to-make-manufacturing-smarter-and-its-backed-by-rising-star-investor-lachy-groom.md",
       "title": "AI startup Kinta aims to make manufacturing smarter, and it's backed by rising star investor Lachy Groom",
       "excerpt": "Kinta, which runs an AI platform to make manufacturing more efficient, raised $5.5 million from Lachy Groom and Mo Koyfman's Shine Capital.",
@@ -1021,93 +1116,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
-      "title": "Rust detection using machine learning on AWS",
-      "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T09:20:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems.md",
-      "title": "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems",
-      "excerpt": "DDN A3I Storage Accelerates AI Recommendation Systems, Image Analysis and Natural Language Processing with Up to 46 Times More IOPS on GPU",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
