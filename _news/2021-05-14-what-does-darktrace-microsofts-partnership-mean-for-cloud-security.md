@@ -72,20 +72,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
-    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
-    publishedDateTime: 2021-05-09T15:04:00Z
-    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 54
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
-        width: 768
-        height: 419
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z
@@ -133,6 +119,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "QJI4LPXGSAsQ+O+pAJ6oYw2F8FYavSHq7K2HhIMco5+IYw9/kKb88PTUp/SwhnO8KGSFIu/kQONmYFO1SMAfo+s2vqYuIpFC39lYY3OX4Y9XZl5L03x+gQ+w6JeGQlyGNXD7u4FqSNz4/IEM43i07rtl5X+35rKDSGj32YNePRv3+ks/KVX/8FldITWHBUnmUV9ACut12IS5YZ49T8PLjWDOP9nZqatOYb+KshqISPtan4TN3Wb/xGuhTojb9zYq05B/7RcWX1S4YgcwO70cq0ZjEzY1qu0sjhBtjJIxZ81d/XSKASXVxNSP6qkioscAB0mQ4rOSW9Jic/scLQI9FTQP6jlThhLO3GYgYysxu2k=;VOc4/AS/saagCE0FAk88zw=="
+secured: "JjZO3jK15UmR0ElBPrEAVAiAfidPifaYWPoF5f7+H4qdCW7iqtD9PIrABWn7vqu7SWwtcZUeFZiTk8jhkCoJW5KMeAe3xwbBbZHhsJkXybSLrj9bkKflriKRLIZJIRrPeuC0cpKwrUehDocerEDwhqvM1eLBXTk4RADRAam1s9FIvJ3/RpzRE+uunt/GSFdGjr3IuHQ37kEyLq3pBT5ao9mSV8by2N0wro5sIEc4cMbrkzcLkEOWd1WfR+LJ4LJ6W4Gzdgg/GtVDeRUkrRaMDD/0Jta49GIchGCPpymHzBS/lZvP32oXmzrtyCeKvclHOo0KoUjJSFVgiBBkii+bZGP2ePLj9yYsG0YKg0qDSWHQhI0Y3o2KEmz35lZzCiYdQxF5eXkdZM3JM/dI2yzr7X5/VyVFdR2TDArtjH37mfQ1xQ3s6skK2z40kTGD8KXXFFD4oFB+S/7dz0rAYt4Q4qWb01vUXPTl5XYJstcydt7Au/o2h7iCoHINFx2VPAPBhTy/brBV+06fTNVAcmSJ3w==;Onb2v77V+q4BoC+QfTOc4w=="
 ---
 

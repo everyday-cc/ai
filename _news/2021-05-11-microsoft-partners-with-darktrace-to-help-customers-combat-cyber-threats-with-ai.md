@@ -75,20 +75,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
-    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
-    publishedDateTime: 2021-05-09T15:04:00Z
-    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 54
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
-        width: 768
-        height: 419
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z

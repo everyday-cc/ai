@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/1
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2021/05/AI-in-healthcare.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "An Optimist’s Take on AI and the Future of Architecture"
+    excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."
+    publishedDateTime: 2021-05-14T08:08:00Z
+    webUrl: "https://www.archdaily.com/961547/an-optimists-take-on-ai-and-the-future-of-architecture"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 37
+    images:
+      - url: "https://images.adsttc.com/media/images/609b/9796/c890/d701/642e/272b/large_jpg/ai-buildings-2-larger-1428x644.jpg?1620809626"
+        width: 1428
+        height: 644
         isCached: true
 
 secured: "Vqb18n1Y/GfcggOKjh9vnyra6wRFngSlYg2a4gAQ0lmkRQOTzccX55+SYnaemXnHUYViG5dZKxbh1Z3rPGjtic5FGeDqO+ptxjRat2YTUqZfbCfTa+gYopxmJtwSW7gSUevfmEFe2/uWQMB+ekfj2tf40xRiBznHGl3Skg2oO4Udwrjbozy39O6yBf+KA1wL4ChpH8Io989aOeUjR+xwbU9+kvuulNJ5FRfMp2GJsWUp0dZIwl8mOKdNdWAwMNstcr9ChAc4+YMvKNN2QSzd7iYgOjYIS8TBMnharmEkdU6GMSnA50CPiT4/CMzlHPu0XVFJMMYPDwc/dNIZQGvVeo38aonDUlkTVlKpcITb+JPH/8mPEeEL1XB0ayoZS8tupJPNCO38ZSRbx2LBGjDuG6ylw/c9VHHbI38qM7lmvHuhy6iN1cc43kbCEkxNV/cytyavUK1+lDvaSu7p0GigTtWIeS/eqROznlEDdt6sDB1ggjBGyaALAXR0yALTgJCJ3uF7BDcmZzI0a4H6gY4tJQ==;bXflcZgtbzN/oqOennf6Mw=="

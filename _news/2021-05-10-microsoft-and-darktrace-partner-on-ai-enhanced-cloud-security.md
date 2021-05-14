@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
 type: article
 quality: 121
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Microsoft-image-credits-mathew-manuel-for-unsplash.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
-    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
-    publishedDateTime: 2021-05-09T15:04:00Z
-    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 54
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
-        width: 768
-        height: 419
         isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."

@@ -108,6 +108,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Highlights From IBM’s Think 2021 Conference"
+    excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"
+    publishedDateTime: 2021-05-14T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/highlights-from-ibms-think-2021-conference/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/IBM.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
 
 secured: "Vbt4mVGxXyf2KYPJCPPmSvugxwpHm7qgPIkYdkKHuN6AxIwjpBY/RwPOF4+DFVSYvPt+I5bzegEgTgtlsv9KTKPUWdqaTrS39GX+SiVD70bGM5xC60DCVY4jiI8M529fXBTqRsTnJcoYWiqvMFqf8XBMia9YxQxtobnYi2NO1T8vEi9c5hxwzGrBErOKUX1U1wmzMGzufTvMwBLDiWMCiL979Pa3fbFeZuXpmpc36bd1oh80H3rL5m6DhsnvWvBLjfZz+s7rERq0yFxNkAzCCw5PbKEnpHsCGcaBqqX/pipn1wWSIayMJyCZhB44gIfb4dZUhXa4WhVR+uuIwVXOOjL4izRaOhyeY+fiQyHFAPPWy+pmzy/V5tL5vbWi+/2lomfQFQxahNw/lEz30KZDm3EV6ObF3Fk7MmmeGary2HjXmNdYCUphoyrvEgCpGKIjPT9lpJHixpjuuzF3R67c7bcrODG5z54Iyw9lzNMNZ93PbJgAirfAhFqa6QP1HFkSFuRb/IMAs9p6/8xMoxPwXA==;m1rBdxvqmKGOWH+dAlSHpQ=="
 ---

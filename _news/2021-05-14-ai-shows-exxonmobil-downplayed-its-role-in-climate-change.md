@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate
 ampWebUrl: "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/609c6715518969560d194728/master/pass/business_exxon-mobil_1210615224.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1591
     isCached: true
 
-secured: "SUS7PPeHk69SmcoUgdEq0G64a+jMKa9mVfqJvxXOM5P4ueKXyZ4BoJnPs3/gdqBYpWJqlWemvE5Q2BkgqJucLzZ6YmqBg8Dtl5JLzIoSEyTlcVYCedAgJfBQtdBc/itffp86HSgVQsQJn0SPEoHMR9s6WDHhT22g2DaLhwMdC8AUVH/TgrlfgezlR2dT4falIAPPmolpLVd2U6Xw2YyJM4OAPAmlGbqhg1B6Mm9b5LUf47fMiXZDdUmuvEIE9MOfJHq2PcJgtlvrAE19sfDopLOmEtajHkdJwiMYca/QUSzk2mc5DtludNL4JnzxnlabquRyUhanqvXrEyVT/ovtOjmTvoKG8cDpU4sxrnW00mw=;4gPH6nProy92GUVVsR2UtA=="
+secured: "hj+QPVh7rJE46ytkecdBa03LMww0c5OlzjXayTQBcDY8QR4Luxng0kT4RfAEzlXUBGiu7uw/Jgu2Lq+VrgYv7yXCOL92t/PeXuRFYubG9kGBPprlNMmDDhUufHXYB7tsFXsazWxPEpwuly0E4guKtmCt4SnbKV8PB6dLkMqUU5tFNckfYtt2+flluOI3pASkFgwsfGJhH1tcmMCjhVd8O0ZN1efaolk79YQbqDFrSdzvYYGHqtOnZF9JinW1p/9moDBvzP1E3CJ/A+2x3jEZI6lnxPFYMKlE3nz8j0SMY/+LTHRJ/l84FknhNppCOCRnb/0iK0JJO7a52deI8Ra+J2qLd6iRIqL4tYQ8uVjbh5+wLJGih4sMOOivYzHPsIl5B4blGQEIgPBWgRQ/zB1qYU6dBJtVCu/RTvAtiOmQYX2PDJqYj0e52zlA/LPGzHCewxlPw7yD0Oi7ESmw/UjhrOVByGd0+koq4vp0mrocqPD4sP6K8e9jIjkoZ9FqZH0i+zkZ9SyW0ee/OCCNbr5yag==;yWwa+LLms2V9Ui2aRlmd2w=="
 ---
 

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "An Optimist’s Take on AI and the Future of Architecture"
+    excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."
+    publishedDateTime: 2021-05-14T08:08:00Z
+    webUrl: "https://www.archdaily.com/961547/an-optimists-take-on-ai-and-the-future-of-architecture"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 37
+    images:
+      - url: "https://images.adsttc.com/media/images/609b/9796/c890/d701/642e/272b/large_jpg/ai-buildings-2-larger-1428x644.jpg?1620809626"
+        width: 1428
+        height: 644
+        isCached: true
 
 secured: "UPGxqh8PCQGog/zXXlFhVaa57zt50iOcTmSU0Olv0mLbjfgrJq5sHOadR+HkzXDQ71Z7jHsaO8dWZ8VmssDOndHoTcZMZF/Uo3UoxX1qH8D2SDWOTaiXI7Jgw9r9gRVGxkxjM9Yvk1bn1Osr11uDI1swA33fWdUwnt/VHIDEo+lk9tpfl5f3Nmfm2fGw0K1VmTSlhLsCZDgvRHGy4eyt9MPRRJQjVSOv4eLRXJEFgYW58aOhcGUvFqhGLzGca9l4JZQwF6p3kLX50t5Vy8mFFc4rKU3TGqKuJlhX3sDO1fp6c/FQl7Bw3TSuzZY+3AUYTKb9D/i3r7GIVQaN7Q18k5FqldA05Ugu5k2Q4ifTCWr96Sbl5HSR/KWpp8z+EJT12EJ/+uTfD6P31xOMu8fkzr4PGMCDQ/WFNAMvIBsEPIgnBYHmod8DIVlN9BOntLBueZlAKQ7PPQny81fsOur7BMOrIqNJMpZj+ouzcVj7cwPt8JJezPgaRd+BtYBpSShDBIyqzTIr66rcqmMucX0x3A==;7gcwWX21maTuYpm5of6TaA=="
 ---
