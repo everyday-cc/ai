@@ -2,6 +2,40 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-04-13-gms-cruise-to-operate-all-electric-driverless-cars-in-dubai.md",
+      "title": "GM’s Cruise to operate all-electric driverless cars in Dubai",
+      "excerpt": "The partnership, Dubai officials said, aims to reduce traffic accidents, cut pollution and save money while converting 25% of all trips in the city to driverless transport by 2030. As part of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/",
+      "originalUrl": "https://www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/?amp=1",
+      "publishedDateTime": "2021-04-12T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-what-microsofts-197-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech.md",
       "title": "What Microsoft's $19.7 billion purchase of Nuance could mean for AI and speech tech",
       "excerpt": "Carlsson said of Monday's news, \"This has been proceeded by a major shakeup internally in Microsoft when it comes to AI—both organizationally (key Azure Cognitive Services individuals are now at Oracle) and technically (the services are being ...",
@@ -1043,49 +1077,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-amazon-gives-out-12m-under-next-phase-of-aws-diagnostics-development-initiative.md",
-      "title": "Amazon gives out $12M under next phase of AWS diagnostics development initiative",
-      "excerpt": "Amazon said it would invest an initial $20 million, and that the initiative would be open to accredited research institutions and private entities that are using AWS to support ... data analytics tools that use artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/operations/amazon-gives-out-12m-under-next-phase-aws-diagnostics-development-initiative",
-      "originalUrl": "https://www.modernhealthcare.com/operations/amazon-gives-out-12m-under-next-phase-aws-diagnostics-development-initiative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Amazon_sized_getty_i.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-    publishedDateTime: 2021-05-11T16:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI analytics predict COVID-19 patients' daily trajectory in UK intensive care"
     excerpt: "Researchers used AI to identify which daily changing clinical parameters best predict intervention responses in critically ill COVID-19 patients."
     publishedDateTime: 2021-05-11T13:58:00Z
@@ -115,6 +101,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
+    publishedDateTime: 2021-05-11T14:53:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
     publishedDateTime: 2021-05-11T21:41:00Z
@@ -130,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Pv4KtQ5AsPDAdX+8RjUfVgmX7YJ0Lbx76c9vwhiNfcJWjf9nr6+Hhi+JO/GcuzCGmdAFijAn9S5L3iIwTQQm4rXpgSPI76DfK1pcCdiGgXFrnRxu7MiXt/PhvF6LuKXLKoHlhfn1aGYHTOJisDKwR9Gp9KRnxDM+TTBDoOdk6kuv7gkQtsP0/G5UBF+u1H5kia3g9k5UQAhceSJcArnLReQvUIOySlG7oa7Tp1+suxOG7Y8foI3YpDPCAw1+yxsWRa29dHkY0bGP3O4FKYNDXngl3wKXTAmbE4Bu1V92Rz46XbXaxCbt3b+rZ5lytNN5pYMCuKA21PT7iouvLIqilRQQ1FitqvkvYOzfoMxr0XY=;VuqGsh2TKUuGsBBiOHF7WQ=="
+secured: "krIA+VkHCdZ9scmVKxzFLqHH39Hiiu99JC5zyFJEFaKRGtdcFwq6bYiGPpbPQSUfN8IJy1p24P+k8oFNZT1Op8O1aaYG+TRdfSixfAXjuOUAgzPSAgxPgBTs5xwGIopFsckRH3cyLqQf1ByCUmQace74AhNL5sV3vp3qgqTpze22eAME4cj8BpycUgEFKCQZSeUeQL7NUipM+XBKl+DqaCbcsfGFokEmdU/LJ+e+JhJSHP2Elz8CoAj2SxERhgb6lo2JUyyZdk74lBw/OlL5mKmvxH7Xd9gDg7XzAQmUfTgCCawBSd6PNKnQa6SzzfyU/j5LNC9exxGAQ1Mr7KLy981yN0M5VwsT9wvO2Ylrpmr523bT0PELzA7+jtmcEZ7gJx/yxx/iyfhrd/J4Zk86q3K1Gh4U3KpA3O70ZJ+OpfI9htdqWUrbhz5GOxIGthjZjPp1C32RM6hQZu5c4Q+Uu4ZMQe47yk+la2wDyaC+Pn/D2cbdLP5GzhXb26Rfl4b/iMAvIQ94hkl1zEjIKQ9TJg==;eT9ABHCM/KvDWKa8MsF60Q=="
 ---
 

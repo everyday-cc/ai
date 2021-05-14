@@ -2,6 +2,41 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
+      "excerpt": "The DEEBOT N8 Family dToF laser detection has doubled the distance recognition capabilities with a four-fold improvement in object recognition. Detection distance is enhanced to 10 meters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-logitech-and-baidu-brian-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
       "title": "Logitech and Baidu Brian Partner to Transform the Way We Work Using AI and Voice",
       "excerpt": "“We saw an opportunity to leverage the power of Baidu AI to bring fast ... and enable smooth communication for people with language barriers.” Compatible with both Windows and Mac computers ...",
@@ -1035,40 +1070,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-gms-cruise-to-operate-all-electric-driverless-cars-in-dubai.md",
-      "title": "GM’s Cruise to operate all-electric driverless cars in Dubai",
-      "excerpt": "The partnership, Dubai officials said, aims to reduce traffic accidents, cut pollution and save money while converting 25% of all trips in the city to driverless transport by 2030. As part of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/",
-      "originalUrl": "https://www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/?amp=1",
-      "publishedDateTime": "2021-04-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

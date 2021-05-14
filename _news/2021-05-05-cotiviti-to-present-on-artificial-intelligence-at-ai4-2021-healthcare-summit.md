@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Cotiviti to Present on Artificial Intelligence at Ai4 2021 Healthcare Summit"
-excerpt: "Cotiviti, a leader in data-driven healthcare solutions, will share insights on how organizations can use AI technologies to reduce healthcare fraud, waste, and abuse (FWA) at the Ai4 2021 Healthcare Summit."
+excerpt: "Cotiviti EVP Nicole Neumarker will speak on how to reduce healthcare fraud and waste using artificial intelligence at the Ai4 2021 Healthcare Summit."
 publishedDateTime: 2021-05-05T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/cotiviti-to-present-on-artificial-intelligence-at-ai4-2021-healthcare-summit/"
-webUrl: "https://www.financialbuzz.com/cotiviti-to-present-on-artificial-intelligence-at-ai4-2021-healthcare-summit/"
+originalUrl: "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit"
+webUrl: "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "PGm1aDAfuf0vOaZb4iK52JVZfKJOpOqPVeVewoo9ZModxUdfX3Torjya7rHcD5HoQEANqbBCIOFWiQsRmXjUDQsEUXjWh7ExfTu0hE3b/dknyoPkehsqQYCjTfVF6+amjlYcdPlf380IFC1XYOlhV3zj7lJkhQrJrGhqKLJk79iVtyUe1D2e+H9/B/26SKMx0MXK+6LZrRvVl6NmY69Sqf1JEWjrwdXJu7wPgR91YI0SfekmUWLXzowoJXy+7QBao/sZs3GgbAtg8JbcggJr2mODtohlqkFc41iPB76dttWxjSAq39ShFVyo+4SP5CGQq0jTMpPn1NlZ375fZWlFI1HatCyi8FlHV+FSNG8jRssl4kAxlR1gqCFYvfEnqrn9cn3iDfSsCFWXMXX7/rEcM8TCSpHFfkNSpPSUwkjHveS6i+VahUIsdny8QsSFtOx2Kh1uCIbZWXJ9f3cdPjBbmaA6vzeUDX2M679qf1q8lIY+VzyZtXMew+Ulkrx8vm5ob2NgbAjbhYzgGu3uhcAAjg==;Il09k7LNnu5cBR9L6j5Fhg=="
+secured: "z6j6DMQWr6te7u3/u+6IX8m77+pC1ZnCzRGxzI6Yeb/RFx/7EFcWKO4n/ms6ktfofiIisnF4LgXJ2U4wc/8KDLRQ5Q/P17ddvO/GLAt64xDHn6Uf9+c75TSzUKMG3P8CyZFKPBJm+pcYPxq4adobrvda6rGIStnlumNVS9nlGhdU/IUiAkhZLNAWCJWeQkpzFfigd82IhIZ7dOXNmbij4aCwiziZzGPR/RC0gaFzlov4J3RjufbCr8Vh837NKJhITtK1B8KMBD/5/T+Cjo89wTJtYwSUqnavPQ02dyRfrL2HuaHqPi5dFnWQwUxnnWY3oRrSTiS2LXHyOg6BH0tojFq36W0Hx66Y+mPWKmAA/3g2gsDIxmltzZ3Tc9v3wUkgpaOofql5QOrP9mCgRb6n22mOifoY/vxsF+73G9vtO/kpxFRNMZyYnyqI35gpc5A+ihYpeU4zGjODhijvJuchFgHgbwsEXyS9dNfLwpOxvLIiweqVqLGhutNe39MAuW4/oJkG6CZW4FXdlvQWp+86aQ==;5E9/QYCttpcZVJg/ZLT9Ag=="
 ---
 

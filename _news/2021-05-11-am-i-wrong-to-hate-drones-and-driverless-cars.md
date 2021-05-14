@@ -63,6 +63,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Chinese self-driving startup WeRide valued at 3.3 bln USD"
+    excerpt: "Chinese self-driving startup WeRide announced Thursday that it has closed a Series C round of funding, giving it a valuation of 3.3 billion U.S. dollars."
+    publishedDateTime: 2021-05-13T23:24:00Z
+    webUrl: "https://www.macaubusiness.com/chinese-self-driving-startup-weride-valued-at-3-3-bln-usd/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 24
+    images:
+      - url: "https://www.macaubusiness.com/wp-content/uploads/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
+        isCached: true
 
 secured: "VkBCmlMOpshgoykYiQl2FWTe1vWZKSyHc9GueXfVd4Ik5Y9xsIAIPELWuUHK1Z0xoosE7bRS+81zc7Z8ibYRSjGAPjRk41XTDdFhuIBSeWc0LQdemdhWwmdbt5TskwlLsXmlwwtJOASOgh3ZTILL8FLjbkAzzdMzZumE+m+x6BHamsOBeAXv8ZHC/xPWKEZ+VYRgmGR0TvHsbmqnWGoHyOd49aURENvFgpd6SeKArMM5X2dcb03reZ6tRQGjkSHIZc9XB9bVUrsEhILEGmdaCHx4QK+x5JNs/jSs+jXlT4yLfA5Z98hIdFqKjn+rlqpHsHlq9ZJroW5TpYXgqxvtaef+W6sxbOlbbVOvjl5FYxB3LJHG5k+KQ9s/Hi4Gf/ilWhRXqYbJB5YgTM4aYyy4SHdB3t4wqBe6k172rhtBh+DH5ewtioTfR0Pol0CF1F4p25aDX3w8RJY+a4E1QJWIPi3gu/wta+YfX0nL9g8hh7GtOqdnHa8VDa+8BYjQSxCk4FDlBsKl4sM6deuETs5hjQ==;hSKBDUuhSOF/H1FDbKGE6A=="
 ---

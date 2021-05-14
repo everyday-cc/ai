@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize"

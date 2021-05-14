@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-drones-pin-
 ampWebUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-drones-pin-sosnovsky.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-artificial-intelligence-drones-pin-sosnovsky.amp"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx1.b-cdn.net/csz/news/800/2021/artificial-intelligenc-2.jpg"

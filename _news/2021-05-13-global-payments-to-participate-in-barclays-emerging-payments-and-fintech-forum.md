@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
+    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
+    publishedDateTime: 2021-05-13T23:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19805913.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "JrAvfP9NISf/2rizNAU44It9Ft6omgP4Fr4d3asvrzCKN/38c+a8+8Hgiwl38L+5tjRXt4CnjcTNdrOmeV6vL+3I5/jZQoEYqJyyNJ6NiaaeFEP8qAFFHMk9HoBZQAwIkl+jNWi26jzUXYPwI0F3CvisA9P0qSDwu2tytnqT6bbGEw3TOtUjPRKyog/1se8X1tC9jlDEH0T8HTH1USUQ7k7JIe0WNyEa37ZsCcARdaKD1f+AKBk11ORjNietryTATk4MLbGRAx7vByJTywm2GqhV9VSBFQgClUztYrM864UOib3Hmo57/pCHI4rLmP28pD8ruhxFVpNbjIwl/JjO+dxCAt2u++EDrBVt1giWMY8=;4VWKL37lOJbPM2ygbvm95Q=="
 ---

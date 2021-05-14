@@ -83,6 +83,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Corsight reaches facial recognition value-added distribution deal for Asia"
+    excerpt: "Corsight AI has signed up Netpoleon as a distribution partner for its facial recognition in Asia to increase availability of the technology across the region."
+    publishedDateTime: 2021-05-13T22:48:00Z
+    webUrl: "https://www.biometricupdate.com/202105/corsight-reaches-facial-recognition-value-added-distribution-deal-for-asia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
   - title: "Emotion recognition: can AI detect human feelings from a face?"
     excerpt: "Its founder, a former teacher, Vicky Lim, says it reads the children’s feelings correctly about 85 per cent of the time. The popularity of the software has exploded during the pandemic, with the number of schools using 4 Little Trees in Hong Kong growing from 34 to 83 over the past year,"
     publishedDateTime: 2021-05-12T04:00:00Z

@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-03-20-can-we-trust-autonomous-driving-technology.md",
+      "title": "Can We Trust Autonomous Driving Technology?",
+      "excerpt": "There is a huge amount of activity in the tech sector surrounding the development and deployment of self-driving vehicles. Are they ready for the road?",
+      "sourceUrl": null,
+      "webUrl": "https://www.truckinginfo.com/10139281/can-we-trust-autonomous-driving-technology",
+      "originalUrl": "https://www.truckinginfo.com/10139281/can-we-trust-autonomous-driving-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Truckinginfo",
+        "domain": "truckinginfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener.md",
       "title": "From robots to pollinating drones, start-ups create ways to help cities go greener",
       "excerpt": "Plants and drones do not seem to have much in common, but a Singapore team's plan to use the aerial craft to pollinate plants in indoor settings is fast taking flight.. Read more at straitstimes.com.",
@@ -879,49 +913,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period.md",
-      "title": "Artificial Intelligence Chipsets Market was valued USD 29.8 billion growing at a CAGR of 30.7% during the forecast period.",
-      "excerpt": "Straits Research Market report Provides detailed analysis of the Artificial Intelligence Chipsets market with Top Keyplayers, Product types, Application, geographical regions. Experts have studied the historical data and compared it with the current market situation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period-2021-03-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

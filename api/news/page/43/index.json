@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-05-artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025",
+      "excerpt": "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-gpt-neo-the-open-source-cure-for-gpt-3-fomo.md",
       "title": "GPT-Neo: The Open-Source Cure For GPT-3 FOMO",
       "excerpt": "GPT-3 was the largest language model when OpenAI released it last year. Now, Google Brain’s 1.6 trillion parameters language model (as opposed to GPT-3’s 175 billion parameters) has replaced GPT-3 as the largest language model.",
@@ -1078,49 +1130,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-heres-how-cognitive-computing-is-reshaping-financial-services-industry.md",
-      "title": "Here's How Cognitive Computing is Reshaping Financial Services Industry",
-      "excerpt": "Here's How Cognitive Computing is Reshaping Financial Services Industry By cio review - Businesses can collect knowledge from such sources and make decisions based on highly comprehensive information by",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
-      "originalUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cioreview.com/Rank_subcat_images/om0k2Master-logo.jpg",
-          "width": 478,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

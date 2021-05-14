@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-13T20:38:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2021/05/navy-beats-army-first-amazon-led-competition-produce-fastest-self-driving-race-cars/174028/"
 webUrl: "https://www.nextgov.com/emerging-tech/2021/05/navy-beats-army-first-amazon-led-competition-produce-fastest-self-driving-race-cars/174028/"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.nextgov.com/media/img/cd/2021/05/13/NGrace20210513/open-graph.jpg"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "u2ol2itXLjNp31QY0h7RiLF5+dewuyq+b57aQlt+oSKQRyLD8Ybh2QWL6vy8YmLB6ahr0OnGIXj2VMBcQ8z93KDTAkasaGLNx/dgUHMAqE6TWyWSWwyrNdFmKMyBJv7u3JGtAOufIJ54hb+G2cyVTOcdA7scyteX1st1QX4o3+Aa45unNZH7zyEJpvYFM8amAzibLw7KyeqKu9fyjgU2iSXomZkweXgTr51TDjAC8+B+5SMS+s5voYoULLJ2gXN5DKzplF91JH88APS/i5Y8Ncm2E8tHLoDIiBhSktFT+bC5Qn0JeaIBeshVFNamw1+duDqPmjPFZO9hVK0CVDB22h8a+yfRqlGa6OMLc3x38Wk=;MZJm4CoCeEjISuv0GnWi4A=="
+secured: "7dUC5an7nJxR9g+2ONmMrBRowNVKU0cgMgYaZiC1IICvMeqhnADjH3qe+A2w8k1uvayNl1HY+mMki33UuId7nF2zgyE34vTgOh/J1nSd6PosR1XwEDqzVcBI3umUHB2Weu7Fsf8ghHWOF22hfWuA/6Jj42HrpgJSjCjDJxFIGjhLB0R/tbi8saJo66yM9YeVV/OGbOp7WlPs0FRnnK9EgNEBdefAeYvIzAEpqU8PBFTuCa3W1DwBMFp3a2lyi8TFcneScfvEMsXED9iGE6uEuXGuLllx/IuwKmd6rhk1neCG5VOeWn30gyuuXrfZwuzfndEqoYIff6LvvukECVePUbHDuRTUTOBYzeDljumtUrML2uOV5g2PodnvXrUtXgIFjiPy+IN8Po8dZIwD6gQ1WgKKl1sEUwpuLYYty4cP142FKrltkbZFp3JpbxRipgjbwt8wNlh7aO6/0/lGr5jjFf65uiRK16kN0yOvI/YU/lwElMKu6eHUOjqAUsdXGemy5t3NUgjOV5JC7wZM3V9kyg==;bzKSTmqcBUw474RreyfAtg=="
 ---
 

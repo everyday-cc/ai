@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-27-deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021.md",
+      "title": "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021",
+      "excerpt": "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1497096/James_Wu_DeepMap.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-robot-vacuum-with-triple-lidar-system-has-eyes-to-help-it-avoid-poop.md",
       "title": "Robot vacuum with triple lidar system has eyes to help it avoid poop",
       "excerpt": "With three lidar sensors–a wall sensor, a main sensor, and a front sensor — the 360 Smart Life Robot Vacuum can gauge the size of objects. The built-in artificial intelligence (A.I.) allows it to decide in real time whether to continue over an object ...",
@@ -1133,49 +1185,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-ai-caught-a-hidden-problem-in-one-patients-heart-can-it-work-for-others.md",
-      "title": "AI caught a hidden problem in one patient’s heart. Can it work for others?",
-      "excerpt": "Casey covers the use of artificial intelligence in medicine and its underlying ... to democratize medicine with data 5 virtual physical therapy startups to watch 5 virtual physical therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/04/26/artificial-intelligence-afib-mayo-clinic/",
-      "originalUrl": "https://www.statnews.com/2021/04/26/artificial-intelligence-afib-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2021/04/042321-PETER-MAERCKLEIN-08812-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

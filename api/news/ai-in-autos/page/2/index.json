@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-03-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/19/1119160.JPG",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
       "title": "In a year of major shifts, the self-driving car market is consolidating",
       "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
@@ -93,49 +136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
-      "publishedDateTime": "2021-05-02T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -260,6 +260,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-01T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-experts-rank-amazons-self-driving-unit-tesla-waymo-and-12-other-power-players-in-the-world-of-autonomy.md",
+      "title": "Experts rank Amazon's self-driving unit, Tesla, Waymo, and 12 other power players in the world of autonomy",
+      "excerpt": "Waymo was once again a winner in Guidehouse Insight's ranking of the top autonomous-vehicle companies. Tesla was not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-tesla-zoox-waymo-aurora-cruise-argo-ai-self-driving-2021-4",
+      "originalUrl": "https://www.businessinsider.com/amazon-tesla-zoox-waymo-aurora-cruise-argo-ai-self-driving-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608b240834af8d001859a063?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-01T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1337,50 +1389,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-aws-deepracer-follow-the-leader-ftl-sample-project.md",
-      "title": "AWS DeepRacer Follow the Leader (FTL) sample project",
-      "excerpt": "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T18:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

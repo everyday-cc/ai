@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
+      "title": "Rust detection using machine learning on AWS",
+      "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T09:20:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-virtual-contest-to-cultivate-interest-in-robotic-fields.md",
       "title": "Virtual contest to cultivate interest in robotic fields",
       "excerpt": "KOTA KINABALU: Sabah is organising ROBONEO AWS DeepRacer Challenge 2021 to cultivate interest in robotics field in the efforts to boost Malaysia TVET (Technical and Vocational Education and ...",
@@ -1168,49 +1212,6 @@
       "provider": {
         "name": "ITWire",
         "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-hayu-selects-aws-for-personalisation-and-data-analysis.md",
-      "title": "hayu selects AWS for personalisation and data analysis",
-      "excerpt": "Amazon Rekognition, which can identify well-known celebrities in a wide range of categories; and Amazon Kinesis Data Firehose, a capture, transform, and load streaming data service found in the AWS Management Console. European-based media software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis",
-      "originalUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/Hayu.jpeg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis?amp",
-      "publishedDateTime": "2021-03-12T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
         "images": null,
         "publishers": null,
         "authors": null

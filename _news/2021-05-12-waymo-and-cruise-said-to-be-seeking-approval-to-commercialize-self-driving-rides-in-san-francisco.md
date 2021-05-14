@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/21075158"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075158"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "CFO of Alphabet's self-driving unit Waymo departs"
+    excerpt: "Gerard Dwyer is one of several executives, including CEO John Krafcik, to leave Alphabet’s self-driving and autonomous vehicles unit in recent months."
+    publishedDateTime: 2021-05-13T18:08:00Z
+    webUrl: "https://www.cfodive.com/news/cfo-of-alphabets-self-driving-unit-waymo-departs/600146/"
+    type: article
+    provider:
+      name: cfodive
+      domain: cfodive.com
+    quality: 39
+    images:
+      - url: "https://www.cfodive.com/user_media/cache/6b/49/6b499b34ca2bd99880df4c0437be608d.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Exclusive - Waymo, Cruise Seek Permits to Charge for Self-Driving Car Rides in San Francisco"
     excerpt: "Alphabet Inc’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed, setting the stage for the biggest tests yet of their technology in a dense urban environment."
     publishedDateTime: 2021-05-11T22:24:00Z

@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-04-14-google-backs-former-deepmind-employees-solar-forecasting-start-up.md",
+      "title": "Google backs former DeepMind employee’s 'solar forecasting' start-up",
+      "excerpt": "Open Climate Fix, a non-profit lab focused on reducing greenhouse gas emissions, has been awarded over £500,000 ($686,350) by Google.org. The London-headquartered start-up is aiming to build an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104466614-AP_959350424445.jpg?v=1494604726",
+          "width": 3648,
+          "height": 2432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "publishedDateTime": "2021-04-14T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application.md",
       "title": "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application",
       "excerpt": "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),",
@@ -1057,58 +1109,6 @@
         "name": "esportsinsider",
         "domain": "esportsinsider.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021.md",
-      "title": "IBM Watson AI Will Calculate The Overwatch League’s Data-Driven Power Rankings In 2021",
-      "excerpt": "Everyone loves power rankings. Well, unless your team stinks enough to land at the bottom of most people’s lists. Power rankings give fans something else to obsess over and argue about, especially in the offseason or between match days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075a1d7c250de2567901b2e%2F0x0.jpg",
-          "width": 1102,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
-      "publishedDateTime": "2021-04-13T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

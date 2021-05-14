@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Baidu rolls out paid driverless taxi service in Beijing"
-excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
-publishedDateTime: 2021-05-02T17:28:00Z
-originalUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
-webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
+excerpt: "Kelly Wang and her husband, who both work in the artificial intelligence industry ... “In the future, Baidu Apollo will launch driverless robotaxis in more cities, enabling the public to ..."
+publishedDateTime: 2021-05-03T04:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-10087341"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-10087341"
 type: article
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
-secured: "HllYLQ1fU8OhUiKVyoZZpDrt5E6YBcm3K7KUwL4kR4PA9D3km5ElDKJFqdRJKBoEU7KZi0rnvsbm04Ukk49Xi57aU7nPro8tSkm66z5WyaWKnZFlzzBfgFWInswJp/kWQZ91mrfFug2TcSUOLRysICOUqsze3NP+wd6RHZ/UDRzKO1v1jxf+UkQbL6veZZiaE+TzKo6iciAV7zZ2TDxEGbQBCRUaaUE/vcewsEfDFnTzWLtVGK4rz46C6SSJXGNfhdNx506QWo3B8/Bla6nPPV6I/drsLLBWT1XHAHxUSobRO3n5wLNA/bldVKs2PEOrvZxDFx5WD30mckmU0qQ7hoJCGiYpvc077aqHoujuwbUdtJNDdn4aTCRQi140aoiSZ+JiZn+/PpmeUHRWsvBNZW8DCP6VCEpyZyzGZQDblUAM/kOwuHT9puY5nwBmeVC/0WufC427/t1cibSwVcQM5BM2GcD+MpXsHN6T8QZSog2kpXT+8VsWWmhyXuBDLXEWk1KZuSeDjYO8SDkk00E01g==;rhQa7zcoetwFxEAjT1zCOA=="
+secured: "Se6/CLQOxn14O0z43pDkE6gk+gahfrvZkuTlaES8+YSYzyIaIDLdj7HawKEj+RDPVAKb3TgwF/TuKDTjs1upzjfpqeJjc/R6RpbA79ZF+9QSWZIDjrdEcCOuYI09nMPnJ8hQ0xpHxnJct5Oov1HRt1TW+K9fLpk1sel4kpF/6ej67jKUD9C114W2a/q2SoIMAdoyQq6+N/t+LIoanpeMlZvnHHtP5V4XMK66vnmsWfy7l8Xi/eRm+tgtkpnJj8coe3qmvccA3G5ETm2R8z20eM0aKZkBhnhoyqO1KcJ/aefEWq59rkRN2k4cv0n9p49OhMzO4X3HkCZ+rdZLRtddmxE7nMHFvsKUY80hhVO1Qew=;HxQcdUT0pBrANGr0iU9WBQ=="
 ---
 

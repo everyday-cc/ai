@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-04-02-heres-how-cognitive-computing-is-reshaping-financial-services-industry.md",
+      "title": "Here's How Cognitive Computing is Reshaping Financial Services Industry",
+      "excerpt": "Here's How Cognitive Computing is Reshaping Financial Services Industry By cio review - Businesses can collect knowledge from such sources and make decisions based on highly comprehensive information by",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
+      "originalUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cioreview.com/Rank_subcat_images/om0k2Master-logo.jpg",
+          "width": 478,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-top-20-valuable-and-innovative-ai-companies-in-the-world.md",
       "title": "Top 20 Valuable and Innovative AI Companies in the World",
       "excerpt": "The company is offering a plethora of AI products including Natural language processing (NLP) models, TensorFlow, AI smart home products and AI-based Cloud applications. The company recently ...",
@@ -1052,49 +1095,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-what-are-ethics-of-artificial-intelligence-three-reasons-to-learn-basics.md",
-      "title": "What are ethics of artificial intelligence? Three reasons to learn basics",
-      "excerpt": "The ethics of artificial intelligence are relevant to all of us, often in ways we do not realise, and learning the basics now is a good idea. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/what-are-ethics-of-artificial-intelligence-538500/",
-      "originalUrl": "https://www.miragenews.com/what-are-ethics-of-artificial-intelligence-538500/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
-          "width": 1416,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
