@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
+      "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
+      "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-327981/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "publishedDateTime": "2021-04-21T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-treatmentcom-building-the-smartest-artificial-intelligence-ai-system-for-healthcare.md",
       "title": "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare",
       "excerpt": "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health.",
@@ -1118,49 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-deepmind-ace-joins-cambridge-quantum-computing.md",
-      "title": "DeepMind ace joins Cambridge Quantum Computing",
-      "excerpt": "Cambridge Quantum Computing has secured a major coup by hiring DeepMind’s Professor Stephen Clark as head of Artificial Intelligence. At DeepMind – the UK AI subsidiary of Alphabet Inc – Professor Clark was a senior staff research scientist and led a team working on grounded language learning in virtual environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
-      "originalUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/professor_stephen_clark.jpg?itok=hFjpCQl9",
-          "width": 605,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Weekly",
-        "domain": "businessweekly.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

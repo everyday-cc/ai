@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-04-20-its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens.md",
+      "title": "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Shares of Chinese search giant Baidu (NASDAQ:BIDU) look to have finally found a floor after a sharp selloff. BIDU s",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19",
+      "originalUrl": "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-gigantor-launches-the-next-evolution-of-ai-acceleration.md",
       "title": "Gigantor Launches the Next Evolution of AI Acceleration",
       "excerpt": "Gigantor Technologies Inc. is set to disrupt the market with its multiple patent-pending revolutionary technology, GigaMACS. Co-founders Don Gaspar, C",
@@ -1025,49 +1059,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
-      "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
-      "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U419236836_g.jpg",
-          "width": 563,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "publishedDateTime": "2021-04-19T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

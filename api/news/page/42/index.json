@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
+      "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
+      "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "originalUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/19/eaaz8693/F1.large.jpg",
+          "width": 1400,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
       "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
       "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
@@ -1072,49 +1115,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-flowaste-using-computer-vision-to-see-an-end-to-food-waste.md",
-      "title": "FloWaste: Using computer vision to see an end to food waste",
-      "excerpt": "Irishman Rian Mc Donnell has brought his food tech start-up to Chicago to help his chances of tackling the global issue of food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/start-ups/flowaste-food-waste-computer-vision-machine-learning-trinity-engineering",
-      "originalUrl": "https://www.siliconrepublic.com/start-ups/flowaste-food-waste-computer-vision-machine-learning-trinity-engineering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/04/headshot_landscape.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

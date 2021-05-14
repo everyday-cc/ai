@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CellCarta Strengthens its Histological Biomarker Franchise by Acquiring Artificial Intelligence-Based Quantitative Pathology Leader Reveal Biosciences"
-excerpt: "PRNewswire/ - CellCarta, a global provider of precision medicine services, announced today the acquisition of Reveal"
+excerpt: "CNW Telbec/ - CellCarta, a global provider of precision medicine services, announced today the acquisition of Reveal"
 publishedDateTime: 2021-05-11T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cellcarta-strengthens-its-histological-biomarker-franchise-by-acquiring-artificial-intelligence-based-quantitative-pathology-leader-reveal-biosciences-1030414541"
-webUrl: "https://markets.businessinsider.com/news/stocks/cellcarta-strengthens-its-histological-biomarker-franchise-by-acquiring-artificial-intelligence-based-quantitative-pathology-leader-reveal-biosciences-1030414541"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cellcarta-strengthens-its-histological-biomarker-franchise-by-acquiring-artificial-intelligence-based-quantitative-pathology-leader-reveal-biosciences-1030414538"
+webUrl: "https://markets.businessinsider.com/news/stocks/cellcarta-strengthens-its-histological-biomarker-franchise-by-acquiring-artificial-intelligence-based-quantitative-pathology-leader-reveal-biosciences-1030414538"
 type: article
 quality: 27
 heat: 27
@@ -43,6 +43,6 @@ related:
         height: 2699
         isCached: true
 
-secured: "mlAcrqbHuXJQdSjgDspL+A9FvMHcMeFdK2+S4ov/o7sPi9kdYwXhDJ4Cgo/U4sKw64J9JtI9LnfifFnSZgOD/wQXwdjMBxrwv6JiSRxI/Z8O9lEj+LqlIIjVSBYDDy3OKvlpA7ejD8WJ3pb64dj66/IaVeMD5bIPbAEw4fHZPABwnR2trK3qNBIP9zWM+F32cMMN3ujimi9ctPcENAFYAK3ugdsYybIIWWJVoT0wSYetUDpjU4fGp0zLo03c+2ZaQRPD8TwRaW14AwLu+BVNoY1MLvz4DNelNfH5nh6kHbWhlxOwxFaECZkqBYLift3o1oYJNlhxBZoIn827pQsYdqZq5+5rW2fWqjLOTgyAnS1z35F3Sr48YIydOxsmQW/w8tlD+ebvXA06X4ASj0vsLHmdmkFghFOrRpx3XQbUB+Kwx3NIG1Gmm0l9zNcfH7p6wdaw5SEm3SA61KxANYJNqG3mxU86pRZkZYyM8plY0z3c8qrc4aRzwUO0yXE/BYSdzV9+9wtH4EMvDPMsVZgorw==;Eu4ISHUxNuw1QZ9jdyNSgg=="
+secured: "DzvJ+05QTdminFM8ARU5811/aiGq7NPw9peffSIfrDpagrUa+EcLox7O7gJGFLmF349q7AEV2iwFidQ+Lli1Ai9Y5ohaXPPxprv5ZfUeG1AWPwHzqThFgqVGxPfjRqZ1yo0wdv4FGsRiBmXqUw2qh0jDac9MYYjZ2grlVFHVfu7FArg6WU/oci3EeCe+M79va/mZFYXchU1zglM9ekm229yxnFF0MIXpG3YjbAPtFFmrcCV8cGNHdfWoOgh/zQreQ4sfIsiJXz3+z/iqWaGDKkR9LXJEYAPrfrIRIXhTonY2nt2PfzMLSn8/dZjPDqKgAAoCqS8gviC3xMM8MvEfjEr8OZaNGIboI25FaJ0letk=;Kpa3+/ekH2TyDrI9Z/VJXw=="
 ---
 

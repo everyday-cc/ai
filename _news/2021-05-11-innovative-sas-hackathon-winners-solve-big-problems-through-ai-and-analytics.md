@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-publishedDateTime: 2021-05-11T14:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T16:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
 type: article
-quality: 36
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -87,6 +91,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AWS powers new shot and save analytics for NHL’s Stanley Cup"
+    excerpt: "National Hockey League fans gain a better understanding of their favorite players’ and teams’ performances with two new analytics features that will make their debut in the 2021 Stanley Cup Playoffs."
+    publishedDateTime: 2021-05-14T02:30:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
+        width: 1288
+        height: 648
+        isCached: true
   - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
     excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
     publishedDateTime: 2021-05-10T10:52:00Z
@@ -146,6 +164,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yPBupLw/m/Fuognm+OeAjG3/4R8h7APoiaoAydf9WA3qQKSQFMtrONAVrRBgjkK6ee6MsfyNYg+B1nOQUTaMBWpv73SPmC0ZTlwz/eE5Zbh5XOaTbO8rJHl/NSyLath1BUIi3tayMmPkhBSwry+cZJEHJb3oQ+bbiJkpVeHBCIxi8lNct/2gG/xmeoGe2bHYQqPGjPDNvLkbpTKhdjVvLoo6pAIV/XZh8NnoxXSvSlVBAm0eBZ7QRcy/j0rhE1ygm/rS8heGGLL2B95E8wyCEMY0hgAUmiYgP48ztqWiHjGT8r7Fyqxk0TXGOPe6hYEbQxVkcO66xPLGVQw3kO0s25ad64Exc8u2X7eYKdRD1BY3AOkHjZRfX1dLm/Hjwq3FSIGlEpC41UZ84K8RJvleqSFHGFMvZpAUHQIpADfbQIVUnuWRODHDSi8kS/IvXF25VvIcJebajjptPGn4gf4R8Au/+hjGn34VZaQ3Gv2O4cFXJqoUqVQ0xpJA9sP2+Hm8msZgFuViHHqjwG8KNvjwkg==;Kq65XtOfbc/jDMSqxXbtVw=="
+secured: "MY31GMe+kzqmyoB3Cp9qbFD2pg0Bw8vwiNpf5NfHP01hoCrd1fpD0/kj+zmSZkQ3MhJ7nhBwug8Pb9GRn8oPeIIaoZdKI+VPaVMFDgWYwmCm6oLSFH/Ln9zgQklvjqWRXwW9TRAuedR54Nk+vum33AYB9PQ7mh2RuHI03P78o7gym7HuxG2RhnHZyXy6AGLTDrKJOERAa/8EUQZqrgGPRXjSeDgGWBbihTjQJwR85hX6lv0vz1sl+oI4YS8Y4r/UqRJiNJcEKQkO1P+7Alx1b0dsl2m4IvT8KsI1m660mVUvJCIMTLf5RvHVtcBpYCptgfa9bwg84s3JAz6fsUgw/9NUAklJglGkmr9vbcyDAKI=;zobQ3BfUtXTgCjBq76/PCg=="
 ---
 

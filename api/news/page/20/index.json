@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-27-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
+      "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
+      "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/05/708543.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-swift-for-tensorflow-becomes-open-source.md",
       "title": "Swift for TensorFlow becomes open source",
       "excerpt": "Google has announced that Swift for TensorFlow is now officially an open source project on GitHub. Swift for TensorFlow was initially announced and demoed last month at the TensorFlow Developer ...",
@@ -1143,59 +1186,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking.md",
-      "title": "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking",
-      "excerpt": "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

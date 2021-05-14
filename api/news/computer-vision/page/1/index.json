@@ -337,6 +337,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
+      "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
+      "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026.md",
       "title": "Computer Vision Market Size, Share, Revenue, Competitive Analysis, Demand and Growth by 2026",
       "excerpt": "According to the latest report by IMARC Group “ Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026 “, The global computer vision market exhibited strong growth during 2015-2020.",
@@ -1387,58 +1439,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
-      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
-      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "publishedDateTime": "2021-04-29T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

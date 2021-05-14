@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform"
-excerpt: "If you're a fan of spy movies, you've probably come across scenes where the intelligence agents try to identify or detect a perpetrator using"
-publishedDateTime: 2021-05-13T20:06:00Z
-originalUrl: "https://www.miragenews.com/two-in-one-wide-angle-monitoring-meets-high-559992/"
-webUrl: "https://www.miragenews.com/two-in-one-wide-angle-monitoring-meets-high-559992/"
+excerpt: "In most cameras, there is a trade-off between the field-of-view and resolution. Omnidirectional cameras offer a 360-degree field of view but poor resolution. In a new study, researchers design a dual camera-based platform employing an omnidirectional camera for target detection and a separate camera for its high-resolution capture and report an overall improved performance,"
+publishedDateTime: 2021-05-14T01:57:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/05/210513173534.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/05/210513173534.htm"
 type: article
-quality: 16
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/05/IMG_0462-768x1024.jpg"
-    width: 768
-    height: 1024
-    isCached: true
 
 related:
   - title: "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform"
@@ -40,6 +38,6 @@ related:
         height: 503
         isCached: true
 
-secured: "iUlpytbOBom4zPQzWQpo6PG7lTEPb0Low+X7NsgcZmUxirwXq2xkhx4FTpLvLdZZz1Mjj8weo7pLuPo5oX9syoMdG9QzlYIIOiaZLY5dxmg0qvCYj9fV2CuGma8QFrNXQBiaSd0B8h1tLrpDAGfC4OqFq1WKVvte8DzoXtpSJVoyZdqjifO+jaAA85qVr6wTanEeKL3odrvZYWUziTH9GRvoqlQ41DLlaLDW6dzLMqre+ICIEVUKC5tSpDyiHcePWfKI2l/sSOoj/rAYIw5r1mxEkHPSHM741L3b0eOU41TWyMbDJkzI0vnCHJpW+0cL9s/qaSZUfhQlWP5Vjiy6q4uR7RotwNgfe3/0TZ7HGMo=;pCObf7tQPg+w1oVQaiyk1g=="
+secured: "MNCFWxsCUEGbbbSb8uVXZ1SqSjo/Kv1Sa9AZzknlx4dq3KP2nZDwszz8A/um8MHyI6ROzlL8RL8xWbP3x5/33ZWBM6gedHiHJOSXF6xgGNa8+LaUySH1oPcgCeHDLxRvtfFnn0XYw3PjVTD5ddfnnfDq8TzQbnVvoLO9/nY5ArG0UuoMQO20xBCrxykI3eYHgzwW1lYxw23kkxOZAi87agMYX0R1EBlmYqR+7RQNW3U9p9pA/KfcuYnl+LZrTLJG9S5QuNR8HxBqrgFd/V+FVuVqtIYN/UCmIWUUxEn6xijuJTRNe8XrRP9Fa6ndcccYrg+085B3lIoNSrHt91hRbNeAf45L/RDYIBrqsz2BXW0=;fLkiCj8yYSHsGzA4oxszBA=="
 ---
 

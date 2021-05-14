@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
 type: article
 quality: 93
-heat: 223
+heat: 213
 published: true
 
 provider:
@@ -117,22 +117,6 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2019/03/tesla-model-3-sedan.jpg"
         width: 720
         height: 350
-        isCached: true
-  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
-    excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
-    publishedDateTime: 2021-05-09T10:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars-41620550983829.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/09/600x338/2020-04-28T015539Z_1_LYNXNPEG3R03L_RTROPTP_3_AUTOSHOW-FRANKFURT_1588074593229_1620551501846.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "Tesla and the self-driving vehicle industry need federal oversight"
     excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."

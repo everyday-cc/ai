@@ -36,6 +36,31 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
+    publishedDateTime: 2021-05-10T15:54:00Z
+    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "AI in Medical Devices Market to Grow with a Moderate CAGR During 2021-2029 | Healthcare Tend to Drive the Market Growth"
+    excerpt: "The AI in the medical devices market is attributed ... We believe in honesty and sheer hard work that we trust is reflected in our work ethics. Our vision is not just limited to gain the trust ..."
+    publishedDateTime: 2021-05-12T10:21:00Z
+    webUrl: "https://menafn.com/1102066047/AI-in-Medical-Devices-Market-to-Grow-with-a-Moderate-CAGR-During-2021-2029-Healthcare-Tend-to-Drive-the-Market-Growth"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
     excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
     publishedDateTime: 2021-05-09T22:11:00Z

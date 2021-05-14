@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-28-formation-launches-ai-driven-sales-offer-optimization-platform.md",
+      "title": "Formation launches AI-driven sales offer optimization platform",
+      "excerpt": "Marketing tech company Formation released a tool that helps companies to send out millions of product offers to consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/",
+      "publishedDateTime": "2021-04-27T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026.md",
       "title": "Global Artificial Intelligence Chip Market Analysis Featuring Industry Top Key Players By 2026",
       "excerpt": "Global Artificial Intelligence Chip Market Analysis, 2020 research report depicts a deep-dive market analysis of statistics of Global Artificial Intelligence Chip market which consists of regional and country-wise market size,",
@@ -1152,49 +1204,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
-      "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
-      "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/05/708543.jpg",
-          "width": 1240,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
+      "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
+      "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "originalUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-334697/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "publishedDateTime": "2021-05-05T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
       "title": "States push back against use of facial recognition by police",
       "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
@@ -732,58 +784,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "publishedDateTime": "2021-05-05T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

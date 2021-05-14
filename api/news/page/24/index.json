@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
+      "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
+      "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630",
+          "width": 1140,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
       "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
       "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
@@ -1085,59 +1128,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-global-machine-learning-market-outlook-industry-analysis-and-prospect-2021.md",
-      "title": "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021",
-      "excerpt": "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "AI analytics predict COVID-19 patients' daily trajectory in UK intensive care"
     excerpt: "Researchers used AI to identify which daily changing clinical parameters best predict intervention responses in critically ill COVID-19 patients."
     publishedDateTime: 2021-05-11T13:58:00Z
@@ -76,6 +90,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AWS powers new shot and save analytics for NHL’s Stanley Cup"
+    excerpt: "National Hockey League fans gain a better understanding of their favorite players’ and teams’ performances with two new analytics features that will make their debut in the 2021 Stanley Cup Playoffs."
+    publishedDateTime: 2021-05-14T02:30:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
+        width: 1288
+        height: 648
+        isCached: true
   - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
     excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
     publishedDateTime: 2021-05-10T10:52:00Z
@@ -89,20 +117,6 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/pecan.jpg"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-    publishedDateTime: 2021-05-11T14:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-        width: 2699
-        height: 1414
         isCached: true
   - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
     excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."

@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Soter Analytics Uses AI-Enabled Wearables And Neural Networks To Improve Worker Safety"
-excerpt: "This startup takes a \"machine reliabilty\" approach to helping prevent repetitive motion injuries for industrial, warehouse and retail employees."
-publishedDateTime: 2021-05-13T11:22:00Z
-originalUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/"
-webUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/"
-ampWebUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
+title: "AWS powers new shot and save analytics for NHL’s Stanley Cup"
+excerpt: "National Hockey League fans gain a better understanding of their favorite players’ and teams’ performances with two new analytics features that will make their debut in the 2021 Stanley Cup Playoffs."
+publishedDateTime: 2021-05-14T02:30:00Z
+originalUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
+webUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
 type: article
-quality: 79
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
+  - AWS AI
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c7704bea7fa07a835a633%2F0x0.jpg"
-    width: 1200
-    height: 675
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
+    width: 1288
+    height: 648
     isCached: true
 
 related:
@@ -45,6 +40,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c133884a7c98bf1c1bbb0%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Soter Analytics Uses AI-Enabled Wearables And Neural Networks To Improve Worker Safety"
+    excerpt: "This startup takes a \"machine reliabilty\" approach to helping prevent repetitive motion injuries for industrial, warehouse and retail employees."
+    publishedDateTime: 2021-05-13T11:22:00Z
+    webUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/"
+    ampWebUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c7704bea7fa07a835a633%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
     excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
@@ -89,20 +100,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Rob-Thomas-IBM-Think-2021.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AWS powers new shot and save analytics for NHL’s Stanley Cup"
-    excerpt: "National Hockey League fans gain a better understanding of their favorite players’ and teams’ performances with two new analytics features that will make their debut in the 2021 Stanley Cup Playoffs."
-    publishedDateTime: 2021-05-14T02:30:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
-        width: 1288
-        height: 648
         isCached: true
   - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
     excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
@@ -163,6 +160,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uQeYIJR0oh3SPanwOE0NAqkhUvsqBDMSjz8MVNMSEXushm8HOzH92dKcMo6KdghkHxCsWlPMQke777VsPoBMrVzcC39dIT+iNZPv9wRArgb1yPvaqPZI/9ntpqCgAgwXIrYGUrK9a5a/CZVQDf+eWs28ZeBqI6+3qIz5xHifJjFW4EXSuU1TFHgDc0nZ2pLJn21PX2m5obovM4Qaug9jWFmHIc2betPNSq2o4OrV+C5yUjTTNloQcMLPWP4nbp5xjEm7cDbPwSNfT8WxUJqzz4/OSVaNYS1VoLf0rUXb33vo8vtN5qpiJh1yauIHswI1WrjXc696vUTHa+Q/T2QB387WAdPTUO4pc6xmug2lHNGV1UHUuXGXg5C5h5Zy4X3cLP6RrMQmuZFlHzmj+oqH51slbdrJ5mdr+Dl2o+6Ixd5MXFQqs8Fdq4KDwHP2DEwtlwSQZ5VRRb+u24Cfm5n1/Loni5wNiEWZHaBRVzHbyz+ZbAZ4jtsW2VIQZ7HNnrj1mbrEbnG0gubvVgGTAywUEw==;lWMmIslxHudNAzHTlp7vDA=="
+secured: "KkUApO7qmtZNbiN0ZT24TvxFsLj3ojRXNCiEdKPon+6RNNz72P1nJAE9oOzQXI473l2F6iSRkmAC1RKXUNUhImaBYHJJ+T5zyLxwaXC8UGalY9xybylbhFPVqwFUgFsKSggZUR3YNA/ab9UnSRILZy8Bh647qz0w7YGDRe1bYRhZ0ykwFe1oVuN9BZhLLiW8dNUNMlcTOMzN1NXWsdpd12llJvrmAbUsBPsb34wl4ijCghvTT0rVbIf24n5o53VEuSf1EDKRshi+NzvRqCSRfAXsq8tCuf31i0SHbyyhYWFObiOF/cCZpx6DecKEwSkrwjs2dk3Q6tQI+5EBYtRhbb0aHIiMM8Id7Symj8YrY1E=;kf3jBcBeotppp1RosasTuQ=="
 ---
 

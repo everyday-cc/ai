@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "AI analytics predict COVID-19 patients' daily trajectory in UK intensive care"
     excerpt: "Researchers used AI to identify which daily changing clinical parameters best predict intervention responses in critically ill COVID-19 patients."
     publishedDateTime: 2021-05-11T13:58:00Z
@@ -89,6 +103,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AWS powers new shot and save analytics for NHL’s Stanley Cup"
+    excerpt: "National Hockey League fans gain a better understanding of their favorite players’ and teams’ performances with two new analytics features that will make their debut in the 2021 Stanley Cup Playoffs."
+    publishedDateTime: 2021-05-14T02:30:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
+        width: 1288
+        height: 648
+        isCached: true
   - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
     excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
     publishedDateTime: 2021-05-10T10:52:00Z
@@ -102,20 +130,6 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/pecan.jpg"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-    publishedDateTime: 2021-05-11T14:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-        width: 2699
-        height: 1414
         isCached: true
   - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
     excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"
@@ -146,6 +160,6 @@ related:
         height: 630
         isCached: true
 
-secured: "c3ojQbO8EZ4/riGmhh3d+eWYi2hnr4TzYYuzYUeVxbuUnMr6rvHcdD/RhyY1CYDoUxDMgI2yBWj+ILf+/VbDAyKPv4gNkQ4/4G4DPdXbocScZXiPWcrXuLG8/rmUh138ii4C1Onf2cKxrANJzUQ7s9fwSmHVTKd/X/16MnTB0jsYKs2DXb05cqiaSUal5K8D+Xq6w9oGgPEYC7Gy1zu+dGaZWt4XZlSunN6u2feNHr/Op3Rr3aCO5STXaA7oAdgYbaOPtYk4qGsE8sLa6pw9GMoXH1Cpy9W9SymhZRICiFYMbaHElesJvBcIUdeebP+o+xTtObe1e4x5Qlswpn0vfYoFYCYz9pYCJes1YxePPqY=;NzAdUrpUVeH3bj7ohVtYYg=="
+secured: "1KPBSjPniHJjLJF7361i/cA2VaP5sWFDeGXNmTVRuoF/GUvShprOr1pEhSu6FDZkmZD2cIqZ/doSieV/z8Q4u0XjV9/e7wmPeNzx6aUGTJByG6UT3BVCDnhL6qmk2pmVAxndcH16S+rocFzzqdV/JP0rKFiOxEJx5cPAwK5nSbWXHsFsEw8DhZBd3M8SUt5h3Wk7jAttKqSzqPgUr5e7gki9J8O0ssUOGDJAWRnFA8rwsU6334QGaBGBKYbo6Ck4pLh1I+3wzf3ug9ecEeL0/vtLeOaPQ8V4Ui5zKaf/0Yi3lDxk2Z2+bxM4DxFyApyQRoYmFvqgy/Io8SbvttSm6/ZADFRZLcW6+LBOPTyHZ8sTn5nZJ/4X9uPh2xHREJmgYzECZvTa6xlG8K9zcclZOV2hx+2yHxA8+eo7N8OgOeBUAA6NLTWi+1U3QU5uExu+XuUvPw68jwEUMm3QcgA3Nwxjncz+qSwgWp7kxvFtmqYtWlH1d6gi5zvObfoJvjN4Yv9Scbmz+K9TKSaFXlp6pA==;2YVl8QFNaOjGvy9pVHwcdw=="
 ---
 
