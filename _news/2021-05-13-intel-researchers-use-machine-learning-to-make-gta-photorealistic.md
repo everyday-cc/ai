@@ -57,6 +57,22 @@ related:
         width: 2500
         height: 1570
         isCached: true
+  - title: "Intel Use Machine Learning AI To Make GTA V Look Insanely Realistic"
+    excerpt: "Researchers at Intel have used machine learning AI to make GTA V look insanely realistic.  'Photorealism has been the defining goal of computer graphics fo"
+    publishedDateTime: 2021-05-13T15:16:00Z
+    webUrl: "https://www.iflscience.com/technology/intel-use-machine-learning-ai-to-make-gta-v-look-insanely-realistic/"
+    ampWebUrl: "https://amp.iflscience.com/technology/intel-use-machine-learning-ai-to-make-gta-v-look-insanely-realistic/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/intel-use-machine-learning-ai-to-make-gta-v-look-insanely-realistic/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 74
+    images:
+      - url: "https://cdn.iflscience.com/images/54793612-1ecc-5842-aee0-291b97239786/default-1620907182-gta-v-is-almost-photorealistic.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Grand Theft Auto V' mod adds uncanny photorealism through AI"
     excerpt: "Researchers have used machine learning to add photorealism to 'Grand Theft Auto V,' hinting at the future of AI-assisted graphics in games.."
     publishedDateTime: 2021-05-13T13:54:00Z
@@ -86,6 +102,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1640/16407182/3830284-grandtheftautovphotorealismintelmachinelearning.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GTA 5 photorealistic footage created using a machine learning model"
+    excerpt: "A GTA 5 photorealism video shows what the next GTA might look like by enhancing the game’s visuals via machine learning. GTA 5 was a graphical marvel when it first released back in 2013, and while it’s had a few upgrades since then,"
+    publishedDateTime: 2021-05-14T16:10:00Z
+    webUrl: "https://www.gamesradar.com/uk/gta-5-photorealistic-footage-created-using-a-machine-learning-model/"
+    ampWebUrl: "https://www.gamesradar.com/uk/amp/gta-5-photorealistic-footage-created-using-a-machine-learning-model/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/gta-5-photorealistic-footage-created-using-a-machine-learning-model/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YhtXxZXN6zM5qLDBxSBpp8-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Intel machine learning makes GTA 5 look even more realistic"
     excerpt: "GTA 5 is a great-looking game, but Intel's machine learning experiment takes it up a notch. Even if GTA 5 is not that impressive graphically (it is a game from 2013, after all), that doesn't mean the game looks terrible."

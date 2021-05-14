@@ -1,28 +1,28 @@
 ---
 category: news
 title: "This AI tool writes real estate descriptions without ever stepping inside a home"
-excerpt: "\"L O V E L Y Oakland!\" the house description began. It went on to give a slew of details about the 1,484 square-foot home — light-filled, charming, Mediterranean-style, with"
-publishedDateTime: 2021-05-14T11:44:00Z
-originalUrl: "https://www.gwinnettdailypost.com/news/business/this-ai-tool-writes-real-estate-descriptions-without-ever-stepping-inside-a-home/article_8b60ce6d-b9b0-528b-aaf4-b6aa3db0c1fd.html"
-webUrl: "https://www.gwinnettdailypost.com/news/business/this-ai-tool-writes-real-estate-descriptions-without-ever-stepping-inside-a-home/article_8b60ce6d-b9b0-528b-aaf4-b6aa3db0c1fd.html"
+excerpt: "L O V E L Y Oakland!” the house description began. It went on to give a slew of details about the 1,484 square-foot home — light-filled, charming, Mediterranean-style, with a yard that “boasts lush front landscaping” — and finished by describing the “cozy fireplace” and “rustic-chic” pressed tin ceiling in the living room."
+publishedDateTime: 2021-05-14T16:40:00Z
+originalUrl: "https://kvia.com/news/business-technology/2021/05/14/this-ai-tool-writes-real-estate-descriptions-without-ever-stepping-inside-a-home/"
+webUrl: "https://kvia.com/news/business-technology/2021/05/14/this-ai-tool-writes-real-estate-descriptions-without-ever-stepping-inside-a-home/"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Gwinnett Daily Post
-  domain: gwinnettdailypost.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/8/ff/8ff03ffc-066b-515d-b68a-9c8f515a2f60/609e68f37978b.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_4aa5b61127ada90b8aa0be3e2189f6af-h_0c19cc9687d9c9124c3f427c24eef903_preview.jpg"
+    width: 500
+    height: 281
     isCached: true
 
-secured: "rTa3ErxY4AWuyPOJK7e1PeFSplt+eOc0i4kDk5rFe2+a8dmIIXeYj4l+/5rKoTohaLen/cwZMHrHoJIRrYH0BzJ0yuS3vsuVLvlFiNJ8RgJjZ7y2VcAYDeQVURPehZgWJRUVjit9wTq/BSYNts9sTtjuC8LeM5KvDUkI2oh6Zh4NAsq17EsybnyXJkiilL1dxGDfg6A5oGfD/sY2OSUS9DlwtzqW3FgQeGF/ArFyL/jpXe85gCsmn04LSijGiNANz++hPPmhMcjqFaWR/83PGCRPVgZI50+nP+12CEGQPJXdsDsMY27YuWrTonR57q8i9JNP9Gf+TXOlqr4LPlB93QonsZjverjglzOOdhmR+2o=;yCA0eC+Q5a3mQH80lWeHLQ=="
+secured: "4lMqN7jOF3bu+ZdV6W7c1gFWzPyg4Zr/FtSPExiaSZe0nBAPwIIhlKzGmnOXWs5GDTSoDsRJbdRIrXXJSjT/FO0FWe/YtvxM1GNec+TlwwE+9JmsDP7r59PDlGE9/Jxj2HenHOdiwRAR11e1kXsZg4vzcx5HuM16dSXtUShtwP4xgcKMyJRqyVrLnjBKm6/EOH6MpNhRSC+EmUqjxN4U59nn5EFYaXcXjRglxYlBOImSuaTCxM84gy2l8SXZpEsVuf0N9rX7VUlks7rnpXzdILUTQIuILkaPnuTmerSRz2Pge70RjtOYCWqmHjAWTyNrgQKNise8gqOFB8mORSjdvtyS2C3lA71kLr5b3ICgFMU=;uJe5OghKbi/OuHBnlAs9GQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-service
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: https//beincrypto.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
+    excerpt: "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ..."
+    publishedDateTime: 2021-05-14T16:42:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
     excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
     publishedDateTime: 2021-05-14T04:37:00Z
@@ -43,20 +59,29 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Core Scientific Announces Expansion of AI & Blockchain Facility in Dalton, GA"
-    excerpt: "Today, Core Scientific, the leader in customizable infrastructure and software solutions for Artificial Intelligence and Blockchain, announced that it has expanded its facility in Dalton, GA. With the construction of 3 new custom designed buildings,"
-    publishedDateTime: 2021-05-13T11:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/core-scientific-announces-expansion-of-ai-blockchain-facility-in-dalton-ga-1030425491"
+  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
+    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+    publishedDateTime: 2021-05-13T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/1493833/Core_Scientific_Logo.jpg"
-        width: 400
-        height: 369
+      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+        width: 1997
+        height: 1047
         isCached: true
+  - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
+    excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
+    publishedDateTime: 2021-05-12T03:42:00Z
+    webUrl: "https://ksusentinel.com/2021/05/12/deep-learning-software-market-is-growing-worlwide-analysis-by-keyplayers-microsoft-trint-google-amazon-web-services-nuance-communications-ibm/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
 
 secured: "3VZKnEJZQajcvKgGWfrfAAd+52g1TuGMlw4hctywT0+Kwxb+JnEGGGPXgaHZ8JIpo6PApIW9T8g52hJuXaAr8gsYn6gsitxi+Jcn2Uvk+tELBX3UqKLsCS+69OZp2OJ+1DSdfDx8VInI8IBWSvs+QEupNuNRl1cqGzduCUpNzlx82IBph7/otkLUDj/RO3Ga12/Z2kzfMR/MMbsyiwEfOGw3+Wh9Wjr+Y6H3Zck5YZfoE4hao5Z0yP/kUV+NSGd/KKtDLGcInWQLP/Uzox64qfnaSPZ2PQCiP6HGqPVinzoX8zpGct6Je3OX8lP/sF2oJziCfRTchozLQDx6Odh84OBgwX7o/D+zLSyHP/6tDqgC3Awa+iOzycArfiVvlmJbjxEXhTWHEiX39Atg0x+ysCSV/PRdR/fFArLsCgDDmuVSEgq6wDHLS+swR+PVo9+4tJ+InMKjkjfPkDN4ytx6iJdGOLpdYSJ/NGQv8NSs8vfy8qu5Qh+ApCwSZjkQH82J1qvndGteAb20o5NK1fyimw==;z/xXH/x+X1Mzc/YGID2SVg=="
 ---

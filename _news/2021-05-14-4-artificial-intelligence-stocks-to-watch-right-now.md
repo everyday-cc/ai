@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/371987"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
 type: article
-quality: 87
-heat: 107
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AWS AI
+  - IBM AI
 
 images:
   - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
@@ -61,6 +63,6 @@ related:
         height: 450
         isCached: true
 
-secured: "L/ijUwX93oHjVMJhW5oRUb6/TiDMz3QCVOJKJaxRJMOxvWPv/ap+EKhIM85TBhxCAl3Oh0iaatIepGMW6IxJcboaOlegQRYI2E33+DXleZvTGIdEmUdin8ghe6qsa7LV9QQ5VWo0yYcD6sXzBFqVOt40JluvTDLJjjwdi7x2TB6+IxHsgR2waMN8KVSvD30yUivr2QvPFBIOud1YSdguyXv82hRbnYtb/wJfPFlqehysxJDQSwWzL550xg41l1PkbTTeFLiDHrEE5YxuXeJebnaNm2rWtSdvezFPQb5A7N1DJOMdpJjudkCyJ5zDLF03d9EVNW6ZrwUolApFa2JxScKjatbNBXy756FT1VhldmE=;lehsn0/gN4gIzdZsQSK27Q=="
+secured: "XKNO/Pfg4ToM4OYHHGSlXw4GF8KoFPIsExBk7S4trBe6UD4aPtLSplDu0IZsahbSnCfFH+kkmvVSVg0Kvr6rLzVZA8Ok6018DkC3SAcr0Ml3VMJM8BfEr+sZMMDkO378bW2T6TGXHsRGdQ5HMwp0onqNEarO+HIcC5ml/IQeBtbax2cZos0KIg0HnJoctpLoTg9eDnp5XP0jwX5w8V5vOEQLmWjMTdqZenQMzaxbAhPeVsaxbZ3dZ6QN2pLHlfrkcx30XotyrBn1KwYDhvUhMVinR/6X8ToVuZeNNQety/bU87Unoax8GhYViKngdk9oJdpas7qtubSvrFBfHjUiFjtkb1ROPWR66+iqr16gr0vSfa1jv0Me8rqjHbdm33OzupJTHMZ4qtiMQ3PoPVSGVIt+HZ7bwpYFY4zccDcvzTH2R5Z38AIwitXAkEXwNT3Q82DFLePcPTXnxz7VvdqCsZ4rM5PmYee4xAdy0ZwrzGXVoJSHA/OFFCj+ablHl6w5vDDkzGN/5WzUgNnKmXGrtA==;CJCkwuWlLWjnrPICcAyyJw=="
 ---
 

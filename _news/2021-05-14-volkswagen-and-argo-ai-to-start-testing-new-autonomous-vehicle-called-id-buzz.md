@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-arg
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -50,6 +50,22 @@ related:
       - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/volkswagen-id-buzz-microbus.jpg"
         width: 1280
         height: 653
+        isCached: true
+  - title: "Self-Driving Volkswagen ID Buzz Minivans Entering Real-World Autonomous Trials"
+    excerpt: "T ID Buzz delays are a, uh, buzzkill, but at least while we're waiting until 2023 or so to drive one ourselves the reimagined modern Bus will be put to good use. Volk"
+    publishedDateTime: 2021-05-14T17:05:00Z
+    webUrl: "https://www.motortrend.com/news/volkswagen-id-buzz-argo-ai-autonomous-van/"
+    ampWebUrl: "https://www.motortrend.com/news/volkswagen-id-buzz-argo-ai-autonomous-van/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/volkswagen-id-buzz-argo-ai-autonomous-van/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 40
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2021/05/VW_ID_Buzz_Argo_AI_1.jpg"
+        width: 1360
+        height: 765
         isCached: true
   - title: "Volkswagen Will Start Testing Autonomous ID.Buzz In Hamburg"
     excerpt: "If you see an ID.Buzz with a bunch of sensors driving around Hamburg this summer, don’t be freaked out if you can’t see the driver. Those sensors can see you. Volkswagen Commercial Vehicles and Argo AI will be testing level 4 autonomous driving technology around the German city with a view to getting it in consumers’ hands in a few years."

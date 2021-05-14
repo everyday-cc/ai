@@ -21,68 +21,68 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM"
-    excerpt: "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research."
-    publishedDateTime: 2021-05-14T03:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
+  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
+    excerpt: "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ..."
+    publishedDateTime: 2021-05-14T16:42:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027"
-    excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
-    publishedDateTime: 2021-05-14T08:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
-    excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
-    publishedDateTime: 2021-05-11T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/11-billion-worldwide-natural-language-processing-industry-to-2026---featuring-google-microsoft-and-ibm-among-others-301288562.html"
+  - title: "Microsoft Shuttering Azure Blockchain Services"
+    excerpt: "Microsoft announced that it will retire its Azure Blockchain on Sept. 10, 2021 and advised users to consider using the Quorum Blockchain."
+    publishedDateTime: 2021-05-13T13:18:00Z
+    webUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 89
+    images:
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/05/BIC_microsoft_azure_blockchain_seize.jpg.optimal.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
+    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
+    publishedDateTime: 2021-05-14T04:37:00Z
+    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
+        width: 620
+        height: 348
+        isCached: true
+  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
+    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+    publishedDateTime: 2021-05-13T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+        width: 1997
+        height: 1047
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
-    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
-    publishedDateTime: 2021-05-13T17:54:00Z
-    webUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
-  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
-    publishedDateTime: 2021-05-12T11:11:00Z
-    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "p8YKq3PSQzS/nE3v3bFNc/Bntb82I8tkHCSV4h6o2dRjKMXuq38DXvczGauiymd5/FYh6AfsAMxty64SyYqCRgeFKQYXo9s6NpD1MLW78lxElrspMyAmNXlDtJWloMNVjmgC0/isLC3bojaEoWxF081zXLEdoP3/n4DhfFFe55KmLsdh3I9F49M1FeDI+gGGsfNztacydDenBy9tO+Z9HkuPrdOLV4pcYgmTm8RaBkX2nSM5T5zBn2CdYWFCG/NeQnoeikIoyWDwGp1vqVQRQSeYc7h4ZEdY+0BhoXMpdrms5ZmeK/nKTofr3MLE8Dyd9bd7flKFxHJR0c255fh6O4Zyjty82tB6ZbaXAjrU4Ozkw2K/n6z/70kpdvFkvMqGORUCKN00/zmg/+LQsDo4abWZIIDuZnAvXhBFCOHfZDYmea82FiLFXKtRrjJVM4767w/qHHSEyFuZcwpgKqjNo7eX0D5BKc1sIGzoceeXVWJQhlUB42oo0zAtWUYyiGyyTAWoIfzecxEQwB7gjinp3A==;yUGkqO5Kh34FaZiX1V++nQ=="
 ---

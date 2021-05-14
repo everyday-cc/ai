@@ -50,6 +50,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
+    excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
+    publishedDateTime: 2021-05-14T17:07:00Z
+    webUrl: "https://campusreform.org/?id=17351"
+    type: article
+    provider:
+      name: Campus Reform
+      domain: campusreform.org
+    quality: 0
 
 secured: "7qSl16u8Alx+fBCmYG/rY7FssM9BSe87QAQxTudG/u/r/2J+pxEpXv/ZNzxpuoOjPLJ5aPQBnZjOytH0R3JB108sUGZ8eZGqBnyDCxz0hOrov9bwKNa383zOCRQ+odqh+RLdoLGm2XVtN7ZeYNPaNi6Il2BEjVjtDyi/fYaZtQyqUq9vI4iZOpd6AedrCMmidl+WO+34G8e69cSu8hdUPEHQOHacqlL1zN5ia5ijVnWd+6ct0SH9LM9Ks9CuWCMweu2f+EwjwaduLHCa0q9l0bu22UlafIqiHluLjQCaO13cUkjei8CWn4r1F/sQ5UclQaEQiUV6rOhMKLRZ+gwWTUnkQh4vIsKZjoo0A6SSokA=;8gqSjivyZgtEcOD0KA35Vw=="
 ---

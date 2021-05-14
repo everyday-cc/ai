@@ -23,6 +23,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Allego Launches Enhanced Conversation Intelligence Product, Adds Significant New Artificial Intelligence Technology"
+    excerpt: "Conversation Intelligence provides constructive insights to build stronger person-to-person connections, enhances prospect’s buying experience and boosts sales performance Needham, MA– May 11, 2021 – Allego,"
+    publishedDateTime: 2021-05-14T17:18:00Z
+    webUrl: "https://customerthink.com/allego-launches-enhanced-conversation-intelligence-product-adds-significant-new-artificial-intelligence-technology/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 0
+
 secured: "rMRqxRzpYuD7pYyh6YF66wB93G2trq+BtGIJa/NYRax30n81AFOMyuYI234ihmS6wQYtPHITITnRVwteSJiwVZpiPQLWKLaDCA3SvURZHL7ZEjv2VG+FQQWZZXT6FFI5dKpQ2jDTpN318bv+GjmNEDbnAqo/28aTdv7pTYfAarLSbAc2+/mvAnK6g1miWvQQDq/Sf2+qGy7mKZEPbyqYalehoNn1anwKvKzwE85nax9MT8HoyRFewn/bZCsdvHA2H0RaH6AXWwbiUmik3yEFrUjQIHn7aZB1MgUuolGttFvt/HV+gApzbFpH+3I19ardkC9aCD6+aNnHkozjUyMTepMBHTNb/ZWSAI9Dtmb4JO3/BUPGiBP6lsYrNu4cQuGtmuwpZIdgR6WffUQpK2NGRauEFNb9T6aO5TfFjoiluYkAGce5WaXKtIvGtN60UKl76G5SZ3U6WGicmoImVuoizhfO4eHvka0QxadAsAWYWr4BkTAkYC9iTU/9F2b5xKZQp/kREEG3HCl5y5sKACPq/w==;WRAxFQ0Ic9M/m/YCvH6hLw=="
 ---
 

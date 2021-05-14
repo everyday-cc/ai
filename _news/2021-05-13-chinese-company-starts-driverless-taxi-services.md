@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chine
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
 type: article
 quality: 59
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Chinese cities by AI innovation power"
-    excerpt: "The latest China AI Development Report for 2020 and the AI Open Index were released during China's annual meeting for artificial intelligence in Jiangsu province from Sunday to Monday. According to the report,"
-    publishedDateTime: 2021-05-10T00:18:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202105/10/WS609864c4a31024ad0babccbd.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/10/609864c4a31024adbdc6c054.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Chinese self-driving startup WeRide valued at 3.3 bln USD"
     excerpt: "Chinese self-driving startup WeRide announced Thursday that it has closed a Series C round of funding giving it a valuation of 33"
     publishedDateTime: 2021-05-13T13:50:00Z

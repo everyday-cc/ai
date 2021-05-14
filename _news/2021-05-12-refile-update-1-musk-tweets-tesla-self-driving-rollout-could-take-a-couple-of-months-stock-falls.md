@@ -120,6 +120,20 @@ related:
         width: 820
         height: 462
         isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
+    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
+    publishedDateTime: 2021-05-14T17:42:00Z
+    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "YZxd5qTwcEu4p/leo/E91UEcqdW7lgM6pIxZNujE0mYx3kDZYE2uG4MMy7wpHJ9CuFeRYN9TONj2Nt32YA3Ao3hq1QbwnUzsT9+ALGhSY9ybiLu3UhgjBZZL1Rfs2PO7SmGR+PS4QoA3Nk0hVmqz1rmNKTf8M4Jk7TMZH9ha6sMJlUY+8mJ47nJKzc7dAkA7ehL74J4VRyShFW/hW0eVgpDqNGjgNlK+KRCN0HuqKXPC4G6EtJ1vL8yN09D90lQ9JrAwNXOFPbgSbewxcRlCMVtzHM0wxxE8+E6o6xzXebcodx7xEN4VqUHm1IB/s1suFrmrNh09CGNqbgCcJRknUXWq9riXcaXxs1vYiq6/usw=;NeYltrkTCG0DDZjr5il1Pg=="
 ---

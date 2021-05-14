@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021a
 ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609e948de2ae75870e17f414%2F0x0.jpg"
@@ -156,6 +157,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "fX3GM74pJiv8Mjg50YlW1paX32romilKW2cr+yDdn0XoFQLcMK7s5Nyzp8botfyZ+aESa+k4b8p7pBq1tIGGNxRu5N1ZukWd+XWxgzSaHAWSwQteLanl8/OO1ARNGFcc4fgjtDwt5hjDzuV6QXRqfxGm54PkO2rNJMo4HJfy7JeE93gfDWQGAwHWHoiN/BwaX6vOxRCpOWkD2zswu96KtbKqeL8BNfcEngIJdBD8R3sBWa7e6N6Me2UHOgLS1dZVToa1p1iQTEt9knXdJNP36tzPTqiZ21mPQHIENIXHovQb+mJ8JrScslUbaTbN6RWQP8Y/CnU7geW+b5CRLcUt8eVDFhiGI3ixVykxuGIk3gI=;aibp6a6KUpakC+jsiI5cqA=="
+secured: "oH3QejwOL/NSGf9lgtNYFQbx1G42XQhaOi5VfgtVurglMnr84fLCMI9l3CL2AtX7rCqEMm+efgmmVzb7b3sb+dl7XgHQpU06SSZ7FdQl1RQ7kmUUmGlotuhAZt7fo3kGj0emPQF9fmxQqYbijbtqpxsP8R+/hccJIuq2E0H35DIqSFXBIM3gfaF4Z+jgLMY8+zkfqKJir9M1P9pTFhsrVVpZPAU6lTH0NIiG2sQ+fNI3ETtew6eBrKKSEl/5eEeR1v0elWEbmUcpMmpnCjVbW9JIcbCh8CrxdjFUk4K04AmNbkeIQ71HrXreqGjyFYbxQRgiYvC7a6L3EYZ5wDQteQkY3vlvxzp/cqqN/2QRGVzzVDt2LVo3dJgyJ7BA2AtjDkITyNLsUTDocheOobzEkBUn0Ta0SxOwLuXbIH0k3S6BnAR7qEfX10J4Pb/d1nSa//iw91SdwA9dQGrovacG2q5AzQytdxhVHno4/hL11Vra3/sAMiU+m9GuEYDKxbGMpsvyyRdPNfqxzYYuoimO5w==;KXXjbxK0fyuvrpQzSwIEIg=="
 ---
 

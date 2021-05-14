@@ -39,7 +39,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
         width: 600

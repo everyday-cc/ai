@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 653
         isCached: true
+  - title: "Self-Driving Volkswagen ID Buzz Minivans Entering Real-World Autonomous Trials"
+    excerpt: "T ID Buzz delays are a, uh, buzzkill, but at least while we're waiting until 2023 or so to drive one ourselves the reimagined modern Bus will be put to good use. Volk"
+    publishedDateTime: 2021-05-14T17:05:00Z
+    webUrl: "https://www.motortrend.com/news/volkswagen-id-buzz-argo-ai-autonomous-van/"
+    ampWebUrl: "https://www.motortrend.com/news/volkswagen-id-buzz-argo-ai-autonomous-van/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/volkswagen-id-buzz-argo-ai-autonomous-van/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 40
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2021/05/VW_ID_Buzz_Argo_AI_1.jpg"
+        width: 1360
+        height: 765
+        isCached: true
 
 secured: "izGjaU+Iu/qCVJnf1s4Pcsf6bRLasf1uSr0o80K/2kOgOT323GctRzNig6ltFCmTKbq6NOEAHb9dtO4EpsxbauISfiMbGYOCvd3aue9Jj2sMonH+s41Tu1YrV3NY0DSI1nMtw4LVei1ZicHGAu5O4a6JcnQm2byYecw3ROs1U76tsPL7OUpKEe65auJ1h1Ycnpm9sDDPXQYV9ZTWr89/b8hViHy06R+1PURIQhQNLUWze/nz95TBPjRI9/FvVwQj/Ex1KCmNv6xtZjF3Xszj/i/eJHJqld+jbsMiuta5oCybaebQSWnvzkIrweaOV6bNFLUqc/w1cvehEwJ0sb7bF6Qf3hTWpAOUEaQsnHx1t0yNMspWyN9wkwVTjL9GZJnzpCdHfmG75wkFgYwfOrrwrC+NNyj9kPuhB2k69bYQBZ03FEy7x1ZBUkEA/x6XAy+9LUbchsuu9qfQdPMRSi7O9jRl+x1UuBZaIXVhz1VJRfTyi9JvJczRUCgC3L9jZfEINaXHYVRfBmjXl92ZdKp1Dw==;mlNASzHplK0nINBBuaI5kQ=="
 ---

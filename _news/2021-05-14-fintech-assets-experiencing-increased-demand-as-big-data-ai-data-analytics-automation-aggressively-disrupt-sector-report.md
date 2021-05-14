@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T19:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 36
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/05/sas_hackathon.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Valmont acquires crop analytics startup Prospera for $300m"
     excerpt: "With Prospera on board, Valmont now claims to be the world's largest, vertically integrated artificial intelligence company in agriculture."
     publishedDateTime: 2021-05-13T11:20:00Z

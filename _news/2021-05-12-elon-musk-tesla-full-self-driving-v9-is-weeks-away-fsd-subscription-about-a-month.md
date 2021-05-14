@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
 type: article
 quality: 83
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
         width: 820
         height: 462
+        isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
+    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
+    publishedDateTime: 2021-05-14T17:42:00Z
+    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "7dIBnEkjYwoVW2hdS4x7eH2PdFuK+G1AyOZeEDEYNcyhJqDyQvUSjmmVmolKp06BrKvoYK073E0D2VaujEMDE/3Pei1g/OGClAud4cGLCgfSgDrb+6WXng5yHx++wxO4yNMaTdI2G9PqP2ZZ8uP6+gR1prOnqdYhawqkhVe5WcJC8OqXkLrbV2/ZYAAMewEshlDJzNOU/Owc/eVajyocliKvdGaCRLS2H/Zfjttedo4s2qoW4umhwhjfiHdD03g7jjYu86sl3MieV8W6ED3bqSsQnBKciueWq0LORoXocmcRdNpD2k5mMYI83ZhcVbPKX7zD+X+6bk4wkvHfwCGlepGZJQeSZCQr5/tlYP/E0+dBF5PXxQ1hiRyWy1iyijV7rQ7efjbbM0oAccbNp2M2XosphPEQ5ZAokP9p9s5nrDFEaK4srHwwsJDcG205IjtJjN8Weyt1H9kMiLT/BcGam53bCbmKkxYjErhYTgA9TJ5TwSwCriPGiUBQEjzdrv4AO57eFg/3guesL56FrVZw3w==;I024xJC3PRM9bHcq+JrZ6w=="
