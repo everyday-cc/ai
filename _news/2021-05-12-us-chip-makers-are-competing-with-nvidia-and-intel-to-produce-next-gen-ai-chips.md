@@ -51,6 +51,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 33
+  - title: "ALCF Webinar May 26: NVIDIA Profiling Tools Ecosystem for HPC and AI"
+    excerpt: "The Argonne Leadership Computing Facility (ALCF) on May 26 will host a webinar in which NVIDIA will present their profiling tools, Nsight Systems and Nsight Compute, and will discuss how they are used in HPC and AI use cases."
+    publishedDateTime: 2021-05-14T12:22:00Z
+    webUrl: "https://insidehpc.com/2021/05/alcf-webinar-may-26-nvidia-profiling-tools-ecosystem-for-hpc-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "iL3qY6vGqnEZdFjiwckcwLAfgE39OgfIJPtcqWvLU2KlG8+UnzJjztFFZtHe1Etr/y4d+cMg/wFVFXvne7p82gD3oQt0n/cVYYEREe+zg0BEeU0v/G0rqpMTpsngmaIKk+6aw/CuYYzysXzaJNWq+v2zat8XLqw0R2KSKgdM4vPzRQwDNh2XsNKW4AbdLAnd6RhyTYgpxzF7UsfgupW1oSXs2FopzmTjXAl7rGTyFbCuo4KPUJnSBcPPs0Flid1xrTJpi1x2kSuRRVRwDuwcw0H87fSsiOCuNng7L0dM+1UMdr3S2ancL/+B92/XZS8/pztvnmT0tvpyN4kvm2EJByuue5cfjjl4H1eQQU8QZCk=;Ge4RWg8XHENuV05C2moTpg=="
 ---

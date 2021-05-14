@@ -2,6 +2,143 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-29-promoting-artificial-intelligence-in-accounting-profession.md",
+      "title": "Promoting Artificial Intelligence in Accounting Profession",
+      "excerpt": "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/c701d120-technology-innovation.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/",
+      "publishedDateTime": "2021-04-28T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-aws-announces-general-availability-of-amazon-nimble-studio.md",
+      "title": "AWS Announces General Availability of Amazon Nimble Studio",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Nimble Studio, a new service that enables customers to set up a content production studio in hours instead of weeks,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777",
+      "originalUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-frances-macron-eyes-artificial-intelligence-to-monitor-terrorism.md",
+      "title": "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism",
+      "excerpt": "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "originalUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-330987/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
+      "publishedDateTime": "2021-04-28T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.md",
       "title": "Imagen AI uses artificial intelligence to edit your photos in Lightroom",
       "excerpt": "Imagen AI recently announced its new desktop app for Mac and PC. Using artificial intelligence, it will automatically edit batches of your photos in Lightroom based on what it has learned from your past editing preferences.",
@@ -1042,146 +1179,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-artificial-intelligence-will-maximise-efficiency-of-5g-network-operations.md",
-      "title": "Artificial intelligence will maximise efficiency of 5G network operations",
-      "excerpt": "You’ve likely heard of developments that would combine 5G networks with artificial intelligence to enable autonomous vehicles, augmented reality glasses, free-roaming robots, package delivery drones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations",
-      "originalUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/mobile-phone-artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations?amp=1",
-      "publishedDateTime": "2021-04-28T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
-      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
-      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

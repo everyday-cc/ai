@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM"
+    excerpt: "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research."
+    publishedDateTime: 2021-05-14T03:37:00Z
+    webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 57
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027"
     excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
     publishedDateTime: 2021-05-14T08:31:00Z
@@ -29,113 +43,44 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Research Report and Predictive Business Strategy By 2027"
-    excerpt: "In 2018, the global cognitive computing market was valued at US$ 30.67 Billion and is expected to reach US$ 360.55 Billion"
-    publishedDateTime: 2021-05-14T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-research-report-and-predictive-business-strategy-by-2027-2021-05-14"
+  - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
+    excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
+    publishedDateTime: 2021-05-11T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-billion-worldwide-natural-language-processing-industry-to-2026---featuring-google-microsoft-and-ibm-among-others-301288562.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
-    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
-    publishedDateTime: 2021-05-11T01:20:00Z
-    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
-    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 46
-    images:
-      - url: "https://www.reportsgo.com/img/img-6.png"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "AI-Driven Enterprises Market Research 2021 Report | Growth Forecast to 2027 Infosys, DataRobot, Deloitte"
-    excerpt: "AI-Driven Enterprises Market is growing at a 52.15% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-09T19:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 37
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-127-780x470.png"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
-    publishedDateTime: 2021-05-11T08:51:00Z
-    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Artificial Intelligence in Video Games Market Industry Analyses 2021 – 2030"
-    excerpt: "A new market assessment report on Artificial Intelligence in Video Games market brings to light a detailed statistics on the dramatic shift in the competitive landscape and business environment of the Artificial Intelligence in Video Games market for the forecast period 2019 – 2030."
-    publishedDateTime: 2021-05-11T14:58:00Z
-    webUrl: "https://ksusentinel.com/2021/05/11/artificial-intelligence-in-video-games-market-industry-analyses-2021-2030/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 15
-  - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
-    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
-    publishedDateTime: 2021-05-09T22:11:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-in-security-market-top-industry-segments-analyzed-in-latest-research-report-by-mrs/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 12
-  - title: "Business Intelligence (BI) Tools Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
-    excerpt: "A recent market research report added to repository of ResearchMoz is an in depth analysis of Global Business Intelligence BI Tools Market On the basis of historic growth analysis and current scenario of Business Intelligence BI Tools market place the"
-    publishedDateTime: 2021-05-12T05:31:00Z
-    webUrl: "https://www.openpr.com/news/2283397/business-intelligence-bi-tools-market-analysis-leading"
-    ampWebUrl: "https://www.openpr.com/amp/2283397/business-intelligence-bi-tools-market-analysis-leading"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283397/business-intelligence-bi-tools-market-analysis-leading"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
-    images:
-      - url: "https://cdn.openpr.com/U/5/U512338490_g.jpg"
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
-        height: 424
+        height: 419
         isCached: true
-  - title: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
-    excerpt: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
-    publishedDateTime: 2021-05-11T10:44:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/11/worldwide-mechanical-test-applications-industry-4-0-market-report-2021-machine"
+  - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
+    excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
+    publishedDateTime: 2021-05-12T03:42:00Z
+    webUrl: "https://ksusentinel.com/2021/05/12/deep-learning-software-market-is-growing-worlwide-analysis-by-keyplayers-microsoft-trint-google-amazon-web-services-nuance-communications-ibm/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
+  - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
+    publishedDateTime: 2021-05-13T17:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "dq626GF63DIbFHsbKffhnX4T4J4Vtz6Jfso1DS9sTvY4BNMlE2o0N8t9+fg1GselkRBHTGvWUB/L3skxAi4tkR08kls7WrlJWQPGyo7Uyj/hW8F8vFJim5S/nlqkanyYjngexUtN2lE6W5WMT/CPi4v7i7BO60bpi3XzgAnKeSjHxHhZno2+MU3hX3oaexVnZzmGFUFOiLk/03UDbf3pmJKaNaMK27SFW8K49ilMm9BRom3PBqkwqpuN1svFqy7bzhw5am54ApWU58tiblkko8JBWiuRj2So33GwtQu10WlQGBgZPiJxGt9j+DnJqbb8HwKoFXytqE9vXzl2hVNGTitBW8fbSJ6ZTHxQzt6tAkc=;XtvgNWq+IC/OaUsrY/f4OA=="
 ---

@@ -94,6 +94,22 @@ related:
         width: 582
         height: 304
         isCached: true
+  - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
+    excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
+    publishedDateTime: 2021-05-14T09:53:00Z
+    webUrl: "https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.html"
+    ampWebUrl: "https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 53
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/communication_network_online_meetings_virtual_events_digital_conferences_video_conferencing_remote_teams_by_metamorworks_gettyimages-1223790400_2400x1600-100854037-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "COVID caused conversational AI to accelerate, says IBM"
     excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
     publishedDateTime: 2021-05-13T17:33:00Z

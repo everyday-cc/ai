@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/89671-intel-applied-machine-learni
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html"
 type: article
 quality: 89
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Experimental AI Tool Makes GTA 5 Look Stunningly Photorealistic - Here's How"
+    excerpt: "An AI research group has released a new video showcasing a new photorealism enhancement tool being applied to GTA 5 – and the results are stunning."
+    publishedDateTime: 2021-05-13T14:29:00Z
+    webUrl: "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 134
+    images:
+      - url: "https://assets1.ignimgs.com/2021/05/12/untitled-1-1620842797696.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Grand Theft Auto V' mod adds uncanny photorealism through AI"
+    excerpt: "Researchers have used machine learning to add photorealism to 'Grand Theft Auto V,' hinting at the future of AI-assisted graphics in games.."
+    publishedDateTime: 2021-05-13T13:54:00Z
+    webUrl: "https://www.engadget.com/gta-v-ai-photorealism-135046313.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/13689390-b3e7-11eb-becf-c3c4fa6662ed"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "GTA 5 Looks Frighteningly Realistic Thanks To Intel Machine Learning"
     excerpt: "However, Intel may have actually achieved that thanks to a new machine learning project called \"Enhancing Photorealism Enhancement.\" Created by Intel researchers Stephan R. Richter, Hassan Abu Alhaija,"
     publishedDateTime: 2021-05-13T14:10:00Z
@@ -46,22 +74,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1640/16407182/3830284-grandtheftautovphotorealismintelmachinelearning.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Intel has made GTA V look incredibly realistic with machine learning"
-    excerpt: "GTA V has been modded a few times over the years, but even the best mods don't make it look as realistic as the work Intel has done with machine"
-    publishedDateTime: 2021-05-13T10:15:00Z
-    webUrl: "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning"
-    ampWebUrl: "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/156890-games-news-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning-image1-c1quf0n2i5.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Intel researchers use machine learning to make GTA ‘photorealistic’"
     excerpt: "Researchers at Intel Labs have created a way to make video game footage look “photorealistic” using machine learning. The experiment used footage of Grand Theft Auto V, and when applied it replaces the game’s polygonal environments with images taken from real-life photographs."
@@ -124,20 +136,6 @@ related:
       - url: "https://geekologie.com/2021/05/12/gta-v-photo-realistic.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Intel Labs used machine learning to make GTA V look like real life"
-    excerpt: "That’s where Intel Labs comes in. Intel Labs has utilized machine learning to greatly enhance the graphics in Grand Theft Auto V. By utilizing the Cityscapes Dataset (Cityscapes is a collection of images of mostly German streets),"
-    publishedDateTime: 2021-05-13T14:40:00Z
-    webUrl: "https://knowtechie.com/intel-labs-used-machine-learning-to-make-gta-v-look-like-real-life/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/intel-labs-gta-v-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Intel Uses Machine Learning To Make GTA’s Graphics Look Scarily Photorealistic"
     excerpt: "GTA 5’s graphics are decent and it looks good considering how old the game is, but we would never ever call it realistic-looking, but"

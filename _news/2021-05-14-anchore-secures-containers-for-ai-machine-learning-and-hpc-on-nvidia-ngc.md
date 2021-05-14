@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-ma
 webUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: element14.com
       domain: element14.com
     quality: 29
+  - title: "ALCF Webinar May 26: NVIDIA Profiling Tools Ecosystem for HPC and AI"
+    excerpt: "The Argonne Leadership Computing Facility (ALCF) on May 26 will host a webinar in which NVIDIA will present their profiling tools, Nsight Systems and Nsight Compute, and will discuss how they are used in HPC and AI use cases."
+    publishedDateTime: 2021-05-14T12:22:00Z
+    webUrl: "https://insidehpc.com/2021/05/alcf-webinar-may-26-nvidia-profiling-tools-ecosystem-for-hpc-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "yb/I9WiRht38f9UY6b7gu0s3Rh8rw4e/gBjs7kBSizXLVXif8k+zPsAuxJEMK8H/ZanBr+/CDJVZR98tr4BLLwEWmTBk5lvYfOGxd6OdIidqv5Y0tZOoINIBJxjjconqiVKKUxo76FD7dVGsRtqqqZiNo4BhI8kxR0cPZHjau8886Kb/+6AKsxOWwghe7vK6xNl9vGeDQbNz20/6jJUO0arYwluFRdDl7DuwrbHSzzrYrlczPAS5bcI4IAfb9+CTRLMf3UVXDwUYswPDgbmM5geA3lzHObXSpdP0hE9TZkQxtq5c59kmNWhi1ZDnuxP8HeU7iG6J3HdDhoAXYtytqrF47EQu9gltTZzA6Xf/Ab0=;98sbJy8hQiQsKybeXrLzKw=="
 ---

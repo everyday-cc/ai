@@ -2,6 +2,127 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-20-sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure.md",
+      "title": "Sinequa launches cloud optimized intelligent search platform on Microsoft Azure",
+      "excerpt": "Integrated with Microsoft 365 (Microsoft Teams ... Sinequa for Azure integrates Azure Cognitive Services to enable organizations to ingest all of their enterprise data sources, transform that data into searchable information, and enable users to get ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-rackspace-technology-inc-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories.md",
+      "title": "Rackspace Technology, Inc.: Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories",
+      "excerpt": "SAN ANTONIO, April 20, 2021status in the new Applied Artificial Intelligence (Applied AI) and Machine Learning Operations (ML Ops) categories. This designation recognizes that Rackspace Technology has",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-04/52628629-rackspace-technology-inc-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-04/52628629-rackspace-technology-inc-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-mariner-announces-free-deep-learning-proof-of-value-program-for-manufacturers.md",
+      "title": "Mariner Announces Free Deep Learning Proof of Value Program for Manufacturers",
+      "excerpt": "Phil Morris, Mariner's CEO, explains why Mariner has launched the 30-Day Proof of Value program. \"As more and more manufacturers look to Digital Transformation initiatives to remain competitive, it's important to them that they can see value at each step along the way,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mariner-announces-free-deep-learning-proof-of-value-program-for-manufacturers-1030322908",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mariner-announces-free-deep-learning-proof-of-value-program-for-manufacturers-1030322908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories.md",
       "title": "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories",
       "excerpt": "Rackspace Technology ®, a leading end-to-end, multicloud technology solutions company, announced today that it has achieved Amazon Web Services Machine Learning Competency status in the new Applied Artificial Intelligence and Machine Learning Operations categories.",
@@ -958,135 +1079,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-the-ai-arms-race-has-us-on-the-road-to-armageddon.md",
-      "title": "The AI arms race has us on the road to Armageddon",
-      "excerpt": "For now, the AI arms race is a cold war, mostly between the U.S., China, and Russia, but worries are it will become more than that. Driven by fear of other countries gaining the upper hand, the world’s military powers have been competing by leveraging AI for years — dating back at least to 1983 — to achieve an advantage in the balance of power .",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
-      "originalUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
-      "publishedDateTime": "2021-04-19T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-facebook-reveals-plans-for-brain-computer-interface-for-speech-prostheses-and-mind-controlled-likes.md",
-      "title": "Facebook Reveals Plans for Brain-Computer Interface for Speech Prostheses and Mind-Controlled “Likes”",
-      "excerpt": "This week, Facebook held its annual-ish F8 conference in San Jose, California. While F8 typically involves announcing new features to the company’s namesake social media platform, Mark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2017/04/facebook-reveals-plans-brain-computer-interface-speech-prosthetics-mind-controlled-likes.html",
-      "originalUrl": "https://www.medgadget.com/2017/04/facebook-reveals-plans-brain-computer-interface-speech-prosthetics-mind-controlled-likes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-jersey-citys-electrifai-a-leader-in-artificial-intelligence-software-for-business.md",
-      "title": "Jersey City’s ElectrifAi a leader in artificial intelligence software for business",
-      "excerpt": "You probably didn’t realize this, but there’s a little slice of the silicon valley in Jersey City. ElectrifAi, a data science company, is a global leader in business-ready machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nj.com/hudson/2021/04/jersey-citys-electrifai-a-leader-in-artificial-intelligence-software-for-business.html",
-      "originalUrl": "https://www.nj.com/hudson/2021/04/jersey-citys-electrifai-a-leader-in-artificial-intelligence-software-for-business.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NXWW5RF7ENHZHD4JCXDXWACNAE.jpg",
-          "width": 500,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nj.com/hudson/2021/04/jersey-citys-electrifai-a-leader-in-artificial-intelligence-software-for-business.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/hudson/2021/04/jersey-citys-electrifai-a-leader-in-artificial-intelligence-software-for-business.html?outputType=amp",
-      "publishedDateTime": "2021-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen and Argo AI to start testing new autonomous vehicle called ID Buzz"
+    excerpt: "Argo has already been testing its autonomous vehicles with Ford back in the US and the company has stated that the ID Buzz will use the company’s fifth generation technology."
+    publishedDateTime: 2021-05-14T11:54:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/05/ID-Buzz-770x432.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Volkswagen, Argo AI to Launch International Trials of Self-Driving ID. BUZZ"
     excerpt: "Volkswagen AG and self-driving startup Argo AI will launch international autonomous driving trials of the all-electric VW ID.BUZZ microbus this summer, the German automaker said on Wednesday. The first self-driving prototypes based on the ID."
     publishedDateTime: 2021-05-12T20:21:00Z
@@ -47,20 +63,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 22
-  - title: "Self-driving VW ID.Buzz electric vans hit the road this summer ahead of commercial service in 2025"
-    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
-    publishedDateTime: 2021-05-12T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-hit-the-road-this-summer-ahead-of-commercial-service-in-2025"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 10
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100791595_h.jpg"
-        width: 1920
-        height: 979
-        isCached: true
 
 secured: "XEH4iwZGYR543pfvajjxvbWJcmwXqqHR6OBimGIkpnHsPTsiCscpvqqxfSCxdiDjU1niWyzVB17ZjI2/B3rY3WSioWxFbKllesnjuTRNskrQSJZObl/LjfjlHvQWOxOQTXHmwgE3+foxwmxU/q9T8bWg5vXU/BH6is7VwTn2fEAFWduO5V7lNPluwDiAnvjpbHoRIPSsqUpAd8C+rCG+ZwaSaJAkiloXfLdqGtGu/C7LNeYLsKOz18ktNznHEU9aW14eeXjk7RvDgYLdg1MSbRHBjLCHSbpuq64nijPyGDCiZertk5sqkVLoJjeYxYfyeCGT+wbEMBT9o1gSDkXUOE9VpwEUWvCbup2yYFgYMIo=;jmhNEXhOmci7FODG8D4eZg=="
 ---

@@ -53,6 +53,15 @@ related:
       name: element14.com
       domain: element14.com
     quality: 29
+  - title: "ALCF Webinar May 26: NVIDIA Profiling Tools Ecosystem for HPC and AI"
+    excerpt: "The Argonne Leadership Computing Facility (ALCF) on May 26 will host a webinar in which NVIDIA will present their profiling tools, Nsight Systems and Nsight Compute, and will discuss how they are used in HPC and AI use cases."
+    publishedDateTime: 2021-05-14T12:22:00Z
+    webUrl: "https://insidehpc.com/2021/05/alcf-webinar-may-26-nvidia-profiling-tools-ecosystem-for-hpc-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "knTn7ajEIdMiHDjJ2pQMxo4c9C6aLiUNBJUtPUHkMKXqHvOK4vxw8eLNoKX13y+QqXuDv+nkl2BxiCacKDGDgFo1gNTAICytDTUahybrbOjZ/mYsuPJIma4nQ1DgwyQCSM1G5KLxUU6splYQchu8LcG77aUmPZsMLRE1d7ou2UMsnZ+3CHaS1I5+BJ1aPYpWRb53ZTiU9dh9ACUs0S4SkdowJ+i3fd8aqQDlUAwS/0wVoyBAqpSR64Oq7k2Po2upj8sk9p1PeAGVHdVHe4rGPzfu9peSGATYXK48fbjZEgpzi41irHsK5yjSnxOM5UObK/iCsW50nCgGpWr4t6PTIOr486f+A51PjiaNtb8fjgvpnMEZ68OCgY0T5nt61siih2GJvi4ekCaZPGhrAg3JbuxytIbF3Z/ZZl7Ko2cKtGoutG9hfAbPIIv9Y2mcprB4RJbP37E20dBumHCquDj5cYT/psXHbzbmEtYv95tli0FDz6dovdCDqJhg7+K5JyOvJ8xMhvDFWRjNsmdcvLSYog==;wpaujlh0wCQ1qXF8xkWkaw=="
 ---

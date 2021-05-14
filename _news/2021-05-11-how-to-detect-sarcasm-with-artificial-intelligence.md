@@ -39,19 +39,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
-    excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."
-    publishedDateTime: 2021-05-09T19:30:00Z
-    webUrl: "https://www.indiawest.com/news/technology/university-of-central-florida-ai-system-can-detect-sarcasm-in-social-media-posts/article_2ee7f5a6-b08c-11eb-ab8d-2b04793c3b1a.html"
+  - title: "AI can now detect sarcasm in social media"
+    excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
+    publishedDateTime: 2021-05-14T12:36:00Z
+    webUrl: "https://gadget.co.za/ai-can-now-detect-sarcasm-in-social-media/"
     type: article
     provider:
-      name: India West
-      domain: indiawest.com
-    quality: 32
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/3c/63c4900e-b08c-11eb-a984-3f9e8a97ded7/60977b8e36009.image.jpg?resize=945%2C599"
-        width: 945
-        height: 599
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "4nofgWUT5aAGXga23XZoPX5OR+3VHdzeOwklp3gcbckGS9fnq2e6L+7/aFKs+9DqLtY47OKyIBdFLsWfyjoKK+OD1MNs7Osn46D7pMDmOQbp+prgWVQjr+m5J9q6S4eOkISsmosv5v5ojijiP+lD81nMzqoElS90WAi9zQG8OB0ZJvcKjUDVg2C2nobcvyepTYpwlsoc1Hc2qezRkY+gIbsOz/GYQtdFmimdHPqs3U6g389MuRURJ7sf6WITp00W9ApC8WfgxcabzJ9PRWOzrOjUsMgIxdFlFTIU5QBfCQ/BVNJXeViqjzlgGi+gon6usP1COULy5InVPZW6cA69vUjKIoxGzmDGBVJjgT9saUBXiWCzxJL9RHXV/+Fd1aGsNFeMs7Y3iH+UaKHxFLXcf9MTms+zSwj54NtOw2d+hD2fa+0qfZ97rNQ3gNRweVhe0s9FLYyf/ws7kwmKGJYfhYcujr2c/ntNcwsMudgmdLI6r6lbzMbj3W21BYbXEXYCehUmvlNqasXbxoyVxkh7BQ==;TdsPKRFJwGnLN15Gzkv3FA=="

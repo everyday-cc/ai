@@ -7,7 +7,7 @@ originalUrl: "https://newrepublic.com/article/162379/facebook-content-moderation
 webUrl: "https://newrepublic.com/article/162379/facebook-content-moderation-josh-sklar-speech-censorship"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Graduating student features: Three internships propel CSL student to job at Facebook"
-    excerpt: "Leda Sari will be leaving Illinois having completed three competitive internships during her time here studying under adviser Mark Hasegawa-Johnson. The internships allowed the electrical and computer engineering graduate to get a job at Facebook."
-    publishedDateTime: 2021-05-11T14:17:00Z
-    webUrl: "https://csl.illinois.edu/news/35988"
+  - title: "Facebook’s new technique helps AI systems forget irrelevant information"
+    excerpt: "Facebook claims to have developed a technique that enables AI models to forget irrelevant information while retaining relevant data."
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/"
     type: article
     provider:
-      name: University of Illinois at Urbana–Champaign
-      domain: illinois.edu
-    quality: 17
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=50303"
-        width: 466
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A.I. doesn’t usually forget anything, but Facebook’s new system does. Here’s why"
+    excerpt: "Most A.I. systems are designed to remember absolutely everything they learn. But that's not always ideal, so Facebook decided to build one that forgets"
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/features/facebook-expire-span-forgetful-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/features/facebook-expire-span-forgetful-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-expire-span-forgetful-ai/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Facebook has created a way for AI, like people, to forget unimportant details it learns"
+    excerpt: "Facebook Inc. is helping artificial intelligence systems use their memory more effectively by teaching them to forget unimportant memories that they don’t need to know. Teaching AI models stuff is easy."
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/05/14/facebook-created-way-ai-forget-unimportant-details-learns/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/expire-span-AI.jpg"
+        width: 1181
+        height: 792
         isCached: true
   - title: "New Neural Magic CEO says Facebook lawsuit is ongoing"
     excerpt: "Brian Stevens, the new CEO of Somerville startup Neural Magic, called an ongoing lawsuit against Facebook \"a necessary evil.\" Stevens is the former CTO of Google Cloud."

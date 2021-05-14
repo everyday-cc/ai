@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try
 ampWebUrl: "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/"
 type: article
-quality: 72
-heat: 82
+quality: 172
+heat: 182
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 274
         isCached: true
 
-secured: "8ktjciBFSVhxryPJ/jxnqiCo0rR6tSSIEJwqHay/4XdkwLVkwgu0KTXIDa/NOlqp9rY82kwWS/TWKUoLeXvJ9nK2MseCsVnzQ/+7TlQnkEbm4jBwzfsrLr3W5O9daBmUeOesGOlSBikvj81CzpiWpbiPvT7NX5Y0Vt4Dyn84SIiACZjg2enZmn7uGFK7pDVd4MGWdKg0Zk+X2iSjf2truUwSYdOu7KIKidVR6Vx/xemU7LP5v/S9H9l+sgaLgwlsFP/oWlVh4OgcYxjm0+4Wob7Nx/6pCGn5mi+cruS9Vz6eM3lc38FCMt9r2h/Tr+dfrhu69yBzuF7jkJUW5QFlwkNr5a3ATg05GhWdjFW+l9qlnxiZ6AmVGVjWGQw2L8Er3cnw6EYtLcVLof5bF+qXedZA8qmZZqONdR2XWC7oOe5ECJ3qfjGwqspF0aGRgGsX2uNSl2qmdQ/cAamEFaZli+gVPm1WNt4e+0NlWL4lMMg4RDG/SH2K3cQqJ6OBBfsy8gvgMGleOFhw4DMvZ/U0xQ==;l1Bpxz7hhjmnIr8p7sU7/Q=="
+secured: "UHnVHoO0QH2wgp7QdD99W5rN3JDprUISjwgxHTcLB+ebKm+FpfE3YckU5bayv8glxPkzCi2U8CZs2VAtVYdUYvzU7aiTTMCHreII3TT+0dtM0rWIDC2fguhVf7ItrAZjNhzfP9jWNK4Xo7dygfDiV3oGE34hlF/wkirqh9B8lFV683qnOL0GZscho0Itq/zjeS0uIyJlrMXj/xcA2Kt76hBNYgrKBqvPiFNUqvwdWvQek09ljJLwdNfmzh+w5+PjTTJ+CJy/qvTq0r3o7h62SUoAWAYcvQZtGQxr7WqZYYIZjIXIwBbLATsdx4j/tZxEXedjPF2MDhfDOE4l368Sy7UXxQRqnk6dCo+DGPHqmR+eNOxZTiHhtJqBSTXLGHpjxv32vodMJE9cOnogyB+QXHUmWxU9meceIDKaBsju96X+RpNCYh8CZYAY0tdMd/k4+1kUUi5RgPMdA8UMIGnUMFdapukfF6/VrdQzmowemNmSXVx9zTcOxvqqJuH9VNktRExxiksrSZc7Zr7s+anqobzSsLqssrak7bF0gcRm/6Q=;m0HshDfpwyfG0kndgN0QPg=="
 ---
 

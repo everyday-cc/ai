@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-11-artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu.md",
+      "title": "Artificial Intelligence becoming the new way for healthcare students at OSU",
+      "excerpt": "One OSU professor and his business partner developed an artificial intelligence about 4 years ago to ... The goal was to help healthcare providers learn the unique aspects of gathering information from someone who doesn’t speak English as their first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/",
+      "originalUrl": "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nbc4i.com/wp-content/uploads/sites/18/2021/03/vlcsnap-2021-03-10-18h02m11s651.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/",
+      "cdnAmpWebUrl": "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/",
+      "publishedDateTime": "2021-03-10T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC4i",
+        "domain": "nbc4i.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-healthcare-artificial-intelligence-market-next-big-thing-major-giants-aicure-apixio-ibm.md",
       "title": "Healthcare Artificial Intelligence Market Next Big Thing | Major Giants- AiCure, APIXIO, IBM",
       "excerpt": "A new business intelligence report ... COVID-19 Outbreak-Global Healthcare Artificial IntelligenceMarket: Medical Imaging & Diagnosis, Drug Discovery, Therapy Planning, Hospital Workflow ...",

@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc."
-    excerpt: "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-09T19:26:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 72
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM"
     excerpt: "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research."
     publishedDateTime: 2021-05-14T03:37:00Z
@@ -48,19 +34,33 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "AI In Retail And E-Commerce Market Research Methods that Will Give You Proven Results | Study With AWS, IBM, SAP, Microsoft"
-    excerpt: "AI in retail and e-commerce is the main driver of growth through utility the growing popularity of smartphones and the convenience of buying everyday essentials and luxury goods from the comfort of home."
-    publishedDateTime: 2021-05-09T19:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/ai-in-retail-and-e-commerce-market-research-methods-that-will-give-you-proven-results-study-with-aws-ibm-sap-microsoft/"
+  - title: "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027"
+    excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
+    publishedDateTime: 2021-05-14T08:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-13-3-127-780x470.png"
-        width: 780
-        height: 470
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
+    excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
+    publishedDateTime: 2021-05-11T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-billion-worldwide-natural-language-processing-industry-to-2026---featuring-google-microsoft-and-ibm-among-others-301288562.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
     excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
@@ -71,6 +71,17 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 14
+  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
+    publishedDateTime: 2021-05-12T11:11:00Z
+    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
 
 secured: "vIwkkyilOH04pzWIXiyUReipIJ72wqTMqSzhUtKN4uoAasGFAVoa7UFz7w2Na6eUIPXo+X4dDsNlM3CejuHfgY2HFWO04/tPfVFO8xtT/G8mc/HTe5V7jYd+0P5WsFfmBjhNQ+jdSCOcCJ72h3x2vdQJ81Ki+mPR+1KoUh8Zk4kFLFNoMdfCjDTbyfr3Uy7teF/WHROWXWV/y3iXyprKBD5Js8CBuczCsmIphKwwXggAYSPNd2EMUQtG+J5v/ewNLoMZnThN3p78geP6eG3KjgsJ2zgnyevbLOC7T8BRa00TOUTZAiEBN/1U1zUPL4vHsEfcHajUnjacOFFSulbUmSe+83J/+EUabRUJdQoch0Q=;f5/h22hc34BYiTb3/P3zpw=="
 ---

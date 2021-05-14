@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform"
-excerpt: "In most cameras, there is a trade-off between the field-of-view and resolution. Omnidirectional cameras offer a 360-degree field of view but poor resolution. In a new study, researchers design a dual camera-based platform employing an omnidirectional camera for target detection and a separate camera for its high-resolution capture and report an overall improved performance,"
-publishedDateTime: 2021-05-14T01:57:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/05/210513173534.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/05/210513173534.htm"
+excerpt: "If you're a fan of spy movies, you've probably come across scenes where the intelligence agents try to identify or detect a perpetrator using some sophisticated image enhancement technology on surveillance camera images."
+publishedDateTime: 2021-05-14T12:07:00Z
+originalUrl: "https://techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.html"
+webUrl: "https://techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.amp"
 type: article
-quality: 26
-heat: 26
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/two-in-one-wide-angle.jpg"
+    width: 820
+    height: 573
+    isCached: true
 
 related:
   - title: "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform"
@@ -38,6 +42,6 @@ related:
         height: 503
         isCached: true
 
-secured: "MNCFWxsCUEGbbbSb8uVXZ1SqSjo/Kv1Sa9AZzknlx4dq3KP2nZDwszz8A/um8MHyI6ROzlL8RL8xWbP3x5/33ZWBM6gedHiHJOSXF6xgGNa8+LaUySH1oPcgCeHDLxRvtfFnn0XYw3PjVTD5ddfnnfDq8TzQbnVvoLO9/nY5ArG0UuoMQO20xBCrxykI3eYHgzwW1lYxw23kkxOZAi87agMYX0R1EBlmYqR+7RQNW3U9p9pA/KfcuYnl+LZrTLJG9S5QuNR8HxBqrgFd/V+FVuVqtIYN/UCmIWUUxEn6xijuJTRNe8XrRP9Fa6ndcccYrg+085B3lIoNSrHt91hRbNeAf45L/RDYIBrqsz2BXW0=;fLkiCj8yYSHsGzA4oxszBA=="
+secured: "6cLqXM0rMDTQrctiLSGMAiXdRFGrTGGrR5YqrdtcbUNYSnTi5zNT1kUe2agJYoGrSkq37vGjMqT5/6UUlhMaZrsjCIjJnFIRAaJjVvx2Qd7w/TmbS5lFpx4zewhdtO5MtCODRpj6zMDwLI/80C7p2N/QgdkeyZ+5dn5i9eu9Xqo7TnzFdMrGGu3bUZuZl8qoI/LRqweMagWfFjbMeayIeB6p7XzBthvFeV/G75PPKlTv5D5XS7ILQyj6XyzFeQXQtnl1fdRjxjlH2USjQAU88TbVz/iTtUsYy05+e/yZum5F7EOxcjJ6kOlyQRXFSgQ0bd4GI20Wyq10Mti0RchUl+aalayxTk+MgXPp8Om9GBk=;eLPHtTAs3x1XTor83yHqaQ=="
 ---
 
