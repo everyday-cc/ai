@@ -71,6 +71,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "What Does Darktrace & Microsoft’s Partnership Mean For Cloud Security?"
+    excerpt: "Microsoft & Darktrace have collaborated on three critical areas to address the challenges in cybersecurity. Microsoft and autonomous cybersecurity AI company Darktrace, have entered into a partnership to provide customers with enterprise-scale,"
+    publishedDateTime: 2021-05-14T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partnership-mean-for-cloud-security/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Microsoft-image-credits-mathew-manuel-for-unsplash.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-05-13T03:50:00Z

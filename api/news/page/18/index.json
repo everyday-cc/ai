@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
+      "title": "Leaked AI report could hint at future for US regulation",
+      "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
+      "originalUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/28/22576f2a-6f91-4323-9769-d49b34e7519f/thumbnail/770x578/532ac0654882d8c6e3da1eecfd091578/20210428-greg-karen-leaked.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-increasing-use-of-facial-recognition-technology-in-china-faces-backlash-from-city-governments.md",
       "title": "Increasing use of facial recognition technology in China faces backlash from city governments",
       "excerpt": "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition.",
@@ -1127,58 +1178,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-audiocodes-ltd-audc-q1-2021-earnings-call-transcript.md",
-      "title": "Audiocodes Ltd (AUDC) Q1 2021 Earnings Call Transcript",
-      "excerpt": "Q1 2021 Earnings Call Apr 27, 2021, 8:30 a.m. ET Hello, and welcome to the AudioCodes First Quarter 2021 Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
-      "originalUrl": "https://www.fool.com/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 400,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
-      "publishedDateTime": "2021-04-27T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

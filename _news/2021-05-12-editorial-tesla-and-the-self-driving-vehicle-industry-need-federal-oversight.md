@@ -53,6 +53,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Tesla stock falls after Elon Musk tweets self-driving rollout may take months"
+    excerpt: "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version"
+    publishedDateTime: 2021-05-12T17:54:00Z
+    webUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/"
+    ampWebUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 56
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Musk says Tesla new self-driving rollout could take a couple of months"
     excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
     publishedDateTime: 2021-05-12T20:22:00Z

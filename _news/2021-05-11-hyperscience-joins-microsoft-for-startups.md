@@ -65,6 +65,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "What Does Darktrace & Microsoft’s Partnership Mean For Cloud Security?"
+    excerpt: "Microsoft & Darktrace have collaborated on three critical areas to address the challenges in cybersecurity. Microsoft and autonomous cybersecurity AI company Darktrace, have entered into a partnership to provide customers with enterprise-scale,"
+    publishedDateTime: 2021-05-14T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partnership-mean-for-cloud-security/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Microsoft-image-credits-mathew-manuel-for-unsplash.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
     excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
     publishedDateTime: 2021-05-09T15:04:00Z

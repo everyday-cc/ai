@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-22-prosthetic-arm-can-sense-touch-move-with-wearers-thoughts.md",
+      "title": "Prosthetic Arm Can Sense Touch, Move with Wearer's Thoughts",
+      "excerpt": "The team published a paper on its work in the journal Science Robotics. Researchers tested the technology they developed for the LUKE Arm on Keven Walgamott, who lost his hand and part of his arm in an accident 17 years ago. Walgamott said he could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
+      "originalUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/prostheticarm_0.jpg",
+          "width": 973,
+          "height": 1028,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-ready-set-think-mind-controlled-drones-race-to-the-future.md",
+      "title": "Ready, set, think! Mind-controlled drones race to the future",
+      "excerpt": "Scientists have been able to detect brainwaves for more than a century, and mind-controlled technology already is helping paralyzed people move limbs or robotic prosthetics. But now the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html",
+      "originalUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/04/22/BC-US-Brain-Controlled-Drones-IMG-jpg-640x414.jpg",
+          "width": 640,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html/amp",
+      "publishedDateTime": "2021-04-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-self-driving-cars-are-still-a-long-way-off-here-are-three-reasons-why.md",
       "title": "‘Self-driving’ cars are still a long way off. Here are three reasons why",
       "excerpt": "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today’s “self-driving” technologies. Tesla cars include an “autopilot” feature which monitors surrounding ...",
@@ -1069,100 +1155,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-research-team-training-artificial-intelligence-to-better-detect-small-objects.md",
-      "title": "Research team training artificial intelligence to better detect small objects",
-      "excerpt": "Artificial intelligence (AI) is good at recognizing a single bird in an image. Where it falls short is when it tries to identify hundreds of tiny birds in an aerial photo. Yi Shang, a professor in the University of Missouri College of Engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-team-artificial-intelligence-small.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-team-artificial-intelligence-small.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/10-researchteam.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-team-artificial-intelligence-small.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-team-artificial-intelligence-small.amp",
-      "publishedDateTime": "2021-04-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation.md",
-      "title": "DISH and AWS Form Strategic Collaboration to Reinvent 5G Connectivity and Innovation",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month"
-excerpt: "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand"
-publishedDateTime: 2021-05-12T13:14:00Z
-originalUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/"
-webUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/"
-ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
+title: "Tesla stock falls after Elon Musk tweets self-driving rollout may take months"
+excerpt: "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version"
+publishedDateTime: 2021-05-12T17:54:00Z
+originalUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/"
+webUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/"
+ampWebUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
 type: article
-quality: 83
-heat: 143
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200"
     width: 1200
-    height: 628
+    height: 800
     isCached: true
 
 related:
+  - title: "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month"
+    excerpt: "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand"
+    publishedDateTime: 2021-05-12T13:14:00Z
+    webUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/"
+    ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:56:00Z
@@ -46,22 +58,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO"
         width: 817
         height: 545
-        isCached: true
-  - title: "Tesla stock falls after Elon Musk tweets self-driving rollout may take months"
-    excerpt: "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version"
-    publishedDateTime: 2021-05-12T17:54:00Z
-    webUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/"
-    ampWebUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Musk says Tesla new self-driving rollout could take a couple of months"
     excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
@@ -107,6 +103,6 @@ related:
       domain: westhawaiitoday.com
     quality: 36
 
-secured: "7dIBnEkjYwoVW2hdS4x7eH2PdFuK+G1AyOZeEDEYNcyhJqDyQvUSjmmVmolKp06BrKvoYK073E0D2VaujEMDE/3Pei1g/OGClAud4cGLCgfSgDrb+6WXng5yHx++wxO4yNMaTdI2G9PqP2ZZ8uP6+gR1prOnqdYhawqkhVe5WcJC8OqXkLrbV2/ZYAAMewEshlDJzNOU/Owc/eVajyocliKvdGaCRLS2H/Zfjttedo4s2qoW4umhwhjfiHdD03g7jjYu86sl3MieV8W6ED3bqSsQnBKciueWq0LORoXocmcRdNpD2k5mMYI83ZhcVbPKX7zD+X+6bk4wkvHfwCGlepGZJQeSZCQr5/tlYP/E0+dBF5PXxQ1hiRyWy1iyijV7rQ7efjbbM0oAccbNp2M2XosphPEQ5ZAokP9p9s5nrDFEaK4srHwwsJDcG205IjtJjN8Weyt1H9kMiLT/BcGam53bCbmKkxYjErhYTgA9TJ5TwSwCriPGiUBQEjzdrv4AO57eFg/3guesL56FrVZw3w==;I024xJC3PRM9bHcq+JrZ6w=="
+secured: "GA3aZjIQv8acXl72nHVsh5DZ5tWE8/sgxNu0HQM3IXePiL3hYxLG7I/11jIbWe+A0l6me0NMuf8Ge/1Q0KEBL8m6D7GIkSV6g/k5WQWp/r81WNrLIeQTjZfTeBOAdJ7P5BvGLDhvESZYZh1axxCESuUcF/Rb5RymWAy7UvR3BrnLqZBuT7+RlFfJJH5DkotTsE1YATzON4EpDNXtQ6fix/EOujh3tXTbTYTdAfFNy4nEo593nbyj0W3jrQ1mFXOY594pm0ES9UEQl1Dyjx6PkEKfpjrrMnYNYV6x/M0bsFA5F39FWm3uUiicCMQYJaXbf0RJuNrRPqY9FIQ//REzGHwjtXbnklHn06BGZxkDDQM=;Tf045FiGOSdHcOcnFknvHQ=="
 ---
 

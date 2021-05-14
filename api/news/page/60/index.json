@@ -2,6 +2,84 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-03-16-baidus-ai-chip-business-kunlun-valued-at-2b-after-new-funding-round.md",
+      "title": "Baidu’s AI chip business Kunlun valued at $2B after new funding round",
+      "excerpt": "Monday that its Kunlun artificial intelligence chip business has closed on a funding round that takes its value to about $2 billion. Reuters reported Sunday that Chinese private equity firm CITIC Private Equity Funds Management led the round,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
+      "originalUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-ibm-ceo-says-its-positioned-to-lead-in-hybrid-cloud-ai.md",
+      "title": "IBM CEO says it's ‘positioned to lead’ in hybrid cloud, AI",
+      "excerpt": "In a new letter to investors, Krishna outlined areas where IBM has invested in hybrid cloud and artificial intelligence and discussed how the company is driving growth going forward. Ultimately, IBM “is positioned to lead as we enter the era of hybrid cloud and AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/ibm-ceo-says-its-positioned-to-lead-in-hybrid-cloud-ai-562204",
+      "originalUrl": "https://www.crn.com.au/news/ibm-ceo-says-its-positioned-to-lead-in-hybrid-cloud-ai-562204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/red-hat-ibm.jpg",
+          "width": 608,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
       "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
       "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
@@ -955,92 +1033,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability.md",
-      "title": "Study of 25 stroke patients shows BrainQ’s wave therapy can reduce disability",
-      "excerpt": "Hat-like device developed by startup aims to treat damaged areas with 'artificial brainwaves' that mimic healthy neural networks to rebalance the brain",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "originalUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/03/Unknown-e1615722753560-640x400.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "publishedDateTime": "2021-03-15T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-bioxcel-therapeutics-receives-fda-breakthrough-therapy-designation-for-bxcl501-for-the-acute.md",
-      "title": "BioXcel Therapeutics Receives FDA Breakthrough Therapy Designation for BXCL501 for the Acute ...",
-      "excerpt": "BioXcel Therapeutics, Inc. (“BioXcel” or the “Company”) (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-government-regulations-drug-approvals-coronavirus-pandemic-f497a4cc88cc898cfc0ec4cd0d14d3bc",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-government-regulations-drug-approvals-coronavirus-pandemic-f497a4cc88cc898cfc0ec4cd0d14d3bc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

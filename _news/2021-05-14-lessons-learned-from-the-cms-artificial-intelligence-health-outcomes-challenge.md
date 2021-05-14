@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-13T22:45:00Z
 originalUrl: "https://www.cms.gov/blog/lessons-learned-cms-artificial-intelligence-health-outcomes-challenge"
 webUrl: "https://www.cms.gov/blog/lessons-learned-cms-artificial-intelligence-health-outcomes-challenge"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "/2TsvGbdZnw0nY5ERI6TyMuTsdCUswvFUAhQxhYkbJdd56J8MNUxwdj7Vu4CMfnBjLSgIxIaWGIvCqFG3AQCp5Gvum13lczXA4nP2s62IQ9HzKB/0LR7szfDeLGF2SSN6fRLPqp5NvLIpxUgVBLdxpOUH2HEXjo72EXCTs1EPgd5+QCd7cD4dfcAnxIGdNpmcVrpMlzSomHZIjf9YMA0kCUkGQFKrMvQwlvMFTBxLPOuj6S82g6WZ4mCskd/pnZi/L5HTTLqVS6OUm9a+QoPkC7gg2hhJaJqXqAI1E+lfweP/XzNTyfSby5dvH6YAbmJkJaiFpxPFJPsTtjNVk14LRqvndgovnTh87wIH0BVA2o=;Lrabb2U1/aWLozLyuCPMWA=="
 ---

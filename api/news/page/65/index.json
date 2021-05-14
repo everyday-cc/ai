@@ -2,6 +2,92 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-03-10-kepler-vision-launches-new-computer-vision-solution-for-elderly-care.md",
+      "title": "Kepler Vision Launches New Computer Vision Solution For Elderly Care",
+      "excerpt": "Kepler Vision La​unches New Computer Vision Solution For Elderly Care- Kepler Night Nurse Edge Box simplifies the installation and running of patient monitoring at night - Proprietary computer vision technology allows staff to respond immediately to patients in distress,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2021-03-10/kepler-vision-launches-new-computer-vision-solution-for-elderly-care",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2021-03-10/kepler-vision-launches-new-computer-vision-solution-for-elderly-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-this-chip-for-ai-works-using-light-not-electrons.md",
+      "title": "This Chip for AI Works Using Light, Not Electrons",
+      "excerpt": "Lightmatter, a startup born at MIT, is betting that AI’s voracious hunger will spawn demand for a fundamentally different kind of computer chip—one that uses light to perform key calculations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/",
+      "originalUrl": "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6047be0fa517f1eadd3116b5/master/pass/Business-Chip-LightMatter-20200417_094913.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chip-ai-works-using-light-not-electrons/amp",
+      "publishedDateTime": "2021-03-09T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful.md",
       "title": "Startup uses NLP and AI to make software security reviews less painful",
       "excerpt": "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis.",
@@ -1019,92 +1105,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bringoz-launches-intelligent-delivery-distribution-system-on-microsoft-azure.md",
-      "title": "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure",
-      "excerpt": "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-driving-innovation-with-emotional-intelligence.md",
-      "title": "Driving innovation with emotional intelligence",
-      "excerpt": "Even as the world rapidly embraces more and more complex technologies like artificial intelligence (AI), it’s still the human ... breaking it down into five characteristics: Self-awareness: Recognizing and understanding your emotions, and how they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/",
-      "originalUrl": "https://www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/128108027_l.jpg?w=2860",
-          "width": 2860,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/amp/",
-      "publishedDateTime": "2021-03-09T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
