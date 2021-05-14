@@ -2,7 +2,7 @@
 name: "Risk Ident"
 overview: "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions."
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://riskident.com/
 
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Risk Ident"
 
-secured: "qBkq8/J3TwyDCu05CL1riep5JpojoRwljyg6OIRj8U0NjNunhYhs/eXOOekbIjmEmj7kaJt6xOgIlRrZxnEYNk+1GOPSyLOw8OHZbLE0fqXjtUlmfVDSqj0llcsX3pmYrc/q2msYDCfcEyZ9ZCFh1duSQLUhxzBhtCJ87VfrkZUDK4KS3VFT1q7TbUAJztzkJJ4N9p+GRdLrSCc0o0hz2sfSXh8K0B4YiODnHUcohqoLhTO8q8K4ojxwDDgn1vpzme4uM6EfJgHQHEmxrnCD6eXwk3OXzijb8TrKLlsnYAXwQZyMWMvEgkJVd8kOAtdrjz5ENeQRxZcTKFD0mT1UnUNLU5ChGnWX/GRYCIeeDUyY2lMEgh28XZ/8J19jKczJ0rSHyPBwo52IDiAQ8YjSfA==;MwI6YXKaVMMYlBctz05Ozw=="
+secured: "dbSmTfmqEf8Pnz6LIdgQQYMfFTWx3ha4mpSpxnRglPqkcAbg79HuamdIjzqTzVFuDwEOiRws/r9OSQZEsE9CPPkN3Y/LN45/1aF/ZoAYH1v+ptOoFbHg7Fh2gPQQ/ZT8C30JSHIjbXkbSlg78J6Y1sDxGRrIxxT45l01q3zyAepc7H8743QafjI7HBoO39h3fDcgHmw3Z8oZIF4xXps4h2RLzmgU3A6V0AVZX00aJbrynSCmq9eDInRvK9u6I41QFYMym473j8z4X0GHS6CHHOwbY/scDKMQktsY/OU1X8nSWtFO1RPJn6PPDk92eo+xj5vRnx+IgGgSq7SA2uDfxAqk5df/QOtEdyT79Ltem9ChHaHtGL7JwH789tSPUZp1250b/vfrtvRtxdj10+oimA==;m8iIpmJtUAgTbR65le17pA=="
 ---
 
