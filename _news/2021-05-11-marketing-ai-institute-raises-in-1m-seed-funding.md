@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1
 webUrl: "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Investing in AI for Good"
+    excerpt: "And while translation and automated speech recognition models have made tremendous headway for majority languages—one of Google.org’s AI Impact Challenge grantees, TalkingPoints, for example, helps non-English speaking parents in the United States ..."
+    publishedDateTime: 2021-05-11T16:11:00Z
+    webUrl: "https://ssir.org/articles/entry/investing_in_ai_for_good"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/Telangana_Crop_Cut_-_SSIR-737x737.jpg"
+        width: 737
+        height: 737
         isCached: true
   - title: "Marketing AI raises $1M in seed round, names chief growth officer"
     excerpt: "Marketing Artificial Intelligence Institute, an online education and conference business focused on AI, has named marketing executive Cathy McPhillips as chief growth officer and raised $1 million in a seed round."

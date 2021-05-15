@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-us
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

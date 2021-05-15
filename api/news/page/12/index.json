@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-04-building-ethical-ai-is-not-easy-but-this-guide-will-help-you.md",
+      "title": "Building Ethical AI is Not Easy. But, This Guide Will Help You",
+      "excerpt": "Adopting a sound ethical AI strategy is important to shape future developments. Building ethical AI requires both an ethical way for building AI systems and a strategy for making AI systems themselves moral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "originalUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Ethical-AI.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "publishedDateTime": "2021-05-03T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-path-robotics-bags-usd-56m-funding-from-addition.md",
+      "title": "Path Robotics bags USD 56M funding from Addition",
+      "excerpt": "Path Robotics has recently announced to have raised funding worth USD 56 million in its latest Series B financing round led by Addition.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/",
+      "originalUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/05/Path_Robotics_logo_Logo-scaled.jpg",
+          "width": 2560,
+          "height": 1341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/",
+      "cdnAmpWebUrl": "https://techstory-in.cdn.ampproject.org/c/s/techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/",
+      "publishedDateTime": "2021-05-03T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales.md",
       "title": "Intel Shows Us a Way to Use Artificial Intelligence to Boost Sales",
       "excerpt": "The post-Covid world has seen a major surge in digitalization of businesses as well as use of AI. This has created greater demand for upgradation and automation of the sales sphere. Intel’s effort at embracing automation of the sales process is something to watch out for at this juncture.",
@@ -1066,102 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ai-rpa-and-machine-learning-how-are-they-similar-different.md",
-      "title": "AI, RPA, and Machine Learning – How are they Similar & Different?",
-      "excerpt": "AI, RPA, and machine learning confuse businesses in adopting the right disruptive technologies. Here’s a way to pick the right technology for business innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "originalUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/RPA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "publishedDateTime": "2021-05-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-computer-vision-remains-an-untapped-opportunity-in-american-industry.md",
-      "title": "Computer Vision Remains An Untapped Opportunity In American Industry",
-      "excerpt": "When it comes to the usage of computer vision in heavy industry, most companies are still lagging in comparison to the consumer market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60147aab5fc342ff1fe64b63%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
-      "publishedDateTime": "2021-05-03T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

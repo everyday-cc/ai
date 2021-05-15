@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-09-all-the-machine-learning-features-announced-at-microsoft-ignite-2021.md",
+      "title": "All The Machine Learning Features Announced At Microsoft Ignite 2021",
+      "excerpt": "Microsoft held its annual global IT conference, Microsoft Ignite 2021, virtually. The event announced a number of AI-based features and updates across the cloud platform Azure and other business applications.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/all-the-machine-learning-features-announced-at-microsoft-ignite-2021/",
+      "originalUrl": "https://analyticsindiamag.com/all-the-machine-learning-features-announced-at-microsoft-ignite-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/03/pasted-image-0-13.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-onesoft-acquires-machine-learning-ip-to-advance-integrity-compliance-functionality.md",
       "title": "OneSoft Acquires Machine Learning IP to Advance Integrity Compliance Functionality",
       "excerpt": "EDMONTON, AB / ACCESSWIRE / March 9, 2021 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (the “Company” or “OneSoft”) is pleased to announce that its wholly owned subsidiary, OneBridge Solutions Canada Inc.",

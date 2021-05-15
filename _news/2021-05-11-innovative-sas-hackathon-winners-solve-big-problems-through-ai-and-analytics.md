@@ -2,17 +2,21 @@
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
 excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-publishedDateTime: 2021-05-11T15:01:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-innovative-sas-hackathon-winners-solve-big-problems-through-/2021/05/11/9366663.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-innovative-sas-hackathon-winners-solve-big-problems-through-/2021/05/11/9366663.htm"
+publishedDateTime: 2021-05-11T16:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
 type: article
-quality: 36
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -231,6 +235,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vV1Qg763z+76cxIT8nS08hq1a3gFelTk8FbfFufbwvr8ltKC+dV3C0kPvXqWzQ88jCt44PMvksn09SycPKcteYQeVe3FTiQOgQc1vfuKv4O14yEJhkAagTiLDs5tGbO6PLB/eQZCJx7seFLNDGZaWqE+JZioKjiQ5FCtQOd2TqMEQvGD3ahl0F37mX8N3BaBMd645GlfNzhMMGpPopBvZluvibaXMBOjiPnC1+sao6UKn8j4sjq6ZZBWLNn1FD66D0TTdpvZLU0zBumwF6LqGNOXa0P0vUcyuekscU13/rYACCdh3BRNlLvGCGIcfVeIezuI9SDT+18cmxYNukENkwoCNxJRHNQrhfEUC4sTKsc=;o7Yujy+rqghqpoz2SbXKMQ=="
+secured: "Jv6c8BwY6PhG8ssEeVa85m6uB7Aqbvw6svOakwOvDecGaEkxk7cEH6VovfuGC0iqUqOxAa8t1sRXIWFAmqUsE3HVU2QDIbx9PnLBhUVOh9lFvbnW6oy9CbU82Dpm48ca8Jk3bzyAy6sDIBnYxnvgKGO4j2Czq0fNbAlVhLpkCp7sUJ99IeM/iw2dCowYHfL5EwdXlUaPf0UimvULgcJ/EQD/CPz6IPsy7Y4HISLSFwvBhCTSkupPGSln9x5g3Hs4hei093hCTIvHg60m3OEVnZECx7RKf/6noFsyckO5/A0LRUKiAVOO2dITWzdSkUNk+Gu4uoZW3wgXKpw1sEVg0obSgmhD98jo8KR+QZlJjy4=;qKFQAChNW4u5jNrD1KD/9w=="
 ---
 

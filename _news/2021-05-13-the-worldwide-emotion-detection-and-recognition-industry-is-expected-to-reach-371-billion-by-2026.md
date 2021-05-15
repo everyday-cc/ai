@@ -51,8 +51,8 @@ related:
         isCached: true
   - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
     excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
-    publishedDateTime: 2021-05-14T17:07:00Z
-    webUrl: "https://campusreform.org/?id=17351"
+    publishedDateTime: 2021-05-14T23:04:00Z
+    webUrl: "https://www.campusreform.org/article?id=17351"
     type: article
     provider:
       name: Campus Reform

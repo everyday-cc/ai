@@ -24,22 +24,6 @@ images:
     height: 445
     isCached: true
 
-related:
-  - title: "Three Graduate Students in Communication Sciences and Disorders Awarded With Recognition for Program"
-    excerpt: "Samadhi Pusuba Devayalage, Kendra Ledbetter and Madeline Rudolph were recognized for excellence graduate program in communication sciences and disorders."
-    publishedDateTime: 2021-05-10T05:06:00Z
-    webUrl: "https://news.uark.edu/articles/56867/three-graduate-students-in-communication-sciences-and-disorders-awarded-with-recognition-for-program"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 9
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2021-05-07_01-18-12-PMMyPost2.jpg"
-        width: 900
-        height: 900
-        isCached: true
-
 secured: "L32+mavHAi7JFufSt0rRu9LvdwE7edPF+ImZP5kpkatwEceEloKiyynCILkRiimYr9Tz/JmB1SWRtNhlU3kOk1oT/rcEE1qeiRY/HCSjl3oinMXNO2qQRFnFsw2cdwOEIYt4eAls5Wul95oOISlEY3Gp8GXyODE8MZsnITTXqGmlU3OXJjvjTwJ4/zI18vy9jLRFKxLlUOAfvTh+uGJ+tz9ONx11N6ybfAvfRHzUwQUB55WvCbjTWcQFqxXqmg98B7eDNsB7E0L04pdC054McDHA+L5LqDgPv62Jq2RmUarqJex/HDrqXPpw/x3uYC8IE6Xh/Y7s3VVa0piIOUbOAUqS3Ocsa+cqCyI8NcEgM/FagdU4HTB1VPOH5+Hxl57lp1mZLCoQp0ksAEVq7z9z6hcmMiriw6gH3uj6xL6/NImjTdgY2GCVpoCIqS4WJEKfGeWM4u0t+/de9Im+kAYVMAuh4Wutq5Pw1F9hrF62f7Uv+JYxyi4ntfQJHe4XyJgyg4rTvEBMtC4QJ5+wL5hEzA==;p0eRr2swABeoOXZZ4EuxdQ=="
 ---
 

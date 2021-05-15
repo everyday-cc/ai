@@ -107,6 +107,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Artificial Intelligence Accurately Predicts if COVID-19 Patients Will Develop Life-Threatening Complications"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+    publishedDateTime: 2021-05-14T21:56:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 40
+    images:
+      - url: "https://scitechdaily.com/images/Chest-X-ray-of-COVID-19-Patient-777x672.jpg"
+        width: 777
+        height: 672
+        isCached: true
   - title: "How India Fights COVID With Artificial Intelligence"
     excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
     publishedDateTime: 2021-05-12T11:30:00Z
@@ -134,20 +150,6 @@ related:
       - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/05/shutterstock_1764865133.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
-    excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
-    publishedDateTime: 2021-05-10T06:09:00Z
-    webUrl: "https://www.mos.ru/en/news/item/89990073/"
-    type: article
-    provider:
-      name: mos
-      domain: www.mos.ru
-    quality: 32
-    images:
-      - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
-        width: 1200
-        height: 630
         isCached: true
   - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
     excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."

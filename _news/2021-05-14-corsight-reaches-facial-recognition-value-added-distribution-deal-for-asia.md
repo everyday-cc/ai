@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Civil liberty groups question facial recognition France tech rollout"
-    excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."
-    publishedDateTime: 2021-05-10T07:01:00Z
-    webUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-question-facial-recognition-tech-rollout-in-France"
-    type: article
-    provider:
-      name: The Connexion
-      domain: connexionfrance.com
-    quality: 39
-    images:
-      - url: "https://www.connexionfrance.com/var/connexion/storage/images/_aliases/social_network_image/media/images/manif-gj-belfort/1372754-1-eng-GB/Manif-GJ-Belfort.jpg"
-        width: 639
-        height: 426
-        isCached: true
   - title: "Privacy watchdog warns facial recognition tools endanger human rights"
     excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
     publishedDateTime: 2021-05-10T18:24:00Z

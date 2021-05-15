@@ -39,6 +39,20 @@ related:
         width: 950
         height: 1267
         isCached: true
+  - title: "Investing in AI for Good"
+    excerpt: "And while translation and automated speech recognition models have made tremendous headway for majority languages—one of Google.org’s AI Impact Challenge grantees, TalkingPoints, for example, helps non-English speaking parents in the United States ..."
+    publishedDateTime: 2021-05-11T16:11:00Z
+    webUrl: "https://ssir.org/articles/entry/investing_in_ai_for_good"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/Telangana_Crop_Cut_-_SSIR-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
   - title: "Marketing AI raises $1M in seed round, names chief growth officer"
     excerpt: "Marketing Artificial Intelligence Institute, an online education and conference business focused on AI, has named marketing executive Cathy McPhillips as chief growth officer and raised $1 million in a seed round."
     publishedDateTime: 2021-05-10T19:35:00Z

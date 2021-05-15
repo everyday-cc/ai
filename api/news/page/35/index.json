@@ -2,6 +2,101 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-04-13-ibm-introduces-ai-driven-overwatch-league-power-rankings.md",
+      "title": "IBM introduces AI-driven Overwatch League Power Rankings",
+      "excerpt": "IBM has introduced Power Rankings with Watson, an AI-powered method of evaluating players and teams' performances in the Overwatch League.",
+      "sourceUrl": null,
+      "webUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
+      "originalUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2021/04/IBMxOWL.jpg",
+          "width": 1781,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esportsinsider",
+        "domain": "esportsinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021.md",
+      "title": "IBM Watson AI Will Calculate The Overwatch League’s Data-Driven Power Rankings In 2021",
+      "excerpt": "Everyone loves power rankings. Well, unless your team stinks enough to land at the bottom of most people’s lists. Power rankings give fans something else to obsess over and argue about, especially in the offseason or between match days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075a1d7c250de2567901b2e%2F0x0.jpg",
+          "width": 1102,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
+      "publishedDateTime": "2021-04-13T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-open-source-framework-simplifies-machine-learning-processes.md",
       "title": "Open-Source Framework Simplifies Machine Learning Processes",
       "excerpt": "The system brings hospital data through a set of machine learning models to help inform clinical decision-making.",
@@ -966,84 +1061,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-aws-summit-online-india-decode-the-power-of-the-cloud-and-build-for-the-future.md",
-      "title": "AWS Summit Online India: Decode the power of the Cloud and build for the future",
-      "excerpt": "Get them answered by AWS experts during live chats. AWS DeepRacer League: During the online summit, participants will get to watch the world's first autonomous racing league that is powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future",
-      "originalUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/aws-summit-3-800x400-1618291440664.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future/amp",
-      "publishedDateTime": "2021-04-12T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
-      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
-      "excerpt": "The DEEBOT N8 Family dToF laser detection has doubled the distance recognition capabilities with a four-fold improvement in object recognition. Detection distance is enhanced to 10 meters ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
-      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-14T19:14:00Z
 originalUrl: "https://www.popsci.com/technology/air-force-skyborg-drone-flight/"
 webUrl: "https://www.popsci.com/technology/air-force-skyborg-drone-flight/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.popsci.com/app/uploads/2021/05/14/210429-F-ZU869-0002.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "srQrKZ03Otl1n6iyQZomTVIm5gWHWoDnKkOEw7g4vzSj6ugeTle5MTxVWmZIST1Z1E9eFYM+VJM4OQvYNO5teczURKAB4h4+eC3NP1MEZbqxSbGcCM/IpqF0d5OXSbKfzWolvZG9lI3EIaK7sIEGpArGVdvj4YqUKZWq/mdnHjkVUydLinhmZhBtGSacUXQdvOk9AyTa+XCImIRDFun3DCchqIT4MJrTaGPeFUpYO/Xf/yG7wELAagY9wyH8kp7dLOeosv06fJPN4YGEPLFVua7gUi509SBnnCdeIV3AZI7dpULx5N+xy3krhpWcW08m1kKJqbQT/swp15VA29rMWotWQeZDvbohywS6LzjlWzo=;nvf4qCqq/f+N1lO6k3lC9w=="
+secured: "xhC/ZiawcJX4L1RrmsfhIZWIDlsJrFaIP+XRcO51WxzzsvbrozCqK/o5+UIsnU9s34+jHX/Rabva6WiL5/ZfdmNiwIoxh7Ut9TUK22mjTnTRcR3J+i4rWccr9b95K4h7ZHjoTz4qKMZ6WXd3QoLUFtxruC75aDtDnbkL8zt1kmruYue575M+FdfENnnqqWH1/5PQU4oa/iM9DCD5J4HXXU1Hlb3FvW0KaZ05KicIwY/F4WCy9Q9eo1v3bYw1x79jkpK9lPqwn+NYDuHUmAvU3ps+KTauGtjLTkGMfQtjT+dWWx+7HHPsk6vs0mHU4fPFmcD0atTOcP6FBhmlybiUJ7uoFum4MenJyYUlRqWMmnNIfD7ExJQvIV3eKZrlozHhXRQJwy5vQTdFSMSM1+PgAaahtDNVwxLpT47sadvx0b/5k5XWtr67/tXeCuo3hEKgybSuNc7LBYRHI9LbLlmFdX9DT4fV1TESI8oEmeskPflWrONc6WquHiJyETh+OlU63HHXo1nO8IxPj0jc2Tn7cA==;F/hgALO0cD5woqum2xk6dQ=="
 ---
 

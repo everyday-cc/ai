@@ -1,28 +1,28 @@
 ---
 category: news
 title: "3 Ways You Can Start Relying on Deep Learning"
-excerpt: "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning starts where AI algorithms based on a single layer of data points,"
-publishedDateTime: 2021-05-10T19:05:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/3-Ways-You-Can-Start-Relying-on-Deep-Learning-16164925.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/3-Ways-You-Can-Start-Relying-on-Deep-Learning-16164925.php"
+excerpt: "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ..."
+publishedDateTime: 2021-05-10T19:13:00Z
+originalUrl: "https://www.entrepreneur.com/article/370549"
+webUrl: "https://www.entrepreneur.com/article/370549"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/370549"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://s.hdnux.com/photos/01/17/77/50/20970047/3/rawImage.jpg"
-    width: 2000
-    height: 1333
-    isCached: true
+  - AI
 
 related:
   - title: "Andrew Ng’s DeepLearning.AI launches New Course On MLOps"
@@ -39,7 +39,21 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Learning deep features for dead and living breast cancer cell classification without staining"
+    excerpt: "Automated cell classification in cancer biology is a challenging topic in computer vision and machine learning research. Breast cancer is the most common malignancy in women that usually involves phenotypically diverse populations of breast cancer cells and an heterogeneous stroma."
+    publishedDateTime: 2021-05-13T10:59:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-89895-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 28
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-89895-w/MediaObjects/41598_2021_89895_Fig1_HTML.png"
+        width: 685
+        height: 377
+        isCached: true
 
-secured: "iCAAfcoFwjwjmlyxTWqfuSog2SIDfFT3EtQY/enwcvomb98Qw1rSTqkkvtRuWun8uogiWlbVGpsoo7e+bB7shC/WPa2ighPdbH6SRrSP5/FlUvqj4Lsk4tAarHD+l5FwDuGgg1ZZjZJ7FrbMllQdDDdFjYYcJtUuicESCTF9gZARsXatqNOPWpTO2IbWDYR//0U/bTw+IMCFmmKkv7OvwAfp2yHSwGWnGD9lNbzaNoGfy4krbOqnf3SAIOmwFJ3V/fvRCPTtBsKWjRmm08TTls9rBMZQ3VP+ydW9KlBJ/YrGgEJHX/t6cAElpKztMJ3k+hkSC1ZLnWfsWhJyW7nbWxrSvQOPR2JHlrjZMmRLP4QNtWY8aAAlUijZtMnbmbzk3ZCrUdqZc59/0CgTmXtjVgkwzYxzfQvWtSJi9/JjJeTnCzwEIKXSkdTgiIQQClUqJgFlrPCzqYB0tTwvH/RS5zjhtO8a/eF8ayYLI/feiKwc/QgY7gi0AX0LG+e49A70Q5ETvVmCmpd/veHdoKqVrg==;kvoMB+d3Exddv5hFJihKcw=="
+secured: "/qX2SMdwKRwemwTJFdo4arzCi3LVT6S3OndpjdTqdOOvLvyijhlnGR5laPNGG+y7QTCVmt0NvRgmpue2LzVdMEsv5GT7z9YsYAKOiADoZf/0o4IXlK62RyMW8ZDFyy/4TKOzcwPVjgBtY8ff8O7TZqQ2JrHE0sEEkDdJ9Sct3K7vWMgmMLENfmgX2D0aGzSLTpqD/IsUmDcwCfjRrtuYMkZMCwoWtBUrWWCO7tnNGazfzAz7FPoykUVEl2wnCS4DlT6n0icnlAKcpOAmMfKU60wtc2sdJcjU4LiZPeSHfLCF6766rGEoH1S4CGkU0vvnbRmJp9xubxE5q8LTexq2hx9VhOCTD7oY1glSwOl+JtQ=;xR2S1VB5ob2/iBQOsr7yhQ=="
 ---
 

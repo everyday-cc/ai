@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rek
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
 type: article
 quality: 65
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
         width: 1024
         height: 614
-        isCached: true
-  - title: "Civil liberty groups question facial recognition France tech rollout"
-    excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."
-    publishedDateTime: 2021-05-10T07:01:00Z
-    webUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-question-facial-recognition-tech-rollout-in-France"
-    type: article
-    provider:
-      name: The Connexion
-      domain: connexionfrance.com
-    quality: 39
-    images:
-      - url: "https://www.connexionfrance.com/var/connexion/storage/images/_aliases/social_network_image/media/images/manif-gj-belfort/1372754-1-eng-GB/Manif-GJ-Belfort.jpg"
-        width: 639
-        height: 426
         isCached: true
   - title: "Privacy watchdog warns facial recognition tools endanger human rights"
     excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"

@@ -25,21 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Male infertility scoring using AI-assisted image classification requiring no programming"
-    excerpt: "A research group led by Dr. Hideyuki Kobayashi at Toho University Omori Medical Center in Tokyo developed an AI-assisted image classifier that provides scores for histological testis images of patients with azoospermia."
-    publishedDateTime: 2021-05-10T11:42:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
+  - title: "3 Ways You Can Start Relying on Deep Learning"
+    excerpt: "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ..."
+    publishedDateTime: 2021-05-10T19:13:00Z
+    webUrl: "https://www.entrepreneur.com/article/370549"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/370549"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+  - title: "Andrew Ng’s DeepLearning.AI launches New Course On MLOps"
+    excerpt: "Andrew Ng announced that the Specialization on ML Engineering for Production (MLOps) by DeepLearning.AI now available on Coursera."
+    publishedDateTime: 2021-05-14T12:12:00Z
+    webUrl: "https://analyticsindiamag.com/andrew-ngs-deeplearning-ai-launches-new-course-on-mlops/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/male-infertility-scori-1.jpg"
-        width: 1309
-        height: 715
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/1620944249180.jpg"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "+XGJ7sB4QLurNxAhkLCCn4ESsh7knf31VYm7VprrmnQs8V459DgCpNosLWkoaGg8W/MiusLGg2Hod1jjtak/UyKYe3xDcib0eI24ZuLFF5P/UxzSnDDKBDZkVJwXRVYMN7Q/U9NcKWhm9jaaJgOrsLnIHgT5Z7xMMEOun0LcQUzfsRwF9Xvs5j+vC1zQmH37V9IyRzt8aYKojWQYDP6vxM2Uxdbw46JtdQHkXNX/Qbh7lXx87gw0GvNgiS8P365/cPgop1LfljfwhH0bWwOpa4WjvYtckBuk1GIJp3pkHyc138OlpL3q+mRX1qBroONE3LRcJLbvHbkCWZnl0Bxf+MNLsPOAg2IDTNiZYBixtsQL9nHRXLgtR9WzjKd8YkmIHqHRb4HeA1xwi2A7x9oZGzzdvHP6+NJn9wGcXLoTg7oCSH2o7pnH6TusBQuBXKkFgrA7X/vrbueJArK1JV8OhmP28VKrtPayVtoGz9yg/InlTCIF1Wqf1E+bB3jS7Bv4zZO3hBj3x4abuFVBVJpCkg==;RVONkxXz+FonAln8BEhF5A=="

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-publishedDateTime: 2021-05-06T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm"
+excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
+publishedDateTime: 2021-05-06T07:08:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "btw7ocvYt+mz8PrS4WJ2S/wlY7RW2klGy0Bb6RpanrIeOeltIGhJpjbP7w6AVVzSx+dkZd0iS1+TsVG+wMFA84CQBvtqjLxhh4bqSRns//jHWgNcnjyTW/yiWLPZtitly0pORLN98twA0XzIW1+UkeJImuEtMfhvdhK9K9NAN/zgN15s/aDiSS7Dk0NvFUTt+284xr04JNP3HdWGuJS5aVbk49N5KPOCcbwWjecVfq4TV+GAPiJgNH6s17Qc4PhIgTOB4VpD+ad/R6CLEg0zUdI2jLGxD81iH/yFqLpHVMYfal+MXlE2KzdSPM9PVWVbeDyLucclmIJNZnK75ivMDkmdcMW+p9EKinO8MN8aZKo=;h0Oc/4IpgWVmMbmJoAO03Q=="
+secured: "Xs6ZXSz6/BvzcaBR4QKbHBrVYUQHtBUhcMM8FsU3QrfNcf6fhwcEkJfvmRKeEsnEj2zsa2/b4459xna/ZTezAEOi5IBXDwwE5xCdItCmkIZ4TJxqieI8bDaheXjbH3PNyab/V8ge5WAuZmJuIbG8OGRMy9QTj33ORCDj4O33yDxyJHbzXC3tmbRorI6ZesxatAlUGWb+gY3qTR4ajYIFZpDAKiFq7E5YL18q5XtkpLJQPTLbOb3kNzxNhPdLk4SeWQfVu6Mrmv0Y1d9Gv0UR9vbIcRTj898XGHsi3JAzd82fKp6Zs7wBKqL/k0/ElHs4KtGflN0c05/4IVGKlyqoY2yDTl6Bpd5tJ123XPV2FPU=;U+g72o22q9OEWqU1Ug+xDw=="
 ---
 
