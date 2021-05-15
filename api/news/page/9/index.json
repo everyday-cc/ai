@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
+      "title": "Facial Recognition as a Legislative Issue",
+      "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
+      "originalUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
+      "publishedDateTime": "2021-05-05T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
+      "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
+      "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "originalUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-334697/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
+      "publishedDateTime": "2021-05-05T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
       "title": "States push back against use of facial recognition by police",
       "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
@@ -736,6 +831,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "publishedDateTime": "2021-05-05T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
       "title": "Artificial Intelligence and Customer Experience.",
       "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
@@ -1052,146 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-an-artificial-neural-network-joins-the-fight-against-receding-glaciers.md",
-      "title": "An artificial neural network joins the fight against receding glaciers",
-      "excerpt": "What makes a neuron? In the 1940s, at the dawn of the computer age, researchers gave the word a second meaning. In the case of neural networks, the artificial neurons comprising them are more simple than one might expect: structure a unit of code to take in information,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.html",
-      "originalUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/an-artificial-neural-n.jpg",
-          "width": 637,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-neural-network-receding-glaciers.amp",
-      "publishedDateTime": "2021-05-05T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health.md",
-      "title": "What We Can Learn From AI Healthcare Initiatives Like Watson Health",
-      "excerpt": "Healthcare professionals aren't going to rely on AI as a decision-maker. Rather, they might use AI analysis as a tool integrated into their workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60917b0413d3bd3e5f840878%2F0x0.jpg",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/amp/",
-      "publishedDateTime": "2021-05-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-trifo-lucy-robot-vacuum-review-eyes-that-prioritize-security-over-cleaning.md",
-      "title": "Trifo Lucy Robot Vacuum review: Eyes that prioritize security over cleaning",
-      "excerpt": "The Trifo Lucy is a highly anticipated robot vacuum that not only vacuums but can also double as a useful security camera for the home when you're not there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/",
-      "originalUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/?amp",
-      "publishedDateTime": "2021-05-05T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

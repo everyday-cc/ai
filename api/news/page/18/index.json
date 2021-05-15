@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-29-why-the-launch-of-apples-self-driving-cars-is-delayed.md",
+      "title": "Why the Launch of Apple’s Self-driving cars is Delayed?",
+      "excerpt": "Since 2014, the launch of Apple’s self-driving cars is delayed for the development of level-5 autonomous driving and third-party partner. It depends on an Artificial Intelligence operating system which has potential till level-3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "originalUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/self-driving-car.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-huawei-trained-the-chinese-language-equivalent-of-gpt-3.md",
+      "title": "Huawei trained the Chinese-language equivalent of GPT-3",
+      "excerpt": "Huawei trained a 200-billion-parameter Chinese-language model. But whether it moves the needle on research is an open question.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/2019-04-24T111728Z_3_LYNXNPEF3N0ER_RTROPTP_4_HUAWEI-HSBC-e1558409923159.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "publishedDateTime": "2021-04-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
       "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
       "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, announced support for the AWS for Media & Entertainment initiative from ...",
@@ -1063,100 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-aws-announces-general-availability-of-amazon-nimble-studio.md",
-      "title": "AWS Announces General Availability of Amazon Nimble Studio",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Nimble Studio, a new service that enables customers to set up a content production studio in hours instead of weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777",
-      "originalUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-frances-macron-eyes-artificial-intelligence-to-monitor-terrorism.md",
-      "title": "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism",
-      "excerpt": "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "originalUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-330987/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "publishedDateTime": "2021-04-28T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-rec
 webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-netpoleon-as-distribution-partner-for-asia-1030417263"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,22 +23,24 @@ topics:
   - AI
 
 related:
-  - title: "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets"
-    excerpt: "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI"
-    publishedDateTime: 2021-05-12T09:17:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
+  - title: "Verbit Announces Acquisition of VITAC to Become World's Largest AI-Powered Transcription and Captioning Platform"
+    excerpt: "Verbit, the world's largest AI-powered transcription platform, today announced the acquisition of VITAC, the largest provider of captioning products and solutions in North America. This acquisition will position Verbit as the number one player in the professional transcription and captioning market across legal,"
+    publishedDateTime: 2021-05-11T15:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/verbit-announces-acquisition-of-vitac-to-become-world-s-largest-ai-powered-transcription-and-captioning-platform-1030415804"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 47
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/contact-tracing-920.jpg"
-        width: 612
-        height: 355
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+  - title: "HID Global Invests in Paravision, a Leading Provider of Facial Recognition and Computer Vision Technology"
+    excerpt: "HID Global, a worldwide leader in trusted identity solutions, has invested in Paravision, a leading provider of advanced facial recognition solutions and recognized for its world-class leadership in accuracy."
+    publishedDateTime: 2021-05-11T16:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210511005469/en/HID-Global-Invests-in-Paravision-a-Leading-Provider-of-Facial-Recognition-and-Computer-Vision-Technology"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "c3l2OevgVF61yv641skxvE3AoLRkDXYlULzh4wvGP+ce2Vzk8OyKFgnf56JsyCvaE+wZCZTcDyEUTscCI0QWY5Cz8TK0SSpr1qvXpufG1PPUAfPCzdAGBB00R7QuDghsVT2amtllkmYidBLo1Z3JuZOphX5R4RC5aXIe4B+TsCJoth5i7yS56VANfAjrjgh0catOPulR758a5v6/YqIQz0H6dNqxl9N2YnvncSOg4xXFWh9yBm6XdXEmaSKIZf72Bn/8eZUw+dRAmYIoiediGF/3/egberLW+M+iAPD2D6vd6OkZdb9+ouCN8O3qx4pn/P5eAztwya1eiBxHQUIAwBii2e6LkzFb+O2mrOeNQOI=;c1wP858la9NTtI2HTMEjkw=="
 ---

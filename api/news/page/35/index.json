@@ -2,6 +2,101 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-04-14-informatica-modernizes-ipaas-platform-using-microservices-and-ai.md",
+      "title": "Informatica modernizes iPaaS platform using microservices and AI",
+      "excerpt": "Informatica unveils revamped platform based on microservices and AI to modernize cloud integration services at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Informatica-Intelligent-Data-Management-Cloud.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
+      "publishedDateTime": "2021-04-13T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-robots-will-not-take-jobs-if-cios-start-preparing-the-workforce-now.md",
+      "title": "Robots will not take jobs — if CIOs start preparing the workforce now",
+      "excerpt": "On the whole, emerging technologies are \"unfolding gradually\" with time for companies and workers to adapt, MIT Sloan affiliates said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
+      "originalUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciodive.com/user_media/cache/ab/f8/abf891e27d1a07668c053b648db45cc8.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-ai-startup-uipath-looks-to-raise-11-billion-in-us-ipo.md",
       "title": "AI startup UiPath looks to raise $1.1 billion in US IPO",
       "excerpt": "Photo by Noam Galai/Getty Images for TechCrunch UiPath, an automation software startup founded in Bucharest ... SHARE THIS POST C3.ai NewsMORE Related Stocks Find News",
@@ -1034,101 +1129,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-isilon-founder-lifts-the-hood-on-farming-startup-carbon-robotics-and-its-weed-zapping-machine.md",
-      "title": "Isilon founder lifts the hood on farming startup Carbon Robotics and its weed zapping machine",
-      "excerpt": "is unveiling its self-driving robot that uses artificial intelligence to identify weeds growing in fields of vegetables, then zaps them with precision thermal bursts from lasers. The startup, previously known as Maka Autonomous Robots, was in stealth mode ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
-      "originalUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/photo3-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
-      "publishedDateTime": "2021-04-13T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-machine-learning-can-help-slow-down-future-pandemics.md",
-      "title": "Machine learning can help slow down future pandemics",
-      "excerpt": "Artificial intelligence could be one of the keys for limiting the spread of infection in future pandemics. In a new study, researchers at the University of Gothenburg have investigated how machine learning can be used to find effective testing methods during epidemic outbreaks,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/24-machinelearn.jpg",
-          "width": 1000,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
-      "publishedDateTime": "2021-04-13T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

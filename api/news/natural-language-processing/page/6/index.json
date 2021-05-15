@@ -2,40 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-11-ai-in-the-arms-race-china-expected-to-surpass-us-military-capabilities-in-the-coming-decade.md",
-      "title": "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade",
-      "excerpt": "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,",
-      "sourceUrl": null,
-      "webUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "originalUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-11-hugging-face-raises-40-million-for-its-natural-language-processing-library.md",
       "title": "Hugging Face raises $40 million for its natural language processing library",
       "excerpt": "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,",

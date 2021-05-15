@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg"
         width: 1200
@@ -56,6 +56,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
         width: 1024
         height: 614
+        isCached: true
+  - title: "OMS to offer facial recognition ID verification service"
+    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
+    publishedDateTime: 2021-05-11T10:26:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 39
+    images:
+      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
+        width: 1000
+        height: 645
         isCached: true
   - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
     excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."

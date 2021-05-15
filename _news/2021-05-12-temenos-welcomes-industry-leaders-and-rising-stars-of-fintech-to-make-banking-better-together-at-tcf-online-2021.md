@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Temenos Welcomes Industry Leaders and Rising Stars of Fintech to Make Banking Better, Together at TCF Online 2021"
-excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that 10,000 business leaders and technologists will come together on 26 - 27 May at"
-publishedDateTime: 2021-05-12T10:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210511005935/en/Temenos-Welcomes-Industry-Leaders-and-Rising-Stars-of-Fintech-to-Make-Banking-Better-Together-at-TCF-Online-2021"
-webUrl: "https://www.businesswire.com/news/home/20210511005935/en/Temenos-Welcomes-Industry-Leaders-and-Rising-Stars-of-Fintech-to-Make-Banking-Better-Together-at-TCF-Online-2021"
+excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that 10,000 business leaders and technologists will come together on 26 - 27 May at TCF Online 2021, the flagship event in banking. The two-day interactive,"
+publishedDateTime: 2021-05-12T06:31:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-fdb0799215174bb6b0d38d5e1fd82fdf"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-fdb0799215174bb6b0d38d5e1fd82fdf"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "IFxFGsf8jGwcTfKx5uZkO8U6ybdtnbGgrAvjgKdhCj/4g5lw1BNtBeuplL0VlHR/sNrrTZ1x4goOpz1qHAjx7OWodgg6LedieONJJ6VhOVwaXBHY+WW20gLRNnZHDDUgcYlqOT3IWrfNf4XxCOrxSoa5/wG0cOwK4zP3HrEo+EDcu0wCKeyh0dFQ5Nmbn4dQYDHabn3vSaFOPD/pzsCns73jKYZ6K8jbnb4vcX5WcmCScHIDLpseYgeDExI6C4KVfA/cGMRUhxrj+ifVvYrCd7g64D+ViXUm5+fwt3r5ij2pjyJg5Gyo+57r/W2J1aUCiXI4/QFuw8CMicJwYTuI4oe9zN63+pU21I0elEH+BTE=;aWYYL74O+S8VIpIyVavsrg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "W3odogWNtel3RUt68CItvveg6+m9gvjAfad69ZCE/ie+Fe5rJJEc9ZtXUo+zUVKief4BSgvVQq9I8RAvg/QWSZroxmPATDOld44bTwiwUBVFZfBJp8+7ei2aYuYdwXmMe9ZB0dIYuDz28wF6VlAaVN8477lAjSA4HBG4Hq82SPNWlAMtEcIL2Rfd5C6cz4eyoI/yp9gCVM9OvTHjXthAjKBb2RL4ARZMIwft5uuoXbxvfpHvmGXk/5weTgn+Z7NpGInJhBdGj7Ke3O8+nu2O9B8apD9SjjWkDiJLLkpaoXujD4E5VJYbKIGSLgOerEiBe1eW+mpgAIS9jclzDobuFSqqG6NmbuHg2fUa3sf92iY=;O5qoJUQ8oTCvEkBZj/WXrg=="
 ---
 

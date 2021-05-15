@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-07-battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring.md",
+      "title": "Battling Bias: Why Employers Should Not Fear AI For Diversity Hiring",
+      "excerpt": "As more businesses look to achieve workplace equality this year, they will have to overcome a significant barrier to successful DE&I recruitment: unconscious bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093f6129323f405fd0e69e7%2F0x0.jpg",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/amp/",
+      "publishedDateTime": "2021-05-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.md",
+      "title": "DRDO Centre for Artificial Intelligence and Robotics develops ‘Atman AI’ for Covid detection in Chest X-rays",
+      "excerpt": "The product has been designed to reduce the burden of CT scans and make covid diagnosis accessible for smaller towns by helping in making the process ..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-82453508,imgsize-54466,width-800,height-434,overlay-ethealthworld/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
+      "publishedDateTime": "2021-05-07T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health.md",
       "title": "Global Healthcare AI Market 2021 Growth Factors – Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health",
       "excerpt": "The recently uploaded report titled Global Healthcare AI Market 2021 by Company, Regions, Type and Application, Forecast to 2026 by MarketQuest.biz offers a comprehensive picture of the market from the global viewpoint as well as a descriptive analysis with detailed segmentation,",
@@ -1087,101 +1182,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
-      "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
-      "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
-      "originalUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2020/08/AdobeStock_287945965-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round.md",
-      "title": "Lightmatter’s photonic AI ambitions light up an $80M B round",
-      "excerpt": "AI is fundamental to many products and services today, but its hunger for data and computing cycles is bottomless. Lightmatter plans to leapfrog Moore’s law with its ultra-fast photonic chips specialized for AI work,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Lightmatter_BladeFront.jpg?w=1024",
-          "width": 1024,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/amp/",
-      "publishedDateTime": "2021-05-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

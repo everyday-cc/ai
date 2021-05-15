@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1500
     height: 1000
     isCached: true
-
-related:
-  - title: "FDA grants breakthrough device designation to AI-based focal therapy system"
-    excerpt: "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia."
-    publishedDateTime: 2021-05-11T00:00:00Z
-    webUrl: "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system"
-    type: article
-    provider:
-      name: urologytimes
-      domain: urologytimes.com
-    quality: 52
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/urologytimes/33bac5b4b295369649455c6e7f13d51c0b268650-500x218.jpg?auto=format"
-        width: 500
-        height: 218
-        isCached: true
 
 secured: "8T8GKn4xxbXNVKAWgwo02gB5Wsd4P2F6NEdMVdKnrEPHHRwBwJPbuwW6VR/2zoeeslg6w1tTGFSnOuiY5Jcd9mpILHo2hKTJbVCNCVQoq8bO5udauyic/LZ389HElA9AcOonQ0f/npPGgEbmXRZAh/51RYgvCFZUCKdXzrPw9Ge0ZdkzdaUzg4GQ/NW6eK73JW7LNxYBLsMuOBmc4dGj9qFm2l5l2BatVehFLIyFTdsjhXTu8LZrkgeY34/iOR7QlFlMAT2dlCWq2WdjasnaX8J0e163JiWI9+3XukdswpZ42y1Nz72S28N/RR3isIP6ILvxOF4jZuIjzheJrBmIa2fg/nf3HRcg5qHGqAy5Z8b8oXcJZNd8EhGYeQKFo5e+eLwCkrBU7LPYSkUHqxwtRf0yhQ/vC+GVNZ32azpDYpdniFTAw+cCTYum66yMh339O3Fp+fM8NdoxQYO/y329QUnAo74GvG/uf5chuKYApy58i8d4E4x22zVuWPWO7DhzTX90a8YOebsEcTofvmMRfw==;l7v4QJTJQ5+hBzjzpZeEeQ=="
 ---

@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-19-cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us.md",
+      "title": "Cognitive Collaboration Market is Anticipated to Witness Massive Demand By 2027 | Cisco (US), Microsoft (US), Slack Technologies (US)",
+      "excerpt": "The Global Cognitive Collaboration Market is expected to witness a CAGR of xx% over the forecast period 2021-2027 and is expected to reach US$ xx million in 2027, from US$ xx million in 2021. The assessment provides a 360° view and insights,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
+      "originalUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jumbonews.co.uk/wp-content/uploads/2021/03/istock-1155230435.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-one-board-all-platforms-zf-drives-vehicle-intelligence-with-proai-supercomputer.md",
+      "title": "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer",
+      "excerpt": "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
       "title": "Want to Get Along With Robots? Pretend They’re Animals",
       "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
@@ -1009,93 +1095,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-global-natural-language-processing-nlp-in-healthcare-market-evolving-trends-and-opportunities-in-covid-19-pandamic-end-by-2027.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare Market Evolving Trends and Opportunities in COVID-19 pandamic end by 2027",
-      "excerpt": "Syndicate Market Research’s Latest Report ‘ Global Natural Language Processing (NLP) in Healthcare Market 2021 ‘ Analyses Research Methodology overview including Primary Research, Secondary Research,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/18/global-natural-language-processing-nlp-in-healthcare-market-evolving-trends-and-opportunities-in-covid-19-pandamic-end-by-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/04/18/global-natural-language-processing-nlp-in-healthcare-market-evolving-trends-and-opportunities-in-covid-19-pandamic-end-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-17T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
-      "title": "Why Microsoft’s new AI acquisition is a big deal",
-      "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
-      "originalUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
-      "publishedDateTime": "2021-04-17T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

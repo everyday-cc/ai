@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/14/conversati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/14/conversational-service-automation-can-help-derive-value-from-every-customer-interaction/amp/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Forbes
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "OMS to offer facial recognition ID verification service"
-    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
-    publishedDateTime: 2021-05-11T10:26:00Z
-    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 39
-    images:
-      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
-        width: 1000
-        height: 645
-        isCached: true
 
 secured: "ZHTt2OvWp8D8W+zj7V8EtIjBpDOzUn9HLWnbiAioImgy8tq2Epy0ZqRYzVOUOoVEp8IYCty1SQ2iwb6j4IQe2rMrTm59Q6OhWyorKEhkl8OCEkL0WYF699cxholphWszJecuJl4LaTBYQ8Ut6jD1++gPuw2txgjIm62tXl3YiIF+kHULy56MVrQHWDiQFqodA1l/1S8nGYbIgzBtLwNhU2z9UPaKbyv3fbfOypvVCixvqky+6JFLDGs3n6dSPKEuKt+bZ0aJ8j8QDCoGvfUAPY1wWmymIPXTglCZY3RxdM8zUWhiv8hLUdDM2gisCHYZhqTYqZMrOacEsRGh4COl1CclmSnV6AvoozMWQinJ1KHDoRFV+1A4NSY5XJytDe8m5u5mxQrXXFPoflQww+nwfBmlKhTDnC9B+M6jx7SupqOorM907u/KYl4OnoWWaNiFCzBpa89cJuIANjkb0RDRT0BQIe9/xBzXSifasYJzVnsRB6/SF4uRqcBC9WdFfg4db7c8ERpmUSb4ehfMgw0jAA==;SKieap2OoaTjPpSJplVKGw=="
 ---

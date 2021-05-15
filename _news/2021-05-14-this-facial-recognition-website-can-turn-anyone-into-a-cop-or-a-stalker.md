@@ -1,24 +1,30 @@
 ---
 category: news
 title: "This facial recognition website can turn anyone into a cop — or a stalker"
-excerpt: "While most facial recognition tools are reserved for police or government use, powerful PimEyes is open to all, whether they're hunting crime suspects or stalking women on the web. Researchers fear there’s no way to prevent it from being abused."
-publishedDateTime: 2021-05-14T16:31:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
-webUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
+excerpt: "While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web."
+publishedDateTime: 2021-05-14T10:00:00Z
+originalUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
+webUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
+ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
+    width: 1440
+    height: 954
+    isCached: true
 
 related:
   - title: "POLITICO AI: Decoded: AI.gov — US states move to ban facial recognition — AI and structural racism"
@@ -52,6 +58,6 @@ related:
         height: 427
         isCached: true
 
-secured: "mX6UY3p1LolHdNSlmUyD+nNLnqLrFg+9hortdHqlRTzRBo37uvlSOKGAYyGCh9fWpRITVjFwkidyhRDnOGRiJ5GZ6tvrRhjUT5q1pmWnRjPW31/5V0X6zvceRWNH+ZpgWv8piQpEXCMHnEGUpfPL0sN/5AGb6mn1zzLscAoTL5r3e9lWm4bHugyNGf4fAfFr1rthnGQvnG+NhTfmViwfiDZVNSBK6MeIdGOc0TIC8TVsuOyF2xqW6l9zKdozHFRWEMrz6yzinuNCf6yh2CGZ9LJXBXrs/wBjmGZLgiV5CtW9f73xuU4ZgaOhkbQa28/e9rKf+2GAwhCd+5twbPwd2d6UTW1uIdul/NvtvLmiRo203RIRioQPfOr5pWGPbWcHvwIccnFZ9Ek4gARXv7V0YYGk68yh1eTABJcl2r0kOC9Y6aEdsAUp/MBLNsISvZiAKC2GSrCRqnYJk5iRoYRN+8oivipsxu0RxOGLvDAZdQSQJIEv13eFITGaFs1LoU1CDhXW39nCxUQzaWSh+aXVIg==;2xT79T8U1txNwdw7hayw+Q=="
+secured: "aWx8xqdmRDH31M1x/7qiKXCGyzGmWZxDwQqyJ5iHYCeq/PrNFCLZQojYA1enetLld+2TDqlozC6ybEQKVF5CT+1huNMHzd77VFB6Wb6lHBNAIwxgVcv2jGm2LYu+Wyd/54lAECzaxELJyO1LBLoGZ1JPg9dN6MhUUDGFfLGaEinApk5G3nEB/ILqeLOegQ62mESnc4Stp+E2v0Rrx3tP3mBk2QiZEQHCBorN4EMBBvf4yNEPvKt4zITPRnWXWopf5tW/OAzJJypFgQu8hsXixxOy5EIL5mbUD3/1I+t8M1WzoLKY3sH2aZ/88mhOWaZK8uFPjVWJGYsfdD61ZJX4CmRJ4Lz5CBN0mgZlVGU61hA=;ZWuYppU+25KY2Pgn2Xz73A=="
 ---
 

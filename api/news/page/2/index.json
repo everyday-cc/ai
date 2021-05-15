@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-13-chef-robotics-raises-77m-to-help-automate-kitchens.md",
+      "title": "Chef Robotics raises $7.7M to help automate kitchens",
+      "excerpt": "A year and a half’s worth of global pandemic has had a profound impact on virtually every sector of the workforce. When it comes to future automation food prep isn’t quite at the top of the list (that distinction likely goes to warehouse fulfillment,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-913931820.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
+      "publishedDateTime": "2021-05-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40.md",
       "title": "These noise-cancelling earbuds use AI to protect you out in the world. And they’re under $40.",
       "excerpt": "Sponsored Deals Thankfully, the bar on that process has been raised with the xFyro Active Noise Cancelling AI-Powered Wireless Earbuds.",
@@ -1222,49 +1274,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes.md",
-      "title": "French scientists in Zimbabwe use facial recognition technology to ID giraffes",
-      "excerpt": "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "originalUrl": "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.rfi.fr/media/display/f910e0e2-b328-11eb-8460-005056a964fe/w:1280/p:16x9/2021_05_12%20Giraffe%20populations%20are%20in%20decline%20across%20Africa-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes",
-      "publishedDateTime": "2021-05-12T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFI",
-        "domain": "www.rfi.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -106,58 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-14-conversational-service-automation-can-help-derive-value-from-every-customer-interaction.md",
-      "title": "Conversational Service Automation Can Help Derive Value From Every Customer Interaction",
-      "excerpt": "Every year, more capabilities are added to things like \"smart\" home appliances, connected TVs, wearable devices, cars and even clothing — including voice-activated helpers. These smart assistant interfaces walk you through operating instructions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/14/conversational-service-automation-can-help-derive-value-from-every-customer-interaction/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/14/conversational-service-automation-can-help-derive-value-from-every-customer-interaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d67ba2b1721fb47723c50%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/14/conversational-service-automation-can-help-derive-value-from-every-customer-interaction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/14/conversational-service-automation-can-help-derive-value-from-every-customer-interaction/amp/",
-      "publishedDateTime": "2021-05-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-14-healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm.md",
       "title": "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM",
       "excerpt": "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research.",
@@ -1475,6 +1423,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
+      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
+      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

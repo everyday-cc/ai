@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-01-artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens.md",
+      "title": "Artificial Intelligence in Medical Market Next Big Thing | Major Giants- NVIDIA, Intel, IBM, GE Healthcare, Siemens",
+      "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers & Medtronic. Click to get Global Artificial Intelligence (AI) in Medical Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/",
+      "originalUrl": "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://industribune.net/wp-content/uploads/2021/04/Artificial-Intelligence-in-Medical-Market.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indus Tribune",
+        "domain": "industribune.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-here-are-five-key-findings-from-the-aws-startup-showcase-you-might-have-missed.md",
+      "title": "Here are five key findings from the AWS Startup Showcase you might have missed",
+      "excerpt": "After more than 15 separate interviews involving 10 startup companies, a lot of ground was covered during the AWS Startup Showcase Event: Innovators in Cloud Data, produced by theCUBE, SiliconANGLE Media’s livestreaming studio on March 24.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/31/here-are-five-key-findings-from-the-aws-startup-showcase-you-might-have-missed-cubeoncloudawsstartups/",
+      "originalUrl": "https://siliconangle.com/2021/03/31/here-are-five-key-findings-from-the-aws-startup-showcase-you-might-have-missed-cubeoncloudawsstartups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/rocket-idea-light-bulb-startup-success-to-the-moon.jpg",
+          "width": 4774,
+          "height": 3364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-aws-adds-explainability-to-sagemaker.md",
       "title": "AWS Adds Explainability to SageMaker",
       "excerpt": "Amazon Web Services is adding an AI explainability reporting feature to its SageMaker machine learning model builder aimed at improving model accuracy. SageMaker Autopilot now generates a model explainability report via SageMaker Clarify, the Amazon tool ...",
@@ -1153,76 +1240,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-aws-launches-deepracer-womens-league-to-promote-upskilling-diversity-inclusion-in-ai.md",
-      "title": "AWS launches DeepRacer Women’s League to promote upskilling, diversity & inclusion in AI",
-      "excerpt": "AWS has launched an initiative called the AWS DeepRacer Women’s League- India 2021, to bring together women students to learn machine learning through a cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/press-release/aws-launches-deepracer-womens-league-to-promote-upskilling-diversity-inclusion-in-ai/",
-      "originalUrl": "https://www.cxotoday.com/press-release/aws-launches-deepracer-womens-league-to-promote-upskilling-diversity-inclusion-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-aws-slips-a-bit-in-cloud-ai-developer-services-report.md",
-      "title": "AWS Slips a Bit in Cloud AI Developer Services Report",
-      "excerpt": "Amazon Web Services (AWS) was the clear leader in research firm Gartner's annual report on Cloud AI Developer Services. This year, not so much.",
-      "sourceUrl": null,
-      "webUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
-      "originalUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

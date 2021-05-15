@@ -24,6 +24,20 @@ topics:
   - Facebook AI
 
 related:
+  - title: "WIMI Hologram Cloud’ s AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse”."
+    publishedDateTime: 2021-05-15T04:34:00Z
+    webUrl: "https://menafn.com/1102082279/WIMI-Hologram-Cloud8217-s-AR-and-AI-Vision-Turns-Virtual-into-Reality-While-Facebook-and-Google-Increase-Investment-in-Metaverse"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937351"
+        width: 375
+        height: 250
+        isCached: true
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
     publishedDateTime: 2021-05-11T01:54:00Z
