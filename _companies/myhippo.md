@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "hippo_insurance"
   url: "https://twitter.com/hippo_insurance"
-  followers: 2335
+  followers: 2336
 
 size: 51-200 employees
 yearFounded: 2015
