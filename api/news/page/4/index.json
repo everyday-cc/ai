@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-11-the-four-keys-to-trustworthy-ai.md",
+      "title": "The four keys to trustworthy AI",
+      "excerpt": "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg",
+          "width": 2001,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T06:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components.md",
       "title": "Mythic raises $70M to disrupt AI chips with analog and flash components",
       "excerpt": "Mythic has raised $70 million to fund the analog-based AI processors it plans to launch later this year. Mythic has spent nine years coming up with a patented, potentially disruptive way to compete with other makers of artificial intelligence chips.",
@@ -349,6 +401,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-security-challenges-within-the-fintech-sector.md",
+      "title": "Security challenges within the FinTech sector",
+      "excerpt": "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/",
+      "originalUrl": "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/",
+      "publishedDateTime": "2021-05-11T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-these-electric-self-driving-tractors-could-make-farming-much-greener.md",
       "title": "These electric self-driving tractors could make farming much greener",
       "excerpt": "A startup based in California says it can help farmers be greener and more profitable by offering what it describes as the world's first fully electric, self-driving tractor. The compact tractor can be programmed to perform tasks such as plowing,",
@@ -409,7 +505,7 @@
       "originalUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -486,49 +582,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange.md",
-      "title": "Machine Learning enabled Insig AI, which Serves Asset Managers, Lists on AIM London Stock Exchange",
-      "excerpt": "Machine learning (ML) enabled Insig AI, which serves asset management professionals, lists on AIM London Stock Exchange.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/London-Stock-Exchange-City-of-London-Wellington-UK-300x225.jpeg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/amp/",
-      "publishedDateTime": "2021-05-10T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1137,7 +1190,7 @@
       "originalUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1177,49 +1230,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-autonomous-trucking-startup-plus-going-public-via-spac.md",
-      "title": "Autonomous trucking startup Plus going public via SPAC",
-      "excerpt": "Autonomous trucking startup Plus is being acquired by Hennessy Capital Investment Corp. V, a special purpose acquisition company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
-      "originalUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/02/plus-autonomous-trucks.jpg",
-          "width": 1000,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

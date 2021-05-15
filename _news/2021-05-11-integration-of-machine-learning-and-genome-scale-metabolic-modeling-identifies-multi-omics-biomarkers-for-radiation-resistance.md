@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-021-22989-1"
 webUrl: "https://www.nature.com/articles/s41467-021-22989-1"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 685
     height: 623
     isCached: true
-
-related:
-  - title: "Deep learning-based predictive identification of neural stem cell differentiation"
-    excerpt: "The differentiation of neural stem cells (NSCs) into neurons is a critical part in devising potential cell-based therapeutic strategies for central nervous system diseases but NSCs fate determination and prediction is problematic."
-    publishedDateTime: 2021-05-10T10:20:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-22758-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-22758-0/MediaObjects/41467_2021_22758_Fig1_HTML.png"
-        width: 685
-        height: 649
-        isCached: true
 
 secured: "IBtyvIfvumGrLixkbN3aRKomXTEQkXSui/ZFSNCgzKk/x0kFkP9e7odrvvZvSWrAV7CJkOc3e+zQV7VwgoebM6V7c+wl26eRqnpwMpg9iwi1dhPoDz6nhWu32uc7xVnnttGc954Hy6GsdpyDl3FERJKmjYNzksGcXimtf+sYLqXmgmEyQJ8tosfGVqt8FJghojzNdQVbfPG18F5GE/wyFkHzkIi4VSYBrmqoejVlX1h8cVCZDpXTJ2EtnW10Jo/A5war91MBd9Kpqiy4xt1YYFJzOabm/m6w814dk0rdE+SC5N7FN+Lu/8D4kZPbLCYeE3hROPuO5hSuKHgEckZsFeDZTWyYzJCBhLrOR0faRbSf46ofeOsBnBILfWUR1XcdZ7kcdRzFCjiI5UOYl3sxcWrMeaNF9tsTdWuX87BdTlX9xj2fBwmsmr3qsgkmJYA0P9R/f+4J6uToZ6HWcgSvoD7ETrgiDfQvg/cQLxgxLpoRYvQUFtfJJUEJJkN5dhkAXR4ZoCAlGYggAKTuqCZ6xw==;IX+PWDkjBJ4BEHWa4uaFQQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/05/13/fintech-uprising-pushes-banks-
 webUrl: "https://siliconangle.com/2021/05/13/fintech-uprising-pushes-banks-toward-it-architectural-transformation-think2021/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,49 +25,151 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Aspire Reports Reaching $1 Billion in Yearly Transactions Just a Year After Launch"
-    excerpt: "Y-Combinator backed Fintech firm Aspire reports reaching $1 billion in yearly transactions just a year after launch."
-    publishedDateTime: 2021-05-12T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
+  - title: "Security challenges within the FinTech sector"
+    excerpt: "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?"
+    publishedDateTime: 2021-05-11T08:30:00Z
+    webUrl: "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Startup AI fintech firm Riskfuel expands into insurance space"
+    excerpt: "TORONTO – Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
+    publishedDateTime: 2021-05-11T13:44:00Z
+    webUrl: "https://www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/"
+    ampWebUrl: "https://www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/amp/"
+    cdnAmpWebUrl: "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/amp/"
+    type: article
+    provider:
+      name: CanadianInvestor
+      domain: canadianinvestor.com
+    quality: 59
+    images:
+      - url: "https://www.canadianinvestor.com/wp-content/uploads/2021/05/riskfuel-840x480.jpg"
+        width: 840
+        height: 480
+        isCached: true
+  - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
+    excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
+    publishedDateTime: 2021-05-11T12:17:00Z
+    webUrl: "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Why fintech companies are winning big in banking and finance"
+    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
+    publishedDateTime: 2021-05-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
+        width: 1024
+        height: 593
+        isCached: true
+  - title: "Eight promising impact startups in fintech, fashion and education"
+    excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
+    publishedDateTime: 2021-05-12T11:00:00Z
+    webUrl: "https://impactalpha.com/eight-promising-impact-startups-in-fintech-fashion-and-education/"
+    type: article
+    provider:
+      name: impactalpha.com
+      domain: impactalpha.com
+    quality: 41
+    images:
+      - url: "https://impactalpha.com/wp-content/uploads/2020/12/shutterstock_1729589788.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
+    excerpt: "Riskfuel extends a winning streak by joining elite OnRamp Insurance Accelerator TORONTO, (GLOBE NEWSWIRE) — Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial."
+    publishedDateTime: 2021-05-11T13:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-fintech-firm-riskfuel-expands-into-insurance-space"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Fintech start-up raises £1.2m"
+    excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
+    publishedDateTime: 2021-05-13T11:11:00Z
+    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2075312-fintech-start-up-raises-1.2m"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 39
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/may_21/ubPn6mmQ-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "U.S. Fintech Stampli Secures $50 Million Through Series C Investment Round Led By Insight Partners"
+    excerpt: "Stampli, an U.S.-based fintech that is focused on AI-driven AP automation, announced on Wednesday it raised $50 million through its Series C funding round, which was led by Insight Partners with participation from SignalFire and Nextworld Capital."
+    publishedDateTime: 2021-05-12T16:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 34
+    quality: 30
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-600x450.jpeg"
-        width: 600
-        height: 450
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Stampli_co-Founders_Ofer_Feldman_L_and_Eyal_FeldmanR.jpg"
+        width: 480
+        height: 320
         isCached: true
-  - title: "Global Payments to Participate in Barclays Emerging Payments and Fintech Forum"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President and Chief Financial Officer,"
-    publishedDateTime: 2021-05-13T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=468790"
+  - title: "NXCR Appoints FinTech and Mobility Executive Martin Prescher as Chief Technology Officer"
+    excerpt: "NXCR, the fintech and insurtech vehicle subscription platform, announced that consumer finance technology and mobility executive, Martin Prescher, has joined the company as Chief Technology Officer."
+    publishedDateTime: 2021-05-11T13:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19798312.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 20
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "TraQiQ signs LOI to acquire Ascent Business Technology, solidifying its Fintech solution."
-    excerpt: "(OTC QB:  TRIQ) (the “Company” or “TraQiQ”), a leading provider of technology solutions announced today that it has signed a non-binding Letter of Intent to acquire Ascent Business Technology. Ascent,"
-    publishedDateTime: 2021-05-12T12:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-767cb346acd81ee7a8a022b6a5d2c381"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Le Lézard
+      domain: lelezard.com
     quality: 15
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1507333/Martin_Prescher_Chief_Technology_Officer_NXCR.jpg"
+        width: 267
+        height: 400
+        isCached: true
+  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
+    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
+    publishedDateTime: 2021-05-13T23:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19805913.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "u41CSjIO0hu/xKXc6jOfpGrljVzRTSnboP9EdFdbLkp0a1ilEj2nK1BGstVGTpSYx5O8ieK5AxaYbU07T4TzsH069QoK/QmZzui96Y9nbl0k8Ho1Ivdnu8qPtFG20330A4LIVAysPhSAhVqfQpZ95zfhIqPFFsIBBpxavqYckkD0/DH8g7OIP/cNmV+9Wu34OEYxdXsRuNZv9qL9leMW9bl2nlEh0PmJWDedJ9PYEEK7iuP0z/6rR250HM9DQ/mxxrT+FhDAe9ETiyTR9b3HDBszALw1ekn4qtq09qsKsCGyaJwmrM4ptvabhd6QzaxItzOd1+yfagmE1yawJ+eTDf2FxRbJg0b8rxUlnp8D/aDLpuoBgJeUAQttWZUrHzGcVu72xN3CFzYbyBVLzgCzMlvWnv9WDG2dW7MjJGMSax/0xR1eP/ATp2JxECuGXWVHg5jNhbMgkIIMxEt3Uq4kycl95y5skTmI1SPRiiv2/oOu0Q0e5OQO4lUvu4T1sJkhoyj1sMQib3WWsMUjdXyNDg==;AfPP9THN5o7LYgto+PKETA=="

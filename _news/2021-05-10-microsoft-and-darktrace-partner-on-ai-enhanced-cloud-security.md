@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
 type: article
 quality: 121
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "Best Microsoft Azure certifications for a career in cloud computing"
+    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
+    publishedDateTime: 2021-05-14T21:57:00Z
+    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
+    type: article
+    provider:
+      name: theexeterdaily.co.uk
+      domain: theexeterdaily.co.uk
+    quality: 54
+    images:
+      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
+        width: 688
+        height: 400
         isCached: true
   - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."

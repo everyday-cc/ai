@@ -37,6 +37,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "KFintech acquires 17% stake in insurtech startup Artivatic.ai"
+    excerpt: "The partnership with Artivatic will help KFintech venture into the insurtech space as the firm looks to diversify beyond offering registry services to Mutual Funds, Corporate, Pensions among other ass"
+    publishedDateTime: 2021-05-11T14:37:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai-11620743522422.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/05/11/600x338/startup-kElG--621x414@LiveMint_1620743628963.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Kfin Technologies announces investment in InsurTech startup Artivatic.ai"
     excerpt: "KFin Technologies, a General Atlantic-backed and one of India’s largest registrars announced its investment in InsurTech startup, Artivatic.ai. They have bought 17% stake in Artivatic on a path to majority."
     publishedDateTime: 2021-05-11T15:55:00Z

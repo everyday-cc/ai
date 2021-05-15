@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-04-the-maker-of-flippy-is-now-selling-the-software-behind-the-robot.md",
+      "title": "The maker of Flippy is now selling the software behind the robot",
+      "excerpt": "Restaurants can now buy the technology that powers Flippy the automated fry cook—without the robot. Miso Robotics, the maker of Flippy, on Tuesday unveiled a software product called CookRight, which uses artificial intelligence and machine learning to guide kitchen workers at the grill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.restaurantbusinessonline.com/technology/maker-flippy-now-selling-software-behind-robot",
+      "originalUrl": "https://www.restaurantbusinessonline.com/technology/maker-flippy-now-selling-software-behind-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-05/background/400x600/shutterstock_image_1620064252.jpg?CMLT3umtvWXJpXYM9BrsVKmy0Z15aRcs",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot",
+      "cdnAmpWebUrl": "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot",
+      "publishedDateTime": "2021-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Restaurant Business",
+        "domain": "restaurantbusinessonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-5-virtual-physical-therapy-startups-to-watch.md",
+      "title": "5 virtual physical therapy startups to watch",
+      "excerpt": "Digital physical therapy outfits think they can improve outcomes and reduce costs by making it easier for patients to stick to the program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
+      "originalUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_406527128-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.md",
       "title": "Achieving true situational awareness in operation centres with computer vision & AI",
       "excerpt": "This webinar dives into the growing capabilities and use cases for Computer Vision and AI in Operation Centres and beyond. Join industry innovators Userful and Security & Safety Things in this round table discussion on how Computer Vision and AI helps ...",
@@ -222,6 +308,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-drones-automatic-counting-tools-and-artificial-neural-networks-in-wildlife-population-censusing.md",
+      "title": "Drones, automatic counting tools and artificial neural networks in wildlife population censusing",
+      "excerpt": "In 96% of 343 cases, drone counting was successful. 18.8% of non-breeding birds and 3.6% of breeding birds exhibited adverse reactions: in the former, the birds were flushed, whereas the latter attempted to attack the drone.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR320228",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR320228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1005,154 +1125,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
-      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
-      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
-      "title": "IBM to acquire Turbonomic for AIOps",
-      "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
-      "originalUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
-      "publishedDateTime": "2021-05-03T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025.md",
-      "title": "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025",
-      "excerpt": "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

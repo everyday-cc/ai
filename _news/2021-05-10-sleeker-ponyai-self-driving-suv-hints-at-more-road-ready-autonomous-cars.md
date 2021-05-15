@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,19 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Study reveals trust and safety among top priorities for self-driving cars"
-    excerpt: "New study suggests self-driving cars are ready to be accepted in Finland at least – as long as they are safe and secure, according to a new study. Autonomous cars must be safe, secure, and trustworthy if they are to be accepted widely says new study ..."
-    publishedDateTime: 2021-05-10T10:47:00Z
-    webUrl: "https://www.intelligenttransport.com/transport-news/124243/finnish-study-self-driving-cars/"
+  - title: "Toyota-Backed Self-Driving Car Pony.ai Partners With Luminar"
+    excerpt: "Rendering of a robotaxi with Pony.ai?s next generation self-driving technology using Luminar?s Iris lidars, in this undated handout image supplied by Pony.ai. Pony.ai/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
+    publishedDateTime: 2021-05-10T11:04:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-10/toyota-backed-self-driving-car-ponyai-partners-with-luminar"
     type: article
     provider:
-      name: intelligenttransport.com
-      domain: intelligenttransport.com
-    quality: 23
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Toyota-backed self-driving car Pony.ai partners with Luminar"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor (NYSE: TM) Corp, said on Monday its next-generation technology for robotaxis will be using lidars made by Luminar Technologies, Inc. Lidars are laser-based sensors that are a key component to many autonomous vehicle technologies and help them perceive the environment around the cars."
+    publishedDateTime: 2021-05-14T15:51:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/toyotabacked-selfdriving-car-ponyai-partners-with-luminar-2506931"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
     images:
-      - url: "https://www.intelligenttransport.com/wp-content/uploads/self-driving-1.jpg"
-        width: 750
-        height: 450
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA7D094_L.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "2EYEXw6JJO/GglSwwqlWZNJQ0y8ND/c/NJj/CGCbex1JAP5iMGwqDihPQuESpwCrmF3CqhMBdcQpiNtSeaN2Ppy+1O0yB0msn8/FYV2QP8Gr/gBhdryVXTb8dvvLlzzqxwFLV0rdQgZjf7LTNp7EmYrDWq9eU2UkrpIer8NAUm7/kOLEK/hy/rDoFmtbKtTcJJdiFDmrc62e3Q6/OhQpVm/SVQ/Mt1IIpXbtaVHTp0MErGobs4P1PV248el7yjX/g3pYUO6vG5YgBgwxNJq8MKYu474XB1ZoF+qdGzPLGb1voJKl5SzEej6izzg+tqcOKebR1pMpe8ACRSFz1u5B9zN1NzSpph3ea/XT7lBHInkQR3SBIrf6SCRqTl4tDVJzmjsU2RICDUIaEyVM/fx1DgENJCzyRaBbbpVOFDwNW70tSDCgqBCp9h8obrbRfhtC0Afxq36exm4T+lR8o4c9ZD9ABG2By4kdWO9zsK1NrJ3kiAOsAS7jZktBqzf6mLATT+i5ZZ9gGLpncOg8xuiEZQ==;wvjJU23HxOs0XxdeLARpKA=="

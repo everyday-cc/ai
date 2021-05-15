@@ -8,8 +8,8 @@ webUrl: "https://www.sundaypost.com/fp/artificial-intelligence-shape-decade/"
 ampWebUrl: "https://www.sundaypost.com/fp/artificial-intelligence-shape-decade/amp/"
 cdnAmpWebUrl: "https://www-sundaypost-com.cdn.ampproject.org/c/s/www.sundaypost.com/fp/artificial-intelligence-shape-decade/amp/"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Robotics
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://www.sundaypost.com/wp-content/uploads/sites/13/2021/05/ex-machina-movie-artificial-intelligence-robot_38870358-e1620479044945.jpg"

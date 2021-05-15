@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual"
+    publishedDateTime: 2021-05-15T00:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
     publishedDateTime: 2021-05-11T01:54:00Z

@@ -39,22 +39,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Latest Tesla News Contradicts Musk's Claim; Could Be Bad News For Self-Driving Car Fans"
-    excerpt: "Tesla intends to expand its full self-driving beta to more drivers In March, Musk claimed the FSD Beta has expanded to approximately 2,000 owners A memo reveals Musk is \"extrapolating on the rates of improvement\" A Tesla engineer has informed California regulators that the electric vehicle company might not have a fully self-driving vehicle ready for this year."
-    publishedDateTime: 2021-05-10T10:40:00Z
-    webUrl: "https://www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720"
-    ampWebUrl: "https://www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 66
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/22/tesla-is-facing-more-scrutiny-over-its-autopilot-AFP_98K63K.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
     excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
     publishedDateTime: 2021-05-13T10:01:00Z

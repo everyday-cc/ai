@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-hyderabad-invites-applications-free-onli
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Delhi Invites Applications for Six-Month Certificate Online Course on Data Science and Machine Learning"
-    excerpt: "IIT Delhi has invited applications from interested participants for a six-month free online course on data science and machine learning"
-    publishedDateTime: 2021-05-10T09:12:00Z
-    webUrl: "https://www.dqindia.com/iit-delhi-invites-applications-six-month-certificate-online-course-data-science-machine-learning/"
-    ampWebUrl: "https://www.dqindia.com/iit-delhi-invites-applications-six-month-certificate-online-course-data-science-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-delhi-invites-applications-six-month-certificate-online-course-data-science-machine-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 41
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "IIT Madras offers Free Online Course on Artificial Intelligence via NPTEL"
     excerpt: "IIT Madras has organised this three-part course while keeping in mind the growing usage of Artificial Intelligence in every industry."
     publishedDateTime: 2021-05-11T07:18:00Z

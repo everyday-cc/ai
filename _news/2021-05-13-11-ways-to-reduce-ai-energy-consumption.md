@@ -42,20 +42,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "Novel AI driven approach to classify infant motor functions"
-    excerpt: "Increasing interests have been dedicated to develop AI driven approaches to complement the classic Prechtl general movements assessment (GMA). This study proposes a novel machine learning algorithm to detect an age-specific movement pattern,"
-    publishedDateTime: 2021-05-10T10:10:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-89347-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-89347-5/MediaObjects/41598_2021_89347_Fig2_HTML.png"
-        width: 685
-        height: 390
-        isCached: true
 
 secured: "ne8+Sz9Me0iw1FKiS1Cf0zBj1vJ00QWG45tA97kok239jGBXDgYYa3J3HFIgMEcproCYGaR9YWgEDOOkDJbwg/U6oQdZRjFXEVWSUQhN4lvjCXJA6KPOHxQOsa1Zlv0x23Dq8zivAp+eDr9wJDRE1JvHjELy2wzIRVYGdR8X+IlzZmGycKNcd0zDKp4VYEO4DF+/Puk/HQgEl9Zcty3uh5ke0QEdpLduyVCUxw8V1LqBLl1QLyKIEjgdkOX/FDh80dYmBoNVABnxyB0xztduqihkBQ/2c6Oo4glMC6hBhHLNfJRptmJaVyUGsIYoW3EeKrKPaGmK5OaD3ET+3UzlKCiic78Va0t9Wy7jbqlHNokNi6JFl2HWvN7wXH9CP3Y4EdZsEi+12h0ag+HHINkgmVXIhhtQT2VztymahuY7PfxDFC+A+IS4cX3J87egkNZ26Vdp2GYcPJqRzk6/1/nchY60aGM5Yq1E1ZXo4BzKd8A0xOkolfrKGLdqIv12NrPjx8kbHb0yH1aC7qYum0EJZg==;JpbpheYSZ2oyioyjY7qQdg=="
 ---

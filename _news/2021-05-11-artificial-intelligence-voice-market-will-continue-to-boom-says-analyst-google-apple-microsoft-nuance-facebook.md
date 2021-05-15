@@ -100,6 +100,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Best Microsoft Azure certifications for a career in cloud computing"
+    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
+    publishedDateTime: 2021-05-14T21:57:00Z
+    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
+    type: article
+    provider:
+      name: theexeterdaily.co.uk
+      domain: theexeterdaily.co.uk
+    quality: 54
+    images:
+      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
+        width: 688
+        height: 400
+        isCached: true
   - title: "Hyperscience Joins Microsoft for Startups"
     excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
     publishedDateTime: 2021-05-11T13:05:00Z

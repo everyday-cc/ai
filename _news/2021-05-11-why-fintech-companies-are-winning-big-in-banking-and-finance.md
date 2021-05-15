@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-    excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
-    publishedDateTime: 2021-05-10T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Security challenges within the FinTech sector"
     excerpt: "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?"
     publishedDateTime: 2021-05-11T08:30:00Z
@@ -71,38 +57,6 @@ related:
         width: 840
         height: 480
         isCached: true
-  - title: "KFintech acquires 17% stake in insurtech startup Artivatic.ai"
-    excerpt: "The partnership with Artivatic will help KFintech venture into the insurtech space as the firm looks to diversify beyond offering registry services to Mutual Funds, Corporate, Pensions among other ass"
-    publishedDateTime: 2021-05-11T14:37:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai-11620743522422.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/05/11/600x338/startup-kElG--621x414@LiveMint_1620743628963.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "How An MBA In Artificial Intelligence Can Kickstart Your Career In FinTech"
-    excerpt: "Want an MBA in Artificial Intelligence? HKU Business School offers an MBA AI for Business Leaders module, which is helping students start new careers in fintech"
-    publishedDateTime: 2021-05-13T10:35:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
-    ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 57
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1620289993.png"
-        width: 750
-        height: 468
-        isCached: true
   - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
     excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
     publishedDateTime: 2021-05-11T12:17:00Z
@@ -116,22 +70,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
-    excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
-    publishedDateTime: 2021-05-10T13:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 45
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Expend_Expense_Platform-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Eight promising impact startups in fintech, fashion and education"
     excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
@@ -174,6 +112,64 @@ related:
       - url: "https://www.thebusinessdesk.com/_files/images/may_21/ubPn6mmQ-scaled.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Fintech uprising pushes banks toward IT architectural transformation"
+    excerpt: "To meet the challenges of fintech and operational resilience ... to hybrid cloud and public cloud technology, and pre-packaged AI and pre-packaged solutions from an ISV ecosystem, software ..."
+    publishedDateTime: 2021-05-13T19:10:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/fintech-uprising-pushes-banks-toward-it-architectural-transformation-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Duigenan-and-Likhit-Wagle-IBM-Think-20216481.jpg"
+        width: 666
+        height: 375
+        isCached: true
+  - title: "U.S. Fintech Stampli Secures $50 Million Through Series C Investment Round Led By Insight Partners"
+    excerpt: "Stampli, an U.S.-based fintech that is focused on AI-driven AP automation, announced on Wednesday it raised $50 million through its Series C funding round, which was led by Insight Partners with participation from SignalFire and Nextworld Capital."
+    publishedDateTime: 2021-05-12T16:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Stampli_co-Founders_Ofer_Feldman_L_and_Eyal_FeldmanR.jpg"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "NXCR Appoints FinTech and Mobility Executive Martin Prescher as Chief Technology Officer"
+    excerpt: "NXCR, the fintech and insurtech vehicle subscription platform, announced that consumer finance technology and mobility executive, Martin Prescher, has joined the company as Chief Technology Officer."
+    publishedDateTime: 2021-05-11T13:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19798312.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/1507333/Martin_Prescher_Chief_Technology_Officer_NXCR.jpg"
+        width: 267
+        height: 400
+        isCached: true
+  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
+    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
+    publishedDateTime: 2021-05-13T23:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19805913.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "0DrdsoxebW5YivtvGj0fqEaU5adcNXpU5hOTkI4GF/DeeaCfSA/Bdjssc8fFFzvZ+YY7iFnOXKR4Nsa4C8Bd/w7Yq5QIOKGoIDDThvC3/GQtOo/e7ICtVvAPU4u7EJuOTJ67LU5rqSlH8KMeaT4r5mc74tNJznX3qD+pu0e40fAUlIxdZ35kEe1at4JBEFo41TWTTB1Te5zFzNIjX5cSTixYreXUW3kGcv0h39mCueMTFkW+HPVI7aF6yhNxhxF1mPiRqC12SQ6uQfV8JPI6rnrCgNoB1LsWbXJFjo6byf5hYYN10jJB84lyBVEQVJ2jMDJPthXf/QcKOwXfQQ6pwP+gUIUIAeU+Mja9yiyCmkR3/CkYWZWKN/tpvJy2cxWjPWmc3I4Zym4eB5z5rTHy0xLwAT2R57fFu39xQaG9WGvZ/KH1wvV/TIeyVoylvfHuG1yk56QyjM6ksR4Tx+97KFVk6HhpIVjcFHxIkdDO5/joxbdHfpYgi4vsegavwO5ttKX+ieZPY6ynRL7j/SHRkQ==;PHc4tVc/ZT5a02ghEhVmfQ=="

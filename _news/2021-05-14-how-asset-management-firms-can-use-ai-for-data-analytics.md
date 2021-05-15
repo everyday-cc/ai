@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -147,20 +147,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
         width: 1288
         height: 648
-        isCached: true
-  - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
-    excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
-    publishedDateTime: 2021-05-10T10:52:00Z
-    webUrl: "https://nocamels.com/2021/05/pecan-ai-predictive-analytics-series-b/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/pecan.jpg"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
     excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
