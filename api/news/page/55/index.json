@@ -2,6 +2,74 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-03-20-usc-scientists-say-artificial-intelligence-can-compute-formulas-for-successful-vaccines-against-covid-variants.md",
+      "title": "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants",
+      "excerpt": "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
+      "originalUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
+      "publishedDateTime": "2021-03-19T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-fact-sheet-opportunity-hub-announces-new-racial-equity-focused-ecosystem-development-expansion-edge-technology-training-school-acquisition.md",
+      "title": "FACT SHEET: Opportunity Hub Announces New Racial Equity Focused Ecosystem Development Expansion, Edge Technology Training School Acquisition & Startup Entrepreneurship Support ...",
+      "excerpt": "To mark its ongoing commitment and work to scaling racial equity in the fourth industrial revolution and beyond, OHUB announces the following new acqu",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
+      "originalUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report.md",
       "title": "Scotland, UK governments tackle biometrics ethics with new Commissioners, report",
       "excerpt": "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report.",
@@ -835,83 +903,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-conneqt-techforceai-announce-strategic-partnership-to-accelerate-digital-workforce-adoption-within-enterprises.md",
-      "title": "Conneqt & Techforce.ai Announce Strategic Partnership to Accelerate Digital Workforce Adoption Within Enterprises",
-      "excerpt": "This partnership seeks to bring forth expertise in platform-first cognitive process outsourcing offerings ... Techforce.ai has partnerships with Microsoft Azure, Amazon Web Services, Oracle Cloud, Google Cloud, and several other enterprise application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr.com/press-release/832969",
-      "originalUrl": "https://www.pr.com/press-release/832969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR",
-        "domain": "pr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-right-wing-troll-chuck-johnson-claims-he-cofounded-facial-recognition-giant-clearview-ai.md",
-      "title": "Right-Wing 'Troll' Chuck Johnson Claims He Cofounded Facial Recognition Giant Clearview AI",
-      "excerpt": "Well, there seems to be a new accomplishment Johnson can add to his resume of oddities: helping to found sketchy surveillance giant Clearview AI. Per a report from the New York Times, Johnson claims to have contributed to the formation of the notorious security firm—connecting founder Hoan Ton-That to key principals like tech billionaire and funder Peter Thiel and entrepreneur Richard Schwartz (who would go on to become a co-founder of the company).",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
-      "originalUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
-      "publishedDateTime": "2021-03-18T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

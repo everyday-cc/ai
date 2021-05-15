@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/business-and-practice/four-firms-gui
 webUrl: "https://news.bloomberglaw.com/business-and-practice/four-firms-guide-spac-for-self-driving-truck-startup-plus"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
-    excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
-    publishedDateTime: 2021-05-11T01:32:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal-41620648675322.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 42
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/10/600x338/Plus_truck_1620648920898_1620648928108.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Scooter startup Bird to go public through merger with SPAC"
     excerpt: "Bird Rides Inc. will go public by merging with a blank-check company, securing a new source of capital after venture capitalists largely lost interest in money-losing scooter rental startups. A special purpose acquisition company called Switchback II Corp."
     publishedDateTime: 2021-05-13T15:31:00Z

@@ -728,6 +728,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-06-rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling-precise-navigation-in-key-procedures.md",
+      "title": "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures",
+      "excerpt": "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool’s fully automated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/d7/cd7a7506-6103-5b10-b542-d002191ea550/6093ec853bf87.image.jpg?resize=702%2C630",
+          "width": 702,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
       "title": "Facial Recognition as a Legislative Issue",
       "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
@@ -1413,58 +1456,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter.md",
-      "title": "From Coral Reefs To Assembly Lines, Computer Vision Gives New View On How To Work Smarter",
-      "excerpt": "Once a thing of science fiction, the vast uses for computer vision technology are now clear. Advancements in artificial intelligence (AI) over the past 10 years have helped scientists develop computer vision technology – an AI application that allows computers to “see” their surroundings and make these visual inputs actionable with 99% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608ace495cdafc942f2b2c8a%2F0x0.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
-      "publishedDateTime": "2021-04-30T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -157,6 +157,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Ping An Reports Successfully Completing Initial Close of $200M Fintech and Healthtech Venture Fund"
+    excerpt: "Ping An reports successfully completing initial close of $200M Fintech and Healthtech Venture Fund. The company aims to raise $475M in total."
+    publishedDateTime: 2021-05-15T19:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Yuan-Renminbi-China-300x290.jpg"
+        width: 300
+        height: 290
+        isCached: true
   - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
     excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
     publishedDateTime: 2021-05-13T23:16:00Z

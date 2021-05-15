@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
-    excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
-    publishedDateTime: 2021-05-11T01:32:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal-41620648675322.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 42
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/10/600x338/Plus_truck_1620648920898_1620648928108.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Four Firms Guide SPAC for Self-Driving Truck Startup Plus"
     excerpt: "Kirkland & Ellis and U.K. firm Linklaters are advising self-driving truck startup Plus on its go-public merger with special purpose acquisition company Hennessy Capital Investment Corp. V."
     publishedDateTime: 2021-05-12T10:55:00Z

@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "An Air Force artificial intelligence program flew a drone fighter for hours"
-    excerpt: "Skyborg is an artificial intelligence system designed to pilot fighter-jet-style drones that can act as robotic wingmen in the sky."
-    publishedDateTime: 2021-05-14T19:14:00Z
-    webUrl: "https://www.popsci.com/technology/air-force-skyborg-drone-flight/"
+  - title: "12 Use Cases of AI and Machine Learning In Finance"
+    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
+    publishedDateTime: 2021-05-15T18:51:00Z
+    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 52
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 71
     images:
-      - url: "https://www.popsci.com/app/uploads/2021/05/14/210429-F-ZU869-0002.jpeg"
-        width: 800
+      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
+        width: 450
         height: 450
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning trends to watch in 2021"
+    excerpt: "Machine learning and artificial intelligence were hot topics in 2020. These technologies have successfully found their way in every industry, including quantum computing system end medical diagnostic systems to personal assistance and customer electronics."
+    publishedDateTime: 2021-05-11T11:30:00Z
+    webUrl: "https://www.codementor.io/@codersdev/artificial-intelligence-and-machine-learning-trends-to-watch-in-2021-1hsj88nzwu"
+    type: article
+    provider:
+      name: Codementor
+      domain: codementor.io
+    quality: 54
+    images:
+      - url: "https://ucarecdn.com/e3ccc6a2-dee5-43d4-890f-67806966a53b/"
+        width: 602
+        height: 301
         isCached: true
 
 secured: "gmSV98XJwFmCZfiR/GWhh6YwQAd9Iy9kNw1s2T7WgMOheAqGfXc2ebKFIQ+WWM/PXBOFmkJUCC63zYqNq9Hpgs6uVh9sFaay128OrOf+ua9e4zh9Ny+Ph7EfA/lC7MjKiP+tsdXLC9mUNzLFIDFwrQvCr27wPxg69JMgWFwfcGsL/4uSClUHIZMfoElaCdzbR5BRDUoi6QMHh1EvYobU2c46E4CdKhkoaoN6d8TGePWq6IHyOWj5OfGDm0tvPpxKHBXQXjJVbuTeU5YCbmEkZwYP0WmDtfXc214JVNuSEREN4JotXzzy1Cwke/KMwqG1VyZNfNq0TIVd/rJ2yxtjs35/2z6FE7geQbiNoVuOuxM=;r1nNc4RWF6s2qxnP3DyoMA=="

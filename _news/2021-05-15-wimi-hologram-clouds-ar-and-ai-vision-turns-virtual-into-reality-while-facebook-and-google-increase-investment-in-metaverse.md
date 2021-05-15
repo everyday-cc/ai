@@ -32,7 +32,7 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 11
+    quality: 13
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937351"
         width: 375
@@ -40,15 +40,15 @@ related:
         isCached: true
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
-    publishedDateTime: 2021-05-11T01:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wimi-hologram-cloud-leads-high-simulation-5g-and-ai-naked-eye-vision-while-the-holographic-conference-unveiled-at-shanghai-auto-show"
+    publishedDateTime: 2021-05-14T19:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/5061583"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 10
+    quality: 8
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/03/fb_image-1097-600x337.jpeg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/NewYork-Police-1600-600x337.jpeg"
         width: 600
         height: 337
         isCached: true

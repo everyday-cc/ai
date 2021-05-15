@@ -1,0 +1,23 @@
+---
+category: news
+title: "Feds deploy facial recognition software at Charlotte airport | Charlotte Observer"
+excerpt: "Facial biometrics spots hundreds of imposters at American ports of entry, US Customs and Border Protection says."
+publishedDateTime: 2021-05-15T18:48:00Z
+originalUrl: "https://www.charlotteobserver.com/news/local/article251429493.html"
+webUrl: "https://www.charlotteobserver.com/news/local/article251429493.html"
+type: article
+quality: 29
+heat: 29
+published: false
+
+provider:
+  name: Charlotte Observer
+  domain: charlotteobserver.com
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "ugM/zRQvwHGVNyusoFjaRCRPOTmYibehgJoS/To/LmX3J2jStcauMn/hGhI1PuJ5+rVyaCemEX9Bb1+S6gqebG7ApLsiymxyN3y6C0RuiYb0VUryf/8iOvAGPXzITVlqExS9o3NgSmXVraElBwoDKgYDBz+www90a5a+8GwiLyPjpfYNEO9fMf0V5p9Q95B+bEnTh73iQWYJt8zQmWHjW/FnqjqXMTxoY+FE02q73Ox5eBeLEIomSrMNZYBWqVoM0BEKddJaxL+bg9QYwUFhlLbqgTcBm/S0bufCiVI+ACuhqhx/taDKx1jbFkRnj8bPfVdWv1BZfkTGEy/T+U/M1RjH4yV1prnYOKEkt1ZCi2pAHR8XjdsjALgd96xupeGP41i3DZwC2dn6ZsYsa/wEoHyIB2RK5PpIgVp51cRLfNoWYZbiO6QS4DMLnMLzfjo+vbAfiJZ8fOxJFAwEQZDHEciRNYYwpQ+re88q0lgGVxnpAggfykhje9AofFhYXS2rsP/gq27WtXc0rZobCK9HnQ==;xOerJgFi6/IQtrVFDvyo2w=="
+---
+

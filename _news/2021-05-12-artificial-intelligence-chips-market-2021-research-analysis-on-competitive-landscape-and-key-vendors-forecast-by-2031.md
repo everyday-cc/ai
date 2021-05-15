@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
-    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
-    publishedDateTime: 2021-05-11T01:20:00Z
-    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
-    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 46
-    images:
-      - url: "https://www.reportsgo.com/img/img-6.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
     publishedDateTime: 2021-05-13T10:26:00Z

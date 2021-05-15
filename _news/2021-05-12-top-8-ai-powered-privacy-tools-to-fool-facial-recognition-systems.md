@@ -42,21 +42,16 @@ related:
         height: 1080
         isCached: true
   - title: "This facial recognition website can turn anyone into a cop — or a stalker"
-    excerpt: "While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web."
-    publishedDateTime: 2021-05-14T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
+    excerpt: "While most facial recognition tools are reserved for police or government use, powerful PimEyes is open to all, whether they're hunting crime suspects or stalking women on the web. Researchers fear there’s no way to prevent it from being abused."
+    publishedDateTime: 2021-05-14T16:31:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 58
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 954
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 38
 
 secured: "ROSE+Gm8DdpnM3fcbfn8HqOt7ciFe4SNpyIFQvNkbdP3NXAHXL+qr+p0MPoyChp+4Srvki5h+hglIqr51O/VBxbVtBgRCPSmoApkcdmwZ/FK7METV8t3TSO+ANJRGHAT8Kds7AJ1lYHz9H7rXBKDRjCzFuMZCnbJbzO0b0rKXXCPvpFnouxvpC+KHAlaWkfsTHr2CoMwM3iXdTyD1cuZeKE5n4xETxAUfC+j6WRmnN0iBOcY0KY0uOT0ow+/qMSZBfPb6pTDLjMYB06mmoaS9WMTj2EXukRHajMroc01a3xQjm9K3O91u7mkW5hnxN4XPYG5HElUyWH0nlPi/fFHNlPBaYKffhaSAYeJXU9XGvp3O0fU/8YcNT175vwwIJTAaorOW02DuWs2rLKdj4/cgc8AmJhUL4eDHfJnh99A6BUXwRGNBT0j0hTulQifBYjmt5K3H+9wrnLuXnvFpqSslduU4rwBc2XNm5/p6a9vlywLoTBvDzsrsvQrEfZLZOVZQmVupt+CiMqkKsRIuwmHuQ==;pbwOuPcw0EM6faiKZxla5A=="
 ---

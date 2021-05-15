@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-16-12-use-cases-of-ai-and-machine-learning-in-finance.md",
+      "title": "12 Use Cases of AI and Machine Learning In Finance",
+      "excerpt": "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
+      "originalUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/22893443_s.jpg",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-when-will-love-death-robots-season-2-be-released-on-netflix-cast-trailer-and-plot.md",
       "title": "When will Love, Death + Robots season 2 be released on Netflix? Cast, trailer, and plot",
       "excerpt": "THE first season of Love, Death + Robots was released last year and consisted of 18 standalone episodes. The episodes were produced by different casts and crews and all link to at least one of the",
@@ -156,7 +200,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1151,7 +1195,7 @@
       "originalUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1192,50 +1236,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc.md",
-      "title": "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC",
-      "excerpt": "Today Anchore, a company focused on security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA’s NGC catalog.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/",
-      "originalUrl": "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/03/IHPC-Panasas_Storage2020-03-12_16-36-00.jpg",
-          "width": 273,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

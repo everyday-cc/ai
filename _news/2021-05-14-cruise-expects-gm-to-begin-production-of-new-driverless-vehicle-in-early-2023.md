@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-dr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html"
 type: article
 quality: 186
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1000
         height: 589
         isCached: true
-  - title: "Am I wrong to hate drones and driverless cars?"
-    excerpt: "An enterprising start-up in the Irish town of Oranmore, whose two drones deliver shopping to residents, has raised 18 million to expand this service into the suburban towns of Britain by the end of the year."
-    publishedDateTime: 2021-05-11T01:23:00Z
-    webUrl: "https://www.theaustralian.com.au/life/gadgets/am-i-wrong-to-hate-drones-and-driverless-cars/news-story/1a7192003fe29545ceac2021bf0400c9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "wFuSLn+QqLkpWbZ+jac0qOdByEgXwJvv96XLXhE1pyca7QAqtf+IubgqYpbwpD/VSTGwdeYmk2CRlyoqNVGPriN2shGrLa6W4wbQWAnsoij1+EQGNzAj6vXSFU8XJt3fRhFIEBqDwZ1dKwwba+q4+cGNbcjJ/C0jGKfl/YUM7wEs5qDnGBKqO0wF2EAvtb3zZ/rvvi9ZVgLtnMG15QZ7413iaXll8mpaJJZCxebKaPwVY2mAMSgkh1p/Tlvl1N7nFokkxNncq+FDL96gBCgV2PuP8cKBmPvOAazpJ9TF4QZq6m7nherXzNUjUxWtFPPRlEe3oNc/Hyr7d/mtBZkrYNRVSyUHU6PfefTs4uwFyRhHqcQp22zv81h6ZH+ogtvonQ3Q4BGMdUQj1yrjfXENFy5h060cF/L0T0paQFTObYSe9f2S5iiJYqGxDWoFKdVWz183W7JndGeegKH/sEiEcIn6xQ84VB+jajG0vz5+1pfl/5gNRFaySeiJGMkHUlFBsWpx5q/n8gXCj0zA5uXVbY/z2wid2HRmaXvcPpE3bhw=;1wpw5tMtzgQLeSLuKddvAA=="
 ---

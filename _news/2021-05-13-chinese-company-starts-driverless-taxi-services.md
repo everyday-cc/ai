@@ -43,15 +43,6 @@ related:
         width: 810
         height: 421
         isCached: true
-  - title: "Am I wrong to hate drones and driverless cars?"
-    excerpt: "An enterprising start-up in the Irish town of Oranmore, whose two drones deliver shopping to residents, has raised 18 million to expand this service into the suburban towns of Britain by the end of the year."
-    publishedDateTime: 2021-05-11T01:23:00Z
-    webUrl: "https://www.theaustralian.com.au/life/gadgets/am-i-wrong-to-hate-drones-and-driverless-cars/news-story/1a7192003fe29545ceac2021bf0400c9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "Jjpw8Y/krIlR+VrbVX+cFuddSnNneh/FmK7zI3dV+EzdaydS0e7o7Ut+RbaMIROtu/kNWoU1U0IQ9kk+/OzKb3ChQtSK7RVvpso3OQcxM4sEvOlevr9fZFMiyqeeKx+Jg9E0EQW8uT5syGLRgx8X79FqYowg2fuUj6Za1mQzbkQp3weFbCkd8/qtRtPlOBp/SdftkqYhvQ45LxAJSQ2HQ2u0gMKaCcrvpjuNWXTCE9V4IU9DdlKWCXdcBz/RTOkwoXzqaktrl6CagZ3SJXIlhuq1kXTke+CRJCmYNVp3ysIIoKQx0CFIZAyl3hnC3HZY7R2UPOa0ozmdaGebPXY3OStFJmXffQqjgboHa8EJ1aG4WE2kMYSjndPVubTXvP1AZUWZw4vW2hl7GELp/7CRRJTeBrArDyKZuqj3MrHwMTCWiGSWOIxaSNbnigAEMCX+3l0mjs8Tvht7ULzs1h2M35ZfXFwiYEtVEyzLtgBWf9tvzEqJyudRpcDceU7XEAhiv8FBwd2nsfa4hsHOkRQC7A==;o2btQOkADGuQCJ1Q/29fdw=="
 ---

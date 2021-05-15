@@ -37,22 +37,6 @@ related:
         width: 572
         height: 341
         isCached: true
-  - title: "Travel and Hospitality AI Market Size Estimated to Surpass $1.2 Billion Mark by 2026"
-    excerpt: "Travel and Hospitality AI Market” Facial Recognition Regulating Travel Facilities Driving the Growth of Travel& Hospitality AI Market. The Travel"
-    publishedDateTime: 2021-05-11T01:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21050616/travel-and-hospitality-ai-market-size-estimated-to-surpass-1-2-billion-mark-by-2026"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21050616"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21050616"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.abnewswire.com/uploads/1620653687.jpeg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "ZTKloq9mWh5uX2s+82k32La3mytFfkj8s1Amb3z4cIwTqDCJAdPoTW56Q+qlmtQTdp6s6iE/M/Vw9Rz8BjFpH4OGYaHbnl6XDVbZL9ChjSH1lpBLEKDTlKFgQFMYmxSBqjCnl4TfP6tbscx/qoJAmJ4MkcRujG1VD+8tY3c72Sh9O0/N4eafImjVnfwkKAKvzCR+Ir2Xal2x3SRVtLcAbR+eZ5ErdtP8OdNV4dxivoB+GXCOyIMqwarhqD5SAA71BAp4/p/daLNxA2adv+2n546qXW1zv0tTD2rpYJdDDrxX8jxC/szu4p4u7rvdrWO0r9qyxNEwV7IUY+cUvqefsSNPmbWlghlvgd3Nc10HUyo=;rzS7HtKAo2EYjHQqpt88IQ=="
 ---

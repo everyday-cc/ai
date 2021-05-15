@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
+      "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
+      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "originalUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
       "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
       "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
@@ -136,6 +179,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling-precise-navigation-in-key-procedures.md",
+      "title": "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures",
+      "excerpt": "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool’s fully automated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/d7/cd7a7506-6103-5b10-b542-d002191ea550/6093ec853bf87.image.jpg?resize=702%2C630",
+          "width": 702,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1050,101 +1136,6 @@
       "provider": {
         "name": "The Star",
         "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-game-theory-as-an-engine-for-large-scale-data-analysis.md",
-      "title": "Game theory as an engine for large-scale data analysis",
-      "excerpt": "Our research explored a new approach to an old problem: we reformulated principal component analysis (PCA), a type of eigenvalue problem, as a competitive multi-agent game we call EigenGame.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/EigenGame",
-      "originalUrl": "https://deepmind.com/blog/article/EigenGame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/x0n-XgP9SXm7u8sX8nGUdYiTOed0uC72J5kxxVkKzmfAtiA6xyI54lZqXlGPAS-jAmW92ayKxJ57NGCyzUOJrm0ErYN0KRolrwe_AlbKSIXkrTXVtg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-the-dangers-of-driverless-cars.md",
-      "title": "The Dangers of Driverless Cars",
-      "excerpt": "The concept of driverless cars is here to stay. America is competing in a global race to make driverless cars the norm, and as predicted, nearly all major car manufactures currently offer vehicle",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/dangers-driverless-cars",
-      "originalUrl": "https://www.natlawreview.com/article/dangers-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/dangers-driverless-cars?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/dangers-driverless-cars?amp",
-      "publishedDateTime": "2021-05-05T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
         "images": null,
         "publishers": null,
         "authors": null

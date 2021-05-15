@@ -7,7 +7,7 @@ originalUrl: "https://www.mortgagestrategy.co.uk/news/one-mortgage-system-signs-
 webUrl: "https://www.mortgagestrategy.co.uk/news/one-mortgage-system-signs-facial-recognition-deal-with-nivo/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OMS partners with Nivo to offer facial recognition"
-    excerpt: "One Mortgage System (OMS) has partnered with Nivo, a mobile messaging platform to offer facial recognition ID verification."
-    publishedDateTime: 2021-05-11T03:00:00Z
-    webUrl: "https://www.mortgageintroducer.com/oms-partners-nivo-facial-recognition/"
-    type: article
-    provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 39
-    images:
-      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2020/06/shutterstock_395378116.jpg"
-        width: 616
-        height: 370
-        isCached: true
   - title: "Facial Recognition Phone Market including top key players Vivo, Apple, HTC"
     excerpt: "Los Angeles, United State, – including Q4 analysis The report named, Global Facial Recognition Phone Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Facial Recognition Phone in view of numerous aspects such as growth factors,"
     publishedDateTime: 2021-05-15T09:39:00Z

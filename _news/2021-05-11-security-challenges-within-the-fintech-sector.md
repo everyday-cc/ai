@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/security-challenges-within-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
 type: article
 quality: 61
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Stampli_co-Founders_Ofer_Feldman_L_and_Eyal_FeldmanR.jpg"
         width: 480
         height: 320
+        isCached: true
+  - title: "Ping An Reports Successfully Completing Initial Close of $200M Fintech and Healthtech Venture Fund"
+    excerpt: "Ping An reports successfully completing initial close of $200M Fintech and Healthtech Venture Fund. The company aims to raise $475M in total."
+    publishedDateTime: 2021-05-15T19:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Yuan-Renminbi-China-300x290.jpg"
+        width: 300
+        height: 290
         isCached: true
   - title: "NXCR Appoints FinTech and Mobility Executive Martin Prescher as Chief Technology Officer"
     excerpt: "NXCR, the fintech and insurtech vehicle subscription platform, announced that consumer finance technology and mobility executive, Martin Prescher, has joined the company as Chief Technology Officer."

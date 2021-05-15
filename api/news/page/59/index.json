@@ -2,6 +2,82 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-03-17-ai-model-optimization-startup-octoml-raises-28m-series-b-round.md",
+      "title": "AI model optimization startup OctoML raises $28M Series B round",
+      "excerpt": "Machine learning acceleration startup OctoML Inc. has secured yet more ... It works by fine-tuning AI models to run on specific chip architectures, and supports all manner of standard chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/",
+      "originalUrl": "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities.md",
+      "title": "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities",
+      "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-natural-language-processing-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities.md",
       "title": "Natural Language Processing Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
@@ -844,74 +920,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-speak-freely-to-your-customers-this-translator-has-your-back.md",
-      "title": "Speak freely to your customers, this translator has your back",
-      "excerpt": "Vitra.ai’s platform can translate content to 50 different languages within minutes and at fraction of the regular cost Anyone with a social-media presence wonders ‘how many people did my content reach?’ Social media teams are scratching their heads ...",
-      "sourceUrl": null,
-      "webUrl": "https://outlookbusiness.com/enterprise/big-idea/speak-freely-to-your-customers-this-translator-has-your-back-6211",
-      "originalUrl": "https://outlookbusiness.com/enterprise/big-idea/speak-freely-to-your-customers-this-translator-has-your-back-6211",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlook Business",
-        "domain": "outlookbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort.md",
-      "title": "ImageNet database blurs images used for facial recognition training in privacy effort",
-      "excerpt": "The team behind ImageNet announced it has blurred the faces in its 1.5 million-image database, which has been used to train many facial recognition algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202103/imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort",
-      "originalUrl": "https://www.biometricupdate.com/202103/imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

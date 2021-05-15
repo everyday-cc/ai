@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
-    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
-    publishedDateTime: 2021-05-11T01:20:00Z
-    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
-    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 46
-    images:
-      - url: "https://www.reportsgo.com/img/img-6.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Chips Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2031"
     excerpt: "The latest research report provides a complete assessment of the Global Artificial Intelligence Chips market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
     publishedDateTime: 2021-05-12T02:04:00Z

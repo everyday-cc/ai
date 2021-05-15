@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-13-aav-elevates-gene-therapy-to-new-horizons.md",
+      "title": "AAV Elevates Gene Therapy to New Horizons",
+      "excerpt": "In this new GEN eBook sponsored by Thermo Fisher Scientific, we will explore various aspects of AAV bioproduction—looking at the challenges that many investigators face, and some of the novel solutions others have employed when ramping up viral production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
+      "originalUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_597972138_AdenoAssociatedViruses-scaled-e1615387965878.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
+      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
+      "publishedDateTime": "2021-03-12T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-applications-of-artificial-intelligence-in-cardiovascular-imaging.md",
       "title": "Applications of artificial intelligence in cardiovascular imaging",
       "excerpt": "In this Review, Sermesant and colleagues discuss the applications of artificial intelligence (AI) in cardiovascular imaging and explain how pre-existing clinical knowledge can be included in AI methods to increase robustness.",

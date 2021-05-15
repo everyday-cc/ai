@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2283574/artificial-intelligence-ai-market
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Travel and Hospitality AI Market Size Estimated to Surpass $1.2 Billion Mark by 2026"
-    excerpt: "Travel and Hospitality AI Market” Facial Recognition Regulating Travel Facilities Driving the Growth of Travel& Hospitality AI Market. The Travel"
-    publishedDateTime: 2021-05-11T01:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21050616/travel-and-hospitality-ai-market-size-estimated-to-surpass-1-2-billion-mark-by-2026"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21050616"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21050616"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.abnewswire.com/uploads/1620653687.jpeg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "New Research Report On Artificial Intelligence (AI) in Healthcare Market Is Growing In Huge Demand In 2020-2027"
     excerpt: "The Global Artificial Intelligence AI in Healthcare Market analyzes growth and gives a clear impression on the international market regarding improvement and modernization It includes Artificial Intelligence AI in Healthcare Market development history competitive analysis and key shareholding regions The"
     publishedDateTime: 2021-05-12T12:00:00Z

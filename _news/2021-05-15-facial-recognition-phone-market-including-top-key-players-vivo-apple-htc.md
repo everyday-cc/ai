@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OMS partners with Nivo to offer facial recognition"
-    excerpt: "One Mortgage System (OMS) has partnered with Nivo, a mobile messaging platform to offer facial recognition ID verification."
-    publishedDateTime: 2021-05-11T03:00:00Z
-    webUrl: "https://www.mortgageintroducer.com/oms-partners-nivo-facial-recognition/"
-    type: article
-    provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 39
-    images:
-      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2020/06/shutterstock_395378116.jpg"
-        width: 616
-        height: 370
-        isCached: true
   - title: "One Mortgage System signs facial recognition deal with Nivo"
     excerpt: "Platform One Mortgage System has partnered with tech firm Nivo to offer facial recognition verification. The Horsham-based platform says the new system helps navigate the previous requirement for certified ID,"
     publishedDateTime: 2021-05-11T14:21:00Z

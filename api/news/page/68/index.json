@@ -2,6 +2,83 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
+      "excerpt": "(Bloomberg) --The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/business/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.bloombergquint.com/business/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes.md",
+      "title": "Waymo says their autonomous-car AI would avoid fatal human crashes",
+      "excerpt": "Alphabet’s self-driving car unit Waymo is claiming that its artificial intelligence could have avoided or mitigated the majority of a set of fatal accidents. In a white paper published Monday ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T16:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
       "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
       "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals.",
@@ -1042,83 +1119,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-ai-projects-yield-little-business-value-so-far.md",
-      "title": "AI projects yield little business value so far",
-      "excerpt": "Although growing numbers of organisations are working with artificial intelligence (AI) software in some shape or form, very few are generating significant financial benefits when rolling it out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
-      "originalUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
-      "publishedDateTime": "2021-03-04T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-azure-arc-enabled-machine-learning-is-now-in-preview.md",
-      "title": "Azure Arc-Enabled Machine Learning Is Now in Preview",
-      "excerpt": "Azure Arc is Microsoft's offering for allowing customers to bring Azure services and management to any infrastructure, including AWS and Google Cloud. This year, during the virtual Ignite conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
-      "originalUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/en/headerimage/header-1614789645289.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
