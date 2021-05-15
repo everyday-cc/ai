@@ -220,6 +220,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI in Financial Asset Management Market Detailed Analytical Overview by 2026"
+    excerpt: "In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue. Several fintech companies and banks are rapidly deploying voice assistants and chatbots to manage customer interactions and resolve issues (queries) with minimal human involvement."
+    publishedDateTime: 2021-05-14T23:01:00Z
+    webUrl: "https://www.pr-inside.com/ai-in-financial-asset-management-market-detailed-analytical-overview-by-r4829989.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 16
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
     publishedDateTime: 2021-05-11T21:41:00Z
@@ -235,6 +244,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Jv6c8BwY6PhG8ssEeVa85m6uB7Aqbvw6svOakwOvDecGaEkxk7cEH6VovfuGC0iqUqOxAa8t1sRXIWFAmqUsE3HVU2QDIbx9PnLBhUVOh9lFvbnW6oy9CbU82Dpm48ca8Jk3bzyAy6sDIBnYxnvgKGO4j2Czq0fNbAlVhLpkCp7sUJ99IeM/iw2dCowYHfL5EwdXlUaPf0UimvULgcJ/EQD/CPz6IPsy7Y4HISLSFwvBhCTSkupPGSln9x5g3Hs4hei093hCTIvHg60m3OEVnZECx7RKf/6noFsyckO5/A0LRUKiAVOO2dITWzdSkUNk+Gu4uoZW3wgXKpw1sEVg0obSgmhD98jo8KR+QZlJjy4=;qKFQAChNW4u5jNrD1KD/9w=="
+secured: "JemLkzB1GnqwOV3r+8H9KKgwIiPR6WhL8GZBneQ7W/1v1G5eaDMEzxdw6eNyBUYXQ4X6X7qfGNVOrgzrhnMJ3+QAfiF/Lg+N4ZgWLdeGdJk6xFw7gSNFaz0LeNZQom2xXeJCrccTLQgYRpjDXugaHKrRLV7zmHhkIedC0eWo/xS/3OhDIWXTcpJrGn7xYFJSECBhzzlj7pGJJIJQcoERpO6knQBAcmX4s5Z5MdqqF1ZG8bPfQDWLkVG9+JPKNJ1qi1CmiqPaXTholwK2hwquGHW79SWNpFITA7KNmPMsUnYn1eVsusGKT2wUFpyvU+q5pRY+5NrgT4O1d6fQpzZkdipJ298Mb4rs/gjuMOx7pb7XdkoHEtf77M0OWXYGm1C+rxnO+kIUNwHc0j6PqJzGry/x2HYC/B45RLZnH11yijUoXKvZZ6xYBkCvjB5MAxEIkopHcPlYfMfkMIKekNwbD9kuoURip28+Q1a6RAokCSPL1TRsMKqL/wWtYRcvKz0mkzAotXRkSuXir0fA1SguRg==;d0vm09rp83rh1BvHtHxEUA=="
 ---
 

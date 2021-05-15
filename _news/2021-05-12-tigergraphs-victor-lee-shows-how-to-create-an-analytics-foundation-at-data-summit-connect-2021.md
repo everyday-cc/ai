@@ -231,6 +231,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI in Financial Asset Management Market Detailed Analytical Overview by 2026"
+    excerpt: "In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue. Several fintech companies and banks are rapidly deploying voice assistants and chatbots to manage customer interactions and resolve issues (queries) with minimal human involvement."
+    publishedDateTime: 2021-05-14T23:01:00Z
+    webUrl: "https://www.pr-inside.com/ai-in-financial-asset-management-market-detailed-analytical-overview-by-r4829989.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 16
 
 secured: "FxJlWJG6ywpKhLbGIoQhO+6HVpnCxrDHm7C+KE1T72ZNomKEEzjJYoqBNq8hldhO/ea1044wkOnTKFySN0Y6pRxXl0brZnTX/F1eimbO1pD9GHfKkKsmhz8CYk729iJwmSwENdM1u1fOWdU0YVOhYOlyJRuwBcCWvBzyG5ShJ4rxPFubdLT4aBSzhYl10nUMN+TS9fl3t6lu7bliU6oYWDizr+m15AcmvH1/RraY0l2HTA34c8lnOiTepIIOcniEz1Dr0Voj1vCAkNVgTmdzuoGL3kEdNVMKJkHN1TY8Sgl53QnfTWGdhpygzlSSxj47DWhQD3PTXDDumg5btwrHZF0BNax40bwSgZEkG+Rf3pQ=;ddDWy6HsQZDT5vgaI5Ul0A=="
 ---

@@ -220,6 +220,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI in Financial Asset Management Market Detailed Analytical Overview by 2026"
+    excerpt: "In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue. Several fintech companies and banks are rapidly deploying voice assistants and chatbots to manage customer interactions and resolve issues (queries) with minimal human involvement."
+    publishedDateTime: 2021-05-14T23:01:00Z
+    webUrl: "https://www.pr-inside.com/ai-in-financial-asset-management-market-detailed-analytical-overview-by-r4829989.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 16
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
     publishedDateTime: 2021-05-11T21:41:00Z

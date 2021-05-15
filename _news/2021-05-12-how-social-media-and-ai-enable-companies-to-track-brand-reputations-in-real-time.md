@@ -43,20 +43,6 @@ related:
         width: 777
         height: 421
         isCached: true
-  - title: "DARPA eyes artificial intelligence (AI) to embedded computing in high-end video processing at the edge"
-    excerpt: "IP2 seeks the accuracy of deep neural networks in power-constrained sensing at the edge by developing AI algorithms matched to in-pixel mesh processing."
-    publishedDateTime: 2021-05-10T07:31:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14202893/artificial-intelligence-ai-video-processing-embedded-computing"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 38
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/16x9/image_analysis_10_May_2021.60957eac67890.png?auto=format&fit=max&w=1200"
-        width: 549
-        height: 309
-        isCached: true
 
 secured: "4uDzPGwSS/fAN0qgykqgQZkuYkzcKumTiqDhqNUL53HFnugbYUexo1gDHxTmCGooPAU6Ha5TT9ughJAarrJW9augqtiVppxyCnTFH2YP2oTOMQMWBqwEbtkp/6rMiku22wAsfdozMpxRfbAUOr0z9gEiQIFxTKgEPiOGXeOobiEbGSxO6LT5M/XVyXJTdqnbug/6ACS8BfUMkjRk1YhyW2/b9H/4YfL5TFnMk5w5g6q8YHWO9bjKOGV6PRU/o4od8QeBnYUTrzfGuYbah+NsvV1YGLwoPQmvI+yvgbdXEquRhZKDIyyunvUBRlUaQf3SAtK8HPuI9RQWcDYhrj83uCtQj8Yyks+3xg1OeqSOAXMtQ0owyUpMWYyKs/GNomY4V8wlRqT7aA+BeGeU0of5hXsh+/3eEsOu0ysXRwR80lPkdEZRLPmgZPqsk6qWW4tTbKP5ikutjfeeXPMX4zBw8rmutySWdDXX/DBqnA7FHbZzsjlAl/muwiwp/G2+6b9RHG1M9CBikX64SMIunN1+EA==;wEBCrJouv4xdNgxDsLYa8g=="
 ---
