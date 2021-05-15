@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-14T18:55:00Z
 originalUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
 webUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png"

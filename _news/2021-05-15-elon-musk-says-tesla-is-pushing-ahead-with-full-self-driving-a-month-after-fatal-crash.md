@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
-excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
-publishedDateTime: 2021-05-14T17:42:00Z
-originalUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
-webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
+excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions."
+publishedDateTime: 2021-05-15T07:45:00Z
+originalUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/"
+webUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/"
+ampWebUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
+cdnAmpWebUrl: "https://citizentv-co-ke.cdn.ampproject.org/c/s/citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: WISHTV8
-  domain: wishtv.com
+  name: citizentv.co.ke
+  domain: citizentv.co.ke
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
-    width: 2000
-    height: 1125
+  - url: "https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Musk.png"
+    width: 736
+    height: 556
     isCached: true
 
 related:
@@ -131,6 +133,6 @@ related:
         height: 462
         isCached: true
 
-secured: "LGyssIkCJNyMyBFCCdmaXhkwypCX8flXwTOp80ICgksobF5YxOD2WUN4xeGu+B9RUKsDPrH1edIIbPexooRW50U78ScFhql+IP4RR4h6d3n7TpUIQ2YFDc4aVJI24YVKn1kRBe7b5N0cX55uAnVNVMuvMTNKAxlM8b1rw91UGDYoj+qMZRDS/WqAZ+e0C/rm/Lx/yAdxwn34zvvfkYJhT80UzadcsNW81LiSsQp+m1LrRoiO7oqhQLnNcv5jA9P7maRmnrjhOjyWfAorffJcmkB0uEjnLM6chMAxCpyzQNg7NzoXwza+BdhFJab9e/wOUgeH3xuy1KMj8jvd4hwBuGjBvJzQX8bb2+qRj9O14NU=;ohqpmiXkzte/x5zXR4YoRg=="
+secured: "wCc48jvcnXyajrs/HQqNp8IsucTUWkCKKR+XQ1N2EmGOAWRSWwlV2aD/STFRzRgBD+2Mn7MiGfL5D/m2aoKnrJ6sG83FS2A1b8J3doAeY/8BSoWses9WD8R1D3eMkAhBkmnpfFa7LmlxbIC9/DV+joMGD46hvSv3K4ap6Fo8xkRN8lKN7jPQ8FWKin2+2RnOWmyU71i9S5AHljTjdRlFHEMaTjEbPDIfUeRtlomsTmYypNimfm4Yfqh1+MWMDcita3S8Hwn4XNaYwS9zc70mHXXznHOLxKgs3fvI5edwC4O+R5jWRDdUPTolWThOzeOyW+OaErOjDBRMMZcHogVJ2Fnie4b4Xm8HEb3kTCLPft4=;WLvbq2dN4YJuL9+6HhZPvw=="
 ---
 

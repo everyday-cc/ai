@@ -7,7 +7,7 @@ originalUrl: "https://www.investing.com/news/stock-market-news/toyotabacked-self
 webUrl: "https://www.investing.com/news/stock-market-news/toyotabacked-selfdriving-car-ponyai-partners-with-luminar-2506931"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars"
-    excerpt: "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned"
-    publishedDateTime: 2021-05-10T14:18:00Z
-    webUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/"
-    ampWebUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
+  - title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
+    excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
+    publishedDateTime: 2021-05-10T21:00:00Z
+    webUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Ponyai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
+      name: futurecar
+      domain: futurecar.com
+    quality: 20
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/Ponyai_Luminar_01-1.jpg"
-        width: 1500
-        height: 847
+      - url: "https://img.futurecar.com/202105/10/l_60999f582fb25.png"
+        width: 800
+        height: 484
         isCached: true
 
 secured: "WphFHMgC/OnVOYksUk/nxUf2nf9tqI3d7hFKtN2cd78Vx5i8vXe3iRFYIVOEisBi6Qq/ST3fqehhdPFZ+ccovW9ohVOHopjNOnyy7229e66yBGcs+CNkthmSCq0ELwihT4GKiJhULz0Zl7GlV0z21OYd++M7SYHO4ooajpu5TvgjQ0D2StXz4Z1zX54KoC8ejV58nOVP6/HxbTik/t1fUKAMQ2blVGmXky0k1EIbhs2/I+fqN3qYKcrw2JV5bnV/wQqOpncxCQKPJXFaffxC8OF5D7COs4gkXeGYCTM0uoPtA63V36pjyImeqah6Sw7EL0QDZwXW4dechgQOblMRZxbFrqS53tngyz5l/xgLSvE=;jmf46daWyZJA0RaWbnYpkA=="

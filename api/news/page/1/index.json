@@ -1093,49 +1093,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-13-we-need-to-design-distrust-into-ai-systems-to-make-them-safer.md",
-      "title": "We need to design distrust into AI systems to make them safer",
-      "excerpt": "Ayanna Howard, an acclaimed roboticist and educator, says our excessive faith in automated systems can lead us into dangerous situations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/",
-      "originalUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/Dean-Howard-web-2.jpg?w=1500",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/",
-      "publishedDateTime": "2021-05-13T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
       "title": "The fulfilling world of warehouse robotics",
       "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
@@ -1236,6 +1193,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-walmart-acquires-virtual-clothing-try-on-startup-zeekit.md",
+      "title": "Walmart acquires virtual clothing try-on startup Zeekit",
+      "excerpt": "Retail giant Walmart announced this morning it’s acquiring the Tel Aviv-based startup Zeekit, which allows consumers to virtually “try on” clothing when shopping online. The company leverages a combination of real-time image processing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/download.gif?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "publishedDateTime": "2021-05-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

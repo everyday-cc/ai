@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Researchers Develop a New Soft Robot"
-    excerpt: "It is always fascinating to see that the field of science is always bringing something new to the table. Science and technology has always inspired many people to employ their intelligence for the betterment of society and humanity."
-    publishedDateTime: 2021-05-10T13:09:00Z
-    webUrl: "https://techstory.in/researchers-develop-a-new-soft-robot/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/5d1c88db85621.jpg"
-        width: 800
-        height: 435
-        isCached: true
 
 secured: "Nb41CwBc45jh8B/a830bydJhfQlLdzOxvUjBIul+ydsKZyDrgCC/GOKlXpTV0LIOS+iRTogDkRf1PkkwRCTaErk3asJ9dEKP2hGo+XcgCEC2lUjggh9f8/EmtF8mzVWa+NyGifGbZLWQwGmiladtIkAbLovuOJpHxoIW5yn1jKgKHc58dhUSIZsURzl65qq5yEa2rJXS2NJk9VAghn/zjLd+xqdzZsQj6Q4A+jChz4+dIjAnRakLU0/JwJuLT88Tw8x1XWxWJw4njQcjhhlwf/A2Z7XZMT5pggzeMZ8XmjP5+ByrPCLjsdLjfRIy5SNOWYgdSgb/G3Q5SrFG/NfQQWUhSNojK90GclS3jNpl1wQ=;+p04a68nxcL8A2h42Efuag=="
 ---

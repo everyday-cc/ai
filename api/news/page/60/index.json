@@ -2,83 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2021-03-16-libre-wireless-forms-strategic-alliance-with-knowles-corporation-for-collaboration-on-their-mavid-voiceai-platforms-with-knowles-micro-acoustic.md",
-      "title": "Libre Wireless Forms Strategic Alliance with Knowles Corporation for Collaboration on Their MAVID Voice/AI Platforms with Knowles Micro-acoustic Microphones and Speakers",
-      "excerpt": "and far-field speech recognition combined with Libre’s MAVID 3M and Voice platform solutions to create a best-in-class package to meet the growing demands for voice control in smart speakers, smart home devices, connected appliances and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210316005746/en/Libre-Wireless-Forms-Strategic-Alliance-with-Knowles-Corporation-for-Collaboration-on-Their-MAVID-VoiceAI-Platforms-with-Knowles-Micro-acoustic-Microphones-and-Speakers",
-      "originalUrl": "https://www.businesswire.com/news/home/20210316005746/en/Libre-Wireless-Forms-Strategic-Alliance-with-Knowles-Corporation-for-Collaboration-on-Their-MAVID-VoiceAI-Platforms-with-Knowles-Micro-acoustic-Microphones-and-Speakers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-datagen-emerges-from-stealth-to-create-synthetic-datasets-for-computer-vision-models.md",
-      "title": "Datagen emerges from stealth to create synthetic datasets for computer vision models",
-      "excerpt": "Learn more. Datagen, a Tel Aviv, Israel-based startup offering a platform to create synthetic computer vision system training data, today emerged from stealth with $18.5 million in funding from ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/amp/",
-      "publishedDateTime": "2021-03-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-palantir-rising-war-in-the-garden-of-google.md",
       "title": "Palantir Rising: War In The Garden Of Google",
       "excerpt": "Palantir threatens the current paradigm with software for a decentralized alternative. Europe's GAIA-X offers significant upside potential as Palantir seeks a new European hub in Switzerland",
@@ -943,6 +866,83 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
+      "title": "New Applied Materials Tools Use AI to Catch Mistakes on Chips",
+      "excerpt": "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.md",
+      "title": "Use of artificial intelligence to tackle coronavirus must go through ethical checks, say experts",
+      "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
+      "publishedDateTime": "2021-03-15T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

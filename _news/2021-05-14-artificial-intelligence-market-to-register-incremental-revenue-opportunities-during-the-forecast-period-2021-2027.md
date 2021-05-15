@@ -103,6 +103,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Chips Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global Artificial Intelligence Chips market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-05-12T02:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-2021-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2031-2021-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
     publishedDateTime: 2021-05-13T10:26:00Z
@@ -144,20 +158,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
-    publishedDateTime: 2021-05-10T14:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=466375"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
     excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"

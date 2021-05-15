@@ -202,49 +202,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-13-researchers-have-a-new-best-friend-robot-dog-gets-to-work.md",
-      "title": "Researchers' have a new best friend: Robot dog gets to work",
-      "excerpt": "Its name is a French acronym for \"Advanced Robotic Assistance System\", and the Ecole des Mines was the first in France to purchase the Spot robot from the US firm Boston Dynamics last September. On Tuesday,",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2021/05/12/1600x900/114691_1620836890151_1620836899846.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html",
-      "publishedDateTime": "2021-05-12T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-israeli-startup-nimble-raises-10m-for-autonomous-manicure-robot.md",
       "title": "Israeli Startup Nimble Raises $10M For Autonomous Manicure Robot",
       "excerpt": "Nimble is said to be the world's first device that uses artificial intelligence to paint and dry nails in 10 minutes per hand.",
@@ -1424,6 +1381,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
+      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
+      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

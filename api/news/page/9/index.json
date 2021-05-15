@@ -2,100 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-05-06-real-world-ai-a-great-guide-for-managers.md",
-      "title": "Real World AI: A Great Guide For Managers",
-      "excerpt": "A Practical Guide for Responsible Machine Learning does not fall within either category. Then again, the authors include Alyssa Simpson Rochwerger, who is a director of product at Blue Shield of California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609311ae6b34dfaf46f70578%2F0x0.jpg",
-          "width": 471,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
-      "publishedDateTime": "2021-05-05T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
-      "title": "Considerations for Implementing AI/ML in Your Business",
-      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "publishedDateTime": "2021-05-05T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
       "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
       "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
@@ -1191,6 +1097,108 @@
         "name": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
         "domain": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-alkymi-patterns-tool-uses-ai-to-extract-data-from-documents.md",
+      "title": "Alkymi Patterns tool uses AI to extract data from documents",
+      "excerpt": "Business intelligence platform Alkymi's new Patterns product leverages AI and machine learning to identify data in documents and emails.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
+      "originalUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
+          "width": 999,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
+      "publishedDateTime": "2021-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-this-startup-wants-to-bring-clarity-to-the-complex-world-of-ivf.md",
+      "title": "This startup wants to bring clarity to the complex world of IVF",
+      "excerpt": "About 180 million people globally suffer from infertility. In the United States, one in eight families have trouble conceiving. The statistics are only getting worse, as male infertility and miscarriages continue to increase.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/08/gettyimages-117452594.jpg?w=1024",
+          "width": 1024,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/alifehealth-seed/amp/",
+      "publishedDateTime": "2021-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

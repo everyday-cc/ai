@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/13/1024874/ai-ayanna-howard-trust-robots/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Product design gets an AI makeover"
-    excerpt: "Engineers are under unprecedented pressure to build products that are used by thousands, if not millions, of consumers every day. Just ask Bernd Zapf. Head of development, new business, and technologies at Heller Group,"
-    publishedDateTime: 2021-05-10T14:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/05/10/1024531/product-design-gets-an-ai-makeover/"
-    ampWebUrl: "https://www.technologyreview.com/2021/05/10/1024531/product-design-gets-an-ai-makeover/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/10/1024531/product-design-gets-an-ai-makeover/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/MIT_Siemens_Quotesmall-copy.png?w=500"
-        width: 500
-        height: 368
-        isCached: true
   - title: "FDA grants breakthrough device designation to AI-based focal therapy system"
     excerpt: "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia."
     publishedDateTime: 2021-05-11T00:00:00Z

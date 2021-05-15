@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous trucking startup Plus going public via SPAC"
-    excerpt: "Autonomous trucking startup Plus is being acquired by Hennessy Capital Investment Corp. V, a special purpose acquisition company."
-    publishedDateTime: 2021-05-10T14:05:00Z
-    webUrl: "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 54
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/02/plus-autonomous-trucks.jpg"
-        width: 1000
-        height: 663
-        isCached: true
   - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
     excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
     publishedDateTime: 2021-05-11T01:32:00Z
@@ -69,20 +55,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/self-driving-truck-Plus-SPAC-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "The Briefing: Trucking Startup Plus Going Public Via SPAC, GoJek Raises $300M, And More"
-    excerpt: "Cupertino, California-based Plus, a startup developing technology for self-driving trucks, announced that it has inked an agreement to go public through a merger with a blank-check acquirer, or SPAC."
-    publishedDateTime: 2021-05-10T13:02:00Z
-    webUrl: "https://news.crunchbase.com/news/briefing-5-10-21/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 29
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
-        width: 900
-        height: 506
         isCached: true
   - title: "Four Firms Guide SPAC for Self-Driving Truck Startup Plus"
     excerpt: "Kirkland & Ellis and U.K. firm Linklaters are advising self-driving truck startup Plus on its go-public merger with special purpose acquisition company Hennessy Capital Investment Corp. V."

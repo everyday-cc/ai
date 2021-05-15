@@ -104,7 +104,7 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png"
         width: 482

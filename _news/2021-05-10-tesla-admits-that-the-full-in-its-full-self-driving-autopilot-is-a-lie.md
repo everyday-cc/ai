@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
+    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions."
+    publishedDateTime: 2021-05-15T07:45:00Z
+    webUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/"
+    ampWebUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
+    cdnAmpWebUrl: "https://citizentv-co-ke.cdn.ampproject.org/c/s/citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
+    type: article
+    provider:
+      name: citizentv.co.ke
+      domain: citizentv.co.ke
+    quality: 50
+    images:
+      - url: "https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Musk.png"
+        width: 736
+        height: 556
+        isCached: true
   - title: "Musk says Tesla new self-driving rollout could take a couple of months"
     excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
     publishedDateTime: 2021-05-12T20:22:00Z
@@ -115,20 +131,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
         width: 820
         height: 462
-        isCached: true
-  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
-    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
-    publishedDateTime: 2021-05-14T17:42:00Z
-    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 30
-    images:
-      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
-        width: 2000
-        height: 1125
         isCached: true
 
 secured: "j4gvBWCgjP9cFCiNbTETmW4qo0iIpyRoWB8D/vQcpANm+xOFYStHCX3sY8ooSq2lAS6VdJojDm5FTX86qZLY6UKXdNca0Dij27gppPouHaEZtxcpVlZ+yran+ObiZptSPxgAmyyPXL/3nBnJt2Po8xHYXpwnAF+WQy1HfDDBPks/n5RaWoPqLQDEefqBRep9luHt3MZtqdmatF61Iy2d+ZmlolTN/1r5CT9MKMtQbi/O7G//+RbuAbdcADPF54NO73XpVzkg9N1csOrTI+J2FBFOAd4anAw782ODhv07YLCGF1BH2gkr+kzcqseXxAGcAygxdXImBch7xeAL36t4FFdHRFXeMLM/8+z4ZBbrUET3d3+xCx253KLOrnDS0fTCrbMeZupXYRI2IG1gY8EQtba66t3c3fC64YlVc15EGaggG2UHzKnV6JpfJ6aA9bS1eL9HscrEmFVcHe4teZUxhK/IM+oR2SHVvdUlEWgOQ90VHR271hLftYIjRZoP6EMxAHFKRgPgZTkxkilHIdTfyg==;/E4/Dqltic0bKjlbl/LXfA=="
