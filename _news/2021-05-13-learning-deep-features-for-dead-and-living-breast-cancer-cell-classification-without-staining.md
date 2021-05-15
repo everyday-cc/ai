@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways You Can Start Relying on Deep Learning"
-    excerpt: "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ..."
-    publishedDateTime: 2021-05-10T19:13:00Z
-    webUrl: "https://www.entrepreneur.com/article/370549"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/370549"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
   - title: "Andrew Ng’s DeepLearning.AI launches New Course On MLOps"
     excerpt: "Andrew Ng announced that the Specialization on ML Engineering for Production (MLOps) by DeepLearning.AI now available on Coursera."
     publishedDateTime: 2021-05-14T12:12:00Z

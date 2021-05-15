@@ -19,45 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "The Politics of Recognition vs. Redistribution"
-    excerpt: "Progressive politics based on an honest assessment of the multiple crises of today can only succeed if it includes all sectors of society."
-    publishedDateTime: 2021-05-12T12:30:00Z
-    webUrl: "https://www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/"
-    ampWebUrl: "https://www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/amp/"
-    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/amp/"
+  - title: "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026"
+    excerpt: "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,"
+    publishedDateTime: 2021-05-14T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
     type: article
     provider:
-      name: Fair Observer
-      domain: fairobserver.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
+    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
+    publishedDateTime: 2021-05-11T01:20:00Z
+    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
+    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
     quality: 46
     images:
-      - url: "https://www.fairobserver.com/wp-content/uploads/2021/05/Marine-Le-Pen.jpg"
-        width: 938
-        height: 450
+      - url: "https://www.reportsgo.com/img/img-6.png"
+        width: 500
+        height: 300
         isCached: true
-  - title: "Specialist platform OMS delivers facial recognition ID verification"
-    excerpt: "One Mortgage System (OMS), the single-input enquiry to completion specialist processing platform, has partnered with Nivo, a secure mobile messaging platform to offer facial recognition ID verification."
-    publishedDateTime: 2021-05-11T14:06:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/specialist-lending/2021/05/11/specialist-platform-oms-delivers-facial-recognition-id-verification/"
+  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
+    publishedDateTime: 2021-05-11T08:51:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
     type: article
     provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 39
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
     images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2019/09/Neal-Jannels-OMS.jpg"
-        width: 960
-        height: 640
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
-  - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
-    excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
-    publishedDateTime: 2021-05-14T23:04:00Z
-    webUrl: "https://www.campusreform.org/article?id=17351"
-    type: article
-    provider:
-      name: Campus Reform
-      domain: campusreform.org
-    quality: 0
 
 secured: "ccBHFRuxBNI1A4aNzaf7l9JNTVevgdcwMC99gclZLfDTBS/urzMXqYfr7J/JrEVCHpTcxzeTfJe2UO2QotB4yQBSgQyhNEkNcYkdN7vJJ/2KKM/97kfrwdFNxQ+vb9hQopCZLCtLUO+lwGCLdw1HA9zK9gxfQIuSb752fPRQ1I7fczBHsJU1Tzo3XDxGBZ6GjxSCx8uzaFEv21SMEKa0Xgm+jG10ZIXF90XWUPv//swmIdRtFtQ1Mqhaw+n/31TRObyp47V/m5gGYYujqbCGQJDXfHbR4EjS0panzH7mL1eWC99CKWpE+rDpaR4dZTkleIBHCCDPUpwAjlIbl6Mv06u7LxU/4+wf97YmnEADL+s=;UrqKnMbwDfSnt+EKIzHZTQ=="
 ---

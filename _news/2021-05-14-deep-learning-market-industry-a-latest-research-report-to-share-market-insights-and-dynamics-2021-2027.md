@@ -44,6 +44,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Research Overview Covering Growth Rate, Key Vendors, Demand Ratio and Forecast To 2025"
+    excerpt: "May 13, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence (Ai) in"
+    publishedDateTime: 2021-05-13T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-research-overview-covering-growth-rate-key-vendors-demand-ratio-and-forecast-to-2025-2021-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
     excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
     publishedDateTime: 2021-05-11T13:00:00Z

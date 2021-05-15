@@ -2,6 +2,92 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-06-you-can-now-turn-on-nvidias-excellent-noise-cancellation-with-any-geforce-gpu.md",
+      "title": "You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU",
+      "excerpt": "With the latest update to RTX Voice, which now goes by 'Noise Removal' in the RTX Broadcast app, it's possible to run the feature across a wide range of GPU generations (nice spot ... as the Asus Noise-Cancelling AI Mic Adapter, which offer much of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/48T59jevWjdV3uxFo5wWBb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "publishedDateTime": "2021-04-06T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-hugging-face-gets-an-amazon-treatment.md",
+      "title": "Hugging Face Gets An Amazon Treatment",
+      "excerpt": "Amazon Web Service joins a partnership with Hugging Face to advance NLP technologies by integrating its transformer's with Amazon Sagemaker.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/hugging-face-gets-an-amazon-treatment/",
+      "originalUrl": "https://analyticsindiamag.com/hugging-face-gets-an-amazon-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/image1-1.jpg",
+          "width": 1999,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle.md",
       "title": "Learn To Code Like A Pro With This Pay What You Want Python Training Bundle",
       "excerpt": "Advanced Machine Learning With TensorFlow introduces learners to the anatomy and structure of TensorFlow, an essential open-source software library popular for its ease and intuitive use. The Selenium WebDriver With Python 3.X course is designed for Python ...",
@@ -985,101 +1071,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-grab-and-tesla-might-soon-compete-in-the-self-driving-war-who-will-stand-to-win.md",
-      "title": "Grab And Tesla Might Soon Compete In The Self-Driving War: Who Will Stand To Win?",
-      "excerpt": "If the number of trials for self-driving vehicles in Singapore is anything to go by, the future of driving in the Republic is, it seems, driverless. Recent years have also seen the nation warmly embrace electric vehicles (EVs), with plans to phase out all ...",
-      "sourceUrl": null,
-      "webUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
-      "originalUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn01.vulcanpost.com/wp-uploads/2021/04/tesla-grab-606abf42e7396.jpg",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
-      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
-      "publishedDateTime": "2021-04-05T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vulcan Post",
-        "domain": "vulcanpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars.md",
-      "title": "Here’s Why Some Are Vehemently And Diametrically Opposed To Self-Driving Cars",
-      "excerpt": "The headlines proclaiming the emergence of self-driving cars are usually soaked in high praise for the advent of these technological marvels. This heralding of such wonderment in innovation is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602de8f944ba98dd7fb5b0c2%2F0x0.jpg%3FcropX1%3D173%26cropX2%3D4200%26cropY1%3D62%26cropY2%3D2327",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/amp/",
-      "publishedDateTime": "2021-04-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

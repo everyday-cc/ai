@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/andrew-ngs-deeplearning-ai-launches-
 webUrl: "https://analyticsindiamag.com/andrew-ngs-deeplearning-ai-launches-new-course-on-mlops/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways You Can Start Relying on Deep Learning"
-    excerpt: "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ..."
-    publishedDateTime: 2021-05-10T19:13:00Z
-    webUrl: "https://www.entrepreneur.com/article/370549"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/370549"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
   - title: "Learning deep features for dead and living breast cancer cell classification without staining"
     excerpt: "Automated cell classification in cancer biology is a challenging topic in computer vision and machine learning research. Breast cancer is the most common malignancy in women that usually involves phenotypically diverse populations of breast cancer cells and an heterogeneous stroma."
     publishedDateTime: 2021-05-13T10:59:00Z

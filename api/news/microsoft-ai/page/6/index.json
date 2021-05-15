@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-11-microsoft-azure-msp-acquires-software-development-company.md",
+      "title": "Microsoft Azure MSP Acquires Software Development Company",
+      "excerpt": "Microsoft Azure cloud partner and MSP Atmosera acquires Wintellect, a software development, Azure and IT training company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/",
+      "originalUrl": "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ChannelE2E",
+        "domain": "channele2e.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-bringoz-launches-intelligent-delivery-distribution-system-on-microsoft-azure.md",
       "title": "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure",
       "excerpt": "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform,",

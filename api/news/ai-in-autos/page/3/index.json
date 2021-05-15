@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-28-trending-stocks-to-buy-now-4-faang-stocks-in-focus.md",
+      "title": "Trending Stocks To Buy Now? 4 FAANG Stocks In Focus",
+      "excerpt": "Do You Have These FAANG Stocks On Your List Of Trending Stocks To Buy Ahead Of May 2021? When it comes to the question of “what are the best stocks to invest in?”, FAANG stock",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/trending-stocks-to-buy-now-4-faang-stocks-in-focus-2021-04-28",
+      "originalUrl": "https://www.nasdaq.com/articles/trending-stocks-to-buy-now-4-faang-stocks-in-focus-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-lyfts-sale-of-its-self-driving-tech-unit-to-toyota-for-550-million-moves-its-profit-timeline-up.md",
       "title": "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up",
       "excerpt": "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said.",
@@ -1351,58 +1385,6 @@
         "name": "GCN",
         "domain": "gcn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
-      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
-      "excerpt": "Washington, DC (CNN Business)Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
-      "originalUrl": "https://www.cnn.com/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210419101209-tesla-autopilot-crash-tx-0417-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
-      "publishedDateTime": "2021-04-21T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

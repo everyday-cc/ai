@@ -39,6 +39,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Facial Recognition Phone Market including top key players Vivo, Apple, HTC"
+    excerpt: "Los Angeles, United State, – including Q4 analysis The report named, Global Facial Recognition Phone Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Facial Recognition Phone in view of numerous aspects such as growth factors,"
+    publishedDateTime: 2021-05-15T09:39:00Z
+    webUrl: "https://ksusentinel.com/2021/05/15/facial-recognition-phone-market-including-top-key-players-vivo-apple-htc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Facial-Recognition-Phone-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "BKDRBiVTUso416/sIGZC0M1qGpgdHq6F53FJ6Tr3hHMkCywlol44y0a0mmgkypJOFzpxe5inZglnnaA8cfVT6PRvVr+wtZ4VF4Clt4lZvSU82xmYffSK8dq8U2DcYSBIhfGLkxwFVsaffTC2lQh2WlR2By39QgA2dnYmW6frXOjGENhqprcSICj+bOthYD0mY833P8cGz5gujPxByeW0Y3zg0RlXShkqNJ+CI1DywQpys2Ufgh69o1oKXuDCoLGHkuTnvlm+wYF14OL9brW4+0OKR1teIy+lDEY2Y8Ojd6TDwNScdd2Z0jvHtwN72/weKf5mkn7105rE+T3KiQyRYPYUQIdpTdLIgAHKrneN3sOYEyVefq0Z3YtsBtkxH/K8Fyz+U7cPziy8BXmQjudLov8bUxQLgUakCOkv/nb73i/uMnxIsHIJa75ZPQ0LYe5X3wG2MeOFF1MB828UQ7WYRShLUarvFsKh/IGWU1ljuEfXaHJL+JAFPAiNZltEUdOwRSODgEWiTsI9T6s4Wy8Mbw==;wzyT2sWBlNho/Q8yBF8ggw=="
 ---

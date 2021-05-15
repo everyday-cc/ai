@@ -41,15 +41,6 @@ related:
         width: 938
         height: 450
         isCached: true
-  - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
-    excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
-    publishedDateTime: 2021-05-13T15:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-emotion-detection-recognition-industry-expected-reach-371-/2021/05/13/9369134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
     excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
     publishedDateTime: 2021-05-14T23:04:00Z

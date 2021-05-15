@@ -37,20 +37,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
-    publishedDateTime: 2021-05-11T08:51:00Z
-    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "AViVx6U8UG4ll4dzQwFPpgXFUjBIlsEInjHKfP67a/AwR3VEaXCzi7L0UaLKMi1fxug/96UjaygmaJAWBJxFge6VuJbaS3UnUqSMuJ3SpDoYJrHlCVGDohpSJ0RjM0Lh/5Ed7hpOjsvLBaN/hvXTjK0z8czUpB6DbKqjV27yLx1VYJcppyHw6icIA5G/Urb3Zpu0EN/pklLZgK9xlWvB4WUGDxsPabtgF2iVE6R6Fa1Klu6bYpl8lqvltqbphmvPFdpeDwLl/x67OpP0liUhsd5I/Muj72Dx9BbW2NWUfZV+EqdE8DnUCmfnpw0I8TYR9pdclscRWGA/U9+0w3XT0aJvr+OvpPNVotIBXFzPbOI=;LYi7AUtqlT7QGY6bOmOM8g=="
 ---

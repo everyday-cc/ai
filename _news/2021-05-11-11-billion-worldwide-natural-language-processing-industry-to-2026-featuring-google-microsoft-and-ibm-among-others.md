@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Research Overview Covering Growth Rate, Key Vendors, Demand Ratio and Forecast To 2025"
+    excerpt: "May 13, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence (Ai) in"
+    publishedDateTime: 2021-05-13T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-research-overview-covering-growth-rate-key-vendors-demand-ratio-and-forecast-to-2025-2021-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
     excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
     publishedDateTime: 2021-05-13T17:54:00Z

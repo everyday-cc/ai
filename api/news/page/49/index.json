@@ -2,6 +2,91 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-28-blinkens-china-vision-vs-american-business-and-people.md",
+      "title": "Blinken’s China vision vs American business and people",
+      "excerpt": "“By the Commerce Department’s own estimate,” says IBM regulatory vice president Christopher ... In the 1980s, US technology giants pressed the Reagan administration to battle Japanese ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2021/05/10/ceo-daily-pandemic-a-i-ibm-investment/",
+      "originalUrl": "https://www.msn.com/en-ph/news/opinion/blinken-s-china-vision-vs-american-business-and-people/ar-BB1f3xIv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2021/05/GettyImages-1169749687.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2021/05/10/ceo-daily-pandemic-a-i-ibm-investment/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2021/05/10/ceo-daily-pandemic-a-i-ibm-investment/amp/",
+      "publishedDateTime": "2021-03-28T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://fortune.com/2021/05/10/ceo-daily-pandemic-a-i-ibm-investment/",
+        "domain": "https://fortune.com/2021/05/10/ceo-daily-pandemic-a-i-ibm-investment/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
+      "title": "Can artificial intelligence replace human therapists?",
+      "excerpt": "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence ... for less money than traditional therapy. The algorithms underpinning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
+      "publishedDateTime": "2021-03-28T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-ai-weekly-algorithms-accountability-and-regulating-big-tech.md",
       "title": "AI Weekly: Algorithms, accountability, and regulating Big Tech",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,",
@@ -1067,83 +1152,6 @@
         "AI",
         "Natural Language Processing",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
-      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
-      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "originalUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

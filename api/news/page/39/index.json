@@ -2,6 +2,84 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-12-microsoft-buying-burlington-based-speech-recognition-company-nuance-in-16-billion-deal.md",
+      "title": "Microsoft Buying Burlington-Based Speech Recognition Company Nuance In $16 Billion Deal",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That’s a 23% premium to Nuance’s Friday closing price.",
+      "sourceUrl": null,
+      "webUrl": "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/",
+      "originalUrl": "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/",
+      "cdnAmpWebUrl": "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/",
+      "publishedDateTime": "2021-04-12T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-how-the-financial-industry-is-using-natural-language-processing.md",
+      "title": "How the Financial Industry Is Using Natural Language Processing",
+      "excerpt": "With useful data and information piling up in the financial realm, firms can use all the help they can get to more efficiently compile and employ it. Automation, which manifests itself in many forms,",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/how-the-financial-industry-is-using-natural-language-processing/",
+      "originalUrl": "https://internationalbanker.com/technology/how-the-financial-industry-is-using-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://internationalbanker.com/wp-content/uploads/2021/04/Natural-Language-Processing.png",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-packing-safety-intelligence-into-robots-ai-brains.md",
       "title": "Packing safety intelligence into robots’ AI brains",
       "excerpt": "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way.",
@@ -1109,102 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-hacklet-105-more-mind-and-brain-hacks.md",
-      "title": "Hacklet 105 – More Mind And Brain Hacks",
-      "excerpt": "[Angeliki] even went on to create a Mind-Controlled Robotic Xylophone based on this project. Next is [Stuart Longland] who hopes to protect brains with Improved Helmets. Traumatic Brain Injury ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/04/30/hacklet-105-more-mind-and-brain-hacks/",
-      "originalUrl": "https://hackaday.com/2016/04/30/hacklet-105-more-mind-and-brain-hacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2014/11/hacklet-featured-image1.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-researchers-detail-systemic-issues-and-risk-to-society-in-language-models.md",
-      "title": "Researchers detail systemic issues and risk to society in language models",
-      "excerpt": "Register for a free or VIP pass today. Researchers at Google’s DeepMind have discovered major flaws in the output of large language models like GPT-3 and warn these could have serious ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
-      "publishedDateTime": "2021-04-09T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

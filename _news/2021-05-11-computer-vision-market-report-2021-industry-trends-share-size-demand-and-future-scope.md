@@ -25,31 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
+  - title: "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026"
+    excerpt: "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,"
+    publishedDateTime: 2021-05-14T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "AI in Medical Devices Market to Grow with a Moderate CAGR During 2021-2029 | Healthcare Tend to Drive the Market Growth"
-    excerpt: "The AI in the medical devices market is attributed ... We believe in honesty and sheer hard work that we trust is reflected in our work ethics. Our vision is not just limited to gain the trust ..."
-    publishedDateTime: 2021-05-12T10:21:00Z
-    webUrl: "https://menafn.com/1102066047/AI-in-Medical-Devices-Market-to-Grow-with-a-Moderate-CAGR-During-2021-2029-Healthcare-Tend-to-Drive-the-Market-Growth"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
+    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
+    publishedDateTime: 2021-05-11T01:20:00Z
+    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
+    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 46
+    images:
+      - url: "https://www.reportsgo.com/img/img-6.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
+    excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
+    publishedDateTime: 2021-05-13T15:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-emotion-detection-recognition-industry-expected-reach-371-/2021/05/13/9369134.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xVtk5EnTwpTa482nxuIhcgX2/6s921StDFtjf/5yIS7+TnNkXU7NeBXy9pbovMqROmgLJ55IuCFy62l3kHmFQZ7bsQOSMOcz9Mig2pfcHkrxH3N2xZ0TKbs9BtpzuWJeU8XRX6l1rUYcU9n9VhSDe9RcTb/l0LSBZYlm/sIAeZn4NlqAZbENyFzezxDcgovKxIKpOh3hJCkqeYsJGZ5kO7ya43fuNcJqvVfiN2jGNTaA3rtt07CgenUFwTfJIa2a7kHj44O7pcXFqUFOgmcgONrEmtIt4ubnNneZGhCntWJnI/Quz0cR7vC48pajmAxfcAieAflDjWmgABjoRin8yf8d6UsgjhSpspgBWKn4/ZHg5PO9QCTV1svmDZ8xwwqfV545ZCxbMSfsgmPQps4ghkTo82rN8xD3T4YpHNTFvcV7sj/KNTSeamwqyenZRFDrBWrmQZu9Iig2JjXfNWEUBSUpJ2qbudEEVC661kgPcSyDMd2oWwLJoIPm6H8KOBJgY5WFf7b55/WKGqVu1MjIxw==;CcEMYsQNBhrLuuLMQdt8BQ=="
 ---
