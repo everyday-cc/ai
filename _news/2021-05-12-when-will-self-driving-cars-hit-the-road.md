@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Less than a third of car buyers support self-driving cars on UK roads despite government plans"
-    excerpt: "New data has shown that less than a third of drivers support self-driving cars on UK roads despite changes to government legislation.  Only 29 per cent of"
-    publishedDateTime: 2021-05-12T07:27:00Z
-    webUrl: "https://cardealermagazine.co.uk/publish/less-than-a-third-of-car-buyers-support-self-driving-cars-on-uk-roads-despite-government-plans/223145"
-    type: article
-    provider:
-      name: Car Dealer Magazine
-      domain: cardealermagazine.co.uk
-    quality: 12
-    images:
-      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2021/05/280685_Volvo_Cars_teams_up_with_world_s_leading_mobility_technology_platform_DiDi-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Self-driving VW ID.Buzz electric vans hit the road this summer ahead of commercial service in 2025"
     excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
     publishedDateTime: 2021-05-12T14:00:00Z

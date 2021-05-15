@@ -105,6 +105,20 @@ related:
         width: 2800
         height: 1936
         isCached: true
+  - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
+    excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
+    publishedDateTime: 2021-05-15T09:01:00Z
+    webUrl: "https://www.businessinsider.com/dell-backs-analytics-firm-pecanai-in-35m-funding-round-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/609e66fca9b6a40018f1c108?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How AI Supports Low-Risk Member Identification, Care Management"
     excerpt: "Payers can leverage artificial intelligence and machine learning to inform their intervention strategies in low-risk populations and improve their care management approaches."
     publishedDateTime: 2021-05-13T13:30:00Z

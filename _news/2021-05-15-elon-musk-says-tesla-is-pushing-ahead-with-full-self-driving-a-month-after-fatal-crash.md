@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
-excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions."
-publishedDateTime: 2021-05-15T07:45:00Z
-originalUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/"
-webUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/"
-ampWebUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
-cdnAmpWebUrl: "https://citizentv-co-ke.cdn.ampproject.org/c/s/citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
+excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
+publishedDateTime: 2021-05-14T17:42:00Z
+originalUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
+webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: citizentv.co.ke
-  domain: citizentv.co.ke
+  name: WISHTV8
+  domain: wishtv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Musk.png"
-    width: 736
-    height: 556
+  - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
+    width: 2000
+    height: 1125
     isCached: true
 
 related:
@@ -93,20 +91,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "Tesla admits that the ‘full’ in its Full Self-Driving autopilot is a lie"
-    excerpt: "Tesla's Autopilot is still Level 2, which denotes a semi-automated driving system that still needs constant supervision by a human driver."
-    publishedDateTime: 2021-05-10T15:26:00Z
-    webUrl: "https://knowtechie.com/tesla-admits-that-the-full-in-its-full-self-driving-autopilot-is-a-lie/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 38
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/consumer-reports-tesla-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
     excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
     publishedDateTime: 2021-05-12T10:05:00Z
@@ -133,6 +117,6 @@ related:
         height: 462
         isCached: true
 
-secured: "wCc48jvcnXyajrs/HQqNp8IsucTUWkCKKR+XQ1N2EmGOAWRSWwlV2aD/STFRzRgBD+2Mn7MiGfL5D/m2aoKnrJ6sG83FS2A1b8J3doAeY/8BSoWses9WD8R1D3eMkAhBkmnpfFa7LmlxbIC9/DV+joMGD46hvSv3K4ap6Fo8xkRN8lKN7jPQ8FWKin2+2RnOWmyU71i9S5AHljTjdRlFHEMaTjEbPDIfUeRtlomsTmYypNimfm4Yfqh1+MWMDcita3S8Hwn4XNaYwS9zc70mHXXznHOLxKgs3fvI5edwC4O+R5jWRDdUPTolWThOzeOyW+OaErOjDBRMMZcHogVJ2Fnie4b4Xm8HEb3kTCLPft4=;WLvbq2dN4YJuL9+6HhZPvw=="
+secured: "dkqdidqtocqvzTLuBa+m+TKY/7LACG74UBMJ0+pSMhba84WGXMUwqPovzoZORTa2nqPwRWMjz5zbM2PkA9sUqT9y2ScRnwBtW9MiFZujlVoKSbUOdiwwlRrU04QL3KzLPP75LtoRq34+rgBd9kNJHYHBhXga0MFix93PxdOpcrPsDmpPMRCyP/f7Z3D2qdDwmNFywDhk7gP/okJJ/uGuDEI8Tgu+aEXqVsAXtY+5IZT2y5Fxmocs0uzY/d5MnUNuyIFoMZzukimh3xmhHGK4fSfiluqLxmTNGqAX6wY9k+OMM3fpOb1WOX7y3OVz0NJs7HoYY2nfGLhxWX2E2D1cdwZcZzbjluwm5qJOuBWDFXs=;RZIRClpQPv3d95lho9y1ew=="
 ---
 

@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
-    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions."
-    publishedDateTime: 2021-05-15T07:45:00Z
-    webUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/"
-    ampWebUrl: "https://citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
-    cdnAmpWebUrl: "https://citizentv-co-ke.cdn.ampproject.org/c/s/citizentv.co.ke/news/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash-11433271/?amp"
-    type: article
-    provider:
-      name: citizentv.co.ke
-      domain: citizentv.co.ke
-    quality: 50
-    images:
-      - url: "https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Musk.png"
-        width: 736
-        height: 556
-        isCached: true
   - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:38:00Z
@@ -92,20 +76,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "Tesla admits that the ‘full’ in its Full Self-Driving autopilot is a lie"
-    excerpt: "Tesla's Autopilot is still Level 2, which denotes a semi-automated driving system that still needs constant supervision by a human driver."
-    publishedDateTime: 2021-05-10T15:26:00Z
-    webUrl: "https://knowtechie.com/tesla-admits-that-the-full-in-its-full-self-driving-autopilot-is-a-lie/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 38
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/consumer-reports-tesla-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
     excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
     publishedDateTime: 2021-05-12T10:05:00Z
@@ -130,6 +100,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
         width: 820
         height: 462
+        isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
+    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
+    publishedDateTime: 2021-05-14T17:42:00Z
+    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "+RH735ppiaLHuYbcHOC2jJ56pWS4Vco7zpt8mlmvhsP4N6f15wzLz9waNjP6IPrGFIG3ozRcA7Dc3bv4PYH0p+2POVK4WyytHcFR48dsG5xjmz2r6KeMBJebINxW+LdLQkAqvchJ4YEbR2v1Rb+4yA9BXqyHjoaIXxr/4IJfZZlG5YKiSOUm+1QH4/mJyzV5xeMPcXsegUEfWTAH1m4Am2InXtFEKE09RW0RLN8HazHqYsmqIMH1gHKBjwqzeoFIIXek8HcbWxuruZj/F9I8ejAA8q5IkcpByyDJ9uTG0cXQJ2IBf/YD8jqfqUMsbz8Nm6j9WITzPoltNXfZhmP/G8guPwbXhy0W8TnurQ30lT4p/e8zwbUiXG02A3oKHx1dMWhmHErywX+k4pcItg0YnuYKWKqYaSpUgrqi9p8khG36heQoP7NOKZrjcsyQpzmQWulspbOBON/+XbRi4iDt2WvYKTPGT2xv9UuHne8hrC7cjpmmEFphFuAGO2d4YPtrTesJPv8kyfb854u4GFPZyQ==;1mDxqk1OhbtCfvi5AOIqrQ=="

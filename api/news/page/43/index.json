@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-06-learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle.md",
+      "title": "Learn To Code Like A Pro With This Pay What You Want Python Training Bundle",
+      "excerpt": "Advanced Machine Learning With TensorFlow introduces learners to the anatomy and structure of TensorFlow, an essential open-source software library popular for its ease and intuitive use. The Selenium WebDriver With Python 3.X course is designed for Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://sea.ign.com/news/170552/learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle",
+      "originalUrl": "https://sea.ign.com/news/170552/learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_ap/news/l/learn-to-c/learn-to-code-like-a-pro-with-this-pay-what-you-want-python_2pqe.1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN Southeast Asia",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact.md",
       "title": "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact",
       "excerpt": "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
@@ -1037,49 +1080,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-evolution-sets-the-stage-for-more-powerful-spiking-neural-networks.md",
-      "title": "Evolution sets the stage for more powerful spiking neural networks",
-      "excerpt": "Spiking neural networks (SNNs) are a type of artificial neural network that most closely replicates the structure of the human brain. This makes SNNs an important step on the road to developing artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/features/doe/2021-04/ddoe-est040521.php",
-      "originalUrl": "https://www.eurekalert.org/features/doe/2021-04/ddoe-est040521.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/features/doe/images/ddoe-est040521.main.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

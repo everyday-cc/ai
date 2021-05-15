@@ -105,22 +105,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business"
-    publishedDateTime: 2021-05-12T04:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21075003"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075003"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg"
-        width: 582
-        height: 304
-        isCached: true
   - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
     excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
     publishedDateTime: 2021-05-14T09:53:00Z
@@ -150,6 +134,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
+    publishedDateTime: 2021-05-12T09:51:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
         isCached: true
 
 secured: "xepoA4Kqnsl2h6Xkb4r9HqlkRZCjgUl+CE8PXafkHPraS8fYONiFEFNHY0UEJGm4acMyF8WpNqF8R+6JnVtSfRz/Gh7z4BhxPq9obulrp6MGkXhTZ5X8aXiyoeMAK1eW7/t8ZQZr5nk989RUz/aIwWcSn07DjmwL4H8UaaXQWqCwmh7ZvEUxI9Y/YVT1l9e1xS6UdULiKFFZOzGqARdHnwo8LIU+rTTsq/UiqfZlzDawGA4wVk7Tx87ohKhNNXKPc5XFEdSnsBSp+dFfo/beoxKh4AOXwRXiJrIVQtr9zoaLEfSxWnkNhPcngxYZOmv8otyoK/+MT0ZlhkR8jgM8bYIjNolm2li3wAXQk4a+Kys=;ibvCmzMAtE/HD9nTWAMkfg=="

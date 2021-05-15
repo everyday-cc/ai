@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Truck Startup Plus Going Public Via $3.3 Billion Hennessy SPAC Deal"
-    excerpt: "Self-driving truck startup Plus is going public via a $3.3 billion merger with the special purpose access company (SPAC) Hennessy Capital Investment Corp. V."
-    publishedDateTime: 2021-05-10T15:21:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 38
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/self-driving-truck-Plus-SPAC-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Four Firms Guide SPAC for Self-Driving Truck Startup Plus"
     excerpt: "Kirkland & Ellis and U.K. firm Linklaters are advising self-driving truck startup Plus on its go-public merger with special purpose acquisition company Hennessy Capital Investment Corp. V."
     publishedDateTime: 2021-05-12T10:55:00Z

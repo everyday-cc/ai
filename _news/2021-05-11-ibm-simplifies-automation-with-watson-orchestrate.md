@@ -1,29 +1,33 @@
 ---
 category: news
-title: "IBM Simplifies Automation With Watson Orchestrate"
-excerpt: "IBM’s Watson Orchestrate is an AI-powered software tool designed to simplify and automate the process of finding and combining appropriate sets of data for a given task."
-publishedDateTime: 2021-05-11T07:05:00Z
-originalUrl: "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate"
-webUrl: "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate"
-ampWebUrl: "https://seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
-cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+title: "IBM simplifies automation with Watson Orchestrate"
+excerpt: "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating"
+publishedDateTime: 2021-05-11T14:40:00Z
+originalUrl: "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
+webUrl: "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
+ampWebUrl: "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-    width: 1200
-    height: 1200
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg"
+    width: 2560
+    height: 1600
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM.jpg?fit=800%2C600&strip=all"
         width: 800
         height: 600
-        isCached: true
-  - title: "Expert.ai adds emotion and style detection tools to natural language API"
-    excerpt: "Expert.ai added new tools to its natural language API to help AI developers detect emotions, behaviors, and styles in large-scale texts."
-    publishedDateTime: 2021-05-10T15:20:00Z
-    webUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/"
-    ampWebUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/07/natural-language-processing.jpg?w=1200&strip=all"
-        width: 925
-        height: 611
         isCached: true
   - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
     excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
@@ -191,6 +179,6 @@ related:
         height: 600
         isCached: true
 
-secured: "LMR++Hkfcj5mhMR2r/xKa0P9D/L+8wrrlKvE77xuawXTvPSQjBb7fvsHZq3Uvtc5MGSW5ArkAD4hNDjmDaTFLnq4VW0xDWH7jyordlCdP4bIN51+yOiLiqNvL/TGC8XlyIJhfw9jrwjdhvp69iX/6/jTZt4oMCIkuG6bPHpstH8zGqun6pBy+VXOefdBwsJOTPUe08DQBW1962EN5OITnHzMuCUtnn62/GmXMnSaJu6QuDv9N6amms0VtRiulW0I7NvOBW2fZohEGLp7MLKtXowBfU3qWVLAPZcfKW/RSilOt8TLaRLunkbcRne8tR7/4KM08w4KIfWwXUG2kjVCZl+SYEcxuZ393SpJx2ejfRc=;dHo5+X35A8uHsTdI2ngq1w=="
+secured: "vmaHjCN2yh3w8tk7bH4Y/tIkSegedfS3bNL3NxyOFz2MdyO8GgaPgLcYf//z66zK8sJpEhdUOlm7gLvjcOeQu5hxCT2XXgpUcr+GfmKLpSqVQJOaJAneK6Lk9ne6pkmiP5BbuXbM08SVTk6XWvS/gAmF4tcax2LOzjBZ2yMWKACUDoiuh+6bnTjRlN6Q86Ex/yaSXLNRzDn7f+9vyHMj2iYbR0rDq1aHGIOjNH0gCeOXE8Wc+BmRobQ8qi+iLVTwm8tsNOvRUTnvV7gok2Vvd1PZyVPFvK6B7a0jsbzz1wijCug8F+AfKJeuQqWqfGpQxJehGZqEJKqBxN5QyXVJRDD9aQ07USQJQKYucZ1Adjg=;0t/PpiJo1jaBZ4s2e51MhA=="
 ---
 

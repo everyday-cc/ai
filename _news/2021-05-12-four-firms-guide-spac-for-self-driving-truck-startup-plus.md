@@ -41,22 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Autonomous Truck Startup Plus Going Public Via $3.3 Billion Hennessy SPAC Deal"
-    excerpt: "Self-driving truck startup Plus is going public via a $3.3 billion merger with the special purpose access company (SPAC) Hennessy Capital Investment Corp. V."
-    publishedDateTime: 2021-05-10T15:21:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 38
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/self-driving-truck-Plus-SPAC-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Scooter startup Bird to go public through merger with SPAC"
     excerpt: "Bird Rides Inc. will go public by merging with a blank-check company, securing a new source of capital after venture capitalists largely lost interest in money-losing scooter rental startups. A special purpose acquisition company called Switchback II Corp."
     publishedDateTime: 2021-05-13T15:31:00Z

@@ -1,24 +1,31 @@
 ---
 category: news
-title: "How AI Supports Low-Risk Member Identification, Care Management"
-excerpt: "Payers can leverage artificial intelligence and machine learning to inform their intervention strategies in low-risk populations and improve their care management approaches."
-publishedDateTime: 2021-05-13T13:30:00Z
-originalUrl: "https://healthpayerintelligence.com/news/how-ai-supports-low-risk-member-identification-care-management"
-webUrl: "https://healthpayerintelligence.com/news/how-ai-supports-low-risk-member-identification-care-management"
-ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-ai-supports-low-risk-member-identification-care-management"
-cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-ai-supports-low-risk-member-identification-care-management"
+title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
+excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
+publishedDateTime: 2021-05-15T09:01:00Z
+originalUrl: "https://www.businessinsider.com/dell-backs-analytics-firm-pecanai-in-35m-funding-round-2021-5"
+webUrl: "https://www.businessinsider.com/dell-backs-analytics-firm-pecanai-in-35m-funding-round-2021-5"
 type: article
-quality: 39
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: healthpayerintelligence.com
-  domain: healthpayerintelligence.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://i.insider.com/609e66fca9b6a40018f1c108?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "How Asset Management Firms Can Use AI For Data Analytics"
@@ -101,20 +108,17 @@ related:
         width: 2800
         height: 1936
         isCached: true
-  - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
-    excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
-    publishedDateTime: 2021-05-15T09:01:00Z
-    webUrl: "https://www.businessinsider.com/dell-backs-analytics-firm-pecanai-in-35m-funding-round-2021-5"
+  - title: "How AI Supports Low-Risk Member Identification, Care Management"
+    excerpt: "Payers can leverage artificial intelligence and machine learning to inform their intervention strategies in low-risk populations and improve their care management approaches."
+    publishedDateTime: 2021-05-13T13:30:00Z
+    webUrl: "https://healthpayerintelligence.com/news/how-ai-supports-low-risk-member-identification-care-management"
+    ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-ai-supports-low-risk-member-identification-care-management"
+    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-ai-supports-low-risk-member-identification-care-management"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/609e66fca9b6a40018f1c108?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 39
   - title: "AWS and NHL to debut on-screen analytics in Stanley Cup"
     excerpt: "Amazon Web Services (AWS) and the NHL are to introduce two new on-screen analytics for the Stanley Cup. The graphics and visualisations will appear in broadcasts, and aim to give fans a better understanding of how players and teams are performing."
     publishedDateTime: 2021-05-14T09:21:00Z
@@ -239,6 +243,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fm7FGh5vurotv6Lu9N7vAtuYjSPDqb0225tck7GC0+7gPOzfxfcqBAIND749OWNxuHJuAXJsftMj5BjuC0AkaCLLLUKBj1SADINqeQAWoOTCQelNqLraAh4hb47wSS5pN1ZuKI1GXWlTXIF39HwHpifHg4SUbZRXHjj3KILyDwR+Q7g0YVOiH/8tq2LUPACgfqpphoT8S4d2x842IqpITYCH7ajcuhkmEunrTHKwcQd86cuZGVCOOy7mf9k1xBeaYF/oo2E+dcDKoHZ/oHtXJldn3f83IWuJdIqn2RA/o9WVPr9GTsxIWRZtvAGb4GlLhoKOLgsAU90TMb9scr1cCh2SoYF0pYOqVChVeZyKdPyADQ0s+dClFeShkW3R3I+2eSrGG9Ojo7F9PnCuv3WKFei2oM8T3B+U2WQ8UtMTWWAu2R1C7rtQZvpzdEgxqBqodyP/xj/MzPt78zw2xUsZGGzcls4dqr6WPWzcToNQ/zvJQR58SN7sjYDylN0M4R+MleINRqvTXLeznoyGmEQkPQ==;9hS96IMXGNemagZELGgjvw=="
+secured: "FAHzA3+W9Hyl7MQnsSQ4zCB6JNWAyIwJ1QjJA0EGtWMbmoOHU8MB520yGJArotuT7SvU/gt0w9xoq/GjBfnsBqfGlfwD2ohuE6fSkFxeOuZH5J+iw+rqIkioqhaH6oAA0CjyiO47VQFL/GAq1nKXVG9tr0NbIgdGECWefVZQfOKBRBhZ1nOpluWfm0XTFB0veXZbWcUKpmJkPdpGJ51mNjtDYJp0uCc0Yo9Plzr89nLHK9pWXU6N6LdMgdCTseEln4KBG/BqBudBh3UtKfytwuCnCfJvLoYq1V+OtX/O8T23XYOKy0HK7gPJKcolxn/5mTqvgHyau4xZGEFG6WWg189sIC6HsEaG060A7mds9b4=;1bt6/NtKO0h426lYOs1yMQ=="
 ---
 

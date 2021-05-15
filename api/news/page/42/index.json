@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-04-07-7-ways-the-cloud-is-changing.md",
+      "title": "7 ways the cloud is changing",
+      "excerpt": "Amazon’s AWS for the Edge service offers a similar opportunity to move your code closer to the users. Those who use the Amazon SageMaker machine learning services can push them out of the major data centers to the edges. Amazon is now emphasizing their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
+      "originalUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
+      "publishedDateTime": "2021-04-06T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
       "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
       "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
@@ -1096,49 +1148,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle.md",
-      "title": "Learn To Code Like A Pro With This Pay What You Want Python Training Bundle",
-      "excerpt": "Advanced Machine Learning With TensorFlow introduces learners to the anatomy and structure of TensorFlow, an essential open-source software library popular for its ease and intuitive use. The Selenium WebDriver With Python 3.X course is designed for Python ...",
-      "sourceUrl": null,
-      "webUrl": "https://sea.ign.com/news/170552/learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle",
-      "originalUrl": "https://sea.ign.com/news/170552/learn-to-code-like-a-pro-with-this-pay-what-you-want-python-training-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_ap/news/l/learn-to-c/learn-to-code-like-a-pro-with-this-pay-what-you-want-python_2pqe.1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN Southeast Asia",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

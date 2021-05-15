@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-analytics-predict-c.jpg"
         width: 2800
         height: 1936
+        isCached: true
+  - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
+    excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
+    publishedDateTime: 2021-05-15T09:01:00Z
+    webUrl: "https://www.businessinsider.com/dell-backs-analytics-firm-pecanai-in-35m-funding-round-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/609e66fca9b6a40018f1c108?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How AI Supports Low-Risk Member Identification, Care Management"
     excerpt: "Payers can leverage artificial intelligence and machine learning to inform their intervention strategies in low-risk populations and improve their care management approaches."
@@ -230,6 +244,6 @@ related:
         height: 630
         isCached: true
 
-secured: "w38xgWHcQwT3mNe5ftjtd2yw88VTxvJyBYPgdKoWbuqTf4X5CqzgaalNhUl7EOW05w8o2c3+xGONzKex9DLlfffkRQ1wHMKyBarSP7GCuDvS5X2HUYwW8F0tS/TqJnlqyMov12FamRPn/HZGRdgPTa/haZhLlPEAPnjxiETiVnhaJObk/fl3MLQ7HsZll11jMux1jteK36Fj9/X0i0gg31uFwAKdUhgIj7uB7JraBU22aajGtOXDLzKj1ye6ScdXBdYK/QZCGp8d/Up5gM+Bk9tN8FjHe75ALCgqcuIb+kBIR5qmkbSbJVOY/uKMR7/QuJcuPfbaA2l17TyWk/xonYbstP4WKBud8iIV33/LsTk=;96e9DuYh05dfJmRFVGJOpg=="
+secured: "6ag0cSwh6uWeh6Pqk0BHYHsIYBvSI5lIh0LtVog9EZvL8gk9+TQxUVzMwT9O7tsXLRk3XYfLM1JX9Qz2a2+l4XeScgdA05RxrBu+5gNxJSSuHbITJmJHFnWa6acboZl+YOFwcLmbGp2z3c84Ygv7Z4CwrXdNycD2hxRY+JxUaqz13d4Rd6Pl9/ynb64RnTs6U9R9otB1t3SHiVIJeOPsxl5YEnXuoKNo/xT2Y/RARohrSWospkMQWh1w1rNykKHfm9QAG25TDXbz6GM2LB/yb5qNG9DU2PxHOJFIgeUy2ynA9DDmEXlRIV9HDnu7CT3E62QoK7hNO0OyRbo+GtDuOxYv0daxHl396sZDmPoIK8qVXVvYQBnNlq8O76IJ0UdsU5T0zsNCgs4dDAZ4/jGEE0Q5iJ9mST0R3+WsJMmeuepWzNrY/5PAQVyZkSjD37lpx+8N1a/rKkhzi5icgQue24l5H3CSUmXfFM+ahy1lLDPQlkrH1iIixkznXg7SSxW6TKWZHBpNFXCLMqc94OAWHA==;0Oz80LQTErnqWUu5IuwOQQ=="
 ---
 

@@ -105,22 +105,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business"
-    publishedDateTime: 2021-05-12T04:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21075003"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075003"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg"
-        width: 582
-        height: 304
-        isCached: true
   - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
     excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
     publishedDateTime: 2021-05-14T09:53:00Z
@@ -136,6 +120,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/08/communication_network_online_meetings_virtual_events_digital_conferences_video_conferencing_remote_teams_by_metamorworks_gettyimages-1223790400_2400x1600-100854037-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
+    publishedDateTime: 2021-05-12T09:51:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
         isCached: true
   - title: "Highlights From IBM’s Think 2021 Conference"
     excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"
