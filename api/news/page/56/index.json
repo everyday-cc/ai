@@ -2,6 +2,74 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-03-19-deepmind-is-teaching-its-ai-to-navigate-cities-using-street-view-images.md",
+      "title": "DeepMind is teaching its AI to navigate cities using Street View images",
+      "excerpt": "Vaughn Highfield Associate EditorKnown as the tallest man in tech (something he’s never personally claimed to be), Vaughn writes about a broad range of technology, from VR worlds to startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/google/1008999/google-ai-human-navigate-city",
+      "originalUrl": "https://www.alphr.com/google/1008999/google-ai-human-navigate-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-is-billie-eilish-musics-biggest-style-icon-music-fans-weigh-in-on-grammy-debates-with-ibm-watson-during-the-2021-grammy-awards-show.md",
+      "title": "Is Billie Eilish Music's Biggest Style Icon? Music Fans Weigh In On GRAMMY Debates With IBM Watson During The 2021 GRAMMY Awards Show",
+      "excerpt": "But for the 2021 GRAMMY Awards show, music-lovers around the world engaged in a series of structured, fun debates with GRAMMY Debates with IBM Watson, the first-ever AI-curated music debate platform. And they brought some serious logic during Music's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson",
+      "originalUrl": "https://www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson?amp",
+      "cdnAmpWebUrl": "https://www-grammy-com.cdn.ampproject.org/c/s/www.grammy.com/grammys/news/billie-eilish-style-icon-grammy-debates-ibm-watson?amp",
+      "publishedDateTime": "2021-03-18T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GRAMMY.com",
+        "domain": "grammy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-who-is-afraid-of-black-box-algorithms-on-the-epistemological-and-ethical-basis-of-trust-in-medical-ai.md",
       "title": "Who is afraid of black box algorithms? On the epistemological and ethical basis of trust in medical AI",
       "excerpt": "The use of black box algorithms in medicine has raised scholarly concerns due to their opaqueness and lack of trustworthiness. Concerns about potential bias, accountability and responsibility, patient autonomy and compromised trust transpire with black box algorithms.",
@@ -871,83 +939,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-safety-concerns-determine-level-of-public-support-for-driverless-vehicles-finds-ntu-study.md",
-      "title": "Safety concerns determine level of public support for driverless vehicles, finds NTU study",
-      "excerpt": "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ibms-ai-debating-system-able-to-compete-with-expert-human-debaters.md",
-      "title": "IBM's AI debating system able to compete with expert human debaters",
-      "excerpt": "IBM has developed an artificial intelligence-based system designed to engage in debates with humans. In their paper published in the journal Nature, the team members describe their system and how well it performed when pitted against human opponents.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
-      "publishedDateTime": "2021-03-18T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

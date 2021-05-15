@@ -1,28 +1,28 @@
 ---
 category: news
-title: "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning"
-excerpt: "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning."
-publishedDateTime: 2021-05-11T11:44:00Z
-originalUrl: "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/"
-webUrl: "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/"
+title: "Global Machine Learning Artificial intelligence Market 2021 Top Prominent Players – AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook,"
+excerpt: "MarketQuest.biz has announced a report titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which enumerates a comprehensive analysis of the industry,"
+publishedDateTime: 2021-05-14T18:55:00Z
+originalUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
+webUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
 type: article
-quality: 51
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: techfinancials
-  domain: techfinancials.co.za
+  name: The Sentinel
+  domain: ksusentinel.com
 
 topics:
-  - Google AI
-  - AI
   - Machine Learning
+  - AI
+  - Google AI
 
 images:
-  - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/04/wits-university.jpg"
-    width: 960
-    height: 480
+  - url: "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png"
+    width: 482
+    height: 350
     isCached: true
 
 related:
@@ -93,19 +93,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Global Machine Learning Artificial intelligence Market 2021 Top Prominent Players – AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook,"
-    excerpt: "MarketQuest.biz has announced a report titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which enumerates a comprehensive analysis of the industry,"
-    publishedDateTime: 2021-05-14T18:55:00Z
-    webUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
+  - title: "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning"
+    excerpt: "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning."
+    publishedDateTime: 2021-05-11T11:44:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 48
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 51
     images:
-      - url: "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png"
-        width: 482
-        height: 350
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/04/wits-university.jpg"
+        width: 960
+        height: 480
         isCached: true
   - title: "Google-linked DeepMind launches scholarships in South Africa"
     excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."
@@ -142,6 +142,6 @@ related:
       domain: engineeringnews.co.za
     quality: 14
 
-secured: "BQfPkTTgVd9nujPWtOQQ0u0f3CzJaP9TkMxy4QpIM696wTW+wBJ52T+iqe/nZnK09dqA4Jm8QwT9xOCpDBe69XUDmz9wVs9eFGWpPl+A7yQoBcEhtgcgb0rQvKTeRHd2IE8LDkdgvyj9uYiaFvQwCtQHzJPUi/0vLhjmMmBP/bPirsGSANckiKtu1nsytZ+vLI8d85Qm61x2Em5FEUZkBwaVHxrfjOcSGdQ+SZD2v8ZFZcQkk3zf2UQpr3KOkehEd+mndrZR9IbLQyhItvxezI78iMbiGlnaQykuQQ6ONH3s93dsG9CL6Xm3+eHD2QukQBjuz2udmoqgqaICi3Ne7MjDxL+di2s8ZEhzB58tKAUierhwOV7fDDOucLK3CAnPRPjSrkq/RPkGLveC+lSMJqMmMmoCUt0u6xSirAaK+bIFORmwG3f2KcWxL68SulNrsuJ2v3hB8xpvRFZTysSM5zYvbm78aTjQImZaU8fk77IWfcilC/Bpeb4gj+BZIjlNy45aA3h7Wa7phCmL0YMMOQ==;s/wh7LeFsfT/NWkRlc8xNw=="
+secured: "sZkt3z18lBMceGOAJvpSJkuKz28jzvWqxAM3bmPEysfUh1qNzlS/5/W+1H0UFvEZT4EEZN5JIz9oRCz/bK3FzU6/Mj/NRdIXGCN1m2yN5/j8c0dfEJ3pfk54NMP9OQe2zA6sOn0fkx+/nvmV/ZpZIgW9SuhWZcdGVHoo0TAo7Z3NSG3ZHnEHFc6Lzi6OddSYrsonskqBoBGWXGwX+/XPHb6Nv7WJ4o56H6JeN602hdUHlpUio041xPAHAJrbG1gtGQFeBStqEQXGWfe675vIkm2kKScTat+ORJJGWB+Kqio5KFz3BXJ3HgU6oaGQFbqu6YNLYrPfM8a5zvDAUvylBSOHtvqr8fYYqJ/3xdbJhJs=;4D7OcNSL1Qdw7k2z52bmEg=="
 ---
 

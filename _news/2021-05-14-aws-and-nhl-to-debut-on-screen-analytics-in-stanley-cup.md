@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-    publishedDateTime: 2021-05-11T16:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI analytics predict COVID-19 patients' daily trajectory in UK intensive care"
     excerpt: "Researchers used AI to identify which daily changing clinical parameters best predict intervention responses in critically ill COVID-19 patients."
     publishedDateTime: 2021-05-11T13:58:00Z
@@ -143,6 +129,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
         width: 1288
         height: 648
+        isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T15:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-innovative-sas-hackathon-winners-solve-big-problems-through-/2021/05/11/9366663.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
     excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"

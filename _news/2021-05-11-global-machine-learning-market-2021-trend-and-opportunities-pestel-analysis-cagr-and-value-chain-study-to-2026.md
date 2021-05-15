@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10"
 type: article
 quality: 65
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -205,15 +205,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 7
-  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
-    publishedDateTime: 2021-05-10T11:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "YR6oPaxtlxgxCUrTtALhaX/kVNefqd8nAESEM/RzFGh/wE8Q0i8CSkRPb1wNXLuBl28q3s+y6WgXScG9qjLnRjcDhFQJaLjB9T1Eprile8CXX+sSDu0gy3eFxYcJmHXoWwBIAXH8Kp5YiInvS/FJLClz9mWRKYsOP8gHmYFCpRXpKHbPNkno6FmxD52tFNNwNIhkz3GUTZgOL6svfj89QzR+sDqgAYDZJbtZiVL90jO4PZM+ZFje6HKsyTqSrbcmcDN0heuekhdykRea+HBxuuAFEzcHz88eK0FfCjWHxrS4iFdgaNVJBYTKSlKB8FbVA+hT3VlOQozVjm8d1CM2kyevPBGqYuvSfXtJcc5g3sM=;hn0BBKPR087wu1/gYMZ6yQ=="
 ---

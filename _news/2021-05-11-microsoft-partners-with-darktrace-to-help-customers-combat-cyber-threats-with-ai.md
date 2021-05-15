@@ -7,8 +7,8 @@ originalUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-h
 webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Neowin
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Darktrace partner on AI-enhanced cloud security"
-    excerpt: "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,"
-    publishedDateTime: 2021-05-10T11:09:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 121
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg"
-        width: 1000
-        height: 679
-        isCached: true
   - title: "Redstor unveils AI and Kubernetes offerings to help Microsoft partners manage customer data"
     excerpt: "The services are designed to transform the way Microsoft partners manage and protect customer data in Microsoft Azure and Microsoft 365."
     publishedDateTime: 2021-05-11T06:42:00Z
@@ -75,34 +59,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-    publishedDateTime: 2021-05-13T03:50:00Z
-    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 54
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Best Microsoft Azure certifications for a career in cloud computing"
-    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
-    publishedDateTime: 2021-05-14T21:57:00Z
-    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
-    type: article
-    provider:
-      name: theexeterdaily.co.uk
-      domain: theexeterdaily.co.uk
-    quality: 54
-    images:
-      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
-        width: 688
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
     publishedDateTime: 2021-05-11T15:09:00Z
@@ -117,24 +73,6 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "Hyperscience Joins Microsoft for Startups"
-    excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
-    publishedDateTime: 2021-05-11T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hyperscience-joins-microsoft-startups-/2021/05/11/9366313.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their Windows Virtual Desktop technical practices are able to earn the Microsoft Windows Virtual Desktop advanced specialization."
-    publishedDateTime: 2021-05-13T17:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210513005625/en/Wipro-Has-Earned-the-Microsoft-Windows-Virtual-Desktop-Advanced-Specialization"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
 
 secured: "ZqALfrM6VxF9GjedKtf/SerFraoywXwn20l6bble8f2ec657JVEcWwTcV6P8o6aeXiiHGRYNcryZIaNZCVuk+CDtRysbI6yKYAFBXpGvX/v7Fj7uqL2D47RFrFgMt9UbJpdhJLmPOSv3lVjkok0qZhbMaYaKlPh62xkK93RJkA7MQnAH5/1RA58rZEkwRrNbMrUVA/9H4eCnTqKWS0QNF+IwcuMooomQEoNdJiy0pQpWYHDVZPKevTzi+9kGJYo+fZ404wfr3y6VBTWP02nE8ZxyobRQUH7Ye0ITpDPthIV2RUBr8/r9qBPV4ZF9ZiDb+qijHIDDScaY1O78iM9xuDCJRKrb9Bd0suOTBPy2dndYZof6hVfijEwHGtMPqVZ+q2M07gumREbrhdl7ZOFfnRF/qLUfKyy2wy4YcpFW6LaqGjSpFFCKbYgFsm+0h9TIo5e3Dq4qokpEGzaIxnjP9qOmXOfsKWNY1TJ2VhYXn6y5/x8C0IVj3JAAv+m1kc6iunIaB05MaQGtdIt9GaaueQ==;LYMrgGfEa+XP7+dJWBxPxA=="
 ---

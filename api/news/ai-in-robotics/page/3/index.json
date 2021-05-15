@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-20-facebook-reveals-plans-for-brain-computer-interface-for-speech-prostheses-and-mind-controlled-likes.md",
+      "title": "Facebook Reveals Plans for Brain-Computer Interface for Speech Prostheses and Mind-Controlled “Likes”",
+      "excerpt": "This week, Facebook held its annual-ish F8 conference in San Jose, California. While F8 typically involves announcing new features to the company’s namesake social media platform, Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2017/04/facebook-reveals-plans-brain-computer-interface-speech-prosthetics-mind-controlled-likes.html",
+      "originalUrl": "https://www.medgadget.com/2017/04/facebook-reveals-plans-brain-computer-interface-speech-prosthetics-mind-controlled-likes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
       "title": "Want to Get Along With Robots? Pretend They’re Animals",
       "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
@@ -1343,40 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-humanoid-robots-market-share-size-growth-industry-forecast-report-2020-2027.md",
-      "title": "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027",
-      "excerpt": "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2266508/humanoid-robots-market-share-size-growth-industry-forecast",
-      "originalUrl": "https://www.openpr.com/news/2266508/humanoid-robots-market-share-size-growth-industry-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast",
-      "publishedDateTime": "2021-04-06T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

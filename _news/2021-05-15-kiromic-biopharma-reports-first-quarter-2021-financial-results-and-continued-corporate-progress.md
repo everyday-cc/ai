@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "BioXcel Therapeutics Reports First Quarter 2021 Financial Results and Provides Business Update"
-    excerpt: "Granted FDA Breakthrough Therapy designation for BXCL501 for the acute treatment of agitation associated with dementia; registrational program"
-    publishedDateTime: 2021-05-10T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-reports-first-quarter-2021-financial-results-and-provides-business-update-1030408520"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "Kiromic BioPharma Reports First Quarter 2021 Financial Results and Continued Corporate Progress"
     excerpt: "Kiromic BioPharma (NASDAQ: KRBP), a pre-clinical stage biotechnology company using its proprietary DIAMOND® artificial intelligence (“A.I.”) platform to improve drug discovery and development with a therapeutic focus on immune-oncology,"
     publishedDateTime: 2021-05-14T11:50:00Z

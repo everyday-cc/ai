@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota-Backed Self-Driving Car Pony.ai Partners With Luminar"
-    excerpt: "Rendering of a robotaxi with Pony.ai?s next generation self-driving technology using Luminar?s Iris lidars, in this undated handout image supplied by Pony.ai. Pony.ai/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
-    publishedDateTime: 2021-05-10T11:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-10/toyota-backed-self-driving-car-ponyai-partners-with-luminar"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Toyota-backed self-driving car Pony.ai partners with Luminar"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor (NYSE: TM) Corp, said on Monday its next-generation technology for robotaxis will be using lidars made by Luminar Technologies, Inc. Lidars are laser-based sensors that are a key component to many autonomous vehicle technologies and help them perceive the environment around the cars."
     publishedDateTime: 2021-05-14T15:51:00Z

@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-learns-to-type-on-a-phone-like-humans.md",
+      "title": "AI learns to type on a phone like humans",
+      "excerpt": "Touchscreens are notoriously difficult to type on. Since we can't feel the keys, we rely on the sense of sight to move our fingers to the right places and check for errors, a combination of tasks that is difficult to accomplish simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-ai-humans.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-ai-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-learns-to-type-on-a.jpg",
+          "width": 719,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-ai-humans.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-humans.amp",
+      "publishedDateTime": "2021-05-12T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-how-could-conversational-ai-shape-our-language-particularly-in-business.md",
       "title": "How Could Conversational AI Shape Our Language, Particularly In Business",
       "excerpt": "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice.",
@@ -201,7 +243,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1182,49 +1224,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-kfin-technologies-acquires-17-stake-in-insurtech-startup-artivaticai.md",
-      "title": "KFin Technologies acquires 17% stake in insurtech startup Artivatic.ai",
-      "excerpt": "The stake purchase in Artivatic.ai will mark KFin Technologies foray into Indias insurtech space as the General Atlantic-backed fintech firm looks to diversify its portfolio of services.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102294,msid-82550299/acquisition.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
-      "publishedDateTime": "2021-05-11T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
+title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
 excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-publishedDateTime: 2021-05-12T11:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/health-science-coronavirus-pandemic-artificial-intelligence-technology-0847982243cf9d542639bffacf89353e"
-webUrl: "https://apnews.com/press-release/pr-newswire/health-science-coronavirus-pandemic-artificial-intelligence-technology-0847982243cf9d542639bffacf89353e"
+publishedDateTime: 2021-05-12T09:00:00Z
+originalUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
 type: article
-quality: 29
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
+    width: 1618
+    height: 1400
     isCached: true
 
 related:
@@ -186,6 +189,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "pT8oRIUtyjpd6IRK2GWXb+B2MQoh2joyhw19ct9oNorEhQ9Hs0tN91eSsVfobVF9uxTGetaoyqvtXyYDZT6JVq2LxGGgOIYZ+A5nDppvg39M/wyOg3zxw6gsR07JGlVBC9dEhp31u+qHAw38qAvDp5WFpEUDUlJ5SQVUlJouOecbMgSyvFEdkuhmfdanqZ8i+b865ZhVkRfyhxKwHQRVMssdAiFqBVdNtsT895yylzereAdewbgjXlKT/Mjna0dGFWn7FiCXCMwYujxTFC+etLnVvDP6TQpd58jAFhI64ESk7AFAILVAqzsHWgOfb2oMEdeu2P3HSUJ8IAAZntWU7oC8zgqIrZl4D8RGMT0lY84=;snZ4uZbLxUuidbdt9Qr5+w=="
+secured: "FqtYJ7glOeB+qOOKteHUFj0mFoCL61IlfMF9EsXWWz6mDjtlyyYe+SKpdb9CJ8RYcKcYDLuFkliqTzC3/1FHqYI5oXiQbwRadYsiCQZ4/Y7xei2P25O7Xlm/kZ/24F4vONJ8fMLzQpRQc7B8JpVvrGjDkDR3OnWn2iOXsdhjQDcxjyla6nEhFHxPEoh0oOeyrdl6Z9QYawlHuVyJKs2I6Mjnmtx4tWhlLuoE6PjMvhom4OREnAKGtyARKVIn49bZud7/8wKDHaUUVqoAZulw51DkwpPFXLRXGrETlWB3mG+DGt2ouPVapu/MmT1c4REkT7X+2GccmGjy4qQXrpkUvQsPEPcB2JXg+5NqMx6aaY0=;WA6ULehs4tPUczU4RVo3CQ=="
 ---
 

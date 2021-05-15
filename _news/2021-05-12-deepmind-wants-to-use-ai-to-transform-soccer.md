@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-
 webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/04/wits-university.jpg"
         width: 960
         height: 480
+        isCached: true
+  - title: "Global Machine Learning Artificial intelligence Market 2021 Top Prominent Players – AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook,"
+    excerpt: "MarketQuest.biz has announced a report titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which enumerates a comprehensive analysis of the industry,"
+    publishedDateTime: 2021-05-14T18:55:00Z
+    webUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 48
+    images:
+      - url: "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png"
+        width: 482
+        height: 350
         isCached: true
   - title: "Google-linked DeepMind launches scholarships in South Africa"
     excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."

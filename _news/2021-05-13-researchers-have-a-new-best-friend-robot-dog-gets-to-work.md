@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/researchers-have-a-new
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/researchers-have-a-new-best-friend-robot-dog-gets-to-work-71620835825775.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Develop a New Soft Robot"
+    excerpt: "It is always fascinating to see that the field of science is always bringing something new to the table. Science and technology has always inspired many people to employ their intelligence for the betterment of society and humanity."
+    publishedDateTime: 2021-05-10T13:09:00Z
+    webUrl: "https://techstory.in/researchers-develop-a-new-soft-robot/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/5d1c88db85621.jpg"
+        width: 800
+        height: 435
+        isCached: true
   - title: "Researchers' New Best Friend? Robot Dog Gets To Work"
     excerpt: "Its name is a French acronym for \"Advanced Robotic Assistance System\", and the Ecole des Mines was the first in France to purchase the Spot robot from the US firm Boston Dynamics last September. On Tuesday,"
     publishedDateTime: 2021-05-12T11:49:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
-publishedDateTime: 2021-05-13T14:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
-webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
+publishedDateTime: 2021-05-13T14:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -50,6 +50,6 @@ related:
         height: 800
         isCached: true
 
-secured: "l3R8Iryk9nxG7U7VLBdrfW4W2iAC+C3Lgq7rtuXRY6ryxPjqz6wkIs6SmyjISKLQjf5+u5+ie0YQcKH6gzz1Pj0k5VwoKKzNY4EFcjm4TQh3s9445GVTsKlX9StGxtWD5fS/RNCtKuQQhO5WFeDXHgVIPMbZQ6HRghVy5GIUB3ziyXTEOZiEKT3huoMcGYknQhu9gnXraFm/ZxQp/vVnsONuSX2YYFae9gX/hPfmfKa0y+m2PnBywDHfYhAZpdmE4+YeWYcdI+m/cHncAU/jnwJcAGnBy9xRcHj0bvOKcrgVRtr2DsW/bi0ithFKFtDT8TcWc2d5rcrWpHvJTc5ZkzhgCoYDiwmtxlELaeNySHg=;rrbuzxDyEoXYJxftLlAs3Q=="
+secured: "WSdbvkpXzF0tYRarFm6R+QC3am7Xzbna0HilEOXcCAC6+jutjbu/ahOulLrv9KrUfPpGrXqTxbsuV/MsHZTBRq0RgWSiYpienafaQovEJmWURTYfcay+/sEqeqvseSldL9WHff2omhvZelex+lv75N0olEKi61ONlgh3Aezwvgm4rm9ee82sbjoNrZ6pJ7mx5p8pYSzOX0tzatj7X5XVZ42H7fUXoqaeyWy+JRHvdo43/H7thDIfzrXfwMtlmSCwzGEkJG/4OELxyKoa8RHQJqSqPPp+4sk3vwjVcah5kjzZwp8+vaFkWIjDK0zoe00b4Uxbk4/QZeb3HC906CUI5K5lQLgpYe3sUT/gKXcCurE=;mHCel9secm3TtHaBjTeXCA=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Best Microsoft Azure certifications for a career in cloud computing"
+    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
+    publishedDateTime: 2021-05-14T21:57:00Z
+    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
+    type: article
+    provider:
+      name: theexeterdaily.co.uk
+      domain: theexeterdaily.co.uk
+    quality: 54
+    images:
+      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
+        width: 688
+        height: 400
+        isCached: true
   - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
     excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
     publishedDateTime: 2021-05-12T03:42:00Z

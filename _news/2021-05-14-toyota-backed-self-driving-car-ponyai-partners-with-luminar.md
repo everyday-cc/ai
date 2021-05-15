@@ -41,15 +41,6 @@ related:
         width: 1500
         height: 847
         isCached: true
-  - title: "Toyota-Backed Self-Driving Car Pony.ai Partners With Luminar"
-    excerpt: "Rendering of a robotaxi with Pony.ai?s next generation self-driving technology using Luminar?s Iris lidars, in this undated handout image supplied by Pony.ai. Pony.ai/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
-    publishedDateTime: 2021-05-10T11:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-10/toyota-backed-self-driving-car-ponyai-partners-with-luminar"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "WphFHMgC/OnVOYksUk/nxUf2nf9tqI3d7hFKtN2cd78Vx5i8vXe3iRFYIVOEisBi6Qq/ST3fqehhdPFZ+ccovW9ohVOHopjNOnyy7229e66yBGcs+CNkthmSCq0ELwihT4GKiJhULz0Zl7GlV0z21OYd++M7SYHO4ooajpu5TvgjQ0D2StXz4Z1zX54KoC8ejV58nOVP6/HxbTik/t1fUKAMQ2blVGmXky0k1EIbhs2/I+fqN3qYKcrw2JV5bnV/wQqOpncxCQKPJXFaffxC8OF5D7COs4gkXeGYCTM0uoPtA63V36pjyImeqah6Sw7EL0QDZwXW4dechgQOblMRZxbFrqS53tngyz5l/xgLSvE=;jmf46daWyZJA0RaWbnYpkA=="
 ---

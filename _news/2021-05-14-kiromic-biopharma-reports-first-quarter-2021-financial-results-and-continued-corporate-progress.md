@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20210514005463/kiro
 webUrl: "https://www.morningstar.com/news/business-wire/20210514005463/kiromic-biopharma-reports-first-quarter-2021-financial-results-and-continued-corporate-progress"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "BioXcel Therapeutics Reports First Quarter 2021 Financial Results and Provides Business Update"
-    excerpt: "Granted FDA Breakthrough Therapy designation for BXCL501 for the acute treatment of agitation associated with dementia; registrational program"
-    publishedDateTime: 2021-05-10T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-reports-first-quarter-2021-financial-results-and-provides-business-update-1030408520"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "Kiromic BioPharma Reports First Quarter 2021 Financial Results and Continued Corporate Progress"
     excerpt: "Kiromic BioPharma achieved important scientific and operational milestones during the year that we believe have us well positioned for preparing our staff and our facilities for the first in-human dosing in Q3 2021,"
     publishedDateTime: 2021-05-14T20:50:00Z

@@ -201,15 +201,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 7
-  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
-    publishedDateTime: 2021-05-10T11:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "qKFD/LLAmy0DbIlmprH6tvEqt5hgaaoFrlTvv1oxjiaaV5iA2BjbSmUAiK+gKYXm+tNX2z12/exxsGGVtlz5CnaNJohrFuaaFpTWDa4PX2Zi/DUHdoYikHA4kFYt5htNPqmUylIWVOY7guat9SRYCTd0s++Xurl/gRGgNep6l/4ApkWjNFaKqzPmp6t/I4+g+IcmaglpEYjZ6nc+bkYrBSfVjpbq0mcy8gHxk6Ao3nGFbcc/KBnilG91bGFsbfXMul1JkhjgR35vBLnwABHGcE4fEvIqYaahm3ODC1i7jXPQ1CIQsD/2d5uvHHqUei4TxRpCVM48hdZKnpEPggHwh55CngvXczvaP12YC8mwN2c=;ZxjqPYeET1dICMxNsEXqJQ=="
 ---

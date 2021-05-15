@@ -25,112 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Darktrace partner on AI-enhanced cloud security"
-    excerpt: "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,"
-    publishedDateTime: 2021-05-10T11:09:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
+  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
+    excerpt: "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ..."
+    publishedDateTime: 2021-05-14T16:42:00Z
+    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
+    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 121
     images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg"
-        width: 1000
-        height: 679
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft partners with Darktrace to help customers combat cyber threats with AI"
-    excerpt: "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats."
-    publishedDateTime: 2021-05-10T17:02:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
+  - title: "Microsoft Shuttering Azure Blockchain Services"
+    excerpt: "Microsoft announced that it will retire its Azure Blockchain on Sept. 10, 2021 and advised users to consider using the Quorum Blockchain."
+    publishedDateTime: 2021-05-13T13:18:00Z
+    webUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 89
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/05/BIC_microsoft_azure_blockchain_seize.jpg.optimal.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Redstor unveils AI and Kubernetes offerings to help Microsoft partners manage customer data"
-    excerpt: "The services are designed to transform the way Microsoft partners manage and protect customer data in Microsoft Azure and Microsoft 365."
-    publishedDateTime: 2021-05-11T06:42:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDY6NZvbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
+  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
+    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
+    publishedDateTime: 2021-05-14T04:37:00Z
+    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 64
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
     images:
-      - url: "https://lh3.googleusercontent.com/IA1yRnwhy5P9oaT-9Z25_9fwc2y3oJ_9lFk0J0nitkKuzCLw_rgLINUdjOCDAYgYh4tVCTA-pkwDeq0-FWKGHpwG4NiJPTiHwLki=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
+        width: 620
+        height: 348
         isCached: true
-  - title: "What Does Darktrace & Microsoft’s Partnership Mean For Cloud Security?"
-    excerpt: "Microsoft & Darktrace have collaborated on three critical areas to address the challenges in cybersecurity. Microsoft and autonomous cybersecurity AI company Darktrace, have entered into a partnership to provide customers with enterprise-scale,"
-    publishedDateTime: 2021-05-14T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partnership-mean-for-cloud-security/"
+  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
+    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+    publishedDateTime: 2021-05-13T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Microsoft-image-credits-mathew-manuel-for-unsplash.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+        width: 1997
+        height: 1047
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-    excerpt: "OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-    publishedDateTime: 2021-05-13T03:50:00Z
-    webUrl: "https://www.totaltele.com/509480/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+  - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
+    excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
+    publishedDateTime: 2021-05-12T03:42:00Z
+    webUrl: "https://ksusentinel.com/2021/05/12/deep-learning-software-market-is-growing-worlwide-analysis-by-keyplayers-microsoft-trint-google-amazon-web-services-nuance-communications-ibm/"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 54
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
-    excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
-    publishedDateTime: 2021-05-11T15:09:00Z
-    webUrl: "https://industribune.net/news/86349/artificial-intelligence-voice-market-will-continue-to-boom-says-analyst-google-apple-microsoft-nuance-facebook/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 33
-    images:
-      - url: "https://industribune.net/wp-content/uploads/2021/05/Artificial-Intelligence-Voice-market.png"
-        width: 660
-        height: 400
-        isCached: true
-  - title: "Hyperscience Joins Microsoft for Startups"
-    excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
-    publishedDateTime: 2021-05-11T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hyperscience-joins-microsoft-startups-/2021/05/11/9366313.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their Windows Virtual Desktop technical practices are able to earn the Microsoft Windows Virtual Desktop advanced specialization."
-    publishedDateTime: 2021-05-13T17:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210513005625/en/Wipro-Has-Earned-the-Microsoft-Windows-Virtual-Desktop-Advanced-Specialization"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
 
 secured: "eI7VjBqwF0SUOXSNU5XvfzG4+KxuGb7nUXRubO1ooAM6wnLmu8gY7Cl+b85U4+eGOfTEwgV2fKe91sGiXxyhZsteUiyvWT5E/0VFjFwWlXIR/rHhmWvhJkMOtGkKPs7zovxwOGp9VrjQ0z6rsFJ7pICm9qsPS6U9c/vM9QKmIBF2rWVopMh74MACrF/y01rlICqaGU6K4zQt6fOLPbNdOgC5t7oXXiz2dZS1Go9VkhbRqjOV96nqnYQ/OB9qi9rHJwwjIC9t6jv8e1JkGFFa52+9AeBONhYgLoQIiTA8fd2yXbbmr3o3W9Ycn4rMMh19KGEr99zSWM0OazJSqchm4oaqFrWExkOMh5z/aXA4yW4=;oDbFOEszWXJhFi7gbO46bw=="
 ---

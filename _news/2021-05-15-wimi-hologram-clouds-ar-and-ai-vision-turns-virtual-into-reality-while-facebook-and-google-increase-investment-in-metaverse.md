@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-c
 ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
 type: article
-quality: 14
-heat: 14
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -20,6 +20,8 @@ topics:
   - AI in Finance
   - AI
   - Computer Vision
+  - Google AI
+  - Facebook AI
 
 related:
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"

@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Pentagon Inches Toward Letting AI Control Weapons"
-    excerpt: "Drills involving swarms of drones raise questions about whether machines could outperform a human operator in complex scenarios."
-    publishedDateTime: 2021-05-10T12:22:00Z
-    webUrl: "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/"
-    ampWebUrl: "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/amp"
+  - title: "3 Artificial Intelligence Stocks Leading the New Wave"
+    excerpt: "Artificial Intelligence, AI, may just be the next big idea. It’s not quite new – computer scientists and programmers have been working on ‘intelligent machines’ since the 1950s, at least – but the tech is finally maturing,"
+    publishedDateTime: 2021-05-13T00:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-new-wave-2021-05-12"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/60956d118edc04c16a2d0461/master/pass/business_drone-swarm_187347653.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "wKtiDAy5gG7QCCKinEC4Rw7iE2UpPy3d36xCQJ0SY/49v5z1+AgkAg5NsP3nhSas3n6W4gBrCl27A6J3UrLgurfz+/iRA4oXiPBVIyYnI4mnnpEqlSbrGupEychoo1GefSiNZlfarbcaXvBzgPSa+k37TlhAPQkMSkOogLl4dGLQnVfT6UsxJ409pzCzoPqmU9E+rFHMtvYYadRqlg14ki3Yh9gGN11GIiM0mHAl2WC7sSMTXc3uxcofOwumAS/8qNT3HrFGsRM/mS6jMG8Z/2AUIw0xV41VuHuWIJRBqij7Yg6KntIREiB+VwvX+1hpwJw1umkeSKNtDkx4dnimQOxHkfS2LFuNaEjHYQn9xjcraf+ZwmlQ5HWIyMVvVHppNWKpFepkezjN5Vy6YXg0WQhYI03IKgT5lCWuQuvmQVLjWPDWjDHuAQOYVfYwP86Rbf8IRKwIvRmzym+ybBngyNUHCOprs1j8Kx23a52ytp4n0IsbgMnOq5IqYACBianOnzLQm4gAIyo4Vu4R3rSU1Q==;kERDhy2fuxdBqIdnPLw/Tw=="
 ---

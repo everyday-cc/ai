@@ -59,6 +59,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Best Microsoft Azure certifications for a career in cloud computing"
+    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
+    publishedDateTime: 2021-05-14T21:57:00Z
+    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
+    type: article
+    provider:
+      name: theexeterdaily.co.uk
+      domain: theexeterdaily.co.uk
+    quality: 54
+    images:
+      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
+        width: 688
+        height: 400
+        isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
     publishedDateTime: 2021-05-13T15:30:00Z

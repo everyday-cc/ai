@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
         width: 620
         height: 348
+        isCached: true
+  - title: "Best Microsoft Azure certifications for a career in cloud computing"
+    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
+    publishedDateTime: 2021-05-14T21:57:00Z
+    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
+    type: article
+    provider:
+      name: theexeterdaily.co.uk
+      domain: theexeterdaily.co.uk
+    quality: 54
+    images:
+      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
+        width: 688
+        height: 400
         isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"

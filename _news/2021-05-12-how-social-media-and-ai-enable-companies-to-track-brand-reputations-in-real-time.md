@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pushing Computing to the Edge With Innovative Microchip Design to Make AI Accessible in Real-Time"
-    excerpt: "Responding to artificial intelligence’s exploding demands on computer networks, Princeton University researchers in recent years have radically increased the speed and slashed the energy use of specialized AI systems."
-    publishedDateTime: 2021-05-10T11:22:00Z
-    webUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/"
-    ampWebUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
+  - title: "An Uncrackable Combination: Invisible Ink and Artificial Intelligence"
+    excerpt: "Coded messages in invisible ink sound like something only found in espionage books, but in real life, they can have important security purposes. Yet, they can be cracked if their encryption is predictable."
+    publishedDateTime: 2021-05-12T16:43:00Z
+    webUrl: "https://scitechdaily.com/an-uncrackable-combination-invisible-ink-and-artificial-intelligence/"
+    ampWebUrl: "https://scitechdaily.com/an-uncrackable-combination-invisible-ink-and-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/an-uncrackable-combination-invisible-ink-and-artificial-intelligence/amp/"
     type: article
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 63
+    quality: 57
     images:
-      - url: "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg"
-        width: 777
-        height: 421
+      - url: "https://scitechdaily.com/images/Uncrackable-Combination-of-Invisible-Ink-and-Artificial-Intelligence.jpg"
+        width: 417
+        height: 234
         isCached: true
 
 secured: "4uDzPGwSS/fAN0qgykqgQZkuYkzcKumTiqDhqNUL53HFnugbYUexo1gDHxTmCGooPAU6Ha5TT9ughJAarrJW9augqtiVppxyCnTFH2YP2oTOMQMWBqwEbtkp/6rMiku22wAsfdozMpxRfbAUOr0z9gEiQIFxTKgEPiOGXeOobiEbGSxO6LT5M/XVyXJTdqnbug/6ACS8BfUMkjRk1YhyW2/b9H/4YfL5TFnMk5w5g6q8YHWO9bjKOGV6PRU/o4od8QeBnYUTrzfGuYbah+NsvV1YGLwoPQmvI+yvgbdXEquRhZKDIyyunvUBRlUaQf3SAtK8HPuI9RQWcDYhrj83uCtQj8Yyks+3xg1OeqSOAXMtQ0owyUpMWYyKs/GNomY4V8wlRqT7aA+BeGeU0of5hXsh+/3eEsOu0ysXRwR80lPkdEZRLPmgZPqsk6qWW4tTbKP5ikutjfeeXPMX4zBw8rmutySWdDXX/DBqnA7FHbZzsjlAl/muwiwp/G2+6b9RHG1M9CBikX64SMIunN1+EA==;wEBCrJouv4xdNgxDsLYa8g=="
