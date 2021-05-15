@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partn
 webUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partnership-mean-for-cloud-security/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,50 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with Darktrace to help customers combat cyber threats with AI"
-    excerpt: "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats."
-    publishedDateTime: 2021-05-10T17:02:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
+  - title: "Hyperscience Joins Microsoft for Startups"
+    excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
+    publishedDateTime: 2021-05-11T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hyperscience-joins-microsoft-startups-/2021/05/11/9366313.htm"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Redstor unveils AI and Kubernetes offerings to help Microsoft partners manage customer data"
-    excerpt: "The services are designed to transform the way Microsoft partners manage and protect customer data in Microsoft Azure and Microsoft 365."
-    publishedDateTime: 2021-05-11T06:42:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDY6NZvbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 64
-    images:
-      - url: "https://lh3.googleusercontent.com/IA1yRnwhy5P9oaT-9Z25_9fwc2y3oJ_9lFk0J0nitkKuzCLw_rgLINUdjOCDAYgYh4tVCTA-pkwDeq0-FWKGHpwG4NiJPTiHwLki=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
-  - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
-    excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
-    publishedDateTime: 2021-05-11T15:09:00Z
-    webUrl: "https://industribune.net/news/86349/artificial-intelligence-voice-market-will-continue-to-boom-says-analyst-google-apple-microsoft-nuance-facebook/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 33
-    images:
-      - url: "https://industribune.net/wp-content/uploads/2021/05/Artificial-Intelligence-Voice-market.png"
-        width: 660
-        height: 400
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "JjZO3jK15UmR0ElBPrEAVAiAfidPifaYWPoF5f7+H4qdCW7iqtD9PIrABWn7vqu7SWwtcZUeFZiTk8jhkCoJW5KMeAe3xwbBbZHhsJkXybSLrj9bkKflriKRLIZJIRrPeuC0cpKwrUehDocerEDwhqvM1eLBXTk4RADRAam1s9FIvJ3/RpzRE+uunt/GSFdGjr3IuHQ37kEyLq3pBT5ao9mSV8by2N0wro5sIEc4cMbrkzcLkEOWd1WfR+LJ4LJ6W4Gzdgg/GtVDeRUkrRaMDD/0Jta49GIchGCPpymHzBS/lZvP32oXmzrtyCeKvclHOo0KoUjJSFVgiBBkii+bZGP2ePLj9yYsG0YKg0qDSWHQhI0Y3o2KEmz35lZzCiYdQxF5eXkdZM3JM/dI2yzr7X5/VyVFdR2TDArtjH37mfQ1xQ3s6skK2z40kTGD8KXXFFD4oFB+S/7dz0rAYt4Q4qWb01vUXPTl5XYJstcydt7Au/o2h7iCoHINFx2VPAPBhTy/brBV+06fTNVAcmSJ3w==;Onb2v77V+q4BoC+QfTOc4w=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Privacy watchdog warns facial recognition tools endanger human rights"
-    excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
-    publishedDateTime: 2021-05-10T18:24:00Z
-    webUrl: "https://www.rcinet.ca/en/2021/05/10/privacy-watchdog-warns-facial-recognition-tools-endanger-rights/"
-    type: article
-    provider:
-      name: rcinet.ca
-      domain: rcinet.ca
-    quality: 39
-    images:
-      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/05/istock-1144373579.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
     excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
     publishedDateTime: 2021-05-13T16:37:00Z

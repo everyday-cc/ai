@@ -44,7 +44,7 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
         width: 600

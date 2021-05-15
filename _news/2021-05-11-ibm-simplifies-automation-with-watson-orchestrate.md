@@ -1,33 +1,29 @@
 ---
 category: news
-title: "IBM simplifies automation with Watson Orchestrate"
-excerpt: "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating"
-publishedDateTime: 2021-05-11T14:40:00Z
-originalUrl: "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
-webUrl: "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
-ampWebUrl: "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
-cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
+title: "IBM Simplifies Automation With Watson Orchestrate"
+excerpt: "IBM’s Watson Orchestrate is an AI-powered software tool designed to simplify and automate the process of finding and combining appropriate sets of data for a given task."
+publishedDateTime: 2021-05-11T07:05:00Z
+originalUrl: "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+webUrl: "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+ampWebUrl: "https://seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
+cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg"
-    width: 2560
-    height: 1600
+  - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+    width: 1200
+    height: 1200
     isCached: true
 
 related:
@@ -179,6 +175,6 @@ related:
         height: 600
         isCached: true
 
-secured: "vmaHjCN2yh3w8tk7bH4Y/tIkSegedfS3bNL3NxyOFz2MdyO8GgaPgLcYf//z66zK8sJpEhdUOlm7gLvjcOeQu5hxCT2XXgpUcr+GfmKLpSqVQJOaJAneK6Lk9ne6pkmiP5BbuXbM08SVTk6XWvS/gAmF4tcax2LOzjBZ2yMWKACUDoiuh+6bnTjRlN6Q86Ex/yaSXLNRzDn7f+9vyHMj2iYbR0rDq1aHGIOjNH0gCeOXE8Wc+BmRobQ8qi+iLVTwm8tsNOvRUTnvV7gok2Vvd1PZyVPFvK6B7a0jsbzz1wijCug8F+AfKJeuQqWqfGpQxJehGZqEJKqBxN5QyXVJRDD9aQ07USQJQKYucZ1Adjg=;0t/PpiJo1jaBZ4s2e51MhA=="
+secured: "GLVnD22DLwDhYmN9WTR6bJGYWek9ztzK5aqBLepV7unYlk9DD0Xyb93tiiebDe571x9wjj+vYBkVaK+hSgrdvcLLGHA3HZM27yC0cWEBjXiwPfoyFZr3Uowv5zwWZ3YVmvdiGDxPRprcbnSudKqkhuz4qVdnutxHc+Nh/seLx9TACJ4OLYWXWQuLYpUHK0fYHo9FFfWYWSe6d86+ZGcbR+zafpa7ss89x6mLRwBm0PJMk3kaJTscggLg2VYVvx0Ki0MkheRjHCPBEXQDzQZwCPC/rIdAQO//FqVb2Q2tt+ALsOPDSTEkfA77K0gk63MyfkGz0RJg2Q+W7/ASGDR28x+6LNVeZHCp9G2g2hNjwTg=;4HnhMrsGEY5LqHSmibUuLQ=="
 ---
 

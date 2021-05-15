@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rek
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
         width: 1024
         height: 614
-        isCached: true
-  - title: "Privacy watchdog warns facial recognition tools endanger human rights"
-    excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
-    publishedDateTime: 2021-05-10T18:24:00Z
-    webUrl: "https://www.rcinet.ca/en/2021/05/10/privacy-watchdog-warns-facial-recognition-tools-endanger-rights/"
-    type: article
-    provider:
-      name: rcinet.ca
-      domain: rcinet.ca
-    quality: 39
-    images:
-      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/05/istock-1144373579.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
     excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."

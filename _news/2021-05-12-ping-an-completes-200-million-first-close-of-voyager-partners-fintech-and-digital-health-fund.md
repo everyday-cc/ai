@@ -2,9 +2,9 @@
 category: news
 title: "Ping An Completes $200 Million First Close of Voyager Partners Fintech and Digital Health Fund"
 excerpt: "Company Limited (\"Global Voyager\"), a wholly-owned subsidiary of Ping An with a significant track record in venture investing in fintech and digital health. In 2017, Ping An committed US$1 billion to support Global Voyager's investment strategy."
-publishedDateTime: 2021-05-12T10:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419598"
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419598"
+publishedDateTime: 2021-05-12T12:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419754"
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419754"
 type: article
 quality: 22
 heat: 22
@@ -38,6 +38,6 @@ related:
         height: 339
         isCached: true
 
-secured: "FwiSuYmtXbiGSssIixRKFGl+6BIWt64J0f+bH5FHT/PH4UOszvZ7lBGMubFvXXM2OtFBZLx2MM3YZkYp3ToMHQFLREF25miheDp79cpyeOwKb4VIDjX49Lg5Jw2mfLIeiuGTJfJmUftCNYhB+ZBUgBlpVJoUeC6+wBm9/ClglLFVl//dlICriqUMLXyNQRpcOPVijz5JWnS5wIRiiuSceLBTIHDMFaMsr9XOoLIBUVh6G2+SmitU8TzX4GrFDNgSL50Ti/u3KHKYyP781AX84TDWSu8LBRESvvM7zq8v3gCj49Qw7NpGre3m6Vd9+NzIZYCyg6p6mKZj2BpD7+lCaaAcCSetWG7xNhWEdBZGe4Q=;wh6s0Bc0Pf96o3kPLWYd7A=="
+secured: "RAlUtoNpR8CgNyJ68LS8aSWQ6HtgSQADMCn3qAi9M9jway8wWFX5PY2OvgBgrGAwpW7JXlpCaxl+kEV4OzgPDi88n8pbPYyYFk3vuuz7e1HPEqmoSGFRpjs5EbBTQxiOAEECCRmhz9e622znQriSxWDPDFavMJlYkm8t1mYJHUnlFMeVY4IkIlPGY3f4s/UQwz3eQ9loDM/TWh3TTAIqsBKlWGDs1/Om1U9GSUyv5TkZA/L8Nju+lBXgOSG2tw2Mly/UME2zffamobM/gWyxbdQLMqPWUzEZX1YQ3Y2U6uuOqynYYkPH1PcGmx7KTyLR8iaNMji1j7N22WtXVxiMON3fC/dEOdPwOx4ZaQUyPVg=;efzHVUVHW4kviT9ixdhTog=="
 ---
 

@@ -163,20 +163,6 @@ related:
         width: 490
         height: 685
         isCached: true
-  - title: "COVID-Classifier: an automated machine learning model to assist in the diagnosis of COVID-19 infection in chest X-ray images"
-    excerpt: "However, the similarity between features of CXR images of COVID-19 and pneumonia caused by other infections makes the differential diagnosis by radiologists challenging. We hypothesized that machine learning-based classifiers can reliably distinguish the CXR images of COVID-19 patients from other forms of pneumonia."
-    publishedDateTime: 2021-05-10T17:24:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-88807-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88807-2/MediaObjects/41598_2021_88807_Fig1_HTML.png"
-        width: 685
-        height: 353
-        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
     publishedDateTime: 2021-05-12T06:14:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
+excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
 publishedDateTime: 2021-05-13T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
-webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
-    width: 1997
-    height: 1047
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420"
+    width: 1200
+    height: 420
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
       domain: ksusentinel.com
     quality: 14
 
-secured: "YD2i0+O0x/jgdVpK8IOSIe6EjZ2HSrt5AsYbEhbsQeo9HMbsoEbDGeEkyzBh+Naq+zS/bnSkXrsTwRikcKQztaVOR+oHc89JXBk1guPb3172xO2duvR+k9yvc0BDYEWMABaDIHa3pjk/HW4wKGqvwCKQCVsoUCUa+qm50prGT+kYnDvdXB7JE1CsqbDwrH8vTbqull6BFdgX3WW/LLwoROFR6mHty0xRSAKpTFARiPISDQ78ObOUlKoaiIqYqGyW6/rw4gxV9MKw0qzEm56Q189AoIhVEr0jzP76oH01zKgS/svKHvVaqHg8igsiY5vRC+BpwzC6ptPYKS750cZk1jdyStZSpJ63jnVPYEm9fP9808rdmrsmOIt1Q08XA3+Umsco9rpu78B0YxmfuEUbVJehyRe0JEc4xwCRvBak4aO/EpNqJVsENI3j3qeoDBcIIbYBWPWgQcKcCA2uwdw7thfONvJ2aqsiWk7ti9wtigkRoqt29I542ajpZ2q/IsTgZnsgEofRR/0yMOQtlhuTeA==;I/5Fr8gseOSlEAyQas/OIQ=="
+secured: "KVrtut/v5NPUEg3bsDC4QSpm6LpRvSs/95KnX6QsF+1nR66CeSB+MCQHVxThC+XKtnOP2XCVEZcBRUpbPDnwonCAJwjWNUkot7HOvzV7L51UB0ec6cu6tpWl6gWXWMMvoAOQGN58XVy99kQLz//nRx77VCzrcXwBkh6saP9BIfAbvvFc+duFUSaIey4xJ3jjVySzfFj5Db0Y7oCP+PejFiQ+B1W96Lw9tdHmTsRl+QNQe6KmXshNdgbO3/JAZTb9doBrxpPixfNkNIRGoVrxnODVkWy4SQ9BUi2XQNvOE65SqOQZHfutRlmAyRZ80p90QDQ1ZVWyPHuC/lKGm4vhRw7/xAqx7D/ZDdRb2W23BQI=;2qLwqm7yDfQ7qicKZL9euA=="
 ---
 
