@@ -54,7 +54,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 8
+    quality: 10
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/NewYork-Police-1600-600x337.jpeg"
         width: 600

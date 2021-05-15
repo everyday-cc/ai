@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/digital-twin-market-deta
 webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
 type: article
 quality: 55
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.openpr.com/U/5/U513420815_g.jpg"
         width: 482
         height: 350
-        isCached: true
-  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
-    excerpt: "According to the latest report by IMARC Group \"Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", The global computer vision market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-05-11T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-revenue-growth-opportunities-competitive-analysis-trends-and-demand-by-2026-2021-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial intelligence (AI) in Logistics Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
     excerpt: "DeepResearchReports has uploaded a latest report on Artificial intelligence AI in Logistics Industry from its research database Artificial intelligence AI in Logistics Market is segmented by Regions Countries All the key market aspects that influence the Artificial intelligence AI in"

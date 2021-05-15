@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-
 webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
 type: article
 quality: 71
-heat: 91
+heat: 94
 published: true
 
 provider:
@@ -55,6 +55,6 @@ related:
         height: 737
         isCached: true
 
-secured: "CXxqMUHWuS6Mc8QgQFZwCuN0Y00hRmFKG8YMcqbIgfk61+SbTkqwtfQwZQHssZmrd+x3uFraB/1DPKtLZZNVVUNx1mgIiuMGI9dGPBtrTquo/ygE2wpf8XQMZtzWqy9h/1p8O/OcW7ucRaEiFKABZUv2kSbCKnLqCdBY4FP1VxKbfdDYn+o67W43lRQ17Dq6IVKBnhcmZZaRdWjeqNd7+lPRTBanvh4kGgWq0Iu+oXjyXy/UPV0NZmMsJruRrUG0J8IKVcVAmwIPlw+giTQ9AwURkgodyZKcqooMgJzGMTDmnAPLEWdHMdjhcz8h49M12cqDoQQSY92TSo4yBrmAoL11x5UjnGbPP+udUCzjXw8=;oGJiouo/49X+fe7PWnRjww=="
+secured: "VsLO9PPaLChMsULGfmtqXgG6ls4nofIHtUzEhxFNsDIfHxVfxbT0845ZozMTj6JS/fjoO2dxmmorZsAEoChk7vGO+MlJhA53dRqNuVuIOahh3upJ/vRQw0X3NF6Rq8jiTgDqQtmnCEJegs7qw7MKnzEQUnw+GZEqk0xXejJCNURF2RIO/G0K90cFqS/qgN9bZyTPcAxw6tjIFkUFpUoo4ITVAI/QqhnFY4KVlWpQMTi3dYj1vqPofa8/ggBHButehgee2cHX9yQhdmZrh5SapOfMm7PmHmCOa3xBWXV18WPzofWiLT2F6DfbOYp3vd9QmNe009QW547cq5ufJtPpasLn3bddG+bawPnSS8JFDdHqSjYtthfoiPtGUmVOMFvg2JJPyyyFZ6ofaVi13mNLws7jVKr4+xmn1F0K/gOosBMUQfIbkblKn82O1hWrvRof7UcKecJIf/4SVKYkEhPwTbj1lSzW6GrlnmaUVmXAQIB5bCcKx6PXe/8e4x1UBXbzrB+Nnu6c+H2oTnQ9Qf7SIA==;g/uR1pbB0cy/na8rS35gRw=="
 ---
 

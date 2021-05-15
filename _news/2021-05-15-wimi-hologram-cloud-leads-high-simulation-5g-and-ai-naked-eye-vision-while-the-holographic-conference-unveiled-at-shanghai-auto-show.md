@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-14T19:41:00Z
 originalUrl: "https://www.digitaljournal.com/pr/5061583"
 webUrl: "https://www.digitaljournal.com/pr/5061583"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/NewYork-Police-1600-600x337.jpeg"
@@ -62,6 +63,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "PdfQYnz/cpEOqFCxx+MsQ+Gyhz8FcgYEUbunEaf3QhfjxjG8YXr09XsT0/nnE5+LTBBy9hpv4ViOqaPSfPoEdjby+6d8XSqJ3Pzi6p6H0GyVyNYrKdI/zcM6g4C4waxW7Cs4KQIyEPiaFTpjKZ/2EovLW6MJ5V35T83xtotWUscyLVRGbT0PDU3nmg0sAGlzxRw49hKV7+eZJIYTrPns6AzOP6+GNGHw5midm6BLjWl0L2nDU7sUynKhoikVK5nUv4myeH38r27jpHOl4/agIKmt0pKPphMe4KtmmX5N0hBzt/S8kWp/WjShHZs9TIQvoi5jhTUWBU8KjK1Y1QurInHtZknLdKUdKTq2urZBkBs=;TJX5NVFOJIN5EG+0ht2/vA=="
+secured: "DRNnq9l91IZ99rpKMnEgMW/DVCq2AjjbYXrFaXTc8VcsN7+BdXeZeh0l5mFIsGMTJnDnBoJ1D1FNAy1C16q+rDOssAqdo5+xZ/rLHlItUKKoa3JKsTN6ugFzd7znQZMxuRkJeATi8BXxzaWdbmDgBHAo8VmdzEwpmflggLlgCjr+lS6mhsKrsblflEOjOJQ4PY21CCYsW8vUcBg+7Z2uVuHd2gUSsTWkehmpbZyOu7ABHaFZPt7cLbcDcLK+P5GiM8kBbs2Fww2EUPOV+I4QlscgrjPeaD4DNvvp1Z7q0xESvl7X9AM4N1/LAr+bbMMLeovGp5hvyK71jfTqZfN4MlO0fkEuJ8thimYSlavQC0AzX7L01GwmyqZL0oox5wymAZ3Ot29MQw0ZVTwiszQ/qN/tGyTULa/ImTc2HXdPQdtoWf+pBOIfjjo7yaXDli3M8mnNP3d7d5E5RutMrHlMWAE2hKonU1HnsNJQJBouJ56aPxTitDl55AWTejsxrWT+jdbyhrRRe24Xrs1tMTEJCA==;gh4EGI2yuJ6l9Jm0uceqvQ=="
 ---
 

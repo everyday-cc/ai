@@ -56,20 +56,6 @@ related:
         width: 482
         height: 350
         isCached: true
-  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
-    excerpt: "According to the latest report by IMARC Group \"Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", The global computer vision market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-05-11T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-revenue-growth-opportunities-competitive-analysis-trends-and-demand-by-2026-2021-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
     excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. 1) An overview of the global market for Artificial Intelligence ..."
     publishedDateTime: 2021-05-14T07:26:00Z

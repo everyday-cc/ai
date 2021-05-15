@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -64,21 +64,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "One-third of organizations are using AI, IBM survey finds"
-    excerpt: "A new IBM survey finds that one-third of organizations have adopted AI, and that 43% accelerated the rollout because of the pandemic."
-    publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/"
-    ampWebUrl: "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/amp/"
+  - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
+    excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
+    publishedDateTime: 2021-05-11T20:30:00Z
+    webUrl: "https://thenextweb.com/news/ibm-think-2021-kicks-off-with-ai-innovations-and-some-interesting-quantum-news"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fthink-og.jpg&signature=e9c5be7ecec54f08f3a2ec819aa82374"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
+    excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
+    publishedDateTime: 2021-05-12T10:56:00Z
+    webUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/"
+    ampWebUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 59
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-Digitization-AI-Hybrid.png"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
     excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"

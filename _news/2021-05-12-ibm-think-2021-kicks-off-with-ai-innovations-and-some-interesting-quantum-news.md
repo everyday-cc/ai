@@ -29,37 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "IBM taps AI for new workflow automation and data migration tools"
-    excerpt: "This week during its Think conference, IBM unveiled AI-driven products across its portfolio of enterprise platforms. Mono2Micro, a new capability in WebSphere, taps AI to streamline cloud app migration."
-    publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
-    ampWebUrl: "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
+  - title: "AI Has Eaten IBM Think"
+    excerpt: "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,"
+    publishedDateTime: 2021-05-11T19:53:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "IBM Simplifies Automation With Watson Orchestrate"
-    excerpt: "IBM’s Watson Orchestrate is an AI-powered software tool designed to simplify and automate the process of finding and combining appropriate sets of data for a given task."
-    publishedDateTime: 2021-05-11T07:05:00Z
-    webUrl: "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg"
         width: 1200
-        height: 1200
+        height: 711
+        isCached: true
+  - title: "IBM Think 2021- All In On Hybrid Cloud And AI"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead attended the IBM Think 2021 event last week, which is the premier hybrid cloud and AI event for IBM as well as the company’s annual flagship event for customers and partners."
+    publishedDateTime: 2021-05-14T15:23:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609e948de2ae75870e17f414%2F0x0.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "IBM CEO: Every business is going to adopt AI"
+    excerpt: "Arvind Krishna, CEO of IBM, compares Artificial Intelligence to electrification at the turn of the last century saying, \"AI is going to infuse every business and enterprise in this century.\""
+    publishedDateTime: 2021-05-11T15:45:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200420162135-ibm-arvind-krishna-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
     excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
@@ -77,106 +93,79 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
-    excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
-    publishedDateTime: 2021-05-12T17:12:00Z
-    webUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
-    ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
+  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
+    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
+    publishedDateTime: 2021-05-12T03:45:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 59
     images:
-      - url: "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "IBM builds new AI capabilities, hybrid cloud centre to accelerate digital transformation"
-    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
-    publishedDateTime: 2021-05-12T05:08:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+  - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
+    excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
+    publishedDateTime: 2021-05-14T09:53:00Z
+    webUrl: "https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.html"
+    ampWebUrl: "https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.amp.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
+      name: Computerworld
+      domain: computerworld.com
+    quality: 53
     images:
-      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
-        width: 600
-        height: 338
+      - url: "https://images.idgesg.net/images/article/2020/08/communication_network_online_meetings_virtual_events_digital_conferences_video_conferencing_remote_teams_by_metamorworks_gettyimages-1223790400_2400x1600-100854037-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Medical artificial intelligence tools can work effectively for different locations, populations"
-    excerpt: "For artificial intelligence (AI) to realize its full potential to benefit cancer patients, researchers will have to prove that their machine-learning successes can be consistently reproduced across settings and patient populations."
-    publishedDateTime: 2021-05-12T16:19:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-medical-artificial-intelligence-tools-effectively.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-medical-artificial-intelligence-tools-effectively.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-medical-artificial-intelligence-tools-effectively.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-cancer.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "At Think conference, IBM puts AI and hybrid cloud to work"
-    excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
-    publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://siliconangle.com/2021/05/11/think-conference-ibm-puts-ai-hybrid-cloud-work/"
+  - title: "COVID caused conversational AI to accelerate, says IBM"
+    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
+    publishedDateTime: 2021-05-13T17:33:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 41
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
-        width: 768
-        height: 499
-        isCached: true
-  - title: "IBM doubles down on AI and hybrid cloud"
-    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
-    publishedDateTime: 2021-05-11T04:04:00Z
-    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
-    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
-  - title: "The secret to successful enterprise AI, automation transformation"
-    excerpt: "Experts have suggested that businesses embrace artificial intelligence and automation for years, and the pandemic gave the world a concrete reason why. “Companies that invested ahead of time in automation technology"
-    publishedDateTime: 2021-05-13T14:59:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/secret-successful-enterprise-ai-automation-transformation-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Ed-Lynch-IBM-Think-2021.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
-    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
-    publishedDateTime: 2021-05-11T07:57:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
+    publishedDateTime: 2021-05-12T09:51:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
     type: article
     provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 32
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
     images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
+        isCached: true
+  - title: "Highlights From IBM’s Think 2021 Conference"
+    excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"
+    publishedDateTime: 2021-05-14T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/highlights-from-ibms-think-2021-conference/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/IBM.jpg"
+        width: 1600
+        height: 1066
         isCached: true
 
 secured: "a8mywe5K1nFrMDzhhcULTOn01gyO4AedYQNyRur/+YxTHZFobL6NMPXOsuOmhzlKjX66N0t70pgOB7chE12TQ8pe82s5XmAHJjtwdu/f7xOGMLnzJ2Za+VES2mkKqFeUkHy2ROk6d9FZhMxBIZwHrQ8ITQhWR0TR7w5EMBCjNfsm/XVhuoq4XQVfKymEapqXJeSNhu5bvLZRogPAk2Uaa+M2KTV8BE5oo8t80CwJr1tdMfeOHdy5KoUMXRG8n6TIcbqkHk6NbKnOX9BF4fM7HVBwgrtRJ+3WSXL/XjeRqPNpeQe/hXIioNVZNdhJvn8DK4loT8JiQQ4edWjWfZ3QYZM6J5ulHo63CWVveFIhEJUGFMP/NErEKwi8a74xiyOt0NunsUD7/bKy6rlAzAoQSUU6xQEoeKTXpnIh7jjLgXw/6KRjwZNpxtPi8ZEKqBp9+HfRu4N3OerU53U6LmFPW/33BbhAUPiQOObJyBKPiNSzo0Y+Qej9hEeCvLDQWCcCBVyaWKZ13/T9HxB8VT+1tg==;UHQLc38ZouEe1hLgYXS+ww=="

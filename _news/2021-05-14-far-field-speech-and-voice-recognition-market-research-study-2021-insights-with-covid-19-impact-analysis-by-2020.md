@@ -82,6 +82,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Global Face Recognition Device Market Comprehensive Insights on Technology Advancement, Growth Drivers, Demand and Forecasts by 2025"
+    excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
+    publishedDateTime: 2021-05-12T18:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-comprehensive-insights-on-technology-advancement-growth-drivers-demand-and-forecasts-by-2025-2021-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
     excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
     publishedDateTime: 2021-05-12T12:47:00Z
