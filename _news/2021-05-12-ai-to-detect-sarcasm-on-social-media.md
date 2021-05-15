@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/269410497/ai-to-detect-sarcasm
 webUrl: "https://www.bignewsnetwork.com/news/269410497/ai-to-detect-sarcasm-on-social-media"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Detect Sarcasm with Artificial Intelligence"
-    excerpt: "Humans make inferences about tone and meaning, but algorithms can find hidden relationships between words to detect irony and intentional falsehood."
-    publishedDateTime: 2021-05-10T21:21:00Z
-    webUrl: "https://www.defenseone.com/technology/2021/05/how-detect-sarcasm-artificial-intelligence/173936/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/05/10/GettyImages_1232196218/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "AI can now detect sarcasm in social media"
     excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
     publishedDateTime: 2021-05-14T12:36:00Z

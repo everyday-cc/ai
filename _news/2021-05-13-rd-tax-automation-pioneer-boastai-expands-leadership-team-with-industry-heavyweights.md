@@ -1,23 +1,29 @@
 ---
 category: news
 title: "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights"
-excerpt: "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,"
-publishedDateTime: 2021-05-13T10:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368482.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368482.htm"
+excerpt: "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in"
+publishedDateTime: 2021-05-13T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "eWkiumlGp9UqeuxuzN06EpS8lbaAWNB1LbJEWzFRfokND5aPctlrOoxwFN+2WAjhNckJ82lrv80Fa/XZ7DeQy2+4IfrkwcxtNrxNqUwlHZLJ/wu1NusxcThPUGz5vRZGswTqNi8cRkUct/AnJgQiVgj/lxUOwLVDMkjbUnRUJQBHrrRjabWgUeg+HEg7jEmC/CVJsNEBLn5F+UqNfebaMMsoYUaZWv3WbGIjFHtOKz9URG4vtX4N4TYgyulufY8peLg8Ke7cL8E/aJuZ13nwp5uuotn9LOnxZhCBBR0vHYQR6wvYG2OXOP5/UYsIBaXlmVudJcdD6+M0LVZP/ae0LwO0RS/24BCkXhljPeph7e0=;0++4aBD7HAdWQFHbzxp28g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "jAO79NytKIZze2+0vifmO4iqvT4VpChP75S5NKqg2FtghiHNGSAltalniUavdwoWX/SIeQBSAoPtMJu0njEu95QZ5wzQmoNGHfJRfHxExRua3Cc8b5JN9/UwRioQi7Y8q1DqO235gAOFxpU0B/P5tGS6p7z+i/lpJIyDbIO34/h3fzjZmpM5MHeOULx8ExxyLC7OdE0EFYIG7qj8OYBxMLuj1/CF/IIEgd9DVpuskSrb1SpVEJfT5+gUhxWLuwmtds8IVPpyhpLrtsoqvyR/bMW0MKjrVXcQfvnBDIZJAnlCCQj/ZdDyP4nHDrZcU11SmHonkWLGZXKa48BZpLJrZcYZLqo7E3hbrnd12AXemfo=;NQ7CmXI9FK68sVoUHEejdg=="
 ---
 

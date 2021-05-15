@@ -45,20 +45,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
-    excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
-    publishedDateTime: 2021-05-10T22:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/10/watch-live-think-2021-reimagines-digital-experience-ibm-powers-hybrid-cloud-automation-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/IBM-Think-2021-1.png"
-        width: 965
-        height: 543
-        isCached: true
 
 secured: "nBV1zwnDawQfWzkWwumXA8cc4PU20S2ZShZQNrkf5/qbp44T8OjZ2Cy9t4udDLBCbxghadDt22fVOgflx7XW2LJRBrg7lYkEkYjYvOqofyxQ6mvR3RtRzrfx4WdAfsl2LS36uuRBYjH2tS/oi0uZjCKZTiVE1SEoZ/pZC7uwHKE+dA0jgbq+rgD07JrLxmEPtU0B0WhoE3HK+kOnl+DwCUhKLmQ9BJDwExr9ZmHdBoBjIKgbAKpxhSsMYwgh2CA3FMpP6iO20mrb/uQnoYk1RlOxpTuFbbFvGO8b9k6Yor+5rUmEMIZEeqJw1CgG4kSb7QVxs3D81+gSV2nvlXwCBHjdl5A2e/tCbEmXGz07DZ71YPXtWCOm/XGEJyNf2uzLH/mfSgGt0gg4NlPyflGp/H5oRazUQ4/xuA/HVM7OEewlHlYfi4b5KHk5M7zcVb+msH6T9Z0Gn4NKMaDeK0ZlRVGTL4k+jDJsBexBEYaqgjZ3qtnHw4h3mOoYxlrU9DTmtNprtWn8brCdPbs9eviWJQ==;ecPDaubcFD6fcvAI8DfKHQ=="
 ---

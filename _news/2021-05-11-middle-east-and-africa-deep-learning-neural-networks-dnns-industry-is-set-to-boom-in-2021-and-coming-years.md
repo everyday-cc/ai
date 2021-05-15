@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Global Deep Learning Market to Exhibit Significant Increase in Demand in the Coming Years"
+    excerpt: "A new report has recently been published by Persistence Market Research to present a comprehensive analysis of the global deep learning market. Titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027),"
+    publishedDateTime: 2021-05-11T09:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/global-deep-learning-market-to-exhibit-significant-increase-in-demand-in-the-coming-years/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 10
   - title: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
     excerpt: "Worldwide Mechanical Test Applications Industry 4.0 Market Report 2021 - Machine Learning Based Condition Monitoring Presents Opportunities"
     publishedDateTime: 2021-05-11T10:44:00Z

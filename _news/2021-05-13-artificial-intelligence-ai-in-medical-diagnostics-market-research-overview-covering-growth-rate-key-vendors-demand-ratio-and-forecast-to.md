@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market to Register Incremental Revenue Opportunities During the Forecast Period 2021-2027"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period."
+    publishedDateTime: 2021-05-14T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-register-incremental-revenue-opportunities-during-the-forecast-period-2021-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
     excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
     publishedDateTime: 2021-05-11T13:00:00Z

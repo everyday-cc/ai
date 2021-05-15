@@ -2,6 +2,151 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-08-ai-is-turning-us-into-de-facto-cyborgs.md",
+      "title": "AI is turning us into de facto cyborgs",
+      "excerpt": "It is dangerous that society is outsourcing its thinking to algorithms that are not in our collective best interests.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/",
+      "originalUrl": "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-9409679981.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/amp/",
+      "publishedDateTime": "2021-05-08T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
+      "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
+      "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://getdivvy.com/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-provider-bill-com-to-acquire-expense-management-fintech-divvy-in-2-5b-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://getdivvy.com/wp-content/uploads/2019/05/Divvy-Logo-19.png",
+          "width": 640,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
+      "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
+      "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "originalUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "publishedDateTime": "2021-05-07T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-harnessing-the-power-of-machine-learning-with-mlops.md",
       "title": "Harnessing the power of machine learning with MLOps",
       "excerpt": "MLOps is a relatively new discipline that draws on operations teams, data scientists, and software developers.",
@@ -1073,146 +1218,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health.md",
-      "title": "Global Healthcare AI Market 2021 Growth Factors – Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health",
-      "excerpt": "The recently uploaded report titled Global Healthcare AI Market 2021 by Company, Regions, Type and Application, Forecast to 2026 by MarketQuest.biz offers a comprehensive picture of the market from the global viewpoint as well as a descriptive analysis with detailed segmentation,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health/",
-      "originalUrl": "https://manometcurrent.com/global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da1d21acd594c000620eaae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6235%26cropY1%3D12%26cropY2%3D3518",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-now-deepmind-is-using-ai-to-transform-football.md",
-      "title": "Now DeepMind is using AI to transform football",
-      "excerpt": "The Alphabet-owned company is working with Liverpool to apply AI smarts to the high-stakes world of football tactics",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60941e371d4c1b7d05a51325/master/pass/GettyImages-1277904311.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-football-liverpool-ai/amp",
-      "publishedDateTime": "2021-05-07T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026.md",
-      "title": "Computer Vision Market Size, Share, Revenue, Competitive Analysis, Demand and Growth by 2026",
-      "excerpt": "According to the latest report by IMARC Group “ Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026 “, The global computer vision market exhibited strong growth during 2015-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026-2021-05-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-revenue-competitive-analysis-demand-and-growth-by-2026-2021-05-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

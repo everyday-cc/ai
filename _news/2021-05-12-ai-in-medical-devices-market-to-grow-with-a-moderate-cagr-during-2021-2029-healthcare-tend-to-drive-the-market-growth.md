@@ -26,17 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
+  - title: "All-Terrain Robot Market Set for Rapid Growth During 2021-2026"
+    excerpt: "All-Terrain Robot Market offers good growth opportunities during the next five year period ending 2026. In its detai"
+    publishedDateTime: 2021-05-13T07:43:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/all-terrain-robot-market-set-for-rapid-growth-during-2021-2026/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 34
 
 secured: "AViVx6U8UG4ll4dzQwFPpgXFUjBIlsEInjHKfP67a/AwR3VEaXCzi7L0UaLKMi1fxug/96UjaygmaJAWBJxFge6VuJbaS3UnUqSMuJ3SpDoYJrHlCVGDohpSJ0RjM0Lh/5Ed7hpOjsvLBaN/hvXTjK0z8czUpB6DbKqjV27yLx1VYJcppyHw6icIA5G/Urb3Zpu0EN/pklLZgK9xlWvB4WUGDxsPabtgF2iVE6R6Fa1Klu6bYpl8lqvltqbphmvPFdpeDwLl/x67OpP0liUhsd5I/Muj72Dx9BbW2NWUfZV+EqdE8DnUCmfnpw0I8TYR9pdclscRWGA/U9+0w3XT0aJvr+OvpPNVotIBXFzPbOI=;LYi7AUtqlT7QGY6bOmOM8g=="
 ---

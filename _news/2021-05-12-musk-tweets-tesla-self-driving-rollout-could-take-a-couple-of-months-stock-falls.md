@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Musk says Tesla new self-driving rollout could take a couple of months"
-    excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
-    publishedDateTime: 2021-05-12T20:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months-2021-05-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
     excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
     publishedDateTime: 2021-05-12T10:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Musk says Tesla new self-driving rollout could take a couple of months"
-    excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
-    publishedDateTime: 2021-05-12T20:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months-2021-05-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:38:00Z

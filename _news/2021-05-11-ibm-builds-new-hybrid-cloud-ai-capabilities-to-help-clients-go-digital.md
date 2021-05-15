@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
-        isCached: true
-  - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
-    excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
-    publishedDateTime: 2021-05-10T22:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/10/watch-live-think-2021-reimagines-digital-experience-ibm-powers-hybrid-cloud-automation-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/IBM-Think-2021-1.png"
-        width: 965
-        height: 543
         isCached: true
 
 secured: "1H+5MQgUIkbe4x3BFLIvvstMjArLxHfKW5oCEdaPlp3fVUYPY0AnB/7PZ6EoJgUL65P5V1tnKaFvd86xkTjOUHgRTXPJN737Exxz8NBcOt4B7J9O6VbYcb51qgPm21nag5E2VgjsaETDQ3FzioAxhM+s5GatVJtiVwcvzi3Hu0wAY9MiNeVg+Mvxbuo9tmWhg25S9dhnl0JE8N0BSxA6nZtNyRk/vAm9SILOvJIPnh2ZMOLTzwRe8QeuTxcsD/H45Cve2/coIAxebB1ZWICBbmEJMc89uKVZmzLT5mxhhxdF1YLa7NX66hbSLYZTFK96LNDjYXSDeQD/Y8tpcImnIGRVcDi4R6vst1NzE2F8TmKfa2xQwqzEEVdhlfBmoWHW8hKMvNei9NK6iNIqnJVv9ARVwND5moOec7EwB3D8ONvCqhTBPIc1mqRVRoQgidtX7gLXydnLBOOzv5E2EwAnlHaBMhRyVFpHWx4P7mP1H8WQYpKG2GoZIx4vhOLJVFa58I4ovg+2yaqbX9WJJfLuWg==;ueGg4eljp9vOpwLzrng4ww=="

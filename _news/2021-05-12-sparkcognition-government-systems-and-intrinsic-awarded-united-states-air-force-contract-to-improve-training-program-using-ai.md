@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/spark
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program/article_7e8d2048-b783-5fff-a858-bf665affb03c.html"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 445
     isCached: true
+
+related:
+  - title: "SparkCognition Government Systems and Intrinsic Awarded United States Air Force Contract to Improve Training Program Using AI"
+    excerpt: "SparkCognition Government Systems (SGS), the first full-spectrum artificial intelligence (AI) company devoted entirely to government and national defense, is pleased to announce that along with Intrinsic Enterprises Inc,"
+    publishedDateTime: 2021-05-12T17:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program-using-ai-1030422121"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "L32+mavHAi7JFufSt0rRu9LvdwE7edPF+ImZP5kpkatwEceEloKiyynCILkRiimYr9Tz/JmB1SWRtNhlU3kOk1oT/rcEE1qeiRY/HCSjl3oinMXNO2qQRFnFsw2cdwOEIYt4eAls5Wul95oOISlEY3Gp8GXyODE8MZsnITTXqGmlU3OXJjvjTwJ4/zI18vy9jLRFKxLlUOAfvTh+uGJ+tz9ONx11N6ybfAvfRHzUwQUB55WvCbjTWcQFqxXqmg98B7eDNsB7E0L04pdC054McDHA+L5LqDgPv62Jq2RmUarqJex/HDrqXPpw/x3uYC8IE6Xh/Y7s3VVa0piIOUbOAUqS3Ocsa+cqCyI8NcEgM/FagdU4HTB1VPOH5+Hxl57lp1mZLCoQp0ksAEVq7z9z6hcmMiriw6gH3uj6xL6/NImjTdgY2GCVpoCIqS4WJEKfGeWM4u0t+/de9Im+kAYVMAuh4Wutq5Pw1F9hrF62f7Uv+JYxyi4ntfQJHe4XyJgyg4rTvEBMtC4QJ5+wL5hEzA==;p0eRr2swABeoOXZZ4EuxdQ=="
 ---

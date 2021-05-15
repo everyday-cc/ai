@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Detect Sarcasm with Artificial Intelligence"
-    excerpt: "Humans make inferences about tone and meaning, but algorithms can find hidden relationships between words to detect irony and intentional falsehood."
-    publishedDateTime: 2021-05-10T21:21:00Z
-    webUrl: "https://www.defenseone.com/technology/2021/05/how-detect-sarcasm-artificial-intelligence/173936/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/05/10/GettyImages_1232196218/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "AI to detect sarcasm on social media"
     excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands and it may have just gotten a little easier thanks t"
     publishedDateTime: 2021-05-11T18:18:00Z

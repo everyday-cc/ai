@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/12/the-splendor-of-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/12/the-splendor-of-transporting-those-heartfelt-everyday-care-packages-via-self-driving-cars-and-other-self-driving-vehicles/amp/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -31,33 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "New Argo LiDAR sensor opens up the highway to self-driving cars"
-    excerpt: "Argo AI, the US-based self-driving vehicle developer has revealed a new self-designed LiDAR sensor. The sensor should give Argo's autonomous vehicles (AVs) an edge over the competition and enable them to see further and with more accuracy than ever before."
-    publishedDateTime: 2021-05-12T13:13:00Z
-    webUrl: "https://www.just-auto.com/analysis/new-argo-lidar-sensor-opens-up-the-highway-to-self-driving-cars_id201782.aspx"
+  - title: "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys"
+    excerpt: "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one."
+    publishedDateTime: 2021-05-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "When will self-driving cars hit the road?"
+    excerpt: "Tech enthusiasts often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers. Anticipation tends to build around everything from the"
+    publishedDateTime: 2021-05-11T20:47:00Z
+    webUrl: "https://www.tctimes.com/when-will-self-driving-cars-hit-the-road/article_1c167eb0-b29a-11eb-914e-03b6454735b6.html"
+    type: article
+    provider:
+      name: Tri-County Times
+      domain: tctimes.com
     quality: 24
     images:
-      - url: "http://i4.progressivedigitalmedia.com/3/2021-05-12-12-43-pressreleaseheroimage1536x1024_cropped_70.jpg"
-        width: 424
-        height: 282
-        isCached: true
-  - title: "Less than a third of car buyers support self-driving cars on UK roads despite government plans"
-    excerpt: "New data has shown that less than a third of drivers support self-driving cars on UK roads despite changes to government legislation.  Only 29 per cent of"
-    publishedDateTime: 2021-05-12T07:27:00Z
-    webUrl: "https://cardealermagazine.co.uk/publish/less-than-a-third-of-car-buyers-support-self-driving-cars-on-uk-roads-despite-government-plans/223145"
-    type: article
-    provider:
-      name: Car Dealer Magazine
-      domain: cardealermagazine.co.uk
-    quality: 12
-    images:
-      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2021/05/280685_Volvo_Cars_teams_up_with_world_s_leading_mobility_technology_platform_DiDi-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/0/fc/0fc65ede-b293-11eb-a927-0b228025159c/609ae191e8eb7.image.jpg?resize=475%2C630"
+        width: 475
+        height: 630
         isCached: true
 
 secured: "y8zcwGUPUerMg8QTRh3kBEOHTeWTjJr7gRe0mDtdYBa/6ZYTaIOnUaysL4BQNB+/ExOyIGCuxdHMXE+uSLNXzBXzTD4BSdGrQrdRhIyHet7I7/fxvKSZwwwYHDdDGKHsKHhqF5ZVK1pFB/uTfhoXYxeAKuyqO4AHJE1QKDPYdKi4e9nM7u6bapOmoaJpuNmEdGXFdqp76cJYH3mXDVrg76LWv/uMTRYhv/Cy0vdhaH5VA8dSpaoU6WA4eH+cAIlo1qAEveRM0TEXG33Y5+F3BW2wf6T/IK/RFpPf0ur8bC4unNAAFEAT+f2sbjdQlWX6Dj/SVVzhI+6b+D12qAjxJJND4MBeCHg+1y3743meSOUWybiDtGQ/gqcz0mQmWLAwiZFpaZdNYIaixjS1CbpzUYtVe9H1IeDAE6FUOWQZp/dXexlS7YhmVdy/3OV1DUe8cC0hI1vYP+La7oJ+ecKSYph81f3EdHq6RxU2TCT5WnaR4k1zb/LfGoswmuqQsj9NTTZ8/6DHy9KOrPxeGeZ3Qg==;sjyLmIGB6G6S/9S6+b4mJA=="
