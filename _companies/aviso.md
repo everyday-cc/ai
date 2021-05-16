@@ -2,7 +2,7 @@
 name: "Aviso"
 overview: "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North"
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.aviso.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Aviso"
 
-secured: "zVAoETUZkNzspOFLPIrYLvQrLqTrZEgmU0AFCSU8WFTFZhG8DWLoWSJQA+WNGjQJI2nvpphAwY3QZC9bkGSNU9pfBGk8SgpxvKKW8znuIK2mF54xSPtre1NiUcl5TyiyMA4JU6POfRyYNkzsHSBns6CaTa18ce//eyAgWu4nuoAom6sRJvCsRU/U0ENtOjlBCpFEr1WD3AHKQkmcT5CUAArdUdEtjDn/JSUrEh4Aw6QWscb3gTUYzfCb8baoOcgpoq7qtduRk84mULly5A9xdNq7eps0RmjxmdQzI2lLEhtpDx9UkUm8DeiaDdnvCsJXgE65WydL9N3xiQznsMP4qO+iN0md8t38g1msqkUJZ8qCu9QJFmTuB16gixeTJ9+f5OOszNjCHsFyA3AjUdgFag==;oa+r16Zq/5ZmQujtCCEQWA=="
+secured: "pBBTw+Irl35pzBU6s01zZOyFP7sgNuXT6ZE7eSVE0FZgs1bw5u98GvxbE1IltD3TfmJw2bpCd+I1PY9QEEpVgB+iFrdxItRgU1SdU1raz7LkQQCB3H8mtU2b8CFg4Ra4PW0yvQtF2wieHAFTuk7qAVUe4ZmfV/XCysbds6nv/zzVpz0oEfoxq36c6IQIEZSgN8VcQIR0Duab1zlxL1uXVlwaDouPK+kfUbQ7GmEfleXGfqscdYhPq8xJ5uzSbTdsUm+Ue24shVp5VE/RUMuyBVNCPm7K8UY62MY502s/g56Vgrv1bgCSqMLpJghg9JhsXUlNbq0xJ1+fjVt+NOxAozxzHU8U7z5K5xY9QhjkK8dHCvs0VzvQmMQNqxKiqDMFng1/IojUznxSmmNkuqvUmw==;P8JnyDRuUtnnJqeqiIc+qA=="
 ---
 

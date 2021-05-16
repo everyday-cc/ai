@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Uber"
   url: "https://twitter.com/Uber"
-  followers: 1054658
+  followers: 1054637
 
 locations:
   - Global
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Uber"
 
-secured: "voO993PXAhQJ+e160dHW6bwnmwh9uN7nRJshoqCeTCcGKGJClZ+GWqMyQnpu9nxYglmeHNQzMUnS/4ml+/JLEcCIqhRxrvdbvCz7sGLrpHWKWWxCGDZAQqcdVWx4hOQr2MI1+ee617tdCnfd07LJQg8wbyWjNhQPkfHy34wmA0n91v6zvlOui3RSkRm7aQVVQWnckgOd1CGBtCcBto4MV7gRBF6oPKO7I7/J4lbl4xm6xOpHnyejbLE5E2vVPF+Va32H4agOl3InxN56o+EAyQU3OqJvnGAxrMvZRZ5+wXun39grBDhcZghgg5iDeg6hJbkpZnASL17rSSnQBoVLRQ8zW6Q9G4d03IfOklMi4nAkXhwPEg0zrw2FegX5A1zaK0IhyJfHt1qgf6TWfCRqXRXU82iXlodgUnhOtzy8byk=;ylyl8JmzC6XPlaSNjraACA=="
+secured: "KAR8dAGbz6GUCsMdwNMiWgbmsLRs5AmmQQ8wZ2ugeU+oETj1pHgtvb9Uo+Imc8tO0r75S0L1KKGBDlesAxrhZu7AcnoB2NuOPcIh8iGe0zBFlxg8YO/YzvLuEJ8x2G8FrDJlrsuLGFowwUto4pmXitEHjEdEkoW+m/wbbM1GyUUU8qVO7cHZdUm7ANHp2NHram+KxJA6qsmIjqW99/H1vgIHnV0ofb34jKzA0AqkG2QexXyezSIoQ9yk5OKkP5b0L/qrXRkso1d/XDSCuc+CHDGKaemgUOJMEdovC1uXmAp0Pi7pdOMkT/g61c/BaWPVL/TFeodvOJXAfjylhHwJc9evxPJGc/Xjo/6AiGIbELMqlb5UdH1oI+AnhXZr2prQV6dSCJvvWK80n3GBqH2McJ23cRgVjXQYNcNt6/aum4Q=;5XRts6Dlg0ehV8SQO3OiQA=="
 ---
 

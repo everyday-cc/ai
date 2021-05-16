@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gnshealthcare"
   url: "https://twitter.com/gnshealthcare"
-  followers: 2608
+  followers: 2607
 
 size: 51-200 employees
 yearFounded: 2000
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1063wrnhLHE"
 
-secured: "IzxGSq46jHtiQ3kueIhcIMMvRFejDFPll7Q4QXLZnwA4Vem4vxJ37l5s2zxtEI4boBL1URibxUHVMq8+2uKaMuWhjzXbCjkE5WVfAaGSnq9FDDU+nLyBCckwustac8ix94xQT2QaRLt9EP35KvRtcimOun0r4+gDM2PuA8KefnWIww8yWJMZuWDDKtYoy8a7fVP1uDSr1FDT/WH00ht3ZmB8SZ/BPZQjUPLDrQf/K1hS07YTRe0e8EBXZ/bqycwyKxq1u+u8bloQ1TFled/nsyAKC2jj/uzwFFIh3hPpmspCaNVHvk+lRGrqvpaGNuuW80zFn1C1liz7ySBx3xNV+CJ3cmq5jwsY+wjN5kw+RKBBKC8JB82wIY1KDh8CJ6GJA8zYTBVOIkSt4yLLISr3s5jCQ2SyhhNk2VrVW3nT22I=;gfodgPdNNtVlKYHeK1UcGA=="
+secured: "BrJk01add7DX5kohVeL7sFC5xxvEWdCmaMdfxHEpk6xMXHzSuHF8ZQwAIISNaOcTDg+6CqJ7c2qU7NWqnGl6mElSYYMRMBqUh/vGHWVaStJEKWjqYlOCihgEQHZd4zUrZnQOUsZNVMR7Fgwf7hfiQITW/uUHN+/u/78SBA+b+Uxqh9XRwvth5BZS+LYDB5W2Rj8BWnjLAddgMijYVcl7Oae1qCO/+ZVvVdq3XKtRIPGdLCLLsVtjAdfLDWFP597ET9v5efxZKmPSFCsVcpYOUjtuASiKp+bjHG6QN9y4qejzgWfRiYwbYW0e5jdlyknI1UfCa03QzbyxT2DBgq30GcQt4voVHmVS7X/BTDkhNMOj1mGYvi5KQqIG1Qg2N29AeiGhAf/XRy8aO4duCsAS0TK4463icMT3f9VetW5xx4E=;I+zn1I1RA/G9FxGeSs8RQg=="
 ---
 
