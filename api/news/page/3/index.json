@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-helps-predict-treatment-outcomes-for-patients-with-diseased-dental-implants.md",
+      "title": "AI helps predict treatment outcomes for patients with diseased dental implants",
+      "excerpt": "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dentalimplant.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
+      "publishedDateTime": "2021-05-12T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos.md",
+      "title": "Yelp built an AI system to identify spam and inappropriate photos",
+      "excerpt": "Yelp's engineers built a multi-part AI system to help identify spam and inappropriate photos across the company's platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Yelp-e1594622799259.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
+      "publishedDateTime": "2021-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-deepmind-wants-to-use-ai-to-transform-soccer.md",
       "title": "DeepMind Wants to Use AI to Transform Soccer",
       "excerpt": "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports.",
@@ -50,6 +144,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-israeli-startup-nimble-raises-10m-for-autonomous-manicure-robot.md",
+      "title": "Israeli Startup Nimble Raises $10M For Autonomous Manicure Robot",
+      "excerpt": "Nimble is said to be the world's first device that uses artificial intelligence to paint and dry nails in 10 minutes per hand.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/",
+      "originalUrl": "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -622,6 +759,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed.md",
+      "title": "Artificial intelligence that can detect sarcasm in social media developed",
+      "excerpt": "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/05/12/1600x900/photo-1554177255-61502b352de3_1620799135211_1620799139809.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html",
+      "publishedDateTime": "2021-05-11T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-a-closer-look-at-ibm-autosql.md",
       "title": "A closer look at IBM AutoSQL",
       "excerpt": "IBM is filling out its Cloud Pak for Data hybrid analytics platform with new capabilities reaching out to the data lake and laying the groundwork for governance.",
@@ -1021,197 +1201,6 @@
         "IBM AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
-      "title": "AI Has Eaten IBM Think",
-      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
-      "publishedDateTime": "2021-05-11T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
-      "title": "Machine learning & Artificial intelligence to Gain traction!",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
-      "originalUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/05/technology-5917370_1280.png",
-          "width": 1269,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
-      "publishedDateTime": "2021-05-11T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
-      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
-      "excerpt": "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-fiori-expands-with-its-sky-terrace.md",
-      "title": "Ai Fiori Expands With Its Sky Terrace",
-      "excerpt": "An airy restaurant in the Rockaway Hotel, a brick-and-mortar location for King David Tacos, and more restaurant news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/12/dining/11Off/11Off-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
-      "publishedDateTime": "2021-05-11T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

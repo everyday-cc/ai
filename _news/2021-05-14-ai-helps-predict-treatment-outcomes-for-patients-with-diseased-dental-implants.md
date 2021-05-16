@@ -55,6 +55,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
+    excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."
+    publishedDateTime: 2021-05-12T10:02:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00453-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
+        width: 490
+        height: 685
+        isCached: true
 
 secured: "3QTkWYatg1AuB6RnPvA4JusqzIYVoqnamhPZWPcDgKTsvfaGEmgza9lLEcSq4LNmqOB3yzT6Ew6m0cAI6EYLHd/Hn/wBbM8g2RapeuXCCxOvP7jbxkNm7uHoGsFLAinoNU71NLQYiHpcAsD4VVpD0OP/Mwg24wqlFsKb3h+AnWF7jtkd7hzCb54ihKFz/SKu+sgmNxyspEKc6Hw/KJ+4AvEmTRRnHgBEpTEfCOILdJmTlzCJ0ajpvRNJmM1DegMsTx6z77sODRNNJ49w74jmbmkf1aikFj8Aw5d3HxftN6aJcy705BWpmRkTRQNEl3v2rbaAHa2NJG6l7QZbToDvTw7iW9TdM5HmAdieg1B3EuI=;Y6vWkRC1MIMpuQ1gf9Luuw=="
 ---

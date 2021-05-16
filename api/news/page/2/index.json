@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-14-ai-shows-exxonmobil-downplayed-its-role-in-climate-change.md",
+      "title": "AI Shows ExxonMobil Downplayed Its Role in Climate Change",
+      "excerpt": "According to a new paper, the company’s own research showed that human activity was a contributor, but public statements suggested otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
+      "originalUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/609c6715518969560d194728/master/pass/business_exxon-mobil_1210615224.jpg",
+          "width": 2400,
+          "height": 1591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp",
+      "publishedDateTime": "2021-05-13T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-cruise-expects-gm-to-begin-production-of-new-driverless-vehicle-in-early-2023.md",
+      "title": "Cruise expects GM to begin production of new driverless vehicle in early 2023",
+      "excerpt": "Cruise's CEO disclosed the timing Thursday, giving the most specific time frame yet for the vehicle and commercialization of its autonomous vehicle business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
+          "width": 810,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
+      "publishedDateTime": "2021-05-13T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc.md",
       "title": "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC",
       "excerpt": "Today Anchore, a company focused on security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA’s NGC catalog.",
@@ -1165,100 +1269,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-helps-predict-treatment-outcomes-for-patients-with-diseased-dental-implants.md",
-      "title": "AI helps predict treatment outcomes for patients with diseased dental implants",
-      "excerpt": "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dentalimplant.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
-      "publishedDateTime": "2021-05-12T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos.md",
-      "title": "Yelp built an AI system to identify spam and inappropriate photos",
-      "excerpt": "Yelp's engineers built a multi-part AI system to help identify spam and inappropriate photos across the company's platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Yelp-e1594622799259.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
-      "publishedDateTime": "2021-05-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

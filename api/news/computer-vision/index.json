@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-16-watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training.md",
+      "title": "Watch now: Facial recognition technology was tested by Normal police in training",
+      "excerpt": "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology —",
+      "sourceUrl": null,
+      "webUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html",
+      "originalUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/4/6a/46a3f1f4-c290-5935-8448-d7502215d0d4/601e08137f8da.image.jpg?resize=1024%2C680",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html",
+      "cdnAmpWebUrl": "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html",
+      "publishedDateTime": "2021-05-15T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pantagraph",
+        "domain": "pantagraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
       "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
       "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
@@ -345,7 +388,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1403,59 +1446,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-computer-vision-inches-toward-common-sense-with-facebooks-latest-research.md",
-      "title": "Computer vision inches toward ‘common sense’ with Facebook’s latest research",
-      "excerpt": "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/",
-      "originalUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/segmentation-gif2.gif",
-          "width": 800,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/",
-      "publishedDateTime": "2021-04-30T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

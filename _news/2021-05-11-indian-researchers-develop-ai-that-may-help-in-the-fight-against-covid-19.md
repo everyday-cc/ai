@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/indian-rese
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
 type: article
 quality: 60
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Standard
@@ -28,101 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence that can detect sarcasm in social media developed"
-    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well."
-    publishedDateTime: 2021-05-12T06:01:00Z
-    webUrl: "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html"
-    ampWebUrl: "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html"
+  - title: "Vitti AI Invites Applications for Webinar on Role of Artificial Intelligence in Tackling COVID-19"
+    excerpt: "Vitti AI has invited registrations for a webinar on Role of Artificial Intelligence in Tackling COVID-19 to be held on 16 May at 6 pm IST"
+    publishedDateTime: 2021-05-15T08:45:00Z
+    webUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/"
+    ampWebUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 58
+      name: Dataquest
+      domain: dqindia.com
+    quality: 61
     images:
-      - url: "https://images.hindustantimes.com/img/2021/05/12/1600x900/photo-1554177255-61502b352de3_1620799135211_1620799139809.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-    publishedDateTime: 2021-05-12T09:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
-        width: 1618
-        height: 1400
-        isCached: true
-  - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
-    excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
-    publishedDateTime: 2021-05-11T15:49:00Z
-    webUrl: "https://www.wkyc.com/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 50
-    images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/3c9c9308-39b5-4292-94c3-64320c64cf07/3c9c9308-39b5-4292-94c3-64320c64cf07_1140x641.png"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-    excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."
-    publishedDateTime: 2021-05-11T14:01:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210507112040.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
-  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications."
-    publishedDateTime: 2021-05-13T14:49:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210512083411.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
-  - title: "Artificial Intelligence Accurately Predicts if COVID-19 Patients Will Develop Life-Threatening Complications"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-    publishedDateTime: 2021-05-14T21:56:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 40
-    images:
-      - url: "https://scitechdaily.com/images/Chest-X-ray-of-COVID-19-Patient-777x672.jpg"
-        width: 777
-        height: 672
-        isCached: true
-  - title: "How India Fights COVID With Artificial Intelligence"
-    excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
-    publishedDateTime: 2021-05-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "The Role of Artificial Intelligence in Fighting COVID-19"
     excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
@@ -152,29 +72,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
-    excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."
-    publishedDateTime: 2021-05-12T10:02:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00453-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
-        width: 490
-        height: 685
-        isCached: true
-  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-    excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
-    publishedDateTime: 2021-05-12T06:14:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210511/3754375.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 11
 
 secured: "WZzhT8KkZ9UtCwNVVhtHUTJDwfMmnY2LfSOjdZHN8I+zPDTjabVHB6iBfxGhL9HutRs0/dR0TQJhH4yflcmfqBSe2Dw4Rm+XVQH+ZaIDIk20D7XMQDtpZlgJO6RYlqOKM51EGFu+B6eUmEMOXAE4CgkWjqg38we4o5BS4ysrd3v5gYUqYuvr8DbjULQMilkbteTsg0/V8+Gllz5iAmCiL8ZpnaJYgFnBn6nQvD5gPGq+ORP/baT8AAYL+Sx7N+GRJePaasNE+suhLCbnXRV+MSMOjgM8s4r1KCr4KW0w6HgQMJfsnzFJwDVHEMeUhddhmsxkEwlLGlrx4hCVXPOG8d4+bkAKMGd2lOlY89KGTrRJKLLpwT9wZBYxAxgzLR8MdAIkaeF38tn8KxSolIa/KCUax/c4JgW/vajAjl+/8y3Tr+SK5K4Bjymixw8Op/CrecGCp8G4gsWroyR9u4mMcKjy+PmPXuYSkSDK6v3ibv8MhXo8tR3m6tv9d4ecI45Xxp4J52rHF4gMOis04oXEyg==;1tQxgDI955QkMOKWm95dPA=="
 ---

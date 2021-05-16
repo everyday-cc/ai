@@ -44,20 +44,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "IBM's CodeNet dataset can teach AI to translate computer languages"
-    excerpt: "AI and machine learning systems have ... “Having said that, there has been work done in human language areas, like neural machine translation which, rather than doing pairwise, actually becomes ..."
-    publishedDateTime: 2021-05-11T06:00:00Z
-    webUrl: "https://www.engadget.com/ibm-codenet-dataset-can-teach-ai-to-translate-computer-languages-020052618.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/e5dfa070-b1e4-11eb-8ffd-c77387193c53"
-        width: 7800
-        height: 5200
-        isCached: true
   - title: "IBM Project CodeNet to teach AI how to code"
     excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
     publishedDateTime: 2021-05-11T19:22:00Z

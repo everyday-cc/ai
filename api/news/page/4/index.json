@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
+      "title": "AI Has Eaten IBM Think",
+      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "publishedDateTime": "2021-05-11T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
+      "title": "Machine learning & Artificial intelligence to Gain traction!",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
+      "originalUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/05/technology-5917370_1280.png",
+          "width": 1269,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
+      "publishedDateTime": "2021-05-11T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
+      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
+      "excerpt": "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ai-fiori-expands-with-its-sky-terrace.md",
+      "title": "Ai Fiori Expands With Its Sky Terrace",
+      "excerpt": "An airy restaurant in the Rockaway Hotel, a brick-and-mortar location for King David Tacos, and more restaurant news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/12/dining/11Off/11Off-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/dining/nyc-restaurant-news.amp.html",
+      "publishedDateTime": "2021-05-11T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-the-washington-post-launches-audio-articles-voiced-by-amazon-polly.md",
       "title": "The Washington Post Launches Audio Articles Voiced by Amazon Polly ",
       "excerpt": "AWS is excited to announce that The Washington Post is integrating Amazon Polly to provide their readers with audio access to stories across The Post’s entire spectrum of web and mobile platforms, starting with technology stories. Amazon Polly&nbsp;is a service that turns&nbsp;text&nbsp;into lifelike&nbsp;speech,",
@@ -116,7 +307,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -611,21 +802,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19.md",
-      "title": "Indian researchers develop AI that may help in the fight against Covid-19",
-      "excerpt": "Given limited testing facilities for Covid-19, there's a rush to develop AI tools for quick analysis using X-rays. Experts say it can be very useful in smaller towns where access to CT scans is poor",
+      "path": "_news/2021-05-11-ai-methods-predict-covid-19-patient-outcomes-using-routine-clinical-data-from-icus.md",
+      "title": "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs",
+      "excerpt": "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
+      "webUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/11/full/1620721373-4459.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -633,13 +824,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "publishedDateTime": "2021-05-11T04:08:00-07:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "publishedDateTime": "2021-05-11T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -649,9 +840,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -714,7 +903,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1042,205 +1231,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026.md",
-      "title": "Global Machine Learning Market 2021 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2026",
-      "excerpt": "Global Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast to 2026 is the recent market study developed by MarketsandResearch.biz that contains a comprehensive assessment on market estimation based on historical data analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-marketing-ai-institute-raises-in-1m-seed-funding.md",
-      "title": "Marketing AI Institute Raises in $1M Seed Funding",
-      "excerpt": "Cleveland, OH-based Marketing Artificial Intelligence Institute closed a $1m seed funding round. The round was led by Blue Cypress, a family of purpose-driven companies founded by technology entrepreneur Amith Nagarajan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/05/image-7.jpeg",
-          "width": 950,
-          "height": 1267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire.md",
-      "title": "Utilizing AI To Reach Peak Performance In Health And Business: How The Sculpted Vegan Built An 8-Figure Empire",
-      "excerpt": "According to Kim, data measurement is not only how she tracks performance and improves results, it is key to her success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60999aa57f0f303323a5e166%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1600%26cropY1%3D67%26cropY2%3D967",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
-      "publishedDateTime": "2021-05-10T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-apex-takes-dell-beyond-just-storage-as-a-service.md",
-      "title": "APEX Takes Dell Beyond Just Storage-As-A-Service",
-      "excerpt": "Senior Analyst, Storage & Data Steve McDowell dives in as Dell Technologies has jumped into its introduction this month of its APEX infrastructure services offerings. Dell's APEX spans the gamut of on-prem consumption-based storage through custom cloud-based managed solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609ae83af07b601f6d705852%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
-      "publishedDateTime": "2021-05-10T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

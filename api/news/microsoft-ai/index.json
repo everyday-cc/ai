@@ -404,50 +404,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19.md",
-      "title": "Indian researchers develop AI that may help in the fight against Covid-19",
-      "excerpt": "Given limited testing facilities for Covid-19, there's a rush to develop AI tools for quick analysis using X-rays. Experts say it can be very useful in smaller towns where access to CT scans is poor",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/11/full/1620721373-4459.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html",
-      "publishedDateTime": "2021-05-11T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-05-11-apex-takes-dell-beyond-just-storage-as-a-service.md",
       "title": "APEX Takes Dell Beyond Just Storage-As-A-Service",
       "excerpt": "Senior Analyst, Storage & Data Steve McDowell dives in as Dell Technologies has jumped into its introduction this month of its APEX infrastructure services offerings. Dell's APEX spans the gamut of on-prem consumption-based storage through custom cloud-based managed solutions.",
@@ -1375,6 +1331,49 @@
       "provider": {
         "name": "VG Chartz",
         "domain": "vgchartz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Pharmacists documented cognitive services on Palm-based devices with ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT, version 2.02 (ASHP, Bethesda, MD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_2",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -52,6 +52,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 45
+  - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
+    excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."
+    publishedDateTime: 2021-05-12T10:02:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00453-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
+        width: 490
+        height: 685
+        isCached: true
 
 secured: "ehYrcWglYHZ14bOiW7mS0g00srjtEEXbpAnkD7XIEil7ITwfOxflMiSSFAUwaM2pVPuKliMwXJ4OuSLbuEIODrRi+LGXbb+26qqJYvuF84WeylFUfGmuR01lE3ijV1T9RcggCrGYwVAzL+Dg1heAFRYvF8V5OdwcIfMKl4KM8Jxg0J/Nyim+a0zccRkS4q8qdK3Qy20E31XmJhscDzcpDI31a0kfzPEVJrODR6JBlNmyTKNVccx/Do47egVya/CHyc/RZ9Y97AAkf+s8mfvuzTQHxob7RidWD+nPp1rQDp8ETLVkFSySowwYrykD4IEGCLAxjXOcWfeTf0PV9+MHozY3LhPYow60F3OJ9xOkLPM=;f9E8kAJlJc76Hduw7y4oTA=="
 ---

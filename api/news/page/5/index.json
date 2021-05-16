@@ -2,6 +2,205 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-11-global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026.md",
+      "title": "Global Machine Learning Market 2021 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2026",
+      "excerpt": "Global Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast to 2026 is the recent market study developed by MarketsandResearch.biz that contains a comprehensive assessment on market estimation based on historical data analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-marketing-ai-institute-raises-in-1m-seed-funding.md",
+      "title": "Marketing AI Institute Raises in $1M Seed Funding",
+      "excerpt": "Cleveland, OH-based Marketing Artificial Intelligence Institute closed a $1m seed funding round. The round was led by Blue Cypress, a family of purpose-driven companies founded by technology entrepreneur Amith Nagarajan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/05/image-7.jpeg",
+          "width": 950,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire.md",
+      "title": "Utilizing AI To Reach Peak Performance In Health And Business: How The Sculpted Vegan Built An 8-Figure Empire",
+      "excerpt": "According to Kim, data measurement is not only how she tracks performance and improves results, it is key to her success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60999aa57f0f303323a5e166%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1600%26cropY1%3D67%26cropY2%3D967",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
+      "publishedDateTime": "2021-05-10T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-apex-takes-dell-beyond-just-storage-as-a-service.md",
+      "title": "APEX Takes Dell Beyond Just Storage-As-A-Service",
+      "excerpt": "Senior Analyst, Storage & Data Steve McDowell dives in as Dell Technologies has jumped into its introduction this month of its APEX infrastructure services offerings. Dell's APEX spans the gamut of on-prem consumption-based storage through custom cloud-based managed solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609ae83af07b601f6d705852%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
+      "publishedDateTime": "2021-05-10T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
       "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
       "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
@@ -1028,195 +1227,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-chinas-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
-      "title": "China’s Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
-      "excerpt": "China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. Ltd. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen as the future of transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-05-10/chinas-tech-giants-bet-19-billion-on-global-electric-car-frenzy-101709053.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-05-10/chinas-tech-giants-bet-19-billion-on-global-electric-car-frenzy-101709053.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-05-10/1620633529179260_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice.md",
-      "title": "Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?",
-      "excerpt": "Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6098b3bc2cd0e76d77a5e166%2F0x0.jpg",
-          "width": 1199,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
-      "publishedDateTime": "2021-05-09T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-china-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
-      "title": "China Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
-      "excerpt": "(Bloomberg) --China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
-      "originalUrl": "https://www.bloombergquint.com/business/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-cogniflare-unveils-data-management-and-catalog-platform-for-google-cloud.md",
-      "title": "Cogniflare unveils data management and catalog platform for Google Cloud",
-      "excerpt": "Cogniflare plans to add connectors that will extend Kyra’s data management reach into the various cloud services provided by Microsoft and ... In addition, Cognitive is working to give Kyrah ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
-      "publishedDateTime": "2021-05-09T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
