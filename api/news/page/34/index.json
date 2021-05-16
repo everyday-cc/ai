@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-04-16-synctera-signs-on-checkalt-and-socure-as-latest-partners-to-continue-building-out-fintech-as-a-service-offerings.md",
+      "title": "Synctera Signs on CheckAlt and Socure as Latest Partners to Continue Building out FinTech-as-a-Service Offerings",
+      "excerpt": "Synctera, a new solution for partnership banking at scale, today announced partnership agreements with CheckAlt, the largest independent lockbox and e",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210415005802/en/Synctera-Signs-on-CheckAlt-and-Socure-as-Latest-Partners-to-Continue-Building-out-FinTech-as-a-Service-Offerings",
+      "originalUrl": "https://www.businesswire.com/news/home/20210415005802/en/Synctera-Signs-on-CheckAlt-and-Socure-as-Latest-Partners-to-Continue-Building-out-FinTech-as-a-Service-Offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-toward-deep-learning-models-that-can-reason-about-code-more-like-humans.md",
       "title": "Toward deep-learning models that can reason about code more like humans",
       "excerpt": "A new framework built by MIT and IBM researchers finds and fixes weaknesses in automated programming tools that leave them open to attack. It’s part of a broader effort to harness artificial intelligence to make automated programming tools smarter and more secure.",
@@ -1112,40 +1146,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in-its-new-lineup-of-battery-electric-vehicles.md",
-      "title": "Cerence Provides Dynamic Voice Recognition to Hyundai IONIQ 5, the Automaker’s First in its New Lineup of Battery Electric Vehicles",
-      "excerpt": "Cerence delivers conversational AI-powered access to key in-car functions and information, enhancing driver safety and convenience. BURLINGTON, Mass., April 14, 2021-- Cerence Inc., AI for a world in motion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in",
-      "originalUrl": "https://www.nasdaq.com/press-release/cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

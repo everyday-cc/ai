@@ -27,63 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM CodeNet teaches AI to translate programming languages"
-    excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
-    publishedDateTime: 2021-05-11T09:54:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
+  - title: "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses"
+    excerpt: "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service."
+    publishedDateTime: 2021-05-11T21:02:00Z
+    webUrl: "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1620318196/itpro/shutterstock-code%20editor.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "IBM Project CodeNet to teach AI how to code"
-    excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
-    publishedDateTime: 2021-05-11T19:22:00Z
-    webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 71
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png"
-        width: 1654
-        height: 932
-        isCached: true
-  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T16:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "IBM uses AI to create intricate COVID-19 map"
-    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
-    publishedDateTime: 2021-05-12T21:17:00Z
-    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "OJbhKDqaNYwWew4T8CuUDDuZ1vLx1JJn/RHIv1RuHk6mky+KolnNe/+gS/DzOsanx39LKy0PQNaV7U6s+3z14a6MLf8/4DI2eKvv/LCUU39hVoYhKBYYlL6atNOuK86blNTtYZASAmZkcGj+FVIoWKkQHZR0x7Hi3mAE2E5BLxfpXn+0/SCM2ziuKMAYHfRtIb7w1NXaWZc7P7T+6cf3Y9LDjSE6QIBY8gQ85df8YVkvYcmda3D2tQNxFWTvj+mi+brzXbt6OmyfTw+JPuYfRJ/fTOxQU6E0SuSh3qP6OQU7PzueJRjsKmJ8CdOfRrsNnjpCUnlHbuMoXRVfgyfBHSW42ORNTg60RIhwfBTxvZXRJxq2ZFM9pvqczLvrGzqy8wQ3LW+sMsuPrRleMpy9WibUl5qILmn0r4W/Lld40r5YLmYKKi7DYl0ui99voMd2EgLvQnxRQ+iCS4iR9HTNImFPdW+bRVjB1FDDVQwBDFV6t0VkDr85N4RwI+l1C6Uhdv7a9c/Xn4NUK+OUXw+ncg==;vmgEZlhFBW4a2oEgrBcfYw=="

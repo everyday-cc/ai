@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MOVO® Forges New Fintech Category and Launches ON-DEMAND Mobile Banking with End-to-End CONTACTLESS Payments"
-excerpt: "The all-in-one banking and payments app enables consumers to receive, send and spend, with digital cash securely and instantaneously, anywhere and anytime MovoCash, Inc., a California-based Fintech company,"
-publishedDateTime: 2021-05-13T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210513005221/movo-forges-new-fintech-category-and-launches-on-demand-mobile-banking-with-end-to-end-contactless-payments"
-webUrl: "https://www.morningstar.com/news/business-wire/20210513005221/movo-forges-new-fintech-category-and-launches-on-demand-mobile-banking-with-end-to-end-contactless-payments"
+excerpt: "MovoCash, Inc., a California-based Fintech company, announced today the launch of a first-of-its-kind ON (News - Alert)-DEMAND Mobile Banking (\"ODMB\") app with End-to-End CONTACTLESS Payments in partnership with Mastercard® and Coastal Community Bank."
+publishedDateTime: 2021-05-13T13:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368938.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368938.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -36,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "hmPJlQQWDKc86B3wFIz4wAeJUaUN7PnkWuFJ1Ocqqpj0TYVEKOjmWaUgkZwblfylmzpjus/r7oYEitu0k967SVRqnsVvCcxrrO0av/XMP7m1li0Is67mQhatD/1ICmTBLo1TINXOZEaphPnOF+qHQQJmnspJX5a/lmCMALVJ/83MRKtjsdj43ku0t6A4P2Y8DiNfOYZb8kwHDLOWRs0Kk4De/VFP+x6neeGghIiuLpEAnQLg98XFbPn946AbhBd/wkwY2gwgDtU5+z6fVlSxCIPE96K0OltraRhiEEfQihCNo9DqtGg7KeZoYpe5e6WSlJIRUY0h5z7kA4uR7M3+d7uErypmLfchKHmZXpQP640=;i+vyMOyEhFFLYNZc5a0opA=="
+secured: "EAMpc5/WzWQz+V+qpKNvAJrV+RiFv+Pi0so6dBXcTalLvpxT5C5KfIVbw5+g5qPmUx3m0hrRS+oRg9zoOhUCzkmhL9bZjHqgyCPSP9MqKhkCtbOo6HGEUNj8WW3VrE811gwqYTLbEPYmcFV/rjD/33f1tUW2sO5KUepxplmQW4auP4RpgKwVOVmWSRVb7mnH3MoCJqztbYj3Kz9YXJmLIW49ngjT0hwh941NN/zLo0zdFSrT8Y2EV9Ja6ETkwakcMKQ7UfJZ5ACLqfS8QydR2y9lSZPwdbCG0HJyUPC/EEMN/c/+OnSD4qHGW28/QOVSArthtU2cl2VJw9t5QbRSWeruABeqweksfg/squ5LN4I=;BmtDjv5MnmwWz4uz794nbw=="
 ---
 

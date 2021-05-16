@@ -42,20 +42,6 @@ related:
         width: 750
         height: 468
         isCached: true
-  - title: "Why fintech companies are winning big in banking and finance"
-    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
-    publishedDateTime: 2021-05-11T09:50:00Z
-    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
-        width: 1024
-        height: 593
-        isCached: true
   - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
     excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
     publishedDateTime: 2021-05-11T12:17:00Z

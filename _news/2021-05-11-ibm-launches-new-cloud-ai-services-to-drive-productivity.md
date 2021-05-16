@@ -28,51 +28,115 @@ images:
     isCached: true
 
 related:
-  - title: "IBM CodeNet teaches AI to translate programming languages"
-    excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
-    publishedDateTime: 2021-05-11T09:54:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
+  - title: "AI Has Eaten IBM Think"
+    excerpt: "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,"
+    publishedDateTime: 2021-05-11T19:53:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1620318196/itpro/shutterstock-code%20editor.jpg"
-        width: 375
-        height: 210
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg"
+        width: 1200
+        height: 711
         isCached: true
-  - title: "IBM Project CodeNet to teach AI how to code"
-    excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
-    publishedDateTime: 2021-05-11T19:22:00Z
-    webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
+  - title: "IBM Think 2021- All In On Hybrid Cloud And AI"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead attended the IBM Think 2021 event last week, which is the premier hybrid cloud and AI event for IBM as well as the company’s annual flagship event for customers and partners."
+    publishedDateTime: 2021-05-14T15:23:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png"
-        width: 1654
-        height: 932
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609e948de2ae75870e17f414%2F0x0.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "IBM launches new cloud, AI services in bid to modernize business"
-    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T19:47:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+  - title: "IBM CEO: Every business is going to adopt AI"
+    excerpt: "Arvind Krishna, CEO of IBM, compares Artificial Intelligence to electrification at the turn of the last century saying, \"AI is going to infuse every business and enterprise in this century.\""
+    publishedDateTime: 2021-05-11T15:45:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200420162135-ibm-arvind-krishna-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
+    excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
+    publishedDateTime: 2021-05-11T20:30:00Z
+    webUrl: "https://thenextweb.com/news/ibm-think-2021-kicks-off-with-ai-innovations-and-some-interesting-quantum-news"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fthink-og.jpg&signature=e9c5be7ecec54f08f3a2ec819aa82374"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
+    excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
+    publishedDateTime: 2021-05-12T10:56:00Z
+    webUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/"
+    ampWebUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
     quality: 59
     images:
-      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
-        width: 480
-        height: 320
+      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-Digitization-AI-Hybrid.png"
+        width: 1080
+        height: 1080
+        isCached: true
+  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
+    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
+    publishedDateTime: 2021-05-12T03:45:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
+    excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
+    publishedDateTime: 2021-05-14T09:53:00Z
+    webUrl: "https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.html"
+    ampWebUrl: "https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 53
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/communication_network_online_meetings_virtual_events_digital_conferences_video_conferencing_remote_teams_by_metamorworks_gettyimages-1223790400_2400x1600-100854037-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "IBM uses AI to create intricate COVID-19 map"
     excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
@@ -87,6 +151,48 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "COVID caused conversational AI to accelerate, says IBM"
+    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
+    publishedDateTime: 2021-05-13T17:33:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
+    publishedDateTime: 2021-05-12T09:51:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
+        isCached: true
+  - title: "Highlights From IBM’s Think 2021 Conference"
+    excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"
+    publishedDateTime: 2021-05-14T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/highlights-from-ibms-think-2021-conference/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/IBM.jpg"
+        width: 1600
+        height: 1066
         isCached: true
 
 secured: "ICHT30/KbJB9hWwyL/H4I/YbA0wPKopEA5VuOoe0BcVQDHamnfCS68H2M+MPpagyYFP9QhSoGT47RGepS5UF/tIY0KOAPcyRA/6t/X+W3p6MS1Rfi1i5/vhIkgPVIAr7kYgjjNjrWxmfhUoh3PjwV3ZHjKPl3Fdjt+ZN/WEE6AzYBP0tyaJU2QESc71BXSNBlk81Xh9AdAEhJ+EiqM42ZGyyqQ0zs+vDKoVlvYUj+8FPA6gMlg+aBfwzC84hK2ZrX9MZZ7truO8aQxN6s5mXgLpNNNhI5lADShwuUL89yYKojo3wRAOLh62SReLzBp+B232f3S2158oqIUpeLeG7SaWAO4IXHjuZnqWc/VBfdweFCOwmMVMAieuQfFou8xL6bcCF7uq+3A1pas/QOosBnGn4wCR8NSW9nsSa8czfe6LGVFroQrynt+QjrmBds+Hy3Sw8MyWAmQ9YS3/hFDEwmcYMV3aEAG5hIJD5cluOzKu9mJpPY95dAXCsWs5tJl+R9ejH69+6CdDRikxgP6DVHg==;UP6PNhMRU11kzcU2Ps7pvg=="

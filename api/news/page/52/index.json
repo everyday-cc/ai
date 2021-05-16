@@ -2,6 +2,58 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-03-25-how-a-stabbing-in-israel-echoes-through-the-fight-over-online-speech.md",
+      "title": "How a Stabbing in Israel Echoes Through the Fight Over Online Speech",
+      "excerpt": "Stuart Force says he found solace on Facebook after his son was stabbed to death in Israel by a member of the militant group Hamas in 2016. He turned to the site to read hundreds of messages offering condolences on his son’s page.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/16/business/00techshield/00techshield-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.amp.html",
+      "publishedDateTime": "2021-03-24T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-food-supply-traceability-startup-ifoodds-nabs-15m.md",
       "title": "Food supply traceability startup iFoodDS nabs $15M",
       "excerpt": "FoodDS, a company offering food supply chain traceability software, has raised $15 million in venture capital.",
@@ -1113,40 +1165,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
-      "title": "Global AI in Fashion Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
-      "excerpt": "The major players in the global market are Microsoft, IBM, Google, Facebook, Adobe, AWS, SAP, Oracle, Huawei, Vue.ai, Catchoom, Heuritech ... latest technological advancements. Zion Market Research is an obligated company. We create futuristic, cutting ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

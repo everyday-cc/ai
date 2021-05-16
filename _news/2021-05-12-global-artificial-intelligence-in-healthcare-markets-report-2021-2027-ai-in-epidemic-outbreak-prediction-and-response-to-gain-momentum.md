@@ -22,19 +22,33 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global Mobile Speech Recognition Software Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2026"
-    excerpt: "Global Mobile Speech Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026 identifies the current and future industry trends, enabling the readers to know the products and services so they could drive revenue growth and profitability."
-    publishedDateTime: 2021-05-12T21:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2026-2021-05-12"
+  - title: "Global Healthcare Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Global Healthcare Artificial Intelligence Market Overview:Global Healthcare Artificial Intelligence Market Report 2020"
+    publishedDateTime: 2021-05-14T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Eliminating bias from healthcare AI critical to improve health equity"
+    excerpt: "Artificial intelligence (AI)-driven healthcare has potential to transform medical decision-making and treatment, but AI algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients."
+    publishedDateTime: 2021-05-12T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/ri-ebf051121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/264682_web.jpg"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Artificial Intelligence Chips Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2031"
     excerpt: "The latest research report provides a complete assessment of the Global Artificial Intelligence Chips market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
@@ -64,33 +78,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Device Market Comprehensive Insights on Technology Advancement, Growth Drivers, Demand and Forecasts by 2025"
-    excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
-    publishedDateTime: 2021-05-12T18:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-comprehensive-insights-on-technology-advancement-growth-drivers-demand-and-forecasts-by-2025-2021-05-12"
+  - title: "Artificial Intelligence In Healthcare Service Market Development Trends, Competitive Landscape and Key Growth by 2026"
+    excerpt: "Global Artificial Intelligence In Healthcare Service Market Growth Status and Outlook 2021-2026. Artificial intelligence (AI) in healthcare is the use of complex algorithms and so"
+    publishedDateTime: 2021-05-12T09:16:00Z
+    webUrl: "https://ksusentinel.com/2021/05/12/artificial-intelligence-in-healthcare-service-market-development-trends-competitive-landscape-and-key-growth-by-2026/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market Research Study 2021 Insights with COVID-19 Impact Analysis by 2020"
-    excerpt: "The far-field speech and voice recognition market is expected to reach more than US$ 4339 million by 2026 growing at a CAGR of 23.80%. Global Far-Field Speech and Voice Recognition market is segmented based on Application as Smart TV/STB,"
-    publishedDateTime: 2021-05-14T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-research-study-2021-insights-with-covid-19-impact-analysis-by-2020-2021-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Healthcare-3.png"
+        width: 560
+        height: 315
         isCached: true
   - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
     excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."

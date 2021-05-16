@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-
 cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why fintech companies are winning big in banking and finance"
-    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
-    publishedDateTime: 2021-05-11T09:50:00Z
-    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
-        width: 1024
-        height: 593
-        isCached: true
   - title: "Eight promising impact startups in fintech, fashion and education"
     excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
     publishedDateTime: 2021-05-12T11:00:00Z

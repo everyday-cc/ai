@@ -20,6 +20,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize"
@@ -27,6 +28,6 @@ images:
     height: 900
     isCached: true
 
-secured: "Hn8SWuqO0Sp8Q0rFFTBBpyGaR6/FAtQ5kGBaBIiRqNyqmLD4DtEnHkLPN0CYEGiVTE65MPq7Cr6ruZYm/jSy7kCYVSZU9kclZ9LUK/D9L24UZaUVfVxji09REcbBIRFZ4IH1OWVttbSDOvU+QFgU/Jchdq/Y7QVCtdw90GZ8Z175gjhO6OPiVxu1+65Od65pEo9NOw4vAq+odbMEWaClc0wRpJnfRPe4oVJm8GckaVctjCSEn11ZmmZ9ZPueq1rQyAlJqSuNlPG5LSezYeubSO7bpJdgmC+P56dlIQsY4NwSzexuPny8p5hZcBISB9PTuahV5egnnxgIFSxVKFK5yqdb3J5BPBgC5dpKirIHxi0=;Q8LBvdMh1t1eYYNjmzefww=="
+secured: "2nv49hcFtDx3tM42yKxFgm92lN6rmkwXUuuUESexRwcTDUtmAATTyZnlVYz1n82lhlrKv4fHZ+y+7qbWiZgdfd6rMKuv9QmCm7MUKitP+W1UqmFbBMKWfGS/Y2dFQTwLlBqy4dSKUOfhOXxLrEvr+nOeQJnRu43HGub7dykG+7c3RCh74al4rcbP9iM6goDJfq12jvZZAqraxL/TzjSpYFrJRCoBNIvoRxEa/VlZDjDHQyaUPTxG5A/ppL9SucSDnq9yec48GFNds13X1f3gYYXpbm74EMe7Tw+1aCj8R93fMdZd2Lf3gHw4kUgNGTWiNktKqSEgYZMGgBk3J79n47UdmPkSLvmjF6SMbO0Rkk7IUgl5EsTRZPnW9MSGTtwpmzJPN18yJ82KCDUBcZRLazO7Q0z184b8vfVCoqj8FPqSl99Mb804XPVfyxebNHmJJawXBakW7WrMW1cDi8DQ3FhSW5ZEqWyV9KKIVRvOc1z+LqSP5Q0Ga4HXSp+yDuM1sJzGA8HGPrGlPShx7vT9Qw==;7/x67ZRmBSR5LRY4iXJc4g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rek
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "OMS to offer facial recognition ID verification service"
-    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
-    publishedDateTime: 2021-05-11T10:26:00Z
-    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 39
-    images:
-      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
-        width: 1000
-        height: 645
-        isCached: true
   - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
     excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
     publishedDateTime: 2021-05-13T16:37:00Z

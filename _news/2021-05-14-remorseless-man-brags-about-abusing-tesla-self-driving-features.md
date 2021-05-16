@@ -78,17 +78,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Tesla and the self-driving vehicle industry need federal oversight"
-    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
-    publishedDateTime: 2021-05-11T10:05:00Z
-    webUrl: "https://www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
-    ampWebUrl: "https://www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    type: article
-    provider:
-      name: Hawaii Tribune-Herald
-      domain: hawaiitribune-herald.com
-    quality: 39
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-12T15:13:00Z

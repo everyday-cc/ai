@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
+      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
+      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "publishedDateTime": "2021-04-29T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum.md",
       "title": "Amplio Launches Esperanza, a First of its Kind Digital Spanish-Language Dyslexia Curriculum",
       "excerpt": "AmplioSpeech (\"Amplio\"), a developer of a digital platform that connects students, educators and therapists with advanced technologies to help students with special needs, announced today the launch of a digital Spanish-language dyslexia curriculum,",
@@ -1085,49 +1137,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa.md",
-      "title": "Lacuna Fund Announces its Second Round of Funding to Projects Supporting Natural Language Processing (NLP) technologies Across Africa",
-      "excerpt": "Supported projects will produce text and speech datasets for natural language processing (NLP) technologies that will have significant downstream impacts on education, financial inclusion, healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.africa-newsroom.com/press/lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa?lang=en",
-      "originalUrl": "https://www.africa-newsroom.com/press/lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa?lang=en",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.africa-newsroom.com/uploads/socialshare.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "APO Group English",
-        "domain": "africa-newsroom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

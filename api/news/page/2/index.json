@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-13-maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference.md",
+      "title": "Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference",
+      "excerpt": "Machine learning (ML) is realized in inference. The business problem you want your ML model to solve is the inferences or predictions that you want your model to generate. Deployment is the stage in which a model, after being trained, is ready to accept inference requests. In this post, we describe the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/07/2-1766.jpg",
+          "width": 800,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T14:56:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-ai-shows-exxonmobil-downplayed-its-role-in-climate-change.md",
       "title": "AI Shows ExxonMobil Downplayed Its Role in Climate Change",
       "excerpt": "According to a new paper, the company’s own research showed that human activity was a contributor, but public statements suggested otherwise.",
@@ -769,7 +823,7 @@
       "originalUrl": "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1072,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2026-2021-05-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1123,7 +1177,7 @@
       "originalUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1215,49 +1269,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools.md",
-      "title": "IBM Taps AI for New Workflow Automation and Data Migration Tools",
-      "excerpt": "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/",
-      "originalUrl": "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/",
-      "publishedDateTime": "2021-05-12T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

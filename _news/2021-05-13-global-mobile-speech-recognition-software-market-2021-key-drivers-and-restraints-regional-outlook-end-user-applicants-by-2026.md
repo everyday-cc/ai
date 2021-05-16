@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-rec
 webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2026-2021-05-12"
 type: article
 quality: 56
-heat: 116
+heat: 76
 published: true
 
 provider:
@@ -29,45 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chips Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2031"
-    excerpt: "The latest research report provides a complete assessment of the Global Artificial Intelligence Chips market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2021-05-12T02:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-2021-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2031-2021-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
-    excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
-    publishedDateTime: 2021-05-13T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-in-automotive-sector-market-overview-with-detailed-analysis-competitive-landscape-and-forecast-to-2026-2021-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Global Face Recognition Device Market Comprehensive Insights on Technology Advancement, Growth Drivers, Demand and Forecasts by 2025"
     excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
     publishedDateTime: 2021-05-12T18:07:00Z
@@ -95,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
-    excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
-    publishedDateTime: 2021-05-12T12:47:00Z
-    webUrl: "https://ksusentinel.com/2021/05/12/global-facial-recognition-software-industry-2021-size-share-market-applications-manufactures-trends-shows-a-rapid-growth-by-2028/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
-    images:
-      - url: "https://kickets.researchnreports.com/storage/1618317561_389hq/AN0GaZX32GXP4U49VVfY7tQ2YzfUWavfXNmu1uk1.jpeg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "cWgQOxHBpeDAN+Xn9gLQnBwpQUnWo41Owo5b7glO6DGFWagvF2Jtb4VBQ9rRKsSTo0CNiBXKrtNZA4DjPBsDKABcswH/4BwVPSUYtPiXWhhTY4zyYY8Kjm084dd8zIQXpQ/e3PAhhdIY/fzW2cX2oDwecFi+kKCJgVrcyTXarV17MJ8PKWcv1tMX1gpmRnFK2xJd9oSTij199y6UeErQbWo75jpa361ELAbzXIEOh5KayDkiyI0gdjUbBIcApa0Yso7YRZUUQpwsYHrEnh5qkRJe4gFCnw9VWJnrviNIJakFwYrG4xCfd/Ws/YJjZWoVb8im1APLdKn8qlrYPE/9pVjRth73lvw75lmoZX0B0H8=;TXbaRCzRNRgW2IO9wu8aDg=="

@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code
 webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: SD Times
@@ -28,68 +28,6 @@ images:
     width: 1654
     height: 932
     isCached: true
-
-related:
-  - title: "IBM CodeNet teaches AI to translate programming languages"
-    excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
-    publishedDateTime: 2021-05-11T09:54:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1620318196/itpro/shutterstock-code%20editor.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T16:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "IBM launches new cloud, AI services in bid to modernize business"
-    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T19:47:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 59
-    images:
-      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "IBM uses AI to create intricate COVID-19 map"
-    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
-    publishedDateTime: 2021-05-12T21:17:00Z
-    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "m+fWQCg0szfAn0nZvg41x9PWEiemiRGIU7Q3neWni7KrJDC3ogo/QpJ+WSiTpAPSaI7BTATvsvC3rlJmGJKLWmMkgl3AulkPHRwBBcZC1Irvk/A8ehL1yq2nTg7R1aTFvvZt7xwElXAZY0C5ZKEReRgZsp74PgOC2kPDPNEmcTAg5f5sa8+VTwxEfUFQ7ICl+YrhFiubg6ODCeJu/QShqXduTb1o3aBCGEx8v/qexbSlAAJVP/n6e6J2pSfBWQCWgyC7DiaVbLWGxNU4MkChJ1NvEg56Cb/ZQlppmgs+oc3pPMTmB5oZbyndVHfljSUgx5dgH9umRcozNArtKLB0G6xNVkJnKuQTdNEQMxNcOvFhMQrHubfXW27PWwa3jqmzLC7OaE+UT0ZsgvuA7CBducoJo9CqQR9dFcnKAJKQTESuopzNGbAuRw+yV+vPFRnEvf9R1krWLMRXYe/mYcesFmq+B3sFXhL9OdoDcOF8AR1vjMoKC3Cwg1G069xbI6x1T9pjXupraSWxiIlCfYWMPw==;/cAAU5kc1a5lIrtmnpAvkQ=="
 ---

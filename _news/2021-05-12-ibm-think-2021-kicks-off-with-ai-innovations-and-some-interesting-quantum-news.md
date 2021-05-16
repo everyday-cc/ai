@@ -77,6 +77,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
+    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T16:20:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
     excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
     publishedDateTime: 2021-05-12T10:56:00Z
@@ -124,6 +138,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/08/communication_network_online_meetings_virtual_events_digital_conferences_video_conferencing_remote_teams_by_metamorworks_gettyimages-1223790400_2400x1600-100854037-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "IBM uses AI to create intricate COVID-19 map"
+    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
+    publishedDateTime: 2021-05-12T21:17:00Z
+    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "COVID caused conversational AI to accelerate, says IBM"
     excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."

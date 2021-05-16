@@ -68,17 +68,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Tesla and the self-driving vehicle industry need federal oversight"
-    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
-    publishedDateTime: 2021-05-11T10:05:00Z
-    webUrl: "https://www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
-    ampWebUrl: "https://www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    type: article
-    provider:
-      name: Hawaii Tribune-Herald
-      domain: hawaiitribune-herald.com
-    quality: 39
   - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
     excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
     publishedDateTime: 2021-05-13T19:28:00Z

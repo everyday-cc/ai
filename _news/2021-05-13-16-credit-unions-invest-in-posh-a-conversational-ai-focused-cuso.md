@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Conversational AI becomes the unlikely hero during the COVID-19 pandemic"
-    excerpt: "As India hunts for COVID-19 resources such as oxygen cylinders and hospital beds, technologists leverage conversational AI — such as Introbot AI and CovidIndResBot — to create an online space for real"
-    publishedDateTime: 2021-05-11T09:44:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 58
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/abnvyo/article34533819.ece/ALTERNATES/LANDSCAPE_615/introbot-2"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "GyoZppuWYxuFXfCCnF1PpIiACwB8FV4m0mvV4+jmTvVQoq+UX2iwA4ynPwQSSnHSeaV9Ds89kt1jHTLV7SuAlMaoUKrudzY5QsV0v3yFGU+dYiWydHQtw2H9086ePi2vLy17/W1RokBas1PyK90bM/aHdXmUHYYBj9n0wS9HNdKRnie75g3hF2luSrWrP4GihK3EFCBY7O4uTbsaOjSaln0VSwmMiM7T2bDftQ9iZ25o7WbXpqrwdGcW75rx9AKRKLM3a3tluF16xMj9VnD+NuVrhfsAj/qSXMagLShV10a7Jft8lkLcNAAfr7JXEksLURrsNsA91RrxWiRg8vFXeIg91BjhjcTCYB4eUWnaOE5ebnJh6rMbVHdcJ+0oP30uAYxEuNUt9EqyD7e43ZZOGsSItgQBLh8/kHh4ytt7xyyZm/prtcIwLM8zb6dW9R4L4rtMBl1hKxk6kY/skgRbIaGnQHJmVnOt5XqZIjNsNSYKoaipkWHthrkWIwhilUTrpxqkGNVfJwtYzlWZ7WPKAg==;6+CfVcneoK9Qo3Q7MbRgdw=="
 ---

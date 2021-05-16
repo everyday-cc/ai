@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "OMS to offer facial recognition ID verification service"
-    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
-    publishedDateTime: 2021-05-11T10:26:00Z
-    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 39
-    images:
-      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
-        width: 1000
-        height: 645
-        isCached: true
   - title: "Corsight reaches facial recognition value-added distribution deal for Asia"
     excerpt: "Corsight AI has signed up Netpoleon as a distribution partner for its facial recognition in Asia to increase availability of the technology across the region."
     publishedDateTime: 2021-05-13T22:48:00Z
