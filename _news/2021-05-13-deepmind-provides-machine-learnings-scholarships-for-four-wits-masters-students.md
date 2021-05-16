@@ -125,20 +125,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "English football club partners with DeepMind to improve match performance"
-    excerpt: "The use of new technologies, including artificial intelligence, in the field of sport is progressing more and more. This is one of the themes of the fourth issue of our magazine, to be published on 18 May."
-    publishedDateTime: 2021-05-11T08:44:00Z
-    webUrl: "https://www.actuia.com/english/english-football-club-partners-with-deepmind-to-improve-match-performance/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 38
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Liverpool-et-DeepMind.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "erszgddEhsnWINN14t68eniEPHh9bRn92WkQWEXBZhDYGvXiCxkxx92VGJnAqgXpUy9IC9QkdD9lS3O2dLm+irnIi3d8AplsqNYOUlow5WMSsbJEffu+MICptPO2qu13PGHrzytTxhkB+3JUjhAmdS2q5ZcyCVbe/nT9elTR0YXNau0rAhWsdf6qK4DMY2AmIcsuEPCXpdkOPXy6S0oDXzMgn49hRqx84hRmhA0fdiwTXyTzWBA/lfPMRlEo8YpwCbG+TisvYSiPmo4e0Ykj93YbAYkABRHT8kJvOXLwGHb1RxX/9eXaZSw1ecFILMTwpqd46cLD4b5dT/owBFnn+d0AfQLrqcrBLDUR2WYd4AY=;xhn3sxUmw6x63yoacpz5Zg=="
 ---

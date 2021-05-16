@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
-excerpt: "With AI more than rising to the challenge of Covid-19, its spread throughout the business ecosphere will only be a matter of time  –  and industries are already changing because of it. Artificial intelligence,"
-publishedDateTime: 2021-05-14T10:04:00Z
-originalUrl: "https://www.airforce-technology.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
-webUrl: "https://www.airforce-technology.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
+publishedDateTime: 2021-05-14T09:19:00Z
+originalUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Airforce Technology
-  domain: airforce-technology.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/05/shutterstock_1764865133.jpg"
+  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
     width: 1000
     height: 563
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 263
         isCached: true
 
-secured: "ooVPOeExcWmLRg9gFKJOJPV2MCKsLu53F14xnaYk7HjN2eaI9Uu17CtKU78cG0OLjv/mqWTWMiL5n+7hO3OzhwDR5PH9hTEVMyzkSuj4dQTZTuRYoTJOSFRsmX+MwnFK+ZIKl2HZIxqWVPcB07u8CNtmpvYwpbJcPANpoxnAbiTfDzmykQq1pLQgb4czc01gUjnvaORkoTMhcrIRoEEm04NGPmerIBJxUqQQfxIM0jk+pwxx03WdaU34/XbUlxeL76TyqkH5cuGnSkLUeDoi37KJ+LTkYGRS+9w7Euv16nP0/yJ/Ht1eL+XQPbGmS2h3c+ejxhTU6nGRRFz4CBfv+MEIkUvelI+VX6C8AvaSAYpi5jNV5+gsG5+iPY22g/XmVmsHxRqzV9wMt6B+9oNZjaf57oefI4qltNr9m97iOIYGkud6LUc2b2AfaH5iK/qje13cV8tjdQPi9oKakvnZEubTby9LmK2LRXK/Q+bV+he46WT7yxBJPWBg/vFccVCMCnftExPJ8XtwoOfUtgSBXw==;PqdeWK3bc9sG5RAOBmoxMQ=="
+secured: "Py8SKPGkERhn2TNHDrkiRqOZ2ZVdoLvvjDwHuajJtUNTycIGTi7+d6j4q33ydab88LmekW5v/JMxyEItZOkl0iwM3rV1Fr73R/hoJfFZ/JLGaSSwXROOF30xahcGk2gcMPWYjkvn/GrA9g0qRg/5CGYNuLP0BuU/0yei3hH2GUe9r9DlRjB9dNOeCY0p9QJRpZK+NsBhjLiDYKlEs/x9Ea/8SXPSze8m5lIOOGdlnDS+GEH4vxhRU5JzkarkMCeMDGBZ+f3S+pMinRYD4RRMQwEqiZy6GdDDqPnVp67uXQ2RvTpFheNyi9iYoOAt6CryXRo7ouYaoOi29Cvw2yYcL5e5Tron8y08BtzIa2lA6mI=;i5V7P2SaFyxkgJd+V+nfgg=="
 ---
 

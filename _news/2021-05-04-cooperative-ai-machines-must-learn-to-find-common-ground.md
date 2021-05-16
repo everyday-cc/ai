@@ -3,8 +3,8 @@ category: news
 title: "Cooperative AI: machines must learn to find common ground"
 excerpt: "To help humanity solve fundamental problems of cooperation, scientists need to reconceive artificial intelligence as deeply social."
 publishedDateTime: 2021-05-04T13:45:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01170-0?error=cookies_not_supported&code=40c8ba14-3960-4f4d-87f7-322651214faf"
-webUrl: "https://www.nature.com/articles/d41586-021-01170-0?error=cookies_not_supported&code=40c8ba14-3960-4f4d-87f7-322651214faf"
+originalUrl: "https://www.nature.com/articles/d41586-021-01170-0"
+webUrl: "https://www.nature.com/articles/d41586-021-01170-0"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "EeT3FS3zDBHoCuJvvfb5uRVhGWaSksFx6kyvXQOyXrf/CZ+0aoNtZ6B1ddGqwILM0IYOxwvvWWDlfXdaaLFYDmrg0w+kU6JeioSIYbx8eaJGh7DAOsDlW/I4yLVCxiMLvUckhm943/m2XF6RSlCW8bYrqWLPCNJWMiwgPjWxZPGcr5SHu+iJ/PX2YWA8tmxQ+8ayLeYUL3cKYLPCXE0M/oQJMTapknRgH1FLTLfs9LrfktnzEVZxJTgOD5K1eSqcuZN/wNCobKkob2Vai+ZeasdIGdhrzEYABc40pyqWwBD09pvht9Mv+KY5B5iCwqA4MaBx7BqVg7byYPTcIaVxEXSIphwXkJdLjmJErAJ+f+E=;Sw5ZQ/48LPvvgh9otlRjDg=="
+secured: "5LmsAAI7q6sgICKADuyjjzWp5gIKkkfBMQmydUlskeu0qDqhp2DZErSSDpLgnY+5kySOfGqJk8JLkw9PVW0d6KsKN8Js2pNF93qCP4wYyoSJMf+x2P8SI49TwEJOGm4L9vWak92vI9KgzGdT5sacCrZoWdxcULV/M38v+XJh8hZ7mlT9kazHUyJ5DSDFay0XOo9zR9gagO1aPzd4XyZll69MinWlGCQuTVRgezXvT+LFJlvHBPfS49nAAmpy+M3zvKTJCKmh6tlGNdVYIcjyTjn9ZGXjDQ2ANPEJB0dQnyPJwNFrn+j6+d1ppNg6NOYhy1kHIoiRUvJS/NQJ5vjzKlqp8YLoH+nPhzxgfRc/w7o=;YS0HSKrm1lfz9R8aRhtYUw=="
 ---
 

@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
-    publishedDateTime: 2021-05-11T08:51:00Z
-    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
     excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
     publishedDateTime: 2021-05-13T15:39:00Z

@@ -74,20 +74,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
-    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
-    publishedDateTime: 2021-05-11T07:57:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 32
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "hMhE1TF343lBzgaEySdMN2grHU0NsFsgI1dANThDFeUm63xjqERE7CY8T0NB7J/eywIG8tpFm9/dwZDHTMiDLO9ioeBPQNX+xztJFwoIa0DTIQS9iaW87EGZ+VssU5tDaiBb1q70dx2mrKZgZV+L6kjbj4CThDiNm+ZMETeoqaf3BVuKtBabDQUR6joBWgQZgUK2r7BXcrXdKV+t3buovagbQUBpVf/wjpbvWEKcDmyDSAIndtMB8P+5Pcnlk6uVvBIm8JPcTp3R2lZypL5rumXYI43LNgkeLfB/bQxyA495wVV3sEm5Q8I7C3Ck0kN+rMPPEBH3Agdc3pGbt3nA9QbhEBlb03iwCsdwDVAZtQW3GalvIam7ErLt2nmYXYgvb6H6reLtAt2g1nfsDndoshkDGAgHfmIcBJ8cKArm5jZAUIYfzdjuiedGkkG6C2OzH8DjVz02VqjS9fEvl3YN8fd1Y9Js8WHQbPCuThQVxAHBF/2bYy0LwrBIHGDBz3c8so5U9Ist64BYKGT4aO0hhQ==;Lm4xkTq7SsOf5p/UC6mu0A=="
 ---

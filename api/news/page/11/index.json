@@ -2,6 +2,136 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
+      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
+      "excerpt": "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
+      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-it-began-as-an-ai-fueled-dungeon-game-it-got-much-darker.md",
+      "title": "It Began As an AI-Fueled Dungeon Game. It Got Much Darker",
+      "excerpt": "The game touted its use of the GPT-3 text generator. Then the algorithm started to generate disturbing stories, including sex scenes involving children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
+      "originalUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6091ff24317d6dd323f25581/master/pass/business_gpt3_ai-dungeon.jpg",
+          "width": 1688,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
+      "publishedDateTime": "2021-05-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
+      "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
+      "publishedDateTime": "2021-05-05T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-getting-started-with-deep-learning-using-tensorflow-keras.md",
       "title": "Getting Started With Deep Learning Using TensorFlow Keras",
       "excerpt": "Deep Learning is a subset of Machine learning. It was developed to have an architecture and functionality similar to that of a human brain.",
@@ -1078,144 +1208,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-it-pro-2020-understanding-our-complicated-relationship-with-ai.md",
-      "title": "IT Pro 20/20: Understanding our complicated relationship with AI",
-      "excerpt": "Welcome to issue 16 of IT Pro 20/20. This time we look at our strained, confusing, and often contentious relationship with artificial intelligence, and how that is shaping development. We’ve addressed some of the more concerning issues surrounding the eager rollout of the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619787080/itpro/IT_Pro_20-20_Issue_16_teaser.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
-      "publishedDateTime": "2021-05-04T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip.md",
-      "title": "Esperanto Technologies Adopts Movellus Maestro AI, Intelligent Clock Networks for Its ET-SoC-1 Chip",
-      "excerpt": "Esperanto Technologies has adopted Movellus' Maestro AI intelligent clocking solution for its ET-SoC-1 chips. Esperanto develops high-performance, energy-efficient computing solutions based on RISC-V for Artificial Intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-1030384332",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-1030384332",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-new-ai-tool-offers-subtitling-and-dubbing-alternative.md",
-      "title": "New AI Tool Offers Subtitling and Dubbing Alternative",
-      "excerpt": "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!",
-      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/",
-      "publishedDateTime": "2021-05-04T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

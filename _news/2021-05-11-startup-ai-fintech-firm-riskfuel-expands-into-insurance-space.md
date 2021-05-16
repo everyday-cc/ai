@@ -27,166 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Security challenges within the FinTech sector"
-    excerpt: "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?"
-    publishedDateTime: 2021-05-11T08:30:00Z
-    webUrl: "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
+  - title: "KFin Technologies acquires 17% stake in insurtech startup Artivatic.ai"
+    excerpt: "The stake purchase in Artivatic.ai will mark KFin Technologies foray into Indias insurtech space as the General Atlantic-backed fintech firm looks to diversify its portfolio of services."
+    publishedDateTime: 2021-05-11T14:07:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 61
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
-    excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
-    publishedDateTime: 2021-05-11T12:17:00Z
-    webUrl: "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Why fintech companies are winning big in banking and finance"
-    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
-    publishedDateTime: 2021-05-11T09:50:00Z
-    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
-        width: 1024
-        height: 593
-        isCached: true
-  - title: "Eight promising impact startups in fintech, fashion and education"
-    excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
-    publishedDateTime: 2021-05-12T11:00:00Z
-    webUrl: "https://impactalpha.com/eight-promising-impact-startups-in-fintech-fashion-and-education/"
-    type: article
-    provider:
-      name: impactalpha.com
-      domain: impactalpha.com
-    quality: 41
-    images:
-      - url: "https://impactalpha.com/wp-content/uploads/2020/12/shutterstock_1729589788.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
-    excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
-    publishedDateTime: 2021-05-11T12:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102294,msid-82550299/acquisition.jpg"
+        width: 600
         height: 450
         isCached: true
-  - title: "Fintech start-up raises £1.2m"
-    excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
-    publishedDateTime: 2021-05-13T11:11:00Z
-    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2075312-fintech-start-up-raises-1.2m"
+  - title: "KFintech acquires 17% stake in insurtech startup Artivatic.ai"
+    excerpt: "The partnership with Artivatic will help KFintech venture into the insurtech space as the firm looks to diversify beyond offering registry services to Mutual Funds, Corporate, Pensions among other ass"
+    publishedDateTime: 2021-05-11T14:37:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai-11620743522422.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
     type: article
     provider:
-      name: The UK
-      domain: thebusinessdesk.com
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/05/11/600x338/startup-kElG--621x414@LiveMint_1620743628963.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Kfin Technologies announces investment in InsurTech startup Artivatic.ai"
+    excerpt: "KFin Technologies, a General Atlantic-backed and one of India’s largest registrars announced its investment in InsurTech startup, Artivatic.ai. They have bought 17% stake in Artivatic on a path to majority."
+    publishedDateTime: 2021-05-11T15:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 56
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/07/partnership-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "KFin Technologies Acquires 17% Stake In Insurtech Startup Artivatic.ai"
+    excerpt: "General Atlantic-owned KFin Technologies has acquired a 17% stake in insurance tech startup Artivatic.ai to enter the insurance segment."
+    publishedDateTime: 2021-05-12T05:07:00Z
+    webUrl: "https://inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/"
+    ampWebUrl: "https://inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
     quality: 39
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/may_21/ubPn6mmQ-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Fintech uprising pushes banks toward IT architectural transformation"
-    excerpt: "To meet the challenges of fintech and operational resilience ... to hybrid cloud and public cloud technology, and pre-packaged AI and pre-packaged solutions from an ISV ecosystem, software ..."
-    publishedDateTime: 2021-05-13T19:10:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/fintech-uprising-pushes-banks-toward-it-architectural-transformation-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Duigenan-and-Likhit-Wagle-IBM-Think-20216481.jpg"
-        width: 666
-        height: 375
-        isCached: true
-  - title: "U.S. Fintech Stampli Secures $50 Million Through Series C Investment Round Led By Insight Partners"
-    excerpt: "Stampli, an U.S.-based fintech that is focused on AI-driven AP automation, announced on Wednesday it raised $50 million through its Series C funding round, which was led by Insight Partners with participation from SignalFire and Nextworld Capital."
-    publishedDateTime: 2021-05-12T16:57:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Stampli_co-Founders_Ofer_Feldman_L_and_Eyal_FeldmanR.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Ping An Reports Successfully Completing Initial Close of $200M Fintech and Healthtech Venture Fund"
-    excerpt: "Ping An reports successfully completing initial close of $200M Fintech and Healthtech Venture Fund. The company aims to raise $475M in total."
-    publishedDateTime: 2021-05-15T19:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175383-ping-an-reports-successfully-completing-initial-close-of-200m-fintech-and-healthtech-venture-fund/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Yuan-Renminbi-China-300x290.jpg"
-        width: 300
-        height: 290
-        isCached: true
-  - title: "NXCR Appoints FinTech and Mobility Executive Martin Prescher as Chief Technology Officer"
-    excerpt: "NXCR, the fintech and insurtech vehicle subscription platform, announced that consumer finance technology and mobility executive, Martin Prescher, has joined the company as Chief Technology Officer."
-    publishedDateTime: 2021-05-11T13:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-19798312.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1507333/Martin_Prescher_Chief_Technology_Officer_NXCR.jpg"
-        width: 267
-        height: 400
-        isCached: true
-  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
-    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
-    publishedDateTime: 2021-05-13T23:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19805913.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "N7AkKQz48MDJtVpiOfB8VPly+IHssJORv8s2HD9q3QuGg5kfrm7f0IKsNyoz3flzFRtWCCw3BlFA5DW9QSTHubZoF7Zb73xmGXWx4r+uMYoUCkIgx5EGoz8M2s/UWxKyjYs/XyfDR5dFNC8Q/NIjjkgy3P7S6O8bGnO1DDgJFpZGPzSf6b7sIZ4U7ATIuthdMFrL0nPzQ0kJ/vWjlZjnTF7mRbQsMPU22fAJ3dgehz9L0gXabftEE5L0QphTz1b8QGYjB7ff6cNwTcS+c3E+XdQXV8x+RGA+z3iHz3iivyOnWenWTIEVtc7JVl2RLaF5qMXzbjCrgc+EVAcvNMb+kcHzs97ABqiD9sEVeqd+rz6xiA4SPeRWd5GEG3Qk1uWaeUnb931pV6fjsGJAaA5F/yZcO7rrsI5dMDsx92MAXKBk1HqQ+hcdwfo+wT9EWZwOFqsqFifWA5aPa27l55PksmttyT6bLOmjkjDknrEGVwgPMMjzhsBax9YDzem1Byopneqj65fR18JRHu12Ph6tsQ==;buKpFpYgsDWmG2hkIcfI5Q=="
 ---

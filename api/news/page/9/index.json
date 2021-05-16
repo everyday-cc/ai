@@ -2,6 +2,126 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-06-tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage.md",
+      "title": "Tesla, Apple Supplier Delta To Pour $7M In AI Semiconductor Startup Amid Chip Shortage",
+      "excerpt": "Tesla Inc (NASDAQ: TSLA) and Apple Inc (NASDAQ: AAPL) power components supplier Delta Electronics is backing Kneron, an artificial intelligence startup that",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
+      "originalUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/8615ceba8e07821a.jpeg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20981899",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20981899",
+      "publishedDateTime": "2021-05-06T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-gm-reports-strong-first-quarter-2021-results.md",
+      "title": "GM Reports Strong First-Quarter 2021 Results",
+      "excerpt": "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid",
+      "sourceUrl": null,
+      "webUrl": "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results",
+      "originalUrl": "https://www.albawaba.com/business/pr/gm-reports-strong-first-quarter-2021-results-1426280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png",
+          "width": 555,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
+      "excerpt": "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-us.md",
       "title": "Autonomous trucking startup Einride raises $110M ahead of expansion into US",
       "excerpt": "Einride, the Swedish startup known for its unusual-looking electric and autonomous pods that are designed to carry freight, has raised $110 million to help fund its expansion in Europe and into the United States.",
@@ -1071,143 +1191,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-white-house-announces-website-to-advance-artificial-intelligence.md",
-      "title": "White House Announces Website to Advance Artificial Intelligence",
-      "excerpt": "The new website will serve as a connection point to ongoing activities that will advance US leadership in artificial intelligence research and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ai.gov/",
-      "originalUrl": "https://healthitanalytics.com/news/white-house-announces-website-to-advance-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ai.gov/wp-content/uploads/2021/03/INNOVATION.png",
-          "width": 366,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork.md",
-      "title": "Machine Learning and Mandalas: Inside Suchi Reddy’s Latest Artwork",
-      "excerpt": "For the Smithsonian’s 175th anniversary exhibition, the architect and artist is assembling a 20-foot-high interactive sculpture—take an exclusive first look.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "originalUrl": "https://www.wsj.com/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-332261/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "publishedDateTime": "2021-05-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
-      "title": "Artificial Intelligence and Customer Experience.",
-      "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "originalUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.eu-south-1.amazonaws.com/neosperience.com-media/wp-content/uploads/2020/11/02183410/tim-mossholder-bo3SHP58C3g-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Customer",
-        "domain": "neosperience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

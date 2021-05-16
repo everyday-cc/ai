@@ -2,6 +2,154 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-03-13-the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box.md",
+      "title": "The Chronicles of AI Ethics: The Man, The Machine, And The Black Box",
+      "excerpt": "Today, machine learning and artificial intelligence systems, trained by data, have become so effective that many of the largest and most well-respected companies in the world use them almost exclusively to make mission-critical business decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604bd86443a3827a0c59de0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
+      "publishedDateTime": "2021-03-12T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content.md",
+      "title": "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content",
+      "excerpt": "Yann LeCun, Facebook’s world-renowned AI guru, had some problems with an article written about his company yesterday. So he did what any of us would do, he went on social media to air his grievances.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/",
+      "publishedDateTime": "2021-03-12T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-aav-elevates-gene-therapy-to-new-horizons.md",
+      "title": "AAV Elevates Gene Therapy to New Horizons",
+      "excerpt": "In this new GEN eBook sponsored by Thermo Fisher Scientific, we will explore various aspects of AAV bioproduction—looking at the challenges that many investigators face, and some of the novel solutions others have employed when ramping up viral production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
+      "originalUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_597972138_AdenoAssociatedViruses-scaled-e1615387965878.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
+      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
+      "publishedDateTime": "2021-03-12T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-applications-of-artificial-intelligence-in-cardiovascular-imaging.md",
       "title": "Applications of artificial intelligence in cardiovascular imaging",
       "excerpt": "In this Review, Sermesant and colleagues discuss the applications of artificial intelligence (AI) in cardiovascular imaging and explain how pre-existing clinical knowledge can be included in AI methods to increase robustness.",
@@ -948,145 +1096,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-machine-learning-based-real-time-threat-detection-for-banks.md",
-      "title": "Machine Learning-Based Real-Time Threat Detection for Banks",
-      "excerpt": "The business impact of the COVID-19 pandemic continues to unfold worldwide for the financial services industry. The “new normal” has not only given rise",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
-      "originalUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ML_robot_shutterstock_sdecoret.jpg",
-          "width": 600,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-its-time-to-start-paying-attention-to-vector-databases.md",
-      "title": "It’s Time to Start Paying Attention to Vector Databases",
-      "excerpt": "He carried some of this over to AWS, where he ran Amazon AI labs and helped cobble together standards like AWS Sagemaker, all the while learning how vector databases could integrate with other platforms and connect with the cloud. “Vector databases are a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/",
-      "originalUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ab_networks_sdkfskn.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/amp/",
-      "publishedDateTime": "2021-03-11T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-softbank-backed-coupang-valued-at-109-billion-in-blockbuster-debut.md",
-      "title": "SoftBank-backed Coupang valued at $109 billion in blockbuster debut",
-      "excerpt": "Swedish telecoms operator Tele2 and Delivery Hero's foodora have joined forces on a pilot scheme for self-driving home deliveries by robot in... (Reuters) - Shares of Roblox Corp jumped on Thursday, building on the gaming platform's almost 55% rise on its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/softbank-backed-coupang-valued-at-109-bi-idUSKBN2B32LU",
-      "originalUrl": "https://www.reuters.com/news/picture/softbank-backed-coupang-valued-at-109-bi-idUSKBN2B32LU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554568930&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH2A1KE",
-          "width": 810,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

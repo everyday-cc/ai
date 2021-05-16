@@ -58,16 +58,16 @@ related:
         height: 900
         isCached: true
   - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
-    excerpt: "With AI more than rising to the challenge of Covid-19, its spread throughout the business ecosphere will only be a matter of time  –  and industries are already changing because of it. Artificial intelligence,"
-    publishedDateTime: 2021-05-14T10:04:00Z
-    webUrl: "https://www.airforce-technology.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
+    publishedDateTime: 2021-05-14T09:19:00Z
+    webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
+      name: Verdict Retail
+      domain: retail-insight-network.com
     quality: 39
     images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/05/shutterstock_1764865133.jpg"
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
         width: 1000
         height: 563
         isCached: true

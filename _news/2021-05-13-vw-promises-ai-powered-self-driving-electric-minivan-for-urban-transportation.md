@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "These electric self-driving tractors could make farming much greener"
-    excerpt: "A startup based in California says it can help farmers be greener and more profitable by offering what it describes as the world's first fully electric, self-driving tractor. The compact tractor can be programmed to perform tasks such as plowing,"
-    publishedDateTime: 2021-05-11T07:52:00Z
-    webUrl: "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506123000-restricted-monarch-tractor-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "TuSimple Reports Receiving 6,775 Orders For Its Self-Driving Electric Truck"
-    excerpt: "Self-driving trucking company TuSimple Holdings (NASDAQ: TSP) said on Monday it scored 1,000 new bookings in April and added 1,200 in the first quarter, taking its total booking to 6,775 trucks so far."
-    publishedDateTime: 2021-05-11T09:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tusimple-reports-receiving-6-775-orders-for-its-self-driving-electric-truck-1030413058"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/operations2.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Self-driving VW electric minibuses in ride-sharing trial"
     excerpt: "The driverless future is a step nearer but, for all the scheme’s cleverness, will it reduce traffic as claimed – and do we really want it?"
     publishedDateTime: 2021-05-12T11:00:00Z
@@ -71,19 +41,33 @@ related:
         width: 978
         height: 611
         isCached: true
-  - title: "Self-driving shuttles coming to Rochester this summer"
-    excerpt: "The shuttles are self-driving, go about 15 miles per hour and will follow a virtual \"track\" that will be electronically programmed. Each vehicle holds about 12 people."
-    publishedDateTime: 2021-05-11T18:11:00Z
-    webUrl: "https://myfox47.com/2021/05/11/self-driving-shuttles-coming-to-rochester-this-summer/"
+  - title: "VW Plans Self-Driving Microbus"
+    excerpt: "Volkswagen came to the Detroit auto show with a concept version of its Type 2 — an electrified upgrade of the Microbus made famous as an icon of 1960s counterculture. VW, of course, had teased numerous concepts of its minibus over the years with little to show for it on highways."
+    publishedDateTime: 2021-05-14T16:03:00Z
+    webUrl: "https://www.manufacturing.net/videos/video/21427761/vw-plans-selfdriving-microbus"
     type: article
     provider:
-      name: My Fox 47
-      domain: myfox47.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 24
     images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/5/2021/05/rochestershuttlepic1.png"
-        width: 440
-        height: 306
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/MM_221_Thumb.609e94734d821.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "Self-driving VW ID.Buzz electric vans hit the road this summer ahead of commercial service in 2025"
+    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
+    publishedDateTime: 2021-05-12T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-hit-the-road-this-summer-ahead-of-commercial-service-in-2025"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 10
+    images:
+      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100791595_h.jpg"
+        width: 1920
+        height: 979
         isCached: true
 
 secured: "W2dum46ipUKoY6TNI5pE6b+5Hb0sLbGhuPJ/6JOJWN0qdHElcxzrLKtyA0pRz/7BAhxlv/+WCsWub7A6c9+1IFOolfYT9QNkBsx5Cl2JGigL4zd0jre9KFDDzKhz9nOuPeRG1Jn6tKRg63XMjP/ZldKv1FOJQGA17nYb9HDT2OLwPezvsJcbNvnZtKQr8QjxKWCRUOlPLP5TTdqnCum2NW9OeNj5Kyv2AQUUkwyqYqzmOHN3fLveDi+e3wqNcvIuX6AW7fe0mxBqhUaXOGkUJQL0B4mVxsBx5HCdsQGo2ZDpScmhZWV3O8xXV6QwI+y8tPmse4BOytloZHir1M3JAkexxxOI6rYjicUyCvN8lc9ivk71QI1uU7iZ0ZkKFLg8xN52io4ZwB/W3FAwM0oU8p/cbmHR++ISsvv1UE/O3A5a8HClxwwKh2DnyN6czwXbFJPH63ZnMNBfhaVyNXUyVT3RMalUbAVp8dnxzLNljIuEh1LM8IwqZVHr5M0LlpgX+XdPIIuvjyMTYK2UCZECzA==;pYaaniBl+37m9sPX077oRw=="

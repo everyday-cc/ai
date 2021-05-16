@@ -116,20 +116,6 @@ related:
         width: 482
         height: 350
         isCached: true
-  - title: "English football club partners with DeepMind to improve match performance"
-    excerpt: "The use of new technologies, including artificial intelligence, in the field of sport is progressing more and more. This is one of the themes of the fourth issue of our magazine, to be published on 18 May."
-    publishedDateTime: 2021-05-11T08:44:00Z
-    webUrl: "https://www.actuia.com/english/english-football-club-partners-with-deepmind-to-improve-match-performance/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 38
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Liverpool-et-DeepMind.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "DeepMind provides machine learnings scholarships for four Wits Master's students"
     excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
     publishedDateTime: 2021-05-13T07:40:00Z

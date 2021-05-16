@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-w
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Ed-Lynch-IBM-Think-2021.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
-    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
-    publishedDateTime: 2021-05-11T07:57:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 32
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "iJL0EFuUib0nUBrfq24n5U4ofPUyhPweCmZOpGfoL8IDPfXxIjzWhqlZeoSVO6q/vsUi717Acn38DQU3OyWqd/YzizUAfrop+pYuBC4JHeV+Z20Va+tXbMfJ4bB2e506/F0PG6bwYq+eqApZ/sATqcyghQQORAMqRqb3+OMOXtyeUXaHZp4KnUR03mpiQY9E/WemVDrd/TGtCUlMxnZrk5KszGFduttYw66FLw6sC9f+cdJMG+Gl4UjeB/A9CnC245y3ItdS2HUu2d+IhJZ13zZo4pMMFRzK2SOagBCl1DXX1VDchFUdbvl1kCv9VNGpPGSCcB2S0Cq1nk6a68600AYZqGLhnY05EsRGECQiIwtNqIadYB6IOipH67b4YeT55OX5yDrW0Tnx2e8BiqvUFQiuXtI1uYvJ8OwwJErMIR1nS+ja9qVSKFvF5UGbJSImx/8891Letq01GxC7mA5xurP9Q9dcWI9kw5Q1vOTGhYqGrN3r/rqByvCMKP01ijyuc9N5Iv3QSckcJ4ZtCsxYZw==;X+T2VqIHJZiTSFpQiBhA5A=="

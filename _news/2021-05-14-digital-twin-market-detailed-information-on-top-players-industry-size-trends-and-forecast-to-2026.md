@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/digital-twin-market-deta
 webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
 type: article
 quality: 55
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
-    publishedDateTime: 2021-05-11T08:51:00Z
-    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
-        width: 780
-        height: 470
         isCached: true
   - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
     excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"
