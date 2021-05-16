@@ -51,15 +51,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 33
-  - title: "U.S. chip makers are competing with Nvidia and Intel to produce next-gen AI chips"
-    excerpt: "Image showing the Cerebras Systems WSE-2 chip size compared to a hockey puck. AI chip start-ups are raising large funds from venture capitalists to"
-    publishedDateTime: 2021-05-11T18:00:00Z
-    webUrl: "https://www.element14.com/community/community/businessofengineering/blog/2021/05/11/us-chip-makers-are-competing-with-nvidia-and-intel-to-produce-next-gen-ai-chips"
-    type: article
-    provider:
-      name: element14.com
-      domain: element14.com
-    quality: 29
 
 secured: "7BHS1b6sVoF+/rqyv0qHQy6Fb+LiKbtil6VobTEIUWag9xATV+rTkow1szzYEJdwEW3LS0KznXx2sE9J1h4khGJXpK2G3CE3uLWRwGUUCRuN0CfEgaUGgtccft1OlEMpc264Aj5LdHVy3+dsVJXYc0C4yaT0Tsrd1sXxZqzP84u7HtCKuGdLU+bQSPN5QfPvAr9xWIqda5z1AccAsyP+jnpItkYjKmHDEbliOH0MT57pq8gYKhT8rcMD28CJFBpG3XhwlKr/jQNUgYCaoDvX8TFWj3RucwsQhY5NOYHUwO09+z48bqEchoWEvRpMoBco4ORtoG58QbNWJFy5lemJIIAlbF0TQLF5zIuy0QfGd/Q=;njbT08OgJG06SDsuzefGeQ=="
 ---

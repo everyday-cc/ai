@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI to detect sarcasm on social media"
-    excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands and it may have just gotten a little easier thanks t"
-    publishedDateTime: 2021-05-11T18:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269410497/ai-to-detect-sarcasm-on-social-media"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1620756355.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
     publishedDateTime: 2021-05-12T06:14:00Z

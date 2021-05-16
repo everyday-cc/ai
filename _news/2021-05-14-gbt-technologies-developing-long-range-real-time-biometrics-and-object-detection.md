@@ -39,20 +39,6 @@ related:
         width: 768
         height: 513
         isCached: true
-  - title: "Clearview hires DC lobbyists to educate on face biometrics technology"
-    excerpt: "A lobbying firm founded by former Senate aides has been hired by Clearview AI to carry out education around facial recognition technology."
-    publishedDateTime: 2021-05-11T17:31:00Z
-    webUrl: "https://www.biometricupdate.com/202105/clearview-hires-dc-lobbyists-to-educate-on-face-biometrics-technology"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Ambiq announces new voice biometrics tool for IoT integration"
     excerpt: "The VoS Kit enables voice and audio capability integration within battery-powered devices via Always-on-Voice (AoV) technology."
     publishedDateTime: 2021-05-12T17:20:00Z

@@ -2,6 +2,92 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-04-13-innovative-solar-energy-forecasting-project-awarded-googleorg-funding.md",
+      "title": "Innovative solar energy forecasting project awarded Google.org funding",
+      "excerpt": "Open Climate Fix, a nonprofit green tech software development lab, has been awarded more than half-a-million pounds in funding from Google.org to revolutionise cloud forecasting for solar energy generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pv-magazine.com/press-releases/innovative-solar-energy-forecasting-project-awarded-google-org-funding/",
+      "originalUrl": "https://www.pv-magazine.com/press-releases/innovative-solar-energy-forecasting-project-awarded-google-org-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pv magazine International",
+        "domain": "pv-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases.md",
+      "title": "Facial recognition could soon let you pay for all your mobile purchases",
+      "excerpt": "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
+      "originalUrl": "https://www.techradar.com/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
+      "publishedDateTime": "2021-04-13T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-big-techs-guide-to-talking-about-ai-ethics.md",
       "title": "Big Tech’s guide to talking about AI ethics",
       "excerpt": "AI researchers often say good machine learning is really more art than science. The same could be said for effective public relations. Selecting the right words to strike a positive tone or reframe the conversation about AI is a delicate task: done well,",
@@ -985,101 +1071,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition.md",
-      "title": "Billions of smartphone owners will soon be authorising payments using facial recognition",
-      "excerpt": "New analysis shows that facial recognition and other biometric authentication technologies will increasingly help to keep mobile payments safe from fraudsters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "publishedDateTime": "2021-04-12T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-aja-adopts-nvidia-solutions-for-ai-driven-systems.md",
-      "title": "AJA Adopts NVIDIA Solutions for AI-Driven Systems",
-      "excerpt": "NVIDIA Jetson is an AI computing platform for GPU-accelerated parallel processing in embedded solutions, while NVIDIA Clara AGX, which is built on NVIDIA Jetson AGX",
-      "sourceUrl": null,
-      "webUrl": "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems",
-      "originalUrl": "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AV Network",
-        "domain": "avnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

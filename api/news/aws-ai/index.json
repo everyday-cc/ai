@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-14-4-artificial-intelligence-stocks-to-watch-right-now.md",
-      "title": "4 Artificial Intelligence Stocks To Watch Right Now",
-      "excerpt": "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/371987",
-      "originalUrl": "https://www.entrepreneur.com/article/371987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/371987",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987",
-      "publishedDateTime": "2021-05-14T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference.md",
       "title": "Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference",
       "excerpt": "Machine learning (ML) is realized in inference. The business problem you want your ML model to solve is the inferences or predictions that you want your model to generate. Deployment is the stage in which a model, after being trained, is ready to accept inference requests. In this post, we describe the",
@@ -728,6 +676,58 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "publishedDateTime": "2021-05-05T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

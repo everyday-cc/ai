@@ -1,20 +1,32 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in May"
-excerpt: "Investors looking for the top AI stocks to buy right now should consider NVIDIA (NASDAQ: NVDA), Amazon (NASDAQ: AMZN), and Microsoft (NASDAQ: MSFT). Here's why. Image source: . You might know NVIDIA as a leading graphics processing unit (GPU) company that has benefited immensely from the gaming market."
-publishedDateTime: 2021-05-05T11:54:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-may-2021-05-05"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-may-2021-05-05"
+excerpt: "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally."
+publishedDateTime: 2021-05-05T15:54:00Z
+originalUrl: "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
+webUrl: "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
-secured: "W7ipyNTLVtdKZPwFWB3QKYj3oc3SanCdgz7T9WSVyXuZDMxUnvDWV1KTsKMGJkjISsSzIb65vK5KhR4ZPJlaH+P/SFghX3M9TyNgiWVhziOorW8EDZfp6z/LK6MPCeJSHActR5S8R8qwMOn/T9Lr8gm7Se31n5sZybCxajTMK10yS4WqRefGn1IpQEoLJtBzNoKmgKSmly29nJCLBAC8i55oUQ/walm9PektnJWZUCc0DbDVH8I5QPYni/QM+i8AskIltDaIW8YBf7Wk8ssYguBvHdxc6mqWbNxe7RjwSfyJRpyYZDJ87s2KV/FmAK62WKXwwZ3mWxG8d6sdg//JZZ9IWJgR0yR5sAjBUtk/0IA=;5zUeYfCnAMMPXX8TCw2fLA=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "gwLzU9VNlXtUCZTFKJV4YVH5pmBOzNiwG0OgD5jYxOAYZNrAae+7IjDCgszAsp0f1O9X3PDzkQCCsdz01yQRDH1N0eJVw73nKgm8kmVOdnQPYh/pRhxReFXwY++jnr7Qlte+Gx9yc5RpKG3Ebs9qiDKuhi1LLOCj3FG+bexWJF25zlkMTSBgFK3gxKdaxRpNu98rmvOiswZpa9gwWUwYkAI+n8Ak3CbSry9+h32GoEYTKDjprzVV7QrKEoCDmKL/vb1Rn2MGoPGf9p3WGS6kZeyetBqw7AE6NKJuZGryGnKtEnyOqB51CxJAnR2exC+eDBVAntQCWasMN6ubLzC+QYAQvLVus6Xy+lmLBJO8Lkk=;Om6BWLLywj291WY0MNZnJw=="
 ---
 

@@ -2,6 +2,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-04-17-ai-artificial-intelligence-build-it-or-buy-it.md",
+      "title": "AI (Artificial Intelligence): Build It Or Buy It?",
+      "excerpt": "And to accomplish this, the company evaluated a myriad of AI solutions. But they all fell short. “In the end, we leveraged a combination of best of breed open source technology and tools to build our own AI platform that is very powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821dc276c3f7d5c600d9df%2F0x0.jpg%3FcropX1%3D156%26cropX2%3D9343%26cropY1%3D0%26cropY2%3D5168",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/amp/",
+      "publishedDateTime": "2021-04-16T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-like-science-fiction-seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland.md",
+      "title": "‘Like science fiction,’ Seattle startup sends laser-equipped robots to zap weeds on farmland",
+      "excerpt": "Running day and night, a tractor-sized robot designed by a Seattle startup uses lasers to kill weeds on acres of farm land. The machine is the latest form of automation to arrive in agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+      "originalUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
+      "publishedDateTime": "2021-04-16T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-facebook-employs-ai-tech-to-combat-complex-illnesses.md",
       "title": "Facebook Employs AI Tech To Combat Complex Illnesses",
       "excerpt": "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses.",
@@ -1049,83 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ai-and-the-human.md",
-      "title": "AI and the Human",
-      "excerpt": "But how might we prepare literature scholars to evaluate specialist presentations on AI like the one Dimock discusses? Widely touted as a fourth industrial revolution, AI is notoriously subject to hype,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/pmla/article/ai-and-the-human/3FEBDB0945D8CF022EC949D945C80CEA",
-      "originalUrl": "https://www.cambridge.org/core/journals/pmla/article/ai-and-the-human/3FEBDB0945D8CF022EC949D945C80CEA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

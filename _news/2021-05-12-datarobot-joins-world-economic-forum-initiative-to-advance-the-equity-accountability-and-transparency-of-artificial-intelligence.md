@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DataRobot Refreshes AI Platform, Nabs Zepl"
-    excerpt: "DataRobot unveiled several enhancements in its automated machine learning platform today, including the introduction of features like composable ML and"
-    publishedDateTime: 2021-05-11T17:40:00Z
-    webUrl: "https://www.datanami.com/2021/05/11/datarobot-refreshes-ai-platform-nabs-zepl/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "xnoO/ajGxqeA7KST+FqGXz8tSLO3RvxYnBN2L+o3WnvkpRD4AFYt/4xmb8dOG9NJFVOov29FwgKRgmuXng00LzaMhsHHAZBMDLTnu/7dAuZKu71Jj42J7hpFnKrFaVFdDBJ/XPmDieQSYosGc2FLzSp0Md0PAEgRYVg0Vb/jn1xSvAv+vi5rprO/qcczW2cN+WapWQWsOQAbGYbwF39jRt8dZgZQ1PyraSfLxKw9lknblUBf+Ch4ER5gpsaCuniNdz47NvdguvipWOHH9i2J6j0ukhsL/x47rBawBbju1pyIuAcVOS5ZioEqB7MWtQDaus5qxqhHp3EzL0tHZiRUHVVMaTTkkgdhBgObDe+xJOI=;I+/iqCvKd+kBGoWPJnUdsw=="
 ---

@@ -2,6 +2,92 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-04-13-algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases.md",
+      "title": "Algorithms Used by Companies Like Netflix Could Decipher Biological Language of Neurodegenerative Diseases",
+      "excerpt": "Powerful algorithms used by companies like Netflix, Facebook, and Amazon could have major implications in healthcare. They have demonstrated the ability to predict the biological language of cancer and other neurodegenerative diseases such as Alzheimer’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
+      "originalUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/04/dna-3539309_1280.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-truckings-safer-self-driving-future-is-around-the-corner.md",
+      "title": "Trucking’s safer, self-driving future is around the corner",
+      "excerpt": "But they are setting the foundation for America’s driverless future ... there are a lot of miles that artificial intelligence could really bolster and help move goods through those corridors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21157427/truckings-safer-selfdriving-future-is-near",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21157427/truckings-safer-selfdriving-future-is-near",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/web_site_FO_leadimage_autonomous.60758c4a83458.png?auto=format&fit=max&w=1200",
+          "width": 1077,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion.md",
       "title": "'We are the best-funded AI startup,’ says SambaNova co-founder Olukotun following SoftBank, Intel infusion",
       "excerpt": "In yet another sign of the rising interest in alternative computing technology, AI systems startup SambaNova Systems on Tuesday said it has received $676 million in a Series D financing from a group of investors that includes the SoftBank Vision Fund of ...",
@@ -981,92 +1067,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-innovative-solar-energy-forecasting-project-awarded-googleorg-funding.md",
-      "title": "Innovative solar energy forecasting project awarded Google.org funding",
-      "excerpt": "Open Climate Fix, a nonprofit green tech software development lab, has been awarded more than half-a-million pounds in funding from Google.org to revolutionise cloud forecasting for solar energy generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pv-magazine.com/press-releases/innovative-solar-energy-forecasting-project-awarded-google-org-funding/",
-      "originalUrl": "https://www.pv-magazine.com/press-releases/innovative-solar-energy-forecasting-project-awarded-google-org-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pv magazine International",
-        "domain": "pv-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases.md",
-      "title": "Facial recognition could soon let you pay for all your mobile purchases",
-      "excerpt": "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "originalUrl": "https://www.techradar.com/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "publishedDateTime": "2021-04-13T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

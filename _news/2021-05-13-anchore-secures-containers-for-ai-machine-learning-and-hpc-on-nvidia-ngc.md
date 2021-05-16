@@ -42,15 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
-  - title: "U.S. chip makers are competing with Nvidia and Intel to produce next-gen AI chips"
-    excerpt: "Image showing the Cerebras Systems WSE-2 chip size compared to a hockey puck. AI chip start-ups are raising large funds from venture capitalists to"
-    publishedDateTime: 2021-05-11T18:00:00Z
-    webUrl: "https://www.element14.com/community/community/businessofengineering/blog/2021/05/11/us-chip-makers-are-competing-with-nvidia-and-intel-to-produce-next-gen-ai-chips"
-    type: article
-    provider:
-      name: element14.com
-      domain: element14.com
-    quality: 29
   - title: "ALCF Webinar May 26: NVIDIA Profiling Tools Ecosystem for HPC and AI"
     excerpt: "The Argonne Leadership Computing Facility (ALCF) on May 26 will host a webinar in which NVIDIA will present their profiling tools, Nsight Systems and Nsight Compute, and will discuss how they are used in HPC and AI use cases."
     publishedDateTime: 2021-05-14T12:22:00Z

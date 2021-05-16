@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker.md",
+      "title": "Self-Driving Truck Startup Plus to Develop Natural Gas-Powered Vehicle With U.S. Engine-Maker",
+      "excerpt": "Self-driving truck startup Plus has announced a partnership with U.S.-based engine-maker Cummins to develop an autonomous truck powered by natural gas, reflecting the company’s green transportation ambitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-04-29/self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker-101703879.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-04-29/self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker-101703879.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-04-29/1619693602800996_560_373.jpg",
+          "width": 560,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-elon-musk-teslas-next-full-self-driving-beta-update-will-blow-your-mind.md",
       "title": "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’",
       "excerpt": "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”.",
@@ -1361,49 +1404,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-university-of-alaska-anchorage-today-ai-webinar-will-explore-the-development-of-self-driving-vehicles.md",
-      "title": "University Of Alaska Anchorage: TODAY: AI Webinar Will Explore The Development Of Self-Driving Vehicles",
-      "excerpt": "By 2019, many car and technology companies had implemented autonomous car programs, and Google's Waymo launched the world's first commer",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
-      "originalUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

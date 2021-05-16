@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
-publishedDateTime: 2021-05-12T09:51:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic."
+publishedDateTime: 2021-05-12T04:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
@@ -162,6 +162,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "zk+/u+MTiN7YKG6fPZ6cLgBCaxRjJ4KaseIbVUcQ91JuuIrRA18S77rwiwG37DbrXcsPE/tJY1mkxbUAuEIULC2ZpyZbX07FamMEfr9isGRHzOz+QxQ+m0RPiBF0vPioqHXIPYpXCqOFZiIlKU1vfcG2cnZh84Qg2G2TNpIPhluiCKH+XH5blS7U2zv/cR4Zsl7SEEiu64rqT6bca4qm0FUPTp3a1XWobxlE77vSGU8SUViKiN+/lhZ+TpCF1cwzFbfTT29ZdBiw7Df/7PWsGFh4+HZWDpWTxZglWKI/uC3SyCYSXUiHJOM+kiw+F+m3HEX24v7eNvwoPscNQcG9Y9NjMqyT5pgpjfLn1aOx1fI=;9TrBM/sxUv7UVDVqMoW+dg=="
+secured: "sSaJc78VVwOL11aDLAunxmBVS8j3dWU+y93h3cJzu1IvFJZ7jl0d82Q7SUEEc2EXzgZfbUAncwL82oNHYryRNH5zHACP0CoAfMrvkeF8XazRxiNffmUAdmrslvEr6SNIwnWvzA6wCOG/NdVeHmwDMSXgC8+GoWgy12W1lX5hX7MzAzaj12vnakUUbPYUZdi+hxQ5HzEqgMrK5iWyud8Qa/1/BSrZcr+z23ERVWgz0BMGzXSH85ghGynWps0OqMwiWEfm8jyJe9wSl5JYk59rI10yUFFJx/VNL+yq0SekcR9M/T0rWc7K5KYxoc3LeR2odoJjxrP+BHZkau+VELocfqbtrfGB/r4Qsmb+xfRdifE=;t0+AyLkmiXohVAIQeBqQRA=="
 ---
 

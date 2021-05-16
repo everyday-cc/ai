@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-06-aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer.md",
+      "title": "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer",
+      "excerpt": "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to support its growing base of global customers and Aqua's commitment to customer success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aqua-security-appoints-former-microsoft-azure-executive-as-/2021/05/06/9363020.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
       "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
       "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",
@@ -1094,58 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
-      "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
-      "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg",
-          "width": 2560,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "publishedDateTime": "2021-05-05T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

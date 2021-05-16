@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridg
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot Refreshes AI Platform, Nabs Zepl"
-    excerpt: "DataRobot unveiled several enhancements in its automated machine learning platform today, including the introduction of features like composable ML and"
-    publishedDateTime: 2021-05-11T17:40:00Z
-    webUrl: "https://www.datanami.com/2021/05/11/datarobot-refreshes-ai-platform-nabs-zepl/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "DataRobot Joins World Economic Forum Initiative to Advance the Equity, Accountability, and Transparency of Artificial Intelligence"
     excerpt: "DataRobot joined the World Economic Forum initiative to advance the equity, accountability, and transparency of AI and machine learning."
     publishedDateTime: 2021-05-12T13:00:00Z

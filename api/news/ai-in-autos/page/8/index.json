@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-16-googles-secretive-x-lab-is-working-on-its-next-big-hit-here-are-some-of-the-bets-that-could-take-off-and-the-people-leading-them.md",
+      "title": "Google's secretive X lab is working on its next big hit. Here are some of the bets that could take off, and the people leading them.",
+      "excerpt": "X is home to some of Alphabet's weirdest and most ambitious ideas. Here are some that the lab is working on right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-projects-alphabet-x-secret-moonshot-lab-is-working-on-2020-10",
+      "originalUrl": "https://www.businessinsider.com/the-projects-alphabet-x-secret-moonshot-lab-is-working-on-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-baidu-top-artificial-intelligence-innovations-from-the-chinese-google.md",
       "title": "Baidu : Top Artificial Intelligence Innovations From the Chinese ‘Google’",
       "excerpt": "Beijing based Baidu Inc., host to diverse artificial intelligence innovations. This includes Autonomous driving platform Apollo, PAddlePaddle, ERNIE, DuerOS, LinearFold, etc.",

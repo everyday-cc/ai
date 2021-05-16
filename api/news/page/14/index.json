@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
+      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
+      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
+      "title": "IBM to acquire Turbonomic for AIOps",
+      "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
+      "originalUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
+          "width": 736,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
+      "publishedDateTime": "2021-05-03T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025.md",
       "title": "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025",
       "excerpt": "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,",
@@ -1097,92 +1193,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
-      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
-      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
-      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
-      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
-          "width": 3278,
-          "height": 2458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
