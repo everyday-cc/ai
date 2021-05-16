@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Startup Nimble Raises $10M For Autonomous Manicure Robot"
-    excerpt: "Nimble is said to be the world's first device that uses artificial intelligence to paint and dry nails in 10 minutes per hand."
-    publishedDateTime: 2021-05-12T14:54:00Z
-    webUrl: "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Israeli AI-based insurance co Planck raises $20m"
     excerpt: "Planck provides insurance-related data insights and analytics for more than 50 major business segments. Israeli AI-based data platform for commercial insurance developer Planck has raised $20 million from new investors 3L Capital and Greenfield Partners and existing investors which include Team8,"
     publishedDateTime: 2021-05-12T14:15:00Z

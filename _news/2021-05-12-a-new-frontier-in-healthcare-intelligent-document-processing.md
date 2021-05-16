@@ -2,23 +2,27 @@
 category: news
 title: "A New Frontier in Healthcare Intelligent Document Processing"
 excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new capabilities represent a new frontier in healthcare document and data processing."
-publishedDateTime: 2021-05-11T21:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/11/9367019.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/11/9367019.htm"
+publishedDateTime: 2021-05-11T22:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/a-new-frontier-in-healthcare-intelligent-document-processing-1030416922"
+webUrl: "https://markets.businessinsider.com/news/stocks/a-new-frontier-in-healthcare-intelligent-document-processing-1030416922"
 type: article
-quality: 21
-heat: 21
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
 
-secured: "87fBHvryy/ueQT1+vksNd3oOW1V4h1rgfXin0p6yYhDiqv8wPtEuNEGk35Lkx4xUBjWusJNTKtGJgvAG419EeK42EZgbaoNlSgUHPLmMy3PRQsoi16MEeta3M9CC3HaIQ4Ar415AAS7IP6yu65apKjuTzBjDmrv6B3ibNceZSypvU/cLpV1IxrEGzrm6NJUUDfUrpt1LAdEsbh1m0vePZMFNnRHn2Wn9QqQiSVaAv0CDf/FeKxcuVs5jy63v4/xPudSqJX7t0bY+S1cxUHrplxIWKRyG1TG+zYZ8QhS8K4HEmzXUwftkR6vQMD2/Ih7vF90s5+3unZRD6q2TcaB4gOHgGPyLOiPe2n0nU0NstyEQJRD7mGi0R+OLGNLevm5fmOwtyfTxWQYhyvzFMc+cwkn11vXExCanTG6m0aldpsih3zIycI3fNircP4IMNv+zJlMKgcnDIL5CBAoRl/YTdd4QBP3sQV+tW8enuhGUfi2iErfc8wRuVY8A7Ml4CCtkA3pzYP4BYQN+xLILsMrC4w==;yL7AKnRLb0JAxqiIM0jtOQ=="
+secured: "rTxkTmO6BSbAEkPx9aNEXyndy160fKQ5YVJ9+cyJWzRzPwq9ObjuD0tcujpIMI58e4flvghK/V7Tcy3e3765vJCIM92ZwTXGkFEafuGPErpJkgfrYuU+rbxNlno8GM4Ebz1eU+CtABSFVmms2Fv9n5lUEnSlmcONJRJGSei2wZO63CUbFsYb8Fh+obnIut0KEzT7qoXwfKvChSDarz1t7PcLgQKe9tRraf2m16gId9a56nC+BIVxz8fc+H9tXAw8iQG83Ypk0ZYcZVHxE21NUvaPCEhhzX0Ni8Anh4sYYX34eKA4ouq9V+wTz7TyxZn/G7n58Mp+gAbifQS1N09petSfSxDc72QZqXVElG52zB8hSLgk9YrFkQ19WstohnOkj/5k9M8nTooyw4i3M1yf1aMmNusHmXnFQJj2FKBriHUVBNWuel6OXn/lfb39tKC8tz3V/54azJGxBN7em73VRYHl9s8UNeiya3FOqCPNr3jm3wIHEABCmHWpZNL8yniN3gqeD7QoKquGvtZrypxmcw==;wTdGNa1E2P9i2IQdrI7n/g=="
 ---
 

@@ -2,26 +2,22 @@
 category: news
 title: "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights"
 excerpt: "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,"
-publishedDateTime: 2021-05-13T12:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095"
-webUrl: "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095"
+publishedDateTime: 2021-05-13T10:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368482.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368482.htm"
 type: article
-quality: 41
-heat: 41
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "jHopbuynUu1KxnF0kq6jIHmNA7wpu67qeLVn9EG3DF35yhbuSGt0NRwu67tk/WnfmTd6tqQyfAjkt+KR8ed36Aiqn9ydpSWk5iFjwLlNjgKS3YdJsRl7o5QamEnEhwzrlljckOisy7ZFSl42Pz6uKFV4Cf/FwfEmsFXEb4ta4liA+RFjKMWo3lCKXomwQ2HeFxEj2aF9CEwH1emo0oTVjf2f/3vv33VEeb4iaBdBiDfhu9+NF/aorp3teAHwSZnB7ChwZ4iJgUyeP/4WQMpeAqDquQwXAaPWfebOEjxIy7kXlUPVvDHOCm9/JLXreWQ55ncnqg2032PyJuGeURiO5Ytq2dX4PFHZObWhM622VuA=;XyBx70jTJFUpwnwNX6DAaQ=="
+secured: "Zt2RZ8OtnijCF+JGrr2ZtVL8/6PJdHyHSVjFO+EqN6rFRe/La1caB8W8/TowdjlAQFX1fIpeikgDRAedSv++XfEEwxIP9OBbPpoppCRtnSu8Ahsk/VajgKWkkxvLUV+vUPnqwrLgECY3mvxMaAYKFjJ/yhZyjrEQXTct+5GuCLPlf0/Z/Esb5mSl3rHGH+3YRvQkTDom1PXm7/WlXdPJbrbfTI5noaE0T82ExfNGmL0Z99ALOtRdwPUuojwiSPN1cyg2HTXxHNBqlrWG0O0csoqVUL3v0WqKiD2Q2WLvuoXyM2Ip0cifkcF3kCg44U0yY4QLTwEiNyj+dePaYXGlvbMBlk1jK5yRMKe/dD7V+8A=;75STVUIi5255iQaPqTCvHw=="
 ---
 

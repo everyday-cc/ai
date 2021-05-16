@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/10/chatbots-e1571917675670.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "COVID caused conversational AI to accelerate, says IBM"
+    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
+    publishedDateTime: 2021-05-13T17:33:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "HQfAKrmckWymlV+IUOuDk8ecRpr6FIHx85Om9Fplf/JYCQUfdDlW/cdH3ncrr3qH5+bv5HY1pJjtXYZt2YebJT4W9z9PcOvFHcwvI34ZQU/PnlxNCx560CQus4J6pji+Ldqq1TfNMbpv7hbcbAYGPrlk7Lc7Q7y3jngqG57IjRetn5o3Tx9sxZT7TZWlcamCot8+pfXMvyO5kFHMk4RnvbR8D3al4f4/TsoXNLGoMSX0ZVtQICFEv++36NgydikeYzxiBmFms3d2l372D80tTFlB+g+GlBHgB7/ZcqGm8IgDMk0uEvK7/hUDLJUJHpKTSRmuPbTfyetBW0vaMOrinkOEp+Mo5r2D2UiVN9HDF4mO8PeB/0fZMO0mCfMm3l/6on2bs+/QUh+CMDSq4lkSCdf4caUY9bcs2A4WM1aR0n7xcoKijSMQoJnt4nXEvlrDVP0CrgpiRv4QSFCwPFQsFENVfd0CoZtO3CFdAE5/gpTit8j4/5VI5O+654bgMhwFkIDaXFom3DcgTa++XTol5Q==;z0h26uub9Th+i5SZgysZaQ=="

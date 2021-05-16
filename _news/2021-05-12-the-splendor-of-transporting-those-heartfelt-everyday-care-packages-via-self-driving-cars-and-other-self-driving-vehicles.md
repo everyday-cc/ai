@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "When will self-driving cars hit the road?"
-    excerpt: "Tech enthusiasts often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers. Anticipation tends to build around everything from the"
-    publishedDateTime: 2021-05-11T20:47:00Z
-    webUrl: "https://www.tctimes.com/when-will-self-driving-cars-hit-the-road/article_1c167eb0-b29a-11eb-914e-03b6454735b6.html"
-    type: article
-    provider:
-      name: Tri-County Times
-      domain: tctimes.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/0/fc/0fc65ede-b293-11eb-a927-0b228025159c/609ae191e8eb7.image.jpg?resize=475%2C630"
-        width: 475
-        height: 630
-        isCached: true
 
 secured: "y8zcwGUPUerMg8QTRh3kBEOHTeWTjJr7gRe0mDtdYBa/6ZYTaIOnUaysL4BQNB+/ExOyIGCuxdHMXE+uSLNXzBXzTD4BSdGrQrdRhIyHet7I7/fxvKSZwwwYHDdDGKHsKHhqF5ZVK1pFB/uTfhoXYxeAKuyqO4AHJE1QKDPYdKi4e9nM7u6bapOmoaJpuNmEdGXFdqp76cJYH3mXDVrg76LWv/uMTRYhv/Cy0vdhaH5VA8dSpaoU6WA4eH+cAIlo1qAEveRM0TEXG33Y5+F3BW2wf6T/IK/RFpPf0ur8bC4unNAAFEAT+f2sbjdQlWX6Dj/SVVzhI+6b+D12qAjxJJND4MBeCHg+1y3743meSOUWybiDtGQ/gqcz0mQmWLAwiZFpaZdNYIaixjS1CbpzUYtVe9H1IeDAE6FUOWQZp/dXexlS7YhmVdy/3OV1DUe8cC0hI1vYP+La7oJ+ecKSYph81f3EdHq6RxU2TCT5WnaR4k1zb/LfGoswmuqQsj9NTTZ8/6DHy9KOrPxeGeZ3Qg==;sjyLmIGB6G6S/9S6+b4mJA=="
 ---

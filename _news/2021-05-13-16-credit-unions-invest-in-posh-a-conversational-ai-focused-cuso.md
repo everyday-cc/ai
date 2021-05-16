@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "COVID caused conversational AI to accelerate, says IBM"
+    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
+    publishedDateTime: 2021-05-13T17:33:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "GyoZppuWYxuFXfCCnF1PpIiACwB8FV4m0mvV4+jmTvVQoq+UX2iwA4ynPwQSSnHSeaV9Ds89kt1jHTLV7SuAlMaoUKrudzY5QsV0v3yFGU+dYiWydHQtw2H9086ePi2vLy17/W1RokBas1PyK90bM/aHdXmUHYYBj9n0wS9HNdKRnie75g3hF2luSrWrP4GihK3EFCBY7O4uTbsaOjSaln0VSwmMiM7T2bDftQ9iZ25o7WbXpqrwdGcW75rx9AKRKLM3a3tluF16xMj9VnD+NuVrhfsAj/qSXMagLShV10a7Jft8lkLcNAAfr7JXEksLURrsNsA91RrxWiRg8vFXeIg91BjhjcTCYB4eUWnaOE5ebnJh6rMbVHdcJ+0oP30uAYxEuNUt9EqyD7e43ZZOGsSItgQBLh8/kHh4ytt7xyyZm/prtcIwLM8zb6dW9R4L4rtMBl1hKxk6kY/skgRbIaGnQHJmVnOt5XqZIjNsNSYKoaipkWHthrkWIwhilUTrpxqkGNVfJwtYzlWZ7WPKAg==;6+CfVcneoK9Qo3Q7MbRgdw=="
 ---

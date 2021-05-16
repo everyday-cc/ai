@@ -7,7 +7,7 @@ originalUrl: "https://en.globes.co.il/en/article-israeli-ai-based-insurance-co-p
 webUrl: "https://en.globes.co.il/en/article-israeli-ai-based-insurance-co-planck-raises-20m-1001370898"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Startup Nimble Raises $10M For Autonomous Manicure Robot"
-    excerpt: "Nimble is said to be the world's first device that uses artificial intelligence to paint and dry nails in 10 minutes per hand."
-    publishedDateTime: 2021-05-12T14:54:00Z
-    webUrl: "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Israeli fintech co Stampli raises $50m"
     excerpt: "Israeli fintech company Stampli today announced the completion of a $50 million Series C financing round led by Insight Partners, with participation from SignalFire, Nextworld Capital, UpWest, Hillsven,"
     publishedDateTime: 2021-05-12T14:00:00Z

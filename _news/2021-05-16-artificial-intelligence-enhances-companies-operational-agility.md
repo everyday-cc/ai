@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Artificial Intelligence enhances companies’ operational agility"
-excerpt: "Artificial Intelligence (AI) is witnessing rapid growth in Qatar and most of the ministries and other organisations are planning to expand it in several areas. As of now, Qatar is in the growing stage of this segment and various funding opportunities are available here which is a positive step said an expert during an online event."
-publishedDateTime: 2021-05-16T06:28:00Z
-originalUrl: "https://www.thepeninsulaqatar.com/article/16/05/2021/Artificial-Intelligence-enhances-companies’-operational-agility"
-webUrl: "https://www.thepeninsulaqatar.com/article/16/05/2021/Artificial-Intelligence-enhances-companies’-operational-agility"
+title: "Artificial Intelligence enhances companies'' operational agility"
+excerpt: "Artificial Intelligence (AI) is witnessing rapid growth in Qatar and most of the ministries and other organisations are planning to expand it in several areas. As of now, Qatar is in the growing stage"
+publishedDateTime: 2021-05-16T11:56:00Z
+originalUrl: "https://menafn.com/1102086228/Artificial-Intelligence-enhances-companies-operational-agility"
+webUrl: "https://menafn.com/1102086228/Artificial-Intelligence-enhances-companies-operational-agility"
 type: article
-quality: 41
-heat: 41
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://www.thepeninsulaqatar.com/images/front/whatsapp.png"
-    width: 400
-    height: 284
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?884746"
+    width: 375
+    height: 250
     isCached: true
 
-secured: "AYz5iKce9ZoFCO5KyV6H8h6/clP0OK4JIsptYyRwtnAFEDHxdFGvQDzeXqdhqfyOqKwSvyB40YiNep6rKunpqYRwqS7U2oWDHq9omi9VrGA5zA5oTP6x1v3vK1mIvIQwjhVnYbWirRRUFgeWZ7HcrPEpqdUrR051j2cNphdTD8gOFqV3JZlwe8//kEFnqarRV/SId3L7lVTKQzRPUoyZIuTJgc4KPz1K+5sUoy3kCOMeNUKsb6cH4fHN1wd3T/WlsiVPny1HO/XPSmxWAt3exljjfJbE2LjgyDdwAYKVeh2HCtLra2alaiVOuJ1EjYFdu8bu3l6rwy5Mj8Cfdt02t3C+gRu5K54smabou1JS6tI=;R9/RjD4AfTP8TC5OA5Qgtg=="
+secured: "oP+xa1qUwZtkFbWObvSKVOCRA9mveGH72Pjmzk3P0zXmvZ0i4XAumjoqxRp+dw4RSjSwHWMzxVh8vqjcXblSfL9YYqCRWsluMlVxupFmQyoqY3z/f+bZMqkb0TmH6ao5WP1laMsJ7jSqSZzOhuIW+7dR6t1h74oWXclFEDR7XvkZSM0syjpctWeMyT1WJeJM2KTb2B37E7R42jDxGpxidX9K3eZQS/L+cKdWo4NLNWoNOXlU3toiOMDcpqAIL4KtZf5e7Al1jygWFwh/djjgbbcRlUvIIA+8P/DV4F5+D4Vsk+rGvpi22TLIfE6n/YvqVuaIFvTbPjump2QsPGOUqvP1TB+hIoJ669oxUyD9O/Q=;D+Ifd7eFEd6CSKpU5gPz9Q=="
 ---
 

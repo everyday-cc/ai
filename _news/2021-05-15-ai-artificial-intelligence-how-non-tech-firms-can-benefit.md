@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-in
 webUrl: "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

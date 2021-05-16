@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Has Eaten IBM Think"
-    excerpt: "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,"
-    publishedDateTime: 2021-05-11T19:53:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg"
-        width: 1200
-        height: 711
-        isCached: true
   - title: "IBM Think 2021- All In On Hybrid Cloud And AI"
     excerpt: "Ranked Industry Analyst Patrick Moorhead attended the IBM Think 2021 event last week, which is the premier hybrid cloud and AI event for IBM as well as the company’s annual flagship event for customers and partners."
     publishedDateTime: 2021-05-14T15:23:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609e948de2ae75870e17f414%2F0x0.jpg"
         width: 624
         height: 351
-        isCached: true
-  - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
-    excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
-    publishedDateTime: 2021-05-11T20:30:00Z
-    webUrl: "https://thenextweb.com/news/ibm-think-2021-kicks-off-with-ai-innovations-and-some-interesting-quantum-news"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fthink-og.jpg&signature=e9c5be7ecec54f08f3a2ec819aa82374"
-        width: 1280
-        height: 640
         isCached: true
   - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
     excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
@@ -89,6 +59,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
+    excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
+    publishedDateTime: 2021-05-12T17:12:00Z
+    webUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
+    ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
     excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
     publishedDateTime: 2021-05-14T09:53:00Z
@@ -105,47 +91,35 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM uses AI to create intricate COVID-19 map"
-    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
-    publishedDateTime: 2021-05-12T21:17:00Z
-    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
+  - title: "IBM builds new AI capabilities, hybrid cloud centre to accelerate digital transformation"
+    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
+    publishedDateTime: 2021-05-12T05:08:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Hybrid cloud and AI mix to change how humans work with software"
+    excerpt: "Microsoft is coupling hybrid cloud with artificial intelligence and has begun articulating how it sees those offerings paying off for customers. It thinks that AI integrated into business and industry will solve issues."
+    publishedDateTime: 2021-05-14T00:05:00Z
+    webUrl: "https://siliconangle.com/2021/05/13/hybrid-cloud-ai-mix-change-humans-work-software-think2021/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Uli-Homann-IBM-Think-2021-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "COVID caused conversational AI to accelerate, says IBM"
-    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
-    publishedDateTime: 2021-05-13T17:33:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-    excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic."
-    publishedDateTime: 2021-05-12T04:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
-        width: 1380
-        height: 722
         isCached: true
   - title: "Highlights From IBM’s Think 2021 Conference"
     excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"

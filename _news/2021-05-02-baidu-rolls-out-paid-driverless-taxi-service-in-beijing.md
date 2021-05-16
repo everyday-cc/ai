@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Baidu Rolls Out Paid Driverless Taxi Service in Beijing"
-excerpt: "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience."
-publishedDateTime: 2021-05-02T13:15:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
-webUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
+title: "Baidu rolls out paid driverless taxi service in Beijing"
+excerpt: "BEIJING — Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ..."
+publishedDateTime: 2021-05-02T14:12:00Z
+originalUrl: "https://www.startribune.com/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/600052723/"
+webUrl: "https://www.startribune.com/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/600052723/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "DhLcKf4qF02SdT8CCVsVHWosZTJhNpuYheymhlRPX4vKPXh08nygvJxl/1JaBBtwMhe9Q6hZFetLMSwUA7rWdGMPlntaZu+2/TX4CwKiBcGExOLY7pIOUrfijJByFEG4KBZ59ZBxenZR/oJBgc+DczCEiNsGdFXTruVDNKp2UWdnYpZhlnV9UVxCQJCtR9cTytkvaDXsGG047udPqvoZeMLLgGWkE38KRsaU7w/5bp7JmV/TWgXR6aspVVBl4Y33roT7wvcKewiy5+lEybYkQP1G4yUMc0GzFyLOl+f+geszFrjJjVJf5YTsdkpowfcOe/oFgNZ7qwwqZkExyIUru+eTD6jV+aXIhHv2P2Y2bXU=;+eqbTkQnO6NSClxEHTPxNw=="
+images:
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1621010638"
+    width: 1680
+    height: 876
+    isCached: true
+
+secured: "biPZ0C8oCjambBWMjwmgyW+RPu5kdTTsI/HpbxzxcMuuPhEu1UdDXcwGT32RaEv4bXdXDAEfq0nDWjxuSkt0HyKfl/lOW8xF0YazBFYxuGYNPETo1v+OAwlhGr60dRuYD3xRIsrTyeW5IRFzs50hO1WkF7w7iy+hQVkhbAXgd/XcNRGcdBzg5PK7ompqrp3S9gjel7s/Tlss2D3VTWc9QUqFfC0/Iw/Dl90xeptmudYsxCYLBrROYBZWGPp2MzuDkuENxIukGjA1tzQrURGRgBQBrPOsLkOuOdPmlw2ten56n5+PTFQ5E9T+DmLAeIdQwPsT+hAHW4Sk1Ze9XxlPUYhmDO/wmks7j08CWXDgO5Q=;zdMJ+8LWF0ySIPeojr7x3Q=="
 ---
 
