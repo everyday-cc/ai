@@ -28,15 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "Verbit Announces Acquisition of VITAC to Become World's Largest AI-Powered Transcription and Captioning Platform"
-    excerpt: "Verbit, the world's largest AI-powered transcription platform, today announced the acquisition of VITAC, the largest provider of captioning products and solutions in North America. This acquisition will position Verbit as the number one player in the professional transcription and captioning market across legal,"
-    publishedDateTime: 2021-05-11T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/verbit-announces-acquisition-of-vitac-to-become-world-s-largest-ai-powered-transcription-and-captioning-platform-1030415804"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "wHfzOb0n897JY/llbGTtrP7OvZWNndjgOMspdsBMlUwN0/ZKEF+5/5+FXLy67pR8E7Muf1I2Tf2xtobxCcBjFwAeFcIeH7+/qpFq3Sn0DTj0x4MpANt0pIX/l9aY6sywpzBZPpnn4o7FC/K5bH8b6BmMZ7LCIuHyfas4hCH368Nv6UPA3J6hNlUEP/wMbKeJFTxfqCJLb7bZHbMRsR/ESyNrVNW2Ca0HFIA5oZRpdDdVgZuQixypTNwax6fAJPBhsDUQihReEtnX+cXFHVcnCFPfIKjGKdFlaFrkQKoNqD4K6VfrMOFI3AHk9C02HKj4A6tKlKxWPd1VjY49fSnYWK5jAsy5gWPph943TzhRyC0=;tg4civcXgv83YaWl+5rsvQ=="
 ---

@@ -2,17 +2,19 @@
 category: news
 title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
 excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-publishedDateTime: 2021-05-13T19:27:00Z
-originalUrl: "https://www.star-telegram.com/news/nation-world/national/article251350568.html"
-webUrl: "https://www.star-telegram.com/news/nation-world/national/article251350568.html"
+publishedDateTime: 2021-05-14T11:04:00Z
+originalUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
+webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
+ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Fort Worth Star-Telegram
-  domain: star-telegram.com
+  name: Tri-City Herald
+  domain: tri-cityherald.com
 
 topics:
   - AI in Autos
@@ -108,6 +110,6 @@ related:
       domain: sacbee.com
     quality: 11
 
-secured: "6biNma6ow9iqJKeJscX3I345N3guaSsW0FPqepBK5RMkIyugyBF1GUNBL5dlT0QOh94jMO0npDpIlITXUX/dnv+uYLaRsm7fRfDlrRFsL3PE45jr4Mad/i1LA86GwMhMhq4UljgVX+KM6sFWVj3fYC+g6218MCz1To1TrVtCeqH1yC7StgD/RE/x8p1WuehbXqfdaRRGMbpRvFoMFx7EJVGZ2fygBcg1K1w1PoR4dQ2N9sWmGNz74vdkm8Z8eQQsI4YLsYVJWe8I1MQjYoM968LtTcDu260Rexp+vC4WZjknozkcw+yilRfty0SwDwxyVCLvxSvH/j2/McIxhrmZjzQ2ynOcNS/5HUH3RMw3HtpHlWiaRMPCiIE/ri3334olvcWIq2l65r4jeRl7OOlS6MGysdbUsXymG398B0R8YO55Abg+8nqFRtl6jYVTm/9nUJV66Mg8msw9DZvN+jJnIIvQ2i+uK1P4rptAlLgUiij7dtOO7iJjrtGmUC6O0xEwK8uV4WQrhrZ4NS+AiH8GBA==;tNPCVw3GLNVqSUxxb7OyTg=="
+secured: "vExFz5uQZXnLlVZKIgaQqIMQnNZxczsQLo1WRwAiDEhnHBSLSv+s6/EttPtF6Dc5s1VdfaxYoPubAUGAUPX/fwQap25YR5hQyw9LyZEIusFmXzrCpfvzOnwzVulHra4AiYLxVNeYHJXkk7dirChiAwKtLX7HePOoFnZA1Jai3RtzDM0uPOsyFXC1k72YV8U74aidK08w3vjYiJfVQKb6jJvPTbpgR4a35rleC40VsJ4hseZD4N3iGhJymUDzJ80jp3LkAAwmHJKCOfme1LDo8327uyKJ8ph+WDLMvPqRwYqasxXRI+JRCYXQh4xtJxU6Sw1mS0MSnkWdOkdViFUBHYQeKKyYZXG/cYKAYwieW4Nbb7ncGHW0IPQpKq1jxpjlSNBCAqEr5HesF8HG0J1PN6UbNwSer7uRFiWIr54Ke+YAvj5exQbZlvB0M8DCTZUntS8Zwzbidu+Mjz7UbbdpfIK6cmCubThvvMLctw1D0dDwbHjB5AU7D5bBeuLYqldGfplz5jqA17LAGnqWgL7hxw==;H6STRwFlZltfVVzh51zFkA=="
 ---
 

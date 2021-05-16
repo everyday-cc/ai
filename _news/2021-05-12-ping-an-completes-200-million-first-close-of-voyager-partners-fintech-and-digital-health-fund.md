@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-
 webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419754"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,31 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "U.S. Fintech Stampli Secures $50 Million Through Series C Investment Round Led By Insight Partners"
-    excerpt: "Stampli, an U.S.-based fintech that is focused on AI-driven AP automation, announced on Wednesday it raised $50 million through its Series C funding round, which was led by Insight Partners with participation from SignalFire and Nextworld Capital."
-    publishedDateTime: 2021-05-12T16:57:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175282-u-s-fintech-stampli-secures-50-million-through-series-c-investment-round-led-by-insight-partners/amp/"
+  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
+    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
+    publishedDateTime: 2021-05-13T23:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19805913.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Stampli_co-Founders_Ofer_Feldman_L_and_Eyal_FeldmanR.jpg"
-        width: 480
-        height: 320
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Fintech Stampli Raises $50 Million To Put Controllers Back in Control of Payables"
-    excerpt: "AI-driven AP Automation innovator Stampli today announced $50 million in Series C funding for their platform, which helps CFOs and controllers close the disconnect between accounts payables and the broader organization."
-    publishedDateTime: 2021-05-12T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210512005048/en/Fintech-Stampli-Raises-50-Million-To-Put-Controllers-Back-in-Control-of-Payables/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
 
 secured: "RAlUtoNpR8CgNyJ68LS8aSWQ6HtgSQADMCn3qAi9M9jway8wWFX5PY2OvgBgrGAwpW7JXlpCaxl+kEV4OzgPDi88n8pbPYyYFk3vuuz7e1HPEqmoSGFRpjs5EbBTQxiOAEECCRmhz9e622znQriSxWDPDFavMJlYkm8t1mYJHUnlFMeVY4IkIlPGY3f4s/UQwz3eQ9loDM/TWh3TTAIqsBKlWGDs1/Om1U9GSUyv5TkZA/L8Nju+lBXgOSG2tw2Mly/UME2zffamobM/gWyxbdQLMqPWUzEZX1YQ3Y2U6uuOqynYYkPH1PcGmx7KTyLR8iaNMji1j7N22WtXVxiMON3fC/dEOdPwOx4ZaQUyPVg=;efzHVUVHW4kviT9ixdhTog=="
 ---

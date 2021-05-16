@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Verbit Announces Acquisition of VITAC to Become World's Largest AI-Powered Transcription and Captioning Platform"
-    excerpt: "Verbit, the world's largest AI-powered transcription platform, today announced the acquisition of VITAC, the largest provider of captioning products and solutions in North America. This acquisition will position Verbit as the number one player in the professional transcription and captioning market across legal,"
-    publishedDateTime: 2021-05-11T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/verbit-announces-acquisition-of-vitac-to-become-world-s-largest-ai-powered-transcription-and-captioning-platform-1030415804"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "HID Global Invests in Paravision, a Leading Provider of Facial Recognition and Computer Vision Technology"
     excerpt: "HID Global, a worldwide leader in trusted identity solutions, has invested in Paravision, a leading provider of advanced facial recognition solutions and recognized for its world-class leadership in accuracy."
     publishedDateTime: 2021-05-11T16:13:00Z

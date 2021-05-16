@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/alphabet-google-double-arti
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-google-double-artificial-intelligence-staff"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: TheStreet.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Plans to Double AI Ethics Research Staff"
-    excerpt: "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI."
-    publishedDateTime: 2021-05-11T15:04:00Z
-    webUrl: "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
-    ampWebUrl: "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-336712/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google plans to double AI ethics team after fallout from staff departures"
     excerpt: "Google plans to double the size of its artificial intelligence ethics team in the next few years, following controversy over Google's treatment of whistleblowers critical of its AI approach, according to a May 11 article by The Wall Street Journal."
     publishedDateTime: 2021-05-12T18:18:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Plans to Double AI Ethics Research Staff"
-    excerpt: "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI."
-    publishedDateTime: 2021-05-11T15:04:00Z
-    webUrl: "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
-    ampWebUrl: "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-336712/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Alphabet's Google Plans to Double AI Ethics Staff"
     excerpt: "Alphabet's Google will double its AI-ethics staff to 200 researchers, Google Vice President of Engineering Marian Croak says."
     publishedDateTime: 2021-05-11T21:59:00Z

@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Specialist platform OMS delivers facial recognition ID verification"
-    excerpt: "One Mortgage System (OMS), the single-input enquiry to completion specialist processing platform, has partnered with Nivo, a secure mobile messaging platform to offer facial recognition ID verification."
-    publishedDateTime: 2021-05-11T14:06:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/specialist-lending/2021/05/11/specialist-platform-oms-delivers-facial-recognition-id-verification/"
-    type: article
-    provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 39
-    images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2019/09/Neal-Jannels-OMS.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
     excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
     publishedDateTime: 2021-05-14T23:04:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-
 webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -96,17 +96,6 @@ related:
         width: 482
         height: 350
         isCached: true
-  - title: "Google-linked DeepMind launches scholarships in South Africa"
-    excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."
-    publishedDateTime: 2021-05-11T13:57:00Z
-    webUrl: "https://mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html"
-    ampWebUrl: "https://mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "DeepMind provides machine learnings scholarships for four Wits Master's students"
     excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
     publishedDateTime: 2021-05-13T07:40:00Z

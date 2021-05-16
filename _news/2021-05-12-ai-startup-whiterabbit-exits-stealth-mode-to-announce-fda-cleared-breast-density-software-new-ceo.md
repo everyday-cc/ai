@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Follow the Whiterabbit: AI developer exits stealth mode with FDA OK for breast cancer screening tool"
-    excerpt: "The company was founded in 2017 with the lofty goal of completely eradicating late-stage breast cancer in the U.S. by 2025."
-    publishedDateTime: 2021-05-11T14:00:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/follow-whiterabbit-ai-developer-exits-stealth-mode-fda-ok-for-breast-cancer-screening-tool"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 22
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1620738988/mammogram2_0.jpg/mammogram2_0.jpg?HZpbjInFiYUYczZ.hP1r.BvWhwpIEUkd"
-        width: 800
-        height: 640
-        isCached: true
-
 secured: "6GAT24U4QzSMvyxNR8zprP69K8MWFVZ6oVzi9ovyjOvHPsGbc4MpBX5Xj/Su3nM1Tm7dIKGdLUHZhuJqTiUkPZLA841dM55nB78+tjYhye14Ja3ZkOzmTItFN2SwquTkSRXmCKj1qS6ekM/Mmj3CNRhlr+AFVjA6m4WpA4xAwnCYbCJl+u3qSAZ3H6EUrSny152BS2n+SpHsY3gi2O0xdx/EufpqS6xwZEdpsAdEWElcJBU3DuFFDTaJxwtyAxMoQze3AZ+Ismx4XoXOY2jntj64HV8RwmkE9E/dxbrkyJUvED5WjKRE9tuF8CEZp1r5LpSQtFmURSFVV74UGKdmpwsg7s05lja9s2gbNrU5ItWNK6UAGKIFrnHZcnkG+TFB4Yi9Zo2uuB6+UyZF/SAG1OUVa0qizmaJdtC3tZ0COCgkuExd3h1m4MYVbh/RSv1UvrhrxvLQjJGeX30R69aZwzLKOiv+sAlAqxAknGByi4zZy4zPcU3nPpJQ70N3G8y+E0u//Sz44HH/x6WIp6lwkg==;wB54pPbGb7JZSK/rUYfOkw=="
 ---
 

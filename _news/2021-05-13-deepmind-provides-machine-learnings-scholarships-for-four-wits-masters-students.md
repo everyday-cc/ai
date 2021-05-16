@@ -100,17 +100,6 @@ related:
         width: 482
         height: 350
         isCached: true
-  - title: "Google-linked DeepMind launches scholarships in South Africa"
-    excerpt: "Google parent company Alphabet has donated scholarship funding for Wits University students to complete machine learning degrees."
-    publishedDateTime: 2021-05-11T13:57:00Z
-    webUrl: "https://mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html"
-    ampWebUrl: "https://mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/396671-google-linked-deepmind-launches-scholarships-in-south-africa.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
 
 secured: "erszgddEhsnWINN14t68eniEPHh9bRn92WkQWEXBZhDYGvXiCxkxx92VGJnAqgXpUy9IC9QkdD9lS3O2dLm+irnIi3d8AplsqNYOUlow5WMSsbJEffu+MICptPO2qu13PGHrzytTxhkB+3JUjhAmdS2q5ZcyCVbe/nT9elTR0YXNau0rAhWsdf6qK4DMY2AmIcsuEPCXpdkOPXy6S0oDXzMgn49hRqx84hRmhA0fdiwTXyTzWBA/lfPMRlEo8YpwCbG+TisvYSiPmo4e0Ykj93YbAYkABRHT8kJvOXLwGHb1RxX/9eXaZSw1ecFILMTwpqd46cLD4b5dT/owBFnn+d0AfQLrqcrBLDUR2WYd4AY=;xhn3sxUmw6x63yoacpz5Zg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partn
 webUrl: "https://analyticsindiamag.com/what-does-darktrace-microsofts-partnership-mean-for-cloud-security/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 2240
     height: 1260
     isCached: true
-
-related:
-  - title: "Hyperscience Joins Microsoft for Startups"
-    excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
-    publishedDateTime: 2021-05-11T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hyperscience-joins-microsoft-startups-/2021/05/11/9366313.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "JjZO3jK15UmR0ElBPrEAVAiAfidPifaYWPoF5f7+H4qdCW7iqtD9PIrABWn7vqu7SWwtcZUeFZiTk8jhkCoJW5KMeAe3xwbBbZHhsJkXybSLrj9bkKflriKRLIZJIRrPeuC0cpKwrUehDocerEDwhqvM1eLBXTk4RADRAam1s9FIvJ3/RpzRE+uunt/GSFdGjr3IuHQ37kEyLq3pBT5ao9mSV8by2N0wro5sIEc4cMbrkzcLkEOWd1WfR+LJ4LJ6W4Gzdgg/GtVDeRUkrRaMDD/0Jta49GIchGCPpymHzBS/lZvP32oXmzrtyCeKvclHOo0KoUjJSFVgiBBkii+bZGP2ePLj9yYsG0YKg0qDSWHQhI0Y3o2KEmz35lZzCiYdQxF5eXkdZM3JM/dI2yzr7X5/VyVFdR2TDArtjH37mfQ1xQ3s6skK2z40kTGD8KXXFFD4oFB+S/7dz0rAYt4Q4qWb01vUXPTl5XYJstcydt7Au/o2h7iCoHINFx2VPAPBhTy/brBV+06fTNVAcmSJ3w==;Onb2v77V+q4BoC+QfTOc4w=="
 ---

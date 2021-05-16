@@ -91,21 +91,23 @@ related:
     quality: 31
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
+    publishedDateTime: 2021-05-14T11:04:00Z
+    webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+    type: article
+    provider:
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 31
+  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
+    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-12T23:05:00Z
     webUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
     type: article
     provider:
       name: Sacramento Bee
       domain: sacbee.com
-    quality: 11
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-13T19:27:00Z
-    webUrl: "https://www.star-telegram.com/news/nation-world/national/article251350568.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
     quality: 11
 
 secured: "gGaSkQpcM9ldYrXMLFXWGMzPNadxsQpgfg7mWl9Bf68Do4BRXnQDaWiULw4YZLEM9EhvgdBOC2q0xvisf1mD2JENd7gJ4cukueMULC6l3Xa54oGTJ1WopHrGcF8R3u/wopswfPAWlOSyzF7Aa/AJxWJ+dD6hihc93hgBSaEJH/1K4DolDU7UdM2sEoCGvwO/AWMAlGuEkc62R07AAv1Wrjz9r638TVN6qTVw7bvgARjlXjmxpwlXOcrch6ThiRNT2SCRgKKA0RrkZmTiJP/5xlWTzU4QeTbeet0TDo/PGDgi6+XVkRjN4r4DgBoH3yeJiZnHq/tZHzp4j0QoM8oFRoBytDSNWKxEOLgnIhO1e6AQ5GTTZUBob+6FnXKQegR5DGWt34LsWb8nGy3RElF0g5r/VnN0G8Q2jytqUFw0mKZhDLRAV8IkfalRwfHzBla/EjF+QmlVhDGIW/6OzdauIxuGPA4+EiWFwEKHupX9YEIAyyz/c2fBh6iXGACBHXVO6iXUV1zQtXB6oHskJliVyg==;fG/Q278C0uTt6iWBqRkXVA=="
