@@ -36,6 +36,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/science technology/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-247305",
+      "originalUrl": "https://www.tribuneindia.com/news/science technology/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-247305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/5/2021_5$largeimg_1256831589.JPG",
+          "width": 625,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
       "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
       "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
@@ -1346,49 +1389,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-why-the-launch-of-apples-self-driving-cars-is-delayed.md",
-      "title": "Why the Launch of Apple’s Self-driving cars is Delayed?",
-      "excerpt": "Since 2014, the launch of Apple’s self-driving cars is delayed for the development of level-5 autonomous driving and third-party partner. It depends on an Artificial Intelligence operating system which has potential till level-3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
-      "originalUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/self-driving-car.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

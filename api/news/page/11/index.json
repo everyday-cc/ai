@@ -2,6 +2,144 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-05-global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026.md",
+      "title": "Global Artificial Intelligence for Healthcare Applications Market Outlook, Industry Analysis and Prospect 2021-2026",
+      "excerpt": "The Artificial Intelligence for Healthcare Applications market report provides a detailed analysis of global market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026-2021-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026-2021-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
+      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
+      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-musicians-including-ratms-tom-morello-urge-spotify-never-to-use-patented-voice-recognition-tech.md",
+      "title": "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech",
+      "excerpt": "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "originalUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "publishedDateTime": "2021-05-05T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-imago-visionai-artificial-intelligent-camera-supports-tensorflow-lite-and-automl-vision-edge.md",
       "title": "Imago VisionAI artificial intelligent camera supports Tensorflow Lite and AutoML Vision Edge",
       "excerpt": "Developers and Tensorflow enthusiasts may be interested in a new smart artificial intelligent camera in the form of the Imago VisionAI. The VisionAI",
@@ -365,6 +503,49 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/science technology/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-247305",
+      "originalUrl": "https://www.tribuneindia.com/news/science technology/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-247305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/5/2021_5$largeimg_1256831589.JPG",
+          "width": 625,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -977,216 +1158,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool.md",
-      "title": "Microsoft open-sources Counterfit, an AI security risk assessment tool",
-      "excerpt": "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/",
-      "publishedDateTime": "2021-05-04T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-campaigners-call-for-spotify-to-disavow-dangerous-speech-recognition-patent.md",
-      "title": "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent",
-      "excerpt": "Campaigners have demanded that Spotify renounces a patent for speech recognition tech that recommends music based on a user's mood, gender, age, or accent.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations",
-      "originalUrl": "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T164205.505.png&signature=c486bf4243cdaf77bc553e68b1d5ab74",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
-      "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
-      "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
-      "publishedDateTime": "2021-05-04T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning.md",
-      "title": "Can AI Help Us Manifest The Life We Want? A Discussion At The Intersection Of Mindset And Machine Learning",
-      "excerpt": "For years, artificial intelligence and machine learning have been utilized in the mental health realm to help us regulate our emotions. In an article titled, “How Technology Can Enhance Behavioral Healthcare Design and Care,” the author effectively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091897fb31aa6cdde244389%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2888%26cropY1%3D114%26cropY2%3D1739",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/amp/",
-      "publishedDateTime": "2021-05-04T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

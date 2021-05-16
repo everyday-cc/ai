@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-16T11:56:00Z
 originalUrl: "https://menafn.com/1102086228/Artificial-Intelligence-enhances-companies-operational-agility"
 webUrl: "https://menafn.com/1102086228/Artificial-Intelligence-enhances-companies-operational-agility"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?884746"

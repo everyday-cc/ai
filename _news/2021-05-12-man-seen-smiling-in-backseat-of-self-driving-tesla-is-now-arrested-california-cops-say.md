@@ -37,6 +37,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
+    excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
+    publishedDateTime: 2021-05-16T14:49:00Z
+    webUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/"
+    ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 72
+    images:
+      - url: "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
     excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
     publishedDateTime: 2021-05-13T10:01:00Z

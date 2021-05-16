@@ -50,15 +50,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Exclusive - Waymo, Cruise Seek Permits to Charge for Self-Driving Car Rides in San Francisco"
-    excerpt: "Alphabet Inc’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed, setting the stage for the biggest tests yet of their technology in a dense urban environment."
-    publishedDateTime: 2021-05-11T22:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-11/exclusive-waymo-cruise-seek-permits-to-charge-for-self-driving-car-rides-in-san-francisco"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 38
   - title: "Waymo, GM's Cruise seek permits to charge for self-driving rides in San Francisco, report says"
     excerpt: "Alphabet Inc.’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed,"
     publishedDateTime: 2021-05-11T23:28:00Z

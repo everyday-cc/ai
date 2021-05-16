@@ -1,29 +1,23 @@
 ---
 category: news
 title: "True Influence® Now Available in AWS Data Exchange"
-excerpt: "True Influence®, the technology leader of data-driven sales and marketing solutions, today announced it is now available in AWS Data"
+excerpt: "True Influence®, the technology leader of data-driven sales and marketing solutions, today announced it is now available in AWS Data Exchange, a service"
 publishedDateTime: 2021-05-13T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/true-influence-now-available-in-aws-data-exchange-301290507.html"
-webUrl: "https://www.prnewswire.com/news-releases/true-influence-now-available-in-aws-data-exchange-301290507.html"
+originalUrl: "https://www.trentonian.com/news/state/true-influence-now-available-in-aws-data-exchange/article_95b4a09b-c0d2-563c-88bd-70c2a3917622.html"
+webUrl: "https://www.trentonian.com/news/state/true-influence-now-available-in-aws-data-exchange/article_95b4a09b-c0d2-563c-88bd-70c2a3917622.html"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Trentonian
+  domain: trentonian.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/823392/True_Influence_Logo.jpg?p=facebook"
-    width: 2404
-    height: 1261
-    isCached: true
-
-secured: "VUHfSfC0+2oCo7Yi9vt1BgnnSRHQVB9QEz04UTyCWHvGRj3NodlpUV3LI8MIYYiQ2wopfejslrfuDrXF95YmhnC/KslmpcCCnrREb0HxeWmJrowSAAn53gjyvRQNMWgJdIw2xTQsGkTeDqcLa/iWh578RsG1W/7YKh2zeOnIUnSpZOqee1NYAibKaomraqecenqzNbA7Fjm9mh3ug+PbdiJix1FZnrzRTrngJXZnzkzvo6QxR9mV1iPCSLMCNVxHUBDy7feF4KP1zcNqWmgseAdZsTevtygSUWzcduAED69ULYw4w0gWz2cb1eDnil9nzl4hPMlb/5BCgXEAW8o+IkmF3wHDGTMM2FvhQJrjHxvBOrne+ulFcIQHCpimjZy9Aw/5nNGlXIk23yl4IUl+I8bteKxKwbJSpihLrCoolcDfMAR18bD5RXEYfl2MqxhfLZz4bGsp35xLW8ZPoDxoQtM696OgAYEMz+XdKM6DfQGzUe2hjC1rqPBY/3VCP0RL7ojm8ozFzTFqJIverHtRBw==;07Z+NDLyfAH+izWdX2VYFQ=="
+secured: "semN/gKzicygNwcV3JQjieKpqBotffHy3YXh8capW/vCH+/gE6ugV7lmOV5dx6sQKpoCkqzKDDQ4w0o2Ti62pnST/biOboUTMdrRTSvsWmGrjqWnVa7H9UZ45vFps7tcedVZHFFOhK7oCEALrlBJLXw8kXFZunniW7LlRIjZQJvCCym5fDFC3PDxpjCeYlZVvBVXN306IyY6iVewM361waDlpMAode/TaX5yhUDgRqR0eUFAQtxgws4NFPd1QQueXNz7WSj1gs/8qu/v5ShmvtDhtzqemtsKH/X+J5Z8TLkKse2WU2bId15hUS0img5dIWqI7i2t334GJgw97JrmQlqwQz7V5z/M2UgNMGCxWgk=;6w4w1L6wZKUqn5sdpFsnjA=="
 ---
 

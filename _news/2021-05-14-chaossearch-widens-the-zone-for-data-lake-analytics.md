@@ -165,20 +165,6 @@ related:
       name: PR-Inside
       domain: pr-inside.com
     quality: 16
-  - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
-    excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
-    publishedDateTime: 2021-05-11T21:41:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraphs-Victor-Lee-Shows-How-to-Create-an-Analytics-Foundation-at-Data-Summit-Connect-2021-146819.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 14
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "krIA+VkHCdZ9scmVKxzFLqHH39Hiiu99JC5zyFJEFaKRGtdcFwq6bYiGPpbPQSUfN8IJy1p24P+k8oFNZT1Op8O1aaYG+TRdfSixfAXjuOUAgzPSAgxPgBTs5xwGIopFsckRH3cyLqQf1ByCUmQace74AhNL5sV3vp3qgqTpze22eAME4cj8BpycUgEFKCQZSeUeQL7NUipM+XBKl+DqaCbcsfGFokEmdU/LJ+e+JhJSHP2Elz8CoAj2SxERhgb6lo2JUyyZdk74lBw/OlL5mKmvxH7Xd9gDg7XzAQmUfTgCCawBSd6PNKnQa6SzzfyU/j5LNC9exxGAQ1Mr7KLy981yN0M5VwsT9wvO2Ylrpmr523bT0PELzA7+jtmcEZ7gJx/yxx/iyfhrd/J4Zk86q3K1Gh4U3KpA3O70ZJ+OpfI9htdqWUrbhz5GOxIGthjZjPp1C32RM6hQZu5c4Q+Uu4ZMQe47yk+la2wDyaC+Pn/D2cbdLP5GzhXb26Rfl4b/iMAvIQ94hkl1zEjIKQ9TJg==;eT9ABHCM/KvDWKa8MsF60Q=="
 ---

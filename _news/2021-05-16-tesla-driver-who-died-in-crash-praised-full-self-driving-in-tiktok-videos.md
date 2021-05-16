@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
-excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
-publishedDateTime: 2021-05-13T10:01:00Z
-originalUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
+excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
+publishedDateTime: 2021-05-16T14:49:00Z
+originalUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/"
+webUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/"
+ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
+cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
 type: article
-quality: 59
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Tom's Guide
-  domain: tomsguide.com
+  name: The Daily Dot
+  domain: dailydot.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
-    width: 480
-    height: 320
+  - url: "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+    width: 2000
+    height: 1000
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
-    excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
-    publishedDateTime: 2021-05-16T14:49:00Z
-    webUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/"
-    ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
+  - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
+    excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
+    publishedDateTime: 2021-05-13T10:01:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 72
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
     images:
-      - url: "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
+      - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
     excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
@@ -143,6 +143,6 @@ related:
       domain: sacbee.com
     quality: 11
 
-secured: "djYxMtL3WLfEJW/ISIME5Y5bHhWYLDWAwlDCTBnsnqzx+BxHaQJXEEIHOMXcjxomEZDOUWEFjujkF0H0iAE9g864owuAPYiV2oR3E5mDpdmIV3Qznc1liPJFnwE08CI1BUddw7ftFkeFa4BbyvQOkET+XCOllMtgIML+6pWVfJ29wOzeD0Ho8EqZO0TtwSf4hWdyvpFKeLTCyZ6naIzc+hMjC/9pdMk5KnulsqCrEm7gpIbo7SAUOvv55/EFlKswSJrdpNfxhLj7Lqlr0l5Dx7Efo+MHeRwmR19BH9/CFnLo2uMdeGrmsspONGWf7d5J4VR9f9bWF15IRI0PasUp854Zgrh7SadJkp5ShTfLKHaUHWgAkYfnD3Sb3phO8c23awctPnQWa7HO/T2YcgDluYFygXors7MZeck21Xk7y3o7XAw8BQTxJmG4N8q+wT6A3iSD2Yo4YHKD2FsIL/hB7/biCisGdkupdiIoEeNh6djY2243HSsRCvIwBlHxgjBcUA+wo52GC4Hktx+NVslaug==;bjn0aNhfDrHx4836/QBNXw=="
+secured: "uW5MrAsOAaapo6bhD8d5J4P3+Olf4RwLgMiKSC0oXYTjxVVxnEQwT801a8onStMShKm6PxwonUdwwUvaz68c+64k+7fGYxA7YkVcv4bfyCcNPk5HBSo8aIVaD/v+ff4Wq7KfATWuNnDiRRmJW47BTKVpHAG1UgKSwfRyqnhWXTndPXcKQy09fJQlrmd93wm52e+SfCng3xM2XskR1k3oWN4v2Q1DgA9AUorV8X1n6fg+37Xm1nSc+v1OGOh6rrpUykL8OR6TnZAyNbUtj0NFo9ILsZVdxtVd+GRRquhhyMWSbJ/8H9Xu9jHiDP6n//dO19o61xcDfgwT7fPBkp3nRF8XDB/LiriDkMttz8izqtI=;ceGwGqWAmcTs37Pw5L32/A=="
 ---
 

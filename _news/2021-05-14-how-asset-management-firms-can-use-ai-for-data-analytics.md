@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -169,20 +169,6 @@ related:
       name: PR-Inside
       domain: pr-inside.com
     quality: 16
-  - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
-    excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
-    publishedDateTime: 2021-05-11T21:41:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraphs-Victor-Lee-Shows-How-to-Create-an-Analytics-Foundation-at-Data-Summit-Connect-2021-146819.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 14
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6ag0cSwh6uWeh6Pqk0BHYHsIYBvSI5lIh0LtVog9EZvL8gk9+TQxUVzMwT9O7tsXLRk3XYfLM1JX9Qz2a2+l4XeScgdA05RxrBu+5gNxJSSuHbITJmJHFnWa6acboZl+YOFwcLmbGp2z3c84Ygv7Z4CwrXdNycD2hxRY+JxUaqz13d4Rd6Pl9/ynb64RnTs6U9R9otB1t3SHiVIJeOPsxl5YEnXuoKNo/xT2Y/RARohrSWospkMQWh1w1rNykKHfm9QAG25TDXbz6GM2LB/yb5qNG9DU2PxHOJFIgeUy2ynA9DDmEXlRIV9HDnu7CT3E62QoK7hNO0OyRbo+GtDuOxYv0daxHl396sZDmPoIK8qVXVvYQBnNlq8O76IJ0UdsU5T0zsNCgs4dDAZ4/jGEE0Q5iJ9mST0R3+WsJMmeuepWzNrY/5PAQVyZkSjD37lpx+8N1a/rKkhzi5icgQue24l5H3CSUmXfFM+ahy1lLDPQlkrH1iIixkznXg7SSxW6TKWZHBpNFXCLMqc94OAWHA==;0Oz80LQTErnqWUu5IuwOQQ=="
 ---

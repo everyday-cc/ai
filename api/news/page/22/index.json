@@ -2,6 +2,214 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-27-toyota-acquires-lyft-self-driving-division-for-550-million.md",
+      "title": "Toyota acquires Lyft self-driving division for $550 million",
+      "excerpt": "Toyota subsidiary Woven Planet announced that it would acquire Lyft's Level 5 self-driving R&D division for $550 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
+      "originalUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/s1.reutersmedia.net_.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/amp/",
+      "publishedDateTime": "2021-04-26T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus.md",
+      "title": "Apple will focus on machine learning, AI jobs in new NC campus",
+      "excerpt": "Apple's new campus and engineering hub in North Carolina will focus on machine learning, artificial intelligence, and software engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
+      "originalUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
+      "publishedDateTime": "2021-04-26T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first.md",
+      "title": "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?",
+      "excerpt": "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
+      "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
+      "publishedDateTime": "2021-04-26T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions.md",
+      "title": "AWS Augmented Artificial Intelligence adds human review to machine learning predictions",
+      "excerpt": "Amazon’s Augmented Artificial Intelligence ... for common machine learning to improve the symbiotic work with Amazon Rekognition and Amazon Textract, the company stated. Additionally, users ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
+      "originalUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Product-Page-Diagram_A2I@2x.2fe2e8e5eed05fa5045835c3f3f04e23a9245e9c.png",
+          "width": 2208,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
       "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
       "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
@@ -986,215 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-how-ai-trends-could-transform-the-healthcare-industry.md",
-      "title": "How AI Trends Could Transform The Healthcare Industry",
-      "excerpt": "Beyond its applicability in our current public health crisis, AI has several longer-lead implications for how we'll experience healthcare moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60832c1b062aef4c0ac65530%2F0x0.jpg",
-          "width": 1183,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
-      "publishedDateTime": "2021-04-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-lyft-sells-self-driving-project-cutting-a-big-expense.md",
-      "title": "Lyft Sells Self-Driving Project, Cutting a Big Expense",
-      "excerpt": "And although Waymo, the autonomous vehicle unit owned ... Many of those jobs will be in high-tech fields like machine learning and artificial intelligence. The overall spending includes its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/04/26/business/stock-market-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/04/26/business/stock-market-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/26/business/26economy-briefing-lyft/merlin_186085203_7ce62366-00a3-45db-a420-ab5cc35b5953-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/04/26/business/stock-market-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/26/business/stock-market-today.amp.html",
-      "publishedDateTime": "2021-04-26T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-nhs-adopts-predictive-ai-tech-from-controversial-startup.md",
-      "title": "NHS adopts predictive AI tech from controversial startup",
-      "excerpt": "The technology warns hospitals about a potential spike in patient numbers so they can allocate the right resources when needed",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816586/itpro/2019/05/nhs_shutterstock_642071587.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
-      "publishedDateTime": "2021-04-26T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud.md",
-      "title": "ThetaRay launches anti-money laundering AI and analytics for the cloud",
-      "excerpt": "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
-      "publishedDateTime": "2021-04-26T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

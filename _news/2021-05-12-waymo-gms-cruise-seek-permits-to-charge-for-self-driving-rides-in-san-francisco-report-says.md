@@ -64,15 +64,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Exclusive - Waymo, Cruise Seek Permits to Charge for Self-Driving Car Rides in San Francisco"
-    excerpt: "Alphabet Inc’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed, setting the stage for the biggest tests yet of their technology in a dense urban environment."
-    publishedDateTime: 2021-05-11T22:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-11/exclusive-waymo-cruise-seek-permits-to-charge-for-self-driving-car-rides-in-san-francisco"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 38
 
 secured: "NK1t1EKtgDpNq6nU1Ncgd4z+QptqKJazjvlXTlsE1NAjDjJ0cfH3oeNfsTuFueMtCOQQp9tTlEBvJailJCt7NCE8YYvQSRsPL7SdWFwDjb7WM8/a+53i5D1TbTAxV5wN4X1nqlW2+RNDsgt5B24YHIWVBKD+n7PyD0KM/Uy3SjmUFS1T03MKDfs8XnV05Khz5EeCArNe7knGBtg1gf1Pq+B7Y/r36RgUBr8guA1D6txd3p/UsAaZPmUww0ab8buA6b/4xG7fIwrZSDaaG3/FLTznr0fquI0EokhbqQ343KN1MEOWrN06uazXS/yoO5SB/X61L9DNMfWnd4N/gygYuqPFDy/1NqbxGd7qx1BlNqRYWhz0Ogw2vBvsjXxYSzgIXI3dKvRnzaybvuRQJacAYLzj9O0eb10BTxa2nOfM09KAIfGg9I7gCOi2NeVJ6K7YRGUXIuhua0O+u46v43lfYFGRRhBGb74pzXRbDFm+iVplU22c0MCdgB+dkQoFTb3y8WKmWCGlqoDl2gaBgBZOcg==;MNmJCn0M5zhGEhy0Q01sag=="
 ---

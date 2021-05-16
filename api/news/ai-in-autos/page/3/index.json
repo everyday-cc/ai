@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-why-the-launch-of-apples-self-driving-cars-is-delayed.md",
+      "title": "Why the Launch of Apple’s Self-driving cars is Delayed?",
+      "excerpt": "Since 2014, the launch of Apple’s self-driving cars is delayed for the development of level-5 autonomous driving and third-party partner. It depends on an Artificial Intelligence operating system which has potential till level-3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "originalUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/self-driving-car.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker.md",
       "title": "Self-Driving Truck Startup Plus to Develop Natural Gas-Powered Vehicle With U.S. Engine-Maker",
       "excerpt": "Self-driving truck startup Plus has announced a partnership with U.S.-based engine-maker Cummins to develop an autonomous truck powered by natural gas, reflecting the company’s green transportation ambitions.",
@@ -1360,50 +1403,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-deepracer-web-server-package.md",
-      "title": "DeepRacer Web Server Package",
-      "excerpt": "The DeepRacer Web Server ROS package creates the web_publisher_node which launches a Flask application as a background thread and creates service clients and subscribers for all the services and",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/a4aaeee8bb166429ad04631f571ebc391ef502f6b17f1824364e2ae380e5ca82/aws-deepracer/aws-deepracer-webserver-pkg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

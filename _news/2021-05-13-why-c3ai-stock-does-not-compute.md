@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-stock-do
 webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-stock-does-not-compute-1030422978"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -29,38 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "4 Artificial Intelligence Stocks To Watch Right Now"
-    excerpt: "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?"
-    publishedDateTime: 2021-05-14T14:24:00Z
-    webUrl: "https://www.entrepreneur.com/article/371987"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
+  - title: "3 Artificial Intelligence Stocks Leading the New Wave"
+    excerpt: "Artificial Intelligence, AI, may just be the next big idea. It’s not quite new – computer scientists and programmers have been working on ‘intelligent machines’ since the 1950s, at least – but the tech is finally maturing,"
+    publishedDateTime: 2021-05-13T00:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-new-wave-2021-05-12"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "When AI meets BI: 5 red flags to watch for"
-    excerpt: "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult."
-    publishedDateTime: 2021-05-14T18:42:00Z
-    webUrl: "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/"
-    ampWebUrl: "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "BBzOfRIuBfWmnW8SjBMYAyvDsbeu4m+PMF3oTKjhRSjlSpvHcbCooSYENEVJETBV4uZYbiu6XoKO4N193MvdIHHiZQ6pXgat0P5Mm+BUXCm85IwiaDaMFb2XNwRfARoRI+ycwll17erYfXPbA5vg7xnHaqtVzA4bHjPvqIw+bKPu+q2EVq1Abp7G1nOgIALZhvSM579JQcN01SY6To1jbjdp11p/wzn1cP5bcJRdEmw1eDRVS48UQILZPqwY6kFa9zdHDkLYE7R5CqlWqYoecMO7iB8yd9vm4h0SY1myhGzvMtRdAwCAaMVnMDY5D7x3PQtWB0cS+Dtb6xxAYX3ICSUFzjJeYAOaU4R4zxaQANk=;UcdaLIpinvxU9pyiXul5nw=="
 ---

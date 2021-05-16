@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-02-april-fools-day-president-fuchs-announces-artificial-intelligence-will-replace-faculty-across-campus.md",
+      "title": "April Fools' Day: President Fuchs announces artificial intelligence will replace faculty across campus",
+      "excerpt": "“One of the core themes for this academic hub and artificial intelligence revolves around the concept of trustworthy AI,” Tighe said. AI will not replace certain human medical functions like physical therapy, nursing care and pharmacy care anytime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alligator.org/article/2021/04/april-fools-ai",
+      "originalUrl": "https://www.alligator.org/article/2021/04/april-fools-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://snworksceo.imgix.net/ufa/abca8e56-c56d-4f2e-894c-7f02ea9b9586.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent Florida Alligator",
+        "domain": "alligator.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens.md",
+      "title": "Artificial Intelligence in Medical Market Next Big Thing | Major Giants- NVIDIA, Intel, IBM, GE Healthcare, Siemens",
+      "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers & Medtronic. Click to get Global Artificial Intelligence (AI) in Medical Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/",
+      "originalUrl": "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://industribune.net/wp-content/uploads/2021/04/Artificial-Intelligence-in-Medical-Market.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indus Tribune",
+        "domain": "industribune.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
       "title": "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
       "excerpt": "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California.",
@@ -1119,83 +1206,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-using-artificial-intelligence-to-improve-healthcare-for-all.md",
-      "title": "Using Artificial Intelligence to Improve Healthcare for All",
-      "excerpt": "Parkinson’s disease, which afflicts one million Americans, causes both unwanted movements, such as hand tremors, as well as difficulty in initiating",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
-      "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability.md",
-      "title": "Study of 25 stroke patients shows BrainQ’s wave therapy can reduce disability",
-      "excerpt": "Hat-like device developed by startup aims to treat damaged areas with 'artificial brainwaves' that mimic healthy neural networks to rebalance the brain",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "originalUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/03/Unknown-e1615722753560-640x400.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "publishedDateTime": "2021-03-15T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,151 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-08-billcom-to-buy-expense-software-provider-divvy-for-25-billion.md",
+      "title": "Bill.com To Buy Expense Software Provider Divvy For $2.5 Billion",
+      "excerpt": "Bill.com, which provides back-office software, has struck a deal to buy Utah-based Divvy in a stock-and-cash transaction valued at about $2.5 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/bill-com-to-buy-divvy-for-2-5-billion.html",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/bill-com-to-buy-expense-software-provider-divvy-for-2-5-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2017/10/bill-400x293.png",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-build-an-intelligent-search-solution-with-automated-content-enrichment.md",
+      "title": "Build an intelligent search solution with automated content enrichment",
+      "excerpt": "Unstructured data belonging to the enterprise continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/2-Architecture2613.jpg",
+          "width": 800,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T11:36:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair.md",
+      "title": "AI Lending Discrimination Needs To Be Tackled With Legislation Says House Financial Services Chair",
+      "excerpt": "We cannot wait for (federal financial regulatory agencies) to do better. We have to force better,” she told a Financial Services AI Task Force hearing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
+      "originalUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60958549f4ace557ee2a1fc5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/",
+      "publishedDateTime": "2021-05-07T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture.md",
       "title": "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture",
       "excerpt": "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?",
@@ -1060,153 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-advancing-sports-analytics-through-ai-research.md",
-      "title": "Advancing sports analytics through AI research",
-      "excerpt": "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-      "originalUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
-      "title": "Proper data hygiene critical as enterprises focus on AI governance",
-      "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
-      "originalUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
-      "publishedDateTime": "2021-05-06T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-chinas-first-robotaxi-service-launches-in-beijing-ahead-of-the-olympics.md",
-      "title": "China’s First Robotaxi Service Launches in Beijing ahead of the Olympics",
-      "excerpt": "Baidu launches Apollo Go robotaxis in Beijing ... for 2024 This Is What Amazon's Robo-Taxi Could Look Like BMW Takes Self-Driving to the Next Level Here's Why Our Self-Driving Future Hasn't ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/technology/a36354137/beijing-olympics-robotaxi-china/",
-      "originalUrl": "https://www.autoweek.com/news/technology/a36354137/beijing-olympics-robotaxi-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/baidu-1620317811.jpg?crop=1.00xw:0.893xh;0,0.0667xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoweek.com/news/technology/amp36354137/beijing-olympics-robotaxi-china/",
-      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp36354137/beijing-olympics-robotaxi-china/",
-      "publishedDateTime": "2021-05-06T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

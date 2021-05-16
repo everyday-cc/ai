@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
+      "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
+      "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
+      "publishedDateTime": "2021-05-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
+      "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
+      "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg",
+          "width": 2560,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "publishedDateTime": "2021-05-05T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-woolaroo-a-new-tool-for-exploring-indigenous-languages.md",
+      "title": "Woolaroo: a new tool for exploring indigenous languages",
+      "excerpt": "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/woolaroo_yugambeh.max-1300x1300.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
+      "publishedDateTime": "2021-05-05T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu.md",
       "title": "Carnegie Mellon researchers trained AI to simulate our universe on a GPU",
       "excerpt": "Simulating the universe is difficult. There are, after all, potentially infinite variables to consider. Scientists typically use supercomputers to crunch data at the cosmological level, but a team of",
@@ -396,7 +552,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1051,144 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026.md",
-      "title": "Global Artificial Intelligence for Healthcare Applications Market Outlook, Industry Analysis and Prospect 2021-2026",
-      "excerpt": "The Artificial Intelligence for Healthcare Applications market report provides a detailed analysis of global market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026-2021-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026-2021-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
-      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
-      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-musicians-including-ratms-tom-morello-urge-spotify-never-to-use-patented-voice-recognition-tech.md",
-      "title": "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech",
-      "excerpt": "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "originalUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "publishedDateTime": "2021-05-05T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
