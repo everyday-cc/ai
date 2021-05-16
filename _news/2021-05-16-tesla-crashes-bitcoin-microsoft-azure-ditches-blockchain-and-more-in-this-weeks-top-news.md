@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-b
 webUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/"
 type: article
 quality: 76
-heat: 78
+heat: 79
 published: true
 
 provider:

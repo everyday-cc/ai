@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-wealthfront-releases-a-new-self-driving-money-feature-to-make-saving-easier.md",
+      "title": "Wealthfront releases a new 'Self-Driving Money' feature to make saving easier",
+      "excerpt": "Wealthfront's new Self-Driving Money feature lets customers take a hands-off approach to saving, and it could potentially be more effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
+      "originalUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106875922-1619707567064-gettyimages-951355782-kk0047-1143-2.jpeg?v=1619708028",
+          "width": 6720,
+          "height": 4480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
+      "publishedDateTime": "2021-04-29T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-why-the-launch-of-apples-self-driving-cars-is-delayed.md",
       "title": "Why the Launch of Apple’s Self-driving cars is Delayed?",
       "excerpt": "Since 2014, the launch of Apple’s self-driving cars is delayed for the development of level-5 autonomous driving and third-party partner. It depends on an Artificial Intelligence operating system which has potential till level-3.",
@@ -1360,49 +1412,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention.md",
-      "title": "Tesla drivers with 'full self-driving' warned of risks and need to pay attention",
-      "excerpt": "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
-      "originalUrl": "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

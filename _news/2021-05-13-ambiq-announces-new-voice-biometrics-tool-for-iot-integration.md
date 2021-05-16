@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/ambiq-announces-new-voice-b
 webUrl: "https://www.biometricupdate.com/202105/ambiq-announces-new-voice-biometrics-tool-for-iot-integration"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft looks to bring Nuance biometrics to healthcare in Philippines"
-    excerpt: "A top official from Microsoft says the tech giant is considering bringing its conversational artificial intelligence (AI) technology to the Philippines."
-    publishedDateTime: 2021-05-11T23:39:00Z
-    webUrl: "https://www.biometricupdate.com/202105/microsoft-looks-to-bring-nuance-biometrics-to-healthcare-in-philippines"
+  - title: "Apple 2021 Product Survey shows users want Face ID biometrics on future Macs"
+    excerpt: "A new survey reveals soaring rates of Apple user satisfaction and brand loyalty, together with a desire of a Face ID biometric login option on future Macs."
+    publishedDateTime: 2021-05-14T20:27:00Z
+    webUrl: "https://www.biometricupdate.com/202105/apple-2021-product-survey-shows-users-want-face-id-biometrics-on-future-macs"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 56
+    quality: 21
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
+        width: 721
+        height: 420
         isCached: true
   - title: "GBT Technologies developing long-range, real-time biometrics and object detection"
     excerpt: "Calibre is intended to enable the real-time collection and analysis of data for object recognition and biometric identification."

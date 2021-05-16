@@ -77,6 +77,20 @@ related:
         width: 1428
         height: 644
         isCached: true
+  - title: "Anthem modernizes IT infrastructure and invests in AI through Project Cirrus"
+    excerpt: "Health insurance provider Anthem Inc. signed an agreement with IBM in March 2020 to further modernize its IT infrastructure and infuse more AI into core processes through “Project Cirrus,” an expansion of the multi-decade partnership between the companies."
+    publishedDateTime: 2021-05-16T17:39:00Z
+    webUrl: "https://siliconangle.com/2021/05/16/anthem-modernizes-infrastructure-invests-ai-project-cirrus-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Rick-Smith-IBM-Think-20216480.jpg"
+        width: 666
+        height: 375
+        isCached: true
 
 secured: "jSy2GRuRN4kUato3vL/JflFuke1vxkYvgpHBZoN2te1Wv1T4X7GMYGP+F+g7suX/rOzT+zL2/7gII1a+gZBpG6JlH3HHXzWp3GeGm/lrcN/C3ZQtvzXqnMmxWjbwOhr8bUEM1S6RXseUTcCCr/8XTjRPZKJxmXKiqVmEnj5lYNttcmLa2mLQ/Bi2/i6vfWu4QIjTIdVaieSAZy3INLzh1nbCoDechZL0rAcLknDRTiuj4TJE1V+vT8DlKg7kq5fYA5dDRzQLTkh5zGJ62bAkIuXyI1SuEHtsfEmQtscB4H5iUqbY7i8zYNXmP7ExnBtT/7Nt8Hq6bICzGW6zzuSY34/rx6UMyxk0QwmwGukLMCs=;5NoBE1BWvQecSUETykyD+g=="
 ---

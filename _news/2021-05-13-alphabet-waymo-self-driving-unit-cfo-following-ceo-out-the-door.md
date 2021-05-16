@@ -53,20 +53,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Waymo, GM's Cruise seek permits to charge for self-driving rides in San Francisco, report says"
-    excerpt: "Alphabet Inc.’s Waymo and rival Cruise have applied for permits needed to start charging for rides and delivery using autonomous vehicles in San Francisco, state documents reviewed by Reuters showed,"
-    publishedDateTime: 2021-05-11T23:28:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-gms-cruise-seek-permits-charge-self-driving-rides-san-francisco-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 27
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/WAYMO-01_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "LJp64m+miIqXUNvhqh7ycSWee/PWOVN+tBE7DDd3QTMuLFg043M2it+6uHZBM4wYPaAqmg46qzljHp6IxjPQ33Q3Tum7g1WCIwbZQG0R6DYTlbJxAh1/agJcT7hweEat6qoFPbv+riBjHv/h9XKAYGThLfV8o0jy7vkAL9UIW+y7ty4UWv1MIg1Rekn/uaHRGJHUWtcr5C0BHzg6AemEVFqo8/3twM5bDGnvLO7FiIgF7mKCGwA8sNIH2Ua0zu8vdhcwg8sjlkQ981GkBvXCjMcVYM1W/m0go7bHnbwzO5xfRQgUJfsTKQgcG+0A99VX5QZQ7+vEPe8h0iw1oTvY4szS5TB7Bngo5PqSDnj1gR0Ior6oAQryyn/TBdWcAfpA2r9ED6kyRiwqxFL+700DvRdbD//IplnL43cTMsBZVHwE0zUAkesmRRsBFdc7YHrdi6jcBkaSAh4cjv3x5yKuF695AHdgEQHHf8Bx6sxc9fwLSvH8S1VXaRyk+SPgPXKS9VG5tbR9dZwWMjCmENQTCQ==;WLcCgnXNx0DQ/7datFR0fA=="
 ---

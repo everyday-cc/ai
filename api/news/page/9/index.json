@@ -2,45 +2,27 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-05-06-artificial-intelligence-and-the-future-of-humans.md",
-      "title": "Artificial Intelligence And The Future Of Humans",
-      "excerpt": "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century.",
+      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
+      "excerpt": "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T05:30:00-07:00",
+      "publishedDateTime": "2021-05-06T05:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -440,40 +422,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-vectra-cognito-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Vectra Cognito now available in the Microsoft Azure Marketplace",
-      "excerpt": "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1139,6 +1087,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
+      "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
+      "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
+      "publishedDateTime": "2021-05-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

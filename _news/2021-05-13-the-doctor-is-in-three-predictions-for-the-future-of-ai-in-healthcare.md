@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/1
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://images.adsttc.com/media/images/609b/9796/c890/d701/642e/272b/large_jpg/ai-buildings-2-larger-1428x644.jpg?1620809626"
         width: 1428
         height: 644
+        isCached: true
+  - title: "Anthem modernizes IT infrastructure and invests in AI through Project Cirrus"
+    excerpt: "Health insurance provider Anthem Inc. signed an agreement with IBM in March 2020 to further modernize its IT infrastructure and infuse more AI into core processes through “Project Cirrus,” an expansion of the multi-decade partnership between the companies."
+    publishedDateTime: 2021-05-16T17:39:00Z
+    webUrl: "https://siliconangle.com/2021/05/16/anthem-modernizes-infrastructure-invests-ai-project-cirrus-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Rick-Smith-IBM-Think-20216480.jpg"
+        width: 666
+        height: 375
         isCached: true
   - title: "AI and the Lab of the Future"
     excerpt: "The laboratory of the future does not look at all like what we think of today—a fluorescent-lit room bound by four walls and a fume hood. The laboratory of the future will be a network of physical and virtual spaces,"
