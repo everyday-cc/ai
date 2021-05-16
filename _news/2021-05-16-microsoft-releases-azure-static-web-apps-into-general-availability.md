@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Best Microsoft Azure certifications for a career in cloud computing"
-excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
-publishedDateTime: 2021-05-14T21:57:00Z
-originalUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
-webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
+title: "Microsoft Releases Azure Static Web Apps Into General Availability"
+excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
+publishedDateTime: 2021-05-15T20:09:00Z
+originalUrl: "https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/"
+webUrl: "https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/"
 type: article
-quality: 54
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: theexeterdaily.co.uk
-  domain: theexeterdaily.co.uk
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
-    width: 688
-    height: 400
+  - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -73,19 +73,19 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Microsoft Releases Azure Static Web Apps Into General Availability"
-    excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
-    publishedDateTime: 2021-05-15T20:09:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/"
+  - title: "Best Microsoft Azure certifications for a career in cloud computing"
+    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
+    publishedDateTime: 2021-05-14T21:57:00Z
+    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 69
+      name: theexeterdaily.co.uk
+      domain: theexeterdaily.co.uk
+    quality: 54
     images:
-      - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
+        width: 688
+        height: 400
         isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
@@ -102,6 +102,6 @@ related:
         height: 420
         isCached: true
 
-secured: "eI7VjBqwF0SUOXSNU5XvfzG4+KxuGb7nUXRubO1ooAM6wnLmu8gY7Cl+b85U4+eGOfTEwgV2fKe91sGiXxyhZsteUiyvWT5E/0VFjFwWlXIR/rHhmWvhJkMOtGkKPs7zovxwOGp9VrjQ0z6rsFJ7pICm9qsPS6U9c/vM9QKmIBF2rWVopMh74MACrF/y01rlICqaGU6K4zQt6fOLPbNdOgC5t7oXXiz2dZS1Go9VkhbRqjOV96nqnYQ/OB9qi9rHJwwjIC9t6jv8e1JkGFFa52+9AeBONhYgLoQIiTA8fd2yXbbmr3o3W9Ycn4rMMh19KGEr99zSWM0OazJSqchm4oaqFrWExkOMh5z/aXA4yW4=;oDbFOEszWXJhFi7gbO46bw=="
+secured: "uzmAFezqDg1ejcBY8YLThJ1N9RpqTpOM83zIxEn3AKKxSIdkJwzWmgdBonyZdXPY4c43nMkBjAUtSCI63G/iHBUPuCiZiiEpr7Z0d5fvUTnkuzgVdLqzXCfnBl5SC25Fl1f3+nzrm/raLOmOY14n3MM/qKfAK1rsI4zfRqsN/PsiXQ46CXNTCZ2vFzSkdI6UkFJd1+nn6WuVbz7lam0RIXM8js3tma7sN62ERxNcmBycqF1xw1Bj6GW4HmFAen2pFQXPO58M5bOZ6JKrqJNYwn6TsVIPeY9mi/Jk+1Zmesgfy3OIAkUP3eW1PSM6s7QvpW/1lQUT1H48DXvUje1k/diac6HHj6EBQWFW7xbFYuA=;ceyGrjBjFK8mkVnTdKHkMg=="
 ---
 

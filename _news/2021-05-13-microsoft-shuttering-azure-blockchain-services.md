@@ -59,6 +59,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Microsoft Releases Azure Static Web Apps Into General Availability"
+    excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
+    publishedDateTime: 2021-05-15T20:09:00Z
+    webUrl: "https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 69
+    images:
+      - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Best Microsoft Azure certifications for a career in cloud computing"
     excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
     publishedDateTime: 2021-05-14T21:57:00Z
@@ -87,15 +101,6 @@ related:
         width: 1200
         height: 420
         isCached: true
-  - title: "Deep Learning Software Market is Growing Worlwide, Analysis by Keyplayers | Microsoft, TRINT, Google, Amazon Web Services, Nuance Communications, IBM"
-    excerpt: "\"The Final report will add to the analysis of the impact of COVID-19 in this industry The main purpose of this Deep Learning Software Market 2021 report is to help the user understand the market in terms of its definition,"
-    publishedDateTime: 2021-05-12T03:42:00Z
-    webUrl: "https://ksusentinel.com/2021/05/12/deep-learning-software-market-is-growing-worlwide-analysis-by-keyplayers-microsoft-trint-google-amazon-web-services-nuance-communications-ibm/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 14
 
 secured: "3VZKnEJZQajcvKgGWfrfAAd+52g1TuGMlw4hctywT0+Kwxb+JnEGGGPXgaHZ8JIpo6PApIW9T8g52hJuXaAr8gsYn6gsitxi+Jcn2Uvk+tELBX3UqKLsCS+69OZp2OJ+1DSdfDx8VInI8IBWSvs+QEupNuNRl1cqGzduCUpNzlx82IBph7/otkLUDj/RO3Ga12/Z2kzfMR/MMbsyiwEfOGw3+Wh9Wjr+Y6H3Zck5YZfoE4hao5Z0yP/kUV+NSGd/KKtDLGcInWQLP/Uzox64qfnaSPZ2PQCiP6HGqPVinzoX8zpGct6Je3OX8lP/sF2oJziCfRTchozLQDx6Odh84OBgwX7o/D+zLSyHP/6tDqgC3Awa+iOzycArfiVvlmJbjxEXhTWHEiX39Atg0x+ysCSV/PRdR/fFArLsCgDDmuVSEgq6wDHLS+swR+PVo9+4tJ+InMKjkjfPkDN4ytx6iJdGOLpdYSJ/NGQv8NSs8vfy8qu5Qh+ApCwSZjkQH82J1qvndGteAb20o5NK1fyimw==;z/xXH/x+X1Mzc/YGID2SVg=="
 ---

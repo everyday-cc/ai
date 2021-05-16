@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-12-aws-launches-next-phase-of-covid-19-diagnostic-tools-with-20m-expanded-scope.md",
+      "title": "AWS launches next phase of COVID-19 diagnostic tools with $20M, expanded scope",
+      "excerpt": "wearables and data analytics tools that use artificial intelligence and machine learning to detect the virus. Starting today, AWS is expanding the scope into three new areas: early disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/",
+      "originalUrl": "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/analysis-2030265_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-nvidia-and-global-computer-makers-launch-industry-standard-enterprise-server-platforms-for-ai.md",
       "title": "NVIDIA and Global Computer Makers Launch Industry-Standard Enterprise Server Platforms for AI",
       "excerpt": "NVIDIA today introduced a new class of NVIDIA-Certified Systems ™, bringing AI within reach for organizations that run their applications on industry-standard enterprise data center infrastructure. These include high-volume enterprise servers from top manufacturers,",
@@ -1017,49 +1060,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-latest-release-of-the-indico-ipa-platform-delivers-unmatched-scalability-performance-for.md",
-      "title": "Latest Release of the Indico IPA Platform Delivers Unmatched Scalability & Performance for ...",
-      "excerpt": "Indico, a provider of intelligent process automation for the intake, understanding, and automation of document-based workflows, today announced significant enhancements to its award-winning Indico IPA software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

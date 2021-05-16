@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Eliminating bias from healthcare AI critical to improve health equity"
-    excerpt: "Artificial intelligence (AI)-driven healthcare has potential to transform medical decision-making and treatment, but AI algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients."
-    publishedDateTime: 2021-05-12T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/ri-ebf051121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/264682_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
     excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
     publishedDateTime: 2021-05-12T08:03:00Z

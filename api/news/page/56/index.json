@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-03-20-40-women-leading-the-way-in-ai-innovation.md",
+      "title": "40 women leading the way in AI innovation",
+      "excerpt": "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "originalUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-solving-barren-plateaus-is-the-key-to-quantum-machine-learning.md",
       "title": "Solving 'barren plateaus' is the key to quantum machine learning",
       "excerpt": "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now.",
@@ -877,40 +920,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech.md",
-      "title": "AWS, Oxford University Explore Human-Machine Collaboration With AI, Cloud Tech",
-      "excerpt": "Amazon Web Services (AWS) and the University of Oxford in England have partnered to test proofs of concept for human-machine interaction in education and other research areas using artificial intelligence tools and cloud computing platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/",
-      "originalUrl": "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Eliminating bias from healthcare AI critical to improve health equity"
-    excerpt: "Artificial intelligence (AI)-driven healthcare has potential to transform medical decision-making and treatment, but AI algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients."
-    publishedDateTime: 2021-05-12T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/ri-ebf051121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/264682_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
     publishedDateTime: 2021-05-13T10:26:00Z

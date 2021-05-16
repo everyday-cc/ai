@@ -41,22 +41,6 @@ related:
         width: 666
         height: 375
         isCached: true
-  - title: "Fintech Aspire Reports Reaching $1 Billion in Yearly Transactions Just a Year After Launch"
-    excerpt: "Y-Combinator backed Fintech firm Aspire reports reaching $1 billion in yearly transactions just a year after launch."
-    publishedDateTime: 2021-05-12T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-600x450.jpeg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Global Payments to Participate in Barclays Emerging Payments and Fintech Forum"
     excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President and Chief Financial Officer,"
     publishedDateTime: 2021-05-13T12:30:00Z

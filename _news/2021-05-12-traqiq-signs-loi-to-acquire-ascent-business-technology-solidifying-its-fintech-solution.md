@@ -39,22 +39,6 @@ related:
         width: 666
         height: 375
         isCached: true
-  - title: "Fintech Aspire Reports Reaching $1 Billion in Yearly Transactions Just a Year After Launch"
-    excerpt: "Y-Combinator backed Fintech firm Aspire reports reaching $1 billion in yearly transactions just a year after launch."
-    publishedDateTime: 2021-05-12T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-600x450.jpeg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Ping An Reports Successfully Completing Initial Close of $200M Fintech and Healthtech Venture Fund"
     excerpt: "Ping An reports successfully completing initial close of $200M Fintech and Healthtech Venture Fund. The company aims to raise $475M in total."
     publishedDateTime: 2021-05-15T19:27:00Z

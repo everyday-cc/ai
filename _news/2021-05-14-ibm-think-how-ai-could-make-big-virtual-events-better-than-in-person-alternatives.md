@@ -59,22 +59,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
-    excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
-    publishedDateTime: 2021-05-12T03:45:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ibm-debuts-cloud-ai-services-modernize-business/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/IBM-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
     excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
     publishedDateTime: 2021-05-12T17:12:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmswire.com/information-management/expertai-adds-new-fea
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CMS Wire
@@ -40,20 +40,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/image1-1.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-    excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
-    publishedDateTime: 2021-05-12T09:51:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
-        width: 1380
-        height: 722
         isCached: true
 
 secured: "+qFMK3TqsydtbZmTGhO+ac7nnkRhZjUkVAGQGV5s8/sfKq2urvrEsos67xupgpDZTsqZdu/y6bgnETWkL/y7AvlnUEVCM2Ur/yfnbeY17bcz4ppuqViKekS3BthuBWW5MhmRBPF1vaYLTFw+jbf9/nEUR15h7ZtIg2dpT1Kuun72Fynrjl7dZ8iuYAH4I8+HS1pKz3N2RBNCwQMbQ8uUGZG0TdxUhZBao31tDxzT7oer6SAT6vNUN4xtgZNvQLLwk4wOrlqMPggPwT3nmyhjarigw93DXFsHG5SnkH0YAsHhqgOQRu6d8Pf+dgAenMhEddsgSUSm5F0QUiy9H/hiO60POyEDaaGAk9an/gj0fVJVrp4Uozqg1z7haESafqs3OVXuEjEHSPmTEARoNq6fHzxSDwTh544g/zat5fM0iV91q5fVV0wzY/yPdZvbSI7d4jCi8T3pz0VK4szn9SvYAaI6+NIOwynVMxPEMJ+z7c+qD1yLNYyUVe7uPJQvTg/ToXHg+wgV/u8c89LtGaeokQ==;doPtp/P9VV/P3BSfezOWyg=="
