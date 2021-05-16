@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-a
 webUrl: "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5"
 type: article
 quality: 73
-heat: 83
+heat: 87
 published: true
 
 provider:

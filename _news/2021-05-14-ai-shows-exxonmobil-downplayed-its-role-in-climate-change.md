@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-clim
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

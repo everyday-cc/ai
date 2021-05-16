@@ -41,22 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Indian researchers develop AI that may help in the fight against Covid-19"
-    excerpt: "Given limited testing facilities for Covid-19, there's a rush to develop AI tools for quick analysis using X-rays. Experts say it can be very useful in smaller towns where access to CT scans is poor"
-    publishedDateTime: 2021-05-11T11:08:00Z
-    webUrl: "https://www.business-standard.com/article/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19-121051100618_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 60
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/11/full/1620721373-4459.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The Role of Artificial Intelligence in Fighting COVID-19"
     excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
     publishedDateTime: 2021-05-12T18:53:00Z

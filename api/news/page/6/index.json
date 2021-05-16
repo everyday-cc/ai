@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-10-researchers-create-aifoam-for-robots-to-interact-intelligently-with-their-surroundings.md",
+      "title": "Researchers create AiFoam for robots to interact intelligently with their surroundings",
+      "excerpt": "Robots and machines are getting smarter with the advancement of artificial intelligence, but they still lack the ability to touch and feel their subtle and complex surroundings like human beings. Now,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-create-aif.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.amp",
+      "publishedDateTime": "2021-05-10T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-why-ai-projects-are-failing-at-your-company.md",
+      "title": "Why AI Projects Are Failing At Your Company",
+      "excerpt": "To successfully implement data democratization across your organization, you need a data catalog that makes it easy to search and understand data across the business, not just the IT group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609540b10e4317e750ed5a8f%2F0x0.jpg",
+          "width": 1200,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/",
+      "publishedDateTime": "2021-05-10T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time.md",
+      "title": "Pushing Computing to the Edge With Innovative Microchip Design to Make AI Accessible in Real-Time",
+      "excerpt": "Responding to artificial intelligence’s exploding demands on computer networks, Princeton University researchers in recent years have radically increased the speed and slashed the energy use of specialized AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg",
+          "width": 777,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/",
+      "publishedDateTime": "2021-05-10T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-microsoft-and-darktrace-partner-on-ai-enhanced-cloud-security.md",
       "title": "Microsoft and Darktrace partner on AI-enhanced cloud security",
       "excerpt": "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,",
@@ -243,49 +381,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-10-china-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
-      "title": "China Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
-      "excerpt": "(Bloomberg) --China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
-      "originalUrl": "https://www.bloombergquint.com/business/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-10-cogniflare-unveils-data-management-and-catalog-platform-for-google-cloud.md",
       "title": "Cogniflare unveils data management and catalog platform for Google Cloud",
       "excerpt": "Cogniflare plans to add connectors that will extend Kyra’s data management reach into the various cloud services provided by Microsoft and ... In addition, Cognitive is working to give Kyrah ...",
@@ -334,6 +429,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-china-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
+      "title": "China Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
+      "excerpt": "China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen as the future of transport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzlfa1z.VSs/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1069,161 +1216,6 @@
         "AI",
         "AI Ethics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks.md",
-      "title": "Artificial Intelligence Ranks Moderna And IBM Among Trending Stocks",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified Moderna and IBM among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001ebea375c531889c54471%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "publishedDateTime": "2021-05-07T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-baidu-rolls-out-paid-driverless-taxi-service-autox-completes-100-days-of-robotaxi-service-in-china.md",
-      "title": "Baidu rolls out paid driverless taxi service, AutoX completes 100 days of Robotaxi service in China",
-      "excerpt": "Baidu has commenced paid services for the Apollo Robotaxis in China without a safety driver behind the steering wheel for the first time. The Baidu milestone coincided with another milestone by Alibaba-backed AutoX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/baidu-robotaxi.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-tesla-admits-totally-self-driving-cars-likely-arent-happening-in-2021.md",
-      "title": "Tesla admits totally self-driving cars likely aren't happening in 2021",
-      "excerpt": "An Autopilot engineer told California regulators Tesla may not achieve Level 5 autonomy, despite what CEO Elon Musk predicted in January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/-5LRj4YtyHQ7C5i8Ccr-6OJTotw=/2021/01/27/3847d537-713c-4f4a-8448-d4787dac6172/tesla-model-s-refresh-210-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/",
-      "publishedDateTime": "2021-05-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -42,20 +42,6 @@ related:
         width: 750
         height: 468
         isCached: true
-  - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
-    excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
-    publishedDateTime: 2021-05-11T12:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Fintech start-up raises £1.2m"
     excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
     publishedDateTime: 2021-05-13T11:11:00Z

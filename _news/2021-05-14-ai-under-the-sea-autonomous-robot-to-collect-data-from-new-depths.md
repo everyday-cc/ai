@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-under-the-sea-aut
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 350
     height: 260
     isCached: true
+
+related:
+  - title: "Autonomous robots deliver in college town"
+    excerpt: "How pedestrians and diners treat the robots is one thing he cannot control. How the robots treat them? That's very much in his purview, and part of what Yandex is hoping to learn from its operations in the heart of this college town."
+    publishedDateTime: 2021-05-16T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/autonomous-robots-deliver-college-town"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "MBs/pRqqTxkuw8H6tKIyt7gq4rh8vxYS3IMIGT84bDBPq468WkubUOvE6BoaBnIT5nXGVn4uyLkWzVTr3Dv91Ajr4xCpY487cvbadLJvlwTHan4+eIEDxKdYTqhGqtyhchi2pnoVIyAA/4ipg9Yg9CTjNmEV9nxz2qBf3vmOmaOf3r5Nu80Gq3rOXOmzV3KVqgxaDgb3dg7IKV2/c1AqvHu71VyAfjDbGtV2Jz/NrFwcum0ygvDDCncabjtGEwARcXSza0hh6MrAgoxXrcj7pOK6k4ta4QjLZPrqEFxP7eRSBkklkBjYmtqDmrVVpNUqQRCZxzPEd92jxQ2kgz+fCFrfiYQhu7zT38Rac/zBPDc=;g1qzei42DIDrIIPSoMKDoA=="
 ---

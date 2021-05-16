@@ -2,26 +2,22 @@
 category: news
 title: "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights"
 excerpt: "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,"
-publishedDateTime: 2021-05-13T12:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095"
-webUrl: "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095"
+publishedDateTime: 2021-05-13T10:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368482.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368482.htm"
 type: article
-quality: 41
-heat: 41
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "9JBCmikCSGlAGFkTJsTfPZQgC/27vvNP1Y+BZLxCX/KXXz+6rBXJsFu3FUi2J83rO5wth2aNgseJoh3m+YU/HO3kpZmnecZQbC6zwj5SOhUEhE7fnkLASwkoBTjyAhrA+PPj3ctyLZpktnXiPCRCwpcCQPM9B+Gr6vfW7mK1EUKBsl5m28jt+Tj559PdFnl3ccuO45Qh9OT65oz0xr+7OrbcL3DsyJczNhzHMql2Yltq3uVkT3TMFXBsekdw09Yj6DmzCxbXGTxQbN1KOI21Ifrx6pyMeb+ntJdTltaFNKL2UfaPCSAtDQ4+lFvTENOlPeLFDO+cPE7hFHv0GM/L+hpk+g90UUI6pO5iejTu3zs=;bzHecGxa0q3YJ4LO44R5og=="
+secured: "UWaAo00ty3txn/LBDPQsSxvjbzGKN5rK2RxYMVH68pJpcuUbJ7xjOrj6Eci38NGOfCO+BK1XAJKMM+p53q84XQzqPOX3jhJjhgmzD5h469UpAjgxJ+yTUjMbkM2bfwmiTvXchYAPJTrnbAMm0GCzYCkVdVu+I08+Lga1ndp9PpPKxcT5hxhEoBDEiHSVxA9goNjWuHI0T1wVV3cuczViNgPwdNauyJCWlzRGEgMGoTGBTLMWqZGcHQN10unddQEvD6IN5Qyfy73OPJTHvxIzje4iV2apLzOmOloXsH5lhqcVYf3sw4Vv5zxwi0ygswem/0GJdlKsch3yi+ck/eKrBU8aLtMbNgKC2Pgw2uuHmHk=;8r8yCbqMo4B0s3j0sJ3Ncg=="
 ---
 

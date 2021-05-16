@@ -1,26 +1,26 @@
 ---
 category: news
 title: "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures"
-excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to"
-publishedDateTime: 2021-04-28T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html"
+excerpt: "An automated system that uses artificial intelligence (AI ... incidence and costs of additional imaging exams and unnecessary therapy, speed up diagnosis and allow earlier treatment."
+publishedDateTime: 2021-04-28T15:22:00Z
+originalUrl: "https://www.medindia.net/health-press-release/RSNA-Researchers-Use-Artificial-Intelligence-I-to-Detect-Wrist-Fractures-523768-1.htm"
+webUrl: "https://www.medindia.net/health-press-release/RSNA-Researchers-Use-Artificial-Intelligence-I-to-Detect-Wrist-Fractures-523768-1.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.medindia.net/images/common/covid-19-package-1-300.jpg"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "hd1oeNnq9HdQXI14o02yKPFmgYWGPVaF7oGZCrTgbSe4xseGE1LOZpbvDVtuGufkBi6zXfcDFIBhjQCzTGBExfe0H/qdAy4RJy4BjbrAbT/6rBtTYhj5gps6XsRfnZGSqTxp1PuEIBqqbwqAFcGmuniccVJr5d1rTBYEx+ezjbx8LqMk+/c+oGXrndpup4o09anSPy8J2bdF/2TjhI6ABIPhEqAjA09/cTJvsamjSJu6Syms8ZoQFmGcc3vS/qMuduLSxM8BtQQi54fEA3Hd6RNVDkkeKPJzzjzaKvS8vXCacg9qqTbzJdRrwjfcs+GJcpHodChzBJg4W7PA1OOPuOpAlqKXfEA0+4AWCz4CzIs=;VsRmVY3DV08v7ASufUxyXA=="
+secured: "zwYjQz1/S1RGMpAWVzMSmOihwlLlUEq5PSNi0vcFfWia+PyusSx0bkZTutIUU62vNj7d1tBKlsIeTZvXAOUPlzP5tVoo0zvwU7bB3fUJptdkSsP2do+w0sS1xqpx4LSsahk7Ps7JTSZ1M8ikRgp+I9VmHsPU+F8nBLiKKEDt/LcRgOyUV7d3miOWYDQm6HIkJhiaYjoym1IOFRwduk5XH6aXmtwuCn06y9if0m5fPnH9nZFDUuXL7QJYfQ6xpZ0CXlhu9Hog4kwutPeaWuKcfEq09P+vlx02XXzyWU78EHnevMwoSOaZiK0xIx3Ca4q6s7rwbttLCLp4Bbb6j41ReJUSD5kzAgy8hn1pkTa92Ao=;ZBUWV/cRHRwc4ykiuXmmpQ=="
 ---
 

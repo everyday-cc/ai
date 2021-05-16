@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-pro
 webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
-    excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
-    publishedDateTime: 2021-05-11T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/11-billion-worldwide-natural-language-processing-industry-to-2026---featuring-google-microsoft-and-ibm-among-others-301288562.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
     excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-15-study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability.md",
+      "title": "Study of 25 stroke patients shows BrainQ’s wave therapy can reduce disability",
+      "excerpt": "Hat-like device developed by startup aims to treat damaged areas with 'artificial brainwaves' that mimic healthy neural networks to rebalance the brain",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
+      "originalUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/03/Unknown-e1615722753560-640x400.png",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
+      "publishedDateTime": "2021-03-15T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-bioxcel-therapeutics-receives-fda-breakthrough-therapy-designation-for-bxcl501-for-the-acute.md",
       "title": "BioXcel Therapeutics Receives FDA Breakthrough Therapy Designation for BXCL501 for the Acute ...",
       "excerpt": "BioXcel Therapeutics, Inc. (“BioXcel” or the “Company”) (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,",

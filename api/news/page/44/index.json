@@ -2,6 +2,136 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-04-06-google-announces-tensorflow-quantum-050-expected-features-updates.md",
+      "title": "Google Announces TensorFlow Quantum 0.5.0: Expected Features & Updates",
+      "excerpt": "Google is celebrating the first anniversary of TensorFlow Quantum (TFQ), a library for rapid prototyping of hybrid quantum-classical ML models. TFQ is regarded as a tipping point for developments in hybrid quantum and classic machine learning models the ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-announces-tensorflow-quantum-0-5-0-expected-features-updates/",
+      "originalUrl": "https://analyticsindiamag.com/google-announces-tensorflow-quantum-0-5-0-expected-features-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design.jpg",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.md",
+      "title": "Deep learning algorithms improve diagnostic performance of breast ultrasound",
+      "excerpt": "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/mai.jpg",
+          "width": 950,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
+      "publishedDateTime": "2021-04-05T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
+      "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
+      "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "originalUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/19/eaaz8693/F1.large.jpg",
+          "width": 1400,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
       "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
       "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
@@ -977,144 +1107,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025.md",
-      "title": "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025",
-      "excerpt": "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-skoreas-lg-to-exit-loss-making-mobile-phone-business.md",
-      "title": "SKorea’s LG to exit loss-making mobile phone business",
-      "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "originalUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pix11.com/wp-content/uploads/sites/25/2021/04/a689754fbd374e749620a511f96e60b8.jpg?w=1280",
-          "width": 1280,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "publishedDateTime": "2021-04-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-flowaste-using-computer-vision-to-see-an-end-to-food-waste.md",
-      "title": "FloWaste: Using computer vision to see an end to food waste",
-      "excerpt": "Irishman Rian Mc Donnell has brought his food tech start-up to Chicago to help his chances of tackling the global issue of food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/start-ups/flowaste-food-waste-computer-vision-machine-learning-trinity-engineering",
-      "originalUrl": "https://www.siliconrepublic.com/start-ups/flowaste-food-waste-computer-vision-machine-learning-trinity-engineering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/04/headshot_landscape.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

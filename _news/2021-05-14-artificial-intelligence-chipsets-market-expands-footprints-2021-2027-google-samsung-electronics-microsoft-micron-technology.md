@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
-    excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
-    publishedDateTime: 2021-05-11T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/11-billion-worldwide-natural-language-processing-industry-to-2026---featuring-google-microsoft-and-ibm-among-others-301288562.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
     publishedDateTime: 2021-05-12T11:11:00Z

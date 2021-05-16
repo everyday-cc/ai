@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-24-tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser.md",
+      "title": "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser",
+      "excerpt": "The startup lost $178 million last year, reflecting how the company is still in the early stages of developing commercially ready technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
+      "originalUrl": "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-315504/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
+      "publishedDateTime": "2021-03-23T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-monash-university-researchers-asking-the-tough-questions-about-data-in-ai-systems.md",
       "title": "Monash University researchers asking the tough questions about data in AI systems",
       "excerpt": "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,",
@@ -1054,49 +1106,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidu-top-artificial-intelligence-innovations-from-the-chinese-google.md",
-      "title": "Baidu : Top Artificial Intelligence Innovations From the Chinese ‘Google’",
-      "excerpt": "Beijing based Baidu Inc., host to diverse artificial intelligence innovations. This includes Autonomous driving platform Apollo, PAddlePaddle, ERNIE, DuerOS, LinearFold, etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/baidu-top-artificial-intelligence-innovations-from-the-chinese-google/",
-      "originalUrl": "https://www.analyticsinsight.net/baidu-top-artificial-intelligence-innovations-from-the-chinese-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-10.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

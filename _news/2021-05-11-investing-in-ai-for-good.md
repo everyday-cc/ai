@@ -39,20 +39,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning trends to watch in 2021"
-    excerpt: "Machine learning and artificial intelligence were hot topics in 2020. These technologies have successfully found their way in every industry, including quantum computing system end medical diagnostic systems to personal assistance and customer electronics."
-    publishedDateTime: 2021-05-11T11:30:00Z
-    webUrl: "https://www.codementor.io/@codersdev/artificial-intelligence-and-machine-learning-trends-to-watch-in-2021-1hsj88nzwu"
-    type: article
-    provider:
-      name: Codementor
-      domain: codementor.io
-    quality: 54
-    images:
-      - url: "https://ucarecdn.com/e3ccc6a2-dee5-43d4-890f-67806966a53b/"
-        width: 602
-        height: 301
-        isCached: true
 
 secured: "gmSV98XJwFmCZfiR/GWhh6YwQAd9Iy9kNw1s2T7WgMOheAqGfXc2ebKFIQ+WWM/PXBOFmkJUCC63zYqNq9Hpgs6uVh9sFaay128OrOf+ua9e4zh9Ny+Ph7EfA/lC7MjKiP+tsdXLC9mUNzLFIDFwrQvCr27wPxg69JMgWFwfcGsL/4uSClUHIZMfoElaCdzbR5BRDUoi6QMHh1EvYobU2c46E4CdKhkoaoN6d8TGePWq6IHyOWj5OfGDm0tvPpxKHBXQXjJVbuTeU5YCbmEkZwYP0WmDtfXc214JVNuSEREN4JotXzzy1Cwke/KMwqG1VyZNfNq0TIVd/rJ2yxtjs35/2z6FE7geQbiNoVuOuxM=;r1nNc4RWF6s2qxnP3DyoMA=="
 ---

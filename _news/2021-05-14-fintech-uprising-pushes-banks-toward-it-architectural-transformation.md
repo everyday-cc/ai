@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/05/13/fintech-uprising-pushes-banks-
 webUrl: "https://siliconangle.com/2021/05/13/fintech-uprising-pushes-banks-toward-it-architectural-transformation-think2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
-    excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
-    publishedDateTime: 2021-05-11T12:17:00Z
-    webUrl: "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech"
+  - title: "Fintech Aspire Reports Reaching $1 Billion in Yearly Transactions Just a Year After Launch"
+    excerpt: "Y-Combinator backed Fintech firm Aspire reports reaching $1 billion in yearly transactions just a year after launch."
+    publishedDateTime: 2021-05-12T03:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-600x450.jpeg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Ping An Reports Successfully Completing Initial Close of $200M Fintech and Healthtech Venture Fund"
     excerpt: "Ping An reports successfully completing initial close of $200M Fintech and Healthtech Venture Fund. The company aims to raise $475M in total."
@@ -69,19 +71,19 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
-    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
-    publishedDateTime: 2021-05-13T23:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19805913.html"
+  - title: "TraQiQ signs LOI to acquire Ascent Business Technology, solidifying its Fintech solution."
+    excerpt: "(OTC QB:  TRIQ) (the “Company” or “TraQiQ”), a leading provider of technology solutions announced today that it has signed a non-binding Letter of Intent to acquire Ascent Business Technology. Ascent,"
+    publishedDateTime: 2021-05-12T12:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-767cb346acd81ee7a8a022b6a5d2c381"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "u41CSjIO0hu/xKXc6jOfpGrljVzRTSnboP9EdFdbLkp0a1ilEj2nK1BGstVGTpSYx5O8ieK5AxaYbU07T4TzsH069QoK/QmZzui96Y9nbl0k8Ho1Ivdnu8qPtFG20330A4LIVAysPhSAhVqfQpZ95zfhIqPFFsIBBpxavqYckkD0/DH8g7OIP/cNmV+9Wu34OEYxdXsRuNZv9qL9leMW9bl2nlEh0PmJWDedJ9PYEEK7iuP0z/6rR250HM9DQ/mxxrT+FhDAe9ETiyTR9b3HDBszALw1ekn4qtq09qsKsCGyaJwmrM4ptvabhd6QzaxItzOd1+yfagmE1yawJ+eTDf2FxRbJg0b8rxUlnp8D/aDLpuoBgJeUAQttWZUrHzGcVu72xN3CFzYbyBVLzgCzMlvWnv9WDG2dW7MjJGMSax/0xR1eP/ATp2JxECuGXWVHg5jNhbMgkIIMxEt3Uq4kycl95y5skTmI1SPRiiv2/oOu0Q0e5OQO4lUvu4T1sJkhoyj1sMQib3WWsMUjdXyNDg==;AfPP9THN5o7LYgto+PKETA=="

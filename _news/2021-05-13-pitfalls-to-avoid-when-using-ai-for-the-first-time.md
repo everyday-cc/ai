@@ -7,7 +7,7 @@ originalUrl: "https://www.raconteur.net/technology/ai-integration-pitfalls/"
 webUrl: "https://www.raconteur.net/technology/ai-integration-pitfalls/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The four keys to trustworthy AI"
-    excerpt: "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including"
-    publishedDateTime: 2021-05-11T13:00:48Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/"
+  - title: "When AI Becomes the Hacker"
+    excerpt: "\"It's AIs as the hacker,\" he says, rather than hackers hacking AI systems. Schneier will discuss his AI hacker research in a keynote address on Monday at the 2021 RSA Conference , which, due to the pandemic,"
+    publishedDateTime: 2021-05-13T19:12:00Z
+    webUrl: "https://www.darkreading.com/operations/when-ai-becomes-the-hacker/d/d-id/1341004"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg"
-        width: 2001
-        height: 1001
+      - url: "https://img.deusm.com/darkreading/VBabutsPhoto_Bruce-Schneier_02.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "A new standard will bust open the door to artificial intelligence"
+    excerpt: "ISO 20022 prioritizes speed and security, creating a runway for major new innovations like machine learning, says NICE Actimize's."
+    publishedDateTime: 2021-05-13T04:01:00Z
+    webUrl: "https://www.paymentssource.com/opinion/a-new-standard-will-bust-open-the-door-to-artificial-intelligence"
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7a0dd2c/2147483647/strip/true/crop/2400x1260+0+1170/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F74%2F7d%2Fbc5629294e9db77ebedcf787b746%2Fbuzzard-john-niceactimize-opinion-pso.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cTXjgXdb4a+MEYrPjSDntNs56JdW9X0JdoHcU5OspnBbq8vXkdYbiemz0xAAUIgSI3ZjKsaib4xU8ib8dI4J07RgKCD3BXMpD6mgQn5CxA4JLpwZ31X5cR5PU+ZDv6QOWIp8cZ0ZeXarPCVlxtrIpvVJTp5wvdPr3i8eDAEvdkQ1JNW2uL5quZwFdoV2cCQ3wX3xt9xyZd/dU3YDSJeknlaYTTgGAdMtg9cORpiYh4l4F0MG8TzcfmN7pues2RJjIB5Ys/Mtv41tI375IZPRqzqx+zDLN2utvcEYY2khCX6OtGdq//+GzXIhQczBNxk7ZdRIOuaP0xBQXWBJZYibSDj2R8oIeq6hpbcSV2IKs5hgwXocogdbHVq9Lj8Nd1JXnmaALc4xZcK04C6bL3iBxPqA3YnEBUAiZC+s1rq2WK8qxJcduzydEMTU+cP2+sVIVTtMJ+tCrMbR8pttqkiXBTDlyjDignnFvpkVCFGOVvZhBjI82XQG9qBq1x/53uj4kTKlF9Zw5ketAXlyUQcnbQ==;H8XMngMg6eZkkDo67gYCLQ=="

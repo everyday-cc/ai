@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$11+ Billion Worldwide Natural Language Processing Industry to 2026 - Featuring Google, Microsoft and IBM Among Others"
-    excerpt: "The \"Global Natural Language Processing Market, By Component (Solutions, Services and Managed Services), By Deployment Mode (On-Premises"
-    publishedDateTime: 2021-05-11T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/11-billion-worldwide-natural-language-processing-industry-to-2026---featuring-google-microsoft-and-ibm-among-others-301288562.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
     excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
     publishedDateTime: 2021-05-13T17:54:00Z

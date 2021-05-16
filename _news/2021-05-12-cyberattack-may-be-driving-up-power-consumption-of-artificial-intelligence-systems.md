@@ -7,7 +7,7 @@ originalUrl: "https://www.actuia.com/english/cyberattack-may-be-driving-up-power
 webUrl: "https://www.actuia.com/english/cyberattack-may-be-driving-up-power-consumption-of-artificial-intelligence-systems/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "A Startup With NSA Roots Wants Silently Disarming Cyberattacks on the Wire to Become the Norm"
-    excerpt: "Trinity Cyber takes a new spin on some traditional network-security techniques, but can its approach catch on widely?"
-    publishedDateTime: 2021-05-11T22:05:00Z
-    webUrl: "https://www.darkreading.com/attacks-breaches/a-startup-with-nsa-roots-wants-silently-disarming-cyberattacks-on-the-wire-to-become-the-norm/d/d-id/1340975"
+  - title: "IBM CEO Arvind Krishna On The Colonial Pipeline Cyberattack, The ‘Worrisome’ Chip Shortage And The Future Of AI"
+    excerpt: "IBM CEO Arvind Krishna this week weighed in on chip shortages, the Colonial Pipeline cyberattack and the need to invest in quantum computing and artificial intelligence"
+    publishedDateTime: 2021-05-12T20:43:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/ibm-ceo-arvind-krishna-on-the-colonial-pipeline-cyberattack-the-worrisome-chip-shortage-and-the-future-of-ai"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 11
+      name: CRN
+      domain: crn.com
+    quality: 36
     images:
-      - url: "https://img.deusm.com/darkreading/headshot-steve-ryan-detail.jpg"
-        width: 485
-        height: 485
+      - url: "https://www.crn.com/resources/0268-1214f269c5b5-923bc25b75ec-1000/arvind-krishna-ibm-cover.jpg"
+        width: 609
+        height: 457
         isCached: true
 
 secured: "DqZRZN9Dg9UHdx1w4CaegwO7ReN/7gmKco3qn5jxwFN9rQ1LOgoiybPl0NNn4tFUZ+78uM/EGg6diBL2uGKefX1DulJ5eBqKpx+JkAGqUNNFFnzD7K9S/pB9paNtqNrWWATXs5P5lSU7FAxaBgDdrAN6k+2fPHQuMUDsIqDZs9H9ABUMyNqv851o40775t7PDCFlptJ6tqkQzvzvHM/h+N2UQ2xYNFUQAcqEEtvJ+ZthAF8gXx1kc3/JJDbgBPkyr6y3cUAE7vtOu9yZe8X+RW26sRNk71EkGfI3CQNVG1GOneVKlxHqCjc/dag1F5hISTo6s+51cklBJ/vGDrpfeUgG+R6hUfJ22SDcXiAxdZY=;/7U61Lz/huzCKU7JnZgD2w=="

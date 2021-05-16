@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
-    excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
-    publishedDateTime: 2021-05-11T12:17:00Z
-    webUrl: "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Fintech uprising pushes banks toward IT architectural transformation"
     excerpt: "To meet the challenges of fintech and operational resilience ... to hybrid cloud and public cloud technology, and pre-packaged AI and pre-packaged solutions from an ISV ecosystem, software ..."
     publishedDateTime: 2021-05-13T19:10:00Z
@@ -54,6 +40,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Duigenan-and-Likhit-Wagle-IBM-Think-20216481.jpg"
         width: 666
         height: 375
+        isCached: true
+  - title: "Fintech Aspire Reports Reaching $1 Billion in Yearly Transactions Just a Year After Launch"
+    excerpt: "Y-Combinator backed Fintech firm Aspire reports reaching $1 billion in yearly transactions just a year after launch."
+    publishedDateTime: 2021-05-12T03:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175207-fintech-aspire-reports-reaching-1-billion-in-yearly-transactions-just-a-year-after-launch/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-600x450.jpeg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Global Payments to Participate in Barclays Emerging Payments and Fintech Forum"
     excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President and Chief Financial Officer,"
@@ -69,19 +71,19 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Fast-Growing Fintech Company, Finexio, Announces Appointment of Joe Proto to Board of Directors"
-    excerpt: "Orlando-based \"AP Payments as a Service\" company Finexio today announced the appointment of Joe Proto, EVP Senior Advisor at Mastercard, to its Board of Directors. Proto brings over four decades of executive-level experience"
-    publishedDateTime: 2021-05-13T23:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19805913.html"
+  - title: "TraQiQ signs LOI to acquire Ascent Business Technology, solidifying its Fintech solution."
+    excerpt: "(OTC QB:  TRIQ) (the “Company” or “TraQiQ”), a leading provider of technology solutions announced today that it has signed a non-binding Letter of Intent to acquire Ascent Business Technology. Ascent,"
+    publishedDateTime: 2021-05-12T12:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-767cb346acd81ee7a8a022b6a5d2c381"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "x109vChKOtFkzTeEUbNURRgh1XRDzGZSSJN7REAFy9jr+qunIGW3TLtAz2YrbUShQaqV7I6I4yY8ywNFPWfGW6Ca8cFaFGDppyn+GGQOST60+JRISED1R18unrqN/E+/MOjwgB2kH7J3GM6izrQvnUN32qAEuLaA3Cv7k2MXWgvGhWAifU/2Mi3aE+BoSsIAs/SpTPMEtETmImo200++YVZkwNFNTCEQqitUbu4Zi9QAC+94l5ICTUnuyS92nuhUmISi8pA9y57DWhBIxUiwTX8MarDUfxMh3gzpXawrHN0ffOD5mAjMwgG4BDkzvhb0KtOJRg9mXArAjfTi3fBoPd7I7a0IaMBzDVkovB3N/4A=;5lHE9dz9c73rk8bfqSSXlw=="

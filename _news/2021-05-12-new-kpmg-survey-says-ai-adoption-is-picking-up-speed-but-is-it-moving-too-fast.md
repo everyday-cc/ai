@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

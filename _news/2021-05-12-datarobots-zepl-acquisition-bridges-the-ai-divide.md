@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridg
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

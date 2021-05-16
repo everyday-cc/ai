@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-im
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

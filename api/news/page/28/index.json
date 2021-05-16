@@ -2,6 +2,135 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-21-woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays.md",
+      "title": "Woolworths to use computer vision to aid the setup of in-store displays",
+      "excerpt": "Boston-based One Door uses computer vision to help merchandisers create and set up localised promotions in the way that they were envisioned to look. Under a multi-year agreement, the supermarket ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays-563625",
+      "originalUrl": "https://www.itnews.com.au/news/woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays-563625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-intels-habana-labs-hiring-hundreds-for-ai-chip-development-in-israel.md",
+      "title": "Intel's Habana Labs hiring hundreds for AI chip development in Israel",
+      "excerpt": "The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips. Intel's AI chip development group, based on the $2 billion acquisition of Israeli startup Habana Labs in December 2019,",
+      "sourceUrl": null,
+      "webUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "originalUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "globes.co.il",
+        "domain": "globes.co.il",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
+      "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
+      "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-327981/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "publishedDateTime": "2021-04-21T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-treatmentcom-building-the-smartest-artificial-intelligence-ai-system-for-healthcare.md",
       "title": "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare",
       "excerpt": "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health.",
@@ -1024,144 +1153,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
-      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
-      "excerpt": "Leading an AI/Deep Learning driven revolution in manufacturingArtificial Intelligence will drive its 3D-AI/ML Distributed Digital Fabrication",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-cerebras-launches-new-ai-supercomputing-processor-with-26-trillion-transistors.md",
-      "title": "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors",
-      "excerpt": "Cerebras Systems has unveiled its new Wafer Scale Engine 2 processor with a record-setting 2.6 trillion transistors and 850,000 AI cores.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
-      "publishedDateTime": "2021-04-20T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-deepmind-ace-joins-cambridge-quantum-computing.md",
-      "title": "DeepMind ace joins Cambridge Quantum Computing",
-      "excerpt": "Cambridge Quantum Computing has secured a major coup by hiring DeepMind’s Professor Stephen Clark as head of Artificial Intelligence. At DeepMind – the UK AI subsidiary of Alphabet Inc – Professor Clark was a senior staff research scientist and led a team working on grounded language learning in virtual environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
-      "originalUrl": "https://www.businessweekly.co.uk/news/recruitment/deepmind-ace-joins-cambridge-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/professor_stephen_clark.jpg?itok=hFjpCQl9",
-          "width": 605,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Weekly",
-        "domain": "businessweekly.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

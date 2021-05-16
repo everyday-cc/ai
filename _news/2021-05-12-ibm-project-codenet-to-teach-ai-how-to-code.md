@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code
 webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

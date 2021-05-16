@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs"
-    excerpt: "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs."
-    publishedDateTime: 2021-05-11T11:39:00Z
-    webUrl: "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx"
+  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+    publishedDateTime: 2021-05-12T09:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 51
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
-    excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
-    publishedDateTime: 2021-05-11T15:49:00Z
-    webUrl: "https://www.wkyc.com/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 50
-    images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/3c9c9308-39b5-4292-94c3-64320c64cf07/3c9c9308-39b5-4292-94c3-64320c64cf07_1140x641.png"
-        width: 1140
-        height: 641
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
+        width: 1618
+        height: 1400
         isCached: true
   - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
     excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications."
@@ -68,20 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Prospection is Using Machine Learning to Improve Patient Outcomes."
-    excerpt: "A health analytics company, Prospection combines AI and predictive data analysis to help improve patient outcomes. Machine learning tools can be used to spot major and minor trends in patient data that would be impossible to identify with the naked eye."
-    publishedDateTime: 2021-05-11T13:36:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-69861e9f6a13f3f876642181a8e1612b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Machine learning used to predict outcome of Covid-19 patients"
     excerpt: "A machine learning algorithm has been developed that can detect which patients with Covid-19 might get worse and not respond positively to being turned onto their front in intensive care units (ICUs)."
     publishedDateTime: 2021-05-12T12:20:00Z

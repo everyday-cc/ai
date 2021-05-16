@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-13-us-fcc-asks-what-impact-chips-shortage-has-on-communications-sector.md",
+      "title": "U.S. FCC asks what impact chips shortage has on communications sector",
+      "excerpt": "The Federal Communications Commission (FCC) is studying the impact of the global shortage of semiconductors on the communications sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/fcc_22f158d67b6a07908650f167d595b6aa.nbcnews-fp-1200-800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
+      "publishedDateTime": "2021-05-12T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools.md",
       "title": "IBM Taps AI for New Workflow Automation and Data Migration Tools",
       "excerpt": "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil",
@@ -200,7 +252,7 @@
       "originalUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -295,7 +347,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -441,7 +493,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/12/new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -670,6 +722,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19.md",
+      "title": "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19",
+      "excerpt": "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg",
+          "width": 1618,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
+      "publishedDateTime": "2021-05-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -907,6 +1002,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-ai-analog-chip-startup-mythic-raises-70-million.md",
+      "title": "AI analog chip startup Mythic raises $70 Million",
+      "excerpt": "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-82565981,imgsize-35602,width-800,height-434,overlay-etcio/ai-analog-chip-startup-mythic-raises-70-million.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "publishedDateTime": "2021-05-11T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-build-a-cognitive-search-and-a-health-knowledge-graph-using-aws-ai-services.md",
       "title": "Build a cognitive search and a health knowledge graph using AWS AI services",
       "excerpt": "Medical data is highly contextual and heavily multi-modal, in which each data silo is treated separately. To bridge different data, a knowledge graph-based approach integrates data across domains and helps represent the complex representation of scientific knowledge more naturally. For example, three",
@@ -1051,154 +1189,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-improve-the-streaming-transcription-experience-with-amazon-transcribe-partial-results-stabilization.md",
-      "title": "Improve the streaming transcription experience with Amazon Transcribe partial results stabilization",
-      "excerpt": "Whether you’re watching a live broadcast of your favorite soccer team, having a video chat with a vendor, or calling your bank about a loan payment, streaming speech content is everywhere. You can apply a streaming transcription service to generate subtitles for content understanding and accessibility,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/11/3855-header_v2.jpg",
-          "width": 801,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-onestream-data-analysis-ai-tools-usage-increased-in-2021.md",
-      "title": "Onestream: Data analysis, AI tools usage increased in 2021",
-      "excerpt": "Onestream's Enterprise Financial Decision-Making Report found that companies increased investment and usage of data analysis tools in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/amp/",
-      "publishedDateTime": "2021-05-11T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology.md",
-      "title": "Funny faces in face recognition could increase phone security with new technology",
-      "excerpt": "But experts said the best way to keep your phone safe using facial recognition technology is by putting on a funny face. “We’ve been able to actually take a regular picture of ourselves and fool the system,",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
-      "originalUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nbc-2.com/wp-content/uploads/2021/03/cell-phone.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
-      "publishedDateTime": "2021-05-11T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

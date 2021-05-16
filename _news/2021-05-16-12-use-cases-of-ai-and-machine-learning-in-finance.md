@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-
 webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
 type: article
 quality: 71
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning trends to watch in 2021"
-    excerpt: "Machine learning and artificial intelligence were hot topics in 2020. These technologies have successfully found their way in every industry, including quantum computing system end medical diagnostic systems to personal assistance and customer electronics."
-    publishedDateTime: 2021-05-11T11:30:00Z
-    webUrl: "https://www.codementor.io/@codersdev/artificial-intelligence-and-machine-learning-trends-to-watch-in-2021-1hsj88nzwu"
-    type: article
-    provider:
-      name: Codementor
-      domain: codementor.io
-    quality: 54
-    images:
-      - url: "https://ucarecdn.com/e3ccc6a2-dee5-43d4-890f-67806966a53b/"
-        width: 602
-        height: 301
-        isCached: true
   - title: "Investing in AI for Good"
     excerpt: "And while translation and automated speech recognition models have made tremendous headway for majority languages—one of Google.org’s AI Impact Challenge grantees, TalkingPoints, for example, helps non-English speaking parents in the United States ..."
     publishedDateTime: 2021-05-11T16:11:00Z

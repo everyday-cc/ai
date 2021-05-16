@@ -10,7 +10,7 @@
       "originalUrl": "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -277,6 +277,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19.md",
+      "title": "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19",
+      "excerpt": "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg",
+          "width": 1618,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
+      "publishedDateTime": "2021-05-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -858,59 +901,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "publishedDateTime": "2021-05-05T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health.md",
       "title": "What We Can Learn From AI Healthcare Initiatives Like Watson Health",
       "excerpt": "Healthcare professionals aren't going to rely on AI as a decision-maker. Rather, they might use AI analysis as a tool integrated into their workflow.",
@@ -1036,6 +1026,40 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Investors looking for the top AI stocks to buy right now should consider NVIDIA (NASDAQ: NVDA), Amazon (NASDAQ: AMZN), and Microsoft (NASDAQ: MSFT). Here's why. Image source: . You might know NVIDIA as a leading graphics processing unit (GPU) company that has benefited immensely from the gaming market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-may-2021-05-05",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-may-2021-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,49 +1336,6 @@
       "provider": {
         "name": "Neuroscience News",
         "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-artificial-intelligence-ai-in-drug-discovery.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery",
-      "excerpt": "Artificial Intelligence AI in Drug Discovery Market Scenarios 2021 2028 This report is a data source that covers the industry s existing and future technical and financial knowledge through 2028 A thorough market review illuminates the threats market structures opportunities",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
-      "originalUrl": "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U502676851_g.jpg",
-          "width": 683,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
-      "publishedDateTime": "2021-05-02T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

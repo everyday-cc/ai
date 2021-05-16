@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-11-improve-the-streaming-transcription-experience-with-amazon-transcribe-partial-results-stabilization.md",
+      "title": "Improve the streaming transcription experience with Amazon Transcribe partial results stabilization",
+      "excerpt": "Whether you’re watching a live broadcast of your favorite soccer team, having a video chat with a vendor, or calling your bank about a loan payment, streaming speech content is everywhere. You can apply a streaming transcription service to generate subtitles for content understanding and accessibility,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/11/3855-header_v2.jpg",
+          "width": 801,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-onestream-data-analysis-ai-tools-usage-increased-in-2021.md",
+      "title": "Onestream: Data analysis, AI tools usage increased in 2021",
+      "excerpt": "Onestream's Enterprise Financial Decision-Making Report found that companies increased investment and usage of data analysis tools in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/amp/",
+      "publishedDateTime": "2021-05-11T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology.md",
+      "title": "Funny faces in face recognition could increase phone security with new technology",
+      "excerpt": "But experts said the best way to keep your phone safe using facial recognition technology is by putting on a funny face. “We’ve been able to actually take a regular picture of ourselves and fool the system,",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
+      "originalUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2021/03/cell-phone.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
+      "publishedDateTime": "2021-05-11T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ibms-ceo-says-its-leaving-consumer-ai-like-facial-recognition-to-other-companies-as-it-doubles-down-on-pitching-watson-to-businesses.md",
       "title": "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses",
       "excerpt": "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service.",
@@ -10,7 +158,7 @@
       "originalUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -118,7 +266,7 @@
       "originalUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1095,146 +1243,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-security-challenges-within-the-fintech-sector.md",
-      "title": "Security challenges within the FinTech sector",
-      "excerpt": "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/",
-      "originalUrl": "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/",
-      "publishedDateTime": "2021-05-11T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-these-electric-self-driving-tractors-could-make-farming-much-greener.md",
-      "title": "These electric self-driving tractors could make farming much greener",
-      "excerpt": "A startup based in California says it can help farmers be greener and more profitable by offering what it describes as the world's first fully electric, self-driving tractor. The compact tractor can be programmed to perform tasks such as plowing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506123000-restricted-monarch-tractor-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
-      "publishedDateTime": "2021-05-11T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-iit-hyderabad-invites-applications-for-free-online-course-on-deep-learning-for-computer-vision.md",
-      "title": "IIT Hyderabad Invites Applications for Free Online Course on Deep Learning for Computer Vision",
-      "excerpt": "IIT Hyderabad has offered a free online course on deep learning for computer vision on the NPTEL platform of the Ministry of Education",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
-      "publishedDateTime": "2021-05-11T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-14-labor-pitches-startup-year-as-key-to-australias-future.md",
+      "title": "Labor pitches 'startup year' as key to Australia's future",
+      "excerpt": "The 'startup year', Opposition Leader Anthony Albanese declared, is a program aimed at driving innovation and increasing links between universities and entrepreneurs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "originalUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/14/9fba52dc-2a0d-46b5-a568-ff29df43ddce/anthony-albanese.jpg",
+          "width": 5455,
+          "height": 3637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "publishedDateTime": "2021-05-13T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference.md",
       "title": "Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference",
       "excerpt": "Machine learning (ML) is realized in inference. The business problem you want your ML model to solve is the inferences or predictions that you want your model to generate. Deployment is the stage in which a model, after being trained, is ready to accept inference requests. In this post, we describe the",
@@ -64,7 +115,7 @@
       "originalUrl": "https://www.wired.com/story/ai-shows-exxonmobil-downplayed-role-climate-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -823,7 +874,7 @@
       "originalUrl": "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1217,58 +1268,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-us-fcc-asks-what-impact-chips-shortage-has-on-communications-sector.md",
-      "title": "U.S. FCC asks what impact chips shortage has on communications sector",
-      "excerpt": "The Federal Communications Commission (FCC) is studying the impact of the global shortage of semiconductors on the communications sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/fcc_22f158d67b6a07908650f167d595b6aa.nbcnews-fp-1200-800.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
-      "publishedDateTime": "2021-05-12T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
