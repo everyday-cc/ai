@@ -53,20 +53,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Artificial Intelligence Chips Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2031"
-    excerpt: "The latest research report provides a complete assessment of the Global Artificial Intelligence Chips market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2021-05-12T02:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-2021-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2031-2021-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
     publishedDateTime: 2021-05-13T10:26:00Z

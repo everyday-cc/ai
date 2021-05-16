@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Right a wrong: Restore federal recognition to Chinook Indian Nation"
+    excerpt: "We ask our congressional delegation to commit to enacting full restoration and recognition for the Chinook Indian Nation before the end of this session of Congress."
+    publishedDateTime: 2021-05-16T19:01:00Z
+    webUrl: "https://www.seattletimes.com/opinion/right-a-wrong-restore-federal-recognition-to-chinook-indian-nation/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/right-a-wrong-restore-federal-recognition-to-chinook-indian-nation/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/right-a-wrong-restore-federal-recognition-to-chinook-indian-nation/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+
 secured: "fywOImaG7GxYbpKDMU21jFOE4kNH5IMomdpLQAsjLIYNy979y6fXk3qUJlOqjKySb36Kwv9rZUuMPiHd8wi9S4PqG5vbop2S9FAplIVxFNhA2O0EFlfuCMtRRf39mIUeXXUEvE4RpigilHFezZYGX8lffsUnVzZOrj0n03yMlbrIppTNgw6aJ36NCcMllEaUmw1KAsOZUYHLnSgrNkhGDkQDqQzzN1I20FOj+ESubtDdUfwt+raEbACV8aUEzX6ZcnoExhz2AQwrMBN7+OngleS5B/dYiwAqV84m7+qQ1hvfLURMJGqOUHRA8jDo5yrfBzLFCu9sO2jVv29N1zWOqVfvdmBehcSj0idpvavlrIKVJ2iSQ2SER3Opaospr6UTUgMEjYJFRiM/Y6zgCZbgpJic300miNJLU0R0vr0+zXj1GGSmmSsorsZHWVlGH7+s0ilGzWUlzsiE42spyWqM88Qhqckq1+I/yn3513nVhhuSUMJjw2jP+qxR62Xx20bFsmP5FfxgVvexpp65yAZSiQ==;9m11zB7d+DqopIbAukrQ6Q=="
 ---
 

@@ -57,15 +57,15 @@ related:
         isCached: true
   - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
     excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
-    publishedDateTime: 2021-05-14T09:19:00Z
-    webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+    publishedDateTime: 2021-05-14T09:24:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
     quality: 39
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/05/shutterstock_1764865133.jpg"
         width: 1000
         height: 563
         isCached: true

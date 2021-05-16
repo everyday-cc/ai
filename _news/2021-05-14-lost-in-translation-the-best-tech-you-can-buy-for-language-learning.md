@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Why tech will always be lost in translation"
-    excerpt: "Technology may be closing in on making instant, in-ear translation services a reality. But it's still a galaxy away from truly replicating human communication."
-    publishedDateTime: 2021-05-12T02:09:00Z
-    webUrl: "https://www.goethe.de/prj/k40/en/lan/tec.html"
-    type: article
-    provider:
-      name: Goethe
-      domain: goethe.de
-    quality: 24
-    images:
-      - url: "https://www.goethe.de/resources/files/jpg1026/bodypic1_2bn6jpb_resize-formatkey-jpg-w983.jpg"
-        width: 983
-        height: 655
-        isCached: true
-
 secured: "TxS0NTH4mSXV6oUPoMx6nHgkjQT0wxe+3T1F/T8Wnb0XrDRj8eKnDPC6SYtkEiMAyGsA6+Pg8R1x9q8S4nn2pi8TjlvXFOeRF1xZ1tGbxnmpYDj35Tjqq2QYNkDZZAZHFrmkbUj1CGDj3dBQKU374e9HT0EUWzYfUliUn9WmItgztpM/4rc+aRGkd56Vd6FrbMTUZTNWRyZyOZmJ9WIqcs3z/Zl8O8F8x1mSVqzhnH4kB5fxcamEp1nxdSbL44mgX+HOJfpJO/vLd836kDoqfj3UWwGMeXhMDiNPNZbRjsmatQ6sHk+sKDnvNtARoKcC5GTsVZydZ2CA6X0fIHZ6hoj4LMNXdq/8aMpGVi4kRgLZtbixKUEu+Shv+o1Zk8R300Qdia2P5NiS3BQtcdAmICxkJoPODLDD8G8nm6RVgSIuXrFd3SceHK8ObJpzLmzvzHHudP+Btvu77Q1GtEMxbpFBr8XywrG+2xs8ExgL+kCPdUKbNPui9F/7/FJMks5xNUqiSk9ljN/al9x12ypSEQ==;Rv89q3NNaitPMZ9moyiHYg=="
 ---
 

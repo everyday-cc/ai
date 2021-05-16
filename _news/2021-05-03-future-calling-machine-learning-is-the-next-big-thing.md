@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://femina.wwmindia.com/content/2021/may/machinesmtn111620023041.jpg"

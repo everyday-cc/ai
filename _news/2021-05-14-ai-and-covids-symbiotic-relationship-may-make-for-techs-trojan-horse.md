@@ -2,24 +2,24 @@
 category: news
 title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
 excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
-publishedDateTime: 2021-05-14T09:19:00Z
-originalUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
-webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+publishedDateTime: 2021-05-14T09:24:00Z
+originalUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
+webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Clinical Trials Arena
+  domain: clinicaltrialsarena.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
+  - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/05/shutterstock_1764865133.jpg"
     width: 1000
     height: 563
     isCached: true
@@ -70,6 +70,6 @@ related:
         height: 263
         isCached: true
 
-secured: "GXKDVjOWjLP3YlJajSSTEEQGaSkB/H/2hX/pRjRPjcSNxjdZvT8mtvC4AUIKui8z7HFHOqUl24ElnU/iSMLw1HafVbTEHdE2DSLazIVqIGabNn0dmFGDHHIwi0OGJxolgmJOwUVmRfsEZlv96zOcsWPl0h/COLvGmEqInQD87U6dchwSQgzWKRDIIEakNP0LT37U2JkXaLju2xjufarUWeGS6XCna6YxSZ8+9Jfd+XML/WNVV2BVTgdb1pJEbpPSzk0ijt+RFDUYAGwztxGYDCvS0TtNOaHhk1KTgubvtQYdKsdxVltskqcnOoySQgoRbENNB9SXm6cOawYbs/nb9YRFSvW/q2VbVJLLPRRL5kn0ielhcBPzuignWNcfAciVIi4ltpN0hWz5sJhFgvKJlXni8kpqX0VAIbmhO+Qb+UST+SJsdVu/2u05CriBJ95yZR6DxwZzs0L0NQyBHE0dvW6nGPQpmMSXYYBaa1o9u5AyUoWouUDGmyxF1udONLImaqiv56P+Y9kEGUbfM9nTJA==;GZy0z7a0ejNcuR6qKdAFxg=="
+secured: "gyfH0mTreHOqVeA9rc2r2Rm4Z1+GrAZ9UoS5Ex0BvUh6dizxLDL+BiOVaxH0w56Y0MTl3CKUzo4TgKiIBG9bSanm08afudiOg1ACaPrpNBFP9ZSyfGZ5FPQ/+FtNbr998ULiC9PJGVbt+NgptfTXyBoCfxHfyFX07bv+CmQ0Ta6j5va7aP07woJVbqmNWatG8YxSW69yi6+7knXL/TezvgQNLUGlydSKA2W6nITud6w9ikBuquHDqIzsc/ISEutghytYQeYrhEykTPRIvGp4xctjN0IYODuekO1LC6kw+p75CGGUSqpE2JclbqhvgfJIMJrgc+mQPJ15ybqGcmJ5U/vBqs6Dr5OtiYsYYjmuYs4=;K4kwiPk1A6FYdGWwHF8OSQ=="
 ---
 
