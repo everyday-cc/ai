@@ -25,45 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches"
-    excerpt: "Amazon has yet to announce whether it will lift a one-year moratorium on the sale of its Rekognition product to police departments."
-    publishedDateTime: 2021-05-11T16:27:00Z
-    webUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/"
-    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
+  - title: "The Politics of Recognition vs. Redistribution"
+    excerpt: "Progressive politics based on an honest assessment of the multiple crises of today can only succeed if it includes all sectors of society."
+    publishedDateTime: 2021-05-12T12:30:00Z
+    webUrl: "https://www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/"
+    ampWebUrl: "https://www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/europe/hans-georg-betz-radical-right-populism-marine-le-pen-donald-trump-world-politics-news-30246/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 46
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.fairobserver.com/wp-content/uploads/2021/05/Marine-Le-Pen.jpg"
+        width: 938
+        height: 450
         isCached: true
-  - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
-    excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
-    publishedDateTime: 2021-05-13T16:37:00Z
-    webUrl: "https://www.linktv.org/covid-19/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition"
+  - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
+    excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
+    publishedDateTime: 2021-05-14T23:04:00Z
+    webUrl: "https://www.campusreform.org/article?id=17351"
     type: article
     provider:
-      name: Link TV
-      domain: linktv.org
-    quality: 39
-    images:
-      - url: "https://kcet.brightspotcdn.com/dims4/default/f52f46e/2147483647/strip/true/crop/1230x646+0+87/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2F49%2Ffa%2Faaad4a2f4099994b4db269146365%2Frtxb6owt-layout-comp.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Emotion recognition: can AI detect human feelings from a face?"
-    excerpt: "Its founder, a former teacher, Vicky Lim, says it reads the children’s feelings correctly about 85 per cent of the time. The popularity of the software has exploded during the pandemic, with the number of schools using 4 Little Trees in Hong Kong growing from 34 to 83 over the past year,"
-    publishedDateTime: 2021-05-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 23
+      name: Campus Reform
+      domain: campusreform.org
+    quality: 0
 
 secured: "S9Ihn4K5jK7eLlePo/r0X46EhzDzQAGFrBU2w1IUaeSGi7mF60qRKfLx/5GU1w8TjFrbYuiyR64Bbck3pVJFlNCqeI8eE5b6SzTL7VE3wKG0UK1JrV5AlUc7ZUC73uCTDaxOaEFBozjuvz6a+ajv86FWXBJY6HvvnUYT11+4iOZN2F74KBbrMiJMXxhCW2ZHYLggNYhI7VKge1ncwpju42FPX3/bRXj6pDXGu6g+a2X0CVoA5A2Cl3H5t78bC/3Z5ttJ5vRMpR3k68dGyhLzPRrI1gEIAr8NeICePSMBOq+tOmS0/FVVM5fNQpepkYcw4WBdoagJykEUu/1kRLNpCOnZbVZgKDwOGiyxk++DbHU=;XpF48VFy3KBQONx+JuGwIQ=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
+    excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
+    publishedDateTime: 2021-05-16T09:31:00Z
+    webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 59
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Elon Musk Announces Release Timeline For Tesla's Improved Self-Driving Feature"
     excerpt: "Musk announced via Twitter that his car company's newest fully self-driving system may come sooner than expected."
     publishedDateTime: 2021-05-12T16:52:00Z

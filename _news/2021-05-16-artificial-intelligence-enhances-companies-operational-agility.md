@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-16T06:28:00Z
 originalUrl: "https://www.thepeninsulaqatar.com/article/16/05/2021/Artificial-Intelligence-enhances-companies’-operational-agility"
 webUrl: "https://www.thepeninsulaqatar.com/article/16/05/2021/Artificial-Intelligence-enhances-companies’-operational-agility"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.thepeninsulaqatar.com/images/front/whatsapp.png"

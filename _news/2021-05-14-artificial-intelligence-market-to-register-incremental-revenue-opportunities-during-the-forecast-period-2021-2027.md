@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
+    excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
+    publishedDateTime: 2021-05-14T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Research Overview Covering Growth Rate, Key Vendors, Demand Ratio and Forecast To 2025"
     excerpt: "May 13, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence (Ai) in"
     publishedDateTime: 2021-05-13T10:42:00Z

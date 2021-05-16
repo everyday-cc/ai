@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-pro
 webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
+    excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
+    publishedDateTime: 2021-05-14T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

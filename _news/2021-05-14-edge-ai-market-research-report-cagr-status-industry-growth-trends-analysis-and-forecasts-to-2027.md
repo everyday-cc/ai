@@ -1,23 +1,32 @@
 ---
 category: news
-title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
-excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
-publishedDateTime: 2021-05-13T17:54:00Z
-originalUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
-webUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
+title: "Edge AI Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
+excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
+publishedDateTime: 2021-05-14T08:38:00Z
+originalUrl: "https://www.marketwatch.com/press-release/edge-ai-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
+webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
 type: article
-quality: 7
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Sentinel
-  domain: ksusentinel.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
-  - Microsoft AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM"
@@ -43,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
-    excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
-    publishedDateTime: 2021-05-14T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -90,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
+    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
+    publishedDateTime: 2021-05-13T17:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
   - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
     publishedDateTime: 2021-05-12T11:11:00Z
@@ -102,6 +106,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "vIwkkyilOH04pzWIXiyUReipIJ72wqTMqSzhUtKN4uoAasGFAVoa7UFz7w2Na6eUIPXo+X4dDsNlM3CejuHfgY2HFWO04/tPfVFO8xtT/G8mc/HTe5V7jYd+0P5WsFfmBjhNQ+jdSCOcCJ72h3x2vdQJ81Ki+mPR+1KoUh8Zk4kFLFNoMdfCjDTbyfr3Uy7teF/WHROWXWV/y3iXyprKBD5Js8CBuczCsmIphKwwXggAYSPNd2EMUQtG+J5v/ewNLoMZnThN3p78geP6eG3KjgsJ2zgnyevbLOC7T8BRa00TOUTZAiEBN/1U1zUPL4vHsEfcHajUnjacOFFSulbUmSe+83J/+EUabRUJdQoch0Q=;f5/h22hc34BYiTb3/P3zpw=="
+secured: "F9copAAJIGTHfyDYnOuQrNTdFuHlNBsAJmoRtKhd4MSQWPdOgwEbt/DDd//SbkW4MIEVrg4vSUT6+lpqWurV2MGY7fMSuH2RDrMZ2+GP5qmq44yO8E4GMl3kTZonubKFSBX18rMhW4FmoyG40SRvsX4/37ckGvlpwEt4qYqdD83SQzAOzHU0reE0Me9MprRWTiJwuq20ymlbbBAY98yitT2g3hn2JN1VQxs8nNZZ6puTnp8cyD75Q3V5iozVBolm/7lWtwUrP5UEj910IULrcQ1lvQq7LPvDA8WldTooNrq2UnZ7DH+2z+eU7iolVSoOM67USLKr68PwMX960cpzQDbyn3Xs841EIvAv5eptENA=;p2MRr0sM6drdqvshD2j+jA=="
 ---
 

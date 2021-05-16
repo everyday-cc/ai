@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation"
-    excerpt: "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia."
-    publishedDateTime: 2021-05-11T17:01:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "FDA Breakthrough Device Designation Is Granted to Avenda Health for Laser Ablation System in Prostate Cancer"
     excerpt: "the company responsible for developing the artificial intelligence (AI)–enabled focal therapy system. 1 The product intended for use as a male “lumpectomy” device was developed as an alternative to traditional surgery or radiation, for which the ..."
     publishedDateTime: 2021-05-12T16:01:00Z
@@ -47,15 +33,6 @@ related:
         width: 3353
         height: 3353
         isCached: true
-  - title: "Avenda Health Granted FDA Breakthrough Device Designation for Technology to Treat Prostate Cancer"
-    excerpt: "Breakthrough Device Designation was awarded to Avenda Health for a male “lumpectomy” product in development designed to treat prostate cancer in-office while preserving quality of life. Breakthrough Device Designation by FDA is reserved for devices that are potentially transformative,"
-    publishedDateTime: 2021-05-11T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210511005137/en/Avenda-Health-Granted-FDA-Breakthrough-Device-Designation-for-Technology-to-Treat-Prostate-Cancer"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "lnvGNWgl4Wt2LWHCgzi+D8UzTYZOKwv5Rbxx4X5F40IaeBjPETGUlal2EjU9oPQtiqnQ9pNkBsF7LHVEpY7ZvbwAVLyi1Bxp98VqcjbjeWpUicxGLy2mIykmgl/juUP9v4p/FcBf8bWM5Ht/DDDN+hv9cTkzr/f0H5MKjwIPnFU4VvYmXAGyKpIzFHqmUWFgUBgUvQAb9JGTfYmFNAVYydAT0Lj0HagM+TT/HPh8Nxsqntv5kyEOkmuhoAsrN5llJq4Yn09fzUDxqd7BhzlT28ijDFqkRKvE8p3r2JLgHW5SlJ02NxzMVZgsxFdv7bW5YuvIMrwep7/nb6IdcsiB4GxYHStbBVAsKcuH9Y989742J+PPdvsZX6xkJiT2UrL6bEoe43ARaA/hF6oEwPID0C15H/4JVy2fMjQr5MTntGR23GceNXBcCpsyk6r6Srmb2vQlSwtFDDQxnCBnmtDRbXCl0vdbNTSHD0FdvAzR8WK/eQsJbBfeueAdhv6Gx4Fy4PDCeqcXgXGgibBlmg9p1g==;wGIY8X83RMPUtOdh7CwQCQ=="
 ---

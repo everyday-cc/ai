@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
-excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
-publishedDateTime: 2021-05-13T10:01:00Z
-originalUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
+excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
+publishedDateTime: 2021-05-16T09:31:00Z
+originalUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Tom's Guide
-  domain: tomsguide.com
+  name: Deccan Herald
+  domain: deccanherald.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
-    width: 480
-    height: 320
+  - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
-    excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
-    publishedDateTime: 2021-05-16T09:31:00Z
-    webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+  - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
+    excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
+    publishedDateTime: 2021-05-13T10:01:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
     type: article
     provider:
-      name: Deccan Herald
-      domain: deccanherald.com
+      name: Tom's Guide
+      domain: tomsguide.com
     quality: 59
     images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Elon Musk Announces Release Timeline For Tesla's Improved Self-Driving Feature"
     excerpt: "Musk announced via Twitter that his car company's newest fully self-driving system may come sooner than expected."
@@ -127,6 +127,6 @@ related:
       domain: sacbee.com
     quality: 11
 
-secured: "djYxMtL3WLfEJW/ISIME5Y5bHhWYLDWAwlDCTBnsnqzx+BxHaQJXEEIHOMXcjxomEZDOUWEFjujkF0H0iAE9g864owuAPYiV2oR3E5mDpdmIV3Qznc1liPJFnwE08CI1BUddw7ftFkeFa4BbyvQOkET+XCOllMtgIML+6pWVfJ29wOzeD0Ho8EqZO0TtwSf4hWdyvpFKeLTCyZ6naIzc+hMjC/9pdMk5KnulsqCrEm7gpIbo7SAUOvv55/EFlKswSJrdpNfxhLj7Lqlr0l5Dx7Efo+MHeRwmR19BH9/CFnLo2uMdeGrmsspONGWf7d5J4VR9f9bWF15IRI0PasUp854Zgrh7SadJkp5ShTfLKHaUHWgAkYfnD3Sb3phO8c23awctPnQWa7HO/T2YcgDluYFygXors7MZeck21Xk7y3o7XAw8BQTxJmG4N8q+wT6A3iSD2Yo4YHKD2FsIL/hB7/biCisGdkupdiIoEeNh6djY2243HSsRCvIwBlHxgjBcUA+wo52GC4Hktx+NVslaug==;bjn0aNhfDrHx4836/QBNXw=="
+secured: "OcyJ80jRcVek5SDsofWC6qxEq0vN65Al8hi+MZwyGAbMRC+8mCEdCW9QzybubE7Dz1wFT/cER+xbvLpmoXaP7/52ktH7dGG5ShSdcXVXJ6t/mlQCeVFd/C/g8M05EVslhht3vCMs4nMvCiOufgy8oLEoe5qp9SqedwolZGoJuiP687upx6hdv3FbqvnKLh5XbcCM4jT+kWFRk+tpUkscnZtVTb8/Oaj66D0tI+jEfJnJTSLn58H/9596Soa7dkblh43QUXvdMpIiOaE21qg3wNrWl088F77rP3X1V4hohCCVa/zBaNeR1sBwdVLKEXRGQp6WhlcqUnRW5SQoyE2eVNyEt0w9p3mas1xRwpOwbQk=;rzvSn5L9q6QpRYu24CTQvA=="
 ---
 

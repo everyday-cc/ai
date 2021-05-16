@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Ping An Completes $200 Million First Close of Voyager Partners Fintech and Digital Health Fund"
-    excerpt: "Company Limited (\"Global Voyager\"), a wholly-owned subsidiary of Ping An with a significant track record in venture investing in fintech and digital health. In 2017, Ping An committed US$1 billion to support Global Voyager's investment strategy."
-    publishedDateTime: 2021-05-12T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419754"
+  - title: "Temenos Welcomes Industry Leaders and Rising Stars of Fintech to Make Banking Better, Together at TCF Online 2021"
+    excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that 10,000 business leaders and technologists will come together on 26 - 27 May at TCF Online 2021, the flagship event in banking. The two-day interactive,"
+    publishedDateTime: 2021-05-12T06:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-fdb0799215174bb6b0d38d5e1fd82fdf"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Lcoad339aqfrwBfwJIZNhPU7eBTjUGXbGS+GL535T6aqI+BXZVNmprbaPUF0DNW3Jlwn4YH+e/auGML0uic071S0rfTVSe/AL1I717V8hh/ul8BXhPlkWbWLRwJjjAFjlzKistveHJDN5Bs0QL4e2gxUc5TINhIJ/a2aJHJamXxRTmnt2LsSLyvv02/3GAfHR9bHtqp8htyZD+CS3RW3djm0cCmpZqSZFxCIrmuXsDeAIfS1LNG8oEv+taG57o0EXc5x8wh9UK5WGt69WBa2ODW07BPsKpGZ1GnGUFykRGmzGY7WUfA2Qi68TIWyQTDSBodwO1nt3n0y2t8WO3tLj2wW+dPD+lIOup5JMUZWBBo=;k5WBqkB8uI7047JxN0nFCg=="
 ---

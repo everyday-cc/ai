@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/investments-and-expansions/19743-softb
 webUrl: "https://www.thefastmode.com/investments-and-expansions/19743-softbank-invests-in-video-ai-startup-jellysmack"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "SoftBank invests $60m in Malaysian AI firm for a 23% stake"
-    excerpt: "ADA will use the fresh funds to develop its AI models, which will focus on precision targeting for the marketing industry."
-    publishedDateTime: 2021-05-11T16:27:00Z
-    webUrl: "https://www.techinasia.com/softbank-invests-60m-malaysia-ai-firm-23-stake"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
 
 secured: "7po1FM20nA+cImq2XMwK8AxvuIuL1sc0Qz+Z7w1xXSnM2f+4jOCcJCmeEYkS8DSaAXxlOQpRhGa3Snv5lKoMEx98VSKnuAejz85f/5mbvBLyIknk8EUxlZQpg32B4HYPaLmHsrjXXXs1jwTZNnfB7MsiGLuZTWvYqB5ZtG/WbuuEkpQSA7ivX4ztZRUpQAlQZtrJGW6p5m1ERxroR/lVO4Zs1/OKh11/jIX1LGNJJ0rS0AD2CoDuqHM+eQhms638Fx4D/nhZslNmxgJkvfSj1e3B+L6Pxux9CgCBfcCZVOLb7+/ZOxomdeW9m+cie2R8kkTHc/vZGUVcSi7YTUyRXQJcju9QJ0WE0J5nOr50P6RJXNnlgKGJRsYwoO8jnR7Su7eUbb2mcCnnlDUB8bYmR8cP/V+OciRsrmhtJmbFKzkty9VNuUNx/1QMcPq3FTrLzei3XrbNoihhy29RK9eZJPL6zHM7yj1c3MA6DkSv+O8qUH+nGSpGpMWwtKcX2nwkTjjnocmP6NQP0eYw28W+Bw==;HZE0sy8fM06Vo8wi3FWDGw=="
 ---

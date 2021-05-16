@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-05-04-5-virtual-physical-therapy-startups-to-watch.md",
-      "title": "5 virtual physical therapy startups to watch",
-      "excerpt": "Digital physical therapy outfits think they can improve outcomes and reduce costs by making it easier for patients to stick to the program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
-      "originalUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_406527128-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-04-achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.md",
       "title": "Achieving true situational awareness in operation centres with computer vision & AI",
       "excerpt": "This webinar dives into the growing capabilities and use cases for Computer Vision and AI in Operation Centres and beyond. Join industry innovators Userful and Security & Safety Things in this round table discussion on how Computer Vision and AI helps ...",
@@ -1136,6 +1093,49 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
+      "title": "IBM to acquire Turbonomic for AIOps",
+      "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
+      "originalUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
+          "width": 736,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
+      "publishedDateTime": "2021-05-03T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

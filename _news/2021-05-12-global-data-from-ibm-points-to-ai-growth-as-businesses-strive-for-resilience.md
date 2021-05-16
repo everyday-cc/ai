@@ -57,36 +57,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "IBM CEO: Every business is going to adopt AI"
-    excerpt: "Arvind Krishna, CEO of IBM, compares Artificial Intelligence to electrification at the turn of the last century saying, \"AI is going to infuse every business and enterprise in this century.\""
-    publishedDateTime: 2021-05-11T15:45:00Z
-    webUrl: "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200420162135-ibm-arvind-krishna-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T16:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
     excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
     publishedDateTime: 2021-05-11T20:30:00Z
@@ -192,6 +162,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "N3n9OU0pPNjCGxWabKR7qOxcrTPWFVvlPGV1SZXXom5jRpSB33HJ1BLtBR/k4NjRgyxy779ORir29+CUz2KIOOz+BLNwjikacjq+e3pf1EYih1ZdMjVeLlpxzI/oGEb+i2j/y/IkuesfY01f5TnJihBNF4F5GBBqnbDdwAUbzvpU54Hc2ESDBMIdtzAvNfBmHpL9PNGCEJC0f7gs9eypMPBpCwKu46aV1P8QWu12wJv9gamund27wuzMV6tYLpgtr5gJC4DmFWuLnYNy6MxT1wo87EP5kZoNoXmM1WeFOvuIbay6I99pYlgUsgRftMDPRMyecnUkyAWZ8IeC+NaOukoyT4qQwwyj/CDFFp3I6SM=;/VDlGRPQ3QkkRjbKczftaA=="
+secured: "zk+/u+MTiN7YKG6fPZ6cLgBCaxRjJ4KaseIbVUcQ91JuuIrRA18S77rwiwG37DbrXcsPE/tJY1mkxbUAuEIULC2ZpyZbX07FamMEfr9isGRHzOz+QxQ+m0RPiBF0vPioqHXIPYpXCqOFZiIlKU1vfcG2cnZh84Qg2G2TNpIPhluiCKH+XH5blS7U2zv/cR4Zsl7SEEiu64rqT6bca4qm0FUPTp3a1XWobxlE77vSGU8SUViKiN+/lhZ+TpCF1cwzFbfTT29ZdBiw7Df/7PWsGFh4+HZWDpWTxZglWKI/uC3SyCYSXUiHJOM+kiw+F+m3HEX24v7eNvwoPscNQcG9Y9NjMqyT5pgpjfLn1aOx1fI=;9TrBM/sxUv7UVDVqMoW+dg=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights"
-excerpt: "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,"
-publishedDateTime: 2021-05-13T12:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095"
-webUrl: "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095"
+excerpt: "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in"
+publishedDateTime: 2021-05-13T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html"
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Pg3HbESW/e92cIi+Vu/RlDxuKsCLr4EBvFnSWP/ub51eY13MiJ2skPbZYB7v1skHsX5IGCGviVECApOsulkB08VFtadR2sjEd1cWf8saVCxdndJ6/q6D4j25hgLKVuP4R0Pow4FZFeKUQTtk1+Yo+crVAVVCSVofXtpu8HOVz01qFwAeTWX52GROS5gIgpaeqnyUTXvU6FN1D0m6RShEymhyz07uPhc8aTpJ45m9NKw6wZ/8XVsdBkdfJ+LVySut0HGZjb2Vw/HetkybwKOctvwayxR2YZRfI2+yS9nU8fU9mrVISzevcKCeApgb6+/6tUpo570W24JJq/TnfFiSTdniRDVWZWSRvbVr1R6P+uE=;XHlw8Msk3giHTnzaf7vqpA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "xcfujIApXPKPR20+kxPm9Q1Rp4FXSeQecZM8FdSrsd47BfElaXAQsOtgdtSopn+mGiiGZDygrLc3/k2nbmz+1Fpssak4KerxBrU4znduqCpZ5Jja42oNBmS+51XvsyH69lTKJDbwz5G/my4Tl2tlOmAqgNdnVu/pR+ySz0FYvXp6nwEwrrYitZ8CGpJLTuWmTJg4loCak6b0oDAWRNbwL80KqNifZ/9JgBnfIIPDq88fY5sZAUOPAAHpAElylaLH2UIF/ktsbxI98NuLtQhUDf3LR+XOku60vl24cYDiqgTA0gMY2j2cp/UuTId6VDr7eqBCkOqgcNV54SpzcOtUZN0KX719FnMrMUHocVJ9QfA=;5rp6ftAJAD478QB01MLk9Q=="
 ---
 

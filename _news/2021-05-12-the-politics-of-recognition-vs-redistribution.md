@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Corsight reaches facial recognition value-added distribution deal for Asia"
+    excerpt: "Corsight AI has signed up Netpoleon as a distribution partner for its facial recognition in Asia to increase availability of the technology across the region."
+    publishedDateTime: 2021-05-13T22:48:00Z
+    webUrl: "https://www.biometricupdate.com/202105/corsight-reaches-facial-recognition-value-added-distribution-deal-for-asia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
   - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
     excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
     publishedDateTime: 2021-05-14T23:04:00Z

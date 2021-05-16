@@ -21,49 +21,51 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches"
-    excerpt: "Amazon has yet to announce whether it will lift a one-year moratorium on the sale of its Rekognition product to police departments."
-    publishedDateTime: 2021-05-11T16:27:00Z
-    webUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/"
-    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
+  - title: "POLITICO AI: Decoded: AI.gov — US states move to ban facial recognition — AI and structural racism"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-05-12T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: POLITICO
+      domain: politico.eu
+    quality: 62
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
-    excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
-    publishedDateTime: 2021-05-13T16:37:00Z
-    webUrl: "https://www.linktv.org/covid-19/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition"
+  - title: "This facial recognition website can turn anyone into a cop — or a stalker"
+    excerpt: "While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web."
+    publishedDateTime: 2021-05-14T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
     type: article
     provider:
-      name: Link TV
-      domain: linktv.org
-    quality: 39
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 58
     images:
-      - url: "https://kcet.brightspotcdn.com/dims4/default/f52f46e/2147483647/strip/true/crop/1230x646+0+87/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2F49%2Ffa%2Faaad4a2f4099994b4db269146365%2Frtxb6owt-layout-comp.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 954
         isCached: true
-  - title: "Corsight reaches facial recognition value-added distribution deal for Asia"
-    excerpt: "Corsight AI has signed up Netpoleon as a distribution partner for its facial recognition in Asia to increase availability of the technology across the region."
-    publishedDateTime: 2021-05-13T22:48:00Z
-    webUrl: "https://www.biometricupdate.com/202105/corsight-reaches-facial-recognition-value-added-distribution-deal-for-asia"
+  - title: "Top 8 AI-Powered Privacy Tools To Fool Facial Recognition Systems"
+    excerpt: "While governments of different countries have placed mild to strict restrictions on such tech, there still seems to be a lot of scepticism and fear around."
+    publishedDateTime: 2021-05-12T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-ai-powered-privacy-tools-to-fool-facial-recognition-systems/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
-        width: 800
-        height: 390
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/FacialRecognition_AIM.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "Gsz8lModcubpe/zEklHip4hGgVCIlB3619zFmsYbshNmXxq2lnxEyRFsB+Yq7uffNUmhFxNtfYLEiNpx4xzNCX38dbW5D2iNhzqlKnfP5DQcKrBTCZXE2uRnVnY8DzVByu9yJ6LzIf12wEP5BinQgLRBdWVm6WISm+Fbsphz9fVIQyRPh+uREqETd1O/3u1f0t0ce5i6UKR63UTMygDAkSaTxLYULKuE26imbgfEckQrAlHPxUb/RVLnKS9hHPKDtEmObeuQxBYoN3bfNLCoTW5j6ZqFjwgDYVF61M8keTABIotcsdM/mXZDRrjgOo457qEe3KowIUgfEz6gtLItD03rg7ziFkG/ZtPQ8TSIVbh8pr4m+gThBn0NoV31UrDRFVjLscm3dmFLjW9eyPuvETLNVG2jITmcJDWHibg4kgk0A1XJK+IqMPRF9HWhAzc8p75gRmxvRao4dIBKJ9XzOKBEFDQloAQjALqVG5oGnsCScJAXo6ieipj5kxUVApQyjvi5rzt+bz9Cfdif99ioiw==;Z/QR625UZ9EB1iXTRnuFsA=="

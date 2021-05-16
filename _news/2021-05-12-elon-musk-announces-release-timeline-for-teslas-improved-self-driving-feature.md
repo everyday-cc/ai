@@ -59,6 +59,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
+    excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
+    publishedDateTime: 2021-05-16T09:31:00Z
+    webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 59
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
     excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
     publishedDateTime: 2021-05-12T12:46:00Z
