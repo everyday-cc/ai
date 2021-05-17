@@ -53,17 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Artificial Intelligence In Healthcare Service Market Development Trends, Competitive Landscape and Key Growth by 2026"
     excerpt: "Global Artificial Intelligence In Healthcare Service Market Growth Status and Outlook 2021-2026. Artificial intelligence (AI) in healthcare is the use of complex algorithms and so"
     publishedDateTime: 2021-05-12T09:16:00Z

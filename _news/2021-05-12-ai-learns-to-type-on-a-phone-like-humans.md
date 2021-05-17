@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-05-ai-humans.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-humans.amp"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore.com
@@ -35,34 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "AI learns to type on a phone like humans (w/video)"
-    excerpt: "Computational model precisely replicates eye and finger movements of touchscreen users - could lead to better auto-correct and keyboard usability for unique needs."
-    publishedDateTime: 2021-05-12T07:26:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=57982.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/news2/robotics/id57982_1.png"
-        width: 400
-        height: 338
-        isCached: true
-  - title: "AI that mimics human typos on a smartphone could improve keyboards"
-    excerpt: "An artificial intelligence that mimics how people type on a smartphone – including making errors – could help improve the standard of on-screen keyboards in the future"
-    publishedDateTime: 2021-05-12T07:12:00Z
-    webUrl: "https://www.newscientist.com/article/2277214-ai-that-mimics-human-typos-on-a-smartphone-could-improve-keyboards/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/05/11143844/12-may_phone-keyboard.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "V70XaWh0+PtS2xqC81Ygu7Dhi1Hm6Xmg0J75hkfzglW+lzKJO3DDNBMhNUHS4UdKiQK8dZwBIY9HGB304w+Kof6ns8q69VF1Z77+CZ6FF5eI0COOo/iuB+fBVn7J7TL7ayOM4y5PXCJtAB5fowI3X36D85DgasiwP9AfO/uum5mGOkCj5IreCH1aah0L1BeuxCrJpobdukme1oX0L9mSb8fjFBwO7Jxsjk8aoLfseFoohdz95X1JXOfkB9IRaCAoubaFnnHVu87G50YrRckZ9337VN58c2iTX5bSWljoh2elHf3ctqONRpnBE3oZMUMGLpTjdG4dhcYUSayq51x7w4b3kMmd1gC8rCb4PShCmKD7TyLO/mxluv4k65CM+XvG3+suSOb3gUjg7hhCVn9cAu9EoHZqsMvdpO/RMEacijDL1PZ6CO5yxBvjLUYj/+XPkSIpqI4MQAzRhFxQm4To7CaAnafrxnsc4Tca9ABNcV+bPQFgI+aXvi+USJ2FGYiuFxWxKrRqCg+RRLDEZ/kp2Q==;4gC1GCq031jXiGgPosCdAQ=="
 ---

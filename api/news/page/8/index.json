@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-05-07-ibms-new-2-nm-chips-have-transistors-smaller-than-a-strand-of-dna.md",
-      "title": "IBM's new 2-nm chips have transistors smaller than a strand of DNA",
-      "excerpt": "In a shining example of the inexorable march of technology, IBM has unveiled new semiconductor chips with the smallest transistors ever made. The new 2-nanometer (nm) tech allows the company to cram a staggering 50 billion transistors onto a chip the size of a fingernail.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
-      "originalUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c077382/2147483647/strip/true/crop/2700x1800+0+180/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2Fed%2Fec587f174302b746793b55afd657%2Fibm-2nm-1.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
-      "publishedDateTime": "2021-05-06T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-07-microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers.md",
       "title": "Microsoft – Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers",
       "excerpt": "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group (ISG) ( Nasdaq :III),",
@@ -1154,6 +1102,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-how-ai-is-helping-nvidia-improve-us-postal-service-delivery.md",
+      "title": "How AI is helping Nvidia improve U.S. Postal Service delivery",
+      "excerpt": "Nvidia says it's helping the U.S. Postal Service to expedite and improve the reliability of mail delivery using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Postal-worker-e1620240510105.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/",
+      "publishedDateTime": "2021-05-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

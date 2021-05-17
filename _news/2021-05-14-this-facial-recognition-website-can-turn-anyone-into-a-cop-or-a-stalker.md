@@ -1,49 +1,43 @@
 ---
 category: news
 title: "This facial recognition website can turn anyone into a cop — or a stalker"
-excerpt: "While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web."
-publishedDateTime: 2021-05-14T10:00:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
-webUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
+excerpt: "While most facial recognition tools are reserved for police or government use, powerful PimEyes is open to all, whether they're hunting crime suspects or stalking women on the web. Researchers fear there’s no way to prevent it from being abused."
+publishedDateTime: 2021-05-14T16:31:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
+webUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
 type: article
-quality: 58
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
-    width: 1440
-    height: 954
-    isCached: true
-
 related:
-  - title: "POLITICO AI: Decoded: AI.gov — US states move to ban facial recognition — AI and structural racism"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-05-12T09:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
+  - title: "Is creepy facial recognition app that claims to find ANYONE online a stalker's dream? DailyMail.com found it DID recognize celebrities and people from their Twitter bios ..."
+    excerpt: "Facial recognition search engine PimEyes continues to expand its breath, now using more than 900 million images from around the web for a reverse image search."
+    publishedDateTime: 2021-05-15T00:01:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9579783/Facial-recognition-website-PimEyes-searches-900M-photos-people-online-scary-accuracy.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9579783/amp/Facial-recognition-website-PimEyes-searches-900M-photos-people-online-scary-accuracy.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9579783/amp/Facial-recognition-website-PimEyes-searches-900M-photos-people-online-scary-accuracy.html"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 62
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 23
     images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
+      - url: "https://i.dailymail.co.uk/1s/2021/05/15/00/43007530-0-image-a-17_1621033450729.jpg"
+        width: 636
+        height: 382
         isCached: true
 
-secured: "fQlljF/C8j03SOO+yQiCVlfzijfuNgjI73DIBHbI6pPMLY4EQFWG9Lb0KROQDCfAHFVP/TSeiYgyt4dFYR6hOESGBsV/jebsZ24Wh6wO7YrAPUI8haKXqs1F5NA+xE5BmLbrGjtw+QGoAkHs6cauNHIEk65Y3S5aFYRspGzY45XPFSarcIh8zrCTtdlcDvvVRcUixiejilv1kzDqDkFybCB5qVa0gpK86jKOE+HXuQQvQBac9Xqe0lMAWWO1nV9QL/1E2K6OZX+HmjRi4YdkhgPP16j/SaVQWf9WfuV4JKr5YMIosK2REAp+68Jf1KQ7gFs92hQ+uAeiXkKW/hJzUsJgufLCkGFA9hkjwdUh8fs3aNm3pSflISXciAKfZPoaLOplln4FW4yLSZCnTffKePQYxjy7ichdpWyf7UWeczccB/b0klufOT0pxa6zzd152HNKVmaaSj/fzaJgBxMOf7GS79qIceguvsK5v3Rbfx9qEKQxDc6+AG4jbXdFdReSnX0l3Kbbbk5hce8u8i2jpw==;r/shPZfO3YEaFJkcrzHc9A=="
+secured: "AuaujUR1j1K4oArxCbG+yyUpchBxMVz+Qd7/2UAAmByr/OVISoDLUTlLvP/QcsD1SeMEeXdsV5FLT+hY/gH4TiT8yaPeKTwmmajFS7HARzjQRceknNeGI7mcQnqh5uvqnYVEB0+U3enCwvnSWjFurx+oW2sg2wX1RqKGkRkcsVbgpHBnaZCQ0yWI1xJUc/nuXKuO4cLNJjPReRtUcchSAac0KZBzBlsKU7vIx8wYNL1P8c1Zm+s2B3iU57RFj2Cy9Deym8ag64w5DsQjNiGmpAdbGUyLndhEjvVPu21OEUF/mlDK2qM2SrBgqhb+ytG1Pc00ybJqiUBCcMbNhFG4jJGOL0U9UdTtjMtx4OJ7aAk16iIYhix86zkEgL62GiEmrflLdWIvlZMTmRTHHqdA+jDrIwG7F9hsFkd0+QqFiTZBdJjaWcbLzUG3GDa36WLdtgLuC/1dr47Wa2SQGlS0EsA6x2exZAm/G2I1wK5cfjGYIL6/5PBIEARbHY6Sx/fMDz1uduOhVC4H0oT1frU2gg==;ue//HC+hn9dXaPCeIr1Awg=="
 ---
 

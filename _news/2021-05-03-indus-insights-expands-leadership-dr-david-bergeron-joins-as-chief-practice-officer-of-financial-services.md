@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Indus Insights Expands Leadership; Dr. David Bergeron joins as Chief Practice Officer of Financial Services"
-excerpt: "David Bergeron, a seasoned advisor to banks and other financial institutions, joins the leadership team of Indus Insights GURAGON, India and WILMINGTON, Del. (PRWEB) May 03,"
-publishedDateTime: 2021-05-02T22:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/p20907809/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-s"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/p20907809/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-s"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20907809"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20907809"
+excerpt: "The company creates value for its clients by combining Machine Learning and Analytics techniques with a deep expertise of the financial services sector. This unique value proposition has allowed ..."
+publishedDateTime: 2021-05-03T01:04:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-services/article_96b31880-72d6-5ef7-9bc1-2ad231bf1c42.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-services/article_96b31880-72d6-5ef7-9bc1-2ad231bf1c42.html"
 type: article
-quality: 6
-heat: 6
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "MwnpG3pg295+nBGuNsVGWEw6dgiZ2r8Uwf/7oa/mWLgKdf5sqwVmBvkgcooM+pCg6UYffBqYJsIpjPjhlIFX4bT+ezLYrKGE3X61Zuq16QDmt+JQBRqovju33xrEkI1VRSPDurNWbfNYb/b5vH77b1/WVL0B2dD4fd4oVJC6OHW6/GKEHL+ctfi5LD5SsFTsW3Cs1H9421bi/lW8NGMygJqAhdB8N7KmJveH19KOX68XFiocrQlWZgdFDVNaDMagOzXbjFyPtaAw4DEXtHsRYex6dTovkur4PyNLFmgc2KQIjHPMcz916sQi/dFJCEIacK0sD4kc2jh5W+txtIv5ZvTBgKa9FqB+YxaO/Ewz1is=;iMM2B5jRvEBTKqj2zKbTJw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "g2lPjVip0px+bgLkAhmRV2gUdaO/nJL06iB/QHdUwail10fJOHRibf4YXe7YXekJlSYO40c8NqHnyBZxlOhiksjVoMwQtfCIRXV5m4QC0ozXOqXxRoKZkhzyXZ/W7sPb/r3haPJNAD/pnqScvYj6uN8pZHf/+DbDPL3t0dYa12WD/huyPSvz/g7/mSRXfYhPIAh6GYGfW8VUAZG/G+fOequjOrB+oJrrNI9J8O74RnHSkICKP9GIyomXSzhQHW/oV82JLaqzWmxVHJKIGud/EAwuq2h/UY8rTKFd/wgWaZBiTmB+m7mpIW1+1bMupJaMRkqBSHwR69YMbU0hku33d8fZx5j6Za4v1TrkX+1jKeI=;zRv3w8nvYlayjlf/jI3YjQ=="
 ---
 

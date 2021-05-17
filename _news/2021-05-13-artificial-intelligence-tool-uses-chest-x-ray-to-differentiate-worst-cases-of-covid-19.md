@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/05/210512083411.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/05/210512083411.htm"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-    publishedDateTime: 2021-05-12T09:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
-        width: 1618
-        height: 1400
-        isCached: true
   - title: "Artificial Intelligence Accurately Predicts if COVID-19 Patients Will Develop Life-Threatening Complications"
     excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
     publishedDateTime: 2021-05-14T21:56:00Z
