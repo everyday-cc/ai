@@ -7,7 +7,7 @@ originalUrl: "https://www.raconteur.net/technology/ai-integration-pitfalls/"
 webUrl: "https://www.raconteur.net/technology/ai-integration-pitfalls/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "When AI Becomes the Hacker"
-    excerpt: "\"It's AIs as the hacker,\" he says, rather than hackers hacking AI systems. Schneier will discuss his AI hacker research in a keynote address on Monday at the 2021 RSA Conference , which, due to the pandemic,"
-    publishedDateTime: 2021-05-13T19:12:00Z
-    webUrl: "https://www.darkreading.com/operations/when-ai-becomes-the-hacker/d/d-id/1341004"
+  - title: "Using AI to Take the Bad Emotions Out of Trading"
+    excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
+    publishedDateTime: 2021-05-17T13:24:00Z
+    webUrl: "https://www.benzinga.com/news/21/05/21152396/using-ai-to-take-the-bad-emotions-out-of-trading"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21152396"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21152396"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://img.deusm.com/darkreading/VBabutsPhoto_Bruce-Schneier_02.jpg"
-        width: 700
-        height: 467
+      - url: "https://www.benzinga.com/files/images/story/2012/vantage.png"
+        width: 680
+        height: 451
         isCached: true
-  - title: "A new standard will bust open the door to artificial intelligence"
-    excerpt: "ISO 20022 prioritizes speed and security, creating a runway for major new innovations like machine learning, says NICE Actimize's."
-    publishedDateTime: 2021-05-13T04:01:00Z
-    webUrl: "https://www.paymentssource.com/opinion/a-new-standard-will-bust-open-the-door-to-artificial-intelligence"
+  - title: "3 Artificial Intelligence Stocks Leading the New Wave"
+    excerpt: "Artificial Intelligence, AI, may just be the next big idea. It’s not quite new – computer scientists and programmers have been working on ‘intelligent machines’ since the 1950s, at least – but the tech is finally maturing,"
+    publishedDateTime: 2021-05-13T00:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-new-wave-2021-05-12"
     type: article
     provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7a0dd2c/2147483647/strip/true/crop/2400x1260+0+1170/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F74%2F7d%2Fbc5629294e9db77ebedcf787b746%2Fbuzzard-john-niceactimize-opinion-pso.JPG"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "cTXjgXdb4a+MEYrPjSDntNs56JdW9X0JdoHcU5OspnBbq8vXkdYbiemz0xAAUIgSI3ZjKsaib4xU8ib8dI4J07RgKCD3BXMpD6mgQn5CxA4JLpwZ31X5cR5PU+ZDv6QOWIp8cZ0ZeXarPCVlxtrIpvVJTp5wvdPr3i8eDAEvdkQ1JNW2uL5quZwFdoV2cCQ3wX3xt9xyZd/dU3YDSJeknlaYTTgGAdMtg9cORpiYh4l4F0MG8TzcfmN7pues2RJjIB5Ys/Mtv41tI375IZPRqzqx+zDLN2utvcEYY2khCX6OtGdq//+GzXIhQczBNxk7ZdRIOuaP0xBQXWBJZYibSDj2R8oIeq6hpbcSV2IKs5hgwXocogdbHVq9Lj8Nd1JXnmaALc4xZcK04C6bL3iBxPqA3YnEBUAiZC+s1rq2WK8qxJcduzydEMTU+cP2+sVIVTtMJ+tCrMbR8pttqkiXBTDlyjDignnFvpkVCFGOVvZhBjI82XQG9qBq1x/53uj4kTKlF9Zw5ketAXlyUQcnbQ==;H8XMngMg6eZkkDo67gYCLQ=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Vendors Can Navigate the Health Care Industry"
-    excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
-    publishedDateTime: 2021-05-17T12:25:00Z
-    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Role of AI in Improving Employee Health"
     excerpt: "Employee Wellness is one area where the application of AI has demonstrated its immense advantages. Powering wellness solutions through AI has helped employers create better employee experiences. Furthermore,"
     publishedDateTime: 2021-05-17T09:24:00Z
@@ -85,6 +69,20 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-05/17/full/1621230829-1409.jpg"
         width: 352
         height: 233
+        isCached: true
+  - title: "Bias a Chief Barrier to Artificial Intelligence in Healthcare"
+    excerpt: "The potential for algorithms to perpetuate bias and exacerbate disparities is a critical hurdle for artificial intelligence in healthcare."
+    publishedDateTime: 2021-05-17T15:52:00Z
+    webUrl: "https://healthitanalytics.com/news/bias-a-chief-barrier-to-artificial-intelligence-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"
+        width: 689
+        height: 407
         isCached: true
   - title: "An Optimist’s Take on AI and the Future of Architecture"
     excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."

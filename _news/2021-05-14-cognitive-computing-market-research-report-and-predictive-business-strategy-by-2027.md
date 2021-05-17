@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Far-Field Speech and Voice Recognition Market Research Study 2021 Insights with COVID-19 Impact Analysis by 2020"
+    excerpt: "The far-field speech and voice recognition market is expected to reach more than US$ 4339 million by 2026 growing at a CAGR of 23.80%. Global Far-Field Speech and Voice Recognition market is segmented based on Application as Smart TV/STB,"
+    publishedDateTime: 2021-05-14T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-research-study-2021-insights-with-covid-19-impact-analysis-by-2020-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "BLj0mG0/6yPnrnKorg4ozRBV7zJgQaQYI8kTlbkgGtIJ4Gpxo+ZMoqjFh6IHTKRHZvaaum7w979HDFC1klNclJf0NlqHDAHtqy51MMncfkxKK3gcWeLzdpsdbPBAN0ipW7MvagtQZZykeCvGcqPMoWeyy4s+My0V+YyVQs6m3HcFSusRRpBYdPTq5Tk/XvG0uOX7ftoL7W+wTosYdMuzBY3zoRHrfrECxbDqfW/dgm+FIqDQTzSy1f7P6vvBgpKYyJrfGksjnzlr4U5RLx4VdYZf7PTDVdOSNcQqh2mooPWRiSZQeBO6VEljm0E5K0t+yBdp8Akn8OMgcMLfYqtHam2SVohZF+WRaAAjVEabKmY=;fAjBqtmBhc/QOWI6tvZLsg=="
 ---
 

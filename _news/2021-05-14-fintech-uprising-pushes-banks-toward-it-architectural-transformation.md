@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Provider Quavo, Inc. Announces SOC 2 Type 1 Certification Completion"
+    excerpt: "Earlier this month, financial technology provider Quavo, Inc. announced that the company received their Service Organization Control (SOC) 2 Type 1 Compliance Certification. This certification reinforces Quavo's service commitments and confirms that all system requirements were achieved based on the trust services criteria relevant to the security standards set forth by AICPA."
+    publishedDateTime: 2021-05-17T15:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-announces-soc-2-type-1-certification-completion-1030437449"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "Ping An Reports Successfully Completing Initial Close of $200M Fintech and Healthtech Venture Fund"
     excerpt: "Ping An reports successfully completing initial close of $200M Fintech and Healthtech Venture Fund. The company aims to raise $475M in total."
     publishedDateTime: 2021-05-15T19:27:00Z

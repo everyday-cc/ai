@@ -87,6 +87,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Watch GTA V get an AI-powered photorealistic makeover"
+    excerpt: "The sprawling cityscapes of Grand Theft Auto V have been given an AI-powered makeover that makes the game’s online world look almost photorealistic. Researchers at Intel Labs transformed the graphics by training convolutional networks on real-world images."
+    publishedDateTime: 2021-05-17T14:10:00Z
+    webUrl: "https://thenextweb.com/news/watch-gta-v-ai-photorealistic-graphics-intel-convolutiona-network"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-14T121223.463.png&signature=925554eefeecb5d4248b0e660f85a52c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intel researchers use machine learning to make GTA ‘photorealistic’"
     excerpt: "Researchers at Intel Labs have created a way to make video game footage look “photorealistic” using machine learning. The experiment used footage of Grand Theft Auto V, and when applied it replaces the game’s polygonal environments with images taken from real-life photographs."
     publishedDateTime: 2021-05-13T13:38:00Z

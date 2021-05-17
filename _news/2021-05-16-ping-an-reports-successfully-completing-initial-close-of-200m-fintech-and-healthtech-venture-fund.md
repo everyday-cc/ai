@@ -41,6 +41,15 @@ related:
         width: 666
         height: 375
         isCached: true
+  - title: "Fintech Provider Quavo, Inc. Announces SOC 2 Type 1 Certification Completion"
+    excerpt: "Earlier this month, financial technology provider Quavo, Inc. announced that the company received their Service Organization Control (SOC) 2 Type 1 Compliance Certification. This certification reinforces Quavo's service commitments and confirms that all system requirements were achieved based on the trust services criteria relevant to the security standards set forth by AICPA."
+    publishedDateTime: 2021-05-17T15:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-announces-soc-2-type-1-certification-completion-1030437449"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "Global Payments to Participate in Barclays Emerging Payments and Fintech Forum"
     excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President and Chief Financial Officer,"
     publishedDateTime: 2021-05-13T12:30:00Z

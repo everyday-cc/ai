@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-publishedDateTime: 2021-05-06T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-vectra-cognito-now-available-the-microsoft-azure-marketplace-/2021/05/06/9363071.htm"
+excerpt: "Vectra Cognito now available in the Microsoft Azure Marketplace Streamlined deployment of industry-leading threat d"
+publishedDateTime: 2021-05-06T07:08:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210506ny68216/vectra-cognito-now-available-in-the-microsoft-azure-marketplace"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "J3FWZepcDa9+3aLt8kVV/L9VsPOYi1aSRdDcGOpoQb8RXQAyU3L/qTUsVpjxsYxu/CsVA+0fSk6uqOnNJ5otrgKN7MvwOvgwW8O35MxvpYQMlpoe68x3vRJTVOOubvs0lEzXxeYxGpqiObujQ3j5nmVU7bEOCW8vkwzeVFocURWp2jGU7k5SGwrNmJDlqjez3MzYfkHXkvZFsqn4skQFYdx6HGknkYnOfPVcOss15CaWDd3wHYihIPdx74o1DsSqOu5yKhzBGcGXoQ/9jyDW+LMo18ROwjCw6Zt7KSpNi+Epaueo82wh/OPhLwQIVllxZgYgwGKgbOEkjTvz0HewT2E5b+dESKxW5gEAVJdzEhk=;sqisCbhowlOl6rsQ8SwqoQ=="
+secured: "fPzSN0qDmh/o5tZVf4VWMmPwme/iohgWmiadELq1U8YahmbJ1z6o88CkIduQKGM6QYSrZQQjH28tzqsHniTCLqF8/LYJbIsRDk3UcJWIODenzREusS5oiCbe5/ZAY1ZC5fVzL+OD+9wUZosyokPnApPpAG16jMQxu55O5jhhnxhjRY5Hz/DPoDBKlRdDjihxdsyXlnzwKVgPeQ0r6NYyKfuT3Gtx0YoYxQ1vmdwxgXAIpL5w7wPa8NmYvN2lJtkuQCGyjFVMEzdlNjEhFA4mPB6hyGQu4m2EsHOHTucvHDivQb1GLnpSX1jnyBcWceOaSj1xb/dfYAeg9NNS4wlK9RxP8DX7fIXfshnhSUb6EFw=;WFeOgNJKzsjTj8v7MaIksQ=="
 ---
 
