@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphab
 webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo And Cruise Said To Be Seeking Approval To Commercialize Self-Driving Rides In San Francisco"
-    excerpt: "Alphabet Inc’s (NASDAQ: GOOGL) (NASDAQ: GOOG) self-driving subsidiary Waymo and General Motors Co (NYSE: GM)-backed Cruise have applied for commercial permits in"
-    publishedDateTime: 2021-05-12T06:15:00Z
-    webUrl: "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21075158"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075158"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/w1_riders_2_0.jpeg"
-        width: 6517
-        height: 4345
-        isCached: true
   - title: "CFO of Alphabet's self-driving unit Waymo departs"
     excerpt: "Gerard Dwyer is one of several executives, including CEO John Krafcik, to leave Alphabet’s self-driving and autonomous vehicles unit in recent months."
     publishedDateTime: 2021-05-13T18:08:00Z

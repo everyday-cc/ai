@@ -88,22 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM builds new AI capabilities, hybrid cloud centre to accelerate digital transformation"
-    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
-    publishedDateTime: 2021-05-12T05:08:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Highlights From IBM’s Think 2021 Conference"
     excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"
     publishedDateTime: 2021-05-14T09:30:00Z

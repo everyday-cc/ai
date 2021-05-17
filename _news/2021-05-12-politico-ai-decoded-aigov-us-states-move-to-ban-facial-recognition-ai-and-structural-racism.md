@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 954
-        isCached: true
-  - title: "Top 8 AI-Powered Privacy Tools To Fool Facial Recognition Systems"
-    excerpt: "While governments of different countries have placed mild to strict restrictions on such tech, there still seems to be a lot of scepticism and fear around."
-    publishedDateTime: 2021-05-12T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-ai-powered-privacy-tools-to-fool-facial-recognition-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/FacialRecognition_AIM.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "2yeDyw4wHS6KrJfamZx5jjRsZXf3HPgbEwP4c/5PZvmPAdjsno1UtxhfL9tNJ4DwzjJJJ29YFMGBn33uVePM7SzDTJ7ZnbrEzxJwTMo2S6nQLAIpQbbOvWVFK1emFa/mxd9n21i0Vb5uS0Wcp/7LPm2lcCgKOziNvhHnufih1lEdwRqjYNPQzAFHX64dKbtJZHiz77IlMb5isJayDKEgUc935gffnifZ8fpAD5rUs3e59ENUsCxRrPuh32hdWTaE6J1bduJejkhzakmyQ2gqW2IhsjmnHYbrpN8QjeZ/TDjKM/dzOuqxBodk4iMSS8YSBfpVRst7sn97ysFDkShhVLZSlomx0w6SxlUY1CO06sGRgT4MlAGvzqYbEh7xRbKPuo0x3yfQV92Lhh4/+vjt5CilNCSyU+55+viDCnBozF9lLzxU7lGyokFYU+p/tEJXsJcNKmfmD2ZPs2o45mw8kJDEsZJW2gnD/dpZgSs5Ik2tGg7VayHiAPnaa9S9fnPvpNLetN4pqFfE1DFDShMXjQ==;3HQe2LqGCInfxZnzPvfH1g=="

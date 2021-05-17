@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-13-samsung-raises-spending-in-logic-chip-businesses-to-151-billion.md",
+      "title": "Samsung raises spending in logic chip businesses to $151 billion",
+      "excerpt": "Samsung is adding another 38 trillion won, around $33.5 billion, to its prior commitment to inject 133 trillion won into its logic business in a bid to become the world leader in that space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
+      "originalUrl": "https://www.zdnet.com/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2020/05/21/8398c9a5-4f60-4ea8-b3ff-142a685d34cd/2.jpg",
+          "width": 2077,
+          "height": 1427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
+      "publishedDateTime": "2021-05-12T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-traces-of-ai-weiweis-politics-at-skirball-cultural-center.md",
       "title": "Traces Of Ai Weiwei’s Politics At Skirball Cultural Center.",
       "excerpt": "Trace” at the Skirball presents three of the six floor panels Ai Weiwei created in 2014 for an site-specific exhibition in San Francisco on Alcatraz Island concerning prisoners of conscience, political prisoners,",
@@ -608,6 +660,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-expertai-adds-new-features-to-its-natural-language-api.md",
+      "title": "Expert.ai Adds New Features to Its Natural Language API",
+      "excerpt": "API developed by Expert.ai, an artificial intelligence platform for language understanding, boasts new advancements of features for its analysis capabilities according to a recent press release. Extracting emotions on a large-scale and identifying stylometric — meaning the application of the study of linguistic style — data that propels a complete fingerprint of content remains among the biggest challenges of AI developers within the NL ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/",
+      "originalUrl": "https://www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/expertai-adds-new-features-to-its-natural-language-api/amp/",
+      "publishedDateTime": "2021-05-12T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-new-kpmg-survey-says-ai-adoption-is-picking-up-speed-but-is-it-moving-too-fast.md",
       "title": "New KPMG survey says AI adoption is picking up speed, but is it moving too fast?",
       "excerpt": "COVID-19 left business leaders no choice. Across industries, organizations went all in on digital transformation.",
@@ -899,7 +994,7 @@
       "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1121,92 +1216,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
-      "title": "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience",
-      "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg",
-          "width": 1380,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-analog-chip-startup-mythic-raises-70-million.md",
-      "title": "AI analog chip startup Mythic raises $70 Million",
-      "excerpt": "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-82565981,imgsize-35602,width-800,height-434,overlay-etcio/ai-analog-chip-startup-mythic-raises-70-million.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "publishedDateTime": "2021-05-11T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

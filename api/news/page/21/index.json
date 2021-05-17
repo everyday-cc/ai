@@ -2,6 +2,136 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-28-dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns.md",
+      "title": "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns",
+      "excerpt": "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep Learning Recommendations Algorithm, enabling brands to predict the next series of products a consumer is most likely to buy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-dynamic-yields-deep-learning-product-recommendations-generate-exponential-/2021/04/28/9356153.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-dynamic-yields-deep-learning-product-recommendations-generate-exponential-/2021/04/28/9356153.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-artificial-intelligence-will-maximise-efficiency-of-5g-network-operations.md",
+      "title": "Artificial intelligence will maximise efficiency of 5G network operations",
+      "excerpt": "You’ve likely heard of developments that would combine 5G networks with artificial intelligence to enable autonomous vehicles, augmented reality glasses, free-roaming robots, package delivery drones,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations",
+      "originalUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/mobile-phone-artificial-intelligence-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations?amp=1",
+      "publishedDateTime": "2021-04-28T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
+      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
+      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
       "title": "Amazon releases DeepRacer software in open source",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -1067,144 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-google-pressured-on-racial-equity-audit-after-ai-ethics-collapse.md",
-      "title": "Google Pressured on Racial Equity Audit After AI Ethics Collapse",
-      "excerpt": "Gebru and her co-lead Margaret Mitchell were ousted and have blamed a sexist and racist culture as the reason they were excluded from conversations about AI ethics. Gebru is well-known for her work on a landmark study in 2018 that showed some facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iox2cS.BPlds/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
-      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
-      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (“C-FER”) and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft”) are pleased to announce that C-FER has entered into a technology sharing agreement with OneSoft’s wholly owned subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
-      "originalUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal.md",
-      "title": "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal",
-      "excerpt": "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal/article_f98b8ef5-fe87-508b-a4d1-d78995d993aa.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal/article_f98b8ef5-fe87-508b-a4d1-d78995d993aa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/bf/abf5b7cc-f6c4-5db1-aeb9-b6f2b70d0bab/6087e484cc749.image.jpg?resize=841%2C630",
-          "width": 841,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

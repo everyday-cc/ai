@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/08/communication_network_online_meetings_virtual_events_digital_conferences_video_conferencing_remote_teams_by_metamorworks_gettyimages-1223790400_2400x1600-100854037-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "IBM builds new AI capabilities, hybrid cloud centre to accelerate digital transformation"
-    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
-    publishedDateTime: 2021-05-12T05:08:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "Hybrid cloud and AI mix to change how humans work with software"
     excerpt: "Microsoft is coupling hybrid cloud with artificial intelligence and has begun articulating how it sees those offerings paying off for customers. It thinks that AI integrated into business and industry will solve issues."

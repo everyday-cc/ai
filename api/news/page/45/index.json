@@ -2,6 +2,135 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-04-06-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
+      "title": "John Krafcik quits as CEO of Google's self-driving car project",
+      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
+      "originalUrl": "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/John_Krafcik_ians_vd0m26dcijffe.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
+      "publishedDateTime": "2021-04-05T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-autonomous-endgame-the-10-year-plan.md",
+      "title": "Autonomous endgame: The 10-year plan",
+      "excerpt": "After its debut in 2015 in Las Vegas, the autonomous commercial vehicle has been making waves in the trucking industry. Some skeptical, some awed, some practical and some cautiously optimistic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21160184/autonomous-endgame-the-10year-plan",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21160184/autonomous-endgame-the-10year-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/fleetowner_33944_091318_volvo_trucks_vera_autonomous_10_1.606b0be5465da.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-us-army-looks-to-facial-recognition-access-at-bases.md",
+      "title": "U.S. Army looks to facial recognition access at bases",
+      "excerpt": "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
+      "originalUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
+      "publishedDateTime": "2021-04-05T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-google-translate-is-sexist-what-it-needs-is-a-little-gender-sensitivity-training.md",
       "title": "Google Translate is sexist. What it needs is a little gender-sensitivity training",
       "excerpt": "Adjusting the gender in languages like German is especially ... instead of millions – to adjust the behaviour of translation AI in targeted ways. When testing gendered professions in translation ...",
@@ -957,144 +1086,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-chinese-computer-vision-startup-raises-31m-for-rd.md",
-      "title": "Chinese computer-vision startup raises $31m for R&D",
-      "excerpt": "Clobotics, a startup that provides computer vision technology and services, has raised 200 million yuan ($31 million) in a preseries B-4 funding round. GP Capital and Xiaomiao Longcheng, as well as existing shareholders CDIB Capita and CDIB Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F8%252F5%252F33105818-3-eng-GB%252FCropped-161612795420210319%252036Kr.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure.md",
-      "title": "How NVIDIA Is Embracing Cloud Native To Scale GPU Infrastructure",
-      "excerpt": "NGC - The Hub for Cloud Native, GPU-Optimized AI Resources The NVIDIA GPU Cloud (NGC) is a one-stop-shop for accessing GPU-optimized containerized software. One of the key elements of NGC is the NVIDIA Container Registry (NVCR), an image registry with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6067ccb248a1db6867c0c223%2F0x0.jpg",
-          "width": 1000,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/amp/",
-      "publishedDateTime": "2021-04-02T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ceo-of-googles-self-driving-car-spinoff-steps-down-from-job.md",
-      "title": "CEO of Google's self-driving car spinoff steps down from job",
-      "excerpt": "IT WILL BE A COMFORTABLE EVENING AT 75. COOLING OFF EVEN MORE OV The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
-      "originalUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/kcra/35042856-new-google-logo-jpg.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
-      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
-      "publishedDateTime": "2021-04-02T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCRA",
-        "domain": "kcra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

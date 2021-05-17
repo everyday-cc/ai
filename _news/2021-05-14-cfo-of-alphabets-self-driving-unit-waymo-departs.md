@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo And Cruise Said To Be Seeking Approval To Commercialize Self-Driving Rides In San Francisco"
-    excerpt: "Alphabet Inc’s (NASDAQ: GOOGL) (NASDAQ: GOOG) self-driving subsidiary Waymo and General Motors Co (NYSE: GM)-backed Cruise have applied for commercial permits in"
-    publishedDateTime: 2021-05-12T06:15:00Z
-    webUrl: "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21075158"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075158"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/w1_riders_2_0.jpeg"
-        width: 6517
-        height: 4345
-        isCached: true
   - title: "Alphabet Waymo Self-Driving Unit CFO Following CEO Out the Door"
     excerpt: "The chief financial officer of Alphabet Inc's self-driving unit Waymo is following its chief executive out the door, the company said on Wednesday. Waymo confirmed that CFO Ger Dwyer is leaving the company."
     publishedDateTime: 2021-05-12T20:39:00Z

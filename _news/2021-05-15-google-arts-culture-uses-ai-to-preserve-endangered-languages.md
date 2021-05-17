@@ -41,6 +41,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
+    excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
+    publishedDateTime: 2021-05-12T09:51:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
+        width: 1380
+        height: 722
+        isCached: true
 
 secured: "0UYN65I4lV1nJAhw524tYNmstWFvEWQZ/k/9F9E8Tq5MIVV4v2LdjkRWX/ziqY6miUefws+dRvygw4RebuUjkBbtt11nRq3H5Dh7rfdipYD/p3WHevOOK4uxozU5jzujgWAY3DhcmCr8OuyryeUIhHmFu/bLP4OnGNwefS9tqEtJYYkgrjlvv25HvfWTWK4lIn+s5tWfYllSOHhg/hyiOS0ZAdSSR4JgTpiY8kW+LdavhXAYp09J7NMvRwxD+MdRKtL8hGcgwo5pYCEu88mWwIbuUMBndEtBqCLEHh4uDTaH0keM92/Lt3VXuWyf98XcQry/H81lkzYx4k6L5XUyaVPm1javnTqdzaYxMSdrP2M=;J/pwPG6oaJyupKTDS41NLw=="
 ---

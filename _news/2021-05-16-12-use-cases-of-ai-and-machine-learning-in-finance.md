@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-
 webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
 type: article
 quality: 71
-heat: 74
+heat: 71
 published: true
 
 provider:

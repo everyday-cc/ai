@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-17-google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine.md",
+      "title": "Google AI Researchers Are Dreaming Up a New Species of Search Engine",
+      "excerpt": "Imagine a collection of books—maybe millions or even billions of them—haphazardly tossed by publishers into a heaping pile in a field. Every day the pile grows exponentially. Those books are brimming with knowledge and answers.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/",
+      "originalUrl": "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/05/internet-engine-network-metal-strands-circles-central-post.jpeg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/",
+      "publishedDateTime": "2021-05-16T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-veritone-launches-deepfake-audio-platform-for-celebrities-to-clone-and-sell-ai-generated-voice-clips.md",
       "title": "Veritone Launches Deepfake Audio Platform for Celebrities to Clone and Sell AI-Generated Voice Clips",
       "excerpt": "Whenever deepfakes make the news, it’s almost always for the latest terrifying way bad actors have figured out how to spawn hoaxes or cyberbully people using the AI-powered technology. However, the media industry has also adopted it for more practical (and less sinister) purposes,",
@@ -200,7 +242,7 @@
       "originalUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -390,7 +432,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -795,7 +837,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1172,50 +1214,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
-      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
-      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

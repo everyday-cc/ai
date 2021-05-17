@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

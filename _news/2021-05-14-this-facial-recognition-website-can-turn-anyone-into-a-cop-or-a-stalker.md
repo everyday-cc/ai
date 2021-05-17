@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Top 8 AI-Powered Privacy Tools To Fool Facial Recognition Systems"
-    excerpt: "While governments of different countries have placed mild to strict restrictions on such tech, there still seems to be a lot of scepticism and fear around."
-    publishedDateTime: 2021-05-12T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-ai-powered-privacy-tools-to-fool-facial-recognition-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/FacialRecognition_AIM.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "fQlljF/C8j03SOO+yQiCVlfzijfuNgjI73DIBHbI6pPMLY4EQFWG9Lb0KROQDCfAHFVP/TSeiYgyt4dFYR6hOESGBsV/jebsZ24Wh6wO7YrAPUI8haKXqs1F5NA+xE5BmLbrGjtw+QGoAkHs6cauNHIEk65Y3S5aFYRspGzY45XPFSarcIh8zrCTtdlcDvvVRcUixiejilv1kzDqDkFybCB5qVa0gpK86jKOE+HXuQQvQBac9Xqe0lMAWWO1nV9QL/1E2K6OZX+HmjRi4YdkhgPP16j/SaVQWf9WfuV4JKr5YMIosK2REAp+68Jf1KQ7gFs92hQ+uAeiXkKW/hJzUsJgufLCkGFA9hkjwdUh8fs3aNm3pSflISXciAKfZPoaLOplln4FW4yLSZCnTffKePQYxjy7ichdpWyf7UWeczccB/b0klufOT0pxa6zzd152HNKVmaaSj/fzaJgBxMOf7GS79qIceguvsK5v3Rbfx9qEKQxDc6+AG4jbXdFdReSnX0l3Kbbbk5hce8u8i2jpw==;r/shPZfO3YEaFJkcrzHc9A=="
 ---
