@@ -214,6 +214,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
+      "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
+      "excerpt": "CNW/ - Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-build-a-cognitive-search-and-a-health-knowledge-graph-using-aws-ai-services.md",
       "title": "Build a cognitive search and a health knowledge graph using AWS AI services",
       "excerpt": "Medical data is highly contextual and heavily multi-modal, in which each data silo is treated separately. To bridge different data, a knowledge graph-based approach integrates data across domains and helps represent the complex representation of scientific knowledge more naturally. For example, three",
@@ -783,6 +826,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "publishedDateTime": "2021-05-05T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
       "title": "Artificial Intelligence and Customer Experience.",
       "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
@@ -1117,6 +1212,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-30-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
+      "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
+      "excerpt": "Amazon Rekognition, which makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210429005260/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210429005260/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation.md",
       "title": "Translate All: Automating multiple file type batch translation with AWS CloudFormation",
       "excerpt": "This is a guest post by Cyrus Wong, an AWS Machine Learning Hero. You can learn more about and connect with AWS Machine Learning Heroes at the community page.&nbsp; On July 29, 2020, AWS announced that Amazon Translate now supports Microsoft Office documents, including .docx, .xlsx, and .pptx. The world",
@@ -1348,146 +1477,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-aws-deepracer-follow-the-leader-ftl-sample-project.md",
-      "title": "AWS DeepRacer Follow the Leader (FTL) sample project",
-      "excerpt": "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T18:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
-      "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg",
-          "width": 800,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T14:22:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-tesla-supplier-delta-electronics-invests-7m-in-ai-chip-startup-kneron.md",
+      "title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
+      "excerpt": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence capabilities by using edge computing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/kneron-e1610971717245.jpg?w=839",
+          "width": 839,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
+      "publishedDateTime": "2021-05-05T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
+      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
+      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-the-dangers-of-driverless-cars.md",
+      "title": "The Dangers of Driverless Cars",
+      "excerpt": "The concept of driverless cars is here to stay. America is competing in a global race to make driverless cars the norm, and as predicted, nearly all major car manufactures currently offer vehicle",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/dangers-driverless-cars",
+      "originalUrl": "https://www.natlawreview.com/article/dangers-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/dangers-driverless-cars?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/dangers-driverless-cars?amp",
+      "publishedDateTime": "2021-05-05T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
       "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
       "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
@@ -1223,135 +1362,6 @@
       "provider": {
         "name": "Engineering360 News",
         "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-self-driving-cars-can-they-be-brought-onto-the-roads-safely.md",
-      "title": "Self-Driving Cars: Can They Be Brought onto the Roads Safely?",
-      "excerpt": "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html",
-      "originalUrl": "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/705x485_25LoCW0x.jpg",
-          "width": 705,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may.md",
-      "title": "Baidu to Roll Out Driverless Robotaxis in Beijing in May",
-      "excerpt": "Baidu will launch a paid robotaxi service in Beijing on Saturday, allowing users to book rides in vehicles without a driver behind the wheel, as the tech giant seeks to become one of China’s first companies to make money from self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-04-30/1619778592746922_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-waymo-ridehailing-and-delivery-focus.md",
-      "title": "Waymo Ridehailing and Delivery Focus",
-      "excerpt": "CEOs. The Waymo plan is to expand its ridehailing business from Phoenix to other places. Waymo One. They will expand Waymo driving to truck delivering services. Waymo Via. Waymo One and Waymo via will have no driver behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/04/Screen-Shot-2021-04-29-at-11.50.03-PM.jpg",
-          "width": 1078,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "publishedDateTime": "2021-04-29T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null

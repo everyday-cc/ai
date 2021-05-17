@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-
 webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/?utm_social-type=owned"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Wired
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Wants to Use AI to Transform Soccer"
-    excerpt: "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports."
-    publishedDateTime: 2021-05-12T15:47:00Z
-    webUrl: "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "DeepMind provides machine learning scholarships for four Wits Master's students"
     excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
     publishedDateTime: 2021-05-13T08:30:00Z

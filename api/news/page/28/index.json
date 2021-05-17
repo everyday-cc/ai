@@ -2,6 +2,480 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-22-ready-set-think-mind-controlled-drones-race-to-the-future.md",
+      "title": "Ready, set, think! Mind-controlled drones race to the future",
+      "excerpt": "Scientists have been able to detect brainwaves for more than a century, and mind-controlled technology already is helping paralyzed people move limbs or robotic prosthetics. But now the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html",
+      "originalUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/04/22/BC-US-Brain-Controlled-Drones-IMG-jpg-640x414.jpg",
+          "width": 640,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/761821/ready-set-think-mind-controlled-drones-race-to-the-future.html/amp",
+      "publishedDateTime": "2021-04-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-self-driving-cars-are-still-a-long-way-off-here-are-three-reasons-why.md",
+      "title": "‘Self-driving’ cars are still a long way off. Here are three reasons why",
+      "excerpt": "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today’s “self-driving” technologies. Tesla cars include an “autopilot” feature which monitors surrounding ...",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/Articles/2021/04/22/self-driving-cars-challenges.aspx?Page=2",
+      "originalUrl": "https://gcn.com/Articles/2021/04/22/self-driving-cars-challenges.aspx?Page=2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies.md",
+      "title": "Blockchain Identity Management Market may See Big Move with IBM, AWS, Civic Technologies",
+      "excerpt": "Latest released the research study on Global Blockchain Identity Management Market, offers a detailed overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-tigergraph-and-google-cloud-make-it-a-threesome.md",
+      "title": "TigerGraph and Google Cloud make it a threesome",
+      "excerpt": "At the other end of the scale, existing support for Spark, Amazon SageMaker, and developer aids like PyTigerGraph (a Python package that connects to TigerGraph), will allow data scientists to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tigergraph-and-google-cloud-make-it-a-threesome/",
+      "originalUrl": "https://www.zdnet.com/article/tigergraph-and-google-cloud-make-it-a-threesome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-and-google-cloud-make-it-a-threesome/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-and-google-cloud-make-it-a-threesome/",
+      "publishedDateTime": "2021-04-21T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-global-machine-learning-market-outlook-industry-analysis-and-prospect-2021.md",
+      "title": "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021",
+      "excerpt": "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
+      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
+      "excerpt": "Washington, DC (CNN Business)Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "originalUrl": "https://www.cnn.com/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210419101209-tesla-autopilot-crash-tx-0417-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "publishedDateTime": "2021-04-21T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-europe-proposes-strict-regulation-of-artificial-intelligence.md",
+      "title": "Europe proposes strict regulation of artificial intelligence",
+      "excerpt": "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/",
+      "originalUrl": "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1",
+      "publishedDateTime": "2021-04-21T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill.md",
+      "title": "Corporate Tech Leaders Are Mixed on EU Artificial Intelligence Bill",
+      "excerpt": "Some corporate technology leaders say a proposed clampdown by European regulators on the use of artificial intelligence will run up costs and stifle innovation, just as companies are starting to unlock its potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
+      "originalUrl": "https://www.wsj.com/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-328496/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
+      "publishedDateTime": "2021-04-21T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-google-rolls-out-new-ai-powered-features-for-meet.md",
+      "title": "Google rolls out new AI-powered features for Meet",
+      "excerpt": "Google's newest improvements to Meet include Autozoom, which automatically zooms in on participants to keep them in-camera.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/",
+      "originalUrl": "https://venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Google-Meet-Video-Background-e1618982804579.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/amp/",
+      "publishedDateTime": "2021-04-21T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028.md",
+      "title": "Artificial Intelligence (AI) & advanced Machine Learning (ML) Market Size, Share, Development Analysis, Progression Status by 2028",
+      "excerpt": "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2% in 2028, according to latest analysis by Emergen Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-googles-ethical-ai-researchers-complained-of-harassment-long-before-timnit-gebrus-firing.md",
       "title": "Google’s ethical AI researchers complained of harassment long before Timnit Gebru’s firing",
       "excerpt": "Google’s AI leadership came under fire in December when star ethics researcher Timnit Gebru was abruptly fired while working on a paper about the dangers of large language models. Now, new reporting from Bloomberg suggests the turmoil began long before ...",
@@ -681,454 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation.md",
-      "title": "DISH and AWS Form Strategic Collaboration to Reinvent 5G Connectivity and Innovation",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way.md",
-      "title": "Black Lives Matter could change facial recognition forever - if big tech doesn't stand in the way",
-      "excerpt": "Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/tech/30389554",
-      "originalUrl": "https://www.nationthailand.com/tech/30389554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/images/news/2020/06/13/30389554/800_dea51fcd7652ca1.jpg?v=1592029222",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays.md",
-      "title": "Woolworths to use computer vision to aid the setup of in-store displays",
-      "excerpt": "Boston-based One Door uses computer vision to help merchandisers create and set up localised promotions in the way that they were envisioned to look. Under a multi-year agreement, the supermarket ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays-563625",
-      "originalUrl": "https://www.itnews.com.au/news/woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays-563625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-intels-habana-labs-hiring-hundreds-for-ai-chip-development-in-israel.md",
-      "title": "Intel's Habana Labs hiring hundreds for AI chip development in Israel",
-      "excerpt": "The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips. Intel's AI chip development group, based on the $2 billion acquisition of Israeli startup Habana Labs in December 2019,",
-      "sourceUrl": null,
-      "webUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
-      "originalUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "globes.co.il",
-        "domain": "globes.co.il",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
-      "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
-      "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-327981/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "publishedDateTime": "2021-04-21T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-treatmentcom-building-the-smartest-artificial-intelligence-ai-system-for-healthcare.md",
-      "title": "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare",
-      "excerpt": "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-hive-raises-85-million-for-contextual-and-branded-content-ai.md",
-      "title": "Hive Raises $85 Million For Contextual And Branded Content AI",
-      "excerpt": "Hive, which supplies AI-based contextual and measurement technology to media and ad tech companies, said Wednesday it raised $85 million in funding, valuing the company at over $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adexchanger.com/platforms/hive-raises-85-million-for-contextual-and-branded-content-ai/",
-      "originalUrl": "https://www.adexchanger.com/platforms/hive-raises-85-million-for-contextual-and-branded-content-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adexchanger.com/wp-content/uploads/2021/04/Hive-AI-funding.jpg",
-          "width": 900,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AdExchanger",
-        "domain": "adexchanger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence.md",
-      "title": "Signia Reveals Hearing Aids With Wireless Earbud Technology And Artificial Intelligence",
-      "excerpt": "Signia is a major hearing aid manufacturer that has developed the Active and Active Pro hearables that bring the advantages offered by true wireless earbuds along with advanced hearing loss technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6080007309abd0fdccd42d0e%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-artificial-intelligence.md",
-      "title": "CEO of Softbank-backed SambaNova explains the firm's approach to artificial intelligence",
-      "excerpt": "Many companies are struggling to figure out how to hire teams in order to deploy artificial intelligence technology, says Rodrigo Liang, co-founder and CEO of SambaNova Systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106870723-16189099913ED4-SBA-042021-RodrigoLiang.jpg?v=1618909991",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic.md",
-      "title": "AI-based Medical Image Analysis Market Outlook 2021 – GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung, Medtronic",
-      "excerpt": "The Global AI-based Medical Image Analysis Market is expected to reach approximate CAGR of 5.3% by 2025. Click Here to Get Free Sample PDF Copy of Latest Research on AI-based Medical Image Analysis Market 2021 Before Purchase:  The prominent players in the Global AI-based Medical Image Analysis Market: GE Healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/21/ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic/",
-      "originalUrl": "https://ksusentinel.com/2021/04/21/ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

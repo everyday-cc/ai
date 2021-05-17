@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/"
 type: article
 quality: 89
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -168,6 +168,15 @@ related:
     provider:
       name: PR-Inside
       domain: pr-inside.com
+    quality: 16
+  - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-17T07:30:00Z
+    webUrl: "https://www.businesswireindia.com/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-73013.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 16
 
 secured: "6ag0cSwh6uWeh6Pqk0BHYHsIYBvSI5lIh0LtVog9EZvL8gk9+TQxUVzMwT9O7tsXLRk3XYfLM1JX9Qz2a2+l4XeScgdA05RxrBu+5gNxJSSuHbITJmJHFnWa6acboZl+YOFwcLmbGp2z3c84Ygv7Z4CwrXdNycD2hxRY+JxUaqz13d4Rd6Pl9/ynb64RnTs6U9R9otB1t3SHiVIJeOPsxl5YEnXuoKNo/xT2Y/RARohrSWospkMQWh1w1rNykKHfm9QAG25TDXbz6GM2LB/yb5qNG9DU2PxHOJFIgeUy2ynA9DDmEXlRIV9HDnu7CT3E62QoK7hNO0OyRbo+GtDuOxYv0daxHl396sZDmPoIK8qVXVvYQBnNlq8O76IJ0UdsU5T0zsNCgs4dDAZ4/jGEE0Q5iJ9mST0R3+WsJMmeuepWzNrY/5PAQVyZkSjD37lpx+8N1a/rKkhzi5icgQue24l5H3CSUmXfFM+ahy1lLDPQlkrH1iIixkznXg7SSxW6TKWZHBpNFXCLMqc94OAWHA==;0Oz80LQTErnqWUu5IuwOQQ=="

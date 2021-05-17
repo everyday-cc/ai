@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphab
 webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,74 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
-    excerpt: "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks."
-    publishedDateTime: 2021-05-12T16:56:00Z
-    webUrl: "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CT1NJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT1NJ"
+  - title: "CFO of Alphabet's self-driving unit Waymo departs"
+    excerpt: "Gerard Dwyer is one of several executives, including CEO John Krafcik, to leave Alphabet’s self-driving and autonomous vehicles unit in recent months."
+    publishedDateTime: 2021-05-13T18:08:00Z
+    webUrl: "https://www.cfodive.com/news/cfo-of-alphabets-self-driving-unit-waymo-departs/600146/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 76
+      name: cfodive
+      domain: cfodive.com
+    quality: 39
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Tesla stock falls after Elon Musk tweets self-driving rollout may take months"
-    excerpt: "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version"
-    publishedDateTime: 2021-05-12T17:54:00Z
-    webUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/"
-    ampWebUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
-    excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
-    publishedDateTime: 2021-05-12T16:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-2021-05"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
-  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
-    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
-    publishedDateTime: 2021-05-14T12:41:00Z
-    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-        width: 820
-        height: 462
-        isCached: true
-  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
-    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
-    publishedDateTime: 2021-05-14T17:42:00Z
-    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 30
-    images:
-      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
-        width: 2000
-        height: 1125
+      - url: "https://www.cfodive.com/user_media/cache/6b/49/6b499b34ca2bd99880df4c0437be608d.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "LJp64m+miIqXUNvhqh7ycSWee/PWOVN+tBE7DDd3QTMuLFg043M2it+6uHZBM4wYPaAqmg46qzljHp6IxjPQ33Q3Tum7g1WCIwbZQG0R6DYTlbJxAh1/agJcT7hweEat6qoFPbv+riBjHv/h9XKAYGThLfV8o0jy7vkAL9UIW+y7ty4UWv1MIg1Rekn/uaHRGJHUWtcr5C0BHzg6AemEVFqo8/3twM5bDGnvLO7FiIgF7mKCGwA8sNIH2Ua0zu8vdhcwg8sjlkQ981GkBvXCjMcVYM1W/m0go7bHnbwzO5xfRQgUJfsTKQgcG+0A99VX5QZQ7+vEPe8h0iw1oTvY4szS5TB7Bngo5PqSDnj1gR0Ior6oAQryyn/TBdWcAfpA2r9ED6kyRiwqxFL+700DvRdbD//IplnL43cTMsBZVHwE0zUAkesmRRsBFdc7YHrdi6jcBkaSAh4cjv3x5yKuF695AHdgEQHHf8Bx6sxc9fwLSvH8S1VXaRyk+SPgPXKS9VG5tbR9dZwWMjCmENQTCQ==;WLcCgnXNx0DQ/7datFR0fA=="

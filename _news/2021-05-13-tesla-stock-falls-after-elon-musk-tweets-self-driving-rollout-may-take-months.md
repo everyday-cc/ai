@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-twe
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: New York Post
@@ -27,40 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
-    excerpt: "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks."
-    publishedDateTime: 2021-05-12T16:56:00Z
-    webUrl: "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CT1NJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT1NJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 76
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Alphabet Waymo Self-Driving Unit CFO Following CEO Out the Door"
-    excerpt: "The chief financial officer of Alphabet Inc's self-driving unit Waymo is following its chief executive out the door, the company said on Wednesday. Waymo confirmed that CFO Ger Dwyer is leaving the company."
-    publishedDateTime: 2021-05-12T20:39:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
-    excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
-    publishedDateTime: 2021-05-12T16:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-2021-05"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
   - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
     excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
     publishedDateTime: 2021-05-14T12:41:00Z

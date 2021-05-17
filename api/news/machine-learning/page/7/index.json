@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-22-this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better.md",
+      "title": "This Winery And Tomato Processor Used Artificial Intelligence To Make Their Crops Better",
+      "excerpt": "This company says that by combining AI and aerial imagery it can help give them inisght into the health of their crop while it is still growing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
+      "publishedDateTime": "2021-03-21T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
       "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
       "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
@@ -1061,40 +1105,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-16T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-critical-evaluation-of-deep-neural-networks-for-wrist-fracture-detection-scientific-reports.md",
-      "title": "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports",
-      "excerpt": "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-85570-2",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-85570-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T03:58:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nature",

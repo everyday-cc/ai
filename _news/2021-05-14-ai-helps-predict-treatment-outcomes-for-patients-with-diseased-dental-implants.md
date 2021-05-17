@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI helps predict treatment outcomes for patients with diseased dental implants"
-    excerpt: "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition."
-    publishedDateTime: 2021-05-12T16:06:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dentalimplant.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI helps assess patient's risk of regenerative outcomes after treatment of peri-implantitis"
     excerpt: "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition."
     publishedDateTime: 2021-05-12T17:26:00Z

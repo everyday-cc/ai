@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-21-master-the-science-of-machine-learning-with-these-training-classes.md",
+      "title": "Master The Science Of Machine Learning With These Training Classes",
+      "excerpt": "Our interactions in (and out) of the tech world all rely heavily on machine learning (ML), the science of getting computers and devices to mimic human be",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/8c53767e-52ed-5884-8538-ff5b3687daec/default-1618998050-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "publishedDateTime": "2021-04-21T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics.md",
+      "title": "Global Machine Learning Software Market Research Report 2021 | Microsoft, Google, TensorFlow, Kount, Warwick Analytics",
+      "excerpt": "A recent research study on the global Machine Learning Software market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "originalUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-26-1-780x400.jpeg",
+          "width": 780,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-deepmind-ace-joins-cambridge-quantum-computing.md",
       "title": "DeepMind ace joins Cambridge Quantum Computing",
       "excerpt": "Cambridge Quantum Computing has secured a major coup by hiring DeepMind’s Professor Stephen Clark as head of Artificial Intelligence. At DeepMind – the UK AI subsidiary of Alphabet Inc – Professor Clark was a senior staff research scientist and led a team working on grounded language learning in virtual environments.",
@@ -1241,93 +1331,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-top-20-valuable-and-innovative-ai-companies-in-the-world.md",
-      "title": "Top 20 Valuable and Innovative AI Companies in the World",
-      "excerpt": "The company is offering a plethora of AI products including Natural language processing (NLP) models, TensorFlow, AI smart home products and AI-based Cloud applications. The company recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
-      "originalUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/12/23032054/31-robot-763525_1280.jpg",
-          "width": 1280,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-octomize-your-ml-code.md",
-      "title": "‘Octomize’ Your ML Code",
-      "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
-      "originalUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/code_shutterstock__1BEST-BACKGROUNDS.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

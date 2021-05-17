@@ -45,19 +45,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Eight ways in which AI is transforming healthcare"
-    excerpt: "AI has been at the forefront of the medical profession’s efforts to fight Covid-19 and treat patients during the coronavirus pandemic. Enabling healthcare providers to make fast, accurate and data-driven decisions,"
-    publishedDateTime: 2021-05-12T15:20:00Z
-    webUrl: "https://www.raconteur.net/healthcare/eight-ways-in-which-ai-is-transforming-healthcare/"
+  - title: "The Role of AI in Improving Employee Health"
+    excerpt: "Employee Wellness is one area where the application of AI has demonstrated its immense advantages. Powering wellness solutions through AI has helped employers create better employee experiences. Furthermore,"
+    publishedDateTime: 2021-05-17T09:24:00Z
+    webUrl: "https://www.indiainfoline.com/article/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
     type: article
     provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 56
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 57
     images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/05/AI-in-healthcare.jpg"
-        width: 1200
-        height: 675
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-05/17/full/1621230829-1409.jpg"
+        width: 352
+        height: 233
         isCached: true
   - title: "An Optimist’s Take on AI and the Future of Architecture"
     excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."

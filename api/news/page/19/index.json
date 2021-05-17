@@ -2,6 +2,349 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-29-lacuna-fund-announces-second-round-of-funding-to-projects-supporting-natural-language-processing-technologies-across-africa.md",
+      "title": "Lacuna Fund announces second round of funding to projects supporting Natural Language Processing technologies Across Africa",
+      "excerpt": "Lacuna Fund announces second round of funding to projects supporting Natural Language Processing technologies Across Africa",
+      "sourceUrl": null,
+      "webUrl": "https://africabusinesscommunities.com/tech/tech-news/lacuna-fund-announces-second-round-of-funding-to-projects-supporting-natural-language-processing-technologies-across-africa/",
+      "originalUrl": "https://africabusinesscommunities.com/tech/tech-news/lacuna-fund-announces-second-round-of-funding-to-projects-supporting-natural-language-processing-technologies-across-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://adserver.africabusinesscommunities.com/www/delivery/avw.php?zoneid=14&cb=INSERT_RANDOM_NUMBER_HERE&n=a7292f1d",
+          "width": 336,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "africabusinesscommunities.com",
+        "domain": "africabusinesscommunities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
+      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
+      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "publishedDateTime": "2021-04-29T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum.md",
+      "title": "Amplio Launches Esperanza, a First of its Kind Digital Spanish-Language Dyslexia Curriculum",
+      "excerpt": "AmplioSpeech (\"Amplio\"), a developer of a digital platform that connects students, educators and therapists with advanced technologies to help students with special needs, announced today the launch of a digital Spanish-language dyslexia curriculum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210429da59680/amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210429da59680/amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
+      "title": "Computer vision in AI: The data needed to succeed",
+      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing.md",
+      "title": "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing",
+      "excerpt": "Stock quotes by finanzen.net SAN FRANCISCO, April 29, 2021 /PRNewswire/ -- Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-crushbank-the-natural-language-ai-solution-announces-strategic-development-with-comptia-on-innovative-it-assessments-and-training.md",
+      "title": "CrushBank, the Natural-Language AI Solution, Announces Strategic Development with CompTIA on Innovative IT Assessments and Training",
+      "excerpt": "CrushBank, developers of an artificial intelligence (AI) solution that leverages the power of IBM Watson and Natural Language Processing to provide answers used in IT support, today announced a strategic development initiative with CompTIA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-crushbank-natural-language-ai-solution-announces-strategic-development-/2021/04/29/9357994.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-crushbank-natural-language-ai-solution-announces-strategic-development-/2021/04/29/9357994.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-vectra-ai-picks-up-130m-at-a-12b-valuation-for-its-network-approach-to-threat-detection-and-response.md",
+      "title": "Vectra AI picks up $130M at a $1.2B valuation for its network approach to threat detection and response",
+      "excerpt": "Cybersecurity nightmares like the SolarWinds hack highlight how malicious hackers continue to exploit vulnerabilities in software and apps to do their dirty work. Today a startup that’s built a platform to help organizations protect themselves from this by running threat detection and",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/29/vectra-ai-picks-up-130m-at-a-1-2b-valuation-for-its-network-approach-to-threat-detection-and-response/",
+      "originalUrl": "https://techcrunch.com/2021/04/29/vectra-ai-picks-up-130m-at-a-1-2b-valuation-for-its-network-approach-to-threat-detection-and-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1200274448.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/29/vectra-ai-picks-up-130m-at-a-1-2b-valuation-for-its-network-approach-to-threat-detection-and-response/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/29/vectra-ai-picks-up-130m-at-a-1-2b-valuation-for-its-network-approach-to-threat-detection-and-response/amp/",
+      "publishedDateTime": "2021-04-29T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-emam-announces-support-for-the-aws-media-entertainment-initiative.md",
+      "title": "EMAM announces support for the AWS Media & Entertainment Initiative.",
+      "excerpt": "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-fields-hiring-for-machine-learning-experts-in-2021.md",
       "title": "Fields Hiring for Machine Learning Experts in 2021",
       "excerpt": "As the distribution of the COVID-19 vaccine continues apace and it seems like we might return to some semblance of normal in 2021, we can see other indicators of positivity in the economy: namely in the data science job market.",
@@ -795,388 +1138,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving.md",
-      "title": "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving",
-      "excerpt": "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook",
-          "width": 1385,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa.md",
-      "title": "Lacuna Fund Announces its Second Round of Funding to Projects Supporting Natural Language Processing (NLP) technologies Across Africa",
-      "excerpt": "Supported projects will produce text and speech datasets for natural language processing (NLP) technologies that will have significant downstream impacts on education, financial inclusion, healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.africa-newsroom.com/press/lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa?lang=en",
-      "originalUrl": "https://www.africa-newsroom.com/press/lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa?lang=en",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.africa-newsroom.com/uploads/socialshare.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "APO Group English",
-        "domain": "africa-newsroom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
-      "title": "UK prepares to conditionally legalize self-driving cars",
-      "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
-      "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
-      "publishedDateTime": "2021-04-28T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-rit-researchers-using-drones-and-artificial-intelligence-to-help-assess-crop-growth.md",
-      "title": "RIT researchers using drones and artificial intelligence to help assess crop growth",
-      "excerpt": "Researchers at Rochester Institute of Technology are exploring ways to use drones and artificial intelligence to help farmers and other users assess how well fields of crops are growing. The National Science Foundation awarded Guoyu Lu,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/riot-rru_1042921.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/riot-rru_1042921.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
-      "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
-      "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
-      "publishedDateTime": "2021-04-28T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india.md",
-      "title": "InnovationRx: Artificial Intelligence 50; Plus Covid Treatments In India",
-      "excerpt": "W hile some industries were devastated by the Covid-19 pandemic, funding kept flowing to startups using artificial intelligence to solve business challenges. Several healthcare companies made the annual Forbes AI 50 list,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
-      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608a05213e5ebbca00f583aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
-      "publishedDateTime": "2021-04-28T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-save-and-load-models-in-tensorflow.md",
-      "title": "Save and load models in Tensorflow",
-      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/save-and-load-models-in-tensorflow/",
-      "originalUrl": "https://www.geeksforgeeks.org/save-and-load-models-in-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210427153046/Screenshot663.png",
-          "width": 492,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/save-and-load-models-in-tensorflow/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/save-and-load-models-in-tensorflow/amp/",
-      "publishedDateTime": "2021-04-28T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
-      "title": "Membership inference attacks detect data used to train machine learning models",
-      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
-      "publishedDateTime": "2021-04-28T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

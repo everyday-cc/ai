@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-03-path-robotics-raises-56m-series-b-for-automated-welding.md",
+      "title": "Path Robotics raises $56M Series B for automated welding",
+      "excerpt": "The system uses scanning, computer vision and AI to adjust itself to different parts, understanding that sizing parts is a kind of imperfect science. Add to that the additional difficulty of ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/",
+      "originalUrl": "https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rDmmWjKUt6g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/amp/",
+      "publishedDateTime": "2021-05-03T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-the-us-navy-needs-missile-launchersa-cheap-robot-could-be-just-the-thing.md",
+      "title": "The U.S. Navy Needs Missile Launchers—A Cheap Robot Could Be Just The Thing",
+      "excerpt": "The U.S. Navy is about to lose a big chunk of the vertical missile cells that give it a firepower advantage over any potential foe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/",
+      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608e3576c30e7b2753d53fa1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2244%26cropY1%3D114%26cropY2%3D1165",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/amp/",
+      "publishedDateTime": "2021-05-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
       "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
       "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
@@ -760,6 +865,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-paralyzed-patients-move-vicariously-through-mind-controlled-robot.md",
+      "title": "Paralyzed Patients Move Vicariously Through Mind-Controlled Robot",
+      "excerpt": "These scientists successfully demonstrated the capabilities of a robot controlled by the mind of a partially quadriplegic patient in a hospital 62 miles away. Mind-controlled robotic systems aren ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2012/04/paralyzed-patients-move-vicariously-through-mind-controlled-robot.html",
+      "originalUrl": "https://www.medgadget.com/2012/04/paralyzed-patients-move-vicariously-through-mind-controlled-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-robot-vacuum-with-triple-lidar-system-has-eyes-to-help-it-avoid-poop.md",
       "title": "Robot vacuum with triple lidar system has eyes to help it avoid poop",
       "excerpt": "With three lidar sensors–a wall sensor, a main sensor, and a front sensor — the 360 Smart Life Robot Vacuum can gauge the size of objects. The built-in artificial intelligence (A.I.) allows it to decide in real time whether to continue over an object ...",
@@ -1239,118 +1378,6 @@
       "provider": {
         "name": "Albuquerque Journal",
         "domain": "abqjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
-      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "publishedDateTime": "2021-04-20T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Status, Global Outlook and Forecast 2020-2025",
-      "excerpt": "The Global Artificial Intelligence and Robotics in Aerospace and Defense Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2025. The Artificial Intelligence and Robotics in Aerospace and Defense Market report is a valuable source of insightful data for business strategists.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
-      "originalUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-facebook-reveals-plans-for-brain-computer-interface-for-speech-prostheses-and-mind-controlled-likes.md",
-      "title": "Facebook Reveals Plans for Brain-Computer Interface for Speech Prostheses and Mind-Controlled “Likes”",
-      "excerpt": "This week, Facebook held its annual-ish F8 conference in San Jose, California. While F8 typically involves announcing new features to the company’s namesake social media platform, Mark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2017/04/facebook-reveals-plans-brain-computer-interface-speech-prosthetics-mind-controlled-likes.html",
-      "originalUrl": "https://www.medgadget.com/2017/04/facebook-reveals-plans-brain-computer-interface-speech-prosthetics-mind-controlled-likes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
         "images": null,
         "publishers": null,
         "authors": null

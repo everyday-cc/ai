@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-02-top-20-valuable-and-innovative-ai-companies-in-the-world.md",
+      "title": "Top 20 Valuable and Innovative AI Companies in the World",
+      "excerpt": "The company is offering a plethora of AI products including Natural language processing (NLP) models, TensorFlow, AI smart home products and AI-based Cloud applications. The company recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/12/23032054/31-robot-763525_1280.jpg",
+          "width": 1280,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-octomize-your-ml-code.md",
+      "title": "‘Octomize’ Your ML Code",
+      "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
+      "originalUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/code_shutterstock__1BEST-BACKGROUNDS.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
       "title": "Redefining what a map can be with new information and AI",
       "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
@@ -1157,83 +1244,6 @@
       "provider": {
         "name": "Electronic Engineering Journal",
         "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc.md",
-      "title": "Synopsys ARC EV Processor Enables Kyocera Document Solutions to Launch AI-enabled Multifunctional Printer SoC",
-      "excerpt": "The toolkit includes the MetaWare NN Compiler that analyzes neural networks trained using popular frameworks like Tensorflow or Pytorch and automatically generates the executable for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc-301243455.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc-301243455.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-new-soundset-for-your-behringer-deepmind.md",
-      "title": "New Soundset For Your Behringer Deepmind",
-      "excerpt": "The Deepmind Sound Engine DCO synths like the Deepmind have particularly great tuning performance, which is excellent for more technical sound design, but lacks much of the character of vintage synths and acoustic ensembles. There are tools like Osc Drift ...",
-      "sourceUrl": null,
-      "webUrl": "https://sonicstate.com/news/2021/03/09/new-soundset-for-your-behringer-deepmind/",
-      "originalUrl": "https://sonicstate.com/news/2021/03/09/new-soundset-for-your-behringer-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/33972_271.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sonic State",
-        "domain": "sonicstate.com",
         "images": null,
         "publishers": null,
         "authors": null

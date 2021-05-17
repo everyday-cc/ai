@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-17-this-robot-run-fund-loaded-up-on-tesla-because-it-thinks-the-stock-will-soar-its-been-right-before.md",
+      "title": "This robot-run fund loaded up on Tesla because it thinks the stock will soar. It’s been right before.",
+      "excerpt": "An exchange-traded fund driven by artificial intelligence has just loaded up on shares in Tesla — and it has a history of correctly predicting the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-loaded-up-on-tesla-because-it-thinks-the-stock-will-soar-its-been-right-before-11621012673",
+      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-loaded-up-on-tesla-because-it-thinks-the-stock-will-soar-its-been-right-before-11621012673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-338776/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-loaded-up-on-tesla-because-it-thinks-the-stock-will-soar-its-been-right-before-11621012673",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-loaded-up-on-tesla-because-it-thinks-the-stock-will-soar-its-been-right-before-11621012673",
+      "publishedDateTime": "2021-05-17T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-robotics-company-embodied-acquires-conversational-ai-business.md",
       "title": "Robotics Company Embodied Acquires Conversational AI Business",
       "excerpt": "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans.",
@@ -41,6 +94,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-police-using-facial-recognition-amidst-claims-of-wrongful-arrests.md",
+      "title": "Police using facial recognition amidst claims of wrongful arrests",
+      "excerpt": "Police say facial recognition technology has been instrumental in helping crack some tough cases, but in the last year, there have been allegations of wrongful arrests. Anderson Cooper reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/",
+      "originalUrl": "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/16/894c04db-160e-4428-a9a4-1df839cc1579/thumbnail/1200x630/dca4e40a1aa58accb3aee4407b5d3ca8/0516-60minutes-cooper-716288-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/",
+      "publishedDateTime": "2021-05-16T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -285,7 +381,7 @@
       "originalUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -410,58 +506,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
-      "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
-      "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "publishedDateTime": "2021-05-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1162,48 +1206,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-volkswagen-and-argo-ai-to-start-testing-new-autonomous-vehicle-called-id-buzz.md",
-      "title": "Volkswagen and Argo AI to start testing new autonomous vehicle called ID Buzz",
-      "excerpt": "Argo has already been testing its autonomous vehicles with Ford back in the US and the company has stated that the ID Buzz will use the company’s fifth generation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/ID-Buzz-770x432.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp",
-      "publishedDateTime": "2021-05-14T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

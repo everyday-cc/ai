@@ -1,29 +1,32 @@
 ---
 category: news
 title: "SkySpecs acquires two European wind energy technology companies: Fincovi and Vertikal AI"
-excerpt: "SkySpecs, a global leader in wind energy technology, has acquired two of Europe's premier wind energy companies: Fincovi, a leader in financial asset management, and Vertikal AI, a pioneer in predictive maintenance for wind energy."
-publishedDateTime: 2021-05-17T04:18:00Z
-originalUrl: "https://www.lelezard.com/en/news-19807738.html"
-webUrl: "https://www.lelezard.com/en/news-19807738.html"
+excerpt: "SkySpecs, a global leader in wind energy technology, has acquired two of Europe's premier wind energy companies: Fincovi, a leader i"
+publishedDateTime: 2021-05-17T04:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/skyspecs-acquires-two-european-wind-energy-technology-companies-fincovi-and-vertikal-ai-1030433449"
+webUrl: "https://markets.businessinsider.com/news/stocks/skyspecs-acquires-two-european-wind-energy-technology-companies-fincovi-and-vertikal-ai-1030433449"
 type: article
-quality: 30
-heat: 30
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/oil-industry.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1510800/SkySpecs_Acquisition.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "BizcfB/dFs51kQCZLPVJuotjUEqvu+NYqrGPuzTpGJmbnENVdRqMvaZpn6iI9ZORR9niYGa1TEN8jNpmL1LYAqfr+p2XKYb+XZbVPXzEO84P/YqwMyTU4Cz2nsf9ibTf8xGT78xIa1IojzNLOLaoZAC7u1eZ0vKs2mNJ13MDcCDyKD972Ud9pVOMJ6x0HIVqyLyp22H2hr2vGglYb0u2dGxBKGip/vS4gYcREdNvjY19ZKflgdxw4PYWEGLhEstjX0EdVayI5DKLgwYlQUWTb8e3X4eHmGLr7kl0v9Rt65SGyF0HDA5VC0A+GZq2ZUZoYAXl7Fm2pUCR3NnMgfLLuq7XKiI8vYVw+qzMbTibxpg=;NKzq5BQ8pI0XqpjVvJV8cA=="
+secured: "Hl6N9h5xcFjQpeahM1b1SZRUy5RR1lgRhslt3D57fkLn9VuRbJ0a4G5c/o5wKYvdr35cPfp2HBKantvXisIys1D01fcJWi8LwrscDLVbKvANObgZ0QC8oxBzdTWfVuMi6XNiLtNpm/MQOHF3rLjMtvXzWma5X4xwmGICVKBWFwWrXagnhsfzJJQ+cD0iop0xl5xqSMPQZSQLM/l+BgXx/I/TIma9+isDiZyKwdMeA31m/RMV8bLiUc+G014uGTZ0ChIi2WX2ktUlkZfNlNj91ghvCbTVy8rLs2/0Niu7gKTqZz47wYaRTRY8iaSHx/SdjFxcFcBt4ZOew0JgxZAdcuRXFYgc52v57EW1pLcusGo=;LxME48KzvwpndrzMHifLqA=="
 ---
 

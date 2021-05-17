@@ -83,22 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Elon Musk Announces Release Timeline For Tesla's Improved Self-Driving Feature"
-    excerpt: "Musk announced via Twitter that his car company's newest fully self-driving system may come sooner than expected."
-    publishedDateTime: 2021-05-12T16:52:00Z
-    webUrl: "https://www.ibtimes.com/elon-musk-announces-release-timeline-teslas-improved-self-driving-feature-3197576"
-    ampWebUrl: "https://www.ibtimes.com/elon-musk-announces-release-timeline-teslas-improved-self-driving-feature-3197576?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/elon-musk-announces-release-timeline-teslas-improved-self-driving-feature-3197576?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/24/bitcoin-prices-rose-as-tesla-ceo-elon-musk.jpg"
-        width: 1024
-        height: 700
-        isCached: true
   - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
     excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
     publishedDateTime: 2021-05-13T19:28:00Z
@@ -110,17 +94,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-12T15:13:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article251350568.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article251350568.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article251350568.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 31
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-14T11:04:00Z

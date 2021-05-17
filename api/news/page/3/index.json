@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-13-dell-jumps-head-first-into-consumption-based-computing-with-apex.md",
+      "title": "Dell Jumps Head First Into Consumption-Based Computing With APEX",
+      "excerpt": "Senior Analyst, Servers Matt Kimball dives deeper as Dell Tech World came and went last night. Front and center was APEX, the company's consumption-based offering that enables companies of all sizes to consume IT infrastructure and solutions in a cloud-like fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609cae73e264b28942d29957%2F0x0.jpg",
+          "width": 1199,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
+      "publishedDateTime": "2021-05-12T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-samsung-raises-spending-in-logic-chip-businesses-to-151-billion.md",
       "title": "Samsung raises spending in logic chip businesses to $151 billion",
       "excerpt": "Samsung is adding another 38 trillion won, around $33.5 billion, to its prior commitment to inject 133 trillion won into its logic business in a bid to become the world leader in that space.",
@@ -210,6 +262,101 @@
       ]
     },
     {
+      "path": "_news/2021-05-13-deepmind-wants-to-use-ai-to-transform-soccer.md",
+      "title": "DeepMind Wants to Use AI to Transform Soccer",
+      "excerpt": "Now, defending Premier League champion Liverpool has joined forces with DeepMind to explore the use of artificial intelligence in the soccer world. A paper by researchers at the two organizations, published today by the Journal of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/?utm_social-type=owned",
+      "originalUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/?utm_social-type=owned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-tesla-stock-falls-after-elon-musk-tweets-self-driving-rollout-may-take-months.md",
+      "title": "Tesla stock falls after Elon Musk tweets self-driving rollout may take months",
+      "excerpt": "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/",
+      "originalUrl": "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/",
+      "publishedDateTime": "2021-05-12T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-california-driver-arrested-for-riding-in-backseat-of-self-driving-tesla-plans-to-do-it-again.md",
       "title": "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again",
       "excerpt": "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot.",
@@ -218,7 +365,7 @@
       "originalUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -562,6 +709,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
+      "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
+      "excerpt": "CNW/ - Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1037,196 +1227,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-understanding-the-differences-between-biological-and-computer-vision.md",
-      "title": "Understanding the differences between biological and computer vision",
-      "excerpt": "Biological and Computer Vision by Gabriel Kreiman explains how AI attempts to replicate how humans and animals process visual data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/understanding-the-differences-between-biological-and-computer-vision/amp/",
-      "publishedDateTime": "2021-05-12T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco.md",
-      "title": "Waymo And Cruise Said To Be Seeking Approval To Commercialize Self-Driving Rides In San Francisco",
-      "excerpt": "Alphabet Inc’s (NASDAQ: GOOGL) (NASDAQ: GOOG) self-driving subsidiary Waymo and General Motors Co (NYSE: GM)-backed Cruise have applied for commercial permits in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco",
-      "originalUrl": "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/w1_riders_2_0.jpeg",
-          "width": 6517,
-          "height": 4345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21075158",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075158",
-      "publishedDateTime": "2021-05-11T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed.md",
-      "title": "Artificial intelligence that can detect sarcasm in social media developed",
-      "excerpt": "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/05/12/1600x900/photo-1554177255-61502b352de3_1620799135211_1620799139809.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/relationships/artificial-intelligence-that-can-detect-sarcasm-in-social-media-developed-101620794759278-amp.html",
-      "publishedDateTime": "2021-05-11T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-a-closer-look-at-ibm-autosql.md",
-      "title": "A closer look at IBM AutoSQL",
-      "excerpt": "IBM is filling out its Cloud Pak for Data hybrid analytics platform with new capabilities reaching out to the data lake and laying the groundwork for governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-closer-look-at-ibm-autosql/",
-      "originalUrl": "https://www.zdnet.com/article/a-closer-look-at-ibm-autosql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/12/768245f4-982e-432a-9b74-11cd5d17cee1/x-fabric-galaxy.jpg",
-          "width": 2999,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-closer-look-at-ibm-autosql/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-ibm-autosql/",
-      "publishedDateTime": "2021-05-11T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

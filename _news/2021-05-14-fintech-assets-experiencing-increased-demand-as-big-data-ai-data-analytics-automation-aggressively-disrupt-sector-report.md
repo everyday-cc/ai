@@ -165,6 +165,15 @@ related:
       name: PR-Inside
       domain: pr-inside.com
     quality: 16
+  - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-17T07:30:00Z
+    webUrl: "https://www.businesswireindia.com/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-73013.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 16
 
 secured: "1KPBSjPniHJjLJF7361i/cA2VaP5sWFDeGXNmTVRuoF/GUvShprOr1pEhSu6FDZkmZD2cIqZ/doSieV/z8Q4u0XjV9/e7wmPeNzx6aUGTJByG6UT3BVCDnhL6qmk2pmVAxndcH16S+rocFzzqdV/JP0rKFiOxEJx5cPAwK5nSbWXHsFsEw8DhZBd3M8SUt5h3Wk7jAttKqSzqPgUr5e7gki9J8O0ssUOGDJAWRnFA8rwsU6334QGaBGBKYbo6Ck4pLh1I+3wzf3ug9ecEeL0/vtLeOaPQ8V4Ui5zKaf/0Yi3lDxk2Z2+bxM4DxFyApyQRoYmFvqgy/Io8SbvttSm6/ZADFRZLcW6+LBOPTyHZ8sTn5nZJ/4X9uPh2xHREJmgYzECZvTa6xlG8K9zcclZOV2hx+2yHxA8+eo7N8OgOeBUAA6NLTWi+1U3QU5uExu+XuUvPw68jwEUMm3QcgA3Nwxjncz+qSwgWp7kxvFtmqYtWlH1d6gi5zvObfoJvjN4Yv9Scbmz+K9TKSaFXlp6pA==;2YVl8QFNaOjGvy9pVHwcdw=="
 ---

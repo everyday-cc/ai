@@ -2,6 +2,403 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-03-16-baidus-ai-chip-business-kunlun-valued-at-2b-after-new-funding-round.md",
+      "title": "Baidu’s AI chip business Kunlun valued at $2B after new funding round",
+      "excerpt": "Monday that its Kunlun artificial intelligence chip business has closed on a funding round that takes its value to about $2 billion. Reuters reported Sunday that Chinese private equity firm CITIC Private Equity Funds Management led the round,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
+      "originalUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-ibm-ceo-says-its-positioned-to-lead-in-hybrid-cloud-ai.md",
+      "title": "IBM CEO says it's ‘positioned to lead’ in hybrid cloud, AI",
+      "excerpt": "In a new letter to investors, Krishna outlined areas where IBM has invested in hybrid cloud and artificial intelligence and discussed how the company is driving growth going forward. Ultimately, IBM “is positioned to lead as we enter the era of hybrid cloud and AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/ibm-ceo-says-its-positioned-to-lead-in-hybrid-cloud-ai-562204",
+      "originalUrl": "https://www.crn.com.au/news/ibm-ceo-says-its-positioned-to-lead-in-hybrid-cloud-ai-562204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/red-hat-ibm.jpg",
+          "width": 608,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
+      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
+      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
+          "width": 1318,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-retrotechtacular-6ch-industrial-robot.md",
+      "title": "Retrotechtacular: 6CH Industrial Robot",
+      "excerpt": "With this robotic arm demo video from 1975 the future really is now. Think about it, there are entire factories full of the descendants of this technology where the human workers simply feed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
+      "originalUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2013/09/retrotechtacular-6ch-robot-arm.png",
+          "width": 640,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
+      "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
+      "excerpt": "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-googles-secretive-x-lab-is-working-on-its-next-big-hit-here-are-some-of-the-bets-that-could-take-off-and-the-people-leading-them.md",
+      "title": "Google's secretive X lab is working on its next big hit. Here are some of the bets that could take off, and the people leading them.",
+      "excerpt": "X is home to some of Alphabet's weirdest and most ambitious ideas. Here are some that the lab is working on right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-projects-alphabet-x-secret-moonshot-lab-is-working-on-2020-10",
+      "originalUrl": "https://www.businessinsider.com/the-projects-alphabet-x-secret-moonshot-lab-is-working-on-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-aws-slips-a-bit-in-cloud-ai-developer-services-report.md",
+      "title": "AWS Slips a Bit in Cloud AI Developer Services Report",
+      "excerpt": "Amazon Web Services (AWS) was the clear leader in research firm Gartner's annual report on Cloud AI Developer Services. This year, not so much.",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
+      "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
+      "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fd2d38aad039afa630737%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "publishedDateTime": "2021-03-15T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
+      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
+      "excerpt": "The system combines computer vision and deep-learning AI to mimic how able-bodied people walk by seeing their surroundings and adjusting their movements. \"We're giving robotic legs vision so they can control themselves,\" said Brokoslaw Laschowski ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted.md",
+      "title": "Deloitte Partners With Chatterbox To Create Ethical AI Technology; Beena Ammanath Quoted",
+      "excerpt": "Deloitte AI Institute announced Monday a new partnership with Chatterbox Labs to develop Model Insights for Trustworthy AI, a Deloitte-branded product that will assist organizations address artificial intelligence (AI) ethics by monitoring,",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/03/deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted/",
+      "originalUrl": "https://www.executivegov.com/2021/03/deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-experts-disagree-on-the-utility-of-large-language-models.md",
       "title": "Experts Disagree on the Utility of Large Language Models",
       "excerpt": "Large language models like OpenAI’s GPT-3 and Google Brain’s Switch Transformer have caught the eye of AI experts, who have expressed surprise at the rapid pace of improvement. However, not everybody is jumping onto the bandwagon,",
@@ -636,456 +1033,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability.md",
-      "title": "Study of 25 stroke patients shows BrainQ’s wave therapy can reduce disability",
-      "excerpt": "Hat-like device developed by startup aims to treat damaged areas with 'artificial brainwaves' that mimic healthy neural networks to rebalance the brain",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "originalUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/03/Unknown-e1615722753560-640x400.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "publishedDateTime": "2021-03-15T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-bioxcel-therapeutics-receives-fda-breakthrough-therapy-designation-for-bxcl501-for-the-acute.md",
-      "title": "BioXcel Therapeutics Receives FDA Breakthrough Therapy Designation for BXCL501 for the Acute ...",
-      "excerpt": "BioXcel Therapeutics, Inc. (“BioXcel” or the “Company”) (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-government-regulations-drug-approvals-coronavirus-pandemic-f497a4cc88cc898cfc0ec4cd0d14d3bc",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-government-regulations-drug-approvals-coronavirus-pandemic-f497a4cc88cc898cfc0ec4cd0d14d3bc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.md",
-      "title": "VMware, Nvidia offer GPU-powered AI in virtual machines",
-      "excerpt": "VMware and Nvidia have expanded their alliance to support Nvidia GPU-based applications on VMware's new vSphere 7 Update 2. The upgraded version of vSphere 7 will support the new Nvidia AI Enterprise offering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
-      "originalUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/05/nvidia-a100-stock-100842030-large.jpg",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
-      "publishedDateTime": "2021-03-15T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-the-elusive-dream-of-the-driverless-car.md",
-      "title": "The Elusive Dream of the Driverless Car",
-      "excerpt": "These corporations have long promised the American public that self-driving car technology is not only imminent but will change the world for the better — reducing urban congestion, combating greenhouse gas emissions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.motherjones.com/politics/2021/03/the-elusive-dream-of-the-driverless-car/",
-      "originalUrl": "https://www.motherjones.com/politics/2021/03/the-elusive-dream-of-the-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motherjones.com/wp-content/uploads/2021/03/DavidMcNew_Getty_Images_1_2000x1124.jpeg?w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mother Jones",
-        "domain": "motherjones.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-toyota-is-using-artificial-intelligence-to-build-a-new-city.md",
-      "title": "Toyota Is Using Artificial Intelligence To Build A New City",
-      "excerpt": "Toyota is building a futuristic city in Japan, powered by artificial intelligence and robots. With dedicated roads for self-driving vehicles and test AI technologies to enable smart cities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/",
-      "originalUrl": "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-9.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation.md",
-      "title": "Global Machine Learning as a Service Market Improvement, Industry Evolutionary Analysis, Orientation, Forecast To 2030 | Google Inc, IBM Corporation",
-      "excerpt": "tie-ups and acquisition with other Machine Learning as a Service leading establishments, financial agreements which affect the Machine Learning as a Service market in recent years are analyzed. In addition, Machine Learning as a Service company long term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-languagewire-launch-ai-driven-instant-translation-technology-for-enterprises.md",
-      "title": "LanguageWire Launch AI-driven Instant Translation Technology for Enterprises",
-      "excerpt": "LanguageWire today launched Translate, a new instant translation technology designed and engineered for professionals who appreciate managing content efficiently and require quality translations with enterprise-grade security.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
-      "originalUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/03/LanguageWire-Logo-900x600-CD.png",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
-      "title": "Insitro raises $400m for machine learning drug discovery push",
-      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "publishedDateTime": "2021-03-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-alibaba-backed-ai-startup-megvii-files-for-ipo-in-shanghai.md",
-      "title": "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai",
-      "excerpt": "The startup, backed by Alibaba Group Holding Ltd., plans to issue ... Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
-      "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
-      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY",
-      "originalUrl": "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2LD1CY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2LD1CY",
-      "publishedDateTime": "2021-03-14T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -161,20 +161,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Researchers use machine learning to make GTA V photorealistic"
-    excerpt: "Researchers have developed a method of making synthetic images more realistic using neural networks and the results when applied to GTA V are pretty damn impressive. We present an approach to enhancing the realism of synthetic images."
-    publishedDateTime: 2021-05-12T16:20:00Z
-    webUrl: "https://geekologie.com/2021/05/researchers-use-machine-learning-to-make.php"
-    type: article
-    provider:
-      name: Geekologie
-      domain: geekologie.com
-    quality: 39
-    images:
-      - url: "https://geekologie.com/2021/05/12/gta-v-photo-realistic.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "wMehU3hdiZDc3toCJe3EkvVf0VdcZNdjb5Q2fCR2sbi8HpggW4d0YqATzgSZ/GyTcHAvUhFMIO90rdMiwg3SVwX9hU7SDFLwQpjbcSGaBcwgW1bnOZVR2gKF8agAkM2o8V7YB9zvciHfSP44z2ZEpW40hLeAUih0D1cDTvjHCs5tgzE/c53F8tl9k8Jk87x9M2zC4xD8ZFrvfG80qih0Drj5WwTVloY1kMqCvKbfnEahMrGlWs93FHOpv/UqG3O8ZJWrxEXEssldA1qzS0WDprPQc+FHLhcfIaWGtBm5hL7qdCxHtO1KagX74d+LtS7d7gyi//zRRG1wA5b2yrD1wPLRk0+gItIqA6wweJZnihWe20VMQEYIF+2K6o3QVT1mW5wrt01KHV/J+oJtVPSClXxlHqBKiY3W9z6TCLRnDCny1DSANQBnE7VwQVyaj3KUcf1DrVEDz4FC2ueDUljJTk6hO4Iv237Jvj95QKIcR1btuEyxDdn5TNL+Fs9lKe8ugRORRLvAdibYtRKAjpZROA==;Bp+uAtU5PJ1FrGaov2jn2g=="
 ---

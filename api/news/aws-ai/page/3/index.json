@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
+      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
+      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "publishedDateTime": "2021-04-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-shes-taking-jeff-bezos-to-task.md",
+      "title": "She’s Taking Jeff Bezos to Task",
+      "excerpt": "I asked him about Amazon’s Rekognition technology and some of its shortcomings, which there’s been lots of tests of that, too. And he was dismissive about how facial recognition could be misused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/19/opinion/19sway-buolamwini-image/19sway-buolamwini-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
+      "publishedDateTime": "2021-04-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-talking-innovation-and-company-growth-with-amazon-web-services.md",
+      "title": "Talking innovation and company growth with Amazon Web Services",
+      "excerpt": "In the first of our series of three Q&As with Roldan, we hear about why he’s so excited about widening access to machine learning, how AWS helps startups grow through access to the cloud, and how social shopping app Depop used an Amazon data lake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/",
+      "originalUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.maddyness.com/uk/app/uploads/2021/04/Untitled-design-2.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/?amp",
+      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/?amp",
+      "publishedDateTime": "2021-04-19T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maddyness",
+        "domain": "maddyness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
@@ -1172,145 +1311,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
-      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
-      "title": "This premium AWS training could enhance your job prospects",
-      "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "originalUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/02/83a2478f-e18b-47e1-8ad4-5c893f0459fc/resize/1200x/85b4f359ae9c5961c8abf2e96147cb57/aws-amazon-logo-5g-phone-lg-velvet-5893.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "publishedDateTime": "2021-04-02T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-cloud-data-warehousing-understanding-your-options.md",
-      "title": "Cloud Data Warehousing: Understanding Your Options",
-      "excerpt": "Cloud data warehouses have emerged as the go-to repositories for amassing huge amounts of data and running advanced analytics and AI upon it. This is",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
-      "originalUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/cloud_database_shutterstock_Blackboard.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

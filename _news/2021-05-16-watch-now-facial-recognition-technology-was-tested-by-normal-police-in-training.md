@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial
 cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Some iffy on police use of facial recognition"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness"
-    publishedDateTime: 2021-05-12T19:00:00Z
-    webUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.html"
-    ampWebUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
-    cdnAmpWebUrl: "https://cumberlink-com.cdn.ampproject.org/c/s/cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: cumberlink.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "In charts: facial recognition technology — and how much do we trust it?"
     excerpt: "Facial-recognition technology poses ethical questions that trouble citizens and civil liberties campaigners all over the world. Advocates say the technology improves public safety and security. But critics say it is intrusive and often inaccurate,"
     publishedDateTime: 2021-05-17T03:30:00Z

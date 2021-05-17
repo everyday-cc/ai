@@ -27,37 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Watch now: Facial recognition technology was tested by Normal police in training"
-    excerpt: "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology —"
-    publishedDateTime: 2021-05-15T23:07:00Z
-    webUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html"
-    ampWebUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
-    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
+  - title: "Police using facial recognition amidst claims of wrongful arrests"
+    excerpt: "Police say facial recognition technology has been instrumental in helping crack some tough cases, but in the last year, there have been allegations of wrongful arrests. Anderson Cooper reports."
+    publishedDateTime: 2021-05-17T04:08:00Z
+    webUrl: "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
     type: article
     provider:
-      name: The Pantagraph
-      domain: pantagraph.com
-    quality: 69
+      name: CBS News
+      domain: cbsnews.com
+    quality: 74
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/4/6a/46a3f1f4-c290-5935-8448-d7502215d0d4/601e08137f8da.image.jpg?resize=1024%2C680"
-        width: 1024
-        height: 680
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/16/894c04db-160e-4428-a9a4-1df839cc1579/thumbnail/1200x630/dca4e40a1aa58accb3aee4407b5d3ca8/0516-60minutes-cooper-716288-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "In charts: facial recognition technology — and how much do we trust it?"
-    excerpt: "Facial-recognition technology poses ethical questions that trouble citizens and civil liberties campaigners all over the world. Advocates say the technology improves public safety and security. But critics say it is intrusive and often inaccurate,"
-    publishedDateTime: 2021-05-17T03:30:00Z
-    webUrl: "https://www.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
-    ampWebUrl: "https://amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+  - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
+    excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
+    publishedDateTime: 2021-05-13T16:37:00Z
+    webUrl: "https://www.linktv.org/covid-19/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: Link TV
+      domain: linktv.org
+    quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://kcet.brightspotcdn.com/dims4/default/f52f46e/2147483647/strip/true/crop/1230x646+0+87/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2F49%2Ffa%2Faaad4a2f4099994b4db269146365%2Frtxb6owt-layout-comp.jpeg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QrH7R0dq1K4WkWGkCCl8gqMEhu6fiYvUlRf5DtPqRwiQ473E/bbalhht7/82xCd8/OczKMouKsX+o4ZikRe2mGM4MgS862oYEYusRtHNKKiyYshzKyxMeNT9XubKlMt6CnpPEb7Oz1451Zr1CgXPfxwVV1RfcvwgzLJ+0SKuqJiEouUWDLQzsIvZaK4bk66Jy0wTYB3OaIo3NiI6KktE1Oz3qkAqhO+sPd5+ksNc2BVOWgvh7VpqS7hqoI12KzzFtyd+QQUx/KOmEZ1NqfJWflDk3iZYAxlwkBPFq/P7fIkPwi0itWwrpDMq+ESAUKINtr1jdd0bJ5TA9iyfD4vqXHG0WIW4WITFDaCwcvWBKa/sfojOrGN3YKXeQr+5Vk2d1Wxl8NOMcM6OmmXwLJcrdYe94jnW9GcLbvUKbNUMdPjhvYAgtTIgH4rEXmNMrNRGUItltZtDz8WRq133NyydNcU60Jyrifxo++yJ764NeaZG7inQeF5a/QbyHCc/ZpjJ78ue2h8zySqAZ9KhPp8bpQ==;NMuiGnZ5Ay2YjKjRcuxbRw=="

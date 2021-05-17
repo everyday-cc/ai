@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-09-computer-vision-development-platform-crowdai-raises-625m.md",
+      "title": "Computer vision development platform CrowdAI raises $6.25M",
+      "excerpt": "CrowdAI, a computer vision development platform, today announced that it closed a $6.25 million series A financing round led by Threshold Ventures. The fundraising coincides with the launch of the startup’s new solution that allows customers to create AI that analyzes images and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/08/computer-vision-development-platform-crowdai-raises-6-25m/",
+      "originalUrl": "https://venturebeat.com/2021/04/08/computer-vision-development-platform-crowdai-raises-6-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/vz2ceolcwf2i7el2mrr1-e1617226389422.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/08/computer-vision-development-platform-crowdai-raises-6-25m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/computer-vision-development-platform-crowdai-raises-6-25m/amp/",
+      "publishedDateTime": "2021-04-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-dallas-police-used-face-recognition-software-without-authorization-installed-on-personal-phones.md",
       "title": "Dallas Police Used Face Recognition Software Without Authorization, Installed on Personal Phones",
       "excerpt": "Dallas police officers used unauthorized facial recognition software to conduct between 500 and 1,000 searches in attempts to identify people based on photographs.",
@@ -1309,41 +1361,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-global-ai-in-computer-vision-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
-      "title": "Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
-      "excerpt": "ZMR analysts forecast the latest report on AI In Computer Vision Market Size continues to grow from 2020 to 2026, according to their latest report. The report on the global “Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
