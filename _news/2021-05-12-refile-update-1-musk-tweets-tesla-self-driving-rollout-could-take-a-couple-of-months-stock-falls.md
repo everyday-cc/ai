@@ -72,17 +72,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
-    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
-    publishedDateTime: 2021-05-12T10:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 36
   - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
     excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
     publishedDateTime: 2021-05-14T12:41:00Z

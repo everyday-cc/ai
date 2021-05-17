@@ -28,16 +28,21 @@ images:
 
 related:
   - title: "This facial recognition website can turn anyone into a cop — or a stalker"
-    excerpt: "While most facial recognition tools are reserved for police or government use, powerful PimEyes is open to all, whether they're hunting crime suspects or stalking women on the web. Researchers fear there’s no way to prevent it from being abused."
-    publishedDateTime: 2021-05-14T16:31:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
+    excerpt: "While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web."
+    publishedDateTime: 2021-05-14T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 38
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 58
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 954
+        isCached: true
 
 secured: "0RDrHBfLSwfQQ7icw65IEYabsuFvOjE+TxohaIAzPL1SL+2tOhIOyT/H4LJsKjom2cc19BGpV8pTRmE7PWz5mjYudeYU9IVTmH/29x/3ZWP6quDVu015PV5AoE4L6CBEQRquDWBIXUd6Y+tdCy1I/MqbVtpIAZIDN7YAgceAV8heISO1MKA24QneBrLTJvt2GjE/vI1iG6G2YZluqC7cu65ba+vqfaDCH98vmULDlpD6vMl/Z90orUCHMJp6lhLP/Cz/B0cF57+paV619ipDHAtv2nUIk+w3IB8qWqaOtgbTNfuIIGPKQBUsm6nL7OlL41YVUAOZsCCAEmzE0hUVRwVaoe5cVOzZg7aDhEa9mexuszJWTPpgl9JFjF9KmtSN04PW+0bxd7hSB7RfpcHgJDcCPTmIF+mJKaEOg4AhlWs1JNePK6YkO3Hh0ZYxm+Qto7MdZrLK9fiFk+h/KU/LWrUQcj/d+XtT0+ftiSLussfDpCvqXY3nqz9bK1TyNJmgFePwIW5dbyWePN+TRfHMlA==;dqJR7aandkF0QU1RJdA3iA=="
 ---

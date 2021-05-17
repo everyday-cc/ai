@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-16-12-use-cases-of-ai-and-machine-learning-in-finance.md",
-      "title": "12 Use Cases of AI and Machine Learning In Finance",
-      "excerpt": "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,",
+      "path": "_news/2021-05-17-how-ai-in-finance-is-transforming-the-way-we-interact-with-money.md",
+      "title": "How AI in Finance is transforming the way we interact with money",
+      "excerpt": "AI-based consumer technologies are making payments more convenient, easier and frictionless, and the whole experience more personalized.",
       "sourceUrl": null,
-      "webUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
-      "originalUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://customerthink.com/wp-content/uploads/22893443_s.jpg",
-          "width": 450,
-          "height": 450,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-82698338,imgsize-250350,width-800,height-434,overlay-etcio/how-ai-in-finance-is-transforming-the-way-we-interact-with-money.jpg",
+          "width": 800,
+          "height": 434,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T11:51:00-07:00",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338",
+      "publishedDateTime": "2021-05-16T20:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,51 +41,7 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-how-an-mba-in-artificial-intelligence-can-kickstart-your-career-in-fintech.md",
-      "title": "How An MBA In Artificial Intelligence Can Kickstart Your Career In FinTech",
-      "excerpt": "Want an MBA in Artificial Intelligence? HKU Business School offers an MBA AI for Business Leaders module, which is helping students start new careers in fintech",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored",
-      "originalUrl": "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessbecause.com/uploads/default/news/images/1620289993.png",
-          "width": 750,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored",
-      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored",
-      "publishedDateTime": "2021-05-13T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Because",
-        "domain": "businessbecause.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -1398,6 +1354,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-bnp-paribas-am-turns-to-machine-learning-for-carbon-emissions.md",
+      "title": "BNP Paribas AM turns to machine learning for carbon emissions",
+      "excerpt": "BNP Paribas Asset Management is using machine learning to estimate carbon emissions for companies that do not report their carbon footprint. Raul Leote de Carvalho, deputy head of the quant research group at BNP Paribas Asset Management, says its modeling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/emerging-technologies/7823096/bnp-paribas-am-turns-to-machine-learning-for-carbon-emissions",
+      "originalUrl": "https://www.waterstechnology.com/emerging-technologies/7823096/bnp-paribas-am-turns-to-machine-learning-for-carbon-emissions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-04/pexels-chris-leboutillier-929382.jpg?itok=Lk0bFv48",
+          "width": 378,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

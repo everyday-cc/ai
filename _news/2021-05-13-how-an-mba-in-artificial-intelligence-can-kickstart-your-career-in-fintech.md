@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-
 cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Because
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eight promising impact startups in fintech, fashion and education"
-    excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
-    publishedDateTime: 2021-05-12T11:00:00Z
-    webUrl: "https://impactalpha.com/eight-promising-impact-startups-in-fintech-fashion-and-education/"
-    type: article
-    provider:
-      name: impactalpha.com
-      domain: impactalpha.com
-    quality: 41
-    images:
-      - url: "https://impactalpha.com/wp-content/uploads/2020/12/shutterstock_1729589788.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Fintech start-up raises £1.2m"
     excerpt: "Beta earlier this year. The purpose-led, AI-driven fintech had previously raised £455,000 in pre-seed funding, which saw the initial build of the app, which has since gone on to receive full FCA authorisation in January and has already attracted its first beta users."
     publishedDateTime: 2021-05-13T11:11:00Z

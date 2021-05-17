@@ -43,22 +43,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
-    excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
-    publishedDateTime: 2021-05-12T10:56:00Z
-    webUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/"
-    ampWebUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-Digitization-AI-Hybrid.png"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
     excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
     publishedDateTime: 2021-05-14T09:53:00Z

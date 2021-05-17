@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leader
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets"
-    excerpt: "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI"
-    publishedDateTime: 2021-05-12T09:17:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 47
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/contact-tracing-920.jpg"
-        width: 612
-        height: 355
-        isCached: true
 
 secured: "SOdpA5NW12DCfFYD2Zs2nBfGnzXQhvgIWoc+grZOeubaKtwngX6xYm0JtHLXS3hvJjwvJ2Lym2lhEP61KbWEAB6pkNsY/NvwMZh+g31NaSaTIYIm+LFRxp1HO9lDSzWCQfXpU0MZRyfX55A9YQ1nd7TiCYwHCxb7pqAk2e6TBLY9vmQRIinfK9yBdQIY6FkpgkeKtDMS11ojYKF0OyCmH0KeO6Y5+w5HbcWR9nqZDtAi6bVw1YvX/SaRxmN6OYaKijnMYS0mGE1IVU4dNKsJ86WAWBHmMMo+M10oF/XBfq2mzISM9Wd4ykNQvJOjXIIACFwUym9dGd7o7bBREovMU7yV/h6NZxWLOvdXn0wESHM=;QlOmyjcQkmgFkGYgqSBPVQ=="
 ---

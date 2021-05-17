@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report-newsletter/scooter-startu
 webUrl: "https://www.autonews.com/mobility-report-newsletter/scooter-startup-bird-go-public-through-merger-spac"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 792
     height: 488
     isCached: true
-
-related:
-  - title: "Four Firms Guide SPAC for Self-Driving Truck Startup Plus"
-    excerpt: "Kirkland & Ellis and U.K. firm Linklaters are advising self-driving truck startup Plus on its go-public merger with special purpose acquisition company Hennessy Capital Investment Corp. V."
-    publishedDateTime: 2021-05-12T10:55:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/four-firms-guide-spac-for-self-driving-truck-startup-plus"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 24
-    images:
-      - url: "https://aboutblaw.com/Q2V"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Dln6/txPgC3WQg56pYyfMDPiyHsBlnre8qFLho/A2/Sbv7oQ2Dqt0Q48tPrNxwp6hPm4tJQ4shAfDFQrdcBnUJG7g8jXwb8+DlBMTjwnCD1eceuuAIyIRL5H5HzPaEu02uw7KT5lzwl3YHoD1sBuhamvGsLh0S7x2Amr1n/JwO4I8bb6V6+/lRE62VOO5OC182rcKCcByKEDu6NKLsm/Qa5PzbRlRPASfSovJCdKp5VwxsVbEY4Rw/Quv7Lc0qnVqzjv/+rheg4+qksgAfXAYwCGwjVdp05qvkxsLTJUJJPYr2au5oOuCHHo1SdIcU5cqelGSArpPzdKXsEBDeBwf1QBDCXnYuPbtJwtLynfaYkxm0ddZmeejsAm/0rRd6MrMGmZBxvAbuO/8Q0rldvFo7jr+46tKpmdmFxSUZ9K39I7vYqyC9w70KMoLgbjcahmdbZTX8DeSSJ/oFHSNQlqWJFdF/38w5+zgnkkw/dx8PoQ0d/1QBaexDGoZzywoGeTIj+pfQIfLtivmD64rLqW9g==;muZsl3TJtvRi9S02XyuLzQ=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Service Market Development Trends, Competitive Landscape and Key Growth by 2026"
-    excerpt: "Global Artificial Intelligence In Healthcare Service Market Growth Status and Outlook 2021-2026. Artificial intelligence (AI) in healthcare is the use of complex algorithms and so"
-    publishedDateTime: 2021-05-12T09:16:00Z
-    webUrl: "https://ksusentinel.com/2021/05/12/artificial-intelligence-in-healthcare-service-market-development-trends-competitive-landscape-and-key-growth-by-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 31
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Healthcare-3.png"
-        width: 560
-        height: 315
-        isCached: true
   - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
     excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
     publishedDateTime: 2021-05-12T12:47:00Z

@@ -40,22 +40,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
-    excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
-    publishedDateTime: 2021-05-12T10:56:00Z
-    webUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/"
-    ampWebUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-Digitization-AI-Hybrid.png"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
     excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
     publishedDateTime: 2021-05-12T17:12:00Z

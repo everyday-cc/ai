@@ -103,15 +103,6 @@ related:
         width: 1109
         height: 577
         isCached: true
-  - title: "New Neural Magic CEO says Facebook lawsuit is ongoing"
-    excerpt: "Brian Stevens, the new CEO of Somerville startup Neural Magic, called an ongoing lawsuit against Facebook \"a necessary evil.\" Stevens is the former CTO of Google Cloud."
-    publishedDateTime: 2021-05-12T09:57:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/05/12/new-neural-magic-ceo-gives-facebook-lawsuit-update.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "ab8KVgGRTd5zY/TUpIOrt/JBpJkDkk144iXxw+YgBu4Z5tEJPMSWm51BqC4dXN8xSbH7yBPuofHLq+GNtXu8hfoHW1uRgZG3AxUh8U1VRWgAJzbN64QR6mXrcINGMeYL8hSEnPXHkSgPE2s8LQwfb+UG6z5zBbVHdgJDeg0sxsMQYgDbbZh4doCjrcqTXM2Aa3YkX6ZIEppfH5tnQ3dgi50wDEyvRcgWcN3w/vvj2sYFGvrZ9stY+uXO7itvaMcVfXfWLPahMEnmW4w21NhI/LPM0i/RfzzIk1WiT9SBTk6mA5xY6bq9kfsp1W2EhMD/+UZNkNjqOOyDHNqxTv78OOmjDGuopyzehM6oPjvwRj0CHmecitKtkz03x1xC0771YSvsQJdlNfmrb23s1X8deE4+4zuUjUKVDi7/la1FRxmMS9L+qQsBTCoJKDXJWdtV62mWLUhEIs8Ez8DMjT1OCuh0yJGJyre4OPGx79bybQdE6n9QKz/fbyYje+pUpIboABoFsnaYlRzGigPjhJzr8g==;tWLAEAIGgp/T/Rss1YOGhg=="
 ---

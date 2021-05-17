@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Service Market Development Trends, Competitive Landscape and Key Growth by 2026"
-    excerpt: "Global Artificial Intelligence In Healthcare Service Market Growth Status and Outlook 2021-2026. Artificial intelligence (AI) in healthcare is the use of complex algorithms and so"
-    publishedDateTime: 2021-05-12T09:16:00Z
-    webUrl: "https://ksusentinel.com/2021/05/12/artificial-intelligence-in-healthcare-service-market-development-trends-competitive-landscape-and-key-growth-by-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 31
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Healthcare-3.png"
-        width: 560
-        height: 315
-        isCached: true
 
 secured: "fhGcqjki+UIqNcnKY3t6ODKuD0kbo9iflxSVekrbTqKQ3ekun5gjKnf6Q0S2DQ6De7MqjS/zfMdt2NRhBLumpiDrNKcWRgqMx2Z1aaEO3HRHOJPWaUKg75MJ5zh3KHuDA6UbolvhkIcZBneomBOCR9A7GfSaB7ZnM+70xiEFTnfa2/09jvO020J31l2qZQdERj+6mIrgLsF9VacLq/aYfhChf3nRIwebhdDT/eeeS0TVA0jQg1qEy/JnalYTJlNDdCUBeB5QdPLIuhuFLBuZQjXskzp+EC6pd5LLkTxb4hTRdXmck1fr2n6Se16QPNk2Xa5+b1iWDoOJdnFfGjE8myAEv/I+iN5XbD4eCVI0DTVI/LktKZWD5gZvw6f1AEMyPaVDsjgwwBlGsRkcSaWi7dJi1bmJpzT5zskergJ1UtBoOlNUJfInopJcchSTOir0YwtoSy+PX2mKU5oXXqQHFNnYEE68ZF62Ag9U9yEwGasI1+w1mY6J5j1cjLjupvPiO2wOC/avsB6BgCiFp7krrA==;jCXjPst94yDSrhRk2FRW0A=="
 ---

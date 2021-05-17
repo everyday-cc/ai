@@ -41,20 +41,6 @@ related:
         width: 750
         height: 468
         isCached: true
-  - title: "Eight promising impact startups in fintech, fashion and education"
-    excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
-    publishedDateTime: 2021-05-12T11:00:00Z
-    webUrl: "https://impactalpha.com/eight-promising-impact-startups-in-fintech-fashion-and-education/"
-    type: article
-    provider:
-      name: impactalpha.com
-      domain: impactalpha.com
-    quality: 41
-    images:
-      - url: "https://impactalpha.com/wp-content/uploads/2020/12/shutterstock_1729589788.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "42+stSiK79pK8Jdiq2s0/ochIy6hhmtIbnGSl9N8D0PuRGgleUY8lg+L1KiTi8akbarTONbEAUhrnINxe/p7HsCeMIHtE4zcImNFr8QX9GXMKhP2m+QrBoNUP072I062m2gD75pdve6u1cAVUmJ0p+GDnr+TLm5wLD4KU+tydBAvj6+A9fUuiL+ItlTyDaPVKDsW+KzGj8p1G5xYWv6XsFB2x/CIxQ5hiVSCcKe1zpbYYW/Az/TiMmA8wLvhcYcBZqJXm87jyBiDaesxWNyd9X4zpi9HE3W3wgPAhYH47Rp+vWoLZVtprbG4TmTp+Pdc6XCAf0SThRT58tGYLyrKgIeJU+8ooyH/xnVKTKycMh8=;yPlaTX4o97YuqxaF9du9DQ=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "In charts: facial recognition technology — and how much do we trust it?"
+    excerpt: "Facial-recognition technology poses ethical questions that trouble citizens and civil liberties campaigners all over the world. Advocates say the technology improves public safety and security. But critics say it is intrusive and often inaccurate,"
+    publishedDateTime: 2021-05-17T03:30:00Z
+    webUrl: "https://www.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+    ampWebUrl: "https://amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "QrH7R0dq1K4WkWGkCCl8gqMEhu6fiYvUlRf5DtPqRwiQ473E/bbalhht7/82xCd8/OczKMouKsX+o4ZikRe2mGM4MgS862oYEYusRtHNKKiyYshzKyxMeNT9XubKlMt6CnpPEb7Oz1451Zr1CgXPfxwVV1RfcvwgzLJ+0SKuqJiEouUWDLQzsIvZaK4bk66Jy0wTYB3OaIo3NiI6KktE1Oz3qkAqhO+sPd5+ksNc2BVOWgvh7VpqS7hqoI12KzzFtyd+QQUx/KOmEZ1NqfJWflDk3iZYAxlwkBPFq/P7fIkPwi0itWwrpDMq+ESAUKINtr1jdd0bJ5TA9iyfD4vqXHG0WIW4WITFDaCwcvWBKa/sfojOrGN3YKXeQr+5Vk2d1Wxl8NOMcM6OmmXwLJcrdYe94jnW9GcLbvUKbNUMdPjhvYAgtTIgH4rEXmNMrNRGUItltZtDz8WRq133NyydNcU60Jyrifxo++yJ764NeaZG7inQeF5a/QbyHCc/ZpjJ78ue2h8zySqAZ9KhPp8bpQ==;NMuiGnZ5Ay2YjKjRcuxbRw=="
 ---

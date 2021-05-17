@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/7-best-practices-for-imp
 webUrl: "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115"
 type: article
 quality: 125
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology"
-    excerpt: "Data Island Problem Can Be Solved by Combining Privacy Computing AI and Blockchain Technology Platon Now Offers Breakthrough Solutions to Break the Data Island and Release the Value Potential Singapore,"
-    publishedDateTime: 2021-05-12T10:45:00Z
-    webUrl: "https://menafn.com/1102066078/Data-Island-Problem-Can-Be-Solved-by-Combining-Privacy-Computing-AI-and-Blockchain-Technology"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Venzee Technologies Advances Syndication Self-Service Leveraging Artificial Intelligence"
     excerpt: "PRNewswire/ - (TSXV: VENZ) (\"Venzee\" or the \"Company\") announces today continued application, development and use of artificial and augmented intelligence technology now deployed"
     publishedDateTime: 2021-05-13T13:00:00Z
