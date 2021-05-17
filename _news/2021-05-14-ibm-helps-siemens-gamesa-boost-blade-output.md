@@ -7,7 +7,7 @@ originalUrl: "https://renews.biz/69590/ibm-helps-siemens-gamesa-boost-blade-outp
 webUrl: "https://renews.biz/69590/ibm-helps-siemens-gamesa-boost-blade-output/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 366
     isCached: true
+
+related:
+  - title: "Siemens Gamesa building wind turbines using machine learning tech"
+    excerpt: "Siemens Gamesa has partnered with IBM Services, using machine learning technology to improve the speed and efficiency of manufacturing its wind turbines. The companies have created a machine learning solution on Microsoft Azure,"
+    publishedDateTime: 2021-05-17T12:30:00Z
+    webUrl: "https://www.energylivenews.com/2021/05/17/siemens-gamesa-building-wind-turbines-using-machine-learning-tech/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 41
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2021/03/shutterstock_1043412100.jpg"
+        width: 720
+        height: 412
+        isCached: true
 
 secured: "n8yYX3Io2tv/RJHt2u3tTOIP3vzRye03Zk3JSUfnFVW4AKnZ+ZY67yf1MM+bcRVMn+2rPxX1KjCG7BJAsYuIXuuZY3REYthomTzefYw3UDuzOCA4f4LrdhZxeak2qjHR1D15KYozU3Ksdm6gUyShWwzjToDyZPLhy4jgj+/IkaoVD1RzFHft4cXBaoSh8foPxA5w2sriz73GNFCJEzrjwD3x/1sD0IfGqY5IdFOlWXQtxT58lKMm4kaj0qMCTqOyKD6rxiDSl7j3AiBwNVTiWszJ+f30spNXyh7OSAcmQ7xuZuwgASYoPGpkqGLH7OSvqz3KEmXPbzq34uo1i1N8zdIWoK9UUgp81NozHC18ubQsT2vnuXtcgb2fsD+3qkliEJknq99Q1oIfLXhk7JHabcBq4nATu9GoxqIWgYcWRAr1d0+XAC2RZDDCTqHidKPtfrZi15n1HIQRuynl5eKQW+QW6LuM8qq0SfGn2EBm7y6f51fxkBHzh662o2k64d30TKlQ6QryYFqvYJy8eElq2w==;02SZOzv/CzSYoK4VHP+o4Q=="
 ---

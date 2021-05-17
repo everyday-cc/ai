@@ -43,15 +43,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "Volkswagen, Argo AI to Launch International Trials of Self-Driving ID. BUZZ"
-    excerpt: "Volkswagen AG and self-driving startup Argo AI will launch international autonomous driving trials of the all-electric VW ID.BUZZ microbus this summer, the German automaker said on Wednesday. The first self-driving prototypes based on the ID."
-    publishedDateTime: 2021-05-12T20:21:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/volkswagen-argo-ai-to-launch-international-trials-of-self-driving-id-buzz"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Self-Driving Volkswagen ID Buzz Minivans Entering Real-World Autonomous Trials"
     excerpt: "T ID Buzz delays are a, uh, buzzkill, but at least while we're waiting until 2023 or so to drive one ourselves the reimagined modern Bus will be put to good use. Volk"
     publishedDateTime: 2021-05-14T17:05:00Z

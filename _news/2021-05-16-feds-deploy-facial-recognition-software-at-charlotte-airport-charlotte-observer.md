@@ -28,6 +28,15 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 26
+  - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
+    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
+    publishedDateTime: 2021-05-17T13:11:00Z
+    webUrl: "https://www.aviationpros.com/aviation-security/screening-technology/news/21222966/facial-recognition-debuts-at-charlottes-airport-for-use-on-foreign-arriving-passengers"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 26
 
 secured: "ugM/zRQvwHGVNyusoFjaRCRPOTmYibehgJoS/To/LmX3J2jStcauMn/hGhI1PuJ5+rVyaCemEX9Bb1+S6gqebG7ApLsiymxyN3y6C0RuiYb0VUryf/8iOvAGPXzITVlqExS9o3NgSmXVraElBwoDKgYDBz+www90a5a+8GwiLyPjpfYNEO9fMf0V5p9Q95B+bEnTh73iQWYJt8zQmWHjW/FnqjqXMTxoY+FE02q73Ox5eBeLEIomSrMNZYBWqVoM0BEKddJaxL+bg9QYwUFhlLbqgTcBm/S0bufCiVI+ACuhqhx/taDKx1jbFkRnj8bPfVdWv1BZfkTGEy/T+U/M1RjH4yV1prnYOKEkt1ZCi2pAHR8XjdsjALgd96xupeGP41i3DZwC2dn6ZsYsa/wEoHyIB2RK5PpIgVp51cRLfNoWYZbiO6QS4DMLnMLzfjo+vbAfiJZ8fOxJFAwEQZDHEciRNYYwpQ+re88q0lgGVxnpAggfykhje9AofFhYXS2rsP/gq27WtXc0rZobCK9HnQ==;xOerJgFi6/IQtrVFDvyo2w=="
 ---

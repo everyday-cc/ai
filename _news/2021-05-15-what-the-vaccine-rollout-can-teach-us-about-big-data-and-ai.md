@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Musk says Tesla new self-driving rollout could take a couple of months"
-    excerpt: "Boss Elon Musk said Tesla Inc TSLA.O is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next couple of months. Tesla shares were down 4."
-    publishedDateTime: 2021-05-12T20:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/musk-says-tesla-new-self-driving-rollout-could-take-a-couple-of-months-2021-05-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "o4sp0WIg3EJl+fMxpZYqC07LHcMtL7qT07cuLJGzY20TeTsggE4gqYulYDVrd0QQ3STLka5/Rgf7wjwemTreH0R5+7paxxai8LUR1OM2qA9uPtpNGTo8ARIKlgz+ChctR9F5aG0S660E5jUkJ/E6BiQmVx32baQ8qIrEbbhBiDgxEO5IGyid94eAUxsHLVsQMuPoLtvnEHm2tKm+q3T/kItke/jTKvQGeuLUoaKGVzugT2sZhHdUZs0+q8ZmWvi4ayR+paL8bBs/HHY0iACLJ/bwgq0LEKgc83dkRP77Gh12oiBpBWh0vW8xvvoKwZwnhBXnwvhxsP4KZe5eVa7IXmlCjVk3MBBJ51R3zbd9jirEZsT3TwdodpxbafuVP0/UccU7FxJsliIBKVvkTFJquQ0oopSmIGovqgoC24A40RIf2zFwMHQysZ0el5YNE5KHWJXEwVdVTUUKN0MCTR6DQPtyj7S15KM+zEtWnyxVkheOdeMxmr6toAfDrfAsaNHyr9svqOVJjT+JG93VcjSjsQ==;ynO0DwB393WtOr5EzQyUXQ=="
 ---

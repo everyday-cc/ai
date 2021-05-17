@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MOVO® Forges New Fintech Category and Launches ON-DEMAND Mobile Banking with End-to-End CONTACTLESS Payments"
-excerpt: "The all-in-one banking and payments app enables consumers to receive, send and spend, with digital cash securely and instantaneously, anywhere and anytime MovoCash, Inc., a California-based Fintech company,"
-publishedDateTime: 2021-05-13T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210513005221/movo-forges-new-fintech-category-and-launches-on-demand-mobile-banking-with-end-to-end-contactless-payments"
-webUrl: "https://www.morningstar.com/news/business-wire/20210513005221/movo-forges-new-fintech-category-and-launches-on-demand-mobile-banking-with-end-to-end-contactless-payments"
+excerpt: "MovoCash, Inc., a California-based Fintech company, announced today the launch of a first-of-its-kind ON (News - Alert)-DEMAND Mobile Banking (\"ODMB\") app with End-to-End CONTACTLESS Payments in partnership with Mastercard® and Coastal Community Bank."
+publishedDateTime: 2021-05-13T13:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368938.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/13/9368938.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -36,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "IePoBgjCpgMTy5BKtAYmGX+Jbb6LcNAbNbl+9UXTQp8yI6TVJcd7rF1BFR+cEXqR8EK3eM+m9KKzQfLWXCl0+CLrX8wS6IA3cQ0Pu7TANsCMOHX2OeoHhBOjHnjyLUmx6jRzi77FicmmYvBEiGhnuPosb8eQrxyEEppFg0PMob4+g9QzY+kq8YYIYk8Af8uUQ0NvBEyXRvAUk+03TR0AGGjFNAy5VrGL17AvMKErnlp4u7GgpyVJXDVEOY15SqnHMwBNWyvB5k7Q7azcXvIK9q1uwVLPkP4dVvq6w6Rb4dgUhswkpqr+TYH/VNry0O1SQM/oSS3fpp1sqJm800vTPbo5A/BfkNOKq3QrHPETn2I=;fDJEp2yuEJ85Chc+9L3k6g=="
+secured: "aIk/uWC4TT3PuEf54wepEo1PaLABkfhbp0UnvBLo8Sghw9y2S0T2DthxHgzgE3O6IlY19947YppcKbUJxjXISDU3Wnal6MxUHOP+rzu7RHwXgXvpLcY5o/2PjOStsOuCoe3ruBIwqb6zxalIe9ntCHcV22F2D6vz4r9aTA/bKkjyainimqNJ0LWMomuu/1DJmbmgxwNfGWfNcUUT2dhkMc8jPZP8FtXuYHQk3jPTNanQk2fHIHBf2fRHcdMH+r+eHZx+tfretHuT28ZcwK2+N0+ZmD4xh3u0xWiHe9cq9WQrwTYvLFKYHXzUye+XVbvyn1ZuSv/f+jFH44JPbE1PweKt3ZwQHiUYo1hr+eMW8Hk=;6UnG+d1q5RPndFGYao1HPA=="
 ---
 

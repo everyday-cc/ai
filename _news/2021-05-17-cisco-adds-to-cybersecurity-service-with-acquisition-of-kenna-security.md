@@ -25,6 +25,24 @@ images:
     height: 229
     isCached: true
 
+related:
+  - title: "HCL Technologies Looking to Hire Professionals Fields of Cloud, Artificial Intelligence and Cybersecurity in UK"
+    excerpt: "HCL Technologies has been present in the UK since 1997 and its UK operation employs 3,500 people across various locations, supporting over 50 clients"
+    publishedDateTime: 2021-05-17T12:41:00Z
+    webUrl: "https://www.dqindia.com/hcl-technologies-looking-hire-professionals-fields-cloud-artificial-intelligence-cybersecurity-uk/"
+    ampWebUrl: "https://www.dqindia.com/hcl-technologies-looking-hire-professionals-fields-cloud-artificial-intelligence-cybersecurity-uk/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hcl-technologies-looking-hire-professionals-fields-cloud-artificial-intelligence-cybersecurity-uk/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 37
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Information-Technology-Industry-4-Network-Industry-3087393.jpg"
+        width: 800
+        height: 333
+        isCached: true
+
 secured: "x7VeWqv6LxG547x6hHSkI6q0McGPEKZwUQEwxL6sQAWkFkj1ra0bxBH6OIgSy1HbHqfHn6zLbM3W87TrSWzjcd7dws2/DeK97i5ifbtrKU0r07lK/26z0h6/mA0FmRIFQU0Dz/HwgOuonhVd3svk8dMBopdugIFmCrQDhvVkSqUyLEecuk10L1VKjJ9pTJTKLrOun80g3nqmaZA82FQ/kP+8W5hJgjGt9KtPzsDKmlSVGgsYJcTpbTscF4OP7UZ/7ttjlbPIp7aMIIlvKsEilRiXSSMhMVNlFsJKe/ykAnPVHMBEE5N1ea69LJM0eDzBv2Kc97Dimm8hiZ7i6JKu3+41TfbeyPmbdREVPWoG74o=;+l0iAsu0DZO8Lxjtc5Fz2g=="
 ---
 

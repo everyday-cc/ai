@@ -89,20 +89,6 @@ related:
         width: 708
         height: 324
         isCached: true
-  - title: "I Was a Facebook Content Moderator. I Quit in Disgust."
-    excerpt: "Facebook is driving content moderators toward despair through mismanagement, vague policies, and overwork. I'd had enough."
-    publishedDateTime: 2021-05-12T20:37:00Z
-    webUrl: "https://newrepublic.com/article/162379/facebook-content-moderation-josh-sklar-speech-censorship"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 24
-    images:
-      - url: "https://images.newrepublic.com/eaf083a844aebd569d8d6760a985f73016c8e144.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
-        width: 1109
-        height: 577
-        isCached: true
 
 secured: "tMBLJpRFkEyrbsF5ig8D65zgvjJdxKqtDCMBk0IIAXgFpurOJMYY3VzEoybEKIhrgH9nGGf+nYVlQ61eNBkCFPxXydCBn+C2A5lqnEsfYRdJzBYUtHqhkxBOsgqUKPV71/OaTVCu0c3u80d3jm3t1yi2pXNppmCAsv5SXmdP2FAsa2g3vFR/vEgXq3m5UhLgXDtCSfNEcfzfMEhzIBS+XXcYUrx9MO5Q3iKQ6UOo3Uq8+KsYwnEkAP9LIBQGmWPTGDTkqbSGlUeH+9qJ8/HhqIAWIiGBUEXjlX3JVLAsf/q/Kreatz2UbDhb4wdZ2OGGUE9aLRF2ejP/TBsAhtKMxx7/qtlydlSp4mbZGHi9oCNVVqHdEgMPvQ8DU46uexipDcXfu0bjOhRVl/6nRIaqAH8QDLid1QlvUJ9oNyQeMT0QCPyzM+Y2BO+RkTzHEqHWKqliits6I1I21gNgiY5MxPV+LPGzTe6J1HO2nghw3dr6YoerQlIWlVhi3W3vNnMB3P7LpK7wHfDYusSXYcsq+w==;yd/xqPikxENNyBHGc2wSfA=="
 ---

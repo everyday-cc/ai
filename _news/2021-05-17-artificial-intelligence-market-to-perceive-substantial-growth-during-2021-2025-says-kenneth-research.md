@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research"
-excerpt: "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report"
-publishedDateTime: 2021-05-17T10:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17"
+excerpt: "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report on Artificial Intelligence Market which emphasizes on the latest trends, key opportunities,"
+publishedDateTime: 2021-05-17T12:14:00Z
+originalUrl: "https://menafn.com/1102089310/Artificial-Intelligence-Market-to-Perceive-Substantial-Growth-during-2021-2025-Says-Kenneth-Research"
+webUrl: "https://menafn.com/1102089310/Artificial-Intelligence-Market-to-Perceive-Substantial-Growth-during-2021-2025-Says-Kenneth-Research"
 type: article
-quality: 53
-heat: 63
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: ksusentinel.com
     quality: 34
 
-secured: "5EiBJFpP5NzxP9fOPyUEZc8tQIVdaTytr1+ikiEjEBa2F4oey7TyM0caBOrWedzRKSiJiS+aOM6q8ofbaqy/I9OjN/4F82oNzogaWFT/GD0T4frfeSjcWjDgFSo0OqH/iQ/AOsPQNv/t5z/KvBGZSUYb82MM2ZnAMqHfFm42XjWYdbesgVOQ3lJbCCMWekCEeKdbdXY6zK+ayzVV98i2IT1xh4XySf9jcnC/AE/2k+6xfLfCSIbwZa4trr3/2UijGetp+VU4kf/UXqBi6GpyoCHZ2dBcB8IHCC2MRmBGDzxkXznomU9dOU0R2rBQWeLEDG9omc6SJileNweNCMEsLK6ntIAVxFnwef6s/ZDuUlY=;tqFmKKV48zpMVVHT+RLYkg=="
+secured: "on7WdqCG+0JyGSFQsq+EzWMtS8tAQ+/fgJDDGomJzLaGU/l6YjjWF7j/EySojA32/5O7AuYArA9VXPNr30BMy1KDmhjkq/1uzLI/BcpWvGrHPIlcePMmeTqhQlfBbacW8MO3i2LpSJ5cElfPMvQeNUmyrX5iIGjdhHjqCqhQi6quJaBo2AC40TKW3PjD+D3Bin3ZWdgFq9/L9UZfihK9yf0hXJQM9rHH2A8b4P7fc6OVlDggwX56EF9gzsyScybV3YEBRjbihrq2b85a144qzidavB4Mt/VQjSaK+jeqSqNB4H0O2d3sxNjvjUs1x+WRLJFuWcbHdUeC7UpKTxYMKbMQ81DulWyKkqr4x+5gGd4=;FKUoBtrISxWChFCLgy87RA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-arg
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen, Argo AI to Launch International Trials of Self-Driving ID. BUZZ"
-    excerpt: "Volkswagen AG and self-driving startup Argo AI will launch international autonomous driving trials of the all-electric VW ID.BUZZ microbus this summer, the German automaker said on Wednesday. The first self-driving prototypes based on the ID."
-    publishedDateTime: 2021-05-12T20:21:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/volkswagen-argo-ai-to-launch-international-trials-of-self-driving-id-buzz"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Self-driving Volkswagen electric bus trials to start soon"
     excerpt: "Volkswagen and Argo AI (US-based self-driving startup) have announced that international trials of the autonomous driving technology in the all-electric ID.Buzz microbus will commence this summer. The"
     publishedDateTime: 2021-05-13T11:45:00Z

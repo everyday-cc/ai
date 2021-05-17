@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/expire-span-AI.jpg"
         width: 1181
         height: 792
-        isCached: true
-  - title: "I Was a Facebook Content Moderator. I Quit in Disgust."
-    excerpt: "Facebook is driving content moderators toward despair through mismanagement, vague policies, and overwork. I'd had enough."
-    publishedDateTime: 2021-05-12T20:37:00Z
-    webUrl: "https://newrepublic.com/article/162379/facebook-content-moderation-josh-sklar-speech-censorship"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 24
-    images:
-      - url: "https://images.newrepublic.com/eaf083a844aebd569d8d6760a985f73016c8e144.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
-        width: 1109
-        height: 577
         isCached: true
 
 secured: "g5TfADxOfUXFb8oEyeLH1idiJ8bbTS+SII06lxx7j8ZagDkLV/ws4r3kHNGHNapcwYmr1cByXtAPGU+iu/idhoSaOpW6JUR2os6c7IGgWD0XxdxPMKfyYnECyV3xZYInnO6Fw5rsrcIjKZ8V5B5pNLtd2B8h1OjdfwJttab65DZp4p+PKyu4ovgji6hmWR5IG94XiI+eEvyvyEd5qwF7fxjPKo+0kHsER4J0GneKivz0IqwAXRf8Pu+P54koYfzEhGTcwVzt3qf9Gr9tL6W4e5eiPvTu3+siR87WN4Y/0SLfAGcZEdoIlZtB3DLIncevG0655kqD5nNb7BgXKmSPGe+WEJu29Zd9Jn8v94tstZXYc9sQSxWiOkmq1fPAADpzmPuWp651mQabtQZ9MDFC4gYzX7rziMO3RpKtowwRO+zgnsw9Gk2jHWOtF/wAMbu8DYiyjlasjHyMFGZoFgVxHroKZkQdjeiVS/fzSfCq/5BfTQnEWPU9Bmt9AqwvnS/KKyl2s5Dbs/TvU8ax+8o7qA==;CFJb5SVmiabymLqO749Ozw=="

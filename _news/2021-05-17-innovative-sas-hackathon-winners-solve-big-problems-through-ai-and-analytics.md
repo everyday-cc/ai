@@ -122,6 +122,20 @@ related:
         width: 1288
         height: 648
         isCached: true
+  - title: "Using Advanced Analytics, AI, and Machine Learning to Mitigate Risk in the Modern Broadcast Environment"
+    excerpt: "Zixi's intelligent data platform is leveraging the most advanced event correlation tools to identify issues in live streaming workflows before they become problems."
+    publishedDateTime: 2021-05-17T13:00:00Z
+    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=146752"
+    type: article
+    provider:
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 38
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/134124-Zixi-Logo-ORG.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
     excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
     publishedDateTime: 2021-05-14T01:05:00Z

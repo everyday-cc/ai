@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Vendors Can Navigate the Health Care Industry"
+    excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
+    publishedDateTime: 2021-05-17T12:25:00Z
+    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "An Optimist’s Take on AI and the Future of Architecture"
     excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."
     publishedDateTime: 2021-05-14T08:08:00Z
