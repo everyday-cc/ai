@@ -43,22 +43,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
-    excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
-    publishedDateTime: 2021-05-12T17:12:00Z
-    webUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
-    ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Hybrid cloud and AI mix to change how humans work with software"
     excerpt: "Microsoft is coupling hybrid cloud with artificial intelligence and has begun articulating how it sees those offerings paying off for customers. It thinks that AI integrated into business and industry will solve issues."
     publishedDateTime: 2021-05-14T00:05:00Z

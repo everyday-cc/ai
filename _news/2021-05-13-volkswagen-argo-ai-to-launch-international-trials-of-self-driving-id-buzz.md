@@ -71,17 +71,6 @@ related:
         width: 1360
         height: 765
         isCached: true
-  - title: "Volkswagen Will Start Testing Autonomous ID.Buzz In Hamburg"
-    excerpt: "If you see an ID.Buzz with a bunch of sensors driving around Hamburg this summer, don’t be freaked out if you can’t see the driver. Those sensors can see you. Volkswagen Commercial Vehicles and Argo AI will be testing level 4 autonomous driving technology around the German city with a view to getting it in consumers’ hands in a few years."
-    publishedDateTime: 2021-05-12T17:32:00Z
-    webUrl: "https://www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/"
-    ampWebUrl: "https://www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 22
 
 secured: "jtjX5lB2DPepGJiWm2kWWWcISr69B/PIhCt3TVk5SsjEGPYzGF0MbdJm7iBcwn6Nj3lgamWsLULWRDvW7YHolD19s3H+n32CUaMWicnqC2w0J5q6zywy8s7Ikuz9HoHLRucg9fmw/0vtkWXHxpJB7ubU0U6XeChylu1ydv7XPdyW3Qmf664ukCixWjfgVPy9vFm82dyR+Tyd595HXAA/vJ9Lvc9S7VrKQBc5aj/i+T/sytfQuqPPKHL3mDoE1WsZ96dHaPf3IR9B9taitEO4MvzqEdUVwy7jjbmzCfbZs2jNexp+CA7JTIY1iMqqFMvKdG9tYNcARpYyOM/PbzJdgVC+GGgft8cZScoVJ19BxPfQYGcQSWQfm2cvbaUHS4l3rxPwbvMGi/wG6FUzJlBG3feuEdMGCH/yQblx7yIyyRLUQ2zgbNeraEThCiPulZkja0Q0QACbe9+UePWig5DC0yRfP5v7LsRgnPBgzHe7ByoPqT3ToyXO5rLtkBkrk0MM52TaKKPQT4oY2dJ3OPMd+A==;U0H6AN+VLMfVsXahA9M9AA=="
 ---

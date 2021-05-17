@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Device Market Comprehensive Insights on Technology Advancement, Growth Drivers, Demand and Forecasts by 2025"
-    excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
-    publishedDateTime: 2021-05-12T18:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-comprehensive-insights-on-technology-advancement-growth-drivers-demand-and-forecasts-by-2025-2021-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pG+lTfr+Ods/wrq77y4W7ciShVGforCWrvpYwkZGJKI1VflKjmsv9EF8+1T4pS8i85VDAJJvN7jIUal5mwrQxSnjLn0nO8zY0h511dPD1YEFZOq5X592mTLoag65bi5DCSCdOhZgfrgoek1nDQBKkizji1in6OGP4AJvOBoX/KYSdLesdGO8xcpx3jGb9VlUvPhYcyvBl6NZ1bImmY8/KOT0ya23gr69RyDMjYAXkTnnkUDJ5H4U7irioRxXcsHeC9NyY075U0wwzDH0OJ1Na4+WwkbyL67urqaAcDdlnDDqPR27x0uI9p5bZX7CAcb85R/E5uPFQ7rpP+KadZpL5Cb7pmybvZgorAGF4xJqplg=;E7D5Sr/Ir9VifyRSDOgDmQ=="
 ---

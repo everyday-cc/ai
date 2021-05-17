@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all"
         width: 1200
         height: 850
-        isCached: true
-  - title: "Why C3.ai Stock Does Not Compute"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) is, in some ways, one of the next big things to have already"
-    publishedDateTime: 2021-05-12T18:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-stock-does-not-compute-1030422978"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2021/05/051221-ai-stock-daily.png"
-        width: 1060
-        height: 503
         isCached: true
 
 secured: "s3fT1mM7tWf9sXDNG8eh9hoNNkBc5cj24g0/GMIamJpp157eLabuSqtKdNB4JuR8/MpO//6t8gddmQW5v8AFzTg38wOvmh+ZWWK8zcyzBIxr6kwGEmlNuhq3ja85/5+h6EpEXzTu7RzAyE9gTi1jk6ItEoN93gIszELGtXbY9KmEOED6kY9+OVFzsQbpka3eemN0Kg0v+YQJYxee5/lqvBgUfc+v30LXbOWZbJNp3qbQH+lU2wHuzxbcovu7F1p1oAVJLSBRs+5tp4Szh10koj/3V6FOagce8sgbUTdm1eAAVEehzqLnQDI/8p+rM9ltRU5VvJpqvp+yniJLQGzx7coQ3UJ1j8h7+0K8y1rL64RWb3A1GxIsNgv3RRGKo74c9UU/jUzpHmMWS/BfktCVhMZzufZdv4Z8vA5O9N3bWTOseFswDVrgQfbJI6luRsgIoNbinfAc6wby3/W1OcWhLkkkoiZP/54R9xBspZGLLZr14OV7RdDvNaeBlfDSlE4UDH8f5hRfpeVL6UTrhNx5Hw==;bj61+7ETzeghLhvQDqv/eQ=="

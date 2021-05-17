@@ -1,26 +1,30 @@
 ---
 category: news
 title: "China Tech Giants Bet $19 Billion on Global Electric Car Frenzy"
-excerpt: "(Bloomberg) --China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen ..."
-publishedDateTime: 2021-05-10T02:30:00Z
-originalUrl: "https://www.bloombergquint.com/business/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy"
-webUrl: "https://www.bloombergquint.com/business/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy"
+excerpt: "China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen as the future of transport."
+publishedDateTime: 2021-05-09T21:00:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy"
+webUrl: "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy"
 type: article
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzlfa1z.VSs/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
-secured: "4E91UZL4cI6lSC8rQyYvfnZFVbepRdJQ95KHdfJn12nA20SkiHIreYW/fgRTnjnbNL2H1rGkZIBtNu6ssro0HRBHfglRw88BnKfyIkAQyYRc+RWhI/baStlOv6vljXR3WRVEzEpGgfFdeAvm+XDmJlhoc6MRPJf0Pga3yhkNVG/rrJJqqZaUeKqBeb5LG6A7V4qfcoJNGifkdEcco/TAkn3q0cL5xfYLyRLOaRiytfPCTIJBL/GiLGExj0AgeTN2DboQKATOaULK/Jr+m9EnY82hrRSVen9vRQO1X3No1hnjatbNDuhZhrEQVrFNddAGGBoUdosY89XVVuJXQEELY0BcIXMQPV+isN3QC5gEi3g=;lqnGomkJ9PIErwfOwaA3zg=="
+secured: "3u/glpw5LnOdTIMGRcNsU2SoZvCN3/37D7o6s2Kl+IA7ZwFLKOMiRYUpkTgTVVZDDr5VXXLH4zfMqgdMEO+bgrttBkCXAzGHyUAQGFd9787rRN770Pz4pPBpJA8jtdDd8pJM3pT55WIU7A2OjYU5EoQC16d7vN0pZpFt3xjHFxh599MWjAn223UJnIYS1udf5oOUuja2einYysHY5I/MVf7bnzKpquekXNyX/ye5zGn/M0DcZsSfUWGXwHB/aFLQaTSNPqNlaOggfQIoaPRTJCO2ABRZXvb3o6Dz7Zk2YbwB//ZfpJg0093udI8SvIAGxzq65NXXcEA7zj81wpnYFZWHOJs8IPTY8fppPFCrM6Q=;3e0lstVVnktbCFYADqDxQg=="
 ---
 

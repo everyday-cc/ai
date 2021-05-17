@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Some iffy on police use of facial recognition"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness"
-    publishedDateTime: 2021-05-12T19:00:00Z
-    webUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.html"
-    ampWebUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
-    cdnAmpWebUrl: "https://cumberlink-com.cdn.ampproject.org/c/s/cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: cumberlink.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
-        width: 1024
-        height: 614
-        isCached: true
 
 secured: "fywOImaG7GxYbpKDMU21jFOE4kNH5IMomdpLQAsjLIYNy979y6fXk3qUJlOqjKySb36Kwv9rZUuMPiHd8wi9S4PqG5vbop2S9FAplIVxFNhA2O0EFlfuCMtRRf39mIUeXXUEvE4RpigilHFezZYGX8lffsUnVzZOrj0n03yMlbrIppTNgw6aJ36NCcMllEaUmw1KAsOZUYHLnSgrNkhGDkQDqQzzN1I20FOj+ESubtDdUfwt+raEbACV8aUEzX6ZcnoExhz2AQwrMBN7+OngleS5B/dYiwAqV84m7+qQ1hvfLURMJGqOUHRA8jDo5yrfBzLFCu9sO2jVv29N1zWOqVfvdmBehcSj0idpvavlrIKVJ2iSQ2SER3Opaospr6UTUgMEjYJFRiM/Y6zgCZbgpJic300miNJLU0R0vr0+zXj1GGSmmSsorsZHWVlGH7+s0ilGzWUlzsiE42spyWqM88Qhqckq1+I/yn3513nVhhuSUMJjw2jP+qxR62Xx20bFsmP5FfxgVvexpp65yAZSiQ==;9m11zB7d+DqopIbAukrQ6Q=="
 ---

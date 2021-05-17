@@ -41,20 +41,6 @@ related:
         width: 1408
         height: 792
         isCached: true
-  - title: "5 developments around machine learning and AI in higher-ed research"
-    excerpt: "As faculty, researchers, and students turn to machine learning and AI across disciplines, best practices have emerged."
-    publishedDateTime: 2021-05-13T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/2021/05/13/5-developments-around-machine-learning-and-ai-in-higher-ed-research/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 54
-    images:
-      - url: "https://www.ecampusnews.com/files/2021/04/machine-learning.jpeg"
-        width: 500
-        height: 301
-        isCached: true
 
 secured: "4YsGIwIP6eQIW8LAU+Z3BVk7hVuLOv/bmuMZXE4Xx/fKrXUR6xvZ3m+4gmzLmlfEUnINcUxfoPaXOzhNnestQzXb2efSf0V4CSwujYGHzqcIIyEJC3eYcNcq3zdpaAi10nK3qXddP4TbL6fudcQHL3aErWu6NzrvK9b3IcDhzuWSzj7C6T7OAH3BP1RJoRQ/liKfGjuKYEBrQQHWGKZ4aecRZB0sQlLPpV1tvnQQaXQ+jEkK+PaxauJ1d1ApRgzWBE4NcN1GuqjTWYL+skqCQx4p5LDMksvaCV9ITRJhXPgY0XvQVwX4ONIUcii9lfH5mnog3hhwy0pe6wgYlERz8FrSGUROvELippE3xZUuGFhDJsMNirPjb7mQWO6lAtWW4Q6K0tAZCaouYFhCsWNlUljqkr4X+jGpiA30Ad9OtuRS4/KtKNs5y+XLdgRqKOYDDjLxYbtajloZioGU1zZOvKx4GEqsth57OcCexQhb7OtG0gzbFsygvMK7hM/2WPmF74K/fiexqsfX4SZKg2MsYQ==;0AaWAirx4ao4CLtOaPkLxw=="
 ---

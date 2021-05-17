@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
-    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
-    publishedDateTime: 2021-05-12T18:53:00Z
-    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 39
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
-        width: 502
-        height: 263
-        isCached: true
 
 secured: "4GdMOAXHBkoWFFAc+m58Aj93OnHsG+jRxMo6iDLbnM4Bl6dhHeHht3XrER9/yueY0vEtjcEW5eIscvgJc+Eka5z3Up+HERwDFXZCV61QqH2yDXguVtsbHNYIiUGfJsRYfWIRLAYxxUQPC0dsFO0917tsT4cTN9TOLJRevacEBX+HI8MycFSlg2P3+FB2JH3lttS/MaRC/1AzgPGcfEmS4UM1RjZt/g6QP4wSKCVCttcSTf+6PHdWmTbaYxZj4s4Z7U4mFUWYX8pQx4NCbO5fquSXk2TuRASdzbijf4z8AbWBmCH0GC4CsuD4C+XdQiMyfnabkffHj9bKjlQ76epRdJu/o69ayQMz1Yr+s5QBaj4ESr3t0L4o8dzFcttAV+DLYmnKs11dIPvQ6bnwEjLSx+GLXHAfPPbjgJHJPd7UBx2WshjiI5xUfxDhNAjvHfO2DbckpfoRCZlh3pC1796OEP/WSKCLNAiZKOz4osN4OVFGlzHFAbBhTVOFb2GKGNnF+XF8oOWzO2WPTtwygAiYkQ==;RzIqF0IEi2HlMiZ2JtiM+g=="
 ---

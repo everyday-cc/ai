@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/apple-2021-product-survey-s
 webUrl: "https://www.biometricupdate.com/202105/apple-2021-product-survey-shows-users-want-face-id-biometrics-on-future-macs"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambiq announces new voice biometrics tool for IoT integration"
-    excerpt: "The VoS Kit enables voice and audio capability integration within battery-powered devices via Always-on-Voice (AoV) technology."
-    publishedDateTime: 2021-05-12T17:20:00Z
-    webUrl: "https://www.biometricupdate.com/202105/ambiq-announces-new-voice-biometrics-tool-for-iot-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "GBT Technologies developing long-range, real-time biometrics and object detection"
     excerpt: "Calibre is intended to enable the real-time collection and analysis of data for object recognition and biometric identification."
     publishedDateTime: 2021-05-13T21:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
-    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
-    publishedDateTime: 2021-05-12T18:53:00Z
-    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 39
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
-        width: 502
-        height: 263
         isCached: true
   - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
     excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."

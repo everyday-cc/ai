@@ -25,35 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI Researchers Are Dreaming Up a New Species of Search Engine"
-    excerpt: "Imagine a collection of books—maybe millions or even billions of them—haphazardly tossed by publishers into a heaping pile in a field. Every day the pile grows exponentially. Those books are brimming with knowledge and answers."
-    publishedDateTime: 2021-05-16T23:24:00Z
-    webUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/"
-    ampWebUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
+  - title: "Researchers develop AI that can detect sarcasm in social media posts"
+    excerpt: "Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and"
+    publishedDateTime: 2021-05-17T10:46:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/05/internet-engine-network-metal-strands-circles-central-post.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
-  - title: "Using Artificial Intelligence, Researchers ID a new bone shape measure in knee OA"
-    excerpt: "Using an Artificial Intelligence-based approach known as deep learning, researchers from Boston University School of Medicine (BUSM) have now identified a new measure to determine the severity of knee osteoarthritis--named \"subchondral bone length\" (SBL)."
-    publishedDateTime: 2021-05-14T02:25:00Z
-    webUrl: "https://ptproductsonline.com/orthopedics/arthritis/using-artificial-intelligence-researchers-id-a-new-bone-shape-measure-in-knee-oa/"
-    type: article
-    provider:
-      name: Physical Therapy Products
-      domain: ptproductsonline.com
-    quality: 34
-    images:
-      - url: "https://ptproductsonline.com/wp-content/uploads/2021/05/ArtIntell1.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82701703,imgsize-842291,width-800,height-434,overlay-etbrandequity/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts.jpg"
         width: 800
-        height: 480
+        height: 434
+        isCached: true
+  - title: "AI can now detect sarcasm in social media"
+    excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
+    publishedDateTime: 2021-05-14T12:36:00Z
+    webUrl: "https://gadget.co.za/ai-can-now-detect-sarcasm-in-social-media/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "New AI Detects Sarcasm in Social Media"
+    excerpt: "Researchers at the University of Central Florida have developed a new artificial intelligence (AI) tool that is capable of detecting sarcasm in social media. According to the team, this type of tool is highly useful for companies looking to better understand and respond to customer feedback on top social media platforms like Twitter and Facebook."
+    publishedDateTime: 2021-05-16T23:25:00Z
+    webUrl: "https://www.unite.ai/new-ai-detects-sarcasm-in-social-media/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/apps-426559_1280.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "bJkH63+0egEo0FmML2k+6zsaG8XobLhrOLTQSIesWjz5Cf7ZUY1uaWfAays1u+E11BdW1e526ayohtOfaRUI8HVWK+S9poBnWV9cMjohkEdo2kBUCc3e5zfT9VaMGt+jq9H0GSIzAZpVP9fW1+5SHqUzZZrJdqoY27ieLltMpQcb+GLPyjfWQ1PFcahxQmfkmZI1RqGD7pLByGev8KosV85cpcUcBrDliFuzu7kv3e7Kx2OSX+pUzF0mNrz81Ele/xG0BUsJzeK/u5I15A2ICkouG5+CJOOmAWtNIl0/hCICV4ZhMJLyWn23AVx9aLqxD4XDi7tlfshbiYNzKS1pVYsINHDtrJKCy35zdqi61kryS/G9wx87Lx9+yeB68BaM7sOC8MM1A9Ih/kteIacEDqYJp+q1PALAqMQfxLOFVg+ZG9JnN+l1ceR4UgDDPEGgjkVOsqIdPoQig1UJ0I6fFrGl3ch4aDqprYUPgGP8utNpiYUntMqnx71/x9z6fvjLEmrilkEsgDKJJl8ppBN5Jg==;R0sWbFw2iDb1sew5L+6g4Q=="

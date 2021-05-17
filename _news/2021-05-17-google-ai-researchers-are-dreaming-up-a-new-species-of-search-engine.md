@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-drea
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Singularity Hub
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 developments around machine learning and AI in higher-ed research"
-    excerpt: "As faculty, researchers, and students turn to machine learning and AI across disciplines, best practices have emerged."
-    publishedDateTime: 2021-05-13T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/2021/05/13/5-developments-around-machine-learning-and-ai-in-higher-ed-research/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 54
-    images:
-      - url: "https://www.ecampusnews.com/files/2021/04/machine-learning.jpeg"
-        width: 500
-        height: 301
-        isCached: true
   - title: "Using Artificial Intelligence, Researchers ID a new bone shape measure in knee OA"
     excerpt: "Using an Artificial Intelligence-based approach known as deep learning, researchers from Boston University School of Medicine (BUSM) have now identified a new measure to determine the severity of knee osteoarthritis--named \"subchondral bone length\" (SBL)."
     publishedDateTime: 2021-05-14T02:25:00Z

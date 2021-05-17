@@ -46,20 +46,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Why C3.ai Stock Does Not Compute"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) is, in some ways, one of the next big things to have already"
-    publishedDateTime: 2021-05-12T18:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-stock-does-not-compute-1030422978"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2021/05/051221-ai-stock-daily.png"
-        width: 1060
-        height: 503
-        isCached: true
 
 secured: "AZu5yAnTE9OqCqZLFhUJKOqm7Gxaffca4MkjwR+TuYjmNmc6wbl74cfyhgkqEx+Qn6yScVEyZpH4JV0txn4r9lIESwEUgBGxCPVhb6IxGn0Jo33WXmdIREr6zx7X0jkpPGrs1vf7FWkfpqwc6chAFw93bXoOMvIbte3ubgl88MMPvS5u3BENiZBNDdy9UfFYjOoe6FmyLcrb8sdLnX4J2vbybb0QqhQZjjlegICUH+Lpp2e/R+pqP3gWYAi/TqGqTehg4CJI4zSvs2plvCCrF1gFGEgD6wWwFtT4ZQmy7jmcZzOdvSjK/CDBdUyXdy4sMBApcgBUa6r01r+o+ANKpby90kEuy1Y7u9Xg+R0uUrY1n/7pN3a5X0zGVur/QZ47yaM1noBnavvv6FdShkRPynrCSd4haL/+9TK4wZGMzBfzVvVQ1973a+worCVqVSGV/FNjNrp0jy3pjpoOf9d5ZHAVGg/HOjL3oBm3iX9Zu21z9K+CF3G9blxoOXF3jzSHnAu0AoBhOSxMKCYQ+M22rw==;ay6P3e18/4EvwbbI2BlrpQ=="
 ---

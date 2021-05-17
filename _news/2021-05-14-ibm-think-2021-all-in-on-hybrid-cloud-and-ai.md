@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
-    excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
-    publishedDateTime: 2021-05-12T17:12:00Z
-    webUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
-    ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
     excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
     publishedDateTime: 2021-05-14T09:53:00Z

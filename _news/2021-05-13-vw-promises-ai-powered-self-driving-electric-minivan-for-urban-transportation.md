@@ -24,6 +24,22 @@ images:
     height: 853
     isCached: true
 
+related:
+  - title: "Tri-State Transportation Leaders Look To Expand Self-Driving Vehicles"
+    excerpt: "Autonomous vehicles are already on Greater Cincinnati roadways and the Ohio Kentucky Indiana Regional Council of Governments (OKI) is looking to expand"
+    publishedDateTime: 2021-05-17T09:00:00Z
+    webUrl: "https://www.wvxu.org/post/tri-state-transportation-leaders-look-expand-self-driving-vehicles"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 24
+    images:
+      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202105/640px-Waymo_self-driving_car_side_view.gk.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
 secured: "W2dum46ipUKoY6TNI5pE6b+5Hb0sLbGhuPJ/6JOJWN0qdHElcxzrLKtyA0pRz/7BAhxlv/+WCsWub7A6c9+1IFOolfYT9QNkBsx5Cl2JGigL4zd0jre9KFDDzKhz9nOuPeRG1Jn6tKRg63XMjP/ZldKv1FOJQGA17nYb9HDT2OLwPezvsJcbNvnZtKQr8QjxKWCRUOlPLP5TTdqnCum2NW9OeNj5Kyv2AQUUkwyqYqzmOHN3fLveDi+e3wqNcvIuX6AW7fe0mxBqhUaXOGkUJQL0B4mVxsBx5HCdsQGo2ZDpScmhZWV3O8xXV6QwI+y8tPmse4BOytloZHir1M3JAkexxxOI6rYjicUyCvN8lc9ivk71QI1uU7iZ0ZkKFLg8xN52io4ZwB/W3FAwM0oU8p/cbmHR++ISsvv1UE/O3A5a8HClxwwKh2DnyN6czwXbFJPH63ZnMNBfhaVyNXUyVT3RMalUbAVp8dnxzLNljIuEh1LM8IwqZVHr5M0LlpgX+XdPIIuvjyMTYK2UCZECzA==;pYaaniBl+37m9sPX077oRw=="
 ---
 

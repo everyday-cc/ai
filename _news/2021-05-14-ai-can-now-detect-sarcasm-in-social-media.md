@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/ai-can-now-detect-sarcasm-in-social-media/"
 webUrl: "https://gadget.co.za/ai-can-now-detect-sarcasm-in-social-media/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers develop AI that can detect sarcasm in social media posts"
+    excerpt: "Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and"
+    publishedDateTime: 2021-05-17T10:46:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82701703,imgsize-842291,width-800,height-434,overlay-etbrandequity/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts.jpg"
+        width: 800
+        height: 434
+        isCached: true
+  - title: "5 developments around machine learning and AI in higher-ed research"
+    excerpt: "As faculty, researchers, and students turn to machine learning and AI across disciplines, best practices have emerged."
+    publishedDateTime: 2021-05-13T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/2021/05/13/5-developments-around-machine-learning-and-ai-in-higher-ed-research/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 54
+    images:
+      - url: "https://www.ecampusnews.com/files/2021/04/machine-learning.jpeg"
+        width: 500
+        height: 301
+        isCached: true
   - title: "New AI Detects Sarcasm in Social Media"
     excerpt: "Researchers at the University of Central Florida have developed a new artificial intelligence (AI) tool that is capable of detecting sarcasm in social media. According to the team, this type of tool is highly useful for companies looking to better understand and respond to customer feedback on top social media platforms like Twitter and Facebook."
     publishedDateTime: 2021-05-16T23:25:00Z

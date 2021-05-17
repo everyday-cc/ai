@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/audio/2021-05-13/how-to-compete-and
 webUrl: "https://www.bloomberg.com/news/audio/2021-05-13/how-to-compete-and-win-with-artificial-intelligence-podcast"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Bloomberg
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Podcast: Can AI fix your credit?"
-    excerpt: "Credit scores have been used for decades to assess consumer creditworthiness, but their scope is far greater now that they are powered by algorithms. Not only do they consider vastly more data, in both volume and type,"
-    publishedDateTime: 2021-05-12T17:55:00Z
-    webUrl: "https://www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/"
-    ampWebUrl: "https://www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/WalletE2-creditscore1-web.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "rd+IMjkyNpbMVO+6R+XbRP7Bt0AG/W1uL81iEGDLb48znxVxDHyUnb60TSf6w5qSi26APHRupuKVXyaOaS4iqahXkoWczjC86JXITrm9BuX7Zj1mHKYpywR//EXYtMrfxeHqQAiJTduEaHEA3o+SU9H6lgEIBiBCkdE3txShA1bCAmoPjfdF4YGgLpbMZVHbbIc1Z3rzKki8yaVrQv81kJitilc/W3eBw61tbmyZdCeZgn6mHuM/PohxylTqcz4zW926/Qi1oVVodY6yfz+dtIg0QgipMhHL8/UvGE6bcJs1pz7KXVsR1XP+qlxzjFYFZ2s9IVE3MYFJT7GQemN1dmYdqpxI4pWt1DIrqf4TspY=;RgaLlSC68Pm/+F1N0vBg2w=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
-    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
-    publishedDateTime: 2021-05-12T18:53:00Z
-    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 39
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
-        width: 502
-        height: 263
-        isCached: true
   - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
     excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
     publishedDateTime: 2021-05-14T09:24:00Z

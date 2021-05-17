@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambiq announces new voice biometrics tool for IoT integration"
-    excerpt: "The VoS Kit enables voice and audio capability integration within battery-powered devices via Always-on-Voice (AoV) technology."
-    publishedDateTime: 2021-05-12T17:20:00Z
-    webUrl: "https://www.biometricupdate.com/202105/ambiq-announces-new-voice-biometrics-tool-for-iot-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "Apple 2021 Product Survey shows users want Face ID biometrics on future Macs"
     excerpt: "A new survey reveals soaring rates of Apple user satisfaction and brand loyalty, together with a desire of a Face ID biometric login option on future Macs."
     publishedDateTime: 2021-05-14T20:27:00Z

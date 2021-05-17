@@ -115,6 +115,17 @@ related:
         width: 1288
         height: 648
         isCached: true
+  - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
+    excerpt: "PTI takes no editorial responsibility for the same.) From saving lives of first responders to exploring manure recycling, the winners transformed data into decisions. Mumbai, Maharashtra, India – Business Wire India The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI."
+    publishedDateTime: 2021-05-17T08:36:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 36
   - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
     excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
     publishedDateTime: 2021-05-14T01:05:00Z
@@ -167,15 +178,6 @@ related:
     provider:
       name: PR-Inside
       domain: pr-inside.com
-    quality: 16
-  - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-    publishedDateTime: 2021-05-17T07:30:00Z
-    webUrl: "https://www.businesswireindia.com/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-73013.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
     quality: 16
 
 secured: "JUXfRvZ0Fm2cp+aswbf8kOhxK1AQ/Vd6C97H8V9DPvUMfD70rOzzPDq3+mF9ITuHPOqiV/KjLLVRElz7dJdw3aO6FbO+uQq+p7ldb9LuLW4W7PBbETrqgSiQ3hvGMfH4PcuRP0zAbssbS72M745v8Axml4d3Dc18FNJt/yCD8YjYYOL52+MDN+G2Y9ZsY/gjob0E8swZgrhAhIbWANE+jS7XrZty1B3xWQO0sFz6L6Ak8LHxToyH1eB/waMGKhgvrsET13ZfsBjWIUUHAyScbCkzh0t7vA1AqlbJEpraDY0T2gEUhq4xthucTcW+87m81Sms/w3XJaOO+Cwm3sq6pO+fx7lgnuVLiu7veg5efJQ8tAOC13jaaDP2L3S4wcXrqKLvEBSsXvbjigOeldUsqZ7TkTI9d2eSKBcAS3LOhkB5ldOhWtQnNmrp61fiKMEUCD1cx8sfHeLwMlEqwjoHe6cHbm1v5Nbfea+AtMzfX7OmXDRcFuxxF5jJdFqKRdxNnMZQC5jZ6UUKakUrq5s0Yg==;uaTsonUHqaeDr5ljUHp6SA=="

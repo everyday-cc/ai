@@ -40,22 +40,6 @@ related:
         width: 670
         height: 376
         isCached: true
-  - title: "16 Credit Unions Invest in Posh, a Conversational AI-Focused CUSO"
-    excerpt: "Sixteen credit unions have invested in a new CUSO partially owned by the Boston-based fintech Posh Technologies, a provider of a conversational artificial intelligence product suite comprised of website and online banking chatbots,"
-    publishedDateTime: 2021-05-12T17:44:00Z
-    webUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/"
-    ampWebUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
-    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 59
-    images:
-      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/10/chatbots-e1571917675670.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "COVID caused conversational AI to accelerate, says IBM"
     excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
     publishedDateTime: 2021-05-13T17:33:00Z

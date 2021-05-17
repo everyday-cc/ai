@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again"
-    excerpt: "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot."
-    publishedDateTime: 2021-05-12T17:45:00Z
-    webUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
-    ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 93
-    images:
-      - url: "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
     excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
     publishedDateTime: 2021-05-16T14:49:00Z
@@ -86,26 +70,34 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-14T11:04:00Z
-    webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
+    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
+    publishedDateTime: 2021-05-14T12:41:00Z
+    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
     type: article
     provider:
-      name: Tri-City Herald
-      domain: tri-cityherald.com
-    quality: 31
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-12T23:05:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
+      name: KCTV News
+      domain: kctv5.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
+    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
+    publishedDateTime: 2021-05-14T17:42:00Z
+    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 11
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "djYxMtL3WLfEJW/ISIME5Y5bHhWYLDWAwlDCTBnsnqzx+BxHaQJXEEIHOMXcjxomEZDOUWEFjujkF0H0iAE9g864owuAPYiV2oR3E5mDpdmIV3Qznc1liPJFnwE08CI1BUddw7ftFkeFa4BbyvQOkET+XCOllMtgIML+6pWVfJ29wOzeD0Ho8EqZO0TtwSf4hWdyvpFKeLTCyZ6naIzc+hMjC/9pdMk5KnulsqCrEm7gpIbo7SAUOvv55/EFlKswSJrdpNfxhLj7Lqlr0l5Dx7Efo+MHeRwmR19BH9/CFnLo2uMdeGrmsspONGWf7d5J4VR9f9bWF15IRI0PasUp854Zgrh7SadJkp5ShTfLKHaUHWgAkYfnD3Sb3phO8c23awctPnQWa7HO/T2YcgDluYFygXors7MZeck21Xk7y3o7XAw8BQTxJmG4N8q+wT6A3iSD2Yo4YHKD2FsIL/hB7/biCisGdkupdiIoEeNh6djY2243HSsRCvIwBlHxgjBcUA+wo52GC4Hktx+NVslaug==;bjn0aNhfDrHx4836/QBNXw=="
 ---

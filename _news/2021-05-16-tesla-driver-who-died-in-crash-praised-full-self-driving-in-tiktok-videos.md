@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: The Daily Dot
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again"
-    excerpt: "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot."
-    publishedDateTime: 2021-05-12T17:45:00Z
-    webUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920"
-    ampWebUrl: "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 93
-    images:
-      - url: "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
     excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
     publishedDateTime: 2021-05-13T10:01:00Z
@@ -86,26 +70,34 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-14T11:04:00Z
-    webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
+    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
+    publishedDateTime: 2021-05-14T12:41:00Z
+    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
     type: article
     provider:
-      name: Tri-City Herald
-      domain: tri-cityherald.com
-    quality: 31
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-12T23:05:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article251350568.html"
+      name: KCTV News
+      domain: kctv5.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
+  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
+    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
+    publishedDateTime: 2021-05-14T17:42:00Z
+    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 11
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "iZqRV1Vjwm9vmerBdzRGYCBvgZbQEJDk2gExZaxBe4SxlaxpA6tLIDf1FjgLhzKstNLz8ABri21eTJfwr/euV6fEoWji2zrQPQyPegUfZqyBpaB7bPCKp3KOYiJbs3tk/JHz2w1EVMVoomwE12cvy8g+fMzME8wQK8sqPsYyf41lTfrXT9yoCQW9gdY5rCjVmZgp97wq/x19wKRvXkE2/LFNA0TafwccyDbqSqsw+O6vF6lnAq8KzGcyOXI7UsrRC6XFDD9g+DLs/+6vZSrSk5QM5laJgtXHG0uvLOx4Ibc91pHGlb4DcZYYsYn/45oTGubpb+SqnExvXRtj+AWcy2olbR8FnW/+3z58TrUSCwWyWgHi1od187kYhjJ/zcum9CGWHcULgHy/7Jpp7O9TfTSqUlE1v7zEsXhk0izpxtWvT1nUReV7CnOsYog0LrqNTvzVp54rHiYHlsVYquHCccmEu/tnoPY4QxlCC+knxtvrcrbScay45Fg/OYOiZIpSlMwUFtyaWrcLUzyV/fnPzg==;YZQknOf12VpE0J3HoVxS1Q=="
 ---

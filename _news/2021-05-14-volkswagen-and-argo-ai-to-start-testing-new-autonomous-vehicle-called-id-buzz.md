@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-arg
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -67,17 +67,6 @@ related:
         width: 1360
         height: 765
         isCached: true
-  - title: "Volkswagen Will Start Testing Autonomous ID.Buzz In Hamburg"
-    excerpt: "If you see an ID.Buzz with a bunch of sensors driving around Hamburg this summer, don’t be freaked out if you can’t see the driver. Those sensors can see you. Volkswagen Commercial Vehicles and Argo AI will be testing level 4 autonomous driving technology around the German city with a view to getting it in consumers’ hands in a few years."
-    publishedDateTime: 2021-05-12T17:32:00Z
-    webUrl: "https://www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/"
-    ampWebUrl: "https://www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/volkswagen-will-start-testing-autonomous-id-buzz-in-hamburg/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 22
 
 secured: "7fYenyqR0yFIEWzq7vwJMz5tdUXSooQ9oHEmmbUGz/xoSLbSMTR65u0gy1dSGlPXACzIVQf/mhJi9FKOFv3ebeMWN0HKQUzs7yFrSUVV3bin9Ui4MnIIjrSPVXCouXnuEPnnek6anVAmQ+m4JzVC/CPK6HYpmFsT6npa4tC0AU5fIF7a3bbsB+CalmUjO8nb5LVqfK9+oW9H5u7hsgp381zL0zfZ6u7zwsx1gtJZTX5f0DtO9krvxvGyJpic3wSlLJsBD5Owj7WVkhM0d55fTVqRHMXRVcGRv6XKAFawTs96abRszzqzhNQ6D6uD8XPNNTxgoClFxjkN04lAstGh2Ol7s39It7upzAI04H5CSmsrnLmW945mAcL833OpprZgDADWwo8sK63/+zwq6XyBDgEfi3bzwzm9PUrPP6TZSSrSDtTZ8MPlsT7JSWMnK//hUSLiMwmTUs2oPMt5SXfInML1vknsEJm9EoGXm9qnStrskZOefOt0ZP4zkl9UD5/tjx7sEXVVfzPuFoJy2WsV2g==;ami0AkLqGvpcmn+bvjaE0g=="
 ---

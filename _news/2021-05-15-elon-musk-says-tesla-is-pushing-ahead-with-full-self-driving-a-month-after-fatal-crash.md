@@ -25,22 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla stock falls after Elon Musk tweets self-driving rollout may take months"
-    excerpt: "Tesla boss Elon Musk said that Tesla is tweaking its self-driving software to “eliminate the phantom braking problem” and may release a significantly improved version"
-    publishedDateTime: 2021-05-12T17:54:00Z
-    webUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/"
-    ampWebUrl: "https://nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/tesla-stock-falls-after-elon-musks-tweet-about-self-driving-rollout/amp/"
+  - title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
+    excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
+    publishedDateTime: 2021-05-16T14:49:00Z
+    webUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/"
+    ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 72
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/musk-tweets-down-tesla.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
+  - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
+    excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
+    publishedDateTime: 2021-05-13T10:01:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
+    excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
+    publishedDateTime: 2021-05-16T09:31:00Z
+    webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 59
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
+    excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
+    publishedDateTime: 2021-05-13T19:28:00Z
+    webUrl: "https://futurism.com/remorseless-man-brags-tesla"
+    ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
   - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
     excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
     publishedDateTime: 2021-05-14T12:41:00Z

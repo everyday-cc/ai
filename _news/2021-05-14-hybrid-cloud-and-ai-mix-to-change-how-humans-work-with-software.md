@@ -40,22 +40,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
-    excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
-    publishedDateTime: 2021-05-12T17:12:00Z
-    webUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
-    ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "IBM Think: How AI could make big virtual events better than in-person alternatives"
     excerpt: "This week's IBM Think event prompted some thoughts on how companies could (and should) use their own technologies to make virtual events better."
     publishedDateTime: 2021-05-14T09:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minute
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Some iffy on police use of facial recognition"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness"
-    publishedDateTime: 2021-05-12T19:00:00Z
-    webUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.html"
-    ampWebUrl: "https://cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
-    cdnAmpWebUrl: "https://cumberlink-com.cdn.ampproject.org/c/s/cumberlink.com/news/state-and-regional/some-iffy-on-police-use-of-facial-recognition/article_b150c5c9-bd37-5d77-9e9b-7f36b55e417d.amp.html"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: cumberlink.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/9/96/996f9192-0f97-55a8-bcbd-7ad277f0595e/609be23321f16.image.jpg?resize=1024%2C614"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
     excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
     publishedDateTime: 2021-05-13T16:37:00Z
@@ -58,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Tuqq+Qa8NpyvHMKQbdTfkkB6o8kP/lq/a0nWd30bzV5QNnNoxED5iZIWB7LEaDBT+ZIbBDqYEFxArv2kKIBMQrc2IzFDBHNAKyN/YDagJzVRTfwT8wtAZe5xbIZPLcHbIAX8iNvw3AzoZx1IZ0CC+eIHs65PSFHVjXIaUKYrVrMqgR+tw0ye/gpz4AgXo88DuVteb9sK9A83yTDXkjZeTcMe3xI0LsAxqqzza2Rg2vcBh34Clmmk0MQKoVadJLH3kd7m1ZS7bROtKNAWVeoJcqBTXbJnXmo3rjxuM3DRzQh3o/kbn51778kDW2MbGNnCM8hbSypUEzPpq5RTwmFcYhxxQbTEh9Q8offhVXxWZRY=;lohBrryJj3wSOXe1u1REyA=="
+secured: "V96lc5Cj83fC453yjbyjqaAoeATTaT4VfkE591AoaukCzRz7+WdAdQSTymjHipQqQmf3XuJ4a3kfSXyeCyN+FJo8Dij3JzY/geJUpMHDAjoHA4BuNZ0JACYI0C/WXYhFg1JvsbY1/Rtg5l8Apf6JYxPHMA3IHUOFSkvXTI7hS4I6ge4XzUDxaNkUKHU2fFwE+Vu2AwPdqhttY8KwnkjczBRnxaxvLywfeIYsLXfiREICcgZg37wpUItYB+lsBpNTbYA3G7DjT4FFHOlb3d6yPKEaYBV7N2bG1SU3igNMYsxs/AVIpiXyolFiOkr8d0P79l0b+t1zt92DTa4Tgfh2yaCHOfA6ZUaYtqu26fzhdhOK5j8eonKKttCePWcmrZKx0h9wYf4DiYiXPIzhGITsuYFWs1o8O1ClRxvH7jcyZySpDdSu4Ag5HUCFsO7zSO/LRTfhVZ15TRgx7TePSbY0fuKWEkzLSOYJnGLjIKqjyYYVwigLDL2uNuYOuks0JNdfEIHXPGmibQcco9gR2JCOMQ==;9NFDNEFRJdOk9kJH/eaZMg=="
 ---
 

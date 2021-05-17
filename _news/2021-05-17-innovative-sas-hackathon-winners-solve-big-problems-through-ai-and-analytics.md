@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-publishedDateTime: 2021-05-17T07:30:00Z
-originalUrl: "https://www.businesswireindia.com/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-73013.html"
-webUrl: "https://www.businesswireindia.com/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-73013.html"
+excerpt: "PTI takes no editorial responsibility for the same.) From saving lives of first responders to exploring manure recycling, the winners transformed data into decisions. Mumbai, Maharashtra, India – Business Wire India The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI."
+publishedDateTime: 2021-05-17T08:36:00Z
+originalUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.html"
+webUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.html"
+ampWebUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
+cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: The Week
+  domain: theweek.in
 
 topics:
   - Microsoft AI
@@ -174,6 +176,6 @@ related:
       domain: pr-inside.com
     quality: 16
 
-secured: "LmNORTrWOEjmn+1Oqkno78LQwS3BJ8MJG+ciGqJYHGNyT9iWXkE8n7x5Gez0x7NCMoMoCJE5Rxlv8y3v1sOmlgmL9v02bHxKyzlVcM9zuw6d5iIeyWhepFo5bOpCxWV2jtL2Hgl0alLeknY4Wwoud2s2+a/a+xdla9dcWALwaNKjA4mbB7d0elzV8F4urf5cP56ldeRYVSEOuLiSZUjTKAVul4PxrMt2WfpLEk/jPttgmdoubVyzJJElTiK/jtO7chonz/eeVnps6eM0Z1zMROHRE1qk+3p89g6ASZ/6PyT08lWMBTiGTkwrzGnc5sVDpi624To9kW1VSJbCCYl0PlIFzMOkGRds+tvHt5dl2m0=;qhgaJCxL4AxSq0GHFvTanw=="
+secured: "5yIef934GztReKBaSCxG5WN0/WjUyP/9Zhlwh9d0QFBc2EPeXsAAfs2fuIyDfjCvOxS+iVfvu3Qbo+fR8UZ+BIMzjtYi7t59+au/p7/UCkGrVEINAct92UJaa8sZQq2/W3qe/jUeZ9fVHy5T+2VsPulAbT9JEEllvyQuCmAY5vjwNe/0iI4cNpupAwJIdyEkYBEn8Q5gIhMoCRBwmWBr67nq6PTlFWCrkB+8JZKT2QIy4Lj3slNjQ48oSaOIkw4eXfHcGtiF3Wi/ZvvxV8gk3glEsZl4Wt2hThoJCamheRlo2gygi5AnX9i9z7rdxBKXiiLRcXP7ZSHDy6KyJkqTlRxsNYdDru9IkpvNG1+fiLA=;pRtMsnVjEhDqUAVZ6FqBjg=="
 ---
 
