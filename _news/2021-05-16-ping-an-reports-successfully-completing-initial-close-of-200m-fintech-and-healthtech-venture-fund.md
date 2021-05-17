@@ -55,20 +55,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "TraQiQ signs LOI to acquire Ascent Business Technology, solidifying its Fintech solution."
-    excerpt: "(OTC QB:  TRIQ) (the “Company” or “TraQiQ”), a leading provider of technology solutions announced today that it has signed a non-binding Letter of Intent to acquire Ascent Business Technology. Ascent,"
-    publishedDateTime: 2021-05-12T12:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-767cb346acd81ee7a8a022b6a5d2c381"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "x109vChKOtFkzTeEUbNURRgh1XRDzGZSSJN7REAFy9jr+qunIGW3TLtAz2YrbUShQaqV7I6I4yY8ywNFPWfGW6Ca8cFaFGDppyn+GGQOST60+JRISED1R18unrqN/E+/MOjwgB2kH7J3GM6izrQvnUN32qAEuLaA3Cv7k2MXWgvGhWAifU/2Mi3aE+BoSsIAs/SpTPMEtETmImo200++YVZkwNFNTCEQqitUbu4Zi9QAC+94l5ICTUnuyS92nuhUmISi8pA9y57DWhBIxUiwTX8MarDUfxMh3gzpXawrHN0ffOD5mAjMwgG4BDkzvhb0KtOJRg9mXArAjfTi3fBoPd7I7a0IaMBzDVkovB3N/4A=;5lHE9dz9c73rk8bfqSSXlw=="
 ---

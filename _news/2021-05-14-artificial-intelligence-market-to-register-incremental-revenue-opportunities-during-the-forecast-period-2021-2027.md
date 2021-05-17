@@ -71,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Research Report On Artificial Intelligence (AI) in Healthcare Market Is Growing In Huge Demand In 2020-2027"
-    excerpt: "The Global Artificial Intelligence AI in Healthcare Market analyzes growth and gives a clear impression on the international market regarding improvement and modernization It includes Artificial Intelligence AI in Healthcare Market development history competitive analysis and key shareholding regions The"
-    publishedDateTime: 2021-05-12T12:00:00Z
-    webUrl: "https://www.openpr.com/news/2283734/new-research-report-on-artificial-intelligence-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Research Overview Covering Growth Rate, Key Vendors, Demand Ratio and Forecast To 2025"
     excerpt: "May 13, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence (Ai) in"
     publishedDateTime: 2021-05-13T10:42:00Z
@@ -105,17 +94,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 7
-  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
-    publishedDateTime: 2021-05-12T11:11:00Z
-    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "/45szol9a/r2XHmic2uhVWlfN+GSZhQb/dxW1u4OhVv/501jNL0Y1iIs9KDqrm089LynV/GBRa7rekB+BTO/PUH8Q5/iBmMLkDuQkRWd/e2nLnTnhH89ZquVJwFlKDZYlEtFTc3Ta6L3u7257Bz86lbDW8V+sA08jQW1fF/yOBkX/6UaoSDe3zTadQeEgi1123nXYydVSbA2sdEn/+fzUZ88dYIJbiCrRUOrdTNxF6H+mE2GJVpvE6xO4oRew0B18UXkP72/RO6MEomkNtzMh9ieyGh5akOHlT5fSzIXBqC9xD7/21Du2MJ8XfpaONWS+2miu1h6+64TwIS5CceZCyCffBrB+CN7j7Yowfd9n9Q=;B8yFkkvLHMYpWeWYaISfFw=="
 ---

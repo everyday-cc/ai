@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-05-zammo-unfurls-conversational-ai-integration-service.md",
+      "title": "Zammo unfurls conversational AI integration service",
+      "excerpt": "Zammo.ai launched a platform for integrating a diverse range of conversational AI technologies across a workflow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Zammo-UI-Builder.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
+      "publishedDateTime": "2021-05-04T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
       "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
       "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
@@ -1164,58 +1215,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego.md",
-      "title": "Accel Robotics Launches Autonomous 'Valet Market' Store With Last Step™ Delivery in San Diego",
-      "excerpt": "Stock quotes by finanzen.net SAN DIEGO, May 4, 2021 /PRNewswire/ -- Accel Robotics, a leading startup for checkout-free retail solutions powered by computer vision and artificial intelligence, today announced the soon-to-be-open Valet Market,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1498388/Valet_Market1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

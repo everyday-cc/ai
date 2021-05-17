@@ -35,15 +35,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Ping An Completes $200 Million First Close of Voyager Partners Fintech and Digital Health Fund"
-    excerpt: "Company Limited (\"Global Voyager\"), a wholly-owned subsidiary of Ping An with a significant track record in venture investing in fintech and digital health. In 2017, Ping An committed US$1 billion to support Global Voyager's investment strategy."
-    publishedDateTime: 2021-05-12T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419754"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
 
 secured: "y8thfybwfAduwkP+V/Sm5tjpax+W0iloMUM4xhsg2ClLUjGUSZmX661hGFfB259fBcRyGn4LJ1ObNDEIPE342rE+q0Yo9TslKazI0TzQUqPvoSPQsoK6BuWzkBLeduajcXfWHdipXaHv7rrPpCFNZSgAGQIfvoEf9G64hPwPm7iUJafQr2AaY8REBrHVhDnKg82nuO6bIhMK+9vIqvA+nckNoO/1m8/N3m71/wZphObvNkTaICcpUgCpRu4BeUy5u9x042gAXzfUNQqpn1vgqzpwCkJ1XXtBize9MV/AO62QgjbenR3dwhO0yKhjqXXbtU/jobAWaowAkFpA65cfZu3LxLt1rpMXivQCgO/vSkRJcibwlx4Zr0o+ze5Yn/jKwyYEh+BGEfA/WO9zYZIw8Oa40K6YuO1Okp5TyKWcSfrIRhW4H4ysunfwRuexFeBVBzwwECmzoClhezoiKqgeT1RtDEYGf+QnLOvZXE82crg2P1UsBdBA2hMg+y99D1w9Q+Gf8CCpWBWTIpVooo5UEA==;z85w6hm7WNvBJ3EuK1kEUg=="
 ---

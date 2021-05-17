@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Machine learning used to predict outcome of Covid-19 patients"
-    excerpt: "A machine learning algorithm has been developed that can detect which patients with Covid-19 might get worse and not respond positively to being turned onto their front in intensive care units (ICUs)."
-    publishedDateTime: 2021-05-12T12:20:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/05/machine-learning-used-to-predict-outcome-of-covid-19-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/15791/newseventsimage_1620393592751_mainnews2012_x4.jpg?center=0.40265486725663718,0.43771043771043772&mode=crop&width=1200&height=450&rnd=132652903650000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "79tQYq/7qVLhdbd3iqPF8Zc1ICZrCYbo+xd9kLVkaIKwtD9O93pc94nEz2n2iLoUznJkwxqcy+DuCLHIXX/sCr2PDSb6rh3mWMG6XrYTgpRaF8txePYIlba570GJ3kx/MxhftafCuBWGHTOZCgektT5SqGxBHXq3LC+v0ru5RU8HhE5W1hToQhljJT0TxeBds0oK+Hm8LcaW3mY9tDuTH7rrhddNn63++JF65U5N/1medtMt9urEtWYN2w2aXmCzg2VEMjQA6F5SmS029B6PxU06BCoa5WtIqoPNcT9TAz8rqn99krAw3LeAXLHgV+XG6LM8fA43XNgSQM8qaxOzMp273yF35i/baSIEk5fu7oac8vb2m4zEBf5ggMdmKro8qLQ2oxxlTl8/mNAt8hrxOBLmy2wrSOmVbkvW/WsE2OEGRv9wAGVgdXNtHpabRokV+x5WIXyYQyVj+oaJw8Utc19/advszvWpBMGMD8EltxEwxS7Z+9tTmoAvhq0B9XUEn8tDWHr5WTmWV0mUGQ2QuQ==;W/FqfK3ePAJIntCNXbbWgA=="
 ---

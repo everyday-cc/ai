@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Corsight reaches facial recognition value-added distribution deal for Asia"
+    excerpt: "Corsight AI has signed up Netpoleon as a distribution partner for its facial recognition in Asia to increase availability of the technology across the region."
+    publishedDateTime: 2021-05-13T22:48:00Z
+    webUrl: "https://www.biometricupdate.com/202105/corsight-reaches-facial-recognition-value-added-distribution-deal-for-asia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
   - title: "Right a wrong: Restore federal recognition to Chinook Indian Nation"
     excerpt: "We ask our congressional delegation to commit to enacting full restoration and recognition for the Chinook Indian Nation before the end of this session of Congress."
     publishedDateTime: 2021-05-16T19:01:00Z

@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "DeepMind Leverages Nash Equilibrium To Tackle Fundamental ML Problems"
-    excerpt: "DeepMind has introduced an approach modeled on game theory to help solve fundamental machine learning problems."
-    publishedDateTime: 2021-05-12T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-leverages-nash-equilibrium-to-tackle-fundamental-ml-problems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/DeepMind-Leverages-Nash-Equilibrium-To-Tackle-Fundamental-ML-Problem.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "DeepMind provides machine learning scholarships for four Wits Master's students"
     excerpt: "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML)."
     publishedDateTime: 2021-05-13T08:30:00Z

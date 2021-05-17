@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridg
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "DataRobot Joins World Economic Forum Initiative to Advance the Equity, Accountability, and Transparency of Artificial Intelligence"
-    excerpt: "DataRobot joined the World Economic Forum initiative to advance the equity, accountability, and transparency of AI and machine learning."
-    publishedDateTime: 2021-05-12T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210512005559/en/DataRobot-Joins-World-Economic-Forum-Initiative-to-Advance-the-Equity-Accountability-and-Transparency-of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "cK76advcf+NJNwzJ9jxn4P6P12ZsFXBgHZffQ4FDQe0ZEmUk6uAqAzyN1EbVlu6nXhlHkdUkoNaqm5Ukfq0II62jIjZJ6WoXdHKxnxMAZdXsrIu9hFf7y8f1DZJ9B4NVOlQB67TconX34YQ8907pm6asrfHxvg4g5A1GpbzURJ1wt+0aI3ws8jFvpoXzaD3bmdzFhasd7XPT73j3hE6/o7uGhynLQXLWsKtSYOnQqfmtbw1JxIDJ3ly7zR/FqqM4uMLmFCIuzF6LGSxeZ/tTQWyFHCxW2Ympf0cRA6Y7Gc+UVBzXtJnlBInx4uLTiB+VK1cp86jS8rjGaLqRQMe2SYhWkKUNENnrjsvXEqIdJqkTThqQWMAkox1QCbD2xsFmqZkcyNd+Dmy1OHb5v6L45wz9hDRtufRxhM0r4uHMIzaOuAXL4ThnOPhLzfmsWsaGCkpVbN3Hkf7vKq+wR83PcGWrQFP0bY+cHTXoa9EgfQS3yBbZVUnG3twAbH3Eb4Idr/v/IgRLYYQt1jTJT77NkQ==;hYWICQPfXl+p2SuV0OAP0w=="
 ---

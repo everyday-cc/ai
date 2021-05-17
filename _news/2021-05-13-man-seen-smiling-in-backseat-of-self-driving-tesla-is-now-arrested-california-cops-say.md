@@ -99,15 +99,6 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
-    excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
-    publishedDateTime: 2021-05-12T12:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/tesla-to-roll-out-improved-self-driving-technology-in-coming-weeks-musk"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
     excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
     publishedDateTime: 2021-05-13T19:28:00Z

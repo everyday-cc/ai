@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-pro
 webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
 type: article
 quality: 57
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -55,17 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Research Report On Artificial Intelligence (AI) in Healthcare Market Is Growing In Huge Demand In 2020-2027"
-    excerpt: "The Global Artificial Intelligence AI in Healthcare Market analyzes growth and gives a clear impression on the international market regarding improvement and modernization It includes Artificial Intelligence AI in Healthcare Market development history competitive analysis and key shareholding regions The"
-    publishedDateTime: 2021-05-12T12:00:00Z
-    webUrl: "https://www.openpr.com/news/2283734/new-research-report-on-artificial-intelligence-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283734/new-research-report-on-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
   - title: "Artificial Intelligence Market to Register Incremental Revenue Opportunities During the Forecast Period 2021-2027"
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period."
     publishedDateTime: 2021-05-14T07:26:00Z
@@ -103,17 +92,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 7
-  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
-    publishedDateTime: 2021-05-12T11:11:00Z
-    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "rEteUO9QjYa2JmhEYGAw+9UK1sHWL+b466+4B9dfnyq7iYJDfd0BLyCJbYRFp8gnfiGTICrztlNtHVzZie9wV8VbdwBAg7R5hqs29lUjHpiAU+Pm4gJQL4yXvSjyZ0QCrLSwSwQNmSwmllzZrnCZlj0s5OopRPMAKp55GU+8c+zp0cVabaP248OtRt7FbItu/Kwd6vt5tC6kNzi8lG0Zk7TT89bKnR3icpQ6De2R4zGVaNS9wQ6FcngN8RHzUbYodQhsnXuQ/Mk6kLxB2xEgf0wI0zQZyKTdPRfFj6aKzZS++CtvRaB1YImQ/ZZQKfPYvsuU7C0A4jPGVq8hjIuQfF0pvIn8WQBIsIaVC2u1n0M=;kx5GcBg62fuEwsMs1r7okQ=="
 ---

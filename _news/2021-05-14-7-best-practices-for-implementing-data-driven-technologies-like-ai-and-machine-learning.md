@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/7-best-practices-for-imp
 webUrl: "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115"
 type: article
 quality: 125
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Pony.ai's self-driving car takes media for test drive"
+    excerpt: "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin"
+    publishedDateTime: 2021-05-14T16:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVECXWMSF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210514&i=OVECXWMSF&r=OVECXWMSF&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Venzee Technologies Advances Syndication Self-Service Leveraging Artificial Intelligence"
     excerpt: "PRNewswire/ - (TSXV: VENZ) (\"Venzee\" or the \"Company\") announces today continued application, development and use of artificial and augmented intelligence technology now deployed"
     publishedDateTime: 2021-05-13T13:00:00Z

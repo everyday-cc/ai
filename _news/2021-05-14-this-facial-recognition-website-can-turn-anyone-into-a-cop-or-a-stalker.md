@@ -1,30 +1,24 @@
 ---
 category: news
 title: "This facial recognition website can turn anyone into a cop — or a stalker"
-excerpt: "While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web."
-publishedDateTime: 2021-05-14T10:00:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
-webUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/?outputType=amp"
+excerpt: "While most facial recognition tools are reserved for police or government use, powerful PimEyes is open to all, whether they're hunting crime suspects or stalking women on the web. Researchers fear there’s no way to prevent it from being abused."
+publishedDateTime: 2021-05-14T16:31:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
+webUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/this-facial-recognition-website-can-turn-anyone-into-a-cop-or-a-stalker/?amp=1"
 type: article
-quality: 58
-heat: 68
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5IDBBCY4II6XKCJN6KCHJ277U.jpg&w=1440"
-    width: 1440
-    height: 954
-    isCached: true
 
 related:
   - title: "Is creepy facial recognition app that claims to find ANYONE online a stalker's dream? DailyMail.com found it DID recognize celebrities and people from their Twitter bios ..."
@@ -44,6 +38,6 @@ related:
         height: 382
         isCached: true
 
-secured: "tth3SWfk0ejjUi/tS0UZiVNXRuR2V30Oel95YtZ0kLI7RGKG1B5Z9lysKsGNPF/+dnUkSivd3sHrzbwVOPBS4XORSt6syBUMqLaYn6rdx3cVjZOXPFG4z0Ar10w7QDdYTAJXw78rrjYftpNwD+KQEgCEGZiw1woUF2pr1oVftx61BPT6AuGMNqFElX0wSSOyeae9/RWtMFQBdmc1m1NTRp92/Tw1BBOsSVF2CBN0802cHjm4LxcJ7kWZnFCiCqGOkpaZiIGSHySd2ycKaxVmHRyPH9j45tqezDI0Q9EJV/YwOz8yfJg/0gUbNLlvZeqXrKp5wQ6s/90U3fngxsuXZ0PQ5W56Krr74s6fDfvRyjE=;85tsXZS7iYaQRxxkTEzHrQ=="
+secured: "jlJsqWQbOoBuF9SHWU8er0sRCO7XCFx3IH+YUHxXy15F0yd8Jejb+LPRXk7pWVrxE1v07NPX9mHhhv/knWoz5pYx+9eaA1/6P21RucBfCdCq5QUs8FPeL9c3kSMgESN4ZxV5ZYaXmym5AP8SlV6w4caHhxiAFfI21yRVyMCPf7tuJ9LDYOFydFOr6xfSKrm93Duahi0KlHeDSRKGoBS9+Pr38kY6sahCCd0+xyk0d1ohR53S6+n9SNeciJBphmQJLpQadv6sTakEzTUxygBMdYP36yyANRC93NrG5SBfz20cmmkW09QWOKGhVBX7hNiEDUy14r4287R0ZBL8uoHegHFOu8SORVSQDumzEd0ZqCQE7k90gDK65dLiacHPsjMiUhwB92Y9m1I0t0L2ay1u16hQtRe9CqsG8PDi3v2ihRnG9dJJ4C1wMdNCoHGEZZS50ypMM0YaqgGjvhM98yc7MuBcv3O12eQWsbvXCqas0RB1d7HSOM1qFNpf5c1YH3lThohCTslG8JRC0o3pfSvx7A==;TXJyJ3LSS+SKH+ISFgqJaw=="
 ---
 

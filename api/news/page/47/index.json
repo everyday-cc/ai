@@ -2,6 +2,101 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-04-02-accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard.md",
+      "title": "‘Accuracy in AI is a function of availability of quality data … building NLP tools for low-resource Indian languages is hard’",
+      "excerpt": "Accuracy in AI is a function of the availability of ... That’s called addressing a native language translation. But at IBM, that’s not what we’re talking about. We are talking about really ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/Gargi_Dasgupta-1.jpg",
+          "width": 630,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
+      "publishedDateTime": "2021-04-01T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
+      "title": "Study finds that even the best speech recognition systems exhibit bias",
+      "excerpt": "Register for free or grab a discounted VIP pass today. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/shutterstock_135445031-magic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
+      "publishedDateTime": "2021-04-01T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-three-stocks-to-profit-from-the-robot-revolution.md",
       "title": "Three stocks to profit from the robot revolution",
       "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
@@ -999,101 +1094,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
-      "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
-      "excerpt": "The company argues its use of natural language understanding machine learning is broadly applicable to many corporate functions that have a support component such as HR and legal affairs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "originalUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/31/04c51f4c-e000-4fbb-962e-8c2560699c68/moveworks-group-19-10-20-1127-1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "publishedDateTime": "2021-03-31T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-the-cpsc-digs-in-on-artificial-intelligence.md",
-      "title": "The CPSC Digs In on Artificial Intelligence",
-      "excerpt": "American households are increasingly connected internally through the use of artificially intelligent appliances.1 But who regulates the safety of those dishwashers, microwaves, refrigerators, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
-      "originalUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
-      "publishedDateTime": "2021-03-31T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

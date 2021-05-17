@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ping An Completes $200 Million First Close of Voyager Partners Fintech and Digital Health Fund"
-    excerpt: "Company Limited (\"Global Voyager\"), a wholly-owned subsidiary of Ping An with a significant track record in venture investing in fintech and digital health. In 2017, Ping An committed US$1 billion to support Global Voyager's investment strategy."
-    publishedDateTime: 2021-05-12T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-completes-200-million-first-close-of-voyager-partners-fintech-and-digital-health-fund-1030419754"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "Fintech Stampli Raises $50 Million To Put Controllers Back in Control of Payables"
     excerpt: "AI-driven AP Automation innovator Stampli today announced $50 million in Series C funding for their platform, which helps CFOs and controllers close the disconnect between accounts payables and the broader organization."
     publishedDateTime: 2021-05-12T14:15:00Z

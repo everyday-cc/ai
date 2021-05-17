@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/digital-twin-market-deta
 webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
 type: article
 quality: 55
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -75,17 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Study: Global Artificial Intelligence (AI) in Drug Discovery Market 2021 Size, Growth Analysis Report, Forecast to 2026"
-    excerpt: "Global Artificial Intelligence in Drug Discovery market size was valued at 473 4 million in 2019 and is expected to grow at a CAGR of 28 from 2021 to 2027 Momentum for Reducing Drug Discovery Costs Production in recent years"
-    publishedDateTime: 2021-05-12T12:19:00Z
-    webUrl: "https://www.openpr.com/news/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    ampWebUrl: "https://www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283763/new-study-global-artificial-intelligence-ai-in-drug"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
   - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
     excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
     publishedDateTime: 2021-05-13T15:39:00Z

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Corsight reaches facial recognition value-added distribution deal for Asia"
+    excerpt: "Corsight AI has signed up Netpoleon as a distribution partner for its facial recognition in Asia to increase availability of the technology across the region."
+    publishedDateTime: 2021-05-13T22:48:00Z
+    webUrl: "https://www.biometricupdate.com/202105/corsight-reaches-facial-recognition-value-added-distribution-deal-for-asia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
 
 secured: "ShAIm/uhz2dI4sefDP0914H3ObYCfH/3kOe50d6+WoZ953geSeZBmROmaYlyclNHwLr49xq5pzq6r9iAxmyHdeAnQ9RVYO5AM5OPsI9m5VKyQwJGstoJceYk792mTnCRe+jMRn42NQa5Dms79K2UaISWE31rge95uUNOT5rmTQ7LEojWJNM9RrRbaDe4QjWOFvS03DCfkMd9duRDCxJ0zdOnKQtz3FHPPcr8+9OWnBWRnm1/Q4myF0DQY/inZdaolPWn2LDlYEsyQms54Qh2Wjfgfi9v6IXVsym+S4y9EWTT7NwUr6L3ZY5GX8xk3L3yS0KgcBPh0fqQ3wr8oiD/KSTxzV0nWcdbfdOKamh5HMU=;jL1ykGbOlSElUs2FvsTj0w=="
 ---

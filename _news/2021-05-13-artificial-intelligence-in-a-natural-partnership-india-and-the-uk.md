@@ -38,20 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How India Fights COVID With Artificial Intelligence"
-    excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
-    publishedDateTime: 2021-05-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "eXreRoIg1ltGHOmzLcHduxQzZTk8VbtkGDhppy8KRDGoXJCkIiEFxCeqp74Gr+IkBztl9EgEsvEpKkZ5k9iwAM7ANTflprVPO1QDDkppI6lAwbYTik1Q+2/xjO9MfIQSH5Nlso8lRnpAO2K1XPuoZOm0XbYuJqDWmd5Z8Jgug0xca9mglOxdVnkEcPqM4Ut+TzueQmYv1ohR+BQI1tMDhEbRchPz56rhByGhnmmoRaqENiyIsyou4YOpcATCSdaRligFCzGzidC8De+ZEAQ9uyliv77sLk9wpNQEHMRfBDtELZj2yw6XR8P7D6UmFnGmSMcrknlQVDEAp7FaqogcSxo20vrtaAchw8VhfSneIVot2mqD9skQLhrjFyjwa2xFOz5H92jkECl2TdICxlrgNHqYEZY7F/GClPIkWiYymuR+zzeM9M8MNr18mW2IiQo5ycGBB5YDX7jBs4OVzF8zHUXxSKOZYyUKIZxuArylxe+R/qhUxJRQ3qG6dtihkQ5EHwOCx+EOvR8lWBGF1QcMTQ==;o0SqTbBbMtGj1AOny1hMCQ=="
 ---

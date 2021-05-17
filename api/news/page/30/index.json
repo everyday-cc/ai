@@ -2,6 +2,83 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-21-visual-object-recognition-is-facilitated-by-temporal-community-structure.md",
+      "title": "Visual object recognition is facilitated by temporal community structure.",
+      "excerpt": "Humans and others primates are highly attuned to temporal consistencies and regularities in their sensory environment and learn to predict such statistical structure. Moreover, in several instances, the presence of temporal structure has been found to facilitate procedural learning and to improve task performance.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/33858967",
+      "originalUrl": "https://europepmc.org/article/MED/33858967",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market.md",
+      "title": "Speech And Voice Recognition Market | What Are The Driving Factors, And Opportunities Of The Market?",
+      "excerpt": "The present research report gives users access to complete study of the present regulatory scenario as well as its impact on the growth of Speech And Voice Recognition Market in different geographical regions.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/20/speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market/",
+      "originalUrl": "https://ksusentinel.com/2021/04/20/speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/d2ydV7S/Researchmoz-us-421.jpg",
+          "width": 624,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-tesla-autopilot-critics-say-deadly-crash-is-reminder-that-self-driving-cars-arent-a-reality-yet.md",
       "title": "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet",
       "excerpt": "The perception that self-driving cars can really operate themselves without driver involvement is worrying automotive watchdogs, who say that some Americans have grown dangerously confident in ...",
@@ -983,101 +1060,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021.md",
-      "title": "Global Natural Language Processing in BFSI Market Overview, Size, Share and Trends 2021",
-      "excerpt": "According to this latest study, the 2021 growth of Natural Language Processing in BFSI will have significant change",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021-2021-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021-2021-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ibm-ceo-arvind-krishnas-turnaround-plan-starting-to-bear-fruit.md",
-      "title": "IBM CEO Arvind Krishna’s turnaround plan starting to bear fruit",
-      "excerpt": "including Cloud and Cognitive Software, which saw a sales increase of 3.8% from a year earlier to $5.4 billion. The Global Business Services unit, which includes consulting, and the Systems unit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/04/20/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618887618624_1618887633680.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
-      "publishedDateTime": "2021-04-20T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

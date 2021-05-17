@@ -546,6 +546,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public.md",
+      "title": "San Diego based TuSimple is the first autonomous driving company to go public",
+      "excerpt": "Just a few years ago, San Diego’s self-driving truck company TuSimple was just getting started. Now, TuSimple is one of the region’s most highly valued public companies. TuSimple creates self-driving trucks and the software used to run them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kusi.com/san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public/",
+      "originalUrl": "https://www.kusi.com/san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kusi.com/content/uploads/2021/05/b/u/tusimple-cfo.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUSI",
+        "domain": "kusi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork.md",
       "title": "Machine Learning and Mandalas: Inside Suchi Reddy’s Latest Artwork",
       "excerpt": "For the Smithsonian’s 175th anniversary exhibition, the architect and artist is assembling a 20-foot-high interactive sculpture—take an exclusive first look.",
@@ -594,6 +637,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
+      "publishedDateTime": "2021-05-05T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1105,99 +1200,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-wixcom-buys-riseai-to-add-gift-cards-to-e-commerce-platform.md",
-      "title": "Wix.com buys Rise.ai to add gift cards to e-commerce platform",
-      "excerpt": "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/wixcom-buys-riseai-to-add-gift-cards-to-e-commerce-platform/ar-BB1gnWI2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/mFsTeRDVaZSBYyNQyRZ_iS3Nexg=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7D3O47K3ZMMHFQA6RFCBWCIHI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T06:08:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
-        "domain": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-alkymi-patterns-tool-uses-ai-to-extract-data-from-documents.md",
-      "title": "Alkymi Patterns tool uses AI to extract data from documents",
-      "excerpt": "Business intelligence platform Alkymi's new Patterns product leverages AI and machine learning to identify data in documents and emails.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
-      "originalUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
-      "publishedDateTime": "2021-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

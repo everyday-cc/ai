@@ -101,15 +101,6 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Tesla to Roll Out Improved Self-Driving Technology in Coming Weeks Musk"
-    excerpt: "Tesla Inc's top boss Elon Musk said in a series of tweets on Wednesday that the company expects to release a significantly improved version of its full self-driving technology within the next two to three weeks."
-    publishedDateTime: 2021-05-12T12:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-12/tesla-to-roll-out-improved-self-driving-technology-in-coming-weeks-musk"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-12T15:13:00Z

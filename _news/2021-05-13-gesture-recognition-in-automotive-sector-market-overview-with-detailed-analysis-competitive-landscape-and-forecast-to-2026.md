@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Facial Recognition Software Industry 2021: Size, Share, Market Applications, Manufactures & Trends Shows a Rapid Growth by 2028"
-    excerpt: "The “Global Facial Recognition Software Market – By Type, By Crop Application, and By Region – Industry Perspective, Comprehensive Analysis, and Forecast, 2021 – 2028” report has been added to HealthCare Intelligence Markets offering."
-    publishedDateTime: 2021-05-12T12:47:00Z
-    webUrl: "https://ksusentinel.com/2021/05/12/global-facial-recognition-software-industry-2021-size-share-market-applications-manufactures-trends-shows-a-rapid-growth-by-2028/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
-    images:
-      - url: "https://kickets.researchnreports.com/storage/1618317561_389hq/AN0GaZX32GXP4U49VVfY7tQ2YzfUWavfXNmu1uk1.jpeg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "dc2p47GkHeM94bY8SPOAhyPi+z+RcLuW7HyTZfE3c/r1KgmAA+LvC9XGD5q8gTvtSoRyhnC52QntkKwIwqwamY0jICptJFsZAn5EeVHEppPHGf2ro7Xut3FxbrvGtjeU4fFLBwXsZpJYsWt7tImSaUWz7UY7SE8WwmuOD5ak8y0BnyAXWaHNS2vh3qd+0D78MVz4DOjtegpuDSDwhOJ8d0lh1m8M61JhmWH+Iq3EkHteEbk6jGPE1Czr0gmjomGc06US4/wB8I87KPF34Sl0lRgHKYrUZaHRvIUbJJNT9sJWGZGaKkqrr/QUJTxbpmY0s/uSAhp/YlLzDPRBCJMkfE5Ab5j34xl24J9l0OrEyvs=;T1VTYcBFKZTPuHdMp6UWhA=="
 ---

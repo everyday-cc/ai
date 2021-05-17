@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a
 cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 620
     height: 413
     isCached: true
-
-related:
-  - title: "How Could Conversational AI Shape Our Language, Particularly In Business"
-    excerpt: "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice."
-    publishedDateTime: 2021-05-12T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "COVID caused conversational AI to accelerate, says IBM"
-    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
-    publishedDateTime: 2021-05-13T17:33:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "GyoZppuWYxuFXfCCnF1PpIiACwB8FV4m0mvV4+jmTvVQoq+UX2iwA4ynPwQSSnHSeaV9Ds89kt1jHTLV7SuAlMaoUKrudzY5QsV0v3yFGU+dYiWydHQtw2H9086ePi2vLy17/W1RokBas1PyK90bM/aHdXmUHYYBj9n0wS9HNdKRnie75g3hF2luSrWrP4GihK3EFCBY7O4uTbsaOjSaln0VSwmMiM7T2bDftQ9iZ25o7WbXpqrwdGcW75rx9AKRKLM3a3tluF16xMj9VnD+NuVrhfsAj/qSXMagLShV10a7Jft8lkLcNAAfr7JXEksLURrsNsA91RrxWiRg8vFXeIg91BjhjcTCYB4eUWnaOE5ebnJh6rMbVHdcJ+0oP30uAYxEuNUt9EqyD7e43ZZOGsSItgQBLh8/kHh4ytt7xyyZm/prtcIwLM8zb6dW9R4L4rtMBl1hKxk6kY/skgRbIaGnQHJmVnOt5XqZIjNsNSYKoaipkWHthrkWIwhilUTrpxqkGNVfJwtYzlWZ7WPKAg==;6+CfVcneoK9Qo3Q7MbRgdw=="
 ---

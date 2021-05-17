@@ -39,20 +39,6 @@ related:
         width: 1820
         height: 1024
         isCached: true
-  - title: "Nvidia GeForce RTX 3050, GeForce RTX 3050 Ti Gaming GPU Price Gameplay Functions & Specs"
-    excerpt: "Nvidia GeForce RTX 3050, GeForce RTX 3050 Ti Gaming GPU Price Gameplay Functions & Specs 80 tensor cores arranged in 20 \"streaming multiprocessor\""
-    publishedDateTime: 2021-05-12T11:31:00Z
-    webUrl: "https://www.dekhnews.com/nvidia-geforce-rtx-3050-geforce-rtx-3050-ti-gaming-gpu-price-gameplay-functions-specs/"
-    type: article
-    provider:
-      name: dekhnews.com
-      domain: dekhnews.com
-    quality: 30
-    images:
-      - url: "https://www.dekhnews.com/wp-content/uploads/2021/05/IndiaTvf85f37_Homen-Borgohain-380x260.jpg"
-        width: 380
-        height: 260
-        isCached: true
 
 secured: "HqdLAaxO4FqmlPh/cVF7uDWRHfQW7M4v+GJ1cWBhAgZATwP4EVJUnchBFp8HiWLTfJ0pDXQxWiPgD4e6KEKmJOzGYK3tSsIDDn/n50r+ji71oKhg00Ntnyxo+uPNsSYR4fVK/WkVZh/7wucfMqu3UPAWQ90VzCKfm2tmcD7hUM+28vArEwwNfRyOUcsVpJEiEYwmFNEh0Cz7nNZmlyLN/d57XoMxtbs5QmAIpd9m4bEDps2RsLngQLM4I6zbom0toXZV1zBMeJjraGvfCLqxHqfURYVeoeu6FY8/NH/U9MqYff0WsRKORcm2/vTWOnhqSD0875it2frLinLhUk5b0Ue5LBsJHF6PtJcD6OPWR2CIq/wUvaFXlX2CcVhs0fHWUk1hM3n7ODV93ZJUV/gl4Hv/SiScwJtUP/+FrvCOqleOyPJfYDdIg2LubvTE5HI8f4Fx0N4lCM5z3999NNdGlBmuUOzqg1LNkrRk1RhbOXyclvsP8fxC9Xs5YV12Awykg5Os3/rprXfK2pfnxHD88Q==;208OJROh4eP1+RqkEBasEQ=="
 ---

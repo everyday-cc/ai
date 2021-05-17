@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How India Fights COVID With Artificial Intelligence"
-    excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
-    publishedDateTime: 2021-05-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Artificial Intelligence in a Natural Partnership: India and the UK"
     excerpt: "On May 4 2021, the prime ministers of the United Kingdom and India met virtually. The meeting ended with a 1 billion British pound ($1.4 billion) trade deal and a promise of generating thousands of jobs on both sides,"
     publishedDateTime: 2021-05-12T23:59:00Z

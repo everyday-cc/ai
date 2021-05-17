@@ -3,8 +3,8 @@ category: news
 title: "TechFT: Big Tech & Ethics"
 excerpt: "Technology is transforming societies around the world, but governments and the companies behind that technology have struggled with ethics and morality, from self-regulation to surveillance to AI bias."
 publishedDateTime: 2021-05-17T03:32:00Z
-originalUrl: "https://www.ft.com/content/e1565c56-0e56-4154-a4ad-5e9c48c08026"
-webUrl: "https://www.ft.com/content/e1565c56-0e56-4154-a4ad-5e9c48c08026"
+originalUrl: "https://www.ft.com/reports/big-tech-ethics"
+webUrl: "https://www.ft.com/reports/big-tech-ethics"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 506
     isCached: true
 
-secured: "FXaIKL75mp5xGmjO2BKGxgPUIF+9AlvkLWH8kitSbMnIVI0pc5zEAOsdt1mSPfLgaa9aX2mkFRv+nk25ZI8YQpnvtXDKiPP79FIzPZbqtwBeF7zHLTjlLNIBTnFeTwrYkSVEHHQQ/2nJd3NwKD7O6plYVkUW90uoFUPEvxKIicy5Hu21QB6gQ3UVJfDujF8aQyCiEGDPquWcCAgJ1ZrrESe51nwvASDP8vKJ3zGK5afyP+OLanKrpQBvAYXwcguo+rWAJnNW4FOgbxm9wvvL+Pmyki2JPn1G7LUAM4wMc5tAjqtLhmeEmnZYBfOIeb8ku/uJqY/nJ5t0J35+YWMQxieyNjcVXv4BXrYCrNPXvnk=;r9TDspHWj9l27sB2OXvFfQ=="
+secured: "pDtUJWTLrG+gW/UmJR+o5olY7gxdnkzoPJHmkmVEjlLsUH8/7C9ZwxYUuzY41mjlt9yDAYdv3NozLZvhpUrI0DX3654lpLUNpRMjs9kQgsvnbU7egV0qgmjV+8PSMdbllk/8vGRgDe0sZlVx+dlqhY+2VzrRUv8YjnhYjZlPJtnVr0IHmSusuh7ZHPMPmd3ge4Ob0mlc9Zgq74mBCjgbtnZJPTIY6QmdLQYf6md2jdGX4chRloM3AwzCNTTiEU4Nwk7zKT4eO+f4++Y7ZQJnbY+pEAZiKcb61vi0krtUPZsDQBQoCchYG3lDWL7ZPGb6Deh7z+XzY82IKjkKZjQBsKTqYug94zraFr0MwEzCXhc=;fO5anHP0/hbUOGQcRbjbPA=="
 ---
 

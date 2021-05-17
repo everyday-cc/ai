@@ -39,20 +39,6 @@ related:
         width: 777
         height: 672
         isCached: true
-  - title: "Machine learning used to predict outcome of Covid-19 patients"
-    excerpt: "A machine learning algorithm has been developed that can detect which patients with Covid-19 might get worse and not respond positively to being turned onto their front in intensive care units (ICUs)."
-    publishedDateTime: 2021-05-12T12:20:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/05/machine-learning-used-to-predict-outcome-of-covid-19-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/15791/newseventsimage_1620393592751_mainnews2012_x4.jpg?center=0.40265486725663718,0.43771043771043772&mode=crop&width=1200&height=450&rnd=132652903650000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "tefbffLVsxysvljmERLHSZRk+2xZrsp0MKKFXki8WVl7xXvcDEiS2tPic449n3Drqw2Lqqh6FBWBr7NjEHoorM4kT98820+xlokhxYPdtnFV4BT0gDAK2Z6oDD/aO4RyI7At3/fWAX1SagvcLGvcIsVzah58dyxrf5KnoU3OeewgqrPnf1bnqbgVqfS4lTbqzydcqxolH5V7HbWx/oxvABO/ElphYRwIWwZuexhkWL1aBT1YBdsue3hewJ4QI1FbHYaF7Tv5SfqkQh/orNYpP0JpGZlqxnd75oZjh75sGBWt8juMFPRmL0U+uv7o8P/D9G9Cnn8KKkzACvfVQMvWoOKNTh5HF6joFx+/xEJy68g=;xTFYFWiEV2j8r+z/e4Lg2Q=="
 ---
