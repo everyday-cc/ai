@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-17T15:52:00Z
 originalUrl: "https://healthitanalytics.com/news/bias-a-chief-barrier-to-artificial-intelligence-in-healthcare"
 webUrl: "https://healthitanalytics.com/news/bias-a-chief-barrier-to-artificial-intelligence-in-healthcare"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"
@@ -54,6 +55,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d594a890b77977267fd9a%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How AI Vendors Can Navigate the Health Care Industry"
+    excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
+    publishedDateTime: 2021-05-17T12:25:00Z
+    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Role of AI in Improving Employee Health"
     excerpt: "Employee Wellness is one area where the application of AI has demonstrated its immense advantages. Powering wellness solutions through AI has helped employers create better employee experiences. Furthermore,"
@@ -109,6 +126,6 @@ related:
       domain: bio-itworld.com
     quality: 19
 
-secured: "6dLgseWPN4Z9XQ5Wjg5gNGdwHLvXOdWgbEkgbvTg8B9r0HutaRzj/S6TRqnPum2qY/hDtlIViEBrZzktYJojXKr1lAfF9pA+OmMOEdAeiI6B8EC31apCcR1T2cQcTycVdRkEqdI3LAPE0d5krni288jRfiKhhgbKshvKUeN88IUJvpirpfegXQ/k4il7ldaPVi/BNA+fSb5Lw3S1X3VTDAOC8ToePYEl2GShyUlaXGCihNClr6/Wm3j7PzYBrcgSPU/AYqaI0ZyuRqoqzRO6XbhZR3g255RgFeQ4XWCuePsD4sTfnzYRLOCjyf0XNrwLHy2MMzh6ZLijzDv29hRQPiqzJ7GbtTw1+8mXWJJMhsg=;1LDpvwfi2S5X0evD01eVEw=="
+secured: "xhM+kHtSiN409sQdtcjQu3l0UQXBQGz53Sch6jYiYQsLVfcP1eU2QaQhkoreuC91RZuvs8AhmDgMg3ZtSua3hUR6Oz05j0wDk5KKjvRFywyDM9HmYpz//fNQ7t3cLaxiqEj4owINkCHl/6Vw0eW0iMN7neo7/ZaGRHTxiilIq6HfWenUv5r3dsNd9/TOhmSu/3FBpMv6VwUt1T1EIWWyTSkN5FK4SmHjFVA6qX3bZrgTcXttmg10t/2kKKqlVxCTmmR+TbPClF43I/mJr+21J2jtlpTb3L1likt69qwVmaiCJw3bYpQk2LwGwCLHEFSzBnJ/xgwXhW1MHmWkhTqyKaUHT2cu7oOIUJ0CW/LDQzttSuILnFikJ5K2sFcStfD6JOVjl6hYsgpf54f5Khf2J8t+w/YciuDubT/ZY76DPUZy1o/DNUdQzHqrja1Jaqv2EtXFCDW4+IiKj8nICSb4uk7a9pDvXlVoUtKHD2siSoHMPGLKheQoLoXPPE8ohbb82na6HKeT3C0DMdbdS/kUHA==;PcWMLaXK/ns0ijV1mfHI8w=="
 ---
 

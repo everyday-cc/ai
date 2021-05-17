@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
+excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and"
 publishedDateTime: 2021-05-13T15:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
+originalUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
+webUrl: "https://www.prnewswire.com/news-releases/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work-301290108.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420"
-    width: 1200
-    height: 420
+  - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+    width: 1997
+    height: 1047
     isCached: true
 
 related:
@@ -101,7 +101,21 @@ related:
         width: 688
         height: 400
         isCached: true
+  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
+    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
+    publishedDateTime: 2021-05-17T16:51:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 51
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
-secured: "8SG6igvgkw8ZQjR9ALRA/7DbMVtm/tQSDd/BuJdQ2ecUKsJUVNCUdJ3lWbqAmd49ibEEkxixKIGGnEXS4iJYnTfFFiZgPaDwJkS8E89NgebryCbpcDfmvgyA4GA9+hOjiOSIxgJ7V0uezTTJ5Vv4c5WNeUr65oJJD9PBeAYFQc8qmOz7IFmiXPmW/hDcZUih/2SCfHJ4Dp6BVMa0fKnoyl3w47UJESi4MEDm30uACyCqgMwyhEuedW9Xjbxe3OHvles83HwxmDtTTjwf2EhMU8M+vHiqgG7YD3uVxbPLRVMj6ofcRtxqAWi+kw4Ai/V9UxknXM5hTaax1iNTJaFJYvq+b3zy1TVOkas+3+yQ1YlmWhtNjE8pMap8FLPU4WFw6Q9ZhCdyGUemCaPw39226VUBGWQYkvVqmwAh/QDUhANPecWhjS5nv4M+/Ph4+DTLmRgmVI18FYKnedCHLYV/5EjaI04UuU3nqtziPAhj0lIpPXOWNUro5pT25t2Ns2lVUcdTQyiFQzL4fGXNx0Kfrw==;JE7yL4jOOl6Z7LMqIUYMMQ=="
+secured: "W48Aw1QLrFd4FY22MFANxX3soilOf5DVVYvRwhSW4gMV5NkpYT+ZtoqJwwrj0YA6kiGS9ybvY6UK0umqGshh8jTzWc/K1fC8Pnor60otaR6vJu3x4thKjZrASOT0km7EEcQzZXPCBzer3+tFeoxeWfm/mFR+8JXVBWv3pQpykyEmK3bhgubtWKLJP/BqU/2b/oiA4KTvtnQKz4VDq4rQlT3ix44cPv2Eu5Vj5kz6BUacj6VA6MK+SdjsdVDxbPKpCcUKhOfiac8qZncdjxxnXOsKe977jAoUZ2d4AXgBUZW86IIBNiqWgwPs9NdPRCgO+J54QOz6MOrAc5NJUNT1Y8xaPoSXAEkQUHAdfaiBKYE=;XPfCglYfWKqxuDWe1JUbwA=="
 ---
 

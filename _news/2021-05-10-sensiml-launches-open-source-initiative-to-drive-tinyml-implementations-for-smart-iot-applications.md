@@ -1,29 +1,26 @@
 ---
 category: news
 title: "SensiML Launches Open Source Initiative to Drive TinyML Implementations for Smart IoT Applications"
-excerpt: "SensiML ™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that it has launched an Open Source Initiative to accelerate the adoption of TinyML smart sensing IoT applications."
-publishedDateTime: 2021-05-10T12:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/10/9365009.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/10/9365009.htm"
+excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that it"
+publishedDateTime: 2021-05-10T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sensiml-launches-open-source-initiative-to-drive-tinyml-implementations-for-smart-iot-applications-301287372.html"
+webUrl: "https://www.prnewswire.com/news-releases/sensiml-launches-open-source-initiative-to-drive-tinyml-implementations-for-smart-iot-applications-301287372.html"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1506334/OPEN_SOURCE_SensiML_PRR1_FINAL.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1506334/OPEN_SOURCE_SensiML_PRR1_FINAL.jpg?p=facebook"
+    width: 1920
+    height: 1005
     isCached: true
 
-secured: "ejd83ik6mP2hBuKhMssr1L/P1fz5cEFianYTjZ4vXUhhTxjs6+Vsx9qwHaEOrgyoWrVbOavLjCb+4QutAegMCj0oJMtxeuNNeA1DEQg23zhVxQeS877gZJtgOEJojBdqHNhxxXSXz6jCGa5Jwjltp0MYn15EMMGefXubdp0Ab6Cs6qjqKUW5cij8kYjXajBA/Ie/BcTeYWf6tBf2SRnxjg9qGKNaSIw5RmGGP/CKYSVTM0r/EV+WCkhSaAQtJwkceBhORcntU4cesknvvACdxt6NiTC8zJ3BzIPYJP0m38asGscTsvuXz8AUUVOBMnvYngfXrbxLpNUXQgh6+0liQ73fhFhofZ4qf1gyHChbwTjn1SbKth/ac9Juvyx4ICOvGx5bl/ylhCCKuPNFNX9vppf7ibD2QBpWjqFd5y/cvyMBDImCfzx2wM5zKnLBdsxAVvfsyU63unsX4HDLzCgQYQp66ogsxF5cQFuexSvQQ0eut1x7H6S/n/4eQm4vEJ3DwP0AXSzKa2/fTv2v+pQtcg==;1hD3iLkMxKwQnedqwWAu4Q=="
+secured: "o3DmbTiPP5VbokDawuvXoRiC8/Sj3vsHMln6FFfFBYclpJaQ31kwKDdW05KnIX3YV41skdT+3sGEjlBA9SJJvwbkdZJhX1SoCOJOHOa2tHouof5/P0oy7yUtwnMPiOVlpjYqVL0ufKZJ1YG18pDDAsRBI7gC7/hEk8nTkD8oStp6lIuNQRTTBsdsYOkwu6jC03TYlu2Nw5aW4jijGiuIj9ZROD4bYso5OQkUGR09F0lwTgLW2dqgyZUyvRJuuuKgOTdJIWlsYrl5Y26I0W+1/R0N763GBTMQJ+K0PPF5KrJoF+C3Sz+hOz/TwUyNXA6AwXBMCmKsSiB1q4yarI5OCK+BOxTn9MKa742Z/MhWX/Y=;Zqi/PbaKqvCNHmZMKeKa8A=="
 ---
 

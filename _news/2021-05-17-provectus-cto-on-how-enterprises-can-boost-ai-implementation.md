@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 590
     isCached: true
 
-secured: "40HmSsMTqvKo/M2RDM66OYo114U01fbrzX20We2Aq0uhBwxSZ/rXWoGvFPOd/VCcBVmCZB/TjvHnrNypqExeAggINz6b889+jNrVr3s2AIxRzQxPzzpM8pKTk6lr/6vTjjgxj1HZC9X9Q5BCvXnuz5G3fCLNQhCwRh7B4cnaHf79ebWV4cD5dsWsvo/deTfOpTkio6WkBLsarJ5rmKfngr95Ujm8wXM0Ui9gQZiQFAFRgdHnHSAV6UWBQ8cwP7x47P1c0cQ6zruWq4WjtJYtpMlFRZSSZqn0YIWKQDVk8kOctkRQZ4fQmS37kbX4hV64idQILPlr+/hz0hlhh3dU08C0N2Lf3YKFRTks3NaCmxg=;gP7a8rZMR5HkB/KWmL4JKQ=="
+secured: "O8w9h59H9EeeJ+aAF2r3Rg9h7b0DjNhu+ANDwe52miZ7GxPnIZ31OLP7+4N5VJ3ioxrqXjnr6h0eakZgmCz2ndI9r1n+Kjs6qVrRXBruemKhJSEx78YudSwbSeu04UIp4zhwVyEFhXmtLSxfR1CPH8Hjg7sMzsjqlZCGXN3Nmuwitz33ompAp3oRu7q9Gt78phB9qIMKV8hYJXHlwsph06BQXNyegbYNBrPUmhDjfXV7QYi04jl58No72FI7fPUU+ZJytFH9NRvPK98lnH9uTc8re8fQHJ4xEW2dEmuM5WIiGtzzxJqFTlzK/AYSRgP+cO1NaJ88b776KaCz3nMhWRFL38w4IRuRUNTKEfdQZD7mMVx8ILAbywafnhRPqcyZZfrJVWVpSTSouJSzKp1btTLX0aZbuHNeUg6RwWntm7vyJqkgEeyVMffCvI8SlrJxDdmIwpeDTJcNcRJp5dIis3YgdHchDEvSdgBIGYXYhOrPNjKmFrz4M96nCuvWKqWpV6FLE9MRGdmp+MoHFsorEQ==;D0DVHOAG9PMUzDCSY6S/9A=="
 ---
 

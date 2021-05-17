@@ -1,0 +1,49 @@
+{
+  "page": 7,
+  "value": [
+    {
+      "path": "_news/2019-06-28-police-body-camera-maker-decides-against-using-facial-recognition.md",
+      "title": "Police Body Camera Maker Decides Against Using Facial Recognition",
+      "excerpt": "“Face recognition ... piece of software even falsely matched 28 members of Congress to mugshots from a publicly available database, the American Civil Liberties Union (ACLU) found in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28",
+      "originalUrl": "https://futurism.com/police-body-camera-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aclu.org/sites/default/files/field_image/featured_image.jpg",
+          "width": 1160,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-06-27T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    }
+  ],
+  "nextPage": null
+}

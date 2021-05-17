@@ -41,15 +41,6 @@ related:
         width: 680
         height: 451
         isCached: true
-  - title: "3 Artificial Intelligence Stocks Leading the New Wave"
-    excerpt: "Artificial Intelligence, AI, may just be the next big idea. It’s not quite new – computer scientists and programmers have been working on ‘intelligent machines’ since the 1950s, at least – but the tech is finally maturing,"
-    publishedDateTime: 2021-05-13T00:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-new-wave-2021-05-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "cTXjgXdb4a+MEYrPjSDntNs56JdW9X0JdoHcU5OspnBbq8vXkdYbiemz0xAAUIgSI3ZjKsaib4xU8ib8dI4J07RgKCD3BXMpD6mgQn5CxA4JLpwZ31X5cR5PU+ZDv6QOWIp8cZ0ZeXarPCVlxtrIpvVJTp5wvdPr3i8eDAEvdkQ1JNW2uL5quZwFdoV2cCQ3wX3xt9xyZd/dU3YDSJeknlaYTTgGAdMtg9cORpiYh4l4F0MG8TzcfmN7pues2RJjIB5Ys/Mtv41tI375IZPRqzqx+zDLN2utvcEYY2khCX6OtGdq//+GzXIhQczBNxk7ZdRIOuaP0xBQXWBJZYibSDj2R8oIeq6hpbcSV2IKs5hgwXocogdbHVq9Lj8Nd1JXnmaALc4xZcK04C6bL3iBxPqA3YnEBUAiZC+s1rq2WK8qxJcduzydEMTU+cP2+sVIVTtMJ+tCrMbR8pttqkiXBTDlyjDignnFvpkVCFGOVvZhBjI82XQG9qBq1x/53uj4kTKlF9Zw5ketAXlyUQcnbQ==;H8XMngMg6eZkkDo67gYCLQ=="
 ---

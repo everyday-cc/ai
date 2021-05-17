@@ -8,7 +8,7 @@ webUrl: "https://www.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
 ampWebUrl: "https://amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
