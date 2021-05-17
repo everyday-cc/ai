@@ -26,17 +26,6 @@ images:
     height: 320
     isCached: true
 
-related:
-  - title: "Fintech Stampli Raises $50 Million To Put Controllers Back in Control of Payables"
-    excerpt: "AI-driven AP Automation innovator Stampli today announced $50 million in Series C funding for their platform, which helps CFOs and controllers close the disconnect between accounts payables and the broader organization."
-    publishedDateTime: 2021-05-12T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210512005048/en/Fintech-Stampli-Raises-50-Million-To-Put-Controllers-Back-in-Control-of-Payables/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-
 secured: "Kjutd4HaHsOO+SwAtCl5T2faGu0QDE7v8A1ZPCHbSQDgTMiJ/+pU8zyyU6RvqXZjr3d0DhGHCc3BtJBmetafOGMapKSMZRKk7ESaWGV+TMhBequUZZjGrHUnK4krgnd7SbzZXqGNyVH6fELrZlha9oOn7G4fCkbf5E8Qm5WHsnBdAdQtpNBISM4Fk97vK2zVfGCwdajOnPIuSEMOusktNdUW/FuvUZAcct18baYE0wjcB6H5uA7J+fX3XRxbS7fU4cz6J4/DQY1h+6SWRL3ldi5cCEy30au8JmSFu48Fl1nx16MLP0aRUHlVPOSqEae2P6XDFUJWzewYezWzYCQtA9w56tLiuYnY0m8Oy9ua92FoeHEwmS4KP6fuRs67SP6Q1iA8/lYkv0NKa6jqB9MRVSO0UPJ2m8Pv3ngCpzi0GZ6OreErh5aYSkQLoO/bzDmP6/LHl0e3blk8iYaHTdRplXkJxHBwTURk3Y81nwOPyUnZTDIv6Vxj5Jy7iQXB8VemuHIVxKOiqrYspo/ctiQwnQ==;1d6lGqXNdNy+8qgLQQdFkA=="
 ---
 

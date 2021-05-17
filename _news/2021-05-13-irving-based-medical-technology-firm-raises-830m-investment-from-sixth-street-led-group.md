@@ -24,22 +24,6 @@ images:
     height: 3456
     isCached: true
 
-related:
-  - title: "Sixth Street leads $830m growth equity round in Caris Life Sciences"
-    excerpt: "Caris Life Sciences announced an $830 million growth equity round, led by Sixth Street, marking its third investment in the precision medicine business. The financing puts Caris p"
-    publishedDateTime: 2021-05-12T13:19:00Z
-    webUrl: "https://www.pehub.com/sixth-street-leads-830m-growth-equity-round-in-caris-life-sciences/"
-    type: article
-    provider:
-      name: PE Hub
-      domain: pehub.com
-    quality: 24
-    images:
-      - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2020/02/PEHub-1.png"
-        width: 1361
-        height: 641
-        isCached: true
-
 secured: "x9ra5enTpG5Ja1kXFTTotQxUUH5l0huybWi48Hf5uDXxstNvchbR4NlBgAfVYBRh78ZqmZ5djwhVRTdVKXTNlaYuNK82bJ/MEDMdw5hkDP9WPb9C2A3CqlDzXOzjkszPqfJ539Of3gI2SweLUHVIc8LKK/mrdWPiAsRXTPa1RGWaqgzEF8wD1EVgddsahfTLfGa+8L2Wjlu6rCag7H3ZqV7tFFjJk3NcK+KxDdc73rcXTPv5y/Iz5I8kkw9kkEBnxPM4UIRNl6qkfb4LrRG3VInj9f/obgiOfnlKkAcNGYkQ1WloIsfu34xev1xtKfz7Som/du76LYAUTR+IoywD2W9J1K/Je9sRB+QNuqHftyE=;/U1eStqQmua3O7vAjmoDYQ=="
 ---
 

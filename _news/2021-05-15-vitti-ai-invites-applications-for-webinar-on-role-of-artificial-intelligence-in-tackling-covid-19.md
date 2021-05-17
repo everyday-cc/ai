@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/05/shutterstock_1764865133.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "COVID caused conversational AI to accelerate, says IBM"
-    excerpt: "Customer care communications have been kick-started into an artificial intelligence application world because of a slew of calls about COVID overwhelming traditional call center operations, according to IBM."
-    publishedDateTime: 2021-05-13T17:33:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/covid-caused-conversational-ai-to-accelerate-says-ibm-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Brian-Loveys-IBM-Think-2021.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "JIv9TCorgsnobL7+baI8IhAhVROS5wJBy8bbHPfQD3jncF0beZETx1sZW3wx5EgaU4rk50glH+QJgIqgHYPE3avG5DZ3cTb4QvoeFCFY92uQY1jXKx3S716qhlJ4dKGSxcfzf7hWOTA2U1ErgrBHWca3G8ZXtz7fO5RE/Cmz+4mjOwuZhWIfV/8CIxXTbV2sspSRoZdQ75nYDoKondIpruaH81mZufwbDIH9TTvY0deomYtAdhBlfpl6GxYHqw4wcXRAd6YcYvmsnMNPGF/7GnNZfjkhxfoq24lhTCUkayqI+239ByTADNv63pOKGRom/Vdu3KU0NAnsaE6ydhsqBaoq2RzXN8Ij3wOl6Aej9MBSuawG4xs3qLCTHlpmpDKP4nCOMMICRKC+pAUxYzR7WEX8E3lR9tHloYvooVwt/j3ylufj4evTQJTAnXGqtS4kWfEuncX8JVxZxwEFEItdbmssn8UhE7R4Kctp2+47dnF0RmQQkuW5cAQxlozM8h9e3xXdHRNvrvhkMQSwSwX7Cw==;V3vsPtWns8ue1rycM5fnYA=="

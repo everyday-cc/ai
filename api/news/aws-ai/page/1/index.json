@@ -63,7 +63,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/371987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -783,58 +783,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "publishedDateTime": "2021-05-05T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
       "title": "Artificial Intelligence and Customer Experience.",
       "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
@@ -1488,6 +1436,58 @@
         "AWS AI",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
+      "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg",
+          "width": 800,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T14:22:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

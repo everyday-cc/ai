@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month"
-    excerpt: "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand"
-    publishedDateTime: 2021-05-12T13:14:00Z
-    webUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/"
-    ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
     excerpt: "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks."
     publishedDateTime: 2021-05-12T16:56:00Z
@@ -67,6 +51,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alphabet Waymo Self-Driving Unit CFO Following CEO Out the Door"
+    excerpt: "The chief financial officer of Alphabet Inc's self-driving unit Waymo is following its chief executive out the door, the company said on Wednesday. Waymo confirmed that CFO Ger Dwyer is leaving the company."
+    publishedDateTime: 2021-05-12T20:39:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-05-12/alphabet-waymo-self-driving-unit-cfo-following-ceo-out-the-door"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
     excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
     publishedDateTime: 2021-05-14T12:41:00Z

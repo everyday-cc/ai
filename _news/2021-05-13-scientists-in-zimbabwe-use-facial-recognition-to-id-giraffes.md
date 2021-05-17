@@ -7,7 +7,7 @@ originalUrl: "https://allafrica.com/view/group/main/main/id/00077934.html"
 webUrl: "https://allafrica.com/view/group/main/main/id/00077934.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "French scientists in Zimbabwe use facial recognition technology to ID giraffes"
-    excerpt: "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this"
-    publishedDateTime: 2021-05-12T13:32:00Z
-    webUrl: "https://www.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes"
-    ampWebUrl: "https://amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/africa/20210512-french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 55
-    images:
-      - url: "https://s.rfi.fr/media/display/f910e0e2-b328-11eb-8460-005056a964fe/w:1280/p:16x9/2021_05_12%20Giraffe%20populations%20are%20in%20decline%20across%20Africa-1.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "French scientists in Zimbabwe use facial recognition technology to ID giraffes"
     excerpt: "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this iconic African species from extinction."
     publishedDateTime: 2021-05-13T08:06:00Z

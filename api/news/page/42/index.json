@@ -2,6 +2,110 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-04-09-appharvest-buys-ag-robotics-firm-root-ai.md",
+      "title": "AppHarvest buys ag-robotics firm, Root AI",
+      "excerpt": "Indoor farming company AppHarvest this week announced that it has acquired Root AI. The deal is valued at around $60 million, with $10 million in cash and the reminder coming from AppHarvest stock. Root AI is a Boston-based robotics startup,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
+      "originalUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
+      "publishedDateTime": "2021-04-08T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
+      "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
+      "excerpt": "Beginners, in particular, will find Luminar AI a useful alternative to the simple image editing tools bundled with most computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/product/luminar-ai/",
+      "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/08/39ee0b69-a1cd-46ec-b8f3-8f7b0f00c758/luminarai-detail.jpg",
+          "width": 770,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/luminar-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/",
+      "publishedDateTime": "2021-04-08T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-ai-helps-zap-mosquito-larvae-before-they-become-a-problem.md",
       "title": "AI helps zap mosquito larvae before they become a problem",
       "excerpt": "WASHINGTON (Zenger News) — An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to ...",
@@ -1087,101 +1191,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-overjet-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
-      "title": "Overjet Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
-      "excerpt": "\"Our industry-leading dental artificial intelligence empowers dentists and insurance providers ... (\"MINDCURE\" or the \"Company\") a leader in advanced proprietary technology for psychedelic therapy, is pleased to announce that it has entered into a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19736935.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19736935.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
-      "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
-      "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help manage student loan debt, in its second acquisition of 2021. New York-based Pillar helps consumers optimize their debt payments by focusing first on student loans.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
-      "originalUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
-      "publishedDateTime": "2021-04-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

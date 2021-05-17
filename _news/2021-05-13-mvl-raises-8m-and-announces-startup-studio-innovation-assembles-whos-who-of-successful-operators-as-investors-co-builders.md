@@ -23,22 +23,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "MVL Raises $8M and Announces Startup Studio Innovation; Assembles Who’s Who of Successful Operators as Investors & Co-Builders"
-    excerpt: "Madrona Venture Labs (MVL), a Seattle-based startup studio, lands $8M in fresh funding and innovates on venture studio model--adding successful operators as investors and co-founders of their spinout companies."
-    publishedDateTime: 2021-05-12T13:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-2cadcce753044dde88a76b597e1956c9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "3wOtAv0V6+4SB/VyNZqD7QR+9fw7M5dd0Et8ufrk2gtNNdu6lBghQPMWg8ZaEYBMbPhgCzDK3zAAoEtAX1i3MTISszjotksf9+66ndhEJCwmHsHNt8hB2j7123xeA8sPCKE37E50reMwV2FldFa/6KLDQuEqeCJ2bs9AnrsAqcXhsMSjS7h7aD5/iFl7dB5jg7yHVHa+1oOb+yen/vQBGpaxI/UYRg9/ddftv8HIMo53qvHVwMi4RJmvQv7YUZSWg0bXY277kJ22l4/Tb4hH1HN9e83e3BSVaPZ9bn5TamdVAUPTBkk0Z65HsvHVTihdHE1V2V0LNmM+Dx8Bvviza+D8n2/nfvKLZBIrizu6RHA=;+t7OsR64vSSZpBa6B7z2QA=="
 ---
 

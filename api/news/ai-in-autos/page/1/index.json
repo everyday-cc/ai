@@ -202,6 +202,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls.md",
+      "title": "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls",
+      "excerpt": "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY",
+      "originalUrl": "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2CT1NJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT1NJ",
+      "publishedDateTime": "2021-05-12T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-elon-musk-tesla-full-self-driving-v9-is-weeks-away-fsd-subscription-about-a-month.md",
       "title": "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month",
       "excerpt": "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand",
@@ -1398,58 +1450,6 @@
         "name": "The National Law Review",
         "domain": "natlawreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
-      "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
-      "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
-      "publishedDateTime": "2021-05-05T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

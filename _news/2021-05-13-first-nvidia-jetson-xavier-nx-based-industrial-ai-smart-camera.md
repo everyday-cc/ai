@@ -53,6 +53,20 @@ related:
         width: 316
         height: 370
         isCached: true
+  - title: "ADLINK Launches Industry-First NVIDIA Jetson Xavier NX-based Industrial AI Smart Camera"
+    excerpt: "ADLINK Launches Industry-First NVIDIA Jetson Xavier NX-based Industrial AI Smart Camera. 17/05/2021 ADLINK Technology (China) Co. Ltd. Compact NEON-2000-JNX series AI smart camera"
+    publishedDateTime: 2021-05-17T04:31:00Z
+    webUrl: "https://www.pandct.com/news/adlink-launches-industry-first-nvidia-jetson-xavier-nx-based-industrial-ai-smart-camera"
+    type: article
+    provider:
+      name: Process Control Today
+      domain: pandct.com
+    quality: 31
+    images:
+      - url: "http://www.pandct.com/uploads/news_images/ADLINK%2017521.jpg"
+        width: 899
+        height: 603
+        isCached: true
 
 secured: "Tvped+qLtal8tSTz2pSDZegy4JEKSrre0lIrFbZJRUHZhXanTmb6CleBqtmCXoIqlnxMEBKkIuvBhHAduf2ISS4cDn/TxdRiUUV+pHcphnixonYq+4y9lubo2csQDlytO4A4VrVzymVEso4wJUgnrfPkPUgUwWw5Rp++Vu5AVSMu18Jp/TLZ5d3OMUkyP1oZsOq0LdENZpo7cKgJC3ROCms9E+59oH9KIwkdsLTTZFyDEQW1gN6o9vo58yHSZrgmd8kGGXDx97v381pxqU8MKbDcVn3TG6tLy11btygtpVs+D5l6wxTlzhRqXK+nSLgS5oOy6puxKGfGovnW6i14KmKy/a3eU9bgKEIDb9Hvn7Q=;m7ltPaxvzGjrQ6lrPcdP/Q=="
 ---

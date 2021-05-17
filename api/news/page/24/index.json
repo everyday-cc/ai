@@ -2,6 +2,109 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-25-natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027.md",
+      "title": "Natural Language Processing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027",
+      "excerpt": "The global “Natural Language Processing Industry” is expected to rise with an impressive CAGR and generate the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-25T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline.md",
+      "title": "You need to be constantly exploring the data in your AI pipeline",
+      "excerpt": "AI algorithms will do most of the heavy lifting, but if humans aren't doing critical upfront work on the data, your models will fall short.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
+      "originalUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
+      "publishedDateTime": "2021-04-25T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
       "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
       "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
@@ -1095,92 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-baidu-geely-plan-77-billion-smart-car-push.md",
-      "title": "Baidu, Geely plan $7.7 billion smart car push",
-      "excerpt": "Zhejiang Geely Holding Group, aims to spend 50 billion yuan ($7.7 billion) over the next five years on developing smart-car technology. The company intends to hire between 2,500 and 3,000 staff for the project over the next two to three years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/china/baidu-geely-plan-77-billion-smart-car-push",
-      "originalUrl": "https://www.autonews.com/china/baidu-geely-plan-77-billion-smart-car-push",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/jidu.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel.md",
-      "title": "Machine Learning Chips Market Size and Latest Trends & Advancement From 2021-2027 | Wave Computing, Graphcore, Google, Intel",
-      "excerpt": "Machine Learning Chips Market report provides results and potential opportunities and challenges to future industry growth. Market Report acts as a valued source of information with which businesses can achieve a telescopic view of the current market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
-      "originalUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breakout.live/wp-content/uploads/2021/03/report-1.gif",
-          "width": 540,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

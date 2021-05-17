@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-09-why-baidu-stock-jumped-206-in-february.md",
+      "title": "Why Baidu Stock Jumped 20.6% in February",
+      "excerpt": "Baidu has been one of the most aggressive early players in the autonomous vehicles space, and the potential to integrate its strengths in self-driving vehicles with growth initiatives in the EV ma ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/f550fbfbb329df6fd882bebead2c0e63.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "publishedDateTime": "2021-03-08T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-should-we-all-wear-sensors-to-avoid-being-run-over-by-driverless-cars.md",
       "title": "Should we all wear sensors to avoid being run over by driverless cars?",
       "excerpt": "says a team of researchers that has created a device to make people more visible to a vehicle’s artificial intelligence. Self-driving cars rely on visual sensors, which can be blocked by fog ...",

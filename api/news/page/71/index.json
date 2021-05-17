@@ -2,6 +2,101 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
+      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
+      "excerpt": "Learn more. Amazon today launched SageMaker Reinforcement Learning (RL) Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "publishedDateTime": "2021-03-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver.md",
+      "title": "PGA Tour signs up with AWS, looks to AI as engagement driver",
+      "excerpt": "This is the first instance CloudTech has seen of such nomenclature, and conveys an especially deep interest in products such as Amazon Rekognition. Like many other sporting clients, the PGA Tour will look to migrate its archives and annotate it – in this ...",
+      "sourceUrl": null,
+      "webUrl": "https://cloudcomputing-news.net/news/2021/mar/02/pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver/",
+      "originalUrl": "https://cloudcomputing-news.net/news/2021/mar/02/pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/steven-shircliff-N21z4eG8aKg-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Computing",
+        "domain": "cloudcomputing-news.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-artificial-intelligence-and-cognitive-computing-market-next-big-thing-major-giants-microsoft-teradata-ibm.md",
       "title": "Artificial Intelligence and Cognitive Computing Market Next Big Thing | Major Giants Microsoft, Teradata, IBM",
       "excerpt": "Artificial Intelligence and Cognitive Computing Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.",
@@ -1039,102 +1134,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027-future-market-insights.md",
-      "title": "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights",
-      "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a positive outlook on the global medical bionic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
-      "title": "Google’s deep learning finds a critical path in AI chips",
-      "excerpt": "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png",
-          "width": 2074,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "publishedDateTime": "2021-02-28T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]

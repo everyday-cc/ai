@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-19-talking-innovation-and-company-growth-with-amazon-web-services.md",
-      "title": "Talking innovation and company growth with Amazon Web Services",
-      "excerpt": "In the first of our series of three Q&As with Roldan, we hear about why he’s so excited about widening access to machine learning, how AWS helps startups grow through access to the cloud, and how social shopping app Depop used an Amazon data lake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/",
-      "originalUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.maddyness.com/uk/app/uploads/2021/04/Untitled-design-2.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/?amp",
-      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/?amp",
-      "publishedDateTime": "2021-04-19T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Maddyness",
-        "domain": "maddyness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
@@ -1301,6 +1258,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-cloud-data-warehousing-understanding-your-options.md",
+      "title": "Cloud Data Warehousing: Understanding Your Options",
+      "excerpt": "Cloud data warehouses have emerged as the go-to repositories for amassing huge amounts of data and running advanced analytics and AI upon it. This is",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
+      "originalUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/cloud_database_shutterstock_Blackboard.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

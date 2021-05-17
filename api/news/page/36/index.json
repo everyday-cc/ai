@@ -2,6 +2,83 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-04-14-systran-brings-epic-translations-in-as-a-value-added-partner.md",
+      "title": "SYSTRAN Brings EPIC Translations in as a Value-Added Partner",
+      "excerpt": "Whether it is securely in the cloud or on-premise, or in any of our 335 language and domain combinations ... \"We recently field tested our AI + Human translation solution with one of the leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/systran-brings-epic-translations-in-as-a-value-added-partner-301267964.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/systran-brings-epic-translations-in-as-a-value-added-partner-301267964.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-ai-chip-maker-sambanova-raises-676-million-valued-at-over-5-billion.md",
+      "title": "AI chip maker SambaNova raises $676 million, valued at over $5 billion",
+      "excerpt": "SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised $676 million in a funding round led by SoftBank Group Corp’s Vision Fund 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/ai-chip-maker-sambanova/",
+      "originalUrl": "https://www.metro.us/ai-chip-maker-sambanova/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-nvidia-partners-with-uber-volkswagen-in-self-driving-technology.md",
       "title": "Nvidia partners with Uber, Volkswagen in self-driving technology",
       "excerpt": "LAS VEGAS: Nvidia Corp will partner with Uber Technologies Inc and Volkswagen AG as the graphics chipmaker's artificial intelligence ... in San Francisco by rival Waymo alleging trade secret ...",
@@ -1042,94 +1119,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
-      "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
-      "excerpt": "Scientists from the Max Planck Institute for Molecular Genetics (MPIMG) and Institute of Computational Biology of Helmholtz Zentrum München have identified 165 new cancer genes using machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "originalUrl": "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/758247/artificial-intelligence.jpg?w=570&h=380",
-          "width": 570,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "publishedDateTime": "2021-04-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-releases-ai-training-library-zero-3-offload.md",
-      "title": "Microsoft Releases AI Training Library ZeRO-3 Offload",
-      "excerpt": "Microsoft recently open-sourced ZeRO-3 Offload, an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters on 512 GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
-      "originalUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

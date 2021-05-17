@@ -2,6 +2,101 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-13-doubling-down-on-ai-microsoft-to-acquire-nuance-for-197b.md",
+      "title": "Doubling down on AI, Microsoft to acquire Nuance for $19.7B",
+      "excerpt": "Microsoft Corp. will pay $19.7 billion to acquire Nuance Communications Inc., a company that uses artificial intelligence to help physicians create medical notes faster. The hefty price tag of the transaction,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/",
+      "originalUrl": "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft.png",
+          "width": 768,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-nvidias-grace-ai-chip-leaves-intel-processors-behind.md",
+      "title": "Nvidia's Grace AI chip leaves Intel processors behind",
+      "excerpt": "Subscribe to CNET Now for the day's most interesting reviews, news stories and videos. The new chip should let AI customers run computing tasks that are vastly more complex than is possible with today's chip designs, a step toward the general artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "originalUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/0xKtTu7axsZ2jSmw7JvDg6sWLIY=/1200x630/2021/04/12/80c1b4b1-4ff2-4ee2-bb6a-8b6b81c5b60f/nvidia-grace-processor.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "publishedDateTime": "2021-04-12T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-nypd-used-facial-recognition-to-bust-their-own-cops-for-drinking-in-uniform.md",
       "title": "NYPD used facial recognition to bust their own cops for drinking in uniform",
       "excerpt": "The New York Post reports that the NYPD’s Internal Affairs Bureau ordered the use of Clearview AI’s facial recognition software on two cops who were drinking on the Long Island Railroad before ...",
@@ -990,92 +1085,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-whats-going-on-with-nuan-stock-msft-stock-and-pt-stock-today.md",
-      "title": "What's Going On With NUAN Stock, MSFT Stock And PT Stock Today?",
-      "excerpt": "Nuance Communications Inc. (NASDAQ: NUAN) shares are trading higher by 16.7% at $53.19 Monday morning after Microsoft Corporation (NASDAQ: MSFT) announced it will acquire the company for $56 per share. Nuance provides conversational and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/04/20579932/whats-going-on-with-nuan-stock-msft-stock-and-pt-stock-today",
-      "originalUrl": "https://www.benzinga.com/news/21/04/20579932/whats-going-on-with-nuan-stock-msft-stock-and-pt-stock-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_67.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20579932",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20579932",
-      "publishedDateTime": "2021-04-12T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-travelcenters-of-america-opens-6th-wisconsin-store.md",
-      "title": "TravelCenters of America opens 6th Wisconsin store",
-      "excerpt": "Golden Oil Osseo Truck Stop off I-94, between Madison and Minneapolis, is converting to a TA Express through a franchise agreement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/news/press-release/21160910/travelcenters-of-america-opens-6th-wisconsin-store",
-      "originalUrl": "https://www.fleetowner.com/news/press-release/21160910/travelcenters-of-america-opens-6th-wisconsin-store",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/dreamstime_l_109107157.607449e2b6375.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

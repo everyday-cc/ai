@@ -2,6 +2,101 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
+      "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
+      "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
+      "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg",
+          "width": 400,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20796180",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180",
+      "publishedDateTime": "2021-04-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups.md",
       "title": "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups",
       "excerpt": "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to preserve digital stories and",
@@ -1075,109 +1170,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027.md",
-      "title": "Natural Language Processing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027",
-      "excerpt": "The global “Natural Language Processing Industry” is expected to rise with an impressive CAGR and generate the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline.md",
-      "title": "You need to be constantly exploring the data in your AI pipeline",
-      "excerpt": "AI algorithms will do most of the heavy lifting, but if humans aren't doing critical upfront work on the data, your models will fall short.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "originalUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "publishedDateTime": "2021-04-25T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

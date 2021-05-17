@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-17-robotics-company-embodied-acquires-conversational-ai-business.md",
+      "title": "Robotics Company Embodied Acquires Conversational AI Business",
+      "excerpt": "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/",
+      "originalUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
+          "width": 670,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-how-ai-in-finance-is-transforming-the-way-we-interact-with-money.md",
       "title": "How AI in Finance is transforming the way we interact with money",
       "excerpt": "AI-based consumer technologies are making payments more convenient, easier and frictionless, and the whole experience more personalized.",
@@ -534,7 +577,7 @@
       "originalUrl": "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -923,7 +966,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/371987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1160,58 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-how-asset-management-firms-can-use-ai-for-data-analytics.md",
-      "title": "How Asset Management Firms Can Use AI For Data Analytics",
-      "excerpt": "Artificial intelligence is transforming the asset management industry by enabling fundamental analysts to research and extract more information faster so they can uncover accurate investment insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d63b3c54978bb11535422%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
-      "publishedDateTime": "2021-05-14T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

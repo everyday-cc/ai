@@ -25,63 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Vitti AI Invites Applications for Webinar on Role of Artificial Intelligence in Tackling COVID-19"
-    excerpt: "Vitti AI has invited registrations for a webinar on Role of Artificial Intelligence in Tackling COVID-19 to be held on 16 May at 6 pm IST"
-    publishedDateTime: 2021-05-15T08:45:00Z
-    webUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
+  - title: "Robotics Company Embodied Acquires Conversational AI Business"
+    excerpt: "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans."
+    publishedDateTime: 2021-05-17T07:07:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 61
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 69
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 670
+        height: 376
         isCached: true
-  - title: "IBM uses AI to create intricate COVID-19 map"
-    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
-    publishedDateTime: 2021-05-12T21:17:00Z
-    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
+  - title: "16 Credit Unions Invest in Posh, a Conversational AI-Focused CUSO"
+    excerpt: "Sixteen credit unions have invested in a new CUSO partially owned by the Boston-based fintech Posh Technologies, a provider of a conversational artificial intelligence product suite comprised of website and online banking chatbots,"
+    publishedDateTime: 2021-05-12T17:44:00Z
+    webUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/"
+    ampWebUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
+    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/10/chatbots-e1571917675670.jpg"
+        width: 620
+        height: 413
         isCached: true
-  - title: "The Role of Artificial Intelligence in Fighting COVID-19"
-    excerpt: "Artificial Intelligence (AI) has from the very beginning of the pandemic been busily working behind the scenes"
-    publishedDateTime: 2021-05-12T18:53:00Z
-    webUrl: "https://www.wipro.com/blogs/radha-vuppalapati/the-role-of-artificial-intelligence-in-fighting-covid-19/"
+  - title: "Artificial Intelligence enhances companies'' operational agility"
+    excerpt: "Artificial Intelligence (AI) is witnessing rapid growth in Qatar and most of the ministries and other organisations are planning to expand it in several areas. As of now, Qatar is in the growing stage"
+    publishedDateTime: 2021-05-16T11:56:00Z
+    webUrl: "https://menafn.com/1102086228/Artificial-Intelligence-enhances-companies-operational-agility"
     type: article
     provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/blogs/2021/images/newimages/og-the-role-of-artificial-intelligence-in-fighting-covid-19-i-1251892829-502x263.png"
-        width: 502
-        height: 263
-        isCached: true
-  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
-    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
-    publishedDateTime: 2021-05-14T09:24:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 39
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/05/shutterstock_1764865133.jpg"
-        width: 1000
-        height: 563
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?884746"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "bNsHsdtp4DsdeBIdZ2hkOynlJK6l+pXbzuF1m6QTYdxuIb/mtGPQ3TahvCnqp/VDwvhi7CKekzGB+K2rSYW9zvbJ+mrGjtLEsYngx6K1P6HuPFfw9NUgnH0mqXG3iJX/aDnmJVOcnBDp7BCDzReZvacjBZbhA3LhJT+19+xINqsGzp9PEO+1UkCp1tn+WgEdsgaGTb+KIClq7loOHim4oXxxtAnehyw15qJbr8HdHm2ZN07/T9nWdB7GhK4sqxkBurWDBucM2r95EriJ9uBiJk0v7EKStTNup8wJltf2PSmcDz9g3gsPyKFDCEP7yM/tvd3C62lb427teCSvLUkCNmRPEYUsrtO2ur/1uHzaRoc=;NCXzn2sVJB6uqajXYevcbA=="

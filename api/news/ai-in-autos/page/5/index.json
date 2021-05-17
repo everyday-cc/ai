@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-19-fatal-tesla-crash-in-texas-believed-to-be-driverless.md",
+      "title": "Fatal Tesla Crash in Texas Believed to Be Driverless",
+      "excerpt": "U.S. safety regulators are probing crashes involving Teslas, suspecting the company’s Autopilot system might be involved. WSJ’s Robert Wall reports on how some motorists may mistakenly think ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "originalUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-326717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "publishedDateTime": "2021-04-18T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-2-killed-in-driverless-tesla-car-crash-officials-say.md",
       "title": "2 Killed in Driverless Tesla Car Crash, Officials Say",
       "excerpt": "Artificial Intelligence Microsoft Technology Economy Real Estate Sports Seahawks Huskies Cougars Kraken High Schools Mariners Sounders Snow Sports Geoff Baker Matt Calkins Larry Stone Bob Condotta ...",
@@ -1293,58 +1345,6 @@
         "name": "Automotive News",
         "domain": "autonews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
-      "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
-      "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
-      "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
-      "publishedDateTime": "2021-04-12T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

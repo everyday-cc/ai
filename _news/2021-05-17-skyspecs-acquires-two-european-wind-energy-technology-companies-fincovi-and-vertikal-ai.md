@@ -1,28 +1,29 @@
 ---
 category: news
 title: "SkySpecs acquires two European wind energy technology companies: Fincovi and Vertikal AI"
-excerpt: "SkySpecs, a global leader in wind energy technology, has acquired two of Europe's premier wind energy companies: Fincovi, a leader in"
-publishedDateTime: 2021-05-17T04:50:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/skyspecs-acquires-two-european-wind-energy-technology-companies-fincovi-and-vertikal-ai-845286589.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/skyspecs-acquires-two-european-wind-energy-technology-companies-fincovi-and-vertikal-ai-845286589.html"
+excerpt: "SkySpecs, a global leader in wind energy technology, has acquired two of Europe's premier wind energy companies: Fincovi, a leader in financial asset management, and Vertikal AI, a pioneer in predictive maintenance for wind energy."
+publishedDateTime: 2021-05-17T04:18:00Z
+originalUrl: "https://www.lelezard.com/en/news-19807738.html"
+webUrl: "https://www.lelezard.com/en/news-19807738.html"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1510800/SkySpecs_Acquisition.jpg"
-    width: 400
-    height: 300
+  - url: "https://www.lelezard.com/img/pr_sections/oil-industry.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "LZlmaVePuzjwbWiBiQ40olV8GAMN37XISTLm1rX4dkNzO62qcS5Sr000Vp0koHtPbadkXa0AV9EXZ6ewe4Fu0R35sXlvbaYKypdQy56y4Jz+a0eihe5pXf5B7/+z8BV3mrmmdxYXf237qbqGbpe8+EppKFtsw42Pbd1MEEcB+bIkFHYDT2fw4e9uhFe6fJwdVts63wvIUuM9T+3vUdEhN14LYowXadE2mEne+ZChxPMCSJ65AmVZR4lE0SFkbHS8paawFWHZGWGGzne42AdprwQwQ7Yu79rOHqYkhgke24yH6yHQVughl9afmGwPgxOgkx1mBDdsBgg2T8eV33Km6HzcTjUimMr/OlBTumLGdmY=;8SKSIcsjg659oscZ9/WOKA=="
+secured: "BizcfB/dFs51kQCZLPVJuotjUEqvu+NYqrGPuzTpGJmbnENVdRqMvaZpn6iI9ZORR9niYGa1TEN8jNpmL1LYAqfr+p2XKYb+XZbVPXzEO84P/YqwMyTU4Cz2nsf9ibTf8xGT78xIa1IojzNLOLaoZAC7u1eZ0vKs2mNJ13MDcCDyKD972Ud9pVOMJ6x0HIVqyLyp22H2hr2vGglYb0u2dGxBKGip/vS4gYcREdNvjY19ZKflgdxw4PYWEGLhEstjX0EdVayI5DKLgwYlQUWTb8e3X4eHmGLr7kl0v9Rt65SGyF0HDA5VC0A+GZq2ZUZoYAXl7Fm2pUCR3NnMgfLLuq7XKiI8vYVw+qzMbTibxpg=;NKzq5BQ8pI0XqpjVvJV8cA=="
 ---
 

@@ -51,17 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "WIMI Uses AI Vision Combined with the Black Technology of Holographic Intelligent Driving, Revolutionizes the Field of Unmanned Driving"
-    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Uses AI Vision Combined"
-    publishedDateTime: 2021-05-12T13:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21082876/wimi-uses-ai-vision-combined-with-the-black-technology-of-holographic-intelligent-driving-revoluti"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21082876"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21082876"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "DRNnq9l91IZ99rpKMnEgMW/DVCq2AjjbYXrFaXTc8VcsN7+BdXeZeh0l5mFIsGMTJnDnBoJ1D1FNAy1C16q+rDOssAqdo5+xZ/rLHlItUKKoa3JKsTN6ugFzd7znQZMxuRkJeATi8BXxzaWdbmDgBHAo8VmdzEwpmflggLlgCjr+lS6mhsKrsblflEOjOJQ4PY21CCYsW8vUcBg+7Z2uVuHd2gUSsTWkehmpbZyOu7ABHaFZPt7cLbcDcLK+P5GiM8kBbs2Fww2EUPOV+I4QlscgrjPeaD4DNvvp1Z7q0xESvl7X9AM4N1/LAr+bbMMLeovGp5hvyK71jfTqZfN4MlO0fkEuJ8thimYSlavQC0AzX7L01GwmyqZL0oox5wymAZ3Ot29MQw0ZVTwiszQ/qN/tGyTULa/ImTc2HXdPQdtoWf+pBOIfjjo7yaXDli3M8mnNP3d7d5E5RutMrHlMWAE2hKonU1HnsNJQJBouJ56aPxTitDl55AWTejsxrWT+jdbyhrRRe24Xrs1tMTEJCA==;gh4EGI2yuJ6l9Jm0uceqvQ=="
 ---
