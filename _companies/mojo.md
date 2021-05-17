@@ -2,7 +2,7 @@
 name: "mojo"
 overview: "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.mojofertility.co/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "1X8Wld5G/UqFJE0w5jEyUjuZW04FtkUWCWb1T9xwhE/SUDOiLD70Xh6Or8F/Or3LxjdfdYLg4RlptaWPze1xwEcwFPGe/vlE92GR4SaUPx/r7/zpc7GCR81c66eAiQkjs+rqqL0K/USZn9lsw2buUR3RNUevfzymwFt/ic78RR5B+2YFz2YEkpV7C2gk+pNm2suanLnCEymZyJ9cXtApG3QWQ8Gwz1/HrbbZRUtUY2kZtsxE2emFmu10I5WblLNE4e62O5noOFUZxhTZgkatv30iz1sSUUdMcSnbdJxBOaucDVptbyLX7oU0dH898GA3aiH99+a3ubuLRhiKq58MusQsYkJm4ggiJSK/Ppc8o6v6Z0nsg58LPOKKvjSCYqVq5ESASb3HVwhFJbRmIRAfGg==;/FUbYBe6/dYogrg5bF6Bmw=="
+secured: "N0zJd4IugbYE9TM/anDSn0Bq8CD8rBbUxGcuSqYDbk9xQQC8nKz6gMaRWWs0cLtyuT0+r17W0bGwBNu3LZ3Wuhhy7tHByEDBvSeJSEqYOojtrl3pNdtl+rAZapBChjLPCSlnyq64bbZ8ZfUSTPSn/exHjIHFoymvkIQwEZC/0BUSwlOgo/D0ICffJwKCpADHevjq1tq12MmrYq/kpDqpIvB+TzEaJTlHJ+duWMBDuYOIDkmlVL7+/1UYDNa2mYYhWTDSKDyEtg/m5WE/NKCoR8joBTe93rod3AQUn55Xs6pz4SJ/4fryvPPXQzVzuejdmyKPX29mU1vEwuksufZZpprDOWA5bqy5zZAM1vwhblv0C37kZRvY0L+QXofqSRg3kB3Nb4tikz9ObvyJFw2ufQ==;lhO4/EtvBG+VcDOfRaTZXg=="
 ---
 

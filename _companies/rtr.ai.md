@@ -2,7 +2,7 @@
 name: "RealTime Robotics"
 overview: "Realtime has invented a specialized processor for generating safe robot motion plans in micro-seconds, enabling robots to function in unstructured, collaborative work-spaces, reacting to other motions as soon as they are perceived"
 type: "profile"
-heat: 57
+heat: 58
 
 website: http://rtr.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "realtime_i"
   url: "https://twitter.com/realtime_i"
-  followers: 968
+  followers: 969
 
 size: 2-10 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
 
-secured: "tuNTNmrcpjUVvLJ7ioAaJNmosn35FLGEWU2I0DQfWaayAAzv9Smm+ibYH0l7ZStCbcOEuGC18QLkX9up60nygeYEkpyLHd1dWz6fleLnxFKe7HiLBFGJrbc+HFDnM2TtZ4mgqZ1KbQGXtonEeDk1J13BksLDbufP4daID6Cp4tax7QgO/+sDCrDhS6wolPYjQPsvQJOlK2WvseYOXO8CVYfLap7BlUlI80DDYk9vmwX6oSAR1TCHVdvC41F2oAApqAZAmlhnqD+WqXY2grqjmCp7Tof7rDUVUFjUN3reBUbKPt6ByOF95XDz1kKoeiYXreqe8oc6Ew7U6wrgZXMK6cX9Fo5oqY1TDQMMNmj3bDMd+jKUn/K2BO1MqUFrhoOWhUQN3qER15flHNSLt4ZWHA==;QUHHOc8n+X//v5kw24fgnw=="
+secured: "jNB5+xzRjGHbQZ1gFh/M0+VnIu40Br+qBtblXONQtSUvKAaPG1M+vBouTkYEyuA85FR7TT+ZJfP4AZB0NOxKPNPHNkdm5ziqs/ZZs11zU4V9FyDfi5KHDjFJumGSACTIK+yyD8zOTWQBA8tis6JWrvWpuJEyl70jtyahb36Qr4I4fxEbEyEmy+laaZlZSKYQkmzNhCAngalIoX+5s3wzvjEWi6sA3xkBSTsS08hfGwczUmioL8E4yd+khmrKfAMmQZSLzK867AOZsGpIMgttfFhq8Mpb+2GEbwYGzHDbfWVfYcQQtAFblffhkyeVddLyV2UwWXDy6iaATN3kq9pkwFfj3kh1OuuuxaFpjUxnhkPfZ/NiZ4+IyOuYDphngc6YHSE71vIxH5jTbjkSUOEIlw==;apeFMRY3qJMW/jRcyI7nZA=="
 ---
 

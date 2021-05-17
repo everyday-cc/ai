@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 57
+heat: 72
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "cR5ka4GdUqWUWrYI0aWemmIK6IAReFHOqALxfyRh7Y1FpyLo3x/tDfiriznJEIO6BeLViV8u668tWeePMCcxcDy34AZSXUesE5QOVRsa9U7J6mkiDuLXgMLwcXvQ8PJ6T4ldkbin8BleDm98jEBg3i8Z4+1zCA48oUMFTsXM/ozFdOpZEGrnG6E9S0NeS4dr9gYyTeFjb8pm28ArmbaAIJcaUZu6oCAzlpOIs+S0MSlV6YTJ1nPZvQxhyljdAg8WesXvv/OOx9TkJBbzjE7DOVD+BOSAtqEr1WGU3RWpRO/t5W1sMd4EQAj3kyhEqX1DejnzBzOnkBVM4DKgkvB5aAMVWYOrFeTHcRIy0yNeRPeJ8Mx2gpipodMcTk/Aa7bdrjosIMINwO0eOib5LLC+1w==;Iuk5lqrc8sF463B7aRGIew=="
+secured: "qIlQ9JXTiY8W2Sk5suuIGCH1itxprXgSBS9MrNm150SNPV9aNLydlTkcw5DUfGKjE+3+3XepN7y+I+3PgwyMBjnedZtlx+WmJHKB9nI0YYnv4cwk5vwTxde3JEwwRx/nnufIgpBHLw6CutQ+tIopLJpC09S3ie76L8XfcJ2t+Wqh37SFE/NScoVrrFEL/IY89t7yaTGYG9sBOeUExLX/61Ioh/30oNLkIXocHqnDXlL2iib/vEsSRgqRDSSwv/cMKqHC4NQutGbKxNaDKR7mSh1Yi22xLg5rPuTgCKoba2nLP53nC75Tl4ZjnzaAWmriUDP+OW7SLa9xM676jmJNz8hY9h8cu8MtREOyY9Y3Ib7QxHzpiiNrljz4O3ojeFSN2/O1qjMhfKRjtM17hJtv5Q==;L5VVQtcmTa74p0sZwljg0w=="
 ---
 

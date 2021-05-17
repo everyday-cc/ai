@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dataminr"
   url: "https://twitter.com/dataminr"
-  followers: 15150
+  followers: 15151
 
 size: 201-500 employees
 yearFounded: 2009
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "lVtu9jm96eohsZHSgSy7l60Q7iCv2u9sxkpDdw7pBFQZwaCNIG5iPMaPPpdMLI5XLNFzGDVTXTAz4wNJ6dzsUResNXb3XesniWszsO1b02jBTyZWbvr42f+uAJfcrjaPsRi8cvsRaeiR/kqo0wGpl5xNRdcul8STTaEcxbfC6P7mfFgttUuywGv6JNuVD91AhUWDoauz4/YhM9G6R4Kgx7u/hLsNx7/23kVCMQo21jULsvBZSjQzvCCNxUlvr6uS5ycZI2m6Du3x2cWIdUNxlmVXfvdoTM7lp2DR4Zw90I8x+3zi5nEOsSmP9MGFk+6rVewvSxbCozlF4E7scgKXWZjlqd9tqtMqBODqlWJS59am1OvRa9GPL+Rm6iJ9k61fSvBwOCvbliLQbhXn/RiS1WCvpagRGmqt3rOPwJGtgRo=;gsZsZAXLJqjKJN6RB2gzfQ=="
+secured: "8gjAWFKd1XZtOO/be/4+3Q1rFBhyq9HSdhD7gf1AHzWX60SvAmiz9NE1yxKx3QBLnoZ6sto0GWdA0PMVfeZ/E1n12sTktQ+mcVoxGuQG6QZKsBL7+hNqaI9qvaCfQDJ/7oTqR0L5PHmPtD48xNIzCLwIBE6YKy8Ah7meiC+opZu5DPkyjNB8FoUr0IuEF7PSo7nL8W/TRpkDIP8T7vNR9uepyArAXGlYv45Cw54g8jttAMIw6X9Jbhui5xup0NVHYYArplwhr1izMLDKs9K6LjpxubT5gXXqqvIJyXZcXUOMuR3OX22IvmdJs8zIE9GEB+yYfeZZ/25WGlARIf6ZWfNX8u3cW3k6V+E7qHws2h9Hn3dciNV3NSp1cIkc8XH0DjF3lygpwglM25FQFOirmxwdCYg0Q03TqEHnIvtNeTU=;UhM+7sN32sMDgdXGgDGYoQ=="
 ---
 
