@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "narrativesci"
   url: "https://twitter.com/narrativesci"
-  followers: 7270
+  followers: 7269
 
 size: 51-200 employees
 yearFounded: 2010
