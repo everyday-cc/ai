@@ -41,6 +41,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Researchers call for bias-free artificial intelligence"
+    excerpt: "Clinicians and surgeons are increasingly using medical devices based on artificial intelligence. These AI devices, which rely on data-driven algorithms to inform health care decisions, presently aid in diagnosing cancers,"
+    publishedDateTime: 2021-05-17T19:02:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "AI can now detect sarcasm in social media"
     excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
     publishedDateTime: 2021-05-14T12:36:00Z

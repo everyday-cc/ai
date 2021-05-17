@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/1
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d594a890b77977267fd9a%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How AI Vendors Can Navigate the Health Care Industry"
-    excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
-    publishedDateTime: 2021-05-17T12:25:00Z
-    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The Role of AI in Improving Employee Health"
     excerpt: "Employee Wellness is one area where the application of AI has demonstrated its immense advantages. Powering wellness solutions through AI has helped employers create better employee experiences. Furthermore,"

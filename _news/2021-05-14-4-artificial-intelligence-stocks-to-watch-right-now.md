@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1920
         height: 2400
         isCached: true
+  - title: "Precise Touchscreens, Thanks to AI"
+    excerpt: "A new artificial intelligence technique more precisely estimates where a finger touches a mobile phone screen, to reduce typing errors."
+    publishedDateTime: 2021-05-17T19:28:00Z
+    webUrl: "https://cacm.acm.org/news/252647-precise-touchscreens-thanks-to-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "s3fT1mM7tWf9sXDNG8eh9hoNNkBc5cj24g0/GMIamJpp157eLabuSqtKdNB4JuR8/MpO//6t8gddmQW5v8AFzTg38wOvmh+ZWWK8zcyzBIxr6kwGEmlNuhq3ja85/5+h6EpEXzTu7RzAyE9gTi1jk6ItEoN93gIszELGtXbY9KmEOED6kY9+OVFzsQbpka3eemN0Kg0v+YQJYxee5/lqvBgUfc+v30LXbOWZbJNp3qbQH+lU2wHuzxbcovu7F1p1oAVJLSBRs+5tp4Szh10koj/3V6FOagce8sgbUTdm1eAAVEehzqLnQDI/8p+rM9ltRU5VvJpqvp+yniJLQGzx7coQ3UJ1j8h7+0K8y1rL64RWb3A1GxIsNgv3RRGKo74c9UU/jUzpHmMWS/BfktCVhMZzufZdv4Z8vA5O9N3bWTOseFswDVrgQfbJI6luRsgIoNbinfAc6wby3/W1OcWhLkkkoiZP/54R9xBspZGLLZr14OV7RdDvNaeBlfDSlE4UDH8f5hRfpeVL6UTrhNx5Hw==;bj61+7ETzeghLhvQDqv/eQ=="
 ---

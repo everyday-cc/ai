@@ -51,6 +51,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality\"."
+    publishedDateTime: 2021-05-17T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21156605/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-ficti"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21156605"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21156605"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
 
 secured: "DRNnq9l91IZ99rpKMnEgMW/DVCq2AjjbYXrFaXTc8VcsN7+BdXeZeh0l5mFIsGMTJnDnBoJ1D1FNAy1C16q+rDOssAqdo5+xZ/rLHlItUKKoa3JKsTN6ugFzd7znQZMxuRkJeATi8BXxzaWdbmDgBHAo8VmdzEwpmflggLlgCjr+lS6mhsKrsblflEOjOJQ4PY21CCYsW8vUcBg+7Z2uVuHd2gUSsTWkehmpbZyOu7ABHaFZPt7cLbcDcLK+P5GiM8kBbs2Fww2EUPOV+I4QlscgrjPeaD4DNvvp1Z7q0xESvl7X9AM4N1/LAr+bbMMLeovGp5hvyK71jfTqZfN4MlO0fkEuJ8thimYSlavQC0AzX7L01GwmyqZL0oox5wymAZ3Ot29MQw0ZVTwiszQ/qN/tGyTULa/ImTc2HXdPQdtoWf+pBOIfjjo7yaXDli3M8mnNP3d7d5E5RutMrHlMWAE2hKonU1HnsNJQJBouJ56aPxTitDl55AWTejsxrWT+jdbyhrRRe24Xrs1tMTEJCA==;gh4EGI2yuJ6l9Jm0uceqvQ=="
 ---

@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Growth Opportunities in IoT, AI, and Machine Learning-Based Security, 2021 Market Report - ResearchAndMarkets.com"
+    excerpt: "The \"Growth Opportunities in IoT, AI, and Machine Learning-Based Security\" report has been added to ResearchAndMarkets.com's offering. This TOE provides a snapshot of emerging cyber security solutions powered by IoT,"
+    publishedDateTime: 2021-05-17T12:11:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210517005792/growth-opportunities-in-iot-ai-and-machine-learning-based-security-2021-market-report-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 30
 
 secured: "IO7wloR94ChD2CLOOED++xO/LPo6QbwInGwXi2Ha96VSuyOHGkcHDlAHeTS/kjRUDyr+UIXLt8XU9SXu3UxuPtXAUMPVidkg6DMThArcdc8qtaEpEppHFkHeqV9kLSGa4oBDjEnKUvBIyCHJU3lRECQICHWmUq6wORLQ8rdr/q41ZhJ3duAsS3i8wzqRdRQPFL0Rvf6vr/q7xPt3okkLKLB8nHsLHl265V4TtV7HL/ufTR5zKsCMpqC4Ynjl7oXtWRlK6/nVPTyDCTUpwLXiJsWbSk77tpMc9WeKZJPyuQSbZHHTwzMzDK4j+BpffER5mZGVpVFVAbxNiuF5JoKpiDMGios14jfve82V93zTgTQ=;IgDuvDLyNAidFdvexqMJuA=="
 ---

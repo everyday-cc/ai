@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy.md",
+      "title": "inSearchX Partners with Strategic Visions Using Machine Learning to Help Customers Find their Ideal Car With Uncanny Accuracy",
+      "excerpt": "Startup inSearchX and advisory services firm Strategic Vision announce they have partnered to deliver an exciting vehicle-matching technology that pairs new vehicle shoppers with their ideal vehicle match.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
+      "originalUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
       "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
       "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini.",
@@ -1203,51 +1238,7 @@
         "AI in Finance",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-03-01-home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems.md",
-      "title": "Home Lending Pal leverages AI and machine learning to efficiently solve lenders’ and borrowers’ problems",
-      "excerpt": "Home Lending Pal (HLP) has an anonymous marketplace that uses conversational intelligence, machine learning and blockchain ... like to work with based on service quality and approval likelihood ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
-      "originalUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.housingwire.com/wp-content/uploads/2021/02/AdobeStock_290218047.jpeg",
-          "width": 5477,
-          "height": 2739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HousingWire",
-        "domain": "housingwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

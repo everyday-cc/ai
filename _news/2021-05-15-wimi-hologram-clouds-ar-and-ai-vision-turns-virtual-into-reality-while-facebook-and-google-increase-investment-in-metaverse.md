@@ -35,6 +35,17 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality\"."
+    publishedDateTime: 2021-05-17T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21156605/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-ficti"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21156605"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21156605"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
     publishedDateTime: 2021-05-14T19:41:00Z
@@ -50,6 +61,6 @@ related:
         height: 337
         isCached: true
 
-secured: "eQyklijDHp8rb6Gpt+N0262EjmD0l7yI3Vp7HU9nwA2RrwJzS9CmDqE3n/nvF/s3kIkR/OcJ2Fa831HJ2/QamgjFwaZ8khACnvG5U5GqMT93kFbYdAiYAZ+cykkiTsy0JsNyBlKq+7tXw90+eLKSwRvBq7oOgaHaxk1s1ulbZBnKhBda8FHU6OjiikWAc7yNyNWBCXgEQ32vqkPb2slG3AqNu5UhnaZ0nSUBbpgjWSmlKf10a+GiJFY+GcGsE3urghGc7AP9enXnlUhA0/inB986xFh6GavbQ/PTiRzm2OMlu+SuT/ICir4ZXP1H53HzmJeQ9VZWC+zLpRNb0d5R7+/UcZGOddVkgZhimhsUBR8=;YkYTECT6mngTuW1m523jBg=="
+secured: "eRxixR7lYCAis8zkgWYr3xn7xZD8zPzdUU+ErT9qi/2QMpi68lelEtLhR6JwnDExyxpK2+Ppxyu9veHPPdIsvYF1aq3MPi/okByaKBIqKSlbZFMDN1Y8LqSa2dEsW//v6LRAxQdddQNoP+IcCLDfulMSnSc/j5hBSYz9epJDeUCWC2YlFBM+QgF0V3kNLHJWqibeTCbQq8/ZyaIDG/nDV2e3GVhsJsDlCHgs3ZYR7q67GoJyCIhfWjdTCVNkFT+H3FRTpzjyky+KsXkQfJkl76dMYERD+WaDMCZQTtkAkT5n78GoZkpFJd/4cjYh8YkFvLmWxQwsCB/tqhPricMgczfBvKdF1G+TRZYBSBR3gGc=;AHcVxWXMuj8SQDYjmFbZIQ=="
 ---
 
