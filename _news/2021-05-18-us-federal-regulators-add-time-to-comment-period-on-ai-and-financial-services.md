@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulator
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Financial regulators extend comment period on AI policies to July 1"
+    excerpt: "Financial institutions said they needed more time to weigh in on issues such as how they use artificial intelligence for fraud prevention and underwriting."
+    publishedDateTime: 2021-05-17T20:11:00Z
+    webUrl: "https://www.americanbanker.com/news/financial-regulators-extend-comment-period-on-ai-policies-to-july-1"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/451bff5/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F83%2F48%2Ff11f2f9f4f388a8796722d619498%2Ffederal-reserve-bl-042021.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Agencies extend comment period on request for information on artificial intelligence"
     excerpt: "Five federal financial regulatory agencies announced today they will extend the comment period on the request for information on financial institutions’ use of artificial intelligence (AI) until July 1,"
     publishedDateTime: 2021-05-17T19:03:00Z
@@ -51,6 +65,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "CCuLwsPXdZ/kkHvRpVJjWxsuP0Y7e5ACSaT6A35U80a43SD1KSLu5mo3hA+/vOyxJrhN6K+1U2PtrfKO1mHZaUk4qEX3U3DkCSj8WleD+ydIVh4kuL8eVsdZyxEI1BaaJ2/59fgqxWFq+WyUATYyU0kaq8/SExhPLWkHnzaAgl8Zh8n3qalVPxD1nJ9t/w/9WKeAOcXMk0Ys82WX734t8qMKjNkhxInuqGAxATp8h/TT4sGSYhXTFhMwfEkyArZacqZPYNqZxsrh1hCUDCtwew61A+e4tvP1R1jfQ1bPQjhOojXHu2/xljVVF6Yi9U9GHpRu0t63igVVweRt8fOaLsKJ0+1zOVebAUsxmDI3VnE=;W8ZCCmbml50IrnGsa50uBw=="
+secured: "SRqtHMgbVc53o+Wt3W5vxNCvAMP9Dz/EJSEnS3OL/I1opFQ2HyZ2dzwhVnnTCst4rQNrIO1yOsfFFO3BG5w+0Mg1Z/1JZkkxaZu3YWv39nsQMTc2qVnQvLlpFkmLLyoLzAsrcDrDi04BF64D+Sjw4WEZ/ThEvF5d+cQaMmWDkHX0W7UmdpoUF7nxdt0motq50VxYBBbty61V5rZkeauKzsX1mthdkUiRf8ZWNSAYwS1OIx4RIpx/8vousC3T3KJptb4rq3LdPeWj9eeKlBlhYNO/5YPPn/udxJxydj10qp7A94vd0/t8XxC80GJ265q06XdeNCK31v6A1pdwjcPFedN9s04SftXRbsY6Nnsx47AAXfa8aF9e/5XfUqrybzjhjzeqyBAXGmaJKBoFiOPanIu/ZAT6QiSLGAcQza3JsLpCOCjygESwbLMITgiZUlqqJ8tuS3InqZG3nM6qXLDlQJ7JDi25SEjpCSm3OT32YHB2ExueRB9knQ0wQuJZGJNXGlUkyS0WVyxHGVrSP4Ms0A==;vPd9XueZUJAa4YT0Qtb4vA=="
 ---
 

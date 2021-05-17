@@ -75,6 +75,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Global Natural Language Processing Market : Industry Analysis, Size, Share, Growth, Trends and Forecast - 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research, in its repository of Global Natural Language Processing Market research reports, have recently added a report on Global Natural Language Processing Market which emphasizes on the latest trends,"
+    publishedDateTime: 2021-05-17T09:48:00Z
+    webUrl: "https://menafn.com/1102089335/Global-Natural-Language-Processing-Market-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast-2025-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937141"
+        width: 326
+        height: 250
+        isCached: true
   - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
     excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
     publishedDateTime: 2021-05-13T15:39:00Z

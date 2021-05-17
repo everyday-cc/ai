@@ -40,6 +40,20 @@ related:
         width: 600
         height: 784
         isCached: true
+  - title: "Financial regulators extend comment period on AI policies to July 1"
+    excerpt: "Financial institutions said they needed more time to weigh in on issues such as how they use artificial intelligence for fraud prevention and underwriting."
+    publishedDateTime: 2021-05-17T20:11:00Z
+    webUrl: "https://www.americanbanker.com/news/financial-regulators-extend-comment-period-on-ai-policies-to-july-1"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/451bff5/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F83%2F48%2Ff11f2f9f4f388a8796722d619498%2Ffederal-reserve-bl-042021.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Veritone Launches MARVEL.ai, a Complete End-to-End Voice-as-a-Service Solution, to Create and Monetize Hyper-Realistic Synthetic Voice Content at Commercial Scale"
     excerpt: "Veritone, Inc. (NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, and provider of digital content"
     publishedDateTime: 2021-05-14T13:00:00Z

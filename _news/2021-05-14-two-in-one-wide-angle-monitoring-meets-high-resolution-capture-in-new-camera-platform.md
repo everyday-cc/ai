@@ -26,22 +26,6 @@ images:
     height: 573
     isCached: true
 
-related:
-  - title: "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform"
-    excerpt: "In most cameras, there is a trade-off between the field-of-view and resolution. Omnidirectional cameras offer a 360-degree field of view but poor resolution. In a new study, researchers from Shibaura Institute of Technology,"
-    publishedDateTime: 2021-05-13T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/siot-twm051321.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/264960_web.jpg"
-        width: 720
-        height: 503
-        isCached: true
-
 secured: "wnOA4Y/0f01hooZx53YphdXkD5o1NhRO77b/uU2vuNIzFs5Hstmtn+m0Vr78Fh5RV+7/Zsisvgx39qOxQxdEY7JQPYKmmY838F9NXPEJWCu7zek815fzxNFjVWq4sdg2ySEf4vXDC41c8sJLtl175j6Y1ETtp2SE4kR4xxcMnf+YBLFNXhyUWswhkwyOfKOgcSPQY0MJkdznlDnjCRR15PjltqodV5JfNaPvyrSkp5/ryBbF72HY7HSQTFP8axHgZoFCfYCRiftADTGbQiwC/E5/G6LYjHse7vndcshzZMmp4CDUS2vs8929za1U9APwSvc+mkMeo9toCatT4Vv133QDPd9880OedtSOv+258HzhSiYkuL6zMT3Iz9r6WY/kj52JkkRQ/zORjzG/izkhyNCJkHIFFZGy17wP9/wpve0ZhmOdulQXcMy0RCQj5w/LhP9S8myP8Oc768HEbushBHOXMW+hLD8Gp23qwk4U2sCkRisv/ta23ftV6skvUBfJJOFxObxtHvgZepFIhIz+mg==;tMXhcRUloWB+In9hguYgkw=="
 ---
 

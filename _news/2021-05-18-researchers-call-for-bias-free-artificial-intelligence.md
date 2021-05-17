@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligenc
 ampWebUrl: "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg"
@@ -85,6 +86,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9uTkCt4cV5kmTAGSOB9S80yuRqllwxbz642PchIzP6BIYhOs7NixAdzs31/yzNPub5gVgObnmV6E4XX4FT1KuCYNqP9IMWTjSsJyFs7a0J6IU98tyafr0jNMtXavDhGEPD7bRXR4deFr554bk6pUw19MJDjtf3KRSBVxNk7f9eoZLkYIuVUsGCvbnUS79Tpn+XSV7564oz0/raTtEYaHogzEg+o9lGK4viNG3hKkn0IuVne+KlVjdnjalanmUebZL9fXZFE6oaI22+pLYJJkqm6OIlzfjmuzPltsQOCTXMnMSLQYBT796ocW1tGlXE3B+7MikZcasBZc0cQVYZRSGt+Ez8P1KtLOyrtXTNL1JBk=;AAb9OwVHSZMfm24MPcEdKA=="
+secured: "mD47r11CnkD4xo0RcexooOzTgU0Rb8bOKfih0i6KQdwqN9gJAO/8Yr9p/OspJ/TMutxKLLFNn/JRR5dR7LmMFW+Yuahl90NRpaRgumsTvVwDtle08jvs+hhpZ61frbtORYkNwQtz+YnDcK7s2tLGyEqgyzsiutUlskpC44QgQxvxR+1CWy7hP17rsuNadSFVrYxn+YP+T/g1bcPUOpU8842YgZzyos8ez7hwfTAQyo3+a8GNQ0KJNRSVusuGFDgwHL1SHEOV6De7g7iiTjTZ4JwWsjBzuylU0L4uU8bwblZMgdyiZnST/lRoWWIEXvIqr7hG4y2PYEGt0rGcCt5FOrDngpoi7eLmljiYBCXkraF9okyZTxjAVds/mcA0jGDPAKufQEH46ZjT944eUjJRumW8vZ8AfPZCA8YAqQZuiX6X0qV5VD5ty0lvBkjngJ52xKGjC+EDEA9qIi23AQiXQqEqsaXeWpUyjLb/qe6lV9IZ3bM9EECgym5yfZwoDhfkV+PDU9tv3qxNAO6D6N9+tg==;KEb22M4w10FMhE43XxAwWA=="
 ---
 

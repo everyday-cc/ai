@@ -2,6 +2,161 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-05-can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning.md",
+      "title": "Can AI Help Us Manifest The Life We Want? A Discussion At The Intersection Of Mindset And Machine Learning",
+      "excerpt": "For years, artificial intelligence and machine learning have been utilized in the mental health realm to help us regulate our emotions. In an article titled, “How Technology Can Enhance Behavioral Healthcare Design and Care,” the author effectively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091897fb31aa6cdde244389%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2888%26cropY1%3D114%26cropY2%3D1739",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/amp/",
+      "publishedDateTime": "2021-05-04T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-video-they-revive-cantinflas-with-artificial-intelligence.md",
+      "title": "VIDEO: 'They revive' Cantinflas with artificial intelligence",
+      "excerpt": "The campaign entitled \"Soriana, that of all Mexicans\" brought back one of the most important figures of the Golden Age of national cinema: Mario Moreno.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/371074",
+      "originalUrl": "https://www.entrepreneur.com/article/371074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/images/misc/1620146098_cantinflas.png?width=1000?width=1000",
+          "width": 1944,
+          "height": 1098,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/371074",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371074",
+      "publishedDateTime": "2021-05-04T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how.md",
+      "title": "Microsoft Windows and Azure can be a business lifeline. This training shows you how.",
+      "excerpt": "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
+      "publishedDateTime": "2021-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-what-do-conspiracy-theories-and-ai-explainability-have-in-common.md",
       "title": "What Do Conspiracy Theories And AI Explainability Have In Common?",
       "excerpt": "Conspiracy theories like QAnon rely on truthiness, using individual data points to reach wild and untrue conclusions. AI explainability techniques follow the same playbook, often with serious consequences for consumers.",
@@ -1041,135 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-5-virtual-physical-therapy-startups-to-watch.md",
-      "title": "5 virtual physical therapy startups to watch",
-      "excerpt": "Digital physical therapy outfits think they can improve outcomes and reduce costs by making it easier for patients to stick to the program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
-      "originalUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_406527128-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.md",
-      "title": "Achieving true situational awareness in operation centres with computer vision & AI",
-      "excerpt": "This webinar dives into the growing capabilities and use cases for Computer Vision and AI in Operation Centres and beyond. Join industry innovators Userful and Security & Safety Things in this round table discussion on how Computer Vision and AI helps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html?ref=fve",
-      "originalUrl": "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html?ref=fve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/virtual-events/612/computer-vision-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-baidu-launches-driverless-robotaxi-in-beijing.md",
-      "title": "Baidu Launches Driverless RoboTaxi in Beijing",
-      "excerpt": "Baidu Apollo Robotaxis move on a street at the Shougang Park in Beijing, Sunday, May 2, 2021. [Image - The Associated Press] Chinese tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
-      "originalUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.bp.blogspot.com/-VqrCUbqcAm0/YJD2g5bhYaI/AAAAAAAAFJs/kKECe_rCvtQz2MhfQSNVqrgVCN4QHPqEACLcBGAsYHQ/s16000/robotaxi_baidu.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

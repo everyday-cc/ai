@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-dr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html"
 type: article
 quality: 186
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 810
     height: 421
     isCached: true
-
-related:
-  - title: "Chinese company starts driverless taxi services"
-    excerpt: "A Chinese search engine giant, Baidu, has started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public for free on a trial basis since last October but now riders will have to pay for the service,"
-    publishedDateTime: 2021-05-13T03:04:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-05-13-chinese-company-starts-driverless-taxi-services/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/DBzyPTNJa3IsYDR5hcE-VQshsU6JI_o9AYpq--42JmYXkzQ-BemUDrcEvXdVAeWNW_qI8fLp6bwW0Trjuk-9SMEa17tOmCzv33ZHD6gHTvyeWg=s1000"
-        width: 1000
-        height: 589
-        isCached: true
 
 secured: "wFuSLn+QqLkpWbZ+jac0qOdByEgXwJvv96XLXhE1pyca7QAqtf+IubgqYpbwpD/VSTGwdeYmk2CRlyoqNVGPriN2shGrLa6W4wbQWAnsoij1+EQGNzAj6vXSFU8XJt3fRhFIEBqDwZ1dKwwba+q4+cGNbcjJ/C0jGKfl/YUM7wEs5qDnGBKqO0wF2EAvtb3zZ/rvvi9ZVgLtnMG15QZ7413iaXll8mpaJJZCxebKaPwVY2mAMSgkh1p/Tlvl1N7nFokkxNncq+FDL96gBCgV2PuP8cKBmPvOAazpJ9TF4QZq6m7nherXzNUjUxWtFPPRlEe3oNc/Hyr7d/mtBZkrYNRVSyUHU6PfefTs4uwFyRhHqcQp22zv81h6ZH+ogtvonQ3Q4BGMdUQj1yrjfXENFy5h060cF/L0T0paQFTObYSe9f2S5iiJYqGxDWoFKdVWz183W7JndGeegKH/sEiEcIn6xQ84VB+jajG0vz5+1pfl/5gNRFaySeiJGMkHUlFBsWpx5q/n8gXCj0zA5uXVbY/z2wid2HRmaXvcPpE3bhw=;1wpw5tMtzgQLeSLuKddvAA=="
 ---

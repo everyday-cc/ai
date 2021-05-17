@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-05-machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork.md",
+      "title": "Machine Learning and Mandalas: Inside Suchi Reddy’s Latest Artwork",
+      "excerpt": "For the Smithsonian’s 175th anniversary exhibition, the architect and artist is assembling a 20-foot-high interactive sculpture—take an exclusive first look.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
+      "originalUrl": "https://www.wsj.com/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-332261/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
+      "publishedDateTime": "2021-05-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of.md",
       "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of ...",
       "excerpt": "Rackspace Technology® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’s complex environments.",
@@ -1318,51 +1370,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-tensorflowjs-with-gant-laborde-ml-028.md",
-      "title": "Tensorflow.js with Gant Laborde – ML 028",
-      "excerpt": "Gant's back!!! He's releasing a book with Manning Publishing about Tensorflow.js and he's here to discuss all the details with us. He explains the difference between Teonsorflow and Tensorflow.js and goes into some of the pros and cons of using it.",
-      "sourceUrl": null,
-      "webUrl": "https://devchat.tv/adventures-in-machine-learning/tensorflow-js-with-gant-laborde-ml-028/",
-      "originalUrl": "https://devchat.tv/adventures-in-machine-learning/tensorflow-js-with-gant-laborde-ml-028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://devchat.tv/wp-content/uploads/2020/09/Adventures-in-Machine-Learning-LOGO-scaled.jpg",
-          "width": 2560,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devchat.tv",
-        "domain": "devchat.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

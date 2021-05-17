@@ -2,6 +2,143 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-04-20-uk-drone-startup-seesai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights.md",
+      "title": "UK drone startup sees.ai gets go ahead to trial beyond-visual-line-of-sight (BVLOS) flights",
+      "excerpt": "The U.K.’s Civil Aviation Authority (CAA) has given the go ahead to local startup sees.ai, which is developing a beyond-visual-line-of-sight (BVLOS) command & control solution to aid data capture for industrial use-cases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "originalUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screenshot-2021-04-20-at-12.07.18.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "publishedDateTime": "2021-04-20T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-exclusive-why-a-us-hospital-and-oil-company-turned-to-facial-recognition.md",
+      "title": "EXCLUSIVE-Why a U.S. hospital and oil company turned to facial recognition",
+      "excerpt": "Deployments of facial recognition from Israeli startup AnyVision show how the surveillance software has gained adoption across the United States even as regulatory and ethical debates about it rage. April 20 (Reuters) - Deployments of facial recognition from Israeli startup AnyVision show how the surveillance software has gained adoption across the United States even as regulatory and ethical debates about it rage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/exclusive-why-a-u.s.-hospital-and-oil-company-turned-to-facial-recognition-2021-04-20",
+      "originalUrl": "https://www.nasdaq.com/articles/exclusive-why-a-u.s.-hospital-and-oil-company-turned-to-facial-recognition-2021-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021.md",
       "title": "Global Natural Language Processing in BFSI Market Overview, Size, Share and Trends 2021",
       "excerpt": "According to this latest study, the 2021 growth of Natural Language Processing in BFSI will have significant change",
@@ -973,108 +1110,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-artificial-intelligence-in-healthcare-market.md",
-      "title": "Artificial Intelligence in Healthcare Market",
-      "excerpt": "This report studies the Artificial Intelligence in Healthcare Market size, industry status and forecast, competition landscape and growth opportunity. This research report categorizes the Artificial Intelligence in Healthcare Market by companies,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/artificial-intelligence-in-healthcare-market-2021-global-insights-on-trends-covid-19-impact-analysis-regulatory-landscape-growth-opportunities-mergers-acquisitions-and-future-outlook-intel/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/artificial-intelligence-in-healthcare-market-2021-global-insights-on-trends-covid-19-impact-analysis-regulatory-landscape-growth-opportunities-mergers-acquisitions-and-future-outlook-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-billcom-announces-integrations-with-microsoft-dynamics-365.md",
-      "title": "Bill.com Announces Integrations with Microsoft Dynamics 365",
-      "excerpt": "“We are thrilled to bring our Microsoft Dynamics 365 relationship to market to power payments processes for small and midsize businesses, helping them build efficient payment workflows, simplify ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bill.com/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210419005209/en/Bill.com-Announces-Integrations-with-Microsoft-Dynamics-365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-does-exercise-protect-cognitive-health-you-might-not-like-the-answer.md",
-      "title": "Does exercise protect cognitive health? You might not like the answer",
-      "excerpt": "The growing realization that exercise doesn’t really help with weight loss can dampen the motivation to be active in many people — one reason why I advocate for decoupling exercise from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "originalUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "publishedDateTime": "2021-04-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

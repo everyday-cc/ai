@@ -1,23 +1,29 @@
 ---
 category: news
 title: "New Product Launch: Broad River Rehab Announces DocAudit"
-excerpt: "Broad River Rehab (BRR) today announces the immediate availability of its revolutionary new Documentation Auditor (DocAudit™) clinical therapy notes quality-control innovation used exclusively with its skilled nursing facility (SNF) and Continuing Care Retirement Community (CCRC) clients."
-publishedDateTime: 2021-05-17T14:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370750.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370750.htm"
+excerpt: "Broad River Rehab (BRR) today announces the immediate availability of its revolutionary new Documentation Auditor (DocAudit ™ ) c"
+publishedDateTime: 2021-05-17T14:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/new-product-launch-broad-river-rehab-announces-docaudit/article_0e2978a9-aeee-5491-9f0c-e4b2612944b9.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/new-product-launch-broad-river-rehab-announces-docaudit/article_0e2978a9-aeee-5491-9f0c-e4b2612944b9.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "/vkzdY+Q/InSasfOtvS10hSCRM0pqWc+hE2WClOD0+g86LGjtu9wD6hM7gbzXjIYWxtLbGU1wANp+Ui4GAvHZTWTXjvxAT/1+UFbDD1//VuSLMRs8aj0b9l9wGR96KEAJ8VdQ7R1TBvIMD5jT1V/cWf1HAodyt1Eczh3ydWlHTOBOqgTJXKtkWm8SRLduSblRiRP39f5nSRKG1OF9gjh0H8g+VvBEOWDTj08UZf3xH0soZBjHFXn9wwkF2y/JvMLu/VKOrfIjHUtgpmIw5UdPxzXYThMWq1ZZTsEGygyFUoDRRfufwPn9ju7lWJLiUzz1f38PhhPlACdmhxMSLKLpaPeuqKc7zPXEZbb7Yz31M4=;hKNZ97gtEKWPFGWCt4TEGg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "gQafNceRuQojll6XEYzy35z3lBa+BwBUlpSq/WX8xHB1kE792vexE8jy5Cm23cb6i00u+NQb8p+robgGvJoBCr6dumpQ+y3izO0R9whjhcAfxDUo1+WuWneh/nsHgPG8eANHHaIvurf8nx1iUbUzAS+IeQ3uFJVMgikROIa1tV+cG3VJaa/9WRAptSzLtoM2tKRdUMVmGeant10MlPHVXu3uDGqpGV7d18IhvkV3uBWJAF2/4beeReQNp9Vce6XwwlHKBRymUIrPHSBjwPRXhmgqzJ7Pigzi5KjzIqVQQawab5Uv6zu07ETa7Ta+RB0zNG0tI05R2ZmYpt1DDZ4hcKAeregp46sgEYJFoOggrmI=;zHxQFdnTYM9vmtHvdF7qtA=="
 ---
 

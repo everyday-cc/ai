@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "BEIJING — Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.startribune.com/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/600052723/",
-      "originalUrl": "https://www.startribune.com/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/600052723/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1621010638",
-          "width": 1680,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StarTribune",
-        "domain": "startribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-tech-giant-rolls-out-first-driverless-taxi-service-in-china.md",
       "title": "Tech giant rolls out first driverless taxi service in China",
       "excerpt": "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing, making it the first company to commercialise autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in the capital,",
@@ -75,6 +32,49 @@
         "name": "BreakingNews.ie",
         "domain": "breakingnews.ie",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
+      "excerpt": "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

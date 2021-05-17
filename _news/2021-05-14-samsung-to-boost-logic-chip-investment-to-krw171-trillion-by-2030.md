@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung raises spending in logic chip businesses to $151 billion"
-    excerpt: "Samsung is adding another 38 trillion won, around $33.5 billion, to its prior commitment to inject 133 trillion won into its logic business in a bid to become the world leader in that space."
-    publishedDateTime: 2021-05-13T03:42:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2020/05/21/8398c9a5-4f60-4ea8-b3ff-142a685d34cd/2.jpg"
-        width: 2077
-        height: 1427
-        isCached: true
   - title: "Samsung to invest $151 billion into chip manufacturing through to 2030"
     excerpt: "Samsung raises investment budget into semiconductor chip manufacturing up to $151 billion between now and 2030 to fight TSMC."
     publishedDateTime: 2021-05-15T00:04:00Z
