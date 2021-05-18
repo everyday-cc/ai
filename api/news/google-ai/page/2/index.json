@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-24-ai-skills-are-a-problem-automl-can-help.md",
+      "title": "AI skills are a problem. AutoML can help",
+      "excerpt": "Commentary: As enterprises try to embrace AI, a lack of skilled resources holds them back, but AutoML may offer some hope. O'Reilly just released its annual AI Adoption in the Enterprise survey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-skills-are-a-problem-automl-can-help/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-skills-are-a-problem-automl-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-skills-are-a-problem-automl-can-help/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-skills-are-a-problem-automl-can-help/",
+      "publishedDateTime": "2021-04-24T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-4-reasons-to-learn-machine-learning-with-javascript.md",
+      "title": "4 reasons to learn machine learning with JavaScript",
+      "excerpt": "There are already several JavaScript machine learning libraries. An example is TensorFlow.js, the JavaScript version of Google’s famous TensorFlow machine learning and deep learning library.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/javascript.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "publishedDateTime": "2021-04-23T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
       "title": "Microsoft details the latest developments in machine learning at GTC 21",
       "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
@@ -1255,92 +1361,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-edmonton-alberta-on-the-short-list-for-global-players.md",
-      "title": "Edmonton, Alberta: On The Short List For Global Players",
-      "excerpt": "This is why Google’s DeepMind chose the Edmonton region for its first international lab. “We’re going to solve AI,” says Adam White, senior researcher at DeepMind, “and we’re going to ...",
-      "sourceUrl": null,
-      "webUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
-      "originalUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.businessfacilities.com/wp-content/uploads/2021/04/BF-JanFeb21_Edmonton_1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
-      "cdnAmpWebUrl": "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
-      "publishedDateTime": "2021-04-05T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Facilities",
-        "domain": "businessfacilities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-gpt-neo-the-open-source-cure-for-gpt-3-fomo.md",
-      "title": "GPT-Neo: The Open-Source Cure For GPT-3 FOMO",
-      "excerpt": "GPT-3 was the largest language model when OpenAI released it last year. Now, Google Brain’s 1.6 trillion parameters language model (as opposed to GPT-3’s 175 billion parameters) has replaced GPT-3 as the largest language model.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
-      "originalUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-7.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

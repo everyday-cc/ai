@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The state of data acquisition for analytics and machine learning in 2021, and how startup Explorium scores $75M Series C to capitalize on it"
-    excerpt: "Data science and machine learning are being commoditized, so it's the datasets that make the difference in the end. That's the thesis startup Explorium is capitalizing on."
-    publishedDateTime: 2021-05-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/the-state-of-data-acquisition-for-analytics-and-machine-learning-in-2021-and-how-startup-explorium-scores-75m-series-c-to-capitalize-on-it/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/18/1a4acbf2-0502-4248-9ef8-4a801556ef97/explorium.jpg"
-        width: 734
-        height: 470
-        isCached: true
   - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
     excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
     publishedDateTime: 2021-05-15T09:01:00Z
@@ -126,6 +110,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 36
+  - title: "CFA Institute and the Investment Management Industry Embracing AI and FinTech"
+    excerpt: "Asian wealth management, Asia wealth management, Asia private banking, - Talk of digital solutions and revolutions has been all the rage as Covid-19 has totally transformed the way in which we conduct both our business and our lives."
+    publishedDateTime: 2021-05-18T17:07:00Z
+    webUrl: "https://hubbis.com/video/cfa-institute-and-the-investment-management-industry-embracing-ai-and-fintech"
+    type: article
+    provider:
+      name: Hubbis
+      domain: hubbis.com
+    quality: 36
+    images:
+      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
     excerpt: "Team uses SAS Viya on Microsoft Azure to improve fan experience during turbulent times and plan for the 'new normal' of spectator sports CARY, N.C., May 18, 2021 /PRNewswire/ -- VIRTUAL SAS GLOBAL FORUM 2021 -- In the spring of 2020,"
     publishedDateTime: 2021-05-18T14:00:00Z

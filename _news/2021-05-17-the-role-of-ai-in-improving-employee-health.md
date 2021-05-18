@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "How AI Vendors Can Navigate the Health Care Industry"
-    excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
-    publishedDateTime: 2021-05-17T12:25:00Z
-    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+    excerpt: "The adoption of AI in health care is being driven by an exponential growth of health data, the broad availability of computational power, and foundational advances in machine lear"
+    publishedDateTime: 2021-05-17T13:24:00Z
+    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2"
     ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
     type: article

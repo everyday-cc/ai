@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "California DMV Probes Tesla Over Self-Driving Claims"
+    excerpt: "The California Department of Motor Vehicles has launched an investigation to decide if Tesla (NASDAQ:TSLA) misleads buyers by offering its vehicles with \"full self-driving capabil"
+    publishedDateTime: 2021-05-18T17:12:00Z
+    webUrl: "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627526%2Fvehicle-running-self-driving-mode-and-a-woman-driver-reading-book.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla’s Full Self-Driving package claims are under DMV review for misleading advertising"
     excerpt: "The California DMV is reviewing Tesla’s claims regarding the Full Self-Driving package for potential misleading advertising, according to a new report. The report in question is coming from LA Times‘ Russ Mitchell,"
     publishedDateTime: 2021-05-17T22:28:00Z
@@ -43,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
-    excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
-    publishedDateTime: 2021-05-16T14:49:00Z
-    webUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/"
-    ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 72
-    images:
-      - url: "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "DMV probing whether Tesla violates state regulations with self-driving claims"
     excerpt: "A review of Tesla's claims around its self-driving technology comes after a spate of accidents and videos showing owners 'driving' from the back seat."
     publishedDateTime: 2021-05-18T03:47:00Z
@@ -74,22 +74,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/9d4ccf7/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2Fea%2Fd26db18a34a9692d694e1b0a48ba%2Fla-1557255076-hhgzax4ff3-snap-image"
         width: 320
         height: 209
-        isCached: true
-  - title: "Self-Driving Cars Dealing With Those Barefaced Acts Of Repeated Brake-Checking By Human Drivers"
-    excerpt: "Dealing with brake checking in an era of self-driving cars, including human drivers that aim to brake check those vaunted AI driving systems."
-    publishedDateTime: 2021-05-17T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
-        width: 1199
-        height: 675
         isCached: true
   - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
     excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
@@ -162,20 +146,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
-    excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"
-    publishedDateTime: 2021-05-17T07:04:00Z
-    webUrl: "https://www.techjuice.pk/changan-aims-to-be-the-first-company-to-bring-self-driving-cars-to-pakistan/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 37
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/V-Cross-e1592210464539.png"
-        width: 1004
-        height: 560
-        isCached: true
   - title: "California places Tesla’s ‘Full Self-Driving’ under review | Charlotte Observer"
     excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
     publishedDateTime: 2021-05-18T01:10:00Z
@@ -211,20 +181,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
         width: 820
         height: 462
-        isCached: true
-  - title: "Elon Musk says Tesla is pushing ahead with ‘full self-driving’ a month after fatal crash"
-    excerpt: "Tesla CEO Elon Musk teased upgrades and the expansion of his company’s driver assistance software in a series of tweets Wednesday. Local police said immediately after the April crash that they were certain no one was in the Tesla’s driver’s seat at the time of the crash,"
-    publishedDateTime: 2021-05-14T17:42:00Z
-    webUrl: "https://www.wishtv.com/news/business/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal-crash/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 30
-    images:
-      - url: "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/04/CROP-Tesla-Model-S-and-Model-x-Getty.jpg?fit=2000%2C1125&#038;ssl=1"
-        width: 2000
-        height: 1125
         isCached: true
 
 secured: "jKTZCDf491hG9ioP+FsYbUipd04xLrScArYO4YahPBD5Sb5sYWOolTf0R1+NjtoPaJMkBUPjyERG9bajbZiG1rQPMDLgFUtZfqOuGjX8ig19T1tgDiKhrQ6o7I1o65IlkIgtANV1vpnTi/na7dAVf5YLUr8zfmwx3tpOmjys9Vq8uVFMXmvNFpx56ny5gV+REYRrgjld06Heoo4eY0Qg5q1cOlXZhtySUUANtWbM7IFpopwtIy94u+2svWHJc24zltJurRfEbfRKXa5v6LKf8T3v//82sElXk7U4BDSL5xn9r+R6d4llla8cnwTOTKNb+u6gR2ncir/tViJzWTn7aK/+ugQim5aaNffBIHoTYBw=;OQut7aRwZedCR37XMWG+vg=="

@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-18T15:12:00Z
 originalUrl: "https://www.bbntimes.com/technology/understanding-the-black-box-problem-of-artificial-intelligence"
 webUrl: "https://www.bbntimes.com/technology/understanding-the-black-box-problem-of-artificial-intelligence"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://www.bbntimes.com/images/articles/companies/Understanding_the_Black_Box_Problem_of_Artificial_Intelligence.jpg"
+    width: 1000
+    height: 562
+    isCached: true
 
 related:
   - title: "Using AI to Take the Bad Emotions Out of Trading"
@@ -49,6 +56,6 @@ related:
         height: 1054
         isCached: true
 
-secured: "+weSGE7t94ZZJUZ8vwH3yiKkrKsz+m72ERcgMWtHINYNnTjRgbIkLlk9Xs7AmJRbFeyT9iGLqrQk1qAjL9I/Ujt+j4oZzLY66RR+4qD25n9WPAngYceuMxwR4/kLvBHF5gXhHkLTyKsKLGD3yU6rmy9DVVv7/B1xyXWkcmpGBfm4ejMnEl/GlGOpBZUyv3N+rPNib1TFfzvEfYp/PCUOAFLk64kQhHTJIAFgA/ZZmyKLX/2ftcdYtT5mCKjF0UXugGV3yDUo+ctRpiTpDjpl5GziqdP3zIP1BTRmd7qKTeZBQMnSsyNba8/E6LzcGO4d8SHtMHZezfTtLqjkjZnyWW2zwSb3xTYPWchsE0Vh9Jji559+McGcd7ctNF4nxO5lYd/eINwpsrb1iIhqSwDNIzTVAt6BwoCArGsPlbGcgP3GEoWi++v+CcQAviP4wKvNtdmFBNnLsAK5qY1X3BAiH1+ZN/RDs7qtV5XV1w/zYjUa14Qo8REAr56sQj7lzbAKaZfHLBocK3BBs2IlellHOg==;8KsWz7KAvTE7eWDrqvvTvw=="
+secured: "RNcNRWdzPcWbOMEE12ZGSZWV9/sfsRNVlFW5BLO8d3rfGALKxngW0WwDK4stt1J3iNykFmrbWknBIlR9+U+tcN5du9/VwE0GLqgsB4y5pUihG0GVCk/E+nYUyOMP/FIio165JvsxV1xQ5uwjImByJ/6F4Zv9MMutJcynH6bGSWlO9fC5+K/YW+b0dyQX/5n18yaJrWz3/q9tBLa7JkQFx+eK/cg13B5NG5SgT2/P08hIb52ggvamtayyHMXu/afD59HGCFQywSq/TuY4vJV9nG3myq1M2fut8pUeRIfNRYh3kgMTR6fdhbsBX4D3Q4l4VQIfnrHyO/GHLngWk7J4EK0IgQVDVyA9TWWwrKHBxqo=;x+A56ggB5IBX9KUSFyMPcQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robotics Company Embodied Acquires Conversational AI Business"
-excerpt: "Pasadena-based Embodied Inc. released a product last year called Moxie, an artificial-intelligence-enabled robotic companion for young children. The device — which Time selected as one of its top inventions of 2020 — is designed to support kids’ social and emotional development through interactions themed around concepts like kindness,"
+excerpt: "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans."
 publishedDateTime: 2021-05-17T07:07:00Z
-originalUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/"
-webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/"
+originalUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
+webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
 type: article
 quality: 69
 heat: 79
@@ -40,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "9NC1MsOdpNXrnNa/9W/q5ib5IzMV17fdd4ZPcyJrONB62dzHXSjD9bS+cB7Fg/KNYtRRcG4B77mmvr2BqvSIkEmV+2BRiGkWTBvuGSCYes5iz9OcZbL6mKjxqZNRJyh5kOXLHeAUys3bqWmoaYOF3XXlT8CLgUDCncMZff7KWGh4H/yqjruE3CzGls0ISOZa/ccQBG6tCip7iUgWpVa+VsQNLD3RffPfQkqyupBaKCt33IpGJnPTgUCF2EejNTpw0PvZLEFY/9b31IL+0Erye3ONKGukZxBNc/gMGMcDnMKq2U+jvkmV2ocVJPSLSJ1Qa2xOoFdkbtR+hozzazensELjZuhHHYAp3wVPN146ljI=;8eNnH5oss9sitS1wbxcN2Q=="
+secured: "vN0P8UIs4nh27p9aO1VNIsla4LHjpXneBRh9gjjpQ1DSi8oReVHFU0uIIQa7mfnmrjSFo3nC50X+ROU3eE4w2cBSMcdC/pkCDVXrSNbi1o+ujeq8UOafC/xhgVxxoz0QguHaqh2BHNRsekY4HcRHEp0CwJEMolgzp8PTdPPb+8KaavqjilBYEM/hg2Zdt3USAiunt8HylPFHn3vDpZw24k8A5a9hdsAc4eqS4c/LNBc8ZlMXv6LIH8X+7zi5SazyMNmyeWrJc/FbyO9vQCUbSNLeGs3Kqnbgu7fiRGLZH0tyTAxRius8fDlDhb+ApB7/hrpGkRSFij5Y7Skyj9cOUN2WFG3zq3GPzIb/lEscsYk=;bkc+gSiMwttYP9dnM9m4SQ=="
 ---
 

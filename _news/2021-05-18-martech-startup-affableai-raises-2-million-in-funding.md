@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Bad Robot Games Announces $40+ Million Series B Raise Led By Galaxy Interactive Along With Horizons Ventures And ICONIQ Capital"
+    excerpt: "Bad Robot Games, Bad Robot's video game division, announced today that it has completed a $40+ million Series B raise to create games that are as compelling to watch as they are to play. This round was led by Galaxy Interactive,"
+    publishedDateTime: 2021-05-18T16:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-19812547.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 26
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "gJn/bQkAyJWTHExNXVoUMyUx1kgKMPpSO7qdyh14QmOkQ5+iSLDZbEjyBQBJJ82TZ839myqVJIxuaWpIC1RE4iIPahfEWV2y6+W8FQMe7t1RZTWkr++rzSzzxSqS39RgwFkaVIXZjO7St5VLeiYSm2sSHgyrFL5lDpZV5LpMxnm2gs8H0CX6L8Pse0/vxME9TPU2T3yGtMQjYr7f43Pt3fwtFIQbBkXeF3zQBtOSZTCzZhvc9Ax7a90xvde3lfLCMIaROw7KiT+foO666hWtJK3Kr0rGcGAeZ27u3etyanzYhz9xl7IE4+r5I94gBB4q8jStL/bt47nBbXx/Sx+Wlkimc38Pb0xMM0ebNy1JLAo=;WfezMim2LX0E0fTmGuA12Q=="
 ---

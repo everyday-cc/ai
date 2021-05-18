@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -61,29 +61,6 @@ related:
         width: 800
         height: 333
         isCached: true
-  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
-    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
-    publishedDateTime: 2021-05-17T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b95214946d648fe89e3751d02ef5161"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
-    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
-    publishedDateTime: 2021-05-18T08:47:00Z
-    webUrl: "https://www.financialbuzz.com/stellar-cyber-cited-as-cybersecurity-startup-of-the-year/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 2
 
 secured: "ozEQMKtCjM8KefIEG7sF2f4D6aGMMM8nMqDbvW4ZkFq/tW76/flPUhtGYtZrLPg0487R9BGLIJe5CZjc/Yrslsu4xKbCv+jiv/Tw4w64CsucfxHyUHngzX5axFVVeSTbxq2o34y7jPVJwRMXvTBCsV09lbwWgs3iPoF1cENmIvzX2o2Ngt+pxkG3IVbuA0FAvCnbz0sYimXToUN7wdD4NyG/qm5TDDlF8hx8s23qe9t/30M/vc6JzaVgufaFBvCySiVzqCttB3mHyvYnjRIITOuuUbEXtflok6M/ypEvPccNpkeabIUhPeLjvXTzAyVYkiDeDaRiYbpE5uShbtnp7dNPlSeGJ8frjwwHGdCUdqZSwHCj5pA2eAQXtGadu5uaSQp50Kho5LijA6dfLVGX9x5pRlbKxfGwR6xALoLG5vOcMIQ6t0ij3J7MLjjFd1iF4tFeu0IboqPCP8aliZ/RH17YBvAt/lbLcuG2Jy0/jSAbM6jWtL6fDXWg3pNwt8dtaP3laowBanW/WGWlZ4Odiw==;plyQjdSkKUQVUxkfCm1sKg=="
 ---

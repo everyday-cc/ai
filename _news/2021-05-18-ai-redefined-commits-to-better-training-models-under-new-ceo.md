@@ -34,12 +34,12 @@ related:
   - title: "G. Craig Vachon to Lead AI Redefined as CEO"
     excerpt: "AI Redefined (AIR), a human-AI collaboration technology start-up, has fulfilled its own corporate algorithm of sorts by adding G. Craig Vachon, a successful serial entrepreneur, investor, corporate advisor,"
     publishedDateTime: 2021-05-18T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-g-craig-vachon-lead-ai-redefined-as-ceo-/2021/05/18/9371652.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9371652.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
+    quality: 17
 
 secured: "giWZZs4wxXWeZGxpWbvlZwTDjGZU11VgcRl6mp5JoVOs2h7eCgqyj3GviXBWUHCxDKIvbJgYxBSQd4OO5lLZJ9r5oMj3XPUguWuxgJ0tDzLM45Ybk2yVPMdrlG2h51JhzsjD8zDWpVGdGV+SykDqdsw0M6UksaVij9f3B4ynRliDPdR3PIxIDQM97lzG9p8EZheWS2q/7t07DWoipTTf3LCPZf87BtU9QUHr4W7a0MqgQzqtVLneMmsR4VJ3iSyjWypYjg6H/1mc2RU5Hq8yeWc7sdlyH/s+H2xzIWi6i6Wu/ZH1XW/y9/EYSRbPMn7q6AmtzXF67oYdvlYgjzi2s6KMnd9HS9Im/qI2GAPr8/A8rmRuK+TTwNT5hSvWD7L5/sSA/f32KvOYC5+rAfzS4i8jFHu95UlZs+aD4m6q9oMdHKBbZ8lE6jyeoNHexZOboF+rD6PQ26MaoyOwCFmiEO/KSz//2MUA+OVez1fYMCbQOrlTUrVfbg8dS5ozHUdcXCa+2jtl9bheS60xKkC2vQ==;G7l+lcX0RL6SrMycVlN6DQ=="
 ---

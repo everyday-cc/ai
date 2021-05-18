@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-mil
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Bad Robot Games Announces $40+ Million Series B Raise Led By Galaxy Interactive Along With Horizons Ventures And ICONIQ Capital"
+    excerpt: "Bad Robot Games, Bad Robot's video game division, announced today that it has completed a $40+ million Series B raise to create games that are as compelling to watch as they are to play. This round was led by Galaxy Interactive,"
+    publishedDateTime: 2021-05-18T16:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-19812547.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 26
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "JJEJk6L2SxzWL1lu2FiuLIjNeSbaMqIqzk9gNZrNusYVEPiOg/LBm+L9J39WcWHb+jXSSo+kssgpFE92CzBM+x3rMKxH1UTtIx4sUC7yN5GHPOtUZjrAsfus/gETx+Lp1ihOohsvHhPwUaVJNmSOxuXvcFnxSI/rdBBbEZjUUSwZupDNLhB6uwBwnVp8Fb1ZjfRB9Aq1b1e3YFEmljrbTMNsxm0VugPeZ5VmRwcaZKm8RZRCXK/z4j2FHPumVpGZuWW0rO59JRkgR9GacZNSDmAECyxGwhaG7fdRC6a1//FpgKGB3D7NhZKQWepteuw88K6hSknmNIVhoTPLwLGSg2jWaQYSNvTELRV+mBhqv9o=;mCY6KKnnBmYpkby1ajTLtw=="

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The state of data acquisition for analytics and machine learning in 2021, and how startup Explorium scores $75M Series C to capitalize on it"
-    excerpt: "Data science and machine learning are being commoditized, so it's the datasets that make the difference in the end. That's the thesis startup Explorium is capitalizing on."
-    publishedDateTime: 2021-05-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/the-state-of-data-acquisition-for-analytics-and-machine-learning-in-2021-and-how-startup-explorium-scores-75m-series-c-to-capitalize-on-it/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/18/1a4acbf2-0502-4248-9ef8-4a801556ef97/explorium.jpg"
-        width: 734
-        height: 470
-        isCached: true
   - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
     excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
     publishedDateTime: 2021-05-15T09:01:00Z
@@ -124,6 +108,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 36
+  - title: "CFA Institute and the Investment Management Industry Embracing AI and FinTech"
+    excerpt: "Asian wealth management, Asia wealth management, Asia private banking, - Talk of digital solutions and revolutions has been all the rage as Covid-19 has totally transformed the way in which we conduct both our business and our lives."
+    publishedDateTime: 2021-05-18T17:07:00Z
+    webUrl: "https://hubbis.com/video/cfa-institute-and-the-investment-management-industry-embracing-ai-and-fintech"
+    type: article
+    provider:
+      name: Hubbis
+      domain: hubbis.com
+    quality: 36
+    images:
+      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
     excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
     publishedDateTime: 2021-05-14T01:05:00Z
@@ -178,6 +176,6 @@ related:
         height: 630
         isCached: true
 
-secured: "M9j4oWyJ89lQXj9ohcrYbMO5HCCh8gGUwqpqnriKZ1yrnT0OczDPMPRnxMnIQaR+eAU1Tq1fOxW3lSdiVXguh5HcZH77rhvvXbwyADLpIn6pbHOnkrL+n8rwL96CAXJ14587GsBJGlNx2LBZJpSi6AYiYNo0+8tSiWf3IquCTNAXJDlCBRWbOtMsIB1Dyea82Or9ocxSbAEiixH/mBVOiunJUKpISeCBAUIXBGnhCU68Rnvp5QtsQ44U4O17xX1T2yaofzE2tr40429EezHvid3yZhxq2lQaJlVdOP2sd6PmXRybTnn9nTgi0y6QMzU5JKXrei21HLVlaEyxKUia2D9+4cRqUccQgSKbawCsnC4=;4rt6BmFelglmPN8eeEQ/xQ=="
+secured: "kW9U0V73k1bBip5IjKZh28BaYdkr5vkr0HR3BSBhrW8WUSoRh/eizOrMgPbFWQVgXhPbQ5oQlOiDe79gcrMyaGH6qcusy6SoEwOVNEkNwYdnW50eZGBknhyWNY2mhfE3Bj/COQ/pScaxBe7GQZZ0VEapAzr60MiY2IoBeaBJbf8WxpWrH/wDZzrp71y2wmIENlvOnQ8NcSZvyTyDYZgT3sutx3oSEQRAL4hY0/G9xgITXeq1aCJK+lK5x/DK30/0T1ZCirdkBcNgqiQaW85UsEjsEiov0iBjSApKW8PGxepEVdirU6+nJscdzPDQy9FSrXVPrIRxiErU1hz1aQIWuImc363/YL0GivLOgLkgqzQq8S18Pv8rvbFpwdZjNTcxfnbgXcWRMTRrqBe4cvtjnyZifUVlnfDpoFi132eJp1SytlufzLzMncvAuia1Wl7sFi01kGHsivhkstleHFzSHHIt0TwGaFNGLEn5d9qqJsi1h0bMNjh9DYAnC4j4ry0gmqb/Phu72Qbs5tcFqoC9YA==;5Hopjr2jsohSaRGVw/oyZw=="
 ---
 

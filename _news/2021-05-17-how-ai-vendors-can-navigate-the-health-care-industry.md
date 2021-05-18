@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How AI Vendors Can Navigate the Health Care Industry"
-excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
-publishedDateTime: 2021-05-17T12:25:00Z
-originalUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
+excerpt: "The adoption of AI in health care is being driven by an exponential growth of health data, the broad availability of computational power, and foundational advances in machine lear"
+publishedDateTime: 2021-05-17T13:24:00Z
+originalUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2"
+webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2"
 ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
 type: article
@@ -71,6 +71,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lC/crojCs1m1XRZY9wcP2aUfaTIXqb1I5ipxDvoobXZ7mHOjjRlbedPOqjHoSx4rPYIAKaJ6t/DSgK3vdDFi8JuegfolDywIx8N3oRlWXo+IoeF6yoCkFufgMBqKLuGfznoV8o1VUrXo0LGETKEjDoeq7JG5HSxbIvmenooEXVf9f6MpjqoPLclTMsXx/CxpEVsevTD9fwINiBqfMzsJLEfUXET1A+0UILsJauhaBgFgGFEzXiKtEVlfxmEDS59TS+ZqbjsABaHo4vCxU26oFtD/1USy9LhVHtXGlT1rXqSSKUgzSBSoL4liOcWbFN2oG6aEWrsPBgOYSziSv3edYOno4S6o9pZlu1XWx/4mz/e7xCZFUz6Rrv5Z7oitOztRq6qtCOgN27opCw4YpTaeFraPMdWgMx3FhLUEL1lNfYbnzemKcQ/erf3EbftpmRUT+66EDfY7O/RKZaYGO7idIwJm8dR1YQ+smM4/7YwC4LqzP2Rt2And4ZScgRyUkIUf6Suoi08aBGWWyTeFyQqp4A==;CxOV78vA42u+sjZfa3U7/A=="
+secured: "jBQUmfO03yOM/4Me74wJa50eDHDuBFyepEWfTdCD5TuNWXBA+/LX6PlvTA8xwbmnMh7xZDlIzhL2l0BW7y3gFuPe+kjd2NWtIlVerUWX3VNfPK76907+rbQRcdnAWS1i+bKWOibEzNvc6aUWaN22KYT7/w0FC2j9Szi5IfKkI+Nj8wXUU853WEwMkhHmky4t5dvCgvdQ7pCPnQ9pKUl+XhvFtqF9Tz+mK0bODgaio9A4CHPz3ipcMfUEzgKobXo3Jod5FG+FXuiuviQzqFtqnmDFtM34mVOHUk4w4HWKSH8CdgkjO1YCcGVlao1mJc7aCgTfMJI2aIiyhMdIafIuyHw3s8/oZln9ETVVh6QBiVI=;9L8QU3+RWkwzq7hJGBhx9A=="
 ---
 

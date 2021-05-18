@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
-excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
+excerpt: "With many social recognition platforms available to organizations, Workhuman® is proud to be named a Leader by Everest Group in its “Rewards and Recognition Solutions PEAK Matrix®”. This is the third year Workhuman has been named a Leader,"
 publishedDateTime: 2021-05-17T14:10:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
-webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
+originalUrl: "https://www.morningstar.com/news/business-wire/20210517005618/workhuman-recognized-as-a-leader-in-rewards-and-recognition-assessment"
+webUrl: "https://www.morningstar.com/news/business-wire/20210517005618/workhuman-recognized-as-a-leader-in-rewards-and-recognition-assessment"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 500
         isCached: true
 
-secured: "c4obEX3EvL2vUDkB9rE5F+wZfBfm0cjYvLkJSXQTL7bt5a5RBlY7IjI0ESy9x7te3fEbfptRzyQu3LStFZF6FJrE9tYCpcfMKwUjc3MsdW0/arqvasUpyDi/JrYu94D8MwUtnDdQkJCkKJl+mHJTg+/FsIXXlD4zafL3P7ho7DGW7NXk5kTDYyOcr5EyBcLjSBLJxntdgPkhfEKAzxBhitqCufGFMPCHF0qILege5t/2NzbYWuDew0JlOi+o9he9zPsSuESjlQ+m5m/El3oQIo3WyuRs4Uay9gMuRmjRzfQmc+dT3w9ROt45pb6+zqflj6LewaVChQlECbuzr/WPQJjnvcbh6QkCBlFP8uECH5KDmVk3TsHIocJMdHgOX7QPO3KRdX9xQRq4Gnsf9xKtsOIjlwiEMWK4/k/5Uh1QUhdqmAgeI/5cnwZNlzY3L1fhGwRZ4cCI8R1gS8DcYVz9qa8+QDR8Z+ivvYduTgktj0KBFCSwnvUxydF53PB1yzMzzvKUI0phI2OPE6jAS5a93g==;2m1y4bRdflc2Zh6CfPu6sQ=="
+secured: "87NxeteE883P8Z/eD55lMab3KhD+Pn1c3uwlRonNsIUXqrkigFe4g3lY5ZwTmb79Q1eAVA7uhi+t/Om9HW8Mk6H54a/ayc5lWmJQfeaBdg02k5/pCcVtr8L6UiEAC9iN0AT6SINtZTZ2hCGP4zv/tFAse7cP/5MgrCIkryIV56bByPSIO500WN3ccFXnoersI78QjG9ZffBpa5FRv10sOE1syHL2I72RWEH5B41LuwOxPxQKitVFmBRtiQaZWPOweFjsPBfhR1SLZqAjjb7Q3RUppf5VxCGGNLFRORZ5GLn8Y3Gxnv+BS2W61E4Mi+pUnlorm5BGnYVMYG2ZtkeXa9BO/S/i8EmVweUGwpIW0UY=;5BkWQzznnhDf77ck6NZVaQ=="
 ---
 

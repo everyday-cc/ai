@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The state of data acquisition for analytics and machine learning in 2021, and how startup Explorium scores $75M Series C to capitalize on it"
-    excerpt: "Data science and machine learning are being commoditized, so it's the datasets that make the difference in the end. That's the thesis startup Explorium is capitalizing on."
-    publishedDateTime: 2021-05-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/the-state-of-data-acquisition-for-analytics-and-machine-learning-in-2021-and-how-startup-explorium-scores-75m-series-c-to-capitalize-on-it/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/18/1a4acbf2-0502-4248-9ef8-4a801556ef97/explorium.jpg"
-        width: 734
-        height: 470
-        isCached: true
   - title: "AWS and NHL to debut on-screen analytics in Stanley Cup"
     excerpt: "Amazon Web Services (AWS) and the NHL are to introduce two new on-screen analytics for the Stanley Cup. The graphics and visualisations will appear in broadcasts, and aim to give fans a better understanding of how players and teams are performing."
     publishedDateTime: 2021-05-14T09:21:00Z
@@ -113,6 +97,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 36
+  - title: "CFA Institute and the Investment Management Industry Embracing AI and FinTech"
+    excerpt: "Asian wealth management, Asia wealth management, Asia private banking, - Talk of digital solutions and revolutions has been all the rage as Covid-19 has totally transformed the way in which we conduct both our business and our lives."
+    publishedDateTime: 2021-05-18T17:07:00Z
+    webUrl: "https://hubbis.com/video/cfa-institute-and-the-investment-management-industry-embracing-ai-and-fintech"
+    type: article
+    provider:
+      name: Hubbis
+      domain: hubbis.com
+    quality: 36
+    images:
+      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
     excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
     publishedDateTime: 2021-05-14T01:05:00Z

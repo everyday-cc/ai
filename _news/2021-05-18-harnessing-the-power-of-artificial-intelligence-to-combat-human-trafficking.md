@@ -48,7 +48,12 @@ related:
     provider:
       name: bbntimes
       domain: bbntimes.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/companies/Understanding_the_Black_Box_Problem_of_Artificial_Intelligence.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "Vx+R/WLt+2vYlFdUB/aFmoZSxbWVU7hdqWSB8XMKdv+yAburTucR7YYmVa+27pAfFR6Fo0zdFW2G95JyZRS6JllcqSB0sp7Cgplxsagoq1b1cvux//FSMZeKgeYsdVWeZ8ayVWWPAsnbeSU6iFk0J5xd5XYfyQmibRjl8w3IXOBN7pcNCtiIj+80MrzLxezNdDrXHulVsL9uKnXbl8ntfFnNBCg+GukmAMXq3cmtAgvREQrFekJgMFLDELgcoxhDcQvsRu847jZUYHZ6ckelM9QhtkI6XpzS9oZyTGcbSTkc3Nk4/7/PyoBujNZutP1Gr2auMj6+SIgFekp/KsMVY6K6mDUL8sycduO3bRHntTgpkkkO0Qt95BFCxKgSR3Y4IjOfL69CH4pdZgRnQSo9uc1GmEz7Y/nSUMbrCnmztI/Y0X9H01w+uFeyLZcl08JFI85BKWJQjw93gekCJdO5P8IoKe3Of8HwsKIZNFpKkFe06/G5Nl3fGRXQb4zX0PMXuJ4CUGsbnt7nSRDA1bF23Q==;FjrwNmqkErNMKNBZjXgeyQ=="
 ---

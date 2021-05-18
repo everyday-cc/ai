@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-05-edmonton-alberta-on-the-short-list-for-global-players.md",
+      "title": "Edmonton, Alberta: On The Short List For Global Players",
+      "excerpt": "This is why Google’s DeepMind chose the Edmonton region for its first international lab. “We’re going to solve AI,” says Adam White, senior researcher at DeepMind, “and we’re going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
+      "originalUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.businessfacilities.com/wp-content/uploads/2021/04/BF-JanFeb21_Edmonton_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
+      "cdnAmpWebUrl": "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
+      "publishedDateTime": "2021-04-05T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Facilities",
+        "domain": "businessfacilities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-gpt-neo-the-open-source-cure-for-gpt-3-fomo.md",
+      "title": "GPT-Neo: The Open-Source Cure For GPT-3 FOMO",
+      "excerpt": "GPT-3 was the largest language model when OpenAI released it last year. Now, Google Brain’s 1.6 trillion parameters language model (as opposed to GPT-3’s 175 billion parameters) has replaced GPT-3 as the largest language model.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
+      "originalUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-7.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-deepminds-cofounder-partied-with-elon-musk-for-his-raucous-40th-birthday-party-on-the-orient-express-a-new-book-revealed.md",
       "title": "DeepMind's cofounder partied with Elon Musk for his raucous 40th birthday party on the Orient Express, a new book revealed",
       "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% One of the cofounders of Google's buzzy in-house AI company DeepMind once partied with Elon Musk as the Tesla cofounder celebrated his birthday on board the Orient Express, a new book reveals. The Tesla CEO's ...",
@@ -1204,84 +1290,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-how-to-run-ml-applications-on-particle-hardware.md",
-      "title": "How To Run ML Applications On Particle Hardware",
-      "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
-      "originalUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

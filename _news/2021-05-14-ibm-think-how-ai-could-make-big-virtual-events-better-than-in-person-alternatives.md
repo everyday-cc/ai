@@ -43,19 +43,21 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Hybrid cloud and AI mix to change how humans work with software"
-    excerpt: "Microsoft is coupling hybrid cloud with artificial intelligence and has begun articulating how it sees those offerings paying off for customers. It thinks that AI integrated into business and industry will solve issues."
-    publishedDateTime: 2021-05-14T00:05:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/hybrid-cloud-ai-mix-change-humans-work-software-think2021/"
+  - title: "IBM will buy Salesforce partner Waeg to boost hybrid cloud, AI strategy"
+    excerpt: "IBM announced plans to buy Waeg, a consulting partner for Salesforce, to extend its hybrid cloud and artificial intelligence strategy."
+    publishedDateTime: 2021-05-18T16:22:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/ibm-will-buy-salesforce-partner-waeg-to-boost-hybrid-cloud-ai-strategy/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/ibm-will-buy-salesforce-partner-waeg-to-boost-hybrid-cloud-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/ibm-will-buy-salesforce-partner-waeg-to-boost-hybrid-cloud-ai-strategy/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Uli-Homann-IBM-Think-2021-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "IBM Think 2021 Conference: Innovations in Hybrid Cloud and Artificial Intelligence"
     excerpt: "At IBM’s Think conference, the firm announced its advances in artificial intelligence. Hybrid cloud and quantum computing were also highlighted. The objective of these innovations is to help IBM’s clients and partners accelerate their digital transformation or improve their strategy."
