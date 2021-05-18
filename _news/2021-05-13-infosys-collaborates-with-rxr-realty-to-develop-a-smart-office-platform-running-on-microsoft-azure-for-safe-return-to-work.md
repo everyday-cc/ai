@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
+excerpt: "\"Infosys is proud to have worked alongside RXR Realty and Microsoft to create and deploy an intelligent, secure, cloud enabled scalable solution in just a few months that will empower the safe return to work,"
 publishedDateTime: 2021-05-13T15:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420"
-    width: 1200
-    height: 420
-    isCached: true
 
 related:
   - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
@@ -40,22 +34,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft Shuttering Azure Blockchain Services"
-    excerpt: "Microsoft announced that it will retire its Azure Blockchain on Sept. 10, 2021 and advised users to consider using the Quorum Blockchain."
-    publishedDateTime: 2021-05-13T13:18:00Z
-    webUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
-    ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 89
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/05/BIC_microsoft_azure_blockchain_seize.jpg.optimal.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
     excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
@@ -116,6 +94,6 @@ related:
         height: 450
         isCached: true
 
-secured: "nmgzqeGVvU1FB4tbLSo/hk2m+/LuNtgFgQdrtr8a8PVicE6jFA+5sPfnUsbvGILkMhInw6IADd9VCf0uQETzn5Az0xKjZZY00aWYryK63drMQORG3a9+gzWaYKyZaChx+HKBVwnWch4UOSbPGKkC0GlwOG+sIjxEqdCLCam1IScUnim6C+Z85iW6/16hBr6KH7yCrffkDncfIJZFRwsOBRhfGwCg57Uf1YB9/+WBR/SBw5tf8N7HUNFYBu1NlZ6KiZT9gCCIGrx/xVIAR+zF1bIP0aKO8TQNgDys28ssrHfXa1k+QVX53BDo0XNKYHXtor/N3dgU0fA3a1x99ZIGJsmrMVweJQn6OPzcS5PhRNzRtyaOUhjjYS4sKF61/xWzEOcGysOrXpO6BzHDJtN8fMYXHSYax+i3qKJZ+pBfy/AZN5jtMcRdIv+EWwhB91oLT7vZMgTdznyTOxurNKFO82w4+GagYrpOzoM67xKGitmPQ2QSA51dqDzyfrL89sEqKzfEQZMB6K7A1Wg2uCy/PA==;5u99IC5+F5UeqUIsQ6UeKg=="
+secured: "xZEPdyZnm0MDYcakzAT/wZEI3q/7MwAppTzZ7YaEx4Hg6P01dTZRhin0RSoRBsKjtbNNas3+Ofdnp3BX08vlMoY3ouFEqZD15otk2Q3A2S3OJhPVsvNHo58Li0Ei+myzoIecBlx36LOXfl8nfC5/SmW41vygpKl9EMf7C9MElnO1JnEku72Iw2mZeTF95n0oYaQunFhK5bfV9mqlN0deT8KJghPP+vYuLOGA2P976wD9Tbt8z/snup1B7xIa8g3EW0CqZI+2MJbw+TzzmtSRz9qpL71AoqY4YMa+HkeZqLhVEtHMLjKqB8PI3xDe0Uc6XJD0ui+xAuP83szSnXvB/cpuNSprOQ+k2A7dhrlMl7Y=;Q50Etq/9t3GjWsXcGB5CQg=="
 ---
 

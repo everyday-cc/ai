@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-03-top-tech-stocks-to-watch-right-now.md",
+      "title": "Top Tech Stocks To Watch Right Now",
+      "excerpt": "The company has five segments in the tech industry. It includes cloud and cognitive software and also global technology services. IBM stock currently trades at $141.25 as of 10:30 a.m. ET.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
+      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams.md",
       "title": "ContractPodAi Partners with Qualitas Consulting Group to Introduce AI-Powered Contract Management to More Legal Teams",
       "excerpt": "ContractPodAi ®, the award-winning legal tech company and leader in AI-powered contract lifecycle management (CLM) solutions, today announced its partnership with Qualitas Consulting Group, a leading full-service consulting organization providing technical and functional expertise for business process,",
@@ -1321,49 +1355,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-ibm-korea-boosts-hiring-as-hq-shifts-biz-to-cloud-ai.md",
-      "title": "IBM Korea boosts hiring as HQ shifts biz to cloud, AI",
-      "excerpt": "seeking to compete with titans such as Amazon and Microsoft. IBM's cloud business sales rose 19 percent year-on-year in 2020, and there are projections that sales from cloud services could account ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/04/133_307583.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/04/133_307583.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/4eace6259281450fa2d198d3a6a7dc00.jpg",
-          "width": 400,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=307583",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=307583",
-      "publishedDateTime": "2021-04-23T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
         "publishers": null,
         "authors": null
       },

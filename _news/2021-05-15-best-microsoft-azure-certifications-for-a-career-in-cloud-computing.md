@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Shuttering Azure Blockchain Services"
-    excerpt: "Microsoft announced that it will retire its Azure Blockchain on Sept. 10, 2021 and advised users to consider using the Quorum Blockchain."
-    publishedDateTime: 2021-05-13T13:18:00Z
-    webUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
-    ampWebUrl: "https://beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/microsoft-shuttering-azure-blockchain-services/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 89
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/05/BIC_microsoft_azure_blockchain_seize.jpg.optimal.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
     excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
     publishedDateTime: 2021-05-14T04:37:00Z
@@ -102,19 +86,14 @@ related:
         height: 450
         isCached: true
   - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
+    excerpt: "\"Infosys is proud to have worked alongside RXR Realty and Microsoft to create and deploy an intelligent, secure, cloud enabled scalable solution in just a few months that will empower the safe return to work,"
     publishedDateTime: 2021-05-13T15:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420"
-        width: 1200
-        height: 420
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 8
 
 secured: "eI7VjBqwF0SUOXSNU5XvfzG4+KxuGb7nUXRubO1ooAM6wnLmu8gY7Cl+b85U4+eGOfTEwgV2fKe91sGiXxyhZsteUiyvWT5E/0VFjFwWlXIR/rHhmWvhJkMOtGkKPs7zovxwOGp9VrjQ0z6rsFJ7pICm9qsPS6U9c/vM9QKmIBF2rWVopMh74MACrF/y01rlICqaGU6K4zQt6fOLPbNdOgC5t7oXXiz2dZS1Go9VkhbRqjOV96nqnYQ/OB9qi9rHJwwjIC9t6jv8e1JkGFFa52+9AeBONhYgLoQIiTA8fd2yXbbmr3o3W9Ycn4rMMh19KGEr99zSWM0OazJSqchm4oaqFrWExkOMh5z/aXA4yW4=;oDbFOEszWXJhFi7gbO46bw=="
 ---

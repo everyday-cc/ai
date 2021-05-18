@@ -7,7 +7,7 @@ originalUrl: "https://www.channelweb.co.uk/news/4031410/cisco-adds-cybersecurity
 webUrl: "https://www.channelweb.co.uk/news/4031410/cisco-adds-cybersecurity-service-acquisition-kenna-security"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "8 investors and founders highlight Valencia’s potential as a fintech and cybersecurity hub"
+    excerpt: "While Madrid and Barcelona tend to attract the buzz when it comes to tech startups in Spain, Valencia is slowly and surely making a name for itself as a growing tech ecosystem."
+    publishedDateTime: 2021-05-18T06:58:00Z
+    webUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/"
+    ampWebUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1074195486.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "HCL Technologies Looking to Hire Professionals Fields of Cloud, Artificial Intelligence and Cybersecurity in UK"
     excerpt: "HCL Technologies has been present in the UK since 1997 and its UK operation employs 3,500 people across various locations, supporting over 50 clients"
     publishedDateTime: 2021-05-17T12:41:00Z

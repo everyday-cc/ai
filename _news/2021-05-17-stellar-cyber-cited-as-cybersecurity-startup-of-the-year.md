@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "8 investors and founders highlight Valencia’s potential as a fintech and cybersecurity hub"
+    excerpt: "While Madrid and Barcelona tend to attract the buzz when it comes to tech startups in Spain, Valencia is slowly and surely making a name for itself as a growing tech ecosystem."
+    publishedDateTime: 2021-05-18T06:58:00Z
+    webUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/"
+    ampWebUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1074195486.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cisco adds to cybersecurity service with acquisition of Kenna Security"
     excerpt: "Cisco has announced its intention to acquire risk-based vulnerability management firm Kenna Security to bolster its cybersecurity offering. The California-based company uses machine learning and data science to track and predict possible cyber risks and will \"empower security teams to manage the ever-evolving threat landscape\","
     publishedDateTime: 2021-05-17T11:46:00Z

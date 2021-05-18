@@ -59,6 +59,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "DMV probing whether Tesla violates state regulations with self-driving claims"
+    excerpt: "A review of Tesla's claims around its self-driving technology comes after a spate of accidents and videos showing owners 'driving' from the back seat."
+    publishedDateTime: 2021-05-18T03:47:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-05-17/dmv-tesla-california-fsd-autopilot-safety"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-05-17/dmv-tesla-california-fsd-autopilot-safety?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-17/dmv-tesla-california-fsd-autopilot-safety?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 71
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9d4ccf7/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2Fea%2Fd26db18a34a9692d694e1b0a48ba%2Fla-1557255076-hhgzax4ff3-snap-image"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Self-Driving Cars Dealing With Those Barefaced Acts Of Repeated Brake-Checking By Human Drivers"
     excerpt: "Dealing with brake checking in an era of self-driving cars, including human drivers that aim to brake check those vaunted AI driving systems."
     publishedDateTime: 2021-05-17T15:30:00Z
@@ -90,6 +106,34 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2021/05/GettyImages-545144494-e1621292006200.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tesla is under review by the DMV for its ‘full self-driving’ claims"
+    excerpt: "The California Department of Motor Vehicles is reportedly investigating Tesla Inc.’s claims regarding its vehicles’ full self-driving capabilities. Regulators will try and ascertain if the company has falsely promoted the feature,"
+    publishedDateTime: 2021-05-18T03:21:00Z
+    webUrl: "https://siliconangle.com/2021/05/17/tesla-review-dmv-full-self-driving-claims/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/30430513415_91a6217882_z.jpg"
+        width: 638
+        height: 358
+        isCached: true
+  - title: "Tesla is under review by the DMV for claiming ‘full self-driving’ capability"
+    excerpt: "The California Department of Motor Vehicles is reportedly investigating Tesla Inc.’s claims regarding its vehicles’ full self-driving capabilities. Regulators will try to ascertain if the company has falsely promoted the feature,"
+    publishedDateTime: 2021-05-18T03:39:00Z
+    webUrl: "https://siliconangle.com/2021/05/17/tesla-review-dmv-claiming-full-self-driving-capability/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/30430513415_91a6217882_z.jpg"
+        width: 638
+        height: 358
         isCached: true
   - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
     excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."

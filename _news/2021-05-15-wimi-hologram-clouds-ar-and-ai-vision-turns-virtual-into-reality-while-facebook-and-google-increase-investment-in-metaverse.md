@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-15T00:42:00Z
 originalUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
 webUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
 type: article
-quality: 12
-heat: -1
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Finance
 
 images:
   - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"

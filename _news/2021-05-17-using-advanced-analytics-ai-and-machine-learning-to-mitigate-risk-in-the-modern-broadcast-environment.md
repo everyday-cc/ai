@@ -55,17 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI Supports Low-Risk Member Identification, Care Management"
-    excerpt: "Payers can leverage artificial intelligence and machine learning to inform their intervention strategies in low-risk populations and improve their care management approaches."
-    publishedDateTime: 2021-05-13T13:30:00Z
-    webUrl: "https://healthpayerintelligence.com/news/how-ai-supports-low-risk-member-identification-care-management"
-    ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-ai-supports-low-risk-member-identification-care-management"
-    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-ai-supports-low-risk-member-identification-care-management"
-    type: article
-    provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 39
   - title: "AWS and NHL to debut on-screen analytics in Stanley Cup"
     excerpt: "Amazon Web Services (AWS) and the NHL are to introduce two new on-screen analytics for the Stanley Cup. The graphics and visualisations will appear in broadcasts, and aim to give fans a better understanding of how players and teams are performing."
     publishedDateTime: 2021-05-14T09:21:00Z

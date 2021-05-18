@@ -3,8 +3,8 @@ category: news
 title: "Understanding dimensionality reduction in machine learning models"
 excerpt: "Data scientists use dimensionality reduction in machine learning models to remove irrelevant features from busy datasets."
 publishedDateTime: 2021-05-17T02:22:00Z
-originalUrl: "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/?via=indexdotco"
+originalUrl: "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/"
+webUrl: "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/"
 ampWebUrl: "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/amp/"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 850
     isCached: true
 
-secured: "h96j63hgXssiA09B3vAyFhafO8q0sUzvfOunpAD2rbtXP6HZpjj+KiphRAjFUfmQYxlQ7NXamAzSeb7x0zDo8ZuRBLfGh/pLsEKvr1hJ47Yt1siDaolq5A3S0S3GhTaMO4kgslvGUHGftqmQKuiuxQ+wiy2unty1H29vbUe33Wkm85jDIlzG/Fazjn1C0P0fqTz3ncGSFdz96wjq4mG9T22aqrR8gaTAYU7CI5O8gcNS/CLst7hIpnY97+i30n8X9fAhBwfUPx6uCG1+Rp5VWMQ1NMiqJz80CmmFSBRp8OVx1c/HYtdZKgeyWp4L4EgypUxgitA6gpPqRj7rl656cWuLhK1iFvxJWt+f4YJBX6w=;qRwESfn9Y90jXOT/Imf+ww=="
+secured: "BdosaBwTc+jWibyZ7BzCKiFkySJk0G6YZpI+iff/ZG6RGa1gEfosC/osZCUITpY7JxiwNcbNecZrpIJ76Dl+TV5ej7kmuoGtEAI/kZDExSChD4uZryIXAyhjwYTMf55ZNngEJG6di6wqHySkE76roYRrr7gx+X8hB6kRyyD19ObOupUMh1cSYm1YcNH/XMQDQ2myaQpdFvCayLMPc5VQZ/c9UMvydnQ5OaVoVvUUFP/fvZd99J4asj/bcfgZd11QYTRamscc40c9Esk6pTggN3gK55TzvNcl4ij57LI1rwnpMvCR6dT2Q7E0uhLYDsaJ9md0RXxv+AzQe3PDxdDcnNLWvrpYmmDIFc3dl2X5lgU=;ZxU1NPhlrlqdtBUAWIQbRw=="
 ---
 

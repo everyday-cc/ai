@@ -25,6 +25,22 @@ images:
 
 related:
   - title: "Machine learning (AI) accurately predicts cardiac arrest risk"
+    excerpt: "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest—when the heart suddenly stops beating—using a combination of timing and weather data,"
+    publishedDateTime: 2021-05-18T07:22:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-cardiac.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
+  - title: "Machine learning (AI) accurately predicts cardiac arrest risk"
     excerpt: "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest--when the heart suddenly stops beating--using a combination of timing and weather data,"
     publishedDateTime: 2021-05-17T04:00:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2021-05/b-ml051321.php"
@@ -38,6 +54,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
+    excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
+    publishedDateTime: 2021-05-18T06:59:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 11
 
 secured: "Vc3QGYlOmznpZD1xwIrhI94nUBAxsKmUcvaMNWKRn1Mncrr0zEiOh9QBBlKod1zq3+m72/+wTd3JUpuNqibynDFmkjoQ8SMLtMcM2Ez06qbm2yCyphbJ/Ol1BSKjDM8uVXUOK9GDodaMGSLFlYJxoa4g/M/ferJg4ctr2Uew8cM15oA+3afL7dlc4FZ+Dc7Dzc0n2Y+o3Oi19D/31NBDNCZ1/XXzNFgGTy6isELcQxxH6QmNuNgBX6YrhRRSbB0qmUwfMpynX2h8I0JT12z2wEGeH527oB/HeOEepkI3hTpF2l90+faoPn6IXR0DgEha/eweUHQSMDr0Qe0UoRhuZ9Bt9tVKGdkB0iprAcKSTWE=;W5CbnzRD5mEPPTyWafGWaQ=="
 ---
