@@ -17,7 +17,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11665
+        "followers": 11663
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -90,7 +90,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 254213
+        "citations": 254889
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -127,7 +127,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 223876
+        "citations": 224052
       },
       "affiliation": {
         "path": "",
@@ -198,7 +198,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 47326
+        "citations": 47393
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -365,7 +365,7 @@
       "bio": "National Research University Higher School of Economics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
-        "citations": 142871
+        "citations": 143045
       },
       "affiliation": {
         "path": "",
@@ -404,7 +404,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 251024
+        "citations": 251315
       },
       "affiliation": {
         "path": "",
@@ -441,7 +441,7 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 990
+        "followers": 989
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
@@ -492,7 +492,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Bgzrdc8AAAAJ",
-        "citations": 154928
+        "citations": 155168
       },
       "affiliation": {
         "path": "",
@@ -740,7 +740,7 @@
       "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
-        "citations": 159851
+        "citations": 159988
       },
       "affiliation": {
         "path": "",
@@ -887,7 +887,7 @@
       "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 197266
+        "citations": 197490
       },
       "affiliation": {
         "path": "",
@@ -921,7 +921,7 @@
       "bio": "Professor Emeritus, EECS, UC Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=S6H-0RAAAAAJ",
-        "citations": 274193
+        "citations": 274369
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lotfi_A._Zadeh"
@@ -1033,7 +1033,7 @@
       "twitter": {
         "username": "madelinegannon",
         "url": "https://twitter.com/madelinegannon",
-        "followers": 3105
+        "followers": 3106
       },
       "topics": [
         "AI",
