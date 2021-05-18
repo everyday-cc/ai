@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp"
 type: article
 quality: 72
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Daily Dot
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla’s Full Self-Driving package claims are under DMV review for misleading advertising"
+    excerpt: "The California DMV is reviewing Tesla’s claims regarding the Full Self-Driving package for potential misleading advertising, according to a new report. The report in question is coming from LA Times‘ Russ Mitchell,"
+    publishedDateTime: 2021-05-17T22:28:00Z
+    webUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/"
+    ampWebUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 95
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/11/Screen-Shot-2019-11-11-at-12.20.37-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Self-Driving Cars Dealing With Those Barefaced Acts Of Repeated Brake-Checking By Human Drivers"
+    excerpt: "Dealing with brake checking in an era of self-driving cars, including human drivers that aim to brake check those vaunted AI driving systems."
+    publishedDateTime: 2021-05-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
     excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
     publishedDateTime: 2021-05-13T10:01:00Z
@@ -59,6 +91,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
+    excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
+    publishedDateTime: 2021-05-17T22:56:00Z
+    webUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/"
+    ampWebUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 57
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/05/GettyImages-545144494-e1621292006200.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
     excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
     publishedDateTime: 2021-05-13T19:28:00Z
@@ -70,6 +118,31 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 39
+  - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
+    excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"
+    publishedDateTime: 2021-05-17T07:04:00Z
+    webUrl: "https://www.techjuice.pk/changan-aims-to-be-the-first-company-to-bring-self-driving-cars-to-pakistan/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 37
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/V-Cross-e1592210464539.png"
+        width: 1004
+        height: 560
+        isCached: true
+  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
+    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
+    publishedDateTime: 2021-05-14T11:04:00Z
+    webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
+    type: article
+    provider:
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 31
   - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
     excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
     publishedDateTime: 2021-05-14T12:41:00Z

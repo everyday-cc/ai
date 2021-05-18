@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Dealing With Those Barefaced Acts Of Repeated Brake-Checking By Human Drivers"
-    excerpt: "Dealing with brake checking in an era of self-driving cars, including human drivers that aim to brake check those vaunted AI driving systems."
-    publishedDateTime: 2021-05-17T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
+  - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
+    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as a worker from the company’s roadside assistance arrived to help."
+    publishedDateTime: 2021-05-17T23:39:00Z
+    webUrl: "https://kesq.com/money/2021/05/17/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
-        width: 1199
-        height: 675
+      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Will we be liable for the decisions of our self-driving cars?"
     excerpt: "Given other liabilities, it’s not much of a logical leap to hold drivers responsible for the actions and inactions of the self-driving car they’re in and responsible for."

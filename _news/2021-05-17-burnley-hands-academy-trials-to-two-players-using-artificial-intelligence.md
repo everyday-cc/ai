@@ -9,8 +9,8 @@ ampWebUrl: "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-
 cdnAmpWebUrl: "https://sportstar-thehindu-com.cdn.ampproject.org/c/s/sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Hindu
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Soccer-Burnley hand academy trials to two players using artificial intelligence"
+    excerpt: "REUTERS: Burnley have handed trials for their academy to two players this week after the pair were scouted on talent identification platform"
+    publishedDateTime: 2021-05-17T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/sport/soccer-burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-14827198"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8696096/16x9/991/557/a8d6d3290493335c3da84e6260e34509/tf/sports.png"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Football: Burnley hand academy trials to two players using artificial intelligence"
     excerpt: "Burnley have handed trials for their academy to two players this week after the pair were scouted on talent identification platform Aiscout using artificial intelligence, the Premier League club said on Monday (May 17)."
     publishedDateTime: 2021-05-17T10:18:00Z

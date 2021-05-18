@@ -40,6 +40,20 @@ related:
         width: 590
         height: 442
         isCached: true
+  - title: "Soccer-Burnley hand academy trials to two players using artificial intelligence"
+    excerpt: "REUTERS: Burnley have handed trials for their academy to two players this week after the pair were scouted on talent identification platform"
+    publishedDateTime: 2021-05-17T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/sport/soccer-burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-14827198"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8696096/16x9/991/557/a8d6d3290493335c3da84e6260e34509/tf/sports.png"
+        width: 991
+        height: 557
+        isCached: true
 
 secured: "CJbEliiDAruFL78WZiDN8rUQ7LkT4nszhTr/eiy9DleEKdH/jCd3R0NUEIg5o0V6j863l4ieFc9uQs6OcXMuJN6lY8gcNjySeir4Hl/yGu4Yqnfa/eqVfoJ/cF5ZgWHz70yUOvyk4bvxrX6XW4Ffit1ynUphXxqBI7FAzETzq61w2opTzKo9vvFXYO+m87qYZQGa2NieIKbpAs6z/7DH2V8zJpGtXvq81o48WwV7X5NO1CxI9vHt9vTK4L3UD6hQ57Aqxm2+IzaVMm7cnaCcVRbrgTlGkid76jv/zzow/W1wWCdEjblY3nsdpAbo/2+8LjKV57HfYUWV2xXLehRQhoI9/YeFaCj4F5SIuOChg/tLd4SjMyAPCSOgp537DSQOMGtzG6DmNhImncxJAJbMJ80Ns1CUuD7mMLVjanUxihFXRJ3d2ryfOE0ykJtqFowFf9VctKKdvSTul7HPR+Sz9FyYgWrsUdCsKWXMhXTUkPe0ip+FH/suqkGElaA5Nr3AN+8J8XpmUvQ1GwRSfPqkqw==;233g7zOmbDbbKJ1KPa9vIQ=="
 ---

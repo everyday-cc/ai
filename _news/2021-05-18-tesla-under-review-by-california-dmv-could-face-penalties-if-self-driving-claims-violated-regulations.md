@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
-excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
-publishedDateTime: 2021-05-13T19:28:00Z
-originalUrl: "https://futurism.com/remorseless-man-brags-tesla"
-webUrl: "https://futurism.com/remorseless-man-brags-tesla"
-ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
-cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
+title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
+excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
+publishedDateTime: 2021-05-17T22:56:00Z
+originalUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/"
+webUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/"
+ampWebUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
+cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2021/05/GettyImages-545144494-e1621292006200.jpg?w=1280"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Tesla’s Full Self-Driving package claims are under DMV review for misleading advertising"
@@ -101,22 +107,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
-    excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
-    publishedDateTime: 2021-05-17T22:56:00Z
-    webUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/"
-    ampWebUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
+  - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
+    excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
+    publishedDateTime: 2021-05-13T19:28:00Z
+    webUrl: "https://futurism.com/remorseless-man-brags-tesla"
+    ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 57
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/05/GettyImages-545144494-e1621292006200.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Futurism
+      domain: futurism.com
+    quality: 39
   - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
     excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"
     publishedDateTime: 2021-05-17T07:04:00Z
@@ -171,6 +172,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "gGaSkQpcM9ldYrXMLFXWGMzPNadxsQpgfg7mWl9Bf68Do4BRXnQDaWiULw4YZLEM9EhvgdBOC2q0xvisf1mD2JENd7gJ4cukueMULC6l3Xa54oGTJ1WopHrGcF8R3u/wopswfPAWlOSyzF7Aa/AJxWJ+dD6hihc93hgBSaEJH/1K4DolDU7UdM2sEoCGvwO/AWMAlGuEkc62R07AAv1Wrjz9r638TVN6qTVw7bvgARjlXjmxpwlXOcrch6ThiRNT2SCRgKKA0RrkZmTiJP/5xlWTzU4QeTbeet0TDo/PGDgi6+XVkRjN4r4DgBoH3yeJiZnHq/tZHzp4j0QoM8oFRoBytDSNWKxEOLgnIhO1e6AQ5GTTZUBob+6FnXKQegR5DGWt34LsWb8nGy3RElF0g5r/VnN0G8Q2jytqUFw0mKZhDLRAV8IkfalRwfHzBla/EjF+QmlVhDGIW/6OzdauIxuGPA4+EiWFwEKHupX9YEIAyyz/c2fBh6iXGACBHXVO6iXUV1zQtXB6oHskJliVyg==;fG/Q278C0uTt6iWBqRkXVA=="
+secured: "jKTZCDf491hG9ioP+FsYbUipd04xLrScArYO4YahPBD5Sb5sYWOolTf0R1+NjtoPaJMkBUPjyERG9bajbZiG1rQPMDLgFUtZfqOuGjX8ig19T1tgDiKhrQ6o7I1o65IlkIgtANV1vpnTi/na7dAVf5YLUr8zfmwx3tpOmjys9Vq8uVFMXmvNFpx56ny5gV+REYRrgjld06Heoo4eY0Qg5q1cOlXZhtySUUANtWbM7IFpopwtIy94u+2svWHJc24zltJurRfEbfRKXa5v6LKf8T3v//82sElXk7U4BDSL5xn9r+R6d4llla8cnwTOTKNb+u6gR2ncir/tViJzWTn7aK/+ugQim5aaNffBIHoTYBw=;OQut7aRwZedCR37XMWG+vg=="
 ---
 

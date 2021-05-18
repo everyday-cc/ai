@@ -24,6 +24,22 @@ images:
     height: 515
     isCached: true
 
+related:
+  - title: "Harnessing the Power of Transfer Learning to Detect Code Security Weaknesses"
+    excerpt: "Detecting vulnerabilities in code has been a problem for decades. Now, we've patented a method more effective in detecting CWEs than a comparable analyzer."
+    publishedDateTime: 2021-05-17T22:14:00Z
+    webUrl: "https://securityintelligence.com/posts/transfer-learning-to-detect-code-security-weaknesses/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 38
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/05/Transfer-Learning-Code-Security-.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "DKv8BXyW6yjwJ/fhpMN/w8c9+ZNbfs6sORoxdXQAgVyg/tWoFI0XtL6uPpa2eKScMEnTnsMRF6fuk+rvOH4z9VgYCRoZM2EU0t4g1av37x9S1HClHs0MjLmJJowALrYXe2A/AuF+yGoeLY2BdsLAZl28coIdAsg0moMe5fNZXfkYyxFnB2QsqwRpuonF3v6d76vjSCu2uQ5wdxuLyTBgOmnGBzMvqrLjjJtO1M3dknUc7MmJF4vLHDXSSV4qX94E7FoxSSGtXlxzkgkdxz/YjQCGli8FVzOGqythLZ0utBWABJH+E1Kw+ewBxehQUbwk2M9Txbn2E4ZfnN75eYsWqCp4T93QItjaLB638jLa9pA=;g48GQ9d5CgBdrWxp0vTMRg=="
 ---
 

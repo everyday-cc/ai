@@ -1,42 +1,36 @@
 ---
 category: news
-title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
-excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
-publishedDateTime: 2021-05-13T19:28:00Z
-originalUrl: "https://futurism.com/remorseless-man-brags-tesla"
-webUrl: "https://futurism.com/remorseless-man-brags-tesla"
-ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
-cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
+title: "Tesla’s Full Self-Driving package claims are under DMV review for misleading advertising"
+excerpt: "The California DMV is reviewing Tesla’s claims regarding the Full Self-Driving package for potential misleading advertising, according to a new report. The report in question is coming from LA Times‘ Russ Mitchell,"
+publishedDateTime: 2021-05-17T22:28:00Z
+originalUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/"
+webUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/"
+ampWebUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 95
+heat: 195
+published: true
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/11/Screen-Shot-2019-11-11-at-12.20.37-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
+
 related:
-  - title: "Tesla’s Full Self-Driving package claims are under DMV review for misleading advertising"
-    excerpt: "The California DMV is reviewing Tesla’s claims regarding the Full Self-Driving package for potential misleading advertising, according to a new report. The report in question is coming from LA Times‘ Russ Mitchell,"
-    publishedDateTime: 2021-05-17T22:28:00Z
-    webUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/"
-    ampWebUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 95
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/11/Screen-Shot-2019-11-11-at-12.20.37-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos"
     excerpt: "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash."
     publishedDateTime: 2021-05-16T14:49:00Z
@@ -117,6 +111,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
+    excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
+    publishedDateTime: 2021-05-13T19:28:00Z
+    webUrl: "https://futurism.com/remorseless-man-brags-tesla"
+    ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
   - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
     excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"
     publishedDateTime: 2021-05-17T07:04:00Z
@@ -171,6 +176,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "gGaSkQpcM9ldYrXMLFXWGMzPNadxsQpgfg7mWl9Bf68Do4BRXnQDaWiULw4YZLEM9EhvgdBOC2q0xvisf1mD2JENd7gJ4cukueMULC6l3Xa54oGTJ1WopHrGcF8R3u/wopswfPAWlOSyzF7Aa/AJxWJ+dD6hihc93hgBSaEJH/1K4DolDU7UdM2sEoCGvwO/AWMAlGuEkc62R07AAv1Wrjz9r638TVN6qTVw7bvgARjlXjmxpwlXOcrch6ThiRNT2SCRgKKA0RrkZmTiJP/5xlWTzU4QeTbeet0TDo/PGDgi6+XVkRjN4r4DgBoH3yeJiZnHq/tZHzp4j0QoM8oFRoBytDSNWKxEOLgnIhO1e6AQ5GTTZUBob+6FnXKQegR5DGWt34LsWb8nGy3RElF0g5r/VnN0G8Q2jytqUFw0mKZhDLRAV8IkfalRwfHzBla/EjF+QmlVhDGIW/6OzdauIxuGPA4+EiWFwEKHupX9YEIAyyz/c2fBh6iXGACBHXVO6iXUV1zQtXB6oHskJliVyg==;fG/Q278C0uTt6iWBqRkXVA=="
+secured: "NUTQMO22SNIiwLRc0t/h4aII3uYiZiQi8DUXzqnCPSIOzZrFYrl9gaHKJQHSmv3QLYEwVHw2pdw8ui2pnhY7n3c31y1UuZuG4hI6VIBIIo61YDDJiyWsiazXA+unK5gLo7ukagxdnq7xc8r4KvQ2vp93AOG7y+sty3f75f3ZruAiOoYYI5cAUSSZZ0VdGG4XnnujAJGt5sXurvHlehL3kev3LwZoZTeEGW9iDoiPBO+imFSduWiUdhv45jijz4WtwKxBJLtVgdrNnI9vs3CQttK5YNl4NLLQMPaRMaWgrfofrpWfFLjexCG9iB1k1Xx5LeMfy6ew3oi0Ea0KGANUpVa1bXAdSsNBxknKPxzkFuY=;699neDpcb77yr9xuna8wEw=="
 ---
 
