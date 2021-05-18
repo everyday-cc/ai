@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
-    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
-    publishedDateTime: 2021-05-14T04:37:00Z
-    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 74
-    images:
-      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
-        width: 620
-        height: 348
-        isCached: true
   - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
     publishedDateTime: 2021-05-18T16:41:00Z

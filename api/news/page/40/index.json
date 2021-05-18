@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-04-15-using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all.md",
+      "title": "Using Bountiful Blurring To Keep Self-Driving Cars From Telling All",
+      "excerpt": "The future of cars consists of self-driving cars (see my extensive coverage at this link here). These are cars that have an AI driving system at the wheel of vehicle. The driving actions are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6056c1beb5fdb34205f9a91e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D617%26cropY1%3D14%26cropY2%3D361",
+          "width": 617,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/",
+      "publishedDateTime": "2021-04-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-nvidia-and-cloudflare-offer-ai-to-all-developers.md",
       "title": "NVIDIA and Cloudflare offer AI to all developers",
       "excerpt": "Cloudflare also announced it will support TensorFlow, the open source tool for testing machine learning models, so developers will have access to familiar tools to help build applications before ...",
@@ -1096,58 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
-      "title": "Modular mobile robot can take on multiple roles at construction site",
-      "excerpt": "Austrian startup Printstones has been developing robotic 3D-printing robots since 2017, and has just pulled back the curtain on its latest prototype, a mobile multi-tasking construction bot called the Baubot.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0691c04/2147483647/strip/true/crop/3084x2056+106+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2F84%2Fe6e51926454eaacd6abed52030a4%2Fstairs-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "publishedDateTime": "2021-04-13T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

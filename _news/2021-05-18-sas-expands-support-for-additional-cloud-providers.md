@@ -3,8 +3,8 @@ category: news
 title: "SAS expands support for additional cloud providers"
 excerpt: "SAS continues its commitment to ensuring advanced analytics run where customers locate their data. As part of its strategic partnership with Microsoft, SAS Viya was released in November on Microsoft Azure."
 publishedDateTime: 2021-05-18T15:22:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/orlando-magic-health-business-technology-sports-844965e2ebf5c6702265591e38932521"
-webUrl: "https://apnews.com/press-release/pr-newswire/orlando-magic-health-business-technology-sports-844965e2ebf5c6702265591e38932521"
+originalUrl: "https://apnews.com/press-release/pr-newswire/orlando-magic-health-business-technology-sports-844965e2ebf5c6702265591e38932521/gallery/7fc0b29e09456860ac0ced13639fc2ea"
+webUrl: "https://apnews.com/press-release/pr-newswire/orlando-magic-health-business-technology-sports-844965e2ebf5c6702265591e38932521/gallery/7fc0b29e09456860ac0ced13639fc2ea"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "OEPlOX5tLjSbhl1giplwew/6+V96Nam2w6YLD+HmpNNKFQMsiNPg+1T4atCJkbmqaLyxoxYxu8DXJWB5+tALnmyX6fsWrdA+S+vHNrF8Ke9TL7VgRhQNnLatkH6hBfKygt5dcw0JbbPSmvQ5O36l4dVleeKJM+9fVNO1Y4QISuKXkrQ4iFlq0V3GD3swtEbAiibQ/R5DikbN/SxKlLnbv5R8otfEx58glfNmyjf/0xe10Jz1YTU9iK+UyK5n6PkD9rhbDGQyxIRpr5nPIMPxEy/Fh8JdOs3fjGlO4UQrfPw2odgMAR3Ic/ZCg/LOax8vGKcEpmElqtd6a/+aECdnG9xprJA4IyvZb6+xtmhFhpM=;D4pJ3NfaxLyjGuOBweRTjA=="
+secured: "BdLIQTijYxtp3OWMiRdDdTvLiZAr31HTxgoanzDbxBcA0VTu5iV9RVRGp/ipudMBift5ZU8CafQiCeLrGsPORk2JIvbzBsNNfHArdbBZbp+eHApVkW/2CgLUEtfEXnN6fRTdFg5DGs6XqlbLjBHHVFUr23Mxwssh3Y0yV46Sbuyrs7k+1uQTv4i9eVwOA/4v5EkqUUGnFpPdIB518LQWGj9JAm2eHZe9b9vgXqjrlBiD1P+/MpeTUKC8FKPNtvvs4OpWwyCJGsaeQSghD/BzdoOAYPZ1J8As5ucKmPoVwl6GTZ3sge/euFUxZrnPGqeW0MYyGOyqAs6XzicEkllP7WEx8EjhSnnyz9mmp3cejJk=;06CJEoSKwwcAwuJNzcs3Sw=="
 ---
 

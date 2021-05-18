@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026"
-    excerpt: "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,"
-    publishedDateTime: 2021-05-14T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
+  - title: "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report"
+    publishedDateTime: 2021-05-17T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
-    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. 1) An overview of the global market for Artificial Intelligence ..."
-    publishedDateTime: 2021-05-14T07:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

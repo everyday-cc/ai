@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2021/05/18/1024910/evolving-to-a-more-
 ampWebUrl: "https://www.technologyreview.com/2021/05/18/1024910/evolving-to-a-more-equitable-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/18/1024910/evolving-to-a-more-equitable-ai/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/SF_case_3_image.jpg?w=1200"
@@ -53,6 +54,6 @@ related:
       domain: acm.org
     quality: 17
 
-secured: "vCg86+izBGb4NlGlmEq3zwXYxkpeWKmw3pLbyrAFBYSBrxrZQb2APpSCJ+IdKxPLEE9FYw5DXOMk2LkjIsaIM+6F3Npc7phIDCmF4pb9BHW5Mb6PsKeG3WQdq6ZAqa/jbekfN35W4UUPNB/NQbsN4JkoleTEocgo6DCFzIcRc654DHnbDLifZnNiREruLYKIK5mQT+GTYSwi9YgI3EULav5kH6Rbq8KohZi8VCXpAEq9xII73aGKdXduWRXBlYT8eS16/okroyiG4ieJOPVK4V6zZIJZI6zixZ59Pm742pboKjlStkMNrf1ozpl14M4rc+sypdBpKEKTm+UAAcI9SwL5hCs1HBo6Fhtfi3dqctg=;hhWK0RtqIPKNW2oXVCxBxw=="
+secured: "KoIn+KhyuHqXd5E2SEXc8Pcn6ku/Z78OSR6Mpbg0bHIGkvPMGJHuLGBAO1t8gskpwwIjJGAb0CN68v9BwaoVCu1sp58LZxYkaLz0C6YvYOrJGv39Bn43GuQgvb6T6jKnKAjxob0MWw1NRp1wXLhBOWhGiYxxMA3+MvksyWO69waRvuqkxYdscYiM/2mfniY77A3eCWFTj+bOnU+y5wykrSGYVgmWbQkZ2ZOPmZJI3rWLy67TtseSD5xqsediPer53DlMeL4s7mpe5wFMfXSjnuoEEwHxFqGlBjvHhpfMUI2985X2CLt47d1zAHKaQNDl0nD3KLTL6Y1El5m+p/+MOoibtJbB/dWt0tn71mEgUsUMZvr8fIeGIT71xZj6p4JYqueyQ3BYcT2EauPMJxMgGp0Fl+YH+o2nZ0fYPkKUIluTeLcyEbFCrWcwXYmOY7f4HV9h7mVx/tf+tpw78Ae+pH5TPKJQiAeJ296j+8S3SYpy2/7k/k9YXk0KTnHlEx0jIkMlcgnzZ03R2Z38I5LCxQ==;wlbeVQag8gtz0JmlXFe7bQ=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-amazon-indefinitely-bans-police-use-of-facial-recognition-technology.md",
+      "title": "Amazon Indefinitely Bans Police Use Of Facial Recognition Technology",
+      "excerpt": "Amazon says it will uphold a moratorium on the sale of its facial recognition technology to police departments, a decision welcomed by civil rights groups. The company had imposed a one-year moratorium on technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a43282276597fd5170a746%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-05-18T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation.md",
       "title": "Facial Recognition Unmasked: How Companies Can Ensure An Ethical Implementation",
       "excerpt": "A carefully developed facial recognition strategy could effectively be the first line of defense when the world as we know it is flipped upside down.",
@@ -84,92 +137,6 @@
       "provider": {
         "name": "Security",
         "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-police-using-facial-recognition-amidst-claims-of-wrongful-arrests.md",
-      "title": "Police using facial recognition amidst claims of wrongful arrests",
-      "excerpt": "Police say facial recognition technology has been instrumental in helping crack some tough cases, but in the last year, there have been allegations of wrongful arrests. Anderson Cooper reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/",
-      "originalUrl": "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/16/894c04db-160e-4428-a9a4-1df839cc1579/thumbnail/1200x630/dca4e40a1aa58accb3aee4407b5d3ca8/0516-60minutes-cooper-716288-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/",
-      "publishedDateTime": "2021-05-16T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training.md",
-      "title": "Watch now: Facial recognition technology was tested by Normal police in training",
-      "excerpt": "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology —",
-      "sourceUrl": null,
-      "webUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html",
-      "originalUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/4/6a/46a3f1f4-c290-5935-8448-d7502215d0d4/601e08137f8da.image.jpg?resize=1024%2C680",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html",
-      "cdnAmpWebUrl": "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html",
-      "publishedDateTime": "2021-05-15T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pantagraph",
-        "domain": "pantagraph.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -278,6 +245,49 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
+      "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
+      "excerpt": "In most cameras, there is a trade-off between the field-of-view and resolution. Omnidirectional cameras offer a 360-degree field of view but poor resolution. In a new study, researchers design a dual camera-based platform employing an omnidirectional camera for target detection and a separate camera for its high-resolution capture and report an overall improved performance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

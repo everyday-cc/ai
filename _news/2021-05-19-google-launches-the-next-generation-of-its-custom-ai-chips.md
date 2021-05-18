@@ -47,7 +47,23 @@ related:
         width: 1198
         height: 601
         isCached: true
+  - title: "Google Launches Next-Generation AI Chip at I/O Developer Conference"
+    excerpt: "Google made some noteworthy announcements at its I/O Developer Conference on Tuesday, including the launch of its next-generation custom Tensor Processing Units (TPU) AI chips. The fourth iteration of the TPU chip is designed to train and run machine learning models faster than ever before."
+    publishedDateTime: 2021-05-18T21:28:00Z
+    webUrl: "https://hypebeast.com/2021/5/google-io-developer-conference-tpu-chip-4th-generation"
+    ampWebUrl: "https://hypebeast.com/2021/5/google-io-developer-conference-tpu-chip-4th-generation?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/5/google-io-developer-conference-tpu-chip-4th-generation?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 74
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F05%2FGoogle-Launches-Next-Generation-AI-Chip-at-Developer-Conference-a.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
 
-secured: "FeqBdC/btQAY/g6xhxoiq4qk4xNTvxkLYNGNUbCmYONgljLyI4TAKlzCCPHpz7/82m+a2nsGcmsU9+KSnUF+/b9U0tm5VRBAt7NDWLuShMJyEjHKfEtjT2wbhDiiXnVHVdA77yEDbYqqPNEZKPHsw7nruJtikWwo/gMpBFHSz2SylViflb0Tojh0OGJ7yPOwgrUcNxrEYVp6g9AY94wrt1GD4OE/Eruh3u/MQmeZXw/nHTTc2+UeB4d9AVb0lmFfGeBu2hzcO8RoDhxh/hIyeJI1tdNRKe2lepr3n43Je8ST5lBfU+bPTOmKMEMpQbz5Lh3Vi80FDhMWU3hG4zMcOdY4D376E0/NKfSBcRMm2uM=;sFwNfibK0o86L2qhg3wDig=="
+secured: "ILSHK2c3nAr+E01Jq1a0lpqYVql1Pt50YtrDrGZGAKln/GBE+Oz7EMlW0JpdnwNdxOoBBG7RuY6LGF+0IvMn4Q5k6DWx5sJNiIOYnqTQ5k8wTKl+5SsEo3PN7NLrgf1hRSljHyDuwTwUqO7F5tbj5XAA20myI1QrP/wfELan8EvxiNtGFTIafZO4hbHmF22g/HYh5t6F5nQFCNUbzw6+siLmpl18It5lyK9hKhKa4yjD+lgc72vreXJ023Aq9KloG+zhF1RXpQ43UUSkCOJ4HVJ58h+uJ1LwrM4wzRCpp/GG9ZFU3mnwcD7WysWzLl7N+QRmm9NfsZQiL/4+tXkDgp9/veZkHGGOlFLj+GKBiLHgn1JSEsTN0bSiLciVAHBT3aAjuLJvVaeRnTyiXoUTHacKF5FTOYmhqM0Hu3MHHMMCMDeICvc4pe6dwWCU61+bI+J+WZLuJ/uOYD+DCHVCP25M0p8ltD9iS+hboEvBKJQqPhM/TeH4Rc2Mxfb0CztBz+83ZRA8k3fpKbOUdU0jqw==;Lef/5VnhPEhR5STba/SMWQ=="
 ---
 

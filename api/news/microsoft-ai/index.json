@@ -264,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -306,58 +306,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026.md",
-      "title": "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026",
-      "excerpt": "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -408,15 +356,24 @@
     {
       "path": "_news/2021-05-13-infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
       "title": "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work",
-      "excerpt": "\"Infosys is proud to have worked alongside RXR Realty and Microsoft to create and deploy an intelligent, secure, cloud enabled scalable solution in just a few months that will empower the safe return to work,",
+      "excerpt": "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420",
+          "width": 1200,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -424,8 +381,8 @@
       "publishedDateTime": "2021-05-13T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1412,6 +1369,60 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
+      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
+      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
+      "publishedDateTime": "2021-05-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI Hardware"
       ]
     }
   ],

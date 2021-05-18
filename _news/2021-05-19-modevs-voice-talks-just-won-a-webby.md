@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
-secured: "kcASeYwYllmHbZTYxkJPdIPymfSnOycYuHyvKNmxldc0Xd85EZlAhDtHNOQf7re3eOmOvommdNR8c2DJBMB44Ib2CDBZAnTREhbt/y0KT0y020PJAb3EAh9fjh8kWH9OFV+QyzP3rJSd0GaeoXF6jqGc6h1612n3tL/2UIiAIwhggxFokf+W/XH021hAJtXjV6TS7T/4wyktBBxjFggavvEC/VW+PeoF6uKkSnUsICXAukCfrnOGxNp4/J98ZAaJ3toX9RO9nINQE6mOoq9Su4EU7jc76XDSmZhPSgGhk9vNolVehKYeodHtWmg2ud+IvaKDv0aoCf434sEhx/Z4mlUJewcBd7/Dvm5EIe15+rg=;ncHlcW0OdLBL/f2OYXTUWw=="
+related:
+  - title: "VOICE Talks Named \"Webby PV Winner in Virtual & Remote: Technology\" in The 25th Annual Webby Awards"
+    excerpt: "Modev's \"VOICE Talks,\" presented by Google Assistant, announced today that it has been named the \"Webby PV Winner in Virtual &"
+    publishedDateTime: 2021-05-18T20:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/voice-talks-named-webby-pv-winner-in-virtual--remote-technology-in-the-25th-annual-webby-awards-301294339.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/1513283/VoiceTalks_Logo.jpg?p=facebook"
+        width: 640
+        height: 335
+        isCached: true
+
+secured: "CXDDkQJvSXflc24tCC/4Mx7hi48vjw01YgxnO7J9qp5rHLTlH/qymufg+IARZPUCvxgh48mzz3dwpHZHxATZ5+iz0YV3J7MhpcInAbmqNOe7Dz0bPqCBeYFQGxXW58LndAWPkIF/sUl9PNHP4Y1VRGXjQJKxZV9FE6KQDJG98nAguCs1Zm4Lg1X3M6UdbYE+JhBIeH/Mz5kFggJPgprYtWsWSYnC+QVcYKI7QzvvfAEv7cIq80+07badUDuoTGMRjUi0aQVZrC6/YGgt66FxLQZFxbZhJFnF8hLpCbpnn3rp6ozXOLpgBB1sd5dS24x2VhM8AFzyQYaTVhrkcRpgg+M63VfoY9LY7wI0+gfd9kEaNXkbuhzPXE6A7wQ80XuhNED4p79DUgnAQbK9OhjVgOAISA6VnCV/WCLbqFgqYjbHYV3j7X0F5DRfzfRjIOPTraEpdQC5qzhHlx8J1m15v4BsEpWZinOnSMD9xYjLz+e/Lg37R5swBT2mpKdJJKm95BB80DvTCZFyyaxEPzAIPQ==;dB0xVb+QBfY++/Z3dv6dIA=="
 ---
 

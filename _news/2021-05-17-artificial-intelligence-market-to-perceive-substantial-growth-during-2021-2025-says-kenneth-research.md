@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Growth Opportunities in IoT, AI, and Machine Learning-Based Security, 2021 Market Report - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in IoT, AI, and Machine Learning-Based Security\" report has been added to ResearchAndMarkets.com's offering. This TOE provides a snapshot of emerging cyber security solutions powered by IoT,"
-    publishedDateTime: 2021-05-17T12:11:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210517005792/growth-opportunities-in-iot-ai-and-machine-learning-based-security-2021-market-report-researchandmarketscom"
+  - title: "Global Natural Language Processing Market : Industry Analysis, Size, Share, Growth, Trends and Forecast - 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research, in its repository of Global Natural Language Processing Market research reports, have recently added a report on Global Natural Language Processing Market which emphasizes on the latest trends,"
+    publishedDateTime: 2021-05-17T09:48:00Z
+    webUrl: "https://menafn.com/1102089335/Global-Natural-Language-Processing-Market-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast-2025-Says-Kenneth-Research"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 30
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937141"
+        width: 326
+        height: 250
+        isCached: true
 
 secured: "p0m0WdyEJbYdxrQn0ZmxIaYsreXWnwjZ6Xvd4xQpctjX+ZUcwh7IMIpSp6z4E3WJsQlnBY0Wlhn9gOPzfes+i1/qyHrzMdQe9g6pjPyda9UxL0ynMiGYhelntX6Dd9f/f/TJCutXfjli7jXWQdaHScWNXeH4VhKqedvTfnFdZ4LyXAzIvQa1kcSDeCYHS4PKanWptAPghce0MXYeot4JFqLoVLq/K6YUeInskBMBAh7fh5rZjgZiCrgXAnEYnAU5WeAyj4e9lK+FhQ8eunUNj+TACIjF7Zzo/RAWdN4hTvz5GTeGBrnaJW9vJ52BP//OJqul/2hywdxzmFNDGX6dUvBVsbjJp+jYAmmUC7LlksI=;v3e35Wg6Jp6yrQhMgr2vkQ=="
 ---

@@ -235,6 +235,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
+      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
+      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-fugue-announces-iac-security-for-aws-cloudformation-in-regula.md",
       "title": "Fugue announces IaC Security for AWS CloudFormation in Regula",
       "excerpt": "Fugue, the company helping organisations innovate faster and more securely in the cloud, announced support for AWS CloudFormation in Regula, the open-source infrastructure as code (IaC) policy",
@@ -369,6 +412,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-google-plans-to-double-ai-ethics-research-staff.md",
+      "title": "Google Plans to Double AI Ethics Research Staff",
+      "excerpt": "Alphabet Inc.'s Google plans to double the size of its team studying artificial-intelligence ethics in the coming years, as the company looks to strengthen a group that has had its credibility challenged by research controversies and personnel defections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/202105119972/google-plans-to-double-ai-ethics-research-staff",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/202105119972/google-plans-to-double-ai-ethics-research-staff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -664,40 +741,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
-      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
-      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1133,50 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system-on-chip-technology.md",
-      "title": "XCO and Atlazo Announce Joint Venture to Commercialize Virtual Healthcare Products Leveraging Edge AI System-on-Chip Technology",
-      "excerpt": "XCO Tech Inc. and Atlazo, Inc. have announced the formation of Recon Health Inc., a joint venture to commercialize a portfolio of",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system-on-chip-technology-301287902.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system-on-chip-technology-301287902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1506874/Virtual_Care_Patch.jpg?p=facebook",
-          "width": 1919,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

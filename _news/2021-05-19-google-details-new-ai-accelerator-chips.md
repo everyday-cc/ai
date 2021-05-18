@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -48,7 +48,23 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "Google Launches Next-Generation AI Chip at I/O Developer Conference"
+    excerpt: "Google made some noteworthy announcements at its I/O Developer Conference on Tuesday, including the launch of its next-generation custom Tensor Processing Units (TPU) AI chips. The fourth iteration of the TPU chip is designed to train and run machine learning models faster than ever before."
+    publishedDateTime: 2021-05-18T21:28:00Z
+    webUrl: "https://hypebeast.com/2021/5/google-io-developer-conference-tpu-chip-4th-generation"
+    ampWebUrl: "https://hypebeast.com/2021/5/google-io-developer-conference-tpu-chip-4th-generation?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/5/google-io-developer-conference-tpu-chip-4th-generation?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 74
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F05%2FGoogle-Launches-Next-Generation-AI-Chip-at-Developer-Conference-a.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
 
-secured: "Bp7ITbMY0ve+fgKsn4b7RXX0Trf24jxztvFtIji0jCoxLmRrdHXXJAh4sWfWMeMj0MUi6U4PtKHT5XIbnV786f/Wfo3y4Td3DgaANBz+7B+YnXBvwzsB9nzjKxghrHCGuZNU94jNOzQlAIEYU9LfMVSyFyk/p+P25HG06qgAVEV/8jWzbdmC66cxDL1BRJzbCDkHI4EHLVbg1PWnJQ8rTPiqf2AQSQYzLB0VqwzdhcgRxm2BUiDjj2HY/s/kjriugWdGrnTUMkDxKa0ctnA6cRM8sonP0UYm14R80c0kddOgnNMuplPJgbC7xPJ2OrY3505FEgnojnEijtQfDDuwCeD8BjnAwrzYH8VrJnEn6uc=;MM8OqNF4zWPZ3WAlRRNU3g=="
+secured: "6FHywE5r8StziNiCzIGGS2ew0Hb1GYOFz4vGcoMJhjCvE0KEf6jTdGazRQBOAT0qmgvCgCS5Hqw2r8gPqDqYXEqJch6tjKTkVJttuS+hBjfjU/smDboIIQRP0J4zxD/0bLP5LtRjhDnq5BBxMeoPHZGuNkmK5q63hysU1o5ihOaTRAPjgmw2sq3NxK7SM9H3j1obrZnNJshKHc1xWoxl6xFSBsjsHTkpde2v6W/owHNTkASNlcIh232ASutnAdc/1inCGpswlSSwS/39L8bGXslFmHSFyKFbPJJhMWvmzvjZVJKTrjVpMZ8jVE4E3inT7nss1n9sY3pv492c6oEiTuZj6DsJUq6DIQQ9IyQcjI8fdmPErqHU7oD3Vj2WVp+paP7yv5ibEHQQ6WVst2UiVItbwb+Wg3E4TaSv0hxkgimDVCQfPtjt/+pacisuCHTwJD86aiRKiim5hQiOjadIUyPHRLrgEr4tWe4PTkqHQZlt5PRvKaft6yPzW9e5ADWSPUAeu4MDmRw0vu4rkNH5YQ==;g1XkcS89wI16lihGOlIGuQ=="
 ---
 

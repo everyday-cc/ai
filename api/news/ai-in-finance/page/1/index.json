@@ -254,6 +254,59 @@
       ]
     },
     {
+      "path": "_news/2021-05-14-deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
+      "title": "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
+      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-rd-tax-automation-pioneer-boastai-expands-leadership-team-with-industry-heavyweights.md",
       "title": "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights",
       "excerpt": "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,",
@@ -383,6 +436,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
+      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
+      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-security-challenges-within-the-fintech-sector.md",
       "title": "Security challenges within the FinTech sector",
       "excerpt": "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?",
@@ -424,40 +520,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
-      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
-      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -516,19 +578,19 @@
     {
       "path": "_news/2021-05-10-ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign.md",
       "title": "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign",
-      "excerpt": "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to",
+      "excerpt": "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-301286778.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-301286778.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
+          "url": "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -538,12 +600,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:00:00-07:00",
+      "publishedDateTime": "2021-05-10T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1342,50 +1413,6 @@
       "provider": {
         "name": "Daily Journal",
         "domain": "djournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning.md",
-      "title": "JG Wentworth Welcomes Andrey Zelenovsky as their Vice President of Artificial Intelligence and Machine Learning",
-      "excerpt": "JG Wentworth announces Andrey Zelenovsky as the company's Vice President of Artificial Intelligence and Machine Learning. Zelenovsky will leadand leverage Robotic Process Automation (RPA) and Artificial Intelligence (AI) to streamline business process and enhance customer engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyamerican.com/story/news/2021/04/27/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning/115954270/",
-      "originalUrl": "https://www.dailyamerican.com/story/news/2021/04/27/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning/115954270/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/566acc86dad952c4145099e5ca32f79327eaf1ef/c=0-175-800-625/local/-/media/2021/05/02/Somerset/8c46fb919a698b1461c32bbefbe8506d.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dailyamerican.com/amp/115954270",
-      "cdnAmpWebUrl": "https://amp-dailyamerican-com.cdn.ampproject.org/c/s/amp.dailyamerican.com/amp/115954270",
-      "publishedDateTime": "2021-04-27T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily American",
-        "domain": "dailyamerican.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,25 +2,27 @@
 category: news
 title: "Helping students of all ages flourish in the era of artificial intelligence"
 excerpt: "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),"
-publishedDateTime: 2021-05-18T19:26:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/miot-hso051821.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/miot-hso051821.php"
+publishedDateTime: 2021-05-18T19:55:00Z
+originalUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.html"
+webUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/helping-students-of-al-1.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 1651
         isCached: true
 
-secured: "/7oo00rGeVbEb/9rTFZgJEb1QNZOcjDRHDzFxZrf7GAwMgv9TRvaRLX2vznJCiQtCqZMvM3ZpIJeWNq7PrFK0/jhk8UXtl+NtstwO5FIHxGAaJpJYrkoLCETG2sh8NYQAym5un3o3XUnntGdnSC3e4em4j7ZLrTVvgBfwM9v2HEQHzEpTIucpUJzYQQX6rjnXv/Or48/mfBIA6S7KjBp1S/RXDMRowIql6kCmNXvC+UfBRF/XK2WG6fnEdvTm1Tdepg5gcUf7oTqlX5zx98ZHdYpKdqavfgTV7WQlzHHXOvamdxfmGoJQeNyYkEPjUHRrcL3FVQKqrejTB7pRTuMG+mP4h+PGSdr6uhZXd+ptPg=;r2EMC8P24HbuXVQdG7K9IA=="
+secured: "Wgsg2JHQ/lBZjLgAT121NIY1CQB1AtAo2Qm+V4onJctteCz7VWSE9KkYhrFUNTf1mdO0JOUupib5KMTBtfOrtlfF66VkGxQQqQlB78ZRCVo9OLGHTw+JilrfTVs15uF5BIUyhUPi6ETw9LEkPHS1MqyC73dFABFvXuURrEbiG6SZI5xQ5ZQl0ro0lAplmtmWdJBX8hpfTPCdtVJMaSdBke3Bek/dtNJW9JxyI/MK18rNPdpVVSX8ZvAtb2x1PBwWhf4WLBRshI9q/yKDQGWNWxbUbvTmRtAjSqhDI+wSELU+X0Jm6RSlLeSR5vqVw+aD1AkGeEVrV43J+PqF7LewDND6euQaRFGCFPp2eCh0LJM=;4i6a1c/A/PfCDMcgpQI4Fw=="
 ---
 

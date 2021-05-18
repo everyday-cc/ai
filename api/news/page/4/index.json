@@ -444,15 +444,15 @@
       ]
     },
     {
-      "path": "_news/2021-05-14-digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026.md",
-      "title": "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026",
-      "excerpt": "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,",
+      "path": "_news/2021-05-14-deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
+      "title": "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
+      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -468,7 +468,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T22:40:00-07:00",
+      "publishedDateTime": "2021-05-14T01:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -491,8 +491,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -589,6 +590,49 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
+      "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
+      "excerpt": "In most cameras, there is a trade-off between the field-of-view and resolution. Omnidirectional cameras offer a 360-degree field of view but poor resolution. In a new study, researchers design a dual camera-based platform employing an omnidirectional camera for target detection and a separate camera for its high-resolution capture and report an overall improved performance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1010,15 +1054,24 @@
     {
       "path": "_news/2021-05-13-infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
       "title": "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work",
-      "excerpt": "\"Infosys is proud to have worked alongside RXR Realty and Microsoft to create and deploy an intelligent, secure, cloud enabled scalable solution in just a few months that will empower the safe return to work,",
+      "excerpt": "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420",
+          "width": 1200,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1026,8 +1079,8 @@
       "publishedDateTime": "2021-05-13T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1185,48 +1238,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how.md",
-      "title": "Experimental AI Tool Makes GTA 5 Look Stunningly Photorealistic - Here's How",
-      "excerpt": "An AI research group has released a new video showcasing a new photorealism enhancement tool being applied to GTA 5 – and the results are stunning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
-      "originalUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2021/05/12/untitled-1-1620842797696.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

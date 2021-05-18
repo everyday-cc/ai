@@ -1,23 +1,23 @@
 ---
 category: news
 title: "INFICON Introduces SmartFDC™ Machine Learning Anomaly Detection System"
-excerpt: "INFICON, a leading provider of manufacturing software and hardware solutions for the semiconductor and related industries, is proud to announce the release of the SmartFDC Machine Learning Anomaly Detection System."
-publishedDateTime: 2021-05-18T19:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9372459.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9372459.htm"
+excerpt: "EAST SYRACUSE, N.Y.--(BUSINESS WIRE)--INFICON, a leading provider of manufacturing software and hardware solutions for the semiconductor and related industries, is proud to announce the release of the SmartFDC Machine Learning Anomaly Detection System."
+publishedDateTime: 2021-05-18T19:07:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210518006101/en/INFICON-Introduces-SmartFDC™-Machine-Learning-Anomaly-Detection-System"
+webUrl: "https://www.businesswire.com/news/home/20210518006101/en/INFICON-Introduces-SmartFDC™-Machine-Learning-Anomaly-Detection-System"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "WKc0kVGfZEjpHanUdykp+jA1p0m+6DRDtYNX/ZyJEes6tx8DjvFmZ1XnS41WmNRTHIz92n0360teq1P/Pmd2DMj6LAbxObHlz+TNVsEQM9I5pzd29qwYNdeTTn0Y78YdzRXUy3kjqNQM9Fk7on3RjhN3f7Kj0a4nQR5tWG6irjG255mf1QWmS4/K6TOwNSUG/chMbyp3e/jesNN8sPjowKrkngeG2YLhkU02dk+rXhAFdY4YL2zugi8H64cX3kdNiFblqi3RePHjwkf/wICBAnISmilKlV/W92gel9cgPyygHGBiBD+xEGtHTEHCffpoe9InLD7QooOwv97dpaXgO3ZIGKIUvyG+EJ+2NiX0b3A=;/GAaVYqNLmsdCE6JBgoNaw=="
+secured: "y0zU9fK/x1s57EnZpUSBHBJVBZHiKmRsQ9Imq8FUDqZYijT48KAp85Go57whHHDYGvtWELVZ22N62gum2goXF3BGLLHyIzqUXbhHehI65Ib3MzA3oGYYX8KuylM5V+HWLTlfmRmUUQifhQndf0FjA65zGyuhV/6ZSDgibpL9Z5W1foqQEAN0XR1BsNh8mW66iJuslHg/NaWA6hhBOygwxTueystwyRqJ++GyUj7Jht/2Px78JNvZJwbntID8ioLjgKOn1pvvNYOn2+PGoRKxWsw12K4075JSTTMMx9/cacQNNhmMYVZQWIsU7kENiBT2ZnMY5GRJmtn6cFEOZFikhCIb3ksTrzfOUH4h0++3j+t9SzibB/2xJqK7r7YIrcI/WflyGsJM88yrFsPaDN8M21uORsdH3TTTKpNcLxyrQ5OJtSBxmQfYFUSzDOJj4OtXedU2Wt2cAArJUBl+KNCKjk4n4oOMvfFQVuIQ1/crMb3ufvmEjEsbNouTNxuCBhzS9OWntVoDKwvcZ2jbPHeLeA==;n1Wgeyl71yV0K2qldiCQRA=="
 ---
 

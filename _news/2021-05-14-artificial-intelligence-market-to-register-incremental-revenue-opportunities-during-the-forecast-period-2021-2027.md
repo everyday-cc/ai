@@ -29,24 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM"
-    excerpt: "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research."
-    publishedDateTime: 2021-05-14T03:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 57
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027"
     excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
     publishedDateTime: 2021-05-14T08:31:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026"
+    excerpt: "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,"
+    publishedDateTime: 2021-05-14T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
     type: article
     provider:
       name: MarketWatch
@@ -71,6 +71,71 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Artificial intelligence Market 2021 Top Prominent Players – AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook,"
+    excerpt: "MarketQuest.biz has announced a report titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which enumerates a comprehensive analysis of the industry,"
+    publishedDateTime: 2021-05-14T18:55:00Z
+    webUrl: "https://ksusentinel.com/2021/05/14/global-machine-learning-artificial-intelligence-market-2021-top-prominent-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 50
+    images:
+      - url: "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png"
+        width: 482
+        height: 350
+        isCached: true
+  - title: "Cognitive Computing Market Research Report and Predictive Business Strategy By 2027"
+    excerpt: "In 2018, the global cognitive computing market was valued at US$ 30.67 Billion and is expected to reach US$ 360.55 Billion"
+    publishedDateTime: 2021-05-14T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-research-report-and-predictive-business-strategy-by-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
+    excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. 1) An overview of the global market for Artificial Intelligence ..."
+    publishedDateTime: 2021-05-14T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-cagr-status-industry-growth-trends-analysis-and-forecasts-to-2027-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Far-Field Speech and Voice Recognition Market Research Study 2021 Insights with COVID-19 Impact Analysis by 2020"
+    excerpt: "The far-field speech and voice recognition market is expected to reach more than US$ 4339 million by 2026 growing at a CAGR of 23.80%. Global Far-Field Speech and Voice Recognition market is segmented based on Application as Smart TV/STB,"
+    publishedDateTime: 2021-05-14T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-research-study-2021-insights-with-covid-19-impact-analysis-by-2020-2021-05-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Growth Opportunities in IoT, AI, and Machine Learning-Based Security, 2021 Market Report - ResearchAndMarkets.com"
+    excerpt: "The \"Growth Opportunities in IoT, AI, and Machine Learning-Based Security\" report has been added to ResearchAndMarkets.com's offering. This TOE provides a snapshot of emerging cyber security solutions powered by IoT,"
+    publishedDateTime: 2021-05-17T12:11:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210517005792/growth-opportunities-in-iot-ai-and-machine-learning-based-security-2021-market-report-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 30
 
 secured: "/45szol9a/r2XHmic2uhVWlfN+GSZhQb/dxW1u4OhVv/501jNL0Y1iIs9KDqrm089LynV/GBRa7rekB+BTO/PUH8Q5/iBmMLkDuQkRWd/e2nLnTnhH89ZquVJwFlKDZYlEtFTc3Ta6L3u7257Bz86lbDW8V+sA08jQW1fF/yOBkX/6UaoSDe3zTadQeEgi1123nXYydVSbA2sdEn/+fzUZ88dYIJbiCrRUOrdTNxF6H+mE2GJVpvE6xO4oRew0B18UXkP72/RO6MEomkNtzMh9ieyGh5akOHlT5fSzIXBqC9xD7/21Du2MJ8XfpaONWS+2miu1h6+64TwIS5CceZCyCffBrB+CN7j7Yowfd9n9Q=;B8yFkkvLHMYpWeWYaISfFw=="
 ---

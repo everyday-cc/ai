@@ -35,13 +35,43 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1209495734.jpg?w=1024"
         width: 1024
         height: 576
         isCached: true
+  - title: "Google launches Vertex AI, a fully managed cloud AI service"
+    excerpt: "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio."
+    publishedDateTime: 2021-05-18T19:45:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google launches Vertex AI platform to help companies adopt machine learning operations"
+    excerpt: "Google LLC is helping companies embrace the idea of what’s known as machine learning operations with the launch of a new managed platform today that it says will accelerate the deployment and maintenance of artificial intelligence models."
+    publishedDateTime: 2021-05-18T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/05/18/google-launches-vertex-ai-platform-help-companies-adopt-mlops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/MLOps.jpg"
+        width: 1057
+        height: 672
+        isCached: true
 
-secured: "jIfCRgm7MBiCi8iSpUb/4+Pk/uoLQCfmYuQWDxAlWLL2aiZP5/KWqBWAFuYuboCsAoy75yB/7p/z1SaZyf1lj2Wc4PljkLhO5PsRtNcv3k4KRrZ9QdQrp1UgOpx2cx8AsBPe+WgZK4DTpkNMujnU5doWvKaig4b01J+d/GW023/d4ZBoplmYp0xKmWxA5pAVSScPl2tA5Q/fUUP35yX8vBPT+hzZW2TZnCf1ZQYgOSeu8F/RrIJyO9IhezXRwaAgDoTZfoYsq6/Nc7XGR/LyjSUK0ryQjwr7/zoYHks5/KSf5RmIoYaLhXk600ut1GQxuIeLCRV+gf8sqeeCtKAVATKhwTnbuBztvBp7hNBqj14=;okp5FvHXrxVeJ5oKLAtt1w=="
+secured: "94ekSShImyi4J6UASTFVikw21dvTtum+fHzCVOmePeTcT95gPdTHkwA5lw1yq1UFg4+7OmdCT7dnkZIzIwdDZ1du/4AC+P7/AouQPfaiJDkPkFYMlG6ojK72maYEra/UAAGPOT0+AApDHdhKetYbZxqrwGf/M1FifHtVrBAqGQqX27P9XDwdDJMqoA9SWWS+PPigC7twkntoE3fclMPw44SF+g55pMduj694Qijt5a1U2LgCiKslEwKMgLqb4aylwyJqIWYvqZ5j6qnvZO7qMEAhPkRnXKRDKdKXA+oRHHhlo8FnHlwntdTVmbt+co/l2WiImyrhO1Tgkj6h+aM3w7tvJ4zXpMgCTBntpmqQeFoKVU5Bh6bWNYoY//Uw2pdX9E+pNSIriDFYTNXe++F3Z/YhuCqzDrqYXDydFbZF2FiSi+XLIqSHBr+2Zgk9IVwgdIkF0b7ivx0Xe8FNb7/r0tmdvsCHfr9lxC4ZQwJFe2mrnIu/mtA+afG4aLTE6spLuBHqrvoaZFWOjw7q4TX1mQ==;LCsimt5D/1HrUTk4HqcRAw=="
 ---
 

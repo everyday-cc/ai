@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Orbbec is developing 3D cameras on Microsoft's Azure Depth Platform"
-    excerpt: "Orbbec and Microsoft team up to develop advanced time-of-flight 3D cameras for computer vision and AI developers for 2022 launch."
-    publishedDateTime: 2021-05-14T04:37:00Z
-    webUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79363/orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 74
-    images:
-      - url: "https://static.tweaktown.com/news/7/9/79363_01_orbbec-is-developing-3d-cameras-on-microsofts-azure-depth-platform.png"
-        width: 620
-        height: 348
-        isCached: true
   - title: "Microsoft Releases Azure Static Web Apps Into General Availability"
     excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
     publishedDateTime: 2021-05-15T20:09:00Z

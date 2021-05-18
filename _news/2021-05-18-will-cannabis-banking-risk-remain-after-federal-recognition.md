@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
-    excerpt: "With many social recognition platforms available to organizations, Workhuman® is proud to be named a Leader by Everest Group in its \"Rewards and Recognition Solutions PEAK Matrix®\". This is the third year Workhuman has been named a Leader,"
-    publishedDateTime: 2021-05-17T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370771.htm"
+    excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
+    publishedDateTime: 2021-05-17T14:10:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 4
 
 secured: "CpMp9O+P5cpuurv65RvmD13t3E/whBfMJ72stwCGCQdj3A8tWoxKVpbjGoTFiwJFa9T9FC/c4CgKkVWX9rsPg4+kRnrMC0fU+nzsNUVEtnMWj1C1W5xFY9NPJf6m5WVeNyf/N8vjxlRfJ7icJoF4mQQp7uXObIJOCnCyAd1a1mqnilpALmjCNShfUKjUXUeBbzqN9Pvu3DYecC6WmgvLS6jF8nA8W+Dzov13iq71fVgbU+7rK9eThgF8N1trPoXehno/MZvXYYwJvOJuIKrNIR6lU+tmXceEJ9pAuAP2IPshBgo51J+0ZL7LHc9wEw24J5ll7fgSOTwnIvnnMRGc1PEl4xCdAI7SW2OUipjGqUrGe7tdzLsXPQzEqaAcqgy1tn0RaoFdETGsYGeV2eovOmKpqhRuqYrxLyK2GPnx6sGN9yCoJF7BzaMppDIGAhNW5xNIakLJnkE/xqGlNaTBG7ViAF6u9V71gpzCEhEOa1UQwTQzFHlgtcPLoPBgV3kHEMtOkPgrKqpxWsCGW6VDpA==;Qzm53E6jEBZT/cI/P0+Trw=="

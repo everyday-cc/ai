@@ -44,7 +44,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/SF_case_3_image.jpg?w=1200"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/martech-startup-af
 webUrl: "https://markets.businessinsider.com/news/stocks/martech-startup-affable-ai-raises-usd-2m-to-boost-the-adoption-of-its-influencer-marketing-platform-1030439542"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 400
     height: 230
     isCached: true
-
-related:
-  - title: "L'Oreal brand joins influencer marketing body as other Aussie brands found to be breaching the new Code of Ethics"
-    excerpt: "Beauty brand, LÓreal, has become the latest organisation to join the Australian Influencer Marketing Council (AiMCO) as part of efforts to elevate transparency of its influencer marketing practices. The news comes as a fresh global report highlights a raft of other Australian brands appearing to breach the recently introduced AANA Code of Ethics despite growing legal action against those who don’t follow the guidelines."
-    publishedDateTime: 2021-05-14T03:19:00Z
-    webUrl: "https://www.cmo.com.au/article/688389/l-oreal-brand-joins-influencer-marketing-body-other-aussie-brands-found-breaching-new-code-ethics/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 35
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/promoted_content/promo/xl_67093649-influence-marketing-social-edited.jpg"
-        width: 800
-        height: 459
-        isCached: true
 
 secured: "dJrTqJQnZTJahQRwezztTanZ//8jk0y7VbiVMPUkZJ5fRrgSfD2pY4kgEZdD5JWElgb+qOM3Rts39O8ijaE+HWoEOaCooCZ05rF1fnyuirBiD5AI4n38rvpTNhpEkvciGvy/CoRS4EV911pj/I33f8nGo17IEEXHHe7GotnrZPzR0oOQKIu0WO7oxNbQ9+0M4fEklgbQOdxWp1cqzLXrDRFi9YYkMTNI5tyUi4/8tTd5RRWvvWotsYbHy4hbm33wHikMkzLMlZfzIpKJvEhr1W4Xda1C4kWohaNCmHOVLkQ0P0C/4S8q4R5C91WcpUsoxNi7dVGho+lb3H412j5MGZ5CmEPRPaTmGKE0T5zJmn/TvCtZzR+z/niYwdm2wSE6eLqiyjM+j91d4qDsbetZywv9wnh2j/1AIZJHOx2tDrLoB0OokdlbV0NifUTdL8VuGCx+jdrnyhMimVTYLMLRd8rUIL2mpGWzTlsEOkK216GKHyRgaQJ3x9y7qeb2D0At5/o9TA30JIEh+R9iM3V9JQ==;qlajap6V03rxXo71CqnfYA=="
 ---

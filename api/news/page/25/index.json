@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-28-saas-provider-boostupai-nabs-6m-to-support-revenue-operations.md",
+      "title": "Saas provider BoostUp.ai nabs $6M to support revenue operations",
+      "excerpt": "BoostUp.ai picks up $6 million to further adoption of its revenue operations platform that unifies sales, marketing, and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/BoostUp.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
+      "publishedDateTime": "2021-04-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-the-scout-moorebot-is-a-roving-security-camera-robot-thatll-patrol-your-home.md",
       "title": "The Scout Moorebot is a roving security camera robot that’ll patrol your home",
       "excerpt": "The Scout is a tiny, smart A.I.-powered security drone with four wheels and a camera that automatically patrols your home and yard.",
@@ -1145,60 +1196,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026.md",
-      "title": "Global Artificial Intelligence Chip Market Analysis Featuring Industry Top Key Players By 2026",
-      "excerpt": "Global Artificial Intelligence Chip Market Analysis, 2020 research report depicts a deep-dive market analysis of statistics of Global Artificial Intelligence Chip market which consists of regional and country-wise market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

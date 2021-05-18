@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minute
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -27,6 +27,93 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Indefinitely Bans Police Use Of Facial Recognition Technology"
+    excerpt: "Amazon says it will uphold a moratorium on the sale of its facial recognition technology to police departments, a decision welcomed by civil rights groups. The company had imposed a one-year moratorium on technology,"
+    publishedDateTime: 2021-05-18T21:49:00Z
+    webUrl: "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a43282276597fd5170a746%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
+  - title: "Watch now: Facial recognition technology was tested by Normal police in training"
+    excerpt: "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology —"
+    publishedDateTime: 2021-05-15T23:07:00Z
+    webUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html"
+    ampWebUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
+    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
+    type: article
+    provider:
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 69
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/4/6a/46a3f1f4-c290-5935-8448-d7502215d0d4/601e08137f8da.image.jpg?resize=1024%2C680"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "In charts: facial recognition technology — and how much do we trust it?"
+    excerpt: "Facial-recognition technology poses ethical questions that trouble citizens and civil liberties campaigners all over the world. Advocates say the technology improves public safety and security. But critics say it is intrusive and often inaccurate,"
+    publishedDateTime: 2021-05-17T03:30:00Z
+    webUrl: "https://www.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+    ampWebUrl: "https://amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 61
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Amazon says it will continue to ban police use of facial recognition ‘until further notice"
+    excerpt: "Amazon said it will continue its moratorium on police use of facial recognition, extending the one-year ban it announced last year."
+    publishedDateTime: 2021-05-18T21:18:00Z
+    webUrl: "https://www.dailydot.com/debug/amazon-says-it-will-continue-to-ban-police-use-of-facial-recognition-until-further-notice/"
+    ampWebUrl: "https://www.dailydot.com/debug/amazon-says-it-will-continue-to-ban-police-use-of-facial-recognition-until-further-notice/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-says-it-will-continue-to-ban-police-use-of-facial-recognition-until-further-notice/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 49
+    images:
+      - url: "https://uploads.dailydot.com/2021/05/Amazon-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Exclusive - Amazon Extends Moratorium on Police Use of Facial Recognition Software"
+    excerpt: "Amazon.com Inc told Reuters on Tuesday it is extending its moratorium on police use of its facial recognition software until further notice. The company in June 2020 had issued the moratorium for one year,"
+    publishedDateTime: 2021-05-18T19:56:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-18/exclusive-amazon-extends-moratorium-on-police-use-of-facial-recognition-software"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
+  - title: "Pet facial recognition technology helping owners reunite with lost pets"
+    excerpt: "When Bella, a local dog, went missing, her family searched for her everywhere. They uploaded her photo to a pet-facial recognition technology, Petco Love Lost."
+    publishedDateTime: 2021-05-18T00:15:00Z
+    webUrl: "https://www.cbs46.com/news/pet-facial-recognition-technology-helping-owners-reunite-with-lost-pets/article_68c1905a-b75a-11eb-8c6d-3f4d99b68e31.html"
+    type: article
+    provider:
+      name: CBS Atlanta
+      domain: cbs46.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/69/5699ead5-92a2-5fb6-b89d-da15e924ca6b/60a31516f0d11.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Amazon to continue pause on police use of facial recognition"
     excerpt: "Amazon said Tuesday that it will continue to ban police use of its face-recognition technology beyond the one-year ban it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
     publishedDateTime: 2021-05-18T19:18:00Z
@@ -41,6 +128,17 @@ related:
         width: 3000
         height: 1941
         isCached: true
+  - title: "Amazon to extend pause on police use of facial recognition | Charlotte Observer"
+    excerpt: "Amazon says it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year."
+    publishedDateTime: 2021-05-18T21:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251512648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251512648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251512648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
 
 secured: "V96lc5Cj83fC453yjbyjqaAoeATTaT4VfkE591AoaukCzRz7+WdAdQSTymjHipQqQmf3XuJ4a3kfSXyeCyN+FJo8Dij3JzY/geJUpMHDAjoHA4BuNZ0JACYI0C/WXYhFg1JvsbY1/Rtg5l8Apf6JYxPHMA3IHUOFSkvXTI7hS4I6ge4XzUDxaNkUKHU2fFwE+Vu2AwPdqhttY8KwnkjczBRnxaxvLywfeIYsLXfiREICcgZg37wpUItYB+lsBpNTbYA3G7DjT4FFHOlb3d6yPKEaYBV7N2bG1SU3igNMYsxs/AVIpiXyolFiOkr8d0P79l0b+t1zt92DTa4Tgfh2yaCHOfA6ZUaYtqu26fzhdhOK5j8eonKKttCePWcmrZKx0h9wYf4DiYiXPIzhGITsuYFWs1o8O1ClRxvH7jcyZySpDdSu4Ag5HUCFsO7zSO/LRTfhVZ15TRgx7TePSbY0fuKWEkzLSOYJnGLjIKqjyYYVwigLDL2uNuYOuks0JNdfEIHXPGmibQcco9gR2JCOMQ==;9NFDNEFRJdOk9kJH/eaZMg=="
 ---

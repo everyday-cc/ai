@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-13-experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how.md",
+      "title": "Experimental AI Tool Makes GTA 5 Look Stunningly Photorealistic - Here's How",
+      "excerpt": "An AI research group has released a new video showcasing a new photorealism enhancement tool being applied to GTA 5 – and the results are stunning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
+      "originalUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2021/05/12/untitled-1-1620842797696.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-soniox-debuts-speech-ai-recognition-platform.md",
       "title": "Soniox Debuts Speech AI Recognition Platform",
       "excerpt": "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns.",
@@ -1149,59 +1191,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge.md",
-      "title": "Klas Government Launches Market's First Tactical GPU That Extends AI/ML To Network Edge",
-      "excerpt": "Klas Government today announced the availability of VoyagerGPU, the market's first tactical GPU. Embedded graphics-processing units (GPUs) are critical for military systems with h",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1508870/VOY_GPU_890.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

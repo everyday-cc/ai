@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
+      "title": "165 new cancer genes identified with the help of machine learning",
+      "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers combined a wide variety of data, analyzed it with 'Artificial Intelligence' and identified numerous cancer genes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/04/210412142730.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/04/210412142730.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-open-source-framework-simplifies-machine-learning-processes.md",
       "title": "Open-Source Framework Simplifies Machine Learning Processes",
       "excerpt": "The system brings hospital data through a set of machine learning models to help inform clinical decision-making.",
@@ -1303,49 +1347,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.md",
-      "title": "Deep learning algorithms improve diagnostic performance of breast ultrasound",
-      "excerpt": "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/mai.jpg",
-          "width": 950,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "publishedDateTime": "2021-04-05T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

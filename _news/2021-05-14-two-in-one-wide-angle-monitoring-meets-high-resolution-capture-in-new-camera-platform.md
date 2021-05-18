@@ -1,31 +1,24 @@
 ---
 category: news
 title: "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform"
-excerpt: "If you're a fan of spy movies, you've probably come across scenes where the intelligence agents try to identify or detect a perpetrator using some sophisticated image enhancement technology on surveillance camera images."
-publishedDateTime: 2021-05-14T12:07:00Z
-originalUrl: "https://techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.html"
-webUrl: "https://techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-two-in-one-wide-angle-high-resolution-capture-camera.amp"
+excerpt: "In most cameras, there is a trade-off between the field-of-view and resolution. Omnidirectional cameras offer a 360-degree field of view but poor resolution. In a new study, researchers design a dual camera-based platform employing an omnidirectional camera for target detection and a separate camera for its high-resolution capture and report an overall improved performance,"
+publishedDateTime: 2021-05-14T01:57:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/05/210513173534.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/05/210513173534.htm"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/two-in-one-wide-angle.jpg"
-    width: 820
-    height: 573
-    isCached: true
-
-secured: "wnOA4Y/0f01hooZx53YphdXkD5o1NhRO77b/uU2vuNIzFs5Hstmtn+m0Vr78Fh5RV+7/Zsisvgx39qOxQxdEY7JQPYKmmY838F9NXPEJWCu7zek815fzxNFjVWq4sdg2ySEf4vXDC41c8sJLtl175j6Y1ETtp2SE4kR4xxcMnf+YBLFNXhyUWswhkwyOfKOgcSPQY0MJkdznlDnjCRR15PjltqodV5JfNaPvyrSkp5/ryBbF72HY7HSQTFP8axHgZoFCfYCRiftADTGbQiwC/E5/G6LYjHse7vndcshzZMmp4CDUS2vs8929za1U9APwSvc+mkMeo9toCatT4Vv133QDPd9880OedtSOv+258HzhSiYkuL6zMT3Iz9r6WY/kj52JkkRQ/zORjzG/izkhyNCJkHIFFZGy17wP9/wpve0ZhmOdulQXcMy0RCQj5w/LhP9S8myP8Oc768HEbushBHOXMW+hLD8Gp23qwk4U2sCkRisv/ta23ftV6skvUBfJJOFxObxtHvgZepFIhIz+mg==;tMXhcRUloWB+In9hguYgkw=="
+secured: "gxRxReZSAXWT2aMbPJ14JHNSlPwpW85qcUEGzDEIj+Vr/881n82+8VuTJ3I9RPIuSMRePywzhP60nVEKiKgh7ofZemnmNwYx6+CLX4+vBs4Igvyas2OpRfzvE2KkCmzRb/YzUZwfLDFAxu9ngkE0d7WsUec5wVYzR1e+coIxtQ41AjWju5O8L8HZXghbmvzXf8vYfWUy4a4G+imDYeMbqxQQtJ6vj6BeGohlm4Va4U6CjHjYNEWHABLjtm1FbyCGu/3fpW6rVJMQkZLqjQWTWQBu+Gz69qpZh7VbFJr/6VkeEl/g+6XQfjM39znkFJ5xAl7GhP4yl9t1W+st4Lgh6KAslfaEHWaIQ0VEaa73Fk0=;A6zNsO5jrHmiZ6QE4dZX+Q=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-04-24-scaling-ai-workloads-with-hpc-environment.md",
+      "title": "Scaling AI Workloads With HPC Environment",
+      "excerpt": "HPC uses clusters of machines connected together to enable workloads to be processed in parallel. One of the best-known types of HPC solutions is the supercomputer. A supercomputer contains thousands of compute nodes that work together to complete multiple tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6083d12e41b6d342e108c3f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/amp/",
+      "publishedDateTime": "2021-04-24T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-europe-attempts-to-take-leading-role-in-regulating-uses-of-ai.md",
       "title": "Europe attempts to take leading role in regulating uses of AI",
       "excerpt": "New rules would curb excesses while encouraging innovation with goal of a middle way between China and US policy",
@@ -1107,50 +1159,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
-      "title": "Stop talking about AI ethics. It’s time to talk about power.",
-      "excerpt": "Now the conversation has evolved, and AI ethics has blossomed into its own field. She hopes her book will help it mature even further. I sat down with Crawford to talk about her book. Crawford: So many of the books that have been written about artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
-      "publishedDateTime": "2021-04-23T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
