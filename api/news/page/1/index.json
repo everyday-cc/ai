@@ -61,7 +61,7 @@
       "originalUrl": "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -688,6 +688,48 @@
       ]
     },
     {
+      "path": "_news/2021-05-17-how-ai-vendors-can-navigate-the-health-care-industry.md",
+      "title": "How AI Vendors Can Navigate the Health Care Industry",
+      "excerpt": "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
+      "originalUrl": "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
+      "publishedDateTime": "2021-05-17T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-google-and-seagate-think-they-can-tell-when-your-hdd-will-fail.md",
       "title": "Google and Seagate think they can tell when your HDD will fail",
       "excerpt": "Google Cloud and Seagate has devised a machine learning (ML) system to predict when disks inside Google’s data centers might fail. Despite their volatility and high fail rates, hard disk drives (HDD) are the preferred means of housing data inside a data center.",
@@ -1167,58 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-credly-and-degreed-partner-and-both-employers-and-employees-can-benefit.md",
-      "title": "Credly And Degreed Partner, And Both Employers And Employees Can Benefit",
-      "excerpt": "Employers get more information, and employees can show their full range of talents, through a new Talent Management collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/",
-      "originalUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609fed90050312b45b723c48%2F0x0.jpg",
-          "width": 1200,
-          "height": 1003,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/amp/",
-      "publishedDateTime": "2021-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

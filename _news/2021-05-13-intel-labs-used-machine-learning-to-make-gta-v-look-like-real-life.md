@@ -7,7 +7,7 @@ originalUrl: "https://knowtechie.com/intel-labs-used-machine-learning-to-make-gt
 webUrl: "https://knowtechie.com/intel-labs-used-machine-learning-to-make-gta-v-look-like-real-life/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Intel has made GTA V look incredibly realistic with machine learning"
-    excerpt: "GTA V has been modded a few times over the years, but even the best mods don't make it look as realistic as the work Intel has done with machine"
-    publishedDateTime: 2021-05-13T10:15:00Z
-    webUrl: "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning"
-    ampWebUrl: "https://www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/intel/156890-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/156890-games-news-intel-has-made-gta-v-look-incredibly-realistic-with-machine-learning-image1-c1quf0n2i5.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "ASfu7uNuijgC0EZy4af8ZQWs76jQkayQc5nAHM5tX40CFQWkjreHBwt/5/+Jceqx5nIWOBF1frp3x+BA76363KfbSypsDkF10N9zdrTAe5m8CM0glltvfG4kK3jw5zkRZyIH0wn7rQSQT6/9o4z60NkE4TGQ01Q4KlZ2xz7pl0p2oewbGIG2Tm7goXwi/pEgTlklF4wF1gx5PtZLaomjNP/KZPyPUnBzyxdwN0vkiFvJ5vMy8wSALo8jsPd2hdkLTg7+TJD+q9QVXKhOkiCTNvUt2fAi2lZ+Ki2McF2nsIu1z1x2q4ttv5PW403aS+UKUHkc/JjhD+4DFa9ewCieayYTZerecp267dPp7PCDGw46kpU5cWMABT60Kv+FsCK0/2AsO33iwyg7g2a94AxYVk1YxpyXrMBg8Q9NT1TVQiasY7/CMG16z+tLgiYGDhMPmWPa6pWMgcHbQHiNYfGmZRw0VPKaH9IOPQvRtYgpF7IHrX76+cg0pzu1n7nRiprowqASDAsBBuzzHbfci1MEOw==;Mdc5iVWi/36+T/eisDJ/xw=="
 ---

@@ -75,22 +75,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
-    excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
-    publishedDateTime: 2021-05-13T10:01:00Z
-    webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
     excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
     publishedDateTime: 2021-05-17T22:56:00Z

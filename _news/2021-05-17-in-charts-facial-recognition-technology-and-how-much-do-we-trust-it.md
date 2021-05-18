@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Pet facial recognition technology helping owners reunite with lost pets"
+    excerpt: "When Bella, a local dog, went missing, her family searched for her everywhere. They uploaded her photo to a pet-facial recognition technology, Petco Love Lost."
+    publishedDateTime: 2021-05-18T00:15:00Z
+    webUrl: "https://www.cbs46.com/news/pet-facial-recognition-technology-helping-owners-reunite-with-lost-pets/article_68c1905a-b75a-11eb-8c6d-3f4d99b68e31.html"
+    type: article
+    provider:
+      name: CBS Atlanta
+      domain: cbs46.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/69/5699ead5-92a2-5fb6-b89d-da15e924ca6b/60a31516f0d11.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "4rwOCr5QlqzS5iml6YBkGmr8RHl7v2C6MjCjYLZwT9IOp9MNnCMkKkl+AhemI0v+j81fYd7lLvbS3fydWprz2ukgdwI5MGX9IYBfOG4m8KyyQCrGCoplQH4JSwMVnTqG3gGMXEKOf1mLgU7ugcO7VjfEJ3gNyNiwrKhZ6kdqhYdA2BejGOhuu0dqwgNZzY9Od40s8dU8nrxRBeJTyfLzJx5TudTFv6yJyH8+FvpAhB50mj70b1jR6EDqAMWq/q3fPW1jdr7NjA7YAeWm/BgYJx7O8a/u8cYegRStPwxRPFV14s5+TDmB5d5zhEL2JQLipHOLHCFyRtKxRed1PuwxeB1Wpi57d28pJINrz3AE3HEG6cbbjFHF84tW0iovH0xLf4TpN2XXAMzaJJL6rzf/HoqZmgnTZQeBgPBprGnUW63Jjfy0VhpVF8LD3Q8lWoEXp9VGd8ktX6YwJcbf37O4v37FfaJlwC5m36nWjDbGfVG4Xd0wcMmsdmFWwvBlC1hmGMJxGE9Tr3uFXR7i7KfoHA==;3p+CEQfdpFeXmCStm6d2TQ=="
 ---

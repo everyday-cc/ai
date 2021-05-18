@@ -1,28 +1,24 @@
 ---
 category: news
 title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
-excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into"
-publishedDateTime: 2021-05-15T00:42:00Z
-originalUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
-webUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
+excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual"
+publishedDateTime: 2021-05-15T00:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "WIMI Hologram Cloud’ s AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
@@ -50,6 +46,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Realizes Naked-Eye Interactive High-Simulation"
+    publishedDateTime: 2021-05-18T00:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21167383/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fict"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21167383"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21167383"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
     publishedDateTime: 2021-05-14T19:41:00Z
@@ -65,6 +72,6 @@ related:
         height: 337
         isCached: true
 
-secured: "Rahtsjk9hT2p+3QW3U7ZPNsqfd3hEbwotCuO1odHXPipozCIOY7j0Dc2Gd3uuzwedIWuPYGpT3m2eb/z1yQ22OYNWv5K/R5Le9LcRjQnDxhEoo8LV/myV3VKLUpzF38g/3BqGAHoW5vDX6Tkef6fUUdq7LPbLDAcGxfrAFKyOv0RrXIoNr8ZJDKd3AXwo7C68ME+ZfBMhscelSL1MRh0lz9SMqcRFKg43qSUnWELKMNKkgstnhYKqecjBQKvJIx+QrtyqSPW2ZwvXXescQKZuynlLEB2F5Fi3Y+Txs+2OZ1TCXgyK53eMN0I2GFvGa+FmEjVX0psN4xTC3Zwv7ugGybjJ+TkzJeiPj0gWu/dwcw=;3F4k/jiXxu6wgQqpPwfK1Q=="
+secured: "sFX5UIKirzMJ1g9gvvcCEFtiEMlXOmBitPkT9YpqT99eQ1GWqujUZ0dbxrcuqnDChtw3N5e3RsQA3Zq17EXwJASJLIl5DiCOydXQd1bcJtVPjG5rSbHD6goOC3j2TQPvdvlb9kgJTFXFGhLdw+YGuEiGk7x38yfqYZvfNKK0y+Z5s4ykow7pUIOK5L3eZpLvDnQyBgH2uGKqSsBxkRoEj3BONmCcOuq1qDXWQkYQC4Lnc5+1UPDT1HLYiFikQKd+dwWJACRkRmpH23GPIA43bOwWoDG2YSYcDMALonyDs9doZmO6pPT1alxGZFR3wZufRORBY9wTR7DpRHP277XFwA5iFHBF7MZMmqZRTR2p9J4=;igQYZM3+COVblqNspG5XoQ=="
 ---
 

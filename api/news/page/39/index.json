@@ -2,6 +2,92 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-13-overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings.md",
+      "title": "Overwatch League teams with IBM Watson for Season 4 Power Rankings",
+      "excerpt": "The Overwatch League is joining forces with IBM Watson this season to put out its most accurate player and team power rankings yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings",
+      "originalUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/04/12/owl-season4_feature.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1",
+      "publishedDateTime": "2021-04-13T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ibm-introduces-ai-driven-overwatch-league-power-rankings.md",
+      "title": "IBM introduces AI-driven Overwatch League Power Rankings",
+      "excerpt": "IBM has introduced Power Rankings with Watson, an AI-powered method of evaluating players and teams' performances in the Overwatch League.",
+      "sourceUrl": null,
+      "webUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
+      "originalUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2021/04/IBMxOWL.jpg",
+          "width": 1781,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esportsinsider",
+        "domain": "esportsinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021.md",
       "title": "IBM Watson AI Will Calculate The Overwatch League’s Data-Driven Power Rankings In 2021",
       "excerpt": "Everyone loves power rankings. Well, unless your team stinks enough to land at the bottom of most people’s lists. Power rankings give fans something else to obsess over and argue about, especially in the offseason or between match days.",
@@ -973,93 +1059,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/",
-      "originalUrl": "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2021/04/13010153/AP21102458179095-1100x817.jpg",
-          "width": 1100,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T23:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Republican",
-        "domain": "timesrepublican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-aws-summit-online-india-decode-the-power-of-the-cloud-and-build-for-the-future.md",
-      "title": "AWS Summit Online India: Decode the power of the Cloud and build for the future",
-      "excerpt": "Get them answered by AWS experts during live chats. AWS DeepRacer League: During the online summit, participants will get to watch the world's first autonomous racing league that is powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future",
-      "originalUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/aws-summit-3-800x400-1618291440664.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future/amp",
-      "publishedDateTime": "2021-04-12T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

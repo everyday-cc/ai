@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-pre
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 400
     isCached: true
 
-secured: "QZ6zTru8eQmZ1cedVBeOVHZf16pl0Sn5gX16GlsWDGKt4cOFE96ntMujs7ExE6KFLQI1eljbjqSDbEKsuut+eqv+UNb8i9gaD0NVsQsu96Bt2AbSNG7IXmAX/8AHpfEqiBp3fy/q6N7RpbPNoOV9wuxl45chU4vxNhrU1VSXt4rdsaQP5ULKmHoGl9eeZCJJK7BqijWquXPbualVclSTj+eVbaHKBhE3kEkZuXWMEmC1gMRhYHL//1sHtzDiowi3gCrTRap0dDZhrPjPq8KeJ36GqMZ/lmSg0HUmklLm5RQaD67gLzlMFfAYfBmt+dxfHM4CDOp4Pt0rqokdlUt9ddcgieU61Klfz4X464XzERw=;3x++k5asWBW0kOF8lua8Ww=="
+related:
+  - title: "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community"
+    excerpt: "The AIforCOVID Imaging Archive is a shared collection of images and clinical data for developing innovative Artificial"
+    publishedDateTime: 2021-05-18T00:17:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg?p=facebook"
+        width: 1024
+        height: 536
+        isCached: true
+
+secured: "epTLJX++Rj9/gViZZZH+cYS/UaMOLOF1eoz2ep6qhZngBIInSrfoKJtv+6kuOW9y5vaycX4q1GtIgYaeZOh+g7qJFiY4XUHv+s1nZCm8SbNq9Lg1ISfmAMmEL+OmmreLZS35UViOP2/y0U1Qqsa9V+F1EWroHa9PkN2KkVjIrMRX5ppY1PfLtMv4V5EoBvTbbMtbNLYjacqGuEmojmdE55ahiAjdxsLyozqogPIvc5KOlyeHvdLmpmuBXSrdIiIa3VsuwrwveECxWN/y3nyhov6ZFpf7AOeQ7a5X6Gm8S9zSAvr4xjmdyP5iJnlcJuWsXGyD/wAjoUXOw2sEHJHzLn91wWg6ccIWKlyj7tr4QPECcgpwQCKa2rDZCczXf/ICV/yxB/R9/g/YmX7PVe7Q77cWHz8Ef/1n5PpQ7RT8UI7mX9wNxhKK/LNen9tkQ5p/Qud0zTMckPoba5W+LIFanRNoj3Hm2LmqYOjvGzry/syUyxRZhdk6glC8VTimoapulbh0CmpiXlqKzuclUgchpQ==;T80aiwnES7jGlImuHzaVzg=="
 ---
 

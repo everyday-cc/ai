@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial
 cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Pet facial recognition technology helping owners reunite with lost pets"
+    excerpt: "When Bella, a local dog, went missing, her family searched for her everywhere. They uploaded her photo to a pet-facial recognition technology, Petco Love Lost."
+    publishedDateTime: 2021-05-18T00:15:00Z
+    webUrl: "https://www.cbs46.com/news/pet-facial-recognition-technology-helping-owners-reunite-with-lost-pets/article_68c1905a-b75a-11eb-8c6d-3f4d99b68e31.html"
+    type: article
+    provider:
+      name: CBS Atlanta
+      domain: cbs46.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/69/5699ead5-92a2-5fb6-b89d-da15e924ca6b/60a31516f0d11.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "3k86o4fFzfYc+vF5xvwk9AHHMcNeRzNNy4gsx5teFSmMk4OFjOrdC2jCB8s8MWW0N813Y3r5kf6ki6ifxPbQM5gzIHC7ZDQsJZpqAflbo0F9nveWRWTQHKmWRM7Qtrq7YlU69rFcvKhDzQkDN+daruFQ+ldUbXk4rbQ+kluUIWMh2qx0xdTJgGDzeA3DMkYnBFNy6Olso7wcMh6mNGa+cPL9u7uzBeLAImy4R45SoIl0gMdGUi9dwA41sQyWwsW18/zo9g9jbfLhaBDoIXuRfsCSmSP/Bz9Fhcg0m+F2fppVmRk6flQI3NS7dm+3CYr7JF1nKqLyuCzSvPpu4oxeR2D0kzFIfG7zg0hN/H8gWPP2ULZysFy9P2JY+GcNZChqnoh3lezWhyrXamuMgMX3MwS6webmLgUSjpT9GpeK3W8RA2RFbORI0wbWCsAwvqB63hMdQtB3IpvczBqb+gykUl12NWff3rOHvXgyNk0PHW/hsf9IvdcLW+R9+Kyyb4xvgX96JedSAPis7IA+1rhK1g==;1T6lNFcAUtE7Y8LUjPh6Mg=="

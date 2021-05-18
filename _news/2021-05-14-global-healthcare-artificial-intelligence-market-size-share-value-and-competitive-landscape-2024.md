@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-healthcare-artifi
 webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Gesture Recognition In Automotive Sector Market Overview With Detailed Analysis, Competitive Landscape And Forecast To 2026"
-    excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. “ Access this report Gesture Recognition In Automotive Sector Market @  Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions,"
-    publishedDateTime: 2021-05-13T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-in-automotive-sector-market-overview-with-detailed-analysis-competitive-landscape-and-forecast-to-2026-2021-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "JLwohaIbUlisM59GRNctrGzXcpo2g69vhPn3biNlC8AagzJ7O5jatRDx66v2Qhb/0uiaSTPHykbe95sV4YGNv3cAl3cno0/P4qHGsvWoMa1Ct3dOC5RVCDq7hPPQ6lD3cMgvqdOUjK4kTCfnqzO/or23TOyExOCUBvAqXYBdn5h5tdbKKeHrp/ZQS4bqv3iYo4MKORgngOpVXGbeN7cE4OcJ1SAlcfOxIDzuPgxIPb8nvITDrdE+hYmKSN6/dJondvdhptcMX4iCC87ifCBNihvmNnNHKpAa2cR1krHMoFo0vGqRsFRq25mbbSlm5Mx9zfDJVHAjFP/O5WvDl2Q9L5HaJfJ6qty1rrlffg2+AL8=;R7mwQG7ViWyuAUBqKj7TzQ=="
 ---

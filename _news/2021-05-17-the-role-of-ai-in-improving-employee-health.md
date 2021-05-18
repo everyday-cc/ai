@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Doctor Is In: Three Predictions For The Future Of AI In Healthcare"
-    excerpt: "They say necessity is the mother of invention — and the last year is Exhibit A. Amid the turbulence of the pandemic, we’ve seen impressive innovation across the board — but perhaps nowhere has this innovation been more pronounced than in the healthcare industry."
-    publishedDateTime: 2021-05-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c041c4c3af41613afe7d4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Positive Technology And The Cosmic Mission: How AI Is Helping Humans Achieve States Of High Energy And Success"
-    excerpt: "Up until now, we have been on our own to deal with negative emotions. But there are promising indications that AI can help."
-    publishedDateTime: 2021-05-13T16:58:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d594a890b77977267fd9a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI Vendors Can Navigate the Health Care Industry"
     excerpt: "AI changes the rules of business and, as ever, there are some unique considerations in health care. In order to understand these, we studied AI across 15 sets of use cases. These span five domains of health care (patient engagement,"
     publishedDateTime: 2021-05-17T12:25:00Z
@@ -72,57 +42,34 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bias a Chief Barrier to Artificial Intelligence in Healthcare"
-    excerpt: "The potential for algorithms to perpetuate bias and exacerbate disparities is a critical hurdle for artificial intelligence in healthcare."
-    publishedDateTime: 2021-05-17T15:52:00Z
-    webUrl: "https://healthitanalytics.com/news/bias-a-chief-barrier-to-artificial-intelligence-in-healthcare"
+  - title: "How Artificial Intelligence is revolutionizing the startup industry"
+    excerpt: "Currently, we are in the midst of the fourth industrial revolution which is driven by artificial intelligence.  What is significant about artificial intelligence?  Artificial Intelligence gives machines the power to think,"
+    publishedDateTime: 2021-05-15T10:56:00Z
+    webUrl: "https://speakerdeck.com/sharmadiwakar/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
+      name: speakerdeck.com
+      domain: speakerdeck.com
+    quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"
-        width: 689
-        height: 407
+      - url: "https://files.speakerdeck.com/presentations/f023c954ec894f6b8798104658221a0c/slide_0.jpg?18067642"
+        width: 1024
+        height: 791
         isCached: true
-  - title: "An Optimist’s Take on AI and the Future of Architecture"
-    excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."
-    publishedDateTime: 2021-05-14T08:08:00Z
-    webUrl: "https://www.archdaily.com/961547/an-optimists-take-on-ai-and-the-future-of-architecture"
+  - title: "Artificial intelligence opening new frontiers in Canadian health care"
+    excerpt: "These may sound like the medical miracles of a distant future, but with artificial intelligence transforming the health care sector, these scenarios might become our present reality sooner than we think."
+    publishedDateTime: 2021-05-17T20:39:00Z
+    webUrl: "https://www.theglobeandmail.com/events/article-artificial-intelligence-opening-new-frontiers-in-canadian-health-care/"
     type: article
     provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 37
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
     images:
-      - url: "https://images.adsttc.com/media/images/609b/9796/c890/d701/642e/272b/large_jpg/ai-buildings-2-larger-1428x644.jpg?1620809626"
-        width: 1428
-        height: 644
+      - url: "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Anthem modernizes IT infrastructure and invests in AI through Project Cirrus"
-    excerpt: "Health insurance provider Anthem Inc. signed an agreement with IBM in March 2020 to further modernize its IT infrastructure and infuse more AI into core processes through “Project Cirrus,” an expansion of the multi-decade partnership between the companies."
-    publishedDateTime: 2021-05-16T17:39:00Z
-    webUrl: "https://siliconangle.com/2021/05/16/anthem-modernizes-infrastructure-invests-ai-project-cirrus-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Rick-Smith-IBM-Think-20216480.jpg"
-        width: 666
-        height: 375
-        isCached: true
-  - title: "AI and the Lab of the Future"
-    excerpt: "The laboratory of the future does not look at all like what we think of today—a fluorescent-lit room bound by four walls and a fume hood. The laboratory of the future will be a network of physical and virtual spaces,"
-    publishedDateTime: 2021-05-14T15:44:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/05/14/ai-and-the-lab-of-the-future"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 19
 
 secured: "5NWUiStQiwebgicy73wzF01Jt3gDMck14y+0nA1ZQWMDGYWATLJe7x+3tbzQj3E0YGyvRtVSzy+1c5+1GiVooC38PPNiyftLv6Wq7Y3pveW6mm74hKJ5oyW79cQsA9ySGvZ/WXX93MS57aroawq5gINW43/xDefU1filu7b0IN/dGs8Dn5RG7rlqAtSUkQaTeAZJpq7Eu41g2NYN/wWzXTMSmU1dZ/+UiqPWomnN1gHzoJjt82ksaO2z35FZWo09NAzu4Z79u9zQicpRHB6Qh4TE1TIzhNKPSK/Ry+NW3PJ1Gn9Kry4krXDXHfPF4cowLWk/jJZUvGIXPN10HlNcpGxLAIF1+K5QiCU2wLzz4+g=;5/nC3IspsEd1wFSqCVSprA=="
 ---

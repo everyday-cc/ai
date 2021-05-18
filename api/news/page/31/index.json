@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-21-treatmentcom-building-the-smartest-artificial-intelligence-ai-system-for-healthcare.md",
+      "title": "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare",
+      "excerpt": "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-hive-raises-85-million-for-contextual-and-branded-content-ai.md",
+      "title": "Hive Raises $85 Million For Contextual And Branded Content AI",
+      "excerpt": "Hive, which supplies AI-based contextual and measurement technology to media and ad tech companies, said Wednesday it raised $85 million in funding, valuing the company at over $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adexchanger.com/platforms/hive-raises-85-million-for-contextual-and-branded-content-ai/",
+      "originalUrl": "https://www.adexchanger.com/platforms/hive-raises-85-million-for-contextual-and-branded-content-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adexchanger.com/wp-content/uploads/2021/04/Hive-AI-funding.jpg",
+          "width": 900,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AdExchanger",
+        "domain": "adexchanger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence.md",
       "title": "Signia Reveals Hearing Aids With Wireless Earbud Technology And Artificial Intelligence",
       "excerpt": "Signia is a major hearing aid manufacturer that has developed the Active and Active Pro hearables that bring the advantages offered by true wireless earbuds along with advanced hearing loss technologies.",
@@ -1075,99 +1161,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-companies-continue-to-prioritize-ai-and-cloud-for-innovation-investment-according-to-the-latest-transforming-business-poll.md",
-      "title": "Companies continue to prioritize AI and cloud for innovation investment, according to the latest Transforming Business poll",
-      "excerpt": "Business decision-makers polled in the most recent Transforming Business survey said that AI and cloud are the top areas for innovation investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4",
-      "originalUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60751a6c3e3fe7001882a41e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp",
-      "publishedDateTime": "2021-04-20T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-digitate-two-individuals-named-recipients-of-business-intelligence-groups-excellence-in-artificial-intelligence-awards.md",
-      "title": "Digitate, Two Individuals Named Recipients of Business Intelligence Group’s Excellence in Artificial Intelligence Awards",
-      "excerpt": "New Jersey-based Business Intelligence Group recently announced the recipients of its Excellence in Artificial Intelligence Awards, with the Indian American-led firm Digitate and two Indian Americans among the honorees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiawest.com/news/global_indian/digitate-two-individuals-named-recipients-of-business-intelligence-group-s-excellence-in-artificial-intelligence-awards/article_c20133f2-a1a0-11eb-8b91-0393affdf6fd.html",
-      "originalUrl": "https://www.indiawest.com/news/global_indian/digitate-two-individuals-named-recipients-of-business-intelligence-group-s-excellence-in-artificial-intelligence-awards/article_c20133f2-a1a0-11eb-8b91-0393affdf6fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/0/19/019778d2-a1a1-11eb-9522-6b174fceb925/607e73b5af139.image.jpg?resize=504%2C630",
-          "width": 504,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India West",
-        "domain": "indiawest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

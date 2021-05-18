@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How An MBA In Artificial Intelligence Can Kickstart Your Career In FinTech"
-    excerpt: "Want an MBA in Artificial Intelligence? HKU Business School offers an MBA AI for Business Leaders module, which is helping students start new careers in fintech"
-    publishedDateTime: 2021-05-13T10:35:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
-    ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/7604/mba-artificial-intelligence-fintech?sponsored"
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "Police in Changsha Receive Salaries in the Form of Digital RMB At present, digital RMB pilots have been conducted in various applications across China. On May 8th, employers at the Kaifu branch of Cha"
+    publishedDateTime: 2021-05-16T18:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175429-china-weiyangx-fintech-review-201/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175429-china-weiyangx-fintech-review-201/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175429-china-weiyangx-fintech-review-201/amp/"
     type: article
     provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 57
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1620289993.png"
-        width: 750
-        height: 468
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Kunming-Yunan-China-Street-Scene-600x529.jpeg"
+        width: 600
+        height: 529
         isCached: true
 
 secured: "42+stSiK79pK8Jdiq2s0/ochIy6hhmtIbnGSl9N8D0PuRGgleUY8lg+L1KiTi8akbarTONbEAUhrnINxe/p7HsCeMIHtE4zcImNFr8QX9GXMKhP2m+QrBoNUP072I062m2gD75pdve6u1cAVUmJ0p+GDnr+TLm5wLD4KU+tydBAvj6+A9fUuiL+ItlTyDaPVKDsW+KzGj8p1G5xYWv6XsFB2x/CIxQ5hiVSCcKe1zpbYYW/Az/TiMmA8wLvhcYcBZqJXm87jyBiDaesxWNyd9X4zpi9HE3W3wgPAhYH47Rp+vWoLZVtprbG4TmTp+Pdc6XCAf0SThRT58tGYLyrKgIeJU+8ooyH/xnVKTKycMh8=;yPlaTX4o97YuqxaF9du9DQ=="

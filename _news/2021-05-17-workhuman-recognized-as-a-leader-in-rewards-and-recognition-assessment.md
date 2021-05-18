@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
-excerpt: "With many social recognition platforms available to organizations, Workhuman® is proud to be named a Leader by Everest Group in its \"Rewards and Recognition Solutions PEAK Matrix®\". This is the third year Workhuman has been named a Leader,"
-publishedDateTime: 2021-05-17T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370771.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/17/9370771.htm"
+excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
+publishedDateTime: 2021-05-17T14:10:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
+webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "gcW64LPGlmPq9/nQ1mpABe4ozYPRpdZhGppC17f92RiVHSRQ9cIPI55ZFtCCsXsIcTxJcyHq2SNQWyEUo7jIMwpGpOKs8AdPDyqK2rVKEtE0fOrSaMK+Yz8asU9QXa5vkFMy009uJod2MuUvaKAJCGytz/zvPISQraw7VuvpmBD39rtccQeeSfV2yBj1wlhmq/U4C96RpcwzvnZ2lx1Bq0LRubCwXGG9THfjSHDaAo7HmM5jw7e1xOfv40ILpBiE4kSMD37Mi1/pxyUVzltHMXFtMdSnsI2fxsSuCAaoIBe0mvmL1MpbOvwH2PlkkjaqfqO/3khnZRyfj/2HD9BtAXkTN3H9O3dFfiAQnq3ZkYkEk2NOeHjcDMdQZIXIsD7pus3rrbvMXXUZr7lW3YGUVlT7M9aFalQVHHloTlQ0WocpL1iP2WQxgo0myfzzmr8l1TJl/wfwWIy/gCWqXUO/jSroll1xPGHAaRrhFD/XpCkHH72Q0lfwf0cqUGxdhlwIunP7p3CgwZ1pclLZ05z5xQ==;4ptvhue6EP78HnV4AszapA=="
+secured: "c4obEX3EvL2vUDkB9rE5F+wZfBfm0cjYvLkJSXQTL7bt5a5RBlY7IjI0ESy9x7te3fEbfptRzyQu3LStFZF6FJrE9tYCpcfMKwUjc3MsdW0/arqvasUpyDi/JrYu94D8MwUtnDdQkJCkKJl+mHJTg+/FsIXXlD4zafL3P7ho7DGW7NXk5kTDYyOcr5EyBcLjSBLJxntdgPkhfEKAzxBhitqCufGFMPCHF0qILege5t/2NzbYWuDew0JlOi+o9he9zPsSuESjlQ+m5m/El3oQIo3WyuRs4Uay9gMuRmjRzfQmc+dT3w9ROt45pb6+zqflj6LewaVChQlECbuzr/WPQJjnvcbh6QkCBlFP8uECH5KDmVk3TsHIocJMdHgOX7QPO3KRdX9xQRq4Gnsf9xKtsOIjlwiEMWK4/k/5Uh1QUhdqmAgeI/5cnwZNlzY3L1fhGwRZ4cCI8R1gS8DcYVz9qa8+QDR8Z+ivvYduTgktj0KBFCSwnvUxydF53PB1yzMzzvKUI0phI2OPE6jAS5a93g==;2m1y4bRdflc2Zh6CfPu6sQ=="
 ---
 

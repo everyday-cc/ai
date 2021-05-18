@@ -2,6 +2,101 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-04-28-ai-can-help-guide-our-return-to-the-workplace.md",
+      "title": "AI can help guide our return to the workplace",
+      "excerpt": "As companies around the world begin reopening offices, for example, AI can take on a pivotal new role in the workplace: supporting continuous management and maintenance of facilities. This means that intelligent systems could impact millions of workers who may never have imagined AI playing a role in managing their working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "originalUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "publishedDateTime": "2021-04-28T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot.md",
+      "title": "Internal emails reveal Capitol security officials dismissed warnings about troubling social media posts before January 6 riot",
+      "excerpt": "Newly revealed internal emails show an outside group warned Capitol security officials one day before the January 6 insurrection about a series of troubling social media posts calling for people to storm the US Capitol and kill federal employees,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+      "originalUrl": "https://www.msn.com/en-us/news/politics/internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot/ar-BB1g8x2R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210413102700-us-capitol-riot-file-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+      "publishedDateTime": "2021-04-28T03:16:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+        "domain": "com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-breastfeeding-can-boost-your-childs-iq-babies-who-consume-breast-milk-for-even-just-a-few-months-score-higher-on-cognitive-tests-at-age-10.md",
       "title": "Breastfeeding can boost your child's IQ: Babies who consume breast milk for even just a few months score higher on cognitive tests at age 10, study finds",
       "excerpt": "Researchers in the US gave cognitive tests to nine and ten-year-olds whose mothers reported they were breastfed, and compared their results to scores of children who were not. The findings suggest ...",
@@ -1092,111 +1187,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-language-learning-startup-toucan-raises-45m.md",
-      "title": "Language learning startup Toucan raises $4.5M",
-      "excerpt": "Toucan, a startup that helps users learn a new language while they browse the web, is announcing that it has raised an additional $4.5 million in seed funding. As I wrote last fall, the Santa Monica,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/browser-only.jpg?w=680",
-          "width": 680,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/toucan-seed-funding/amp/",
-      "publishedDateTime": "2021-04-27T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
-      "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
-      "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
-      "originalUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
-      "publishedDateTime": "2021-04-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

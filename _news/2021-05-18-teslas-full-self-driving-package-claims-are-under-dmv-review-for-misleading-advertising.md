@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claim
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
 type: article
 quality: 95
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
         width: 1199
         height: 675
-        isCached: true
-  - title: "Tesla self-driving tech getting an upgrade soon – what you need to know"
-    excerpt: "Tesla is set to roll out several updates to its Level 2 autonomous driving technology over the next couple of months, according to company CEO Elon Musk. Customers in Europe can also look forward to a convenient parking feature."
-    publishedDateTime: 2021-05-13T10:01:00Z
-    webUrl: "https://www.tomsguide.com/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-self-driving-tech-getting-an-upgrade-soon-what-you-need-to-know"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/zmi3DQfFm6sS5Tcm3zGESG-480-80.jpg"
-        width: 480
-        height: 320
         isCached: true
   - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
     excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."

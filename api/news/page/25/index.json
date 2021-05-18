@@ -2,6 +2,110 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
+      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
+      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "publishedDateTime": "2021-04-26T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-understanding-the-evolution-of-nvidia-gtc.md",
+      "title": "Understanding the Evolution of NVIDIA GTC",
+      "excerpt": "Chatbots can communicate with humans using facial expressions and contextual awareness thanks to innovations in conversational AI. NVIDIA’s GPU-accelerated application framework Jarvis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/it-management/understanding-the-evolution-of-nvidia-gtc/",
+      "originalUrl": "https://www.eweek.com/it-management/understanding-the-evolution-of-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/02/Networking.2021.-1.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid.md",
       "title": "Alphabet’s X moonshot division wants to bring AI to the electric grid",
       "excerpt": "Google parent Alphabet has been working on “a moonshot” for the electric grid, with a secret project in its X R&D division aiming to figure out how to make power use more stable,",
@@ -1082,93 +1186,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-deep-learning-and-the-future.md",
-      "title": "Deep Learning And The Future",
-      "excerpt": "Following up from my last post on our deep learning event at the Computer History Museum – “ASICs Unlock Deep Learning Innovation,” I’d like to take a glimpse into the future. Like many such discussions, it’s often useful to take a look back ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/deep-learning-and-the-future/",
-      "originalUrl": "https://semiengineering.com/deep-learning-and-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2018/04/eSilicon-AI-deep-learning-fig-1-performance-vs-power-chris-rowen.png?fit=1388%2C1022&#038;ssl=1",
-          "width": 1388,
-          "height": 1022,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-machine-learning-in-the-kitchen-makes-for-tasty-mashup-desserts.md",
-      "title": "Machine Learning In The Kitchen Makes For Tasty Mashup Desserts",
-      "excerpt": "She collected 33 recipes each of cookies, cake, and bread and built a TensorFlow model to analyze them, which resulted in a cookie/cake/bread lineage for each recipe in a set of percentages.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/02/03/machine-learning-in-the-kitchen-makes-for-tasty-mashup-desserts/",
-      "originalUrl": "https://hackaday.com/2021/02/03/machine-learning-in-the-kitchen-makes-for-tasty-mashup-desserts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/02/Desserts.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -36,20 +36,28 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
-    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into"
-    publishedDateTime: 2021-05-15T00:42:00Z
-    webUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
+  - title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Realizes Naked-Eye Interactive High-Simulation"
+    publishedDateTime: 2021-05-18T00:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21167383/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fict"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21167383"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21167383"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual"
+    publishedDateTime: 2021-05-15T00:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 12
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
     publishedDateTime: 2021-05-14T19:41:00Z

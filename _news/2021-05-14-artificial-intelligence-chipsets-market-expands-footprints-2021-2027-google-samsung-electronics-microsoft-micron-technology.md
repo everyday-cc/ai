@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Research Overview Covering Growth Rate, Key Vendors, Demand Ratio and Forecast To 2025"
-    excerpt: "May 13, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence (Ai) in"
-    publishedDateTime: 2021-05-13T10:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-research-overview-covering-growth-rate-key-vendors-demand-ratio-and-forecast-to-2025-2021-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vIwkkyilOH04pzWIXiyUReipIJ72wqTMqSzhUtKN4uoAasGFAVoa7UFz7w2Na6eUIPXo+X4dDsNlM3CejuHfgY2HFWO04/tPfVFO8xtT/G8mc/HTe5V7jYd+0P5WsFfmBjhNQ+jdSCOcCJ72h3x2vdQJ81Ki+mPR+1KoUh8Zk4kFLFNoMdfCjDTbyfr3Uy7teF/WHROWXWV/y3iXyprKBD5Js8CBuczCsmIphKwwXggAYSPNd2EMUQtG+J5v/ewNLoMZnThN3p78geP6eG3KjgsJ2zgnyevbLOC7T8BRa00TOUTZAiEBN/1U1zUPL4vHsEfcHajUnjacOFFSulbUmSe+83J/+EUabRUJdQoch0Q=;f5/h22hc34BYiTb3/P3zpw=="
 ---
