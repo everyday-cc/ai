@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1285
         isCached: true
+  - title: "Artificial Intelligence Program Accurately Predicts Lung Cancer Risk"
+    excerpt: "An artificial intelligence (AI) program accurately predicts the risk that lung nodules detected on screening CT will become cancerous, according to a study published in the journal Radiology. Lung cancer is the leading cause of cancer death worldwide,"
+    publishedDateTime: 2021-05-18T14:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-program-accurately-predicts-lung-cancer-risk/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-program-accurately-predicts-lung-cancer-risk/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-program-accurately-predicts-lung-cancer-risk/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/AI-Predicts-Lung-Cancer-Risk-777x498.jpg"
+        width: 777
+        height: 498
+        isCached: true
   - title: "Machine learning accurately predicts cardiac arrest risk"
     excerpt: "Model combines timing and weather data Risk highest on Sundays, Mondays, public holidays, and when temperature drops Potential for use as early"
     publishedDateTime: 2021-05-18T08:10:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/21152396"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21152396"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 1054
         isCached: true
+  - title: "Understanding the Black Box Problem of Artificial Intelligence"
+    excerpt: "While artificial intelligence (AI) applications are becoming increasingly capable of solving even the most complex of our problems requiring human-like cognition, the black box of artificial intelligence makes it difficult for us to understand how these systems actually go about solving these problems."
+    publishedDateTime: 2021-05-18T15:12:00Z
+    webUrl: "https://www.bbntimes.com/technology/understanding-the-black-box-problem-of-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 17
 
 secured: "zMD5uLWzyTrEcWXUzTcVnbwTtzTKSlzpIl/oVTdPNqOHuoUel6AYQn7aMI2bJ+FYWT5NcjtWZD3qsTvxensxXYj7M5eMHBCYgE70AV041q1/jJDfgi3hlcgqpX6KUt2TP5jMAhL7dBW3uk+hAWK5KfT2gysmvf8Kg28Lxr/9dXFMCq8xZi2yUoJodICu0IiAVoY47wesGfAnqL9NGN3ukIrv5kSuLpJ/JwvXGls9BZYBm6MP77pGU/oxSUF/vfbl1eiJpczAWp3ssmzcfJPj/Q2W46R2wUnmarqKaTZGldVfVH0xiHfBL5eAgNojFAlIeZHTcef9B6D4QUaeI4zuzv3uZ6v+WvDKN7JcVIaz6ZE=;uLVWdYHnF9rIkb6CpkL/8g=="
 ---

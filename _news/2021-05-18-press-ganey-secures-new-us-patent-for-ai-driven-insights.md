@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Serenus.AI Granted New US Patent for 'AUTOMATED METHOD AND SYSTEM FOR SCREENING AND PREVENTION OF UNNECESSARY MEDICAL PROCEDURES'"
-    excerpt: "Serenus.AI ( an innovative startup developing AI-based solutions to improve medical treatment decisions, obtained a Notice of Allowance from the US Patent and Trademark Office that the application 'AUTOMATED METHOD AND SYSTEM FOR SCREENING AND PREVENTION OF UNNECESSARY MEDICAL PROCEDURES' will be registered as a US patent."
-    publishedDateTime: 2021-05-18T13:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-serenusai-granted-new-us-patent-automated-method-system-/2021/05/18/9372046.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "W6C5ZaTAqzhWJz7tkS2y4KjoAk2JL15wwLP8QVkEBUBTAVuZpQ422ScjuF3EKmnPi6dxJpSCE01/WIPL8uUxbnNawx3z2JSHlER/nZnJQcR4MXaZUt2BezkHxtPgZ144kG7Tn8ciu6iH/ASk0eYy8o8SZaoyRSXdsLXG/d3z89TMqSSpo/2iCi/V70WcS9j/KrR6VxLAO5Ft0hYeEAE/IjywVwGxh1qE3LPcIb8UNrDeTuyi11GziH3ZL2gadOt+M5S4pRhVAnbOPkasgYYJ6xvT6HrkIN0FYob7ype37w/2sb2TOLmbGJPlG4G/F+NgKX4C+6fbqN91KZnKKC5vRgNB+iuxjMD2WjR6eNigZ54=;XagfV0XS1vGGz+am25eIBw=="
 ---
 

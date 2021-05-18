@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
+    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on"
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/uptake-fusion-cloud-datastore-for-osisoft-pi-now-available-on-microsoft-azure-marketplace-301287926.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 60
+    images:
+      - url: "https://mma.prnewswire.com/media/677190/Uptake_R_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "Best Microsoft Azure certifications for a career in cloud computing"
     excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."

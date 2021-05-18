@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "MarTech Startup Affable.ai Raises USD 2M to Boost the Adoption of its Influencer Marketing Platform"
-    excerpt: "Investors: Prime Venture Partners, Decacorn Capital, SGInnovateBENGALURU, India and SINGAPORE, May 18, 2021 /PRNewswire/ -- Singapore-based"
-    publishedDateTime: 2021-05-18T06:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/martech-startup-affable-ai-raises-usd-2m-to-boost-the-adoption-of-its-influencer-marketing-platform-1030439542"
+  - title: "Fintech startup Vise raises $65 million in Series C led by Ribbit Capital"
+    excerpt: "Vise today announced a $65 million Series C financing round led by Ribbit Capital, with participation from existing investors including Sequoia. The startup launched on the Disrupt Startup Battlefield stage in 2019 and has since raised upwards of $125 million."
+    publishedDateTime: 2021-05-18T15:16:00Z
+    webUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/"
+    ampWebUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
     images:
-      - url: "https://mma.prnewswire.com/media/1512485/Affable_Team.jpg"
-        width: 400
-        height: 230
-        isCached: true
-  - title: "L'Oreal brand joins influencer marketing body as other Aussie brands found to be breaching the new Code of Ethics"
-    excerpt: "Beauty brand, LÓreal, has become the latest organisation to join the Australian Influencer Marketing Council (AiMCO) as part of efforts to elevate transparency of its influencer marketing practices. The news comes as a fresh global report highlights a raft of other Australian brands appearing to breach the recently introduced AANA Code of Ethics despite growing legal action against those who don’t follow the guidelines."
-    publishedDateTime: 2021-05-14T03:19:00Z
-    webUrl: "https://www.cmo.com.au/article/688389/l-oreal-brand-joins-influencer-marketing-body-other-aussie-brands-found-breaching-new-code-ethics/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 35
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/promoted_content/promo/xl_67093649-influence-marketing-social-edited.jpg"
-        width: 800
-        height: 459
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/vise-ai-DSC03361.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "gJn/bQkAyJWTHExNXVoUMyUx1kgKMPpSO7qdyh14QmOkQ5+iSLDZbEjyBQBJJ82TZ839myqVJIxuaWpIC1RE4iIPahfEWV2y6+W8FQMe7t1RZTWkr++rzSzzxSqS39RgwFkaVIXZjO7St5VLeiYSm2sSHgyrFL5lDpZV5LpMxnm2gs8H0CX6L8Pse0/vxME9TPU2T3yGtMQjYr7f43Pt3fwtFIQbBkXeF3zQBtOSZTCzZhvc9Ax7a90xvde3lfLCMIaROw7KiT+foO666hWtJK3Kr0rGcGAeZ27u3etyanzYhz9xl7IE4+r5I94gBB4q8jStL/bt47nBbXx/Sx+Wlkimc38Pb0xMM0ebNy1JLAo=;WfezMim2LX0E0fTmGuA12Q=="

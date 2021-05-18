@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The state of data acquisition for analytics and machine learning in 2021, and how startup Explorium scores $75M Series C to capitalize on it"
+    excerpt: "Data science and machine learning are being commoditized, so it's the datasets that make the difference in the end. That's the thesis startup Explorium is capitalizing on."
+    publishedDateTime: 2021-05-18T06:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/the-state-of-data-acquisition-for-analytics-and-machine-learning-in-2021-and-how-startup-explorium-scores-75m-series-c-to-capitalize-on-it/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/18/1a4acbf2-0502-4248-9ef8-4a801556ef97/explorium.jpg"
+        width: 734
+        height: 470
+        isCached: true
   - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
     excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
     publishedDateTime: 2021-05-15T09:01:00Z
@@ -127,6 +143,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-300x230.jpg"
         width: 300
         height: 230
+        isCached: true
+  - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
+    excerpt: "Team uses SAS Viya on Microsoft Azure to improve fan experience during turbulent times and plan for the 'new normal' of spectator sports CARY, N.C., May 18, 2021 /PRNewswire/ -- VIRTUAL SAS GLOBAL FORUM 2021 -- In the spring of 2020,"
+    publishedDateTime: 2021-05-18T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19-301293347.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.multivu.com/players/English/8827851-sas-aeg-sports-analytics-adapt-to-fan-needs-covid-19/video/Video_1620408393843-HR.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "AI in Financial Asset Management Market Detailed Analytical Overview by 2026"
     excerpt: "In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue. Several fintech companies and banks are rapidly deploying voice assistants and chatbots to manage customer interactions and resolve issues (queries) with minimal human involvement."

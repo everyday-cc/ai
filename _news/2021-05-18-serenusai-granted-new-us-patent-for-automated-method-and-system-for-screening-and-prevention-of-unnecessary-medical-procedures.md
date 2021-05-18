@@ -1,38 +1,26 @@
 ---
 category: news
 title: "Serenus.AI Granted New US Patent for 'AUTOMATED METHOD AND SYSTEM FOR SCREENING AND PREVENTION OF UNNECESSARY MEDICAL PROCEDURES'"
-excerpt: "Serenus.AI ( an innovative startup developing AI-based solutions to improve medical treatment decisions, obtained a Notice of Allowance from the US Patent and Trademark Office that the application 'AUTOMATED METHOD AND SYSTEM FOR SCREENING AND PREVENTION OF UNNECESSARY MEDICAL PROCEDURES' will be registered as a US patent."
-publishedDateTime: 2021-05-18T13:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-serenusai-granted-new-us-patent-automated-method-system-/2021/05/18/9372046.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-serenusai-granted-new-us-patent-automated-method-system-/2021/05/18/9372046.htm"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net NASHVILLE, Tennessee, May 18, 2021 /PRNewswire/ -- Serenus.AI ( an innovative startup developing AI-based solutions to improve medical treatment decisions,"
+publishedDateTime: 2021-05-18T14:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/serenus-ai-granted-new-us-patent-for-automated-method-and-system-for-screening-and-prevention-of-unnecessary-medical-procedures-1030441917"
+webUrl: "https://markets.businessinsider.com/news/stocks/serenus-ai-granted-new-us-patent-for-automated-method-and-system-for-screening-and-prevention-of-unnecessary-medical-procedures-1030441917"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-related:
-  - title: "Press Ganey Secures New US Patent for AI-Driven Insights"
-    excerpt: "Press Ganey today announced that the United States Patent and Trademark Office issued U.S. Patent No. 11,003,849 detailing an innovative artificial intelligence methodology allowing health care organizations to extract and parse impactful"
-    publishedDateTime: 2021-05-18T12:19:00Z
-    webUrl: "https://www.lelezard.com/en/news-19811170.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "wyQTYDH57e+I0zRnsWrHgbaYVeX0qIjdIjAHJMJmFNZP+khoEKI4C+2aV98pTpgieETEjvc89c5ZrwvthhJnaTUddRTQ60ZrPCu4Ab04KSh7/JyO6hHaF98q2y0McqGL4ixsMwOt/s80tmL6c9FneSw2tFCA0VM5yzVJCvvxGxUWmwttpHGC2r50OP8LNJ6teO0ZM5GadLBTs862RxQwUxo/ALt9fdgmpGcborb8FoV+s8l+eiH44WVHnLhE0wCFNidGghBv4wNJMEDvgloUczoSLPhWBscZdDC00kNQ3xe6poZrAiYELq5zYTsQfx7w/O8Anmqi+JAIsF8miIcMOf7c/ruJQjHvC0T+XylxB0g=;uRKiUf1EFydHQ+sIdM/OTw=="
+secured: "lLjewmH1Mz2rJJGKnFhWaJdPJK83sSS6d2OLy+UpjMEst9e48LvvSSC02ICfGHjKwt4DpT5kaRbzaRzV2/vji5Kupfj5ZUecV4G6qUzbZ5JgO7YsbvQmYgToHm2i0nGNE5AcF9oCeJ77M5/StCY3U5YTLmDNXo7NHunJEZkTjNLbHCuLWAFn7o3gZJCa2WDY4hhX2yy9MBWXewx99Dz05jRCoW8sKFPrfNjITUNZ10kkQKdmZkU3AEfjVS76etyVk4b3tniKSjmGOZnLcIpJZfjEA1oNd8mHRWz3zHz+QUK/mIcfkL5wxBKX6K322DqSpKUgAocigJFnWMf/Is7u3inIvThF7m2rGdavxhfMsIg=;VTbDIv/e274WWfyYBrmudg=="
 ---
 

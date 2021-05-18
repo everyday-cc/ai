@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The state of data acquisition for analytics and machine learning in 2021, and how startup Explorium scores $75M Series C to capitalize on it"
+    excerpt: "Data science and machine learning are being commoditized, so it's the datasets that make the difference in the end. That's the thesis startup Explorium is capitalizing on."
+    publishedDateTime: 2021-05-18T06:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/the-state-of-data-acquisition-for-analytics-and-machine-learning-in-2021-and-how-startup-explorium-scores-75m-series-c-to-capitalize-on-it/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/18/1a4acbf2-0502-4248-9ef8-4a801556ef97/explorium.jpg"
+        width: 734
+        height: 470
+        isCached: true
   - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
     excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
     publishedDateTime: 2021-05-15T09:01:00Z
@@ -124,6 +140,20 @@ related:
         width: 300
         height: 230
         isCached: true
+  - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
+    excerpt: "Team uses SAS Viya on Microsoft Azure to improve fan experience during turbulent times and plan for the 'new normal' of spectator sports CARY, N.C., May 18, 2021 /PRNewswire/ -- VIRTUAL SAS GLOBAL FORUM 2021 -- In the spring of 2020,"
+    publishedDateTime: 2021-05-18T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19-301293347.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.multivu.com/players/English/8827851-sas-aeg-sports-analytics-adapt-to-fan-needs-covid-19/video/Video_1620408393843-HR.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
     excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"
     publishedDateTime: 2021-05-17T14:11:00Z
@@ -148,6 +178,6 @@ related:
       domain: pr-inside.com
     quality: 16
 
-secured: "pmCAeqttWZK0rgBURUbMSqZfbZ0h0BaBdtieRa/xFKh+zWnjujgv1qWu4Hs1v4XmmHqVgw9fGsSyCXLjcAyVBnM/+2pusgm15SbIUXkHCqE5zkXXQX8spPM0yRjEkOrgjYERlvQPutd7hFe9TmZRrv34SEeJm1xFDIscz3EkmOtqUQeo8aWYEJA6pyTJ9HWeFev4nHIBDhJik3jNYaiZZi8isjunIpiLQ80aX+qCNXu0Q74fJi4O7lEKAsEgv49hCK0P7BzRVVNTioopk5ppsHgx0vmSK07l4rxPZpSRL0mZpkCU+itpjBKXvuXQUFmJ3CKjfeiwvx/rK6eciAfS9mZosXpsqt4X49BcEnwrf14=;/LTN9zuDHR+15Ufu8tgHgQ=="
+secured: "bpippEjQ+6HAyUFG8XAaqJgQ+mRBAIGj77kac8WTKOi8m4B5wS6ZE4iNL5WTpyamXmdOT6vcpdN/hlY9+0mev6zM1oLnDcDWmn/0oLk+VumQUL1eNABDJIKlG2ge/3rHI7QhAHUcaQg/yxdxxWLRRCGseTDAFaAq98I/iuJjGLGZvI0rh+SDmTk00RVhH71nOzuUdbHk0DPuEtMpFHS9lccBo8Yx/AE2eRLW+ed5kBV0WX3Upic+dSVD5uDsXidCKz6RwoeTm5q3Rm37rHbsnsN6EjYla9n8FbeDpiFwxKQjAXu6Pc11UE9YMpSYJZJDM0VU0b5lhDiczQ8DKr0D7j8wdtQ/miqQUVlkyy7ipyiiQvry38N52xa8uTQg+dT2wq1ROjlYtODVetIcDKHkYP+EtVQZfMIFINoYJiZflNRImMqwFZWunBD2qkyiCggqF8P0/NafWy5Q0+vFb/7f5VFfMl6qhileNANrvV5aOohOluWQUYYIN4CWSfTiOjnz7Cy5W5UdfD1afQdWejwBzg==;hqyxaNqayHhfq4l0b/mhgw=="
 ---
 

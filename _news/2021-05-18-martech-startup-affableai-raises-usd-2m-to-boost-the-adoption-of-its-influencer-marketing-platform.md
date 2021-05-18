@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/martech-startup-af
 webUrl: "https://markets.businessinsider.com/news/stocks/martech-startup-affable-ai-raises-usd-2m-to-boost-the-adoption-of-its-influencer-marketing-platform-1030439542"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "MarTech Startup Affable.ai raises $2 million in funding"
-    excerpt: "Singapore-based marketing tech startup, Affable.ai on Tuesday said it has raised $2 million from Prime Venture Partners, Decacorn Capital and SGInnovate. According to the company, it will be using the funds to expand into international markets,"
-    publishedDateTime: 2021-05-18T06:13:00Z
-    webUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding-11621317830020.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "L'Oreal brand joins influencer marketing body as other Aussie brands found to be breaching the new Code of Ethics"
     excerpt: "Beauty brand, LÓreal, has become the latest organisation to join the Australian Influencer Marketing Council (AiMCO) as part of efforts to elevate transparency of its influencer marketing practices. The news comes as a fresh global report highlights a raft of other Australian brands appearing to breach the recently introduced AANA Code of Ethics despite growing legal action against those who don’t follow the guidelines."
     publishedDateTime: 2021-05-14T03:19:00Z
