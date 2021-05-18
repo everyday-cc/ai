@@ -142,6 +142,17 @@ related:
         width: 1004
         height: 560
         isCached: true
+  - title: "California places Tesla’s ‘Full Self-Driving’ under review | Charlotte Observer"
+    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
+    publishedDateTime: 2021-05-18T01:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251485333.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251485333.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251485333.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
   - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
     excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
     publishedDateTime: 2021-05-14T12:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-ma
 webUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
-  - title: "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC"
-    excerpt: "Today Anchore, the leader in continuous security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA's NGC catalog."
-    publishedDateTime: 2021-05-13T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210513la75887/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 33
   - title: "ALCF Webinar May 26: NVIDIA Profiling Tools Ecosystem for HPC and AI"
     excerpt: "The Argonne Leadership Computing Facility (ALCF) on May 26 will host a webinar in which NVIDIA will present their profiling tools, Nsight Systems and Nsight Compute, and will discuss how they are used in HPC and AI use cases."
     publishedDateTime: 2021-05-14T12:22:00Z

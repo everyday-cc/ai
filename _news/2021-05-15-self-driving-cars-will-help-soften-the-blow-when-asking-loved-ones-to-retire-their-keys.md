@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
-    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as a worker from the company’s roadside assistance arrived to help."
-    publishedDateTime: 2021-05-17T23:39:00Z
-    webUrl: "https://kesq.com/money/2021/05/17/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/"
+    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as"
+    publishedDateTime: 2021-05-17T23:06:00Z
+    webUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/article_2102333d-9f27-59a2-bf6e-e0b96c17c6a5.html"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: Madison.com
+      domain: madison.com
     quality: 39
     images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/cf/6cfa3a7b-f49b-5c0f-bcde-ba55c8bc9b38/60a3123f0cef4.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "Will we be liable for the decisions of our self-driving cars?"
     excerpt: "Given other liabilities, it’s not much of a logical leap to hold drivers responsible for the actions and inactions of the self-driving car they’re in and responsible for."

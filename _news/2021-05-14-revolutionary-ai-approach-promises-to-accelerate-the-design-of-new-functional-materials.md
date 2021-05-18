@@ -25,22 +25,6 @@ images:
     height: 518
     isCached: true
 
-related:
-  - title: "11 Ways To Reduce AI Energy Consumption"
-    excerpt: "Pushing AI to the edge requires new architectures, tools, and approaches. As the machine-learning industry evolves, the focus has expanded from merely solving the problem to solving the problem better."
-    publishedDateTime: 2021-05-13T07:06:00Z
-    webUrl: "https://semiengineering.com/11-ways-to-reduce-ai-energy-consumption/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 41
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Fig03_in_memory_computer_LinleyGroup.png?fit=499%2C377&#038;ssl=1"
-        width: 499
-        height: 377
-        isCached: true
-
 secured: "Psn6jW1u5DeIUqfVCacDv4K4ZOmNB/I3DT/MboE//y6ZsTbsLmv2OHsIVp0A+6BDjcw+DCUIjFR/SHLTV1xNAI/Xy12ET58n2LFmAbpDI3WJV+cmXHw3ylAK2VvMzJScSNvBKTptNGmY64TPRX/+wRcctYDfwLdxwss03jcood1Q1b2FCu2kni781CvaKlhy7ha7o0hDwPAXUWLRzuy43YFTxJ930dk2c5Ll5B6yE5bE3FYFdr92QJkN0sRl6mO0b5EjZnC2GrgXCz6hiu9W+XCPBA3EpCK0uCfAVwAH8jmimD09x8Zc44/o9JGtg24MuKmy5+NQYiEx7K7pv8rHNmE8jUsA89+Rw/K3rrhmUuU=;kctaDs6tCR0WmxyYsDaLsQ=="
 ---
 

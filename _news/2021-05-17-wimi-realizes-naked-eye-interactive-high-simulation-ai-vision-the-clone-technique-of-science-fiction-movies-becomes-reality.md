@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/g21156605/wimi-realizes-na
 ampWebUrl: "https://amp.benzinga.com/amp/content/21156605"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21156605"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Computer Vision
 
 related:
   - title: "WIMI Hologram Cloud’ s AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"

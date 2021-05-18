@@ -146,6 +146,17 @@ related:
         width: 1004
         height: 560
         isCached: true
+  - title: "California places Tesla’s ‘Full Self-Driving’ under review | Charlotte Observer"
+    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
+    publishedDateTime: 2021-05-18T01:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251485333.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251485333.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251485333.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-14T11:04:00Z

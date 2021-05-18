@@ -42,15 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 53
-  - title: "Anchore Secures Containers for AI, Machine Learning and HPC on NVIDIA NGC"
-    excerpt: "Today Anchore, the leader in continuous security and compliance for software containers, announced an expanded collaboration with NVIDIA for container scanning to ensure the security of software hosted on NVIDIA's NGC catalog."
-    publishedDateTime: 2021-05-13T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210513la75887/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 33
 
 secured: "7BHS1b6sVoF+/rqyv0qHQy6Fb+LiKbtil6VobTEIUWag9xATV+rTkow1szzYEJdwEW3LS0KznXx2sE9J1h4khGJXpK2G3CE3uLWRwGUUCRuN0CfEgaUGgtccft1OlEMpc264Aj5LdHVy3+dsVJXYc0C4yaT0Tsrd1sXxZqzP84u7HtCKuGdLU+bQSPN5QfPvAr9xWIqda5z1AccAsyP+jnpItkYjKmHDEbliOH0MT57pq8gYKhT8rcMD28CJFBpG3XhwlKr/jQNUgYCaoDvX8TFWj3RucwsQhY5NOYHUwO09+z48bqEchoWEvRpMoBco4ORtoG58QbNWJFy5lemJIIAlbF0TQLF5zIuy0QfGd/Q=;njbT08OgJG06SDsuzefGeQ=="
 ---

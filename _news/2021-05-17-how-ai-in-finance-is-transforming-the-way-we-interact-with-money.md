@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "12 Use Cases of AI and Machine Learning In Finance"
-    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
-    publishedDateTime: 2021-05-15T18:51:00Z
-    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
+  - title: "The Future Workforce: How Conversational AI Is Changing The Game"
+    excerpt: "AI was among the many emerging technologies to take hold in 2021. Companies are using AI to streamline everyday workplace tasks and transform the client experience."
+    publishedDateTime: 2021-05-17T23:54:00Z
+    webUrl: "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/"
+    ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "How Artificial Intelligence is revolutionizing the startup industry"
-    excerpt: "Currently, we are in the midst of the fourth industrial revolution which is driven by artificial intelligence.  What is significant about artificial intelligence?  Artificial Intelligence gives machines the power to think,"
-    publishedDateTime: 2021-05-15T10:56:00Z
-    webUrl: "https://speakerdeck.com/sharmadiwakar/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
-    type: article
-    provider:
-      name: speakerdeck.com
-      domain: speakerdeck.com
-    quality: 39
-    images:
-      - url: "https://files.speakerdeck.com/presentations/f023c954ec894f6b8798104658221a0c/slide_0.jpg?18067642"
-        width: 1024
-        height: 791
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a2fff5ff2f7cc62ab87605%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Di2MpKVcAq5c+S7mcOLHfE16iUvuPEb+P28Ep11rCDr4VSM1jMyZgzkaqTzeGCW3NZoRnO06/WpH9g/NgTn5Mh6re6U02Lub7rkG6mlgAo2I5BKH2cHBL2dmQw8u2COgD/KwrTaSTNM4MB/qsq0aZwMsnIDuiqu3ACa2k6JKch9zgX943YyZEb329G64eLQdV/wx0ruYrt4HOaCuJ5FyHDQeCi9ne8u2+JeTpW/oAYLjZpMG7/9SMgWqNfi61U2caAhjCC052FSgf0WiBsDQm3H+XAc+6EwOzh132TA3wuv8t2g62Xj7c7EeF9GsmE2kMeIHk/GHWVG3I7uQMPl5OwXj9cTG6STE2Vrb+yjDjek=;t8KlrSbyJ7MTUifYFSzWzw=="

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Focus tightens on facial recognition"
+    excerpt: "A lawsuit brought by an associate professor at a university in Zhejiang province over use of facial recognition technology has resulted in him becoming headline news nationwide. The legal case brought by Guo Bing has also been used to promote the drafting of laws and regulations related to protecting personal information."
+    publishedDateTime: 2021-05-17T23:48:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a300c0a31024ad0babf902.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a3010ca31024adbdc83eb0.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "fywOImaG7GxYbpKDMU21jFOE4kNH5IMomdpLQAsjLIYNy979y6fXk3qUJlOqjKySb36Kwv9rZUuMPiHd8wi9S4PqG5vbop2S9FAplIVxFNhA2O0EFlfuCMtRRf39mIUeXXUEvE4RpigilHFezZYGX8lffsUnVzZOrj0n03yMlbrIppTNgw6aJ36NCcMllEaUmw1KAsOZUYHLnSgrNkhGDkQDqQzzN1I20FOj+ESubtDdUfwt+raEbACV8aUEzX6ZcnoExhz2AQwrMBN7+OngleS5B/dYiwAqV84m7+qQ1hvfLURMJGqOUHRA8jDo5yrfBzLFCu9sO2jVv29N1zWOqVfvdmBehcSj0idpvavlrIKVJ2iSQ2SER3Opaospr6UTUgMEjYJFRiM/Y6zgCZbgpJic300miNJLU0R0vr0+zXj1GGSmmSsorsZHWVlGH7+s0ilGzWUlzsiE42spyWqM88Qhqckq1+I/yn3513nVhhuSUMJjw2jP+qxR62Xx20bFsmP5FfxgVvexpp65yAZSiQ==;9m11zB7d+DqopIbAukrQ6Q=="
 ---

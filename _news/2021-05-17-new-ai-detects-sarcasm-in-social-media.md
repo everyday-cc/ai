@@ -57,20 +57,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "5 developments around machine learning and AI in higher-ed research"
-    excerpt: "As faculty, researchers, and students turn to machine learning and AI across disciplines, best practices have emerged."
-    publishedDateTime: 2021-05-13T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/2021/05/13/5-developments-around-machine-learning-and-ai-in-higher-ed-research/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 54
-    images:
-      - url: "https://www.ecampusnews.com/files/2021/04/machine-learning.jpeg"
-        width: 500
-        height: 301
-        isCached: true
   - title: "AI can now detect sarcasm in social media"
     excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
     publishedDateTime: 2021-05-14T12:36:00Z

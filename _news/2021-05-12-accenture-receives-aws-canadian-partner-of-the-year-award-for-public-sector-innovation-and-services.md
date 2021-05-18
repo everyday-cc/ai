@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services"
-excerpt: "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in helping Canadian public sector organizations drive innovation and build solutions on the AWS Cloud."
-publishedDateTime: 2021-05-12T14:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm"
+excerpt: "CNW/ - Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in"
+publishedDateTime: 2021-05-12T14:30:00Z
+originalUrl: "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html"
+webUrl: "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - AWS AI
   - AI
 
-secured: "slWIjMp1y8caNPz7Nyd+Nz9np7rSyeK1G5GFEXpom+ASoZvtplLpY8DZ8Bw18FI9p7+c7sWcuIqRGUNAlzpbQGk6yQnhKOJwbu9mcZHBC+Yr5+LYCCEkgLQKCDHme65/uCh0LTl0XauBFfrxWny5FJtjAQ4TQ1Wij/EU6ZftP9T7Wkg9rHniPmAVcUJzFlu9Tl3XqNPYCH1YmDocSWK7/YxBBqvBaqESpj260h1VyJIRW+tdu48LlrEuegovRHKsk6ghu4PQ90OF6LukhIq5U5mraKeKdq6uYMjYXxOXxqzrMrwC9Ak4u3rmNOnf5vljQgPEfLkGcppiiIF4D+S53vtMzXGbOp4zyCPQmR2k74w=;G8Kyf6GK4qliow0dgDjgCA=="
+images:
+  - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "A9C8BJweDUAHHwCRd05iv8mpmJTU6CN0o6wmAdBXyF9QpMVg7FUBnSQD6FFBNawKnEtigyjzu/HZd76A9b8YMthrTgIYGh5+uS8ZVdicPmgn1gmAPuCT/yPENrFpqLjlbCsqes2vjKMH+T8MBgFVKJaoB3cYb1bC5wpAp630qCjUvNROkVpxkD3RTs/0nZJnu4U3DR0dJM/fuCmSDq9fdSfa6NL1utm5+HgU70sECRXTVpBBEoQXiBEDn+cmGRGGf3syOLFUUHRKJFCh5CICbSempYRwYI+5mGTSrAmlSAN2F49OeH7aY2UYoiSX5QqQp1Ah4EsDGlv9Q/VdO/Ktos3uLkipFQWXt+WyIas4JFk=;iG3U0i2ZLHz8eQLffBaMkg=="
 ---
 

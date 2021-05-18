@@ -89,6 +89,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-16-12-use-cases-of-ai-and-machine-learning-in-finance.md",
+      "title": "12 Use Cases of AI and Machine Learning In Finance",
+      "excerpt": "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
+      "originalUrl": "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/22893443_s.jpg",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-when-will-love-death-robots-season-2-be-released-on-netflix-cast-trailer-and-plot.md",
       "title": "When will Love, Death + Robots season 2 be released on Netflix? Cast, trailer, and plot",
       "excerpt": "THE first season of Love, Death + Robots was released last year and consisted of 18 standalone episodes. The episodes were produced by different casts and crews and all link to at least one of the",
@@ -1173,57 +1217,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity.md",
-      "title": "How Artificial Intelligence (AI) Is Helping Musicians Unlock Their Creativity",
-      "excerpt": "Artificial intelligence is now helping musicians and producers get in the groove to create their own tunes and find new artists. Find out how AI is transforming the music industry, from discovering new artists to creating your own TikTok tracks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609df9feeec9ef7adb370701%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/14/how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity/amp/",
-      "publishedDateTime": "2021-05-13T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

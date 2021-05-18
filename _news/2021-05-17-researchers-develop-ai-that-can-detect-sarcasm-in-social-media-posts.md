@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/re
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "5 developments around machine learning and AI in higher-ed research"
-    excerpt: "As faculty, researchers, and students turn to machine learning and AI across disciplines, best practices have emerged."
-    publishedDateTime: 2021-05-13T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/2021/05/13/5-developments-around-machine-learning-and-ai-in-higher-ed-research/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 54
-    images:
-      - url: "https://www.ecampusnews.com/files/2021/04/machine-learning.jpeg"
-        width: 500
-        height: 301
         isCached: true
   - title: "AI can now detect sarcasm in social media"
     excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."

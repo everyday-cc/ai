@@ -1,29 +1,32 @@
 ---
 category: news
 title: "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community"
-excerpt: "The AIforCOVID Imaging Archive is a shared collection of images and clinical data for developing innovative Artificial"
-publishedDateTime: 2021-05-17T14:47:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html"
+excerpt: "This valuable tool enables the international scientific community to share radiological and clinical data and find innovative solutions to combat the disease. The AIforCOVID Imaging Archive, which is available,"
+publishedDateTime: 2021-05-17T14:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296"
 type: article
-quality: 30
-heat: 30
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg?p=facebook"
-    width: 1024
-    height: 536
+  - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "vcPktHmXPENHRvtzpJkV7Zz/kSf/69zf/zS9/8B3ZqZ38yOZ4xcGuPYXaXwDg2vpJ2s9AvRFVla7MLBnzqy7IJQE04jnabBPOJ8SRwhbaRuYiQPf0DG3tG1ZoQCUjimV7WDOUCxkQ6kM6x5XRuLu0tCn8hTX+8Te1k4CWppPt6TN3S6FDAT+J6E0w3qC2b+xry5YNZiDSFFhClaq0gk6PrniN1pKFTeaUJP7DGIYgSmTXztYAKFIeyXQX56H45NeVg5g7+8ausr+PprgO6BgJFU0UYsN/HGMFgjpFxHMEM8xmYRrwBo/dczFIviYVsJgeMAhXBG5I3o/r+c14Ei82bE4QyU0IFCE596KiY4csR0=;X4TFcTzCJ2ktBa5MRKot4g=="
+secured: "QZ6zTru8eQmZ1cedVBeOVHZf16pl0Sn5gX16GlsWDGKt4cOFE96ntMujs7ExE6KFLQI1eljbjqSDbEKsuut+eqv+UNb8i9gaD0NVsQsu96Bt2AbSNG7IXmAX/8AHpfEqiBp3fy/q6N7RpbPNoOV9wuxl45chU4vxNhrU1VSXt4rdsaQP5ULKmHoGl9eeZCJJK7BqijWquXPbualVclSTj+eVbaHKBhE3kEkZuXWMEmC1gMRhYHL//1sHtzDiowi3gCrTRap0dDZhrPjPq8KeJ36GqMZ/lmSg0HUmklLm5RQaD67gLzlMFfAYfBmt+dxfHM4CDOp4Pt0rqokdlUt9ddcgieU61Klfz4X464XzERw=;3x++k5asWBW0kOF8lua8Ww=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 735
     isCached: true
 
-related:
-  - title: "French scientists in Zimbabwe use facial recognition technology to ID giraffes"
-    excerpt: "A team of French scientists in Zimbabwe’s Hwange National park has developed a deep learning computer system to distinguish between individual giraffes, a tool that could help to conserve this iconic African species from extinction."
-    publishedDateTime: 2021-05-13T08:06:00Z
-    webUrl: "https://www.thezimbabwean.co/2021/05/french-scientists-in-zimbabwe-use-facial-recognition-technology-to-id-giraffes/"
-    type: article
-    provider:
-      name: The Zimbabwean
-      domain: thezimbabwean.co
-    quality: 35
-    images:
-      - url: "https://www.thezimbabwean.co/wp-content/uploads/2016/05/Giraffe-Car2-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-
 secured: "ou3yIyifsBLndHYxAcw5I0Pfwt2bb4okl4tpAJKLNfK6iaMGz/xHZPw0ZlvigQQXQIvJWjCeUsk4jeYlU5fr6iAYFZCND1Ptj2a9k3TNerXc5nDJ/gPkD3hRghV5i56e1Dc1qZL4srKLCLzwU8MATBp3nlOervtR/lgHRBT3Ljy+w/G8pi0ly5Y9sKssTVsHb6DJ+FXvZsocA/4BNV3KKjaPaFwziONfuoqh1bmD12DB6g3dIPaWcYkAj/mC75JMO/WetakyLIV/KUZEkqj+tF1lbWvMk2XPgXGNecOu6IN66qZbw8PpzIS+unNnyeU6LLGXJIWX9rsKB7IUk2QA+liYD6c07LisP4EA4LXr5EAvoe90miq71+/YhcJoycGd5K1T6g5nFtSUm/BGqZhO7SwxMPmYDwkbQn1CcRP51T/lWrlm6gxW4eek77PrSjNfvNx9v4Hm2B6nD18s5pnw4lNvOVD4/UKm/QvoNgOC8QVJl4yp6kS+HQeFhhHwMCSY7vDWugDt3PIZz/cLU1BMdg==;W5o6NElakvSJvDjZyeRJJQ=="
 ---
 

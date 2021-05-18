@@ -42,18 +42,18 @@ related:
         height: 675
         isCached: true
   - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
-    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as a worker from the company’s roadside assistance arrived to help."
-    publishedDateTime: 2021-05-17T23:39:00Z
-    webUrl: "https://kesq.com/money/2021/05/17/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/"
+    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as"
+    publishedDateTime: 2021-05-17T23:06:00Z
+    webUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/article_2102333d-9f27-59a2-bf6e-e0b96c17c6a5.html"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: Madison.com
+      domain: madison.com
     quality: 39
     images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/cf/6cfa3a7b-f49b-5c0f-bcde-ba55c8bc9b38/60a3123f0cef4.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "zPNO1Yu4pUSOfSGW8YGUGc92n+5crFNpmhlitOJYy5OB85ZgTo4pzuKE7rmP/x1ShnwU+rrrKaX3nJODdlNeMfm7glpBp69ByQedQ220xeieqVZW3/ZjbKgxdDvuaUh0VgRS4lNAAdw3+toJTsVmLbB6FegmwLc4M+FXKnBQKC91DTwAjjz6RvjBy2HPWg8C/dxxMtP6+5VVZ5FaIXxEWUMrzHZqQ6X4JnwgKjfHbu0vsPLxi3XrcdpQJ5D8coRfetpt0vzgqjBMAhs9inkhDZPnPzeJioBS9V5MEedlsC9azbFD+AZOVkaTMw+F6oBHRncbpoeo9gYHw/LTNU2+E3MjR41KgtLvx34oveRFffyjTVZoxVxLAcwWyMnDXNdzDMF1pgpD0SnJFhRgrGTmjHuku0q9tGw2IbK/mDRBsyXCLGxtxo/tDZfcOXjtqCBHaAvmX17c8q93xvepIp1sCNLmPqToA/dklA6KMXgVVqwDAumMl+GepgguFpkZDo8Jj160xG4zH5Sw+DSj4nbSYQ==;azAu7ng8SOQUOdw8of5IEQ=="
