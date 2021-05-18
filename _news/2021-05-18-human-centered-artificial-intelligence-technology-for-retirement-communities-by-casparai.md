@@ -2,9 +2,9 @@
 category: news
 title: "Human-Centered Artificial Intelligence Technology for Retirement Communities by Caspar.AI"
 excerpt: "That is the gist of Murphy’s Law, and when a retirement community resident is most at risk for an incident such as a fall - at night, in the bathroom, in the shower - is when they are most likely to NOT be wearing their alerting pendant."
-publishedDateTime: 2021-05-18T00:24:00Z
-originalUrl: "https://apnews.com/press-release/Newswire/lifestyle-health-artificial-intelligence-technology-69fb49401d21aee21c3551ee67524287"
-webUrl: "https://apnews.com/press-release/Newswire/lifestyle-health-artificial-intelligence-technology-69fb49401d21aee21c3551ee67524287"
+publishedDateTime: 2021-05-18T00:26:00Z
+originalUrl: "https://apnews.com/press-release/Newswire/health-lifestyle-artificial-intelligence-technology-ecc119f047fce7b4e4d54603efe3a5dc"
+webUrl: "https://apnews.com/press-release/Newswire/health-lifestyle-artificial-intelligence-technology-ecc119f047fce7b4e4d54603efe3a5dc"
 type: article
 quality: 43
 heat: 43
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "77REX4zt8APhcftf/JvJP+JA2WJ4C+l/ns7vSF3UF7imK8t/By08/hofqSI1RDUclTBGTpOz0ngN6QwkB4Wq5Dw91jNAXDCBMLKxHTufMkXHHlJVGL5XKaJ6+2BIZxZfdUM9cGYLNGEeXRLULSgEQRC5owm+EygzSdRhTr0jRFF01px5yiTI8ej+aFioe16ziiY8m9EoySHsJO+sHIpFBEfRC5TmJyTusVssGrSeIvZHYexVSrD3EC5pAmQoFC7a66TeDk0DkmddreAORQxSeNMzd8IO4IhDhgCacX4ywwWC4N2832EpTi2VoOSqYA5G5ruv9N6mz0ZTq2pd61Es+9+lmGSlR2yek82+kJviC58=;krLDx62HE35HAJuyoAhlBg=="
+secured: "7TjLx2EszAVyqUBrlb4FMjAv344Qu3mL2nGnDy5kMSpOBrdWk83EBuZTP7h7hgUz1L1JyuZ74F2Bpxq25RQeRy5YtN9DkmYXkTEvTFiCrhayq3iU1M7ueE/qD5liwO+AOpmJeMVkahzlxv+PDAiNtbks88ZcNkn5y0PjqXQs3qqllZXfLOByC18huueuAqaJR1uYsIE2O19mtfiyA7zTx6aSFgwb3RK5Y6buhpTda8v4lf44G0nGF4zgNiSO0edVkUpRnqW+re+ztvnOd5KZFvsoXgMstnUHe/RLqMQXCJnbOVsKG13jVM54F1DtW550oSFBPD/86C/6Vr3rMWT6Crmd/XFcxC8SH4MPxwnFAnE=;xiJjSDNMwt+zt3yBz+mZ+w=="
 ---
 

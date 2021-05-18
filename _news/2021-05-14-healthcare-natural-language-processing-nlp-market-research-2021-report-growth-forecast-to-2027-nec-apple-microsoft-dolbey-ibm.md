@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-pro
 webUrl: "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Expands Footprints 2021-2027 | Google, Samsung Electronics, Microsoft, Micron Technology"
-    excerpt: "The Artificial Intelligence Chipsets Market size is estimated to grow from USD 7.2 Billion in 2020 to USD 80.6 Billion by 2027, growing at a CAGR of 41.2% during the forecast year from 2021 to 2027. The base year for calculation in this Artificial Intelligence Chipsets Market business report is taken as 2020 while the historic year is 2019 which will tell how the market will perform in the forecast years by informing what the market definition,"
-    publishedDateTime: 2021-05-13T17:54:00Z
-    webUrl: "https://ksusentinel.com/2021/05/13/artificial-intelligence-chipsets-market-expands-footprints-2021-2027-google-samsung-electronics-microsoft-micron-technology/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
 
 secured: "rEteUO9QjYa2JmhEYGAw+9UK1sHWL+b466+4B9dfnyq7iYJDfd0BLyCJbYRFp8gnfiGTICrztlNtHVzZie9wV8VbdwBAg7R5hqs29lUjHpiAU+Pm4gJQL4yXvSjyZ0QCrLSwSwQNmSwmllzZrnCZlj0s5OopRPMAKp55GU+8c+zp0cVabaP248OtRt7FbItu/Kwd6vt5tC6kNzi8lG0Zk7TT89bKnR3icpQ6De2R4zGVaNS9wQ6FcngN8RHzUbYodQhsnXuQ/Mk6kLxB2xEgf0wI0zQZyKTdPRfFj6aKzZS++CtvRaB1YImQ/ZZQKfPYvsuU7C0A4jPGVq8hjIuQfF0pvIn8WQBIsIaVC2u1n0M=;kx5GcBg62fuEwsMs1r7okQ=="
 ---

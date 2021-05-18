@@ -2,19 +2,25 @@
 category: news
 title: "AWS Announces General Availability of Amazon DevOps Guru"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation."
-publishedDateTime: 2021-05-04T18:45:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-devops-guru/"
-webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-devops-guru/"
+publishedDateTime: 2021-05-04T18:46:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
+webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "FMEFZDw+FZQD1kjRLMtiRqwNVtsHHf2U8RkzR0pmi6Es8B0Y31WDBbV2K29uHX2PJXugZn1vRDHQrMkaPSqtlKrzS4u9dLn2RKu5zewvdgBoGVDLqczEey27LeA9hvasgH6BKRw8wRmS0C1b2lbP4pbrye68RyZHtTn2pmQ3G/kw7IKND8T4H9GoF8z/C7oPSPzXT93plhi5Ql/lpecrB+x2XfST4vARQ7Hycfl54n6QFDRvpOfBoz5yNNEBkiYA5XgFc3hdUbh1DRgqxsqOnO0a6cQG8K+TcewzubipaP3WLAgPKJYg+wYa6ABiFBzjqROhw9WQltrzUIhzYVL/hHNVkpWtFNmOwVdOQxd1eNc=;dfWtsw49F2o9GWfFWbuyyw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "yL146JmZNhBjLRpnkeCoWVSfEot6Q/jFP73QDNt3zI5RcHQGRu8MuWfPbNi1UML7f3xPXyanAshHFohMMHG6XABUfHMxPHA2G21/qheDe/v5z9yE0qgypG6tCDlZ+QyJqKFnOrTcTpqUqwHAQiceTm1srzlBinkqmky4BdugC3U/+zoYM5HFsVKj+k1Qpj/Cv6L37sLd3PPJEhjDjgBwk01VdxDfc/HxC8mVTJup+rWnIC+1WL6Y4+EgWZExnpAWIDhnGVAJ++WOn7lOcpt+U6PDzpM9SssnkKAcIAztVcYywtWxCuIuE6ne7YCy5LWEbcoH+7wwrl50w0jhDifz1G2euOadqrzR7LPPuDHKGdM=;FY7e+74/gkq87A6Rzs/c6A=="
 ---
 

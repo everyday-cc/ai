@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voi
 webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-research-study-2021-insights-with-covid-19-impact-analysis-by-2020-2021-05-14"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Speech recognition to diagnose COVID-19 is not 100% reliable"
+    excerpt: "Can you tell if patients have COVID-19 by their voice? This is the challenge that several research teams have set themselves. Since the beginning of the pandemic, several initiatives have been taken to design artificial intelligence programs that use voice recognition to diagnose a person with or without the disease."
+    publishedDateTime: 2021-05-14T09:40:00Z
+    webUrl: "https://www.actuia.com/english/speech-recognition-to-diagnose-covid-19-is-not-100-reliable/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 39
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Voix-et-COVID-19.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "pG+lTfr+Ods/wrq77y4W7ciShVGforCWrvpYwkZGJKI1VflKjmsv9EF8+1T4pS8i85VDAJJvN7jIUal5mwrQxSnjLn0nO8zY0h511dPD1YEFZOq5X592mTLoag65bi5DCSCdOhZgfrgoek1nDQBKkizji1in6OGP4AJvOBoX/KYSdLesdGO8xcpx3jGb9VlUvPhYcyvBl6NZ1bImmY8/KOT0ya23gr69RyDMjYAXkTnnkUDJ5H4U7irioRxXcsHeC9NyY075U0wwzDH0OJ1Na4+WwkbyL67urqaAcDdlnDDqPR27x0uI9p5bZX7CAcb85R/E5uPFQ7rpP+KadZpL5Cb7pmybvZgorAGF4xJqplg=;E7D5Sr/Ir9VifyRSDOgDmQ=="
 ---

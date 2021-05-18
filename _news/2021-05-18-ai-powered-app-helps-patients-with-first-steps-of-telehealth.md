@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/ai-powered-app-helps-patients-with-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/ai-powered-app-helps-patients-with-first-steps-of-telehealth?_amp=true"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "AI helps predict treatment outcomes for patients with diseased dental implants"
-    excerpt: "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition."
-    publishedDateTime: 2021-05-13T18:18:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210512115654.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 45
 
 secured: "ML9oDSx9HRkeAySGJ178D/jKaTLwsNVn8c+40duV5H4LRn7GiUXWtDGtzYTQp0fZj7k2CoM8Zs5Tgv8lCUw3CwiQgYtLFCYx4PFIbl3+obHsysMmdhDi/olNXZHU4y8qTwiS0cEVKzSIrirqCL5xM0LOTBThZdecw8o0dB7QQ8WvcumfrDkP0yGLRJ3PmY/AQnqj19vX7mJd0znzYyNmVL6veR3Sgbsgayw80MoVlOB8NHlaeUnBM9uXwixU3eAVMXheKc+uVuGkoVYCffHkA+IxpZGUkwRO0ORPoAAGqVFbYE3knPA+bdHz6/qMMxqJ0haqnk4W1RdBe0ink5MAhb7gyD0xAx3y0s4LJNOdF9mn1R8tjQhmxd5noQA8wPhd8f2cQhOEatLihSDC/5hJ/aAfr2rNfazcn/hwrN8/Vd8AvZT9I9zFQW0lDgarWyG34bR7tbJQNZ+5IcR7czQn2MSKAWyhwE12VfICvzeEIirPeFEHGl+95qNG9ii/UOSOrF36vJ8FQgmvHbvsN+2k4g==;x2/214e+s2flumZSLmg+lw=="
 ---

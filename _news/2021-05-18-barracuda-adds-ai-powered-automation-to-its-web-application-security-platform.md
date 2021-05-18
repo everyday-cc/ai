@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-auto
 webUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 739
     height: 414
     isCached: true
+
+related:
+  - title: "Vatican sets up Artificial Intelligence foundation"
+    excerpt: "The Vatican has set up an Artificial Intelligence foundation, sources said Tuesday. Pope Francis instituted the new body acting on a request from t"
+    publishedDateTime: 2021-05-18T10:39:00Z
+    webUrl: "https://www.ansa.it/english/news/2021/05/18/vatican-sets-up-ai-foundation_1da025ab-a968-47ee-8e9f-4051c926ce36.html"
+    type: article
+    provider:
+      name: ANSA
+      domain: ansa.it
+    quality: 37
+    images:
+      - url: "https://www.ansa.it/webimages/img_700/2021/5/18/51d1f4c2378feeb0ae1fbea52f1013a7.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "IvVdoeCkGv8Y3rEL4aOhIGhXByIMHUDlMOPJVsmCS96va6UCgm0ToJTpXWHzOPhbaMYazRTivl6QxETYWIeXRyR/uT3zlJ/4oozea9H69VedmosmFmZcmV8hAx+qcEghb3oFx4zgPJ5+Xs88gI+ScK0Nm8S0V+zcpBINqzNdFv7jzNnu9Y8fB1HpJKSVc/15fExpEsC+kwsbq9pYPYu63J8hl7hwXswlCxvzPCjYXLG8TZLgNrXRPSZE7gR6kO07HWSOPLt2awhx5RqE5JXE5qhxgFhw2n9zM+pfx+OYEDPLMad6JJU7HLHC4Sj8EyXhHwyuXst7+Gg5xq80sIOGZM+x0i+vlU6nS23y3Ge30N+zI8DBfJot1VLEW3IWoM5EfZOw8NWvvwIz/JF0z2Vk8h3swpfgnU8qOecjq2C4O+4nO/LrBHp4TwLzoORmbe6cmFxpHG7Rdw3gKZC7d2iBi9XfsfMyo1yNZH/zyujIUBHkZmgyqQhV0jAxyNDXrICeTl3VfygkybHY+qFG3H+l8A==;smAJsoxQVHMPlSE809/9IQ=="
 ---
