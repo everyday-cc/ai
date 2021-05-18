@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-17-cloudflare-wants-to-kill-the-captcha-using-hardware-security-keys.md",
+      "title": "Cloudflare wants to kill the CAPTCHA using hardware security keys",
+      "excerpt": "Cloudflare is one of the top providers of web infrastructure and security, content delivery, DNS, among others. The company has also been offering businesses bot management",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "originalUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-16-image-4.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "publishedDateTime": "2021-05-16T18:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-now-theres-a-deepfake-audio-platform-where-celebrities-can-license-ai-generated-voice-clips.md",
+      "title": "Now There's a Deepfake Audio Platform Where Celebrities Can License AI-Generated Voice Clips",
+      "excerpt": "Whenever deepfakes make the news, it’s almost always for the latest terrifying way bad actors have figured out how to spawn hoaxes or cyberbully people using the AI-powered technology. However, the media industry has found some more practical (and less sinister) applications,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864",
+      "originalUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8692326edc4f759cb0bf14eaa28d3500.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864/amp",
+      "publishedDateTime": "2021-05-16T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-credly-and-degreed-partner-and-both-employers-and-employees-can-benefit.md",
       "title": "Credly And Degreed Partner, And Both Employers And Employees Can Benefit",
       "excerpt": "Employers get more information, and employees can show their full range of talents, through a new Talent Management collaboration.",
@@ -442,7 +546,7 @@
       "originalUrl": "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -798,7 +902,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/ar-BB1gJRb3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1031,48 +1135,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-14-volkswagen-and-argo-ai-to-start-testing-new-autonomous-vehicle-called-id-buzz.md",
-      "title": "Volkswagen and Argo AI to start testing new autonomous vehicle called ID Buzz",
-      "excerpt": "Argo has already been testing its autonomous vehicles with Ford back in the US and the company has stated that the ID Buzz will use the company’s fifth generation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/ID-Buzz-770x432.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp",
-      "publishedDateTime": "2021-05-14T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-14-how-asset-management-firms-can-use-ai-for-data-analytics.md",
       "title": "How Asset Management Firms Can Use AI For Data Analytics",
       "excerpt": "Artificial intelligence is transforming the asset management industry by enabling fundamental analysts to research and extract more information faster so they can uncover accurate investment insights.",
@@ -1081,7 +1143,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1166,58 +1228,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Healthcare Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Global Healthcare Artificial Intelligence Market Overview:Global Healthcare Artificial Intelligence Market Report 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

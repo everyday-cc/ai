@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community"
-    excerpt: "This valuable tool enables the international scientific community to share radiological and clinical data and find innovative solutions to combat the disease. The AIforCOVID Imaging Archive, which is available,"
-    publishedDateTime: 2021-05-17T14:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296"
+    excerpt: "The AIforCOVID Imaging Archive is a shared collection of images and clinical data for developing innovative Artificial Intelligence-based methods to predict clinical developments of"
+    publishedDateTime: 2021-05-17T14:42:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community/article_214a207a-5c49-56f6-a170-4abebe6925df.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg"
-        width: 400
-        height: 400
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/fd/6fd342d9-be40-528b-a24e-4289f84678cd/60a282622e376.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
         isCached: true
 
-secured: "njC6BeGrC/wBgpU0xQaqQaqnpJVsAe7zMTsyHngwtmzEe56snhpZsw03jjbWpVW14TnuBFcNrcYNexVOuFC634kNlG8DyIh8aUvngRio0T+TY178+OuASWUAvp2J3HbZB619ABCjhObYL8Imb7kchbOArWT+v5u39FTc/3YRPzO0lmF2fbdX/vqEekPHUyYg3kBVNs7Lddo4XDLQ2tI+5gKL2/VUHM30+uUy9HzrgnAth3+Z7BfvLml7XjNCr5f46sdNRq08U2PdHJKL9h73xcJiJ77yiywYdZHOx0jN5aYvjJpUnvOe9egLBk/0UkRzP3vUwAC4vyEOvSU3SIPYLKgkMwsYaPje1rRtXLHlr3g=;QUWfs/3srhXTwYjKi1q7UQ=="
+secured: "6lRaSt39sdyxPOKWYTSlyIa40vddVTGfawc8gOUW7GDjYufEefaMAXARd+JTaVekDvTut1+21BQWS9TJj8l/2POqQRfw6Mg2veobl/SWYSJsjE7VPfJuYFsHKRBIFxHVuqxRa6ipTca+V2/XLPE7eMv+jrB2GHn9tV73CvZmcmz0zjsJITEBtt0WXJ2MH1EkSs6kywbKg3Rysz+CXiXBdHe716PqKimy0CiL+t71oKp/eNfJIfrod2V5PeB5qSESuonC7lds5QHwaDn9Skh5Etufm2YwfSsb0J1mxlF1z58bClXmrmcOjK/heIN2kIgR5q0CcvIVFxoC1pGFYv2o0eylQ2LylpuPr3ZmkztaydApmF86z0D1uhPpabN2P+A4S/VbauIIYs4oiofREgVXRlyzXtsM5sHZlItzcF30sqU8F1PprG1TTVU9kbySirmqCsP6092oqQujE52QgLI8z7yCr8XZaFmL6N8xl74O1JP7WzoLop1Pf0BDFEWhtc1uqek10fOxuNKnchi4Qjor4A==;TcHY/N+Cc0aqkYSGhFQdEQ=="
 ---
 

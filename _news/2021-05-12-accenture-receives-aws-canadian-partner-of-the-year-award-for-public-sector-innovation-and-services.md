@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services"
-excerpt: "CNW/ - Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in"
-publishedDateTime: 2021-05-12T14:30:00Z
-originalUrl: "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html"
-webUrl: "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html"
+excerpt: "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS),"
+publishedDateTime: 2021-05-12T16:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421848"
+webUrl: "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421848"
 type: article
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "A9C8BJweDUAHHwCRd05iv8mpmJTU6CN0o6wmAdBXyF9QpMVg7FUBnSQD6FFBNawKnEtigyjzu/HZd76A9b8YMthrTgIYGh5+uS8ZVdicPmgn1gmAPuCT/yPENrFpqLjlbCsqes2vjKMH+T8MBgFVKJaoB3cYb1bC5wpAp630qCjUvNROkVpxkD3RTs/0nZJnu4U3DR0dJM/fuCmSDq9fdSfa6NL1utm5+HgU70sECRXTVpBBEoQXiBEDn+cmGRGGf3syOLFUUHRKJFCh5CICbSempYRwYI+5mGTSrAmlSAN2F49OeH7aY2UYoiSX5QqQp1Ah4EsDGlv9Q/VdO/Ktos3uLkipFQWXt+WyIas4JFk=;iG3U0i2ZLHz8eQLffBaMkg=="
+secured: "jzgxEagwGIL01UHyJld6Aj70JAEvVoWGKntmchwMXJaPQh000nT9wlkYQUtf6wfhh7CXOk9wm2v/GlSQOEjY9HL9MUKB61M3uQ1XQ6SKLw0ZmKHZsarJjQH1Q/9h0Av9GLw1SpKwV6yyyVUuTTI9wJnQgLuKlXyd7fBECWDgSQd6ObAjCizwKG0JpE6O7uLC6kuZUyHusHZinknyLcosLHWsdbLcc7BkVZuTJ9SMgJRi1w+yFvabBnob7MenRqgWl4r03ryJ6ccXy6Cj/pPH4C7UghvEBwIytkBWbNHGwAu9pdMCpifKJyXblvMUpmdirF3yVmKl5xv/yToOQNvvPRVOu1MBi3aLhK4S/AAo7hI=;S58B6+uoQVRlo5D7vXEXxg=="
 ---
 

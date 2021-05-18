@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Quotient to Discuss Machine Learning for Grocery Retail at Adweek’s Elevate: AI Event"
-excerpt: "Quotient (NYSE: QUOT), the leading digital media and promotions technology company, today announced that Thalya Hamilton, VP, Data and Analytic Product, and David Fanska, Director of Analytics and Data Science,"
-publishedDateTime: 2021-05-17T12:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-ed783535540744af9dc77baa98ef22c9"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-ed783535540744af9dc77baa98ef22c9"
+excerpt: "Quotient analytics experts to speak on virtual panel about the unique challenge for digital technology innovation in an industry traditionally built on brick-and-mortar Quotient (NYSE: QUOT), the leading digital media and promotions technology company,"
+publishedDateTime: 2021-05-17T07:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210517005031/quotient-to-discuss-machine-learning-for-grocery-retail-at-adweeks-elevate-ai-event"
+webUrl: "https://www.morningstar.com/news/business-wire/20210517005031/quotient-to-discuss-machine-learning-for-grocery-retail-at-adweeks-elevate-ai-event"
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "DhSJE8RKdcaKf+R+eedTFeCV11sJxOviJr/YRlEbIfF11iuWpBD6nblYCkvS8vipQ8+cjZn2VCLObYFJd5IH3ylnlVaM1WA5wCx6wpEQKa+Fz59LR1bJ+xnatlOgPFUK0qXaeNC40Vqk8R8mdvFFNT7PBdM7HObF5J+ZKBDKkNDOCqPhhO6w92QwBh1p1zon36zOb9AcDTJqx2JBfOHGttnKt6ldF2Kf/186JvI5WD8rdjYE/cNlPwULIRtkdz57hIaAH4xyA6hRHhpQmFbmPWYNvyU7gy8ngwkMl0AQE69UXjp6K61qOaX2X8z2hdy6COauS18xd1vH6/vbrDMTX8E94CZNTw5SjApQldlcw7E=;vV+ow8p5au/1WFfhxA5goA=="
+secured: "7TwG+ieSsh1rMuo5aLALqKgA7a7iWwJ0PgI89kQb0VERx/4M2nzVWIGm8uTBy4NEXLERLS/mlY2sncbfYN0J4P0P5fKgxspYGmcreyf6TZuT08XqL82Hc8EdhZKhCdfOM/RGa2nD4ejypoSVjJf1yqHoGB3fMdjiQuY6sZVSc1VHBEZe1CBpQO+dH4C6uIPDfmDkd9voQSn+82ubIvJLr5yLITxfcR4e4Qv/kKEzh7pBFNmd/rDuU+AyqsZ/dfiQc0qB+AW/Kx7BTLYs/SJjznmEoVfVmkMzNepLSs7SjfXp/bzBZQY3KjMK7l7UaOH2KGsg6LYQAyRvFuUBJRy4KfUSeiW806+n+JRX86ocA6c=;ud1hXZBA8BXM1CO7Sz73mg=="
 ---
 

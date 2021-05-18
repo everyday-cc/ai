@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/"
 type: article
 quality: 89
-heat: 221
+heat: 191
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Soter Analytics Uses AI-Enabled Wearables And Neural Networks To Improve Worker Safety"
-    excerpt: "This startup takes a \"machine reliabilty\" approach to helping prevent repetitive motion injuries for industrial, warehouse and retail employees."
-    publishedDateTime: 2021-05-13T11:22:00Z
-    webUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/"
-    ampWebUrl: "https://www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2021/05/13/soter-analytics-uses-ai-enabled-wearables-and-neural-networks-to-improve-worker-safety/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c7704bea7fa07a835a633%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChaosSearch brings SQL support to log analytics"
-    excerpt: "ChaosSearch adds support for SQL to a log analytics platform that stores data natively in object-based storage systems in the cloud."
-    publishedDateTime: 2021-05-13T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/13/chaossearch-brings-sql-support-to-log-analytics/"
-    ampWebUrl: "https://venturebeat.com/2021/05/13/chaossearch-brings-sql-support-to-log-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/chaossearch-brings-sql-support-to-log-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Example-1-e1620910180899.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
     excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
     publishedDateTime: 2021-05-15T09:01:00Z
@@ -156,20 +124,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-300x230.jpg"
         width: 300
         height: 230
-        isCached: true
-  - title: "Valmont acquires crop analytics startup Prospera for $300m"
-    excerpt: "With Prospera on board, Valmont now claims to be the world's largest, vertically integrated artificial intelligence company in agriculture."
-    publishedDateTime: 2021-05-13T11:20:00Z
-    webUrl: "https://agfundernews.com/prospera-valmont-acquires-crop-analytics-startup-for-300m.html"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 24
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2021/05/jan-kopriva-LTMaAwxanGk-unsplash-1-e1620844562298.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
     excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"

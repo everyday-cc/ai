@@ -165,17 +165,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Intel Uses Machine Learning To Make GTA’s Graphics Look Scarily Photorealistic"
-    excerpt: "GTA 5’s graphics are decent and it looks good considering how old the game is, but we would never ever call it realistic-looking, but"
-    publishedDateTime: 2021-05-13T11:28:00Z
-    webUrl: "https://www.ubergizmo.com/2021/05/intel-machine-learning-gta-graphics/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/05/intel-machine-learning-gta-graphics/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/05/intel-machine-learning-gta-graphics/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 35
 
 secured: "7E/QPHbm59gGwhIlSHjrDP77NDqdoDusVYqpHgSbssbHtnCShJ5aPTFhTieMMd23MEzNiTiqtz8YmaBoB+gtxKP/CBcY3iIp3cO1uM9o+CR2JNdBxY0Ty5f7ln1EngerOQbRmI2ylyfwc55/Sh8AVbZSK2jqaIqt3vBf/BliU1Pde7vaqXNgcNFEkeJKxdddVpuxx9zxdJztS0LenvfgFuVmN6Vid/8mCNrfURmglJg1JRApFhE9p2Tq11iq8E1Ls7FvCUbDsP7FOsonv82E+l04KEcUYrwTJQX+YBntYpwutWsOd/1a0vN9ZWBVbO9C2ffHNEwu6GZ1NLoEhElx3yYZBQjZLlTq3S5Vlba+pvE=;WVZOebUbmfll3TfczbAFBQ=="
 ---

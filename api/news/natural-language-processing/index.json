@@ -115,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -970,6 +970,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-07-global-natural-language-processing-market-2020-to-2026-by-component-deployment-mode-type-application-vertical-and-region-researchandmarkets.md",
+      "title": "Global Natural Language Processing Market (2020 to 2026) - by Component, Deployment Mode, Type, Application, Vertical and Region - ResearchAndMarkets.",
+      "excerpt": "The Global Natural Language Processing Market was valued at $11.82 billion in 2020 and is projected to reach $53.08 billion by 2026. Rise in usage of voice assistants, availability of large volume of datasets and increased engagement on social media platforms are the primary factors for the growth of the Global Natural Language Processing Market in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=465764",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=465764",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-googles-ai-photo-app-uses-crowdsourcing-to-preserve-endangered-languages.md",
       "title": "Google's AI photo app uses crowdsourcing to preserve endangered languages",
       "excerpt": "give cultures the AI tools they need to protect the languages themselves. The company has launched Woolaroo, an open source photo translation web app (also available through Google Arts & Culture ...",
@@ -1131,8 +1174,8 @@
       "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
       "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1142,12 +1185,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:44:00-07:00",
+      "publishedDateTime": "2021-05-05T07:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1434,49 +1486,6 @@
       "provider": {
         "name": "The Hollywood Reporter",
         "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-cooperative-ai-machines-must-learn-to-find-common-ground.md",
-      "title": "Cooperative AI: machines must learn to find common ground",
-      "excerpt": "To help humanity solve fundamental problems of cooperation, scientists need to reconceive artificial intelligence as deeply social.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-01170-0",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-01170-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-01170-0/d41586-021-01170-0_19135748.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null

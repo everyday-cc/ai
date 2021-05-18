@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-rise-of-the-robots-bank-of-america-names-its-favorite-stocks-for-our-post-covid-future.md",
+      "title": "Rise of the robots: Bank of America names its favorite stocks for our post-Covid future",
+      "excerpt": "As technologies like automation and AI are rapidly adopted, strategists at BofA name a slew of stocks set to benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106883283-1621003066000-gettyimages-1221937566-dsc04379gi.jpeg?v=1621003179",
+          "width": 5831,
+          "height": 3888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-robotics-company-embodied-acquires-conversational-ai-business.md",
       "title": "Robotics Company Embodied Acquires Conversational AI Business",
       "excerpt": "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans.",
@@ -327,6 +380,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-the-myth-of-artificial-intelligence-academicinfluencecom-features-author-and-computer-scientist-erik-larson.md",
+      "title": "The Myth of Artificial Intelligence--AcademicInfluence.com Features Author and Computer Scientist Erik Larson",
+      "excerpt": "If the dystopian alarm of the news is any indication, the robot apocalypse will soon be upon us. Not so fast, says author",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21104218/the-myth-of-artificial-intelligence-academicinfluence-com-features-author-and-computer-scientist-e",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21104218/the-myth-of-artificial-intelligence-academicinfluence-com-features-author-and-computer-scientist-e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21104218",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21104218",
+      "publishedDateTime": "2021-05-13T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1318,101 +1405,6 @@
         "name": "Restaurant Business",
         "domain": "restaurantbusinessonline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-path-robotics-bags-usd-56m-funding-from-addition.md",
-      "title": "Path Robotics bags USD 56M funding from Addition",
-      "excerpt": "Path Robotics has recently announced to have raised funding worth USD 56 million in its latest Series B financing round led by Addition.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/",
-      "originalUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/05/Path_Robotics_logo_Logo-scaled.jpg",
-          "width": 2560,
-          "height": 1341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/",
-      "cdnAmpWebUrl": "https://techstory-in.cdn.ampproject.org/c/s/techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/",
-      "publishedDateTime": "2021-05-03T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-undercooked-fast-food-burgers-are-toast-with-robot-ai.md",
-      "title": "Undercooked fast food burgers are toast with robot AI",
-      "excerpt": "The company that invented the robotic fry cook has a new standalone AI for fast food restaurants. Here's why it's a smart play.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/undercooked-fast-food-burgers-toast-with-robot-ai/",
-      "originalUrl": "https://www.zdnet.com/article/undercooked-fast-food-burgers-toast-with-robot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/03/d0afe7f3-4aa8-4320-b61c-75d2013e1b83/cookright.jpg",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/undercooked-fast-food-burgers-toast-with-robot-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/undercooked-fast-food-burgers-toast-with-robot-ai/",
-      "publishedDateTime": "2021-05-03T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

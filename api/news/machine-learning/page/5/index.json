@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-open-source-framework-simplifies-machine-learning-processes.md",
+      "title": "Open-Source Framework Simplifies Machine Learning Processes",
+      "excerpt": "The system brings hospital data through a set of machine learning models to help inform clinical decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/open-source-framework-simplifies-machine-learning-processes",
+      "originalUrl": "https://healthitanalytics.com/news/open-source-framework-simplifies-machine-learning-processes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
       "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
       "excerpt": "Scientists from the Max Planck Institute for Molecular Genetics (MPIMG) and Institute of Computational Biology of Helmholtz Zentrum München have identified 165 new cancer genes using machine learning",
@@ -1313,50 +1356,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-real-or-fake-robot-uses-ai-to-find-waldo.md",
-      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
-      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
-          "width": 1691,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

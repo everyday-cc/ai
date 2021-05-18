@@ -43,38 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Machine Learning Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Machine Learning Industry from its research database Artificial Intelligence in Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Machine"
-    publishedDateTime: 2021-05-13T11:52:00Z
-    webUrl: "https://www.openpr.com/news/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/5/U513420815_g.jpg"
-        width: 482
-        height: 350
-        isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial intelligence AI in Logistics Industry from its research database Artificial intelligence AI in Logistics Market is segmented by Regions Countries All the key market aspects that influence the Artificial intelligence AI in"
-    publishedDateTime: 2021-05-13T11:52:00Z
-    webUrl: "https://www.openpr.com/news/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/5/U513900568_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Global Natural Language Processing Market : Industry Analysis, Size, Share, Growth, Trends and Forecast - 2025 | Says Kenneth Research"
     excerpt: "Kenneth Research, in its repository of Global Natural Language Processing Market research reports, have recently added a report on Global Natural Language Processing Market which emphasizes on the latest trends,"
     publishedDateTime: 2021-05-17T09:48:00Z

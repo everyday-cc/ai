@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"

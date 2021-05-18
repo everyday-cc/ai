@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/auto/volkswagen-and-arg
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/auto/volkswagen-and-argo-ai-to-starting-testing-new-autonomous-vehicle-called-id-buzz-6894031.html/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: moneycontrol.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Volkswagen electric bus trials to start soon"
-    excerpt: "Volkswagen and Argo AI (US-based self-driving startup) have announced that international trials of the autonomous driving technology in the all-electric ID.Buzz microbus will commence this summer. The"
-    publishedDateTime: 2021-05-13T11:45:00Z
-    webUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon"
-    ampWebUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 44
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/volkswagen-id-buzz-microbus.jpg"
-        width: 1280
-        height: 653
-        isCached: true
   - title: "Self-Driving Volkswagen ID Buzz Minivans Entering Real-World Autonomous Trials"
     excerpt: "T ID Buzz delays are a, uh, buzzkill, but at least while we're waiting until 2023 or so to drive one ourselves the reimagined modern Bus will be put to good use. Volk"
     publishedDateTime: 2021-05-14T17:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workfo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

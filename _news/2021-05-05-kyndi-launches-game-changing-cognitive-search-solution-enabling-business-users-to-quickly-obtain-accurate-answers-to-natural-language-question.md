@@ -2,19 +2,23 @@
 category: news
 title: "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question"
 excerpt: "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform."
-publishedDateTime: 2021-05-05T12:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/05/9361983.htm"
+publishedDateTime: 2021-05-05T14:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623"
+webUrl: "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "ZnFjjel96TvZWa6MxIwVhVzMd6j4zbmO4dFRiExXrJW67Iqr4LfycqoBbjEIfSOjMfT/3IB5qXKlwBgsjw8RtrUxwV0VaOkSI5Hjb6yF+guRF76xbaoqWIgt/dEDLroFf6cxsfMI0coVDw4VVBFkFIzler9hwK68GsUAtf0LwiPpzln6hkt4HwfSpBtR8fLgNrwUVqMbTUJlr5KLmS65FzKC299YyFlb8e3XIawpJjBpamslob7m0UOVacRpB6S8F5OFHPor34PTF2ElYnfgbi8Xt31CHesKhKrJknip2TJKzCphNJMpM1dESZPEWQbcQPZ2p19eeZdhRjpNERdGeqWga1NMjbi4rrJcvtgMISk=;tM6fCb7GkGnHZUn1c7x5sw=="
+secured: "25NHoYzopWf4+8APKCDMRE6clpXL7ZClJOLkVvuaV/zYyTeDkYPbNTWa34fszd9aSqwbD7TXOiQ2P+WN+oyazkkBGy7+uts4VgsEkP4GnVeSLnYJabLGTKRQVWv/NbY5fZ7fUpgeF/PjHFpLegV6amgDGlWi3hd5xNua+bP0PwhkMUdn1Q9IUEcUhVkM+x0D8Vq0vUp85tmkdHNEBu8k+PVpNfUkIQhWPutstWb/h6Uvh0lvLQuu8JDMvHWewcPwj3Ftr+ZKaEdON0hmLIZWN+HRjJwNSnERI36IqB8JjYWFifiHXQBIcLsB/pULpnxjnAGxNnPEIWVHFbFAUEhpqrDbwYjHo4kL8ogVDzZdC1E=;oFeybzitAiIub819nerfNw=="
 ---
 

@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-12-empiricai-secures-a-new-distribution-agreement-with-qed-to-provide-computer-vision-ai-solution-to-the-uk-and-european-markets.md",
+      "title": "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets",
+      "excerpt": "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/contact-tracing-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
+      "publishedDateTime": "2021-05-12T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19.md",
+      "title": "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19",
+      "excerpt": "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg",
+          "width": 1618,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
+      "publishedDateTime": "2021-05-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-politico-ai-decoded-aigov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism.md",
+      "title": "POLITICO AI: Decoded: AI.gov — US states move to ban facial recognition — AI and structural racism",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/",
+      "publishedDateTime": "2021-05-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-understanding-the-differences-between-biological-and-computer-vision.md",
       "title": "Understanding the differences between biological and computer vision",
       "excerpt": "Biological and Computer Vision by Gabriel Kreiman explains how AI attempts to replicate how humans and animals process visual data.",
@@ -188,6 +318,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
+      "title": "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience",
+      "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg",
+          "width": 582,
+          "height": 304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21075003",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075003",
+      "publishedDateTime": "2021-05-11T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -990,207 +1163,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-the-washington-post-launches-audio-articles-voiced-by-amazon-polly.md",
-      "title": "The Washington Post Launches Audio Articles Voiced by Amazon Polly ",
-      "excerpt": "AWS is excited to announce that The Washington Post is integrating Amazon Polly to provide their readers with audio access to stories across The Post’s entire spectrum of web and mobile platforms, starting with technology stories. Amazon Polly&nbsp;is a service that turns&nbsp;text&nbsp;into lifelike&nbsp;speech,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:50:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
-      "title": "Your face, voice, and fingerprints could defend you against banking scams",
-      "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "originalUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/11/8104b7ae-9d38-43cb-8ac5-84137f5d6e35/thumbnail/770x578/be84cecb7e419c7da08de55941d1cefc/20210510-daphne-karen-bio.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-amazon-facing-calls-from-civil-rights-groups-to-permanently-ban-police-use-of-facial-recognition-as-deadline-approaches.md",
-      "title": "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches",
-      "excerpt": "Amazon has yet to announce whether it will lift a one-year moratorium on the sale of its Rekognition product to police departments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/",
-      "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/",
-      "publishedDateTime": "2021-05-11T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-kfin-technologies-announces-investment-in-insurtech-startup-artivaticai.md",
-      "title": "Kfin Technologies announces investment in InsurTech startup Artivatic.ai",
-      "excerpt": "KFin Technologies, a General Atlantic-backed and one of India’s largest registrars announced its investment in InsurTech startup, Artivatic.ai. They have bought 17% stake in Artivatic on a path to majority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/07/partnership-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp",
-      "publishedDateTime": "2021-05-11T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

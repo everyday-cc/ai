@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-ready-for-a-world-of-ai-powered-superhuman-precision-its-coming.md",
+      "title": "Ready For A World Of (AI-Powered) Superhuman Precision? It’s Coming",
+      "excerpt": "Can we outstretch our collective hands to AI-controlled robots or will we get our arms ripped off by imprecise electronics? Already, the next generation of scientists are discovering new applications of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a340b069bb6447459aee55%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
+      "publishedDateTime": "2021-05-17T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-rise-of-the-robots-bank-of-america-names-its-favorite-stocks-for-our-post-covid-future.md",
+      "title": "Rise of the robots: Bank of America names its favorite stocks for our post-Covid future",
+      "excerpt": "As technologies like automation and AI are rapidly adopted, strategists at BofA name a slew of stocks set to benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106883283-1621003066000-gettyimages-1221937566-dsc04379gi.jpeg?v=1621003179",
+          "width": 5831,
+          "height": 3888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-the-future-workforce-how-conversational-ai-is-changing-the-game.md",
       "title": "The Future Workforce: How Conversational AI Is Changing The Game",
       "excerpt": "AI was among the many emerging technologies to take hold in 2021. Companies are using AI to streamline everyday workplace tasks and transform the client experience.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -109,8 +213,8 @@
       "title": "Using machine learning to predict high-impact research",
       "excerpt": "DELPHI, an artificial intelligence framework built by MIT Media Lab researchers, can give an “early-alert” signal for future high-impact technologies by learning from patterns gleaned from previous scientific publications.",
       "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/using-machine-learning-predict-high-impact-research-0517",
-      "originalUrl": "https://news.mit.edu/2021/using-machine-learning-predict-high-impact-research-0517",
+      "webUrl": "https://news.mit.edu/2021/using-machine-learning-predict-high-impact-research-0312",
+      "originalUrl": "https://news.mit.edu/2021/using-machine-learning-predict-high-impact-research-0312",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -1057,116 +1161,12 @@
       ]
     },
     {
-      "path": "_news/2021-05-17-cloudflare-wants-to-kill-the-captcha-using-hardware-security-keys.md",
-      "title": "Cloudflare wants to kill the CAPTCHA using hardware security keys",
-      "excerpt": "Cloudflare is one of the top providers of web infrastructure and security, content delivery, DNS, among others. The company has also been offering businesses bot management",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "originalUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-16-image-4.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "publishedDateTime": "2021-05-16T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-now-theres-a-deepfake-audio-platform-where-celebrities-can-license-ai-generated-voice-clips.md",
-      "title": "Now There's a Deepfake Audio Platform Where Celebrities Can License AI-Generated Voice Clips",
-      "excerpt": "Whenever deepfakes make the news, it’s almost always for the latest terrifying way bad actors have figured out how to spawn hoaxes or cyberbully people using the AI-powered technology. However, the media industry has found some more practical (and less sinister) applications,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864",
-      "originalUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8692326edc4f759cb0bf14eaa28d3500.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864/amp",
-      "publishedDateTime": "2021-05-16T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-17-understanding-dimensionality-reduction-in-machine-learning-models.md",
       "title": "Understanding dimensionality reduction in machine learning models",
       "excerpt": "Data scientists use dimensionality reduction in machine learning models to remove irrelevant features from busy datasets.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/",
-      "originalUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/",
+      "webUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -1185,7 +1185,7 @@
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/amp/",
-      "publishedDateTime": "2021-05-16T12:22:00-07:00",
+      "publishedDateTime": "2021-05-16T19:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

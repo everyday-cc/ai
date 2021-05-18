@@ -43,22 +43,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "Self-driving Volkswagen electric bus trials to start soon"
-    excerpt: "Volkswagen and Argo AI (US-based self-driving startup) have announced that international trials of the autonomous driving technology in the all-electric ID.Buzz microbus will commence this summer. The"
-    publishedDateTime: 2021-05-13T11:45:00Z
-    webUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon"
-    ampWebUrl: "https://www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
-    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/self-driving-volkswagen-electric-bus-trials-start-soon?amp"
-    type: article
-    provider:
-      name: Team-BHP.com
-      domain: team-bhp.com
-    quality: 44
-    images:
-      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/volkswagen-id-buzz-microbus.jpg"
-        width: 1280
-        height: 653
-        isCached: true
 
 secured: "IyjWA92dbLQZdZs0BzjhL2updilbk1dzQi5OhucFp9I4ASDQoamTbjD46s3cGV4fJ70/PP7GFgnVFWXgU5cLyjij9vs6NtLRCjzkRKa7AB3Gq9XyBBLEfX4CZQ0ivSq75MACQmDixMR4uFvhK2jmBDDXhUvcF5S/8BeiufydZl+rFumzDLHhIu0kPClAwcC72rDgcT8PW+fXdusLKF5OJcwHThkYgYb7NdbjbHELMDvGMYy85YhVcqsI3zbNFFZrY9ADbV7f/FTL6duyW9mPEXRi7taQDPGUcUE5oo//KdBNx7/Pp1b5qy9TKdAdWUlRo1oINYA4qB0NR8yXF81Xv9xQkWG/CiOJbFxgWNBdIFFnQhyFYYK55jWTMgl3n0381exywVg+VGI4FFAFeIIkylswTJqPD+Lp6ByTAlUb+FzRb4Y61sncvAEkFM48dK2Cf8703b8xNdhM3XTXkZpfWH9x5cRVDImIP/d5BthdZYtKveexRCFbqO/kUmYrt5s+ECuzIpEKhuGk09LOcmSI1g==;wYdgB41axgPVrBR//dXMRg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/digital-twin-market-deta
 webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
 type: article
 quality: 55
-heat: 105
+heat: 85
 published: true
 
 provider:
@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Machine Learning Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Machine Learning Industry from its research database Artificial Intelligence in Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Machine"
-    publishedDateTime: 2021-05-13T11:52:00Z
-    webUrl: "https://www.openpr.com/news/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284351/artificial-intelligence-in-machine-learning-market-2021-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/5/U513420815_g.jpg"
-        width: 482
-        height: 350
-        isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market 2021 Growth Factors, Opportunities, Trends and Key Manufacturers"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial intelligence AI in Logistics Industry from its research database Artificial intelligence AI in Logistics Market is segmented by Regions Countries All the key market aspects that influence the Artificial intelligence AI in"
-    publishedDateTime: 2021-05-13T11:52:00Z
-    webUrl: "https://www.openpr.com/news/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2284346/artificial-intelligence-ai-in-logistics-market-2021-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/5/U513900568_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Research Report: Cagr Status, Industry Growth, Trends, Analysis And Forecasts To 2027"
     excerpt: "On the basis of end-users, the market is segmented into consumer electronics, healthcare, banking & financial services, automotive, media & entertainment, IT & telecommunication, retail. 1) An overview of the global market for Artificial Intelligence ..."
     publishedDateTime: 2021-05-14T07:26:00Z

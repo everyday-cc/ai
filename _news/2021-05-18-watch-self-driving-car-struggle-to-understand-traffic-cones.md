@@ -9,7 +9,7 @@ ampWebUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-strug
 cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tri-State Transportation Leaders Look To Expand Self-Driving Vehicles"
+    excerpt: "Autonomous vehicles are already on Greater Cincinnati roadways and the Ohio Kentucky Indiana Regional Council of Governments (OKI) is looking to expand"
+    publishedDateTime: 2021-05-17T09:00:00Z
+    webUrl: "https://www.wvxu.org/post/tri-state-transportation-leaders-look-expand-self-driving-vehicles"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 24
+    images:
+      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202105/640px-Waymo_self-driving_car_side_view.gk.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "8rAMTrhe3i6p2QtstzQnInIjobwEJ2kJs/YFJYrhBGC7FdFMMFD+4Tx6hGQs+PQF717QhR4r6Ns8pa7NO0kp81dbda6B46TFpY3wVVEtCEwakWXZqpJvHkz9PcH5hSwj1f7k3vIXdyOkAvpXP1JedGfQ0edmNd6f28mxvlcZEi0Ewdbq7JD2Iv7krBxXjeB4Rm9ZPkx8przKkPazmCKJWpk+JRUhi5MYrcOzqBxe/mSt6LewzJVhjoG/2X8fX6O20aMwxDV9DAxTgr3RubYy1iKbyWe7gyeLon0c9Jea25PDdrJvMPBitqVYAUPg9y3UYpManRGDBWdmHfBUbwYoCheXCyS7OEEgC4PnhzFxvB2QwaJMMOWRWMZ/wwhVj2stXctWmDFTUhJWbKYvJivcvHFticlhG2cjj/mk4TXlrWzP8R14TxjLTzmRJvcw0x9ns6uapqf0k3rKVe09wbhxojMFIaUKJMZUiG3f5Kdfm38qdM7YIq4flv2c9l1aycoH2yNv7lM73gvWl2el4uuwhA==;qeWiOpZTn9UGxp7S15BocA=="
 ---

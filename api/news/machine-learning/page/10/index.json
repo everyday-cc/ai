@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-03-microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads.md",
+      "title": "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads",
+      "excerpt": "This new capability is now available to Arc customers. In addition to bringing this new machine learning capability to Arc, Microsoft also today announced that Azure Arc enabled Kubernetes, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/",
+      "originalUrl": "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/",
+      "publishedDateTime": "2021-03-02T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium.md",
       "title": "At Microsoft Ignite, expanding reach for Azure ML & Purview, Power BI Premium",
       "excerpt": "With enough data and ML announcements to go around, I'll cover news pertaining to Azure Machine Learning, Power BI and Azure Purview in this post. ZDNet comrade-in-data Tony Baer covers Ignite's ...",

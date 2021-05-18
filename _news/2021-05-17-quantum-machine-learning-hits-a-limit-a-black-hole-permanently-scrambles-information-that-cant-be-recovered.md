@@ -28,22 +28,6 @@ images:
 
 related:
   - title: "Quantum machine learning hits a limit"
-    excerpt: "A new theorem from the field of quantum machine learning has poked a major hole in the accepted understanding about information scrambling."
-    publishedDateTime: 2021-05-13T12:58:00Z
-    webUrl: "https://phys.org/news/2021-05-quantum-machine-limit.html"
-    ampWebUrl: "https://phys.org/news/2021-05-quantum-machine-limit.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-quantum-machine-limit.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/quantum-machine-learni.jpg"
-        width: 700
-        height: 470
-        isCached: true
-  - title: "Quantum machine learning hits a limit"
     excerpt: "A black hole permanently scrambles information that can't be recovered with any quantum machine learning algorithm, shedding new light on the classic Hayden-Preskill thought experiment."
     publishedDateTime: 2021-05-14T02:03:00Z
     webUrl: "https://www.sciencedaily.com/releases/2021/05/210513100022.htm"

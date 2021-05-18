@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-13-deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students.md",
+      "title": "DeepMind provides machine learning scholarships for four Wits Master's students",
+      "excerpt": "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees in the field of machine learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13/rep_id:4136",
+      "originalUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13/rep_id:4136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
+      "cdnAmpWebUrl": "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
+      "publishedDateTime": "2021-05-13T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best.md",
+      "title": "Google Photos vs Amazon Photos: which cloud storage giant is the best?",
+      "excerpt": "Each backup service employs AI-powered object recognition to help you locate specific shots. Type a term into either service’s toolbar – such as ‘dog’ – and you’ll find they’re both ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "originalUrl": "https://www.techradar.com/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XJqYxETxJ2NujYwTdZTDZX-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-photos-vs-amazon-photos-which-cloud-storage-giant-is-the-best",
+      "publishedDateTime": "2021-05-13T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-dell-jumps-head-first-into-consumption-based-computing-with-apex.md",
+      "title": "Dell Jumps Head First Into Consumption-Based Computing With APEX",
+      "excerpt": "Senior Analyst, Servers Matt Kimball dives deeper as Dell Tech World came and went last night. Front and center was APEX, the company's consumption-based offering that enables companies of all sizes to consume IT infrastructure and solutions in a cloud-like fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609cae73e264b28942d29957%2F0x0.jpg",
+          "width": 1199,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
+      "publishedDateTime": "2021-05-12T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-samsung-raises-spending-in-logic-chip-businesses-to-151-billion.md",
       "title": "Samsung raises spending in logic chip businesses to $151 billion",
       "excerpt": "Samsung is adding another 38 trillion won, around $33.5 billion, to its prior commitment to inject 133 trillion won into its logic business in a bid to become the world leader in that space.",
@@ -505,6 +644,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
+      "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
+      "excerpt": "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421848",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421848",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ai-helps-predict-treatment-outcomes-for-patients-with-diseased-dental-implants.md",
       "title": "AI helps predict treatment outcomes for patients with diseased dental implants",
       "excerpt": "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition.",
@@ -652,49 +834,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
-      "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
-      "excerpt": "CNW/ - Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-885452313.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-datarobots-zepl-acquisition-bridges-the-ai-divide.md",
       "title": "DataRobot’s Zepl acquisition bridges the AI divide",
       "excerpt": "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits.",
@@ -744,6 +883,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
+      "title": "Lasers, levitation and machine learning make better heat-resistant materials",
+      "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -997,49 +1179,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
-      "title": "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience",
-      "excerpt": "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg",
-          "width": 1380,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-artificial-intelligence-ai-market-worth-3096-billion-by-2026.md",
       "title": "Artificial Intelligence (AI) Market worth $309.6 billion by 2026",
       "excerpt": "According to a new market research report Artificial Intelligence Market by Offering Hardware Software Services Technology Machine Learning Natural Language Processing Deployment Mode Organization Size Business Function Law Security Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the",
@@ -1080,136 +1219,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-empiricai-secures-a-new-distribution-agreement-with-qed-to-provide-computer-vision-ai-solution-to-the-uk-and-european-markets.md",
-      "title": "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets",
-      "excerpt": "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/contact-tracing-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
-      "publishedDateTime": "2021-05-12T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19.md",
-      "title": "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19",
-      "excerpt": "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg",
-          "width": 1618,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp",
-      "publishedDateTime": "2021-05-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-politico-ai-decoded-aigov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism.md",
-      "title": "POLITICO AI: Decoded: AI.gov — US states move to ban facial recognition — AI and structural racism",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/",
-      "publishedDateTime": "2021-05-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

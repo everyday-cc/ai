@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
-publishedDateTime: 2021-05-12T09:51:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business"
+publishedDateTime: 2021-05-12T04:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21075003"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075003"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
-    width: 1380
-    height: 722
+  - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg"
+    width: 582
+    height: 304
     isCached: true
 
-secured: "TByv5BMn+WdozWBbSVKZrZ8DgVgN2OvOFOUct/BokYUuRZQq3GwQo2y3h+jOLsFneP2HXA7irFUa1zrgx3F1BXd6Jow0YgRw+vNBr7Y3BQDSAI4pY6fvAeV3C+kDojfDUNfaUT3GQD2uqOR5TBD7ZHYnvzIIMLjmMFTJzUyndjSr4iMbCAZQ4VvTs4rbS2Kn8nGE08InvjCbbPmGEElfrW4urIC4HMu0FI2aKBRMSrsYuv9kD7Rn0P8WBaXbOcJaBmETCFeqZeq6LEa4vjcausStR1QNrz6L6UrFvdQT8YUMCvRaDbUWABEKUm3bMBDpwfld8xmRxJLpfEFNVmCdkT6dfCg5CnSG0U3+bzY6AKs=;k7J54DRvtAwO6HMCthybcA=="
+secured: "jZaQC+SubLNwcSup6Ux04kT9j4ytMSXY/T7UtyAKSiBvbETEgfmYDYeo9Sf6/q082MtAMYDJts8VcCHWtGjdIu5Xj3qGDMGj3F8/Nbg15PbJA96l1Rtv5zBWzzGwWkXc+KuwKWhIJiXWDg70WHjhchsRt9K+T11tZJoJR+qROJCaYNcNgPtcVgEXFJGf6eKdQao34urSz03nRpaZ4/IC845+rwzaY65RBDjGnU9r2wakgD9KYsugfiYp5gGVlvfkJV/LdRmXj3pzjQY+/+1ASM1/6h2YbAOQQeettEw3mpxOCoQElqU623Oi7EDgBjjPUccDMf9YmATFeN7sQmitwvysSioEWlP1jhnRskUK8+8=;Ad1G4J2H3VlO93RUU3fNkA=="
 ---
 

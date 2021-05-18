@@ -42,9 +42,9 @@ related:
         height: 630
         isCached: true
   - title: "Focus tightens on facial recognition"
-    excerpt: "A lawsuit brought by an associate professor at a university in Zhejiang province over use of facial recognition technology has resulted in him becoming headline news nationwide. The legal case brought by Guo Bing has also been used to promote the drafting of laws and regulations related to protecting personal information."
+    excerpt: "In April 2019, Guo paid 1,360 yuan ($211) for a VIP pass to the park and agreed to use fingerprint recognition to enter the venue under the contract. A short time later, he received the message requiring him to provide facial information for the venue's upgraded entry system."
     publishedDateTime: 2021-05-17T23:48:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a300c0a31024ad0babf902.html"
+    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a300c0a31024ad0babf902_2.html"
     type: article
     provider:
       name: China Daily
