@@ -24,6 +24,50 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to help find answers to common skin conditions"
+    excerpt: "Artificial intelligence (AI) has the potential to help clinicians care for patients and treat disease — from improving the screening process for breast cancer to helping detect tuberculosis more efficiently. When we combine these advances in AI with other technologies, like smartphone cameras, we can"
+    publishedDateTime: 2021-05-18T18:45:00Z
+    webUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021/"
+    ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/derm_-_hero_image_2_1.max-1300x1300.jpg"
+        width: 1300
+        height: 684
+        isCached: true
+  - title: "Robotics Company Embodied Acquires Conversational AI Business"
+    excerpt: "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans."
+    publishedDateTime: 2021-05-17T07:07:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 69
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 670
+        height: 376
+        isCached: true
+  - title: "Mayo Clinic, Others Use ‘AI Factories’ to Speed AI Development"
+    excerpt: "The healthcare provider and other organizations are using an assembly-line approach to artificial-intelligence development, where small teams use common software tools and procedures to speed the production of AI applications while cutting costs."
+    publishedDateTime: 2021-05-18T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/mayo-clinic-others-use-ai-factories-to-speed-ai-development-11621330202"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-339735?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Using AI to Take the Bad Emotions Out of Trading"
     excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
     publishedDateTime: 2021-05-17T13:24:00Z
@@ -40,19 +84,51 @@ related:
         width: 680
         height: 451
         isCached: true
-  - title: "Understanding the Black Box Problem of Artificial Intelligence"
-    excerpt: "While artificial intelligence (AI) applications are becoming increasingly capable of solving even the most complex of our problems requiring human-like cognition, the black box of artificial intelligence makes it difficult for us to understand how these systems actually go about solving these problems."
-    publishedDateTime: 2021-05-18T15:12:00Z
-    webUrl: "https://www.bbntimes.com/technology/understanding-the-black-box-problem-of-artificial-intelligence"
+  - title: "Google launches AI health tool for skin conditions"
+    excerpt: "Google is taking one of the most significant steps yet by a big tech company into healthcare, launching an AI-powered tool that will assist consumers in self-diagnosing hundreds of skin conditions. Derm Assist is the first of its kind and will launch in Europe this year before being aimed at the nearly 2bn people globally suffering from skin conditions ranging from acne to melanoma."
+    publishedDateTime: 2021-05-18T18:35:00Z
+    webUrl: "https://www.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811"
+    ampWebUrl: "https://amp.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://www.bbntimes.com/images/articles/companies/Understanding_the_Black_Box_Problem_of_Artificial_Intelligence.jpg"
-        width: 1000
-        height: 562
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F985d5dc0-51b6-46ea-b948-7bc5f0f8390c.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Artificial intelligence should aim to help not oppress workers"
+    excerpt: "Technological developments are having a profound impact on the working lives of people across the UK. The pandemic has led to dramatic changes in the way workers use technology and not just for those"
+    publishedDateTime: 2021-05-17T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/artificial-intelligence-should-aim-to-help-not-oppress-workers-d2lvgw057"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 52
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa806748a-b753-11eb-9a91-c8c89595f50e.jpg?crop=1500%2C844%2C0%2C78&resize=685"
+        width: 685
+        height: 385
+        isCached: true
+  - title: "How AI can Help Retailers Make Ecommerce Profitable During 2021 Back-to-School Shopping and Beyond"
+    excerpt: "With the speed of vaccine rollouts indicating that Zoom classes won’t be front and center for the new school year, the back-to-school (BTS) shopping season of 2021 will be unlike any other. Consumers will be making up for lost time in shopping for new clothes and supplies,"
+    publishedDateTime: 2021-05-17T11:43:00Z
+    webUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond"
+    ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 43
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/05/artificial-intelligence.jpg"
+        width: 2440
+        height: 1533
         isCached: true
 
 secured: "Vx+R/WLt+2vYlFdUB/aFmoZSxbWVU7hdqWSB8XMKdv+yAburTucR7YYmVa+27pAfFR6Fo0zdFW2G95JyZRS6JllcqSB0sp7Cgplxsagoq1b1cvux//FSMZeKgeYsdVWeZ8ayVWWPAsnbeSU6iFk0J5xd5XYfyQmibRjl8w3IXOBN7pcNCtiIj+80MrzLxezNdDrXHulVsL9uKnXbl8ntfFnNBCg+GukmAMXq3cmtAgvREQrFekJgMFLDELgcoxhDcQvsRu847jZUYHZ6ckelM9QhtkI6XpzS9oZyTGcbSTkc3Nk4/7/PyoBujNZutP1Gr2auMj6+SIgFekp/KsMVY6K6mDUL8sycduO3bRHntTgpkkkO0Qt95BFCxKgSR3Y4IjOfL69CH4pdZgRnQSo9uc1GmEz7Y/nSUMbrCnmztI/Y0X9H01w+uFeyLZcl08JFI85BKWJQjw93gekCJdO5P8IoKe3Of8HwsKIZNFpKkFe06/G5Nl3fGRXQb4zX0PMXuJ4CUGsbnt7nSRDA1bF23Q==;FjrwNmqkErNMKNBZjXgeyQ=="

@@ -156,6 +156,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
+    excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
+    publishedDateTime: 2021-05-18T18:24:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-14T11:04:00Z

@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Release Of 2021 AI Most Influential Scholar (2000 Scholars) Annual List"
+    excerpt: "The AMiner team of Tsinghua University has released the 2021 AI Most Influential Scholars Annual List (\"AI 2000 List\" for short). The AI 2000 List aims to select the most influential and active top-cited scholars from the field of artificial intelligence worldwide over the past ten years based on AMiner academic data."
+    publishedDateTime: 2021-05-18T16:56:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2105/S00239/the-release-of-2021-ai-most-influential-scholar-2000-scholars-annual-list.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2105/S00239/the-release-of-2021-ai-most-influential-scholar-2000-scholars-annual-list.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2105/S00239/the-release-of-2021-ai-most-influential-scholar-2000-scholars-annual-list.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 37
   - title: "The Release of 2021 AI Most Influential Scholar (2000 Scholars) Annual List: the US Takes the Lead, Closely Followed by China and Germany"
     excerpt: "The AMiner team of Tsinghua University released \"2021 AI Most Influential Scholar Annual List\" (\"AI 2000 List\" for short). The AI"
     publishedDateTime: 2021-05-18T06:11:00Z

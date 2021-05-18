@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "AWS powers new shot and save analytics for NHL’s Stanley Cup"
-    excerpt: "National Hockey League fans gain a better understanding of their favorite players’ and teams’ performances with two new analytics features that will make their debut in the 2021 Stanley Cup Playoffs."
-    publishedDateTime: 2021-05-14T02:30:00Z
-    webUrl: "https://siliconangle.com/2021/05/13/aws-powers-new-shot-save-analytics-nhls-stanley-cup/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/NHL-shot-analytics.jpg"
-        width: 1288
-        height: 648
-        isCached: true
   - title: "Using Advanced Analytics, AI, and Machine Learning to Mitigate Risk in the Modern Broadcast Environment"
     excerpt: "Zixi's intelligent data platform is leveraging the most advanced event correlation tools to identify issues in live streaming workflows before they become problems."
     publishedDateTime: 2021-05-17T13:00:00Z
@@ -125,22 +111,6 @@ related:
       - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
         width: 500
         height: 500
-        isCached: true
-  - title: "Fintech Assets Experiencing Increased Demand as Big Data, AI, Data Analytics, Automation “Aggressively Disrupt” Sector: Report"
-    excerpt: "Fintech assets experiencing increased demand as Big Data, AI, data analytics, automation \"aggressively disrupt\" sector: Report."
-    publishedDateTime: 2021-05-14T01:05:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175331-fintech-assets-experiencing-increased-demand-as-big-data-ai-data-analytics-automation-aggressively-disrupt-sector-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 31
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-300x230.jpg"
-        width: 300
-        height: 230
         isCached: true
   - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
     excerpt: "Team uses SAS Viya on Microsoft Azure to improve fan experience during turbulent times and plan for the 'new normal' of spectator sports CARY, N.C., May 18, 2021 /PRNewswire/ -- VIRTUAL SAS GLOBAL FORUM 2021 -- In the spring of 2020,"

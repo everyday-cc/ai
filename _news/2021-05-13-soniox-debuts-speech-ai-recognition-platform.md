@@ -1,55 +1,20 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
-publishedDateTime: 2021-05-13T14:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
-webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
+publishedDateTime: 2021-05-13T14:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Soniox taps unsupervised learning to build speech recognition systems"
-    excerpt: "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability."
-    publishedDateTime: 2021-05-13T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/"
-    ampWebUrl: "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all"
-        width: 1200
-        height: 809
-        isCached: true
-  - title: "SONIOX POISED TO ADVANCE AI SPEECH RECOGNITION MARKET WITH INCREASED ACCURACY"
-    excerpt: "Voice Recognition Market in Hyper Growth. New market entrant Soniox advances voice recognition industry accuracy by over 24%. A market valued at billions every company must have their eye on the next killer app - VOICE."
-    publishedDateTime: 2021-05-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/05/13/soniox-poised-to-advance-ai-speech-recognition-market-with-increased-accuracy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d23efb5e40db95067fd9a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "1q4i0HkLfwF8aygj1ritPMkeNIqmRCnKNjH+32c/EQ7kMi7p0rqi7gnrGo3tsqORCMNP+u0XYPDM9CEylXK3dIMV6OrtcRU08Le/tIcZuz+P1b0DLRqiAotgy9uv/vhlh4x0ucV/CzuYiSzpHYwysIxdiR/mh8IZjJ/eYTxsRyKZdlew44vvJ13EST97L4CDmifpKPTajUJyLM8IotvXtb7xXiwy7oIm1j2FK7Y8OvyVDWa8mq1FT7zJOPpfbh/36OE5mXUuKa1xrGSj8j8TOPpuMPyK/FNarM76gdy62evOpQGqsgVThTO/yU30WsRstWcdQhQawA4T1I1e+Ij8717282rpIeShCLVlxAKDq9A=;07SwCLWe018EOu4aW7UeOA=="
+secured: "iOutxWCGpKK4JOqDpGepN9BqamKY9FZ4y75Tx2ixHOAQdMVl2uXNSkPnmCIA3/2X+aqR2aMk794Hf+y0FYdoHg33yq3+52hykBMp7Csvu36ijF5h+CGU2cpVysTjQiCH/BNZ9JDLcbqaESxVjmaqNGeM+vl4g+JrkKIfPgDz/1DQJHIi18I88aOoiGnnhW2OrxyH+lXDOkgjX8KvzY5lAHkqGjfw2ByFCpR2VKYP/49ZIsLJyOiy5xDmVI/eLK6dGsxjv8/IPR/TWiyxjTRjWp7+kesQkhedxLAHk6YMnVTrDE9GOrvpuQbL7W2vUrn2XOTusjnl+P4YvJQ6xkc1J3ajGMeLWtFtcO+A7AuDIPE=;sGxIa9Hvd1jZEHyXbeZDZw=="
 ---
 

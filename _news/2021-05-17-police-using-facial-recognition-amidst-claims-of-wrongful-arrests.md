@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minute
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Amazon to continue pause on police use of facial recognition"
+    excerpt: "Amazon said Tuesday that it will continue to ban police use of its face-recognition technology beyond the one-year ban it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
+    publishedDateTime: 2021-05-18T19:18:00Z
+    webUrl: "https://apnews.com/24363cebd3bbf6e07d14240e1475a1ff"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/bd4ed7db6b8148f496572cb2ffc1d220/3000.jpeg"
+        width: 3000
+        height: 1941
+        isCached: true
 
 secured: "V96lc5Cj83fC453yjbyjqaAoeATTaT4VfkE591AoaukCzRz7+WdAdQSTymjHipQqQmf3XuJ4a3kfSXyeCyN+FJo8Dij3JzY/geJUpMHDAjoHA4BuNZ0JACYI0C/WXYhFg1JvsbY1/Rtg5l8Apf6JYxPHMA3IHUOFSkvXTI7hS4I6ge4XzUDxaNkUKHU2fFwE+Vu2AwPdqhttY8KwnkjczBRnxaxvLywfeIYsLXfiREICcgZg37wpUItYB+lsBpNTbYA3G7DjT4FFHOlb3d6yPKEaYBV7N2bG1SU3igNMYsxs/AVIpiXyolFiOkr8d0P79l0b+t1zt92DTa4Tgfh2yaCHOfA6ZUaYtqu26fzhdhOK5j8eonKKttCePWcmrZKx0h9wYf4DiYiXPIzhGITsuYFWs1o8O1ClRxvH7jcyZySpDdSu4Ag5HUCFsO7zSO/LRTfhVZ15TRgx7TePSbY0fuKWEkzLSOYJnGLjIKqjyYYVwigLDL2uNuYOuks0JNdfEIHXPGmibQcco9gR2JCOMQ==;9NFDNEFRJdOk9kJH/eaZMg=="
 ---

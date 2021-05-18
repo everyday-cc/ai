@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/79349/samsung-to-invest-151-billion-i
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79349/samsung-to-invest-151-billion-into-chip-manufacturing-through-2030/amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 414
     isCached: true
-
-related:
-  - title: "Samsung to boost logic chip investment to KRW171 trillion by 2030"
-    excerpt: "Samsung Electronics has announced plans to invest a total of KRW171 trillion (US$151 billion) in its system LSI and foundry businesses through 2030, an increase of KRW38 trillion from the KRW133 trillion targeted previously."
-    publishedDateTime: 2021-05-14T01:21:00Z
-    webUrl: "https://digitimes.com/news/a20210513PR201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://digitimes.com/newsshow/20210513PR201_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "dJB920ERtbGDeW+FNxL8pDiIws2IS+vnv/py0zbEKLQOQt2M+ZRf2QjSSPLNey42YPI2D6f8kmpCOkCo0/VBNcsJLy0tWo1VIPwpXsowwVRNafIM9i2gyi6bnlLPKFVKZuGccbnfMldyFbk008X4aSA8MizOUlpReWR+SMAaXR7iRXT7KUwg2qOM/6c3H52GESSmemNh6UT535uTl0vxLxLh/hw3HFzcBo3lDWhlqzxmKeDxfYnoVSfiv4o2NdLvJwkQAGKsIMkREdD3dt+3Eu182Krr3oda2NszSaWuoYVCKYH55wmNsqyXhH9/qKhZwjQm0jBEpLL4ojCw4Jr2eIARxNyS7fiH7St67b9prbs=;GuNoamT1Pmi0O9L+xBM4Kw=="
 ---

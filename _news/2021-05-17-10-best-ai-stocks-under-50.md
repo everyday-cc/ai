@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Precise Touchscreens, Thanks to AI"
-    excerpt: "A new artificial intelligence technique more precisely estimates where a finger touches a mobile phone screen, to reduce typing errors."
-    publishedDateTime: 2021-05-17T19:28:00Z
-    webUrl: "https://cacm.acm.org/news/252647-precise-touchscreens-thanks-to-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
 
 secured: "C1FsA7NgxrAa+EJqvc42n+5kigtPPYuVrSlDvQQQybGzOjVQQUaeNRp1y8opAlSzgF7x05X1KgkKGFC8AYRDreAY3ArFV63Cv+YjQLXJvbl6aGvlxRPKWk+s83QhXd7jU+QZ08Ids3gxqItbOKu+TsKTvNQG0w4zMBXzSEBMa1Y3N3cpfHYF+QVnAEOGBiiZvKiQDQ1AMG9N5qwYp7hEr9gIs42FvZ/pluPUmSiwZLDPg3llKDdR8tIyGohc8VFUvXZgAvD23/Yzio5mkSQ0XdFfOV6hhgaKZgl/lsGsTzGWdw7H+Pw+ZorqWb87Gdg5ha+3POJG/EtykQaaD6rYRCZ7ADxhgXXLUn0tSi7lVRIwFiGWL3AQ6CO8EhQpvvp3NJrzHVl0wX3m7FEM4uSHIV63nVwYW5b00HzCEH41gk7VzHDLYYbBq6xoX+DWhRLrmnvDAw+1xHQ1EpKLFUuRtKrFpNyrzyvmg+NSdQgK7vrd2GN6BR51xvEStXI76wA/Kmpunoip26kEALQZz3AVaA==;8LE4jrjN7iLJAPu+fKrYMg=="
 ---

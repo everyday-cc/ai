@@ -145,6 +145,17 @@ related:
         width: 638
         height: 358
         isCached: true
+  - title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
+    excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
+    publishedDateTime: 2021-05-18T18:24:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "California places Tesla’s ‘Full Self-Driving’ under review | Charlotte Observer"
     excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
     publishedDateTime: 2021-05-18T01:10:00Z

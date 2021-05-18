@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Market to Reach $228.3 Billion by 2026"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-publishedDateTime: 2021-05-18T14:40:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-market-to-reach-228-3-billion-by-2026--301293951.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-market-to-reach-228-3-billion-by-2026--301293951.html"
+excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) - Global Market Trajectory & Analytics\"."
+publishedDateTime: 2021-05-18T14:55:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-reach-2283-billion-/2021/05/18/9372174.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-reach-2283-billion-/2021/05/18/9372174.htm"
 type: article
-quality: 52
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1511411/MCP_1592.jpg?p=facebook"
-    width: 1020
-    height: 534
-    isCached: true
 
 related:
   - title: "Citizen Services AI Market predicted to grow $9.7 billion by 2024"
@@ -42,6 +35,6 @@ related:
         height: 365
         isCached: true
 
-secured: "Tze4O1baO14beSx3A4fH3310Pj0S6ewTtGypx5poSIA/9oIPpMa2c9VBVwagfyQZQnhjiCXu0o75U/2TcpduZT/nEib6hUR5sH8qY7LN7gdLksLBdZHaoru2Pr0aOdBtA/7KggEyR9yczHobrPLMDNREeJz+nlU4k6xOU71+z9Jvzb2sEx2mlTvUTA2BZW/Y9L3TzrLJ6D3heyTtGUWqNuhzGoY+k70ECO+T40UV/HSt9MGm3H4GH4sThdl4tHQ8+BRFG6eXK1/foSTFA3Z1Y7ePWF0J2A2waNPBhFuYo78OV26M2LI7gA+uWmeSki+sMOaTNGcpZhbtrOPvb1EIPuJ3JXpeZzSocIDeNJb78sHObH6srTokyXNdUoBStI9q2gjVo9zUayH7YC3gNsWL7+JYK6GUgync/SAcWP5mpk9njLxSi5GGAsRG8dXiTYkjT8pHDHrIgXzWvM6zyv6iYUJElWwLvaEmjCP3MK3NUivSz23NZhdYyPqoPlqMJk/gQmjQbh9b105aynBybrnj6Q==;ismColMhqSFygB/wJ7Mjow=="
+secured: "7YqGOdSARYdQoC0Aj9JanGHQEeY/V8pqf3+bcD0BtvlnOyYWjpEuGmMBEElYQ8PpTRUJWDj/tTvUxLcEhn4siR87fmyyzGEiw2LGSND4IrusM2Yo/mbTgjSxCj54Ymr5hm+3R+MUa+ulFWwRvYcLL81ee/zbfNveueuU+PxU7dWcHPK//1oxx0zXU4H5G4oWqBIO5Ja1ANJLDHtnPYgP9ZG1bgTC269qza10/PDEeKEZoX+zZiMp19zcGNj48Wo51JzDS1mIFvJrZfvbOwMCc52bxfZDQ95dNBIqTlrAfkSUts8m4A5dSaZCjXmlyzCeuaVEu71lJjCDpGE+p3nUlZPaVHO4G8lkt3Hs8vTUjM1p23OjcTUNEz+oB6DcyevXWMn/JYBqpPC2Jt8jNc0aFgwZcTOyWazSE6oJ48Z8DH55IB/q1deM73iWY2Fk59JXho8r4F0sGXlMDjkEXwkRAkSEPrXae3xYaMAXWV+qu2FggOIJR/xE2wHJyvVw/kihu8e3bPliPvC8+iNFDRm8Gw==;pLRRbGT06GXPxxKHJ/TPNw=="
 ---
 

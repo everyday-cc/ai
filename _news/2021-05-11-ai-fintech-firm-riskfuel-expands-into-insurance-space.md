@@ -2,25 +2,19 @@
 category: news
 title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
 excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
-publishedDateTime: 2021-05-11T12:17:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
-webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
+publishedDateTime: 2021-05-11T07:15:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "bVBmdlvaH6KNp7tiA2djRxoVbKQ5IwsdHgnBc2VBoGaVAjFaRSmlrIg8oan4OslTqMjhqyUrz0Vy97VBlf8DUhYCFF/u4f0o98tG8jbl5v2c55uBwXAje6Ob8jJ5CI0kCTOGcKyZSdXDQB2tTsn94/Kq991IqheSi/aVpqGW4/G+5m10IsARULtLPMQP3cE0YVhu3tFFCLyS8xUCrCjGLM4ZQ6bKiPM0yj42KT0464Ebei5vcfpXiEpgJ9MoBtDH7XhOcDq8hB0uyVQM55IR6FNQYz1I9Vc2VWKF1sl9FpbiMBhh1XdbjhFwJTkWjWcgIxf/Bye2jV7XTCMmldR5IgRLmt1CyUq7NUNcjBHPh88=;rA6sZjvyJJJHOLfZYfc2kw=="
+secured: "r7NsBxnGSHqiwyEZWzA0HFNH9zAF6N3fjwd8Kolm5lxdpvLYVniZRi/nDCHDPA6EMsr01SMwqIz5XZifKKdCl0e460Mh5mijw50/006RGpE/IbKmHMHcLl5jUjztx0xn0bfP5XQ4Ly7mSd1Zez3TaPtWK5kz+fkzKlL+OogfAFbr7DpB62CEtqQeU1bsE66CFCtGtzA8LGJ6D4EblMjU3eYCumeUfWXOdMKvkjoUzrzlfmwUI9xL7DajqJRaHSW2aPgV4GSYMfPsoFZajlNb8WfQrOTkpgZfJ2MGRISgP5ZI0NzUjaZTlbe/bahsk7KxDFNrfcoHWALRWuYJMDgRLENPq17J59ZUi5vuOKnAMww=;aNhLf4+tiAnxwrrI29sieA=="
 ---
 

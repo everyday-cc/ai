@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202105/18/60a3010ca31024adbdc83eb0.jpeg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Local Teens Create Solution For Phone’s Facial Recognition Mask Issue"
+    excerpt: "Two local teenagers worked together to solve a problem that’s been frustrating cell phone users since the pandemic began. While anyone who uses"
+    publishedDateTime: 2021-05-18T15:57:00Z
+    webUrl: "https://mdcoastdispatch.com/2021/05/18/local-teens-create-solution-for-phones-facial-recognition-mask-issue/"
+    type: article
+    provider:
+      name: Maryland Coast Dispatch
+      domain: mdcoastdispatch.com
+    quality: 39
+    images:
+      - url: "https://d2wcro6av4bts2.cloudfront.net/wp-content/uploads/2021/05/worcester-prep-school.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "ZTNQbLiresX5IZUXzjpdmUV4wKBWq5MM/LgnyhqfNM1+DO4ZZhw1sa+kmco758GHJjM61b6DpVsd4sRK6RDyAtb/98dB5G+KY17Zh13bzByTlvJjihDTxBQqjbNaXUJod/UAVKFmCdP0loz2YliAKiV7RUmQM7qVJ8vwBtdbhUvUmn17OoPrsDv9zPc1oJhgw0wjeK+xDVX5PVX6Hcp1MOD/olH2mUH9pL3Zboo+I4+EW1GUPJGk+gC5nkwYdq1hh5NtFnJ4vzh/PdwjNw3w1hQqeiXH6fZTN4vCnXz3eH2KT2GXca6QJQV2l+21lwmPCEQnDlkTjMFzKEGA80Tga5gFVLKw7cXqmC92eqZ2qDabV3xtIv3bBLUlrcCa2OKUvepN0wi9HBk797OMNLALn/tr6v8N7FfkYzoIuckYjBOb/SlAHizDZr2SBEpmfEmsLgVz+ak7nA8LlYRG1BVAsRPJtoT8JopZRj0pnW0GsJrakAJEEjDzDM8/AWjx/qoC1O5rmvEMdZE1buOmpnbzyQ==;nK5oQNLeYeKlpYNVAunv5Q=="

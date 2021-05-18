@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 918
         isCached: true
+  - title: "Local Teens Create Solution For Phone’s Facial Recognition Mask Issue"
+    excerpt: "Two local teenagers worked together to solve a problem that’s been frustrating cell phone users since the pandemic began. While anyone who uses"
+    publishedDateTime: 2021-05-18T15:57:00Z
+    webUrl: "https://mdcoastdispatch.com/2021/05/18/local-teens-create-solution-for-phones-facial-recognition-mask-issue/"
+    type: article
+    provider:
+      name: Maryland Coast Dispatch
+      domain: mdcoastdispatch.com
+    quality: 39
+    images:
+      - url: "https://d2wcro6av4bts2.cloudfront.net/wp-content/uploads/2021/05/worcester-prep-school.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "WQK4IdUh20Ot0YKQbfOi5shyuRiFdQpdYtPBhkbkNdJBjJOGZShoiMEDqprj8g5/Gsu7LhKBly7VSvYglc8D81ku+T0LicMLuRPcC7l7kX0F8fp1EM+eJlf2wmpCV07nBCSjpERc+OZ48yY8xUFXi0ApL4GhE/qCboiHEMF7IIuOeb4deYN1vpGPWy8lk13WTKgWhcbXIRlhPkBGL2+HsdWjLDR+kbuU0VxiYcDoX03FbUosj3tldaWSb8vnls+6nn4s8OROds46rQ6CAuYvjAsBlQQgAqeNOd/CAqaYvRidPUEozjAPeUpQSHjmfcQYsrMAn/+zYetuZKpfUOVO0Lb1LzUClDyncJjfYHZEX7GG4fFfi5ODe1ZS4Ol7Ap00P/gfosKBDI8aL+SgjhaHQtyHqV2r9eulJ79MVATnVOloJ5zBRR7VoFihBxaF3xouJFvqmTArPEvHc2bGDCjwvOZKd3p+BdNqdbaVVk7j9pzELU8sogT1FWKBUrZcarppe/s9/lLn0HIbMN4Lhe6Hiw==;MKdNh+dIZSAlTb6J1agtHw=="
 ---

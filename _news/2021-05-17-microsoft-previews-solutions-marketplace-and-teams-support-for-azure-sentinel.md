@@ -99,6 +99,17 @@ related:
         width: 688
         height: 400
         isCached: true
+  - title: "Mars teams with Microsoft Azure for its digital transformation program"
+    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
+    publishedDateTime: 2021-05-18T19:39:00Z
+    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
+    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
 
 secured: "ZC6aI1Pt2ORmqT476nJ/uy0rv6yo4DwPJQZ8Zv7Y5yuyi0ZUAC44mL1U6SPTxBs+xoF7k7KtICb4oJuLgOwZ1Pw2p3EfUPz2GKf1XscekMeFnckz10Hk6FmWjn3hathr0F5d7g20WrbZWfFbdxHX7z/y2ktk5D4UnNu/mWdnG8MDDZuQD0mfxvcRMbMFtFkwqxdkKN4Me9mzvJBE6vHZJJnZ2XRuJjDzkF9C63Zd0R30nIjE/f1dAdcvGN4dEvax5frdh14q5mTHmnIje/rYn1zn+XkRN7dQX8tnpt1OarEU6ueySVjtlphjpHMdFzCre/yBquGDZzNL8STqCao/OLEe23lgYcVlZExXnkqIvrPqOFRYeRdFXYmsjXLXf5MyGM7VjSnnBWgU/rGgV4/b3ba5kQRe2aO427wfd2fHB+8XkOFwZaHMPo4OT+Q7coUhJlarfjX0hzwl7RoIIrg31cEEHm7IVjQ2sfAPMQal11nWEgBesqHFN3To1gXRfOKlFBI0ue9LCyK6g0a5mgj1Gw==;aAK7O5MeJ7rbXR71V5TrVQ=="
 ---

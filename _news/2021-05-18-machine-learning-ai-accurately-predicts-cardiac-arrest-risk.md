@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning (AI) accurately predicts cardiac arrest risk"
+    excerpt: "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest -- when the heart suddenly stops beating -- using a combination of timing and weather data."
+    publishedDateTime: 2021-05-18T18:05:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210517194656.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Artificial Intelligence Program Accurately Predicts Lung Cancer Risk"
     excerpt: "An artificial intelligence (AI) program accurately predicts the risk that lung nodules detected on screening CT will become cancerous, according to a study published in the journal Radiology. Lung cancer is the leading cause of cancer death worldwide,"
     publishedDateTime: 2021-05-18T14:00:00Z

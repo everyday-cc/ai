@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/quantum-machine-learning-hits-a-limit-a-bla
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/quantum-machine-learning-hits-a-limit-a-black-hole-permanently-scrambles-information-that-cant-be-recovered/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 777
     height: 546
     isCached: true
-
-related:
-  - title: "Quantum machine learning hits a limit"
-    excerpt: "A black hole permanently scrambles information that can't be recovered with any quantum machine learning algorithm, shedding new light on the classic Hayden-Preskill thought experiment."
-    publishedDateTime: 2021-05-14T02:03:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210513100022.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "zUq3e/0bJClDV3FzL4CgMgwNpqHT25Rd73tUQ4/FBs5ikZVRdIqGr8nzCqMixRTQWdnUbkdvLBRpXAYVKLEOA77S4PTnlP6+ZIZ790H/P9iAArPLKed+3J/pmm/PJcrnGr/cCth8acOBCAT52CkRxrkhulxEc0Xv+tCs/Ja3oNYgm79gmm8vNXQBgr0hRuyDxFl/Dl5Jko4V2d2KV+SMMTg9uam+zrRQ/nhmCRazdmwM9nSSWiMRPzH4XDq1EQOrj/3tnin5PuFYON2XcaZ+V9K/gBlrIEhJu6s53p9NAB+cSAM1ooioOWLbgi14s7PcE42Z+vu31f3ZGcxI6WxZFckxAqML3RGXXzXt2LmkVA8kiOrb1dFcGc6wOLpn2X2/KE5i8F/MngSqsd2DT08+oLRI6Ak2HM0uDERvbpifvIPzRq+UQYQuVhWf/ZmlQtBAYdMJg7s9tAbPx4SvhuaoIv6J9HOW68nHxXdOgoIzJX7/R3MqE0bo4zzNszoYq6WT5QfLfPAZ3+cChrKKYIHYfA==;9wYu8AVmUgI81lahZ6OKBg=="
 ---

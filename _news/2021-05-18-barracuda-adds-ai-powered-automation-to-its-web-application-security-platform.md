@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-auto
 webUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: SiliconANGLE
@@ -26,33 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Vatican sets up Artificial Intelligence foundation"
-    excerpt: "The Vatican has set up an Artificial Intelligence foundation, sources said Tuesday. Pope Francis instituted the new body acting on a request from t"
-    publishedDateTime: 2021-05-18T10:39:00Z
-    webUrl: "https://www.ansa.it/english/news/2021/05/18/vatican-sets-up-ai-foundation_1da025ab-a968-47ee-8e9f-4051c926ce36.html"
+  - title: "Google adds AI-powered app personalization, other improvements to Firebase"
+    excerpt: "At its I/O 2021 developer conference, Google rolled out a range of improvements to its Firebase app development platform."
+    publishedDateTime: 2021-05-18T19:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/"
     type: article
     provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://www.ansa.it/webimages/img_700/2021/5/18/51d1f4c2378feeb0ae1fbea52f1013a7.jpg"
-        width: 700
-        height: 467
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Barracuda launches Cloud Application Protection 2.0 to defend web apps from evolving attack vectors"
-    excerpt: "Client-Side Protection automatically creates and deploys protections against website skimming and supply chain attacks such"
-    publishedDateTime: 2021-05-18T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/barracuda-launches-cloud-application-protection-2-0-to-defend-web-apps-from-evolving-attack-vectors-301293144.html"
+  - title: "ModelOp Named in the \"Where Are They Now\" Section of Gartner's \"Cool Vendors in Enterprise AI Operationalization and Engineering 2021\" Report"
+    excerpt: "ModelOp, the pioneer of ModelOps software for enterprises, has been named in the \"Where are They Now?\" section of Gartner \"Cool Vendors in AI"
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modelop-named-in-the-where-are-they-now-section-of-gartners-cool-vendors-in-enterprise/article_b7e363d5-03aa-5c5f-9f7b-6f6cd4a13086.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 10
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
     images:
-      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "IvVdoeCkGv8Y3rEL4aOhIGhXByIMHUDlMOPJVsmCS96va6UCgm0ToJTpXWHzOPhbaMYazRTivl6QxETYWIeXRyR/uT3zlJ/4oozea9H69VedmosmFmZcmV8hAx+qcEghb3oFx4zgPJ5+Xs88gI+ScK0Nm8S0V+zcpBINqzNdFv7jzNnu9Y8fB1HpJKSVc/15fExpEsC+kwsbq9pYPYu63J8hl7hwXswlCxvzPCjYXLG8TZLgNrXRPSZE7gR6kO07HWSOPLt2awhx5RqE5JXE5qhxgFhw2n9zM+pfx+OYEDPLMad6JJU7HLHC4Sj8EyXhHwyuXst7+Gg5xq80sIOGZM+x0i+vlU6nS23y3Ge30N+zI8DBfJot1VLEW3IWoM5EfZOw8NWvvwIz/JF0z2Vk8h3swpfgnU8qOecjq2C4O+4nO/LrBHp4TwLzoORmbe6cmFxpHG7Rdw3gKZC7d2iBi9XfsfMyo1yNZH/zyujIUBHkZmgyqQhV0jAxyNDXrICeTl3VfygkybHY+qFG3H+l8A==;smAJsoxQVHMPlSE809/9IQ=="

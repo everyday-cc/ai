@@ -160,50 +160,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-18-barracuda-adds-ai-powered-automation-to-its-web-application-security-platform.md",
-      "title": "Barracuda adds AI-powered automation to its web application security platform",
-      "excerpt": "Barracuda is a major maker of cybersecurity software and appliances. The company traded on the Nasdaq until 2017, when it was acquired by private equity firm Thoma Bravo in a $1.6 billion deal. Barracuda’s Cloud Application Protection platform blocks malicious traffic to websites and software-as-a-service applications,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/",
-      "originalUrl": "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/barracuda.png",
-          "width": 739,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-05-16-credly-and-degreed-partner-and-both-employers-and-employees-can-benefit.md",
       "title": "Credly And Degreed Partner, And Both Employers And Employees Can Benefit",
       "excerpt": "Employers get more information, and employees can show their full range of talents, through a new Talent Management collaboration.",
@@ -308,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1402,6 +1358,49 @@
       "provider": {
         "name": "Enterprise Networking Planet",
         "domain": "enterprisenetworkingplanet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-curiosity-powers-sas-biggest-brand-move-in-20-years.md",
+      "title": "Curiosity powers SAS’ biggest brand move in 20 years",
+      "excerpt": "Curiosity is transformative. It enables humans to ask bold questions and sparks innovation. Curiosity is also the heartbeat driving SAS’ new brand campaign, ” Curiosity Forever.” The company unveiled the multi-year campaign designed to reintroduce SAS as the world’s analytics leader in advance of its popular AI and analytics conference,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-technology-c9dd827918d41c8f644a8296542726e8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-technology-c9dd827918d41c8f644a8296542726e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
