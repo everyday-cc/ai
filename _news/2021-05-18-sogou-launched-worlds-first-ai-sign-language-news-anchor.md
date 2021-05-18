@@ -1,28 +1,33 @@
 ---
 category: news
 title: "Sogou Launched World's First AI Sign Language News Anchor"
-excerpt: "Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first"
-publishedDateTime: 2021-05-18T05:06:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launched-worlds-first-ai-sign-language-news-anchor/article_930a7a1c-bf7e-57d4-b8d0-ef539c803a1d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launched-worlds-first-ai-sign-language-news-anchor/article_930a7a1c-bf7e-57d4-b8d0-ef539c803a1d.html"
+excerpt: "Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of"
+publishedDateTime: 2021-05-18T05:26:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sogou-launched-world-s-first-ai-sign-language-news-anchor-1030439358"
+webUrl: "https://markets.businessinsider.com/news/stocks/sogou-launched-world-s-first-ai-sign-language-news-anchor-1030439358"
 type: article
-quality: 37
-heat: 37
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/fa/9fad2d92-e059-5f5b-9426-8a101096bed6/60a34d763b73c.image.jpg?resize=983%2C549"
-    width: 983
-    height: 549
+  - url: "https://mma.prnewswire.com/media/1512449/Xiao_Cong__the_world_s_first_AI_sign_language_news_anchor.jpg"
+    width: 400
+    height: 223
     isCached: true
 
-secured: "Kbla0ZyCnmbvW551cgpETCvp5r5STBUMCttD23xFJfSiU3HOoPC+5J9SetdjekQG0tvwx1viRmsnWKIH6qd+X7EGOGCP0bshHDqHUWGU8qbpPvI6V3Sd3PWCM8q+y1mU2iK4ewNoozsvWlCSqIXJ7RUnexVj24Hyi52NzP0nDzwhJGkYzqxqOEzwyuaB03FSPHGH1PiusvRLHEUMaWqduSVZ4RJdqlGsYCOnZkhhlA2kqt9LjjLVNrC/Ii9yrECBcU2x6N56acQH07sC/vyE5QadbKD5wkXVqlSAysZpUDpjHhoTKgp5I01TiOZVN8p6u/ePj+pBe/5jsKrsZVJDxp6/l/4TIsT+uqj+1WexOko=;5ocvWiAhA8+Ms4KP2C+rIw=="
+secured: "gPakP6nAdJgkySfRaTbiIJ22nLO31DoQNV6BXJ8ES8J9mIobDwEecna2qpf0vygg5a5Qff7fraUVMJSzd/xXaQjNUDAEHmk/nQJp03POIo5dH9jpXGmeMA1F7g8JpMYvpTbItBGK9ABcTUS3LxLx2h3Q9mfYBBOnV+t9+DWDLEsS7OFDTV2mxfaecBYMz3OBaV6iG/gtf6QUk4FPmfBXhWwc5G9iTsMNsBtEETFIorzVln2OTPuKn+r5L9lpwCNwdwEQa2LG8Ahit0rHtx8Frs6p8gry6lY6c4OczpUhSivVnX3cOUczKvkFGJXWJQHBLhKNbMr2HWU7/tXMb3c5QlMH5s2GjSWbaH+hQZHVENg=;1kGJhCnGERQ31orXsaKXYA=="
 ---
 

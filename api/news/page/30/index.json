@@ -2,6 +2,153 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-22-to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives.md",
+      "title": "To ensure inclusivity, the Biden administration must double down on AI development initiatives",
+      "excerpt": "The Biden administration must clarify current laws pertaining to AI and machine learning models — how we will evaluate use by private actors and how we will govern AI usage within our systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/",
+      "originalUrl": "https://techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-848691518.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/amp/",
+      "publishedDateTime": "2021-04-22T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-artificial-intelligence-in-security-market-size-to-surpass-us-8129-million-by-2026.md",
+      "title": "Artificial Intelligence in Security Market Size to Surpass US$ 8129 million By 2026",
+      "excerpt": "The global Artificial Intelligence in Security Market size is estimated to be USD 8129.1 million in 2026 from USD 4295.7 million in 2020. The global Artificial Intelligence in Security market size is expected to grow at a CAGR of 17.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-to-surpass-us-8129-million-by-2026-2021-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-to-surpass-us-8129-million-by-2026-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-farmers-have-more-mouths-to-feed-bring-in-the-robots.md",
+      "title": "Farmers have more mouths to feed. Bring in the robots.",
+      "excerpt": "Start-ups like Bear Flag Robotics are working to bring computer vision to tried-and-true tractors already on the market. It all contributes to what’s known as precision agriculture, where farmers use less to grow more or adopt new gadgets to increase crop production while cutting down on waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXQEMP7UVVCVVBOVZUJUYKZMIM.jpg&w=1440",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/?outputType=amp",
+      "publishedDateTime": "2021-04-22T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-dj-amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1.md",
       "title": "DJ Amazon, Facebook keep up their sizable spending on Washington lobbying during Q1",
       "excerpt": "Facebook Inc. continued to lead the so-called FAANG companies in spending on Washington lobbying during this year's first quarter with outlays of $4.80 million and $4.79 million, respectively, according to disclosures filed Tuesday.",
@@ -1006,144 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028.md",
-      "title": "Artificial Intelligence (AI) & advanced Machine Learning (ML) Market Size, Share, Development Analysis, Progression Status by 2028",
-      "excerpt": "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2% in 2028, according to latest analysis by Emergen Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-googles-ethical-ai-researchers-complained-of-harassment-long-before-timnit-gebrus-firing.md",
-      "title": "Google’s ethical AI researchers complained of harassment long before Timnit Gebru’s firing",
-      "excerpt": "Google’s AI leadership came under fire in December when star ethics researcher Timnit Gebru was abruptly fired while working on a paper about the dangers of large language models. Now, new reporting from Bloomberg suggests the turmoil began long before ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "originalUrl": "https://www.theverge.com/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/er7Z_BUY-rEkcsBugDH4nvLILXE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69165744/acastro_191014_1777_google_pixel_0005.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "publishedDateTime": "2021-04-21T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.md",
-      "title": "Birmingham artificial intelligence tech firm secures $10 million in funding",
-      "excerpt": "A Birmingham startup has secured $10 million in funding for its content generation business. Copysmith announced the investment through a partnership with Harmony Ventures Labs, and funds advised by PSG Equity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
-      "originalUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

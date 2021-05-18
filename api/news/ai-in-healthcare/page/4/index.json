@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-06-artificial-intelligence-enhances-preventive-care-telehealth.md",
+      "title": "Artificial Intelligence Enhances Preventive Care, Telehealth",
+      "excerpt": "Researchers are leveraging artificial intelligence to enhance preventive care services and telehealth practices.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhances-preventive-care-telehealth",
+      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhances-preventive-care-telehealth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M",
       "excerpt": "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ...",
@@ -1173,49 +1217,6 @@
       "provider": {
         "name": "idw",
         "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-artificial-intelligence-boosts-alzheimers-disease-classification.md",
-      "title": "Artificial Intelligence Boosts Alzheimer’s Disease Classification",
-      "excerpt": "An artificial intelligence framework could help providers classify Alzheimer's disease with enhanced accuracy, potentially leading to earlier treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification",
-      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

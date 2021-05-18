@@ -33,15 +33,6 @@ related:
         width: 273
         height: 354
         isCached: true
-  - title: "AI Exposure with ‘ENTR’: Analyzing Alphabet, NVIDIA, and More"
-    excerpt: "ERShares’s flagship fund, the ERShares Entrepreneurs ETF (ENTR), offers exposure to a range of disruptive technology sectors—including robotics and AI. With its emphasis on high growth companies driven by strong leaders,"
-    publishedDateTime: 2021-05-13T16:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-exposure-with-entr%3A-analyzing-alphabet-nvidia-and-more-2021-05-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 53
 
 secured: "7BHS1b6sVoF+/rqyv0qHQy6Fb+LiKbtil6VobTEIUWag9xATV+rTkow1szzYEJdwEW3LS0KznXx2sE9J1h4khGJXpK2G3CE3uLWRwGUUCRuN0CfEgaUGgtccft1OlEMpc264Aj5LdHVy3+dsVJXYc0C4yaT0Tsrd1sXxZqzP84u7HtCKuGdLU+bQSPN5QfPvAr9xWIqda5z1AccAsyP+jnpItkYjKmHDEbliOH0MT57pq8gYKhT8rcMD28CJFBpG3XhwlKr/jQNUgYCaoDvX8TFWj3RucwsQhY5NOYHUwO09+z48bqEchoWEvRpMoBco4ORtoG58QbNWJFy5lemJIIAlbF0TQLF5zIuy0QfGd/Q=;njbT08OgJG06SDsuzefGeQ=="
 ---

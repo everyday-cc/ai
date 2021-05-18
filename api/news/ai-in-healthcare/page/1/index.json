@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-17-ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community.md",
+      "title": "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community",
+      "excerpt": "This valuable tool enables the international scientific community to share radiological and clinical data and find innovative solutions to combat the disease. The AIforCOVID Imaging Archive, which is available,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-vitti-ai-invites-applications-for-webinar-on-role-of-artificial-intelligence-in-tackling-covid-19.md",
       "title": "Vitti AI Invites Applications for Webinar on Role of Artificial Intelligence in Tackling COVID-19",
       "excerpt": "Vitti AI has invited registrations for a webinar on Role of Artificial Intelligence in Tackling COVID-19 to be held on 16 May at 6 pm IST",
@@ -1306,58 +1358,6 @@
         "name": "Neuroscience News",
         "domain": "neurosciencenews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025.md",
-      "title": "At 36% CAGR, Artificial Intelligence (AI) Market Size and Forecasts Research Report up to 2025",
-      "excerpt": "Market Forecast Report provides details analysis of Artificial Intelligence (AI) industry which will accelerate your business. Artificial Intelligence (AI) market report covers the current state of business and the growth prospects of the worldwide Artificial Intelligence (AI) Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

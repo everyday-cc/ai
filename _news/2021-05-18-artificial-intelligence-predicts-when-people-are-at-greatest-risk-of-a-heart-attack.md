@@ -2,17 +2,17 @@
 category: news
 title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
 excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
-publishedDateTime: 2021-05-18T06:59:00Z
-originalUrl: "https://www.coventrytelegraph.net/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
-webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+publishedDateTime: 2021-05-18T07:30:00Z
+originalUrl: "https://www.getreading.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+webUrl: "https://www.getreading.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Coventry Telegraph
-  domain: coventrytelegraph.net
+  name: Get Reading
+  domain: getreading.co.uk
 
 topics:
   - AI
@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Machine learning accurately predicts cardiac arrest risk"
+    excerpt: "Model combines timing and weather data Risk highest on Sundays, Mondays, public holidays, and when temperature drops Potential for use as early"
+    publishedDateTime: 2021-05-18T08:10:00Z
+    webUrl: "https://www.miragenews.com/machine-learning-accurately-predicts-cardiac-561961/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
   - title: "Artificial intelligence predicts when people are at greatest risk of heart attack"
     excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
     publishedDateTime: 2021-05-18T05:54:00Z
@@ -63,6 +77,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AndpydUaryFp6QLzQRSa84LXRe1LDACwzQ04ExLxcZopJ9gb/EM4Uq3hDgiMtC09ONFJponyZaq0zF4exVXLYiXegRD0852/+ZIzmQbvdJTU10TctwMnTGW6dRcneBw8H6EIra+pQqUsiv+DehbxbQBHsAV0a8ks01OnfGT6K9Fn6xpqV4qPMrpmDC/631h+RopMbMuNdqg+ve5cdByn5ts5H+oYcP86hUe0XpqU8z03Ds+HGthON9QSL5rBCkpVOhXIIBi6wZoSbg+dN8ZyiKav8GVOk05qpwob0mHeBqrRAHsN3koFhCPE2iCLD0D5C6LTkPgAKUaOh8FvmHfelFYfr9dfsHZ3X7FNo5zGuB1Qx4JXOCA4yO1uNAhtxFHunFwt23V+kwJb1YxB68w4KXHsPtGFf4Ur/zxL4vJNQUpaoDrZAgAghFNSfxSz3km1Vn1vFvDXu1rMFuKFIAI/5DGMT6uWz0SJ7kktViXHjzSt4ufOd15IKhpZ0l0J2p7O6ozTH9m0rWjmDhsVjjjSdw==;ti3oIOOB5qkwI2G4M6r6YA=="
+secured: "5QJ/pJ46AodbDUZcpHgNG/UpHDsxUg0dzFWz2U1B2gLPcUQFVslAhtOuKLFlA+VR2QqPSwqKSSB4jQjdZsevFmAhk+Xi9vb4Daos53tc9k7bS8ARvYk3wjrIcBAR1aXt00Npf/0ZdU5wihNMqf33fHG2+6d3s0JwZP/QPLsdfM0LMlS27aPfPwxh3WbHnsXjxjAEjBLVW98UEWS8jnQHs6IE5h2kSmAvUGnP/LImaYJuLrQ00zhU/FKWVG8Q8GpngljYPx7t+l9WUB6ONsNIPcdWpWZEh1rgKD1d06QGZA+6P7Wm5QekQVsmF/c3Gyxa/GH+64MKSf33ye31qbcfiPqRYXASBMKYxQLiXL8F/zQ+H8SQ3htdT0PKHHfIzPtt7mqLvFHOpCXJmBA/eVFc7xlDTFwDJt/L/T10E69u1r9GHwdTI6nBWTV+jlPhMS0jdnE3aRMVxxGd7Koj3GIzJfh/dhyponoiC87+SvCvztbpsPS9HVVkrSu347T0SiE9h84eVrEqIcEkJHeOApSPZg==;XmTBpBAuYpHzf+f5+Z9QcQ=="
 ---
 

@@ -340,6 +340,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-07-can-federated-learning-save-the-world.md",
+      "title": "Can federated learning save the world?",
+      "excerpt": "Training the artificial intelligence models that underpin web search engines, power smart assistants and enable driverless cars, consumes megawatts of energy and generates worrying carbon dioxide emissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoc-cfl050721.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoc-cfl050721.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-ibms-new-2-nm-chips-have-transistors-smaller-than-a-strand-of-dna.md",
       "title": "IBM's new 2-nm chips have transistors smaller than a strand of DNA",
       "excerpt": "In a shining example of the inexorable march of technology, IBM has unveiled new semiconductor chips with the smallest transistors ever made. The new 2-nanometer (nm) tech allows the company to cram a staggering 50 billion transistors onto a chip the size of a fingernail.",
@@ -1136,49 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-king-county-council-puts-off-vote-on-proposal-to-ban-facial-recognition-technology.md",
-      "title": "King County Council puts off vote on proposal to ban facial recognition technology",
-      "excerpt": "After a divisive hearing, the King County Council decided not to vote on a proposal to ban government use of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
-      "originalUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2021/04/Untitled-design-81.jpg",
-          "width": 620,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
-      "publishedDateTime": "2021-05-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

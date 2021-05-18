@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -104,7 +104,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -414,7 +414,7 @@
       "originalUrl": "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -896,6 +896,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-17-ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community.md",
+      "title": "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community",
+      "excerpt": "This valuable tool enables the international scientific community to share radiological and clinical data and find innovative solutions to combat the disease. The AIforCOVID Imaging Archive, which is available,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-ai-driven-etf-grabbed-up-shares-of-tesla-this-month.md",
       "title": "AI-driven ETF grabbed up shares of Tesla this month",
       "excerpt": "An exchange-traded fund managed by artificial intelligence has bought a large number of Tesla Inc (NASDAQ:TSLA) shares. What makes the purchase especially significant is the AI’s previous track record in predicting movements in the automaker’s stock.",
@@ -956,7 +1008,7 @@
       "originalUrl": "https://thenextweb.com/news/watch-gta-v-ai-photorealistic-graphics-intel-convolutiona-network",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -987,48 +1039,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-using-ai-to-take-the-bad-emotions-out-of-trading.md",
-      "title": "Using AI to Take the Bad Emotions Out of Trading",
-      "excerpt": "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/05/21152396/using-ai-to-take-the-bad-emotions-out-of-trading",
-      "originalUrl": "https://www.benzinga.com/news/21/05/21152396/using-ai-to-take-the-bad-emotions-out-of-trading",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/vantage.png",
-          "width": 680,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21152396",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21152396",
-      "publishedDateTime": "2021-05-17T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minute
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fears of Vaccine Exclusion as India Uses Digital ID, Facial Recognition"
-    excerpt: "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centers."
-    publishedDateTime: 2021-05-13T16:37:00Z
-    webUrl: "https://www.linktv.org/covid-19/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition"
-    type: article
-    provider:
-      name: Link TV
-      domain: linktv.org
-    quality: 39
-    images:
-      - url: "https://kcet.brightspotcdn.com/dims4/default/f52f46e/2147483647/strip/true/crop/1230x646+0+87/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2F49%2Ffa%2Faaad4a2f4099994b4db269146365%2Frtxb6owt-layout-comp.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Focus tightens on facial recognition"
     excerpt: "In April 2019, Guo paid 1,360 yuan ($211) for a VIP pass to the park and agreed to use fingerprint recognition to enter the venue under the contract. A short time later, he received the message requiring him to provide facial information for the venue's upgraded entry system."
     publishedDateTime: 2021-05-17T23:48:00Z

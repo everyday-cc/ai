@@ -85,15 +85,6 @@ related:
         width: 688
         height: 400
         isCached: true
-  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-    excerpt: "\"Infosys is proud to have worked alongside RXR Realty and Microsoft to create and deploy an intelligent, secure, cloud enabled scalable solution in just a few months that will empower the safe return to work,"
-    publishedDateTime: 2021-05-13T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "ZC6aI1Pt2ORmqT476nJ/uy0rv6yo4DwPJQZ8Zv7Y5yuyi0ZUAC44mL1U6SPTxBs+xoF7k7KtICb4oJuLgOwZ1Pw2p3EfUPz2GKf1XscekMeFnckz10Hk6FmWjn3hathr0F5d7g20WrbZWfFbdxHX7z/y2ktk5D4UnNu/mWdnG8MDDZuQD0mfxvcRMbMFtFkwqxdkKN4Me9mzvJBE6vHZJJnZ2XRuJjDzkF9C63Zd0R30nIjE/f1dAdcvGN4dEvax5frdh14q5mTHmnIje/rYn1zn+XkRN7dQX8tnpt1OarEU6ueySVjtlphjpHMdFzCre/yBquGDZzNL8STqCao/OLEe23lgYcVlZExXnkqIvrPqOFRYeRdFXYmsjXLXf5MyGM7VjSnnBWgU/rGgV4/b3ba5kQRe2aO427wfd2fHB+8XkOFwZaHMPo4OT+Q7coUhJlarfjX0hzwl7RoIIrg31cEEHm7IVjQ2sfAPMQal11nWEgBesqHFN3To1gXRfOKlFBI0ue9LCyK6g0a5mgj1Gw==;aAK7O5MeJ7rbXR71V5TrVQ=="
 ---

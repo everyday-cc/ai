@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Machine learning accurately predicts cardiac arrest risk"
+    excerpt: "Model combines timing and weather data Risk highest on Sundays, Mondays, public holidays, and when temperature drops Potential for use as early"
+    publishedDateTime: 2021-05-18T08:10:00Z
+    webUrl: "https://www.miragenews.com/machine-learning-accurately-predicts-cardiac-561961/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
   - title: "Artificial intelligence predicts when people are at greatest risk of heart attack"
     excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
     publishedDateTime: 2021-05-18T05:54:00Z
@@ -57,14 +71,14 @@ related:
         isCached: true
   - title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
     excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
-    publishedDateTime: 2021-05-18T06:59:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+    publishedDateTime: 2021-05-18T07:30:00Z
+    webUrl: "https://www.getreading.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
     type: article
     provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
+      name: Get Reading
+      domain: getreading.co.uk
     quality: 11
 
-secured: "Hum9CC257Tu6jqVjmqRKEueWa3+qYwTN4ZIByZLc20eZNhynqOqRS67Ykj6j4g7omZh2yZkJ6eJxdHKVZY+grbM1nwdGcnnm3ppsuLEkuivvj1qwiCnQEccL8aUr2JwtTECTvQx7aLF6RVCgpMGT+7Ck0h/7csvmaWw5yXSy1IVw50Z/80UI9ZuPrqDG1PIdzzfIFOPfNOHBSdfoqe1bjmY6mWCDi8gBV3sQl3/A2NW1PCl/PsVNz++dAPrOmnvy5+YUasszEiGEVWpKjxgTy076iQvPbkA92yaVeOEAa4frHPNZV5gRHB0iKtuslH5qsar50uzxLhYBW7Fwncf+K7lx7xZHGB4JdK5vMVmKmkA=;vDm9jNHoPOebNUUM0DioYQ=="
+secured: "gQd9cbX+i6aKNsvF8R7Dclo1aFwkYOOqz6pOR01EBSy13yU1ZP8gTdHf1QLS/W4u0bLQNNk0LSJttO6B1VUE6He/PO1b0//M2RWIOOG90SyGnnye4Xy5GoW9/NeLR/w6G9/nTkITLQckXR0SR/HCYlmOKjxfRzzU5CqxGlC0rgZSWgXmbniQIYDtbBO01Qp5UxO/FHGuCVzrD4nWrHnxVKuemJrYQXGrbis9krpWjpdG01vOHtdh11V4Erd9GcbMfXEHwm6iGOcjnpTicElitsCvwhnUn7HRcsxWhEV1IZ9UmSmz/e0KrW2dp0mDhAxsXdr/2fE4vpzUGNptwxateF+svZQI9M7J5JbRNl0NtMntePrsSYDVUYIDL/4KYxPyqWmWRkrXPaBuhqQERgOT6E0/sH4jiLOiwC9/Mu78Ekmhc8k5K0E01d1LAOdNnF1rrDxLfbllurUrHspX46NomfIQtwYfoyRk1nxEbYJzFeEkVXBzCMQrVmB3L0rxe2tonFG+/qt6bupZ4/tj74mWcA==;+577+CUfhmzlbK8/S/A+9g=="
 ---
 

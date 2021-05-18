@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-03-03-from-perceptrons-to-deep-learning.md",
-      "title": "From perceptrons to deep learning",
-      "excerpt": "Have you ever wondered if it's possible to learn all there is to know about machine learning and deep learning from a book? Machine Learning--A Journey to Deep Learning, with Exercises and Answers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ws-fpt030321.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ws-fpt030321.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/258100_web.jpg",
-          "width": 252,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-tensorflow-3d-deep-learning-for-autonomous-cars-3d-perception.md",
       "title": "TensorFlow 3D: Deep Learning for Autonomous Cars’ 3D Perception",
       "excerpt": "Google has released TensorFlow 3D, a library that adds 3D deep-learning capabilities to the TensorFlow machine-learning framework.The new library brings tools and resources that allow researchers ...",

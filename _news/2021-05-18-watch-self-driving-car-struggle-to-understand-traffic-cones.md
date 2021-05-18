@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Watch self-driving car struggle to understand traffic cones"
-excerpt: "Keep it Clean. Please avoid obscene, vulgar, lewd, racist or sexually-oriented language. PLEASE TURN OFF YOUR CAPS LOCK. Don't Threaten. Threats of harming another person will not be tolerated. Be ..."
-publishedDateTime: 2021-05-18T04:11:00Z
-originalUrl: "https://azdailysun.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_ecae39a3-ba1e-564e-b945-af7ed786dfbc.html"
-webUrl: "https://azdailysun.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_ecae39a3-ba1e-564e-b945-af7ed786dfbc.html"
-ampWebUrl: "https://azdailysun.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_ecae39a3-ba1e-564e-b945-af7ed786dfbc.amp.html"
-cdnAmpWebUrl: "https://azdailysun-com.cdn.ampproject.org/c/s/azdailysun.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_ecae39a3-ba1e-564e-b945-af7ed786dfbc.amp.html"
+excerpt: "An autonomous Waymo car carrying a passenger got confused when it encountered construction cones and unexpectedly drove off when the roadside support arrived."
+publishedDateTime: 2021-05-18T00:36:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.html"
+webUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.html"
+ampWebUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Sun
-  domain: azdailysun.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
@@ -36,6 +36,6 @@ related:
         height: 427
         isCached: true
 
-secured: "O92u1qFrUIscin0WooqD76mmBlsCBsz5oLph18vSwhpyleN+OM4RG8dzfVmluVNfgOGEyoaKh3EiyUPeS0y2+mUYZmbvtJV1xZihXKjmGggj7No0W3v7vXS7KKTcMbiV0bEHTJNd0n4A0GkRIGZeSg4nOxjgQW2wXtWcIGP008UtWWChzPop9zf9Gok19ZtF+uymLMFIntTyijrOOctK5uDfJSHWKUImWL+sWI0Dm5J1Y93+M1rM4qNwbgV80Nm90R4WUmYlgcTjLQ9wP/0Jklkvx0fMOzP9W73rOiWAL4Kl0ShXYNz5raxb3MNQNKWJj9VsiZfp8ZGVrOimXGT8QOLGMpdaQM7LmrnXePOzOLS1ia766V5OCWr7fzHlrRNk6fQFpHe1t5F7rAJsJNlPxefRXTNBOdiZqwqiB9qprewSdAodtUrtPIc6KPjeQDPkJ0ThpasIcI6q1FIGz4WKwHKr6Tt0RN+9zptf+r+3ZhR61JOTP3vMu9spNL/Wma3UGmShcS+hR+65TK1V+HRoXg==;xyJjTuoFiZLOGesiomyDYA=="
+secured: "PfEaMyjw0kos/ck47YM/tNnvs/P5fg8JrGGmVKrAYDx146Xvz+AiiLzqxPpHylXWDNm+iiaGIxAxWxbnlOlZC2Kb2iNIrrNcYxZV53LWBe4UuvATtaJYTrPKS5A3y7IxZffrm7KFrqQ+OOF8K8ZGSxVABJhLXVne68nYnWiENLQPzTl6j8Lz8Zwf9/hAi9kzQfWUwlqT3NPKHWbHneb2mNFmpPS03c+PL9rF6XJ7efPf4pOmp9JEQqatbeRDxcEWCE8Q1uM7ads0gsz551m63WMPLhXldke67/HRP040SH7zF2dYld15bRLF+8+7VfvokKDioWOKAlknpLKyi2BC9/6wsc0XAyWZYoSZR3vQAaMP04VF7JIc9KKAe60nhIbxSQnE1f/orh2y7yE1ZzFCwnld0CN2/radG9pq+spZ6uY3L0w56glqv0CGYY7kUj34rqa+zqZ83AsLCmtgd/R5RRLBUIEfUh4dbG7EMjJIDVDfR73z1MYRWwDFWLpsn3emQysou1+LGF1QJwkmuiS6ug==;p038w9h8fI+1m13Yi+Wepg=="
 ---
 

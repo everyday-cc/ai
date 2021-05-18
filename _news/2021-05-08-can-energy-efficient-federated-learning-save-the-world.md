@@ -5,6 +5,8 @@ excerpt: "Training the artificial intelligence models that underpin web search e
 publishedDateTime: 2021-05-07T17:03:00Z
 originalUrl: "https://techxplore.com/news/2021-05-energy-efficient-federated-world.html"
 webUrl: "https://techxplore.com/news/2021-05-energy-efficient-federated-world.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-energy-efficient-federated-world.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-energy-efficient-federated-world.amp"
 type: article
 quality: 24
 heat: -1
@@ -17,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/6-ai.jpg"
@@ -42,6 +45,6 @@ related:
         height: 424
         isCached: true
 
-secured: "K9qBQFUAn8knWvyeqD8D+taGExh0WIWAQQnzLUkayBJeSpH8n1/J5fHMIqgNoyVXLjQpIm2x+iDQ6GPgvp3V4g8yX1WhvdF7K+POXuqzICLx/PlooW+TdgaAeADSYwlG0ImVkuM2Vsa8y4CBA5oCVo8R8JptW/I64h9jcOKzwoKDHxNpcmlCDMe7p3PDiiL8w2CcYDcSp6wmrNHiAMer4a0WIINimvp/L82axxGRlGqEuA2mFTtF/7lDvJMd5vD02QQ9HiiyV2uDOGudHY48x7t49OrrglK9eafuBh3MP5SmgvR1ePJutsNRWaSCqHkMdzdUrZH2Zd2Ud8qekoJ9fpQeeQ/CcvvDge2DUkjwHzA=;ZjPLfglyrhoi2og7ZZTBPQ=="
+secured: "MIDV9nQyOC1B7DG1wgQdyp+1Ss2X0yTApssHEJLzuLtKyPvDPDNP2A60id4Ji8qYa1c/vJ3qVDOAJx+e/BKNqLfzddFhKshaP66mGkdZ4bozweoNNa0XygnnTWuIW0eZN39U1TdFx3tzxzZ/Gg1ajQN3WA2qpxZrT+J/cpaGKr9iRGB56NNZbFXuQdXkQZAkgR3Utl7sFaHMa8Yfcf2BtE6/EnPoc5kZQew3YSSQjeaIib7cDZiRDNTR9wsmO5SGVYvpcuQUh4R+/MYLZASaJWMoIgGr213L2n/plSsi3c8bZc6eRp41B6exBNbS9fk4CB4UlLDjR9qeoz4XMoatiL8JfrduzqgCM7mEIx91mWGji8JlTO6phONDD3B11Hbl1mD436WBnyAdtOLWiPz4unL80Gon+UVKKdElF5xLq35SWPs0nnJPN3AMLt+Frne0pmQbxbwiPtwZYuCm8irWhdtvB/bx9EAVa4RPyxc/lJEwkxfTkpglnPDvjPI5N2MRkVsE7W4GjvzC94+06DCP9g==;qfuwJW+hzIyrTVb9VwduOw=="
 ---
 

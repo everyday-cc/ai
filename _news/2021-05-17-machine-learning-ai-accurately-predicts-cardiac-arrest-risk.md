@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1285
         isCached: true
+  - title: "Machine learning accurately predicts cardiac arrest risk"
+    excerpt: "Model combines timing and weather data Risk highest on Sundays, Mondays, public holidays, and when temperature drops Potential for use as early"
+    publishedDateTime: 2021-05-18T08:10:00Z
+    webUrl: "https://www.miragenews.com/machine-learning-accurately-predicts-cardiac-561961/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
   - title: "Artificial intelligence predicts when people are at greatest risk of heart attack"
     excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
     publishedDateTime: 2021-05-18T05:54:00Z
@@ -57,12 +71,12 @@ related:
         isCached: true
   - title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
     excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
-    publishedDateTime: 2021-05-18T06:59:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+    publishedDateTime: 2021-05-18T07:30:00Z
+    webUrl: "https://www.getreading.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
     type: article
     provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
+      name: Get Reading
+      domain: getreading.co.uk
     quality: 11
 
 secured: "oDoCDuq8HyZtceD/ffjl1qrrky+a83iPQhBvw2/2GMqiF/iVsKe+vfDNjtFGhPQ0YunFhoYwaPb7kLG11J7NpXcCW0/p3iIZY7hJpnMNfBwcYwYkQOJ6YLftfBTZdEjJy+lvgTbpcDhrqucBpcwGi63lZ+uDUVsbsPvnUrJVcsl/QN4NAuxwiNAUWtK3nR57x7lvNN3kkfHfEK+s85JjdjcjgD+x5sVoRBWpleOjJR/TLWJz0xmrbtjswdCHebr3FfT3pIlGSSGjwKXYAxppzrPKf3By3yU4vosVH0371Z4+Qw2MWBOVHcclz06MVwtWxr52CvPQbWEtZ2KIt6fAb+zV5kMlsgTblVkxPkIJ8Pw=;yq3O8/4GxWdIKFEwgHUDKQ=="

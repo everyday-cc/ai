@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-    excerpt: "\"Infosys is proud to have worked alongside RXR Realty and Microsoft to create and deploy an intelligent, secure, cloud enabled scalable solution in just a few months that will empower the safe return to work,"
-    publishedDateTime: 2021-05-13T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210513ln75849/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "aCr7EIwKSHLKut1NckPRUj72zoj//1+8XY0fI5zWiLo9hd8ODyFcr17DacwC0jPqO+KMyUI6SNeLnNczRaNb1+qnosuGvi6+/91H13bdVoswAgQvEwntyWXcG7rXwMhDkNgnxUhBKj7Vx21W0RKOGKDN77sURxQwhu0psca5lHrHw9von5pHUG+o5MPnsB4RFQxzMIom8wK8qU26st+NfuDnTnrsZVyGqj8sqZUHuJoGJm9sHonCVvSUbYdLgPVPwafiAHVvVeviWDlIL9IG/rU6nzFGLNtXsQy1Gk/c/VTX9Ku5YLx5tXQEYlCR+bDxRrqAPKkL/bToqZWL/GyJA4YyETrZe97RGXRjFzilSVO6IqXVn69ai2zxEbW7GrBeZxJWO6yKro3/7S4NKgohnB/dllrVCefSb8KSulDvS/pOenE7ZRNM/CF48HfJjT+igJaTz1SfasngV7HxoP1UYqNTlfqSrfVvgIfYPJEb1GSgp719+lTOpkkwSFdSYTG1mD1lDV9PwkYE9gzLAbhuNg==;FqDaamJVARxT/HasAJ08FQ=="
 ---

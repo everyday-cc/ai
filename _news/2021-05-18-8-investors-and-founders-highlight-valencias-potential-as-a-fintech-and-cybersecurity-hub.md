@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
+    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
+    publishedDateTime: 2021-05-18T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/stellar-cyber-cited-as-cybersecurity-startup-of-the-year/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 2
 
 secured: "H49+fqOb4Rn53Rp8lpMeX8zuTQGqSZacRZf8TjvTbjxd50jq+OAHv0wGOZsPHjGGvUA7m6kmYbIgDTNUdjyi+ildTNG7Pcq4uZYr1ipvJzp4OrnQmsPMhkycY1t8zbMMzyZBaBedAXa25PeEaNpWNXE3XAY6hJmjDmoM1fnG59TH51t6t47bPlQ3LHfshUZPTOBNjlDXAfIEdTPt49nruIyHq3i95KZAPUejNzNN21DW8Z62v45v9uj+mfnzLSls2eQlzuWB1oF5bCZ/0SOKRBSB0lib5W4x1Qw80ev7be01k67hq/dYyAIFyPZ3dfvDQsfXDBeyo7cFx0Ju9FdSwsEjAYEk4Uop7riCAMn42Ok=;92HG+gel0xmC0RyXAP2Kpg=="
 ---

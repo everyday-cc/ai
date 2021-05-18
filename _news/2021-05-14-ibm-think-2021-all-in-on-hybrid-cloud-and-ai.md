@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Uli-Homann-IBM-Think-2021-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "IBM Think 2021 Conference: Innovations in Hybrid Cloud and Artificial Intelligence"
+    excerpt: "At IBM’s Think conference, the firm announced its advances in artificial intelligence. Hybrid cloud and quantum computing were also highlighted. The objective of these innovations is to help IBM’s clients and partners accelerate their digital transformation or improve their strategy."
+    publishedDateTime: 2021-05-18T07:17:00Z
+    webUrl: "https://www.actuia.com/english/ibm-think-2021-conference-innovations-in-hybrid-cloud-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 33
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/conference-think-IBM.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Highlights From IBM’s Think 2021 Conference"
     excerpt: "IBM announced advances in AI, hybrid cloud and quantum computing at its flagship event Think Conference, 2021, on May 11. Chairman and CEO Arvind Krishna said, “In the same way that we electrified factories and machines in the past century,"

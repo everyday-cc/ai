@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/21152396"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21152396"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pitfalls to avoid when using AI for the first time"
-    excerpt: "Any business seeking to introduce AI would be well advised to learn from the early adopters to prevent integration from going wrong"
-    publishedDateTime: 2021-05-13T15:37:00Z
-    webUrl: "https://www.raconteur.net/technology/ai-integration-pitfalls/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/05/Robot-AI-pitfalls.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Harnessing the power of artificial intelligence to combat human trafficking"
     excerpt: "To combat human trafficking, MIT researchers have developed an algorithm to examine Internet patterns to try and break the chains."
     publishedDateTime: 2021-05-17T18:49:00Z

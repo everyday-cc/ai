@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel machine learning makes GTA 5 look even more realistic"
+    excerpt: "GTA 5 is a great-looking game, but Intel's machine learning experiment takes it up a notch. Even if GTA 5 is not that impressive graphically (it is a game from 2013, after all), that doesn't mean the game looks terrible."
+    publishedDateTime: 2021-05-13T23:56:00Z
+    webUrl: "https://www.sportskeeda.com/gta/intel-machine-learning-makes-gta-5-look-even-realistic"
+    ampWebUrl: "https://www.sportskeeda.com/amp/gta/intel-machine-learning-makes-gta-5-look-even-realistic"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/gta/intel-machine-learning-makes-gta-5-look-even-realistic"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 59
+    images:
+      - url: "https://staticg.sportskeeda.com/editor/2021/05/e71ac-16209435501335-800.jpg"
+        width: 800
+        height: 423
+        isCached: true
 
 secured: "dEONDxiXOopwwQt78Apoz+p39xiZGhsmsHJ8K6gA5Oxpqe1FG8CJ6tNfZPeerGCR/W+V/FgLb+KEJh7PvqoJWWsGgOlAj56YgqDUnJKMNBmCVC7ALEj1SfmIAkdLR+CsYI+DjDf9HaxV0o7LDZuZkSl59PTQ9fV/sWmGwCZwLz9aGQLgiAcgV3QfIz7PbY2J1iQzJo/WyOrSSqT/CaA1Qgzhu/+XkPNjZowDxbq3wbzZUgT3uJtZNYfwmrQcSe3oNhTg/6dVyPpv7vn1n68BnQ12vixS21/sF4bbn6DZIUZHfdP9Iz8hJ1mw/XJ0eN/auvsf5EDunD/u/iPCtvIQgLAPSd29KdI4QQmIDcRN5Do=;mpiQi+vTQFa4Bs0xCsTIlQ=="
 ---

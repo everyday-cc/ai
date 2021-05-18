@@ -101,6 +101,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "California places Tesla's 'Full Self-Driving' under review"
+    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-"
+    publishedDateTime: 2021-05-18T00:04:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/california-places-teslas-full-driving-review-77745301"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/california-places-teslas-full-driving-review-77745301"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/california-places-teslas-full-driving-review-77745301"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4a35d5a5f27e4bffb6600fd2462f18dc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
     excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
     publishedDateTime: 2021-05-17T22:56:00Z
@@ -155,6 +171,17 @@ related:
     provider:
       name: Futurism
       domain: futurism.com
+    quality: 39
+  - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
+    excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."
+    publishedDateTime: 2021-05-18T01:05:00Z
+    webUrl: "https://www.seattletimes.com/business/california-puts-teslas-full-self-driving-under-review/"
+    ampWebUrl: "https://www.seattletimes.com/business/california-puts-teslas-full-self-driving-under-review/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/california-puts-teslas-full-self-driving-under-review/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
   - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
     excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"

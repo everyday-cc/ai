@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/digital-twin-market-deta
 webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
-    excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
-    publishedDateTime: 2021-05-13T15:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-emotion-detection-recognition-industry-expected-reach-371-/2021/05/13/9369134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "wSAI9/SjIN+SkBdvvtr4w07rmS07E1l3hN6clSZkvZ2Wss/411kz+Of39VgjvWbiK4NjCa49hcygwtzkVfWBGzuS9bCTNQmlPPq9xLFsJ3KGNljjbQbletpLmlBtdD+ULaAILSNj70AGVpqBFphpBBNJTsbcuNJ0TlxdYvoAhEeZrLtdbZtwQGYQz+8xgngXFfLew9HzLBbHd0Is90KN0Vq/38rhCo7kM3qZiaD1Aiu0wdhwmOHDof7s5SIwZ1SmeddLq6BSFvBj6GEWNgmkNvluGOD/IpX5DTquC/4i51Aib29TMdOmQfKCa9ZhrX778Ia3B7DNYKxr2HHbw1W2S5Bk0zjBeb2X/y+hUyUfvds=;KtyS8yUzHuXQRqPkljxqWw=="
 ---

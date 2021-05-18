@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-
 webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth"
+    excerpt: "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time."
+    publishedDateTime: 2021-05-18T09:30:00Z
+    webUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/"
+    ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 62
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png"
+        width: 450
+        height: 450
+        isCached: true
   - title: "AI and the Lab of the Future"
     excerpt: "The laboratory of the future does not look at all like what we think of today—a fluorescent-lit room bound by four walls and a fume hood. The laboratory of the future will be a network of physical and virtual spaces,"
     publishedDateTime: 2021-05-14T15:44:00Z

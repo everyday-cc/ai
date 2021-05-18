@@ -2,26 +2,35 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-05-11-google-plans-to-double-ai-ethics-research-staff.md",
-      "title": "Google Plans to Double AI Ethics Research Staff",
-      "excerpt": "Alphabet Inc.'s Google plans to double the size of its team studying artificial-intelligence ethics in the coming years, as the company looks to strengthen a group that has had its credibility challenged by research controversies and personnel defections.",
+      "path": "_news/2021-05-11-ai-methods-predict-covid-19-patient-outcomes-using-routine-clinical-data-from-icus.md",
+      "title": "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs",
+      "excerpt": "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/202105119972/google-plans-to-double-ai-ethics-research-staff",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/202105119972/google-plans-to-double-ai-ethics-research-staff",
+      "webUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 101,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T04:19:00-07:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "publishedDateTime": "2021-05-11T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,7 +40,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },

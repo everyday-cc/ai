@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide Emotion Detection and Recognition Industry is Expected to Reach $37.1 Billion by 2026"
-    excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
-    publishedDateTime: 2021-05-13T15:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-emotion-detection-recognition-industry-expected-reach-371-/2021/05/13/9369134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "6XdU9Xie1YZZRs3K1Nh2uHLbso14YdTgtbrQp1DNDjgSVHdCA1cgtpzU6uZJYdLTn7rzqNEfZWArtu8a808WnfcPozIxn+WSVJn8XSQHW7b5HrAgvDcPCUz8nP7zcu5wLsNzPmTeGt+9fqVuk1LZkDe5/T5+krZjhtGObZ7PxVxCZAYBABYUn/LaJcbnpYTcP5KDJSH8VyrOwMNIUsOvvXmrxiQ7JFbxqXt3/pnuSRGWkI2Q5rfh7VMQVWnxj6F3WhkAQSm3Hz4xHPthtVdu5XJo6f/lH9HO1zlxRkdedVgkrFZwOqLEBHYntryJJWuPcCnFL0GnD2i33VJmpA40gOaDPnfTBBW0xOKd6OQpfBI=;bBn22C3eC8/is7AJRUfkmw=="
 ---

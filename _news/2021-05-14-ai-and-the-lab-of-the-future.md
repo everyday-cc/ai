@@ -33,6 +33,22 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth"
+    excerpt: "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time."
+    publishedDateTime: 2021-05-18T09:30:00Z
+    webUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/"
+    ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 62
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png"
+        width: 450
+        height: 450
+        isCached: true
 
 secured: "jSy2GRuRN4kUato3vL/JflFuke1vxkYvgpHBZoN2te1Wv1T4X7GMYGP+F+g7suX/rOzT+zL2/7gII1a+gZBpG6JlH3HHXzWp3GeGm/lrcN/C3ZQtvzXqnMmxWjbwOhr8bUEM1S6RXseUTcCCr/8XTjRPZKJxmXKiqVmEnj5lYNttcmLa2mLQ/Bi2/i6vfWu4QIjTIdVaieSAZy3INLzh1nbCoDechZL0rAcLknDRTiuj4TJE1V+vT8DlKg7kq5fYA5dDRzQLTkh5zGJ62bAkIuXyI1SuEHtsfEmQtscB4H5iUqbY7i8zYNXmP7ExnBtT/7Nt8Hq6bICzGW6zzuSY34/rx6UMyxk0QwmwGukLMCs=;5NoBE1BWvQecSUETykyD+g=="
 ---

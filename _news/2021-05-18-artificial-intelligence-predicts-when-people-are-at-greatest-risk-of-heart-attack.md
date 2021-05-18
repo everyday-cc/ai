@@ -54,14 +54,28 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
-    excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
-    publishedDateTime: 2021-05-18T06:59:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+  - title: "Machine learning accurately predicts cardiac arrest risk"
+    excerpt: "Model combines timing and weather data Risk highest on Sundays, Mondays, public holidays, and when temperature drops Potential for use as early"
+    publishedDateTime: 2021-05-18T08:10:00Z
+    webUrl: "https://www.miragenews.com/machine-learning-accurately-predicts-cardiac-561961/"
     type: article
     provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
+  - title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
+    excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
+    publishedDateTime: 2021-05-18T07:30:00Z
+    webUrl: "https://www.getreading.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-20617486"
+    type: article
+    provider:
+      name: Get Reading
+      domain: getreading.co.uk
     quality: 11
 
 secured: "Vc3QGYlOmznpZD1xwIrhI94nUBAxsKmUcvaMNWKRn1Mncrr0zEiOh9QBBlKod1zq3+m72/+wTd3JUpuNqibynDFmkjoQ8SMLtMcM2Ez06qbm2yCyphbJ/Ol1BSKjDM8uVXUOK9GDodaMGSLFlYJxoa4g/M/ferJg4ctr2Uew8cM15oA+3afL7dlc4FZ+Dc7Dzc0n2Y+o3Oi19D/31NBDNCZ1/XXzNFgGTy6isELcQxxH6QmNuNgBX6YrhRRSbB0qmUwfMpynX2h8I0JT12z2wEGeH527oB/HeOEepkI3hTpF2l90+faoPn6IXR0DgEha/eweUHQSMDr0Qe0UoRhuZ9Bt9tVKGdkB0iprAcKSTWE=;W5CbnzRD5mEPPTyWafGWaQ=="

@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-ma
 webUrl: "https://insidehpc.com/2021/05/anchore-secures-containers-for-ai-machine-learning-and-hpc-on-nvidia-ngc/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: insideHPC
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Exposure with ‘ENTR’: Analyzing Alphabet, NVIDIA, and More"
-    excerpt: "ERShares’s flagship fund, the ERShares Entrepreneurs ETF (ENTR), offers exposure to a range of disruptive technology sectors—including robotics and AI. With its emphasis on high growth companies driven by strong leaders,"
-    publishedDateTime: 2021-05-13T16:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-exposure-with-entr%3A-analyzing-alphabet-nvidia-and-more-2021-05-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 53
   - title: "ALCF Webinar May 26: NVIDIA Profiling Tools Ecosystem for HPC and AI"
     excerpt: "The Argonne Leadership Computing Facility (ALCF) on May 26 will host a webinar in which NVIDIA will present their profiling tools, Nsight Systems and Nsight Compute, and will discuss how they are used in HPC and AI use cases."
     publishedDateTime: 2021-05-14T12:22:00Z

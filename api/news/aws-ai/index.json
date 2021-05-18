@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1097,6 +1097,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-aws-announces-general-availability-of-amazon-devops-guru.md",
+      "title": "AWS Announces General Availability of Amazon DevOps Guru",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-devops-guru/",
+      "originalUrl": "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-devops-guru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
       "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
       "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
@@ -1423,49 +1457,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
-      "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
-      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, announced support for the AWS for Media & Entertainment initiative from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/8b/c8b5b739-be2c-5990-9bd7-43368bd99665/608a9cec01459.image.jpg?resize=1181%2C630",
-          "width": 1181,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null

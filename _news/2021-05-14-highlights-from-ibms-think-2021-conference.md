@@ -71,6 +71,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "IBM Think 2021 Conference: Innovations in Hybrid Cloud and Artificial Intelligence"
+    excerpt: "At IBM’s Think conference, the firm announced its advances in artificial intelligence. Hybrid cloud and quantum computing were also highlighted. The objective of these innovations is to help IBM’s clients and partners accelerate their digital transformation or improve their strategy."
+    publishedDateTime: 2021-05-18T07:17:00Z
+    webUrl: "https://www.actuia.com/english/ibm-think-2021-conference-innovations-in-hybrid-cloud-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 33
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/conference-think-IBM.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "xepoA4Kqnsl2h6Xkb4r9HqlkRZCjgUl+CE8PXafkHPraS8fYONiFEFNHY0UEJGm4acMyF8WpNqF8R+6JnVtSfRz/Gh7z4BhxPq9obulrp6MGkXhTZ5X8aXiyoeMAK1eW7/t8ZQZr5nk989RUz/aIwWcSn07DjmwL4H8UaaXQWqCwmh7ZvEUxI9Y/YVT1l9e1xS6UdULiKFFZOzGqARdHnwo8LIU+rTTsq/UiqfZlzDawGA4wVk7Tx87ohKhNNXKPc5XFEdSnsBSp+dFfo/beoxKh4AOXwRXiJrIVQtr9zoaLEfSxWnkNhPcngxYZOmv8otyoK/+MT0ZlhkR8jgM8bYIjNolm2li3wAXQk4a+Kys=;ibvCmzMAtE/HD9nTWAMkfg=="
 ---

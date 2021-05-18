@@ -72,6 +72,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
+    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
+    publishedDateTime: 2021-05-18T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/stellar-cyber-cited-as-cybersecurity-startup-of-the-year/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 2
 
 secured: "x7VeWqv6LxG547x6hHSkI6q0McGPEKZwUQEwxL6sQAWkFkj1ra0bxBH6OIgSy1HbHqfHn6zLbM3W87TrSWzjcd7dws2/DeK97i5ifbtrKU0r07lK/26z0h6/mA0FmRIFQU0Dz/HwgOuonhVd3svk8dMBopdugIFmCrQDhvVkSqUyLEecuk10L1VKjJ9pTJTKLrOun80g3nqmaZA82FQ/kP+8W5hJgjGt9KtPzsDKmlSVGgsYJcTpbTscF4OP7UZ/7ttjlbPIp7aMIIlvKsEilRiXSSMhMVNlFsJKe/ykAnPVHMBEE5N1ea69LJM0eDzBv2Kc97Dimm8hiZ7i6JKu3+41TfbeyPmbdREVPWoG74o=;+l0iAsu0DZO8Lxjtc5Fz2g=="
 ---

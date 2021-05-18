@@ -2,6 +2,137 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
+      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
+      "excerpt": "Moreover, Microsoft, currently carrying a Zacks Rank #2 (Buy), offers ML-based ML.NET open-source cross-platform, Azure Machine Learning service, AutoML tools, Cognitive API Services, Azure Machine Learning Studio, to name a few. With these solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-how-financial-brands-can-use-ai-and-data-to-offer-more-personalized-services.md",
+      "title": "How Financial Brands Can Use AI and Data To Offer More Personalized Services",
+      "excerpt": "Perhaps no field is so perfectly suited to incorporate the potential of artificial intelligence (AI) as financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/",
+      "originalUrl": "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dataconomy.com/wp-content/uploads/2021/04/how-financial-brands-ai-data-personalized-services.jpg",
+          "width": 1920,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dataconomy.com",
+        "domain": "dataconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players.md",
+      "title": "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players",
+      "excerpt": "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision.md",
       "title": "Algolux Collaborates with Renesas on R-Car Camera Optimization for Computer Vision",
       "excerpt": "Atlas automates today's months-long manual ISP tuning process to maximize computer vision accuracy and image quality in only days, an improvement of up to 100x in scalability and resource leverage. The workflow permits rapid evaluation of different camera ...",
@@ -953,135 +1084,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-verizon-aws-launch-private-mobile-5g-edge-computing-integrations.md",
-      "title": "Verizon, AWS launch private mobile 5G edge computing integrations",
-      "excerpt": "Verizon Business and Amazon Web Services said they will start delivering private mobile edge computing to enterprises in the US via integration with Verizon's private 5G network and AWS Outposts. The two partners will start providing private edge computing platforms to be used in factories,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "originalUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "publishedDateTime": "2021-04-05T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-lounge-lab-unveils-aris-capsule-based-ice-cream-robot.md",
-      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot",
-      "excerpt": "Customizable with 10 flavors and 3 shapes “We want everyone to be happy.” From the comment on the launch. Visit:  The food-tech start-up",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/ba1c0b33f681aaf9fcd339ba804ddacd.png",
-          "width": 600,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20488883",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488883",
-      "publishedDateTime": "2021-04-05T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-icad-announces-estimated-q1-revenues-and-upcoming-cfo-transition.md",
-      "title": "iCAD Announces Estimated Q1 Revenues and Upcoming CFO Transition",
-      "excerpt": "In 2018, ProFound AI for DBT became the first artificial intelligence (AI) software for DBT to be FDA ... IORT’s benefits for patients which exceed the benefits of traditional therapy or acceptance of IORT by patients or clinicians, the impact of supply ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

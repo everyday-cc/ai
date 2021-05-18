@@ -2,28 +2,19 @@
 category: news
 title: "AWS Announces General Availability of Amazon DevOps Guru"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation."
-publishedDateTime: 2021-05-04T18:46:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
-webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
+publishedDateTime: 2021-05-04T18:45:00Z
+originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-devops-guru/"
+webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-devops-guru/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "RzZ6pj2orR7v3OiWp6DkD9/ha93jtnNDtIgHDbeA7p/Gvk5i3MIvAPKwLIJXnqY3zR2R2XVKUyh342utuJ6URgiS/O9kxeydtNr2eZ+YMLhQ5kSmNrFOflgExb+ChnH3BsQvidZ0tqL74O75hU9s6b/27dIsDFIaNmx8/3A6lfu14DN9BJoOw1vXJ0lNZRIZ2qxQkJh8BptTd7e0okueSwUy4bKX/OhLtohPGNOpcmdqgtkTLQ41oGpsA8uzCuGt+PPdBjM6myJqStpzFpxU0niOMfYIXD5q+gk1InMLDWjEnhPjVW+3c/unlMYiKY7vxDYw1JPW16T0zdbLRNxMP1dJOrTeAHNlfANZzz2Ib5g=;HtJqkZEOMwcpA2EPFBGWUg=="
+secured: "FMEFZDw+FZQD1kjRLMtiRqwNVtsHHf2U8RkzR0pmi6Es8B0Y31WDBbV2K29uHX2PJXugZn1vRDHQrMkaPSqtlKrzS4u9dLn2RKu5zewvdgBoGVDLqczEey27LeA9hvasgH6BKRw8wRmS0C1b2lbP4pbrye68RyZHtTn2pmQ3G/kw7IKND8T4H9GoF8z/C7oPSPzXT93plhi5Ql/lpecrB+x2XfST4vARQ7Hycfl54n6QFDRvpOfBoz5yNNEBkiYA5XgFc3hdUbh1DRgqxsqOnO0a6cQG8K+TcewzubipaP3WLAgPKJYg+wYa6ABiFBzjqROhw9WQltrzUIhzYVL/hHNVkpWtFNmOwVdOQxd1eNc=;dfWtsw49F2o9GWfFWbuyyw=="
 ---
 
