@@ -110,20 +110,6 @@ related:
         width: 300
         height: 230
         isCached: true
-  - title: "ChaosSearch Widens the Zone for Data Lake Analytics"
-    excerpt: "When ChaosSearch emerged from stealth last year, its mantra was all about enabling customers to run log analytics on massive amounts of data in Amazon S3"
-    publishedDateTime: 2021-05-13T20:13:00Z
-    webUrl: "https://www.datanami.com/2021/05/13/chaossearch-widens-the-zone-for-data-lake-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/data_lake_shutterstock_ramcreations.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
     excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"
     publishedDateTime: 2021-05-17T14:11:00Z
@@ -147,6 +133,20 @@ related:
       name: PR-Inside
       domain: pr-inside.com
     quality: 16
+  - title: "KPMG LLP Leverages Data Analytics And Cloud-Based Technology To Best Serve Clients Inundated By Tax Audits"
+    excerpt: "With tax disputes on the rise domestically and globally, upending business operations and impacting resources and financials, companies are turning to KPMG LLP"
+    publishedDateTime: 2021-05-18T12:14:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kpmg-llp-leverages-data-analytics-and-cloud-based-technology-to-best-serve-clients-inundated-by/article_d4b88f20-cf7a-5ea5-b5b5-f6f7a4c4887c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/eb/deb18763-22b9-577c-9a60-6323d90c946c/6065d28292ebe.image.jpg?resize=853%2C630"
+        width: 853
+        height: 630
+        isCached: true
 
 secured: "RKtZ39uP+MaU8vc9jn8MkVvaI47RBvK8oRm8Kqv17e09HthiWCca1ZxQj0L7Y7/BYhrYL6YEivyFSSbn7wSYpwnLoZ8T/ksBljW9TETnALne11DPCcQOEQyNIziHA7dQXbhp++oYwdeM5elRYwcWGr4N5GDX5B/91+IQ4l/WDLiOBa2Hsz8sdXpnDc4ZuksXA6Hg6CdqEr3iJYWJvI3uyf/nvtUWyW7Bp4IG6I5B9Is7zSlbPY+VM5i9g0AXK2dj+bP0nJchcoTKni56H0ioOC+avWZYQe93LN3qfIg2mjqXKBef4yh66YZ47St+yvW+u4kA5KrUHyLGLOHuFoVQXscco8e8f1rrZsWSx8qYFj0=;wpklU7/nEf8e+Q6+xbEnhA=="
 ---

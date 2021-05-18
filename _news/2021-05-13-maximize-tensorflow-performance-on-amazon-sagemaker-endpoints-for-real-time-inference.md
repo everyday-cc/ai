@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/maximize-tensorflow-performance-on-amazon-sagemaker-endpoints-for-real-time-inference/"
 type: article
 quality: 116
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build BI dashboards for your Amazon SageMaker Ground Truth labels and worker metadata"
-    excerpt: "This is the second in a two-part series on the Amazon SageMaker Ground Truth hierarchical labeling workflow and dashboards. In Part 1: Automate multi-modality, parallel data labeling workflows with Amazon SageMaker Ground Truth and AWS Step Functions, we looked at how to create multi-step labeling workflows"
-    publishedDateTime: 2021-05-13T20:49:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-bi-dashboards-for-your-amazon-sagemaker-ground-truth-labels-and-worker-metadata/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/12-2641-dashboard.jpg"
-        width: 800
-        height: 687
-        isCached: true
   - title: "Prepare data for predicting credit risk using Amazon SageMaker Data Wrangler and Amazon SageMaker Clarify"
     excerpt: "For data scientists and machine learning (ML) developers, data preparation is one of the most challenging and time-consuming tasks of building ML solutions. In an often iterative and highly manual process, data must be sourced, analyzed, cleaned, and enriched before it can be used to train an ML model."
     publishedDateTime: 2021-05-14T20:30:02Z

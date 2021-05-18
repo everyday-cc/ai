@@ -29,19 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Speech recognition to diagnose COVID-19 is not 100% reliable"
-    excerpt: "Can you tell if patients have COVID-19 by their voice? This is the challenge that several research teams have set themselves. Since the beginning of the pandemic, several initiatives have been taken to design artificial intelligence programs that use voice recognition to diagnose a person with or without the disease."
-    publishedDateTime: 2021-05-14T09:40:00Z
-    webUrl: "https://www.actuia.com/english/speech-recognition-to-diagnose-covid-19-is-not-100-reliable/"
+  - title: "Cognitive Computing Market Research Report and Predictive Business Strategy By 2027"
+    excerpt: "In 2018, the global cognitive computing market was valued at US$ 30.67 Billion and is expected to reach US$ 360.55 Billion"
+    publishedDateTime: 2021-05-14T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-research-report-and-predictive-business-strategy-by-2027-2021-05-14"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Using machine learning to predict high-impact research"
+    excerpt: "An artificial intelligence framework built by MIT researchers can give an \"early-alert\" signal for future high-impact technologies, by learning from patterns gleaned from previous scientific publications."
+    publishedDateTime: 2021-05-18T12:39:00Z
+    webUrl: "https://techxplore.com/news/2021-05-machine-high-impact.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
     quality: 39
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Voix-et-COVID-19.jpg"
-        width: 800
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-machine-learning.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "pG+lTfr+Ods/wrq77y4W7ciShVGforCWrvpYwkZGJKI1VflKjmsv9EF8+1T4pS8i85VDAJJvN7jIUal5mwrQxSnjLn0nO8zY0h511dPD1YEFZOq5X592mTLoag65bi5DCSCdOhZgfrgoek1nDQBKkizji1in6OGP4AJvOBoX/KYSdLesdGO8xcpx3jGb9VlUvPhYcyvBl6NZ1bImmY8/KOT0ya23gr69RyDMjYAXkTnnkUDJ5H4U7irioRxXcsHeC9NyY075U0wwzDH0OJ1Na4+WwkbyL67urqaAcDdlnDDqPR27x0uI9p5bZX7CAcb85R/E5uPFQ7rpP+KadZpL5Cb7pmybvZgorAGF4xJqplg=;E7D5Sr/Ir9VifyRSDOgDmQ=="

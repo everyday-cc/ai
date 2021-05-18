@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intel
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,31 +26,6 @@ images:
     width: 450
     height: 450
     isCached: true
-
-related:
-  - title: "12 Use Cases of AI and Machine Learning In Finance"
-    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
-    publishedDateTime: 2021-05-15T18:51:00Z
-    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "AI and the Lab of the Future"
-    excerpt: "The laboratory of the future does not look at all like what we think of today—a fluorescent-lit room bound by four walls and a fume hood. The laboratory of the future will be a network of physical and virtual spaces,"
-    publishedDateTime: 2021-05-14T15:44:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/05/14/ai-and-the-lab-of-the-future"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 19
 
 secured: "a3d8lU0LJCxoAf2B+1jHMe3G8m9gkx5kd8ngXzuzjeB3t6VMNsQiMtt14Yj4Td+NHRmihEw8QHmC1SKSdTGHlwEJLR4mJm12aeIKRZGFWmfZNTx2v9jkL2OWLCrRB1Ifg1eEn/3vb0zoxBmKSaEaqIDjS1Fi9qwjdLhriOYFmRd2z+ZrhOhIW3/3gPxEdg20mA+gV1zhj65py/q1p0gFVS9ydlFA5hbgqgma3HTekpX0dittmthh8klNdPCz+V1Gl/xc0cd0xU4AIi3y1XOCS2oCJT4eDOVYjLOr1phQN/RhwQeSkbCTLk2gvm41yLlh9YLeKOHtpFHYgsDDN5oPuMTGtnm3jzuH2zA6NoggcICumR0qdJ0RYUmW2rG1QzdYJaG8rIWt8aLHdx8jAkyuMW3FmFCXKZqslq9jU1kk0WZVofrfG1O2u86mJqy7+2nc35WroKdldFPv0AKf83WT2qQzUWdGN1xNg0UF7lISnXhyn0SdXfut83waswAW0DvMVPGOv592t1pJ42+BLOd6uA==;rQJfVUxcG4gFkoCs/MnDOw=="
 ---

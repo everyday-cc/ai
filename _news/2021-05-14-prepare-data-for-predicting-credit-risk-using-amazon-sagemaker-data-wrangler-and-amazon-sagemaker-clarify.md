@@ -43,20 +43,6 @@ related:
         width: 800
         height: 411
         isCached: true
-  - title: "Build BI dashboards for your Amazon SageMaker Ground Truth labels and worker metadata"
-    excerpt: "This is the second in a two-part series on the Amazon SageMaker Ground Truth hierarchical labeling workflow and dashboards. In Part 1: Automate multi-modality, parallel data labeling workflows with Amazon SageMaker Ground Truth and AWS Step Functions, we looked at how to create multi-step labeling workflows"
-    publishedDateTime: 2021-05-13T20:49:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-bi-dashboards-for-your-amazon-sagemaker-ground-truth-labels-and-worker-metadata/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/12-2641-dashboard.jpg"
-        width: 800
-        height: 687
-        isCached: true
 
 secured: "n0Yez3Jjqrnf1V7lfR2bBska57w/OCawbEXTC2Cyf8LaOOph72FuyVa9KfUBDgeiG2kM32+1dEpbu7gzpRLBPYgQoOZpGLR5nTe/pBzhYJcoFTgmipV8hSjISQ/2s5yJZxStGX429eNSe8H6oudbk8I2DqppoTHY0/K7wWrxBSHmmjpr2Vs25o82OxWHSTi0umLeqQOpTd8qMDtSqdyszSdx1rhTUGM5y5pobaG60qKHUrhBDG0k3l4ZffqbEXDKJ9Knho5ioNZY+EOdDAA/0INi0bCQ4WI2VAwJUidhUmwfd9cykAreBkDzcOajLlASCmVOqu3l51DZqhYuSswyay5yABVFPobRhWTjba6g0B8=;OA6dl7+8lLHGb/wlRnvkCQ=="
 ---

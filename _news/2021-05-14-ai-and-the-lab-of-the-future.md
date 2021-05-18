@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "12 Use Cases of AI and Machine Learning In Finance"
-    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
-    publishedDateTime: 2021-05-15T18:51:00Z
-    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
+  - title: "AI orchestra paves way for future of music"
+    excerpt: "An artificial intelligence orchestra founded by the Tianjin Conservatory of Music will perform at the upcoming fifth World Intelligence Congress scheduled for May 20 to 23. The orchestra is composed of 30 human musicians and six robots,"
+    publishedDateTime: 2021-05-14T08:25:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/14/WS609e33e9a31024ad0babdfaa.html"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
-        width: 450
-        height: 450
+      - url: "http://img2.chinadaily.com.cn/images/202105/14/609e33e9a31024adbdc7c793.jpeg"
+        width: 608
+        height: 405
         isCached: true
-  - title: "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth"
-    excerpt: "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time."
-    publishedDateTime: 2021-05-18T09:30:00Z
-    webUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/"
-    ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
+  - title: "An Optimist’s Take on AI and the Future of Architecture"
+    excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."
+    publishedDateTime: 2021-05-14T08:08:00Z
+    webUrl: "https://www.archdaily.com/961547/an-optimists-take-on-ai-and-the-future-of-architecture"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 62
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png"
-        width: 450
-        height: 450
+      - url: "https://images.adsttc.com/media/images/609b/9796/c890/d701/642e/272b/large_jpg/ai-buildings-2-larger-1428x644.jpg?1620809626"
+        width: 1428
+        height: 644
         isCached: true
 
 secured: "jSy2GRuRN4kUato3vL/JflFuke1vxkYvgpHBZoN2te1Wv1T4X7GMYGP+F+g7suX/rOzT+zL2/7gII1a+gZBpG6JlH3HHXzWp3GeGm/lrcN/C3ZQtvzXqnMmxWjbwOhr8bUEM1S6RXseUTcCCr/8XTjRPZKJxmXKiqVmEnj5lYNttcmLa2mLQ/Bi2/i6vfWu4QIjTIdVaieSAZy3INLzh1nbCoDechZL0rAcLknDRTiuj4TJE1V+vT8DlKg7kq5fYA5dDRzQLTkh5zGJ62bAkIuXyI1SuEHtsfEmQtscB4H5iUqbY7i8zYNXmP7ExnBtT/7Nt8Hq6bICzGW6zzuSY34/rx6UMyxk0QwmwGukLMCs=;5NoBE1BWvQecSUETykyD+g=="

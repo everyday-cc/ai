@@ -24,17 +24,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the National Hockey League (NHL) announced they will debut two"
-    publishedDateTime: 2021-05-13T20:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210513005820/en/AWS-and-the-NHL-to-Debut-Advanced-Stats-During-the-2021-Stanley-Cup-Playoffs"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
-
 secured: "mI52ArpPe9VUoj7c2jdkoMt0XyZkdh/FKQCwkS8h2o0VsMO+mr7wZgPpRpQ4J0jaA7vkq6OOduWL+8cLWZx/KlSnvJpGq3xcPb2HXRI/MQnvqIFUzNSBoLCD1jQAeKO1wxkAhw0ZipyKyyWBHIQuYabEbuQ1ZFMAbNpqRBjlCe6xxRNKhrBR7MzSAQfb5EVnglwQFC2IkQd+mtFB/+9KiR6xxBgaval+uShCvZeY/Iv4rHBIxKdzn9/reYa/nZbgBV4JL2DY5f1CatJObZh4FYoJ2WKbcKCntW/nxPI9geVYAY4CHLW+CCSrNFiwxTwx+rLMsykA9ecLsev39C1vVWybn6Ncy2SYAhsp0fDsQElCyd+fm5R8lrKpgHp5H8Hdpwfj3zlC2MSDtUY39egoPHejSgb7xdp2FKjrvCUtDt7fFuqQ9PXqvhw695lnAzN1cXefnE0igJzoC9qvarlactpfO9PdYUR1Xe8HoikN09eMx6iresb6wLCtRbBEFFR7RXtfGMsawN8r9W8TY9RYaQ==;MTdCZhYtuGFx/r6YcjzdRA=="
 ---
 

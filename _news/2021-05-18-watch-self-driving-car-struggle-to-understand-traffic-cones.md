@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Tri-State Transportation Leaders Look To Expand Self-Driving Vehicles"
-    excerpt: "Autonomous vehicles are already on Greater Cincinnati roadways and the Ohio Kentucky Indiana Regional Council of Governments (OKI) is looking to expand"
-    publishedDateTime: 2021-05-17T09:00:00Z
-    webUrl: "https://www.wvxu.org/post/tri-state-transportation-leaders-look-expand-self-driving-vehicles"
+  - title: "Waymo self-driving taxi confused by traffic cones flees help"
+    excerpt: "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck."
+    publishedDateTime: 2021-05-17T11:51:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-57144755"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-57144755.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp"
     type: article
     provider:
-      name: WVXU
-      domain: wvxu.org
-    quality: 24
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202105/640px-Waymo_self-driving_car_side_view.gk.jpg"
-        width: 640
-        height: 427
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "PfEaMyjw0kos/ck47YM/tNnvs/P5fg8JrGGmVKrAYDx146Xvz+AiiLzqxPpHylXWDNm+iiaGIxAxWxbnlOlZC2Kb2iNIrrNcYxZV53LWBe4UuvATtaJYTrPKS5A3y7IxZffrm7KFrqQ+OOF8K8ZGSxVABJhLXVne68nYnWiENLQPzTl6j8Lz8Zwf9/hAi9kzQfWUwlqT3NPKHWbHneb2mNFmpPS03c+PL9rF6XJ7efPf4pOmp9JEQqatbeRDxcEWCE8Q1uM7ads0gsz551m63WMPLhXldke67/HRP040SH7zF2dYld15bRLF+8+7VfvokKDioWOKAlknpLKyi2BC9/6wsc0XAyWZYoSZR3vQAaMP04VF7JIc9KKAe60nhIbxSQnE1f/orh2y7yE1ZzFCwnld0CN2/radG9pq+spZ6uY3L0w56glqv0CGYY7kUj34rqa+zqZ83AsLCmtgd/R5RRLBUIEfUh4dbG7EMjJIDVDfR73z1MYRWwDFWLpsn3emQysou1+LGF1QJwkmuiS6ug==;p038w9h8fI+1m13Yi+Wepg=="

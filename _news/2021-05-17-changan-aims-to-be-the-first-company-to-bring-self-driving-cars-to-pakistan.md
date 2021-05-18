@@ -165,17 +165,6 @@ related:
         width: 638
         height: 358
         isCached: true
-  - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
-    excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
-    publishedDateTime: 2021-05-13T19:28:00Z
-    webUrl: "https://futurism.com/remorseless-man-brags-tesla"
-    ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
   - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
     excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."
     publishedDateTime: 2021-05-18T01:05:00Z

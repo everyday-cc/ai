@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/7-best-practices-for-imp
 webUrl: "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115"
 type: article
 quality: 125
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Less watching, more learning: AI enabling a smarter world"
+    excerpt: "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life."
+    publishedDateTime: 2021-05-18T12:45:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Pony.ai's self-driving car takes media for test drive"
     excerpt: "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin"
     publishedDateTime: 2021-05-14T16:52:00Z

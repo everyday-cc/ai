@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community"
-excerpt: "This valuable tool enables the international scientific community to share radiological and clinical data and find innovative solutions to combat the disease. The AIforCOVID Imaging Archive, which is available,"
-publishedDateTime: 2021-05-17T14:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-1030437296"
+excerpt: "The AIforCOVID Imaging Archive is a shared collection of images and clinical data for developing innovative Artificial Intelligence-based methods to predict clinical developments of"
+publishedDateTime: 2021-05-17T14:42:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community/article_214a207a-5c49-56f6-a170-4abebe6925df.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community/article_214a207a-5c49-56f6-a170-4abebe6925df.html"
 type: article
-quality: 60
-heat: 70
-published: true
+quality: 30
+heat: 30
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/fd/6fd342d9-be40-528b-a24e-4289f84678cd/60a282622e376.image.jpg?resize=630%2C630"
+    width: 630
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 536
         isCached: true
 
-secured: "JhjabsUK16IKeVf98Nj5zC2008+sG+QyYjreH7IeHDGWZpRPhgvjE6kKtMloMB4ZnKvZ5ihQd0o42IZ5AZIGFVpL04jbay6JE+0WjSB+SmU82hoamiGrvEiPeHkSLJOk+DMm9652CxhzeHZWGj0i9UgHsRpsYdDknE1dDBRh+jKlu40apoKR0qg67r/0aLEzORlBVhQ2zKGKuCqOArE6m9DYRuCTnChbjWZluEQQAGKry+lSxm10LBYu3OxMkGZoIxVTKLlgdYbkVrhglHyFVFamCK28ZtwhonX2zofyww0cD+YM4xlkgc8RF/5NKJVVHOB+YPwmGHO5lb2RL0GfFjEwIR+Jq2otnWDJINVq8wXh0rAEwVURuLF5DA70JF2YDJWJdasuPYGTz4l1vMjhrlBzr+zVfpWO78q4wBSQ5oCwlYgoS/VXTDWdQ892dJYUxEUbX7g8FO6ZzvMZWexw2KmkTEzOur+vOZOA6dE10CvFa+MMDM3gOO+2iub5gBfwDz+OY6RoAAkqEWPfRKd4pw==;/VsXklHPKg+0N/I+faZofA=="
+secured: "aCvGt2UkrJY3EQCMSJg80AuxDNVpByDS50TFjrTkvaHVCzPKdaA5pYdSOT2qu4GsR6Iplhnw94takOtDX5TpHz/UWVjA3/0Thr6/BYNmZheuI1qfcyB3aTm2a02OWpOcbQVbG8J3YLMplUr5ZwA65aPEJCjjy1/cvuNfxXm0vmhovx1YF6qaQVU+Do/KP0H83qBCA9VntnJ2XXEKsGn27E7vrkHBRdFY5L34iqqWUZOuFS+9tKBFax9hAAxeAk+VRR1vCH+akz03f2ueY5X6CihVh97SyoGjHkZmk7h7PoCeccbDF1PLRbaqeBy99pIqbX6mf3TiPN3PPzYCdV1WCRWnmN82NCj0NctJR/dQv8I=;7aoZlk0/Q6Bb53Zuma6X8w=="
 ---
 

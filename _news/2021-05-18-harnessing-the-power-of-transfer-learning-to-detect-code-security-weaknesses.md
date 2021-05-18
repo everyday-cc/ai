@@ -7,7 +7,7 @@ originalUrl: "https://securityintelligence.com/posts/transfer-learning-to-detect
 webUrl: "https://securityintelligence.com/posts/transfer-learning-to-detect-code-security-weaknesses/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Detecting the pulmonary trunk in CT scout views using deep learning"
-    excerpt: "For CT pulmonary angiograms, a scout view obtained in anterior–posterior projection is usually used for planning. For bolus tracking the radiographer manually locates a position in the CT scout view where the pulmonary trunk will be visible in an axial CT pre-scan."
-    publishedDateTime: 2021-05-13T20:24:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-89647-w"
+  - title: "Democratizing Machine Learning to Empower the Modern Business"
+    excerpt: "In this special guest feature, Adam Carrigan, Co-founder and COO of MindsDB, discusses how the democratization of machine learning makes predictive analytics accessible to companies of any size. While machine learning makes a transformative impact on the business world,"
+    publishedDateTime: 2021-05-17T13:08:00Z
+    webUrl: "https://insidebigdata.com/2021/05/17/democratizing-machine-learning-to-empower-the-modern-business/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-89647-w/MediaObjects/41598_2021_89647_Fig2_HTML.jpg"
-        width: 685
-        height: 515
-        isCached: true
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 21
 
 secured: "OXqNvl7qW+hqFfR2NLHBsoq8ilXmrxAwOtyUcWPQsfm/K12RICPhOjqMgBjNpEROqWTr4jMZVe7wU8MmZdCRPa21eFzv03Hwj8e9d9cnUS1I9yXNg+VWxh8F8/lQu+HVkjFx2QleTvWoVly5lvT+rKTbbOkjlyRzML1/ctqPKyDBlf6VkXP7/C3W+kTqI0ZV8C8tQqe09IHOu3k+ZuG/XZpMT/YqZA0gv9+/OPmyFAUBs0omKoQ57Sh7eYwt3gIijRmhppWKDGDIiMtNT1uKiq2wGV7HDcdewXYrHFC8ZTH01Hoxof5mxvzcaQnZ/JxrUlhstGLqRVT0sPjgsCoTvjGc3DToHXY8yzEvbW1m5ZjVjhM8lUmIvZHixD2MA4QMqkc4Da0m9cNgFmJkkXczOFX+JKMFKa9WU54SbiaebJaNYXspHKowSyS6PzyMC2E79xZqgFxPNwdo+EjmmYlMsMTO0aMHllUEOSPZE+EjuxjI9BErrVLHTkK2uKzgiMNvxvxl/GodG069yZe+kHE48w==;3C/rtnAtSPn/r/AYS1QA+w=="
 ---

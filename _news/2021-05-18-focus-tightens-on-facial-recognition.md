@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Police using facial recognition amidst claims of wrongful arrests"
-    excerpt: "Police say facial recognition technology has been instrumental in helping crack some tough cases, but in the last year, there have been allegations of wrongful arrests. Anderson Cooper reports."
-    publishedDateTime: 2021-05-17T04:08:00Z
-    webUrl: "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
+  - title: "Facial Recognition Unmasked: How Companies Can Ensure An Ethical Implementation"
+    excerpt: "A carefully developed facial recognition strategy could effectively be the first line of defense when the world as we know it is flipped upside down."
+    publishedDateTime: 2021-05-18T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/16/894c04db-160e-4428-a9a4-1df839cc1579/thumbnail/1200x630/dca4e40a1aa58accb3aee4407b5d3ca8/0516-60minutes-cooper-716288-640x360.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0f76fe782210007a91069%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 918
         isCached: true
 
 secured: "WQK4IdUh20Ot0YKQbfOi5shyuRiFdQpdYtPBhkbkNdJBjJOGZShoiMEDqprj8g5/Gsu7LhKBly7VSvYglc8D81ku+T0LicMLuRPcC7l7kX0F8fp1EM+eJlf2wmpCV07nBCSjpERc+OZ48yY8xUFXi0ApL4GhE/qCboiHEMF7IIuOeb4deYN1vpGPWy8lk13WTKgWhcbXIRlhPkBGL2+HsdWjLDR+kbuU0VxiYcDoX03FbUosj3tldaWSb8vnls+6nn4s8OROds46rQ6CAuYvjAsBlQQgAqeNOd/CAqaYvRidPUEozjAPeUpQSHjmfcQYsrMAn/+zYetuZKpfUOVO0Lb1LzUClDyncJjfYHZEX7GG4fFfi5ODe1ZS4Ol7Ap00P/gfosKBDI8aL+SgjhaHQtyHqV2r9eulJ79MVATnVOloJ5zBRR7VoFihBxaF3xouJFvqmTArPEvHc2bGDCjwvOZKd3p+BdNqdbaVVk7j9pzELU8sogT1FWKBUrZcarppe/s9/lLn0HIbMN4Lhe6Hiw==;MKdNh+dIZSAlTb6J1agtHw=="

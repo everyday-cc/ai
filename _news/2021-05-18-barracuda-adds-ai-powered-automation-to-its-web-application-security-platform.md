@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-auto
 webUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: SiliconANGLE
@@ -39,6 +39,20 @@ related:
       - url: "https://www.ansa.it/webimages/img_700/2021/5/18/51d1f4c2378feeb0ae1fbea52f1013a7.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "Barracuda launches Cloud Application Protection 2.0 to defend web apps from evolving attack vectors"
+    excerpt: "Client-Side Protection automatically creates and deploys protections against website skimming and supply chain attacks such"
+    publishedDateTime: 2021-05-18T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/barracuda-launches-cloud-application-protection-2-0-to-defend-web-apps-from-evolving-attack-vectors-301293144.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
 
 secured: "IvVdoeCkGv8Y3rEL4aOhIGhXByIMHUDlMOPJVsmCS96va6UCgm0ToJTpXWHzOPhbaMYazRTivl6QxETYWIeXRyR/uT3zlJ/4oozea9H69VedmosmFmZcmV8hAx+qcEghb3oFx4zgPJ5+Xs88gI+ScK0Nm8S0V+zcpBINqzNdFv7jzNnu9Y8fB1HpJKSVc/15fExpEsC+kwsbq9pYPYu63J8hl7hwXswlCxvzPCjYXLG8TZLgNrXRPSZE7gR6kO07HWSOPLt2awhx5RqE5JXE5qhxgFhw2n9zM+pfx+OYEDPLMad6JJU7HLHC4Sj8EyXhHwyuXst7+Gg5xq80sIOGZM+x0i+vlU6nS23y3Ge30N+zI8DBfJot1VLEW3IWoM5EfZOw8NWvvwIz/JF0z2Vk8h3swpfgnU8qOecjq2C4O+4nO/LrBHp4TwLzoORmbe6cmFxpHG7Rdw3gKZC7d2iBi9XfsfMyo1yNZH/zyujIUBHkZmgyqQhV0jAxyNDXrICeTl3VfygkybHY+qFG3H+l8A==;smAJsoxQVHMPlSE809/9IQ=="

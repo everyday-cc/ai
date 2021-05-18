@@ -161,17 +161,6 @@ related:
         width: 638
         height: 358
         isCached: true
-  - title: "Remorseless Man Brags About Abusing Tesla Self-Driving Features"
-    excerpt: "In one video posted on Wednesday, Sharma brags about how he “just got out of jail.” “Bitch, tell the CHP I bought my license,” reads the caption on one video. It’s yet another instance of somebody easily abusing Tesla’s self-driving tech for a reckless stunt that could have easily turned deadly."
-    publishedDateTime: 2021-05-13T19:28:00Z
-    webUrl: "https://futurism.com/remorseless-man-brags-tesla"
-    ampWebUrl: "https://futurism.com/remorseless-man-brags-tesla/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/remorseless-man-brags-tesla/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
   - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
     excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"
     publishedDateTime: 2021-05-17T07:04:00Z
