@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon Extends Ban on Police Using Its Facial Recognition Tools: Live Updates"
+    excerpt: "Amazon said Tuesday that it would indefinitely prohibit police departments from using its facial recognition tool, extending a moratorium the company announced last year during nationwide protests over racism and biased policing."
+    publishedDateTime: 2021-05-18T22:36:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/18/business/economy-stock-market-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/18/business/economy-stock-market-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/18/business/economy-stock-market-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/18/business/18economy-briefing-amazon/18economy-briefing-amazon-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Amazon indefinitely extends a moratorium on the police use of its facial recognition software."
     excerpt: "The tool has faced scrutiny from lawmakers and some employees inside Amazon who said they were worried that it led to unfair treatment of African-Americans."
     publishedDateTime: 2021-05-18T22:06:00Z
@@ -138,6 +154,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Amazon to extend pause on police use of facial recognition"
+    excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition systems to law enforcement agencies."
+    publishedDateTime: 2021-05-18T20:02:00Z
+    webUrl: "https://www.chron.com/news/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Amazon says it will continue to ban police use of facial recognition ‘until further notice"
     excerpt: "Amazon said it will continue its moratorium on police use of facial recognition, extending the one-year ban it announced last year."
@@ -288,15 +320,15 @@ related:
     quality: 35
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:55:00Z
-    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    publishedDateTime: 2021-05-18T23:56:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 19
     images:
-      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+      - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
         width: 500
         height: 333
         isCached: true

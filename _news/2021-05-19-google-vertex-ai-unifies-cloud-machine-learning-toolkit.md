@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-c
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html"
 type: article
 quality: 104
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoWorld
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Cloud launches Vertex AI, a new managed machine learning platform"
+    excerpt: "At Google I/O today Google Cloud announced Vertex AI, a new managed machine learning platform that is meant to make it easier for developers to deploy and maintain their AI models. It’s a bit of an odd announcement at I/O,"
+    publishedDateTime: 2021-05-18T19:45:00Z
+    webUrl: "https://techcrunch.com/2021/05/18/google-cloud-launches-vertex-a-new-managed-machine-learning-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/05/18/google-cloud-launches-vertex-a-new-managed-machine-learning-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/google-cloud-launches-vertex-a-new-managed-machine-learning-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 105
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1209495734.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google Cloud launches Vertex, a new managed machine learning platform"
     excerpt: "At Google I/O today Google Cloud announced Vertex, a new managed machine learning platform that is meant to make it easier for developers to deploy and maintain their AI models. It’s a bit of an odd announcement at I/O,"
     publishedDateTime: 2021-05-18T19:45:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1209495734.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Less watching, more learning: AI enabling a smarter world"
+    excerpt: "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life."
+    publishedDateTime: 2021-05-18T12:45:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all"
+        width: 1200
+        height: 620
         isCached: true
   - title: "Google launches Vertex AI, a fully managed cloud AI service"
     excerpt: "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio."
@@ -63,6 +95,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google I/O 2021: The Vertex AI platform connects ML tools"
+    excerpt: "With its new managed machine learning platform, Google promises to make up for the shortcomings of ML tools on the market"
+    publishedDateTime: 2021-05-18T12:45:00Z
+    webUrl: "https://www.zdnet.com/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
   - title: "Google Debuts Shopping Graph, Machine Learning Tool to Make AI Easier"
     excerpt: "On Tuesday, Google Cloud also announced general availability for Vertex AI, its managed machine learning platform that brands and other companies can use to speed up deployment and maintenance of ..."
     publishedDateTime: 2021-05-18T21:48:00Z

@@ -2,24 +2,24 @@
 category: news
 title: "Amazon will block police indefinitely from using its facial-recognition software"
 excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-publishedDateTime: 2021-05-18T23:55:00Z
-originalUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
-webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+publishedDateTime: 2021-05-18T23:56:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+  - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
     width: 500
     height: 333
     isCached: true
@@ -72,6 +72,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Amazon Extends Ban on Police Using Its Facial Recognition Tools: Live Updates"
+    excerpt: "Amazon said Tuesday that it would indefinitely prohibit police departments from using its facial recognition tool, extending a moratorium the company announced last year during nationwide protests over racism and biased policing."
+    publishedDateTime: 2021-05-18T22:36:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/18/business/economy-stock-market-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/18/business/economy-stock-market-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/18/business/economy-stock-market-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/18/business/18economy-briefing-amazon/18economy-briefing-amazon-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Amazon indefinitely extends a moratorium on the police use of its facial recognition software."
     excerpt: "The tool has faced scrutiny from lawmakers and some employees inside Amazon who said they were worried that it led to unfair treatment of African-Americans."
@@ -152,6 +168,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Amazon to extend pause on police use of facial recognition"
+    excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition systems to law enforcement agencies."
+    publishedDateTime: 2021-05-18T20:02:00Z
+    webUrl: "https://www.chron.com/news/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Amazon says it will continue to ban police use of facial recognition ‘until further notice"
     excerpt: "Amazon said it will continue its moratorium on police use of facial recognition, extending the one-year ban it announced last year."
@@ -301,6 +333,6 @@ related:
       domain: charlotteobserver.com
     quality: 35
 
-secured: "15+vThKXRRwJ1fw6zNLnPIPR1WRVJfJAu2AVEyWNc7S+F14Aj1V5YqLJVOpkcchdSyI3iuUC/ESqTcUaVdFcPa+4s06ZqK9RudRj1pabRgr3x1oIv6cz0p9v0LjORT5F3e71OC6LMbqRLkMrRDgo9jHihv0o+264p80vom33yShCQaAqLUfrgzE4/NO0ty8espOiYQZQ4HOLgTcl3BQUyyI2U12DYPYTcmjvV2+eZgfsKlkPREKDP5LCUK5ysIbrhbr6I2tdCIDPVhwSZHA7r30qOvVHJOZryx/m1ze3oMdOPzJchAzMe+PUBp1EgolfgzGGRpYVR5/vJvcyNfnKm41KiC59zn6S5qBkQrVr9NWL1z2OF0XuCEARBOAWT0/cIVIDtg494AUskYYDuO/6dBvK7gXNEoksl4q+ht7ZzLZ8p+dAQTlC591xBx9tMZ5O73wqOMJVowL4XomjPQhl/nA48LoV+sVAwusv4IB4hJO/Bs5VegMCDhE6WGi6Wp3ASyXR+ajLaz67T2KbZLsn1w==;BWDIWbxL3wOszKOfPGwLOg=="
+secured: "eW1WeOr5pSBF/HbJrLfhK9ltE+U9UYbExoo0KdDCaiFVev7CvXs0GFwYDLY2SD2NQXCtJOJB+bQV+Fdd/jvmQ/SKbbtHtW7uY9Ug95QPAN+MssXI+ywOzifhGZH1ptWeX+wCMq/InrEKLU364tde99EoqgkHtz0YWFpYvR5IImml7n1ORCBKyVFqRhARsfInxMXOrEKsR97yKZb3WsKIpJpIq7JNgatW1NlFcdMc3LloVHYhLq+szWZKIDnYAkANzZEgHIEA6Tu3FHQV0wPy+ZTY0l0mGRNi4c5ix2RY+qPMd8ukX4XNUSHeSd8oXBSYX7CtDQ8p++5PkhXf0D9j7OtHUs/9J9bs9PcHdwPwnu0=;/EjpG2QsDnOf9M2YEZBuig=="
 ---
 

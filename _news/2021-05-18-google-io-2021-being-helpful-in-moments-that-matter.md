@@ -31,17 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Google I/O 2021: The Vertex AI platform connects ML tools"
-    excerpt: "With its new managed machine learning platform, Google promises to make up for the shortcomings of ML tools on the market"
-    publishedDateTime: 2021-05-18T12:45:00Z
-    webUrl: "https://www.zdnet.com/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+  - title: "Google I/O 2021: An AI model to diagnose dermatological dilemmas"
+    excerpt: "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned."
+    publishedDateTime: 2021-05-19T07:57:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/19/7e5f14e9-7437-4a6b-b8ed-3e78346e812c/google-skin-ss.png"
+        width: 419
+        height: 835
+        isCached: true
 
 secured: "Z+VkwpSykHD/bUlQa2egoBZs6TMDfMllM1UDqVT7Ss+GHbeu/4f8sSSOO9yC92Lv634l+yjs8TIZsn3BMyDhGPxSrJIlSH7LoKvG89dw6ffkCi2wa00vYAKn1ch/fvtwwEB97ZShEtlUiiLEh75vTMsVIETp63a7uw91X0eQEaL69Zq8QnFkvUU2QYydx/JzxGstmGbnvUzgR2UzuEG4KOetu2IGGyfdl/FToyhdtJXodsJKc5/GdoMAEpEu3Msw1CyEj3ME4WBx0FuYT46bL2GTmlVJoibOj6pNDw94mqAQ8wF5shsOW7YL2GJ5E2DrHqxNKa2YR/P0UfnDdFMjcfh+s/8NRKe0Ge9zfnKgcWQ=;rktTKLPSRVCclLFlnZG0Lg=="
 ---

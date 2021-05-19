@@ -3,18 +3,18 @@ category: news
 title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
 excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
 publishedDateTime: 2021-05-18T20:23:00Z
-originalUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-webUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-ampWebUrl: "https://www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+originalUrl: "https://www.wcvb.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+webUrl: "https://www.wcvb.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+ampWebUrl: "https://www.wcvb.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Autos
@@ -27,56 +27,78 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo self-driving taxi confused by traffic cones flees help"
-    excerpt: "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck."
-    publishedDateTime: 2021-05-17T11:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57144755"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57144755.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp"
+  - title: "Pony.ai's self-driving car takes media for test drive"
+    excerpt: "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin"
+    publishedDateTime: 2021-05-14T16:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVECXWMSF"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.reuters.com/resources/r/?d=20210514&i=OVECXWMSF&r=OVECXWMSF&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Waymo’s Self-Driving Car Is no Match for Construction Road Cones"
-    excerpt: "The problem with autonomous driving is that even within the relatively “unexiting” environment of urban road networks, there is an astonishing range of elements that introduce quirkiness and confuse driving AIs to a debilitating point."
-    publishedDateTime: 2021-05-18T17:29:00Z
-    webUrl: "https://www.industrytap.com/waymos-self-driving-car-is-no-match-for-construction-road-cones/57070"
+  - title: "Self-Driving Cars Dealing With Those Barefaced Acts Of Repeated Brake-Checking By Human Drivers"
+    excerpt: "Dealing with brake checking in an era of self-driving cars, including human drivers that aim to brake check those vaunted AI driving systems."
+    publishedDateTime: 2021-05-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
     type: article
     provider:
-      name: Industry Tap
-      domain: industrytap.com
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Toyota-backed self-driving car Pony.ai partners with Luminar"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor (NYSE: TM) Corp, said on Monday its next-generation technology for robotaxis will be using lidars made by Luminar Technologies, Inc. Lidars are laser-based sensors that are a key component to many autonomous vehicle technologies and help them perceive the environment around the cars."
+    publishedDateTime: 2021-05-14T15:51:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/toyotabacked-selfdriving-car-ponyai-partners-with-luminar-2506931"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
     quality: 39
     images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2021/05/safety-cone-3442464_1280.jpg"
-        width: 1280
-        height: 854
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA7D094_L.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Watch self-driving car struggle to understand traffic cones"
-    excerpt: "An autonomous Waymo car carrying a passenger got confused when it encountered construction cones and unexpectedly drove off when the roadside support arrived."
-    publishedDateTime: 2021-05-18T00:36:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.html"
-    ampWebUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
+  - title: "Will we be liable for the decisions of our self-driving cars?"
+    excerpt: "Given other liabilities, it’s not much of a logical leap to hold drivers responsible for the actions and inactions of the self-driving car they’re in and responsible for."
+    publishedDateTime: 2021-05-17T21:33:00Z
+    webUrl: "https://techaeris.com/2021/05/17/will-we-be-liable-for-decisions-self-driving-car/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Techaeris
+      domain: techaeris.com
     quality: 24
-  - title: "Traffic Cones Confused a Waymo Self-Driving Automobile"
-    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as a worker from the c"
-    publishedDateTime: 2021-05-18T18:55:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/05/18/traffic_cones_confused_a_waymo_self-driving_automobile_777709.html#!"
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2021/05/self-driving-cars-liability-tesla-hero.jpg"
+        width: 1170
+        height: 724
+        isCached: true
+  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
+    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely. And of the five states where companies most frequently test autonomous vehicles—California,"
+    publishedDateTime: 2021-05-14T16:14:00Z
+    webUrl: "https://www.gazettextra.com/work_wheels/remote-control-for-self-driving-cars-isnt-required-anywhere-why-its-complicated/article_8f2c7b42-f098-5132-9f6b-a0b0c5cc527d.html"
     type: article
     provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
+      name: Janesville Gazette
+      domain: gazettextra.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
+        width: 900
+        height: 470
+        isCached: true
   - title: "WATCH: Self-driving car flees from human driver after getting confused by road construction"
     excerpt: "A self-driving taxi fled from its human driver twice while on its route after getting confused. The vehicle, operated in Arizona by autonomous driving service Waymo, became bewildered when it approached a construction site."
     publishedDateTime: 2021-05-18T17:03:00Z
@@ -92,6 +114,6 @@ related:
         height: 360
         isCached: true
 
-secured: "HD/h+0h64ogZ5xdugqvRPVhJqsehoDgfzetsS65u80SYDfxIjZzolO2xKhGx8qvvxGZ0hx04RELgQEPryc4l2Koq9b/U3VUijYfQePlzZlizWZXIqslosg6C2+8dsyRBTBZ1rId1EGOe1p+84Kr3XOHsOGxco+7FKjTKLoHJkCoIdyBhLAqCcOHZfrzNxLn9/cmfkI2unXicJ1sNX1KklvGIQ2GOo9ml3CGqF748oSjYd7kHMBpOlaCjOkTqqZaoBoysfKh8lJoZSPlWmUnYUvSwqpEvAAwW3VUsHbfJgQB7JxAc/6rQZrNxJY5xYNorVQW40lwQS8jGVMkV/zGzwcYyu7qpk2Zm9BgaU7vWFqc=;yn6nkHGVlIfbRnC0+Zv7hA=="
+secured: "8OBl7FXETmpsvN+KPnbWhViE6JnOcgfiRHzLm62CURgLhmyUVH4dREc6xZ39b6u/o5uNnGbZ4sRz7hG0KcDX+kWfRxG0yJ3Jg9K1H+m7g50mfDbIiIPzZ6G2xTy9jRV70/on3+cJyfAST11d2++GRKUU8mUCofeejdMHmj9HfCAu5N4l401XhjXoWpVYaK8PtzBBzmZEcVgFALlGCdqaqaEIpg0IydrJN1hb9m0CR8pdAiVOBybzbko1iWUdogm61ZVjljqKWuDUBYegDnQrF1KTJdpda4LeRjCs+CcFhpldA1Uxauz6jiMYYZue0mdksC0plRUAdFu21L98nT7MwYuMawmjAYLaTAb8BvyNjhw=;CsQZsCNjtfW+3IkMbrmCAA=="
 ---
 
