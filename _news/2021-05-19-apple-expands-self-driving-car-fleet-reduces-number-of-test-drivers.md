@@ -197,6 +197,22 @@ related:
         width: 638
         height: 358
         isCached: true
+  - title: "Apple cuts the number of drivers for its self-driving cars in half"
+    excerpt: "Sounds like Apple's self-driving cars are getting better? What you need to know Apple has increased the number of self-driving test cars on the road. It has also cut the number of drivers for those cars in half."
+    publishedDateTime: 2021-05-19T00:40:00Z
+    webUrl: "https://www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half"
+    ampWebUrl: "https://www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 44
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
     excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."
     publishedDateTime: 2021-05-18T01:05:00Z

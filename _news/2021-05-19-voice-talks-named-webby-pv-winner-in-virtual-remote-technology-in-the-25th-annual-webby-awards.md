@@ -33,6 +33,20 @@ related:
         width: 300
         height: 600
         isCached: true
+  - title: "Quanta Magazine Wins Webby People's Voice Award for Best Science Website"
+    excerpt: "Quanta Magazine is the winner of the 2021 Webby People's Voice Award for the best website and mobile site in the science category. The"
+    publishedDateTime: 2021-05-19T02:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quanta-magazine-wins-webby-peoples-voice-award-for-best-science-website-301294490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "tGsAa0ZeEZHRpripimblhvCM8fnOGijRW1qC/H3JBK8C1YR04amcJWl9XW9O39PmYaq9IRGsxnbHKaOXQjR4REP30ql3bL5wJ8Ufaqaj6/gOvRSjNx0ad8snDy9rVH24nzmjVZG0yOhMX/6rMZkJrGXYZkP9YTGxQ7iPNpxObf8TcbEOVAL/Y+ORJ7xvbYeAhwtZrCr4HaamBTbMX7rtHV0onDCcCkJ2PeVpaWLfpWlGTZ2ICa1/9zQshhCEPRjRXAR9Jy2tKHiZfB2cq159MLHLUxv6XLq6sw6nVl99UPJvgwEHsFaRvR1SUL9DNmuyVYdQJ7bOVP69RT9+mVk8v9zFPQXAzBVcTAB1VI0H+WQ=;lnT+RZO89c9uoiyrFGK8ng=="
 ---

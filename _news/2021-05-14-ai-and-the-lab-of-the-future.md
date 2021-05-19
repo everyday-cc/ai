@@ -49,13 +49,18 @@ related:
         isCached: true
   - title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
     excerpt: "Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it has entered the fixed industrial scanning (FIS) and machine vision (MV) markets with a new portfolio of solutions that enable track and trace capabilities and quality inspection of manufacturing work in process."
-    publishedDateTime: 2021-05-18T20:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9372496.htm"
+    publishedDateTime: 2021-05-18T20:06:00Z
+    webUrl: "https://www.register-herald.com/region/zebra-technologies-introduces-intuitive-flexible-industrial-machine-vision-and-fixed-scanning-solutions/article_91037fe3-3f37-50c7-b408-4cfae3523883.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 7
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "jSy2GRuRN4kUato3vL/JflFuke1vxkYvgpHBZoN2te1Wv1T4X7GMYGP+F+g7suX/rOzT+zL2/7gII1a+gZBpG6JlH3HHXzWp3GeGm/lrcN/C3ZQtvzXqnMmxWjbwOhr8bUEM1S6RXseUTcCCr/8XTjRPZKJxmXKiqVmEnj5lYNttcmLa2mLQ/Bi2/i6vfWu4QIjTIdVaieSAZy3INLzh1nbCoDechZL0rAcLknDRTiuj4TJE1V+vT8DlKg7kq5fYA5dDRzQLTkh5zGJ62bAkIuXyI1SuEHtsfEmQtscB4H5iUqbY7i8zYNXmP7ExnBtT/7Nt8Hq6bICzGW6zzuSY34/rx6UMyxk0QwmwGukLMCs=;5NoBE1BWvQecSUETykyD+g=="
 ---

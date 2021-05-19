@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Didi to develop self-driving vehicles with GAC"
+    excerpt: "China's DiDi Chuxing has partnered with GAC Group to develop and produce a driverless model, which is expected to consolidate the car-hailing giant's position in the mobility market. Didi's self-driving technology arm Didi Autonomous Driving and GAC Group subsidiary Aion will be responsible for the model's development and mass production,"
+    publishedDateTime: 2021-05-18T02:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a32983a31024ad0babfaeb.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a32983a31024adbdc85448.jpeg"
+        width: 647
+        height: 431
+        isCached: true
   - title: "China's Baidu Announces ‘Apollo Air' Which Supports Self-driving Vehicles Using Real-time Data From 5G-Connected Roadside Units"
     excerpt: "China’s tech giant Baidu is expanding its Apollo autonomous driving platform by adding vehicle-to-everything (V2X) communications technology in which autonomous vehicles communicate with roadside sensors using ultra-fast 5G cellular networks."
     publishedDateTime: 2021-05-14T20:45:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Quanta Magazine Wins Webby People's Voice Award for Best Science Website"
+    excerpt: "Quanta Magazine is the winner of the 2021 Webby People's Voice Award for the best website and mobile site in the science category. The"
+    publishedDateTime: 2021-05-19T02:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quanta-magazine-wins-webby-peoples-voice-award-for-best-science-website-301294490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "VOICE Talks Named \"Webby PV Winner in Virtual & Remote: Technology\" in The 25th Annual Webby Awards"
     excerpt: "Modev's \"VOICE Talks,\" presented by Google Assistant, announced today that it has been named the \"Webby PV Winner in Virtual & Remote: Technology\" in"
     publishedDateTime: 2021-05-18T20:49:00Z

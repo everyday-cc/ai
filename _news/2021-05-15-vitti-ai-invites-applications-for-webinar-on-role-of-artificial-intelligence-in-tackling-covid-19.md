@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://timesofindia.indiatimes.com/photo/msid-82258714,imgsize-196837.cms"
         width: 1600
         height: 900
-        isCached: true
-  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
-    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
-    publishedDateTime: 2021-05-14T09:24:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 39
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/05/shutterstock_1764865133.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "JIv9TCorgsnobL7+baI8IhAhVROS5wJBy8bbHPfQD3jncF0beZETx1sZW3wx5EgaU4rk50glH+QJgIqgHYPE3avG5DZ3cTb4QvoeFCFY92uQY1jXKx3S716qhlJ4dKGSxcfzf7hWOTA2U1ErgrBHWca3G8ZXtz7fO5RE/Cmz+4mjOwuZhWIfV/8CIxXTbV2sspSRoZdQ75nYDoKondIpruaH81mZufwbDIH9TTvY0deomYtAdhBlfpl6GxYHqw4wcXRAd6YcYvmsnMNPGF/7GnNZfjkhxfoq24lhTCUkayqI+239ByTADNv63pOKGRom/Vdu3KU0NAnsaE6ydhsqBaoq2RzXN8Ij3wOl6Aej9MBSuawG4xs3qLCTHlpmpDKP4nCOMMICRKC+pAUxYzR7WEX8E3lR9tHloYvooVwt/j3ylufj4evTQJTAnXGqtS4kWfEuncX8JVxZxwEFEItdbmssn8UhE7R4Kctp2+47dnF0RmQQkuW5cAQxlozM8h9e3xXdHRNvrvhkMQSwSwX7Cw==;V3vsPtWns8ue1rycM5fnYA=="

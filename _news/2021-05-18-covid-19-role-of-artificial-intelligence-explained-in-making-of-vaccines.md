@@ -41,20 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
-    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It’s been a year and a half since Covid-19 broke out."
-    publishedDateTime: 2021-05-14T09:24:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 39
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/05/shutterstock_1764865133.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "dKWhXW0R71pMKQpRWSPCaHkbxKKjmBLX1CX8kuKECrAIopCGlAQnoBUjSopUR/sqcEncfyJd3jjQa7ebTxfl29CwxLovulowK7RilqTNh1AkTkYqs6WUzwUJx7w61DSZ7dW6vnlPRlkyQ1z3DVpkJd6T3rI8t1BqomwXVWDZHLKRgpqK4eJu7B52HyjglhURuJwAE4m6z4ZS1emKQOylHBurSDVLPeqkZhdh6fUejZaAyJftnuHmRDFqpOEQcSpv9L42Bza8FYkES1raBzEZ72XKHl223A3++yCkDpy/b7US7j5BiTazFKaD+mpcZrM3SOtBbJxyDhcbmJPrRuhwpMeQv7pyWS0AMKNzjdjdRw1gkc3pFuJBP9XToJcKmb9gG/lQVzueQ8+mJ9zU9+JBvez6LAFG9PRIs4O8HjUMYoVl4l3o08dv+FxHcCCcg+0i9Ayvod8r7u6cOmCeNoJ4tnPZdfddUJg6wsPQO90p6DXX/7EnZkrmlkXcJDkHyYQCNNDbR5A4yCUoYJkkFSb8WA==;VLF9TMxEqXLtVHgRL25V9Q=="
 ---

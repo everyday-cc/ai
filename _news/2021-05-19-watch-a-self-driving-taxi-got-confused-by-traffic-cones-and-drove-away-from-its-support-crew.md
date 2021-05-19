@@ -3,18 +3,18 @@ category: news
 title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
 excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
 publishedDateTime: 2021-05-18T20:23:00Z
-originalUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-webUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-ampWebUrl: "https://www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+originalUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+webUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+ampWebUrl: "https://www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI in Autos
@@ -42,6 +42,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Waymo’s Self-Driving Car Is no Match for Construction Road Cones"
+    excerpt: "The problem with autonomous driving is that even within the relatively “unexiting” environment of urban road networks, there is an astonishing range of elements that introduce quirkiness and confuse driving AIs to a debilitating point."
+    publishedDateTime: 2021-05-18T17:29:00Z
+    webUrl: "https://www.industrytap.com/waymos-self-driving-car-is-no-match-for-construction-road-cones/57070"
+    type: article
+    provider:
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 39
+    images:
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/05/safety-cone-3442464_1280.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "Watch self-driving car struggle to understand traffic cones"
     excerpt: "An autonomous Waymo car carrying a passenger got confused when it encountered construction cones and unexpectedly drove off when the roadside support arrived."
@@ -78,6 +92,6 @@ related:
         height: 360
         isCached: true
 
-secured: "EAnVr19easFJRa7R0TcvgcB+65ppHKi9Xy7HZj7Q+DxcrEfdf0+74ed0BM/D55pXMdjDxuwUp3aW8k1iYUrc+d+c9LYr45ieu9SksW169ehX9pbRhWpQMngAZZSWSWKtvVP1Gtipc5fCYeznFqOR6FZMWfHmoa1lCgvK90oQf6ZWY1w3rJcTQKTdMjUc+kMsROk6ch/2RPbFEBt04UdkhAt+mex6fLQaiIvSvNcpxT65RNGWpPOT7GVpKmThaFWCaz2pJMmHBqb1sr8KBDn+10IQN4QuM7elKjtoa1RXJGjqIrWY4FUGmmj9fzai6qLy8D93sPRwtYx0sdffsKh0xulbkBxv5y6y/dGxzSD966Q=;aTSDZuuPtZFDXMTt7+Qi3w=="
+secured: "gtud5Fgl7ykSOhSbUOMTjAVviw4L8J9lEfIhJxLoPJe2kqWntBPx8f8vc8AXW6zzMxKAon+UdI7RwsiHphtHnAtwQPKyWDxTNMOv/qSxXSecVHODcaGO12CfIeOe/QanSaz6WKDSFz52g+3Zg3BpZFnH4hTRVySdyTS5+b6sxoukiEGwljzkWpcSK1ita216CmId4O2MqZKyngR3F4kku6G5iS1G4AE3TNjsom/fXCMX5b+WdprgNBWo3mQLGHNyRldwZzBf9zVePS+QsZFGZ61a6ubGXKZiS6+/AetuheFRburW4qgRjJno/9OJqBh4r/RSXGnmnAYAzQ2PbRm6s/Uy+wlux5AkMrsxHzdDsDs=;q9wRWKXInPHmyygFQIqW/A=="
 ---
 

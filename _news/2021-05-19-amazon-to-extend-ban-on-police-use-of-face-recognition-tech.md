@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Amazon Extends Moratorium On Police Use Of Facial Recognition Technology"
+    excerpt: "Amazon says it will uphold a moratorium on the sale of its facial recognition technology to police departments, a decision welcomed by civil rights groups. The company had imposed a one-year moratorium on technology,"
+    publishedDateTime: 2021-05-18T21:49:00Z
+    webUrl: "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a43282276597fd5170a746%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
   - title: "Amazon extends ban on police use of facial recognition software"
     excerpt: "Congress has yet to pass laws regulating facial recognition, so Amazon extended the ban on police using its Rekognition service indefinitely."
     publishedDateTime: 2021-05-18T22:40:00Z
@@ -243,20 +259,20 @@ related:
       domain: charlotteobserver.com
     quality: 35
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon — if ever."
-    publishedDateTime: 2021-05-18T23:42:00Z
-    webUrl: "https://cnnphilippines.com/business/2021/5/19/Amazon-police-facial-recognition-software-ban.html"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
+      name: KVIA
+      domain: kvia.com
     quality: 19
     images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/5/19/Amazon-Seattle_CNNPH.jpg/jcr:content/Amazon-Seattle_CNNPH.jpg"
-        width: 750
-        height: 450
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+        width: 500
+        height: 333
         isCached: true
 
-secured: "JNjlR0AeAgF1wCwzWYpcks04OFm15yXGnUF+PLCjgS/2aYNqVu75yxDCNfN2w1eb1iQ+8d6oMDOxHplK8LVIVrO3hS7b3V/FsLakbxsp5qkT0NjSzMtF0ypRZMyIhd6hPteQQwRG+1uceTVZIMaT/Mt1nlccWxTSI3TwiyRGNUg4Nmf8LQS8RTiMOdJ++5p7cuCK6udJGLnTTjwX5U/CDjPXQNThT0VSyUF91aexGpmj1uoNvOYsS1lbV/JEP6Ta+aMSRQFXne8v4ZOy8BkJthe7dhe0RNzV6IAkBPOc3xD61hKxyU1YR3vpEn3CzpESEZyts7oR+dYC2efhP114e0bghP4Pp4Zlg7HV8hept4o=;uxHwNDyrwz/9j8Vb66ZwmA=="
+secured: "UcffI9DEk4z12aNdd12CtQ9Q6aX4G/erSU+F6ojJENPIDBTdGFW0cr/QvH0YSb+Mx//dZjG85hAqMonXUWPU1pVQbwx+iRBjEUnVgffO9u+bJ8k70bmACjV9KTNQSzj5W1uDi2MSo3NaJJQQQSWZT4KZquMs62C/GrycrTSyX5jnTTImNlnERYLdXfyk9+bzB6W1PUHju0AeS07OEQJBAMz+1CpxEdcsMDXTzZzXTdQrf1hknFnk1bD8bonXDtgiSX6RwdiAHsSH5IEUiqfmkHCAtg6rqyCIwxhIxLaH8SEcTIwc+mIcEehQqYAoxX8hlnR9/9ecLv2uwbkDq1z0RdXTULJrK/mGx+/TrAkP7QFECPmEDfb14jIo4XgwXP9C2DxxvR5PEbsXI/u8HtjTYzDFBZTUjNb0ipq1x9TZN5zo+Ao+Tr88qOK7x1GTcMI8OldpIDGKiCJIR1XHPb3aJRv0vRhJOrk6eOkllE1iiOuRwqhy3XqT9A6MEBlE+uoaBmMu243SaOe4qN+Um2K2AA==;Q1PhYAcdukx8SRy1hN2JSg=="
 ---
 

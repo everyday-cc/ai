@@ -2,21 +2,27 @@
 category: news
 title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
 excerpt: "Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it has entered the fixed industrial scanning (FIS) and machine vision (MV) markets with a new portfolio of solutions that enable track and trace capabilities and quality inspection of manufacturing work in process."
-publishedDateTime: 2021-05-18T20:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9372496.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9372496.htm"
+publishedDateTime: 2021-05-18T20:06:00Z
+originalUrl: "https://www.register-herald.com/region/zebra-technologies-introduces-intuitive-flexible-industrial-machine-vision-and-fixed-scanning-solutions/article_91037fe3-3f37-50c7-b408-4cfae3523883.html"
+webUrl: "https://www.register-herald.com/region/zebra-technologies-introduces-intuitive-flexible-industrial-machine-vision-and-fixed-scanning-solutions/article_91037fe3-3f37-50c7-b408-4cfae3523883.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Introduction: Building the AI bank of the future"
@@ -57,6 +63,6 @@ related:
       domain: bio-itworld.com
     quality: 19
 
-secured: "koOqViNoPviiw1ROZUje3Vtzme3fFGjCoE1X5qpEGr4QxvLC6Jrk4rAAVoIiA/TTd2waNmc+Hkc9YQXrUOrN/LCsY0zIsmf2LOLVCzohIFxCE6mORf/M70izcJDUUvIjEAcNnJ3r5RHyTdKbLSTrG35CtHt6Qw+cRhfWMCYHhzopgzdO+2hasladWnFL43MyELRJDvlb+dP5EWlYa5QxHZXICmjQoM4RCvngFM+FDDB4g1+wb4PR5vU0W9Z2Clihbbh3ON2IFHyWhNf1mTz+uC9Wfnn92JNHSz1Dhb7+b5d7UYnnpZpFva097xedL4uNI2Wz55NsDSZgVe2W8V3TNgCTej7OmPo7Mkj3bH5h8iY=;TT80cqArH5HP0eAizMJVlw=="
+secured: "kuwx2XjpxH2IVMxFKw5WXJaok+oFSDTJ/+qZ34os+e5RYnaq2CQ9RNKSFwtfTU4qG64WCZFgowhtZDIkKV8yc7vArwhjXmU34uH129nGgDe3W34YldnLqJC8Xzv493ymOpbyffFIn3tEpNBis+icytsMSTigkBJocgRAnKxkQxlB5OR351hOOd4CLdDxKo4TUiTS7xMQB7uMitVq/hqlIfUQMcocJzfSmG5fv1Oh5D5H2+smVTO2ptFv3AmdG7vzpCjIPaUyN43SBXyDjsnZCC56vuHo/MwsVI91MWFyUYP/NAtn+3GrnIEyCtityi74/1ZGrJQc9TWX/ynhu5oRIsH5jhUIHZ061zVfaeJFDwc=;dY0si6NivTUaPjKEUkggiQ=="
 ---
 

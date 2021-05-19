@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS and NHL to debut on-screen analytics in Stanley Cup"
-    excerpt: "Amazon Web Services (AWS) and the NHL are to introduce two new on-screen analytics for the Stanley Cup. The graphics and visualisations will appear in broadcasts, and aim to give fans a better understanding of how players and teams are performing."
-    publishedDateTime: 2021-05-14T09:21:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech-innovation/aws-and-nhl-to-debut-on-screen-analytics-in-stanley-cup/5159635.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 39
-    images:
-      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/7/6/9/1345769_untitleddesign_193355.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
     excerpt: "PTI takes no editorial responsibility for the same.) From saving lives of first responders to exploring manure recycling, the winners transformed data into decisions. Mumbai, Maharashtra, India – Business Wire India The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI."
     publishedDateTime: 2021-05-17T08:36:00Z

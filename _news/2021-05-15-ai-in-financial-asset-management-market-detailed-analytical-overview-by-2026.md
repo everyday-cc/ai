@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS and NHL to debut on-screen analytics in Stanley Cup"
-    excerpt: "Amazon Web Services (AWS) and the NHL are to introduce two new on-screen analytics for the Stanley Cup. The graphics and visualisations will appear in broadcasts, and aim to give fans a better understanding of how players and teams are performing."
-    publishedDateTime: 2021-05-14T09:21:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech-innovation/aws-and-nhl-to-debut-on-screen-analytics-in-stanley-cup/5159635.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 39
-    images:
-      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/7/6/9/1345769_untitleddesign_193355.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Using Advanced Analytics, AI, and Machine Learning to Mitigate Risk in the Modern Broadcast Environment"
     excerpt: "Zixi's intelligent data platform is leveraging the most advanced event correlation tools to identify issues in live streaming workflows before they become problems."
     publishedDateTime: 2021-05-17T13:00:00Z

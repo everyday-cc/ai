@@ -46,6 +46,22 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Google I / O: artificial intelligence tracks tuberculosis cases"
+    excerpt: "Google shared an artificial intelligence research that aims to improve tuberculosis tracking and announced the tool."
+    publishedDateTime: 2021-05-19T01:06:00Z
+    webUrl: "https://olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/"
+    ampWebUrl: "https://olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/amp/"
+    cdnAmpWebUrl: "https://olhardigital-com-br.cdn.ampproject.org/c/s/olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/amp/"
+    type: article
+    provider:
+      name: olhardigital.com.br
+      domain: olhardigital.com.br
+    quality: 57
+    images:
+      - url: "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1306964536.jpg"
+        width: 2076
+        height: 1080
+        isCached: true
 
 secured: "H8FxI88MgZLZzsy/u0hIrGMGYY9FOP3NdiQgELJ+hMgwq1bJbvgNyZ1keZwj6Ey65to1q1rD3ih8rr5UwYEXTIlqOd74jxpkfBcmXNbmT0jAkfKCX+zLWVr20xahpXnr/6ppjWzdR8dirTWLH+lD8tqGYUZIuAtHL+XrXi99c/zQsr9oW77lJANoaFWngP2hk6ECAV83gsZqkUtQmW/kqjdXfwIrD0nk60/om1IrxGEXmxxHTj4+eKjxvWjmJPG/2yZ+jNsJZOy2udVOnneiFYFOs/L+gOLG1AzRVFgYPJLs9hP9KsHmK64kEy9JgzQMIp30QK5IMw6YEKWKzeGP+McuZL3VbhcUKsKAoycmx+scs5QCKBxlbDC5rhaPNbELS9uGwO+FUms4B0tAczFRbLkyljfNwn4Bt4h+MovytPeLqrfQg3tCLlG6oJvyVNgPWNgKrTAlG63jZwXlTsvNhOYHVaryqAB6nj8WmbrfF/eusao0pswPAOj4NgvSqmy9jHj023yxNbE9POAlQYVamQ==;LMTTJznccAOL3iP4r/m8Gw=="
 ---

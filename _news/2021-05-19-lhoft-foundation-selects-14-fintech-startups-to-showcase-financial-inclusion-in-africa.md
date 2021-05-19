@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Singapore based MarTech Startup Affable.ai Raises New Round of Funding"
+    excerpt: "Singapore-based Martech startup, Affable.ai has raised $2 million USD from Prime Venture Partners, Decacorn Capital & SGInnovate."
+    publishedDateTime: 2021-05-19T02:38:00Z
+    webUrl: "https://www.brandinginasia.com/singapore-based-martech-startup-affable-ai-raises-new-round-of-funding/"
+    type: article
+    provider:
+      name: Jury
+      domain: brandinginasia.com
+    quality: 37
+    images:
+      - url: "https://www.brandinginasia.com/wp-content/uploads/2021/03/data-analysis-on-laptop-Branding-in-Asia.jpg"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "Bad Robot Games Announces $40+ Million Series B Raise Led By Galaxy Interactive Along With Horizons Ventures And ICONIQ Capital"
     excerpt: "Bad Robot Games, Bad Robot's video game division, announced today that it has completed a $40+ million Series B raise to create games that are as compelling to watch as they are to play. This round was led by Galaxy Interactive,"
     publishedDateTime: 2021-05-18T16:26:00Z

@@ -181,6 +181,22 @@ related:
         width: 638
         height: 358
         isCached: true
+  - title: "Apple cuts the number of drivers for its self-driving cars in half"
+    excerpt: "Sounds like Apple's self-driving cars are getting better? What you need to know Apple has increased the number of self-driving test cars on the road. It has also cut the number of drivers for those cars in half."
+    publishedDateTime: 2021-05-19T00:40:00Z
+    webUrl: "https://www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half"
+    ampWebUrl: "https://www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 44
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Apple expands self-driving car fleet, reduces number of test drivers"
     excerpt: "Apple has reportedly increased the number of self-driving cars it is testing on California roads, but has halved the number of drivers licensed to operate them."
     publishedDateTime: 2021-05-18T19:07:00Z
@@ -286,6 +302,6 @@ related:
         height: 600
         isCached: true
 
-secured: "tw1Ks6nh0dB/N0cO/bGwRZqothWN0FCjUZAIc0C2sGJZFhrJuIqNUSOLjb58msrrH4/A7hkkp/+Lh7dGEOr1/F0sC35PRD8BoPTJ4osQQfMCI1HUIHa1xq04M2+x9yknAUOxSlgyjCDI3iLYVr9120z9rVD1dFifhrQkuOPoFq0s9yM7Kez29dS35EBulJ74e5yJCYS++WRSj51SraNJB3fnk6hAi6+i+RmYXe9848nffSR6lzyqj63lFeIiuw9itiEI3jGph2ovCC4AzGSXJuGDB/XR1sqGIHjMrQlmz5exSj9+6Q2RDRyHBM/hg3zn6l/quauZGsla5EJyTSF7JXwxnVX3ukC2qj91fn1hcEI=;F4rRmGrH7tLZMES+BoMEng=="
+secured: "dz0IyQNPUTiMahK1uaJvPdxAgNzoywuuH2goT4khAulFQ8bRCCdrXv1G0Z+GNwGWZoAM/feCQ6nHkELy4rw9qvIqWlONygoGlIbEvfEE0hYkvivA48onlgjWOXZgVyunu9KC7fsYHGrimAtV8KE/uWKRWjeL3YiD1CtsXWyd3SPuSLxu4f+FNZxKOZJIHtjHfhpNrVw32gr1RABTF42OQwzOq3UzHmVWG2T/2tBylnqnTgZ8VnqMBxYUPS9T/BHrNu6FVJvRjzmZ5/uRU3UrVLbxvJv9MRBskEN6wsVwqpAVY7zd36Uwi8rTrvEFhm1E5Ine7BZqDDCwyufcBnvjIjL29aGzfz8gFMSxvbu3P7fz4PRXMSu9vtUfzJ6uHRYjOM3kO63Txrs0lNAG5DvUOEokqXMBsfQGjlIvT1etR8/XBvUz6JEL/KmC15bkHmmFW5Fi40aAezPA0TEYfA1arGEJLOGuFvH+si4Oh7V9ol6DVIKAmwl8Nn9H1piSOuk05/JzLeqGx+UoITTuKUkCJw==;JdPD6jRSwexJgM5VlatoEA=="
 ---
 

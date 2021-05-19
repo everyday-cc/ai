@@ -37,16 +37,30 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Waymo’s Self-Driving Car Is no Match for Construction Road Cones"
+    excerpt: "The problem with autonomous driving is that even within the relatively “unexiting” environment of urban road networks, there is an astonishing range of elements that introduce quirkiness and confuse driving AIs to a debilitating point."
+    publishedDateTime: 2021-05-18T17:29:00Z
+    webUrl: "https://www.industrytap.com/waymos-self-driving-car-is-no-match-for-construction-road-cones/57070"
+    type: article
+    provider:
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 39
+    images:
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/05/safety-cone-3442464_1280.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
     excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
     publishedDateTime: 2021-05-18T20:23:00Z
-    webUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-    ampWebUrl: "https://www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    webUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    ampWebUrl: "https://www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: WMUR9
+      domain: wmur.com
     quality: 33
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-657f1fb9589f9bf83cfaa9b56e5b4e77-h-2e8376100123f79a2e731d3c69bada29-1621372508.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
