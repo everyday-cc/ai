@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Affirm"
   url: "https://twitter.com/Affirm"
-  followers: 11832
+  followers: 11833
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg"
     width: 400
     height: 400
     isCached: true

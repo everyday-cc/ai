@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sknvsn"
   url: "https://twitter.com/sknvsn"
-  followers: 2074
+  followers: 2072
 
 size: 11-50 employees
 yearFounded: 2011
