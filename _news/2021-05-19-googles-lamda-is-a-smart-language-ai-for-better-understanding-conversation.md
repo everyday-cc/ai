@@ -47,6 +47,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "New breakthroughs in AI technology"
+    excerpt: "IBM’s Seth Dobrin discusses Think 2021, AI adoption survey, and how businesses and consumers are leveraging this next wave of technology to simplify their lives and business in new ways"
+    publishedDateTime: 2021-05-19T19:50:00Z
+    webUrl: "https://www.kgun9.com/the-morning-blend/new-breakthroughs-in-ai-technology"
+    type: article
+    provider:
+      name: KGUN 9
+      domain: kgun9.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d2ce918/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd0b%2Ff0fe4276ab8344079f404f1ac9c377b7%2Fd0bf77b996f7452b94e022d985a46c1e%2Fposter_6ad88c16e8df4175bbe9d266aaabb26f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fpgI1tOK1uAGeAR8e+pKGZ6CP9pq6GJfV4D5dIlKU8egSjNOSGFCR4PjaQFUYOyVX5lXq9/b230hLCNXnfsHA8Q6HP5fCgzqXUHWTjG/k5mOKdipHPmIje7i7Ch4SNGPMpPiAvKOxafcNM684vgTynF+r0wyfsafnROclJp00e7MBaz7SFsMZ1pQIZ3XUoBZ7pAlz1BeqdCX+t6EOYf6qc2a0KTVwLmZj6QBI3tBGhaFcDuvOHP+fH4rk5f7M46EYK6hriLBoewZw/R4RiuGFBMpOlZYQRiu/lJKrwQIOVzXtozci8sdxhaldScz0EUqq55W7TX4tXl5w9IBrAoXpxFqLiqQEuEsGFuTczht4WcqPtvUNwjR9mGxyQ2d3wldm3Q9DqfVjvvfH1RZ3AF2f7C1Dm/G45cu1svx9Kfa7hIp0sg2lNFUYtkUH95h+CSD2iU84XWc5KZhz1e49vOHnntwHn83G3NHfh9/3RnBGbGzsm84JE1JwbUndBZbifYyi6hOqwEtyuQrDsHclWNkPA==;0W873UA2g75T6AZlFagu5Q=="
 ---

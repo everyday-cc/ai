@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/372388"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/372388"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372388"
 type: article
-quality: 88
-heat: 98
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -23,7 +23,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-  - AWS AI
 
 images:
   - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-372388.jpeg?width=600&crop=16:9"
@@ -47,6 +46,6 @@ related:
         height: 2400
         isCached: true
 
-secured: "Rz0hAU27MAeeW7i7lFDQXIvMKvKudwaEXZaZ9w2BZUzd/tdnSY8KfbXK4r0VZJXE2+r6/76PteiTTxTxjsDtgO2cCwJqaQsX9HanjRe+FUxB0NXsGgdsziH9MbjAq9gYCvsUlCZyP9KRCRAuz1KQBcP4CswQoJPd4m+V8VINfyBMQOXQ04QLzv1k2id24iloUwbMHt7AB/KGpXP8Zm/siuWLLrknhHXaEHhEc4EpnRaV+MO6mU8vQJZYmsbu4SUjJJzzk2SPv4BahPMWkB7as9uaF58OUFhBfvvHyvC4CGimL9c0Q8XsMDyhu5q55mP/TK6B5hmJHxKQKDCJSd+2rIsFJ1bOEJ1qETI+aOaha5g=;tlOJV2pYC/rPUgIc4UtcHA=="
+secured: "1mPnxc/LoUZ2r0loTpcyq+O1Dkl2F7l2Wd6bp4DoiIzC0G1b3YOC9Z64EuJUqoRwYIZEM55AII0op3CMQxRwFrFRT8g/LzL0150hWSwhMmiMHhlNeFwAaLKX+qb3Vg1R/UCzBtpFTBX09OoDhFJpMDSR33AyGMOaZd6AcikECHpRMu20gmGTvReoMUQW81zhKJRvlINjvj2zG6Ru6PP1IM8hchD6KnLNK2yfd5xiyft1KCxTA6e2f+r40xt7ZCJ6IOfxNHUZ6KhPw2sTSKbZE6a76bjQhioJcB4Kuw8AXuwB1+fFOrJrW/4D74zhOFMyJ6YpPS9YZR1f2vVAd0y1nEcugd7u3cuenSbS2a4OugU=;W45W0DAQLaFvHhhw4pp/+w=="
 ---
 

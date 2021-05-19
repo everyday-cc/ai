@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-19T18:28:00Z
 originalUrl: "https://www.datanami.com/2021/05/19/alteryx-dips-analytics-tools-into-machine-learning-waters/"
 webUrl: "https://www.datanami.com/2021/05/19/alteryx-dips-analytics-tools-into-machine-learning-waters/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
@@ -54,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OzLMlE6DY/O78DSJ84b56Q6JOqmOmsZQedF9wqSEuSSuovvt06/zAuKOVJzEigOyTJm3OMS9G6eXlQVoK7LFI9RVeYpzJ9B5EEm2+TaggLnviVkIP6fv6H1m4zuhkdJKtCpqpctv17YW2aGQzUUBetnNMbHOin9R3Z3Detpy4/a990z/BI3nGqyMARbr3b3DTLk9pBMOe3FpnrlghOIYhEAsPdm4mfkA+9KUpRjy4SpVOfD5rm6Be/+Cs0RUXCBft3QSBLuSaS4jzVfgxTQPuTTiSnJ7sE+/kZmFzfmt22jzGs5L1rIvckK/V/cwal9uUZ2Sbm1L85kXj0cl9Ie5cd9/P8+dTg5jR5NyBfEjXyg=;PeDamMHTU67LCV2pLRWZcw=="
+secured: "NP2CpAq5g6hT3yBOAhVigFmkoQraYscoLQGHyrlI2MvXgESD9rK4UWlUbr78rONqEtMoJ4tHS1JAxt+w6DkctJ3gqqdKfLVyH0BUghelL5teT82SLpe5UaRyA5WTuCHecwiIloiyTTcA0vlc0c6rHqEUewo3A14b4y71L1i7Ar893b9vyCwO939ZyGiDW+gala63t4tSwOJM8D3MKVihv/bplst+uWujnNS4bhEKNoYZeMPgBegum7SJ9wDsAOXejswqejErdCPjV4Nc5Uw+57MTK+nVOkBP8DeJ5wd7YACbABtFGgPTrty5qiHDupF0sS3kOd+nyzhnmikkJBcBs9cNugoWE+EOz74eM/LjYyOxSGivEldULp/E+c5nsT/cWIzl8XMzgmtB4r4D/ts3BEtIinN1xoI8lrBC4I5IRTBNcfi9kcabebVzYJsG6Id2HfqWCwNSG3P+gfwDxsMeFBz/F5ijC2DlxOz3UyFDzQ9fWXFPcolcBiT3CpjASc8cK9Ko1XjzX5R/rcj3KHjapQ==;zHUA6gLxCQiNerB6B8PHSg=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Amazon will block police indefinitely from using its facial-recognition software"
-excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-publishedDateTime: 2021-05-18T23:55:00Z
-originalUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
-webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
+publishedDateTime: 2021-05-18T23:30:00Z
+originalUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
+webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
+ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
+cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: AZFamily
+  domain: azfamily.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
-    width: 500
-    height: 333
+  - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -490,6 +492,20 @@ related:
         width: 1280
         height: 1066
         isCached: true
+  - title: "BBC addresses facial recognition bias issues in new Click episode"
+    excerpt: "A new episode of BBC Click recently discussed the issues caused by facial recognition biases, and how they affect people on a daily basis."
+    publishedDateTime: 2021-05-19T21:26:00Z
+    webUrl: "https://www.biometricupdate.com/202105/bbc-addresses-facial-recognition-bias-issues-in-new-click-episode"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Amazon extends ban on police use of controversial facial recognition technology"
     excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
     publishedDateTime: 2021-05-19T01:27:00Z
@@ -549,6 +565,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "UCJJ7JywqPIdr6CjCi4jh9nwYyKEL+29WTC8qIb+OnRdbKugwGDtfWiIhrV2Y1+R1bPKpAMvSErMj11+7XNk0Qgkl5tMZlzqxvGrPZUuqdbBNMEEdscBaN0fbHuhDsv6Sj+f1eA/IHiRclwbULVAQb/ynJAUkhdNKrFH+fiXF6S7F0q7iGZotFR9gtIlQBFY9vD+QVsQ78Z1PU24O+z8l8puddCO44y34FnNh4wFoUuqyZggCRwaeTazleLXKOMx20ZkqwzxK1GGzqRh96g4dW3M9ih2Gi3cjznHXz/i4QVdTZMcybDFOvvqPJgnXl4kuTrhjbSWo7Y5FH1RSgwn8Sskj9p/1cl/kdI3ZCTt7og9Bvp9FrDjBtY04iiCCSVNvKTtN/wsndlHk6cdj5HdxjuZKrGqy3UdKHoFh7l5N15tWTJWLtP0Z0GLXk94nP1o67MZgoXrL+i1liiiLJt2xd5mIz/DcvEQArfhKF5pz8zkomhPnUW7bXyFDYu7ngiXWWaBmvJwM+Ugr4MVjK2XVA==;k7KIBUKxHvU/ftA4eFZcLQ=="
+secured: "hTY2Dn/4nCsg5IL9EczMDLqkoxADmNSq/NgbLHonSka399/JPq+v3mnnGQa7aPfNItOLKgVHsG5C8EKo29XmwlomDWnCmqVLE+HpR4pQE/cqNRdK1cW530bvneRK09vTrJB8ecq0PXPLq5on1vx78kQblCep8RxT5oL12nYTjNhjNldAJG5LlHgPgsCFx+3wdAWJXKUBcQp81fRm/X48P3ZOKT13Y/LkyWqDaYU+GqgjWXrSDKWMye/Nf1RqBxpzK36Yus1nF5RKCtlnsfEPX1TuwyxLSZr/2cseA8a0UxEBf/VM/FoqHkaI/4hrKFGYuYysGe5oIAJk1NkwqnccJCU+a0wu9iT/3yKmhJk7xzk=;SI2Q6RwGJFQ3ZRZ6aqeCOg=="
 ---
 

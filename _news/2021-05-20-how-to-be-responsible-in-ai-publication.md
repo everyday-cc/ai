@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-19T18:22:00Z
 originalUrl: "https://www.nature.com/articles/s42256-021-00355-6"
 webUrl: "https://www.nature.com/articles/s42256-021-00355-6"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Ethical AI Is Our Responsibility"

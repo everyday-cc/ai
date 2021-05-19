@@ -35,7 +35,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 17
+    quality: 19
 
 secured: "qfUvV6DjEUBqTNaS2wpss5jgfkZ/hmSf1NoPiGpnvOcS2sWuTaYNmZGJhPdXrAtOwcDShH/hYdBIuqhkOn40BP1m/u9idsH/egs8FHg4y62IgQjKEvnEbk37xVjVBMXc3Ji9LBCuU30i8lgNdq68Vxt+uPvG55jDmPLyNT5yXrZxLo3t5bS4nMP0ysExc1Im/XsMUiStjz5mRw/RO5tnR7iWISd5NjQkiUdMQ0oy5i0vRHJ4b4rQIDK3VqgvPB59+bKGuqW+wIHgVb0QYgFh4rWMUCshqt1RBSIQokzEIWT9UURxh1F128a5tZkaZCGCTP4BQ1xIKecI9X8RJTV4ZxquFLqSjLxycAW2olZysJafsgQpsfhfYa4tlX3bcHCJECW63KIlh+euClEnxsaynAMI7MVJGssQrDrtAhcf9ba7yyJFVgVMBFQHKDz8KxzNTdbM4LIFKCVaoEOOO2edU8+pdOP7bvgydiXgYEW9EIgKjBtfwjHhW1rz3wtxIjWH2UKrCvwveFQAiXlaWvS3uA==;Wy0dykzM6izGdPANAKDHuQ=="
 ---

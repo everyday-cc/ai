@@ -33,7 +33,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
         width: 1000

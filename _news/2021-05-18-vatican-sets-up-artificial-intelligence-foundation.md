@@ -32,7 +32,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg"
         width: 696

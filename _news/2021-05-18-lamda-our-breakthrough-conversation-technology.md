@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/lamda/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lamda/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/lamda.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "New breakthroughs in AI technology"
+    excerpt: "IBM’s Seth Dobrin discusses Think 2021, AI adoption survey, and how businesses and consumers are leveraging this next wave of technology to simplify their lives and business in new ways"
+    publishedDateTime: 2021-05-19T19:50:00Z
+    webUrl: "https://www.kgun9.com/the-morning-blend/new-breakthroughs-in-ai-technology"
+    type: article
+    provider:
+      name: KGUN 9
+      domain: kgun9.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d2ce918/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd0b%2Ff0fe4276ab8344079f404f1ac9c377b7%2Fd0bf77b996f7452b94e022d985a46c1e%2Fposter_6ad88c16e8df4175bbe9d266aaabb26f.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lDI+0rTUVAIP9XLIpiX1V/bAdJvcGJb/zKzFp1bJjQpQyni8MXG4dDiiaAuHh26jMMBqPz0oKLzO/ZPcm/6CR7nkGaSG2KDlh6jgaw/8Y9ttfE+J1ozJkBourifQzORIFmtEDaWaklSnUZHg6PXT2T72K1/K0d4OqJlqXu6Ty+uaNO7sw5L82++SQZbAxlMYeQfdAK+362IoQUKT2CvUPaHI+Gdxio2ERkmZxPuyAtGsYZkjnvENsfk+sjkkhKmIV6uPn3Yh9FkoSMPnFUNOScfyiMpD4IY/5BT7PTcgNV1zdszV289Q71qw6IPil07Vq/X+eag6IS3StXhzm7dB1BY8FhlmlnyCxZWGLBXb0tY=;JMRg5aq7tJ4/0F2QHRRBHw=="
