@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-drea
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
 type: article
 quality: 57
-heat: 59
+heat: 57
 published: false
 
 provider:

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "VOICE Talks Named \"Webby PV Winner in Virtual & Remote: Technology\" in The 25th Annual Webby Awards"
-excerpt: "Modev's \"VOICE Talks,\" presented by Google Assistant, announced today that it has been named the \"Webby PV Winner in Virtual &"
+excerpt: "Modev's \"VOICE Talks,\" presented by Google Assistant, announced today that it has been named the \"Webby PV Winner in Virtual & Remote: Technology\" in"
 publishedDateTime: 2021-05-18T20:49:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/voice-talks-named-webby-pv-winner-in-virtual--remote-technology-in-the-25th-annual-webby-awards-301294339.html"
-webUrl: "https://www.prnewswire.com/news-releases/voice-talks-named-webby-pv-winner-in-virtual--remote-technology-in-the-25th-annual-webby-awards-301294339.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-talks-named-webby-pv-winner-in-virtual-remote-technology-in-the-25th-annual-webby/article_86992723-6aa3-5052-95ac-227e04ff7a49.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-talks-named-webby-pv-winner-in-virtual-remote-technology-in-the-25th-annual-webby/article_86992723-6aa3-5052-95ac-227e04ff7a49.html"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1513283/VoiceTalks_Logo.jpg?p=facebook"
-    width: 640
-    height: 335
-    isCached: true
 
 related:
   - title: "Modev’s VOICE Talks just won a Webby"
@@ -40,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Vgzq+HjYJkvThiPDPq80S9hX/31h7E64vFzg6bF6lOFKznwp23xVLKAP/siYwkMY6cZeC+H0aWE88ICLyPkMNIkurJMUrNb0eWxwz2FvSVfgclDQomdnv2nf2sUZt/KqADU3HklUrkJtiIaYmwLfkAk9o+h+ESDjzqfr08QnBfpzcAVGsOFyshLnwm8i4gD1TP1ZE7XklzQn70sW3E3wVYQw7do/Vz4ZGlibjt15YiFPXk6LDXbxD8VIhb/KAFqYoBubvryMYIQaGhzn+zehj4j3qLMDZ8fiaJf3xHZn5opg9enKzemPPSDUCxNUiHwXwvzhx9DwWvItjeqN2uKv0blTBn1dcus/b/z7O5GgsVY=;a6UDGUE48GBmxUK7qf6Jyg=="
+secured: "tGsAa0ZeEZHRpripimblhvCM8fnOGijRW1qC/H3JBK8C1YR04amcJWl9XW9O39PmYaq9IRGsxnbHKaOXQjR4REP30ql3bL5wJ8Ufaqaj6/gOvRSjNx0ad8snDy9rVH24nzmjVZG0yOhMX/6rMZkJrGXYZkP9YTGxQ7iPNpxObf8TcbEOVAL/Y+ORJ7xvbYeAhwtZrCr4HaamBTbMX7rtHV0onDCcCkJ2PeVpaWLfpWlGTZ2ICa1/9zQshhCEPRjRXAR9Jy2tKHiZfB2cq159MLHLUxv6XLq6sw6nVl99UPJvgwEHsFaRvR1SUL9DNmuyVYdQJ7bOVP69RT9+mVk8v9zFPQXAzBVcTAB1VI0H+WQ=;lnT+RZO89c9uoiyrFGK8ng=="
 ---
 

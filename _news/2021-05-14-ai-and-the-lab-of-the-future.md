@@ -19,34 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "AI orchestra paves way for future of music"
-    excerpt: "An artificial intelligence orchestra founded by the Tianjin Conservatory of Music will perform at the upcoming fifth World Intelligence Congress scheduled for May 20 to 23. The orchestra is composed of 30 human musicians and six robots,"
-    publishedDateTime: 2021-05-14T08:25:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/14/WS609e33e9a31024ad0babdfaa.html"
+  - title: "Introduction: Building the AI bank of the future"
+    excerpt: "To thrive in the AI-powered digital age, banks will need an AI-and-analytics capability stack that delivers intelligent, personalized solutions and distinctive experiences at scale in real time."
+    publishedDateTime: 2021-05-18T23:31:00Z
+    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
+      name: McKinsey & Company
+      domain: mckinsey.com
+    quality: 54
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/14/609e33e9a31024adbdc7c793.jpeg"
-        width: 608
-        height: 405
+      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/building%20the%20ai%20bank%20of%20the%20future/standard-ai-banking-collection.jpg"
+        width: 1536
+        height: 1536
         isCached: true
-  - title: "An Optimist’s Take on AI and the Future of Architecture"
-    excerpt: "Martin C. Pedersen discusses with Frank Stasiowski, the founder and president of PSMJ Resources, his take on AI and the future of the profession."
-    publishedDateTime: 2021-05-14T08:08:00Z
-    webUrl: "https://www.archdaily.com/961547/an-optimists-take-on-ai-and-the-future-of-architecture"
+  - title: "Platform operating model for the AI bank of the future"
+    excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."
+    publishedDateTime: 2021-05-18T23:32:00Z
+    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/platform-operating-model-for-the-ai-bank-of-the-future"
     type: article
     provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 37
+      name: McKinsey & Company
+      domain: mckinsey.com
+    quality: 54
     images:
-      - url: "https://images.adsttc.com/media/images/609b/9796/c890/d701/642e/272b/large_jpg/ai-buildings-2-larger-1428x644.jpg?1620809626"
-        width: 1428
-        height: 644
+      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/platform%20operating%20model%20for%20the%20ai%20bank%20of%20the%20future/standard-platform-operating-model.jpg"
+        width: 1536
+        height: 1536
         isCached: true
+  - title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
+    excerpt: "Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it has entered the fixed industrial scanning (FIS) and machine vision (MV) markets with a new portfolio of solutions that enable track and trace capabilities and quality inspection of manufacturing work in process."
+    publishedDateTime: 2021-05-18T20:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/18/9372496.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "jSy2GRuRN4kUato3vL/JflFuke1vxkYvgpHBZoN2te1Wv1T4X7GMYGP+F+g7suX/rOzT+zL2/7gII1a+gZBpG6JlH3HHXzWp3GeGm/lrcN/C3ZQtvzXqnMmxWjbwOhr8bUEM1S6RXseUTcCCr/8XTjRPZKJxmXKiqVmEnj5lYNttcmLa2mLQ/Bi2/i6vfWu4QIjTIdVaieSAZy3INLzh1nbCoDechZL0rAcLknDRTiuj4TJE1V+vT8DlKg7kq5fYA5dDRzQLTkh5zGJ62bAkIuXyI1SuEHtsfEmQtscB4H5iUqbY7i8zYNXmP7ExnBtT/7Nt8Hq6bICzGW6zzuSY34/rx6UMyxk0QwmwGukLMCs=;5NoBE1BWvQecSUETykyD+g=="
 ---

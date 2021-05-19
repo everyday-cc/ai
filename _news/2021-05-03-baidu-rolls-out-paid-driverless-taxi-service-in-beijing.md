@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Baidu rolls out paid driverless taxi service in Beijing"
-excerpt: "Kelly Wang and her husband, who both work in the artificial intelligence industry ... “In the future, Baidu Apollo will launch driverless robotaxis in more cities, enabling the public to ..."
-publishedDateTime: 2021-05-03T04:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-10087341"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-rolls-out-paid-driverless-taxi-service-in-beijing-10087341"
+excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
+publishedDateTime: 2021-05-02T17:28:00Z
+originalUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
+webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "CJAzsljMkln5mDNFPj5jeVxy26PdTIvanDPNCbrnea2jWxglmBoYqKD7BAvDuxxCndOimqZRFbLc5QWBtsETS8dpNlzPmHy78tzg7pKZdAzXw5RWeda1AA6AyX2Zer92cQvvBPOkoTUYb4L73+TRo6UAqy1gIIK92rzH0i6t/lXa/tiXHGJG8tchRGiPhLD/7QGJ+3YGoCVSyJjkIQhDFAcFfAKm0taL4m6hibMASLO9EPptRiXTHvJmx26A0pmXJ0HwZbGTXnnjAiH2JoR9YqLxEYiWV4MJUXB3eJimVwif4kfqnwzoVEELb2w6LXTXec/k8Is949i/m12/3grfaxBZx9DxIeie3WeaPkYam44=;G4nQEdrmUZE4k+cskaGy/w=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "fqZeA4t2Vksgpo7SfSR7JEqlIJIG928qbt7e20TWzU1JIBUMKvu5JhXFeCLjUg8gn+mrAP44bjWew702chJnCtuBSd0M39PL3/8wlFxCYgSs094Ly2ku4qupy2eimzDu6V+RL2klyH7UCzpaLoYtyI1X5Xzw6e05V7FoFGDWUypnrpaXeqa1GgRi0Wq0/xuj9dxOxDzCsvWOeVFa2OurcM1In3qTJRtYOYlnt269kmw6aQLkc55oE+Q/cMVwH6APSI9Gx3wvO4EstNON9Ftjym6Y/4+1LJ4uq62FC2AB0IiMKNnTHLYUivBRUWB420uGdKYhEGTygfR5HQiiFeQ16wAUy9iKURKt051/k6sKOVM=;9jllcEeKcPlL2bkBTfF8dg=="
 ---
 

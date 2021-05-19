@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Amazon indefinitely extends a moratorium on the police use of its facial recognition software."
+    excerpt: "The tool has faced scrutiny from lawmakers and some employees inside Amazon who said they were worried that it led to unfair treatment of African-Americans."
+    publishedDateTime: 2021-05-18T22:06:00Z
+    webUrl: "https://www.nytimes.com/2021/05/18/business/amazon-police-facial-recognition.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/18/business/amazon-police-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/18/business/amazon-police-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 77
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/18/business/18economy-briefing-amazon/18economy-briefing-amazon-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Police using facial recognition amidst claims of wrongful arrests"
     excerpt: "Police say facial recognition technology has been instrumental in helping crack some tough cases, but in the last year, there have been allegations of wrongful arrests. Anderson Cooper reports."
     publishedDateTime: 2021-05-17T04:08:00Z
@@ -75,6 +91,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Amazon Extends Ban on Facial-Recognition Tech for Law Enforcement Indefinitely"
+    excerpt: "The decision comes about a week after civil liberties groups called on Amazon to 'permanently ban law enforcement from using Amazon’s facial recognition software, Rekognition.'"
+    publishedDateTime: 2021-05-18T22:50:00Z
+    webUrl: "https://in.pcmag.com/security/142691/amazon-extends-ban-on-facial-recognition-tech-for-law-enforcement-indefinitely"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 50
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/a/amazon-ext/amazon-extends-ban-on-facial-recognition-tech-for-law-enforc_hbs2.1200.jpg"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Amazon says it will continue to ban police use of facial recognition ‘until further notice"
     excerpt: "Amazon said it will continue its moratorium on police use of facial recognition, extending the one-year ban it announced last year."
     publishedDateTime: 2021-05-18T21:18:00Z
@@ -100,6 +130,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 43
+  - title: "ACLU Statement on Extended Amazon Face Recognition Moratorium"
+    excerpt: "Amazon today announced it will indefinitely extend its moratorium on sales of face recognition technology to law enforcement. In June 2020, amidst nationwide protests against police violence, Amazon announced a one-year pause on its sale of the technology to police."
+    publishedDateTime: 2021-05-18T23:34:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-statement-extended-amazon-face-recognition-moratorium"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 41
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Pet facial recognition technology helping owners reunite with lost pets"
     excerpt: "When Bella, a local dog, went missing, her family searched for her everywhere. They uploaded her photo to a pet-facial recognition technology, Petco Love Lost."
     publishedDateTime: 2021-05-18T00:15:00Z
@@ -139,6 +183,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon — if ever."
+    publishedDateTime: 2021-05-18T23:42:00Z
+    webUrl: "https://cnnphilippines.com/business/2021/5/19/Amazon-police-facial-recognition-software-ban.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 19
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/5/19/Amazon-Seattle_CNNPH.jpg/jcr:content/Amazon-Seattle_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "3k86o4fFzfYc+vF5xvwk9AHHMcNeRzNNy4gsx5teFSmMk4OFjOrdC2jCB8s8MWW0N813Y3r5kf6ki6ifxPbQM5gzIHC7ZDQsJZpqAflbo0F9nveWRWTQHKmWRM7Qtrq7YlU69rFcvKhDzQkDN+daruFQ+ldUbXk4rbQ+kluUIWMh2qx0xdTJgGDzeA3DMkYnBFNy6Olso7wcMh6mNGa+cPL9u7uzBeLAImy4R45SoIl0gMdGUi9dwA41sQyWwsW18/zo9g9jbfLhaBDoIXuRfsCSmSP/Bz9Fhcg0m+F2fppVmRk6flQI3NS7dm+3CYr7JF1nKqLyuCzSvPpu4oxeR2D0kzFIfG7zg0hN/H8gWPP2ULZysFy9P2JY+GcNZChqnoh3lezWhyrXamuMgMX3MwS6webmLgUSjpT9GpeK3W8RA2RFbORI0wbWCsAwvqB63hMdQtB3IpvczBqb+gykUl12NWff3rOHvXgyNk0PHW/hsf9IvdcLW+R9+Kyyb4xvgX96JedSAPis7IA+1rhK1g==;1T6lNFcAUtE7Y8LUjPh6Mg=="
 ---

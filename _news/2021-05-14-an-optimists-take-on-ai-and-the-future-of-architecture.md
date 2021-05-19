@@ -38,15 +38,6 @@ related:
         width: 608
         height: 405
         isCached: true
-  - title: "AI and the Lab of the Future"
-    excerpt: "The laboratory of the future does not look at all like what we think of today—a fluorescent-lit room bound by four walls and a fume hood. The laboratory of the future will be a network of physical and virtual spaces,"
-    publishedDateTime: 2021-05-14T15:44:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/05/14/ai-and-the-lab-of-the-future"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 19
 
 secured: "X1O3ObAL1ZUI5n/vWr2mJfJ3HC90YMri9c+dVUw7JhH4pV+xP2MXpbMI7dliRwj0xIEgPc0dpT98MOy/rU3oFQFe5VUCwsxw/7ug5Y5MqaeScUwp+5nfyioZKWo+fUmrn/RqKbBbbQzDuCihqWHYRTbGQmUATsfygK3j53wZ+aDbjQ0eQyc+knjLxtnd/lSB9Y++sMUuLRK02o6f+coZjs//M4l05sYaWhbbiK4Of/Boru6omDHLqgzFjdQMJaEyCe2EUvJWuInWNdF8++90/Te/nQ5KmFMH/3+fzDyfQmZSkoEnd0QMqiecRx7UsQfD0sT3o0KMbv0xdEl9G/qZe1hSsHKoN5NVtYOgKCfw+HRiWZ+ENwk7oU4hvCDAyTaf5CmCEmmKFPTOAVE64xcr+Cu3uwNauvQ5EQ7kRSfWxfYaF7IkhsYvqw7SFxUTq1zNSxCGCHFcxWoMUT+8DGDmmm9IR5JLAvm71kzuTvbJ5gpSIgPGvjsYSnNm6NEENMKoTVuM2aQXSgFjtoJdyRjCgw==;Z0l/OIk0HGZ95Ef16UJ3qQ=="
 ---

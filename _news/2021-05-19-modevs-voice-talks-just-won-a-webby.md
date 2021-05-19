@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "VOICE Talks Named \"Webby PV Winner in Virtual & Remote: Technology\" in The 25th Annual Webby Awards"
-    excerpt: "Modev's \"VOICE Talks,\" presented by Google Assistant, announced today that it has been named the \"Webby PV Winner in Virtual &"
+    excerpt: "Modev's \"VOICE Talks,\" presented by Google Assistant, announced today that it has been named the \"Webby PV Winner in Virtual & Remote: Technology\" in"
     publishedDateTime: 2021-05-18T20:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/voice-talks-named-webby-pv-winner-in-virtual--remote-technology-in-the-25th-annual-webby-awards-301294339.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-talks-named-webby-pv-winner-in-virtual-remote-technology-in-the-25th-annual-webby/article_86992723-6aa3-5052-95ac-227e04ff7a49.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 10
-    images:
-      - url: "https://mma.prnewswire.com/media/1513283/VoiceTalks_Logo.jpg?p=facebook"
-        width: 640
-        height: 335
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "CXDDkQJvSXflc24tCC/4Mx7hi48vjw01YgxnO7J9qp5rHLTlH/qymufg+IARZPUCvxgh48mzz3dwpHZHxATZ5+iz0YV3J7MhpcInAbmqNOe7Dz0bPqCBeYFQGxXW58LndAWPkIF/sUl9PNHP4Y1VRGXjQJKxZV9FE6KQDJG98nAguCs1Zm4Lg1X3M6UdbYE+JhBIeH/Mz5kFggJPgprYtWsWSYnC+QVcYKI7QzvvfAEv7cIq80+07badUDuoTGMRjUi0aQVZrC6/YGgt66FxLQZFxbZhJFnF8hLpCbpnn3rp6ozXOLpgBB1sd5dS24x2VhM8AFzyQYaTVhrkcRpgg+M63VfoY9LY7wI0+gfd9kEaNXkbuhzPXE6A7wQ80XuhNED4p79DUgnAQbK9OhjVgOAISA6VnCV/WCLbqFgqYjbHYV3j7X0F5DRfzfRjIOPTraEpdQC5qzhHlx8J1m15v4BsEpWZinOnSMD9xYjLz+e/Lg37R5swBT2mpKdJJKm95BB80DvTCZFyyaxEPzAIPQ==;dB0xVb+QBfY++/Z3dv6dIA=="
 ---

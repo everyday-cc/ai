@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can AI Revolutionize the Real Estate Industry?"
+    excerpt: "Listing AI, a Canadian startup, is using cutting-edge artificial intelligence to generate full-fledged listing descriptions with just a few minor inputs from the user. If you’ve ever bought or invested in a property, then you might have noticed how flat ..."
+    publishedDateTime: 2021-05-18T19:22:00Z
+    webUrl: "https://www.biggerpockets.com/blog/ai-real-estate"
+    type: article
+    provider:
+      name: BiggerPockets
+      domain: biggerpockets.com
+    quality: 37
+    images:
+      - url: "https://www.biggerpockets.com/blog/wp-content/uploads/2021/05/AI-real-estate.png"
+        width: 1360
+        height: 906
+        isCached: true
 
 secured: "1qJHrIDGVSx63uCIQC0rP0ZmWAdbmUxBdSG7aEAUR7M7CAGQ9jX+AmAkTHW9sA95av65XbwBllEVzDt+7f3UsmSAd51WUxwBUNlNXaeoP3b+ZvqPINYNTYVHUyVoWX8MvOjwA/uP3vbZL5LymRH7sBzqfGN+EWbvNgWWa3W/nHqnLIBX3LzM2J15oZNP0xoSv46LIdObHpOrHH1KHtBc4VaAr96Hkn7AA+o/97N4tAovN5pz4AMnKSlNVdqyz+zUPiIzUigtgHiSbB5InUWqbkBkIU+2/RSrhLIGCnTcPUyhEM72dM45umUw7n2BzO5cpvaElcAEKHXJKh4LDruhjzkOT4EtAIPymALgWZ/NzI4=;RgnITLKrvhw6nJUD3iRkLQ=="
 ---

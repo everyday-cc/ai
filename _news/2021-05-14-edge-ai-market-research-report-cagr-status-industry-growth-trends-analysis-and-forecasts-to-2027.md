@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Twin Market Detailed information on Top players, Industry Size, Trends and forecast to 2026"
-    excerpt: "As per a Global Market Insights, Inc., research report, digital twin market is slated to surpass a $35 billion valuation by 2026. The digital twin market is likely to foresee lucrative growth over the coming years owing to strong demand from numerous end-use industries such as retail,"
-    publishedDateTime: 2021-05-14T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/digital-twin-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Machine Learning Artificial intelligence Market 2021 Top Prominent Players – AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook,"
     excerpt: "MarketQuest.biz has announced a report titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which enumerates a comprehensive analysis of the industry,"
     publishedDateTime: 2021-05-14T18:55:00Z

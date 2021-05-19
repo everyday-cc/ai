@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

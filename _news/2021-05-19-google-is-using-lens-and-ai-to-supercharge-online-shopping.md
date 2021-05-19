@@ -46,20 +46,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "Debunking 5 Artificial Intelligence Myths"
-    excerpt: "Despite the ever so fast-paced AI innovation and rising popularity, people are still mired in the myths about AI and in what exactly the technology entails."
-    publishedDateTime: 2021-05-14T05:39:00Z
-    webUrl: "https://www.bbntimes.com/technology/debunking-5-artificial-intelligence-myths"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/Myths_About_AI.jpg"
-        width: 542
-        height: 1080
-        isCached: true
 
 secured: "H8FxI88MgZLZzsy/u0hIrGMGYY9FOP3NdiQgELJ+hMgwq1bJbvgNyZ1keZwj6Ey65to1q1rD3ih8rr5UwYEXTIlqOd74jxpkfBcmXNbmT0jAkfKCX+zLWVr20xahpXnr/6ppjWzdR8dirTWLH+lD8tqGYUZIuAtHL+XrXi99c/zQsr9oW77lJANoaFWngP2hk6ECAV83gsZqkUtQmW/kqjdXfwIrD0nk60/om1IrxGEXmxxHTj4+eKjxvWjmJPG/2yZ+jNsJZOy2udVOnneiFYFOs/L+gOLG1AzRVFgYPJLs9hP9KsHmK64kEy9JgzQMIp30QK5IMw6YEKWKzeGP+McuZL3VbhcUKsKAoycmx+scs5QCKBxlbDC5rhaPNbELS9uGwO+FUms4B0tAczFRbLkyljfNwn4Bt4h+MovytPeLqrfQg3tCLlG6oJvyVNgPWNgKrTAlG63jZwXlTsvNhOYHVaryqAB6nj8WmbrfF/eusao0pswPAOj4NgvSqmy9jHj023yxNbE9POAlQYVamQ==;LMTTJznccAOL3iP4r/m8Gw=="
 ---

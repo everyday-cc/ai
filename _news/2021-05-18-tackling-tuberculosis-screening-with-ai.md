@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.cnet.com/a/img/XHQj9pR5UFLFqEsp8UUkIyRlegY=/1200x630/center/top/2018/10/09/5c9948db-b31e-46cc-bd02-ddaa784e5154/182-google-announcements-pixel-3-and-pixel-3-xl.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Debunking 5 Artificial Intelligence Myths"
-    excerpt: "Despite the ever so fast-paced AI innovation and rising popularity, people are still mired in the myths about AI and in what exactly the technology entails."
-    publishedDateTime: 2021-05-14T05:39:00Z
-    webUrl: "https://www.bbntimes.com/technology/debunking-5-artificial-intelligence-myths"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/Myths_About_AI.jpg"
-        width: 542
-        height: 1080
         isCached: true
 
 secured: "3drDl+8ziKzPBOu+4zLeRtAOSCTFRxwV2sWFmkT34EelQNpr96IKXTByi6RwcALKBAHLnVdHgJfSHRSPPVw4KiyCbZR4GHVY6cGXMAaItrkv/vpDO/2e3kDftNCEieXPWjiUrsWUhazbNashPZ52NCIPwCKXFaKKUDp3en4/4bLJ0If5XjDLjZ9eWiDKxqbNNRLajI8+LgSQwLy9GV3MSKhTwj0uu5xykZzS/YmQn/nfRn5qwHJdkgy0GiNzlrhvSXHZQIF/lJEPmmM6McSTqdWCTNvqk/TzSDDUh4ZbtIPcZ7UoiAv1nYThDj9doVlbxjvrvOoeUT6ckZ9NLUayE4K+tvxaOw913bFKANK3vN4=;pJfzp4BL+V5pcB5F51uhgQ=="
