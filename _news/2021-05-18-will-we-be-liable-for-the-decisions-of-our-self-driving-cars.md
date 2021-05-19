@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys"
-    excerpt: "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one."
-    publishedDateTime: 2021-05-15T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/"
+  - title: "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars"
+    excerpt: "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical."
+    publishedDateTime: 2021-05-19T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60121be798e828df8537895d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D46%26cropY2%3D4186"
         width: 1200
         height: 675
         isCached: true
@@ -56,20 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
         width: 1199
         height: 675
-        isCached: true
-  - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
-    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as"
-    publishedDateTime: 2021-05-17T23:06:00Z
-    webUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/article_2102333d-9f27-59a2-bf6e-e0b96c17c6a5.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/cf/6cfa3a7b-f49b-5c0f-bcde-ba55c8bc9b38/60a3123f0cef4.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
         isCached: true
 
 secured: "zPNO1Yu4pUSOfSGW8YGUGc92n+5crFNpmhlitOJYy5OB85ZgTo4pzuKE7rmP/x1ShnwU+rrrKaX3nJODdlNeMfm7glpBp69ByQedQ220xeieqVZW3/ZjbKgxdDvuaUh0VgRS4lNAAdw3+toJTsVmLbB6FegmwLc4M+FXKnBQKC91DTwAjjz6RvjBy2HPWg8C/dxxMtP6+5VVZ5FaIXxEWUMrzHZqQ6X4JnwgKjfHbu0vsPLxi3XrcdpQJ5D8coRfetpt0vzgqjBMAhs9inkhDZPnPzeJioBS9V5MEedlsC9azbFD+AZOVkaTMw+F6oBHRncbpoeo9gYHw/LTNU2+E3MjR41KgtLvx34oveRFffyjTVZoxVxLAcwWyMnDXNdzDMF1pgpD0SnJFhRgrGTmjHuku0q9tGw2IbK/mDRBsyXCLGxtxo/tDZfcOXjtqCBHaAvmX17c8q93xvepIp1sCNLmPqToA/dklA6KMXgVVqwDAumMl+GepgguFpkZDo8Jj160xG4zH5Sw+DSj4nbSYQ==;azAu7ng8SOQUOdw8of5IEQ=="

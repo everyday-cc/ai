@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/raise-artificial-intelligence-0518"
 webUrl: "https://news.mit.edu/2021/raise-artificial-intelligence-0518"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Embracing the rapid pace of AI"
+    excerpt: "In a recent survey, “2021 Thriving in an AI World,” KPMG found that across every industry—manufacturing to technology to retail—the adoption of artificial intelligence (AI) is increasing year over year."
+    publishedDateTime: 2021-05-19T16:45:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/CliffJustice-Header.png?w=1920"
+        width: 1920
+        height: 1005
+        isCached: true
   - title: "Helping students of all ages flourish in the era of artificial intelligence"
     excerpt: "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),"
     publishedDateTime: 2021-05-18T19:55:00Z

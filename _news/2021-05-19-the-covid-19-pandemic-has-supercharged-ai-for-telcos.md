@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-superch
 webUrl: "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
     quality: 61
     images:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Artificial intelligence has been of little use for diagnosing covid-19"
+    excerpt: "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts"
+    publishedDateTime: 2021-05-19T17:24:00Z
+    webUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/"
+    ampWebUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"
         width: 600
         height: 400
         isCached: true

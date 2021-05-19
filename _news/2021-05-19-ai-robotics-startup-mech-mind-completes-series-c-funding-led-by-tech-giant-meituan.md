@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan"
-excerpt: "With total funding of over USD100 million, Mech-Mind is pioneering the next frontier of manufacturing through a combination of artificial"
-publishedDateTime: 2021-05-19T00:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030444774"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030444774"
+excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,"
+publishedDateTime: 2021-05-19T02:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867"
 type: article
-quality: 73
-heat: -1
-published: false
+quality: 93
+heat: 123
+published: true
 
 provider:
   name: Business Insider
@@ -19,8 +19,14 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1512747/image_1.jpg"
+    width: 362
+    height: 400
+    isCached: true
 
 related:
   - title: "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics"
@@ -37,7 +43,39 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "MarTech Startup Affable.ai raises $2 million in funding"
+    excerpt: "Singapore-based marketing tech startup, Affable.ai on Tuesday said it has raised $2 million from Prime Venture Partners, Decacorn Capital and SGInnovate. According to the company, it will be using the funds to expand into international markets,"
+    publishedDateTime: 2021-05-18T06:13:00Z
+    webUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding-11621317830020.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Martech startup Affable.ai raises $2 million in latest funding round"
+    excerpt: "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns."
+    publishedDateTime: 2021-05-19T07:07:00Z
+    webUrl: "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 57
+    images:
+      - url: "https://www.exchange4media.com/news-photo/113018-Affable_Logo1.jpg"
+        width: 730
+        height: 395
+        isCached: true
 
-secured: "h9vIVnisHS04CbGiHBWPvwGGXHZhxxhN57omXLYCpWlKJkJMwRi1Tu7s2z/qCMqq/hSQHny7YVpo5SWseQ+UI+oLqYxLyKkiFFCunscz0iYfrAuvoGseEfg0GHUuf/WJmh78lUNa+NrGarR5IzJ9gCEMB51161CqW5zIM7dJL2y1E1Ju8oMbR3rit3EblSrD6pl8FxVnGooY/dM6G34U/tow1WYf/j/Sx7N9tdSQeGIzEbqw55jTgpvFgyCmZsmCNPg6Jg1bDMYU+HO9vohZTvVH2tGRnUDdde0kVmOSjg9AeqcwsKc28ON1SgckX5eYHQEWyh7gLWGtlOc+RXHoJPPmhWR2QjpNoheszuL7DoI=;d694+atKFExuJRAD9v9sFw=="
+secured: "6wwTneoEvs65g6JEPEaSXeKsx10hIvLFQ/tycIArVV3LxTe3pIyku8VxBp8ShsEZ465UFpRHTC8GbYTln7zXB2XU7sSI0aYGEupUWyCgnmzc3cwmf/t3vZyLIAVjYGEtXZCP9cMiSRPGvCb08y32rdn6uAaBgz6MQH30bAEfHyY84drvnFqw1yzi7z05DobslXiMSj5uw3Wv27X/oHouXKmsRuIeA/KsilqToevDQgH+M88nhhIijYo0T7EAKFLsc7XFDqnXWoa2pGqD7eZ5+wfTqhxA8/lmfOTGyEAO5hekSjTont9hjl1YfTU9//SzIldc8yydzQEGHHERzbZ5ZOia4zpp1WmEBE0q994ILqc=;UqmXlXi1o206ed3UyWsbAw=="
 ---
 

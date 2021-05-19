@@ -208,6 +208,20 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Amazon Halts Police's Use Of Facial Recognition Software: Reuters"
+    excerpt: "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt."
+    publishedDateTime: 2021-05-19T17:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_394.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Amazon to extend ban on police use of face recognition tech"
     excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
     publishedDateTime: 2021-05-19T07:56:00Z
@@ -430,6 +444,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon extends police facial recognition moratorium"
+    excerpt: "Amazon has taken the time limit off of its self-imposed moratorium on offering its face biometrics technology to U.S. law enforcement."
+    publishedDateTime: 2021-05-19T16:17:00Z
+    webUrl: "https://www.biometricupdate.com/202105/amazon-extends-police-facial-recognition-moratorium"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Amazon to continue pause on police use of facial recognition"
     excerpt: "Amazon said Tuesday that it will continue to ban police use of its face-recognition technology beyond the one-year ban it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
     publishedDateTime: 2021-05-18T19:18:00Z
@@ -478,6 +506,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 29
+  - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
+    excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
+    publishedDateTime: 2021-05-19T12:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-acquires-ensemble-energy-to-accelerate-renewable-energy-growth-using-artificial-intelligence-1030446116"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
     excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
     publishedDateTime: 2021-05-17T13:11:00Z
@@ -510,15 +547,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
-  - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
-    excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
-    publishedDateTime: 2021-05-19T07:15:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210519da83036/sparkcognition-acquires-ensemble-energy-to-accelerate-renewable-energy-growth-using-artificial-intelligence"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "NAizPJ42TPOb3nyUJrlcA0gAzvrwr5L/YR19aXC7XJS1H6yDy3c4pZruwezvfcBbLSRlx8+MKsDK8ZQ7NxquUK0V71jNaJp/CleCRoeqtg9pymRffB5sqRFHog6B00R9+2gMufgEPVBj3gb03a5fGgDiTkGQ7PT3fneGJeJNTdWZy7F/R0T38S5dqSYQmhLRJrP3IUTzqvM6qQR1+0exXU9oTMG73YrR0QvxSgGf12mITJTCzE1WafcDBpUBippuoB+3z/ATANRcAlSRRO1qEDd4CdsXtlcLt4I5SjYZmu4h5zQhIcs0fQMLAreInW1NV4Ufo8xotHdq10aFZ+HOhitHtWF7h9eOa5DYufttb9U=;rMoiuujFH9XTijDxWSa8kQ=="
 ---

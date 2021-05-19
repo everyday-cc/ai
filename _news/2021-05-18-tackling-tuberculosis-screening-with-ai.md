@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "11 ways we're innovating with AI"
+    excerpt: "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine"
+    publishedDateTime: 2021-05-20T15:57:00Z
+    webUrl: "https://blog.google/technology/ai/innovating-with-ai/"
+    ampWebUrl: "https://blog.google/technology/ai/innovating-with-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg"
+        width: 1300
+        height: 733
+        isCached: true
   - title: "Google is using Lens and AI to supercharge online shopping"
     excerpt: "Google wants you to have those products though. The search giant is working to make it happen through Google Lens and AI, Bill Ready, its president of commerce and payments, said during the Google I/O developer conference on Tuesday."
     publishedDateTime: 2021-05-18T18:07:00Z

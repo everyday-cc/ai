@@ -40,6 +40,22 @@ related:
         width: 2476
         height: 1651
         isCached: true
+  - title: "Embracing the rapid pace of AI"
+    excerpt: "In a recent survey, “2021 Thriving in an AI World,” KPMG found that across every industry—manufacturing to technology to retail—the adoption of artificial intelligence (AI) is increasing year over year."
+    publishedDateTime: 2021-05-19T16:45:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/CliffJustice-Header.png?w=1920"
+        width: 1920
+        height: 1005
+        isCached: true
 
 secured: "FpSKdMu0XgkR760CZquclPYutUh8qiI6DRCqQ7sooZ5CjTQhhvImkepvTuc22gbNJ9yjJVSWABYyc9W+cLOGsUHQNWJQwjfBdKIeKxVfQr8TU/+N/6ziFYx/+aJ5GFfC3+1VOeUhqTzrTa/Vyf8GrTZLzC0llx0OW2z+QVAonfU3vG0NJypyL1y2H7hmgNZikP9+93/iduKW3Iw5iRJDQdMt5rZReyKyc9LOM3ytU34S3AU40kWdFqzKsF/d7OnQTGX3mJLtGxut8A8Gi1YUZff81lsDVhkisywI2wTR+CUhFACrIiVuiZa1V2kopLzLtZkqZWduUQl1o7P7N9fJKhiJbgCmSikaVf7iP1F2vgAa1MmKSmzv8oat9hPapE28xhgh/7F2b4cPdAENCvohTiPdMmmMD7k7YdPi5QaLK9ciM4U0hp/sGDUDaBhGnSJLhpoAzBAv5HqBFNXdb552/wS12j1YY5fqZ6SI0RABk34kFKXpwFeghybi8BKaZKvazhK//Yvf3bDYA5yRoc62Yg==;LmJ9nwOC9lPVihiQ9MIV3A=="
 ---

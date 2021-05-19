@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-30-autoggn-a-gene-graph-network-automl-tool-for-multi-omics-research.md",
+      "title": "AutoGGN: A Gene Graph Network AutoML Tool for Multi-Omics Research",
+      "excerpt": "Here, we proposed a new multimodal method called AutoGGN to aggregate multi-omics data and molecular interaction networks based on graph convolutional neural networks. We evaluated AutoGGN using two different tasks: cancer type classification and single-cell stage classification.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR319172",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR319172",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust.md",
       "title": "Understanding AI And Machine Learning Concepts To Build Your AI Leadership Brain Trust.",
       "excerpt": "This blog is the latest in the AI Leadership Brain Trust series which defines 50 key competencies required to build a world-class AI center of excellence in a large enterprise. This blog defines basic AI and ML terms for board directors and CEOs to step up their knowledge know-how and stay relevant.",
@@ -1353,50 +1387,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-bnp-paribas-am-turns-to-machine-learning-for-carbon-emissions.md",
-      "title": "BNP Paribas AM turns to machine learning for carbon emissions",
-      "excerpt": "BNP Paribas Asset Management is using machine learning to estimate carbon emissions for companies that do not report their carbon footprint. Raul Leote de Carvalho, deputy head of the quant research group at BNP Paribas Asset Management, says its modeling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.waterstechnology.com/emerging-technologies/7823096/bnp-paribas-am-turns-to-machine-learning-for-carbon-emissions",
-      "originalUrl": "https://www.waterstechnology.com/emerging-technologies/7823096/bnp-paribas-am-turns-to-machine-learning-for-carbon-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-04/pexels-chris-leboutillier-929382.jpg?itok=Lk0bFv48",
-          "width": 378,
-          "height": 234,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WatersTechnology",
-        "domain": "waterstechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

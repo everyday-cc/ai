@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has been named a Microsoft Security 20/20 award winner for a second year in a row in the Microsoft Azure Security Deployment Partner of the Year category."
-    publishedDateTime: 2021-05-18T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=471062"
+  - title: "Microsoft and LaLiga expand partnership to transform the digital sports experience"
+    excerpt: "The Spanish football association will not only be working with Microsoft to make the digital sports experience better, but also to develop tech solutions for the media and entertainment industry."
+    publishedDateTime: 2021-05-19T11:42:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-laliga-expand-partnership-to-transform-the-digital-sports-experience/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 61
+      name: Neowin
+      domain: neowin.net
+    quality: 63
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
-    publishedDateTime: 2021-05-18T16:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 60
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621437676_microsoft_laliga_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
     excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
@@ -61,6 +47,29 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
+    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with"
+    publishedDateTime: 2021-05-19T13:06:00Z
+    webUrl: "https://www.miragenews.com/laliga-teams-up-with-microsoft-to-digitally-562891/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 22
+    images:
+      - url: "https://presspage-production-content.s3.amazonaws.com/uploads/1369/500_stock-photo-scientist-hand-in-blue-gloves-holding-coronavirus-covid-vaccine-disease-preparing-for-human-1725021514.jpg?10000"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Arada partners with Microsoft to become 'digitally-enabled'"
+    excerpt: "Sharjah-based developer Arada has partnered with Microsoft to accelerate its digital transformation and enhance experiences for its customers and business managers. The property d"
+    publishedDateTime: 2021-05-18T19:13:00Z
+    webUrl: "https://www.constructionweekonline.com/products-and-services/272319-arada-partners-with-microsoft-to-become-digitally-enabled"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 19
 
 secured: "jPDyKAKIQG1e4aggbqdpeNvko3c8NdGKQ8F1Ny0BGpXLXALIRRmZ0bWWHOHE/UoU6LnERCRfsTVwjZ6Xnn/9DOO3vsYx1mqwpYDFDS2fwlMeOX3uD16UWOm8N8bFXeFe6F5a49E8etm1iaTNVLreUw2HknKJhzoUpvBFextTnnusohp3/JROXBWjx31d6JGlR+bUgmtzPUzIGJj562xmEc7BLjgxVgY1hQiZgCk/FLL0yrYm9aqzxoqXoMsnfnj8/kkUhyD9sbStZt6m26FwVIsCcbgwCkIMg1qBdxVzsNqoG0nvlSgTHmbkMScTzz/NRoo9WQ7NduJ07QUqYLI7DinPZk+1rAvB7o4WOASxS68=;nTc2ZNvB58i0FzDpOajxLQ=="
 ---

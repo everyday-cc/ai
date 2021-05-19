@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-03-artificial-intelligence-market-valuable-applications-for-host-of.md",
+      "title": "Artificial Intelligence Market: Valuable Applications for host of",
+      "excerpt": "Seeming relatively new, the conception of artificial intelligence (AI) dates back to 1955 which was founded as an academic discipline. Since then, course of the technology has been a like that of a rollercoaster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-valuable-applications-host-functions-across-/2021/05/03/9359840.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-valuable-applications-host-functions-across-/2021/05/03/9359840.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-baidu-rolls-out-driverless-taxi-service-in-beijing.md",
       "title": "Baidu rolls out driverless taxi service in Beijing",
       "excerpt": "BEIJING: Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,",
@@ -1345,49 +1388,6 @@
       "provider": {
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker.md",
-      "title": "Self-Driving Truck Startup Plus to Develop Natural Gas-Powered Vehicle With U.S. Engine-Maker",
-      "excerpt": "Self-driving truck startup Plus has announced a partnership with U.S.-based engine-maker Cummins to develop an autonomous truck powered by natural gas, reflecting the company’s green transportation ambitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-04-29/self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker-101703879.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-04-29/self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker-101703879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-04-29/1619693602800996_560_373.jpg",
-          "width": 560,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
         "images": null,
         "publishers": null,
         "authors": null

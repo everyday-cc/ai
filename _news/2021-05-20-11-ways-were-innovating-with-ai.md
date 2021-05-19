@@ -1,0 +1,85 @@
+---
+category: news
+title: "11 ways we're innovating with AI"
+excerpt: "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine"
+publishedDateTime: 2021-05-20T15:57:00Z
+originalUrl: "https://blog.google/technology/ai/innovating-with-ai/"
+webUrl: "https://blog.google/technology/ai/innovating-with-ai/"
+ampWebUrl: "https://blog.google/technology/ai/innovating-with-ai/amp/"
+cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/"
+type: article
+quality: 109
+heat: -1
+published: false
+
+provider:
+  name: Google
+  domain: blog.google
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Google AI
+
+images:
+  - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg"
+    width: 1300
+    height: 733
+    isCached: true
+
+related:
+  - title: "Tackling tuberculosis screening with AI"
+    excerpt: "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can"
+    publishedDateTime: 2021-05-18T18:45:00Z
+    webUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/"
+    ampWebUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "Google is using Lens and AI to supercharge online shopping"
+    excerpt: "Google wants you to have those products though. The search giant is working to make it happen through Google Lens and AI, Bill Ready, its president of commerce and payments, said during the Google I/O developer conference on Tuesday."
+    publishedDateTime: 2021-05-18T18:07:00Z
+    webUrl: "https://www.cnet.com/news/google-is-using-lens-and-ai-to-supercharge-online-shopping/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-is-using-lens-and-ai-to-supercharge-online-shopping/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-is-using-lens-and-ai-to-supercharge-online-shopping/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/XHQj9pR5UFLFqEsp8UUkIyRlegY=/1200x630/center/top/2018/10/09/5c9948db-b31e-46cc-bd02-ddaa784e5154/182-google-announcements-pixel-3-and-pixel-3-xl.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google I / O: artificial intelligence tracks tuberculosis cases"
+    excerpt: "Google shared an artificial intelligence research that aims to improve tuberculosis tracking and announced the tool."
+    publishedDateTime: 2021-05-19T01:06:00Z
+    webUrl: "https://olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/"
+    ampWebUrl: "https://olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/amp/"
+    cdnAmpWebUrl: "https://olhardigital-com-br.cdn.ampproject.org/c/s/olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/amp/"
+    type: article
+    provider:
+      name: olhardigital.com.br
+      domain: olhardigital.com.br
+    quality: 59
+    images:
+      - url: "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1306964536.jpg"
+        width: 2076
+        height: 1080
+        isCached: true
+
+secured: "rRq0Jw85jHwcHP4duz4f3DOatXeds0UMOBh19R4fTM3a4QiETNnvLRW2PznKtAE9ARFMtCgGl8yu66pbClHg+Jl123M6tDZe1R9gIbD0ybpH0iXzMbRN6nn10/ZbK7Fm7CNFzF03YAuiyxqXk/l353OtXW94vWoWed/5rDTqanWi7h7v0wVp+/VHcGKxpVgm5hzaMvZ+noiODQdWuyOdeQsS9nGyOYzmAFLpnMm/gSV1oIMCwfv5f0vbnJVxUgNxzZrsxxu9A2ef1HLD5t46qNaoppWjiYm8AXDRiFE9vbEN1rxvTj0H/VJIjuqdH/UTpcb+VFMUBsVtuP3Nqef7xIPlldp0uW6DXSpcmP+bd1E=;4J8nwpn+CYZePpNzJCFxUw=="
+---
+
