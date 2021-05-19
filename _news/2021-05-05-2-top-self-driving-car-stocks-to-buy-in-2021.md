@@ -1,20 +1,32 @@
 ---
 category: news
 title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
-publishedDateTime: 2021-05-05T11:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
-webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
+excerpt: "Each day, nearly 3,700 people die in car accidents around the world; that makes driving the leading cause of death for children and young adults between the ages of 5 and 29 years old, according to the Centers for Disease Control and Prevention."
+publishedDateTime: 2021-05-05T15:00:00Z
+originalUrl: "https://www.fool.com/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "cGfWOUb5pPXMTFQtwwK6XIhRHEHcvocBPiWPHrqycBdofxwAS8ES5iQ2rsJo1k3OkP1uNA5bmpekhruCzvAY4x97I/rW0v693LI0qb/oR2IN5m+XjGs/oUtoQaeqjvjvTMiuP7nZqsvb5vYH+jX1yAcwvqIOURLBhOzWE4jiSTJknz8nNOIDgyJntISz57qn2GcXATa1G5l7wgXzH/s8ikt63A0pm3Orpen158hTSOtonolU2fEvNTGmEmmBlVibw1hKEZKOf9cl70pl47RWfywlCMFEuzRFR3xLUMUgdZvjv+MK1SLLyPTnc8kUDwRA2HXLEdLWtFM0NYlqBf4YSefrRlIkILeT1azCz7+lNpPz2owD1mSi+uxP9sjxeq/MLHCBmyMK46OsWptqGXMIeSeTY+c+Tw2M3i8+btsVrDA8sONJIRmxglpyM1589reP2WRtsxhU1qest7tRO5lqKZGwNaXO7hUJGRnCO6Zxr5YF/w8FKVU/FHu0e9cYdtL0MX/KmQz+AQuwX9RVclFODg==;drOPuwabHLkrl3ISBQEGgQ=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624470%2Fnvidia-orin.jpg&w=1200&op=resize"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "QXAsfeCM82Zu57fhEuxQzLsb+Z5FzBisK55IDTiVXn/8gdEI51XubletUekwpi/KwJtSt2tGohn1tsCsQRj/QsQ3IpcD40d3pwMtrc1/2NQCFf0pVOhy2+5XcSgvCNkdleGPxFu3Jg9YsMuKy53hXfxqgx3U1Dx+QqLwzVowaIRYaY74OQIQSFFVIN/MdQK8xAcXqcoEk0soNJnKl6jtRPJfhBXcFHJKn+YqPj4unbm4cgLI992TFIf9ykzyDG/Z/gBSr0GkQoLxOwawepGYuPwis7cYTokoLNRgwfAv+DG3BYtNBPJ2Rck+lNrpDA3iTm+Pag5q1ryiQL2z2Pe/eV/kiC3+DzqWgqaVNfNYNpk=;P/DTqogpjZRxIRVdqkjk+w=="
 ---
 

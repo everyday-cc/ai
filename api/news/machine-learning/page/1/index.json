@@ -208,7 +208,7 @@
       "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -933,19 +933,19 @@
     {
       "path": "_news/2021-05-12-klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge.md",
       "title": "Klas Government Launches Market's First Tactical GPU That Extends AI/ML To Network Edge",
-      "excerpt": "Klas Government today announced the availability of VoyagerGPU, the market's first tactical GPU. Embedded graphics-processing units (GPUs) are critical for military systems with h",
+      "excerpt": "Klas Government, which makes the world's most powerful, low-SWaP technology for the extreme tactical edge, today announced the availability",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330",
+      "webUrl": "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1508870/VOY_GPU_890.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://mma.prnewswire.com/media/1508871/Voyager_GPU_video_v5_01.mp4?p=medium",
+          "width": 512,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -955,21 +955,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T09:46:00-07:00",
+      "publishedDateTime": "2021-05-12T09:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

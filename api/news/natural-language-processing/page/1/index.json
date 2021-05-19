@@ -10,7 +10,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/372388",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -170,7 +171,7 @@
       "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -473,6 +474,49 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-language-models-like-gpt-3-could-herald-a-new-type-of-search-engine.md",
+      "title": "Language models like GPT-3 could herald a new type of search engine",
+      "excerpt": "The way we look for information online hasn’t changed in decades. A new idea from Google researchers could make searching the web more like talking to human experts",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/",
+      "originalUrl": "https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/files-1614223.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/amp/",
+      "publishedDateTime": "2021-05-14T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1437,58 +1481,6 @@
         "name": "아크로팬",
         "domain": "acrofan.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-googles-ai-photo-app-uses-crowdsourcing-to-preserve-endangered-languages.md",
-      "title": "Google's AI photo app uses crowdsourcing to preserve endangered languages",
-      "excerpt": "give cultures the AI tools they need to protect the languages themselves. The company has launched Woolaroo, an open source photo translation web app (also available through Google Arts & Culture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "originalUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/720d13b0-ada9-11eb-bf7f-98ae4b609bbc",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "publishedDateTime": "2021-05-05T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

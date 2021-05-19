@@ -2,6 +2,92 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-04-06-icad-announces-estimated-q1-revenues-and-upcoming-cfo-transition.md",
+      "title": "iCAD Announces Estimated Q1 Revenues and Upcoming CFO Transition",
+      "excerpt": "In 2018, ProFound AI for DBT became the first artificial intelligence (AI) software for DBT to be FDA ... IORT’s benefits for patients which exceed the benefits of traditional therapy or acceptance of IORT by patients or clinicians, the impact of supply ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-behind-the-scenes-with-ibm-services-david-sun.md",
+      "title": "Behind the scenes with IBM Services’ David Sun",
+      "excerpt": "When it comes to IBM’s vast services capabilities, David Sun has seen it all. Sun, the director of corporate business development for IBM Services, came to IBM 18 years ago when IBM acquired PwC Consulting and is now one of the driving forces behind the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
+      "originalUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/ibm-campus-1.jpg",
+          "width": 610,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-ai-powered-etf-works-with-ibm-watson-to-analyze-market-data.md",
       "title": "AI-Powered ETF Works with IBM Watson to Analyze Market Data",
       "excerpt": "Chris Natividad is CIO and Co-Founder of EquBot. Mr. Natividad brings more than 15 years of experience in the institutional investment management industry. Previously, he was an Investment Portfolio Manager for Gilead Sciences and Apple Inc.’s Braeburn ...",
@@ -1007,83 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
-      "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
-      "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
-      "originalUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/IMG_20210325_164803.jpg",
-          "width": 673,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
-      "publishedDateTime": "2021-04-03T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
-      "title": "John Krafcik quits as CEO of Googles self-driving car project",
-      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
-      "originalUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
-      "publishedDateTime": "2021-04-03T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

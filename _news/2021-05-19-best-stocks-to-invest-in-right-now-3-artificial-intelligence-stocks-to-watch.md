@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/372388"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/372388"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372388"
 type: article
-quality: 86
-heat: 96
+quality: 88
+heat: 98
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-372388.jpeg?width=600&crop=16:9"

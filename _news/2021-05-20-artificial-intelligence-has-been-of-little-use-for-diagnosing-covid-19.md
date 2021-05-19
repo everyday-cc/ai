@@ -8,7 +8,7 @@ webUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intellig
 ampWebUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"

@@ -61,6 +61,22 @@ related:
         width: 1600
         height: 906
         isCached: true
+  - title: "Google Unveils Quantum AI Campus For The Future Of Quantum Computing Research"
+    excerpt: "The campus features the company’s first quantum data center, quantum hardware research laboratories, and quantum processor chip fabrication facilities."
+    publishedDateTime: 2021-05-19T19:30:00Z
+    webUrl: "https://hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    ampWebUrl: "https://amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55146/content/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research.jpg"
+        width: 708
+        height: 411
+        isCached: true
 
 secured: "CuSdp911B8JwEteSB8AE82YRS6FtpdPIs8PPzArHQtzcKosHxPF/ieAqDNv/smzP4s5dgZySuLtbaasWIzGP4aVBn7IjiGGH2zVvDIklj91lDoaGJeuWCuh0mP42yW65UYLaWixOpsvaFSwmvHZtWfQpeVOpsQ0cyTU1o/62NXDdXPOwmXNbKc2T97qEQj9pYQTojAUZfoM4zsZBjbD/z3OaPWGEc+H95Tht/zHf5K8Jt5FRUy/poXWsSP7vMs/iLV93bfqrrLqEND5STsLoVxy1oqskmDU+ZhRIrJ0hh0lyATqZ/PyhFlh7MUS9I3NN9hofyUHRgYMftOu+Y9C0BXk2DbBwZYbtnRPyATXjnq0=;RAwWn6qqQoxgOJQuZ2gaFQ=="
 ---

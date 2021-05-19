@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/assembly-line-
 ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/assembly-line-ai-helps-developers-build-products-faster/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/assembly-line-ai-helps-developers-build-products-faster/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/software-developers-457x274.jpg"

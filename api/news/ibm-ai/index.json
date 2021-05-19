@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation.md",
+      "title": "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation",
+      "excerpt": "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-ibms-research-group-set-to-simplify-enterprise-ai.md",
+      "title": "IBM’s Research Group Set To Simplify Enterprise AI",
+      "excerpt": "We believe IBM is going to bring its AI research for improved power efficient AI to mainstream data centers. To effectively use its reduced precision AI hardware, it's critical that there be the right software support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a47af2feb2016d775ea3fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D21%26cropY2%3D471",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/amp/",
+      "publishedDateTime": "2021-05-19T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-the-covid-19-pandemic-has-supercharged-ai-for-telcos.md",
       "title": "The COVID-19 pandemic has supercharged AI for telcos",
       "excerpt": "While IBM was initially concerned the COVID-19 pandemic would bring operations to a screeching halt, we’ve observed quite the opposite for telcos. Last year was a turning point for AI in the telco industry, which was faced with increasing bandwidth demands due to the influx of people staying home. Calls",
@@ -164,20 +270,20 @@
     },
     {
       "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
-      "title": "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience",
-      "excerpt": "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ...",
+      "title": "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience",
+      "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html",
+      "webUrl": "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
+      "originalUrl": "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg",
-          "width": 1380,
-          "height": 722,
+          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg",
+          "width": 582,
+          "height": 304,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -187,11 +293,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T02:51:00-07:00",
+      "publishedDateTime": "2021-05-12T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Host Review",
+        "domain": "hostreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -367,6 +473,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-ibm-simplifies-automation-with-watson-orchestrate.md",
+      "title": "IBM simplifies automation with Watson Orchestrate",
+      "excerpt": "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "originalUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "publishedDateTime": "2021-05-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-the-four-keys-to-trustworthy-ai.md",
       "title": "The four keys to trustworthy AI",
       "excerpt": "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including",
@@ -406,49 +564,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-simplifies-automation-with-watson-orchestrate.md",
-      "title": "IBM Simplifies Automation With Watson Orchestrate",
-      "excerpt": "IBM’s Watson Orchestrate is an AI-powered software tool designed to simplify and automate the process of finding and combining appropriate sets of data for a given task.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate",
-      "originalUrl": "https://seekingalpha.com/article/4427218-ibm-simplifies-automation-watson-orchestrate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4427218-ibm-simplifies-automation-watson-orchestrate",
-      "publishedDateTime": "2021-05-11T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1390,102 +1505,6 @@
         "AI Ethics",
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news.md",
-      "title": "LinkedIn Debuts LinkedIn Learning Hub, IBM Doubles Down on Ethical AI and More News",
-      "excerpt": "LinkedIn announced plans to launch its LinkedIn Learning Hub, a skills-building platform currently in beta, in the second half of 2021 this week. James Raybould, senior director of product, LinkedIn Learning and Glint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
-      "originalUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/ee83660ce436477a992a325b7f73cf8f.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
-      "publishedDateTime": "2021-04-23T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business.md",
-      "title": "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business",
-      "excerpt": "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "originalUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg",
-          "width": 1200,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "publishedDateTime": "2021-04-23T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

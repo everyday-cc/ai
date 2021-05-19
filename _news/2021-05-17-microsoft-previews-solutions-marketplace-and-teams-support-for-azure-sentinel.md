@@ -39,20 +39,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
-    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with"
-    publishedDateTime: 2021-05-19T13:06:00Z
-    webUrl: "https://www.miragenews.com/laliga-teams-up-with-microsoft-to-digitally-562891/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 22
-    images:
-      - url: "https://presspage-production-content.s3.amazonaws.com/uploads/1369/500_stock-photo-scientist-hand-in-blue-gloves-holding-coronavirus-covid-vaccine-disease-preparing-for-human-1725021514.jpg?10000"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Arada partners with Microsoft to become 'digitally-enabled'"
     excerpt: "Sharjah-based developer Arada has partnered with Microsoft to accelerate its digital transformation and enhance experiences for its customers and business managers. The property d"
     publishedDateTime: 2021-05-18T19:13:00Z
@@ -71,6 +57,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
+  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
+    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the"
+    publishedDateTime: 2021-05-19T14:11:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52920497-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 2
 
 secured: "ZC6aI1Pt2ORmqT476nJ/uy0rv6yo4DwPJQZ8Zv7Y5yuyi0ZUAC44mL1U6SPTxBs+xoF7k7KtICb4oJuLgOwZ1Pw2p3EfUPz2GKf1XscekMeFnckz10Hk6FmWjn3hathr0F5d7g20WrbZWfFbdxHX7z/y2ktk5D4UnNu/mWdnG8MDDZuQD0mfxvcRMbMFtFkwqxdkKN4Me9mzvJBE6vHZJJnZ2XRuJjDzkF9C63Zd0R30nIjE/f1dAdcvGN4dEvax5frdh14q5mTHmnIje/rYn1zn+XkRN7dQX8tnpt1OarEU6ueySVjtlphjpHMdFzCre/yBquGDZzNL8STqCao/OLEe23lgYcVlZExXnkqIvrPqOFRYeRdFXYmsjXLXf5MyGM7VjSnnBWgU/rGgV4/b3ba5kQRe2aO427wfd2fHB+8XkOFwZaHMPo4OT+Q7coUhJlarfjX0hzwl7RoIIrg31cEEHm7IVjQ2sfAPMQal11nWEgBesqHFN3To1gXRfOKlFBI0ue9LCyK6g0a5mgj1Gw==;aAK7O5MeJ7rbXR71V5TrVQ=="
 ---

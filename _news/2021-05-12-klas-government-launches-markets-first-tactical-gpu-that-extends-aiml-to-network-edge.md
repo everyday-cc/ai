@@ -1,22 +1,15 @@
 ---
 category: news
 title: "Klas Government Launches Market's First Tactical GPU That Extends AI/ML To Network Edge"
-excerpt: "Klas Government today announced the availability of VoyagerGPU, the market's first tactical GPU. Embedded graphics-processing units (GPUs) are critical for military systems with h"
-publishedDateTime: 2021-05-12T16:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330"
-webUrl: "https://markets.businessinsider.com/news/stocks/klas-government-launches-market-s-first-tactical-gpu-that-extends-ai-ml-to-network-edge-1030422330"
+excerpt: "Klas Government, which makes the world's most powerful, low-SWaP technology for the extreme tactical edge, today announced the availability"
+publishedDateTime: 2021-05-12T16:27:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html"
+webUrl: "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html"
 type: article
-quality: 93
-heat: 93
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
@@ -24,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1508870/VOY_GPU_890.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1508871/Voyager_GPU_video_v5_01.mp4?p=medium"
+    width: 512
+    height: 288
     isCached: true
 
-secured: "u+/s9KFADujjHDi4Z4h9zp8C0lIZlyv7f8vEu9x+sb2SVDfGphPkKz+dhTc9OlFuHNPcWfBkvf2rZvnayhSo4pXJTjhTSvvdJJbE2KgAovHpXbi/zdk1l6weXB2Z4fOpPi2q4vkLn6zrRuHem8lVPZ+Un/y94Fm5J8QKFuG2ZK9xvXnjZFgK0w0P5ZoIK/vgIHC0vipOiv4kghT23V3Tb3blOiJUvVTRG3v4li/L94ZWJOReUQvmDymLUVFVweQg+b2IzRkE8hC5QpFwjb0BLPV8OyrYnJA31AX1KpjDeQ/IZLRXkscGLsEdliuqn+uG+Lar/0IIqcRxFurg28UDp3l8+YPKDSrRePYGFOWMTopQ57xc2dWh9J1QCGsh0QYUGvvrVHcLHTl42hNMIkX7poru4In9zwtsqCJG8xGJdQV16PYooFcfO2fgtxzxP59OT9+VFZ1vJH6c4msTXvo6um09XqsWHYZ8hnzm3VjgWD/v5gEF7E8bm86fQm0dQYSD8yAVEugLs0xVRZV988rzgA==;FFkBCAsehjZjgEFn3gLUfQ=="
+secured: "ebfr0rf7MAFklvaGj0uKMgtzk6H3AuHYZ7AZubUDcVSxq+xBXC65VcbspbjkcU5/nocA1ibY+NYc4buM5waRZrv5Mr/Nekfghpp9RQUTehc9YC7WEZNledq0JYzIPajy6N2I6uy+Rsld+D0F7drHGByEb8Go8Yv2y1yltKTjo7/8BG0cRjzOxmZZFf3LP/Eg0tNetMmBoIArnEZfeJxaAXUAoDoD2b6Nv4LvsVLKeYAfAmrYlTwOU+T10wB9QBmpnusptNQ0fKH41RByoWyAzzg/0ofLQKtVjRYzJZ1SjYexBeGRkhuw03IcTBgKQdVQtzOQw1e+4m0j7Uy+DSc8iJqadUu01Kh1SepMHl0+eUs=;LUWnCsrWWqOM7YckpfrGzA=="
 ---
 

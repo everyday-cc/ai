@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-10-the-pentagon-inches-toward-letting-ai-control-weapons.md",
+      "title": "The Pentagon Inches Toward Letting AI Control Weapons",
+      "excerpt": "Drills involving swarms of drones raise questions about whether machines could outperform a human operator in complex scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/",
+      "originalUrl": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60956d118edc04c16a2d0461/master/pass/business_drone-swarm_187347653.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/amp",
+      "publishedDateTime": "2021-05-10T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-analyzing-the-rise-of-deepfake-voice-technology.md",
+      "title": "Analyzing The Rise Of Deepfake Voice Technology",
+      "excerpt": "Today, businesses are at risk of deepfake attacks, and the potential impact on their businesses could be substantial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60466283ded5cf593f3ba809%2F0x0.jpg",
+          "width": 883,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/amp/",
+      "publishedDateTime": "2021-05-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-softbank-backed-health-ai-startup-moves-into-clinical-care-with-key-amazon-hire.md",
       "title": "Softbank-Backed Health AI Startup Moves Into Clinical Care With Key Amazon Hire",
       "excerpt": "Maulik Majmudar, the cardiologist who led the tech giant’s push into wearables with Amazon Halo, joins Biofourmis as the company expands beyond software and sensors.",
@@ -1097,109 +1200,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes.md",
-      "title": "Longevity startup Gero AI has a mobile API for quantifying health changes",
-      "excerpt": "Sensor data from smartphones and wearables can meaningfully predict an individual’s ‘biological age’ and resilience to stress, according to Gero AI. The ‘longevity’ startup — which condenses its mission to the pithy goal of “hacking complex diseases and",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/",
-      "originalUrl": "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Gero_team-1.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/",
-      "publishedDateTime": "2021-05-07T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-weekly-qualcomms-ai-research-and-development-efforts.md",
-      "title": "AI Weekly: Qualcomm’s AI research and development efforts",
-      "excerpt": "Qualcomm AI research head Jilei Hou spoke with VentureBeat about the company's investment focus and broader mission.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/",
-      "originalUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/amp/",
-      "publishedDateTime": "2021-05-07T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

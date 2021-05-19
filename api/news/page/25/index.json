@@ -2,6 +2,101 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-29-vectra-ai-raises-130-million-led-by-blackstone-growth-bxg.md",
+      "title": "Vectra AI Raises $130 Million led by Blackstone Growth (BXG)",
+      "excerpt": "Vectra AI, a leader in threat detection and response today announced a $130 million round of funding led by funds managed by Blackstone Growth (BXG, “Blackstone Growth”). The investment will help fuel Vectra’s continued growth through platform innovation and expansion into new markets and geographies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/vectra-ai-raises-130-million-led-by-blackstone-growth-bxg/article_b65b7d1a-7766-5bd1-9f77-99b7e9090dcd.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/vectra-ai-raises-130-million-led-by-blackstone-growth-bxg/article_b65b7d1a-7766-5bd1-9f77-99b7e9090dcd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ai-powered-cybersecurity-platform-vectra-ai-raises-130m.md",
+      "title": "AI-powered cybersecurity platform Vectra AI raises $130M",
+      "excerpt": "Vectra AI, an AI-powered cybersecurity platform, raised $130 million in a funding round that values the company at $1.2 billion post-money.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "publishedDateTime": "2021-04-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-hawaii-banks-new-mobile-app-uses-artificial-intelligence-to-customize-experience.md",
       "title": "Hawaii bank’s new mobile app uses artificial intelligence to customize experience",
       "excerpt": "The bank’s customers can now store information from all of their accounts in one place ― even accounts that aren’t with First Hawaiian.",
@@ -1072,100 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.md",
-      "title": "Imagen AI uses artificial intelligence to edit your photos in Lightroom",
-      "excerpt": "Imagen AI recently announced its new desktop app for Mac and PC. Using artificial intelligence, it will automatically edit batches of your photos in Lightroom based on what it has learned from your past editing preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom",
-      "originalUrl": "https://www.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.img-dpreview.com/files/p/E~TS590x0~articles/1163298841/Screen_Shot_2021-04-28_at_1.38.30_PM.png",
-          "width": 590,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.amp",
-      "publishedDateTime": "2021-04-28T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-qa-vivienne-sze-on-crossing-the-hardwire-software-divide-for-efficient-ai.md",
-      "title": "Q&A: Vivienne Sze on crossing the hardwire-software divide for efficient AI",
-      "excerpt": "Vivienne Sze is an MIT researcher who is co-designing artificial intelligence hardware and software to be more energy efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
-      "originalUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202104/vivienne-sze-mit-00.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

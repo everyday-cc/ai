@@ -42,6 +42,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Watch for Digital, AI to Increase in the Mortgage Biz (Podcast)"
+    excerpt: "Joe Tyrrell, president of ICE Mortgage Technology, tells Bloomberg Radio's Denise Pellegrini that the shift to digital in applying and processing residential mortgages, is here to stay."
+    publishedDateTime: 2021-05-19T18:18:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2021-05-19/watch-for-digital-ai-to-increase-in-the-mortgage-biz-podcast"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VsLO9PPaLChMsULGfmtqXgG6ls4nofIHtUzEhxFNsDIfHxVfxbT0845ZozMTj6JS/fjoO2dxmmorZsAEoChk7vGO+MlJhA53dRqNuVuIOahh3upJ/vRQw0X3NF6Rq8jiTgDqQtmnCEJegs7qw7MKnzEQUnw+GZEqk0xXejJCNURF2RIO/G0K90cFqS/qgN9bZyTPcAxw6tjIFkUFpUoo4ITVAI/QqhnFY4KVlWpQMTi3dYj1vqPofa8/ggBHButehgee2cHX9yQhdmZrh5SapOfMm7PmHmCOa3xBWXV18WPzofWiLT2F6DfbOYp3vd9QmNe009QW547cq5ufJtPpasLn3bddG+bawPnSS8JFDdHqSjYtthfoiPtGUmVOMFvg2JJPyyyFZ6ofaVi13mNLws7jVKr4+xmn1F0K/gOosBMUQfIbkblKn82O1hWrvRof7UcKecJIf/4SVKYkEhPwTbj1lSzW6GrlnmaUVmXAQIB5bCcKx6PXe/8e4x1UBXbzrB+Nnu6c+H2oTnQ9Qf7SIA==;g/uR1pbB0cy/na8rS35gRw=="
 ---

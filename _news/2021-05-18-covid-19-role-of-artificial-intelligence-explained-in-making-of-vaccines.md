@@ -65,7 +65,7 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"
         width: 600

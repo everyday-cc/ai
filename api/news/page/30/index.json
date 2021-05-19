@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-25-you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline.md",
+      "title": "You need to be constantly exploring the data in your AI pipeline",
+      "excerpt": "AI algorithms will do most of the heavy lifting, but if humans aren't doing critical upfront work on the data, your models will fall short.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
+      "originalUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
+      "publishedDateTime": "2021-04-25T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
+      "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
+      "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
+      "sourceUrl": null,
+      "webUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
+      "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.express-journal.com/img/img-14.png",
+          "width": 1042,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
+      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
+      "publishedDateTime": "2021-04-25T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "express-journal",
+        "domain": "express-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-step-aside-python-4-benefits-of-using-javascript-for-machine-learning.md",
       "title": "Step aside, Python — 4 benefits of using JavaScript for machine learning",
       "excerpt": "Python isn't the only option for programming machine learning applications: there’s a growing group of developers who use JavaScript to run machine learning models.",
@@ -1094,92 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel.md",
-      "title": "Machine Learning Chips Market Size and Latest Trends & Advancement From 2021-2027 | Wave Computing, Graphcore, Google, Intel",
-      "excerpt": "Machine Learning Chips Market report provides results and potential opportunities and challenges to future industry growth. Market Report acts as a valued source of information with which businesses can achieve a telescopic view of the current market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
-      "originalUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breakout.live/wp-content/uploads/2021/03/report-1.gif",
-          "width": 540,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies.md",
-      "title": "Exclusive: Legion Capital CTO J. Bradley Hilton On AI, GoLegion, Cryptocurrencies",
-      "excerpt": "leading the company's continued innovations in FinTech powered specialized business lending and direct investing platforms,” according to a company press release. Legion Capital wants to use AI to help find qualified customers that might otherwise be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
-      "originalUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/screenshot_2021-04-23_8.25.20_am.png",
-          "width": 569,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20624407",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20624407",
-      "publishedDateTime": "2021-04-23T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

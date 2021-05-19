@@ -2,6 +2,110 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021.md",
+      "title": "Global Natural Language Processing in BFSI Market Overview, Size, Share and Trends 2021",
+      "excerpt": "According to this latest study, the 2021 growth of Natural Language Processing in BFSI will have significant change",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021-2021-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021-2021-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-ibm-ceo-arvind-krishnas-turnaround-plan-starting-to-bear-fruit.md",
       "title": "IBM CEO Arvind Krishna’s turnaround plan starting to bear fruit",
       "excerpt": "including Cloud and Cognitive Software, which saw a sales increase of 3.8% from a year earlier to $5.4 billion. The Global Business Services unit, which includes consulting, and the Systems unit ...",
@@ -990,84 +1094,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-does-exercise-protect-cognitive-health-you-might-not-like-the-answer.md",
-      "title": "Does exercise protect cognitive health? You might not like the answer",
-      "excerpt": "The growing realization that exercise doesn’t really help with weight loss can dampen the motivation to be active in many people — one reason why I advocate for decoupling exercise from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "originalUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "publishedDateTime": "2021-04-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-how-to-sharpen-machine-learning-with-smarter-management-of-edge-cases.md",
-      "title": "How to sharpen machine learning with smarter management of edge cases",
-      "excerpt": "Machine learning (ML) applications are transforming business strategy, popping up in every vertical and niche to convert huge datasets into valuable predictions that guide executives to make better business decisions, seize opportunities, and spot and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-sharpen-machine-learning-with-smarter-management-edge-cases-123494788/",
-      "originalUrl": "https://www.information-age.com/how-sharpen-machine-learning-with-smarter-management-edge-cases-123494788/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/04/how-sharpen-machine-learning-with-smarter-management-edge-cases.jpeg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

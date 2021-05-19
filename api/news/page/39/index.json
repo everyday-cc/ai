@@ -2,6 +2,102 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-19-fatal-tesla-crash-in-texas-believed-to-be-driverless.md",
+      "title": "Fatal Tesla Crash in Texas Believed to Be Driverless",
+      "excerpt": "U.S. safety regulators are probing crashes involving Teslas, suspecting the company’s Autopilot system might be involved. WSJ’s Robert Wall reports on how some motorists may mistakenly think ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "originalUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-326717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
+      "publishedDateTime": "2021-04-18T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-best-free-artificial-intelligence-software-for-windows-10.md",
       "title": "Best Free Artificial Intelligence software for Windows 10",
       "excerpt": "TensorFlow is an open-source AI software. It is a great tool for learning and developing Machine Learning models. TensorFlow allows easy deployment of computation across a wide variety of platforms.",
@@ -1032,83 +1128,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-financial-standards-setter-to-focus-on-use-of-ai.md",
-      "title": "Financial Standards Setter To Focus On Use Of AI",
-      "excerpt": "A global standards-setting body for the prudential regulation of banks said on Friday that one of its main focuses for the year ahead will be on the role of artificial intelligence in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
-      "originalUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1375927",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927",
-      "publishedDateTime": "2021-04-16T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
-      "title": "Ford And Tesla’s EV Rivalry Heats Up",
-      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
-      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
-          "width": 479,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
         "images": null,
         "publishers": null,
         "authors": null

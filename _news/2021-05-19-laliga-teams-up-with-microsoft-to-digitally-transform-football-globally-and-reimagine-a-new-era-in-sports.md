@@ -1,28 +1,22 @@
 ---
 category: news
 title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
-excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with"
-publishedDateTime: 2021-05-19T13:06:00Z
-originalUrl: "https://www.miragenews.com/laliga-teams-up-with-microsoft-to-digitally-562891/"
-webUrl: "https://www.miragenews.com/laliga-teams-up-with-microsoft-to-digitally-562891/"
+excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the"
+publishedDateTime: 2021-05-19T14:11:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52920497-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52920497-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-008.htm"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://presspage-production-content.s3.amazonaws.com/uploads/1369/500_stock-photo-scientist-hand-in-blue-gloves-holding-coronavirus-covid-vaccine-disease-preparing-for-human-1725021514.jpg?10000"
-    width: 500
-    height: 333
-    isCached: true
 
 related:
   - title: "Microsoft and LaLiga expand partnership to transform the digital sports experience"
@@ -72,6 +66,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "Na03nUaWnAvkUQsxUjMoNWobrT8J5TQuSlmHPb8WXpcZtglyR5adJOMqsywfJMDqgMET/sSzuf91kB+Rs9OhI99P7G82QX/Vi5nyTI3sOvC+jh+ntUJOaUv7Rq7LJ553xkHCWv6H4YySMbW/evAiO3Qu7ulfBI27P6F2rEUw2mpTYF/vphrjB8KdpEkrT4n0nm3jmXbFsFnvk1qhHKgwa252ujOFmx9Xc+5bplRu71uNp/hlqtFwJBNp4BwXcyGu8H0jDKhA92cGWVQ1SKiZICgdgN0jQajWjG5wL2RNG3ZdX9TmHAAYiMROG41651DWMZXW6n3OCU3cWMGVIObI7sguVrk8g+SuHSShJXE8k9zWKx/yIgpAXdcmu3z4UYpKMQLNRhCXOuZbxmIMLUE0MSQ3MBCQlrWAY2025EjOI3rJSXaIvpjfirN0wm+M2Y5gwgbemkMzwrG6wMifmfwJKO3bO9dUYeVl6wjJcaNERsXQB0pnstvRHyAxmTFNs/ksdQsAxoOWIgjfNHtH7108tw==;ZCR/QLw7R4iFImm8s1OZMQ=="
+secured: "6OCeaj0yWjUuuZbOe82p/IQE4yBtARZaBeBPcWJC+RP3RE4zYi/ay4b6TgJLtfIuGwE4r2xtd0Ky6hCsFKyw0j2JBZaPS+MnPPMK5pNlrSpbVs+U0fi8BSqmwMiToT7h0lOHlgN+ZFKDqdEmr2RzeJ9X1sgKweAGE5ZE/q/2nvoHHMMok0OvROb99VUSb3PQ4Ym/89vGf8SjqISY64m9QiwaA/t30XwW/HdQBae6Ft/1ckJO+WkAZlqK9Uol3wqBnd4IZQfL63ssVgowmYyoGxmTjJfYJirFopA5cwVbr4uPElQZcKFGmruHGd+DVWqYVuA3FtUnH6Nc8QOaFygy/lJMCSW5vqzrFc5RZNEbrG0=;fMrN6L/8SOZaM7tSTgULKQ=="
 ---
 

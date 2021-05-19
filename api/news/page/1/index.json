@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation.md",
+      "title": "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation",
+      "excerpt": "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
       "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
       "excerpt": "While investors wonder why stocks are dropping today, artificial intelligence (AI) stocks could be worth watching. Why? For starters, they are likely trading lower in today’s stock market as tech stocks sell-off amidst inflation and crypto-related issues.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/372388",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -102,7 +155,9 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Google AI",
+        "IBM AI"
       ]
     },
     {
@@ -821,7 +876,7 @@
       "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -873,7 +928,7 @@
       "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1208,58 +1263,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-everything-google-announced-today-android-ai-holograms.md",
-      "title": "Everything Google Announced Today: Android, AI, Holograms",
-      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-io-2021-highlights",
-      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
-      "publishedDateTime": "2021-05-18T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

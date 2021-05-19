@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid
 ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/CliffJustice-Header.png?w=1920"

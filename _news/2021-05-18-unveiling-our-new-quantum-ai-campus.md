@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
         width: 1600
         height: 906
+        isCached: true
+  - title: "Google Unveils Quantum AI Campus For The Future Of Quantum Computing Research"
+    excerpt: "The campus features the company’s first quantum data center, quantum hardware research laboratories, and quantum processor chip fabrication facilities."
+    publishedDateTime: 2021-05-19T19:30:00Z
+    webUrl: "https://hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    ampWebUrl: "https://amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55146/content/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research.jpg"
+        width: 708
+        height: 411
         isCached: true
 
 secured: "E+83PM5P6AcpLcWd8H3pAFhwvnxbjPXZTytU07SsLjLPzLA7i93pxkVa93b6v5+hfNslIC7qncx32gkJcRhuoCwAw7Bhk9KfaJmVn7mn8pFRcj4D7N8c/FBG4hss4Y0S8QBuSTwBzVNPVhD2Mw7Y5iaLYrGjKU4BPf8G4Jk8m9LyzsGbygGZWIhVZ6zwEnzdZbicOntF1S2eOaZAaRrAs7duLoTmW+GhUvkCtudhtZWYkt4tDHdUowz1yEg+Gzl3Rk15KJ1bK7POMdGJPocbdrbNNGdvlmc4t4piBmM1eQ5Gl23uLLyegyZe3mYanVpNaVW1jmahhWlg8jKarqQtWTyGrhjx5NC+Ff6HyTwJIP4=;FXDQuZT6u/lLMov/7eXYBg=="

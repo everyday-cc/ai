@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 800
     isCached: true
-
-related:
-  - title: "Google AI Researchers Are Dreaming Up a New Species of Search Engine"
-    excerpt: "Imagine a collection of books—maybe millions or even billions of them—haphazardly tossed by publishers into a heaping pile in a field. Every day the pile grows exponentially. Those books are brimming with knowledge and answers."
-    publishedDateTime: 2021-05-16T23:24:00Z
-    webUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/"
-    ampWebUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/05/internet-engine-network-metal-strands-circles-central-post.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
 
 secured: "TJzCNlcmubxA6BGUlDYzbDJEtfLKY5a4Ys8ceNPiIRVSBuX6oYIaOZUE7bN9WkAEbgTr3Wre+EdZMqBSbN3F15ecFBUhbkcC6vZKwebpHapXunxX+ISdA4vu6oNI4/XxItPfi4CqyCasJ6xm7E3ktH4RAg6syHkhe5WZLuJ2UOb8W5qTaelbsxDmuqnxK6sbITajAALIe1WL7Zla6ypCfEWRz8AMT6XaePECehLabG6Y77z9XP39HZkI/o45MrE62tIGzrKYVR8HHZ+5vuRYTYBqA8iMnV5NKv7er1t60m4tk62VKQBX24CMYstidwHLoRDS9icaS6WGmrZiTCSVztBC2M5ECT1FwwWN+eztoKk6kk1JjdDr9ybtK6sTcrLv8AI7eURIFQQFC1kM+wKSprhJwVvb/zbGmL7e1hVsFy8B0qXo4O3yXJsnqLOx+M0+E7Je+cNPTu60s+D2OpMEtkvSwvWsG/V0K9sJKnURwyQUHlrfd4yOOIbAEG0XCz7Vu/A36xyKD0CLeOupCVdXmQ==;gkz8nKQ+n+qdRRPxCg/9yg=="
 ---

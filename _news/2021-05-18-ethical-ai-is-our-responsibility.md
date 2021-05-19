@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/ethical-ai-is-our-respons
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "How to be responsible in AI publication"
+    excerpt: "A white paper from Partnership on AI provides timely advice on tackling the urgent challenge of navigating risks of AI research and responsible publication."
+    publishedDateTime: 2021-05-19T18:22:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00355-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
 
 secured: "qfUvV6DjEUBqTNaS2wpss5jgfkZ/hmSf1NoPiGpnvOcS2sWuTaYNmZGJhPdXrAtOwcDShH/hYdBIuqhkOn40BP1m/u9idsH/egs8FHg4y62IgQjKEvnEbk37xVjVBMXc3Ji9LBCuU30i8lgNdq68Vxt+uPvG55jDmPLyNT5yXrZxLo3t5bS4nMP0ysExc1Im/XsMUiStjz5mRw/RO5tnR7iWISd5NjQkiUdMQ0oy5i0vRHJ4b4rQIDK3VqgvPB59+bKGuqW+wIHgVb0QYgFh4rWMUCshqt1RBSIQokzEIWT9UURxh1F128a5tZkaZCGCTP4BQ1xIKecI9X8RJTV4ZxquFLqSjLxycAW2olZysJafsgQpsfhfYa4tlX3bcHCJECW63KIlh+euClEnxsaynAMI7MVJGssQrDrtAhcf9ba7yyJFVgVMBFQHKDz8KxzNTdbM4LIFKCVaoEOOO2edU8+pdOP7bvgydiXgYEW9EIgKjBtfwjHhW1rz3wtxIjWH2UKrCvwveFQAiXlaWvS3uA==;Wy0dykzM6izGdPANAKDHuQ=="
 ---

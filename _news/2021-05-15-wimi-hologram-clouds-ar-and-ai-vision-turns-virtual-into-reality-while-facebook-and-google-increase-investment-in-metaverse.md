@@ -14,6 +14,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"

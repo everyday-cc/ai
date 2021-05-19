@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Search brings more AI and AR power to your fingertips"
-    excerpt: "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for"
-    publishedDateTime: 2021-05-19T03:15:00Z
-    webUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/"
-    ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
+  - title: "IBM’s Research Group Set To Simplify Enterprise AI"
+    excerpt: "We believe IBM is going to bring its AI research for improved power efficient AI to mainstream data centers. To effectively use its reduced precision AI hardware, it's critical that there be the right software support."
+    publishedDateTime: 2021-05-19T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 93
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/Anchor_Blog_hero_v32x.max-1000x1000-1.jpg"
-        width: 1280
-        height: 800
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a47af2feb2016d775ea3fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D21%26cropY2%3D471"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "ckizf6jqqQr9iSXxrtTMFaTEWSNdfX79koLmuCgyKQoZyyWgzWQh4pQANsnPMrhawP2J6nknGpNlDdGSNjxKx+LepQeIZWcWSEp8BDr54BPXU/zjwuwzZimzFh/ySQBvyepuyvh2558AEDbq8lO/URSjvtthP64ZMUTMQt2dSJ/TBrb1S0rbcnUgz1pHsX2mSEJb4CH8BR3n7onScyUXLorAIbgnflkvapbPFxNyKbROhJ3e5yVrrHadn57WkeLOmb3CuzHKL1HnJpexsnkbq/tEDY+TtvWa3XFopjG+MtyakGd9QlByFFFKlitGLfWyqHezWSZh9V6rGleVzeOOaZDI4urKhjGwxALyNNIBq06dGoC8QbSpINj0WC4VwoMtmf8r99bu1MhaLyhkvgSajZVxRqHPyxHJE5Rrltvyt97Cxq7/kmL7u09NjgJCDWV06iBH2NbWgFsxhc3XcfvHbCFYTSszaVVh+4HSjc9dWFpGWLTu8UNJCBnKZ5yA8hsqWjzkTpykz46rPWNrGmxT+Q==;DN2cwSpdmPw0BpSlv2BGyQ=="
