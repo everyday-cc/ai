@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Researchers use ‘hole-y’ math and machine learning to study cellular self-assembly"
-excerpt: "A new study shows that mathematical topology can reveal how human cells organize into complex spatial patterns, helping to categorize them by the formation of branched and clustered structures."
-publishedDateTime: 2021-05-18T21:30:00Z
-originalUrl: "https://www.brown.edu/news/2021-05-18/topology"
-webUrl: "https://www.brown.edu/news/2021-05-18/topology"
+title: "Researchers use 'hole-y' math and machine learning to study cellular self-assembly"
+excerpt: "In recent years, researchers have drawn on mathematical topology to help explain a range of phenomena like phase transitions in matter, aspects of Earth's climate and even how zebrafish form their iconic stripes."
+publishedDateTime: 2021-05-19T13:45:00Z
+originalUrl: "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html"
+webUrl: "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html"
+ampWebUrl: "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
-  name: Brown University
-  domain: brown.edu
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
@@ -20,11 +22,11 @@ topics:
   - Math for AI
 
 images:
-  - url: "https://www.brown.edu/sites/g/files/dprerj316/files/styles/wide_lrg/public/2021-05/TopoLead.jpg?h=1260256d&itok=GrvAWktA"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-hole-y.jpg"
     width: 1220
     height: 686
     isCached: true
 
-secured: "EX9+kxKksewz6Or0po3N4wPK5lQZCR+91q/nxo3B6LAd4JHXTq93u893YepLpVUNcKS+FYsa5nmqSsgvjWBQ2NGszSm5ns8/eDjSHwRfGWhpnbq5p5JrZus5Qiqn04rSHbJ8QjpwrAa8dLzqWiGQ1/qVxxRwCGKXR+yKLt/tRVog4Q+4pTBiTuMZUeTmRmDvqwMi2A6mxCzVtoDh6RB+Mn+0Bk2mx21cCGyvY4zYudN5UtCJ/RhckoHCEz3O+DquHp6TZgpzWs3Wy3AMO9HeQuwMhTrhd6XxGGHmK5xHkOZ7lbY/dh/0jp4eUVH/GeEIyK6OJlEePABKq+ojg7tGxXKYb4si/z5fez7FKXFUXUc=;Oh97R+EQo5xfPgLYcY1TQQ=="
+secured: "Qwl9RNHppwg1ICp5GfkMg2yC6IUOv+KjTBN4UnPO9wbUYDXOmeOzShMCDbD21ltg/DhRKIFKuVX81nglv7hC98jJcJz+KTIR2u8uESF8SCJDcBn9/r6L3hc4yjsVbeg0Z1FZaAwn5Fc189IV969aS1RfbgH6XV7vlk42NkuwIF0k+nopvak4M4gIfSbyORwGrN5ALnRjVQ3Spqifwmsu1h9wYzrlNsjwvVcCbTOVDhwQwElSXH382dBmo5fo+/e5+tLv++Xyt9MGe3p+grkyPFFSemVtCk6+Y3Je+CrPqTXqkwOvP/BETkwMouPIzRhk2JG1qQvuYFQBeysh+PW9o634Kc0PiSp7DxFBsA4l+8s=;kg2j8kv+LfG0BYUDuat6hg=="
 ---
 

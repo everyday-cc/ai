@@ -58,20 +58,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show"
-    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Leads High-Simulation 5G and AI Naked-eye Vision, While the Holographic Conference Unveiled at Shanghai Auto Show”."
-    publishedDateTime: 2021-05-14T19:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/5061583"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/NewYork-Police-1600-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "H3nS+JyIZ+Icx35ZlWOFOzxa5q9xyrGzcNCeiWU+Jo/YCaG9hye2dFKPB1tF44l8L6RZqyp4LV9JOoZ6dOak9TrbB1/ZJpM35TZKhLB60UGNXy1lL8EhHNHmx3A1TQ5XWuUDnucOC3Aas8QgmrNd9+07AZ/Kaw1KMmsf5kq8EjRTRWXeU3Nivsm3GCU8BK/OdydyBDlJsKWEUnoaiCrnVn8AsfJEr3QvG7ypTmHxNEWSAdlSvB7uOGDwkrdqw1BTOgBuh3/f933s7edaPmvYq5Q82BJgXLnAepmfHyFrtZpFaFWJt7DMbNMJC9WskJqgHeR/UdKl5EsQAN67LfKSXC8JPxhhId+BTcQcEcyA2Q0=;mrftwqMRb/Ma8bMaEIKCPw=="
 ---

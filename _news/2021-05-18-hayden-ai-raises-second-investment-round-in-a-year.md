@@ -40,6 +40,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Visionary.ai Raises $4.5M in Seed Funding"
+    excerpt: "Visionary.ai, a Tel Aviv, Israel-based AI-powered image processing startup, closed a $4.5m seed funding. The round was led by Ibex Investors with participation from Spring Ventures, Capital Point, and others."
+    publishedDateTime: 2021-05-19T12:45:00Z
+    webUrl: "https://www.finsmes.com/2021/05/visionary-ai-raises-4-5m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/05/visionary-ai.jpg"
+        width: 1104
+        height: 736
+        isCached: true
 
 secured: "83ycM+gzeXgsNpuzSadU1nMd2ir/rcN7/pk9cAMrXg7ZalwSFK3NNhXuOfeJwcFIgDJntzEqnWfCn89ToSILva66qIR4ZbJTMMSgLsWFmfkpa6ajLkgYYXE/+GFX1PjrN4SarZQvdVwncaM/1GI3Dtq64xeIz42GzCFYeboknDrDAWVIjPOBQ4skHkyZ8u8DOLsXcfkOfm118gpOI5pQZBBVVpP87/ihRZyAv4xNSSbZfLGpdIxvq8tGXeN8MaHcT7ZhHr/oKvZnF7eAW1qryVfyHsmsfnlKFp3NAYNhrLg/NR9ML/S7Ba9pFEkJNe95ni2z2XU4CVi2Pp6JvDDH/fxljAWVtlqlP4946+xxg4lojP1hC4g4/MWUGPD9g+84ICg3IrNVs+ZjZGg7B34NVRnx40vwasuQJZPIKMXXh8LYoncTOiYfSPcph170L9jhJebaiFTD4Ui8Gspdga7w8rnuYSWX65cRTzXbfY36DDFp3JyIzqbRa19cXkOFvO8/zR85wbXSRGI/FZgDJaYcRw==;ZCCgGJwclRVR7IPHpb6rMA=="
 ---

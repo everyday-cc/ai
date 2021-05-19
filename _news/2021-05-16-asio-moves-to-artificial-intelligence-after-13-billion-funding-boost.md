@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Artificial Intelligence Platform Provider ASAPP Raises $120 Million to Drive Greater Performance of Customer Experience (CX) Teams"
+    excerpt: "ASAPP, Inc., the artificial intelligence research-driven company, announced today it raised $120 million in Series C financing. This"
+    publishedDateTime: 2021-05-19T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-platform-provider-asapp-raises-120-million-to-drive-greater-performance-of-customer-experience-cx-teams-301294336.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "cUukHu826U3ZwVOibawng3VRSH2+39K+KQcd815apB14QClTnLS8swUomNDaLWiaHUO0s1X2ReCrvA7lGh4sEgQTyqW7Tih8DSm8kwRj764C/WQuMnskJrYmXEtk5jvZ8uofl0CYBg8AiRiQdnUIoN6j5re6A/PVpKA9i7yCdjRpBThqQHC5tCYAiZ3zxom6kcZFqZI/toS6mInrlMX1b64BvA5aK5pPuFnUOsAVy2z5YuBjKWfMTwQDhN4euaOnhDZt7HmNf+Qe2vfplulZ9ATm5ndoENX4VBDh857i8opvbU7pEt9LLjAALcbK5y0ovZj5l/RoK7ARN26WYlbav8m3t0E5Qjef/PaxFnk6jkLV3HSOe+F9e9nlMEKYX14/4l4VunqbVvj5pL83QYp5t8DPxrFyAUI4Qgw5nb7UmaGIvKZ6yZbM4L8jzcbXYdhLMNUvG8f5sM/41No0jDlWU8tqAmph1WToquvdDjEFWcZMSkPBoRa8bJD845fCKc8l76wesdFqyCCkerXDJwmJnA==;eJ840MtlaGKHJZ9wtZ6yKQ=="
 ---

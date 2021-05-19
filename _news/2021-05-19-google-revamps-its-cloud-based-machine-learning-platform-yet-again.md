@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/"
 type: article
-quality: 108
-heat: 128
+quality: 110
+heat: 130
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Machine Learning
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a4bfc594b2b134fb5ea400%2F0x0.jpg"

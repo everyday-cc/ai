@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
-    excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
-    publishedDateTime: 2021-05-19T07:43:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Google AI Researchers Are Dreaming Up a New Species of Search Engine"
     excerpt: "Imagine a collection of books—maybe millions or even billions of them—haphazardly tossed by publishers into a heaping pile in a field. Every day the pile grows exponentially. Those books are brimming with knowledge and answers."
     publishedDateTime: 2021-05-16T23:24:00Z

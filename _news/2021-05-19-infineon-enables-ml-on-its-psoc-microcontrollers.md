@@ -34,7 +34,7 @@ related:
     provider:
       name: Electronics Weekly
       domain: electronicsweekly.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/05/19112202/ModusToolbox_ML.jpg"
         width: 495

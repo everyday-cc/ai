@@ -39,20 +39,6 @@ related:
         width: 559
         height: 373
         isCached: true
-  - title: "China's Baidu Announces ‘Apollo Air' Which Supports Self-driving Vehicles Using Real-time Data From 5G-Connected Roadside Units"
-    excerpt: "China’s tech giant Baidu is expanding its Apollo autonomous driving platform by adding vehicle-to-everything (V2X) communications technology in which autonomous vehicles communicate with roadside sensors using ultra-fast 5G cellular networks."
-    publishedDateTime: 2021-05-14T20:45:00Z
-    webUrl: "https://www.futurecar.com/4617/China’s-Baidu-Announces-‘Apollo-Air’-Which-Supports-Self-driving-Vehicles-Using-Real-time-Data-From-5G-Connected-Roadside-Units"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 11
-    images:
-      - url: "https://img.futurecar.com/202105/14/l_609eded48fe7a.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ogYRTlBvgdLxbNi4zi3/Hy9oPt2A5yllEmptDOP2lhLySf5k0xnc74/Owg4jS+xQl1o+Igwfj392sS8Qd1EOU/BUaC9TX1UY7uGx+wOz4djiLt4SpiQkCUT6j4MoM7itZj3EB6nN9MurlI5tvyccBLi9bBIGsHN5YANpZpCi7c9K/KwwSWxpZtcHbZyBSV/6/uGrjzQN6RBBGTC83Ud66wf/GxDqKYha1ZaHzY/a6TCYzeIxU9atavLxTb/HWDPUQj8CIpEso06Cqvfg8UnL8aTjfby1kq+ocOSUI6p+K2I8d5DVTSjVzpj7P0wBjnoqTwXTOcHi8150k8XR1jA/YKGojIqVYL3ot08A6Xx8pMfjSWQD2cst/WoENGBErGKWm/TDXYsFZfrPq95Opt1TriPxB+4xqGiPzzn2nktvEDthucH2vUHVw9Z/HJ2DaP9n09WGj2/Gq+DOOUh02Kcb8pkXcof6K2WDIfqO4Q2iYENACuHA3IL5QbyQ3n2maEWC21GFONOpV2rIHgwPrvJK9g==;J6P4twpiW4NerdANjIiRRw=="
 ---

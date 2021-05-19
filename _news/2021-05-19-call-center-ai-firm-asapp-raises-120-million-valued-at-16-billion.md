@@ -31,6 +31,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Artificial Intelligence Platform Provider ASAPP Raises $120 Million to Drive Greater Performance of Customer Experience (CX) Teams"
+    excerpt: "ASAPP, Inc., the artificial intelligence research-driven company, announced today it raised $120 million in Series C financing. This"
+    publishedDateTime: 2021-05-19T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-platform-provider-asapp-raises-120-million-to-drive-greater-performance-of-customer-experience-cx-teams-301294336.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "ASIO moves to artificial intelligence after $1.3 billion funding boost"
     excerpt: "Australia's top spy agency will use artificial intelligence to protect against foreign hackers after receiving a $1.3 billion boost – the largest in ASIO’s 70-year history. Home Affairs Minister Karen Andrews has told Sky News recent cyber-attacks have reinforced the need to act urgently."
     publishedDateTime: 2021-05-15T23:36:00Z

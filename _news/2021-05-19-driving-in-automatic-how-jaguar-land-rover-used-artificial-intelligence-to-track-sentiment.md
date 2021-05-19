@@ -23,6 +23,22 @@ images:
     height: 444
     isCached: true
 
+related:
+  - title: "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body"
+    excerpt: "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically"
+    publishedDateTime: 2021-05-19T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for/article_eb961c53-df2b-5fdf-b462-3ea3d81a3684.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/07/d0779410-82dd-51be-b206-03c802e58fcc/60a50541e24bf.image.jpg?resize=915%2C630"
+        width: 915
+        height: 630
+        isCached: true
+
 secured: "8QuGCJq6DEXi5kspOIyry4u9UQsgchjABCKY94xk0hhl7xc3YKg06M8FHL+wm1ikrZEIT0Cx/CYyzLyBFJUl3PZ95agRW9yeT/fMYWOPtA6IzY9bakQVIz7wUCl6i5bRLffqNQje07JpqVRO2jdGkS29Zuqe5PdEU0ClNGtD8GkwGKJNFmKt9nVXS5ph0DM5bOX0KniHqiXYZvXU+wzXjRNufoWcbmBA6MljvrJwYaIa1Cv4evKsMIJWltcxTugYlhgBTPMPfq1tiuHM4Fv0hxRiLdclQtZdnZpSSg1tUy+EtP48cU4F4ewjaTzP8N2HKq+STuKG7Cw7RAd7yRk95hMnQydXQ9kt4PZ2cDFP0bU=;Uv0ZWX+czrk6LB69Ve+Ykw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.mckinsey.com/industries/financial-services/our-insight
 webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "http://diginomica.com/sites/default/files/images/2021-05/equalizer-153212_640.png"
         width: 640
         height: 399
-        isCached: true
-  - title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
-    excerpt: "Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it has entered the fixed industrial scanning (FIS) and machine vision (MV) markets with a new portfolio of solutions that enable track and trace capabilities and quality inspection of manufacturing work in process."
-    publishedDateTime: 2021-05-18T20:06:00Z
-    webUrl: "https://www.register-herald.com/region/zebra-technologies-introduces-intuitive-flexible-industrial-machine-vision-and-fixed-scanning-solutions/article_91037fe3-3f37-50c7-b408-4cfae3523883.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 7
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
         isCached: true
 
 secured: "Iur1uJpni509JUwANF1l+la9WLQF+Jh7y+gaKlxuWeqKg+NJoNuRmIEt0EDZuaS73OJ/YCsjE8udAkk14RU6ut4YmBk28lrixFfWODPUd/h2C+I8r/AXmWLQGDjrHsyI25rdIZcI1g795Pvg04ibSUlT8b0/BGOY23LxUMyxljDQiKqDJEznxDjGHpXpENWNqCqYIzNm16QJXKoEw23LVC26RrvpQUWpVOw4c0nysWygF8nbF0Ukw0eMGAK4YBn2hOlHts/jnx/M/LAgIbPgcrvGZD3ev/EV9Wi4mL34AazFKDc8wQBA0qrm9byHQksmEkPykv2YDzkOUZgMmh+1rJEEm3cMfOmsIFYwX2DxoV0=;CjcRiP/BDPzxAwkEpz2R1g=="

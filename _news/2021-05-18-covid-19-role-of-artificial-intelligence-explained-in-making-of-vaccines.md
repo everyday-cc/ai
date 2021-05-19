@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The COVID-19 pandemic has supercharged AI for telcos"
+    excerpt: "While IBM was initially concerned the COVID-19 pandemic would bring operations to a screeching halt, we’ve observed quite the opposite for telcos. Last year was a turning point for AI in the telco industry, which was faced with increasing bandwidth demands due to the influx of people staying home. Calls"
+    publishedDateTime: 2021-05-19T13:00:30Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC_121_Telco_Trends_2000x1006-scaled.jpg"
+        width: 2560
+        height: 1288
+        isCached: true
   - title: "Vitti AI Invites Applications for Webinar on Role of Artificial Intelligence in Tackling COVID-19"
     excerpt: "Vitti AI has invited registrations for a webinar on Role of Artificial Intelligence in Tackling COVID-19 to be held on 16 May at 6 pm IST"
     publishedDateTime: 2021-05-15T08:45:00Z
@@ -40,6 +54,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence Accurately Predicts if COVID-19 Patients Will Develop Life-Threatening Complications"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+    publishedDateTime: 2021-05-14T21:56:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 40
+    images:
+      - url: "https://scitechdaily.com/images/Chest-X-ray-of-COVID-19-Patient-777x672.jpg"
+        width: 777
+        height: 672
         isCached: true
 
 secured: "dKWhXW0R71pMKQpRWSPCaHkbxKKjmBLX1CX8kuKECrAIopCGlAQnoBUjSopUR/sqcEncfyJd3jjQa7ebTxfl29CwxLovulowK7RilqTNh1AkTkYqs6WUzwUJx7w61DSZ7dW6vnlPRlkyQ1z3DVpkJd6T3rI8t1BqomwXVWDZHLKRgpqK4eJu7B52HyjglhURuJwAE4m6z4ZS1emKQOylHBurSDVLPeqkZhdh6fUejZaAyJftnuHmRDFqpOEQcSpv9L42Bza8FYkES1raBzEZ72XKHl223A3++yCkDpy/b7US7j5BiTazFKaD+mpcZrM3SOtBbJxyDhcbmJPrRuhwpMeQv7pyWS0AMKNzjdjdRw1gkc3pFuJBP9XToJcKmb9gG/lQVzueQ8+mJ9zU9+JBvez6LAFG9PRIs4O8HjUMYoVl4l3o08dv+FxHcCCcg+0i9Ayvod8r7u6cOmCeNoJ4tnPZdfddUJg6wsPQO90p6DXX/7EnZkrmlkXcJDkHyYQCNNDbR5A4yCUoYJkkFSb8WA==;VLF9TMxEqXLtVHgRL25V9Q=="

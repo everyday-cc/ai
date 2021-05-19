@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1300
     height: 867
     isCached: true
+
+related:
+  - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
+    excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
+    publishedDateTime: 2021-05-19T12:23:00Z
+    webUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
+        width: 1600
+        height: 906
+        isCached: true
 
 secured: "E+83PM5P6AcpLcWd8H3pAFhwvnxbjPXZTytU07SsLjLPzLA7i93pxkVa93b6v5+hfNslIC7qncx32gkJcRhuoCwAw7Bhk9KfaJmVn7mn8pFRcj4D7N8c/FBG4hss4Y0S8QBuSTwBzVNPVhD2Mw7Y5iaLYrGjKU4BPf8G4Jk8m9LyzsGbygGZWIhVZ6zwEnzdZbicOntF1S2eOaZAaRrAs7duLoTmW+GhUvkCtudhtZWYkt4tDHdUowz1yEg+Gzl3Rk15KJ1bK7POMdGJPocbdrbNNGdvlmc4t4piBmM1eQ5Gl23uLLyegyZe3mYanVpNaVW1jmahhWlg8jKarqQtWTyGrhjx5NC+Ff6HyTwJIP4=;FXDQuZT6u/lLMov/7eXYBg=="
 ---

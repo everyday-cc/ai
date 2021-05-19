@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon again denies police use of facial recognition software Rekognition"
+    excerpt: "Amazon, which one year ago barred police from using its facial recognition software, is extending that moratorium indefinitely. The extension of the ban on police use of Amazon'"
+    publishedDateTime: 2021-05-18T15:49:00Z
+    webUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/"
+    ampWebUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 118
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/spheresmay2019-630x450.jpg"
+        width: 630
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Unmasked: How Companies Can Ensure An Ethical Implementation"
+    excerpt: "A carefully developed facial recognition strategy could effectively be the first line of defense when the world as we know it is flipped upside down."
+    publishedDateTime: 2021-05-18T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0f76fe782210007a91069%2F0x0.jpg"
+        width: 1200
+        height: 918
+        isCached: true
   - title: "Amazon Indefinitely Bans Police Use Of Facial Recognition Technology"
     excerpt: "Amazon says it will uphold a moratorium on the sale of its facial recognition technology to police departments, a decision welcomed by civil rights groups. The company had imposed a one-year moratorium on technology,"
     publishedDateTime: 2021-05-18T21:49:00Z
@@ -123,6 +155,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon extends ban on police using Rekognition facial recognition technology, no end in sight"
+    excerpt: "The existing moratorium will continue as Congress has not tackled concerns raised by the use of the technology in criminal cases."
+    publishedDateTime: 2021-05-19T03:20:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
   - title: "Amazon Extends Ban on Facial-Recognition Tech for Law Enforcement Indefinitely"
     excerpt: "The decision comes about a week after civil liberties groups called on Amazon to 'permanently ban law enforcement from using Amazon’s facial recognition software, Rekognition.'"
     publishedDateTime: 2021-05-18T22:50:00Z
@@ -155,22 +198,6 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "In charts: facial recognition technology — and how much do we trust it?"
-    excerpt: "Facial-recognition technology poses ethical questions that trouble citizens and civil liberties campaigners all over the world. Advocates say the technology improves public safety and security. But critics say it is intrusive and often inaccurate,"
-    publishedDateTime: 2021-05-17T03:30:00Z
-    webUrl: "https://www.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
-    ampWebUrl: "https://amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f6a9548a-a235-414e-b5e5-3e262e386722"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 61
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Amazon to extend ban on police use of face recognition tech"
     excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
     publishedDateTime: 2021-05-19T07:56:00Z
@@ -202,6 +229,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Facial recognition debuts at Charlotte airport"
+    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
+    publishedDateTime: 2021-05-17T20:32:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21223097/facial-recognition-debuts-at-charlotte-airport"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/US_NEWS_NC_AIRPORT_FACIALRECOGNITION_GET.60a2d23877fa2.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 745
         isCached: true
   - title: "Amazon Indefinitely Extends Ban On Police Use Of Face Recognition Technology"
     excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters"
@@ -265,6 +306,62 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Bias in facial recognition is handicapping deepfake detection"
+    excerpt: "Harmful bias has been found in deepfake datasets and detection models by researchers from the University of Southern California."
+    publishedDateTime: 2021-05-17T15:51:00Z
+    webUrl: "https://www.biometricupdate.com/202105/bias-in-facial-recognition-is-handicapping-deepfake-detection"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
+  - title: "Emotion recognition: Can AI detect human feelings from a face?"
+    excerpt: "For most of the past year, students at True Light College, a secondary school for girls in Kowloon, Hong Kong, have been attending classes from home. But unlike most children around the world forced into home-schooling during the pandemic,"
+    publishedDateTime: 2021-05-17T23:08:00Z
+    webUrl: "https://www.straitstimes.com/opinion/emotion-recognition-can-ai-detect-human-feelings-from-a-face"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/05/17/fw-ftaiface-180521.jpg?itok=zamWbkUF"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Focus tightens on facial recognition"
+    excerpt: "In April 2019, Guo paid 1,360 yuan ($211) for a VIP pass to the park and agreed to use fingerprint recognition to enter the venue under the contract. A short time later, he received the message requiring him to provide facial information for the venue's upgraded entry system."
+    publishedDateTime: 2021-05-17T23:48:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a300c0a31024ad0babf902_2.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a3010ca31024adbdc83eb0.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Local Teens Create Solution For Phone’s Facial Recognition Mask Issue"
+    excerpt: "Two local teenagers worked together to solve a problem that’s been frustrating cell phone users since the pandemic began. While anyone who uses"
+    publishedDateTime: 2021-05-18T15:57:00Z
+    webUrl: "https://mdcoastdispatch.com/2021/05/18/local-teens-create-solution-for-phones-facial-recognition-mask-issue/"
+    type: article
+    provider:
+      name: Maryland Coast Dispatch
+      domain: mdcoastdispatch.com
+    quality: 39
+    images:
+      - url: "https://d2wcro6av4bts2.cloudfront.net/wp-content/uploads/2021/05/worcester-prep-school.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Pet facial recognition technology helping owners reunite with lost pets"
     excerpt: "When Bella, a local dog, went missing, her family searched for her everywhere. They uploaded her photo to a pet-facial recognition technology, Petco Love Lost."
     publishedDateTime: 2021-05-18T00:15:00Z
@@ -279,6 +376,34 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Will cannabis banking risk remain after federal recognition?"
+    excerpt: "As I speak with bankers across the country who are considering launching cannabis banking programs, I am often asked about BSA/AML risk. Specifically, bankers want to know if they will still need to implement and maintain specialized compliance programs if the federal government legalizes marijuana,"
+    publishedDateTime: 2021-05-18T07:15:00Z
+    webUrl: "https://www.cuinsight.com/will-cannabis-banking-risk-remain-after-federal-recognition.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/05/bigstock-Marijuana-Leaf-And-Us-Dollar-B-391963688.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Amazon extends ban on police use of its facial recognition technology"
+    excerpt: "Amazon is announcing that it will extend its ban on police use of it facial recognition technology until further notice."
+    publishedDateTime: 2021-05-19T12:19:00Z
+    webUrl: "https://bronx.news12.com/amazon-extends-ban-on-police-use-of-its-facial-recognition-technology"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 39
+    images:
+      - url: "https://img.chdrstatic.com/media/d2db7e0e-ec70-430c-a2fe-c2cb1eb235ac.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon to continue pause on police use of facial recognition"
     excerpt: "Amazon said Tuesday that it will continue to ban police use of its face-recognition technology beyond the one-year ban it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
     publishedDateTime: 2021-05-18T19:18:00Z
@@ -292,22 +417,6 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/bd4ed7db6b8148f496572cb2ffc1d220/3000.jpeg"
         width: 3000
         height: 1941
-        isCached: true
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
-    publishedDateTime: 2021-05-18T23:30:00Z
-    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
-    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
@@ -345,6 +454,70 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Feds deploy facial recognition software at Charlotte airport | Charlotte Observer"
+    excerpt: "Facial biometrics spots hundreds of imposters at American ports of entry, US Customs and Border Protection says."
+    publishedDateTime: 2021-05-15T18:48:00Z
+    webUrl: "https://www.charlotteobserver.com/news/local/article251429493.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 29
+  - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
+    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
+    publishedDateTime: 2021-05-17T13:11:00Z
+    webUrl: "https://www.aviationpros.com/aviation-security/screening-technology/news/21222966/facial-recognition-debuts-at-charlottes-airport-for-use-on-foreign-arriving-passengers"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 26
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 19
+    images:
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
+    excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider"
+    publishedDateTime: 2021-05-19T12:15:00Z
+    webUrl: "https://prnewswire.com/news-releases/sparkcognition-acquires-ensemble-energy-to-accelerate-renewable-energy-growth-using-artificial-intelligence-301294683.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://i1.ytimg.com/vi/o6BQLcm6PXQ/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
+    excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
+    publishedDateTime: 2021-05-17T14:10:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
+  - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
+    excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
+    publishedDateTime: 2021-05-14T23:04:00Z
+    webUrl: "https://www.campusreform.org/article?id=17351"
+    type: article
+    provider:
+      name: Campus Reform
+      domain: campusreform.org
+    quality: 0
 
 secured: "ljzQOAvHhd7MkCluxU87M7wtkHAob8udI7W6wIItkOR2Qn4cWHAagq6tam+wxvgRBai7KcTUiX3gLusW9gcE91C7znOnKmWkW70LzgttPRelvNDXIxLwi8gQaqg9J1ZwU/uggEUyC6QI1gI7AiUAtst2ddmE2FTYMYYBH4xq6XUfimxtdUBS2mqNVh5wRaGQYqTAjfdnTJpAGWUsaM5rVvjO55k6qapsJjmNeymJR2leBT1JcMJSfqL1NcsWwcxdn+snVEXuOhg6G/OFSKdqh/BdHGjRmZnBQgvKD3qYkEYhbZS7YLz3YfR5Vw5JA8CAvw4+L3vwFFxMBlK0MBK2sG2agDrnrVy+Q1/GRIsfPfYq1BTseMw6YD5wjK9h2YAjgc4iKbE2Livpzw+B+WuDNCzjHd/ImUJWn8MJypZftubqB1Dkg4u+2rMqyU+jNddpvPXGAv/heYfHFyo1ZrZK6iBnr6XAh6u0Z9eGabbYUyX+CmNJuIMee2R5il0CZZP/Hq0P4XNDZDGYa/+6FQsvsQ==;ahYoqeGORgLL1ieUJG2Gew=="
 ---
