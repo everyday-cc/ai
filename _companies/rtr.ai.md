@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "realtime_i"
   url: "https://twitter.com/realtime_i"
-  followers: 971
+  followers: 970
 
 size: 2-10 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
 
-secured: "jNB5+xzRjGHbQZ1gFh/M0+VnIu40Br+qBtblXONQtSUvKAaPG1M+vBouTkYEyuA85FR7TT+ZJfP4AZB0NOxKPNPHNkdm5ziqs/ZZs11zU4V9FyDfi5KHDjFJumGSACTIK+yyD8zOTWQBA8tis6JWrvWpuJEyl70jtyahb36Qr4I4fxEbEyEmy+laaZlZSKYQkmzNhCAngalIoX+5s3wzvjEWi6sA3xkBSTsS08hfGwczUmioL8E4yd+khmrKfAMmQZSLzK867AOZsGpIMgttfFhq8Mpb+2GEbwYGzHDbfWVfYcQQtAFblffhkyeVddLyV2UwWXDy6iaATN3kq9pkwFfj3kh1OuuuxaFpjUxnhkPfZ/NiZ4+IyOuYDphngc6YHSE71vIxH5jTbjkSUOEIlw==;apeFMRY3qJMW/jRcyI7nZA=="
+secured: "wLClD237mcmhFEvPS0v7wh86R+lksH4YXD6I/lNaOnXr0o2DOjn9Jjg+v7qsv/TijJdcsV49uSBwk9ZONMGKhK+n4RIgCnLBqkXqZxSoSnKYgoIhccrc9hR3CelmvLlnrkUKaZ4pEg77VGXVrQTlfJXdryd/OGnKaenZTYHgsUzaD+Ejk7eunxj2UZ0vtudzgPbyjXe7sSJI43hm2OLxpHwqWQpv8MYweXmCm3SMOaxPa9wQmNYCY/s1ZPtzrQCRg9P/25VicAoZW+t7NlfTPhpwpQYkiMrgx6gJM0nE/2HwQCujmwQk0dundcdMt8uAYtlBRD/S5cfbGa+ZE+u+Q7nXyNLsV8ury6cPXh2T966P6l0xB10yo+1ihtC1CkVPcLGZ6RuzbCK8oWdp1LAT1w==;xbGfgwJD6kUCRoe/0ZiTQA=="
 ---
 

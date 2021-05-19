@@ -2,7 +2,7 @@
 name: "Marble"
 overview: "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://www.marble.io/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=pNpH4G-hoIY"
 
-secured: "rJZcKXQrNSf0ZuWBww1mD3HpjQ+Sz3W3YBjQiS9AotHqsu+ffxYwuuvuzmIFcQ6ZqZXXYdw/QAAl0mY3OAxJF+kXt6vvhTcQ63z6L4anlshQv0U4m+SfGPB2jyCr562SNla1QvFP0/QrwulNOaHXDBnSWUVQ5KFERZG5hqql3+u7ArI0fAyA2CQm4qD0C4flcIcpryt+yqpNzQCjuFWbmHDd3yldjs+Vpe4zb9Kd2PImTjPyAiVoZsIvkJuDzK/Lgv4YmKabBHVK2sieIRHaPmkTmZbMsolTjojNYeLg3ys0IGjirCXSqBDv1jp8hdUZ8OqBVMv7UvQHZKg46+Iw1eMcZtf2CtyGqbVmyOPaZQq0xxlcr5UBqP8iqjutYu2NTD8q4gdPro1fNgjoMtflbA==;BVcIS7O5O0/zl0eEs1IhTg=="
+secured: "JSgcaBVJKunLN/9PW9yAbbbBDCvX6SoJ54CkxMuNmRBrPeo1I2JBaXxmD/uMt5gGa196YzQX7E7suPEv63JzrqFPYj0Vie4wnvV6IBr485aeNlrxq78Tjo8lTzD7X6+wAZPtgtxu/BRhuAPjgiQdTM/MZN0L02UVYhGTVyggpmwfcNtxiC2JJX0jcwSzy4scUy4eYPSFC0gYeX/KiOmZnSxUE77UurbyWUZvjddKbsfBBiE9rpp38JN1cCZBbCspEHVLCfezf5EPu/oZnuqx0zGR9EpoZf5BoiE8uIgIWtxd91WGxPEW1pUCfF3rRwI0bugmHTAxw5SD4h3FCQ4cToNOclCUusDnQv0G9a5RBUKnZkFRs57KyebgFJxkLy7DTUP8/oL5LjELMIQqlCtJOQ==;m4fQsGzbB4Th+iSLp0Xr3Q=="
 ---
 

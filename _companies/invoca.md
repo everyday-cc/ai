@@ -2,7 +2,7 @@
 name: "Invoca"
 overview: "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com."
 type: "profile"
-heat: 31
+heat: 0
 
 website: https://www.invoca.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4462
+  followers: 4461
 
 size: 201-500 employees
 yearFounded: 2008
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "+OhvqN1JTCpWXMtod/g/2llIC0N3ECIp+jWdq4MU0x6hzsFknl0pBGjKqfAaEyGCEg6/bRp1ZiA052u0M6fhZ4GT9O1zcOclW1U9Uh08HgIZKGTfq3btdoYYHKU8LGU7GYKD0H6mF7VF5eFiSi/N55V2Hs+Muv1UKgeS3nvpnPI6cw9BpySiowcQKaO3dkGknBF0y8AzGhsi6pNHk0oyNlmjqxafRinYBYbil6/BcLUvDEV/geNqUN2wCNfVax6cnCj1gD0sx4yn9mAwSIJtq8tyTgW8bCexgz6eVcIzqO7/MNljcQDqTkWeqf+XpjzL195vrLvjF6eP0FjSVutNG0V4aFxoT/Dkwwj6LcPVXVXpFnY/l4hvJwD1bRPOolowlqV5qpc4V8PRK9wIxiob3otQtG9HLq6Nx6znF2pI8Ng=;jqzhk5GM6A3DpgQnA3lR+w=="
+secured: "AO77ns2Qu4Z/YXVUFtl5zM2zUnFbPAMg0MGOQ0MnCAfqeMYXVnjn1rdEszC4gMZ0OFo+8M8+Jhy6gF9x40glmrZoCJdWrzKIdtLK5vCJ1pabDSP0yI6/NdI5GtaUCoT+FOP4qXn9n67kPKwUrjbCB3xRQsr9D44konqscVNKOJuFkAzeQVoCG4IsnGnGbF8voj7rn0AQoiHgQg+RNaNPGI89gD4C5tObop6tbKbxsIGMwELpIIgwbBxJzewiH7AXESGchLvjaFCkJ/dcRn+Yx7a7N1EKqVzKNuARUNYV7VWwLfkLIeuev2e9nMh1WyZtV63DaWfD2Ujm0ONvAW2ZpUaxTA/rRm4mWYnb38g1aJ+tvYMNhprTu9Gm1Jgx80CdqLsqme/JTTV+qH+zvGJzpWDb2388Um1BXx7x4qvczlY=;qqbIjeICYIZmkHwdceyCBA=="
 ---
 

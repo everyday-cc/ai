@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amazon"
   url: "https://twitter.com/amazon"
-  followers: 3667988
+  followers: 3667745
 
 size: 10,001+ employees
 yearFounded: 1994
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "K1lLaWkMJ/Bxd2p76nszTu75jV/TKGqkZJEP+ilgDl4C2bNMz4UyKJ9/elXDNO1UVwcXbX/c997TsQIAs8CtLwR0pFIi0VyirSLHar14N4j1P3Pib7yWk2J9iyWhlwenCZRb9I+1+NVPL1dqlt23mzSvbAvEOr68GI8Ls9hUyu/cusb/IzEzEZZco2ER/w3d/XaOarmu50joCZBaPmIKyMqbonT1zgnq6Wu11AGC8cA3j9MZ9HFVzYkatYPXCjVtR4SO4f1zorN4btGNRh/KAsps01EGrmYtQJkKXxmMuMMd1t/P/M5mg8abhnxdceE9sL5pnGGyZf7ePDGgwN50OdA+eXp+Ls34ASe3CJFlGz5H+NEx5quImpCJmfd6ASo29ze1NIDYjD+UvdNuWSo8ZSS4wuEi4dEmNYIFMqHzsjo=;fBaQ8XUDxdbOjUalIudVMA=="
+secured: "3tS2VxPJavmCpFqAxqkSwvhUuBODKlud2Js9PT3mfmUx6QVWf9AO+fwoKIc3uVX2RkzY5RdE0kKkgfx7U4JjRDlHjacf4kDCx8HI0tnmPplmMisRCVce4YLbhYMNOCXVb5V2brqER5pjj0U/8mgeFRMrNviSB4iFpn4V4flGCTPBvvUQ0YwdFoRgHlJ0hIav83NEkNRodrRJH+UygOsRg75glfLoEnVZntBpJA/9TasAJnR1IjJxL5N3/MXjO3IUJb1yp7AitS8auykVG1c1SVz+D9mI8yq/fpK+xCzdMKfJlsqxacmMyh2CFEB8LSllEbgouRz1LZI6NTYbvzz4vZgULwk/l5poTvSwx4rz/hV6QbPNjkF2FmeFQOtws0KOgGEEY383kRbLUufDaj+R3SS/pNVrBZDqoOA4VEwB4nc=;Jwz8eOfZ+zTRnjMQopFtGw=="
 ---
 
