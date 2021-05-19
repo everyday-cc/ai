@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/entertainment-arts-57093887"
 webUrl: "https://www.bbc.com/news/av/entertainment-arts-57093887"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ai-Da: Robot artist’s self-portraits on display at the Design Museum"
+    excerpt: "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da and created in 2019, is the first of its kind in the world, according to the London museum."
+    publishedDateTime: 2021-05-19T09:16:00Z
+    webUrl: "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/"
+    ampWebUrl: "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 74
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/05/featureimage-crop-ff8539f.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "Self-portraits by robot artist go on display at the Design Museum"
     excerpt: "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da following its creation in 2019, is the first of its kind in the world,"
     publishedDateTime: 2021-05-18T19:16:00Z

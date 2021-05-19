@@ -30,19 +30,14 @@ images:
 
 related:
   - title: "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan"
-    excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech"
-    publishedDateTime: 2021-05-19T06:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-896146100.html"
+    excerpt: "With total funding of over USD100 million, Mech-Mind is pioneering the next frontier of manufacturing through a combination of artificial"
+    publishedDateTime: 2021-05-19T00:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030444774"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1512643/image_1.jpg?p=publish&p=facebook"
-        width: 1470
-        height: 1625
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
 
 secured: "mgDW1ALr3VjZRfk6KFFiJBZPAMaVKLfQulkP3YZB5gjz7mJy+Qy96d7d4TlCNkObUJOoU5mrjIAL5JdsDxu1PomdEROrhMDikca4H/B1EzKVcY2wt0KoY9Dc7DJ57aplhDyK2OszVKNOVjCNp4sDFleqJigVrV0IDjQIgZFQNjhdmY4+sD4H6NJOb4cQsixqQYoU0lI51YGsXSOCtxA2in4Ey/+nDqEGxAe+y+RpLeWReSH0bT2MfkiTQ5EdASxaX6XARUIaOn4CuwqFzGUL1GwIw0j/VcLCL48gEGiycM/ZDzkGuMGYzdhc5HwSHmQKxbZiMJmYfa3xMM9omOKDIHpBhige4Ixlk8eAa5/VCiJqcJyEFrn+WtLeDq0KbOiHa68jG191oTXbdkKkEYDXZNRKRg/cIJagJrXcp+WsNmST1M8Eucq/EiFYJOXm/sLCJTCUjABd7c+zk57bVuOoV7yC21wFxBFL766KEPRaXDtSfjm7jiAcuK2xqj+0UtAxwmtpB0SgXrNFNbPCopjTHA==;Oxv32/2IdAb3nnYTDZNrWQ=="
 ---

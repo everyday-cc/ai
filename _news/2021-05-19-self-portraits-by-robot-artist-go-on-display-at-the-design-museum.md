@@ -39,6 +39,22 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Ai-Da: Robot artist’s self-portraits on display at the Design Museum"
+    excerpt: "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da and created in 2019, is the first of its kind in the world, according to the London museum."
+    publishedDateTime: 2021-05-19T09:16:00Z
+    webUrl: "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/"
+    ampWebUrl: "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 74
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/05/featureimage-crop-ff8539f.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
 
 secured: "psgq5qnSzrCW0v9HlJDxGITDOR2KvW7fEm0G5GHp02gsqixoW/aivyMEdz5zSnr/SBgkKFZHHLXjtQxZxAAD1Na41rUtHPrj9ACKmNxWbsQgrdUJlK+udOxbhyNWTVMr1u00gpRY4uujwRD2VvEnI0gD+Mmz8yDqr05tHiXWAeyB2/TyATtC7VsYRA8SVLM9e6aMkiYvkM1YSOC7E9yNfOLEnz9dv9SfjZg6/THFDyW8LVp1294g+FSs3nEVp+rfHTJe2QfLSFlv5kVTrNTLuS3Jv5B6/UT1K7Ruv0ghU1JfVmvwl6N4MazKn56yacIV+CGsdlfgjevrt+YFfiusYBKqQNi/1xGNm8sbRDh3+Fw=;Z5sqaky6pPIlKCeRhwNxyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "IBM Think 2021 Conference: Innovations in Hybrid Cloud and Artificial Intelligence"
+    excerpt: "At IBM’s Think conference, the firm announced its advances in artificial intelligence. Hybrid cloud and quantum computing were also highlighted. The objective of these innovations is to help IBM’s clients and partners accelerate their digital transformation or improve their strategy."
+    publishedDateTime: 2021-05-18T07:17:00Z
+    webUrl: "https://www.actuia.com/english/ibm-think-2021-conference-innovations-in-hybrid-cloud-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 33
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/conference-think-IBM.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "Y41FDDZY/u67MrV83AhzdhUBCYczZ9OUnZBcnTYGb5s5E3trn30X0kHk5wZE2fWyIWnDtEV3D/y2DRBkVjjHFiMtFA3YH0uZObVJz0TxNSSYjIfGyFKb4jShbSKFVCYzquv+GEYhB6QwIjcb/DEiStyzrshi2pZwgIPLw6BSh/8hJ4Z+07klkf/okXylnp3XFZqsWRaztNQlJhqD1kClPPghj6TU87fBiRsor/bPziaoRtMDmSLT8/hxicvcT0KLxu8Mxj+PtIXAFC+KoFljTp+G3LJbYaoc9gDokvo2VrKMCHgIO3xw9smzp8m93+IfI1Hjr6oH6LHB2dxmlaNyjcmSiFMd5cSw9xFOXGJIRzz8PCkVW9DbEGqg5Mw1cjZgX3bZYM7mzhf3KWk2gai7C4rhFAmV0nQv1lQPpYLshRCUg7MUNgX/XCsTXxqvlsEnjtcnzJc6mkz5PSS9wBS+3DQvZZZtQpN6y7BXl2z1r1Y/9VsxJzK585gBfP75F60CbWusj8fNkPst5a1xnifTeA==;AjvHsQoHPTqBF5odI0+XTw=="

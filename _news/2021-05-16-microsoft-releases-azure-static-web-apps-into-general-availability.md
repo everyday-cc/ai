@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
-    excerpt: "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ..."
-    publishedDateTime: 2021-05-14T16:42:00Z
-    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
-    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+  - title: "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D"
+    excerpt: "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,"
+    publishedDateTime: 2021-05-18T12:17:00Z
+    webUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/"
+    ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
-    publishedDateTime: 2021-05-18T16:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 60
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Best Microsoft Azure certifications for a career in cloud computing"
     excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
@@ -80,20 +66,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
-  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
-    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
-    publishedDateTime: 2021-05-17T16:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 51
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "r98QhFvNKKKAV28k0ti/Wo8ScyZS+qYhtIUFvxDbNzd/4hCPwNI3DvToGHFiIjotjO9XVN+MqOkxWWME2Z5ApgPZH4qhf3tkT42kIqWfgSCDEXtU06xKcT7615h5qaqPjSm8ZZW3EGMVOlga4cHEmDALLDuI5FMtayULi018GaCnp1m+CEBzpqP7vSWOBofW9cqTinAk29a2wIoOomlWDHaHhTgoKvLF0tsOrMtNUUjF7DR4bCVZBTXs6XU1G05dbCcWzIWqlZJo7X8p6fM1/JykbnKTticD3Hj+bgOqGqW1SKVwEC9VM1EPnrv5Tujptsg5d7eJelXC4V+QayXyKEmmxKMiLZQ1TdVNsVD7QMWnYqxd4s89HffxWZhPWQYdM7Z3qkT+APm0w91lTn+Msnw2hvmdcuf7/JlI/S7vO+lN6+/LcVozoby22cMI2KPNRc3qXFCe07jt2JDSjV9B7yMAU5FDz+1z8t21/k6Jr/s5km4iNPxEvMe9VF8jt6c1+fhJKKw1TFcvi2xpWLiKaA==;5hqj56593ZDAR5PJKZiwug=="
 ---

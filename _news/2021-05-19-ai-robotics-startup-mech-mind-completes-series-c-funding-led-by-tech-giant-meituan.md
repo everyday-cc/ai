@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan"
-excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech"
-publishedDateTime: 2021-05-19T06:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-896146100.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-896146100.html"
+excerpt: "With total funding of over USD100 million, Mech-Mind is pioneering the next frontier of manufacturing through a combination of artificial"
+publishedDateTime: 2021-05-19T00:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030444774"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030444774"
 type: article
-quality: 63
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1512643/image_1.jpg?p=publish&p=facebook"
-    width: 1470
-    height: 1625
-    isCached: true
 
 related:
   - title: "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics"
@@ -40,6 +38,6 @@ related:
         height: 225
         isCached: true
 
-secured: "/qmraQknOyC237T2asl8VlVWWIshjntFMqT3QT50IzdVByiZj2nGpv1r0Q9cRQJdglKSxP9bKgihhjlMZGApBzKrMPZ87KxRYFd7FNnFYEkYam1b+3zvxbafAhyh92RByMOsiw09nOGxF+BHRoAaFnH1SM+Zy3vrNqHGOuPGfLGPSWyO2wcsE/sTub9KZN2exTBcs/phIcjAfNJOuuwIkkBOW3w1BIbWkTd2YOAac7jLt4A5uDwXnXIpY5H0RdEmubNGqnJGoooVlZ45Id5MWP8/YC/BWMgJuw4aPOmsQXYu6zhQsZQ0H6GL0U0x+f9gnE025s/QwPG8dpyLQOc0hxFEtI7TeNli9ZdmHj/UaIs=;LcxiPffhPni+72MDRWBbGA=="
+secured: "WbIJfclgu1VSnfOKzGrAuIEQAC2HLMZlUlLGENUvNG/eEArUwWVVIRgEg7P6Q1RTvdocYzqU93AdVEdGmfaYn0CYm/PmKJk71HRtLYWB5TcSwfK18nBNKAN6Csp7Um+Bp+VbGvGXnFPdZSN+M864yrbS3c332Q58LP8FRmkL+MX8nlzntkYej57OMuYVz/XAz8QgqraMLQc9JWGWS1uR39eK9wjVzuBWa5+WCHPySxcOy4Ot868gQp6Odi09jjksxtUgFFN+Xg+CIXn21d78Ufyjfm2RVQDECEXFjXX1RG4nNhR6v4oW1qVfHdIGNqO2AA7d4cJbEpLh2LKFACHs98CbIzmGlooxX4hvVr5IBik=;reaqmfFKEK3tfPh10usnHw=="
 ---
 

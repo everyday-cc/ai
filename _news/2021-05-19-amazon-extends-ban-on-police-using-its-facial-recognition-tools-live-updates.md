@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/live/2021/05/18/business/economy-stock-market-n
 ampWebUrl: "https://www.nytimes.com/live/2021/05/18/business/economy-stock-market-news.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/18/business/economy-stock-market-news.amp.html"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static01.nyt.com/images/2021/05/18/business/18economy-briefing-amazon/18economy-briefing-amazon-facebookJumbo.jpg"
@@ -159,6 +160,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Amazon to extend ban on police use of face recognition tech"
+    excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
+    publishedDateTime: 2021-05-19T07:56:00Z
+    webUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-tec.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Amazon to extend pause on police use of facial recognition"
     excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition systems to law enforcement agencies."
     publishedDateTime: 2021-05-18T20:02:00Z
@@ -272,20 +289,6 @@ related:
         width: 3000
         height: 1941
         isCached: true
-  - title: "Amazon To Extend Ban On Police Use Of Face Recognition Tech"
-    excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology. The tech giant last June announced it was implementing a one-year moratorium on police use of its technology,"
-    publishedDateTime: 2021-05-19T00:02:00Z
-    webUrl: "https://www.ibtimes.com/amazon-extend-ban-police-use-face-recognition-tech-3202109"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/facial-recognition-technology-use-by-law-enforcement-has.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
     publishedDateTime: 2021-05-19T03:55:00Z
@@ -324,19 +327,19 @@ related:
     quality: 35
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:56:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KVIA
+      domain: kvia.com
     quality: 19
     images:
-      - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
         width: 500
         height: 333
         isCached: true
 
-secured: "ZXDINqIErQMp+DfUH+gh3v+CF8czK3AZjgYJyXhxCevC3rsxLWAsu+5naSoxK9TVuUjgRQ/fiTNErpzLK4QAoLR+QrFP5QFJXQkxVNbAIHSKICy3wZdug0YgE0NuOC5YdocQGDsvIIGuFjk2KFBjGmc2v84ZPenmUug6hRgBotJGmdWCBy1h8TlcXtb9NQPschZJvodhS5MF+RLzaMRrqnTHCJdsJtcxKUUaq2kl/jXHUoUAROwt3dluJIZIziElKcfBd4KFACWL1OG9khssnFrJXrycDUllE4gp2OGpGwzrKghdRsmj9kPwysWuaual07dKJHgeR5FXbRfz334dMnv7gSun9XM7s3ALN1azWRA=;39Om85IFdOn78+ydq93uvQ=="
+secured: "xS5U9hSQNj8efZ0JvQoVTwzj2n82bKBL0Qylq1m9k2O7qCX3nC8f3TDGvSsKiVKNT8VZMDYjHfjip78aZI7X8ozrNTataRd51Dm8xgmvzW+8SwTuzbu1NE5u/wFxzYtlCsUhddZd/fxXwiCYKKLCs7dGmJgbZxkCTfPn8sW3DWqwX+eL5FVrnnzcQZrNukXpBTPcqiMuM57LVAiVFT0wI7P+Qv7n0GOrWCqgqRQnbcLKMl9VuLHYgftQGm/w0a0QpaQ54Q44hhOzB0ZpJPY6K3eWYrbjZpvzHOR0ABHJgYccQ/651J11L86+X1l8KtBU+NFmUCLluOlUyqM4T38jM0LUFZfGiCxaavl6RLLUEZxjNuB5OhVkcTuarA9VwXFfSBF4kECmUt0Lxykh52FooJq76nthtZ6cJ72YbQKj9nl2XmAW8ZIxfBgXBF2WjcB7HVukVTAxYRHtKhF8ICjAP05OXvLqyemZg1K6y8R67GHXKp6uOg10OFLE/R9xfLoSxayRCEfRG2uw9omX3Pe/Pg==;+zKQaLnuAX3FUzBrJd/tqw=="
 ---
 

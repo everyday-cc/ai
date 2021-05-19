@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Amazon To Extend Ban On Police Use Of Face Recognition Tech"
-excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology. The tech giant last June announced it was implementing a one-year moratorium on police use of its technology,"
-publishedDateTime: 2021-05-19T00:02:00Z
-originalUrl: "https://www.ibtimes.com/amazon-extend-ban-police-use-face-recognition-tech-3202109"
-webUrl: "https://www.ibtimes.com/amazon-extend-ban-police-use-face-recognition-tech-3202109"
+title: "Amazon to extend ban on police use of face recognition tech"
+excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
+publishedDateTime: 2021-05-19T07:56:00Z
+originalUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.html"
+webUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/facial-recognition-technology-use-by-law-enforcement-has.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-tec.jpg"
     width: 1024
     height: 682
     isCached: true
@@ -83,7 +85,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://static01.nyt.com/images/2021/05/18/business/18economy-briefing-amazon/18economy-briefing-amazon-facebookJumbo.jpg"
         width: 1050
@@ -320,19 +322,19 @@ related:
     quality: 35
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:56:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KVIA
+      domain: kvia.com
     quality: 19
     images:
-      - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
         width: 500
         height: 333
         isCached: true
 
-secured: "UcffI9DEk4z12aNdd12CtQ9Q6aX4G/erSU+F6ojJENPIDBTdGFW0cr/QvH0YSb+Mx//dZjG85hAqMonXUWPU1pVQbwx+iRBjEUnVgffO9u+bJ8k70bmACjV9KTNQSzj5W1uDi2MSo3NaJJQQQSWZT4KZquMs62C/GrycrTSyX5jnTTImNlnERYLdXfyk9+bzB6W1PUHju0AeS07OEQJBAMz+1CpxEdcsMDXTzZzXTdQrf1hknFnk1bD8bonXDtgiSX6RwdiAHsSH5IEUiqfmkHCAtg6rqyCIwxhIxLaH8SEcTIwc+mIcEehQqYAoxX8hlnR9/9ecLv2uwbkDq1z0RdXTULJrK/mGx+/TrAkP7QFECPmEDfb14jIo4XgwXP9C2DxxvR5PEbsXI/u8HtjTYzDFBZTUjNb0ipq1x9TZN5zo+Ao+Tr88qOK7x1GTcMI8OldpIDGKiCJIR1XHPb3aJRv0vRhJOrk6eOkllE1iiOuRwqhy3XqT9A6MEBlE+uoaBmMu243SaOe4qN+Um2K2AA==;Q1PhYAcdukx8SRy1hN2JSg=="
+secured: "vu/LTwOR9/PwMSvpugxTZGfSXp5fKaVj9obItuM6AkXK3B3pNZWim3DfjCsYj+P4SejelgopMo4wXBi5BgSSPxi7f1ftamxDaUXH5pMx+i7huS4sc3zh/pLK75DcYVLWXxb5X0BPamyc10TQDsGclOe2KgQaTJo7cP+CHKMbgdpiK1udH7Ev8j8eE4nnNMEJIJZ6hZmcuRf3hjO7SSERPYL9Grw9eF6fnUV4oNe9TGEnDrcvrtntrJW3WDjJ1lnoahLBR5tKDTWofgGBy87LyYfMoJq4PeKqVnOffEqSff1WTUwb1JICfYEvtG7HUt6AW1RemcGkSfSaQxwoQX87uU5LEZ71fEINOdBRKAfzkR8=;d7dyzeEkIyvxZOKRbSy5Uw=="
 ---
 

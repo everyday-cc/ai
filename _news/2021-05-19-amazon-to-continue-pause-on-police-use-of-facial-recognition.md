@@ -83,7 +83,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://static01.nyt.com/images/2021/05/18/business/18economy-briefing-amazon/18economy-briefing-amazon-facebookJumbo.jpg"
         width: 1050
@@ -168,6 +168,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F42dc8cab-803a-4468-9b4c-4dee58ab73db.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Amazon to extend ban on police use of face recognition tech"
+    excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
+    publishedDateTime: 2021-05-19T07:56:00Z
+    webUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-tec.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Amazon to extend pause on police use of facial recognition"
     excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition systems to law enforcement agencies."
@@ -268,20 +284,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Amazon To Extend Ban On Police Use Of Face Recognition Tech"
-    excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology. The tech giant last June announced it was implementing a one-year moratorium on police use of its technology,"
-    publishedDateTime: 2021-05-19T00:02:00Z
-    webUrl: "https://www.ibtimes.com/amazon-extend-ban-police-use-face-recognition-tech-3202109"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/facial-recognition-technology-use-by-law-enforcement-has.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
     publishedDateTime: 2021-05-19T03:55:00Z
@@ -320,15 +322,15 @@ related:
     quality: 35
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:56:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KVIA
+      domain: kvia.com
     quality: 19
     images:
-      - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
         width: 500
         height: 333
         isCached: true

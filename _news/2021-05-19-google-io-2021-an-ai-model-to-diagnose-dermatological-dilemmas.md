@@ -46,7 +46,18 @@ related:
         width: 1300
         height: 808
         isCached: true
+  - title: "Google I/O 2021: The Vertex AI platform connects ML tools"
+    excerpt: "With its new managed machine learning platform, Google promises to make up for the shortcomings of ML tools on the market"
+    publishedDateTime: 2021-05-18T12:45:00Z
+    webUrl: "https://www.zdnet.com/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
 
-secured: "lHF52zv6eIxWZbzkjuZEJyd2v6VOeqO0hRCf/VLUVOHU48yf/bh5QCjADa083HvD3cGyV1sPCz/a1SEoDvACsBACxA4VFbeJwGtsZtD+yog0sX2dkmINh+lDtJ7oYggL0bs3xEn/E3UWwsFgakXCObmmhP0hs2sybLgxuLpwPOhJqienw0QokDgAymIx7RE2IM3lR4TmLXjOjB6SNN7ZNjbaSWbJ92zWUwBmAUYRo7UFeFGjjHxjd+ozgcMl9BdZhrI0QvbLyC5g4m0D4OsBSHQcoDWETfBH2P5yIJrrFg3iIbAYlWYawbGI+hNKN1zr6/Dz3l452HiDjDO8AMR7HC+DbJ//i7UUi7AKuIcW3Mc=;eqz/yGCMcTTnOI1jGGA4qg=="
+secured: "8i0D5OAXCQo/nFJpIb/QmK757V/AhN96TcoQv8n15kp1quEFiDpcDD755UuZCj3aHmXMsBeoQTIi5VR2oT7aV81LDLPcYf4Tncx7zygy5ubPACYjmfGc7DhYJ4L5o45imu3UFrDq9DExSV47qBJ57RlJ7UdA03TCG7panKx8lHCkkjFJSYQEZA9uB+8s1XCH0AyyR/Hwc+wDLKoNbj39XFnWbIouXilkJ8KbX6FfN6Pj7GXHIJeYk4zyZTUFkZeZutLt7rj5tfICoPBiqP+hcssFtIhZisW4gWkJwJ+IhbePRKRUwwhaUqCBNoDogRc1j/JsRy8Uv+yAY5Eo1w1sQd2LYvYGcJGtYXWt1vOUw0jyl5jNcfdZu3wAiBsTznvtfAsrm6sKPrPLSklI531qMSr+g9BzqCP7zXzVJ+0NZ480ZIJistb6Ycel8NCKJ4ADHyhj/kgcN5V2t8SvMCyn3em3x4s/P37ZvBfQ9IylJ2i6ha0A2HXxJKzjhvp76CX912zNNmUC0IPvIawgx9E1Jg==;6A+icJZmuuTEakpDeQJW6Q=="
 ---
 

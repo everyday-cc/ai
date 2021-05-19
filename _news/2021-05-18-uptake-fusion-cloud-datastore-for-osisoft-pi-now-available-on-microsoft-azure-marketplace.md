@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-s
 webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Associated Press
@@ -25,61 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
-    excerpt: "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ..."
-    publishedDateTime: 2021-05-14T16:42:00Z
-    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
-    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft Releases Azure Static Web Apps Into General Availability"
-    excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
-    publishedDateTime: 2021-05-15T20:09:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 69
-    images:
-      - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Best Microsoft Azure certifications for a career in cloud computing"
-    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
-    publishedDateTime: 2021-05-14T21:57:00Z
-    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
-    type: article
-    provider:
-      name: theexeterdaily.co.uk
-      domain: theexeterdaily.co.uk
-    quality: 54
-    images:
-      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
-        width: 688
-        height: 400
-        isCached: true
-  - title: "Mars teams with Microsoft Azure for its digital transformation program"
-    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
-    publishedDateTime: 2021-05-18T19:39:00Z
-    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
   - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
     excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
     publishedDateTime: 2021-05-17T16:51:00Z
@@ -94,6 +39,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-17T15:08:00Z
+    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
 
 secured: "iL4o9GPYskgrPGoLp34eeDnH3B67aRVuk3e/HJrqAAiihavqt9cDvjPRR+jwPxYiKkQsvSaZBI6rruIBt+/SL30+MBSCfea1LjxVKpw4oS/U2xWV748YFB6cT2WCWegi2XCPXN+uSlaWXo5bxXIkxOcEijpr081lsYCfbzBKOV9FxBgp2drdG+e5EQGLJsCMYse9NaeMlLHMf6YxOIUwFiQo8vPWxyVQWYm8eA1WMoieloqgjA8+UUGYXZLS+jY7+bjU8FZTZmxAQk9bSMcZi9AYT20f4P0qSQsO40EVpXZRZvSS+zRVACxAoQXzA/c/uNVe/vas2rBZuLfdCx1uafQmCyMh3qJ1h0dPXkx1eaU=;Q98pDGE3/zq7PpaR9We7vQ=="
 ---

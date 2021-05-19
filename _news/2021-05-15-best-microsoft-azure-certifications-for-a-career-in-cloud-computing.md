@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40."
-    excerpt: "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ..."
-    publishedDateTime: 2021-05-14T16:42:00Z
-    webUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/"
-    ampWebUrl: "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/"
+  - title: "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D"
+    excerpt: "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,"
+    publishedDateTime: 2021-05-18T12:17:00Z
+    webUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/"
+    ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Microsoft Releases Azure Static Web Apps Into General Availability"
     excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
-    publishedDateTime: 2021-05-18T16:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 60
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Mars teams with Microsoft Azure for its digital transformation program"
     excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
     publishedDateTime: 2021-05-18T19:39:00Z
@@ -80,20 +66,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
-  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
-    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
-    publishedDateTime: 2021-05-17T16:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 51
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "eI7VjBqwF0SUOXSNU5XvfzG4+KxuGb7nUXRubO1ooAM6wnLmu8gY7Cl+b85U4+eGOfTEwgV2fKe91sGiXxyhZsteUiyvWT5E/0VFjFwWlXIR/rHhmWvhJkMOtGkKPs7zovxwOGp9VrjQ0z6rsFJ7pICm9qsPS6U9c/vM9QKmIBF2rWVopMh74MACrF/y01rlICqaGU6K4zQt6fOLPbNdOgC5t7oXXiz2dZS1Go9VkhbRqjOV96nqnYQ/OB9qi9rHJwwjIC9t6jv8e1JkGFFa52+9AeBONhYgLoQIiTA8fd2yXbbmr3o3W9Ycn4rMMh19KGEr99zSWM0OazJSqchm4oaqFrWExkOMh5z/aXA4yW4=;oDbFOEszWXJhFi7gbO46bw=="
 ---

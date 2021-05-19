@@ -49,6 +49,22 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
+    excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
+    publishedDateTime: 2021-05-18T20:23:00Z
+    webUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    ampWebUrl: "https://www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 33
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-657f1fb9589f9bf83cfaa9b56e5b4e77-h-2e8376100123f79a2e731d3c69bada29-1621372508.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Watch self-driving car struggle to understand traffic cones"
     excerpt: "An autonomous Waymo car carrying a passenger got confused when it encountered construction cones and unexpectedly drove off when the roadside support arrived."
     publishedDateTime: 2021-05-18T00:36:00Z
@@ -60,6 +76,20 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 24
+  - title: "WATCH: Self-driving car flees from human driver after getting confused by road construction"
+    excerpt: "A self-driving taxi fled from its human driver twice while on its route after getting confused. The vehicle, operated in Arizona by autonomous driving service Waymo, became bewildered when it approached a construction site."
+    publishedDateTime: 2021-05-18T17:03:00Z
+    webUrl: "https://www.kmov.com/news/watch-self-driving-car-flees-from-human-driver-after-getting-confused-by-road-construction/article_b924fc9a-9a23-5bc9-9bcc-4812565732dd.html?block_id=1057681"
+    type: article
+    provider:
+      name: KMOV
+      domain: kmov.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/7a/37aa2b00-75b5-587b-914c-7d2fb1ed5a8c/60a3e5acab6da.image.jpg?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "9bNUwvTRURmV/ai8+e+Ik9G6nJNI3rOr4ld4X9hq3vJtcyVyNX0yBa1OEX2phOisZ87J1L2Ql8SiVdvFHw6uRSu9FEdqt1+eKDrIAvh21erdf4GhKD8yPUhWrD+g3niyS3wYf8Liwl2yRJVOnKabEL46Q3ucnelOPonX1VpLMpQjKVtPkjhjUl4BkGqwtX7gmssiIKc5wGWFZJ1OKZwRCjXKzZfjRkzharfLJg/emF+NLWJkO7HA4uIJC9zoifI3t6C9fW2qKcw1fEYzfs53unjo7BeDb/cLc4Zf+WW1OqoToOOLGSl6DmM7GRXCuv4ooVky5XBYa6zl4iwaaNASnqk4Im86wITAULELzWtdm32w/9GsipnQT5vem+nF9X5oWri9fdjWLyJSzZtIqdZ2IEJMinkHyMcgof+xKb20mbTFBjRdebFgrsmf+LsJ0Dwa2AQAXTvcvZLKGQ8xwPfKpxp9HmxjC5ID5ZGy4iuRogb9L5hQo2/D3fSsGEdLoUA+aWxl17ZRKKMQmRbB8olwbw==;y+4+2XIM9RfwJH5oI+lbmg=="
 ---
