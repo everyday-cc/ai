@@ -8,7 +8,7 @@ webUrl: "https://olhardigital.com.br/en/2021/05/18/internet-and-social-networks/
 ampWebUrl: "https://olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/amp/"
 cdnAmpWebUrl: "https://olhardigital-com-br.cdn.ampproject.org/c/s/olhardigital.com.br/en/2021/05/18/internet-and-social-networks/google-io-artificial-intelligence-tracks-tuberculosis-cases/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1306964536.jpg"
@@ -59,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qg8Abopter0Gcyrt3/MllNRBOJsFJ/UzVhNkqy+jBu8H22wbslS/Vv6l1so1Y3bXoJ/bNQIAa4Hm5WDBn7rkhx3EFGO8Esi8WSxAiGnOWL4jDM7WVuUv3C2GU/iodyokN6YX0IiAKNHkGKJWz9g2bnIHOuaT8RcEgE0R7NEBq7bRyi98dcfOA+y7IbAsWoNGhL1MAWiEmE/NxsQSY1153esc/IwTSsUImYl300CJG0rN7eqeaBJyZG398wJPWIPj7vXsm1NO/c87k7JhdXajctJnIBecNGoo2EgVAlfnW4eFQlEwpCi1XzNgNcN+Ud5ljVV6xdEqYTn4wMmFeqOXBzVMgHBjsboSKvNtWjcqPks=;v9FoMRn1kuVXwWGiy2KW0A=="
+secured: "V+kWWVQ+APK1dCyvRoNqJE6ulpmT9o570YK+M8buL4uNos2NHkAGrl88FFcx7iP+Xy3asa0Sgzg6v2iBtfqY2pjlPmcYn+L6EmwiSU45l8FRYByxQuf0SjXiX3YTPn3R43BLl/ePJqHOxgWSn6vgXevG0j3MZAFKvmNjiKZ/9AfIg/0YlC+LT9wlE+QgsCrt3WYwDW1obyMgwEzoiNQIfFKr3ICoB4IKmvxtW6Kzs5WQ2k7eEbivinAgK9oufgPa7/kyE9HGcKTi1Ht4GTBu5OfFzPl6kPydFxFWhN3Rj2wfw+LMvwXk9+TPF0HBbeVl6XjzXJVC3+5xA2ew0DyLs/J6V34JtSDJXrHIGHKGlk8pYjnV9bHCeOGNBM8HNJ2UGPr7+ZAEtoYB6Nkb5YC5cucnRZwY2bT/jotELIoGBweaGAvmC8oPKhWJ5T/Y2ITV3eGNEIDVoiASIHH1+4qnCsyiTK9DI69UjweLxk97pawLKAVqGP7qfHYVP3GpFf5q2htpXpIrfFCKG9WcIeYmng==;oicGfadVUgKgLXLe9ewz5A=="
 ---
 

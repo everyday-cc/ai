@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
-secured: "G7YQt3vahlScdWas4VyI3jTymom9lIws2HOI4ydTepV9vgjza3TEU8N56pxmklrwmdejSygt/gpfr+7t1lEuGyXCnZl+30AV42WJeIlHO+9jn5gWp68g8U4LslFJZz3VX+C7o4y0GcnsoB4JTKTz+Ei1nPL3RThvBZ8ZgkQZH7UoZ0arISGVq06StpTNI/C+yHmM7GqlH0sxg5ACZ58h6KJ6W571hg3My4H9GiyFZxptdJ3ERgKCcWOwKIRId835tvSBUrNIKGzEA9nCd5Ikrlx4FdR9eA+oRR9quAXVTHPLgQreddL1ek4MZkrHvHUWyAKmK+Rnz1efe4KS9m/beQETpvaxbj0iJ7preZN2eoM=;ERH4uzGarXaqP6TxzANEKg=="
+related:
+  - title: "Autonomous robots deliver in college town"
+    excerpt: "How pedestrians and diners treat the robots is one thing he cannot control. How the robots treat them? That's very much in his purview, and part of what Yandex is hoping to learn from its operations in the heart of this college town."
+    publishedDateTime: 2021-05-16T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/autonomous-robots-deliver-college-town"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "bTb5rlE/1HNsZMMnyRy+SeWgOXojdR1FLKhtI8bxWR7oCNNVBQ0R3JK5K9Ik8giwJEFLar2fBnAlYfvFCmjpYF9TkYh51/mQZtGtGA4B35dKj974hLexryYQJcjaFCSZIAkFIkN3+M9wfDlllkv4H3ltbxe+7tL8k53mZF60SSML+ZD45kDtM4ZiO24KH6RXsIRmXe/Smf5afIFHS6tJv3fXY2P7WYrrVOAboPxmw4eb7JqVJSQsAhmdZcnn0/ZKRNsVkKCBnr1ezghov2RnmAF8ex/mLagHZTeMiw4ZTMeL1flljQj5ruv7kTE8PIHvRVkWRFhHsW3T2/ecYwO97a63ClNE6cFcRXFZp64YCBOmu40X9mzd4TaCtL9Dl/T9/Ntc4av0yxD7/iBu5yDkuBWDSWb6SqK8F35eHEiWwCzg1t+Jcdzgr3opycxalbOzYln8+jUIMZIOnwCzZIsmfzQy3Jxco0b/Tt8ydgMGFCMDs4VrsabpiuirYCZxo+zaNHgeYTk0Mspd6wInfHHpHA==;vj+bXD5Yepr895xtAA7AcQ=="
 ---
 

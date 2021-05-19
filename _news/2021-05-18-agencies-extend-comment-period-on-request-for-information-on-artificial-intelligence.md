@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Veritone Launches MARVEL.ai, a Complete End-to-End Voice-as-a-Service Solution, to Create and Monetize Hyper-Realistic Synthetic Voice Content at Commercial Scale"
-    excerpt: "Veritone, Inc. (NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, and provider of digital content"
-    publishedDateTime: 2021-05-14T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210514005132/en/Veritone-Launches-MARVEL.ai-a-Complete-End-to-End-Voice-as-a-Service-Solution-to-Create-and-Monetize-Hyper-Realistic-Synthetic-Voice-Content-at-Commercial-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "AFOUbXr066oPabVkxSOuJpd2OsoWVaJHIiJFW+yAIJ7MxcBPltKObkY7t+P8diYJjOKXutz64wSOGmev+U2it2alUlCb03v0zI9/FGGM0bcms+YG4kjA9/f0WgAo1az30Ccy+r+1hXAyHVpZba/LWBNFXuL0/YVkqCG/w8RH0XBBOXgH43tVuvPoSPzOjoaRe3Xoz1Asf8YdQMg7C3ER7D04oytVY4hYLn4LbtdH7yCu4bI9dVCZrtBljPR3fpqVMP7Z9Nj2YBUFEr7RyciTIAi94HLqNVdC03v8QGU1VD0fwSAHU6M+VUzHBcScZzQA75ZpuJdbgnU0JlXPyn8K1evpu0bBcwL8nlJ3dOyyr5E=;ZMpC2jkkHBNSumcLdj3o+Q=="
 ---

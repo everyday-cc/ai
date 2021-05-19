@@ -3,18 +3,18 @@ category: news
 title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
 excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
 publishedDateTime: 2021-05-18T20:23:00Z
-originalUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-webUrl: "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-ampWebUrl: "https://www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+originalUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+webUrl: "https://www.wlwt.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+ampWebUrl: "https://www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Autos
@@ -92,6 +92,6 @@ related:
         height: 360
         isCached: true
 
-secured: "gtud5Fgl7ykSOhSbUOMTjAVviw4L8J9lEfIhJxLoPJe2kqWntBPx8f8vc8AXW6zzMxKAon+UdI7RwsiHphtHnAtwQPKyWDxTNMOv/qSxXSecVHODcaGO12CfIeOe/QanSaz6WKDSFz52g+3Zg3BpZFnH4hTRVySdyTS5+b6sxoukiEGwljzkWpcSK1ita216CmId4O2MqZKyngR3F4kku6G5iS1G4AE3TNjsom/fXCMX5b+WdprgNBWo3mQLGHNyRldwZzBf9zVePS+QsZFGZ61a6ubGXKZiS6+/AetuheFRburW4qgRjJno/9OJqBh4r/RSXGnmnAYAzQ2PbRm6s/Uy+wlux5AkMrsxHzdDsDs=;q9wRWKXInPHmyygFQIqW/A=="
+secured: "HD/h+0h64ogZ5xdugqvRPVhJqsehoDgfzetsS65u80SYDfxIjZzolO2xKhGx8qvvxGZ0hx04RELgQEPryc4l2Koq9b/U3VUijYfQePlzZlizWZXIqslosg6C2+8dsyRBTBZ1rId1EGOe1p+84Kr3XOHsOGxco+7FKjTKLoHJkCoIdyBhLAqCcOHZfrzNxLn9/cmfkI2unXicJ1sNX1KklvGIQ2GOo9ml3CGqF748oSjYd7kHMBpOlaCjOkTqqZaoBoysfKh8lJoZSPlWmUnYUvSwqpEvAAwW3VUsHbfJgQB7JxAc/6rQZrNxJY5xYNorVQW40lwQS8jGVMkV/zGzwcYyu7qpk2Zm9BgaU7vWFqc=;yn6nkHGVlIfbRnC0+Zv7hA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulator
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "Veritone Launches MARVEL.ai, a Complete End-to-End Voice-as-a-Service Solution, to Create and Monetize Hyper-Realistic Synthetic Voice Content at Commercial Scale"
-    excerpt: "Veritone, Inc. (NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, and provider of digital content"
-    publishedDateTime: 2021-05-14T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210514005132/en/Veritone-Launches-MARVEL.ai-a-Complete-End-to-End-Voice-as-a-Service-Solution-to-Create-and-Monetize-Hyper-Realistic-Synthetic-Voice-Content-at-Commercial-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "SRqtHMgbVc53o+Wt3W5vxNCvAMP9Dz/EJSEnS3OL/I1opFQ2HyZ2dzwhVnnTCst4rQNrIO1yOsfFFO3BG5w+0Mg1Z/1JZkkxaZu3YWv39nsQMTc2qVnQvLlpFkmLLyoLzAsrcDrDi04BF64D+Sjw4WEZ/ThEvF5d+cQaMmWDkHX0W7UmdpoUF7nxdt0motq50VxYBBbty61V5rZkeauKzsX1mthdkUiRf8ZWNSAYwS1OIx4RIpx/8vousC3T3KJptb4rq3LdPeWj9eeKlBlhYNO/5YPPn/udxJxydj10qp7A94vd0/t8XxC80GJ265q06XdeNCK31v6A1pdwjcPFedN9s04SftXRbsY6Nnsx47AAXfa8aF9e/5XfUqrybzjhjzeqyBAXGmaJKBoFiOPanIu/ZAT6QiSLGAcQza3JsLpCOCjygESwbLMITgiZUlqqJ8tuS3InqZG3nM6qXLDlQJ7JDi25SEjpCSm3OT32YHB2ExueRB9knQ0wQuJZGJNXGlUkyS0WVyxHGVrSP4Ms0A==;vPd9XueZUJAa4YT0Qtb4vA=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "California places Tesla’s 'Full Self-Driving' under review"
+    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous."
+    publishedDateTime: 2021-05-18T17:04:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/california-places-teslas-full-self-driving-review-rcna958"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna958"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna958"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1531/210518-tesla-california-ew-100p-281fb6_6da13de3db5f1f93cc6d205efb94ec561b7ff18b.jpg"
+        width: 2500
+        height: 1628
+        isCached: true
   - title: "DMV probing whether Tesla violates state regulations with self-driving claims"
     excerpt: "A review of Tesla's claims around its self-driving technology comes after a spate of accidents and videos showing owners 'driving' from the back seat."
     publishedDateTime: 2021-05-18T03:47:00Z
@@ -261,31 +277,6 @@ related:
       - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
-    excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
-    publishedDateTime: 2021-05-14T11:04:00Z
-    webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article251350568.html"
-    type: article
-    provider:
-      name: Tri-City Herald
-      domain: tri-cityherald.com
-    quality: 31
-  - title: "Elon Musk says Tesla is pushing ahead with \"full self-driving\" a month after fatal crash"
-    excerpt: "Tesla seems ready to move forward with a broader roll out of its autonomous driving software after a federal government investigation raised questions about initial, headline-grabbing findings from a"
-    publishedDateTime: 2021-05-14T12:41:00Z
-    webUrl: "https://www.kctv5.com/elon-musk-says-tesla-is-pushing-ahead-with-full-self-driving-a-month-after-fatal/article_1f52292d-7b77-5e62-98f0-76ac6b83d322.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-        width: 820
-        height: 462
         isCached: true
   - title: "Tesla is being investigated for misrepresenting Full Self-Driving’s ability to actually drive"
     excerpt: "The LA Times is reporting that Tesla is under investigation by the California Department of Motor Vehicles, over the over-stated claims made by CEO Elon Musk about the efficacy of its Full Self-Driving technology."

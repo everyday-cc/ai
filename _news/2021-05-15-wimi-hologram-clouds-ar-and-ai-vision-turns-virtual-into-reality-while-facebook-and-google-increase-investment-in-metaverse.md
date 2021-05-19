@@ -1,28 +1,24 @@
 ---
 category: news
 title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
-excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into"
-publishedDateTime: 2021-05-15T00:42:00Z
-originalUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
-webUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
+excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual"
+publishedDateTime: 2021-05-15T00:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "WIMI Hologram Cloud’ s AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
@@ -76,6 +72,6 @@ related:
         height: 337
         isCached: true
 
-secured: "uAus3NSlKPMcgsBwBQ7eC5Rq8f1jBzgnekHmHvo0PrXRvq7RERch4733WCaWOFHSnx/kYuHRcYuWc3P3ys79k9OjlC/+7i/R2437YAnQFhsFI45kDIAmoetEqjEY+DfdQ7+7fBcwgwihnUJyTppvXeU/phwnnF5lyZmUc+eG4CAOcn8S4nlsCTje4vxSt3nVjHsx24kb5TIhhIV0/ZD+j5DATgoyYxHjgNEQYejcPtESG8bUy3YhWE9ALgOPELQlIV4Be0uNmVPd93R6sgsPg+UTUtTXwXeesQAB4ZTmUQ3Tvp7lIgzCyRLDN+I55SrQN5OBR3FS75aNRpIcXmzen0SryErKjuUhO8OrhdwhZtY=;BbwqwgUv/89q2/bazTewMg=="
+secured: "koVa5tZeCyTjXX+f3FrRQrlJzJYd2NrFZnSUqW4+Nk+Peax5vcFMqGXCyVaymkfOBWSmCqX66vE26UOrH4KjdpBpSqgWhPzpa0k8MLeokEy/0KdlZi5WPXifNbByYHr1DWOmzpNU6ktiN5JwWTN42sDYHpu2lUAcKBGb8gO/4FxPHW37MjZZhmHf1Na6Ri7xLFj8Le2d0lcj3jOl10dCCX3DbiB12SvJf/Cku1er7iN/GS+zubALGMktFE4P9hmDFXSVLM4fTvEQRcg4V1aHtzUlYgZCil6r251ag9lOdar2j4tP+E2iuS53BgPM11Qu1lCR1yhi6dzjlPZth2lSH0r0n0UwNr4XvGKfwywY7yU=;548aMGKre1zHmWbzwpvRVw=="
 ---
 

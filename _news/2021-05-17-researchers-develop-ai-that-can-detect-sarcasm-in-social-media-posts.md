@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/re
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "AI can now detect sarcasm in social media"
-    excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
-    publishedDateTime: 2021-05-14T12:36:00Z
-    webUrl: "https://gadget.co.za/ai-can-now-detect-sarcasm-in-social-media/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
         isCached: true
   - title: "New AI Detects Sarcasm in Social Media"
     excerpt: "Researchers at the University of Central Florida have developed a new artificial intelligence (AI) tool that is capable of detecting sarcasm in social media. According to the team, this type of tool is highly useful for companies looking to better understand and respond to customer feedback on top social media platforms like Twitter and Facebook."

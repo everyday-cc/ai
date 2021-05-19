@@ -57,7 +57,7 @@ related:
     provider:
       name: olhardigital.com.br
       domain: olhardigital.com.br
-    quality: 57
+    quality: 59
     images:
       - url: "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1306964536.jpg"
         width: 2076

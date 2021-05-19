@@ -155,6 +155,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Amazon still won’t make its facial recognition software available to police anytime soon"
+    excerpt: "Amazon place a one-year moratorium on police to block them from using the technology, coming at a time when other technology companies either said they wouldn’t sell their own similar product or stopped the development of such products."
+    publishedDateTime: 2021-05-19T03:13:00Z
+    webUrl: "https://siliconangle.com/2021/05/18/amazon-still-wont-make-facial-recognition-software-available-police-anytime-soon/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/3745750194_a7e32a8505_c.jpg"
+        width: 800
+        height: 536
+        isCached: true
   - title: "Amazon extends June 2020 moratorium on police use of facial recognition software until further notice"
     excerpt: "Amazon.com Inc (AMZN.O) said on Tuesday it is extending until further notice a moratorium it imposed last year on police use of its facial recognition software."
     publishedDateTime: 2021-05-19T00:07:00Z
@@ -235,6 +249,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/facial-recognition-technology-use-by-law-enforcement-has.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
+    excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
+    publishedDateTime: 2021-05-19T03:55:00Z
+    webUrl: "https://www.valuewalk.com/facial-recognition-civil-rights-groups-score-amazon-win/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
         isCached: true
   - title: "Amazon extends ban on police use of controversial facial recognition technology"
     excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
