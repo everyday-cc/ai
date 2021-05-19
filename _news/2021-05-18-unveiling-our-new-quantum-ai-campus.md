@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google I/O 2021: Android 12, Quantum AI campus, Flutter 2.2, Vertex AI, and more"
+    excerpt: "Google announces the beta of Android 12, new Quantum AI campus, AI improvements and more at the Google I/O 2021 conference"
+    publishedDateTime: 2021-05-19T14:55:00Z
+    webUrl: "https://sdtimes.com/softwaredev/google-i-o-2021-android-12-quantum-ai-campus-flutter-2-2-vertex-ai-and-more/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 64
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
     excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
     publishedDateTime: 2021-05-19T12:23:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-
 ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - IBM AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a46f458055cee11c70a746%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1429%26cropY1%3D174%26cropY2%3D1245"

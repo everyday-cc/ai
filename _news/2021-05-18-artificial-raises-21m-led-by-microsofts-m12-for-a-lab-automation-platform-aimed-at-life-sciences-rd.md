@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-micro
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Best Microsoft Azure certifications for a career in cloud computing"
-    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
-    publishedDateTime: 2021-05-14T21:57:00Z
-    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
-    type: article
-    provider:
-      name: theexeterdaily.co.uk
-      domain: theexeterdaily.co.uk
-    quality: 54
-    images:
-      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
-        width: 688
-        height: 400
         isCached: true
   - title: "Mars teams with Microsoft Azure for its digital transformation program"
     excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-korn-ferry-appoints-vp-of-data-science-and-machine-learning.md",
+      "title": "Korn Ferry Appoints VP of Data Science and Machine Learning",
+      "excerpt": "April 6, 2021 – Korn Ferry has named Tammy Wang as vice president of data science and machine learning for the firm’s digital ... president of the firm’s global healthcare services practice. “He will be a great asset to our team.”",
+      "sourceUrl": null,
+      "webUrl": "https://huntscanlon.com/korn-ferry-appoints-vp-of-data-science-and-machine-learning/",
+      "originalUrl": "https://huntscanlon.com/korn-ferry-appoints-vp-of-data-science-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://huntscanlon.com/wp-content/uploads/2020/06/Story3-e1591051687543.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hunt Scanlon Media",
+        "domain": "huntscanlon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science.md",
       "title": "Why machine learning, not artificial intelligence, is the right way forward for data science",
       "excerpt": "Commentary: We like to imagine an AI-driven future, but it's machine learning that will actually help us to progress, argues expert Michael I. Jordan.",
@@ -1170,40 +1214,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cy-wins-2021-best-robo-advisory-platform-fintech-breakthrough-award.md",
-      "title": "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award",
-      "excerpt": "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=437708",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=437708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null

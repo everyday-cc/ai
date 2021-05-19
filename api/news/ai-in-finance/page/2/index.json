@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-icici-bank-is-betting-big-on-artificial-intelligence-machine-learning.md",
+      "title": "ICICI Bank is betting big on Artificial Intelligence, Machine Learning",
+      "excerpt": "AI and MLhave reduced internal costs for ICICI Bank and has driven its deposit business and new customer acquisition",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/04/223-icici-bank-benefits-ai-ml/",
+      "originalUrl": "https://www.medianama.com/2021/04/223-icici-bank-benefits-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2020/07/network-782707.png.png",
+          "width": 1920,
+          "height": 1249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning.md",
       "title": "JG Wentworth Welcomes Andrey Zelenovsky as their Vice President of Artificial Intelligence and Machine Learning",
       "excerpt": "JG Wentworth announces Andrey Zelenovsky as the company's Vice President of Artificial Intelligence and Machine Learning. Zelenovsky will lead and leverage Robotic Process",
@@ -1305,50 +1349,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-korn-ferry-appoints-vp-of-data-science-and-machine-learning.md",
-      "title": "Korn Ferry Appoints VP of Data Science and Machine Learning",
-      "excerpt": "April 6, 2021 – Korn Ferry has named Tammy Wang as vice president of data science and machine learning for the firm’s digital ... president of the firm’s global healthcare services practice. “He will be a great asset to our team.”",
-      "sourceUrl": null,
-      "webUrl": "https://huntscanlon.com/korn-ferry-appoints-vp-of-data-science-and-machine-learning/",
-      "originalUrl": "https://huntscanlon.com/korn-ferry-appoints-vp-of-data-science-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://huntscanlon.com/wp-content/uploads/2020/06/Story3-e1591051687543.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hunt Scanlon Media",
-        "domain": "huntscanlon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -59,21 +59,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Accurately Predicts if COVID-19 Patients Will Develop Life-Threatening Complications"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-    publishedDateTime: 2021-05-14T21:56:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
+  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
+    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It has been a year and a half since Covid-19 broke out."
+    publishedDateTime: 2021-05-18T14:13:00Z
+    webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 40
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 39
     images:
-      - url: "https://scitechdaily.com/images/Chest-X-ray-of-COVID-19-Patient-777x672.jpg"
-        width: 777
-        height: 672
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "A6jD8WhBR/ZFkE/jpdL9SGIWlMZ6y5zIlbNkYta2ssWs+PFKiM2TMjuz4XBrIEy1A0AaGeqIX5guDD3nmtH91SkVuS+TLjF7Qn+7AQ5ZfBJDsoO+xKWStWe2nzFbkfbfv5L56ibwBFjqTn4EwFSWz33LBWedX5rQR4rAMz1zq/xiZKx3sfYYq5MzJKO3dGiGoI4Ql4kQtja3Zs31VtTsf2G1Uqxv9wv0fl6bx0W5OtqmK3g58MGi0kcqHrZIWb7HwzcvrEE6SM9cW+hv0VBFAgemYOGBLccp4oyjNfJJJqkQTkP65k6H+CdkE1E2bcaMFTcFD/OVNgtna9jU/SaHwAWJJ6cTHDzYUtI1YP9WwIg=;Ki1xZn42qw8qk0K4hH46iA=="

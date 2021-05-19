@@ -43,6 +43,20 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Google I/O 2021: Android 12, Quantum AI campus, Flutter 2.2, Vertex AI, and more"
+    excerpt: "Google announces the beta of Android 12, new Quantum AI campus, AI improvements and more at the Google I/O 2021 conference"
+    publishedDateTime: 2021-05-19T14:55:00Z
+    webUrl: "https://sdtimes.com/softwaredev/google-i-o-2021-android-12-quantum-ai-campus-flutter-2-2-vertex-ai-and-more/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 64
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "qraCohUCMc5xGPyo7A/9IM4zGbtQ/NS7ejpmf3U6i0vtK+WQWdbi+7WYDbPQQIrskwwZXkLaVlqmgRHvmk+hsVk8itK9rabvyl8oPgkNR2lJ9qtXs0decffo3KbJzdE8+gWTJ9/sTu8K6xb6Gsigd2JilX3bgL8cz1DX/9Race4XSCWg8+oIc6wzQxNr6QVgJA+kiJMbpUwMgR9ps3C5D8KoLeDes2YsL7WHovPDzafi4gOBn83uVmf3wip99bVfTJRa6e/AbjXZaj2Xy4KMcx3PuYRyRzu0vaqLTVFNx3QN1kzxPulnalIX+fKsdVPDL7TaKdAmZKdcfMYp07I9B20LHwaN1O2Ky1Ho7saF44U=;d0VX+2LcZ/IHPC6KsQ6bfA=="
 ---

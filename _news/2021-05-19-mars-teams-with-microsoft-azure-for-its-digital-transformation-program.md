@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Microsoft Azure certifications for a career in cloud computing"
-    excerpt: "The world of technology keeps evolving drastically every day. An IT professional must stay updated to catch the latest opportunity before their competitors. Azure certifications are a gateway to excellent job openings in significant and reputable corporations."
-    publishedDateTime: 2021-05-14T21:57:00Z
-    webUrl: "https://www.theexeterdaily.co.uk/news/education/best-microsoft-azure-certifications-career-cloud-computing"
-    type: article
-    provider:
-      name: theexeterdaily.co.uk
-      domain: theexeterdaily.co.uk
-    quality: 54
-    images:
-      - url: "https://www.theexeterdaily.co.uk/sites/all/themes/custom/exeterdaily/logo.png"
-        width: 688
-        height: 400
-        isCached: true
 
 secured: "/BYZXGTwFh1a17ssPOYI63hDIP6H3LOIca1g7QL91q0gIVv0S1p/6Kaov2K1tsAqCAvgBXUc/o8UBY9lNL9G4a+8h9o3OgD6H2cKUTir6qkcjnBYiywB6HM+GAxdpw47aYu91krTzCesMY/LqzIV27UCZUrfW0RrfdPNR9fqE9O0FH3O2sddxoX1lj5RZELLPC38tlcFAtI6vqLOhSqdEFAg3xup8pGCU9waZi0G6YtnYM6Ycb+dZN7OW6sNO+t7Wi0z5OdZEcdhnYqN8pHnSqllzjDqgGZrJ+xELSLDPh62F8GCHzHEjCAirI8KiU2RgosgqJmACqt281+Rx/hHA0nqSqrAPMiijWP4X3wUMYo=;Ivor+e2DnVypXNQdbvshFg=="
 ---

@@ -119,6 +119,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Amazon Has Extended the Moratorium on Police Use of Its Facial Recognition Software"
+    excerpt: "While a number of states and localities have taken it upon themselves to ban or restrict the use of facial recognition tech by police in recent years, no federal legislation regulating its use currently exists."
+    publishedDateTime: 2021-05-19T04:03:00Z
+    webUrl: "https://gizmodo.com/amazon-has-extended-the-moratorium-on-police-use-of-its-1846922667"
+    ampWebUrl: "https://gizmodo.com/amazon-has-extended-the-moratorium-on-police-use-of-its-1846922667/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/amazon-has-extended-the-moratorium-on-police-use-of-its-1846922667/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 83
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ea7283e5abfd3e21d7924cf7b51624ff.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Amazon indefinitely extends a moratorium on the police use of its facial recognition software."
     excerpt: "The tool has faced scrutiny from lawmakers and some employees inside Amazon who said they were worried that it led to unfair treatment of African-Americans."
     publishedDateTime: 2021-05-18T22:06:00Z
@@ -489,20 +505,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
-    excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider"
-    publishedDateTime: 2021-05-19T12:15:00Z
-    webUrl: "https://prnewswire.com/news-releases/sparkcognition-acquires-ensemble-energy-to-accelerate-renewable-energy-growth-using-artificial-intelligence-301294683.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://i1.ytimg.com/vi/o6BQLcm6PXQ/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
     excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
     publishedDateTime: 2021-05-17T14:10:00Z
@@ -512,14 +514,14 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
-  - title: "In reversal of initial decision, college gives Zionist student group recognition on campus"
-    excerpt: "The Skidmore College student government denied a progressive Zionist student group from forming on campus until it gained \"more diverse perspectives.\""
-    publishedDateTime: 2021-05-14T23:04:00Z
-    webUrl: "https://www.campusreform.org/article?id=17351"
+  - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
+    excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
+    publishedDateTime: 2021-05-19T07:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210519da83036/sparkcognition-acquires-ensemble-energy-to-accelerate-renewable-energy-growth-using-artificial-intelligence"
     type: article
     provider:
-      name: Campus Reform
-      domain: campusreform.org
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 0
 
 secured: "k5rLdVNUNJHuiFzDuRDiV2ou12bBCP+GF5TbVkTzVyLSptTKfGUZyGubvYEG7pfY/yP1d65blWZmrKP/bdurfFa2i+HqZyoyrllm9F9weCOsHzT6bN8umqHoWt9Lnmc+60DJVeLoocaYl5bWgpXkj1kzCBXLCCFb9LI1R/FLRLivF5PHszt1CuSH+/zWHXFFFJQGhWp3PgwwCO7Y3Dz5EYWUk4pXOLjS4jF2W56uOBonnnHxm831dLw2wQLS+alFPHUQlayeO52f/FDx3Mg68tHjNY8EFCaqVzYjg6ps8lAwTM+2vEA+2eK5kFNUR3Trs534X6K7LPXziPk6DsgRcFH75TxJK5s0wD5HXqBQge6IOnJBAFFJIddaDJguXvr16Zd6DBj175NavqVOMp/TXuXJgf9XDOSKcdVG17YCrLovLt6CyMtTEVYGqgwwRtZOIqPK5ab9FZAYZbeZK7rXRCbSRqYKuV+BN4txoQfOSPLHIqZgIAnAnVoG7jdCIbK6dgG23e+MUJLp9v03PAgWow==;C6bAVaV0p5/zW/voT/GaZA=="

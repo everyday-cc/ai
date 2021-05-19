@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 480
     isCached: true
+
+related:
+  - title: "Baidu Reports Strong Q1 Results, Issues Upbeat Q2 Guidance"
+    excerpt: "C hinese technology company Baidu released first-quarter earnings that showed huge improvements from a year ago. It also issued an upbeat outlook for the second quarter. Baidu is"
+    publishedDateTime: 2021-05-19T11:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-reports-strong-q1-results-issues-upbeat-q2-guidance-2021-05-19"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "ojBGaYMq3WJOh69j6TqMju8h6O0+iGD45P8lZmd9TMOdFBpWtAXvzvkjAGeMyHyEy7lQ1rMp+qBAY2oft5E8UjptYzMiGq5hoBbEeXM0Jz1Zu0OAi6O0LWz8+6XYmkQ/rOSoCuKHz1UMrOkVDNn080PW98AAZ7gUIzg8lAQH4t+hEaFCpMTDUTyk4LE7nWdC0Qc8/StZnPPhLayU+lsKvH4zegOR4Gvgppgvg6RVWLZCw10bR+iVyM/f5b7zq8LfYz76cVU1RxMQplB3KAZhi79/iAaVtRpYjYJU9KT27nyrm/oW9vADezFA0nzNs8vAKfUGft/B4V9S8TQgBVAtP2lOQ3j1tZN+MR8cPOy+6e7t+edbstjOYlMte0IH7I9RcsmTH7BI7BYDjobRzmamb9tCfs00/ZbrJRn5/wqpI++AhJJMjjCYvQ/Pu9sdZjC7BK7/Jytd7fFmmc083i+0mpqGS35kCSQ+V4tWvxQE3YR4Fs/3h7M1zyKWRTxrz19hOQd3nkr6GlMq2LVkIqd9LQ==;oncQDn8I64VzK7YcocS86A=="
 ---

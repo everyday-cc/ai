@@ -55,21 +55,19 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Accurately Predicts if COVID-19 Patients Will Develop Life-Threatening Complications"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-    publishedDateTime: 2021-05-14T21:56:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-accurately-predicts-if-covid-19-patients-will-develop-life-threatening-complications/amp/"
+  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
+    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It has been a year and a half since Covid-19 broke out."
+    publishedDateTime: 2021-05-18T14:13:00Z
+    webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 40
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 39
     images:
-      - url: "https://scitechdaily.com/images/Chest-X-ray-of-COVID-19-Patient-777x672.jpg"
-        width: 777
-        height: 672
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "dKWhXW0R71pMKQpRWSPCaHkbxKKjmBLX1CX8kuKECrAIopCGlAQnoBUjSopUR/sqcEncfyJd3jjQa7ebTxfl29CwxLovulowK7RilqTNh1AkTkYqs6WUzwUJx7w61DSZ7dW6vnlPRlkyQ1z3DVpkJd6T3rI8t1BqomwXVWDZHLKRgpqK4eJu7B52HyjglhURuJwAE4m6z4ZS1emKQOylHBurSDVLPeqkZhdh6fUejZaAyJftnuHmRDFqpOEQcSpv9L42Bza8FYkES1raBzEZ72XKHl223A3++yCkDpy/b7US7j5BiTazFKaD+mpcZrM3SOtBbJxyDhcbmJPrRuhwpMeQv7pyWS0AMKNzjdjdRw1gkc3pFuJBP9XToJcKmb9gG/lQVzueQ8+mJ9zU9+JBvez6LAFG9PRIs4O8HjUMYoVl4l3o08dv+FxHcCCcg+0i9Ayvod8r7u6cOmCeNoJ4tnPZdfddUJg6wsPQO90p6DXX/7EnZkrmlkXcJDkHyYQCNNDbR5A4yCUoYJkkFSb8WA==;VLF9TMxEqXLtVHgRL25V9Q=="

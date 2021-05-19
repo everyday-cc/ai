@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=471062"
 webUrl: "https://us.acrofan.com/detail.php?number=471062"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Expands Partnership with LaLiga"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and LaLiga has announced an expansion of their partnership that is focused on digitally transforming the sports experience on a global scale."
+    publishedDateTime: 2021-05-19T15:13:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-expands-partnership-with-laliga/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
 
 secured: "Bne9MrE0iu7U91QL8xzOnHQYim8JdXMLZVc6qX1rr27RZ2gfwOUcXK4tw0FXwlCkieehOW2bfrqskfMVGyPbEB1ab91GE5Yq6au3e/n2mTvGYAyOtXvaVa+KqcVXwtMEUd5IBTRbSyf2I01QVHhqJGn/NP+hYIKkWYFF0SObqIv4CT1Fu3fj4ArVlfmMySH6p2f4+hOCD+7xirbaO+Lxp2GpJtcl3UYjfhB14EzFSzsZW+0GamDnoPuYhRrWTFdsoawiXmtv7MJ0CfCjH+20/lCRsziA4YcyGifvn0f1XqWwYV9Y56VSsiNiktkFpPZrS+Nrodm4TXXbO+IFzUY4BMGOdTtabKORoH+6H3qj9m4=;ppu4nnabFgNN9BQ+urdDvw=="
 ---

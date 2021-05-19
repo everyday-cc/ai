@@ -2,6 +2,84 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
+      "title": "Microsoft, Amazon must face facial recognition data suits",
+      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "publishedDateTime": "2021-03-16T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-cachengo-announces-edge-ai-solution-for-local-computer-vision.md",
+      "title": "Cachengo Announces Edge AI Solution for Local Computer Vision",
+      "excerpt": "Computer Vision applications such as facial recognition are best done where the data is captured. This can be difficult when depending on data",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cachengo-announces-edge-ai-solution-for-local-computer-vision/article_4d803f08-572c-5583-960c-a7fab88c23fb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cachengo-announces-edge-ai-solution-for-local-computer-vision/article_4d803f08-572c-5583-960c-a7fab88c23fb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-stampli-named-best-accounts-payable-solution-in-2021-fintech-breakthrough-awards-program.md",
       "title": "Stampli Named \"Best Accounts Payable Solution\" in 2021 FinTech Breakthrough Awards Program",
       "excerpt": "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that",
@@ -874,75 +952,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-aws-launches-deepracer-womens-league-to-promote-upskilling-diversity-inclusion-in-ai.md",
-      "title": "AWS launches DeepRacer Women’s League to promote upskilling, diversity & inclusion in AI",
-      "excerpt": "AWS has launched an initiative called the AWS DeepRacer Women’s League- India 2021, to bring together women students to learn machine learning through a cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/press-release/aws-launches-deepracer-womens-league-to-promote-upskilling-diversity-inclusion-in-ai/",
-      "originalUrl": "https://www.cxotoday.com/press-release/aws-launches-deepracer-womens-league-to-promote-upskilling-diversity-inclusion-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-computer-vision-vs-human-vision-filling-the-void-is-indeed-difficult.md",
-      "title": "Computer Vision vs Human Vision: Filling the Void is Indeed Difficult",
-      "excerpt": "By comparing computer vision and human vision, we find that the gap between the two needs to be addressed using machine learning, deep learning algorithms and neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/computer-vision-vs-human-vision-filling-the-void-is-indeed-difficult/",
-      "originalUrl": "https://www.analyticsinsight.net/computer-vision-vs-human-vision-filling-the-void-is-indeed-difficult/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

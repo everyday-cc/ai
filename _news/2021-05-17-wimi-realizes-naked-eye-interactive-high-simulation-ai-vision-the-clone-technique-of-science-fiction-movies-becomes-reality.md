@@ -48,16 +48,19 @@ related:
       domain: benzinga.com
     quality: 13
   - title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
-    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual"
-    publishedDateTime: 2021-05-15T00:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into"
+    publishedDateTime: 2021-05-15T00:42:00Z
+    webUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 12
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "dyqa5qVnu0EV4j5UcfvL7pcGltl+q9W92YhrWp6K3Z9AbxIgZSNX+dtVGuNSH4JxCjwtX1WTO8XL4bqq2NAmpaQiW74EnMjXbCIhAnzGrrPwlQd9gjnDWrUbmmw1d1F9EO8z6pvh7pYdWLXDfWEwXFlAdENz22fDfQeDFiWNxaXk/e535jtp8ORwRQfoRtNcZ7tsUTgsOYBMrzfOiBzIM7ezSaydp7PUnrYNQoD+I0ufPwJGUYtmdsFgJQFJmCR+up0GaSjonx3psVsDgggdfGJ/QJcUoTJQmXm14CEMAdEAZKtux5iL/iLAMZM/t1M5+l1NDZLMPEoXhOwzGvuFwqMpIeFRzPJvooU0bwoevx8=;R1LLlJpf0lVBpeXz9iRRGw=="
 ---
