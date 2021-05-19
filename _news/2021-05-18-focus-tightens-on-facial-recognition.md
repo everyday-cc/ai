@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 918
         isCached: true
+  - title: "Amazon extends ban on police using Rekognition facial recognition technology, no end in sight"
+    excerpt: "The existing moratorium will continue as Congress has not tackled concerns raised by the use of the technology in criminal cases."
+    publishedDateTime: 2021-05-19T03:20:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
   - title: "Local Teens Create Solution For Phone’s Facial Recognition Mask Issue"
     excerpt: "Two local teenagers worked together to solve a problem that’s been frustrating cell phone users since the pandemic began. While anyone who uses"
     publishedDateTime: 2021-05-18T15:57:00Z

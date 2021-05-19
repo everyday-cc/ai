@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -159,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-everything-google-announced-today-android-ai-holograms.md",
-      "title": "Everything Google Announced Today: Android, AI, Holograms",
-      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-io-2021-highlights/",
-      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
-      "publishedDateTime": "2021-05-18T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
       "title": "Google details new AI accelerator chips",
       "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
@@ -219,7 +167,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1496,6 +1444,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Many companies extract data from scanned documents containing tables and forms, such as PDFs. Some examples are audit documents, tax documents, whitepapers, or customer review documents. For customer reviews, you might be extracting text such as product reviews, movie reviews, or feedback. Further understanding",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/03/2-1411-Specify-Detals.jpg",
+          "width": 800,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T09:32:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

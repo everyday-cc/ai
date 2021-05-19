@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
+      "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-2928-Architecture.jpg",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:23:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-tackling-the-new-frontier-of-fraud-with-machine-learning.md",
       "title": "Tackling the new frontier of fraud with machine learning",
       "excerpt": "Register for our latest webinar with Sift on Thursday 24 June 2021 at 15:00 BST as industry experts discuss tackling the new frontier of fraud with machine learning.",
@@ -1325,49 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-machine-learning-algorithm-helps-unravel-the-physics-underlying-quantum-systems.md",
-      "title": "Machine learning algorithm helps unravel the physics underlying quantum systems",
-      "excerpt": "Scientists from the University of Bristol's Quantum Engineering Technology Labs (QETLabs) have developed an algorithm that provides valuable insights into the physics underlying quantum systems—paving the way for significant advances in quantum computation and sensing,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.html",
-      "originalUrl": "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-algor.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.amp",
-      "publishedDateTime": "2021-04-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

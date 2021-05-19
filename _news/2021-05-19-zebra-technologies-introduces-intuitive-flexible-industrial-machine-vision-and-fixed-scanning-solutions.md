@@ -53,6 +53,22 @@ related:
         width: 1536
         height: 1536
         isCached: true
+  - title: "Hitting the right note as AI streamlines the business of music production and distribution"
+    excerpt: "How AI is used in the music distribution process. Deep learning and other AI algorithms are tailor-made for unstructured data and there is nothing less structured than digitized audio or video. Furthermore,"
+    publishedDateTime: 2021-05-19T09:27:00Z
+    webUrl: "https://diginomica.com/hitting-right-note-ai-streamlines-business-music-production-and-distribution"
+    ampWebUrl: "https://diginomica.com/hitting-right-note-ai-streamlines-business-music-production-and-distribution?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hitting-right-note-ai-streamlines-business-music-production-and-distribution?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 47
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2021-05/equalizer-153212_640.png"
+        width: 640
+        height: 399
+        isCached: true
 
 secured: "kuwx2XjpxH2IVMxFKw5WXJaok+oFSDTJ/+qZ34os+e5RYnaq2CQ9RNKSFwtfTU4qG64WCZFgowhtZDIkKV8yc7vArwhjXmU34uH129nGgDe3W34YldnLqJC8Xzv493ymOpbyffFIn3tEpNBis+icytsMSTigkBJocgRAnKxkQxlB5OR351hOOd4CLdDxKo4TUiTS7xMQB7uMitVq/hqlIfUQMcocJzfSmG5fv1Oh5D5H2+smVTO2ptFv3AmdG7vzpCjIPaUyN43SBXyDjsnZCC56vuHo/MwsVI91MWFyUYP/NAtn+3GrnIEyCtityi74/1ZGrJQc9TWX/ynhu5oRIsH5jhUIHZ061zVfaeJFDwc=;dY0si6NivTUaPjKEUkggiQ=="
 ---

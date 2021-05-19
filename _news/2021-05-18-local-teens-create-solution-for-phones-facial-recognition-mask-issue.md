@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 918
         isCached: true
+  - title: "Amazon extends ban on police using Rekognition facial recognition technology, no end in sight"
+    excerpt: "The existing moratorium will continue as Congress has not tackled concerns raised by the use of the technology in criminal cases."
+    publishedDateTime: 2021-05-19T03:20:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
   - title: "Focus tightens on facial recognition"
     excerpt: "In April 2019, Guo paid 1,360 yuan ($211) for a VIP pass to the park and agreed to use fingerprint recognition to enter the venue under the contract. A short time later, he received the message requiring him to provide facial information for the venue's upgraded entry system."
     publishedDateTime: 2021-05-17T23:48:00Z

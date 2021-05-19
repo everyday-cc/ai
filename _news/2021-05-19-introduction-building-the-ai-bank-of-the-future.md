@@ -7,7 +7,7 @@ originalUrl: "https://www.mckinsey.com/industries/financial-services/our-insight
 webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/platform%20operating%20model%20for%20the%20ai%20bank%20of%20the%20future/standard-platform-operating-model.jpg"
         width: 1536
         height: 1536
+        isCached: true
+  - title: "Hitting the right note as AI streamlines the business of music production and distribution"
+    excerpt: "How AI is used in the music distribution process. Deep learning and other AI algorithms are tailor-made for unstructured data and there is nothing less structured than digitized audio or video. Furthermore,"
+    publishedDateTime: 2021-05-19T09:27:00Z
+    webUrl: "https://diginomica.com/hitting-right-note-ai-streamlines-business-music-production-and-distribution"
+    ampWebUrl: "https://diginomica.com/hitting-right-note-ai-streamlines-business-music-production-and-distribution?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hitting-right-note-ai-streamlines-business-music-production-and-distribution?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 47
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2021-05/equalizer-153212_640.png"
+        width: 640
+        height: 399
         isCached: true
   - title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
     excerpt: "Zebra Technologies Corporation (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it has entered the fixed industrial scanning (FIS) and machine vision (MV) markets with a new portfolio of solutions that enable track and trace capabilities and quality inspection of manufacturing work in process."

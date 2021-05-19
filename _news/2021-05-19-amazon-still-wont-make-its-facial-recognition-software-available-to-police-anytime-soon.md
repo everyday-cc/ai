@@ -217,6 +217,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Amazon Indefinitely Extends Ban On Police Use Of Face Recognition Technology"
+    excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters"
+    publishedDateTime: 2021-05-19T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-1030445472"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Amazon extends June 2020 moratorium on police use of facial recognition software until further notice"
     excerpt: "Amazon.com Inc (AMZN.O) said on Tuesday it is extending until further notice a moratorium it imposed last year on police use of its facial recognition software."
     publishedDateTime: 2021-05-19T00:07:00Z
@@ -284,6 +293,22 @@ related:
         width: 3000
         height: 1941
         isCached: true
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
+    publishedDateTime: 2021-05-18T23:30:00Z
+    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
+    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
     publishedDateTime: 2021-05-19T03:55:00Z
@@ -320,20 +345,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:55:00Z
-    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 19
-    images:
-      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "NLcHELhfx/cogS0gMf7ScyqRTpiQFNx9lvS4EiKpYwsodhcg9vpo1LT62NTchVFs+Lu+CmXX5Lcs6rKTdAPIxPBywBcGxNGrK6CB0YA4N429jcczo8BrXBcZLd860/jXJ/DpmGxUukVAzHdpKTABunEwo84G1E3A7CbEnRY75WCW/5xoazQNKOWhq9qq+21pRNpfHdzNPGo2z+pZt6gvr+mS+BfMXCCffo3FCZtOz9TI7vZ2mtI2wupa1jyuWbukPtrowbz08X7cpkHWEbwIcaGJUwnZzHhjOH/8ETXpnbkJ6Fdi2XPKXO7B7ZhwajkniqV/yAOop/0o9xHN1wt0r8BsRe3ZvDwb86zpzFPBQDQ=;8B1hM8ELbKW4K7RGfvJxhw=="
 ---

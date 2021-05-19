@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-11-using-the-power-of-artificial-intelligence-to-detect-disease.md",
+      "title": "Using the power of artificial intelligence to detect disease",
+      "excerpt": "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg",
+          "width": 1920,
+          "height": 1897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
+      "publishedDateTime": "2021-03-11T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-deci-and-intel-collaborate-to-optimize-deep-learning-inference-on-intels-cpus.md",
       "title": "Deci and Intel Collaborate to Optimize Deep Learning Inference on Intel's CPUs.",
       "excerpt": "The collaboration between Deci and Intel takes a significant step towards enabling deep learning inference at scale on Intel CPUs, reducing costs and latency, and enabling new applications of deep learning inference.",
@@ -1241,49 +1284,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-can-deep-learning-replace-numerical-weather-prediction.md",
-      "title": "Can Deep Learning Replace Numerical Weather Prediction?",
-      "excerpt": "While some wait for the exascale era – and beyond – to brute force punishingly accurate and complex climate models into existence, others are looking for a deep learning-powered shortcut to the same results. In a paper for Philosophical Transactions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/",
-      "originalUrl": "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_us_weather_hurricane.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

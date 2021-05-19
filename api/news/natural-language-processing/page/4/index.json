@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-04-13-nvidias-jarvis-offers-real-time-machine-translation.md",
-      "title": "Nvidia’s Jarvis Offers Real-Time Machine Translation",
-      "excerpt": "The Jarvis translation platform announced during this ... Nvidia (NASDAQ: NVDA) promotes Jarvis as a GPU-accelerated deep learning AI platform for speech recognition and generation, language understanding and translations. “Jarvis interacts in about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/04/12/nvidias-jarvis-offers-real-time-machine-translation/",
-      "originalUrl": "https://www.datanami.com/2021/04/12/nvidias-jarvis-offers-real-time-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png",
-          "width": 492,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-nvidia-debuts-grace-its-first-data-center-cpu-for-advanced-ai-workloads.md",
       "title": "Nvidia debuts Grace, its first data center CPU for advanced AI workloads",
       "excerpt": "“AI is the most powerful technology the ... They can also be applied to real-time translation in multiple languages and create new text-to-speech capabilities that can be used to power ...",
@@ -1321,6 +1278,51 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-ten-minute-tensorflow-speech-recognition.md",
+      "title": "Ten Minute TensorFlow Speech Recognition",
+      "excerpt": "Like a lot of people, we’ve been pretty interested in TensorFlow, the Google neural network software. If you want to experiment with using it for speech recognition, you’ll want to check out ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/03/tensor1.gif",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "TensorFlow"
       ]
     }
   ],

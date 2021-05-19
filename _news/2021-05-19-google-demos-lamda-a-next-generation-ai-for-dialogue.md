@@ -78,6 +78,34 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Google Adds a Suite of New AI Tech for Photos and More"
+    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
+    publishedDateTime: 2021-05-19T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google unveils fourth generation TPU AI chip"
+    excerpt: "Google has announced the latest version of its custom Tensor Processing Units AI chip. At its I/O developer conference this week the company claimed that the fourth generation TPU was twice as powerful as the previous iteration."
+    publishedDateTime: 2021-05-19T10:24:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-unveils-fourth-generation-tpu-ai-chip/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_4.width-358.png"
+        width: 358
+        height: 217
+        isCached: true
 
 secured: "FtiNG2IQy0aFEj1vBZz9MueMbLQMRQR2gq/ejMt/bR2oGe27SEsLOVjL9cDRCg8tHe2+5vUFmqQvAeZKCOvx1sju07a2qwxmwOrCGhnWPR2bUfo9M6WmDidcGNA7uUh5bKdtq0h2aIJTl6dTd629x0BzvY7uqYKQ5LqB1WxaQs9MNOTr9WEHVGTbknQ/v7sZcwul0kS6qhKFzVuk/dsCCOzhzY2nZfMGkoS48ie7itNCusoimWqWcwoB4Ed3/82WyyqOW0BZIfa2FC6zKevtX1Q980T/j0pvnhkGRq6L4vncsV5o/8UHU9Ci2pKLLCLmA19eLPTgxQRRnqqg8n9fWP28eKZYLoSM/ynHbeBpfTM=;SjeVc5Vqnk4GZm/VqtDvGQ=="
 ---

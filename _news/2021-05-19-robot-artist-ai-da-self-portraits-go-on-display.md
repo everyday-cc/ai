@@ -3,8 +3,8 @@ category: news
 title: "Robot artist Ai-Da self-portraits go on display"
 excerpt: "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp."
 publishedDateTime: 2021-05-18T23:42:00Z
-originalUrl: "https://www.bbc.com/news/av/entertainment-arts-57093887"
-webUrl: "https://www.bbc.com/news/av/entertainment-arts-57093887"
+originalUrl: "https://www.bbc.com/news/entertainment-arts-57093887"
+webUrl: "https://www.bbc.com/news/entertainment-arts-57093887"
 type: article
 quality: 84
 heat: 104
@@ -60,6 +60,6 @@ related:
         height: 472
         isCached: true
 
-secured: "p8t/zj1tUKfkzLZUUK5E8AzHiFSEdt7w+t0DqZCBjI6BSotR00ILdvagwwCuQM4plkumoZdJqTkOfZFD6VT4Y9AKbj2dO6Pt2/qI3qSGKd9tljVQjp1TsBs8+vGsKMew9GWRnAisy79PsJOfCKXlO3pWdIdBzCqnbnpy/KbH67v3eAg/VMpsFY9xV/BatiIZl5beLlK9k1avuTtKKfXYioFgjyyToZBBweOwB8WhnBSm31RD2BqyiMmoJ5dsfsXK7jZYYI0yrHcDBHNTxM5uIFGsPrfaggVsap25fNRPSWZoelr45exNMERQXwzfDeg51nZVV1M86GhigW0WJkAkQQ35cGRUUzByMsoRL7nXh9E=;ClScvmOjmsgQC9CnkSSyMw=="
+secured: "j4xc5g5r+Vm5J4+6PwDnZrJeOb0soiaCQK4io1gUMbK7BdLN2hltziH1N8IBhbLTnlUUJenbSfvkNXIFKwFUKBC95ykau8XkyU7qH5PrEoxQWyMMGS8RGKK46YsI2CMfX6EIvvhjnJhAlEb5wYjbyE8q8qqXKcsGYzWlWWOc8lO+peofXI/qofT9KC9GAdQT12OlElQkxszc6192obMVNpzCQrAxlRsPbsL7YzrLSLMy0nBFF9lpI9XWXGT2DB4l7uItWEF29JNWviSedjf5FGjROtBPaRlawgBK5o+GUd+1/T+nfWO35eQUkbbVf7i+Ifsj4f3++oDzl5eGm2NKTXp+5rlpyITHlRBO7MYzJDM=;OBaP/txDGyWfi74izpdU0g=="
 ---
 

@@ -2,24 +2,24 @@
 category: news
 title: "WATCH: Self-driving car flees from human driver after getting confused by road construction"
 excerpt: "A self-driving taxi fled from its human driver twice while on its route after getting confused. The vehicle, operated in Arizona by autonomous driving service Waymo, became bewildered when it approached a construction site."
-publishedDateTime: 2021-05-18T17:03:00Z
-originalUrl: "https://www.kmov.com/news/watch-self-driving-car-flees-from-human-driver-after-getting-confused-by-road-construction/article_b924fc9a-9a23-5bc9-9bcc-4812565732dd.html?block_id=1057681"
-webUrl: "https://www.kmov.com/news/watch-self-driving-car-flees-from-human-driver-after-getting-confused-by-road-construction/article_b924fc9a-9a23-5bc9-9bcc-4812565732dd.html?block_id=1057681"
+publishedDateTime: 2021-05-18T17:02:00Z
+originalUrl: "https://www.westernmassnews.com/watch-self-driving-car-flees-from-human-driver-after-getting-confused-by-road-construction/article_3b8f9c48-135e-5bdb-909c-37373b14901d.html?block_id=998091"
+webUrl: "https://www.westernmassnews.com/watch-self-driving-car-flees-from-human-driver-after-getting-confused-by-road-construction/article_3b8f9c48-135e-5bdb-909c-37373b14901d.html?block_id=998091"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: KMOV
-  domain: kmov.com
+  name: Western Mass News
+  domain: westernmassnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/7a/37aa2b00-75b5-587b-914c-7d2fb1ed5a8c/60a3e5acab6da.image.jpg?resize=640%2C360"
+  - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/9/19/91934915-803e-5a11-a07c-96fe3e4d71ff/60a3e57a5b3d5.image.jpg?resize=640%2C360"
     width: 640
     height: 360
     isCached: true
@@ -92,6 +92,6 @@ related:
       domain: realclearmarkets.com
     quality: 19
 
-secured: "NT289ZRsDwHk+wzKuDN+IIS1u319W2usa29eqG9UEAciqGFl+vUo7DgIMRl4QZN1aPmBu7OxJzrKK7+uT3PvgOSeXUm3oYtFyE+kBE6SFjTfSkKQyco5KWOfp5FHZJWVN9iSKADfr4fA/fVfhGC0kd18vjDKSnHqO8UIgUyxpT6+dBUmrLgp2A/cfuiKn693golYBdUDVlCcnHE7Hh12EMCW0SD66ccxsRu1JxA0SAcPnZtEvEI3kiQN6Soy5tpGauEQOnig/5ag6oEsnIPclJSKYomWSGjYWq2ZtoohYcXb4Ze2kt56Ro+TSSs7XMw0cV7iFCmUHMhli2ERcIeRj89bx6js8fJhMK4M58Q9bOBc96hyqd0a7qnctpnHHIGuTGJBxM44S/lNzKReU+jZ54y0G+fHa2/8+6OeF+axaheVsZk9L4V4sxZA4Bg83JDCeazoShGwKdIfWFSi4+eC7VscMEHxgvQzWJrx2d/++n1UQYM/BpDAwCo0Vak0D8YuQnczI/CdHdegFwcosIODUw==;sH/vqSZjWPfyJT35MpD+2g=="
+secured: "fTrVA/qC+XgrxB/tsPEZJ9CYa5Rjpb6U9E/TbA11jLwXaYwzZ03TVv4g1AR7OQR5nSFSo2laFv30ywnEQ+D0syt46+djQ7+gee+PdedbsEYATqy0tmrT6K/CNTYktjgaYCYDMGjIBHMJRTBoGmg6N1jxxRChiva47LcYBHdWuH83KbN+Uf6NzsXsqT9qZiVphayxrbm82bKeFu3Y3hYMbEO1NoufKbz+qYznUQbonHW4ZNRQZgqwQnqliFNt0/1Ynz99Frq4LrMz7c7hAz1VbopaG2h6Mh3cGcon2cVBCWdcexEYCcpjKe2D6zSxLEfHhcLYWSA1WHogvpS04YM2l+HdzPviDAv9bStqRl9he1I=;XxruL+kaR7uRoXAExW5d/w=="
 ---
 

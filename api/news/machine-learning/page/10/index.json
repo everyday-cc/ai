@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-03-can-deep-learning-replace-numerical-weather-prediction.md",
+      "title": "Can Deep Learning Replace Numerical Weather Prediction?",
+      "excerpt": "While some wait for the exascale era – and beyond – to brute force punishingly accurate and complex climate models into existence, others are looking for a deep learning-powered shortcut to the same results. In a paper for Philosophical Transactions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/",
+      "originalUrl": "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_us_weather_hurricane.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-from-perceptrons-to-deep-learning.md",
       "title": "From perceptrons to deep learning",
       "excerpt": "Have you ever wondered if it's possible to learn all there is to know about machine learning and deep learning from a book? Machine Learning--A Journey to Deep Learning, with Exercises and Answers ...",

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Vertex AI unifies cloud machine learning toolkit"
+    excerpt: "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API."
+    publishedDateTime: 2021-05-18T04:41:00Z
+    webUrl: "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html"
+    ampWebUrl: "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Less watching, more learning: AI enabling a smarter world"
     excerpt: "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life."
     publishedDateTime: 2021-05-18T12:45:00Z
@@ -41,49 +57,21 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "12 Use Cases of AI and Machine Learning In Finance"
-    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
-    publishedDateTime: 2021-05-15T18:51:00Z
-    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
+  - title: "Google launches Vertex AI, a fully managed cloud AI service"
+    excerpt: "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio."
+    publishedDateTime: 2021-05-18T19:45:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth"
-    excerpt: "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time."
-    publishedDateTime: 2021-05-18T09:30:00Z
-    webUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/"
-    ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 62
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Army hosts global AI, machine learning event"
-    excerpt: "U.S. Army researchers hosted an artificial intelligence and machine learning event May 4 that garnered the attendance and attention of hundreds of researchers. The event, Machine Learning for Everyone: May the Fourth Be With You,"
-    publishedDateTime: 2021-05-17T00:00:00Z
-    webUrl: "https://www.army.mil/article/246398/army_hosts_global_ai_machine_learning_event"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 54
-    images:
-      - url: "https://api.army.mil/e2/c/images/2021/05/14/0cb90134/size0-full.jpg"
-        width: 640
-        height: 438
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Google Debuts Shopping Graph, Machine Learning Tool to Make AI Easier"
     excerpt: "On Tuesday, Google Cloud also announced general availability for Vertex AI, its managed machine learning platform that brands and other companies can use to speed up deployment and maintenance of ..."
@@ -113,43 +101,20 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Machine learning for sperm selection"
-    excerpt: "Machine learning, an automated method of data analysis based on patterns and inference, is increasingly being deployed within the health-care sector to improve diagnostics and therapeutics. This technique is already aiding embryo selection in some ..."
-    publishedDateTime: 2021-05-17T14:25:00Z
-    webUrl: "https://www.nature.com/articles/s41585-021-00465-1"
+  - title: "Google launches Vertex AI platform to help companies adopt machine learning operations"
+    excerpt: "Google LLC is helping companies embrace the idea of what’s known as machine learning operations with the launch of a new managed platform today that it says will accelerate the deployment and maintenance of artificial intelligence models."
+    publishedDateTime: 2021-05-18T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/05/18/google-launches-vertex-ai-platform-help-companies-adopt-mlops/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41585-021-00465-1/MediaObjects/41585_2021_465_Fig1_HTML.png"
-        width: 685
-        height: 245
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/MLOps.jpg"
+        width: 1057
+        height: 672
         isCached: true
-  - title: "Using machine learning to predict high-impact research"
-    excerpt: "An artificial intelligence framework built by MIT researchers can give an \"early-alert\" signal for future high-impact technologies, by learning from patterns gleaned from previous scientific publications."
-    publishedDateTime: 2021-05-18T12:39:00Z
-    webUrl: "https://techxplore.com/news/2021-05-machine-high-impact.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-machine-learning.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Democratizing Machine Learning to Empower the Modern Business"
-    excerpt: "In this special guest feature, Adam Carrigan, Co-founder and COO of MindsDB, discusses how the democratization of machine learning makes predictive analytics accessible to companies of any size. While machine learning makes a transformative impact on the business world,"
-    publishedDateTime: 2021-05-17T13:08:00Z
-    webUrl: "https://insidebigdata.com/2021/05/17/democratizing-machine-learning-to-empower-the-modern-business/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 21
 
 secured: "88i9QqqOtwcxTweTfrBF+21urF5wTFYraOkzkmHpGJ3Iu8f1ZURzfqJZpHBGK55TfOEqsEg4Tjmh7awjNUAyCg4rnx8wItVhANXxTQoCnHtAhUUijANZ/Cl6rbRz/WxloYKF5HhyRcym4Vz9C94V8X4sMB4/IFEhUDvNoVrUR3eBXophnrhln2C5wvTdfzqnFXc1S7rS43cin9iYhQK+GlyOU1KfETsZ6pM0DPkCtkWiXoO1iIXBhR4XcVMwPF+iJziDpBrTA+GYIiWnsmrRRro9Pt2odTSX2SpnmGie9asLte3WeH3QZ5ghcv8ZyN+ze3vZs09D68p8y12aEhMmtmc0ikz2eUI4BOx2zTjc1nc=;XaWcAaBxJKOecVKxzO73LA=="
 ---

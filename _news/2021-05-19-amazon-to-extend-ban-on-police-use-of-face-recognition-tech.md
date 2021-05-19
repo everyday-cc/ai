@@ -203,6 +203,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Amazon Indefinitely Extends Ban On Police Use Of Face Recognition Technology"
+    excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters"
+    publishedDateTime: 2021-05-19T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-1030445472"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Amazon still won’t make its facial recognition software available to police anytime soon"
     excerpt: "Amazon place a one-year moratorium on police to block them from using the technology, coming at a time when other technology companies either said they wouldn’t sell their own similar product or stopped the development of such products."
     publishedDateTime: 2021-05-19T03:13:00Z
@@ -284,6 +293,22 @@ related:
         width: 3000
         height: 1941
         isCached: true
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
+    publishedDateTime: 2021-05-18T23:30:00Z
+    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
+    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
     publishedDateTime: 2021-05-19T03:55:00Z
@@ -320,21 +345,7 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:55:00Z
-    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 19
-    images:
-      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
-secured: "vu/LTwOR9/PwMSvpugxTZGfSXp5fKaVj9obItuM6AkXK3B3pNZWim3DfjCsYj+P4SejelgopMo4wXBi5BgSSPxi7f1ftamxDaUXH5pMx+i7huS4sc3zh/pLK75DcYVLWXxb5X0BPamyc10TQDsGclOe2KgQaTJo7cP+CHKMbgdpiK1udH7Ev8j8eE4nnNMEJIJZ6hZmcuRf3hjO7SSERPYL9Grw9eF6fnUV4oNe9TGEnDrcvrtntrJW3WDjJ1lnoahLBR5tKDTWofgGBy87LyYfMoJq4PeKqVnOffEqSff1WTUwb1JICfYEvtG7HUt6AW1RemcGkSfSaQxwoQX87uU5LEZ71fEINOdBRKAfzkR8=;d7dyzeEkIyvxZOKRbSy5Uw=="
+secured: "ItczhICJ+/Pm7Hp3QOa71Qwxd6goKnQWKIhfhs6sMAqUxxEndMDW+albh8LGkOpA3YFO8BIQa0IBmHNLOM774BUYqpDwfVvpNrmphH4Se3uuAIYJewh5wA3GRmTbmaWYG2YxEyCc9y031yDlXFMAOcYjLXtymrT4igFkHyyQ9iRSzL0HjdgDJWtIJYJN7acYP60d0yVOOd3tLeP+8pEoIMsEynMNeq2DYE2WKY0d2H4Q+J+o/ZxpRTdmqrgby7Fzfrs/m2Fb7/9Im1AUXJl5sRl4Eis8aFyr4R5+kijZZL0ILulqH7uUwhriLyrwaRJNqyGNJwsCPXWL5ZhEFKaS/k2aMDsh7Sg4dxUDv/POJ+9K7WT2kMwd2jLMiQKOq27HfyMy4HhcYA4IfjENG9jt+e+cS0VP02k6FtKaMhj6vzJEZe5tszkWP+/r5ylvfo7Pg7g9y+Gypq+i6OIyzspHPb9WpbJ71iw08yqE9CkDUr0K0iohwaxTNlynuQhsj+rl2SRz3DVbzmQ/yVGnUHOHXQ==;Qa10qgGbUAwFuvfc6Uu+qg=="
 ---
 

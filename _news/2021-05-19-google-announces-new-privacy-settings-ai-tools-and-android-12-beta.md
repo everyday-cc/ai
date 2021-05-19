@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Everything Google Announced Today: Android, AI, Holograms"
-    excerpt: "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights."
-    publishedDateTime: 2021-05-18T19:41:00Z
-    webUrl: "https://www.wired.com/story/google-io-2021-highlights/"
-    ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
+  - title: "Google Search brings more AI and AR power to your fingertips"
+    excerpt: "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for"
+    publishedDateTime: 2021-05-19T03:15:00Z
+    webUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/"
+    ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 89
     images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/Anchor_Blog_hero_v32x.max-1000x1000-1.jpg"
+        width: 1280
+        height: 800
         isCached: true
-  - title: "IBM Think 2021 Conference: Innovations in Hybrid Cloud and Artificial Intelligence"
-    excerpt: "At IBM’s Think conference, the firm announced its advances in artificial intelligence. Hybrid cloud and quantum computing were also highlighted. The objective of these innovations is to help IBM’s clients and partners accelerate their digital transformation or improve their strategy."
-    publishedDateTime: 2021-05-18T07:17:00Z
-    webUrl: "https://www.actuia.com/english/ibm-think-2021-conference-innovations-in-hybrid-cloud-and-artificial-intelligence/"
+  - title: "Google AI Researchers Are Dreaming Up a New Species of Search Engine"
+    excerpt: "Imagine a collection of books—maybe millions or even billions of them—haphazardly tossed by publishers into a heaping pile in a field. Every day the pile grows exponentially. Those books are brimming with knowledge and answers."
+    publishedDateTime: 2021-05-16T23:24:00Z
+    webUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/"
+    ampWebUrl: "https://singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/16/google-ai-researchers-are-dreaming-up-a-new-species-of-search-engine/amp/"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 33
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 57
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/05/conference-think-IBM.jpg"
-        width: 800
-        height: 400
+      - url: "https://singularityhub.com/wp-content/uploads/2021/05/internet-engine-network-metal-strands-circles-central-post.jpeg"
+        width: 1408
+        height: 792
         isCached: true
 
 secured: "N3L0VsKjbV19eeLfcLoVZeM12qZHDEWEtqmE3gE14bGZ1YloGPYDO+BhswEAa0wqDNpB7cnOC4+dnKpkzZlXlgXRkCmgtvtUE2UgWR4D9HBYxZhQltEEExl377ZxXimp98asYr9Pb88Pd44SrForLs4z7s8OI4Wwi1Ibem02hbMCZMJqQF4HFKiLf4ShrDs//RQCOjYtpivT1hFH0xCP1ZhUJeFZE3yRQ5HxZmVOA6+WxT54AlDKo680XmmOnSiGF++OX1FEXIpN5F2ilfFrFDlQi3YA++s/CBiEpCDngbAOfhV65Xi79RLMd+fLd1LFk2uxNC+ugLgB77MHZWScp4zVxsivHYhXFslcMlNWNT0=;SM9Al20/bWnS+8J6PnuIHQ=="

@@ -79,6 +79,34 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Google Adds a Suite of New AI Tech for Photos and More"
+    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
+    publishedDateTime: 2021-05-19T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google unveils fourth generation TPU AI chip"
+    excerpt: "Google has announced the latest version of its custom Tensor Processing Units AI chip. At its I/O developer conference this week the company claimed that the fourth generation TPU was twice as powerful as the previous iteration."
+    publishedDateTime: 2021-05-19T10:24:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-unveils-fourth-generation-tpu-ai-chip/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_4.width-358.png"
+        width: 358
+        height: 217
+        isCached: true
 
 secured: "ILSHK2c3nAr+E01Jq1a0lpqYVql1Pt50YtrDrGZGAKln/GBE+Oz7EMlW0JpdnwNdxOoBBG7RuY6LGF+0IvMn4Q5k6DWx5sJNiIOYnqTQ5k8wTKl+5SsEo3PN7NLrgf1hRSljHyDuwTwUqO7F5tbj5XAA20myI1QrP/wfELan8EvxiNtGFTIafZO4hbHmF22g/HYh5t6F5nQFCNUbzw6+siLmpl18It5lyK9hKhKa4yjD+lgc72vreXJ023Aq9KloG+zhF1RXpQ43UUSkCOJ4HVJ58h+uJ1LwrM4wzRCpp/GG9ZFU3mnwcD7WysWzLl7N+QRmm9NfsZQiL/4+tXkDgp9/veZkHGGOlFLj+GKBiLHgn1JSEsTN0bSiLciVAHBT3aAjuLJvVaeRnTyiXoUTHacKF5FTOYmhqM0Hu3MHHMMCMDeICvc4pe6dwWCU61+bI+J+WZLuJ/uOYD+DCHVCP25M0p8ltD9iS+hboEvBKJQqPhM/TeH4Rc2Mxfb0CztBz+83ZRA8k3fpKbOUdU0jqw==;Lef/5VnhPEhR5STba/SMWQ=="
 ---

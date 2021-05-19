@@ -10,7 +10,7 @@
       "originalUrl": "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -262,7 +262,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -479,6 +479,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
+      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
+      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-security-challenges-within-the-fintech-sector.md",
       "title": "Security challenges within the FinTech sector",
       "excerpt": "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?",
@@ -520,40 +563,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
-      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
-      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8233513/ai-fintech-firm-riskfuel-expands-into-insurance-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {

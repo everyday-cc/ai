@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -79,6 +79,34 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F05%2FGoogle-Launches-Next-Generation-AI-Chip-at-Developer-Conference-a.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
+        isCached: true
+  - title: "Google Adds a Suite of New AI Tech for Photos and More"
+    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
+    publishedDateTime: 2021-05-19T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google unveils fourth generation TPU AI chip"
+    excerpt: "Google has announced the latest version of its custom Tensor Processing Units AI chip. At its I/O developer conference this week the company claimed that the fourth generation TPU was twice as powerful as the previous iteration."
+    publishedDateTime: 2021-05-19T10:24:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-unveils-fourth-generation-tpu-ai-chip/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_4.width-358.png"
+        width: 358
+        height: 217
         isCached: true
 
 secured: "6FHywE5r8StziNiCzIGGS2ew0Hb1GYOFz4vGcoMJhjCvE0KEf6jTdGazRQBOAT0qmgvCgCS5Hqw2r8gPqDqYXEqJch6tjKTkVJttuS+hBjfjU/smDboIIQRP0J4zxD/0bLP5LtRjhDnq5BBxMeoPHZGuNkmK5q63hysU1o5ihOaTRAPjgmw2sq3NxK7SM9H3j1obrZnNJshKHc1xWoxl6xFSBsjsHTkpde2v6W/owHNTkASNlcIh232ASutnAdc/1inCGpswlSSwS/39L8bGXslFmHSFyKFbPJJhMWvmzvjZVJKTrjVpMZ8jVE4E3inT7nss1n9sY3pv492c6oEiTuZj6DsJUq6DIQQ9IyQcjI8fdmPErqHU7oD3Vj2WVp+paP7yv5ibEHQQ6WVst2UiVItbwb+Wg3E4TaSv0hxkgimDVCQfPtjt/+pacisuCHTwJD86aiRKiim5hQiOjadIUyPHRLrgEr4tWe4PTkqHQZlt5PRvKaft6yPzW9e5ADWSPUAeu4MDmRw0vu4rkNH5YQ==;g1XkcS89wI16lihGOlIGuQ=="

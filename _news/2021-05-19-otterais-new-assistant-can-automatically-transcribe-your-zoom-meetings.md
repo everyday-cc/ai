@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/amp/"
 type: article
 quality: 103
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 480
     height: 360
     isCached: true
+
+related:
+  - title: "Otter.ai automatically joins and transcribes calendared Zoom meetings"
+    excerpt: "Otter.ai has announced a new integration that automatically joins, records, and transcribes scheduled Zoom meetings."
+    publishedDateTime: 2021-05-19T09:53:00Z
+    webUrl: "https://venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/"
+    ampWebUrl: "https://venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/otter-ai-automatically-joins-and-transcribes-calendared-zoom-meetings/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
 
 secured: "yH3UWzKEpKxSzhmxsJUhHUa4vxnxxiQSea5NWrY8TI2mJTeRi4M7eYwAooqyxD0XHvCubBRDC1+Ax1ICWizTHoKF6P8eJIqsambwHiINu7jcTolx11sG01CN2nn/r7VrfMp4pUx8UYDrXs/Rv4bqNLI09hwytmfF029tH5MiPl32877jfWtwYbZe+rM8u3Yw7TB7TIFWhy3Tvz2sESu7pKGVIDgq7aw4xoNO6hzf3Q0my0TlmZsXasA6lvk2Cu23mlMkLpIE7I0U8SzN9Zy+NmOqfA7LQw7teiTOYu/1L1aO49V18CBgFW5dOuw3dTW8h9/Al/GUWPas/5h0CGn2NfxNbzyUfJTY2RewZuW/ehQ=;GrBmYk8ZE7YpgfXl78Ix6A=="
 ---

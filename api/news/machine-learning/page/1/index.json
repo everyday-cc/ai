@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -51,25 +51,26 @@
       "topics": [
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
-      "title": "Less watching, more learning: AI enabling a smarter world",
-      "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
+      "path": "_news/2021-05-18-use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth.md",
+      "title": "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth",
+      "excerpt": "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
+      "webUrl": "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/",
+      "originalUrl": "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
+          "url": "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png",
+          "width": 450,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,23 +78,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "publishedDateTime": "2021-05-18T05:45:00-07:00",
+      "ampWebUrl": "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/",
+      "publishedDateTime": "2021-05-18T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -102,6 +94,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI",
         "Machine Learning"
       ]
@@ -137,6 +130,58 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
+      "title": "Google Vertex AI unifies cloud machine learning toolkit",
+      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "publishedDateTime": "2021-05-17T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1405,59 +1450,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
-      "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
-      "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-2928-Architecture.jpg",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T09:23:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

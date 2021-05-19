@@ -3,8 +3,8 @@ category: news
 title: "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets"
 excerpt: "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI"
 publishedDateTime: 2021-05-12T09:17:00Z
-originalUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
+webUrl: "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 355
     isCached: true
 
-secured: "yn8S7HjgGplr0D17mxCXKaFX6dBJY48q40JaSD6fntl/aPwy8Sv2DwK75DH/j1yviyO+xeLeeYRtNNE6LC02rj6kfDyeTOcF44yR72qA7sbOIdutDQNDhx38coEx1ItjxLZGIOE+sCGTbGd7k76KF/yEjrM+6qy3wynpDq7KsL1z0uFVACzAev2VyIyyVM/fmVSKo2eLWE0Y7xI/EkEAVLasX4qyOtfTQIxmuUzRdGivqanrNfwAD0XS3BZzIQxRfGUhd2VJr6JHF/lH9hFDXpUl4mvta9ZzphFexvpLnQ8d2WqMMC2iuFWPrA58VhQudK34G3B6/pAmY+Fn1fL74JmeWSZTlOChpLBDnKdkAn7juP3aeIfaul90Oo4nwDaHOyxcLoRpbtIYcYALOx42Xv2u0LiQgEG7nHpVcuCIEgoaQNYd0xhyefzBNUp7wwzjlEf84ct+nEQdul3A3icEWodJvgYz1yQreiI14gnjYRls/tRW8vt6CDkrjJaj5R++5n5Ndv9ZdHj1UHSlg2Z9jg==;/8f6FNYWSY+UFsPoIYCTfQ=="
+secured: "xVnLb13Xb+zhuC3vFXIfTHOwnZoriqy9ZzlGkXaaFZRy03qIAQWO3pVlPo6ChrLJCvs6N0IXM6975WFan1qsdc1CCo8i8P/rEG4Y1PBivQbfdyJY+/OT2IS8mF/wxc0N8+kbwlbz9h1b3n3KEwzUUgjbZJE+UtjavVQiy2V6VH675mPbO5Acv5Uc7BODEt2rd4W5Tp7yFA78hFSUMDqztcGYGb9E7eOqjcJlTnk893ihGsWp4imCy0tBW5dmE1CtaT1JxB7UkcDhaeTMo863cYgwgu3rIYiYhW+E19QSHrwvy+vGqFPaA0Cfs/7ugkhI7WX0dePGK9vmCHmk5gc696dK6Hpv132cRHAKOQ5KC04=;Zv/mMY+PiuWSgIfS/LD/2A=="
 ---
 

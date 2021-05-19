@@ -30,7 +30,7 @@ related:
   - title: "Robot artist Ai-Da self-portraits go on display"
     excerpt: "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp."
     publishedDateTime: 2021-05-18T23:42:00Z
-    webUrl: "https://www.bbc.com/news/av/entertainment-arts-57093887"
+    webUrl: "https://www.bbc.com/news/entertainment-arts-57093887"
     type: article
     provider:
       name: BBC

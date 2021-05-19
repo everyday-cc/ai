@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -63,7 +64,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/19/otter-ais-new-assistant-can-automatically-transcribe-your-zoom-meetings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -166,7 +167,7 @@
       "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -206,6 +207,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan.md",
+      "title": "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan",
+      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512747/image_1.jpg",
+          "width": 362,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -253,64 +306,12 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
-      "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
-      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics-1030443865",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics-1030443865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512713/Photo1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-robot-artist-ai-da-self-portraits-go-on-display.md",
       "title": "Robot artist Ai-Da self-portraits go on display",
       "excerpt": "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/entertainment-arts-57093887",
-      "originalUrl": "https://www.bbc.com/news/av/entertainment-arts-57093887",
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -365,7 +366,7 @@
       "originalUrl": "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -504,6 +505,57 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-everything-google-announced-today-android-ai-holograms.md",
+      "title": "Everything Google Announced Today: Android, AI, Holograms",
+      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-io-2021-highlights",
+      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
+      "publishedDateTime": "2021-05-18T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-watch-singing-ai-blobs-rock-the-house-with-tune-yards-at-google-io.md",
       "title": "Watch singing AI blobs rock the house with Tune-Yards at Google I/O",
       "excerpt": "The blobs are back in town. Google opened its I/O developer conference Tuesday with a performance that felt genuinely innovative, and actually fun, from the avant-garde vocal and electronica artist Tune-Yards — and Google's own Blob Opera.",
@@ -554,7 +606,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/18/amazon-indefinitely-bans-police-use-of-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -647,109 +699,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-launches-vertex-ai-a-fully-managed-cloud-ai-service.md",
-      "title": "Google launches Vertex AI, a fully managed cloud AI service",
-      "excerpt": "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
-      "publishedDateTime": "2021-05-18T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-everything-google-announced-today-android-ai-holograms.md",
-      "title": "Everything Google Announced Today: Android, AI, Holograms",
-      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-io-2021-highlights/",
-      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
-      "publishedDateTime": "2021-05-18T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -915,7 +864,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1243,6 +1192,58 @@
       "ampWebUrl": "https://blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/amp/",
       "publishedDateTime": "2021-05-18T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-unveiling-our-new-quantum-ai-campus.md",
+      "title": "Unveiling our new Quantum AI campus",
+      "excerpt": "Within the decade, Google aims to build a useful, error-corrected quantum computer. This will accelerate solutions for some of the world’s most pressing problems, like sustainable energy and reduced emissions to feed the world’s growing population, and unlocking new scientific discoveries, like more",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
+      "originalUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1_294_R01_1_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/",
+      "publishedDateTime": "2021-05-18T10:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

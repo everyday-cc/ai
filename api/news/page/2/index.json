@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-18-unveiling-our-new-quantum-ai-campus.md",
-      "title": "Unveiling our new Quantum AI campus",
-      "excerpt": "Within the decade, Google aims to build a useful, error-corrected quantum computer. This will accelerate solutions for some of the world’s most pressing problems, like sustainable energy and reduced emissions to feed the world’s growing population, and unlocking new scientific discoveries, like more",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
-      "originalUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1_294_R01_1_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/",
-      "publishedDateTime": "2021-05-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-18-lamda-our-breakthrough-conversation-technology.md",
       "title": "LaMDA: our breakthrough conversation technology",
       "excerpt": "We've always had a soft spot for language at Google. Early on, we set out to translate the web. More recently, we’ve invented machine learning techniques that help us better grasp the intent of Search queries. Over time, our advances in these and other areas have made it easier and easier to organize",
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -414,7 +362,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -675,7 +623,7 @@
       "originalUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -707,58 +655,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
-      "title": "Less watching, more learning: AI enabling a smarter world",
-      "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "publishedDateTime": "2021-05-18T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -927,7 +823,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1064,6 +960,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth.md",
+      "title": "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth",
+      "excerpt": "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/",
+      "originalUrl": "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/",
+      "publishedDateTime": "2021-05-18T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1262,6 +1202,58 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
+      "title": "Google Vertex AI unifies cloud machine learning toolkit",
+      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "publishedDateTime": "2021-05-17T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

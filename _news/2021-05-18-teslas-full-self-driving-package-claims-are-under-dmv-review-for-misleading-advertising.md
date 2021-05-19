@@ -63,6 +63,20 @@ related:
         width: 2500
         height: 1628
         isCached: true
+  - title: "California’s DMV taking Tesla to task over misleading ‘self-driving’ claims"
+    excerpt: "California's DMV reviews Tesla to establish if the company is using misleading advertising regarding its \"Full Self-Driving\" package."
+    publishedDateTime: 2021-05-19T10:00:00Z
+    webUrl: "https://thenextweb.com/news/californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 82
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FTEESLA.jpg&signature=61a3a55a92e03b82bd654a0328ec9c61"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla self-driving claim in question: California DMV"
     excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
     publishedDateTime: 2021-05-18T19:47:00Z
