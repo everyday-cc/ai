@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MarTech Startup Affable.ai raises $2 million in funding"
-    excerpt: "Singapore-based marketing tech startup, Affable.ai on Tuesday said it has raised $2 million from Prime Venture Partners, Decacorn Capital and SGInnovate. According to the company, it will be using the funds to expand into international markets,"
-    publishedDateTime: 2021-05-18T06:13:00Z
-    webUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding-11621317830020.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Bad Robot Games Announces $40+ Million Series B Raise Led By Galaxy Interactive Along With Horizons Ventures And ICONIQ Capital"
     excerpt: "Bad Robot Games, Bad Robot's video game division, announced today that it has completed a $40+ million Series B raise to create games that are as compelling to watch as they are to play. This round was led by Galaxy Interactive,"
     publishedDateTime: 2021-05-18T16:26:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "LHoFT Foundation selects 14 fintech startups to showcase financial inclusion in Africa"
+    excerpt: "Building on the success of the 2018 and 2020 editions of CATAPULT: Inclusion Africa, the LHoFT Foundation is opening tomorrow, on Wednesday 19th of May, the third edition of this unique program of Fintech startup development."
+    publishedDateTime: 2021-05-19T01:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87685/lhoft-foundation-selects-14-fintech-startups-to-showcase-financial-inclusion-in-africa"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 16
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "4a/k6f41vHZ15S7yfiRnnKoSp3DXq+LVdEHqy+qFA+ckbVPstVUzBRqjPj/Lut6Q0GQnAPkpMSN1gzfQHRbYj40zA7Hf5uwLkW2wqPQFdJ488bJEN8jPK5buIu1nTAvxmBnWrBipwBjtx/pj9v8F5bPA8P8NYHaJDOw/wsgTSyM+MZRCgExWB8TyX9/6Nf6dWHEVNF4XjMFJnXV/O5lqHjocE7wk3onNmF6cW13/hG38u9U/LNOfayIZJLBARKbaCtstoLXxeSU5DST2h99BeTLbgfVm0aAB/nLAWr5vfNLRnYVpi7NHpKaEPlNlvbdmu63YSZbuAOAHwgAzx8ruu7ZwLwME9lIQNWqqL/LiLKhE7FOx2eQ8WHCvX1Ha4bmKsMXtifC8LeQK08K+iksw83LQNBSWeDolnG7i5qyB2mOE/uZ2fofpklKXkvnUnElCyFM5IyoIlWFCMtT7avmUtRqy0Rj0TQJC7q8i+Up+mbpz4/1pcT4WPWSkrmsIrmgcoXIjzkVBsdWRs9LQXAA7EA==;i0bACj7XV4I8qB/F13Ou5g=="

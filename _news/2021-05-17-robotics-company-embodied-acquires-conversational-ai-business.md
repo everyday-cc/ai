@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robotics Company Embodied Acquires Conversational AI Business"
-excerpt: "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans."
+excerpt: "Pasadena-based Embodied Inc. released a product last year called Moxie, an artificial-intelligence-enabled robotic companion for young children. The device — which Time selected as one of its top inventions of 2020 — is designed to support kids’ social and emotional development through interactions themed around concepts like kindness,"
 publishedDateTime: 2021-05-17T07:07:00Z
-originalUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
-webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
+originalUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/"
+webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/"
 type: article
 quality: 69
 heat: -1
@@ -132,6 +132,6 @@ related:
         height: 1054
         isCached: true
 
-secured: "OlBjNGRemv+tbQK6shedcwWI3llZ5WiY+mvRMRxSnmj1koZ2Eb5KI95aqUvDd8dxzgiCmpN4ABHsSf7s59VhoLGKiFsXF2mng2LjkMMeTN6Ob3jJgZnPBrj4S2ZLBP3V87NC+Kphr4Ucq/fCFaWr+eqtNb6BPK1Ts+mboMkwD296cxi+5VO4+u5ak9h2IAJhCbi8ewHhIwG8mQhCT5+A2bGjx+P+8oRx2nhrAmLk6Hq5c0u3LtLfAJk/aeGnE8Mvgsk2bUdiQ6HOlPdldghsh7Wqqb11w25z4iPV7XzIE+xE7Q9F2440XQBXeZ6bgPwSH83IqehJPeYqciWWS0u/0GTZXzWOzkmQ9HoNw+XbTy/+1i0IVHLZNoMEWihWaVo4Ssz11l8RjhwWk1yrhNyjNePaXhp6ewK1mtQl8MVpdNZZznYvr2zistd7LqTGJrGRVYT1xlRQqMj9PxmYDSB9r4Rdw3C5dG8qkeBWRPI8D2D2IK5XW3vaIpBA0HXWlRnKxk1seYyYmHuLVXuYUshiQQ==;adqRhMl20US5ERuIa4XBiA=="
+secured: "9Rw+9CYgi+aT9BcHlwdZndE7cEna3o2MSlOii2ussTsy/mijJ45eVdxzFH74GYHlredDgZuHLfXqUKfzKY2s4BY3JoSPKvtrUkZ2sAwUoI3VTIeElSp/GOPrYoCt6HSBSjiXitbjCkyEK7IkErU67hNkBrxl2QJPsfpnH4bTReQMNToNu++w/z5xDXHfATcdZ56Uc4k2LRMOhW63DcGo5waP64glvjXFoh4DKh7voQ1Ywud5rpNrSn2rEvIurajG4p+CXG64WW/yOnv0gNSpDA3KQQ+cWGSvItyVKs27Cawv/U5VFCQUe2DOCLO1FVQhJc5ydIXceMbjhQd5fVwszk7EgpFFooX1fZNZGaeyG30=;gfZ6iepFn9Bma03xnf15/g=="
 ---
 

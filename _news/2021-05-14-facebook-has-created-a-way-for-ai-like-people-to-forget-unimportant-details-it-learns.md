@@ -89,6 +89,20 @@ related:
         width: 708
         height: 324
         isCached: true
+  - title: "Facebook's \"Expire-Span\" Gives AI a Human-Like Ability to Forget Information to Boost Efficiency"
+    excerpt: "Part of the path to \"human-like\" memory in AI systems, Expire-Span gives information an expiry date to boost system efficiency."
+    publishedDateTime: 2021-05-17T16:29:00Z
+    webUrl: "https://www.hackster.io/news/facebook-s-expire-span-gives-ai-a-human-like-ability-to-forget-information-to-boost-efficiency-17fa64dacdb5"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 26
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1299234/_eFx38beMYN.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "tMBLJpRFkEyrbsF5ig8D65zgvjJdxKqtDCMBk0IIAXgFpurOJMYY3VzEoybEKIhrgH9nGGf+nYVlQ61eNBkCFPxXydCBn+C2A5lqnEsfYRdJzBYUtHqhkxBOsgqUKPV71/OaTVCu0c3u80d3jm3t1yi2pXNppmCAsv5SXmdP2FAsa2g3vFR/vEgXq3m5UhLgXDtCSfNEcfzfMEhzIBS+XXcYUrx9MO5Q3iKQ6UOo3Uq8+KsYwnEkAP9LIBQGmWPTGDTkqbSGlUeH+9qJ8/HhqIAWIiGBUEXjlX3JVLAsf/q/Kreatz2UbDhb4wdZ2OGGUE9aLRF2ejP/TBsAhtKMxx7/qtlydlSp4mbZGHi9oCNVVqHdEgMPvQ8DU46uexipDcXfu0bjOhRVl/6nRIaqAH8QDLid1QlvUJ9oNyQeMT0QCPyzM+Y2BO+RkTzHEqHWKqliits6I1I21gNgiY5MxPV+LPGzTe6J1HO2nghw3dr6YoerQlIWlVhi3W3vNnMB3P7LpK7wHfDYusSXYcsq+w==;yd/xqPikxENNyBHGc2wSfA=="
 ---

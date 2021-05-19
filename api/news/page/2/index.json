@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-18-father-and-son-duo-take-on-global-logistics-with-optimal-dynamics-sequential-decision-ai-platform.md",
+      "title": "Father and son duo take on global logistics with Optimal Dynamics’ sequential decision AI platform",
+      "excerpt": "Like “innovation,” machine learning and artificial intelligence are commonplace terms that provide very little context for what they actually signify. AI/ML spans dozens of different fields of research,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1231045075.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
+      "publishedDateTime": "2021-05-18T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital.md",
+      "title": "Fintech startup Vise raises $65 million in Series C led by Ribbit Capital",
+      "excerpt": "Vise today announced a $65 million Series C financing round led by Ribbit Capital, with participation from existing investors including Sequoia. The startup launched on the Disrupt Startup Battlefield stage in 2019 and has since raised upwards of $125 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/vise-ai-DSC03361.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/",
+      "publishedDateTime": "2021-05-18T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-sas-flexes-ai-ambitions-with-viya-platform-expansion.md",
+      "title": "SAS flexes AI ambitions with Viya platform expansion",
+      "excerpt": "SAS today announced an expansion for its SAS Viya platform, which is used for analyzing data and building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/vivian-sas-itrc-chatbot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
+      "publishedDateTime": "2021-05-18T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results.md",
       "title": "Baidu, Baozun, NetEase, Tencent Music Entertainment, And IQIYI Report Q1 Financial Results",
       "excerpt": "Search giant Baidu (BIDU US and 9888 HK) reported solid Q1 financial results before the US open this morning driven by its core search business. For several years, Baidu has been utilizing the cash thrown off from the core search business to invest in cloud computing,",
@@ -1106,143 +1261,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ethical-ai-is-our-responsibility.md",
-      "title": "Ethical AI Is Our Responsibility",
-      "excerpt": "Similarly, so does Responsible AI. In digital, many things can lead to ethical incidents with AI but we can distill them down to four major causes. So how do we adhere to Responsible AI? A ton of resources are available on this topic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6414197398b9485ea46c91da9ff40d67.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "publishedDateTime": "2021-05-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
-      "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
-      "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence-600x784.jpg",
-          "width": 600,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "publishedDateTime": "2021-05-17T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance.md",
-      "title": "AI-powered Jerry raises $28M to help you save money on car insurance",
-      "excerpt": "When Art Agrawal was growing up in India, a car ride was a rare treat, and car ownership was a dream. When he moved to the U.S. and bought his first car, he was shocked by how much it cost and how difficult it was to maintain a car.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
-      "originalUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Jerry-Co-Founders-Lina-Zhang-Art-Agrawal-Musawir-Shah.jpg?w=1024",
-          "width": 1024,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
-      "publishedDateTime": "2021-05-17T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

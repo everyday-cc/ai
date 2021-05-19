@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "Google demos LaMDA, a next-generation AI for dialogue"
+    excerpt: "At Google I/O 2021, Google demoed LaMDA, a next-generation AI model designed for different dialogue applications."
+    publishedDateTime: 2021-05-19T00:30:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "HaMe94oJMTF4mCTrVythFZF4Desg6Ar6kZcvYG7WArCu7kw5PwogFByA6ZXN4E9FWX/yAqpLu75P/8AYEqXpnOVuWZBadbhG4bV9TRsPFCn/9gaI2QRJtP9jlcz7fbWMhpS4fvc70nA1+53+JyQxkTYk4IwJ8faENG3RybJXdW3EGAq5YWeujPPPwZS5GNExfytsAJOUk5wWuV6BCMzxo27F7Nh8bC3HQ3vJsy4CnfTP7rHj354116AcvYqU4a0axoSGZl5tuP0NTAGdEbekf2mhVD0CE9nmh0yaqMzPhKbR44Z17s5603vdcs6mxWlNOSpoJPBKf4ZDgPwmUyK8wbO6ulGvBEdwM/6olXE0wPNPF6+plARsWdaQm9QrdQ7m2QAMFdOOZmbhRxlaDVAun19jhjyJyoCLu7EIRwriKYimJf5X2vGawbxmAC2aLkNG6R2num3Db8yTg0RSIyLvsFpaR/xoMP+ZGb5X3Z7QImTjFMXtHfuyw2Vmeb0EtPi8aJfGReTjcuB+SwalXRU+gQ==;nlre+6AhrZjAwxK9mno82A=="
 ---

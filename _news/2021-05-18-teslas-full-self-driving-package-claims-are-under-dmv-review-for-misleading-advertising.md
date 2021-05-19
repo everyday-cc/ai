@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla self-driving claim in question: California DMV"
+    excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
+    publishedDateTime: 2021-05-18T19:47:00Z
+    webUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/"
+    ampWebUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/sized-tesla-self-driving.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DMV probing whether Tesla violates state regulations with self-driving claims"
     excerpt: "A review of Tesla's claims around its self-driving technology comes after a spate of accidents and videos showing owners 'driving' from the back seat."
     publishedDateTime: 2021-05-18T03:47:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/9d4ccf7/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2Fea%2Fd26db18a34a9692d694e1b0a48ba%2Fla-1557255076-hhgzax4ff3-snap-image"
         width: 320
         height: 209
+        isCached: true
+  - title: "California’s DMV Investigating Tesla Over Potentially Misleading Full-Self Driving Option"
+    excerpt: "The California Department of Motor Vehicles (DMV) is investigating whether Tesla has misled customers by advertising its full self-driving option, a system that isn’t even close to being fully autonomous."
+    publishedDateTime: 2021-05-18T19:29:00Z
+    webUrl: "https://www.carscoops.com/2021/05/californias-dmv-investigating-tesla-over-potentially-misleading-full-self-driving-option/"
+    ampWebUrl: "https://www.carscoops.com/2021/05/californias-dmv-investigating-tesla-over-potentially-misleading-full-self-driving-option/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/californias-dmv-investigating-tesla-over-potentially-misleading-full-self-driving-option/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 65
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
     excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
@@ -111,6 +143,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Calif. to Review Tesla's 'Full Self Driving'"
+    excerpt: "The department confirmed the review Monday in an email to The Associated Press. State regulation prohibits advertising vehicles for sale or lease as autonomous if they can't comply with the regulatory definition,"
+    publishedDateTime: 2021-05-18T13:16:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21439948/calif-to-review-teslas-full-self-driving"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Tesla_Dealership_AP.60a3bf82aaf91.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla is under review by the DMV for its ‘full self-driving’ claims"
     excerpt: "The California Department of Motor Vehicles is reportedly investigating Tesla Inc.’s claims regarding its vehicles’ full self-driving capabilities. Regulators will try and ascertain if the company has falsely promoted the feature,"
     publishedDateTime: 2021-05-18T03:21:00Z
@@ -138,6 +184,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/30430513415_91a6217882_z.jpg"
         width: 638
         height: 358
+        isCached: true
+  - title: "Apple expands self-driving car fleet, reduces number of test drivers"
+    excerpt: "Apple has reportedly increased the number of self-driving cars it is testing on California roads, but has halved the number of drivers licensed to operate them."
+    publishedDateTime: 2021-05-18T19:07:00Z
+    webUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers"
+    ampWebUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/42080-81563-40231-77412-37975-71780-000-lead-Apple-Car-xl-xl-xl.jpg"
+        width: 870
+        height: 485
         isCached: true
   - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
     excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."
@@ -172,6 +234,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Latest data shows Apple has increased self-driving test cars but decreased number of drivers"
+    excerpt: "Apple has increased the number of self-driving cars and decreased by almost half the number of drives licensed to drive these cars."
+    publishedDateTime: 2021-05-18T18:21:00Z
+    webUrl: "https://9to5mac.com/2021/05/18/apple-increased-self-driving-test-cars/"
+    ampWebUrl: "https://9to5mac.com/2021/05/18/apple-increased-self-driving-test-cars/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/05/18/apple-increased-self-driving-test-cars/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 33
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Man seen smiling in backseat of self-driving Tesla is now arrested, California cops say"
     excerpt: "When California drivers looked over and saw a Tesla driving itself with only a man in the backseat, they were startled. After receiving multiple reports from concerned drivers on the interstate, the California Highway Patrol said Tuesday officials arrested 25-year-old Param Sharma on suspicion of reckless driving."
     publishedDateTime: 2021-05-14T11:04:00Z
@@ -196,6 +274,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
         width: 820
         height: 462
+        isCached: true
+  - title: "Tesla is being investigated for misrepresenting Full Self-Driving’s ability to actually drive"
+    excerpt: "The LA Times is reporting that Tesla is under investigation by the California Department of Motor Vehicles, over the over-stated claims made by CEO Elon Musk about the efficacy of its Full Self-Driving technology."
+    publishedDateTime: 2021-05-18T16:13:00Z
+    webUrl: "https://knowtechie.com/tesla-is-being-investigated-for-misrepresenting-full-self-drivings-ability-to-actually-drive/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 28
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "NUTQMO22SNIiwLRc0t/h4aII3uYiZiQi8DUXzqnCPSIOzZrFYrl9gaHKJQHSmv3QLYEwVHw2pdw8ui2pnhY7n3c31y1UuZuG4hI6VIBIIo61YDDJiyWsiazXA+unK5gLo7ukagxdnq7xc8r4KvQ2vp93AOG7y+sty3f75f3ZruAiOoYYI5cAUSSZZ0VdGG4XnnujAJGt5sXurvHlehL3kev3LwZoZTeEGW9iDoiPBO+imFSduWiUdhv45jijz4WtwKxBJLtVgdrNnI9vs3CQttK5YNl4NLLQMPaRMaWgrfofrpWfFLjexCG9iB1k1Xx5LeMfy6ew3oi0Ea0KGANUpVa1bXAdSsNBxknKPxzkFuY=;699neDpcb77yr9xuna8wEw=="

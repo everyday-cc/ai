@@ -9,7 +9,7 @@ ampWebUrl: "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops
 cdnAmpWebUrl: "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 658
     height: 493
     isCached: true
+
+related:
+  - title: "Robotics Engineer Develops CET Drone To Detect Criminal Hideouts"
+    excerpt: "\"If this is an indication of a criminal enclave rapidly developing across the country, then it helps us nip the growth in"
+    publishedDateTime: 2021-05-19T01:35:00Z
+    webUrl: "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/"
+    ampWebUrl: "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/"
+    cdnAmpWebUrl: "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/"
+    type: article
+    provider:
+      name: LEADERSHIP Newspaper
+      domain: leadership.ng
+    quality: 74
+    images:
+      - url: "https://leadership.ng/wp-content/uploads/2021/05/Drone.jpg"
+        width: 1250
+        height: 703
+        isCached: true
 
 secured: "IH1iv6GYvXfHDxseKnoRBWMUdDOKbbd9gHxaohG3J1qJlerkzsGMLt9/dIb5cipxiFFUCQVYgsZdQYetdD+lFkLILPPuxigVbjrjM47Hf/0P2K6VrARrhQT7GEmWChoddzaU7uFjFI+BsWTrMBkyw0+4GF8CV5tUfAaOpzUU6LGr7ebYDU9DZ3WEIxd95gVnTmmbj3IQmFqs5Hxd9w3p6/6XTddmlVkmE6cHLVuBN+QGHW3JPQQTdUBiW3VYNlF+rTK4lM6mboXmUpsOLqnaxUxVbdUXlv5qAh8yAHjh6lY9FKa1IQMaSdAfXq1DXBt93BkFr2IwIEpBHbX2unorPakdtuKzwx1SFCfOQkiGkyc=;r5c0JnAbElwPW+q/T6/0CA=="
 ---

@@ -43,9 +43,9 @@ related:
         height: 684
         isCached: true
   - title: "Robotics Company Embodied Acquires Conversational AI Business"
-    excerpt: "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans."
+    excerpt: "Pasadena-based Embodied Inc. released a product last year called Moxie, an artificial-intelligence-enabled robotic companion for young children. The device — which Time selected as one of its top inventions of 2020 — is designed to support kids’ social and emotional development through interactions themed around concepts like kindness,"
     publishedDateTime: 2021-05-17T07:07:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
+    webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/"
     type: article
     provider:
       name: Los Angeles Business Journal

@@ -3,24 +3,24 @@ category: news
 title: "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer"
 excerpt: "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang"
 publishedDateTime: 2021-05-12T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_790d98b9-9402-549b-b3bc-a47db8fea650.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_790d98b9-9402-549b-b3bc-a47db8fea650.html"
+originalUrl: "https://www.chinookobserver.com/news/state/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_c35aee5b-b6cc-5bf4-8f91-968ef9284784.html"
+webUrl: "https://www.chinookobserver.com/news/state/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_c35aee5b-b6cc-5bf4-8f91-968ef9284784.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Chinook Observer
+  domain: chinookobserver.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/89/d892fd77-7368-562a-be8d-1881c85f422d/609bfbc1d2689.image.jpg?resize=630%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/chinookobserver.com/content/tncms/assets/v3/editorial/a/9e/a9e4d738-ee37-51d7-8bc7-e47cdce6c8c9/609bfbea70f07.image.jpg?resize=630%2C630"
     width: 630
     height: 630
     isCached: true
 
-secured: "3lFbmGDMHoizfV+ASOCmqp675kYgWnuZU5pyRCKNmg9kLpPiJB7IaEMdrKAbubt4eep9EPCpHnvMz1uNkTJKdNPElYZkOYTivF1ylsuHD5BJsSRqKBHc6ljWI0Axj1gmf6ZVb+NLDzrx5s23bJKLE5p33nzwejdPrZUYJo4QAnSdHnESRjC+5NUYLKrAk89LATT1Rks+asn9zmwIzVS2sed9dejrtmfjglvdjnan65ixXreRslmU9f4qEC2fb6Q9dBrZZON9Yyb5DOAYplCqaXX3IIQVgZOUnmUcGs8isIJ7Uub+DkT3bTBALQFb+jJ1OwOqCYx9UayxQ9IFqZIFT2xT+MSaOuga4ifoUa6Hp/hyExyawmD1R6XP/lldku7jTS4vvc0Eh88kJmZlFLZBY/UJThTulWKEmqdNb78Yj5QxmdHuxOCZe+jXz8A6xVyWfA5ky0HwV8j9uJI/NFbavV5wKXifTYB1RYqpm+FYAkCft+LDwU/XYjTihIqbzC67061FCiFR3349S84MSyfmWQ==;/cfGCvvnk9s6FncMXDi/yw=="
+secured: "89yaGaEQjl7uV4gDK8J4289CvL2y/KCAl1PWG54pes/xgfGLVif3cWZN/ooYxzNa+9SDV7tqhBy0Z4p8JxmFoMkGp+K568487IDVNvW21sU5Ij5Ac2Av10WqtbL0NVV09blxqsBYOZ8Svo/D4TeyD/wVlAbZWA+K65YS0IJiNSXgke/psCQNEcircIc1IiEPytd1w5b3OnrEOlkuO9mECOPsGjFhU+CVC4biP56h+Br0RJGWWkW9tTIivQYSWENMoh1wzeOx20nm0mkUaTnj1AmqK333/FAe7wNzctu7fnK98/Xe7HZ0mgr5eEKASd7lbhGh827ceCAS9OiYllUvViSTxFmyZp2lYyh7/rN3We8=;Bcbm9UWnRVpdTFdAOr9HYQ=="
 ---
 

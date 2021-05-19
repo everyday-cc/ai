@@ -41,21 +41,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "MarTech Startup Affable.ai raises $2 million in funding"
-    excerpt: "Singapore-based marketing tech startup, Affable.ai on Tuesday said it has raised $2 million from Prime Venture Partners, Decacorn Capital and SGInnovate. According to the company, it will be using the funds to expand into international markets,"
-    publishedDateTime: 2021-05-18T06:13:00Z
-    webUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding-11621317830020.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
+  - title: "LHoFT Foundation selects 14 fintech startups to showcase financial inclusion in Africa"
+    excerpt: "Building on the success of the 2018 and 2020 editions of CATAPULT: Inclusion Africa, the LHoFT Foundation is opening tomorrow, on Wednesday 19th of May, the third edition of this unique program of Fintech startup development."
+    publishedDateTime: 2021-05-19T01:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87685/lhoft-foundation-selects-14-fintech-startups-to-showcase-financial-inclusion-in-africa"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
+      name: Finextra
+      domain: finextra.com
+    quality: 16
     images:
-      - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "DZbllbkyYRTfDGv8fBWshWfUB5rrpToUb6pxohTSU9+NHBKo9p+nxVBKV60nsmVnrGovCpp+NeLxnBGwb27e1JMM4vpyPz9hI3mka7tCqx8BY+yrZqkHKcggZOqAEpgn9Mn1AsegiQRw7wxtYGWcJSVNOKLqnw3hIqEbV++4ABLhthPQUoO5Lm8e6158fLBq4NvqE1hHDGnXdqWI3zlegJmARTcxUxFaRGlnl2MOBN2jC8YB/iGZxBSwQfMKzwFMZtnyLe9iKNrakmhbDYAzUY9rev9N6oZFe7+ekmCrwcbNb/aZKpr9b1nY6X6xObFX1RWlzTwmeNuq2d1U1pArpX0bxJ11YUJI5CC2smeOXK0=;3xQ3KQJRBiADXEbgiegvow=="

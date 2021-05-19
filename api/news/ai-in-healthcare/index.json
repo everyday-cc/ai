@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-17-artificial-intelligence-market-to-perceive-substantial-growth-during-2021-2025-says-kenneth-research.md",
+      "title": "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research",
+      "excerpt": "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-vitti-ai-invites-applications-for-webinar-on-role-of-artificial-intelligence-in-tackling-covid-19.md",
       "title": "Vitti AI Invites Applications for Webinar on Role of Artificial Intelligence in Tackling COVID-19",
       "excerpt": "Vitti AI has invited registrations for a webinar on Role of Artificial Intelligence in Tackling COVID-19 to be held on 16 May at 6 pm IST",
@@ -1315,40 +1367,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-cotiviti-to-present-on-artificial-intelligence-at-ai4-2021-healthcare-summit.md",
-      "title": "Cotiviti to Present on Artificial Intelligence at Ai4 2021 Healthcare Summit",
-      "excerpt": "Cotiviti EVP Nicole Neumarker will speak on how to reduce healthcare fraud and waste using artificial intelligence at the Ai4 2021 Healthcare Summit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit",
-      "originalUrl": "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

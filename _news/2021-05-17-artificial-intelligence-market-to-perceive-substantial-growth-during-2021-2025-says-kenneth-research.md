@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Growth Opportunities in IoT, AI, and Machine Learning-Based Security, 2021 Market Report - ResearchAndMarkets.com"
+    excerpt: "The \"Growth Opportunities in IoT, AI, and Machine Learning-Based Security\" report has been added to ResearchAndMarkets.com's offering. This TOE provides a snapshot of emerging cyber security solutions powered by IoT,"
+    publishedDateTime: 2021-05-17T12:11:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210517005792/growth-opportunities-in-iot-ai-and-machine-learning-based-security-2021-market-report-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 30
   - title: "Global Natural Language Processing Market : Industry Analysis, Size, Share, Growth, Trends and Forecast - 2025 | Says Kenneth Research"
     excerpt: "Kenneth Research, in its repository of Global Natural Language Processing Market research reports, have recently added a report on Global Natural Language Processing Market which emphasizes on the latest trends,"
     publishedDateTime: 2021-05-17T09:48:00Z

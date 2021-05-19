@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/Screenshot-2021-05-18-102653.png?w=1024"
         width: 1024
         height: 574
+        isCached: true
+  - title: "Google demos LaMDA, a next-generation AI for dialogue"
+    excerpt: "At Google I/O 2021, Google demoed LaMDA, a next-generation AI model designed for different dialogue applications."
+    publishedDateTime: 2021-05-19T00:30:00Z
+    webUrl: "https://venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/"
+    ampWebUrl: "https://venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Google Launches Next-Generation AI Chip at I/O Developer Conference"
     excerpt: "Google made some noteworthy announcements at its I/O Developer Conference on Tuesday, including the launch of its next-generation custom Tensor Processing Units (TPU) AI chips. The fourth iteration of the TPU chip is designed to train and run machine learning models faster than ever before."

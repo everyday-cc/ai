@@ -18,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Barracuda Launches Cloud Application Protection 2.0 To Defend Web Apps From Evolving Attack Vectors"
+    excerpt: "Platform blocks supply chain attacks, uses machine learning to stop bad bots, adds containerized WAF to protect apps deployed in containers. Highlights: - Client-Side Protection automatically creates and deploys protections against website skimming and supply chain attacks such as MageCart."
+    publishedDateTime: 2021-05-18T23:20:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/141057/barracuda-launches-cloud-application-protection/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
+
 secured: "Y5y0KFPEOnc5WVIiILv/7TOb5+D4aEA79D6RiiXQaf4DNnBstc2WKx4lF3pyuybCGGGzjnTCeZrVpGyF8d7qLQ8sAo90haoCp7PbGYn8xgWIUZvshNPauELRuDqZ6mgF5LYyYNOWYzoSxWnLJyeN2td7fNeMq8leqiGrK2tr6KFK31uzgp1Q2fLqqvqRAO7iYMRUbK9neIdnbh7sf4N73I2L9uEZT0iUGFlyxfHb0xr/KCHw/jTxFfSAAOu2yxG1rpdEnpLNqgHirf+HQJBZW0MnsLjDrXtsLT1ZSLEGr0sh7/dNBgsAYEj8Vad1ooBSNDEaUIfEhJ6hZ/6+FPaHRxCfSlMHIM23AeG54OhPYPw=;SN5MyRRsr514XLhIemkiiw=="
 ---
 
