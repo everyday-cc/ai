@@ -1,26 +1,29 @@
 ---
 category: news
 title: "CHS Begins Development of Artificial Intelligence Software Products for Medical Diagnostic Imaging Industry"
-excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce the company is taking steps to develop multiple Artificial Intelligence (AI) software products for the Medical Diagnostic Imaging Industry."
-publishedDateTime: 2021-05-19T19:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-1030448094"
-webUrl: "https://markets.businessinsider.com/news/stocks/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-1030448094"
+excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce the"
+publishedDateTime: 2021-05-19T19:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-301295313.html"
+webUrl: "https://www.prnewswire.com/news-releases/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-301295313.html"
 type: article
-quality: 29
-heat: 29
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "/YgdHmahTQe/bbxkIAW9FtXQznkj4Gf1JikKYGY8L0e6M0KvsBZ355Z3X+4A8rTZHbWl9lMvj2EH5hS4qn1AT0VM84etTvJ2iNt1IyvRm+9Kv5FCtaKajwqYmNfWM2yyKy+d5JgARrhpGVkeNwNeRXp//YVYtCUsGVSXB8ykY44tLocsoZbUqP9OZ0e2lJy4fF7/AlwEru8/7c8NeiRrLNjn0X1W9wYcLmkeXFEahhTuX1Dmy6Rv8/oYaCOZs3Xbg2dwoYIhAvkpgBUjK0YZDwWwoKIZBS2VrpVl3V9MVmIBo8eCiuyfG6IRGiFhz0mQ2z4fx2D262zah7ziL0aws1VOHzeHUbOkyzkmDFmKcKM=;PEmZY4cs3860vqUL6O+Ldw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1514059/AI_Software_Development_Logo.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "cNBZ4YEgk5Z84cPelk7gmU2c94tGGYlcJPgUlGQDlz2Gzb938bGfAUAPzBsgd1AsCNQDF3dWL1aWg2rDGH27OKqR5tL5+jdEdSuzemeh4dcoJZIAjDRFRNg7D51VKmU2CLqwGzIlf61vM7vPZJMWiEL+n2ZY5fVdvmr9pOI6okfy+Ef25vdiP9ZuxZLOlb6/0AlROzXSz3xilUyTiKwB7Xzai7XwwZdw1gM53ssZh9vYGZWYtc5xBWgcT55wRHwhYwKfOhKiGzvxv8COr/91FIgpL3w72kp4sYWXnTxtUNe3KIGb2bvPbWR18/KvI223nzisClLZaneXcvudPY6iFtDfKN8m7wBb2C6gER0cLLI=;ZQxH9lxOJBtIHJmUn5Onvg=="
 ---
 

@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google More Than Doubles Its AI Chip Performance with TPU V4"
-    excerpt: "Google says that it has designed a new AI chip that’s more than twice as fast as its previous version. TPU V4 (TPU stands for Tensor Processing Unit) reaches an entirely new height in computing performance for AI software running in Google data centers."
-    publishedDateTime: 2021-05-18T18:30:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/google-more-doubles-its-ai-chip-performance-tpu-v4"
+  - title: "Google rolls out holograms in chats, smarter conversational AI"
+    excerpt: "Google claimed its active Android users have now touched 3 billion, as compared with rival Apple, which claims 1 billion users"
+    publishedDateTime: 2021-05-20T05:52:00Z
+    webUrl: "https://www.livemint.com/technology/google-rolls-out-holograms-in-chats-smarter-conversational-ai-11621447596135.html"
+    ampWebUrl: "https://www.livemint.com/technology/google-rolls-out-holograms-in-chats-smarter-conversational-ai/amp-11621447596135.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/google-rolls-out-holograms-in-chats-smarter-conversational-ai/amp-11621447596135.html"
     type: article
     provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 58
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/pichai%20tpu%203%20google%20io%20pod_0.jpg"
-        width: 1514
-        height: 937
+      - url: "https://images.livemint.com/img/2021/05/19/600x338/Google1_1621447817201_1621447847117.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "i21ETR6elHawwij+c1kSAcCndf2jrhvg6z4hBvY1qI6Xjq11gSzHnDeTyjQDNA0QUAaivuP8zEJOUSxcD3S5C2nf7el/17LIRYRCFiPinzrB0KpWZ7C2+BA5Y/ya+H8/qLCQSBHQw+CDxLeVYuap3xyvSeilzfGy+qh8TnfgdaIvHTqTmTvY3hLUrMaBlou91gbDoSKefWrvmk2srezsom6uhteTYM/JClj1NGUEYbSaI2dDAe9ntTNCyOIhQ1Kk3UcISbH/u0yWfxwi4HPee7ozaWwPwAcmk+ycM1ZDR/32EerkvXbTTNTOKo4OoSCHo0xJLw6/puHcubcH5gDoQ8dcJaf/vw4ugYprCDCIuW40hgbIh9gccK9Ud0EBCcEWbuhRzaaI/fgUdNZCN/mroJjKslm08wmeRjPXK6litVNCvVkkxZZFm/yR9NGdFAX8BIJBP8MGudXNu/WyLfdW5r+A30+lQ++fmIRaV2XJxV1RwI9dbGUgZyxOPkbvzJz7mTODA+CGRdkFgbM1ew/7CA==;d37Klry8WWxOKrVnpy2n6g=="

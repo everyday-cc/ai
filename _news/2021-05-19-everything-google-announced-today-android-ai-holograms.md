@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Everything Google Announced Today: Android, AI, Holograms"
+    excerpt: "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights."
+    publishedDateTime: 2021-05-19T17:52:00Z
+    webUrl: "https://www.wired.com/story/google-io-2021-highlights/"
+    ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
     excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
     publishedDateTime: 2021-05-19T07:43:00Z

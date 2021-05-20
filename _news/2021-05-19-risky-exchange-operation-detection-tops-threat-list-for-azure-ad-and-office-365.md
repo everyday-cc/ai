@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Vectra Identifies Top 10 Threat Detections Across Azure AD and Office 365"
-    excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10"
-    publishedDateTime: 2021-05-19T12:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365-301294648.html"
+    excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,"
+    publishedDateTime: 2021-05-19T12:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365-1030446125"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "tHi9i0cKQYNbVI7G7jRqvRXa84l59lYzSqfP5a/FtF+UnyJ6oLmKRMOQnfwFOzUihefcWQP3v9uuafHZmmLxgz6lU+s0csTtuqpEb6YJeZmvia3h5aGVTw+wMvdqHsDq5PPuCwRSzX3oQqDvFCcpQzZF6D0283TycKMJ12fOdxX2KamWd8eN0lKmm5/xnZOSALXRCEuNXsXEReBbcH+fY11JQMU4egcSWWYtD6Z1964L/d0NZC+TMeBPBYw8FhebhyqEXMwfrSaCuOUF7JzK0nKVrbtkyCI/PToiYGase8HPAzEnzO2Y7MLWNHZ1fkDWLclJFrCyGgDhcpae+P8RBACMieepNd9EXheYEoaStjA=;tQ+7129Rg1y1TFw/ggdoLg=="
 ---

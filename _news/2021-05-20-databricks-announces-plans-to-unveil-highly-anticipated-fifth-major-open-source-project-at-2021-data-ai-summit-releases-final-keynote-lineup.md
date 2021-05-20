@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-20T03:30:00Z
 originalUrl: "https://www.prnewswire.com/in/news-releases/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-892628822.html"
 webUrl: "https://www.prnewswire.com/in/news-releases/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-892628822.html"
 type: article
-quality: 3
-heat: 3
+quality: 5
+heat: 5
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"

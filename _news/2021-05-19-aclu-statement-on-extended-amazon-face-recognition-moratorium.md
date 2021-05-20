@@ -399,6 +399,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 43
+  - title: "Amazon to ban police from using facial-recognition software indefinitely"
+    excerpt: "Amazon hoped leaders in Congress would create a law that would ensure its ethical use, but no bill of the sort has been drawn up."
+    publishedDateTime: 2021-05-19T19:31:00Z
+    webUrl: "https://thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/"
+    ampWebUrl: "https://thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 43
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/FacialRegTech-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bias in facial recognition is handicapping deepfake detection"
     excerpt: "Harmful bias has been found in deepfake datasets and detection models by researchers from the University of Southern California."
     publishedDateTime: 2021-05-17T15:51:00Z

@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Everything Google Announced Today: Android, AI, Holograms"
+    excerpt: "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights."
+    publishedDateTime: 2021-05-19T17:52:00Z
+    webUrl: "https://www.wired.com/story/google-io-2021-highlights/"
+    ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "IBM Think 2021 Conference: Innovations in Hybrid Cloud and Artificial Intelligence"
     excerpt: "At IBM’s Think conference, the firm announced its advances in artificial intelligence. Hybrid cloud and quantum computing were also highlighted. The objective of these innovations is to help IBM’s clients and partners accelerate their digital transformation or improve their strategy."
     publishedDateTime: 2021-05-18T07:17:00Z

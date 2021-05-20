@@ -384,6 +384,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 43
+  - title: "Amazon to ban police from using facial-recognition software indefinitely"
+    excerpt: "Amazon hoped leaders in Congress would create a law that would ensure its ethical use, but no bill of the sort has been drawn up."
+    publishedDateTime: 2021-05-19T19:31:00Z
+    webUrl: "https://thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/"
+    ampWebUrl: "https://thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 43
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/FacialRegTech-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ACLU Statement on Extended Amazon Face Recognition Moratorium"
     excerpt: "Amazon today announced it will indefinitely extend its moratorium on sales of face recognition technology to law enforcement. In June 2020, amidst nationwide protests against police violence, Amazon announced a one-year pause on its sale of the technology to police."
     publishedDateTime: 2021-05-18T23:34:00Z
@@ -613,6 +629,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "gc1K1fhKoWwm7Wo+5S2UNlJt5OauIWuvZnPQ9buNRYEL8qUFiGqT0ndAfn/uqWSyyY4friT5G6CHd5meh6RpaGsl0nVXjJVeVtvH66v0SXW7sm8vNtU5waQGi0dnMtpkoDT1QbuAv47sQCt6PFdoUuVf2Zy5rXoIcxNMK2HYh/i4KfA12yXqkJikJ9x3opcroB1FGZxKG2rpuijtFbvglFvZ3di7lwchjp/VZICqtjVq9ITJbKImGnBFJLhTchSOF8azYrxWj3htZy7G3ugZCVM66M/J4jZGXla1wsC8HSg4ETYI+b40jMR4Wuyceh6FVWaybc30tx5KifWIR65SqfNAVhMtYYNz79KXFfeO1NY=;zW/lswejx8IRbI9MiPVz5A=="
+secured: "5pnFCxAmNF98D+gSJESRAdK/axj7JEQEN2qjC94VW1qwSDrh+Un4JTIzH3wdfrk+W8pW6HZ0NjDDXLO4UgtYZHqqFbDJ6sSl6GQSSqRPwEGBSHT0yVqEoqZEZLy9GIQ5ZTDUlO4kCeQgHxTxfJrAvlM3rBvXNfbFig//Q8Fom8jb6P+VxZ+6DjwAekRXs1fhAFBEQT9HGwn7uclCsAWInkI2tWylS+9kWggJR8HTaMIA5JoHaGmhZFn/AhD7E3B5v4Makd9Jui9FrpICdy1wU3LhtID/HaxoSUPCkiMkMAt206lsHU6he4hSj2r06VVuBvkEy1CyteNKHc0illkmAOxJKa7ta/3xiIE1V7PuwaSTeK+8lEEkl4I02iNUqg6RQ10IwVFrKZF5SN1W14TcKi+BIgzWM9RXastDT06m/t6NwZ0iBCBScxuw8oAPd4yUFGE6GrpFp19PMHPD9g3sEMJgqGdTx3g8zH8Dbhu4uHI7TUWUPpYvsovIq0UzgsI0xYnDD5UKlzAF5q06FetnZQ==;H2WF9g/a4rdsIZ+326+MDA=="
 ---
 
