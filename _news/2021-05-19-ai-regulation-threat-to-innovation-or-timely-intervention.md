@@ -3,8 +3,8 @@ category: news
 title: "AI Regulation: Threat to Innovation or Timely Intervention?"
 excerpt: "Artificial intelligence is a truly global issue impacting all areas of society and all those at the forefront of developing AI technology, no matter where they are based, should engage in consultation to shape the EU’s emerging legislative framework,"
 publishedDateTime: 2021-05-19T08:01:00Z
-originalUrl: "https://news.bloomberglaw.com/health-law-and-business/ai-regulation-threat-to-innovation-or-timely-intervention"
-webUrl: "https://news.bloomberglaw.com/health-law-and-business/ai-regulation-threat-to-innovation-or-timely-intervention"
+originalUrl: "https://news.bloomberglaw.com/business-and-practice/ai-regulation-threat-to-innovation-or-timely-intervention"
+webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-regulation-threat-to-innovation-or-timely-intervention"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 563
         isCached: true
 
-secured: "XZ7LX3c7yOTdyuRnnoVsysNCwEUkW6DESW+0mDq6jn7grW9Ea3YJkCkYSeGaElyAowCQozdWDWHuehX5rJSGGr/8koyIyUPk3fJEN3GmZIKxQL+WNxocoBFrG2lLUTXv+7XDlabwzv2bkOyUcW39N0GAAuq76BWzJx3WLwKFPLKZWZn2lMxVx+IlcRtAmCRdKmOK71MzyaJhslXtB8dSL4RAP+mp/uyFxvJEF/GZFOLMxjyq/UHwdz3BocFPmFMUUU4WxOFMkDXqTssVS7DSLyZF3cX7Wtwjlx5VndNTgARBqwGWA3gMsCSYzjiLFEyhnCRTmzwcjm01rBfJauCDtmCdJI7STKbV119QUC50jC+60MgrRIczYXyWSl6iATxfxf5cg0teOppeveJmmfQoO4TSZEBhcS5pf+TvRTe8G7wM1wGIujy6SfWZrbwjaB4IxxNBGn1rRp/O4PQqtMqfOmV4wrq8evHNA3GBlKad8eMZ9NnkeL1g+WKeZwQctZQ/DATnMVxogvJ0tZQQCicGrA==;+Cn30wSYdsbJ2gUL3+Swsw=="
+secured: "66GFqREMU7enCqvqm/omEjglYvTl0GSH3ePZsGdYJcj7K6YcEI1zLZ9PtYlmbtwY2HJvxFToh4Xt8HNiJd/xQsixEOyQ0S19vYAZgcI9g6qLE6B/AKTKQb/xJ1nGt2HNK7s8YRRTxEKgNliPOwHoQ1k4EzhTM5tqoOReYsZmpdVtg1A/yxGXfc+6O0UrtPmH/AobDxcxVe5dYd6Z7Rtnfy4b/LSEF2utgqttjOFzjZuHadBx1HZAa0DOQW0TS6t74Ebvpbe6vPsY45PU3xWU4hzO1RuAGl8PNd93p9DuksdXm/fPOnABO385qvzjx7YExVPHMJgKK1SOHhBR9uC2BwLU1qvBgrWsMWmOrQbsKCQ=;rNVNr4aiLBCtN+j8tnlchQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1306964536.jpg"
         width: 2076
         height: 1080
+        isCached: true
+  - title: "Teaching Robots With AI"
+    excerpt: "Many industries are now using robots in order to carry out most of its heavy and dangerous tasks. As we proceed, one can’t deny the probability of robots being used more and more into the industrial sector."
+    publishedDateTime: 2021-05-20T12:44:00Z
+    webUrl: "https://techstory.in/teaching-robots-with-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/teachingrobo.jpg"
+        width: 800
+        height: 427
         isCached: true
 
 secured: "3drDl+8ziKzPBOu+4zLeRtAOSCTFRxwV2sWFmkT34EelQNpr96IKXTByi6RwcALKBAHLnVdHgJfSHRSPPVw4KiyCbZR4GHVY6cGXMAaItrkv/vpDO/2e3kDftNCEieXPWjiUrsWUhazbNashPZ52NCIPwCKXFaKKUDp3en4/4bLJ0If5XjDLjZ9eWiDKxqbNNRLajI8+LgSQwLy9GV3MSKhTwj0uu5xykZzS/YmQn/nfRn5qwHJdkgy0GiNzlrhvSXHZQIF/lJEPmmM6McSTqdWCTNvqk/TzSDDUh4ZbtIPcZ7UoiAv1nYThDj9doVlbxjvrvOoeUT6ckZ9NLUayE4K+tvxaOw913bFKANK3vN4=;pJfzp4BL+V5pcB5F51uhgQ=="

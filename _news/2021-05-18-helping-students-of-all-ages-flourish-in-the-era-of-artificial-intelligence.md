@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-18T04:32:00Z
 originalUrl: "https://news.mit.edu/2021/raise-artificial-intelligence-0518"
 webUrl: "https://news.mit.edu/2021/raise-artificial-intelligence-0518"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202105/MIT-RAISE-01-PRESS.jpg"

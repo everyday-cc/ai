@@ -70,6 +70,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Google's latest AI tool claims to identify common skin conditions"
+    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
+    publishedDateTime: 2021-05-20T10:42:00Z
+    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
+        width: 808
+        height: 526
+        isCached: true
   - title: "Google launches AI health tool for skin conditions"
     excerpt: "Google is taking one of the most significant steps yet by a big tech company into healthcare, launching an AI-powered tool that will assist consumers in self-diagnosing hundreds of skin conditions. Derm Assist is the first of its kind and will launch in Europe this year before being aimed at the nearly 2bn people globally suffering from skin conditions ranging from acne to melanoma."
     publishedDateTime: 2021-05-18T18:35:00Z
@@ -130,6 +144,15 @@ related:
         width: 1600
         height: 1054
         isCached: true
+  - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
+    excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"
+    publishedDateTime: 2021-05-20T13:25:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/historic-department-store-using-ai-to-help-struggling-gift-buyers/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 17
 
 secured: "zMD5uLWzyTrEcWXUzTcVnbwTtzTKSlzpIl/oVTdPNqOHuoUel6AYQn7aMI2bJ+FYWT5NcjtWZD3qsTvxensxXYj7M5eMHBCYgE70AV041q1/jJDfgi3hlcgqpX6KUt2TP5jMAhL7dBW3uk+hAWK5KfT2gysmvf8Kg28Lxr/9dXFMCq8xZi2yUoJodICu0IiAVoY47wesGfAnqL9NGN3ukIrv5kSuLpJ/JwvXGls9BZYBm6MP77pGU/oxSUF/vfbl1eiJpczAWp3ssmzcfJPj/Q2W46R2wUnmarqKaTZGldVfVH0xiHfBL5eAgNojFAlIeZHTcef9B6D4QUaeI4zuzv3uZ6v+WvDKN7JcVIaz6ZE=;uLVWdYHnF9rIkb6CpkL/8g=="
 ---

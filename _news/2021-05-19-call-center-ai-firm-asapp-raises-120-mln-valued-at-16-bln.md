@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "New $120M round doubles AI startup ASAPP’s valuation to $1.6B"
+    excerpt: "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople."
+    publishedDateTime: 2021-05-19T19:28:00Z
+    webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 137
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png"
+        width: 997
+        height: 544
+        isCached: true
   - title: "AI call center automation company Asapp raises $120M"
     excerpt: "Asapp, a machine learning-driven call center automation company, has raised $120 million in equity venture capital."
     publishedDateTime: 2021-05-19T19:00:00Z
@@ -43,20 +57,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "New $120M round doubles AI startup ASAPP’s valuation to $1.6B"
-    excerpt: "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople."
-    publishedDateTime: 2021-05-19T19:28:00Z
-    webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png"
-        width: 997
-        height: 544
-        isCached: true
   - title: "Artificial Intelligence Platform Provider ASAPP Raises $120 Million to Drive Greater Performance of Customer Experience (CX) Teams"
     excerpt: "ASAPP, Inc., the artificial intelligence research-driven company, announced today it raised $120 million in Series C financing. This"
     publishedDateTime: 2021-05-19T12:30:00Z

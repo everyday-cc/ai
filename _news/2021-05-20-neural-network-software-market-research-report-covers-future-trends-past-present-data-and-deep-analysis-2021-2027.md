@@ -38,6 +38,15 @@ related:
       name: WBOC
       domain: wboc.com
     quality: 0
+  - title: "Global Artificial General Intelligence Market (2021 to 2026) - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
+    excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
+    publishedDateTime: 2021-05-20T06:23:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210520005568/global-artificial-general-intelligence-market-2021-to-2026-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "+E6smflaEVEffF3oo/pvHJ+57EkzB3NqfKmsxqeO/KV46T+NRWlrdhdgXmVsGxSd4V7zDwVtIMdy3u2PhUhtYnXfr9CZ7aARfu3Yzm1aMr2SA+3WSeBJHsloX+j509pwD+vIwBlgl2RVh2NP7LOH351nE/5LTFIgyLFl5FfUxkmr8W9Grwg/Z5kSmtmJ87sOxeB0aAn7VNDimdu02b70mM7asu1nyU7zFGjJHOiiQvaIK5S7faLLeeYF2DESddeQOgf+KABQDhVlYcRc/Bac/gnAz1riTZxvH65HEFaGxV2UTvAcoJLxvU/PWSHU2sDLZqm1uvvyD3nwaab+saL01w2i4IEHoc6KFfk97oWeGnU=;mmJ5RJiIbb7eR4/OErP8Ww=="
 ---

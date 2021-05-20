@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "New $120M round doubles AI startup ASAPP’s valuation to $1.6B"
+    excerpt: "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople."
+    publishedDateTime: 2021-05-19T19:28:00Z
+    webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 137
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png"
+        width: 997
+        height: 544
+        isCached: true
   - title: "AI call center automation company Asapp raises $120M"
     excerpt: "Asapp, a machine learning-driven call center automation company, has raised $120 million in equity venture capital."
     publishedDateTime: 2021-05-19T19:00:00Z
@@ -58,20 +72,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "New $120M round doubles AI startup ASAPP’s valuation to $1.6B"
-    excerpt: "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople."
-    publishedDateTime: 2021-05-19T19:28:00Z
-    webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png"
-        width: 997
-        height: 544
-        isCached: true
 
 secured: "z21m0OlJMz5LWaC9G6zLI2JJJUTHP4SxUEjaHi8T1OJN1QZG6C3vt/ayyVU4RlYvoRb3/nb8Pv5B8qsyFdQ6PixkZlLDpF6hIFuNutvpyFNeHi14EGPJT2FI+srQqHFiDuE9OqpwUDKHHNxOTzBp6qZGKpixq1aw4TEzxlrvwrirs881zxpa6eJoLSBE5XO2f+BjD+osnbrRE50n9En887S484SIuD00NYhTiECGMjMPxgIy8hKdYA0tEQU9pAxCmyd0zJLv5mMRD7ZzRv6kJvge+VlQb46yJ7gdlcva4xMJUTKHR+Qkbw8CaTZKVLp9+Nmy1md5Wq+Agr4nrfNKBRbyFIwkPr/EU0da/HRzC5s=;xC31h8zC7SQ0XVXH4/W94g=="
 ---

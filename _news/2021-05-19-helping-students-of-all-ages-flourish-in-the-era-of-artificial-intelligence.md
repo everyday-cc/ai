@@ -34,7 +34,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 67
+    quality: 69
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202105/MIT-RAISE-01-PRESS.jpg"
         width: 2476

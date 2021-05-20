@@ -542,22 +542,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
-    publishedDateTime: 2021-05-18T23:30:00Z
-    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
-    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
     publishedDateTime: 2021-05-19T03:55:00Z
@@ -586,6 +570,17 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
+    excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"
+    publishedDateTime: 2021-05-20T13:30:00Z
+    webUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/"
+    ampWebUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
   - title: "Amazon extends ban on police use of controversial facial recognition technology"
     excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
     publishedDateTime: 2021-05-19T01:27:00Z
@@ -626,6 +621,20 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 26
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 19
+    images:
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
     excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
     publishedDateTime: 2021-05-17T14:10:00Z
@@ -636,6 +645,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "O0aYCq2e3uQ0c+i0RYxY5LjNGBhb7J+sHXYKyQ+CJ00N52h/q5aOwqUWCX8oitF0Njx1UlPeM1G8TfXsrZ0NbJpv9wX5lRK+K8VY0/ne0243R8XfaAXr31ZH1ac5mxA5Tf4J3GEoUZgxGTom3nKmh0vIeqSa0s9JSXe47zcdRtxdOeRaKe53Jh3cXLUhPRdse89PffQtlgjJ9BqEwbCMuTcFZvY1gARs1ZuegrFib9fw00vJJ9wb3z07omaL6xzJ3TR4rwM6f/6uifmU8v9j4CUzyfM1+21B2QYA58mBNt5m22qsZ9W8V1SsJsCcxwrGF2qR81qGvG6E+Cih4nV6RtxX/SASuPHGyC3+7AAeW74=;+czHQfF+0I+s5rG3VoJ/ng=="
+secured: "WOGzz5tbVw8XnNhY/3RxbeYROiIqFn4bNNQX998+nHHPWpWaPimN1jooF1/8qJbASUeXsiF70PS9sGKQFrLhiKqMoZ7ddOmhLrl2Tojbgd3icN9PwYF9eNdp60A5m+L48V7Uos0AEbzzuZZwVi481mxQtUXi6eT8nGzKRWEs1O27LKCSpRfAWc996LMvjn5UV5NDx3Ib9ZVr2nXLOcoBxrMw+Mv4fZ89GTJLgvojQtQxdZSDGmsUa6Gf1rEXbtcftq5cPPIm+wYb14jxwrZBUSDPaNDO7Wzb0IwElK0tdqcCtJWpzLUZ3+X95+ZdFtTKDxsRF5lS6Ox2NO0SXCyD6NlRXnyVHDkR5ZIU2xieHo1QSJb8TncdNFVocFPbG+uiCwA2/fXGyxn493i2HSj+kIYxSR0m8VK7JoepOdcWILtAtyo0li/fRGD49PD7qw/ggxfPZpvSLr97V7z6SQNsCMxDGKKqI3v6YaPBWcpvL0qISixQVt306rshzFXzhTbKCIjNj9Td0qOLioQqER1xAA==;M5Gqry///OsGNBgsfzs34A=="
 ---
 

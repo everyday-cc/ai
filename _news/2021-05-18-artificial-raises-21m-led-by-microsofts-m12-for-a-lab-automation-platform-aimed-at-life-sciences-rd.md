@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-micro
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
 type: article
 quality: 90
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Releases Azure Static Web Apps Into General Availability"
-    excerpt: "Microsoft recently announced the general availability (GA) of Azure Static Web Apps, a serverless web app hosting service for static web apps. The service provides developers with one package that works for static web apps – which Azure manages for them."
-    publishedDateTime: 2021-05-15T20:09:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 69
-    images:
-      - url: "https://res.infoq.com/news/2021/05/azure-static-web-apps-ga/en/headerimage/header+%281%29-1621106964586.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mars teams with Microsoft Azure for its digital transformation program"
     excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
     publishedDateTime: 2021-05-18T19:39:00Z

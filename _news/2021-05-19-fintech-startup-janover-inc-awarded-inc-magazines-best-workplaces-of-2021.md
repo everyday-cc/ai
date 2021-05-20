@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Gravyty Earns Special Recognition on Inc. Magazine's 2021 Best Workplaces in America"
-    excerpt: "Gravyty, the market-defining leader of artificial intelligence (AI) for Social Good, was named to Inc. Magazine's elite list of Best Workplace"
-    publishedDateTime: 2021-05-18T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gravyty-earns-special-recognition-on-inc-magazine-s-2021-best-workplaces-in-america-1030441246"
+  - title: "Diverse Group of Immigrants Fund Fair Fintech, a Startup to Provide Equitable Banking and Finance"
+    excerpt: "Fair, an ethical digital bank and multilingual financial services platform, offering banking, lending, investments and retirement announces 90% of its investors are people of color, 80% are immigrants and many are first-time investors in"
+    publishedDateTime: 2021-05-20T13:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-19817096.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 56
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Big FinTech is here!"
+    excerpt: "The future is likely to see ‘Big FinTech’ replace ‘Big Tech’. But this time around, India can be part of the story from the ground up. India has been ahead of the fintech game on the technology, regulatory and consumer fronts."
+    publishedDateTime: 2021-05-19T18:03:00Z
+    webUrl: "https://www.gatewayhouse.in/big-fintech-is-here/"
+    type: article
+    provider:
+      name: Gateway House
+      domain: gatewayhouse.in
+    quality: 24
+    images:
+      - url: "https://www.gatewayhouse.in/wp-content/uploads/2021/05/shutterstock_744494326.jpg"
+        width: 420
+        height: 280
+        isCached: true
 
 secured: "WIeoqk+VFpLv82l2mObgUDC4F770lo7VNRDw6eQq+lCJ4xbILIJaQ7rFZSj6N7KYJc0Xw3wFp+Pqj1GR6U0Y3+1ZRO3WzDT2rP8L1WUC5hRycFbXGm+0LyhoOGlIB5yO9+z6+CDWe4p4LGCFKMs8duJvSHJcH2B6PY8fcX8UsKNVvIIBL2plOqDayCAKZ+oyr7n3LTiztUHYLFkSk7/tCupOam2N2wffceFX4VgPWubcRLofBMjQrPFGA3ktZCyMNbiH5GtIFDS1b8cN9Qg+szqnMQhyGqwbL9ml7GBVDyzvTXVcRWgEMU9DPyfW+CeSvwmAMNBlZNBwSI59il6mYFLPGszqrkf//nTjvTRUycN2k7jFcrmV5kYzjvyt1AETBwRZthPDc+PBO/X8w2q4miA4lWKPFHHHRcbozoo+kE+ROKGxdWwCn7ugF21DGdIYZlGaSFJAYaXOPLr3GiSepEZgOUwxElLdm8BdO1ZCI2wUKsSM8ymw9Q9Gs52TIDVNYznGeUimeC7IGi4k8pdsEw==;VzHs7cKifsD08PpdWuNHcQ=="
 ---

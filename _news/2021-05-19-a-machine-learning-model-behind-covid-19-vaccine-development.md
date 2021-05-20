@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-05-machine-covid-vaccine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

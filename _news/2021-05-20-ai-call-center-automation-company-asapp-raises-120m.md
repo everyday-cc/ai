@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/05/19/ai-call-center-automation-company
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "New $120M round doubles AI startup ASAPP’s valuation to $1.6B"
+    excerpt: "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople."
+    publishedDateTime: 2021-05-19T19:28:00Z
+    webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 137
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png"
+        width: 997
+        height: 544
+        isCached: true
   - title: "Call Center AI Firm ASAPP Raises $120 Million, Valued at $1.6 Billion"
     excerpt: "ASAPP Inc, maker of artificial intelligence software for call center agents, said on Wednesday it raised $120 million, doubling the company’s valuation to $1.6 billion in the past year. The New York-based startup also doubled its contracts last year as the COVID-19 pandemic moved businesses online at a time when many call centers were shut down or sent their workers to work from home,"
     publishedDateTime: 2021-05-19T10:08:00Z
@@ -48,20 +62,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "New $120M round doubles AI startup ASAPP’s valuation to $1.6B"
-    excerpt: "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople."
-    publishedDateTime: 2021-05-19T19:28:00Z
-    webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png"
-        width: 997
-        height: 544
-        isCached: true
   - title: "Artificial Intelligence Platform Provider ASAPP Raises $120 Million to Drive Greater Performance of Customer Experience (CX) Teams"
     excerpt: "ASAPP, Inc., the artificial intelligence research-driven company, announced today it raised $120 million in Series C financing. This"
     publishedDateTime: 2021-05-19T12:30:00Z

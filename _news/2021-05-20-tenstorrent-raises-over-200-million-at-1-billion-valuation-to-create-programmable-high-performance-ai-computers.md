@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tenstorrent Raises over $200 million at $1 billion Valuation to Create Programmable, High Performance AI Computers"
-excerpt: "PRNewswire/ - Tenstorrent, a hardware start-up developing next generation computers, announced today that it has raised over $200 million in a recent"
+excerpt: "\"We are bringing to market a high programmable chip at an accessible price point as a means of driving innovation,\" said Jim Keller, Tenstorrent's CTO. \"AI is going to transform the data-center and Tenstorrent's architecture is best positioned to address ..."
 publishedDateTime: 2021-05-20T11:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tenstorrent-raises-over-200-million-at-1-billion-valuation-to-create-programmable-high-performance-ai-computers-301295913.html"
-webUrl: "https://www.prnewswire.com/news-releases/tenstorrent-raises-over-200-million-at-1-billion-valuation-to-create-programmable-high-performance-ai-computers-301295913.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tenstorrent-raises-over-200-million-at-1-billion-valuation-to-create-programmable-high-performance-ai/article_0392e741-1332-520f-9654-6aa19c5395a6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tenstorrent-raises-over-200-million-at-1-billion-valuation-to-create-programmable-high-performance-ai/article_0392e741-1332-520f-9654-6aa19c5395a6.html"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1514617/Grayskull_processor_1.jpg?p=facebook"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/dd/8dd3e4b7-878b-57dd-a0b7-2609db9ee4ac/60a64c517a264.image.jpg?resize=1156%2C563"
     width: 1156
-    height: 605
+    height: 563
     isCached: true
 
-secured: "jnAiZC2i+vfJD8I+AE3edLOVwgRnDLrFij2UxLn/SIqmadKbb5BMYfLc0lPDScrDfd908/44B282YJl71si8qZ3TfPM48F/wZv4lXEPtv5WEC6ZfSHYIxFgUoCrfCJDCLXwt/CsBCC7nEImKhqygl3i92IegDLWCROiin0ZEKyqjxOnWGWdjO1aeNytNx0cSB+vwi0rZaz+BF/j0O+tC4Si/TD3DrX6tOw9z9nT/PlpBXr1+4QLMxj6YjUbnNURhcd0PeBEyMCXUAnW0o8fPvkub6VzLgrix/zgw9P+qZwzN22kd9DIm42X8Wf7FWmZPiTH2LqF6LJwZGgHAzzvtWaFcajCvIQtKJ3D7/ZjBfKw=;L3UgqzwI000VHXrRBe70YQ=="
+secured: "MPEl82WIwPhlQ/Y71U9lL1uIMVLYq7bqZBkdaliwm1Oa+azhKctSsiRWFHCNvdMRLvDhd5qaAxM2VP/lksC+0NkxfzyhtVEMVpH4wefNzSFNz8Gtf/rBQ616dtf2xCgdVIumz3AQGdf5obJ5puRcopFC7YeLBVnOwxZpu8pRYdi9M+Ynnb+3eCwSuAPhNMznzRIXaul/NZtaVcaVkI7GqOheKrSK1JGaPGNXtFXYxMCaavslsTNuRTQh6M0TSdtmiVxwNoQQWD9xm/as3E++SJMF816vJfz9x3V/R5W61iG3+3QoItwBQt4TPkR3N/nTgLprbHVnB98LB+aNui7Am30us5ILF5YZBLNF7bsafJ8=;HwmmsHPizjCeDINsi9VrYA=="
 ---
 

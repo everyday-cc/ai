@@ -70,6 +70,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Google's latest AI tool claims to identify common skin conditions"
+    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
+    publishedDateTime: 2021-05-20T10:42:00Z
+    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
+        width: 808
+        height: 526
+        isCached: true
   - title: "Using AI to Take the Bad Emotions Out of Trading"
     excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
     publishedDateTime: 2021-05-17T13:24:00Z
@@ -130,6 +144,15 @@ related:
         width: 1600
         height: 1054
         isCached: true
+  - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
+    excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"
+    publishedDateTime: 2021-05-20T13:25:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/historic-department-store-using-ai-to-help-struggling-gift-buyers/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 17
 
 secured: "1oVW4hZkTqaQRieZIZw/Ml9rWqk0kGHNhFJ7VbWOW+dkGZ79xc9sBzXpXsPo5AxziyRsq8zvtqYY0TCV9IUCf+1BOUj7DO6JCsFMlB74vLM+PiLg/u7BQS+3GQNY+p+vtVLL9TKfzXeAOt8Mvyj2sgNlruWnYCY52/NiGF/2KwV52SNJgRGIovV44eNqpkN7OQV74O73xBMUt64LlphQdq877qgQy4ms8PVgDUfC2SsBd87G4wap6XBbGVtC+YTylaX6oJMX4EAyj6qaqVvWq2ZI4DQIqDWS1xsBdiGLKDwyytnYDe9uls+DGfuX6T8lBjPJE/DuVJ3D4mYl06h7oTrivAdaw3/zvCZeTKKKrrs=;GZh6pAXqjb30FlJBmfvjKQ=="
 ---

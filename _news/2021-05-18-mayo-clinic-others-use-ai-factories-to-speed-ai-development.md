@@ -58,6 +58,20 @@ related:
         width: 670
         height: 376
         isCached: true
+  - title: "Google's latest AI tool claims to identify common skin conditions"
+    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
+    publishedDateTime: 2021-05-20T10:42:00Z
+    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
+        width: 808
+        height: 526
+        isCached: true
   - title: "Using AI to Take the Bad Emotions Out of Trading"
     excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
     publishedDateTime: 2021-05-17T13:24:00Z
@@ -134,6 +148,15 @@ related:
         width: 1600
         height: 1054
         isCached: true
+  - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
+    excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"
+    publishedDateTime: 2021-05-20T13:25:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/historic-department-store-using-ai-to-help-struggling-gift-buyers/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 17
 
 secured: "gSUmcvevYOQG5Hnndy5CXIc3BLTGivi1GpTLpGRFtNNAHQvkk3uZt6s213uharzzwHKcL92VzIYf9pEWvRlv2RxRjGQUrPo3/jFOkoloapCnT4lVdUby6pKH/CjgFUuYujYMKSHWzp/FElAQmFWdbB6asU2zlm9q6/eQDUAuSZkdvhzy3Sfz8/ODsL0YoYYnYT/1wJNRAzcs0T/gPCvQNhR42nJsXfybl+Fg0M8Y5h43kfsvPZzcaooYih0oFaYjpeWLKnpAhZSoqrtL1x1iaJKFI8PX4FBmWuEc0Kk/LrR02ltEBPKwQ9TvcLrBZgZPgcogfS6TWJcaPlxjT/H67GqGfCDRsLNSOwAEkZ7M+hfoKStvyxTHxeNej5aBOLAtXvM2ydWUDnM5CKlrumQ2wWzYZ6hGhS7v5zDZfuuDlUsxykf6WGtuxAscZDFOFboozFVPassIAHPLT94N93uSMXm6xHOJ+z1KOBggvnocJ6gqeXNrY/qeTgBylCiAOKmHVi6uNbON+LGPdLTeVOdnDg==;0ok8nIchE9sqcrE9il+JQA=="
 ---

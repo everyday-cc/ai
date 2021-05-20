@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial General Intelligence Market (2021 to 2026) - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
+    excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
+    publishedDateTime: 2021-05-20T06:23:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210520005568/global-artificial-general-intelligence-market-2021-to-2026-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "YTPGL4pTigujtMIH6s0gjZds7dsKo6/IXUMLRajoq5LLVLwp2WDDCnZQb3cmnvqnxUjNJgK1Euwxm3zKfAjuEjO+UeS0NbTOGaQDMCri8ocE4ryy139mUa58VDsXF4zm2PSTvoo3rasqw33YushXZs4tYBnbQYYPTl/3PEy8YjiREVSA6AKpbtQblYI5H6SQRYqvq1fXzfUwfQyThMp5WwQRdf1oZpWg/BIl20xSGKV8MPT7va2qW5oXaiXXASiT53EF8HUb0Ss+xcySdZiITLb6RxJ8gHNwU9Xn0EH+8P4zZF6+UnRg2m5l5oXDiEclcOC6zVFDD7JgYervUlMxJbAYrZ6WjeC47sJaaFlXZwJQYNcZu3R5IShr84ObLW8oGC718X/ykDb7lEbcPSF91FPrrCVnIREd9ldkPNYvpePwQQD9sAFCLRM/IY1B1QtwRfblnN5/I1a2GhvjQ/7cB1OKaKnW9DyEahvBFRs9Tc6495ZW+typ4ZauHV8Pn1LP1QS5LGTgKZmiRMQZiXMvkg==;6R52CEiHrZ9kzcByouuUXw=="
 ---

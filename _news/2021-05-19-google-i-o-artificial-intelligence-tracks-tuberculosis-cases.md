@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Teaching Robots With AI"
+    excerpt: "Many industries are now using robots in order to carry out most of its heavy and dangerous tasks. As we proceed, one can’t deny the probability of robots being used more and more into the industrial sector."
+    publishedDateTime: 2021-05-20T12:44:00Z
+    webUrl: "https://techstory.in/teaching-robots-with-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/teachingrobo.jpg"
+        width: 800
+        height: 427
+        isCached: true
 
 secured: "V+kWWVQ+APK1dCyvRoNqJE6ulpmT9o570YK+M8buL4uNos2NHkAGrl88FFcx7iP+Xy3asa0Sgzg6v2iBtfqY2pjlPmcYn+L6EmwiSU45l8FRYByxQuf0SjXiX3YTPn3R43BLl/ePJqHOxgWSn6vgXevG0j3MZAFKvmNjiKZ/9AfIg/0YlC+LT9wlE+QgsCrt3WYwDW1obyMgwEzoiNQIfFKr3ICoB4IKmvxtW6Kzs5WQ2k7eEbivinAgK9oufgPa7/kyE9HGcKTi1Ht4GTBu5OfFzPl6kPydFxFWhN3Rj2wfw+LMvwXk9+TPF0HBbeVl6XjzXJVC3+5xA2ew0DyLs/J6V34JtSDJXrHIGHKGlk8pYjnV9bHCeOGNBM8HNJ2UGPr7+ZAEtoYB6Nkb5YC5cucnRZwY2bT/jotELIoGBweaGAvmC8oPKhWJ5T/Y2ITV3eGNEIDVoiASIHH1+4qnCsyiTK9DI69UjweLxk97pawLKAVqGP7qfHYVP3GpFf5q2htpXpIrfFCKG9WcIeYmng==;oicGfadVUgKgLXLe9ewz5A=="
 ---

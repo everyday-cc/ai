@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/372324"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/372324"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372324"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1621407426-Officebuildingimages-03.jpg?width=600&crop=16:9"

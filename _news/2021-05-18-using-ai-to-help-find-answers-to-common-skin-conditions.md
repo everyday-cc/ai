@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
 type: article
 quality: 109
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.wsj.net/im-339735?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "Google's latest AI tool claims to identify common skin conditions"
+    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
+    publishedDateTime: 2021-05-20T10:42:00Z
+    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
+        width: 808
+        height: 526
         isCached: true
   - title: "Using AI to Take the Bad Emotions Out of Trading"
     excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
@@ -135,6 +149,15 @@ related:
         width: 1600
         height: 1054
         isCached: true
+  - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
+    excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"
+    publishedDateTime: 2021-05-20T13:25:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/historic-department-store-using-ai-to-help-struggling-gift-buyers/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 17
 
 secured: "bk2HqodvKtDVPWYf1IjrmGIiJXENcBwbk1Asul5UEmpRZCyznjeab2yK5Y5eamaAsynOizqtjGSJJ5jji4eAL/itkNTE1colli/x0q5lEGhJdI9oWhc0cidZKcypusmQdUrF+/wRxYFazBhSNCCE3plxWfp7Iwn9tVIx2j+Hc+Y/MvLmewryqsCRg9gE+NijXPLKZWWi5ITdGeQQ/SzDnpzeA/l6WPXBUq2lpmvvQiAC/1I1aklu8uF6wfPo0/xsImvS5gRaQXeDh7NJTfjbb8LuaGDjrGn7PPvVCe0wEbzblf9L9VNo7ISCdCZBvfyj1/t/F9ahwzhhwsZZwj2HjkrgC089uA7bR4maXLDOu94=;CuWxMEETBXIr+lYL4Zw0/Q=="
 ---

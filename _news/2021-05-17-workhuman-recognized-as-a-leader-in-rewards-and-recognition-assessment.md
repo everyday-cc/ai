@@ -550,22 +550,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
-    publishedDateTime: 2021-05-18T23:30:00Z
-    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
-    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
     publishedDateTime: 2021-05-19T03:55:00Z
@@ -594,6 +578,17 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
+    excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"
+    publishedDateTime: 2021-05-20T13:30:00Z
+    webUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/"
+    ampWebUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
   - title: "Amazon extends ban on police use of controversial facial recognition technology"
     excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
     publishedDateTime: 2021-05-19T01:27:00Z
@@ -634,6 +629,20 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 26
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 19
+    images:
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "NHClQZ1xsfloezcynzajl6EKbNqyzPi8R8yGCPc4uAyt3oL/kyVsJTpgmhHWlI96joQt/hqT/UKyJK2EMrtES4LLotIao8yijLe3lIW0tut8dhzPPiraSsJpPedLEs8c1/0qlitAuXYpRj/J7w6fNTfWzchgd47tWNw6CqAXWcgX4phIQFAPkxwaLb+K+aSg7IVp6WTPitr3oZ4ixwfGkrclAod9vDkutvhn0nS6fMsZ5a/oEFdyjc/LKjDZCpU0NQUzmMXkEUsa+3QlLs+/GWSRvVokbCdkZq5LN9OTSKYe42nl3TD6SzCQEbsPnCwkO4PvmXdLfpEj3r4BiKyT8RA8amN28SLYtWs61cwPty7GiI0+2T+e//LawAttk0G9T/ZhddjhFAhMSmabd0ODiBssPbRYPS+vOGuZmF6XFueiQTx8qPLbasB95oQwPBTfD3RCXKf/Xv9J4tzd4lGjjSFq8FJg6QK9hRMLfie+EA1LydRt0+R94zV/xSRoCfJI6SQh+UGbEDYPV2G/8nZb0w==;99tvpRlvOH8xfCMKudvBZA=="
 ---

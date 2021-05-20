@@ -276,7 +276,7 @@
       "originalUrl": "https://www.wired.com/story/google-io-2021-highlights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -724,10 +724,10 @@
     {
       "path": "_news/2021-05-13-soniox-debuts-speech-ai-recognition-platform.md",
       "title": "Soniox Debuts Speech AI Recognition Platform",
-      "excerpt": "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl",
+      "excerpt": "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world’s first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform",
+      "webUrl": "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/",
+      "originalUrl": "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -740,8 +740,8 @@
       "publishedDateTime": "2021-05-13T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
