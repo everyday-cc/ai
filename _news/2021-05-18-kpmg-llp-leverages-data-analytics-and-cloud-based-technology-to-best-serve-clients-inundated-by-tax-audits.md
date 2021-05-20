@@ -67,6 +67,15 @@ related:
         width: 946
         height: 630
         isCached: true
+  - title: "AEG Sports Uses Advanced Analytics to Adapt to Fan Needs During COVID-19"
+    excerpt: "Using SAS Viya, the AEG Sports' analytics team created models to gauge fan perspectives toward such things as returning to in-person games. By continuously analyzing fan sentiment during the pandemic,"
+    publishedDateTime: 2021-05-20T08:15:00Z
+    webUrl: "https://www.businesswireindia.com/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19-73052.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 3
 
 secured: "bpippEjQ+6HAyUFG8XAaqJgQ+mRBAIGj77kac8WTKOi8m4B5wS6ZE4iNL5WTpyamXmdOT6vcpdN/hlY9+0mev6zM1oLnDcDWmn/0oLk+VumQUL1eNABDJIKlG2ge/3rHI7QhAHUcaQg/yxdxxWLRRCGseTDAFaAq98I/iuJjGLGZvI0rh+SDmTk00RVhH71nOzuUdbHk0DPuEtMpFHS9lccBo8Yx/AE2eRLW+ed5kBV0WX3Upic+dSVD5uDsXidCKz6RwoeTm5q3Rm37rHbsnsN6EjYla9n8FbeDpiFwxKQjAXu6Pc11UE9YMpSYJZJDM0VU0b5lhDiczQ8DKr0D7j8wdtQ/miqQUVlkyy7ipyiiQvry38N52xa8uTQg+dT2wq1ROjlYtODVetIcDKHkYP+EtVQZfMIFINoYJiZflNRImMqwFZWunBD2qkyiCggqF8P0/NafWy5Q0+vFb/7f5VFfMl6qhileNANrvV5aOohOluWQUYYIN4CWSfTiOjnz7Cy5W5UdfD1afQdWejwBzg==;hqyxaNqayHhfq4l0b/mhgw=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
+    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as"
+    publishedDateTime: 2021-05-17T23:06:00Z
+    webUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/article_2102333d-9f27-59a2-bf6e-e0b96c17c6a5.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/cf/6cfa3a7b-f49b-5c0f-bcde-ba55c8bc9b38/60a3123f0cef4.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
     excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
     publishedDateTime: 2021-05-18T20:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
+    publishedDateTime: 2021-05-20T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
     excerpt: "The global market for AI in healthcare is projected to have a CAGR of around 51 5 during the forecast period AI is the technology that combines the power of machine learning and deep learning technology used by many sectors"
     publishedDateTime: 2021-05-18T11:07:00Z

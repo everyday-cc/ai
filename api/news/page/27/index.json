@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-04-28-sending-different-data-to-particular-clients-with-tfffederated_select.md",
+      "title": "Sending Different Data To Particular Clients With tff.federated_select",
+      "excerpt": "This tutorial demonstrates how to implement custom federated algorithms in TFF that require sending different data to different clients. You may already be familiar with tff.federated_broadcast which sends a single server-placed value to all clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_select?hl=ro",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_select?hl=ro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-digest-this-self-learning-ai-software-lets-robots-do-tasks-autonomously.md",
       "title": "digest | This self-learning AI software lets robots do tasks autonomously",
       "excerpt": "This robot responds to smart AI software that enables the robot to complete physical tasks by trial + error. It’s called autonomous learning — meaning BRETT can approach a new environment, with objects he’s never seen,",
@@ -1143,58 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-data-literacy-essentials-of-azure-databricks.md",
-      "title": "Data Literacy: Essentials of Azure Databricks",
-      "excerpt": "This course will teach you about the different components that make up Azure DataBricks. This is done by going through the different capabilities and how they help improve your data estate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/courses/data-literacy-essentials-azure-databricks",
-      "originalUrl": "https://www.pluralsight.com/courses/data-literacy-essentials-azure-databricks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/data-literacy-essentials-azure-databricks-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

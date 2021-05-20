@@ -27,40 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "CFA Institute and the Investment Management Industry Embracing AI and FinTech"
-    excerpt: "Asian wealth management, Asia wealth management, Asia private banking, - Talk of digital solutions and revolutions has been all the rage as Covid-19 has totally transformed the way in which we conduct both our business and our lives."
-    publishedDateTime: 2021-05-18T17:07:00Z
-    webUrl: "https://hubbis.com/video/cfa-institute-and-the-investment-management-industry-embracing-ai-and-fintech"
+  - title: "Fintech players can only succeed as digital banks if they capture big ecosystems"
+    excerpt: "The region’s super apps are setting the stage for a digital banking war, but just throwing money at a costly, highly regulated sector won’t be enough."
+    publishedDateTime: 2021-05-20T08:16:00Z
+    webUrl: "https://www.techinasia.com/fintech-players-succeed-capture-big-ecosystems"
     type: article
     provider:
-      name: Hubbis
-      domain: hubbis.com
-    quality: 36
-    images:
-      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "How smart tech is revolutionizing financial investments?"
-    excerpt: "New technologies have been knocking on the door of the BFSI sector for a while now, and they are ushering in drastic changes for the average investor.Get latest Finance online at cnbctv18.com"
-    publishedDateTime: 2021-05-18T07:29:00Z
-    webUrl: "https://www.cnbctv18.com/finance/how-smart-tech-is-revolutionizing-financial-investments-9338381.htm"
-    ampWebUrl: "https://www.cnbctv18.com/finance/how-smart-tech-is-revolutionizing-financial-investments-9338381.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/finance/how-smart-tech-is-revolutionizing-financial-investments-9338381.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 24
-  - title: "Truliant Federal Credit Union invests in Boston-area fintech for AI capabilities"
-    excerpt: "\"This is the way the world is moving,\" says Karan Kashyap, CEO and co-founder of Posh Technologies. \"This is the way that the big banks are already moving, and if you don't understand that, then it's going to just be harder for you to stay relevant."
-    publishedDateTime: 2021-05-17T11:42:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
+      name: Techinasia
+      domain: techinasia.com
+    quality: 44
 
 secured: "x109vChKOtFkzTeEUbNURRgh1XRDzGZSSJN7REAFy9jr+qunIGW3TLtAz2YrbUShQaqV7I6I4yY8ywNFPWfGW6Ca8cFaFGDppyn+GGQOST60+JRISED1R18unrqN/E+/MOjwgB2kH7J3GM6izrQvnUN32qAEuLaA3Cv7k2MXWgvGhWAifU/2Mi3aE+BoSsIAs/SpTPMEtETmImo200++YVZkwNFNTCEQqitUbu4Zi9QAC+94l5ICTUnuyS92nuhUmISi8pA9y57DWhBIxUiwTX8MarDUfxMh3gzpXawrHN0ffOD5mAjMwgG4BDkzvhb0KtOJRg9mXArAjfTi3fBoPd7I7a0IaMBzDVkovB3N/4A=;5lHE9dz9c73rk8bfqSSXlw=="
 ---

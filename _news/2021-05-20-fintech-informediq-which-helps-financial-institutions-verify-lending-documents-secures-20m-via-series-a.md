@@ -43,6 +43,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "MarTech Startup Affable.ai raises $2 million in funding"
+    excerpt: "Singapore-based marketing tech startup, Affable.ai on Tuesday said it has raised $2 million from Prime Venture Partners, Decacorn Capital and SGInnovate. According to the company, it will be using the funds to expand into international markets,"
+    publishedDateTime: 2021-05-18T06:13:00Z
+    webUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding-11621317830020.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Martech startup Affable.ai raises $2 million in latest funding round"
+    excerpt: "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns."
+    publishedDateTime: 2021-05-19T07:07:00Z
+    webUrl: "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 57
+    images:
+      - url: "https://www.exchange4media.com/news-photo/113018-Affable_Logo1.jpg"
+        width: 730
+        height: 395
+        isCached: true
   - title: "Fintech Platform Vise Secures $65 Million Funding"
     excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
     publishedDateTime: 2021-05-19T12:51:00Z
@@ -118,6 +150,6 @@ related:
         height: 512
         isCached: true
 
-secured: "+XeKNPPjNIXfaanimWPgRyW2A8Hfk9JV3gAQblFdyKlt8yJ2JKucUwjKhVjHLIvb6ctj6wZ4oyaIXJiV5jJ6nIBhKED3jdLtqQS5aKXkGt7pKUBzKxpdhg3X+nLfOcxQKIgYPJZiAOydkgnYn4mn6KAVH+OWPMeOafKy5recWoZ4EaqpmU+FPONwOLymRV9z2Pe2Y1lwoh8L9bw32TWVj370ll/Hm4rckfC4z6EETllALkzu4RKgf/1g8rhZPoK1g+Yz3dGR6cTT/pnZM2F6n+hwhxinSn4A7ILXOA6xcaUzQQ8ID1V2UvyswNFIeFUMb190VlLRxvBfnozpRNdtsJvPowIxFZ26eYsf/ILcZQw=;yHaEEXBn8B8Pv2nZihAS1w=="
+secured: "cmpI2HgUxMrtKjX/zUzTkm2coeaqvdsPea68sAhhTvY3nQXZpquhNyMyIWEmke4DIsyq5IRxN+H9pflvvLOje51kqRMJo1Bmtc5VyIF7cJuKPR8YPLiThbvaSs6r3TRYogrwkQCw9OdK5Pd2EcREVtOe5lXgjKahEpNbfAhc75I3r8Nd97uRwZko2NIc86m/QXWhzkG5buhdbnmwCYNY0x5KfdZTqA4T0m4Kh2Q7w66ZgMjXqz181P0wQi79npq+SGKrB655jJQ95CmyjEc+bwWIyKICaKZ1+I0/HBWlFtdosKr/+5VPBGEoDivEOLdJKlw2qaAWBG3rtz1+4c02KTVXi0RQGUl6e6MO6jsyho/L1CD9vf/pvBvkQVoW9GfuANvSKqP9L9S2f4yMxd6Oz5S4+tjGNaR1ELZaST5bQv5rERcf9pQBquXTdm/fLnbGDH+ouX/qFYZagHacX1mNqTGaWmZndmlyNUvqU3WqtMFjxX8ekO+y3xXULS7KvWa6u8McTQ0JwBTtq/1P8tHfOg==;37mnt56qUk+c1YqWxd3BQA=="
 ---
 
