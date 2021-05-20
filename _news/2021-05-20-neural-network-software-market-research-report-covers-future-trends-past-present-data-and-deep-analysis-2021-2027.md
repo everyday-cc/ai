@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Revenue Data 2021, Growth Potential, Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The overall artificial intelligence market is expected to grow from USD 20.67 Billion in 2018 to USD 202.57 Billion by 2026 at a CAGR of 33.1% during the forecast period"
-    publishedDateTime: 2021-05-19T14:04:00Z
-    webUrl: "https://www.wboc.com/story/43918599/artificial-intelligence-market-revenue-data-2021-growth-potential-trends-covid-19-impact-and-forecast-to-2027"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
   - title: "Global Artificial General Intelligence Market (2021 to 2026) - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
     excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
     publishedDateTime: 2021-05-20T06:23:00Z

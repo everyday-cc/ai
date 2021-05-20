@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-m
 ampWebUrl: "https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: MIT Technology Review
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/MIT_AI.Language_final.jpg?w=2400"

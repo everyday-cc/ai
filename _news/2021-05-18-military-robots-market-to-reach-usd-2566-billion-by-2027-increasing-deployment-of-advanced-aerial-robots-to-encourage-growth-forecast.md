@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-t
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-to-reach-usd-2566-billion-by-2027-increasing-deployment-of-advanced-aerial-robots-to-encourage-growth-forecast-2021-05-18"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -29,14 +29,46 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Pharmaceutical Market Share Estimated 47% CAGR to Reach USD 8150 Million by 2026: Facts & Factors"
-    excerpt: "According to the research report, the global AI for Pharmaceutical Market was estimated at USD 550 Million in 2019 and is expected to reach USD 8150 Million by 2026. The global AI for Pharmaceutical Market is expected to grow at a compound annual growth rate (CAGR) of 47% from 2019 to 2026”."
-    publishedDateTime: 2021-05-17T09:08:00Z
-    webUrl: "https://manometcurrent.com/global-ai-in-pharmaceutical-market-share-estimated-47-cagr-to-reach-usd-8150-million-by-2026-facts-factors/"
+  - title: "Industrial Robotics Market to Grow at a CAGR of 9.5% During the Forecast Period 2020-2025"
+    excerpt: "Industrial Robotics Market size was valued at 28 9 Million in 2019 and it is estimated to grow at a CAGR of 9 5 during 2020 2025 The advent of numerous sorts of techniques committed to production control and introduction"
+    publishedDateTime: 2021-05-20T19:13:00Z
+    webUrl: "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during"
+    ampWebUrl: "https://www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 65
+    images:
+      - url: "https://cdn.openpr.com/U/5/U520628557_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Global Robotaxi market is expected to grow at a CAGR of 60% during 2021-2026"
+    excerpt: "According to the MarkNtel Advisors research report Global Robotaxi Market Analysis 2021 the market is likely to grow at a CAGR of 60 during 2021 26 The growing trend of autonomous vehicles across the world has augmented the demand for"
+    publishedDateTime: 2021-05-17T10:47:00Z
+    webUrl: "https://www.openpr.com/news/2285366/global-robotaxi-market-is-expected-to-grow-at-a-cagr-of-60-during"
+    ampWebUrl: "https://www.openpr.com/amp/2285366/global-robotaxi-market-is-expected-to-grow-at-a-cagr-of-60-during"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285366/global-robotaxi-market-is-expected-to-grow-at-a-cagr-of-60-during"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/5/U517770699_g.jpg"
+        width: 800
+        height: 567
+        isCached: true
+  - title: "Artificial Intelligence Market Revenue Data 2021, Growth Potential, Trends, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The overall artificial intelligence market is expected to grow from USD 20.67 Billion in 2018 to USD 202.57 Billion by 2026 at a CAGR of 33.1% during the forecast period"
+    publishedDateTime: 2021-05-19T14:04:00Z
+    webUrl: "https://www.wboc.com/story/43918599/artificial-intelligence-market-revenue-data-2021-growth-potential-trends-covid-19-impact-and-forecast-to-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
     quality: 0
 
 secured: "0KJ+SrdcC8BXRlHFiCpv2z4+uyRwiBFWdUtE1mPG/9hw6jzt+wRIBkQcQA6vzE5zcrfAZTE92HsCXQqRzdLpw/LPcbVDIRY8Gc5MsX/wZTSqScC9Z9UlY1GXIcaQ28pymXGHyUlWgum9b7iXsl6A4I1CRwiAxW9OQRrPqxORG79psLrtBA/2HnUBy+6s1AVPkL3/mXAxw9/bINZJRSp/6xQsQUHD1XpnLmv0cENPrHF827B7WUdcxkqGghs5O0iQ2HbQhORu2z597dFiPVw0USw6mbIhyJXERZSYPwoujb5Xtl6oTE/Ai2GuJIpYOFj3/kdq1L28ObfkYx+EbZpSh9uM2jZUuQYujp9MGXWlDRo=;/OhYLRi+CTmYW+Ppqvbfew=="

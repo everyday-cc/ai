@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-20T15:08:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets/article_1b7e0efc-3224-58a3-8ec5-faa17a72dd6c.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets/article_1b7e0efc-3224-58a3-8ec5-faa17a72dd6c.html"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/d4/4d449dfe-ce8c-5fe9-929b-1f8128957f12/60a67d28d6faf.image.jpg?resize=1200%2C627"

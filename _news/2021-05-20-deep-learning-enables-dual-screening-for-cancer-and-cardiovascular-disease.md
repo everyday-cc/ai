@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-c
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Algorithm Enables Screening for Cancer and Cardiovascular Disease"
+    excerpt: "A deep learning algorithm developed can help assess a patient's risk of cardiovascular disease with the same low-dose computerized tomography (CT) scan used to screen for lung cancer."
+    publishedDateTime: 2021-05-20T18:09:00Z
+    webUrl: "https://www.medindia.net/news/deep-learning-algorithm-enables-screening-for-cancer-and-cardiovascular-disease-201304-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-algorithm-enables-screening-for-cancer-and-cardiovascular-disease-201304-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-algorithm-enables-screening-for-cancer-and-cardiovascular-disease-201304-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 55
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/lung-cancer-1.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography"
     excerpt: "Low dose computed tomography (LDCT) for lung cancer screening offers an opportunity for simultaneous CVD risk estimation in at-risk patients. Here, the authors develop a deep learning model to perform this task,"
     publishedDateTime: 2021-05-20T10:03:00Z

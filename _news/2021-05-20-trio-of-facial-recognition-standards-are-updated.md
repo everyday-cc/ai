@@ -335,13 +335,13 @@ related:
         height: 1000
         isCached: true
   - title: "Amazon Indefinitely Extends Ban On Police Use Of Face Recognition Technology"
-    excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters reported. The company said it would extend its ban on police usage of the technology \"until further notice."
-    publishedDateTime: 2021-05-19T10:18:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-2021-05-19"
+    excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters"
+    publishedDateTime: 2021-05-19T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-1030445472"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 48
   - title: "Lightfoot’s office was blindsided by CPD’s use of controversial facial recognition software — then raised serious concerns"
     excerpt: "Hacked emails show the city only learned police were using technology developed by Clearview AI — which faces multiple suits claiming it violated the state’s biometrics privacy act — until after inquiries last year by the Sun-Times."
@@ -621,15 +621,15 @@ related:
     quality: 26
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:55:00Z
-    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    publishedDateTime: 2021-05-18T23:56:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 19
     images:
-      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+      - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
         width: 500
         height: 333
         isCached: true
@@ -643,6 +643,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "qAHtjrkbTG+HIEQgYxHOpnB9iWA1aTeiCOcaEaFMzpGI1ZTljLOkOJO3nXFYlYD95J/tL/MDOkk4BaHuuEw68/Gcse9R/CqNaPfEB/whyE+Ow5+nrNdG0W+P/cAtJ0M4rsRfTCFtJWMXKh1p4WorJiMbJpvXA089qv8Yp3JZZGR5tgoYApP5q/w6c63rxW0RZR/eKuEFl/mtvhCu1SglAgUUgomZI2GxjfKF3Rl2gJjdybGrztq7gVgmaMv0UPOzmsU0HjZmYPaik0bRdlC+A/FQF+MtjFQ1CV1tng+E+55lLanRuU3rlDPObvm4RQHxyfVNcgsTDEJnGn3aQ/9DsLMlQxXCyO6X85O68Ldef/w=;oUc+ozLTv4m0vL1g7yQP2g=="
+secured: "BFbrZivcgoMeFutCXFf3jKt3nr+lMlFXlNMbGE0sayZIH6uQ8KkQaTBPaIf8dZfhD15EoGShCECMNMwF06QUamaQfkouk5YI49/Q0OolC13vnHzimiVembvuHw/ZwxR4C+P4/M27vcesHdDvg2m4hIfjkr+E2PBlbUzgWclD/k9tYZw5EQyqSj4yXqJ+EXcjP3SyKx1zzEUjQjN6yOvSIYBHsAC8KEFaCO+Ys4EBlHdeulfIKQI2Q7EuzaQbRVcj1su1rHBHCkFtlQJI+i/GoClNvF7NLQbZQgN+SwdFTADXiS2Ab7jKmROl2VgW7MAiPJtkesXebVAjyW9IygqCDT3Ftco7SY4beuOPEcedy60BMlXKYSq3swW5i80wfWpSy+L/OWeFRSb6M3dCxtAh5WRdQA0W+EyJCtK8kKnyJKrmq7Cb/BobuMuwexhGzadD5bEqqP/+uQnAeoEphsvgufMf2KSgA0CLd57XPaoizKO2ipa8idwQ7nvii0yR8c03986bOgYVQipO425epU5/KQ==;/kKkaS6amn09pNXzgm+VjA=="
 ---
 

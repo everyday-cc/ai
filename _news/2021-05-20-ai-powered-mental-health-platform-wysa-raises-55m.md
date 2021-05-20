@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered chatbot Wysa brings in $5.5M to focus on employee mental health"
+    excerpt: "Wysa, an artificial intelligence-enabled chatbot, focuses on the “missing middle\" of mental health, between meditation and medication. The startup has raised $5.5 million in Series A funding backed by Google Assistant Investments."
+    publishedDateTime: 2021-05-20T15:04:00Z
+    webUrl: "https://www.fiercehealthcare.com/digital-health/ai-powered-chatbot-wysa-brings-5-5m-to-focus-employee-mental-health"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 35
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1621524630/Wysa%20Founder%20photos.JPG?Sx1ORCR1ev5U2.4JEX5vONS6iyJ9kuq."
+        width: 2550
+        height: 1700
+        isCached: true
   - title: "Wysa Puts $5.5M Series A To Work Targeting ‘Middle Of Mental Health’"
     excerpt: "Wysa's chatbot function creates a safe space for users where they can be heard, feel validated and be guided without stress."
     publishedDateTime: 2021-05-20T14:00:00Z

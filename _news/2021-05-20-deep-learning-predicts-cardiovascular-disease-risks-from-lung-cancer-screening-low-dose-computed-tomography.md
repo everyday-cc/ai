@@ -41,6 +41,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Deep Learning Algorithm Enables Screening for Cancer and Cardiovascular Disease"
+    excerpt: "A deep learning algorithm developed can help assess a patient's risk of cardiovascular disease with the same low-dose computerized tomography (CT) scan used to screen for lung cancer."
+    publishedDateTime: 2021-05-20T18:09:00Z
+    webUrl: "https://www.medindia.net/news/deep-learning-algorithm-enables-screening-for-cancer-and-cardiovascular-disease-201304-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-algorithm-enables-screening-for-cancer-and-cardiovascular-disease-201304-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-algorithm-enables-screening-for-cancer-and-cardiovascular-disease-201304-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 55
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/lung-cancer-1.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "zMEc5q2QccXUDj6sAqR4RwCflwvK4OK8TvPU+MNy+DPNv5H8QanyAcuzXB3ZplpME60yuaEgUZ0khZna+bAAtWimHmkSnVNB41eWQZVmznnboIkR5/YPY84Hlx57HLQe9VfXrm2Iww/0OASUW5tnvjbWGSb5kb69iPTH6wWhahc/l37KaklyRHP7Ws9ZeoMSFZEvaRfN5W1rCb+aAItG3+bNrN997F9eSXhFaXP5C7yUq5pvPuiFgx3reJsy+tyRMP2GYZc1zJWa6Xwei23Jux6YEfZt7lW48yQmVL2U+LFeaWOh+8/0tqRIjY7G2dDARXqfs+yrkJFoNAL7qX2hyD8DCdCFy9xOb416eArwAoiu8QpofROJHp61OB3khoOtBmLpzUCIWhIao5lU1bi4HZwUzLMn+aAdg6aIvfUqmVVUoqgvh0lVVIbDJqTN4eicMi5TTYxPrCH+v+QDV3fLbY7Gxkh63HADBopu9uvTLO3jsPU/RFux5Urj7Bc21E9fklJQcMWAkz6EeePd59t+WA==;NWKhpPnKR3y25+mr0doZFg=="
 ---

@@ -59,6 +59,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 14
+  - title: "FinTech and Payments Industry Expert Eric Woodward Joins Socure as Senior Advisor to the CEO"
+    excerpt: "Socure, the leading provider of digital identity trust and verification solutions, today announced the appointment of Eric Woodward as senior advisor"
+    publishedDateTime: 2021-05-20T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210520005636/en/FinTech-and-Payments-Industry-Expert-Eric-Woodward-Joins-Socure-as-Senior-Advisor-to-the-CEO"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "nriDLN+rym/Ule89Hz05+3zC972grSnVCIovBoO8k4JAH3e0gb0SUwlcluKm76/BYXfXacY5rhDwCgPwHSBrVTBXa91IFx1w93oEcZR5ZlRLiqAYZni6DWeKC+aQbJJzVUqJUExid+wUofaeeUFU6/9TtmSyYLy9R5W2nqrfgAUXmH5+vha6O0NDFDyOlHnv7hPylXxfGiOghOywbXxpo0EM87lNlmz5sp4qiNKbfrKhZTokZKheTvdVyNmqEidVZdbAFCJYxLXNnN26pHuv4Zu6GSgGCuDtZ0mzoHcpBX8S/12krRMgndITrFD0BOrC5+WnU0jneG9QFLSNVtsS09YgmIN29SYRtL8YS+Q3RVI=;3Knx4rngjkxghPS8p+FIqA=="
 ---

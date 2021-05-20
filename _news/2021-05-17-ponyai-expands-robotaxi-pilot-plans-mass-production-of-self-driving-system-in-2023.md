@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2021/05/17/pony-ai-expands-robotaxi-pilot-p
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/05/17/pony-ai-expands-robotaxi-pilot-plans-mass-production-of-self-driving-system-in-2023/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 950
     height: 633
     isCached: true
-
-related:
-  - title: "Global Robotaxi market is expected to grow at a CAGR of 60% during 2021-2026"
-    excerpt: "According to the MarkNtel Advisors research report Global Robotaxi Market Analysis 2021 the market is likely to grow at a CAGR of 60 during 2021 26 The growing trend of autonomous vehicles across the world has augmented the demand for"
-    publishedDateTime: 2021-05-17T10:47:00Z
-    webUrl: "https://www.openpr.com/news/2285366/global-robotaxi-market-is-expected-to-grow-at-a-cagr-of-60-during"
-    ampWebUrl: "https://www.openpr.com/amp/2285366/global-robotaxi-market-is-expected-to-grow-at-a-cagr-of-60-during"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285366/global-robotaxi-market-is-expected-to-grow-at-a-cagr-of-60-during"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/U/5/U517770699_g.jpg"
-        width: 800
-        height: 567
-        isCached: true
 
 secured: "32PEYhiMFMJVnW9UONjq8NvZNJHuxfL+uX2A20RMW//uD1bqgc+67e65ycblFcE+G5ZWJ4IWsQsui6Y9IEuBlNqQfxhfLrt3tzAym0cDDLLjoUy9mm/n16beAF8PQJkR42w3Msf5aQfNkJ4JgxTveDQF/FG1HLPFcXb7210xSF/rU8CCegNFjnT/oclBhzdbSqemhxyNfWd8z2g/cO8KuiKeXvlTn70FizA6K+tssZR9qsle1IDY93Qw6p9RqqhbscB4dyZRyld7fbknfqyXfAq1s/990PP3Dt1v5iPbjHG6tRb6FtFmDdO57oByCCT7BW1/QKtaAI/KxX8XbABwzWGHgdywINngeibBPhFn/tk=;me3iGVIHdLlkRw8ReprpTg=="
 ---

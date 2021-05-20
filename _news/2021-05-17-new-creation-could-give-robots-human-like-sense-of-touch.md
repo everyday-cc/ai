@@ -7,7 +7,7 @@ originalUrl: "https://www.printedelectronicsworld.com/articles/23813/new-creatio
 webUrl: "https://www.printedelectronicsworld.com/articles/23813/new-creation-could-give-robots-human-like-sense-of-touch"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "Brain stimulation evoking sense of touch improves control of robotic arm"
+    excerpt: "The brain-computer interface user was able to transfer objects with a robotic arm at twice the speed of doing it without the tactile feedback."
+    publishedDateTime: 2021-05-20T19:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 63
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
+    publishedDateTime: 2021-05-20T19:18:00Z
+    webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "RofHvC012BxPJIo6DNqfipa2f43rAkQNgyNavHSzR0udnZGrE/C8x7KJEgICMlzkntr/aW5dOWNosklsdJG1xrPtcVhnleF46z++44jzXwK5/NQATKBq5YBhwfAjo8DbBTlixyK6bUK+0FeXHcw4sijn9f/EvbhRdCCmMwUWwvWh2Rmq01DmW/S44p9pXKOYF6d6vh/OUCREvlWNb0PnE7QDFnQ57OBRU6sotNco3DeQF/hCwWZ5++pRqNR1jWwUBwSf+Lv5Qj3xvk+DpgHJdRWQzCqyx23ZcBklpQtPxNRcH/ceOOO9vjtp96bOvxJL/9sTJtxks8+2nluxvl16Os/0zH04fxPfAgYCaoOpFWWx+u9SFL73rL88PmGpoHJRNNgiXbQ8E9cc935a4+I1aBW0Q/QuT5uuRAR3/TNcuFLwliOANFxSMXkV90Jph2O9dF+NjYNmO5bSlo0VxXOVnZmcx2EobV3uldDkZmXMLYjN/hWpUpSzSHlMHKzrrGFNTfJTzZMag2gMbFK1foQ/6g==;EeogZdcJ1aYCoViIUzbWfA=="
 ---

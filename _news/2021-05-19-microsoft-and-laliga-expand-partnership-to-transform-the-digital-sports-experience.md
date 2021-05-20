@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
-    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
-    publishedDateTime: 2021-05-17T16:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 51
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
     excerpt: "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga's technology offering,"
     publishedDateTime: 2021-05-19T14:20:00Z
@@ -94,15 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "Microsoft Expands Partnership with LaLiga"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and LaLiga has announced an expansion of their partnership that is focused on digitally transforming the sports experience on a global scale."
-    publishedDateTime: 2021-05-19T15:13:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-expands-partnership-with-laliga/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "H2jTqWkGUtUIYjSYXGbRm/p3S+hjCIA+hxxTgO95oJFvinA9u0/+poWjgCNf73zI7x7PBkmJ50+jgQhb7p6an+v5+S2X8+7BbyajwPwPPwFmyh0P/BiFuN6AixsfOL0XMSodxMBxQ0onHwV1LiRdr9MzYyMdrwSnYNuvKum7lIzg8AS9ohCiimgyS4gq0WDB7xyBPKdunawz55fSiL07lFanjoDDCW8OR4z96O/RdK072STnWepaRz5OP81WMH7CBJINyLjqPg3kI6Xsg9dsllKTqZW1CqrnvKhKtMgE2jgX/FyscFvzRUSxknfGpFIdw7ewru1EWWWoEpmJqJAPwO6ZFsJcmcW69loRvGFRpjw5mtkNROxYM/74wGEOQLT+qZBsJIOhPicCSdSHckHOCzEXIp4UywiwqYQmLxW3DdkJ0q+DgBqJI2vDwqPZ27XDn1PY5V4+yFv6zbd3PX2e4CNl7WhLa130EBSANThpxHqWemGVw2gLw0ZN4yD2YciCndTJMwxY3UdivhujDbHUPg==;oa4lOhY6UFxmmprwZOQ/gA=="
 ---

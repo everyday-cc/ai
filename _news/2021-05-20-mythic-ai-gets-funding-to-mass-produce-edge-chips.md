@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
