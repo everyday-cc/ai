@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
+      "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
+      "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "originalUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/abstract-robot-thinking-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "cdnAmpWebUrl": "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "publishedDateTime": "2021-05-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
       "title": "Slicing up pizza robots",
       "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
@@ -1402,49 +1445,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-embodied-acquires-conversational-ai-startup-kami-computing.md",
-      "title": "Embodied acquires conversational AI startup Kami Computing",
-      "excerpt": "Kami will strengthen Embodied's Moxie robot by adding memory of past conversations context, consistent personality, common sense reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/embodied-acquires-conversational-ai-kami-computing/",
-      "originalUrl": "https://www.therobotreport.com/embodied-acquires-conversational-ai-kami-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/05/Moxie_Embodied_Lifestyle_002-scaled-e1598288717694.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

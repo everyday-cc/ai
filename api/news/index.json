@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
+      "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
+      "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "originalUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/abstract-robot-thinking-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "cdnAmpWebUrl": "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "publishedDateTime": "2021-05-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-jim-kellers-tenstorrent-secures-200-million-in-new-funding-looks-to-surpass-nvidias-ai.md",
+      "title": "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI",
+      "excerpt": "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-20-image-16.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "publishedDateTime": "2021-05-20T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-geospatial-startup-unfoldedai-acquired-by-foursquare.md",
+      "title": "Geospatial startup Unfolded.ai acquired by Foursquare",
+      "excerpt": "Well, that was fast. Just a few months after raising its seed round, Unfolded.ai announced today that it is being acquired by Foursquare. Terms of the deal were not disclosed. The startup had raised a total of about $6 million when we last checked in with them.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GaryLittle.jpg?w=600",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
+      "publishedDateTime": "2021-05-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
       "title": "Slicing up pizza robots",
       "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
@@ -154,8 +300,8 @@
       "title": "Vital signs positive for AI in European healthcare",
       "excerpt": "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "originalUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "webUrl": "https://www.techradar.com/nz/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "originalUrl": "https://www.techradar.com/nz/news/vital-signs-positive-for-ai-in-european-healthcare",
       "featuredContent": null,
       "highlight": null,
       "heat": 116,
@@ -172,8 +318,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
       "publishedDateTime": "2021-05-20T07:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -847,7 +993,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1100,162 +1246,6 @@
         "AI",
         "Google AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-maysam-moussalem-teaches-googlers-human-centered-ai.md",
-      "title": "Maysam Moussalem teaches Googlers human-centered AI",
-      "excerpt": "Originally, Maysam Moussalem dreamed of being an architect. “When I was 10, I looked up to see the Art Nouveau dome over the Galeries Lafayette in Paris, and I knew I wanted to make things like that,” she says. “Growing up between Austin, Paris, Beirut and Istanbul just fed my love of architecture.”",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/maysam_moussalem_photo.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/maysam-moussalem-teaches-googlers-human-centered-ai/amp/",
-      "publishedDateTime": "2021-05-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars.md",
-      "title": "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars",
-      "excerpt": "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60121be798e828df8537895d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D46%26cropY2%3D4186",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones.md",
-      "title": "Qualcomm unveils chips to power the next generation of smartphones",
-      "excerpt": "Qualcomm unveiled its new Snapdragon 778G5G mobile processor platform to power high-end smartphones coming in the second quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/qualcomm-event-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/",
-      "publishedDateTime": "2021-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

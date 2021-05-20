@@ -1,23 +1,25 @@
 ---
 category: news
 title: "CHS Begins Development of Artificial Intelligence Software Products for Medical Diagnostic Imaging Industry"
-excerpt: "Peter Solodko, CEO of (CHS), a medical administrative management business, is excited to announce the company is taking steps to"
+excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce"
 publishedDateTime: 2021-05-19T19:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry/article_25c0625a-c36e-5342-be25-0ae704fd298c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry/article_25c0625a-c36e-5342-be25-0ae704fd298c.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21203802"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21203802"
 type: article
-quality: 1
-heat: 1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "cEXXCIqP49KJ6LePzTWFNira9sMP0uwVPmDXp9zc2qIQCbxDWM3sNxXMseWR+eDduHeKWLUsUkA7QHdnN7tjMuUM/DXcwC3fX/vVy2NiIOaYqCDNmXt8KuRA4k5pOe6SRPGOIINFgnWmiRCt95tp+M0xUJqJWC3bkk/ZJtpA8b5y728qW8FM/YEBaHyiVn7PdBGx0ND0PREys2QfccVBNCZetdCSm2qTm7NA0U1UmKkBSF8T2H0SDktYIIs/BJCdpuuO8Izq/hut8CWVT4DgYHVYwVO2pbhu4EWcA3uPOX1lwZirsTD8gSMb1iymE6fOVqPFHwKGWqIakAgzGAokWPFo+Kt4Lgb5klFD4dRubBI=;oaKItPvJTPDqMPYTy16Jlg=="
+secured: "0kXDTcRthHJu4/c5SlOxlWdcvJuK9K2apWTOce176dBfrx96C20AOXSR0MZ1SVUhM42B6Suod4ZAnZzb+ZT98Z7Hf4s3pXnJxuDo1CBPc+3DcbFa1R7wuXX01fFqYpE91SJx3bb4Luw3LufKbncrA77Km0S8ekkpwV7L+r9S9Xf1LH/7O6taedVAbysMuU1pjHlFM/Mba+r6XvXUvi4/ozEEfWZo3DgaYqkoHFVR2EABQqS57qZTp/KxS+agoIHoUS0GHjg6znuKXAHrEkiNY8IBZNFEZ0UN2WpNRGfvVlcy9RPRfnMprOOTN+pds2/smDwfNMPJBpxOT2ERXcV4LPHNtVALMMk+4khhMtj0gyY=;NTIAL/qpHrn0V0nT5GnopQ=="
 ---
 

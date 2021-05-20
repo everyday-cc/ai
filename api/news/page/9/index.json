@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-12-grant-awarded-to-develop-artificial-intelligence-to-improve-stroke-screening-and-treatment.md",
+      "title": "Grant awarded to develop artificial intelligence to improve stroke screening and treatment",
+      "excerpt": "New artificial intelligence technology that uses a common CT angiography (CTA) as opposed to the more advanced imaging normally required to help identify patients who could benefit from endovascular stroke therapy (EST) is being developed at UTHealth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoth-gat051221.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoth-gat051221.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/264837_web.jpg",
+          "width": 600,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-analog-chip-startup-mythic-raises-70-million.md",
+      "title": "AI analog chip startup Mythic raises $70 Million",
+      "excerpt": "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-82565981,imgsize-35602,width-800,height-434,overlay-etcio/ai-analog-chip-startup-mythic-raises-70-million.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "publishedDateTime": "2021-05-11T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-jumping-robot-looks-like-a-product-of-doctor-wily.md",
+      "title": "Jumping Robot Looks Like A Product Of Doctor Wily",
+      "excerpt": "We love it when footage of a robot prompts a “holy crap” response from us. This little guy, a product of the Chiba Institute of Technology, uses four rods as a suspension system for jumping.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2010/06/25/jumping-robot-looks-like-a-product-of-doctor-wily/",
+      "originalUrl": "https://hackaday.com/2010/06/25/jumping-robot-looks-like-a-product-of-doctor-wily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.youtube.com/vi/QBYT2PeLxUk/0.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-modular-robotics-made-easier-with-ros.md",
       "title": "Modular Robotics Made Easier With ROS",
       "excerpt": "A robot is made up of many hardware components each of which requires its own software. Even a small robot arm with a handful of servo motors uses a servo motor library. Add that arm to a wheeled ...",
@@ -1036,143 +1165,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics.md",
-      "title": "Innovative SAS Hackathon winners solve big problems through AI and analytics",
-      "excerpt": "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d/gallery/db813bd3d0224bec8df0b238833eaa8a",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d/gallery/db813bd3d0224bec8df0b238833eaa8a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-kfin-technologies-announces-investment-in-insurtech-startup-artivaticai.md",
-      "title": "Kfin Technologies announces investment in InsurTech startup Artivatic.ai",
-      "excerpt": "KFin Technologies, a General Atlantic-backed and one of India’s largest registrars announced its investment in InsurTech startup, Artivatic.ai. They have bought 17% stake in Artivatic on a path to majority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/07/partnership-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp",
-      "publishedDateTime": "2021-05-11T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-edge-ai-chipset-developer-simaai-raises-80m.md",
-      "title": "Edge AI chipset developer Sima.ai raises $80M",
-      "excerpt": "Sima.ai, a startup developing an edge AI accelerator chipset, has secured $80 million in venture capital backing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/",
-      "originalUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/amp/",
-      "publishedDateTime": "2021-05-11T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

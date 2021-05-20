@@ -2,6 +2,154 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
+      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
+      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
+      "title": "Amazon releases DeepRacer software in open source",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year.md",
+      "title": "‘Self-driving’ cars could get green light for use on UK motorways this year",
+      "excerpt": "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
+      "originalUrl": "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
+      "publishedDateTime": "2021-04-27T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-state-of-the-art-natural-language-processing-for-pytorch-and-tensorflow-20.md",
       "title": "State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0",
       "excerpt": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. - Shaowen310/transformers",
@@ -1060,153 +1208,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-computer-vision-is-changing-residential-property-management.md",
-      "title": "Computer Vision Is Changing Residential Property Management",
-      "excerpt": "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring AI solutions into property management. Property management is an essential service facilitating the balance in the rental housing market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-google-pressured-on-racial-equity-audit-after-ai-ethics-collapse.md",
-      "title": "Google Pressured on Racial Equity Audit After AI Ethics Collapse",
-      "excerpt": "Gebru and her co-lead Margaret Mitchell were ousted and have blamed a sexist and racist culture as the reason they were excluded from conversations about AI ethics. Gebru is well-known for her work on a landmark study in 2018 that showed some facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iox2cS.BPlds/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
-      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
-      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (“C-FER”) and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft”) are pleased to announce that C-FER has entered into a technology sharing agreement with OneSoft’s wholly owned subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
-      "originalUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

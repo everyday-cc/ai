@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Neural Network Software Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2021-2027"

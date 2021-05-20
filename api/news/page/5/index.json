@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-17-waymo-self-driving-taxi-confused-by-traffic-cones-flees-help.md",
+      "title": "Waymo self-driving taxi confused by traffic cones flees help",
+      "excerpt": "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-57144755",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-57144755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-57144755.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp",
+      "publishedDateTime": "2021-05-17T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-learning-from-the-past-to-future-proof-your-customer-service-operation.md",
+      "title": "Learning From The Past To Future-Proof Your Customer Service Operation",
+      "excerpt": "After 1918, telephone companies were never the same because their entire trajectory of innovation changed, as did the expectations of their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2b1ba333bc3442553ebf61%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
+      "publishedDateTime": "2021-05-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-burnley-hands-academy-trials-to-two-players-using-artificial-intelligence.md",
+      "title": "Burnley hands academy trials to two players using artificial intelligence",
+      "excerpt": "Burnley has handed trials for its academy to two players this week after the pair was scouted on talent identification platform AiSCOUT using artificial intelligence, the Premier League club said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece",
+      "originalUrl": "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportstar.thehindu.com/incoming/article34579213.ece/ALTERNATES/LANDSCAPE_590/Burnley-",
+          "width": 590,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/",
+      "cdnAmpWebUrl": "https://sportstar-thehindu-com.cdn.ampproject.org/c/s/sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/",
+      "publishedDateTime": "2021-05-17T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts.md",
       "title": "Researchers develop AI that can detect sarcasm in social media posts",
       "excerpt": "Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and",
@@ -1077,164 +1214,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-ponyais-self-driving-car-takes-media-for-test-drive.md",
-      "title": "Pony.ai's self-driving car takes media for test drive",
-      "excerpt": "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210514&i=OVECXWMSF&r=OVECXWMSF&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40.md",
-      "title": "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40.",
-      "excerpt": "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/",
-      "publishedDateTime": "2021-05-14T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-ibm-think-2021-all-in-on-hybrid-cloud-and-ai.md",
-      "title": "IBM Think 2021- All In On Hybrid Cloud And AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead attended the IBM Think 2021 event last week, which is the premier hybrid cloud and AI event for IBM as well as the company’s annual flagship event for customers and partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609e948de2ae75870e17f414%2F0x0.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/amp/",
-      "publishedDateTime": "2021-05-14T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

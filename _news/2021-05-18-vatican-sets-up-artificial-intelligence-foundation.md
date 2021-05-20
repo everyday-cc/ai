@@ -38,6 +38,20 @@ related:
         width: 696
         height: 392
         isCached: true
+  - title: "Global Biological Data Visualization Markets, 2020-2021 & 2025 - Adoption of Artificial Intelligence for the Analysis of Biological Data & Rising Need"
+    excerpt: "The \"Global Biological Data Visualization Market (2020-2025) by Technique, Application, Platform, End-Use, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-05-20T15:54:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=472996"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "IyH/wvpN56mq8644cu0dXB1NYt6mgBLO8dfkPPtm63NBDvSLy9pPeq0e/PAdqw/9I4bcfS9b/dIkW2XdrYJgAh+VoA89ybGo6cAC77RMEP7HmYezhAeROOf0UXkueUgrg7ZmfKxquhWm3lyYvtTR/ru8Wr+Bt50gGlsYjzsIwVgP5peKE/6X9dv7IX5ZXPO/GDYtPazU5cbDxR65BCfB53p06DlKjzvDcD/oZ/KteOp/u1rDtKWLhOCvPrBaTeCmUInDGFqqrBQOS4QaEK4OrrOQvjBCDAdx5NnRccqu2/dBLFLulM1bYMFL8QZFOs8nMVY+hJf2T39rHnEN4Tf2b+nXJ3cS6hNjT6QJxzs/yxk=;Ox9bQ4UVno2S75u1w4bfTw=="
 ---

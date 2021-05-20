@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-jim-kellers-tenstorrent-secures-200-million-in-new-funding-looks-to-surpass-nvidias-ai.md",
+      "title": "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI",
+      "excerpt": "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-20-image-16.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "publishedDateTime": "2021-05-20T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing.md",
       "title": "Qualcomm Cloud AI 100 Is 3X More Efficient. What’s Missing?",
       "excerpt": "As the Cambrian Explosion reverberates across the landscape of AI chips, the benchmarking silence of challengers stands in sharp contrast to their marketing claims.",
@@ -160,7 +212,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1457,49 +1509,6 @@
         "Machine Learning",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip.md",
-      "title": "Esperanto Technologies Adopts Movellus Maestro AI, Intelligent Clock Networks for Its ET-SoC-1 Chip",
-      "excerpt": "Esperanto Technologies has adopted Movellus' Maestro AI intelligent clocking solution for its ET-SoC-1 chips. Esperanto develops high-performance, energy-efficient computing solutions based on RISC-V for Artificial Intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-1030384332",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-1030384332",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -232,22 +232,6 @@ related:
         width: 1121
         height: 630
         isCached: true
-  - title: "Watch now: Facial recognition technology was tested by Normal police in training"
-    excerpt: "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology —"
-    publishedDateTime: 2021-05-15T23:07:00Z
-    webUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.html"
-    ampWebUrl: "https://www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
-    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-normal-police-in-training/article_38381073-97f5-517e-8a77-9e7272f5580a.amp.html"
-    type: article
-    provider:
-      name: The Pantagraph
-      domain: pantagraph.com
-    quality: 69
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/4/6a/46a3f1f4-c290-5935-8448-d7502215d0d4/601e08137f8da.image.jpg?resize=1024%2C680"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "States move to limit government use of facial recognition software"
     excerpt: "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition."
     publishedDateTime: 2021-05-19T21:25:00Z
@@ -573,6 +557,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
         width: 800
         height: 449
+        isCached: true
+  - title: "Trio of facial recognition standards are updated"
+    excerpt: "An article published in the journal Standards Engineering calls out developing ASTM International standards for use in facial recognition."
+    publishedDateTime: 2021-05-20T16:18:00Z
+    webUrl: "https://www.biometricupdate.com/202105/trio-of-facial-recognition-standards-are-updated"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
     excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"

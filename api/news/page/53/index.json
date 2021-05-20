@@ -2,6 +2,116 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-04-03-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year.md",
+      "title": "Self-driving startup Argo AI is said to consider IPO this year",
+      "excerpt": "Argo AI, a self-driving startup that is backed by Ford Motor Co. (F) and Volkswagen (VWAGY), is reportedly considering an initial public offering as soon as this year.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "originalUrl": "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "publishedDateTime": "2021-04-03T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
+      "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
+      "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "originalUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/IMG_20210325_164803.jpg",
+          "width": 673,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "publishedDateTime": "2021-04-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
+      "title": "John Krafcik quits as CEO of Googles self-driving car project",
+      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "originalUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "publishedDateTime": "2021-04-03T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle.md",
       "title": "AI Infrastructure Market to Witness Astonishing Growth With Vital Key Players | Intel Corporation, CISCO, Amazon Web Services, Facebook, Oracle",
       "excerpt": "The Global Report on AI Infrastructure Market Size, Status, Growth and Forecast 2021-2027. The report provides a unique tool for evaluating the AI Infrastructure Market highlighting opportunities, and supporting strategic and tactical decision-making.",
@@ -1002,136 +1112,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
-      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
-      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
-          "width": 672,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-viennese-researchers-develop-super-fast-image-sensor.md",
-      "title": "Viennese researchers develop super-fast image sensor",
-      "excerpt": "The image sensor can simultaneously capture and process images, making object recognition many orders of magnitude faster. The device does not consume any electrical power when it is operating, since the photons themselves provide the energy for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg",
-          "width": 292,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard.md",
-      "title": "‘Accuracy in AI is a function of availability of quality data … building NLP tools for low-resource Indian languages is hard’",
-      "excerpt": "Accuracy in AI is a function of the availability of ... That’s called addressing a native language translation. But at IBM, that’s not what we’re talking about. We are talking about really ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/Gargi_Dasgupta-1.jpg",
-          "width": 630,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "publishedDateTime": "2021-04-01T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

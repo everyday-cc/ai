@@ -3,11 +3,11 @@ category: news
 title: "The 10 Hottest AI Chipmakers You Should Be Watching In 2021"
 excerpt: "CRN looks at the 10 hottest AI chipmakers to watch in 2021, which includes Intel, Nvidia and several startups in the AI hardware space."
 publishedDateTime: 2021-05-18T16:07:00Z
-originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/10"
-webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/10"
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4"
 type: article
-quality: 39
-heat: 39
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 449
     isCached: true
 
-secured: "mx+FRxcMU0YZJ3cOEm3mvjRjf2lK4GC2oh8dRlErwnc8lQPHxboaDg0dFCP0emdPuodyVQv0rCB/MrPPlfRKffdB/RO8S35NWcAjQDBTnKqDf2E8yiMEUXAwjMs4A1jHN29NgEvz/hX8JuAB5IdDLxLHA3a/UV/zQkRlYh/Pgjych5rPzfZNaHuqKH0h3IYtAEPNnI+bGnUBg+Big/AW+IAMsogY2I3frOKfO3Gw9K62kS2HJzEuwSiZHpymNNBhhOejVSbo58lq8TPOZ3hf7eLSvPCK+MSQd8rqFFlDQu1UZTHA0OFz7pTFaWv4kB1kGPeXUBvFtwFe3qmWvwOKU0DtYC5tg6boF+YrAIE/4c0=;NB6HlUCoa+FQZRgapJTM6Q=="
+secured: "dygJ48UuoMJaE20twOU+VSgM80k9NhwFdKjWHSKfY054f7p//IRmqeUvUL8dPCTY1i/NZBeuLbSFF5U4LEwBYJr+BFGQPlr/FzIHExcELvJXbP3JoFz0nz8rkcg7jJQnUS/8wrGnKpoBXsJHa/SNUXbWpRpGVyICNdW7KmRIay0GeYs1eMEtuJGc36vgiKrchKxGW2z8QEWLb6Uw5VJzP58j/5KAkYZN2qYLDDLHjlJdfruHMhjduLMQt56mmAryH+PmH4OAE0TpDF1813QNkZtViDYy20h+gxBKJSlUH2cPI1mD94EzfNOvj5uf85REHZ5pyE+eFLuoGhFOsX8Cg0AOJQ4Twnka9JyCYRXiSDw=;eSDPkuqEPYEZmqYdInwhOg=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-wit
 ampWebUrl: "https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/amp/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Google AI
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/Google-CEO.png"
@@ -91,6 +92,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pTOsSVYyxhaQUzSX9qPgVCyoUlHJItGgOatiwlkbyJGUKbjBoB2qbGcSX2/7U6shDYPfpON7Hbw1OSQgmCxTpnAV1xEyg2PsdJVDieCfvGMcw+ZXTQI9aPczgS0NzfV9vrMRoD7zGzvK3Ya+idxVya3rabf6t1TktfC7aBZYbRixFYeIjYbI5lZEZOJUgbgEcwwF79JOVhwu6Z4hwJJIzmtS+Q1y6JFiJ3qbdtT06AeZjnkGzreDo33ILZMgP/u7HW8j9folqe510cwKEPySEY9Vi+GMniJfauKROqtxF1xQmfJ0TsEOxfwIs099a5Oix7elDNcwH4Fjg96JnGXElxwqnAoLrFLZrzSRWObLFNE=;z1MupRP2cNw4qy7pkFhy+w=="
+secured: "3bbV/tFhtKmSR3P6sC2c1MtYT3EsW+PsYUbD1WZXLyAALfaBTBRAr35TIM0uq0pIbip5FsS2lLUS9sB6Z0VTbgy3NtnWHO9ZCFVN/47tO8U88/7OcJOTUg07woZkeRt9b/7ohxhXSL7o0pGGIF4fwozCU5GCs8yKOwSJv7VDcRE8T30YJwwREX9sbAmCRkj+mNl1d6rNbPcwCSd7+MtpPzRA7v0KX34qQDfkiVWxV2EP2ziejenIktbYu+ZA5M5ECqTr0QDSRCNIipEJs30xGoxnBV7L9fUkskaDUdh/W4hFIL9OOdkIArDfhUsDpkvAYuGEZOKywp4JL+JQ3oyfk4Nk37EOguDv1vVjj1JpiCrg4w48XZaB1EN+g7Z4PYMHUJBJeNqtsCpfbxQ+A8V7ldzDOJuipJBgkDtpAr4/sUJMB7SdTZ63bZ7qgkFcKvrKp6th7PQYvWyo7CBcK4wghfAuw6Q0WxmpogDDAsts0RjBW5aNXiz4nSC7Po9h9Uso7spo7b9U0YB7AhouOb0v/w==;G2nv0fzagzYgaMYdjuzdEQ=="
 ---
 

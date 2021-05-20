@@ -57,6 +57,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Qualcomm Snapdragon 778G 6nm Chip For 5G Smartphones Launched"
+    excerpt: "Chipmaker Qualcomm has launched the new Snapdragon 778G 5G mobile platform that is designed to deliver cutting-edge mobile gaming and accelerated artificial"
+    publishedDateTime: 2021-05-20T16:54:00Z
+    webUrl: "https://www.techshout.com/mobile-phones/2021/20/qualcomm-snapdragon-778g-5g-mobile-processor-unveiled/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/05/qualcomm-snapdragon-778g-5g.jpg"
+        width: 690
+        height: 480
+        isCached: true
 
 secured: "PADQ3IZST3a5XyUoZVUmVQXkMThL/ZQHnNLuJwj1iNm2GsuTe4Eu2xzqp4/TTDpWp/iS+JOtGYl2KtN9GH82hBUlnAJSUGMNuAkyreJ6S8T0e9W43kQzZS9siCD4KxWbahr272cF647aQeCgcudcPLOxjifHqOh+EwOOR/H9h1Y2lDdPspshcAujSfgpdBS4DpxIe6yORgdjKzW1Q1PN2dc0IZ9KC1W36+QE42E1rZZgXezC0g7vBe3Cve9o2pGTfXYQr7N1Qr+Wmhwbd5IAJqByOlWqZdgjySwD7amZQXu7xlSfTjyKCOwSEK0izGARdZZIL9SPbf6cOnYyUSoz0O6bQcCo0n6kB3J7FqX7Hhn4CXJLljYqLpXOOdORkjD0qH1hc45/uB0BH+uAtziqEp4rKYkZ1KpFgtd+fjEHXzrjl940hTLYY1GlEy8dMi6VRFLGbtxfvXD8nzT4ZYyDrglSFB5M/0HTWEM3S+/C7HJoVF7QeQK8h5WPLJ023Hu9ew+EIOzS9qoS5CSi7h1Jeg==;hLLJd2nB38Czfb+Z9o/V5g=="
 ---

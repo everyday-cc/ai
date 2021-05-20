@@ -76,7 +76,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/Google-CEO.png"
         width: 1162

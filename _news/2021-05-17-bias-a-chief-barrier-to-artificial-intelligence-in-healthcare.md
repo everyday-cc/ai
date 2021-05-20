@@ -29,9 +29,9 @@ related:
   - title: "Vital signs positive for AI in European healthcare"
     excerpt: "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,"
     publishedDateTime: 2021-05-20T14:13:00Z
-    webUrl: "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare"
+    webUrl: "https://www.techradar.com/nz/news/vital-signs-positive-for-ai-in-european-healthcare"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/vital-signs-positive-for-ai-in-european-healthcare"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/vital-signs-positive-for-ai-in-european-healthcare"
     type: article
     provider:
       name: TechRadar

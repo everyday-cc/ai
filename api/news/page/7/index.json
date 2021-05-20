@@ -2,6 +2,151 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-13-google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021.md",
+      "title": "Google will bring Starlink satellite connectivity to enterprises in late 2021",
+      "excerpt": "SpaceX and Google Cloud have partnered to bring satellite-powered broadband and cloud services to enterprises across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/s3.reutersmedia.net_-1-e1620916687924.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
+      "publishedDateTime": "2021-05-13T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-walmart-acquires-virtual-clothing-try-on-startup-zeekit.md",
+      "title": "Walmart acquires virtual clothing try-on startup Zeekit",
+      "excerpt": "Retail giant Walmart announced this morning it’s acquiring the Tel Aviv-based startup Zeekit, which allows consumers to virtually “try on” clothing when shopping online. The company leverages a combination of real-time image processing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/download.gif?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/walmart-acquires-virtual-clothing-try-on-startup-zeekit/amp/",
+      "publishedDateTime": "2021-05-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how.md",
+      "title": "Experimental AI Tool Makes GTA 5 Look Stunningly Photorealistic - Here's How",
+      "excerpt": "An AI research group has released a new video showcasing a new photorealism enhancement tool being applied to GTA 5 – and the results are stunning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
+      "originalUrl": "https://www.ign.com/articles/experimental-ai-tool-makes-gta-5-look-stunningly-photorealistic-heres-how",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2021/05/12/untitled-1-1620842797696.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-soniox-debuts-speech-ai-recognition-platform.md",
       "title": "Soniox Debuts Speech AI Recognition Platform",
       "excerpt": "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl",
@@ -1035,162 +1180,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-california-driver-arrested-for-riding-in-backseat-of-self-driving-tesla-plans-to-do-it-again.md",
-      "title": "California Driver Arrested for Riding in Backseat of Self-Driving Tesla Plans to Do it Again",
-      "excerpt": "Param Sharma, 25, was charged with reckless driving and disobeying a peace officer, according to a statement from the California Highway Patrol. Sharma told KTVU that he does not believe it's dangerous to ride in the backseat of a Tesla set to Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
-      "originalUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1794679/tesla-charger.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/california-driver-arrested-riding-backseat-self-driving-tesla-plans-do-it-again-1590920?amp=1",
-      "publishedDateTime": "2021-05-12T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-us-fcc-asks-what-impact-chips-shortage-has-on-communications-sector.md",
-      "title": "U.S. FCC asks what impact chips shortage has on communications sector",
-      "excerpt": "The Federal Communications Commission (FCC) is studying the impact of the global shortage of semiconductors on the communications sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
-      "originalUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/fcc_22f158d67b6a07908650f167d595b6aa.nbcnews-fp-1200-800.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/u-s-fcc-asks-what-impact-chips-shortage-has-on-communications-sector/amp/",
-      "publishedDateTime": "2021-05-12T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls.md",
-      "title": "REFILE-UPDATE 1-Musk tweets Tesla self-driving rollout could take a couple of months; stock falls",
-      "excerpt": "Tesla Inc's top boss Elon Musk said Tesla is tweaking its self-driving software to eliminate a phantom braking problem and may release a significantly improved version within the next two to three weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY",
-      "originalUrl": "https://www.reuters.com/article/tesla-autopilot/refile-update-1-musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-idUSL4N2MZ3SY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561846801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0UO",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2CT1NJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT1NJ",
-      "publishedDateTime": "2021-05-12T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

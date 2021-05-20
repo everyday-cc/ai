@@ -25,19 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Aims to Replace State-of-the-Art Self-Driving Tech With Launch of V2X System"
-    excerpt: "Baidu has launched its “vehicle-to-everything” (V2X) communication technology that the search giant says is designed for vehicles characterized by Level 4 self-driving capabilities and could even replace costly vehicle-mounted sensor systems,"
-    publishedDateTime: 2021-05-17T07:53:00Z
-    webUrl: "https://www.caixinglobal.com/2021-05-17/baidu-aims-to-replace-state-of-the-art-self-driving-tech-with-launch-of-v2x-system-101713817.html"
+  - title: "Self-Driving Vehicle Maker Arrival Partners With Digital Mapping Company Here"
+    excerpt: "British electric-van startup Arrival said on Wednesday it had partnered with Here Technologies, a digital mapping company owned by some of Germany's premium carmakers, to provide location and cloud services for its self-driving vehicles."
+    publishedDateTime: 2021-05-19T16:26:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/self-driving-vehicle-maker-arrival-partners-with-digital-mapping-company-here"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 33
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
+  - title: "Self-driving vehicle maker Arrival partners with digital mapping company Here"
+    excerpt: "REUTERS: British electric-van startup Arrival said on Wednesday it had partnered with Here Technologies, a digital mapping company owned by"
+    publishedDateTime: 2021-05-20T04:31:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/self-driving-vehicle-maker-arrival-partners-with-digital-mapping-company-here-14843358"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 21
     images:
-      - url: "https://img.caixin.com/2021-05-17/1621237949622696_560_373.jpg"
-        width: 559
-        height: 373
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
+        width: 991
+        height: 557
         isCached: true
 
 secured: "ogYRTlBvgdLxbNi4zi3/Hy9oPt2A5yllEmptDOP2lhLySf5k0xnc74/Owg4jS+xQl1o+Igwfj392sS8Qd1EOU/BUaC9TX1UY7uGx+wOz4djiLt4SpiQkCUT6j4MoM7itZj3EB6nN9MurlI5tvyccBLi9bBIGsHN5YANpZpCi7c9K/KwwSWxpZtcHbZyBSV/6/uGrjzQN6RBBGTC83Ud66wf/GxDqKYha1ZaHzY/a6TCYzeIxU9atavLxTb/HWDPUQj8CIpEso06Cqvfg8UnL8aTjfby1kq+ocOSUI6p+K2I8d5DVTSjVzpj7P0wBjnoqTwXTOcHi8150k8XR1jA/YKGojIqVYL3ot08A6Xx8pMfjSWQD2cst/WoENGBErGKWm/TDXYsFZfrPq95Opt1TriPxB+4xqGiPzzn2nktvEDthucH2vUHVw9Z/HJ2DaP9n09WGj2/Gq+DOOUh02Kcb8pkXcof6K2WDIfqO4Q2iYENACuHA3IL5QbyQ3n2maEWC21GFONOpV2rIHgwPrvJK9g==;J6P4twpiW4NerdANjIiRRw=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-18T13:46:00Z
 originalUrl: "https://www.dailycal.org/2021/05/18/ai/"
 webUrl: "https://www.dailycal.org/2021/05/18/ai/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i0.wp.com/www.dailycal.org/assets/uploads/2021/05/coloredited_aishwaryajayadeep_ai.jpg?ssl=1"

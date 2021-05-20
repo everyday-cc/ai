@@ -2,6 +2,117 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-04-16-better-buy-baidu-vs-alibaba.md",
+      "title": "Better Buy: Baidu vs. Alibaba",
+      "excerpt": "Meanwhile, Baidu's ad revenue continued to decline, its streaming-video unit iQiyi lost its momentum, and its expansion into next-gen markets like artificial intelligence (AI) and driverless cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-buy%3A-baidu-vs.-alibaba-2021-04-16",
+      "originalUrl": "https://www.nasdaq.com/articles/better-buy%3A-baidu-vs.-alibaba-2021-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-financial-standards-setter-to-focus-on-use-of-ai.md",
+      "title": "Financial Standards Setter To Focus On Use Of AI",
+      "excerpt": "A global standards-setting body for the prudential regulation of banks said on Friday that one of its main focuses for the year ahead will be on the role of artificial intelligence in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
+      "originalUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1375927",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927",
+      "publishedDateTime": "2021-04-16T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
+      "title": "Ford And Tesla’s EV Rivalry Heats Up",
+      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
+          "width": 479,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
       "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
       "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
@@ -983,137 +1094,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits.md",
-      "title": "Amazon and Microsoft team up to defend against facial recognition lawsuits",
-      "excerpt": "Snapchat and Shutterfly have faced similar suits. Amazon’s facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/",
-      "originalUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1",
-      "publishedDateTime": "2021-04-15T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store.md",
-      "title": "Tecton teams with founder of Feast open source machine learning feature store",
-      "excerpt": "Tecton, the company that pioneered the notion of the machine learning feature store, has teamed up with the founder of the open source feature store project called Feast. Today the company announced the release of version 0.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/15/tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store/",
-      "originalUrl": "https://techcrunch.com/2021/04/15/tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1197243194-3.jpg?w=1024",
-          "width": 1024,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/15/tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store/amp/",
-      "publishedDateTime": "2021-04-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-global-artificial-intelligence-in-medical-imaging-market.md",
-      "title": "Global Artificial Intelligence in Medical Imaging Market",
-      "excerpt": "Added a New Report on Artificial intelligence in medical imaging Market Report the combination of best industry insight practical solutions talent solutions and latest technology have been used The market report is a comprehensive study of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "originalUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U415772049_g.jpg",
-          "width": 696,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "publishedDateTime": "2021-04-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

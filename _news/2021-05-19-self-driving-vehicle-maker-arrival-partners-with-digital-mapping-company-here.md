@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Didi to develop self-driving vehicles with GAC"
+    excerpt: "China's DiDi Chuxing has partnered with GAC Group to develop and produce a driverless model, which is expected to consolidate the car-hailing giant's position in the mobility market. Didi's self-driving technology arm Didi Autonomous Driving and GAC Group subsidiary Aion will be responsible for the model's development and mass production,"
+    publishedDateTime: 2021-05-18T02:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a32983a31024ad0babfaeb.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a32983a31024adbdc85448.jpeg"
+        width: 647
+        height: 431
+        isCached: true
   - title: "Self-driving vehicle maker Arrival partners with digital mapping company Here"
     excerpt: "REUTERS: British electric-van startup Arrival said on Wednesday it had partnered with Here Technologies, a digital mapping company owned by"
     publishedDateTime: 2021-05-20T04:31:00Z
