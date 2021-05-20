@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Amazon to extend pause on police use of facial recognition"
-excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition systems to law enforcement agencies."
-publishedDateTime: 2021-05-18T20:02:00Z
-originalUrl: "https://www.chron.com/news/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-webUrl: "https://www.chron.com/news/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-ampWebUrl: "https://www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year."
+publishedDateTime: 2021-05-19T13:41:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/amazon-extend-pause-police-use-facial-recognition-rcna969"
+webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-extend-pause-police-use-facial-recognition-rcna969"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna969"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna969"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1541/210519-facial-recognition-mb-1430-fb87f3_cb5d143512cc0aa534548217db54e2c884f9dff8.jpg"
+    width: 3500
+    height: 2333
     isCached: true
 
 related:
@@ -258,6 +258,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Amazon to continue pause on police use of facial recognition"
+    excerpt: "Amazon said Tuesday Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
+    publishedDateTime: 2021-05-18T18:20:00Z
+    webUrl: "https://www.chron.com/business/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Amazon to extend ban on police use of face recognition tech"
     excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
     publishedDateTime: 2021-05-19T07:56:00Z
@@ -273,6 +289,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-tec.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Amazon extends ban on police use of its facial recognition technology indefinitely"
+    excerpt: "The tech giant said in June its freeze would last a year to \"give Congress enough time to implement appropriate rules.\" No federal laws have been passed since."
+    publishedDateTime: 2021-05-18T20:13:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TTIT2NDAMEI6TPZE3NFZ7NRKUI.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Facial recognition debuts at Charlotte airport"
     excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
@@ -478,20 +510,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon to continue pause on police use of facial recognition"
-    excerpt: "Amazon said Tuesday that it will continue to ban police use of its face-recognition technology beyond the one-year ban it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
-    publishedDateTime: 2021-05-18T19:18:00Z
-    webUrl: "https://apnews.com/24363cebd3bbf6e07d14240e1475a1ff"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/bd4ed7db6b8148f496572cb2ffc1d220/3000.jpeg"
-        width: 3000
-        height: 1941
-        isCached: true
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
     publishedDateTime: 2021-05-18T23:30:00Z
@@ -595,6 +613,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "JLCJHBB1J+E6Z20xOxGB8Utof/J3zGQs5nTq8jKwKbeAqeDp+5NgihiNo9yyD4Qi+N93Buz7cnn4MTw+5tUTfdhaIrqvKPJ9Y+sE29WeN1jjfAjKnmZjYGBjgqEGjOiLuF9hBON9sf1zaBDM6MdxiHQm8EicmeQ3vU57apl+r1q2N0xRkqENhXCw2BXkm9iP+OsCJuIRCZsOeEMX06Q+tf21oRUbCq3SqQBrVsrB0WtHP0EUMKkykm/maPMjDd/5edM7KcU9ERHiBNW1MD4fGDPi5G4qP9ze/bTXClHRJLR0N7xkV2QbyU1itBLXvbw59vwh95wSs9BvqAlQhXZ8xLh+mlb0EgMvC7BPfG/NRxIZTObCYxm1lR3XqHzdhI9S2XwM5UmsX9//AThUaWEMVd+2VsR7T8/f4sgbhJb94G8MWuDh2lnBQf2tuwl5Ppj88kwBV4+xGAC3Nygv0ZuHDDnhAwGjO7Hv33b40TFBpKl2B/8raNLeYldjx4QIBTg1lqq+DFPKSGOKrwr14ardvg==;n6yyAZygypwz4SYQi1tWIA=="
+secured: "QKK8EnFhsin2wvXF4rbT6QF0eH4F9PEBY9XuqIzuNzG7TjzurBQtTc4SZNsMn7Icx8aQnvd5yu8ghF32NQMuTR9E78WzFsUH1nX2heb1fQsARUbBQGFMEP/uzVe99X76Kehb/UkIJS0IDUg8fzB3+bFNmIMpO92QltXYJG+hIJIB7bzCKq+u2Ix11R81ZxKu0zCRpUJfCUDmPSPM8y82b4IShoxzN23A4jut14QW8AuM1Ba9L96LBN4Z48Kv35VmgQZ3KY0gprS5vWg8HgrttYSA88CBAE86Y1cWeKzvcLnu+uANCA6m+TFCkg34jA6EKFJ1ztQ/r9PKEL53GsWIDZb8EmqUStdpBhhLHlZYUJ8=;QJm2NyxXq+f2ecS/Yhgvhg=="
 ---
 

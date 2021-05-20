@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "European AI needs strategic leadership, not overregulation"
-    excerpt: "Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting."
-    publishedDateTime: 2021-05-15T10:12:00Z
-    webUrl: "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/"
-    ampWebUrl: "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/"
+  - title: "Will AI Weapons be Ethical Enough to be Used without Human Intervention?"
+    excerpt: "AI weapons can attack with increased speed and precision compared to existing military weapons. But is AI smart enough to operate without human intervention, identify targets, and ethically decide whom to kill and whom not to?"
+    publishedDateTime: 2021-05-19T17:48:00Z
+    webUrl: "https://www.bbntimes.com/technology/will-ai-weapons-be-ethical-enough-to-be-used-without-human-intervention"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 55
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211364640.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.bbntimes.com/images/articles/companies/AI_Weapons.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "XZ7LX3c7yOTdyuRnnoVsysNCwEUkW6DESW+0mDq6jn7grW9Ea3YJkCkYSeGaElyAowCQozdWDWHuehX5rJSGGr/8koyIyUPk3fJEN3GmZIKxQL+WNxocoBFrG2lLUTXv+7XDlabwzv2bkOyUcW39N0GAAuq76BWzJx3WLwKFPLKZWZn2lMxVx+IlcRtAmCRdKmOK71MzyaJhslXtB8dSL4RAP+mp/uyFxvJEF/GZFOLMxjyq/UHwdz3BocFPmFMUUU4WxOFMkDXqTssVS7DSLyZF3cX7Wtwjlx5VndNTgARBqwGWA3gMsCSYzjiLFEyhnCRTmzwcjm01rBfJauCDtmCdJI7STKbV119QUC50jC+60MgrRIczYXyWSl6iATxfxf5cg0teOppeveJmmfQoO4TSZEBhcS5pf+TvRTe8G7wM1wGIujy6SfWZrbwjaB4IxxNBGn1rRp/O4PQqtMqfOmV4wrq8evHNA3GBlKad8eMZ9NnkeL1g+WKeZwQctZQ/DATnMVxogvJ0tZQQCicGrA==;+Cn30wSYdsbJ2gUL3+Swsw=="

@@ -57,20 +57,6 @@ related:
         width: 352
         height: 233
         isCached: true
-  - title: "How Artificial Intelligence is revolutionizing the startup industry"
-    excerpt: "Currently, we are in the midst of the fourth industrial revolution which is driven by artificial intelligence.  What is significant about artificial intelligence?  Artificial Intelligence gives machines the power to think,"
-    publishedDateTime: 2021-05-15T10:56:00Z
-    webUrl: "https://speakerdeck.com/sharmadiwakar/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
-    type: article
-    provider:
-      name: speakerdeck.com
-      domain: speakerdeck.com
-    quality: 39
-    images:
-      - url: "https://files.speakerdeck.com/presentations/f023c954ec894f6b8798104658221a0c/slide_0.jpg?18067642"
-        width: 1024
-        height: 791
-        isCached: true
   - title: "Can AI Revolutionize the Real Estate Industry?"
     excerpt: "Listing AI, a Canadian startup, is using cutting-edge artificial intelligence to generate full-fledged listing descriptions with just a few minor inputs from the user. If you’ve ever bought or invested in a property, then you might have noticed how flat ..."
     publishedDateTime: 2021-05-18T19:22:00Z

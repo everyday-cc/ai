@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI call center automation company Asapp raises $120M"
+    excerpt: "Asapp, a machine learning-driven call center automation company, has raised $120 million in equity venture capital."
+    publishedDateTime: 2021-05-19T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/"
+    ampWebUrl: "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Call Center AI Firm ASAPP Raises $120 Million, Valued at $1.6 Billion"
     excerpt: "ASAPP Inc, maker of artificial intelligence software for call center agents, said on Wednesday it raised $120 million, doubling the company’s valuation to $1.6 billion in the past year. The New York-based startup also doubled its contracts last year as the COVID-19 pandemic moved businesses online at a time when many call centers were shut down or sent their workers to work from home,"
     publishedDateTime: 2021-05-19T10:08:00Z
@@ -56,15 +72,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "ASIO moves to artificial intelligence after $1.3 billion funding boost"
-    excerpt: "Australia's top spy agency will use artificial intelligence to protect against foreign hackers after receiving a $1.3 billion boost – the largest in ASIO’s 70-year history. Home Affairs Minister Karen Andrews has told Sky News recent cyber-attacks have reinforced the need to act urgently."
-    publishedDateTime: 2021-05-15T23:36:00Z
-    webUrl: "https://www.theaustralian.com.au/news/asio-moves-to-artificial-intelligence-after-13-billion-funding-boost/video/8bd9199fb714a947408699b108716636"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
 
 secured: "Sj9Q4i+7Gr/VCLr+VB+6hIdcjxP8jnGN7gPwdVEvCFlw5quaLRLrBTw40eb6gA6p62PruDB0MhdmI8bEHDDIIBI4lBqRfvcd3Z07Uui9e5nOJJx31xkFt9G+pjAJnQSaqF6TNipQ8HXWOYBiTyUkEb+r0WiTJOVaUUWnPfnK7Zy/TRw4bWDrSDSo1C05tOkBIxUpvcRNsv1aVfMvFIrN9IC1TYAUNvLapA4bPx2TdE6FOFmnWrCfgIT8mnvH1tN62lKdNu56zApl2E+V+Dvo8WgwQ1vPiq31F05lGRiQTcMpsJqiwJxy1wh1gKRDYF7+jKO4p22t77NeEqE/JtuB7DtzrLCww/InMmH54mKthTQ=;zjERcSc2etUtMS2pJjd5kw=="
 ---

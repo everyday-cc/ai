@@ -202,21 +202,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
-      "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
-      "excerpt": "While investors wonder why stocks are dropping today, artificial intelligence (AI) stocks could be worth watching. Why? For starters, they are likely trading lower in today’s stock market as tech stocks sell-off amidst inflation and crypto-related issues.",
+      "path": "_news/2021-05-20-ai-call-center-automation-company-asapp-raises-120m.md",
+      "title": "AI call center automation company Asapp raises $120M",
+      "excerpt": "Asapp, a machine learning-driven call center automation company, has raised $120 million in equity venture capital.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372388",
-      "originalUrl": "https://www.entrepreneur.com/article/372388",
+      "webUrl": "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/",
+      "originalUrl": "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-372388.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -224,16 +224,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372388",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372388",
-      "publishedDateTime": "2021-05-19T09:43:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/",
+      "publishedDateTime": "2021-05-19T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -249,8 +249,59 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-were-not-prepared-for-ai-hackers-security-expert-warns.md",
+      "title": "We're Not Prepared for AI Hackers, Security Expert Warns",
+      "excerpt": "AI promises a future where machines solve problems humans cannot, but can we trust them not to poke around where they don't belong? Bruce Schneier from the Harvard Kennedy School has concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns",
+      "originalUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04qQqxzBnOGSE6poQ896Gju-1.1621439902.fit_lim.size_1200x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns?amp=true",
+      "publishedDateTime": "2021-05-19T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1170,64 +1221,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-robotics-engineer-develops-cet-drone-to-detect-criminal-hideouts.md",
-      "title": "Robotics Engineer Develops CET Drone To Detect Criminal Hideouts",
-      "excerpt": "\"If this is an indication of a criminal enclave rapidly developing across the country, then it helps us nip the growth in",
+      "path": "_news/2021-05-19-ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan.md",
+      "title": "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan",
+      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,",
       "sourceUrl": null,
-      "webUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/",
-      "originalUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://leadership.ng/wp-content/uploads/2021/05/Drone.jpg",
-          "width": 1250,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/",
-      "publishedDateTime": "2021-05-18T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
-      "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
-      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics-1030443865",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics-1030443865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512713/Photo1.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://mma.prnewswire.com/media/1512747/image_1.jpg",
+          "width": 362,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1237,7 +1245,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T17:09:00-07:00",
+      "publishedDateTime": "2021-05-18T19:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

@@ -56,20 +56,6 @@ related:
         width: 352
         height: 233
         isCached: true
-  - title: "How Artificial Intelligence is revolutionizing the startup industry"
-    excerpt: "Currently, we are in the midst of the fourth industrial revolution which is driven by artificial intelligence.  What is significant about artificial intelligence?  Artificial Intelligence gives machines the power to think,"
-    publishedDateTime: 2021-05-15T10:56:00Z
-    webUrl: "https://speakerdeck.com/sharmadiwakar/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
-    type: article
-    provider:
-      name: speakerdeck.com
-      domain: speakerdeck.com
-    quality: 39
-    images:
-      - url: "https://files.speakerdeck.com/presentations/f023c954ec894f6b8798104658221a0c/slide_0.jpg?18067642"
-        width: 1024
-        height: 791
-        isCached: true
   - title: "Artificial intelligence opening new frontiers in Canadian health care"
     excerpt: "These may sound like the medical miracles of a distant future, but with artificial intelligence transforming the health care sector, these scenarios might become our present reality sooner than we think."
     publishedDateTime: 2021-05-17T20:39:00Z

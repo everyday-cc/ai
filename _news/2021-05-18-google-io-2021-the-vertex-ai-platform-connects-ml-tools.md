@@ -45,9 +45,9 @@ related:
   - title: "Google I/O 2021: An AI model to diagnose dermatological dilemmas"
     excerpt: "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned."
     publishedDateTime: 2021-05-19T07:57:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    webUrl: "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
     type: article
     provider:
       name: ZDNet

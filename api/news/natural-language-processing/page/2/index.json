@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-07-global-natural-language-processing-market-2020-to-2026-by-component-deployment-mode-type-application-vertical-and-region-researchandmarkets.md",
-      "title": "Global Natural Language Processing Market (2020 to 2026) - by Component, Deployment Mode, Type, Application, Vertical and Region - ResearchAndMarkets.",
-      "excerpt": "The Global Natural Language Processing Market was valued at $11.82 billion in 2020 and is projected to reach $53.08 billion by 2026. Rise in usage of voice assistants, availability of large volume of datasets and increased engagement on social media platforms are the primary factors for the growth of the Global Natural Language Processing Market in the coming years.",
+      "path": "_news/2021-05-06-google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages.md",
+      "title": "Google introduces Woolaroo AI translation app to preserve endangered languages",
+      "excerpt": "the tool uses machine learning and image recognition to translate photos of objects into indigenous languages in real time. If multiple objects are detected in a photo, users can scroll through ...",
       "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=465764",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=465764",
+      "webUrl": "https://www.zdnet.com/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "originalUrl": "https://www.zdnet.com/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/06/b58a680a-b1f5-4771-9d58-e0fc28d9aff5/gif-woolaroo-on-google-arts-culture.gif",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T09:46:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "publishedDateTime": "2021-05-05T23:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

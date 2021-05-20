@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Amazon to continue pause on police use of facial recognition"
-excerpt: "Amazon said Tuesday that it will continue to ban police use of its face-recognition technology beyond the one-year ban it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
-publishedDateTime: 2021-05-18T19:18:00Z
-originalUrl: "https://apnews.com/24363cebd3bbf6e07d14240e1475a1ff"
-webUrl: "https://apnews.com/24363cebd3bbf6e07d14240e1475a1ff"
+excerpt: "Amazon said Tuesday Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
+publishedDateTime: 2021-05-18T18:20:00Z
+originalUrl: "https://www.chron.com/business/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+webUrl: "https://www.chron.com/business/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+ampWebUrl: "https://www.chron.com/business/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/bd4ed7db6b8148f496572cb2ffc1d220/3000.jpeg"
-    width: 3000
-    height: 1941
+  - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -120,6 +122,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Amazon to extend pause on police use of facial recognition"
+    excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year."
+    publishedDateTime: 2021-05-19T13:41:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-extend-pause-police-use-facial-recognition-rcna969"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna969"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna969"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1541/210519-facial-recognition-mb-1430-fb87f3_cb5d143512cc0aa534548217db54e2c884f9dff8.jpg"
+        width: 3500
+        height: 2333
         isCached: true
   - title: "Amazon Extends Ban on Police Using Its Facial Recognition Tools: Live Updates"
     excerpt: "Amazon said Tuesday that it would indefinitely prohibit police departments from using its facial recognition tool, extending a moratorium the company announced last year during nationwide protests over racism and biased policing."
@@ -272,21 +290,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Amazon to extend pause on police use of facial recognition"
-    excerpt: "Amazon said Tuesday that it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year. Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition systems to law enforcement agencies."
-    publishedDateTime: 2021-05-18T20:02:00Z
-    webUrl: "https://www.chron.com/news/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
+  - title: "Amazon extends ban on police use of its facial recognition technology indefinitely"
+    excerpt: "The tech giant said in June its freeze would last a year to \"give Congress enough time to implement appropriate rules.\" No federal laws have been passed since."
+    publishedDateTime: 2021-05-18T20:13:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TTIT2NDAMEI6TPZE3NFZ7NRKUI.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Facial recognition debuts at Charlotte airport"
     excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
@@ -595,6 +613,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "mJPPxqPHQ1yieIzWREyeiJNx+Hau60+V06hh4PAV+auzeT2iO87ji/mF761Tyu6png1qOiI/3+QbDkRcmo4DaJ2jtdKmnKMF0YN1HWEU2+XHOUNl0Zic8e3/XCatTkpF6a/NzEq4Le1i4/CTo3FHl/6hVMU66Sm9vH6W83iezgIXxyeAVS93CzGyS2AXiC/iSGsu2ZEQRcF4cWW4PGtI9xlTqkdtsXlIez1C2koHdBKnc7N/4zxmbqHZS4FS1FE5ss6IvQvR5cjOI00XPMWpZNkwJMRwJLkpUxGSamhqa66kQETu/D7f5O2aBQs45vPKDFD59RKAPeXyYemQM7XaTm/hBuvDR/mJ612RAw1gajc=;+dS4KAECClD8mwqAueDiNw=="
+secured: "gc1K1fhKoWwm7Wo+5S2UNlJt5OauIWuvZnPQ9buNRYEL8qUFiGqT0ndAfn/uqWSyyY4friT5G6CHd5meh6RpaGsl0nVXjJVeVtvH66v0SXW7sm8vNtU5waQGi0dnMtpkoDT1QbuAv47sQCt6PFdoUuVf2Zy5rXoIcxNMK2HYh/i4KfA12yXqkJikJ9x3opcroB1FGZxKG2rpuijtFbvglFvZ3di7lwchjp/VZICqtjVq9ITJbKImGnBFJLhTchSOF8azYrxWj3htZy7G3ugZCVM66M/J4jZGXla1wsC8HSg4ETYI+b40jMR4Wuyceh6FVWaybc30tx5KifWIR65SqfNAVhMtYYNz79KXFfeO1NY=;zW/lswejx8IRbI9MiPVz5A=="
 ---
 

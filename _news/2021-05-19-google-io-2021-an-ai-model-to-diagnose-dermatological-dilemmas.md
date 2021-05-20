@@ -3,10 +3,10 @@ category: news
 title: "Google I/O 2021: An AI model to diagnose dermatological dilemmas"
 excerpt: "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned."
 publishedDateTime: 2021-05-19T07:57:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-webUrl: "https://www.zdnet.com/index.php/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+originalUrl: "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+webUrl: "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
 type: article
 quality: 87
 heat: -1
@@ -58,6 +58,6 @@ related:
       domain: zdnet.com
     quality: 86
 
-secured: "8i0D5OAXCQo/nFJpIb/QmK757V/AhN96TcoQv8n15kp1quEFiDpcDD755UuZCj3aHmXMsBeoQTIi5VR2oT7aV81LDLPcYf4Tncx7zygy5ubPACYjmfGc7DhYJ4L5o45imu3UFrDq9DExSV47qBJ57RlJ7UdA03TCG7panKx8lHCkkjFJSYQEZA9uB+8s1XCH0AyyR/Hwc+wDLKoNbj39XFnWbIouXilkJ8KbX6FfN6Pj7GXHIJeYk4zyZTUFkZeZutLt7rj5tfICoPBiqP+hcssFtIhZisW4gWkJwJ+IhbePRKRUwwhaUqCBNoDogRc1j/JsRy8Uv+yAY5Eo1w1sQd2LYvYGcJGtYXWt1vOUw0jyl5jNcfdZu3wAiBsTznvtfAsrm6sKPrPLSklI531qMSr+g9BzqCP7zXzVJ+0NZ480ZIJistb6Ycel8NCKJ4ADHyhj/kgcN5V2t8SvMCyn3em3x4s/P37ZvBfQ9IylJ2i6ha0A2HXxJKzjhvp76CX912zNNmUC0IPvIawgx9E1Jg==;6A+icJZmuuTEakpDeQJW6Q=="
+secured: "Ovb1x56Vz8tAPIRTR5+edAHX8MoLc0Pt1KaPt7FqI8/tVGG/2LOAAqp+0oHJs77BMAprDxbgbFmdW369LpGYjrmMHHCq/u+j3TMawFcMcowCQXAogd5SH3XOIY/FHgKKrLwVbcCLtYjJ17sNdZDpa6zbKsDzZe4Nx4a2VkW6GWpa74I+d9a1S58XFJpc9TkKANMm0n8O6Gp0nB2mhw5G228rzkRr8n84PBGXqqtAD3ergg+QtpjpZpI8AsGHyI/MQkQ5YrbGmqqbZEC8VX3R5iAJ2FseVC8y9V9yaJzpyZzjnWRe8GC0mybnGoDjumW7dZ1mCowXeZEPdHLjK3Re66lWGtYAGeEr+hxcqpPdXag=;Lrw238jglRJEVbUzo5w+Ig=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community"
-excerpt: "The AIforCOVID Imaging Archive is a shared collection of images and clinical data for developing innovative Artificial Intelligence-based methods to predict clinical developments of"
-publishedDateTime: 2021-05-17T14:42:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community/article_214a207a-5c49-56f6-a170-4abebe6925df.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community/article_214a207a-5c49-56f6-a170-4abebe6925df.html"
+excerpt: "The platform integrates a range of AWS technologies, including machine learning and artificial intelligence from Amazon SageMaker, a fully managed service for creating, training and deploying ..."
+publishedDateTime: 2021-05-17T14:47:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-301292623.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-301292623.html"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/fd/6fd342d9-be40-528b-a24e-4289f84678cd/60a282622e376.image.jpg?resize=630%2C630"
-    width: 630
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg?p=facebook"
+    width: 1024
+    height: 536
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 536
         isCached: true
 
-secured: "xpV8j3PD9MPewdxX2MYHHNXLdKjy+8QCj985WgE8Do+q4h8YC+NW19lOCa60tppefFLHlaFjZi9s70ue2aA//hvkByzyS3WD2NBjoNQ1IdCTb37UcK543QYjKlr1V9QiLsaiAHVFuuMOMqIOmy2puY6bqf912Di/YUWfZD2Z6RR/Gy12tDln0t3qpDRtik+I5brR9mvI56LDa8z/eQYw7TPWwCN26z5h44+1MFfp/WGwvMDD1KbC/LPobGZPlfD9V6XQf3Izqje+HmdlgcRdPfup5+fEXYPYcQo9wQQb3Ua9rMDQfflEqUl4Y/vBRbiXBEAsYbFZO5jFMTABoo5mclEXqRsONxPQkEMnci0J98BhXVr5UJDk9vT/4vft4MgMiDBE672VnljCzrEaX+Uxu+S691tYd3/bEjdZ5nqWP6eRHvZjjLdn4ckFrSAuX56Tnb3pHdsSwpNffTewZucRP8jFOZRQIxBnc5WyLu+aVk/7rWfa+/OYrUKJYNOM+pM6im9Wz7lZUR846UytYWpv7Q==;w4DQWOu/kYHeWKN+Jna9AQ=="
+secured: "bSs8/uJ+Kw6A8e0CQjNkb6RMNdB4u031Gc59jhmxMiB1kzfTujXCPt2SS2QAIubwdTh9zTjqxXQ87J72bh96TZuWuNmZpwwl4cWL96NXjv7JCquWcae20pwlkHy6KDjHVp/SwS0mWkw3GQsm1UrkZKHoaSHTLxbfIoR4diZBOiSqnhKmaOkpn3MvaGsAuAUiXIieoA36pXGd/R4zTpGTWLi19olyv9yJ4Sqh/FIh1xkA23IXwrDWuf8z3mjmBMpSMlz+Nc/7V2LajKL+h4/gfRo7GHsCncts1ZrQNo97HoNpVUR/3xGiMwlpzSwGbD8Jj3YaTXvdF0t0fDJdGcZGxcum8cGx/wPX42hicPmM1vc=;xesQjtcaUnyjKOc7F/H2kA=="
 ---
 
