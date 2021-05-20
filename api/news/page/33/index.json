@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-04-22-leader-in-ai-research-introduces-object-manipulation-in-robotics-testing-scenario.md",
+      "title": "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario",
+      "excerpt": "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
+      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars.md",
       "title": "Not Many Realize That There Is Crossover Tech That Crisscrosses Self-Driving Cars And Human-Driven Cars",
       "excerpt": "Crossover tech from self-driving cars to human-driven cars is a thing, though this must be done with sensibility else the result could be disastrous.",
@@ -1092,49 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-prosthetic-arm-can-sense-touch-move-with-wearers-thoughts.md",
-      "title": "Prosthetic Arm Can Sense Touch, Move with Wearer's Thoughts",
-      "excerpt": "The team published a paper on its work in the journal Science Robotics. Researchers tested the technology they developed for the LUKE Arm on Keven Walgamott, who lost his hand and part of his arm in an accident 17 years ago. Walgamott said he could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
-      "originalUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/prostheticarm_0.jpg",
-          "width": 973,
-          "height": 1028,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

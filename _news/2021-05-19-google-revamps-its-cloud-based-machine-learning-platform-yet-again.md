@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/"
 type: article
 quality: 110
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1209495734.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Google Cloud launches Vertex AI, a new managed machine learning platform"
+    excerpt: "At Google I/O today Google Cloud announced Vertex AI, a new managed machine learning platform that is meant to make it easier for developers"
+    publishedDateTime: 2021-05-20T07:44:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/238652/Google-Cloud-launches-Vertex-AI,-a-new-managed-machine-learning-platform"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 55
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2021-05-19-1456510003.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "EXYmAg8pMXHZSALK36J173klZ6BgEwDbzXmBtgAMHO3q17kmkWcEN107qSc1IFEQrd4muJ8VZTyNAOP/nTDZMrToRyoVTCDtF2K+ry4E1NyvCzeRwrsVSTnhC5uROpn0EF9cFVWCyMhTMFxGsXxtLvAtx9z6m6/rjswVz7qA3nKnL6U/3SwPoBsbTvgoG4sbf3szTiy/AuTyNfF3xZvHGkJPCWqlI54APJaL38+VQ+CDHSEgcz/JiG5s51BA5ZmUyUGRq0h+rzpNtb8pZzwN7so1kkIrTQb872ffWql+n6/jhtN2OMj8+U6ZKQpEEYOW9R+a2PVM194J7idsS8XUmamhubDrDEG8xT3noQLg6PE=;9mWBe2mi9aCUWDF4hZlTgg=="

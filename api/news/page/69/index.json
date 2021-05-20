@@ -2,6 +2,50 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-03-16-anyword-introduces-marketing-language-platform.md",
+      "title": "Anyword Introduces Marketing Language Platform",
+      "excerpt": "Anyword's technology uses artificial intelligence and natural language processing to predict marketing text performance prior to campaign launch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145775",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145775",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/136633-0321_Smartphones_Confirmit_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-baidus-ai-chip-business-kunlun-valued-at-2b-after-new-funding-round.md",
       "title": "Baidu’s AI chip business Kunlun valued at $2B after new funding round",
       "excerpt": "Monday that its Kunlun artificial intelligence chip business has closed on a funding round that takes its value to about $2 billion. Reuters reported Sunday that Chinese private equity firm CITIC Private Equity Funds Management led the round,",
@@ -991,49 +1035,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-ai-in-law-language-model-can-speed-up-work-of-lawyers.md",
-      "title": "AI in law: language model can speed up work of lawyers",
-      "excerpt": "The use of AI models can help legal practitioners understand complex legal texts. Julien Rossi, Amsterdam Business School researcher, is trying to",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/ai-in-law-language-model-can-speed-up-work-of-528394/",
-      "originalUrl": "https://www.miragenews.com/ai-in-law-language-model-can-speed-up-work-of-528394/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uva.nl/binaries/_ht_1539331659169/small/content/gallery/personen/r/o/julien-rossi.jpg",
-          "width": 457,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

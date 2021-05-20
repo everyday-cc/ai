@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-mil
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
 type: article
 quality: 88
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MarTech Startup Affable.ai raises $2 million in funding"
-    excerpt: "Singapore-based marketing tech startup, Affable.ai on Tuesday said it has raised $2 million from Prime Venture Partners, Decacorn Capital and SGInnovate. According to the company, it will be using the funds to expand into international markets,"
-    publishedDateTime: 2021-05-18T06:13:00Z
-    webUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding-11621317830020.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/martech-startup-affable-ai-raises-2-million-in-funding/amp-11621317830020.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/05/18/600x338/Affable_1621318312602_1621318318110.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Martech startup Affable.ai raises $2 million in latest funding round"
-    excerpt: "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns."
-    publishedDateTime: 2021-05-19T07:07:00Z
-    webUrl: "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 57
-    images:
-      - url: "https://www.exchange4media.com/news-photo/113018-Affable_Logo1.jpg"
-        width: 730
-        height: 395
-        isCached: true
   - title: "Fintech Platform Vise Secures $65 Million Funding"
     excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
     publishedDateTime: 2021-05-19T12:51:00Z
@@ -122,6 +90,22 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Fintech Informed.IQ, which Helps Financial Institutions Verify Lending Documents, Secures $20M via Series A"
+    excerpt: "Fintech Informed.IQ, which helps financial institutions verify lending documents, secures $20M via Series A round."
+    publishedDateTime: 2021-05-20T06:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 26
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate-300x251.jpg"
+        width: 300
+        height: 251
         isCached: true
   - title: "LHoFT Foundation selects 14 fintech startups to showcase financial inclusion in Africa"
     excerpt: "Building on the success of the 2018 and 2020 editions of CATAPULT: Inclusion Africa, the LHoFT Foundation is opening tomorrow, on Wednesday 19th of May, the third edition of this unique program of Fintech startup development."

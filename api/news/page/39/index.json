@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-19-ping-ans-askbob-doctor-top-ranked-in-global-artificial-intelligence-competition-supporting-research-diagnoses-and-treatment-decisions.md",
+      "title": "Ping An’s AskBob Doctor Top-ranked in Global Artificial Intelligence Competition, Supporting Research, Diagnoses and Treatment Decisions",
+      "excerpt": "Ping An Insurance (Group) Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEX: 2318; SSE: 601318) is pleased to announce that AskBob Doctor, a consultation and treatment assistance tool,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-state-panel-studies-use-of-facial-recognition.md",
       "title": "State panel studies use of facial recognition",
       "excerpt": "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology has stirred debate over privacy, due process and racial bias.",
@@ -1071,40 +1114,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-like-science-fiction-seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland.md",
-      "title": "‘Like science fiction,’ Seattle startup sends laser-equipped robots to zap weeds on farmland",
-      "excerpt": "Running day and night, a tractor-sized robot designed by a Seattle startup uses lasers to kill weeds on acres of farm land. The machine is the latest form of automation to arrive in agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
-      "originalUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
-      "publishedDateTime": "2021-04-16T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

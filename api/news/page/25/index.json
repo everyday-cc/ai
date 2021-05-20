@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
+      "title": "Computer vision in AI: The data needed to succeed",
+      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing.md",
       "title": "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing",
       "excerpt": "Stock quotes by finanzen.net SAN FRANCISCO, April 29, 2021 /PRNewswire/ -- Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF.",
@@ -1105,58 +1148,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
-      "title": "UK prepares to conditionally legalize self-driving cars",
-      "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
-      "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
-      "publishedDateTime": "2021-04-28T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -1,17 +1,15 @@
 ---
 category: news
-title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business"
-publishedDateTime: 2021-05-12T04:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21075003"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075003"
+title: "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience"
+excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic."
+publishedDateTime: 2021-05-12T10:45:00Z
+originalUrl: "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
+webUrl: "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - IBM AI
@@ -23,6 +21,6 @@ images:
     height: 304
     isCached: true
 
-secured: "NkhDBlKUf3t4ILm3dJS4s3QhTLUCUPuMJcetoxr7yguEcZ2QZ+ivWjqyIa2vPTapxLe75zl0N+YVgbdioLTZ7y/5PjWoxxGqc3tHR+8CH7xRgT/przwWgCfJvXwnhOfcYNrXRS0GZD+58zndUVty5y7KVPiPhZ+KdMhoqq/1uTE3yi7qjjv7NaaWoTZxnIJsRKf570wyOAI45+4OzEDUsQdM2fHhtc6ky1e0A13fCWQqnxuTjAia0pB2OqItCTfxvH21hd1nnt3Z1TevHaLOAUGwo8a9/dkYEyLIcpVQD3kyIJy9amuntBcAD8OQZYhbQfnfmd7XTpCU2ZdV7KZQ/krUewPtHZg87r4Iw+cevGwh0omKireKbr6WGmZvjqiXZ9ULlla6/k37wg6OUlCw9pmuN196fxrhZm7UCNwt+EraO20gi5ZiAEjLQH8QldWLIvhaCNM0SbaPMKvaDS8SYpzdWqbRCSweZ5CX/Kg8nKYkpAne+JCTOmHn1I4065frw46ZYO7tpGrrj4DYxeWKDg==;Eo6BLwMsy1rl8zwmzhslqg=="
+secured: "n02NtxcCNVG2gWYeEx0IkPjSVCY1qXyGOxmijY6iTXtlZxhu3ag0g+HHL257APJpPRbGj0zvXMBAc2cqUkYDCrEunPbnFBqM0A7E7r5E3Qy3QEvzKeFaAiBY2weHZHWXF1s78hFuZ6zaMgA47aXcAI8eCCqy72OfG0zG6s5569LXx7iYsGLJwJrBBgd6X28J54uwsdALRzh6gYfebv7a1TclhMwbYIRgJ7QCIAnCKiLi/vMo6sPaR6Gq5aMSFEAOv2IFwmMHvubjlrr6C/UeyaH3NF1i088V1KCSsEpgeafIz50kxxiJh2xdi9XOk6fo246GApFzWYFqf3Obvbp/KBFcyWHdeInlq70R3qmDCZA=;ttX42VCnJfom/IRy0cCw1Q=="
 ---
 

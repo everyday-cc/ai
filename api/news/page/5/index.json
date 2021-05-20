@@ -782,25 +782,43 @@
     {
       "path": "_news/2021-05-14-4-artificial-intelligence-stocks-to-watch-right-now.md",
       "title": "4 Artificial Intelligence Stocks To Watch Right Now",
-      "excerpt": "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI",
+      "excerpt": "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
-      "originalUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "webUrl": "https://www.entrepreneur.com/article/371987",
+      "originalUrl": "https://www.entrepreneur.com/article/371987",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/371987",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987",
       "publishedDateTime": "2021-05-14T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

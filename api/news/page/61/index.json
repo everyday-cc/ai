@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-03-23-moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech.md",
+      "title": "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community.md",
       "title": "Rates of Cognitive and Functional Impairments in Older Adults Residing in a Continuing Care Senior Housing Community",
       "excerpt": "Department of Psychiatry, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093, USA Sam and Rose Stein Institute for Research on Aging, University of California San Diego, La Jolla, CA 92093, USA Research Service, VA San Diego Healthcare ...",
@@ -930,39 +973,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-stroke-detection-startup-vizai-raises-71m.md",
-      "title": "Stroke detection startup Viz.ai raises $71M",
-      "excerpt": "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/",
-      "originalUrl": "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

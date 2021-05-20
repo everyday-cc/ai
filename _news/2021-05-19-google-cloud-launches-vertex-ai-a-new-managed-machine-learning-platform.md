@@ -64,6 +64,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google Cloud launches Vertex AI, a new managed machine learning platform"
+    excerpt: "At Google I/O today Google Cloud announced Vertex AI, a new managed machine learning platform that is meant to make it easier for developers"
+    publishedDateTime: 2021-05-20T07:44:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/238652/Google-Cloud-launches-Vertex-AI,-a-new-managed-machine-learning-platform"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 55
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2021-05-19-1456510003.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "0O8osaHeyGna/3deal/joUQcxxrsSKSD2hKrMixbVlya1SKCcNVyGK5uvPHdxItk6jum2leSVvCBr3B0DjVXyXjpR+C7Uo29aq7xeNN6ffvnkEDld2De1AJFvjfpoErM6rL8+/N7FuyElrbNZaZYNm5U+StBcni5HrSN70vKYsE4WZGUunGo2yGDURHId6Z884WUONX6SbENCdo9XWxqAoHUxU+5c9flIkqskBZ6aukxezKtqxg9WY7vbk46abZOirZD/qQ4DZbOJu2VYs3t9EZZNPbsUfElSmRRfN87RQa/kW0ZCBW9sJNdcv0/KngZ7//lAFzu0dKC6VNgHg6DFonJNcr538aemou9HMYATqc0xDMfQiCWtQBlHK2vb0hb/t4mVnMiM3RRzjsBdU+ZE+6/IZM68TsCbIPjCMg+vmsrdJrdh+pp3xPkighU1T4asW0ZoYGLoZuSkxr+6WSjIbH/raptz4FEPuaTNbZnnqeIfb1myTFzMTWY4DzBdvUWb0TB0PQBH+sfLovnn9ATAA==;ObfWlgUHUXNci6NFOPOETA=="
 ---

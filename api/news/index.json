@@ -313,7 +313,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/372388",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -352,7 +352,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -967,7 +969,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {

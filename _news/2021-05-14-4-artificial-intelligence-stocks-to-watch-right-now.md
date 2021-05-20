@@ -1,20 +1,32 @@
 ---
 category: news
 title: "4 Artificial Intelligence Stocks To Watch Right Now"
-excerpt: "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI"
+excerpt: "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?"
 publishedDateTime: 2021-05-14T14:24:00Z
-originalUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14"
-webUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14"
+originalUrl: "https://www.entrepreneur.com/article/371987"
+webUrl: "https://www.entrepreneur.com/article/371987"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "Omv39Tf+O+Jnt5X1MlaaC1HnvNhksh7Ro0Xav2ijBzviF1kifjDZ5IsgjzKA0d/N6eAU1JtiJCoM0V01wyrsxxP0v9QFCaHgjwuejr9FF2xPJTjHG0E0VIC3y86GV2lw0ENjjap5i6oDVgjZ078anIEXoJTnMzwiT1p/wgVR+CkzaNCKN/Dw+MJnc0HsfJhWfGSiWq4DJZbn0uBC8ExZ9tBct1mczst+rDssK6tM4rV1rNolfAtFP8TmRB/iGOxTQsLzA83QkowZacmVv1POanFe3ZAuIZxuKwj6WgNP85iaNKQURLfF+Qa3/2+VSBPHDxVt0fynyHD0Qtfw74WjKM7CeHVbxbNGnrg2gXTv9v8=;9B+olN0q4S6+6oxzeHjaxA=="
+images:
+  - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "Zwx4gL/5385XmcmIc800El5sGLUQD0eenu4XgtmQYLsrW8OOz5sgb3Ciu1+zwRyWndh1GcrzBj1C0c0uNEaIGlSdWexfVpOijftaTWgY6+EEj+jFWMSQ3i4KAcd0cAfjPXCK1wSTefl9OH40sv8qLeJnh61lrkuSYukxnA4wfa4IOSTO04nAgOaciSWQxpI3TOB/Ie/wJVVJrmfAFYAIFTQDcqF5J32s/LjmJ+xR6pMVvvEkAvhN6xLWCk1inybO+JQnPDibYDQPaiQoY7cd18Q66fM50RTbjRqdyS2etGI9hg4vEZomXbgZb2nNhn0lYQ+azCKfGH6JizJGPs9jzkBFLBbc6pnCXUJkneubfRg=;hXrft54J1798inmfKnUpzQ=="
 ---
 

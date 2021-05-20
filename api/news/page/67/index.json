@@ -2,6 +2,40 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-03-17-what-separates-cloud-leaders-from-others.md",
+      "title": "What Separates Cloud Leaders From Others",
+      "excerpt": "A handful of cloud service providers, namely AWS, Azure and Google Cloud, rule the market. They are responsible for almost everything we see on the internet. They are the internet. A handful of cloud service providers,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/what-separates-cloud-leaders-from-others/",
+      "originalUrl": "https://analyticsindiamag.com/what-separates-cloud-leaders-from-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-how-is-speech-recognition-affected-by-face-masks.md",
       "title": "How is speech recognition affected by face masks?",
       "excerpt": "News-Medical speaks to Dr. Joe Toscano about his latest research that investigated the impact that face masks have on speech recognition.",
@@ -853,40 +887,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-palantir-rising-war-in-the-garden-of-google.md",
-      "title": "Palantir Rising: War In The Garden Of Google",
-      "excerpt": "Palantir threatens the current paradigm with software for a decentralized alternative. Europe's GAIA-X offers significant upside potential as Palantir seeks a new European hub in Switzerland",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4414059-palantir-rising-war-in-garden-of-google",
-      "originalUrl": "https://seekingalpha.com/article/4414059-palantir-rising-war-in-garden-of-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4414059-palantir-rising-war-in-garden-of-google",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4414059-palantir-rising-war-in-garden-of-google",
-      "publishedDateTime": "2021-03-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

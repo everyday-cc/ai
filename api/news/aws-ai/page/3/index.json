@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-21-black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way.md",
+      "title": "Black Lives Matter could change facial recognition forever - if big tech doesn't stand in the way",
+      "excerpt": "Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/tech/30389554",
+      "originalUrl": "https://www.nationthailand.com/tech/30389554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/images/news/2020/06/13/30389554/800_dea51fcd7652ca1.jpg?v=1592029222",
+          "width": 675,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1291,49 +1335,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cyber-snapshot-adam-desseyn.md",
-      "title": "CYBER SNAPSHOT: Adam Desseyn",
-      "excerpt": "I’ve already had the opportunity to greatly improve my machine learning skills by placing third in the Army in the 1st Annual AWS DeepRacer (an Amazon Web Services hands-on, machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.army.mil/article/245026/cyber_snapshot_adam_desseyn",
-      "originalUrl": "https://www.army.mil/article/245026/cyber_snapshot_adam_desseyn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.army.mil/e2/c/images/2021/04/06/b73bbe98/max1200.jpg",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United States Army",
-        "domain": "army.mil",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
