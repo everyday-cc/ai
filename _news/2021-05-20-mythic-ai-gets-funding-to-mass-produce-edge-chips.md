@@ -8,9 +8,9 @@ webUrl: "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-
 ampWebUrl: "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Network World
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/10/neural-network1-100860577-large.jpg"

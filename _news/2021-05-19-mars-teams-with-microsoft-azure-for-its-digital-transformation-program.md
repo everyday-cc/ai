@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "La Liga, Microsoft team for digital transformation"
+    excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
+    publishedDateTime: 2021-05-19T23:01:00Z
+    webUrl: "https://advanced-television.com/2021/05/20/la-liga-microsoft-team-for-digital-transformation/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2021/05/LaLigaMicrosoft.jpeg"
+        width: 740
+        height: 415
+        isCached: true
 
 secured: "/BYZXGTwFh1a17ssPOYI63hDIP6H3LOIca1g7QL91q0gIVv0S1p/6Kaov2K1tsAqCAvgBXUc/o8UBY9lNL9G4a+8h9o3OgD6H2cKUTir6qkcjnBYiywB6HM+GAxdpw47aYu91krTzCesMY/LqzIV27UCZUrfW0RrfdPNR9fqE9O0FH3O2sddxoX1lj5RZELLPC38tlcFAtI6vqLOhSqdEFAg3xup8pGCU9waZi0G6YtnYM6Ycb+dZN7OW6sNO+t7Wi0z5OdZEcdhnYqN8pHnSqllzjDqgGZrJ+xELSLDPh62F8GCHzHEjCAirI8KiU2RgosgqJmACqt281+Rx/hHA0nqSqrAPMiijWP4X3wUMYo=;Ivor+e2DnVypXNQdbvshFg=="
 ---

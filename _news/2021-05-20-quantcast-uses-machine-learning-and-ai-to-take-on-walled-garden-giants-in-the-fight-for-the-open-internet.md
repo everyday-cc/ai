@@ -1,0 +1,54 @@
+---
+category: news
+title: "Quantcast uses machine learning and AI to take on walled garden giants in the fight for the open internet"
+excerpt: "Quantcast uses machine learning and AI to take on walled garden giants in the fight for the open internet - SiliconANGLE"
+publishedDateTime: 2021-05-19T23:00:00Z
+originalUrl: "https://siliconangle.com/2021/05/19/quantcast-uses-machine-learning-and-ai-to-take-on-walled-garden-giants-in-the-fight-for-the-open-internet-remove-term-cookieconundrumsummit/"
+webUrl: "https://siliconangle.com/2021/05/19/quantcast-uses-machine-learning-and-ai-to-take-on-walled-garden-giants-in-the-fight-for-the-open-internet-remove-term-cookieconundrumsummit/"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Shruti-Koparkar-and-Dr.-Peter-Day-The-Cookie-Conundrum-2021.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body"
+    excerpt: "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically"
+    publishedDateTime: 2021-05-19T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for/article_eb961c53-df2b-5fdf-b462-3ea3d81a3684.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/07/d0779410-82dd-51be-b206-03c802e58fcc/60a50541e24bf.image.jpg?resize=915%2C630"
+        width: 915
+        height: 630
+        isCached: true
+  - title: "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body"
+    excerpt: "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians."
+    publishedDateTime: 2021-05-19T19:11:00Z
+    webUrl: "https://www.medgadget.com/2021/05/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 3
+
+secured: "z+Y6Q4TskUY6C8YuklHyUjoTw//Fq1btd3nT4Fcje5qcf0VF8dS8Uk73Yf+0fWMZ8iuVmj57zAiIa/CS3rT/zqHq7GCTh+QMpRGNdWOYbsXTSSmswuTmLgP0I+AiMHp+gkkxxhCgQD5hmHIAimt+gzSkted5+1sTxUUQR2iH3BS5F5I5PKH1lTdySKN4Ek8008HTSDQwld0NQ58SQvVj/YcIicfXvwcH7/kstABk21Wd6QzFsCmWnM9laS/LlfYQQBNJHTG41A05ra6O2XqZARPAXz4ff5ks2N2/t/WRppXJbziApHONoraDFhpL5Ft/n8hI12qfgwatUQKYZufjgtFZCmDhFKtqNL2vQY4vokI=;xIRBF3l9iLjH+wwYK5jlZg=="
+---
+

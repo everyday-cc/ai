@@ -1,26 +1,24 @@
 ---
 category: news
 title: "CHS Begins Development of Artificial Intelligence Software Products for Medical Diagnostic Imaging Industry"
-excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce the company is taking steps to develop multiple Artificial Intelligence (AI) software products for the Medical Diagnostic Imaging Industry."
-publishedDateTime: 2021-05-19T19:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-1030448094"
-webUrl: "https://markets.businessinsider.com/news/stocks/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-1030448094"
+excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce"
+publishedDateTime: 2021-05-19T19:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21203802"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21203802"
 type: article
-quality: 29
-heat: 29
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "M1vv2yHDVT/naPiui20sFdchCLR2Xk01l8YOO9lvyBh5EfdYIei6MzdCcZgBEaZmWgM6sCNG38fxdD8nA09kJNEqzTWkWcbrBNC07sND/Ql0Q8UMX/X1CO0EyXbkaEqkufRwIcqF0U7yl/TdsB046JENZOIB+Zx0soTGO5hDG0RluHOlSq0AqaySrD+7/42RgY9v2YjR79fTIJisQh2B+k8yxSy835+RHk0KJl8jb88GEMoVHvtA5Fc8mqa/GBbCaKd+q5DTBbJflu0fzbxq6g6NptTasvFrsuLt21PEaSvpwMYYyfsiBtJHeB96DKuL2Q+uhUd6QYdpAsESr0MWpSWPv3AwOIanZzoBa6keA4I=;0ve3/BAxIR5lNOW4dv9H2Q=="
+secured: "/tOpmVLAan5zPa2kKkeA508H0tEw7q//Z0V3pSxmUSd5ESqfVFS1Fh6zsrPleGHeOM+AdroESuGqyf4KqWEmPmjwOFeYunpZ4fwFH/YktLralNjhPQjsqJ/IZXqq72u4vYlXbp6HUGANGqxsMTo+EGspO5ph02J1Exy7X6N8qLUlfNTn9E0Q5PGhRgCHAMrrfDRQiAgzra9hA5Iql2WohL6ms5TGA+PYh4rv1HaEMnqqw9skYW69Vv3y1Sg+d5h5gY3InQ7gi1ZLtfeD3oT54BBMxu3tCbo0cLEbx36Ex2mwHDrcRY+Q7Rev43kUuvgS85nehtoFzhl9WlqYPIZLCowFgMwn+dZK9xJScnxLQys=;B34pt/BYxwrss+8lCNUj3A=="
 ---
 

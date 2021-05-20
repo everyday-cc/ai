@@ -47,6 +47,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
+    excerpt: "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga's technology offering,"
+    publishedDateTime: 2021-05-19T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-1030446896"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
   - title: "Arada partners with Microsoft to become 'digitally-enabled'"
     excerpt: "Sharjah-based developer Arada has partnered with Microsoft to accelerate its digital transformation and enhance experiences for its customers and business managers. The property d"
     publishedDateTime: 2021-05-18T19:13:00Z
@@ -56,15 +65,6 @@ related:
       name: Construction Week Online
       domain: constructionweekonline.com
     quality: 19
-  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
-    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the"
-    publishedDateTime: 2021-05-19T14:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52920497-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 2
 
 secured: "jPDyKAKIQG1e4aggbqdpeNvko3c8NdGKQ8F1Ny0BGpXLXALIRRmZ0bWWHOHE/UoU6LnERCRfsTVwjZ6Xnn/9DOO3vsYx1mqwpYDFDS2fwlMeOX3uD16UWOm8N8bFXeFe6F5a49E8etm1iaTNVLreUw2HknKJhzoUpvBFextTnnusohp3/JROXBWjx31d6JGlR+bUgmtzPUzIGJj562xmEc7BLjgxVgY1hQiZgCk/FLL0yrYm9aqzxoqXoMsnfnj8/kkUhyD9sbStZt6m26FwVIsCcbgwCkIMg1qBdxVzsNqoG0nvlSgTHmbkMScTzz/NRoo9WQ7NduJ07QUqYLI7DinPZk+1rAvB7o4WOASxS68=;nTc2ZNvB58i0FzDpOajxLQ=="
 ---

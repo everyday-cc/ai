@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 918
         isCached: true
+  - title: "Amazon extends ban of police using its facial recognition indefinitely"
+    excerpt: "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice."
+    publishedDateTime: 2021-05-19T14:13:00Z
+    webUrl: "https://www.entrepreneur.com/article/372432"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/372432"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372432"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 91
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-372432.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Amazon Indefinitely Bans Police Use Of Facial Recognition Technology"
     excerpt: "Amazon says it will uphold a moratorium on the sale of its facial recognition technology to police departments, a decision welcomed by civil rights groups. The company had imposed a one-year moratorium on technology,"
     publishedDateTime: 2021-05-18T21:49:00Z
@@ -227,6 +243,20 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_394.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "States move to limit government use of facial recognition software"
+    excerpt: "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition."
+    publishedDateTime: 2021-05-19T21:25:00Z
+    webUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Amazon to extend ban on police use of face recognition tech"
     excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
@@ -565,6 +595,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "hTY2Dn/4nCsg5IL9EczMDLqkoxADmNSq/NgbLHonSka399/JPq+v3mnnGQa7aPfNItOLKgVHsG5C8EKo29XmwlomDWnCmqVLE+HpR4pQE/cqNRdK1cW530bvneRK09vTrJB8ecq0PXPLq5on1vx78kQblCep8RxT5oL12nYTjNhjNldAJG5LlHgPgsCFx+3wdAWJXKUBcQp81fRm/X48P3ZOKT13Y/LkyWqDaYU+GqgjWXrSDKWMye/Nf1RqBxpzK36Yus1nF5RKCtlnsfEPX1TuwyxLSZr/2cseA8a0UxEBf/VM/FoqHkaI/4hrKFGYuYysGe5oIAJk1NkwqnccJCU+a0wu9iT/3yKmhJk7xzk=;SI2Q6RwGJFQ3ZRZ6aqeCOg=="
+secured: "H766mYsh9co+Mb3onoZGZexIMaTee/4hnlDA06VRuLFlPHyzO5RMvD6bY+l/1Wq6vuzjPtMQbPDkS0rj8+l00VPBdj49xKXsOcKtvEP8jlUrqwfP7Xi45ktyAV0LT7nTLymzFgnS3HU/fBcsYBdsuEm1OZnK0yXRwLe+NEmMLiJ+NS7HEfjCw0QvA43GfIQvICHuEwpj2t3OJSjttCFRreGYxHwcowML1/0u8crV9P9SW6hH28Jg2z7LxnJMcDEOcCG6//bT7iPhOC7S5ck6AXmvMvZni+xefzY+Sh8bDe9oTkFZ6Z4U0AxMrF9ZJjLgY/7RojU7s2jNM4b8GpFiYqhhFz55K7WPV14aGymCi5IigWYD922QPbN+7xpsHZDepfR14SjOprIxF0Zo3w8SvHsKmp2fw/tyhBIZO+TJzDNTsymCdKc2ACqIYHEG/Y8FhPT5BcRPkA/tQiz/PDkI8oobkqV3RH2Ysm3UMVzT1LT68MMIpCTrSa46nfqa4yG6OyOmcP1hjRdSOCtHbnceQA==;qdmquEutIlbbv/KKKqqhQQ=="
 ---
 
