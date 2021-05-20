@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937141"
         width: 326
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in the Construction Market 2021 Industry Size, Key Manufacturers and 2025 Forecast Research Report | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Construction Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-20T10:53:00Z
+    webUrl: "https://menafn.com/1102102855/Artificial-Intelligence-in-the-Construction-Market-2021-Industry-Size-Key-Manufacturers-and-2025-Forecast-Research-Report-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133029"
+        width: 380
         height: 250
         isCached: true
 

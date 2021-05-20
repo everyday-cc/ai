@@ -60,6 +60,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
+  - title: "Deep Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Deep Learning Market size is expected to grow at an annual average of 38 during 2021 2027 Deep learning is a subfield of machine learning that entails a series of computer instructions or algorithms inspired by the functions and"
+    publishedDateTime: 2021-05-20T11:21:00Z
+    webUrl: "https://www.openpr.com/news/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
 
 secured: "MLDu8xb3QVOcD6S4YQ4XM/pj/7nR+gGxNqjudxiyACtjOQQ6U1DigFGl1wZk20ylY81e1+4vNOyVZk/eHdw3pwkp9RKdmAT5AQ/gUHwb5Owh7Vbwuv/HGxe3nCxXqr3suuLJfTaT/TRqV2rYxTCuipPLMhRGux/siGL7CHGdW+xPfK8kD3+NE4WtOrhJ2xnyfR6AjdXt7zt2+WRA3+VRaBV4/C2hH0CJRiAX0O3tqVmgcZps+aGm/uPdoYt7iNRXd1p3cq9X0S1mTxPLyyfc6V+/DNwWZPbd0fD3shgatB7NkV2WGXlIQnjXWrhoaVuYNsqCEUknWJawI6yShwoUUELJSbC1H4fbscuFuSBnbPTAoL9O2OyWxqVFLyFNGXq+hQGfz5K9vE3jRGiczEe8Q+z7lTrxJF/c654DL3/sIDcXLKaXadYCeZA3Vm25zN4rNeCJ5yL14LgGWPhlh2lOZp8JOHMtR+36bFJLNSvP6htxgyRfHqdWfeMLA5gm1fGakLe4FNuyE0uBSQCH38Mnwg==;h/axao7z+ae3CITSWJrp4A=="
 ---

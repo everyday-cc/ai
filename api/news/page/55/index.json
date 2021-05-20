@@ -2,6 +2,247 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-03-31-ai-startup-kinta-aims-to-make-manufacturing-smarter-and-its-backed-by-rising-star-investor-lachy-groom.md",
+      "title": "AI startup Kinta aims to make manufacturing smarter, and it's backed by rising star investor Lachy Groom",
+      "excerpt": "Kinta, which runs an AI platform to make manufacturing more efficient, raised $5.5 million from Lachy Groom and Mo Koyfman's Shine Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/manufacturing-ai-startup-kinta-raises-series-a-lachy-groom-2021-3",
+      "originalUrl": "https://www.businessinsider.com/manufacturing-ai-startup-kinta-raises-series-a-lachy-groom-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/606496c46183e10019819822?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-to-spot-an-ai-ethics-watermelon.md",
+      "title": "How To Spot An AI Ethics Watermelon",
+      "excerpt": "The tech industry is full of watermelons. Companies that look 'green' on the outside, but have deep fleshy red inners: Here's how to spot",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/",
+      "originalUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064aebacb513678fa61b40f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/amp/",
+      "publishedDateTime": "2021-03-31T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-new-early-warning-system-for-self-driving-cars.md",
+      "title": "New early warning system for self-driving cars",
+      "excerpt": "Thanks to artificial intelligence (AI), their system can learn from past situations where self-driving test vehicles were pushed to their limits in real-world road traffic. Those are situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210330121234.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210330121234.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-156-valuates-reports.md",
+      "title": "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports",
+      "excerpt": "Increasing penetration of Smartphones with image recognition technology for authentication, object identification and augmented reality use cases. Increasing adoption of image recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
+      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review of this industry with respect to the driving forces influencing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-octomize-your-ml-code.md",
       "title": "‘Octomize’ Your ML Code",
       "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
@@ -866,223 +1107,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-lilt-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "Lilt Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "We’re thrilled to be recognized as a winner of the Artificial Intelligence Excellence Awards,” said Spence Green, CEO of Lilt. “As a language service and technology provi",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-c4b27d7744f88f1699784e5b21872379",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-c4b27d7744f88f1699784e5b21872379",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare Market Size, Share To Expand At 19.2% CAGR Through 2025",
-      "excerpt": "Mar 30, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing (NLP) in Healthcare Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-virtual-contest-to-cultivate-interest-in-robotic-fields.md",
-      "title": "Virtual contest to cultivate interest in robotic fields",
-      "excerpt": "KOTA KINABALU: Sabah is organising ROBONEO AWS DeepRacer Challenge 2021 to cultivate interest in robotics field in the efforts to boost Malaysia TVET (Technical and Vocational Education and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "originalUrl": "https://www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theborneopost.com/newsimages/2021/03/Julkifli-Fazlan-1.jpeg",
-          "width": 335,
-          "height": 241,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "cdnAmpWebUrl": "https://www-theborneopost-com.cdn.ampproject.org/c/s/www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "publishedDateTime": "2021-03-30T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Borneo Post",
-        "domain": "theborneopost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy.md",
-      "title": "inSearchX Partners with Strategic Visions Using Machine Learning to Help Customers Find their Ideal Car With Uncanny Accuracy",
-      "excerpt": "Startup inSearchX and advisory services firm Strategic Vision announce they have partnered to deliver an exciting vehicle-matching technology that pairs new vehicle shoppers with their ideal vehicle match.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
-      "originalUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-cioe-intelligent-sensing-expo-to-promote-industrial-development.md",
-      "title": "CIOE-Intelligent Sensing Expo to promote industrial development",
-      "excerpt": "AR/VR action recognition, UAV flight obstacle avoidance, industrial robot object recognition, security monitoring, etc. As a 3D vision industry event, Intelligent Sensing Expo showcases infrared ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/cioe-intelligent-sensing-expo-to-promote-industrial-development-808180956.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/cioe-intelligent-sensing-expo-to-promote-industrial-development-808180956.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1476044/1.jpg?p=facebook",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

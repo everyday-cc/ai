@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Amazon Indefinitely Extends Ban On Police Use Of Face Recognition Technology"
-excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters"
-publishedDateTime: 2021-05-19T10:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-1030445472"
-webUrl: "https://markets.businessinsider.com/news/stocks/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-1030445472"
+excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters reported. The company said it would extend its ban on police usage of the technology \"until further notice."
+publishedDateTime: 2021-05-19T10:18:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-2021-05-19"
+webUrl: "https://www.nasdaq.com/articles/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-2021-05-19"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Natural Language Processing
@@ -349,6 +345,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Lightfoot’s office was blindsided by CPD’s use of controversial facial recognition software — then raised serious concerns"
+    excerpt: "Hacked emails show the city only learned police were using technology developed by Clearview AI — which faces multiple suits claiming it violated the state’s biometrics privacy act — until after inquiries last year by the Sun-Times."
+    publishedDateTime: 2021-05-20T10:30:00Z
+    webUrl: "https://chicago.suntimes.com/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 48
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/YKugGkghNH_W2uowxDhK7_CxgqU=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69315653/large.0.jpg"
+        width: 768
+        height: 465
+        isCached: true
   - title: "Amazon still won’t make its facial recognition software available to police anytime soon"
     excerpt: "Amazon place a one-year moratorium on police to block them from using the technology, coming at a time when other technology companies either said they wouldn’t sell their own similar product or stopped the development of such products."
     publishedDateTime: 2021-05-19T03:13:00Z
@@ -596,15 +608,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
-  - title: "Feds deploy facial recognition software at Charlotte airport | Charlotte Observer"
-    excerpt: "Facial biometrics spots hundreds of imposters at American ports of entry, US Customs and Border Protection says."
-    publishedDateTime: 2021-05-15T18:48:00Z
-    webUrl: "https://www.charlotteobserver.com/news/local/article251429493.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 29
   - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
     excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
     publishedDateTime: 2021-05-19T12:32:00Z
@@ -633,6 +636,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "XYySccnoUsJ72c6uYuENsYS/hCN87QZ1rSnZOoVeqPC0H+YGoRIIE2nNXaJe2hiKnpoSgF7XqgoW9YgqkektPE1z8udOIYi0+6yxqlZVaapgvoklQyBfx8heUQCo9k4Lwzd/rUSMaEOJoZjavYcim/f86y8Sy9k+33FbdsYJhb/F1J5qbs09TzsblHOGFrw11/g+eazdQfr5o29ElmSJW12BiqgBNxNmKVS9pwgyCeEzDd8ZljQussklmjs3evhrkvo8sreaKmIjHpB9ZXs/Rf3JQAYl/A9LVlQlVFE2tJAYKhvUvK+A4MnaFxUE8Fp4cjgVCe5eYK0GY6TR7yTAAetqPW8mSm032xr5la6kVlU=;8Ah2viR3QU3bPyXWDCUBbg=="
+secured: "LfywIelKPNHamgMtAZvm8AYeRn+7CP/1sZ4au2VZDYsPRm8g/j4kT7eHO5gXvAyv1OSnAN459RPn05kc6ViCyLOOomLFZhuM5hJmlAysXMGXE3OnEuIb74qhWebzjG+MZk6uBIGEYLsbTz5+HSOHRDfD79dEu3pdpznEOz3qPpkhiwvzqqFm5Z5d/PcaQ7LHzigOmI88VRxbPLc9KINKPguC/IXxB2jE6xxPQipT0nZM73HuU4IDsM4+mqmjDFYJDY5jxl2y7ktGoCI4jziejxvBN2Atk7k5TmlXc1YwcdF5HBCSELeHii1LdKO7ufZFvGTTHtfCgqvDbhGyrlmyj29u6l7xrp5U0NO9si4uPl8=;CfacHVQ0myEG7gDIuXN0dQ=="
 ---
 

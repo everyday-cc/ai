@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Senate Bills Aim to Grow Federal Tech-Ready Workforce—and the Government’s Transparency About its AI Use"
+    excerpt: "Two new pieces of Senate legislation aim to accelerate the study, fielding and buying of artificial intelligence capabilities across some agencies and the military, ensure transparency in the government’s deployments of the evolving technology,"
+    publishedDateTime: 2021-05-17T20:41:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/05/senate-bills-aim-grow-federal-tech-ready-workforceand-governments-transparency-about-its-ai-use/174096/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 22
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/17/AP21133550917559/860x394.jpg?1621283933"
+        width: 860
+        height: 394
+        isCached: true
 
 secured: "Di2MpKVcAq5c+S7mcOLHfE16iUvuPEb+P28Ep11rCDr4VSM1jMyZgzkaqTzeGCW3NZoRnO06/WpH9g/NgTn5Mh6re6U02Lub7rkG6mlgAo2I5BKH2cHBL2dmQw8u2COgD/KwrTaSTNM4MB/qsq0aZwMsnIDuiqu3ACa2k6JKch9zgX943YyZEb329G64eLQdV/wx0ruYrt4HOaCuJ5FyHDQeCi9ne8u2+JeTpW/oAYLjZpMG7/9SMgWqNfi61U2caAhjCC052FSgf0WiBsDQm3H+XAc+6EwOzh132TA3wuv8t2g62Xj7c7EeF9GsmE2kMeIHk/GHWVG3I7uQMPl5OwXj9cTG6STE2Vrb+yjDjek=;t8KlrSbyJ7MTUifYFSzWzw=="
 ---

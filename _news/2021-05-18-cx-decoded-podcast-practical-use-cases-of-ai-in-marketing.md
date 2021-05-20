@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/customer-experience/cx-decoded-podcast-pract
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "12 Use Cases of AI and Machine Learning In Finance"
-    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
-    publishedDateTime: 2021-05-15T18:51:00Z
-    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
-        width: 450
-        height: 450
-        isCached: true
   - title: "Watch for Digital, AI to Increase in the Mortgage Biz (Podcast)"
     excerpt: "Joe Tyrrell, president of ICE Mortgage Technology, tells Bloomberg Radio's Denise Pellegrini that the shift to digital in applying and processing residential mortgages, is here to stay."
     publishedDateTime: 2021-05-19T18:18:00Z

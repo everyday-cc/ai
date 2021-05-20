@@ -48,6 +48,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 30
+  - title: "Artificial Intelligence in the Construction Market 2021 Industry Size, Key Manufacturers and 2025 Forecast Research Report | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Construction Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-20T10:53:00Z
+    webUrl: "https://menafn.com/1102102855/Artificial-Intelligence-in-the-Construction-Market-2021-Industry-Size-Key-Manufacturers-and-2025-Forecast-Research-Report-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133029"
+        width: 380
+        height: 250
+        isCached: true
 
 secured: "6XdU9Xie1YZZRs3K1Nh2uHLbso14YdTgtbrQp1DNDjgSVHdCA1cgtpzU6uZJYdLTn7rzqNEfZWArtu8a808WnfcPozIxn+WSVJn8XSQHW7b5HrAgvDcPCUz8nP7zcu5wLsNzPmTeGt+9fqVuk1LZkDe5/T5+krZjhtGObZ7PxVxCZAYBABYUn/LaJcbnpYTcP5KDJSH8VyrOwMNIUsOvvXmrxiQ7JFbxqXt3/pnuSRGWkI2Q5rfh7VMQVWnxj6F3WhkAQSm3Hz4xHPthtVdu5XJo6f/lH9HO1zlxRkdedVgkrFZwOqLEBHYntryJJWuPcCnFL0GnD2i33VJmpA40gOaDPnfTBBW0xOKd6OQpfBI=;bBn22C3eC8/is7AJRUfkmw=="
 ---

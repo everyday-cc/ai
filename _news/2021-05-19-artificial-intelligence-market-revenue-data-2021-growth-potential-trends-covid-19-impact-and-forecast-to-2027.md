@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Food and Beverages Market By New Business Developments, Innovations, And Top Companies – Forecast To 2027"
-    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over"
-    publishedDateTime: 2021-05-19T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-by-new-business-developments-innovations-and-top-companies-forecast-to-2027-2021-05-19"
+  - title: "Neural Network Software Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2021-2027"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2021-05-20T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2021-2027-2021-05-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,238 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-17-now-theres-a-deepfake-audio-platform-where-celebrities-can-license-ai-generated-voice-clips.md",
+      "title": "Now There's a Deepfake Audio Platform Where Celebrities Can License AI-Generated Voice Clips",
+      "excerpt": "Whenever deepfakes make the news, it’s almost always for the latest terrifying way bad actors have figured out how to spawn hoaxes or cyberbully people using the AI-powered technology. However, the media industry has found some more practical (and less sinister) applications,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864",
+      "originalUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8692326edc4f759cb0bf14eaa28d3500.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/veritone-launches-deepfake-audio-platform-for-celebriti-1846905864/amp",
+      "publishedDateTime": "2021-05-16T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-tesla-driver-who-died-in-crash-praised-full-self-driving-in-tiktok-videos.md",
+      "title": "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos",
+      "excerpt": "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/",
+      "originalUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp",
+      "publishedDateTime": "2021-05-16T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-credly-and-degreed-partner-and-both-employers-and-employees-can-benefit.md",
+      "title": "Credly And Degreed Partner, And Both Employers And Employees Can Benefit",
+      "excerpt": "Employers get more information, and employees can show their full range of talents, through a new Talent Management collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/",
+      "originalUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609fed90050312b45b723c48%2F0x0.jpg",
+          "width": 1200,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/amp/",
+      "publishedDateTime": "2021-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound.md",
+      "title": "This Israeli startup thinks AI should be operating your next ultrasound",
+      "excerpt": "UltraSight develops smart technologies, offering accurate ultrasound diagnostics, and operated by untrained personnel. The startup's technology will also be traveling to space with another Israeli",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/",
+      "originalUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/05/UltraSight-1620728963.png",
+          "width": 1788,
+          "height": 1117,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/",
+      "publishedDateTime": "2021-05-16T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-tesla-crashes-bitcoin-microsoft-azure-ditches-blockchain-and-more-in-this-weeks-top-news.md",
+      "title": "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News",
+      "excerpt": "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
+      "originalUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai.md",
       "title": "What the vaccine rollout can teach us about big data and AI",
       "excerpt": "When it comes to being data driven and innovative with AI, there are 4 lessons enterprises can learn from the vaccine rollout.",
@@ -965,259 +1197,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths.md",
-      "title": "AI under the sea: Autonomous robot to collect data from new depths",
-      "excerpt": "Terradepth CEO talks about a project to map out and collect data from all the oceans of the world. The company uses artificial intelligence and machine learning to gather and make sense of the data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/13/59c46818-1c37-4b71-ae79-2c8f9c294981/resize/350x/d3bedfd4616337fc874fdbd3fb2f3e33/terradepth-joe-judson-lake-test.jpg",
-          "width": 350,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
-      "publishedDateTime": "2021-05-14T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-how-asset-management-firms-can-use-ai-for-data-analytics.md",
-      "title": "How Asset Management Firms Can Use AI For Data Analytics",
-      "excerpt": "Artificial intelligence is transforming the asset management industry by enabling fundamental analysts to research and extract more information faster so they can uncover accurate investment insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d63b3c54978bb11535422%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
-      "publishedDateTime": "2021-05-14T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
-      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
-      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Healthcare Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Global Healthcare Artificial Intelligence Market Overview:Global Healthcare Artificial Intelligence Market Report 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
-      "title": "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
-      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

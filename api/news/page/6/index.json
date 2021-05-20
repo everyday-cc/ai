@@ -2,6 +2,259 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-14-ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths.md",
+      "title": "AI under the sea: Autonomous robot to collect data from new depths",
+      "excerpt": "Terradepth CEO talks about a project to map out and collect data from all the oceans of the world. The company uses artificial intelligence and machine learning to gather and make sense of the data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/13/59c46818-1c37-4b71-ae79-2c8f9c294981/resize/350x/d3bedfd4616337fc874fdbd3fb2f3e33/terradepth-joe-judson-lake-test.jpg",
+          "width": 350,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "publishedDateTime": "2021-05-14T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-how-asset-management-firms-can-use-ai-for-data-analytics.md",
+      "title": "How Asset Management Firms Can Use AI For Data Analytics",
+      "excerpt": "Artificial intelligence is transforming the asset management industry by enabling fundamental analysts to research and extract more information faster so they can uncover accurate investment insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d63b3c54978bb11535422%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/05/14/how-asset-management-firms-can-use-ai-for-data-analytics/amp/",
+      "publishedDateTime": "2021-05-14T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
+      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
+      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
+      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
+          "width": 1000,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RFID Journal",
+        "domain": "rfidjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024.md",
+      "title": "Global Healthcare Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2024",
+      "excerpt": "Global Healthcare Artificial Intelligence Market Overview:Global Healthcare Artificial Intelligence Market Report 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-size-share-value-and-competitive-landscape-2024-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
+      "title": "Deep Learning Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
+      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity.md",
       "title": "How Artificial Intelligence (AI) Is Helping Musicians Unlock Their Creativity",
       "excerpt": "Artificial intelligence is now helping musicians and producers get in the groove to create their own tunes and find new artists. Find out how AI is transforming the music industry, from discovering new artists to creating your own TikTok tracks.",
@@ -986,238 +1239,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-quantum-machine-learning-hits-a-limit.md",
-      "title": "Quantum machine learning hits a limit",
-      "excerpt": "A new theorem from the field of quantum machine learning has poked a major hole in the accepted understanding about information scrambling.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-quantum-machine-limit.html",
-      "originalUrl": "https://phys.org/news/2021-05-quantum-machine-limit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/quantum-machine-learni.jpg",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-quantum-machine-limit.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-quantum-machine-limit.amp",
-      "publishedDateTime": "2021-05-13T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-myth-of-artificial-intelligence-academicinfluencecom-features-author-and-computer-scientist-erik-larson.md",
-      "title": "The Myth of Artificial Intelligence--AcademicInfluence.com Features Author and Computer Scientist Erik Larson",
-      "excerpt": "Not so fast, says author and computer scientist Erik Larson, Ph.D. In his latest book, The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do, he notes that perhaps the replacement of human beings with artificial intelligence and \"thinking machines\" is not as imminent as we fear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-myth-of-artificial-intelligence--academicinfluence-com-features-author-and-computer-scientist-erik-larson/article_61363200-d2b2-5df4-a936-73c9462bc1bd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/8c/b8c36c4a-4da4-5026-895f-4e587da25cd6/609d22d725b4f.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics.md",
-      "title": "Optimal Dynamics nabs $22M for AI-powered freight logistics",
-      "excerpt": "Optimal Dynamics, an AI- and machine learning-powered logistics platform, raised $22 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/untitled-design21.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
-      "publishedDateTime": "2021-05-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-rd-tax-automation-pioneer-boastai-expands-leadership-team-with-industry-heavyweights.md",
-      "title": "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights",
-      "excerpt": "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare.md",
-      "title": "The Doctor Is In: Three Predictions For The Future Of AI In Healthcare",
-      "excerpt": "They say necessity is the mother of invention — and the last year is Exhibit A. Amid the turbulence of the pandemic, we’ve seen impressive innovation across the board — but perhaps nowhere has this innovation been more pronounced than in the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/05/13/the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c041c4c3af41613afe7d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

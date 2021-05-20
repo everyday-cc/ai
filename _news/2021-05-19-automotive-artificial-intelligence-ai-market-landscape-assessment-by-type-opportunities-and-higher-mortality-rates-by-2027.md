@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2286271/automotive-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,50 @@ images:
     width: 800
     height: 435
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) Speakers Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.”  The report demonstrates detail coverage of Artificial Intelligence (AI) Speakers industry and main market trends."
+    publishedDateTime: 2021-05-20T03:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Market to Reach $228.3 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
+    publishedDateTime: 2021-05-18T14:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-market-to-reach-228-3-billion-by-2026--301293951.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1511411/MCP_1592.jpg?p=facebook"
+        width: 1020
+        height: 534
+        isCached: true
+  - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
+    excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"
+    publishedDateTime: 2021-05-17T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-isr-video-analytics-national-market-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2025-2021-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lDKJ99l0j8d7JzJQodF7V9tebIeUFPPTskgNnST7jzwzXEO4Gt4nN3KhuuR06sjHf9gn1qAoGEpPVIEgyspbZ50qnUVA8zSZOTPADDtWSvwOgaHe5Li3PFEs72SNaCGSCiS2HNBrl6ARhA1goztCjRKwTOeUsvAcIAr4D3NHOWYsAuzruCQGhCx8yGrM1b/WR1gr9s4sNtvtUG/fwIGPXq0V9ZW9q6ZGNQP5XpDWQx/DLoqvBemk+PwE+K4tNtNJFXmKQxOAIeFPDGGvJ+nputBmg7JZ+QyFJJbO61R5gW+Libss/YQKVYbyflKXpMb/glMwieAn7jmURxrqAXXRe8v5lCowqWZMWeV49ro9ebH7TK9vqyQHeuozvFJJhYjEowTeA9dbz1E1kLgJMnYvRbdjiNaBNmPFdf+lEGmRYwEshNADJ13/QmDpk4LUSR42J/geiJURzcw3pLD7fAJ0B/hxEG6VTzKNczOpxFgjIn33U62xQvam/IQKWTKRB4fxAeDZBrzLmzWlymgksZuytg==;uaK9VTLM3kw/izefRRXGeA=="
 ---

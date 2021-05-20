@@ -44,20 +44,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "12 Use Cases of AI and Machine Learning In Finance"
-    excerpt: "The recent years have seen a rapid acceleration in the pace of disruptive technologies such as AI and Machine Learning in Finance due to improved software and hardware. The finance sector, specifically,"
-    publishedDateTime: 2021-05-15T18:51:00Z
-    webUrl: "https://customerthink.com/12-use-cases-of-ai-and-machine-learning-in-finance/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 71
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/22893443_s.jpg"
-        width: 450
-        height: 450
-        isCached: true
 
 secured: "RWQGMzrlQLqR+GpLgXrThqWBPqzyB+6GoMRdxa5YtDv0FuAvjPbwknDaiE1AD8IcVRAnqYi9z8o45vFaGmybKZ+l/BJdT0JABSH20Y46swQZ/+qLCOOU8Hq3n+Jy/3XnldjmeGWYXIVTnVMX38H71/BjyEJAQnIwR/Rai7+tJs9dCZregfTx1SOnYCccrSg+BHzDamOaDR+jbH/DYulFGc1VDQVAdvDaTd7mJa629rTz3zo0+JMjWOhf/tPoxRJA6cjXGGcUSdwGAwyREbTEHKppFDLJGZyJooe7Q/wSel+DxMxuO8lnpFPZ+FkrB+/7oiRVv79Up39jcjSB9rzrpF1H/8NKDeNMm7kDE9/v5S0=;Ft7DZAEl1PIPsyUA60N8Xg=="
 ---

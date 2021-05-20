@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -52,6 +52,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
+  - title: "Deep Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Deep Learning Market size is expected to grow at an annual average of 38 during 2021 2027 Deep learning is a subfield of machine learning that entails a series of computer instructions or algorithms inspired by the functions and"
+    publishedDateTime: 2021-05-20T11:21:00Z
+    webUrl: "https://www.openpr.com/news/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "Healthcare Chatbot Market outlook Opportunities and Demand Analysis, Forecast 2020 to 2025"
     excerpt: "Currently, Europe accounts for the highest market share in the global healthcare chatbots market in terms of revenue. This can be attributed to the growing awareness and benefits of healthcare chatbots,"
     publishedDateTime: 2021-05-17T09:51:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing.md",
+      "title": "Qualcomm Cloud AI 100 Is 3X More Efficient. What’s Missing?",
+      "excerpt": "As the Cambrian Explosion reverberates across the landscape of AI chips, the benchmarking silence of challengers stands in sharp contrast to their marketing claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a59d8ab6781ac1335ea3fe%2F0x0.jpg%3FcropX1%3D5%26cropX2%3D1545%26cropY1%3D0%26cropY2%3D865",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/amp/",
+      "publishedDateTime": "2021-05-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-mythic-ai-gets-funding-to-mass-produce-edge-chips.md",
       "title": "Mythic AI gets funding to mass-produce edge chips",
       "excerpt": "Just six months after unveiling its first AI inferencing processor, Mythic AI has announced a new round of funding for $70 million in Series C investment to begin mass production of its chips and to develop its next generation of hardware and software products.",
@@ -1431,49 +1483,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-ibm-details-planned-2-nanometer-chip-process.md",
-      "title": "IBM details planned 2-nanometer chip process",
-      "excerpt": "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/",
-      "publishedDateTime": "2021-05-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
