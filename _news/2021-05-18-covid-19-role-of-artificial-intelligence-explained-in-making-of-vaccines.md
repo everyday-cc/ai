@@ -39,22 +39,6 @@ related:
         width: 2560
         height: 1288
         isCached: true
-  - title: "Vitti AI Invites Applications for Webinar on Role of Artificial Intelligence in Tackling COVID-19"
-    excerpt: "Vitti AI has invited registrations for a webinar on Role of Artificial Intelligence in Tackling COVID-19 to be held on 16 May at 6 pm IST"
-    publishedDateTime: 2021-05-15T08:45:00Z
-    webUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/vitti-ai-invites-applications-webinar-role-artificial-intelligence-tackling-covid-19/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 61
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Artificial intelligence has been of little use for diagnosing covid-19"
     excerpt: "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts"
     publishedDateTime: 2021-05-19T17:24:00Z

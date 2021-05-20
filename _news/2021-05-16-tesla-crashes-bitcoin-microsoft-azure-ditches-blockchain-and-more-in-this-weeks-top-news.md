@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-b
 webUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 49
 
 secured: "0pkeEwfByL2KL+2Fb3yYQkRDUDTvgoredg+gqQis06GrJTfcYHdgCFodq8zeQK6O8i4BuWzxq948E58kfoiV01+1kokIguyUMLqwLGm7T1D56kw6yA9QxWQ1HLiPCEX9ChonQwsJuum+2/o/cTpwGudjywpNyXqXKUzHgxOvAB/rQnsxk1mXV/Je9wcu/MBQeiH5WeljEieYljd1FZ9rijJm7q9tkXYh61R+oDu6D7wpMS+r0y3OAAw2oP6KLIULrGM0rG9hugm4v9nqFTkw2YV/VBYWiYp9BgMZ0ExEb/myyWZpkrJy5vEX9cHQ0CfomcUJQnhH2IE2GHXQ35Xf79l8gr+YWmR00wwM/Kghn9ThUrjnJdOVrQrY8Wzno6LskCDbmHno3x5zQwinuhjlfvXZooazxZCVJoYuIDyAkzzV4EDaMJUeHpL6ixmTbhJJezkArzWuMFyjMCaU1G6IQeUsKJ4b9fvQ5RAA9NtzTtBVbKIEHytWj1bmPqb5+rHPI5sUHgyHE7b97CB6A3eFJQ==;oC7U2gU0G8iE9OJwQbpv3A=="
 ---

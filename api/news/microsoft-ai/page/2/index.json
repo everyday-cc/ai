@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-law-and-the-cognitive-sciences.md",
+      "title": "Law and the Cognitive Sciences",
+      "excerpt": "This series publishes book monographs exploring connections between law and the cognitive sciences. The books will be of interest to academics, students, and practitioners, and in particular to the scholars in the fields of legal theory, philosophy of law ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/series/law-and-the-cognitive-sciences/AB27850A2F56CE703E5529AED22FA4FE",
+      "originalUrl": "https://www.cambridge.org/core/series/law-and-the-cognitive-sciences/AB27850A2F56CE703E5529AED22FA4FE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97811087/23480/large_cover/9781108723480i.jpg",
+          "width": 427,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-text-analytics-market-share-trends-growth-outlook-with-company-analysis-and-forecast-to-2027.md",
       "title": "Text Analytics Market Share, Trends, Growth Outlook with Company Analysis and Forecast to 2027",
       "excerpt": "Selbyville, Delaware, The research report provides an in-depth analysis of the growth factor, major trends, and opportunities that may influence the growth of the Text Analytics Market in the future.",
@@ -1307,50 +1350,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
-      "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
-      "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
-      "originalUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png",
-          "width": 1391,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20793834",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834",
-      "publishedDateTime": "2021-04-26T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

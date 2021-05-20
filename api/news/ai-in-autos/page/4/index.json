@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-04-29-self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker.md",
-      "title": "Self-Driving Truck Startup Plus to Develop Natural Gas-Powered Vehicle With U.S. Engine-Maker",
-      "excerpt": "Self-driving truck startup Plus has announced a partnership with U.S.-based engine-maker Cummins to develop an autonomous truck powered by natural gas, reflecting the company’s green transportation ambitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-04-29/self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker-101703879.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-04-29/self-driving-truck-startup-plus-to-develop-natural-gas-powered-vehicle-with-us-engine-maker-101703879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-04-29/1619693602800996_560_373.jpg",
-          "width": 560,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-elon-musk-teslas-next-full-self-driving-beta-update-will-blow-your-mind.md",
       "title": "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’",
       "excerpt": "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”.",
@@ -1412,6 +1369,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention.md",
+      "title": "Tesla drivers with 'full self-driving' warned of risks and need to pay attention",
+      "excerpt": "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "originalUrl": "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

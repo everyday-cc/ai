@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
+      "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
+      "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://getdivvy.com/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-provider-bill-com-to-acquire-expense-management-fintech-divvy-in-2-5b-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://getdivvy.com/wp-content/uploads/2019/05/Divvy-Logo-19.png",
+          "width": 640,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
       "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
       "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
@@ -1167,50 +1209,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.md",
-      "title": "DRDO Centre for Artificial Intelligence and Robotics develops ‘Atman AI’ for Covid detection in Chest X-rays",
-      "excerpt": "The product has been designed to reduce the burden of CT scans and make covid diagnosis accessible for smaller towns by helping in making the process ..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-82453508,imgsize-54466,width-800,height-434,overlay-ethealthworld/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508",
-      "publishedDateTime": "2021-05-07T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

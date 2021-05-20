@@ -2,6 +2,93 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-27-jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning.md",
+      "title": "JG Wentworth Welcomes Andrey Zelenovsky as their Vice President of Artificial Intelligence and Machine Learning",
+      "excerpt": "JG Wentworth announces Andrey Zelenovsky as the company's Vice President of Artificial Intelligence and Machine Learning. Zelenovsky will leadand leverage Robotic Process Automation (RPA) and Artificial Intelligence (AI) to streamline business process and enhance customer engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyamerican.com/story/news/2021/04/27/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning/115954270/",
+      "originalUrl": "https://www.dailyamerican.com/story/news/2021/04/27/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning/115954270/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/566acc86dad952c4145099e5ca32f79327eaf1ef/c=0-175-800-625/local/-/media/2021/05/02/Somerset/8c46fb919a698b1461c32bbefbe8506d.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dailyamerican.com/amp/115954270",
+      "cdnAmpWebUrl": "https://amp-dailyamerican-com.cdn.ampproject.org/c/s/amp.dailyamerican.com/amp/115954270",
+      "publishedDateTime": "2021-04-27T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily American",
+        "domain": "dailyamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-official-master-changan-is-testing-self-driving-cars-in-pakistan.md",
+      "title": "Official: Master Changan is Testing Self-Driving Cars in Pakistan",
+      "excerpt": "The future finally meets the roads of Pakistan. Master Changan Motors is leading Pakistan into the future of mobility by",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
+      "originalUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2016/05/Mobilink_Microfinance_Bank.jpg",
+          "width": 750,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
+      "publishedDateTime": "2021-04-27T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights.md",
       "title": "Machine learning security vulnerabilities are a growing threat to the web, report highlights",
       "excerpt": "Security industry needs to tackle nascent AI threats before it’s too late. As machine learning (ML) systems become a staple of everyday life, the security threats they entail wi",
@@ -1080,101 +1167,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid.md",
-      "title": "Alphabet’s X moonshot division wants to bring AI to the electric grid",
-      "excerpt": "Google parent Alphabet has been working on “a moonshot” for the electric grid, with a secret project in its X R&D division aiming to figure out how to make power use more stable,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/",
-      "originalUrl": "https://www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/powerlines.jpg",
-          "width": 1500,
-          "height": 938,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/amp/",
-      "publishedDateTime": "2021-04-26T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-cleareyeai-joins-itfa-the-fintech-committee.md",
-      "title": "Cleareye.ai joins ITFA & the Fintech Committee",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net LOS ANGELES, April 26, 2021 /PRNewswire/ -- Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cleareye-ai-joins-itfa-the-fintech-committee-1030345128",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cleareye-ai-joins-itfa-the-fintech-committee-1030345128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -25,31 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Check out the pitch deck that won data analytics firm Pecan.ai $35 million in a funding round backed by Dell"
-    excerpt: "The Israeli startup, which recently signed a deal with vaccine developer Johnson & Johnson, aims to use AI to disrupt the business analytics industry."
-    publishedDateTime: 2021-05-15T09:01:00Z
-    webUrl: "https://www.businessinsider.com/dell-backs-analytics-firm-pecanai-in-35m-funding-round-2021-5"
+  - title: "Alteryx Dips Analytics Tools Into Machine Learning Waters"
+    excerpt: "Alteryx arguably is best known for its desktop-based, self-service analytics product, Designer, which is also regarded for its data blending and prep"
+    publishedDateTime: 2021-05-19T18:28:00Z
+    webUrl: "https://www.datanami.com/2021/05/19/alteryx-dips-analytics-tools-into-machine-learning-waters/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
     images:
-      - url: "https://i.insider.com/609e66fca9b6a40018f1c108?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
+        width: 1000
+        height: 597
         isCached: true
-  - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
-    excerpt: "PTI takes no editorial responsibility for the same.) From saving lives of first responders to exploring manure recycling, the winners transformed data into decisions. Mumbai, Maharashtra, India – Business Wire India The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI."
-    publishedDateTime: 2021-05-17T08:36:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
+  - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
+    excerpt: "In the spring of 2020, as COVID-19 spread across the world, live entertainment and spectator sports were brought to a screeching halt. With stadiums shuttered, sports teams had to find new ways to engage with fans."
+    publishedDateTime: 2021-05-18T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19/article_d44755f9-cc26-5b5b-b153-cdec483fa8f7.html"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 36
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/f9/0f9e88b0-e096-5a57-a067-42d548cdaf76/60a3c890ce1f7.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
+        isCached: true
+  - title: "KPMG LLP Leverages Data Analytics And Cloud-Based Technology To Best Serve Clients Inundated By Tax Audits"
+    excerpt: "With tax disputes on the rise domestically and globally, upending business operations and impacting resources and financials, companies are turning to KPMG LLP"
+    publishedDateTime: 2021-05-18T12:14:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kpmg-llp-leverages-data-analytics-and-cloud-based-technology-to-best-serve-clients-inundated-by/article_d4b88f20-cf7a-5ea5-b5b5-f6f7a4c4887c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/eb/deb18763-22b9-577c-9a60-6323d90c946c/6065d28292ebe.image.jpg?resize=853%2C630"
+        width: 853
+        height: 630
+        isCached: true
 
 secured: "HvKajJxqOnToHIDOJ0L8EV8jFkxAjuU8MpDaCAEG3pUiulEP//xISFUqtA9Z5JXKYaDvoBtEoI6rztj0FgLhKZpSovQQGO9T7zW0u91HP58VZ5YjwQ6l95fK1PyBXy3xMmGvBFMfX/cDa82faJrR2uinpEUSsXE7sOqb3zol5/SKzr0RJ5UawvWH8w1VCNHEl/Jq01Yv/lxijXC4XxZo9stgPwkwVn6Wb29EVPTpiDC70pliGZFxLINpEfP4RgkUerdo8cSMAbFLXkzmmEU7dbZXfBovNqBN0Cb4LIfNRiB/2VzUzWs1zUTIvB9Gcg6d74guiEJW5TRWxQAKSnQm0m3BspfCdUTTO6SDViqAeW0=;Imd7MXLBsubpUUUjE3LZYQ=="
 ---

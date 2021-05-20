@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intellig
 ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png"

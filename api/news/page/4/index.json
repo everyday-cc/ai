@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
+      "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
+      "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence-600x784.jpg",
+          "width": 600,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
+      "publishedDateTime": "2021-05-17T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance.md",
+      "title": "AI-powered Jerry raises $28M to help you save money on car insurance",
+      "excerpt": "When Art Agrawal was growing up in India, a car ride was a rare treat, and car ownership was a dream. When he moved to the U.S. and bought his first car, he was shocked by how much it cost and how difficult it was to maintain a car.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
+      "originalUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Jerry-Co-Founders-Lina-Zhang-Art-Agrawal-Musawir-Shah.jpg?w=1024",
+          "width": 1024,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
+      "publishedDateTime": "2021-05-17T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week.md",
       "title": "Artificial Intelligence Identifies IBM And Netflix Among Trending Stocks This Week",
       "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified IBM and Netflix among other trending stocks.",
@@ -434,49 +528,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-international-automaker-to-launch-self-driving-cars-in-pakistan.md",
-      "title": "International automaker to launch self driving cars in Pakistan",
-      "excerpt": "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety",
-      "sourceUrl": null,
-      "webUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "originalUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "cdnAmpWebUrl": "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "publishedDateTime": "2021-05-17T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Islamabad",
-        "domain": "timesofislamabad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -929,7 +980,7 @@
       "originalUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1152,57 +1203,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-ai-artificial-intelligence-how-non-tech-firms-can-benefit.md",
-      "title": "AI (Artificial Intelligence): How Non-Tech Firms Can Benefit",
-      "excerpt": "No doubt, these problems are even worse for non-tech companies. They generally do not have the expertise or sufficient resources to make AI a success. “Research shows non-tech companies in particular have struggled to take their AI programs beyond the proof of concept and pilot phases–with just 21% of retail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/14/ai-artificial-intelligence-how-non-tech-firms-can-benefit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609f27279715e8996e16c7cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
