@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 669
         isCached: true
+  - title: "AI of Autonomous Cars Finding Its Way into Conventional Cars, a Big Crossover"
+    excerpt: "Poorly integrated tech from self-driving cars could actually undercut human driving and produce a human driving calamity, with many distractions."
+    publishedDateTime: 2021-05-20T20:19:00Z
+    webUrl: "https://www.aitrends.com/ai-insider/ai-of-autonomous-cars-finding-its-way-into-conventional-cars-a-big-crossover/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 34
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-21HumanDriverDistraction-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
 
 secured: "2guOUjq+UxaAaxP8mr3+OWjzv2Vejnsr/IKz/KZ6KKTwUN6mrUJGlZbE3p8E/cf0gP6J9AgZClT+dNK6owi06UnjExR4uL2sjovQxzclPNSMJ7c8UB5EsU5GzHJNsH1/YntWJdPY8Kt0ozvHf0xtQzcO3bHW1xPaeHQyU3KIkTlaoT5AC0OOi3lfcq8hMPEdAasmFkgtJLSFVUF5IQa/t8pz0tooGLy+yjD8+5JPOoMTZezIlZ5n5oB/Jp0fzwwaLRhaQtf7c8o04yQdHgMZ1pWgFSe8sobEiN52OhcHcZJSvHSVGzRQsC3pD1qgeHvPlIYp93bgsuURyHrGPZYORhBxBliHi1pPKS+OboWStlE=;/Vvusk0xBLdChSd5zBEsMA=="
 ---

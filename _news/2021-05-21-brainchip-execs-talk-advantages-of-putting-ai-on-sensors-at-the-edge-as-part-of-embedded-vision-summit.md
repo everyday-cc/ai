@@ -1,20 +1,18 @@
 ---
 category: news
 title: "BrainChip Execs Talk Advantages of Putting AI on Sensors at the Edge as Part of Embedded Vision Summit"
-excerpt: "BrainChip Holdings Ltd. (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power, high-performance AI technology, will present the Expert Bar session  “Can You Put AI at the Sensor? (Not the Edge of the Cloud!"
+excerpt: "BrainChip Holdings Ltd. (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power, high-performance AI technology, will present the Expert Bar session “Can You Put AI at the Sensor? (Not the Edge of the Cloud!"
 publishedDateTime: 2021-05-20T18:58:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/13947667-brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of-embedded-vision-summit"
-webUrl: "https://www.wallstreet-online.de/nachricht/13947667-brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of-embedded-vision-summit"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13947667-brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of-embedded-vision-summit"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13947667-brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of-embedded-vision-summit"
+originalUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
+webUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
@@ -36,6 +34,6 @@ related:
         height: 205
         isCached: true
 
-secured: "O2CsuPLU9mPvmTONRqPZWwUUwsjQZqqiLlnLnEHIvGai5Y6Yj6i+Z1IYXA7RVT8PEWLpy8Y6+f7ioroPMF7bu6qcMT5oGZn42LGN/8JDWHhjokBvXGWd9fDXTLg0ZOpk5JZVpIlobA75w9BpeYrqPrRd5L/PLlR1KCwvp65kihnoV2BavwgHOeb9nknu/kaT0x+/GsQwtdHMWTuDFGC68Y0mBonl2mmD/5TfAjVULYdewPZQBwXhzroL5GeLiwcf6u69URm7ppl2iNKFmu5tmjEKkuJ8MxYfNdbELS1rQN5IYsWwCutzJMWpGnu8j9YVW1Qm+yTDqLu5o6q1WYMVKJKJQt9LudtUX3CWI0Of7c4=;mSUs+dGfL7vFEFcTvz7sYw=="
+secured: "9kl78WSG6iGEVxSpg4MBOCULB/byMAFwSiNHK60iz4fNnEad0myu1KKKwTZLgC8Zo6QbcfP9O9TQNSoMWSaF8yUPRl7g2D1575rhXIO3hxwnSosyULQ14L2jlliUUOwnMROn0ltQeoY6Bxt4vKbUUUjksaFebVoOm2QtMh8RxuSzWtBlVoGLzp3D5SbucVlK6ZA78i2OhcC3R3E9jBwZR+0ZVjEfRmutYBM6M6MaXMjkptxZqrN0vkXELhJolt3ryn/NfNZqBKgga2VthAlozjuEoC4MjT9H9bge6K9lAw35w9LrWggo5z6rpN3kKrYIVR2iuuFhPiizb2zH0k41ALtxez6/3C1lw3V7jFaXhzE=;uIT4UxuZH12ZCKaVVWCM6Q=="
 ---
 

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Databricks Announces Plans to Unveil Highly-Anticipated Fifth Major Open Source Project at 2021 Data + AI Summit, Releases Final Keynote Lineup"
-excerpt: "Databricks, the Data and AI company, today announced the full agenda and final lineup of featured speakers for the upcoming Data + AI"
-publishedDateTime: 2021-05-20T03:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-892628822.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-892628822.html"
+excerpt: "Databricks co-founders Ali Ghodsi, Matei Zaharia and Reynold Xin slated to deliver keynotes on data and machine learning product innovations and"
+publishedDateTime: 2021-05-19T18:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-1030448502"
+webUrl: "https://markets.businessinsider.com/news/stocks/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-1030448502"
 type: article
-quality: 3
-heat: 3
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Google AI
+  - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-    width: 1094
-    height: 576
-    isCached: true
-
-secured: "J36Wm6iZ4wQMw3AZFmOwveXcgqBDzkwL+n3Aihn/vv6waRkLh9CPVbYK0zzx/oPQqMgJqwLye+lzrgIiNHOnAc43cqeBvroDE9JEKA0jbrASOL7KIs7QysiLWpGJQZNIOSkgpn+VuHtgqaQBiyjXuFQ8lktutFnYF3smWmD8eqTuQyoa6vst3AGyHu39xKXyqLvgcmNgPsPEJwwLFLxtBZ47yNYLBlJY8fu/vBslLaR2u7GQnLDDG9OU9m+ULUqRSCKh1idwoo/9TBeEjBYcqZu/s9c9GhVqCPZmweIgR1YvQZ8UcQ/A0H8wlTxaO+E+JnpS60o4U9bFhpBzCx+8+hGidkTUVvRBGpMcwKkRuxQ=;VYbR0jJsTbaFrFEPEufaMw=="
+secured: "MSY7OPomQYfb+jjBjBgrg4J4BoTVfwxd0rQCQKE9ivgc0v7FAnmUpdie8UCU4k6dqQEq5EOzg3LbAa6kTUEGXO1u7P9EdS3yuoE5QVzchqVqMk/aCLO1DXLaJ/2dRWHRcP3UeyqloLepE9GsI0cqSA8jtC+af/cDk7uBGir2XOFiMsKF44URKSxM6tscfMOHB7bikE66l3arGo3Qj+qJKOZM/OVqXIdA/0lzIX0pob8NghcqKo0s1mHP97uAazeAkI5TQfw419c5/VY7sp35+wKq7XpBs4SXvbjZyE08BJD7FR+x/cx+e9ftuhjVEiPxf9wHwB+aKGejGRCCF0cgm1dHEKo3b+24AliptMQD2as=;qF4aKFg3pKg818YE3QGIuw=="
 ---
 

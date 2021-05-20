@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secur
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI chip maker Tenstorrent joins herd of Canadian unicorns after Fidelity-led $200-million funding"
+    excerpt: "The funding comes as Tenstorrent prepares to ship its inaugural Grayskull processor to market in the second half of the year to power artificial intelligence-focused computers"
+    publishedDateTime: 2021-05-20T21:26:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-ai-chip-maker-tenstorrent-joins-herd-of-canadian-unicorns-after/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 41
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/c99xjqLdO-JRhKnM8Grc2FLVZ-o=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/55BXWQ5V2JADVEWAZ4BCMDTJEA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tenstorrent Raises over $200 million at $1 billion Valuation to Create Programmable, High Performance AI Computers"
     excerpt: "\"We are bringing to market a high programmable chip at an accessible price point as a means of driving innovation,\" said Jim Keller, Tenstorrent's CTO. \"AI is going to transform the data-center and Tenstorrent's architecture is best positioned to address ..."
     publishedDateTime: 2021-05-20T11:45:00Z

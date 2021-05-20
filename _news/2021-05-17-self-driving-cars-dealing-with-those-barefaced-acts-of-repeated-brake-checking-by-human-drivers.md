@@ -61,6 +61,20 @@ related:
         width: 1170
         height: 724
         isCached: true
+  - title: "Americans leery of sharing the road with self-driving vehicles"
+    excerpt: "Some autonomous vehicles are subtle. There's no easy way for passersby to detect whether they're sharing the road with a self-driving car. With other AVs, the spinning lidar sensor on the rooftop leaves no doubt."
+    publishedDateTime: 2021-05-20T17:21:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/americans-leery-sharing-road-self-driving-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/hummer-need-to-know.jpg"
+        width: 792
+        height: 488
+        isCached: true
 
 secured: "9x3BUlcRGh2xrpLG9vo9SV+8+O7mMWy75brlOhQ2f8sh7U0bu6atM/Lr10StEip2l5esxw2I/dJjS043vE3z1JHAq5z9fJ3Tmu0m1QD16VKtXlRGLDAWzcUbVYRmm4oWD4hY1NOdpJYl0GmOMjnMj2JiIgESsMGTfiRWYmy88F1KF1Ky2RmX+6sgums6kbDwLLZuFVhXSxrI0Z643VP+DIZf/8afWUhu1gge9XMYnkgSQGjPNQqnH1XMkBPoJKSLp2qHuN873YYtJLdBN+G5L3GisVLREnNezXjiPV6zvIiigM53dUuu0AkEtIbQsonLPeyXrb9XswwxlR8sw4p1g491NSGiu5c6Qgd6mUEWE9duWcWU54Yme3920pfLtGkHbPNMM7FAdK0RfLXWXiJ7C9P6PbvaoZSyACJ6eEhvMTIq293WOZ0QztMJXqeI1FD6GNtrQ+/hdjsWAtMiqSG+fZ3SRNtHLv3qQMsefuJLQz3LI5fHaJ2pOImPUSswoE+8C1cgdlWhfGF5MkAflpLJpQ==;I3skkzHIJ2D4vA+M6eJ0ug=="
 ---

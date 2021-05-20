@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/watch-gta-v-ai-photorealistic-graphics
 webUrl: "https://thenextweb.com/news/watch-gta-v-ai-photorealistic-graphics-intel-convolutiona-network"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Next Web
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Intel researchers explain how they used AI to give GTA V a photorealistic revamp"
+    excerpt: "Intel research scientist Stephen Richter explained how AI made GTA V's graphics photorealistic, and the potential to productionize the method."
+    publishedDateTime: 2021-05-20T20:40:00Z
+    webUrl: "https://thenextweb.com/news/how-ai-made-gta-photorealistic-intel-researchers-explain-method"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 62
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-20T204513.371.png&signature=a8dcc912e86b9921f2dc9b1ab91a554c"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "0+NECaSynBG3Lh3gMTnjsXmlIdwcP5+CC9jZGGAG7A1y3jrjLgRH40ACAPSWDSv6xzgyJ7PeDeiR3J0+n6WSxn6HYXW/eVR8ryDFtDv1EhgMNVUTT740mq969Nc3zl9cXh6/9g8fKwNIxyYojHB18kD1ubB3joQPrqTIJW7H5dImiqXbeTpLcCbOCGG18+R9VGLcD+vvHgBRtn8+Km64pJLmpwjT8vj5Wnm+QAjBKPu6vFx1zJKGxfRH/L1w28Sh933ZMi+S5sKUzhxbjAuHCeiupCyApnbr1FdGHhi3WjloP7qmBhzpKcnzmnQQgzT8IdfQ0sDnL2TEsp2C4uQ28orvpsqSAONUrufo8V8MmfY8QXUiTYA2tlf15DQSYIy1z6cZzwyLvFgPQSXWapmxo4kEPVSZMSco06KA28Y6ukeRjm80CNAblkNNitXsbAss9s2nX9fOAo3T0aXIkUZrqZ4R6sJCxe8K7YwtXM5z4OtFp0ntTuvGo7yhx58TfaSkfPb8osSWIKMEnr/j/eiZWg==;mKVV+qB03pUhTRYYzqFSkg=="
 ---

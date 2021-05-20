@@ -1,27 +1,41 @@
 ---
 category: news
 title: "CHS Begins Development of Artificial Intelligence Software Products for Medical Diagnostic Imaging Industry"
-excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce the company is taking steps to develop multiple Artificial Intelligence (AI) software products for the Medical Diagnostic Imaging Industry."
-publishedDateTime: 2021-05-19T19:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-1030448094"
-webUrl: "https://markets.businessinsider.com/news/stocks/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry-1030448094"
+excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce"
+publishedDateTime: 2021-05-19T19:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21203802"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21203802"
 type: article
-quality: 31
-heat: 31
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "gr91pS7Jy2duVedlUHZIzpaWQ1KehC88W5GnWWj2NALgWzSW9vDEokt+H+JIuCaPAscVTi6WAjtI8v+qKdCZEk+DOjXEOnEBXtwMIn9gO3C8VGyNXtMgzQlNDD+l6r0mEHtBTHW2nku3i/o+Ff9feT9PyO0wRyecOn7s0pcAFEg/1J8nd9InP8k1xoR3ffnfxz67zE40IpSupulXsKkL+y5GQI0JKD1+6FMs6JJheEteEQq2uSbxFwSP/r1ckRHnOn1aDTMfp6gxBl3chMq2M0EE+JQvs7PIRkuKJAVTycjGnTJXKN6oOJYXLdPhuws4Ew5Kf1vyVT4xiBD939+CLifPVB/fYOdF3DbVSKFQAG4=;twCfiVL4G0puvwgB3txA5A=="
+related:
+  - title: "A1 Medical Imaging to Be Part of Artificial Intelligence Software Development for Medical Diagnostic Imaging Industry"
+    excerpt: "Marilyn Radakovic, RN, Chief Operating Officer at A1 Medical Imaging, is excited to announce the company will become an integral part in"
+    publishedDateTime: 2021-05-20T18:57:00Z
+    webUrl: "https://www.wboc.com/story/43930314/a1-medical-imaging-to-be-part-of-artificial-intelligence-software-development-for-medical-diagnostic-imaging-industry"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 16
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
+secured: "wZksKpwWF14ZQpByLbDjLjfTMOGGcKXbdrFFcmM9ueJroo7k7prrPYJ/x/PAOiYBqe0tYnFCSqFA1PR/SBCpZVbbe6v9VFFRoCr1TKcUCIMAx0w1hdNfovfkxOh6Ue47ev0rCn6VdxPoHDkE7953A87sjAvivwDm8MZFfaEejFCj2ZTQnN3+xHRVSWNoYQ8HQ21x1l/cQYiV60fceNa1wK0nopyPHoNKSJqVxqUY51TttcNR2XPmrqg9MXP5OB55+WwCBn3gByZkCFslwEh5myTF5B90Pulmn8pmhirKfZZ57Ae9jne3nbWy+NExQ4K60GcwG+Bh9mnp9Yxq1p8ziZ3fXYnC73JWwK6Fw/SSoxk=;94ctYyO1yAUoL4Nm87W5FA=="
 ---
 

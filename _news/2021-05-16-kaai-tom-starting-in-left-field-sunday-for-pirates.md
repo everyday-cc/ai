@@ -31,6 +31,17 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 37
+  - title: "Pirates' Ka'ai Tom: Sits again Thursday"
+    excerpt: "Sits again Thursday"
+    publishedDateTime: 2021-05-20T16:59:00Z
+    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-sits-again-thursday/"
+    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-sits-again-thursday/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-sits-again-thursday/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 37
 
 secured: "8H9z6w04+vyDvtFpA3tA+u5BgxCdB8zksbCa8iY7cavDDrp/mS8dyN91IFY2QnCARyhYooHaQ9c3dWkvafrJRut+yMK2E3NGDFHZBGt99WqtE3rqsvX6l6RuNXQJzzezA4Ho3W6SNKnfJa4MLseO7BspIg+W/lJcl39oo0LDXwfMSL2m/Dix7MXAGYTNyGpBIboBjS/egSsQ4gkq7Z9zryheJGGO3eYf4t0z6uAYGXm7V9MqwvkQennjhQD0HpPC3Lc2WfWxsZQ1iA+9hpzZH1C11WWQsf0KPwAdCJVdgFugjO+QZ+SCDHd7V8JFCp73y+ubk042S+mFgnMCHsiwctaG6rvRVj1+CpZY1yZyhcs=;zPmeo6uHUKi1bODiDky14A=="
 ---

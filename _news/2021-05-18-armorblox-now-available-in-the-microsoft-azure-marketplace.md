@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-micro
 webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News"
-    excerpt: "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential."
-    publishedDateTime: 2021-05-16T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/"
+  - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-17T15:08:00Z
+    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 76
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
 
 secured: "MEH9T2pci1wk7V7IpDx4v5lFR+OitHEGcu29vgAEmRtqvX+wMAdON5mJoarbiS1RTPDMz6N9ylYCJYN7fQSLqL2PaURIaWyb8qpMj9mIo5vFXnsH7Po/+AO51aJnu0WdjIqBfPOv9AGwUICFvEQakE6P/Y9CEVTXF2puJRZEtfnSSq/xTh+98D32exNcs1Iyqe05df7YvEcHJLak5QQXf7wfBJvNEmVrlkQESrnDgMoTkJ/OFdvq6xADB3NF/ruaeIPWuHPIonhnvHqZP6kAE9OfmiiFJ1mdtjj4e6RI0aPYW9GjwKQFiQ5Lkm3QOkkkNOWlC88TwK/KbeSU51mFYiTfBD9MRXsPlJ9oX6vuHFQ=;xkEe751sZgFyqfBBtrmD3A=="
 ---

@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-walgreens-used-ai-to-optimize-vaccine-outreach-emails.md",
+      "title": "Walgreens used AI to optimize vaccine outreach emails",
+      "excerpt": "Walgreens worked with Phrasee, which develops marketing automation products, to optimize the language of its vaccine outreach emails.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/",
+      "originalUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/",
+      "publishedDateTime": "2021-05-19T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-the-church-of-ai-is-dead-so-whats-next-for-robots-and-religion.md",
+      "title": "The Church of AI is dead… so what’s next for robots and religion?",
+      "excerpt": "The Way of the Future, a church founded by a former Google and Uber engineer, is now a thing of the past. It’s been a few months since the world’s first AI-focused church shuttered its digital doors,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "originalUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image?fit=300%2C205&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-23.jpg&signature=13bdf3c189e2e230044f8b63ee740134",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-new-120m-round-doubles-ai-startup-asapps-valuation-to-16b.md",
       "title": "New $120M round doubles AI startup ASAPP’s valuation to $1.6B",
       "excerpt": "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople.",
@@ -368,7 +471,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1167,101 +1270,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan.md",
-      "title": "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan",
-      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512747/image_1.jpg",
-          "width": 362,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-robotics-engineer-develops-cet-drone-to-detect-criminal-hideouts.md",
-      "title": "Robotics Engineer Develops CET Drone To Detect Criminal Hideouts",
-      "excerpt": "\"If this is an indication of a criminal enclave rapidly developing across the country, then it helps us nip the growth in",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/",
-      "originalUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2021/05/Drone.jpg",
-          "width": 1250,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/",
-      "publishedDateTime": "2021-05-18T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

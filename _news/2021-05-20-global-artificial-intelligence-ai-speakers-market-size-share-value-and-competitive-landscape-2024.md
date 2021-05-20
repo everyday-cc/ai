@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn.openpr.com/U/5/U518133582_g.jpg"
         width: 800
         height: 435
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-20T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-share-value-and-competitive-landscape-2021-2026-says-kenneth-research-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
     excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"

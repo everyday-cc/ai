@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofislamabad.com/17-May-2021/international-automaker-to-
 cdnAmpWebUrl: "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Times of Islamabad
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/V-Cross-e1592210464539.png"
         width: 1004
         height: 560
+        isCached: true
+  - title: "AI of Autonomous Cars Finding Its Way into Conventional Cars, a Big Crossover"
+    excerpt: "Poorly integrated tech from self-driving cars could actually undercut human driving and produce a human driving calamity, with many distractions."
+    publishedDateTime: 2021-05-20T20:19:00Z
+    webUrl: "https://www.aitrends.com/ai-insider/ai-of-autonomous-cars-finding-its-way-into-conventional-cars-a-big-crossover/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 34
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-21HumanDriverDistraction-2.jpeg"
+        width: 550
+        height: 366
         isCached: true
 
 secured: "04VUyzTkokeRVo4kKUe8VOPUlg/BrBv0Pt4cx+koUzrM5sEexVXSWoHWpsSfy6vyQx5MyWmGI98n1TcxxCIIoYFEDw0x3U1A82xyU7Lv+8kIraRx3zmULpaHaHWuA/AIbg4YWFHo8KONcVb4ksvTdPAPdKO70hf8WyQYf/8/aAVrNYo6V7SCwbcx21n1IZQjYcRdpNbTi16IWKxFQK08RCMcrl7Q8Gg0nxaW9QsVyeb1dONr7trQe/LQ2CBg/BXoGS4SQ8pHtmLSsxkS/w4pHGRP7yWAYG0vtPc2hDj5IafdATO/T2dUd4A+2E9XzbqvmHLMKkEDls2byCLftxfTCCk48zNSdY5IwPhaaMczb8lVaVmqJaUH08bELtlmnExpI6Ra12PpQ1qSflnMcDtpq2jC+1IJJLdI9bx1RzyEH79pKy9j/0PSwHX2LHI+fH1eWSQcfIUg40Q5GrFi7/JnOKnB448yd7hgcqoTtjeio+7dwENhYRgzzrtqoSCDVMC/22rNId8EjpMB2HS4N2Mlvg==;TRLR3a/bu6F+4X7awzHG2A=="

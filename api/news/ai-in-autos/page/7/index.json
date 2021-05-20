@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-10-robo-taxi-company-waymo-now-has-two-ceos.md",
+      "title": "Robo-taxi company Waymo now has two CEOs",
+      "excerpt": "Pronouns: He/him Tristan covers human-centric artificial intelligence advances, politics, queer stuff, cannabis, and gaming. Pronouns: He/him Take me to your leader(s). Waymo CEO John Krafcik ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle",
+      "originalUrl": "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F06%2FwaymoIO.jpg&signature=7c220beffc9bb52ed7fef89e89d73392",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
       "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
       "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
@@ -1297,58 +1349,6 @@
         "AWS AI",
         "AI",
         "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-artificial-intelligence-blazing-a-trail-for-the-future.md",
-      "title": "Artificial Intelligence: Blazing A Trail For The Future",
-      "excerpt": "Amid its continuously evolving nature and the need for ensuring ongoing management, organizations still confront challenges when implementing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "publishedDateTime": "2021-03-26T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Autos"
       ]
     }

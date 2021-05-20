@@ -34,6 +34,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Natural Language Processing Market Report and Future Opportunity Assessment, Size, Share Forecast to 2025"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during the forecast period."
+    publishedDateTime: 2021-05-19T05:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-report-and-future-opportunity-assessment-size-share-forecast-to-2025-2021-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Robotaxi market is expected to grow at a CAGR of 60% during 2021-2026"
     excerpt: "According to the MarkNtel Advisors research report Global Robotaxi Market Analysis 2021 the market is likely to grow at a CAGR of 60 during 2021 26 The growing trend of autonomous vehicles across the world has augmented the demand for"
     publishedDateTime: 2021-05-17T10:47:00Z

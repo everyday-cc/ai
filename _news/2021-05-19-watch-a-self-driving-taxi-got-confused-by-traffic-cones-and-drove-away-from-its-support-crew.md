@@ -3,18 +3,18 @@ category: news
 title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
 excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
 publishedDateTime: 2021-05-18T20:23:00Z
-originalUrl: "https://www.kcci.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-webUrl: "https://www.kcci.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-ampWebUrl: "https://www.kcci.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+originalUrl: "https://www.wcvb.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+webUrl: "https://www.wcvb.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+ampWebUrl: "https://www.wcvb.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Autos
@@ -106,6 +106,6 @@ related:
         height: 360
         isCached: true
 
-secured: "+kz1HbHqDuJuVuXju/t1w5fAixpUNsBhoeE3MjiDpqEgV/rKY9+b6seOfYtMDOUsMDjentGNPzUYRmIl1YqEC39Z7kOH6j9qpVlSVBvyfDjB9o2PjUNhU+6AHxcYpR4mPBmJvPohfNUwl8Xa2WGA186L1ddW6wIvvsmnLhj89noZu8SEU46QjcLhfaOB66nbhkk5qWqFJ8cDeqlX2VxVjCsF/HsrR/PnIRFDxPyWc5Ubh4cLnOTEGjJNnOrk4W6LRNFURtZaZnDxkVUNeL4JFvZNF0Qjb4pawxVwu5tvKYYtL1k3wZRSu+nfd9ahgOaoW1UYI6aio/v5s6V0PHcCF12j1u2jhUoLyD8JCrbWWi0=;rJeW6+ytst/vnu8J/whcIw=="
+secured: "cqDUhgf1rjuxK84TZwNrMUfgzOJiyJlqYJvmLhgRGPhmTbiKUGs0BB4cOotU4GtHBpnchljZ1aLwDF8pU2zwAYrQn1FfV5tage7vwV4TAvgqMHK+95lrOWJrf/FQX5P4OxaOUMZ6wtn6OnI6Mh6plry5TcT9sdnEcIfPLY0nH5ScZ4Ltrk2zz18wUoI5DtYFCrBEyXFR/7CbhtmXpzxKulTKz0nhSNn1+oCs5Z+7wkyF/ZqgOr4AxTbqhfdJFZmHrP4jLc+PqBm6oldR+xeq+pYwoJvMxbKxqh0HzLkKnwGITTwxEi8UEXyp95aSq7RHHLipxZlGRClwKIrZR/MaQgEdqfznsI36u4o+KpXtMHI=;ptyXf1PNHG+4xbWEOgHv3Q=="
 ---
 

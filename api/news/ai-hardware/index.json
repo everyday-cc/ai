@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-21-adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization.md",
+      "title": "Adapdix adds adaptive AI tool EdgeOps DataMesh for process optimization",
+      "excerpt": "Adapdix’s EdgeOps DataMesh puts AI on the factory floor. Semiconductor manufactuers are both backers and customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/",
+      "originalUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-e1611232841973.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/",
+      "publishedDateTime": "2021-05-20T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-jim-kellers-tenstorrent-secures-200-million-in-new-funding-looks-to-surpass-nvidias-ai.md",
       "title": "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI",
       "excerpt": "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1455,60 +1507,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
-      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
-      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "publishedDateTime": "2021-05-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AI Hardware"
       ]
     }
   ],

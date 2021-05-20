@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu tests Level 4 autonomous driving with roadside sensing, 5G"
+    excerpt: "Baidu, a leading Chinese self-driving technology developer, has started testing vehicle-to-everything technology that can help vehicles without sensor equipment achieve Level 4 autonomous driving on open roads with roadside sensing and 5G communication technology."
+    publishedDateTime: 2021-05-20T17:30:00Z
+    webUrl: "https://www.autonews.com/china/baidu-tests-level-4-autonomous-driving-roadside-sensing-5g"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20V2X.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "9aw6jxFnhLJ076B2cK9AEWIe6wnec0hTY0JKLxw8ygbrMQ+K06GNwtzLgddBXPaCv9rzIhGPBMcSz8EZpH//WzF+uDnOIiXZf1hnazoEeAb+Km8UCiGQWOLaE+u1+dEXh3d5KYTposxoAAFg+Ok0x4zlngL5PkBIj1Oy5SL7/n55STEMQzan6PaYEDalJjJjRnwUaHlkTFi83US9D9+RwjqXi3IbHLAOO9mKAP/2+J/I21Lk8Zna02vm0GDJkKtMQUYhBAN0k4jFBOmx0NWOa50pUeO1bpZgTz//+4uiuXAeDOkDzjSzAw3VWLGtICisDnsr2tcv9jWRIxUqmQ2/EPtV59G9cmDH77wgvB2yHK4=;M0veqbGLHsDdXfK9Rmfd0Q=="
 ---

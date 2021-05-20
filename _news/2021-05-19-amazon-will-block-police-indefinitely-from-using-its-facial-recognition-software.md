@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Amazon will block police indefinitely from using its facial-recognition software"
-excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-publishedDateTime: 2021-05-18T23:56:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
-webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
+publishedDateTime: 2021-05-18T23:30:00Z
+originalUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
+webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
+ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
+cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: AZFamily
+  domain: azfamily.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
-    width: 500
-    height: 333
+  - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -643,6 +645,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "wLsfE9R+46xjvSPKrqiqX8+hmJzzUaIorc9Xqm8YJ48cJcRnbp2e2GlS2R/NbBHlzZKvgiWBoZ+OvwCgRVVs/XF1ETZ8n2sCtbWPOo6M/3+r+hkpPVUfw+pDXfoj9RkkK4gU6CegvWKtda7L6zIY6B0L0uHxf1qPmf82ysm/jnZXkIFEuaA3o6Bv2D1Wh6/4Eiu/JNolMNPjCry4vqQRr2dNqBRxrLtcxIrY47iNkLeb4Lq6dVudp0QDCc93/sHGPwIAzV4/mQDTW8VXWcIQWMqaAQIXl5qibyWR6hL7gp3i/xoR6o4ZqhCgRqfrvbJMv7Ej8GmPqQY+DVGfpaj7CQwU0LNkrUzHb9w99EDw8zs=;jKIHhlpHwaIOLt2Flr1UGw=="
+secured: "dgANZ9mULgxSZymu3zQtJ5HmB4Uw4RTo9fcr2asA+7AChOGpCjdXk3ld+F7OjG9XtxamLhx5qt3xTd/baiaYlbkaNGp2cuUMCqDS5NKF0LXeZGvb97RR6u0Y5lD2jU1/P8cgT7LyrwPEd63asTiNGRluaGkq9nRknhpLTKvSLYb1/yXh1/CgH0XZWPh38URU0/dlIPHcWylhxwVSiNOmgK9ykp6MFuuEauW48yyhVSQdhwwLe6mdmGFO5h+cxPKeC7sgv8KpD1YT8eFwlUc/rI73ATVup8s/Wj5kyPcJnBrnRKprsE0FL6Coh8+xRT8yAzai8j+T3L052T94KnfHFLCcMl2MZpLDI+RH2cSW4Uk=;jBa0+uh0nWtJ4kw7hWz+Nw=="
 ---
 

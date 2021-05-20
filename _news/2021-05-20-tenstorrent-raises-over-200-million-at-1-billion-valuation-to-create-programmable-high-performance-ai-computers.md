@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "AI chip maker Tenstorrent joins herd of Canadian unicorns after Fidelity-led $200-million funding"
+    excerpt: "The funding comes as Tenstorrent prepares to ship its inaugural Grayskull processor to market in the second half of the year to power artificial intelligence-focused computers"
+    publishedDateTime: 2021-05-20T21:26:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-ai-chip-maker-tenstorrent-joins-herd-of-canadian-unicorns-after/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 41
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/c99xjqLdO-JRhKnM8Grc2FLVZ-o=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/55BXWQ5V2JADVEWAZ4BCMDTJEA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MPEl82WIwPhlQ/Y71U9lL1uIMVLYq7bqZBkdaliwm1Oa+azhKctSsiRWFHCNvdMRLvDhd5qaAxM2VP/lksC+0NkxfzyhtVEMVpH4wefNzSFNz8Gtf/rBQ616dtf2xCgdVIumz3AQGdf5obJ5puRcopFC7YeLBVnOwxZpu8pRYdi9M+Ynnb+3eCwSuAPhNMznzRIXaul/NZtaVcaVkI7GqOheKrSK1JGaPGNXtFXYxMCaavslsTNuRTQh6M0TSdtmiVxwNoQQWD9xm/as3E++SJMF816vJfz9x3V/R5W61iG3+3QoItwBQt4TPkR3N/nTgLprbHVnB98LB+aNui7Am30us5ILF5YZBLNF7bsafJ8=;HwmmsHPizjCeDINsi9VrYA=="
 ---

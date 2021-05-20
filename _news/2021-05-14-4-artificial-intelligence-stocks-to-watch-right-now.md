@@ -1,20 +1,32 @@
 ---
 category: news
 title: "4 Artificial Intelligence Stocks To Watch Right Now"
-excerpt: "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI"
+excerpt: "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?"
 publishedDateTime: 2021-05-14T14:24:00Z
-originalUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14"
-webUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14"
+originalUrl: "https://www.entrepreneur.com/article/371987"
+webUrl: "https://www.entrepreneur.com/article/371987"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "fDKDsTxO5a1/BVZe2450cUXB2pFow9CRzRTupsOHIvUBy+YWW673a5up2vXZzyH+VbVnHjtLJ+Fe8RPAcPtGxTJv8VBCGorq9+6ATLc4zioIQuRzAC8+UqwzqJJaNO34Jb+EWjDTMpVbyOKTeIJtELFBfsmyWibq7df9imUuFTCzLDuY8hP8ohlonPwob70tCAPBPhv1pQrIkjhN/DLIm6C/5PtZkHnlrT02IKCOzrV/C/NPYQfzgVYSm1IJ3gH7wfoavC21ItYMyLp2b1oNcgmqbrmZug6P9XCFqZYpXYirCbJZXUBJIyLhbnB/3UPKR8JEM8XMooE6Ngdk6AIJucr/as8h9qwZPFS9ZkCw4HY=;6ZpgowfEkrIfkEJTWmE/Ew=="
+images:
+  - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "Y5IWS7QDRjZrXU/OWCOTtf+IKg9c3AxxUQpuWbVqeOD9S3KAwdZu5fINwzbiGrxlekT7G3/TVmoWy3pGpjfVQEZLdFQv0TOti2YoKPgP5Nhc2NZ2es6C3i7v+UaN3TS8cKUB9tnSRSHhmhA+ZgNNd7hdXsRl6dk33coh2xGnojKKL1NCJp3tEAeMaq0qT/fly37w7IFYLmYAmA82g0IWxilCMPNmsJX/CDi12kmrrEvb5Hi5vZ/Sh52Tcm1AxJiNceXUWRiz9BxGmLgcrcvL+k7Dd680FDyzj4+FcSOxzU/Pi3nSMM5YlBATrgMyeh7iHeVHKt0OFVjRBmey6Kz/g3mnc+iym8xfGEWVE10BWw4=;OV4gQH5kA7SyD8pX7h4O7w=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-20T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-share-value-and-competitive-landscape-2021-2026-says-kenneth-research-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8yN9QCHiNn42TyMV5gugjfwjEpi/9ILKh0RCInhfaXomm73NSOHmJ1OgfHutsaUNAiZuA+v1LKF8ZSVrWzT9rRkNr4wuWecQrlP3Pxk4cRj2TgxiXNLNvmvD9hktFjIV3ticF8SHJZXwUKVN2QxXEaKdLEKDWuxYWWoPikrpGQQncuuaWMsv2dnn4K6eB3fr2pQQr2DiiSAZ1DeMFevmMcIHe76kTrTWoOraNnPhmC3AIa58NGhX5IIO67Uqno7drQpuwgPAxzasC+DavU3eNAjhetCtLJ0RVbEMaGV2ZuN9pS+do7Wv/AaoR7RQw0UZGzIMntsUDGalrPOfLC7fTJLy8Whe/hmnJQX7AdAt9Dw=;nCVM7eAC9TvLh+GN8LSSXQ=="
 ---

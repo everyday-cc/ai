@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
+      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
+      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
+      "publishedDateTime": "2021-05-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip.md",
       "title": "Esperanto Technologies Adopts Movellus Maestro AI, Intelligent Clock Networks for Its ET-SoC-1 Chip",
       "excerpt": "Esperanto Technologies has adopted Movellus' Maestro AI intelligent clocking solution for its ET-SoC-1 chips. Esperanto develops high-performance, energy-efficient computing solutions based on RISC-V for Artificial Intelligence (AI),",
@@ -1372,49 +1426,6 @@
       "provider": {
         "name": "globes.co.il",
         "domain": "globes.co.il",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-by-lenovo.md",
-      "title": "Nvidia GeForce RTX 3050 Ti, RTX 3050 GPU Clocks, TGP, Other Specs Leaked By Lenovo",
-      "excerpt": "The specs of the unannounced Nvidia GeForce RTX 3050 Ti and RTX 3050 have been leaked by the Chinese multinational tech company Lenovo. A recent report from Videocardz revealed that Lenovo accidentally listed its new Legion gaming notebooks housing the unannounced Nvidia GeForce RTX 3050 Ti and GeForce RTX 3050 GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-lenovo-3185062",
-      "originalUrl": "https://www.ibtimes.com/nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-lenovo-3185062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/14/geforce-rtx-30-series-laptops-ultimate-play.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -54,6 +54,20 @@ related:
         width: 1020
         height: 534
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-20T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-share-value-and-competitive-landscape-2021-2026-says-kenneth-research-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
     excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"
     publishedDateTime: 2021-05-17T14:11:00Z
