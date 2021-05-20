@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Tempus Unveils Its Lens Platform, Offering Unparalleled Access to One of the World’s Largest De-Identified Clinical and Molecular Datasets"
-excerpt: "The Lens platform enables users to access, analyze, and build upon Tempus’ library of data in an optimized environment equipped with the tools needed to extract insight in minutes. Lens provides multiple ways for both researchers and physicians to leverage one of the world’s largest libraries of clinical and molecular data - including Tempus’ tumor/normal matched DNA,"
-publishedDateTime: 2021-05-20T12:36:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/tempus-unveils-its-lens-platform-offering-unparalleled-access-to-one-of-the-world-s-largest/article_3417e82f-b169-585c-8444-5d09fe9ac159.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/tempus-unveils-its-lens-platform-offering-unparalleled-access-to-one-of-the-world-s-largest/article_3417e82f-b169-585c-8444-5d09fe9ac159.html"
+excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced the launch of its cloud-based data and analytics platform, Lens. T"
+publishedDateTime: 2021-05-20T12:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210520005632/en/Tempus-Unveils-Its-Lens-Platform-Offering-Unparalleled-Access-to-One-of-the-World’s-Largest-De-Identified-Clinical-and-Molecular-Datasets"
+webUrl: "https://www.businesswire.com/news/home/20210520005632/en/Tempus-Unveils-Its-Lens-Platform-Offering-Unparalleled-Access-to-One-of-the-World’s-Largest-De-Identified-Clinical-and-Molecular-Datasets"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "LhT86J4UNBt9MqW5NLLz7YRAO2ZqA2VGngvqu3e9zB4/NyaohGy6RwUI41XJUhsAIiCUg849VcL4KGMud1ploP4N4nvsm8AHrKFHjkfWJP7DRqrKuYLPcxqVnYEgLryJihVuuA4PvTe9bDyyqwI9ZTxAhV0zfnso6Qi3wtNnsS0joTWN1xzl+Qq5MOB63TYeXbkcsXGMjaXuKhHDykx1eVqaUKXEfaPyyg+ST4ndBsmnBfP0X8Pwj1s1ds5V5JsV/4MnmqApfZrZNVbjmMjKejuS0ZU5FX1WUHKToYAbFahlpJgbEmgQZtP2whDCGQtMjkWFISle6/XgczjWcwg9SjTPNIAf05uOGJ2XRyKVjTI=;VGWd0nuJ96f+3G3Q+MK1dw=="
+secured: "6w4Ms/47lmu27YMxMjYL7VyNpzCFFNARrA70DLtcwQHK+YKS5Rjz9Zi67/7WbcSHpxwZVwZcXPxvkg23ZBpSUcPYYYyJzVsG2FvjV9vYTIePeoXw36IEzSqwH6bu75t32LhEuXslg0L4wYcMEZcu4lHDryI18Z3gE+fHaLTn1+qr2tgDzAGkXDA1CrsvmF/g2R9GKhFyk93Ah4wlyoxxIJp7TwsVWGLa2KThT0Z/xPppb7OBnHrXZhH9nuJRjJ+kWiwAclf8CjfZYUI4shG0Be2jWkWH+6K0lx7PJS+gOnTnFpsB2pq9J8v1JtOPi+tXqZE9QVqxxal9mVowX2cdpnC949K8lkQCQ3n3OkRIisw=;jszN1h/tp1YmuR6oNmDx5g=="
 ---
 

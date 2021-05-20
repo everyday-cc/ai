@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_4.width-358.png"
         width: 358
         height: 217
+        isCached: true
+  - title: "Google Unveils Artificial Intelligence Tool for Dermatology"
+    excerpt: "Google's artificial intelligence-powered tool will help users identify issues with their hair, skin, and nails."
+    publishedDateTime: 2021-05-20T14:52:00Z
+    webUrl: "https://healthitanalytics.com/news/google-unveils-artificial-intelligence-tool-for-dermatology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-Getty-Images.png"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "6FHywE5r8StziNiCzIGGS2ew0Hb1GYOFz4vGcoMJhjCvE0KEf6jTdGazRQBOAT0qmgvCgCS5Hqw2r8gPqDqYXEqJch6tjKTkVJttuS+hBjfjU/smDboIIQRP0J4zxD/0bLP5LtRjhDnq5BBxMeoPHZGuNkmK5q63hysU1o5ihOaTRAPjgmw2sq3NxK7SM9H3j1obrZnNJshKHc1xWoxl6xFSBsjsHTkpde2v6W/owHNTkASNlcIh232ASutnAdc/1inCGpswlSSwS/39L8bGXslFmHSFyKFbPJJhMWvmzvjZVJKTrjVpMZ8jVE4E3inT7nss1n9sY3pv492c6oEiTuZj6DsJUq6DIQQ9IyQcjI8fdmPErqHU7oD3Vj2WVp+paP7yv5ibEHQQ6WVst2UiVItbwb+Wg3E4TaSv0hxkgimDVCQfPtjt/+pacisuCHTwJD86aiRKiim5hQiOjadIUyPHRLrgEr4tWe4PTkqHQZlt5PRvKaft6yPzW9e5ADWSPUAeu4MDmRw0vu4rkNH5YQ==;g1XkcS89wI16lihGOlIGuQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/"
 type: article
 quality: 110
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -65,6 +65,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1209495734.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Google Cloud Mainstreams AI With Vertex Platform"
+    excerpt: "For the past several years, tech giants have been trying to make artificial intelligence in its many guises HPC, data analytics, and other advanced"
+    publishedDateTime: 2021-05-20T14:10:00Z
+    webUrl: "https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/"
+    ampWebUrl: "https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/Google-CEO.png"
+        width: 1162
+        height: 800
         isCached: true
   - title: "Google Cloud launches Vertex AI, a new managed machine learning platform"
     excerpt: "At Google I/O today Google Cloud announced Vertex AI, a new managed machine learning platform that is meant to make it easier for developers"

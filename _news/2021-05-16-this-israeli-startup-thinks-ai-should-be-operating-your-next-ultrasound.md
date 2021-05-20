@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-op
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.israel21c.org/wp-content/uploads/2021/05/download-768x432.gif"
         width: 768
         height: 432
+        isCached: true
+  - title: "Israeli Startup SAIPS Is Helping Ford Roll Out Self-Driving Vehicles By 2022"
+    excerpt: "US auto giant Ford has joined the race to develop a self-driving vehicle and is working with Israeli startup SAIPS to get to the finish line."
+    publishedDateTime: 2021-05-20T15:25:00Z
+    webUrl: "https://nocamels.com/2021/05/ford-saips-self-driving-vehicles-autonomous/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 36
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/רכב-אוטונומי-פורד-קרדיט-רוסלן-ברדיצבסקי2.jpg"
+        width: 1600
+        height: 1200
         isCached: true
 
 secured: "3TXtGGsYa1GkL75cpO4Kba1BPTy3c7yGbVQnSnFZ7yQtWP4tMb7MsXw9Vh+tNjViI/kTi6FN6c/EJiF2o6iLUySB/Tkww/6/hISUWHxjnVF/72tNAVa/xPAnUN9Wn5GL9sekSY8rutO575vqvl7unAxCmPeCgaIW1dHO0reFH/iNwqe5DVkq6bnUvdCEyZKJP1CIDOkx8mueHxc0Y45cWFEtiQ+inFkuWp7BYW428bdMRQ0mnwUU9T67BCf6y0asuVAecDgRWk8iIQNc9dDpGn8PuNuaPdaoE6c0IyL7FJIRwbHeyLrdeeanEghUAb4MOpGb3xKCY6KUMPeIIMDgKk1MsvCmWLvtXJI8rdGJ4LM=;fpT7eAA2Jr6H2tnW+OaxDQ=="

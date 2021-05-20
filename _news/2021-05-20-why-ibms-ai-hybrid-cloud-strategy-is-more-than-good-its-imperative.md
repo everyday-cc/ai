@@ -8,7 +8,7 @@ webUrl: "https://www.cmswire.com/information-management/why-ibms-ai-hybrid-cloud
 ampWebUrl: "https://www.cmswire.com/information-management/why-ibms-ai-hybrid-cloud-strategy-is-more-than-good-its-imperative/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-ibms-ai-hybrid-cloud-strategy-is-more-than-good-its-imperative/amp/"
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cmswire.com/-/media/e39c6156c7494a3886527f48a2eedc5a.ashx?mw=1024"
@@ -43,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "uGounMmNdAaHlQzFdw+wlIpcjcZdQkof0qopigo/YBbXSOsKqI3fjf4kT/Rp1WAgqJgkZH72w/bV2A8rL+2Qe90Saaw61C1TkrHOvLEXeTwSeBFNDEDFQ7heC5RefkHHswV9VvExIVRpcPlotf+JnBwgwlg0KF6FUtwZr5ybQR3oeasyvbY5BLWEX+Ghw+rUwAI7S5HIMTgPGF6F5G8S3Kc1EwOeWoxo/D5/erZTqQviLEtQKSi+4AIpVYSXET8+OJpvyhEmjphu4k0lZ5szB4kHqF6eA3fg0dmNLU1bXqmQgiuGoiuWr1roVMdQXClEJLkOYdkQa27CDjMT/lLe/ASZBOqpfGb1hrBrroONqkQ=;DoTACNrz2Fh1NliexgMe0Q=="
+secured: "e+n6wXqjif3GyowAvfvkXvk5jM6h7vtPSqYp6rWK33re8jptj5ArJ3HxTIlaerz9JTQjsXXU+f8m7BziJLRetVBqSfHyVIaRoV4HBEouQNxqOSKGQ/NYIgM87d4p6YYl969itC4mL3cVsnRbb+TPrytvhbPIDd+Dk2I+mbG1dBO3/+rFG9O0BjH/KDzA4GvoRyNKPbDe5G1wIBz4zpQqyER3QnU4rmNKQIwBBQ62HABzhln/88cpMza6kP1kDc/aN6ELiKUPHVnU6gmYlr+HvL+6PhHBiB3A2lp8tkNN07X5pDqqVA0ZWx5LuqTcUzsVrdxcBGGLWj/zfQYiqVf8EAR6ZWTLkAOqRzdMd0FaUq8YEsdbJ9W28uT+J5PcUhiF1pegHo6AjxelZYzTuhEOuKvYptMM/IJBz8xcwCWim0CLSpBAbOsL77IQKJzy6wRVdQg0a27nt8cCTm0U75IJsHXXPDtFAnxTIWkIeTh6l/GaEVPmRbKHmCFbvAOIpVYMzcXvY62E6AnZ2T+Xqu6nTQ==;JADB3VsRkFOyloilaMc3JA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/05/19/is-that-tom-hanks-speaking-in-japanese
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Kore.ai Launches Japanese Version of SmartAssist"
+    excerpt: "Kore.ai, a conversational artificial intelligence software company, has launched its artificial intelligence-powered contact cent"
+    publishedDateTime: 2021-05-20T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146986"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138057-0521_ConversationalAI_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
 
 secured: "5CH3jlowaGGE2VRha8mQulhYVk8g/Ax+Zwo3VEG0gtHpgY8hsVGwsPN5SSLw9/t/PrEqvhvBnmYLr3lZALpdvbjbjAWalu+MmSRBGcxFIvrJsvDGl7Rirh3rz8QRXqrQ0TsKAWAeJbGKegndFWupiX4rIlVt4fLHyLokw6xY5julHnT+GZgi2LEeG9yCVOS1yJoVATYdPJulGImcfYNAN85UMmUaZ55kRMayl9VppHu7ikylKmXPF8JpV0Cs4bdA1F98SfAaZ+46wWpMhO+4S2dS5bZ5GPNq5JXJKPcDatIwNNQuMh9M6P++rInDDGV98yTTMlpg4N1Tcj7y1T7snR3h67FBE/+G432sJq2Bkww=;P25Hd7grxG/K5TgrT3hPuQ=="
 ---
