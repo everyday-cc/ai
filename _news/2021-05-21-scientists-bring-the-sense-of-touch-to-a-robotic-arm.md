@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-publishedDateTime: 2021-05-20T23:00:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
+excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic"
+publishedDateTime: 2021-05-21T07:24:00Z
+originalUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+webUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg"
+    width: 800
+    height: 498
     isCached: true
 
 related:
@@ -91,6 +91,6 @@ related:
         height: 682
         isCached: true
 
-secured: "jV1udvSdrZeKJzhW/lP/J/mhbB0Yl1vMSu5AkhPMs/a8QBMtEoWTXjDJaABjYiW3WgvTj3rWiLHS/zhvDss6vXcH8z1AqR0gW8002bmbWiYPzOk7+6co3Wl8zrNQ2CPTcLETnXhjbx1seOOrb4Rmio5iJcfAL+fM7r1rK5ezwE8Tx9AiONIY95BxzZXFZxPsCl4CBUU/97zIBDCCH84hhkcOWkjRa/PKcGBxG4diky4APmKEjU2iaBZBHjNvQ+5z0AlWexJcP8/gcITJg+hmt8MMcrF12tZ5SV4Sb+5skFB1bAiiHsIIyTO60Yp7/GICaSTkLhGIn8DbrR9sJkTd0HkFUvFpAnLOsGIBNxAhPSk04jfSxSqAV2048kb4YmPWGx5fGKgKiv8fp1sIN9Oy2CSLODsOgqylEqWGMLvckkzq3YONx3cyfLwE80GNu2ar/wz3bDPx7oAJY+QIVcDcLiCTOWN9QcYjULfMbR21Nbz2vWWAFq52IZ+ZOTWWCZimDdiGDSpwH15iZBYnqKPJiw==;OA5iOouyyCESEhRb+peLaQ=="
+secured: "1PWFqE1m6ZSo5WHlSnVksETzR7v/d0tIgSscyCGSiqTOi4+TMv/H/V7BTht2CQaickcKzav0a1uivLer/zfzFKWAo6mwOO1GqYbi2p6t8Iie/iUUsoHl7DTWEmtB7PsE83cBMYCTTtFg3/8gGU7BVwcdXpKAxJ2MjrBSBmrA+QV0bp5XGWmrXg4DPB+tw3uaw03iQk2b2cXDZgdStMhQndbePhyvrrZq4uwbqa/tXxQ5svT6e/+XC+wfXEIjIUT144F2RZa3Pcwvzp9Ropr8gSHPe6Eip197gkANqJkGIr2QB+aWY5ANZBs1+PrPViAiXFRscM1CuAgiUNKoXNl7RIkbiUi002fgAqmQRyxBiRM=;iKjYZJ5MyPtkIlYn6yzKIg=="
 ---
 

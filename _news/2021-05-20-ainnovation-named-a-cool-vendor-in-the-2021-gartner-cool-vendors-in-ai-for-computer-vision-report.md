@@ -24,6 +24,22 @@ images:
     height: 664
     isCached: true
 
+related:
+  - title: "AInnovation Named a Cool Vendor in the 2021 Gartner ''Cool Vendors in AI for Computer Vision'' Report"
+    excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its Cool Vendors in AI for Computer Vision report. The Gartner Cool Vendor report is designed to highlight interesting, new and innovative vendors,"
+    publishedDateTime: 2021-05-21T06:34:00Z
+    webUrl: "https://menafn.com/1102102260/AInnovation-Named-a-Cool-Vendor-in-the-2021-Gartner-Cool-Vendors-in-AI-for-Computer-Vision-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/20/PN_f3b08c27-6_Image_In_Body.jpg"
+        width: 400
+        height: 301
+        isCached: true
+
 secured: "Kxd7DZvdsMxM0VrPuuG6RxtAHI+1++mqsAA3BN9efmsXLOAg+5XNAeJQeMpIPGV4plYdgC7IQoWnepcOXy612TC3WMxiU03YOlL4tw5sc0taRmWGWK8j/GCuDztc5VQJUSOD4gsoG0vVCIkwY0YZ4hVpejraXb6CrQPnh5Tj9wTdE8pTWy60lcw4NhS+cPyIuKto3FI+LY9JfTgJ0vmbfpRl48wZWRTvfJCpJVOv1ENPboRusQDpkEAb3tMPfQyygo/g2YW8mRxgedDmp3QsapYes/t/W3f0rRrL2PYWi8lqbvKY1fI8LOh6fqGgjPcO2G8AOxe7JOrduwUyjFp5N/wo20pMGAnlHvV39GWZvFYmRCK23r5f2QNbeBrp5TSmPQsoIxDaW3qcZ0qyrCchF3bQBWf0s5T34foSyFAwG+4iQ/k52f1JToss1DW3nxC05tg5MaN9JnlbyWz9MVestJ46xkuoo2Dusy92yFKiVVDGWVmg/is/Wb3Xva71UI2dENl0eGkOn9bK6vekK6yUzw==;/4DyPHG/guYoTMveZyGIRg=="
 ---
 
