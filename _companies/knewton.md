@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Knewton"
   url: "https://twitter.com/Knewton"
-  followers: 14486
+  followers: 14485
 
 locations:
   - Hoboken, NJ
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Knewton"
 
-secured: "jtYLStecqL9YQNJh/00Ayuw4S42cItj3Vkb9bZh6pNQ2Z2CFaAFTYe8gR8BKLag+c3BM5NDcMXkuWkGIkLEzUD/EP+nslCQmbGrqTD6WX2u1jpeEs63VRpSGnG/tzosLaeuIUSmi35RyE4P3shhv7Ac4V5el/yjhy0w0mXwCSVauFoU0pu8LRjUo2qldWXe0tE9mEA1AAZKHU8OYYyN4+YGyyCR5wU/xWpkoicWjP3LMb/HLISiATsHWVljg0AGYtEGj4OIEbYehbZtqRIAW4tL0G2B7CeeGCXlPjHzX2ysymzJMPnOkGO4Bg326Hg+qv2M8mgL31g2bFZLF1o5+fgvnW8w/i6zSsqYHRZMPf4M96ePcXEJc6SqT2cE/a8N5QmXspyGzejfuB4qrc/hGXhyyBYW32lDKs++SwJ8sgfA=;jWiJytUqwq1BRWDTe999DA=="
+secured: "cdvFNWt0JFUm/3x0AO9vbA6X5qrx/8bnL/M5Uo0JK1cRq7uxFH13L+cwdf2fofLVpvCWrEj74mKuIprgK6BT9kCX45HMuU4zgbTpapNo9aJfBxOzz0lCt3IHK1ujTwSVE264AW1LMQF7skUqOAQs2jWtRKj1+L1YyLapRb5Fedwy9/yiEb1B0YROIpMK7sL8V1PHWsF5LtIAJhsn7jnkOZDVY6UrrZtaLM5ZUCrVwbMtSyEVOXoJ/1yQ+U06hixNZqMLoJw9uTLrQKbkBDPS4C61gu7wi8XcKSUOQhu3dx0UkqcKqmYy/tfPguB8gFyssLKCnPOqw6+yxOSteN42OCq25/C5bh95hdMFZnC0fTJHTPziGNnvaj+Ca9DG92Mb5gvNujPOCH7BBKf2Tk9tpQNneNvsMfe7jCy4ET8xSFc=;VXCK9a1at03gEZAjOUExMg=="
 ---
 

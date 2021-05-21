@@ -4,7 +4,7 @@ otherNames:
   - "Scale.ai"
 overview: "The Data Platform for AI: High quality training and validation data for AI applications."
 type: "profile"
-heat: 127
+heat: 71
 
 website: https://www.scale.com
 
@@ -49,6 +49,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "+GGxfWk6+NxLRR6SeIwYNL2cxTDOn2jr2s/ysQJ6LzScipazs0JROA48pH/P2k7AKxOrcYtiQ4sShdGFjW3bnwN/ORb6Bo2kcPWf1Y1mFBXGSa8Re5kI2HmL2z6wDVE2EMvJuoNPlhikSL8MU6KkdW4WhwDGgDEv2Z6IsxZZhrq5hiBk5LHNbFvwPYlzdET0iS7bRRACfHoIOv9VPt9/wW0+sYqibGtRofhntsnDoMGrozjnZkWLDOEL+eRxAoW7eWmPyBqJNHDv495qEkDb4HhVwT1z8INSXpWtqWkxa8Vz3I/0VpsbPOb0zZRwiok6h0OUiuWMrbgzOeu2mCW6ZnV97VCScb8oiel5Va8qlR5K9oriwTSpGlNgols6kgSGCf7uIqXXun3CeqNsGkpNv7vLvN/DoiDd9YiZmZGd3lE=;T/wjEhc1ivNc5Bo+J5ZnwQ=="
+secured: "TuCDF6p+UpkgTP3PETyHCF0YqN8fUxlAstRddJ8uFCDNbOsvyiathF2ieeCLdJEcDVx0NwrM4i2xbdIMaAvpOKimfdJuuZdpX5oXVVGtyy47LdBBLpLFGDzHIX5VjksgtGwdZc45h5QZhtjd7sg5G8+wAkUzh2gkiwGlx/a1R82bZsKqzp7hNWgKD3Lq71wOD1lBRg8a5IhrLVQ2/3zdjIR2QUoHTfvM5kY7mRfKFVSsxuQ7KKIWb6B9h8Zyvd0S3Tm80w+yoXbJ4TReN/y/JGc9Mtkq4cfx2EjSXppghydGSo9MP8Kw/rW/4/yg6vlLmGNZpWCk92LhzOhnbGLefjcaIAUoI3XardOHBbXPX06ld6HOUcfFLGiMoCti7DQi9A0C9b9W7Dz9FsMc648jFbQMIE+1IPWTUnn9dk8nmBU=;XqVeRh/My8B+yiYq7L2k+g=="
 ---
 
