@@ -2,6 +2,75 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-03-20-healthcare-providers-determine-how-to-best-use-ultrafast-5g.md",
+      "title": "Healthcare providers determine how to best use ultrafast 5G",
+      "excerpt": "A small number of healthcare organizations in recent years have struck partnerships with telecommunications companies to try out 5G—the newest generation of wireless internet—for an expansive roster of innovative tech projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
+      "originalUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-self-driving-trucks-wont-have-big-impact-on-trucker-jobs-anytime-soon.md",
+      "title": "Self-driving trucks won't have big impact on trucker jobs anytime soon",
+      "excerpt": "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon",
+      "originalUrl": "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-toyota-invests-in-chinese-self-driving-partner-momenta.md",
       "title": "Toyota invests in Chinese self-driving partner Momenta",
       "excerpt": "Toyota Motor has invested in Chinese autonomous-driving startup Momenta as part of a $500 million fundraising round, expanding the Japanese automaker's development infrastructure in China as tensions between Beijing and the U.",
@@ -844,74 +913,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-facebook-shows-research-into-ai-wristband-with-nerve-signal-controls.md",
-      "title": "Facebook shows research into AI wristband with nerve signal controls",
-      "excerpt": "Facebook has shown some of its research into new forms of human-computer interaction, including a wristband that can work as the controller of an augmented reality headset. The platform is being developed by Facebook Reality Labs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558",
-      "originalUrl": "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-solving-barren-plateaus-is-the-key-to-quantum-machine-learning-image.md",
-      "title": "Solving 'barren plateaus' is the key to quantum machine learning (image)",
-      "excerpt": "A barren plateau is a trainability problem that occurs in machine learning optimization algorithms when the problem-solving space turns flat as the algorithm is run. Researchers at Los Alamos National Laboratory have developed theorems to prove that any given algorithm will avoid a barren plateau as it scales up to run on a quantum computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/multimedia/pub/259702.php",
-      "originalUrl": "https://www.eurekalert.org/multimedia/pub/259702.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

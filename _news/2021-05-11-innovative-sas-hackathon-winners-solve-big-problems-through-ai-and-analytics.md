@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
-publishedDateTime: 2021-05-11T15:56:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d/gallery/db813bd3d0224bec8df0b238833eaa8a"
-webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d/gallery/db813bd3d0224bec8df0b238833eaa8a"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T16:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "TYLbCFHENfqI3FEP8g3zTF6fA7MuIn3DQ4AMPvhpmHeilEBdycw6wJmsMzSXj/yDwyxIjQUYX36wbWVCm/YNIDNqpb/KDkxGytKxzkjWGAHa5sEruRUxn9eG7iV7V02uXvHgTJx/Nu6U3WaOsGrxnK1eKwSoJ9utmCZA0s5PWqHttxQ1GOHk35DyR0SOPubR/rtBc1LKED69MZnISN71skztLns550PhksUXh/Y1CFQZpw40j3BoEjIbPObLTsNW89l1UoNkoSe6ZMTohySizGxK/LG31eoBPAEK4GBaadN0CVp0VEEGwfdL+S9lJPxgmC5pTuvkF8WK2uE8VXKI/D6gbWf4S1BE+PgOFG9Xvp4=;uUFSpr/DytCSkHdkYrxImw=="
+secured: "HXkg4ycVEAGT5R8o8dKmId8KdHWQ7hhlGWey7Dw2mvv8R/3jOIqhEnHHl//+rlGw+xWcCCoqoBBN2mk0/dUAgoc3L03AyqaFhIwQUDRDeFWfXN65CyFUjxbuf0sARsORV94K51J9/I30omlAwN0W3S630oDkHelyfrJFt7JEfO47+N4T2GSlAJBfqhxGkLhROq4lY+FATtgR2D7vC7BEF8fw681bI0e0dS58wCU8VgiZ4xIDc4/Mg8gOlOWLwo5j/yYLHXCQ2qNoyWz35/TS8860kv/0pq9tpjnJF60Z4C2RhGpfkMlouwS9+F/nQ4m67iEzKB6NEQdnPrJX6hbXGb6jTWhVLv2zHmZpdEO/L6w=;NRLo+sLoveVwew/9PPyKBg=="
 ---
 

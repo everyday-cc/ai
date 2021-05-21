@@ -295,6 +295,57 @@
       ]
     },
     {
+      "path": "_news/2021-05-20-this-ai-makes-robert-de-niro-perform-lines-in-flawless-german.md",
+      "title": "This AI Makes Robert De Niro Perform Lines in Flawless German",
+      "excerpt": "When films are dubbed in another language, an actor’s facial movements may clash with his lines. Technology related to deepfakes can help smooth things over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/",
+      "originalUrl": "https://www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60a45d53c4c56a005b6967e0/master/pass/business_deniro_496534616.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/amp",
+      "publishedDateTime": "2021-05-19T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-cinematic-moments-uses-machine-learning-to-animate-images-in-google-photos.md",
       "title": "'Cinematic Moments' uses machine learning to animate images in Google Photos",
       "excerpt": "During Google's I/O event Tuesday, Vice President of Google Photos Shimrit Ben-Yair showed how the company is using machine learning to make Google Photos better. One",
@@ -1210,58 +1261,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
-      "title": "Ground processing with space data 5x faster with Azure",
-      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
-          "width": 1028,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T23:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

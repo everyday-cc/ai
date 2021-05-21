@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps.md",
+      "title": "Nvidia unveils Grace ARM-based CPU for giant-scale AI and HPC apps",
+      "excerpt": "Nvidia today unveiled its Grace ARM-based processor for giant-scale artificial intelligence and high-performance computing applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/grace.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/",
+      "publishedDateTime": "2021-04-12T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-microsoft-boosts-conversational-ai-with-197-billion-nuance-deal.md",
+      "title": "Microsoft Boosts Conversational AI with $19.7 Billion Nuance Deal",
+      "excerpt": "said Nuance’s technology will enable Microsoft to augment the conversational AI capabilities of its Azure cloud, Dynamics 365 and Teams. “We believe we’ll be able to deliver AI-driven digital engagement solutions for any industry scenario,” Guthrie ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelfutures.com/mergers-and-acquisitions/microsoft-boosts-conversational-ai-with-19-7-billion-nuance-deal",
+      "originalUrl": "https://www.channelfutures.com/mergers-and-acquisitions/microsoft-boosts-conversational-ai-with-19-7-billion-nuance-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.channelfutures.com/files/2021/04/Microsoft-Voice-Tech-in-Action.jpg",
+          "width": 1054,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "channelfutures",
+        "domain": "channelfutures.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
       "title": "Microsoft Buying Speech Recognition Firm Nuance in $16B Deal",
       "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion.",
@@ -1008,92 +1103,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads.md",
-      "title": "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads",
-      "excerpt": "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-debuts-grace-its-first-data-center-cpu-for-advanced-ai-workloads.md",
-      "title": "Nvidia debuts Grace, its first data center CPU for advanced AI workloads",
-      "excerpt": "“AI is the most powerful technology the ... They can also be applied to real-time translation in multiple languages and create new text-to-speech capabilities that can be used to power ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/04/12/nvidia-debuts-grace-first-data-center-cpu-advanced-ai-workloads/",
-      "originalUrl": "https://siliconangle.com/2021/04/12/nvidia-debuts-grace-first-data-center-cpu-advanced-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Nvidia-Grace-CPU.jpg",
-          "width": 992,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

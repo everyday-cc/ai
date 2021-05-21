@@ -61,6 +61,34 @@ related:
         width: 326
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T00:31:00Z
+    webUrl: "https://menafn.com/1102102410/Artificial-Intelligence-in-Defense-and-Aerospace-Market-2021-2025-by-Product-Type-Application-End-user-and-Region-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2021 Estimation, Growth Factors, Overview, and Forecast Report till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Agriculture Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T01:24:00Z
+    webUrl: "https://menafn.com/1102102389/Artificial-Intelligence-in-Agriculture-Market-2021-Estimation-Growth-Factors-Overview-and-Forecast-Report-till-2025-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "R8owrwR1EPSswjRBe8oIGigg7B6jpWgrCEFqjGoyWzhmIHgwEM6SAs1YjyZX+FRtPmfc9JiRETJWU6PdrvqtDjoBh8Wu4HFLHGbGPn7rGMkqZn36ZvIqk6hlJ64QqCjXpRlpYENAkmzjSGKSUcJLuYz4TEIGS8F2PNDKBNfEQXrQ8oI/2fXUn2V4Q8Qe3JUiGgs/8UJT8IxrGNfiwlC8VQVZoIJ98IWvl7YLtCbnlRalFCdTdNFsLf7/tsTecJbrp/uQ/mZW8Ej2cWZeJ8wYPkeNXQc9Ot5XbwD1okdvakIxCCS1HBsYIsffl8Og0G5mAc6e3mbT4/07nsx6M99D4gB9azJuJYYVx2IeawGMoeY=;bYtCzkZMpxP8BJja3neFrg=="
 ---

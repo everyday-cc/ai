@@ -68,13 +68,13 @@ related:
   - title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
     excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
     publishedDateTime: 2021-05-18T20:23:00Z
-    webUrl: "https://www.wbaltv.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    webUrl: "https://www.kcci.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    ampWebUrl: "https://www.kcci.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 33
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-657f1fb9589f9bf83cfaa9b56e5b4e77-h-2e8376100123f79a2e731d3c69bada29-1621372508.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

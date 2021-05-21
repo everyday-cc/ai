@@ -1,27 +1,25 @@
 ---
 category: news
-title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-publishedDateTime: 2021-05-20T19:18:00Z
-originalUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science on Thursday about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+publishedDateTime: 2021-05-20T18:35:00Z
+originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
     width: 1024
     height: 682
     isCached: true
@@ -93,6 +91,6 @@ related:
         height: 240
         isCached: true
 
-secured: "Ke6ceYgJLoQSPybGmhbXSRouE5dIotcApfL/FJXavPh3jgkBy7FFnwHCOagfPTjho22hOsQ82uf5c7Ofpd9A/4pC58h1gSWzjLM2/vD3kMIXFb9loMRpjxhqzTMGacdNAocCNkt4wXDnRlW1WvzIJ3iP94NIe1ysS/YZ6LQYASTKgX+CiAQO/vn/JDfQQgG10Uxd7aL4mQXHRFFIbcxtKea2LvnEoVFnx0vRqmnNLedhDSrhfiRlQrIIQc9mvv/ehq8sOVGWDqEYAS2KeIIs+A/jwJjcB7c5gfNHl3NGuR+n3VeEr2uGc8JWyGXMa7BSlwBk7gauHsllZH5lqhpucWtdDxYHbE/Vg0U8PBb+ji8WF2MxoEd+lOAgjeGwMenkLGadrTphDA6RFEyOTjEkKZeTOLEGQaJ31yscZ+hOmR6/gG6l1fmPekArTUig6VoYudUOnlsDqmlFz+L8gSvgHN05QvmaJ2jEdU22L7GPIB/WWEMmeIoXQYNPwCUXnpJ+lFEMWOKZZijmOAobe4fsPA==;z81ax4Ta6L4I8Ba9Kv8y3g=="
+secured: "y5QOajMB54GEAxNE0yNXFVgNEiofSSiFD3YuH9MqWrt59+OG9IvLFR59rOY5dZ4gjx6QTJhWVwiTk1HoWrWcsGBXsp5ZEjA3ydQ9JsNevKyAHr+4gZ9vlxeAfPh4tw970HQLE7YiDZ+yJYufg4gI9B7Muwhp0aPVGNQADK7g68qw85zU0XB2uQWz6Vx1QjX7jBRnFAuH0T3KaWBJhuvfvXiCBeMMUAHxaJv9D8z4xQcdlxD03YMNsFN0P+Cbw5KaDNvfMM573jiJEbbSMlo9MSl0sewiLWLmHeg4zOyE8gbOKfZ02aHe+XMqstmM6L3fz5mf+ucBohtRvEa/5RxAuOt0vU2pw5OeMLrcTTi199M=;NCanMXq7+is7iJhcqtEYqQ=="
 ---
 

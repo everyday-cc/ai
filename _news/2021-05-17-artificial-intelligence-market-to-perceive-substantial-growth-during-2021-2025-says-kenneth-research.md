@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17"
 type: article
 quality: 53
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -50,6 +50,34 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937141"
         width: 326
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T00:31:00Z
+    webUrl: "https://menafn.com/1102102410/Artificial-Intelligence-in-Defense-and-Aerospace-Market-2021-2025-by-Product-Type-Application-End-user-and-Region-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2021 Estimation, Growth Factors, Overview, and Forecast Report till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Agriculture Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T01:24:00Z
+    webUrl: "https://menafn.com/1102102389/Artificial-Intelligence-in-Agriculture-Market-2021-Estimation-Growth-Factors-Overview-and-Forecast-Report-till-2025-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
         height: 250
         isCached: true
   - title: "Artificial Intelligence in the Construction Market 2021 Industry Size, Key Manufacturers and 2025 Forecast Research Report | Says Kenneth Research"

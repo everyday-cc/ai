@@ -34,22 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
-  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-    publishedDateTime: 2021-05-20T19:18:00Z
-    webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
     excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
     publishedDateTime: 2021-05-20T22:40:00Z
@@ -91,6 +75,20 @@ related:
       - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
         width: 342
         height: 240
+        isCached: true
+  - title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science on Thursday about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+    publishedDateTime: 2021-05-20T18:35:00Z
+    webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "RofHvC012BxPJIo6DNqfipa2f43rAkQNgyNavHSzR0udnZGrE/C8x7KJEgICMlzkntr/aW5dOWNosklsdJG1xrPtcVhnleF46z++44jzXwK5/NQATKBq5YBhwfAjo8DbBTlixyK6bUK+0FeXHcw4sijn9f/EvbhRdCCmMwUWwvWh2Rmq01DmW/S44p9pXKOYF6d6vh/OUCREvlWNb0PnE7QDFnQ57OBRU6sotNco3DeQF/hCwWZ5++pRqNR1jWwUBwSf+Lv5Qj3xvk+DpgHJdRWQzCqyx23ZcBklpQtPxNRcH/ceOOO9vjtp96bOvxJL/9sTJtxks8+2nluxvl16Os/0zH04fxPfAgYCaoOpFWWx+u9SFL73rL88PmGpoHJRNNgiXbQ8E9cc935a4+I1aBW0Q/QuT5uuRAR3/TNcuFLwliOANFxSMXkV90Jph2O9dF+NjYNmO5bSlo0VxXOVnZmcx2EobV3uldDkZmXMLYjN/hWpUpSzSHlMHKzrrGFNTfJTzZMag2gMbFK1foQ/6g==;EeogZdcJ1aYCoViIUzbWfA=="

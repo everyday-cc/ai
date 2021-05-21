@@ -141,6 +141,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-07-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
+      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
+      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-embodied-acquires-conversational-ai-startup-kami-computing.md",
       "title": "Embodied acquires conversational AI startup Kami Computing",
       "excerpt": "Kami will strengthen Embodied's Moxie robot by adding memory of past conversations context, consistent personality, common sense reasoning.",
@@ -1381,49 +1425,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
-      "title": "Plus One Robotics raised $33M from investors",
-      "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "originalUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "publishedDateTime": "2021-04-29T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

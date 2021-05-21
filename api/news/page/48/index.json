@@ -2,6 +2,101 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-04-12-huawei-to-invest-1-billion-on-auto-technology.md",
+      "title": "Huawei to invest $1 billion on auto technology",
+      "excerpt": "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies, accelerating plans to compete with Tesla Inc. and Xiaomi Corp. in the world’s biggest vehicle arena.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology",
+      "originalUrl": "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
+      "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
+      "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "publishedDateTime": "2021-04-12T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-buying-burlington-based-speech-recognition-company-nuance-in-16-billion-deal.md",
       "title": "Microsoft Buying Burlington-Based Speech Recognition Company Nuance In $16 Billion Deal",
       "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That’s a 23% premium to Nuance’s Friday closing price.",
@@ -1084,109 +1179,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning.md",
-      "title": "IBM releases Qiskit modules that use quantum computers to improve machine learning",
-      "excerpt": "Register for a free or VIP pass today. IBM is releasing Qiskit Machine Learning, a set of new application modules that’s part of its open source quantum software. The new feature is the latest ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/q2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning/amp/",
-      "publishedDateTime": "2021-04-09T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-wonder-dynamics-raises-25m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx.md",
-      "title": "Wonder Dynamics raises $2.5M seed to equip indie filmmakers with AI-powered VFX",
-      "excerpt": "Wonder Dynamics, founded by VFX engineer Nikola Todorovic and actor Tye Sheridan, aims to use AI to make some of these processes more accessible for filmmakers with budgets on the tight side ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/",
-      "originalUrl": "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/wonder-dynamics-tye-sheridan-nikola-todorovic.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/amp/",
-      "publishedDateTime": "2021-04-09T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

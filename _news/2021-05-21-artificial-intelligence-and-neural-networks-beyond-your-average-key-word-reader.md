@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-20T23:11:00Z
 originalUrl: "https://www.mcknights.com/blogs/rehab-realities/artificial-intelligence-and-neural-networks-beyond-your-average-key-word-reader/"
 webUrl: "https://www.mcknights.com/blogs/rehab-realities/artificial-intelligence-and-neural-networks-beyond-your-average-key-word-reader/"
 type: article
-quality: 32
-heat: 32
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.mcknights.com/wp-content/uploads/sites/5/2018/07/kinderreneecmyk320x320_1119296-26.jpg"
