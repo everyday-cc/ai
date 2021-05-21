@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/developers/io21-helpful-google/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 86
+  - title: "All The Latest ML Developments Announced At Google I/O"
+    excerpt: "Know Your Data is Google’s new web-based data set exploration tool that helps developers understand rich data sets. Five years ago, Google launched the open-source platform TensorFlow to accelerate machine learning research and empower developers to ..."
+    publishedDateTime: 2021-05-21T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-latest-ml-developments-announced-at-google-i-o/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Google-Ml.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "Z+VkwpSykHD/bUlQa2egoBZs6TMDfMllM1UDqVT7Ss+GHbeu/4f8sSSOO9yC92Lv634l+yjs8TIZsn3BMyDhGPxSrJIlSH7LoKvG89dw6ffkCi2wa00vYAKn1ch/fvtwwEB97ZShEtlUiiLEh75vTMsVIETp63a7uw91X0eQEaL69Zq8QnFkvUU2QYydx/JzxGstmGbnvUzgR2UzuEG4KOetu2IGGyfdl/FToyhdtJXodsJKc5/GdoMAEpEu3Msw1CyEj3ME4WBx0FuYT46bL2GTmlVJoibOj6pNDw94mqAQ8wF5shsOW7YL2GJ5E2DrHqxNKa2YR/P0UfnDdFMjcfh+s/8NRKe0Ge9zfnKgcWQ=;rktTKLPSRVCclLFlnZG0Lg=="
 ---

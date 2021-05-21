@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D"
-    excerpt: "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,"
-    publishedDateTime: 2021-05-18T12:17:00Z
-    webUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/"
-    ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
+  - title: "Microsoft expands retail tech presence in China with Hanshow deal"
+    excerpt: "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries"
+    publishedDateTime: 2021-05-21T11:24:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024"
-        width: 1024
-        height: 681
+      - url: "https://media.itpro.co.uk/image/upload/v1570816840/itpro/2019/04/microsoftchinashutterstock_510722167.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
+    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
+    publishedDateTime: 2021-05-20T15:09:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 66
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
+        width: 1920
+        height: 1292
+        isCached: true
+  - title: "Microsoft and LaLiga expand partnership to transform the digital sports experience"
+    excerpt: "The Spanish football association will not only be working with Microsoft to make the digital sports experience better, but also to develop tech solutions for the media and entertainment industry."
+    publishedDateTime: 2021-05-19T11:42:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-laliga-expand-partnership-to-transform-the-digital-sports-experience/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 63
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621437676_microsoft_laliga_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Mars teams with Microsoft Azure for its digital transformation program"
     excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
@@ -46,6 +74,38 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
+  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
+    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
+    publishedDateTime: 2021-05-17T16:51:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 51
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 49
+  - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-17T15:08:00Z
+    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
   - title: "La Liga, Microsoft team for digital transformation"
     excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
     publishedDateTime: 2021-05-19T23:01:00Z
@@ -74,6 +134,15 @@ related:
         width: 300
         height: 243
         isCached: true
+  - title: "Microsoft Expands Partnership with LaLiga"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and LaLiga has announced an expansion of their partnership that is focused on digitally transforming the sports experience on a global scale."
+    publishedDateTime: 2021-05-19T15:13:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-expands-partnership-with-laliga/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
 
 secured: "VZWA7NWGrwO6vEplb6mBEY3+DfdYyZ+JUUvQ6XNzM4ETVjh2GybkXz3xuRPafZ0tV0MLdmY3ytOJ2yiadALENhyWpbnUs3Tte7GUuYBSVi7qfE2BCCfrPBt2CZlAQl5PehvT0pT7jRwfnqCMQQts6JWV+SkgKk02I7z1RFB8QGnFm5r3AcJL7CAX2536YfaFN/EH6Q9EgFA1NtYhrYPMXmJ1+y0zRZ0IaMleSeqVhw8C1j5Hth9j5ViJBqD/t+ySgacn94Y0W6VE5ahZDybqIMJRBL1OdB+Hs7dEAbyKOOGvZ5a8pglehAgkY8JhEfhuz5ykWIYsX86fd53O+t8YW7T00/4JSTeFs2QOgmjNSWA=;v3BqDZpYa/69pKVE09MMag=="
 ---

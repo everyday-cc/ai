@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Machine learning module accelerates AI IoT systems"
+    excerpt: "To accelerate the push for artificial intelligence and the internet of things, referred to as the AI of Things (AIoT), Infineon Technologies AG has introduced its ModusToolbox machine learning module."
+    publishedDateTime: 2021-05-21T12:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16754/machine-learning-module-accelerates-ai-iot-systems"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "6FHywE5r8StziNiCzIGGS2ew0Hb1GYOFz4vGcoMJhjCvE0KEf6jTdGazRQBOAT0qmgvCgCS5Hqw2r8gPqDqYXEqJch6tjKTkVJttuS+hBjfjU/smDboIIQRP0J4zxD/0bLP5LtRjhDnq5BBxMeoPHZGuNkmK5q63hysU1o5ihOaTRAPjgmw2sq3NxK7SM9H3j1obrZnNJshKHc1xWoxl6xFSBsjsHTkpde2v6W/owHNTkASNlcIh232ASutnAdc/1inCGpswlSSwS/39L8bGXslFmHSFyKFbPJJhMWvmzvjZVJKTrjVpMZ8jVE4E3inT7nss1n9sY3pv492c6oEiTuZj6DsJUq6DIQQ9IyQcjI8fdmPErqHU7oD3Vj2WVp+paP7yv5ibEHQQ6WVst2UiVItbwb+Wg3E4TaSv0hxkgimDVCQfPtjt/+pacisuCHTwJD86aiRKiim5hQiOjadIUyPHRLrgEr4tWe4PTkqHQZlt5PRvKaft6yPzW9e5ADWSPUAeu4MDmRw0vu4rkNH5YQ==;g1XkcS89wI16lihGOlIGuQ=="
 ---

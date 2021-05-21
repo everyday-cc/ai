@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://images.wsj.net/im-337471/social"
@@ -30,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "B9o/SBUnOB+HRYcTQdTyo+SQHMEJSgyArjhICTWgU6t6YBLa7Cgl21/ECE6e8EOFRdevkle2ne4CG3SVlbgsDloJPSYytK4OkB5yxQOPArbyxNESatlwd3z5jicmiIdCAUDlYOWAEDQm+xv3/vR2SEqnzwd8z3ftlq01gH/xddAaD39wjrLzzZNwFEme9NgBG0KhCMam9TeYduBMeP2fyfD/SJ/4PRHGoXss/v+jr4/GmsXx0sSJeIck3zM8taevmts94IrpSwhXLPRWBk7xg5TN5CEi0v3tHbf9ZsDf5sUOjImsgKHjLe0bK46zdGNpjb2WibLjfjJJ+JZQq09YEz2IlaRokpZX4j7UbdOQQwE=;2dqtWzZemd28TVOnOwUFjg=="
+secured: "qNKkiKgKIIvbRh6nXyDhqFFqXdaXczuNL5B/HcLDDhbo1j9PiTYk8ko8eKK2F1qEajobuaiakLz/aD7HO1+c452e9tz3R+4Jz+aDARk8zDY9HpGNiR4NtzEtrUASLNeoHt1gvc8Gs2sZ7Jkf4uoym3jfGBoIBQU0RlDq9WRe5+V8522/AokVq6N6tKSL3jAny+tWt3Q1leq6lTKgQgHTmrGbHkHzwCz+4Y5eoFU56CIHZbjW9+0f6b1FMsK9UPecDjcJcwoGhbPEt5kFKjRBZpDZ11NPTwGaS84y0f/ZXf7aU5S9JhWqMHBA7vEGBiUgelBC9q5WJbIP5OrwpyKcGp9IGH12nzf4ikf/L0a/iVU=;8xf4EiA0AFtMCSrXyd+CIA=="
 ---
 

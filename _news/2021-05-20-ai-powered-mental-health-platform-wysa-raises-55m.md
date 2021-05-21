@@ -7,7 +7,7 @@ originalUrl: "https://vator.tv/news/2021-05-20-ai-powered-mental-health-platform
 webUrl: "https://vator.tv/news/2021-05-20-ai-powered-mental-health-platform-wysa-raises-55m"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-driven mental health app backed by Google nets $5.5m in series A round"
+    excerpt: "Wysa, a mental health tech startup based in India and the US, announced that it has raised US$5.5 million in its latest round of funding. Wysa plans to use the new funds to promote its AI-driven platform to employers who want to expand their mental health benefits."
+    publishedDateTime: 2021-05-21T12:17:00Z
+    webUrl: "https://www.techinasia.com/googlebacked-aidriven-mental-health-app-wysa-nets-55m-series-a-round"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
   - title: "AI-powered chatbot Wysa brings in $5.5M to focus on employee mental health"
     excerpt: "Wysa, an artificial intelligence-enabled chatbot, focuses on the “missing middle\" of mental health, between meditation and medication. The startup has raised $5.5 million in Series A funding backed by Google Assistant Investments."
     publishedDateTime: 2021-05-20T15:04:00Z

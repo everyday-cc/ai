@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Altair Future.AI Global Event to Demonstrate How Artificial Intelligence and Analytics Accelerate Digital Transformation"
-excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and"
-publishedDateTime: 2021-05-21T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation-301296684.html"
-webUrl: "https://www.prnewswire.com/news-releases/altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation-301296684.html"
+title: "Altair Future.AI Global Event To Demonstrate How Artificial Intelligence And Analytics Accelerate Digital Transformation"
+excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and artificial intelligen"
+publishedDateTime: 2021-05-21T13:07:00Z
+originalUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
+webUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
 type: article
-quality: 29
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1421069/Altair_Logo.jpg?p=facebook"
-    width: 2196
-    height: 1150
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -104,6 +103,6 @@ related:
       domain: businesswireindia.com
     quality: 3
 
-secured: "HdoycVyj3aa32q0soAmtdv9l+lFBzzIIfQSqJpwV0/AMIqbG6QD+bTemnB+p2SdUoQ3Q67DkkHogWLkXlq/bes1F2727MMLo34qfjoSvGzBb4655cYyx5zKBAKY2GnAP0QMRgcTaY9qN1mt8vwfO1xgTABDemD8F/TCI26h4gvmIs1qntvmUwJ0+od74SsclALIXKTPWuQG6pai0szlG2KWymE1CXWyIpC7OSPCq3ir829eCf80Xxbme76jEDVrVuA6IfAH4dUjdwYBC4tylLGDhTJr9cyVS7ly57wFEC3rA4K7xwg95y1/bA+6VZaKCL3FpdiJITzFmqW8bdGb9s+zn5Okm6ja/7xleW3AlOhw=;7wa5n1DxPbM3ILpuDoCixQ=="
+secured: "auvjK0AZ+AulB52a9b1LcHwcnkhxmIhrrqmtQPJDa2CI5+st0b7lRi0yWJpwul911OaR4KzX/Z1YNXNk3/Y/sE7AaA4AKSW8BNW+yMzu0pe5mfyisSAh+/Q+Ie4o765CrdnrQ5xe5A2jjVRmI3602MdXwuPnQd9Ov8EG/UFWm731oVlmtPSJGEn/u2zpoXw4PQO7jygSUwLIL1P+LxcE7kBaN6O10Yv7sEHGDeVSvBiKD8NmL4k9+t5y0rfAVJGiCOntmq05z9QDad+pWbnqziyZRjQxkoy3dUTL/G9XtfDwMop1ScvQMzsJn95kZiSWPjVLB/xn1DeN5zvOagygLCW0aBVmEOiuBWRtZjKOOHc=;vmSW+oKwnid25x9jRy8iZA=="
 ---
 

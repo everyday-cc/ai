@@ -58,6 +58,20 @@ related:
         width: 419
         height: 835
         isCached: true
+  - title: "All The Latest ML Developments Announced At Google I/O"
+    excerpt: "Know Your Data is Google’s new web-based data set exploration tool that helps developers understand rich data sets. Five years ago, Google launched the open-source platform TensorFlow to accelerate machine learning research and empower developers to ..."
+    publishedDateTime: 2021-05-21T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-latest-ml-developments-announced-at-google-i-o/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Google-Ml.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "SmD0UQ2zig41QTbWLVt7oiuWE8ze8eQO08xyZmz75T9ioBZPhhi6Tc92WeMUzcn+Bh2yAu40Zeb8upXTZBEkXvvyl9G9kHzQFXXTLaFoWG2tXIwcufEk/cSUDq9hCwZ7KFzwSOXuhqGDJoVbb70rRCnR7o8e2MF5XWA8J9F4Rp69IzAyEsIgOZEWu1EeNJYInkNRCVFzUWuDqHvAtUIZyEPevgsX1DhdMOAsxnvITRt3+deW7z06jiufkWE4ejJlw0xgvSG7u1wGkKTfrvmDcs1HTrWcuPibVY6S8fC3m5bZpzIOzAIncKL36lxxk7ewTj+oZP/GvPlAB/7lJ6CHKsR2sgY1X8NPhSLQeKsgAOU=;Qs82NNBFPsvVr2KySOF3gg=="
 ---

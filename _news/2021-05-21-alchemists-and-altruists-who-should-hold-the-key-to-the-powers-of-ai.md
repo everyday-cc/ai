@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-21T11:30:00Z
 originalUrl: "https://analyticsindiamag.com/alchemists-and-altruists-who-should-hold-the-key-to-the-powers-of-ai/"
 webUrl: "https://analyticsindiamag.com/alchemists-and-altruists-who-should-hold-the-key-to-the-powers-of-ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI Ethics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/ai-responsible.jpeg"

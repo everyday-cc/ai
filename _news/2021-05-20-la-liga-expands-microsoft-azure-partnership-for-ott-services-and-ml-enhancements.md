@@ -7,8 +7,8 @@ originalUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-m
 webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Cloud Computing
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft expands retail tech presence in China with Hanshow deal"
+    excerpt: "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries"
+    publishedDateTime: 2021-05-21T11:24:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816840/itpro/2019/04/microsoftchinashutterstock_510722167.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft and LaLiga expand partnership to transform the digital sports experience"
     excerpt: "The Spanish football association will not only be working with Microsoft to make the digital sports experience better, but also to develop tech solutions for the media and entertainment industry."
     publishedDateTime: 2021-05-19T11:42:00Z
@@ -40,43 +56,95 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has been named a Microsoft Security 20/20 award winner for a second year in a row in the Microsoft Azure Security Deployment Partner of the Year category."
-    publishedDateTime: 2021-05-18T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=471062"
+  - title: "Mars teams with Microsoft Azure for its digital transformation program"
+    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
+    publishedDateTime: 2021-05-18T19:39:00Z
+    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
+    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 61
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
-    excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
-    publishedDateTime: 2021-05-18T16:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-science-426db6015c117211b515f3d7b8cec529"
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
+  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
+    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
+    publishedDateTime: 2021-05-17T16:51:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 60
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 51
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
+        width: 647
         height: 450
         isCached: true
-  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
-    excerpt: "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga's technology offering,"
-    publishedDateTime: 2021-05-19T14:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-1030446896"
+  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-05-18T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 49
+  - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-17T15:08:00Z
+    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
+  - title: "La Liga, Microsoft team for digital transformation"
+    excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
+    publishedDateTime: 2021-05-19T23:01:00Z
+    webUrl: "https://advanced-television.com/2021/05/20/la-liga-microsoft-team-for-digital-transformation/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2021/05/LaLigaMicrosoft.jpeg"
+        width: 740
+        height: 415
+        isCached: true
+  - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
+    excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
+    publishedDateTime: 2021-05-21T09:34:00Z
+    webUrl: "https://fcbusiness.co.uk/news/laliga-teams-up-with-microsoft-for-digital-transformation/"
+    type: article
+    provider:
+      name: fcbusiness.co.uk
+      domain: fcbusiness.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
+        width: 300
+        height: 243
+        isCached: true
+  - title: "Microsoft Expands Partnership with LaLiga"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and LaLiga has announced an expansion of their partnership that is focused on digitally transforming the sports experience on a global scale."
+    publishedDateTime: 2021-05-19T15:13:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-expands-partnership-with-laliga/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
+  - title: "La Liga and Microsoft ink new technology-led partnership"
+    excerpt: "Spain's football league (La Liga) and Microsoft have enhanced a partnership that began in 2016 by signing a new agreement to boost revenues for clubs and launched a new commercial offering featuring the latest sports technology."
+    publishedDateTime: 2021-05-20T07:17:00Z
+    webUrl: "https://www.telecompaper.com/news/la-liga-and-microsoft-ink-new-technology-led-partnership--1383761"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "28QUtbu62MSg+KOZXZJGFZTnJC9iGjHh9G03KKBE24M3ldI89yZH5PA4totweOBwKFg3/V+OyYwy/tz5KHymVeMAXr8qVc5m9MLbOLk9Edj1ecOciUIYIFvJoUAcVxax3vSVUSQQfPDxfa8O1FioDhpVXy8+r/5A/xkqWcEAoVnmcfvsNsZYvElScu0s3uBktWInet2jKS5i9KZrNL7D946/VgQSTXUsws8UihXaUWXyKvK82KfLXm53WCUZZxxXgz7UnkB66U09DmloWTzgt7ZqANHj3y8zEbVnbCrOGVf4PqI1EpcJ2IslGtXiNo5dgzpBksOGPs5KlekC5ivigxROudlTxwsxEKwiaF0mcvs=;9WF1lNJdKDCP7Swe3u6GWg=="
 ---

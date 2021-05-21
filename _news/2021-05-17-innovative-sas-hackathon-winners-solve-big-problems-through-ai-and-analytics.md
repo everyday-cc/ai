@@ -65,19 +65,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Altair Future.AI Global Event to Demonstrate How Artificial Intelligence and Analytics Accelerate Digital Transformation"
-    excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and"
-    publishedDateTime: 2021-05-21T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation-301296684.html"
+  - title: "Altair Future.AI Global Event To Demonstrate How Artificial Intelligence And Analytics Accelerate Digital Transformation"
+    excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and artificial intelligen"
+    publishedDateTime: 2021-05-21T13:07:00Z
+    webUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
+      name: Host Review
+      domain: hostreview.com
+    quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/1421069/Altair_Logo.jpg?p=facebook"
-        width: 2196
-        height: 1150
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
     excerpt: "In the spring of 2020, as COVID-19 spread across the world, live entertainment and spectator sports were brought to a screeching halt. With stadiums shuttered, sports teams had to find new ways to engage with fans."

@@ -117,6 +117,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Machine learning module accelerates AI IoT systems"
+    excerpt: "To accelerate the push for artificial intelligence and the internet of things, referred to as the AI of Things (AIoT), Infineon Technologies AG has introduced its ModusToolbox machine learning module."
+    publishedDateTime: 2021-05-21T12:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16754/machine-learning-module-accelerates-ai-iot-systems"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "c0w9Ob7U5Fr0KQ0zibbWhjrsVLK9ej31E1y+DXNCff38cxtcbVTFV5P+ZMEa5RcHE6u4ioh3lTBkHeFeMAzvhp3pzFKl6OQ8DYxl4BhB3lZ0Cr8qO2xpNJlJtokx0Ojc6WBbmXZqchGEtmuQMbOOKXrWxS3QLuPrw5+PZepTcJ4llTV3IrA3FMfqo4+4kDmUomTYoBO04poMfPRjMJo2fUXkJMREQXYGxCucDyB5aHrQCchKuc42hU6GFdiUTKCQJ4jCj7TJWoko5gbm4/mTtKz2PooGh3TXsAzwz5HXxNiWPBWFVI1AQt7rlUlWa3SYcH9UFuLLncc1yflzgt2vOSpAobBEHlKdmRMe0vBjKQqDCcVyQI+cG17R65Cii1IO6nqkoRN6KrA7Kls/JGJBgmtqbpQBe3CbqnLT3Ut5BkaAQr8WBNga1mUqXhslrsOqAlJIpgiQeTm9rfxbHjJNLePWBtcNuPzyhrb69DOVy5U2jFYvhahNFReB4VO8F1C4lw7eHWEE8hZQHPL+rsenlA==;UlyAbknt7A/E4XlBD4gOxQ=="
 ---

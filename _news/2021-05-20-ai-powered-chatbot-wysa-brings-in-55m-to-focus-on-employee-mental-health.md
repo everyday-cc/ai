@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-driven mental health app backed by Google nets $5.5m in series A round"
+    excerpt: "Wysa, a mental health tech startup based in India and the US, announced that it has raised US$5.5 million in its latest round of funding. Wysa plans to use the new funds to promote its AI-driven platform to employers who want to expand their mental health benefits."
+    publishedDateTime: 2021-05-21T12:17:00Z
+    webUrl: "https://www.techinasia.com/googlebacked-aidriven-mental-health-app-wysa-nets-55m-series-a-round"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
   - title: "AI-powered mental health platform Wysa raises $5.5M"
     excerpt: "These people are who Jo Aggarwal, co-founder and CEO of AI-powered mental health startup Wysa, whicg announced a $5.5 million Series A financing round on Thursday, calls \"the missing middle of mental health."
     publishedDateTime: 2021-05-20T14:00:00Z

@@ -1,27 +1,25 @@
 ---
 category: news
-title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-publishedDateTime: 2021-05-20T19:18:00Z
-originalUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science on Thursday about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+publishedDateTime: 2021-05-20T18:35:00Z
+originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
     width: 1024
     height: 682
     isCached: true
@@ -104,6 +102,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "SI7lnlocScDM9+Dx0s5Jk8SWJxsq2ouL2hcSrIN0ukoc+GMXuCKUtTjfzDg/fUB02z6czQ6bBJag7T4VIoy8bsJhtAc8a+JaCRrHfchVCYFxGeoK63OCGBxFSFDWvrFuYvjd0+EVSkdPQNb4i6UaglRhJHTHLBzSNJsiDm1r12w1qsgUmcBhmEhhgHyd8wDwx3LHJKLrsGA48n1OQlakbqBtE7/TfGfg5Wm0oNQ10hMQt285JxLwcJlJnsuNzu+xkKyTP4IGdhb0y1O4O2Mdo7K1IxcW8XTqZxt+kisj6JygZjsUCNQiQkaYX1pTm76VM/lVVBfCh8XMJoZ7HVPSbsUKIRY4WsGzF8kUSMt8rU4=;+Q/gHqpi8lvWO0oyXmxU3g=="
+secured: "/3CgvgAwlmzrP0iiMumjMrc69EcNTFGWRljJUt1O5tzKhFDRFZG4vwzUbtSQRdrkDSTa/sKNydVuykEcJBKA4jUXeN2/0wgFRsMz0iznCnLe9VYNTMIGAkqoP/EYS1zaztRP41CGFbT/L1I1luJ0Uj7fa2MeY/FNQ6lA9b0FnBNVGAqxA9t5ltTQfJfy5/Enz5LuajtkVgQKCAew/AALiy7Pip/Q8Vdu2CS45BQPrmgsPGFvSLf1yUf48MnPdAQqw94+w1o44v34Jtqu2UzJh1Z9rMIrEJarkBm+ap1sgVM5sjd19lYaeVvm4aHqMr6j4OVfrLNbeWIbR83EJvAA+V4kHov51eo3t1bUTpo2BWY=;qxaVC5p0u3U5w4z5uGrXXw=="
 ---
 

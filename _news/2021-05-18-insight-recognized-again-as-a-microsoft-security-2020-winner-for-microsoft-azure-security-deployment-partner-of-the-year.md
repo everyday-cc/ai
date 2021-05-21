@@ -7,8 +7,8 @@ originalUrl: "https://us.acrofan.com/detail.php?number=471062"
 webUrl: "https://us.acrofan.com/detail.php?number=471062"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: 아크로팬
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
-    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
-    publishedDateTime: 2021-05-20T15:09:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 66
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
-        width: 1920
-        height: 1292
-        isCached: true
-  - title: "Microsoft and LaLiga expand partnership to transform the digital sports experience"
-    excerpt: "The Spanish football association will not only be working with Microsoft to make the digital sports experience better, but also to develop tech solutions for the media and entertainment industry."
-    publishedDateTime: 2021-05-19T11:42:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-laliga-expand-partnership-to-transform-the-digital-sports-experience/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 63
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621437676_microsoft_laliga_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Uptake Fusion Cloud Datastore for OSIsoft PI Now Available on Microsoft Azure Marketplace"
     excerpt: "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for OSIsoft PI on the Microsoft Azure Marketplace, an online store providing applications and services for use in Azure."
     publishedDateTime: 2021-05-18T16:41:00Z
@@ -68,15 +40,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
-    excerpt: "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga's technology offering,"
-    publishedDateTime: 2021-05-19T14:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-1030446896"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
 
 secured: "Bne9MrE0iu7U91QL8xzOnHQYim8JdXMLZVc6qX1rr27RZ2gfwOUcXK4tw0FXwlCkieehOW2bfrqskfMVGyPbEB1ab91GE5Yq6au3e/n2mTvGYAyOtXvaVa+KqcVXwtMEUd5IBTRbSyf2I01QVHhqJGn/NP+hYIKkWYFF0SObqIv4CT1Fu3fj4ArVlfmMySH6p2f4+hOCD+7xirbaO+Lxp2GpJtcl3UYjfhB14EzFSzsZW+0GamDnoPuYhRrWTFdsoawiXmtv7MJ0CfCjH+20/lCRsziA4YcyGifvn0f1XqWwYV9Y56VSsiNiktkFpPZrS+Nrodm4TXXbO+IFzUY4BMGOdTtabKORoH+6H3qj9m4=;ppu4nnabFgNN9BQ+urdDvw=="
 ---

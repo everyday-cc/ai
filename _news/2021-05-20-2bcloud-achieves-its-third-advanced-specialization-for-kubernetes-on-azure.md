@@ -1,27 +1,23 @@
 ---
 category: news
 title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "TEL AVIV, Israel, May 20, 2021 /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for"
-publishedDateTime: 2021-05-20T12:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure-1030450895"
-webUrl: "https://markets.businessinsider.com/news/stocks/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure-1030450895"
+excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be validation of a solution partner's deep knowledge,"
+publishedDateTime: 2021-05-20T07:36:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "KqYwPKzMjkG6kIC7odp+jD8cTWgTHCO7+/8Lmc+tt3D71cGSk50lYK+vKXkZ+n/vMBi2Q8F3CDnp0mPhP+My82Lzvvq0t+au/RHBWThzPORM5y8g0j3GyQivW2ROJ/D9RJlAMh5FnVs8cSH5AnUaZ31fQtoWq9Hqtq1itTphhWMOyM4OJ1LMlGz5OjPFW5F9Q2c1Hl8n6/+1RlAZ9JMYuIt/1JvPHPSLdEgV+uPK51ydOxnKahCkboxz//fBldRETXntFaolVEc7D7ViAWcsYgnWTD8lPKaH+zBgRzK4h8llEu4gCkKFlxl2estJM0i36AwihFMxkzKRwM4DPhRcgo9HtbqtNY3L7Iz4ef+HIbs=;SAMvzSL+hVrJCMuWYpFTzA=="
+secured: "UbOPusNBN/1R+COb1Eg2WCicKaTWbVQEUto2OVesjUFJ8ZpSFwitfdM6zOHY7br0a54NtxingZx4nwz78xdM/RFxi67nXptt6ph7k04DRr4rITcpTr+oWaTVwKrGJnMFmXPIS1bIpzIYR208r0f0h+YLGuWIwYji8ADiViwDCY9jIEKwPbg35ZthhnHK0iECU6tLJLHAk8nRMSH5dmfo+K2fmB9XmMKDYeGOqLCPQ4HLDLka8roGF7PmrNFcxvAbKaGN1ajh8zPKBiT28/bymFdhR7+bhmKOUjGbrn4dwHSPKux9PhGMZvqO+wpqbYxZL1OJ22RDz5TUbLlIMWb090vk8wld3gf9IQM1jFQegcs=;moRn/HOx3UAdZ8Yfa1M3jg=="
 ---
 
