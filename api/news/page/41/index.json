@@ -2,6 +2,144 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-04-19-ping-ans-askbob-doctor-top-ranked-in-global-artificial-intelligence-competition-supporting-research-diagnoses-and-treatment-decisions.md",
+      "title": "Ping An’s AskBob Doctor Top-ranked in Global Artificial Intelligence Competition, Supporting Research, Diagnoses and Treatment Decisions",
+      "excerpt": "Ping An Insurance (Group) Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEX: 2318; SSE: 601318) is pleased to announce that AskBob Doctor, a consultation and treatment assistance tool,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-state-panel-studies-use-of-facial-recognition.md",
+      "title": "State panel studies use of facial recognition",
+      "excerpt": "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology has stirred debate over privacy, due process and racial bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
+      "originalUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News of Newburyport",
+        "domain": "newburyportnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-shes-taking-jeff-bezos-to-task.md",
+      "title": "She’s Taking Jeff Bezos to Task",
+      "excerpt": "I asked him about Amazon’s Rekognition technology and some of its shortcomings, which there’s been lots of tests of that, too. And he was dismissive about how facial recognition could be misused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/19/opinion/19sway-buolamwini-image/19sway-buolamwini-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
+      "publishedDateTime": "2021-04-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-talking-innovation-and-company-growth-with-amazon-web-services.md",
       "title": "Talking innovation and company growth with Amazon Web Services",
       "excerpt": "In the first of our series of three Q&As with Roldan, we hear about why he’s so excited about widening access to machine learning, how AWS helps startups grow through access to the cloud, and how social shopping app Depop used an Amazon data lake.",
@@ -976,126 +1114,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-like-science-fiction-seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland.md",
-      "title": "‘Like science fiction,’ Seattle startup sends laser-equipped robots to zap weeds on farmland",
-      "excerpt": "Running day and night, a tractor-sized robot designed by a Seattle startup uses lasers to kill weeds on acres of farm land. The machine is the latest form of automation to arrive in agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
-      "originalUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
-      "publishedDateTime": "2021-04-16T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-facebook-employs-ai-tech-to-combat-complex-illnesses.md",
-      "title": "Facebook Employs AI Tech To Combat Complex Illnesses",
-      "excerpt": "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Facebook-AI-pharmaceuticals-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/",
-      "publishedDateTime": "2021-04-16T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-state-panel-studies-use-of-facial-recognition-technology.md",
-      "title": "State panel studies use of facial recognition technology",
-      "excerpt": "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html",
-      "originalUrl": "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg",
-          "width": 1088,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

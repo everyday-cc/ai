@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research community dynamics behind popular AI benchmarks"
-    excerpt: "Experimental benchmarks such as ImageNet and Atari games play an important part in advancing artificial intelligence research. An analysis of results and papers linked to 25 popular benchmarks shows that research dynamics beyond conventional co-authorship has developed in this area."
-    publishedDateTime: 2021-05-17T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00339-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00339-6/MediaObjects/42256_2021_339_Fig1_HTML.png"
-        width: 685
-        height: 354
-        isCached: true
   - title: "Berkeley SkyDeck: 17 Startups Selected for UC Berkeley's Highly Competitive SkyDeck Global Startup Accelerator Program"
     excerpt: "SkyDeck's Batch 12 includes a broad range of international startups participating remotely from around the world BERKELEY, CA / ACCESSWIRE / May 17, 2021 / UC Berkeley SkyDeck, the startup accelerator"
     publishedDateTime: 2021-05-17T15:15:00Z

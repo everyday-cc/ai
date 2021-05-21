@@ -2,6 +2,213 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-19-google-adds-ai-powered-app-personalization-other-improvements-to-firebase.md",
+      "title": "Google adds AI-powered app personalization, other improvements to Firebase",
+      "excerpt": "At its I/O 2021 developer conference, Google rolled out a range of improvements to its Firebase app development platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
+      "publishedDateTime": "2021-05-18T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-googles-lamda-ai-can-have-a-natural-conversation-while-pretending-to-be-pluto.md",
+      "title": "Google's LaMDA AI can have a 'natural' conversation while pretending to be Pluto",
+      "excerpt": "Google previewed LaMDA(“Language Model for Dialogue Applications”), research it says represents a “breakthrough conversation technology.”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-lamda-ai-180253539.html",
+      "originalUrl": "https://www.engadget.com/google-lamda-ai-180253539.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/5dc13d50-b803-11eb-b993-4d782a71a333",
+          "width": 1900,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
+      "title": "Google I/O 2021: Being helpful in moments that matter",
+      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
+      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
+      "publishedDateTime": "2021-05-18T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
+      "title": "Google details new AI accelerator chips",
+      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-05-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-googles-new-ai-technology-could-make-assistant-more-human-like.md",
       "title": "Google’s new AI technology could make Assistant more human-like",
       "excerpt": "Google is developing LaMDA technology that could lead to more natural Assistant conversations. It responds with logical, consistent answers rather than raw data. The technology is still quite early. Unlike with typical AI language models,",
@@ -681,7 +888,7 @@
       "originalUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 608,
+      "heat": 618,
       "tags": null,
       "images": [
         {
@@ -1070,206 +1277,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd.md",
-      "title": "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D",
-      "excerpt": "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
-      "originalUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
-      "publishedDateTime": "2021-05-18T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ai-redefined-commits-to-better-training-models-under-new-ceo.md",
-      "title": "AI Redefined commits to better training models under new CEO",
-      "excerpt": "AI Redefined (AIR) appoints new CEO as it seeks to drive adoption of its human-centered Cogment framework for training AI agents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/AIR.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
-      "publishedDateTime": "2021-05-18T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist.md",
-      "title": "‘Some people feel threatened’: face to face with Ai-Da the robot artist",
-      "excerpt": "Self-portraits by ultra-realistic android go on show at Design Museum in London",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
-      "originalUrl": "https://www.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ec5f164d023799a1e7219eb4f36cd58883a1581b/157_278_3468_2080/master/3468.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=50565e4c98a4efb26a0a18a40acfcca3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
-      "publishedDateTime": "2021-05-18T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-artificial-intelligence-ai-in-healthcare-market-outlook-2021-big-things-are-happening.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Outlook 2021: Big Things are Happening",
-      "excerpt": "HTF Market Intelligence released a new research Study of 50 pages on title Artificial Intelligence AI in Healthcare Market in India 2021 2026 with in depth analysis forecast and business moves The market Study is segmented by key a region",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "originalUrl": "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U518860946_g.jpg",
-          "width": 800,
-          "height": 332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
-      "publishedDateTime": "2021-05-18T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-15-facebook-teaches-ai-to-disregard-irrelevant-information-to-improve-overall-performance.md",
+      "title": "Facebook Teaches AI To Disregard Irrelevant Information To Improve Overall Performance",
+      "excerpt": "Expire-Span works by predicting what information is most important and therefore worthwhile to keep based on context.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
+      "originalUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/55100/content/facebook-teaching-ai-to-forget-things-to-improve-performance.jpg",
+          "width": 708,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
+      "publishedDateTime": "2021-05-14T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-ponyais-self-driving-car-takes-media-for-test-drive.md",
+      "title": "Pony.ai's self-driving car takes media for test drive",
+      "excerpt": "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210514&i=OVECXWMSF&r=OVECXWMSF&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40.md",
+      "title": "Microsoft Azure is gaining on AWS. Get all the training now to be a full Azure expert for under $40.",
+      "excerpt": "Register fo r the AI event of the year ... That’s because Microsoft Azure has been not-so-quietly sneaking up behind AWS for quite a while now. After a third straight quarter of growth of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
+      "originalUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/sale_25748_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/microsoft-azure-is-gaining-on-aws-get-all-the-training-now-to-be-a-full-azure-expert-for-under-40/amp/",
+      "publishedDateTime": "2021-05-14T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-ibm-think-2021-all-in-on-hybrid-cloud-and-ai.md",
       "title": "IBM Think 2021- All In On Hybrid Cloud And AI",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead attended the IBM Think 2021 event last week, which is the premier hybrid cloud and AI event for IBM as well as the company’s annual flagship event for customers and partners.",
@@ -1074,152 +1222,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
-      "title": "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work",
-      "excerpt": "The team used Microsoft Azure IoT Hub, Azure Stream Analytics, Azure Cognitive Services, Azure Stack Edge, Azure IoT Edge, Azure Maps Creator, Computer Vision spatial analysis and more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0ac3f198-43ca-5076-9e7d-e9b16cf0b43a/606edb659a4b1.image.jpg?resize=1200%2C420",
-          "width": 1200,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-chef-robotics-raises-77m-to-help-automate-kitchens.md",
-      "title": "Chef Robotics raises $7.7M to help automate kitchens",
-      "excerpt": "A year and a half’s worth of global pandemic has had a profound impact on virtually every sector of the workforce. When it comes to future automation food prep isn’t quite at the top of the list (that distinction likely goes to warehouse fulfillment,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
-      "originalUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-913931820.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
-      "publishedDateTime": "2021-05-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40.md",
-      "title": "These noise-cancelling earbuds use AI to protect you out in the world. And they’re under $40.",
-      "excerpt": "Sponsored Deals Thankfully, the bar on that process has been raised with the xFyro Active Noise Cancelling AI-Powered Wireless Earbuds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/sale_226505_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/",
-      "publishedDateTime": "2021-05-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

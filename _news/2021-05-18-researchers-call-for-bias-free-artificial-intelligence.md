@@ -43,20 +43,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "New AI Detects Sarcasm in Social Media"
-    excerpt: "Researchers at the University of Central Florida have developed a new artificial intelligence (AI) tool that is capable of detecting sarcasm in social media. According to the team, this type of tool is highly useful for companies looking to better understand and respond to customer feedback on top social media platforms like Twitter and Facebook."
-    publishedDateTime: 2021-05-16T23:25:00Z
-    webUrl: "https://www.unite.ai/new-ai-detects-sarcasm-in-social-media/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/apps-426559_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "mD47r11CnkD4xo0RcexooOzTgU0Rb8bOKfih0i6KQdwqN9gJAO/8Yr9p/OspJ/TMutxKLLFNn/JRR5dR7LmMFW+Yuahl90NRpaRgumsTvVwDtle08jvs+hhpZ61frbtORYkNwQtz+YnDcK7s2tLGyEqgyzsiutUlskpC44QgQxvxR+1CWy7hP17rsuNadSFVrYxn+YP+T/g1bcPUOpU8842YgZzyos8ez7hwfTAQyo3+a8GNQ0KJNRSVusuGFDgwHL1SHEOV6De7g7iiTjTZ4JwWsjBzuylU0L4uU8bwblZMgdyiZnST/lRoWWIEXvIqr7hG4y2PYEGt0rGcCt5FOrDngpoi7eLmljiYBCXkraF9okyZTxjAVds/mcA0jGDPAKufQEH46ZjT944eUjJRumW8vZ8AfPZCA8YAqQZuiX6X0qV5VD5ty0lvBkjngJ52xKGjC+EDEA9qIi23AQiXQqEqsaXeWpUyjLb/qe6lV9IZ3bM9EECgym5yfZwoDhfkV+PDU9tv3qxNAO6D6N9+tg==;KEb22M4w10FMhE43XxAwWA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2021-2027-2021-05-20"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial General Intelligence Market (2021 to 2026) - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
-    excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
-    publishedDateTime: 2021-05-20T06:23:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210520005568/global-artificial-general-intelligence-market-2021-to-2026-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
+  - title: "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-05-21T10:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Food and Beverages Market By New Business Developments, Innovations, And Top Companies – Forecast To 2027"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over"
+    publishedDateTime: 2021-05-19T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-by-new-business-developments-innovations-and-top-companies-forecast-to-2027-2021-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+E6smflaEVEffF3oo/pvHJ+57EkzB3NqfKmsxqeO/KV46T+NRWlrdhdgXmVsGxSd4V7zDwVtIMdy3u2PhUhtYnXfr9CZ7aARfu3Yzm1aMr2SA+3WSeBJHsloX+j509pwD+vIwBlgl2RVh2NP7LOH351nE/5LTFIgyLFl5FfUxkmr8W9Grwg/Z5kSmtmJ87sOxeB0aAn7VNDimdu02b70mM7asu1nyU7zFGjJHOiiQvaIK5S7faLLeeYF2DESddeQOgf+KABQDhVlYcRc/Bac/gnAz1riTZxvH65HEFaGxV2UTvAcoJLxvU/PWSHU2sDLZqm1uvvyD3nwaab+saL01w2i4IEHoc6KFfk97oWeGnU=;mmJ5RJiIbb7eR4/OErP8Ww=="
 ---

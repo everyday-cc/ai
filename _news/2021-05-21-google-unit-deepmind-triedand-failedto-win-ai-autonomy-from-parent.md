@@ -1,32 +1,35 @@
 ---
 category: news
-title: "Google unit DeepMind tried—and failed—to win AI autonomy from parent"
-excerpt: "Alphabet cuts off yearslong push by founders of the artificial-intelligence company to secure more independence"
-publishedDateTime: 2021-05-21T12:18:00Z
-originalUrl: "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent-11621598516648.html"
-webUrl: "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent-11621598516648.html"
-ampWebUrl: "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent/amp-11621598516648.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent/amp-11621598516648.html"
+title: "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent"
+excerpt: "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company."
+publishedDateTime: 2021-05-21T14:29:00Z
+originalUrl: "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
+webUrl: "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
+ampWebUrl: "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
 type: article
-quality: 76
-heat: 76
+quality: 104
+heat: 104
 published: true
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/05/21/600x338/AFP_9AE7JK_1621599274477_1621599291789.jpg"
-    width: 600
-    height: 337
+  - url: "https://images.wsj.net/im-337471/social"
+    width: 1280
+    height: 640
     isCached: true
 
-secured: "SK5b8DcxgJ5DJsGh0eTkWh1gqCA4jqW5Lmx6mhCZYtWQQJFVzX8FStFWJpcwzPaEtJwbY9/615YfSlIIoMXfXv8UEyy196nalAxN7m35y/Fy0dUl4BYAZqujRvXMDtu8AkGcEdhd4oTMwrWtochxznFkjTzqhJ4nZ4CQhfztvIBLmVgVuicPrUYNhbo3JIrT9ZNR6bKkLJMk84JOYJvuo8OSxQDf9ob83D8tEzqv9zJpfx7DDheaiMZwrQKAxDw2t7eAuF6CaprIMlAKiVUlM0ED/t2xswUdnzKte2bW37EGAF6apuW5y/hyc3YX/AsKlLnYA/+A05NXe+kLXsH1Nix8tGkJc/SOYMOTQpJW+KY=;2BwcIc/Um4JGEveJAaBzHw=="
+secured: "y69IX/b0ju3MoDyTWmPWCeK1QkS9XAfeWs9o1QDQCsSmX58vXhtPgUm6759t6lug5mf/u1HAJBjkS+FWASVU4nZSBuUBqbB/rq1gjo3VzvCkdjHNpv+1o0twjTNFDoopmJLXTKo8ZXA0ZZpkU7o92JkQu/ej6yR6NyW38G0aap6BTrmBWYfF2cNjS6FQw6q0n2qbkkfUtrPN1vyIZ715ZTXLdH0d2VKKwaEJpUnIrCi4Hw1cqdSQ3CScjQSfk6PCyZkK87UrAZil+Ih4L7giyOKiGVS/zqdKBtiJ4kO4Eq55MESOUg7oFavo6BAnKck4yiqDov5scwauwBxzG8Ynto2wHtzHOj5Sthg2PHO8Fa4=;0cx3N8T7K6vmpQy81kLMJw=="
 ---
 

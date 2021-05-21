@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekogn
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
 type: article
 quality: 118
-heat: 608
+heat: 618
 published: true
 
 provider:
@@ -712,6 +712,20 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 26
+  - title: "Outsourced cleaners win trade union recognition after lengthy battle"
+    excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
+    publishedDateTime: 2021-05-21T16:14:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-cleaners-win-trade-union-recognition-after-length-battle"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
     excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
     publishedDateTime: 2021-05-17T14:10:00Z

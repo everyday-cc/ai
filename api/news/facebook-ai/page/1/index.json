@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-17-researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts.md",
-      "title": "Researchers develop AI that can detect sarcasm in social media posts",
-      "excerpt": "Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-82701703,imgsize-842291,width-800,height-434,overlay-etbrandequity/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/researchers-develop-ai-that-can-detect-sarcasm-in-social-media-posts/82701703",
-      "publishedDateTime": "2021-05-17T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-15-wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse.md",
       "title": "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse",
       "excerpt": "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into",
@@ -1429,6 +1386,58 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data.md",
+      "title": "Facebook is trying to make AI fairer by paying people to give it data",
+      "excerpt": "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "originalUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "publishedDateTime": "2021-04-08T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

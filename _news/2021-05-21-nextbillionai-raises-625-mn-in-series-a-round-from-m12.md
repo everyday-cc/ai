@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/372572"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372572"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,6 +28,33 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Mapping and logistics startup NextBillion raises $6.25M"
+    excerpt: "NextBillion, a geospatial data startup that provides software-as-a-service products for enterprises, today announced that it raised $6.25 million from M12, Microsoft’s Venture Fund. M12’s investment extends NextBillion’s 2020 $7 million series A funding from Lightspeed and FalconEdge,"
+    publishedDateTime: 2021-05-21T13:55:00Z
+    webUrl: "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/"
+    ampWebUrl: "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/nextbillion-founder.jpeg?w=1200&strip=all"
+        width: 1199
+        height: 674
+        isCached: true
+  - title: "Singaporean AI mapping startup secures $6.25m from Microsoft’s venture fund"
+    excerpt: "NextBillion co-founder Ajay Bulusu said the investment will help the company scale and expand to markets such as North America."
+    publishedDateTime: 2021-05-20T14:01:00Z
+    webUrl: "https://www.techinasia.com/singaporean-ai-mapping-startup-nextbillion-secures-625m-microsofts-m12-venture-fund"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 62
 
 secured: "wtEFcKFUkepUsog7OZm0ZWghi1VY4wFPKIriWbWAGLLf12eCApFZxf/zDlgAMAchRKQ12fycjttxO14j2g1kC0/4yB6C8EpY/u+EEk4wvzRCluHcirvEPKx7fl2h/Y7RPnVpGLOPIqvNABGzimp68oeE7WKjmsX0UISg/QukO083TiX+Qu0JpMgEnLVs1kO51M1ahgQ4PNYJ5AC9nGhxWTmG4DhYpHxAvlqlmc1kkHDdxR1XQ7pqZrUYlWt/8VzGfCaqkllCmBg3DtssoRR/aelmXqfF1jiZBAm2QjvsMnVEHKOMSYbSK5/BoK0IfoJYIn0Fm3hPdTj/Z6sq43sQawQNxISlFU4mIZx+1vfQJLA=;4CKIyMofjIJg3cQSlNsjeg=="
 ---

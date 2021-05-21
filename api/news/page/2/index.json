@@ -2,6 +2,247 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal.md",
+      "title": "Roambee adds AI analytics to supply chain tracking with Arnekt deal",
+      "excerpt": "Better supply-chain tracking is a driver for Roambee's buy of ML analytics house Arnekt. COVID-19 vaccine tracking is a prominent use case.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/",
+      "originalUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/global-supply-chain.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 758,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/amp/",
+      "publishedDateTime": "2021-05-20T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-vital-signs-positive-for-ai-in-european-healthcare.md",
+      "title": "Vital signs positive for AI in European healthcare",
+      "excerpt": "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "originalUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cYtXJnV58cwJqjpdHjQEbR-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
+      "publishedDateTime": "2021-05-20T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-proposed-method-for-evaluating-user-trust-in-artificial-intelligence-systems.md",
+      "title": "Proposed method for evaluating user trust in artificial intelligence systems",
+      "excerpt": "Every time you speak to a virtual assistant on your smartphone, you are talking to an artificial intelligence—an AI that can, for example, learn your taste in music and make song recommendations that improve based on your interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/nist-proposes-method-f.jpg",
+          "width": 2880,
+          "height": 2086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-method-user-artificial-intelligence.amp",
+      "publishedDateTime": "2021-05-20T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-diverse-group-of-immigrants-fund-fair-fintech-a-startup-to-provide-equitable-banking-and-finance.md",
+      "title": "Diverse Group of Immigrants Fund Fair Fintech, a Startup to Provide Equitable Banking and Finance",
+      "excerpt": "Fair, an ethical digital bank and multilingual financial services platform, offering banking, lending, investments and retirement announces 90% of its investors are people of color, 80% are immigrants and many are first-time investors in",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19817096.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19817096.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-these-ex-journalists-are-using-ai-to-catch-online-defamation.md",
+      "title": "These Ex-Journalists Are Using AI to Catch Online Defamation",
+      "excerpt": "CaliberAI wants to help overstretched newsrooms with a tool that’s like spell-check for libel. But its potential uses go far beyond traditional media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/",
+      "originalUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60a5bd465cc021afbbe8fa34/master/pass/business_libel_1202342874.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/amp",
+      "publishedDateTime": "2021-05-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence.md",
       "title": "A Sustainable Future Is Not Possible Without Sustainable Artificial Intelligence",
       "excerpt": "Although AI is the future of the world, training AI algorithms still depend on powerful computers, which consume significant energy and emit considerable carbon emissions.",
@@ -363,7 +604,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -916,7 +1157,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1011,240 +1252,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars.md",
-      "title": "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars",
-      "excerpt": "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60121be798e828df8537895d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D46%26cropY2%3D4186",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones.md",
-      "title": "Qualcomm unveils chips to power the next generation of smartphones",
-      "excerpt": "Qualcomm unveiled its new Snapdragon 778G5G mobile processor platform to power high-end smartphones coming in the second quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/qualcomm-event-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/",
-      "publishedDateTime": "2021-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-a-machine-learning-model-behind-covid-19-vaccine-development.md",
-      "title": "A machine learning model behind COVID-19 vaccine development",
-      "excerpt": "When starting a vaccine program, scientists generally have anecdotal understanding of the disease they're aiming to target. When COVID-19 surfaced over a year ago, there were so many unknowns about the fast-moving virus that scientists had to act quickly and rely on new methods and techniques just to even begin understanding the basics of the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.html",
-      "originalUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/11-vaccine.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp",
-      "publishedDateTime": "2021-05-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-south-korean-startup-cryptocurrency-platform-to-start-blockchain-bank.md",
-      "title": "South Korean startup, cryptocurrency platform to start blockchain bank",
-      "excerpt": "South Korean startup Bloom Technology announced it will join cryptocurrency trading platform IDCM Asia to set up a blockchain-based bank in Dubai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4431621433182/2021/1/16214336372176/v1.5/South-Korean-startup-cryptocurrency-platform-to-start-blockchain-bank.jpg",
-          "width": 679,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "publishedDateTime": "2021-05-19T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-researchers-use-hole-y-math-and-machine-learning-to-study-cellular-self-assembly.md",
-      "title": "Researchers use 'hole-y' math and machine learning to study cellular self-assembly",
-      "excerpt": "In recent years, researchers have drawn on mathematical topology to help explain a range of phenomena like phase transitions in matter, aspects of Earth's climate and even how zebrafish form their iconic stripes.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
-      "originalUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-hole-y.jpg",
-          "width": 1220,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
-      "publishedDateTime": "2021-05-19T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

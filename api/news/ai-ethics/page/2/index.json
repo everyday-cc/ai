@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
-      "title": "Stop talking about AI ethics. It’s time to talk about power.",
-      "excerpt": "Now the conversation has evolved, and AI ethics has blossomed into its own field. She hopes her book will help it mature even further. I sat down with Crawford to talk about her book. Crawford: So many of the books that have been written about artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
-      "publishedDateTime": "2021-04-23T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-22-members-of-googles-ethical-ai-team-reportedly-complained-about-harassment-and-bias-years-before-being-fired.md",
       "title": "Members of Google's ethical AI team reportedly complained about harassment and bias years before being fired",
       "excerpt": "Two of Google's most high-profile AI researchers reportedly raised concerns around bias, sexual harassment, and bullying before they were ousted.",
@@ -1420,6 +1376,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-ai-executive-search-firm-shares-insights-into-the-new-trends.md",
+      "title": "AI Executive Search Firm Shares Insights Into The New Trends",
+      "excerpt": "It is commonly understood today that marketing executives are expected to create a smooth customer experience along with establishing",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329",
+      "originalUrl": "https://www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329/amp",
+      "publishedDateTime": "2021-03-19T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Reduce ML inference costs on Amazon SageMaker with hardware and software acceleration"
+    excerpt: "Amazon SageMaker is a fully-managed service that enables data scientists and developers to build, train, and deploy machine learning (ML) models at 50% lower TCO than self-managed deployments on Elastic Compute Cloud (Amazon EC2). Elastic Inference is a capability of SageMaker that delivers 20% better"
+    publishedDateTime: 2021-05-21T17:50:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/2-3649-Chart.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Speed up YOLOv4 inference to twice as fast on Amazon SageMaker"
     excerpt: "Machine learning (ML) models have been deployed successfully across a variety of use cases and industries, but due to the high computational complexity of recent ML models such as deep neural networks, inference deployments have been limited by performance and cost constraints. To add to the challenge,"
     publishedDateTime: 2021-05-18T23:00:30Z

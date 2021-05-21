@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
-  - title: "New Creation Could Give Robots Human-Like Sense of Touch"
-    excerpt: "Robots and machines are getting smarter with the advancement of artificial intelligence, but they still lack the ability to touch and feel their subtle and complex surroundings like human beings. Now,"
-    publishedDateTime: 2021-05-17T12:09:00Z
-    webUrl: "https://www.printedelectronicsworld.com/articles/23813/new-creation-could-give-robots-human-like-sense-of-touch"
-    type: article
-    provider:
-      name: printedelectronicsworld.com
-      domain: printedelectronicsworld.com
-    quality: 39
-    images:
-      - url: "https://idtxs3.imgix.net/si/40000/83/51.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
     excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic"
     publishedDateTime: 2021-05-21T07:24:00Z

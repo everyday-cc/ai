@@ -33,20 +33,6 @@ related:
         width: 1800
         height: 1160
         isCached: true
-  - title: "Research community dynamics behind popular AI benchmarks"
-    excerpt: "Experimental benchmarks such as ImageNet and Atari games play an important part in advancing artificial intelligence research. An analysis of results and papers linked to 25 popular benchmarks shows that research dynamics beyond conventional co-authorship has developed in this area."
-    publishedDateTime: 2021-05-17T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00339-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00339-6/MediaObjects/42256_2021_339_Fig1_HTML.png"
-        width: 685
-        height: 354
-        isCached: true
 
 secured: "XDHs/Pto+L2zezf6O5C0j1FxUYW97UoJlgReALpFdXgxtRydLXrheZOGepqtsaXRv4t8icSWP5PwXybssq1TRPsrsq8ZOXeOlKI8GEx1Z0SlB/afYFG9cSYLvOfjda7JtfWa+knlFiNFPgvUZ/xNiGWYZZ9q7KmvT4phOtm8L373AQR4Q+wvfZsmoog4qeI/bMZWA7XUQbFoxvyykLb0HEF/WavFOmKRUNTyktsGanwHbC+WoZGaYjjuzaP+7Sz7eW4WcRqMxVL0v9dyaZio2o0MQj6aDdOC4L+bk6ogM27HMF7ndidphpdmk+4wY+YVnMdvJGBH0a52geysIMl6EaY5htVNKG90I8iud9BCLkU=;UDzEhtczg78KyYCxL3x5rA=="
 ---

@@ -68,6 +68,20 @@ related:
         width: 1020
         height: 534
         isCached: true
+  - title: "AI Computing Hardware Market 2020, Size, Share, Growth Potential, Major Application, Industry basis of Region to 2025"
+    excerpt: "The AI Computing Hardware Market is expected to grow at the highest CAGR of 26% during the forecast period 2020-2025. More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips,"
+    publishedDateTime: 2021-05-21T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-2020-size-share-growth-potential-major-application-industry-basis-of-region-to-2025-2021-05-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
     excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
     publishedDateTime: 2021-05-20T04:59:00Z

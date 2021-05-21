@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
 type: article
 quality: 63
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "New Creation Could Give Robots Human-Like Sense of Touch"
-    excerpt: "Robots and machines are getting smarter with the advancement of artificial intelligence, but they still lack the ability to touch and feel their subtle and complex surroundings like human beings. Now,"
-    publishedDateTime: 2021-05-17T12:09:00Z
-    webUrl: "https://www.printedelectronicsworld.com/articles/23813/new-creation-could-give-robots-human-like-sense-of-touch"
-    type: article
-    provider:
-      name: printedelectronicsworld.com
-      domain: printedelectronicsworld.com
-    quality: 39
-    images:
-      - url: "https://idtxs3.imgix.net/si/40000/83/51.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
     excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
     publishedDateTime: 2021-05-20T22:40:00Z

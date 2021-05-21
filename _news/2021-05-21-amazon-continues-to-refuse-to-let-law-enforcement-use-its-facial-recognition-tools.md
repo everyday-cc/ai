@@ -709,6 +709,20 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 26
+  - title: "Outsourced cleaners win trade union recognition after lengthy battle"
+    excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
+    publishedDateTime: 2021-05-21T16:14:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-cleaners-win-trade-union-recognition-after-length-battle"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
     excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
     publishedDateTime: 2021-05-17T14:10:00Z
@@ -719,6 +733,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "K/NcjDHqCdtSigdQZrlEphX9e00oLB0aAw+Zyk+kqkT0Js5idMMtQl9prh0vzs2agiyI7GREOh776AKJcaR61JlVqPOYb1LsHuGcmJMdGFyDme63jdpwAAPbSltThCeCVg6Mk7GyKrfYh4E4AGjluvY5o/IoazOiTdUTN2GoFd44pPYElRh1Zb13I5y5zMleHMf65JQp3nh8lob+sUfp1mjEiT2Fm9TMney0MDffVUYVVZ5dGqVzPBXl+WRZUHo4ECyYjmljwoR0HUHdWMRbX6ZkGVDgYekaO+U2/CU8Wa6u1p0SfEt/60DgU7URj4+a5D9FUOKuocxL5YG/VjcC7+OedMeUCooEKpKKPvHI87Q=;SL9TyWyjmlFPn4/pI2X7aw=="
+secured: "7xiP/BB84WkqSAYf8Dqt347vgEPOz4Hv7mqWBiwqD+T2UDqudytN2QySx62Tyli559VvhzhQ59ADH19f0MkgJBJ+Br643SWodk4xn+pp29THZeniKQd7WL+3i1hInFc81ssVwAHb12xZa13efdLCTue0WAuXLBjXiCnQJk7TXfUVT9mb+Ysm1Zyqvr3z6b0I+5wcfn/7JrZ8GTlCzuc5mgNcDof8iy7mHGpcrQjwLE5jpuuwniEtEQmEdXeqGKVtdejrDTEsK9oyOz9vpLOhuq6a/DEd736LWEQnAvbw/uxhdNoGoUez9eNvxdIYASBZvL9jEVaftVUJePzjN6AKf4511egK9MABmUPlVEiqkIPTUuFwGMm05tZ0TY5Uh2FBecuEzNQ+upY43TGXi3pSkS3csOoOkOkitPe13FugyJZKnEh6c1/trOliT2tis84e46vLKGLQ8rMNCtX3V2pOrOkReJftQA19SYP3KNzqyqr0f70fbfL7KqbLAzGjted8XGI/HLwTa8ijeL/ct3WWrg==;jMH4kGX5nxIuuqjNT6ZG7A=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
-      "title": "Google unit DeepMind tried—and failed—to win AI autonomy from parent",
-      "excerpt": "Alphabet cuts off yearslong push by founders of the artificial-intelligence company to secure more independence",
+      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
+      "title": "Finding any Cartier watch in under 3 seconds",
+      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent-11621598516648.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent-11621598516648.html",
+      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/05/21/600x338/AFP_9AE7JK_1621599274477_1621599291789.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
+          "width": 1600,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent/amp-11621598516648.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent/amp-11621598516648.html",
-      "publishedDateTime": "2021-05-21T05:18:00-07:00",
+      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,60 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
+      "title": "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent",
+      "excerpt": "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "originalUrl": "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-337471/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "publishedDateTime": "2021-05-21T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -98,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/05/19/ibms-research-group-set-to-simplify-enterprise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1411,50 +1471,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-cifar-10-image-classification-in-tensorflow.md",
-      "title": "CIFAR-10 Image Classification in TensorFlow",
-      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/",
-      "originalUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210423164753/2.jpg",
-          "width": 527,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/amp/",
-      "publishedDateTime": "2021-04-29T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

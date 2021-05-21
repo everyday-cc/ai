@@ -2,6 +2,309 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-21-reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration.md",
+      "title": "Reduce ML inference costs on Amazon SageMaker with hardware and software acceleration",
+      "excerpt": "Amazon SageMaker is a fully-managed service that enables data scientists and developers to build, train, and deploy machine learning (ML) models at 50% lower TCO than self-managed deployments on Elastic Compute Cloud (Amazon EC2). Elastic Inference is a capability of SageMaker that delivers 20% better",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/2-3649-Chart.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T10:50:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth.md",
+      "title": "Sinequa: Third-party marketplaces boost hyperscale cloud growth",
+      "excerpt": "Enterprise IT leaders prefer Google Cloud, Amazon Web Services, and Microsoft Azure because of the strength of the third-party marketplaces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
+      "originalUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478-e1616327709332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
+      "publishedDateTime": "2021-05-21T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-human-like-robot-creates-creepy-self-portraits.md",
+      "title": "Human-like robot creates creepy self-portraits",
+      "excerpt": "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
+      "originalUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livescience.com/amp/robot-artist-self-portraits.html",
+      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html",
+      "publishedDateTime": "2021-05-21T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
+      "title": "Finding any Cartier watch in under 3 seconds",
+      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
+          "width": 1600,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
+      "title": "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent",
+      "excerpt": "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "originalUrl": "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-337471/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "publishedDateTime": "2021-05-21T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-mapping-and-logistics-startup-nextbillion-raises-625m.md",
+      "title": "Mapping and logistics startup NextBillion raises $6.25M",
+      "excerpt": "NextBillion, a geospatial data startup that provides software-as-a-service products for enterprises, today announced that it raised $6.25 million from M12, Microsoft’s Venture Fund. M12’s investment extends NextBillion’s 2020 $7 million series A funding from Lightspeed and FalconEdge,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/",
+      "originalUrl": "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/nextbillion-founder.jpeg?w=1200&strip=all",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/",
+      "publishedDateTime": "2021-05-21T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-under-the-ai-hood-a-view-from-rsa-conference.md",
       "title": "Under the AI hood: A view from RSA Conference",
       "excerpt": "AI and ML in security is full of buzz, but we saw promising signs at RSA Conference, such as an evaluation system for enterprise buyers",
@@ -105,50 +408,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
-      "title": "Google unit DeepMind tried—and failed—to win AI autonomy from parent",
-      "excerpt": "Alphabet cuts off yearslong push by founders of the artificial-intelligence company to secure more independence",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent-11621598516648.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent-11621598516648.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/05/21/600x338/AFP_9AE7JK_1621599274477_1621599291789.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent/amp-11621598516648.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-unit-deepmind-tried-and-failed-to-win-ai-autonomy-from-parent/amp-11621598516648.html",
-      "publishedDateTime": "2021-05-21T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-microsoft-expands-retail-tech-presence-in-china-with-hanshow-deal.md",
       "title": "Microsoft expands retail tech presence in China with Hanshow deal",
       "excerpt": "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries",
@@ -201,21 +460,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-nextbillionai-raises-625-mn-in-series-a-round-from-m12.md",
-      "title": "NextBillion.ai Raises $6.25 Mn In Series A Round From M12",
-      "excerpt": "The investment from Microsoft’s venture fund M12, claims to elevate the startup’s access to global markets and ... Founded in February 2020, NextBillion.ai helps large enterprises build, scale and manage their own spatial data ecosystem at scale.",
+      "path": "_news/2021-05-21-artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027.md",
+      "title": "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027",
+      "excerpt": "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372572",
-      "originalUrl": "https://www.entrepreneur.com/article/372572",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621589931-chris-liverani-dBI-My696Rk-unsplash2.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -223,16 +482,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372572",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372572",
-      "publishedDateTime": "2021-05-21T02:52:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T03:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -568,7 +827,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -979,247 +1238,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal.md",
-      "title": "Roambee adds AI analytics to supply chain tracking with Arnekt deal",
-      "excerpt": "Better supply-chain tracking is a driver for Roambee's buy of ML analytics house Arnekt. COVID-19 vaccine tracking is a prominent use case.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/",
-      "originalUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/global-supply-chain.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/amp/",
-      "publishedDateTime": "2021-05-20T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-vital-signs-positive-for-ai-in-european-healthcare.md",
-      "title": "Vital signs positive for AI in European healthcare",
-      "excerpt": "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "originalUrl": "https://www.techradar.com/uk/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cYtXJnV58cwJqjpdHjQEbR-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare",
-      "publishedDateTime": "2021-05-20T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-proposed-method-for-evaluating-user-trust-in-artificial-intelligence-systems.md",
-      "title": "Proposed method for evaluating user trust in artificial intelligence systems",
-      "excerpt": "Every time you speak to a virtual assistant on your smartphone, you are talking to an artificial intelligence—an AI that can, for example, learn your taste in music and make song recommendations that improve based on your interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/nist-proposes-method-f.jpg",
-          "width": 2880,
-          "height": 2086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-method-user-artificial-intelligence.amp",
-      "publishedDateTime": "2021-05-20T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-diverse-group-of-immigrants-fund-fair-fintech-a-startup-to-provide-equitable-banking-and-finance.md",
-      "title": "Diverse Group of Immigrants Fund Fair Fintech, a Startup to Provide Equitable Banking and Finance",
-      "excerpt": "Fair, an ethical digital bank and multilingual financial services platform, offering banking, lending, investments and retirement announces 90% of its investors are people of color, 80% are immigrants and many are first-time investors in",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817096.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817096.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-these-ex-journalists-are-using-ai-to-catch-online-defamation.md",
-      "title": "These Ex-Journalists Are Using AI to Catch Online Defamation",
-      "excerpt": "CaliberAI wants to help overstretched newsrooms with a tool that’s like spell-check for libel. But its potential uses go far beyond traditional media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/",
-      "originalUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60a5bd465cc021afbbe8fa34/master/pass/business_libel_1202342874.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ex-journalists-using-ai-catch-online-defamation/amp",
-      "publishedDateTime": "2021-05-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-18-artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd.md",
+      "title": "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D",
+      "excerpt": "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
+      "publishedDateTime": "2021-05-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-ai-redefined-commits-to-better-training-models-under-new-ceo.md",
+      "title": "AI Redefined commits to better training models under new CEO",
+      "excerpt": "AI Redefined (AIR) appoints new CEO as it seeks to drive adoption of its human-centered Cogment framework for training AI agents.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/AIR.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
+      "publishedDateTime": "2021-05-18T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist.md",
+      "title": "‘Some people feel threatened’: face to face with Ai-Da the robot artist",
+      "excerpt": "Self-portraits by ultra-realistic android go on show at Design Museum in London",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "originalUrl": "https://www.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ec5f164d023799a1e7219eb4f36cd58883a1581b/157_278_3468_2080/master/3468.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=50565e4c98a4efb26a0a18a40acfcca3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/18/some-people-feel-threatened-face-to-face-with-ai-da-the-robot-artist",
+      "publishedDateTime": "2021-05-18T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-artificial-intelligence-ai-in-healthcare-market-outlook-2021-big-things-are-happening.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Outlook 2021: Big Things are Happening",
+      "excerpt": "HTF Market Intelligence released a new research Study of 50 pages on title Artificial Intelligence AI in Healthcare Market in India 2021 2026 with in depth analysis forecast and business moves The market Study is segmented by key a region",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
+      "originalUrl": "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U518860946_g.jpg",
+          "width": 800,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook",
+      "publishedDateTime": "2021-05-18T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-baidu-posts-25-rise-in-quarterly-revenue-as-it-continues-pivot-into-ai-and-cloud-services.md",
       "title": "Baidu posts 25% rise in quarterly revenue as it continues pivot into AI and cloud services",
       "excerpt": "Once part of China’s Big Tech triumvirate, BAT, Baidu is morphing its core search product into an all-purpose platform.",
@@ -1039,195 +1239,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-google-and-seagate-think-they-can-tell-when-your-hdd-will-fail.md",
-      "title": "Google and Seagate think they can tell when your HDD will fail",
-      "excerpt": "Google Cloud and Seagate has devised a machine learning (ML) system to predict when disks inside Google’s data centers might fail. Despite their volatility and high fail rates, hard disk drives (HDD) are the preferred means of housing data inside a data center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/google-and-seagate-think-they-can-tell-you-when-your-hdd-will-fail",
-      "originalUrl": "https://www.techradar.com/news/google-and-seagate-think-they-can-tell-you-when-your-hdd-will-fail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p7uiwcWgterYtXWA2idGtA-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-waymo-self-driving-taxi-confused-by-traffic-cones-flees-help.md",
-      "title": "Waymo self-driving taxi confused by traffic cones flees help",
-      "excerpt": "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-57144755",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-57144755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-57144755.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp",
-      "publishedDateTime": "2021-05-17T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-learning-from-the-past-to-future-proof-your-customer-service-operation.md",
-      "title": "Learning From The Past To Future-Proof Your Customer Service Operation",
-      "excerpt": "After 1918, telephone companies were never the same because their entire trajectory of innovation changed, as did the expectations of their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2b1ba333bc3442553ebf61%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
-      "publishedDateTime": "2021-05-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-burnley-hands-academy-trials-to-two-players-using-artificial-intelligence.md",
-      "title": "Burnley hands academy trials to two players using artificial intelligence",
-      "excerpt": "Burnley has handed trials for its academy to two players this week after the pair was scouted on talent identification platform AiSCOUT using artificial intelligence, the Premier League club said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece",
-      "originalUrl": "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportstar.thehindu.com/incoming/article34579213.ece/ALTERNATES/LANDSCAPE_590/Burnley-",
-          "width": 590,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/",
-      "cdnAmpWebUrl": "https://sportstar-thehindu-com.cdn.ampproject.org/c/s/sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/",
-      "publishedDateTime": "2021-05-17T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

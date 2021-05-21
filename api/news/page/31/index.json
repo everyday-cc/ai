@@ -2,6 +2,154 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-27-swift-for-tensorflow-becomes-open-source.md",
+      "title": "Swift for TensorFlow becomes open source",
+      "excerpt": "Google has announced that Swift for TensorFlow is now officially an open source project on GitHub. Swift for TensorFlow was initially announced and demoed last month at the TensorFlow Developer ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/goog/swift-for-tensorflow-becomes-open-source/",
+      "originalUrl": "https://sdtimes.com/goog/swift-for-tensorflow-becomes-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/04/0_jJ_mOdybYWNTAnIg_.png",
+          "width": 800,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-today-in-b2b-forwardai-on-faster-smb-finance-battery-ventures-saas-fintech-focus.md",
+      "title": "Today In B2B: ForwardAI On Faster SMB Finance; Battery Ventures' SaaS FinTech Focus",
+      "excerpt": "Today in B2B payments, ForwardAI talks faster small business lending, Battery Ventures invests in SaaS FinTechs and Allica Bank launches direct-to-SMB banking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/B2B-ForwardAI-SMB-banking-Mastercard-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
+      "publishedDateTime": "2021-04-26T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021.md",
+      "title": "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021",
+      "excerpt": "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1497096/James_Wu_DeepMap.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-robot-vacuum-with-triple-lidar-system-has-eyes-to-help-it-avoid-poop.md",
       "title": "Robot vacuum with triple lidar system has eyes to help it avoid poop",
       "excerpt": "With three lidar sensors–a wall sensor, a main sensor, and a front sensor — the 360 Smart Life Robot Vacuum can gauge the size of objects. The built-in artificial intelligence (A.I.) allows it to decide in real time whether to continue over an object ...",
@@ -1054,145 +1202,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
-      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
-      "excerpt": "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522",
-          "width": 800,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-cleareyeai-joins-itfa-the-fintech-committee.md",
-      "title": "Cleareye.ai joins ITFA & the Fintech Committee",
-      "excerpt": "LOS ANGELES, April 26, 2021 /PRNewswire/ -- Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, announced that it is joining the ITFA Fintech Committee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cleareyeai-joins-itfa--the-fintech-committee-301276331.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cleareyeai-joins-itfa--the-fintech-committee-301276331.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking.md",
-      "title": "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking",
-      "excerpt": "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "Microsoft AI"
       ]

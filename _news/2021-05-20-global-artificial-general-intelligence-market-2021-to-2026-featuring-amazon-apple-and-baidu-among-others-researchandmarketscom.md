@@ -19,20 +19,17 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Neural Network Software Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2021-2027"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2021-05-20T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2021-2027-2021-05-20"
+  - title: "Outlook on the Artificial General Intelligence Global Market - Nearly 700% of Companies will Deploy AI-Embedded Smart Machines by 2027"
+    excerpt: "The \"Artificial General Intelligence Market: General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 -"
+    publishedDateTime: 2021-05-21T08:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21231358/outlook-on-the-artificial-general-intelligence-global-market-nearly-700-of-companies-will-deploy-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21231358"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21231358"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
 
 secured: "Ve2RcMBp2mfpoMFuxPK3nQyoUIzp0VedUjw8BvcIrigdLhBlO0Fb4M9mF4i5Wp04VnJVuT0ttbI3oh3Yys0Jg6tGdccousTtz3O/Fj9QiJf3eJKRyWMKjbuB4HrLl3JynXGRg6cbGMtgbLR22Rr4Ft6zsg0m+GHSWbvCvpUUT0cIl8PIorOj2U8XSbaqf4IXpN/4FTWrhfcpqeAEaIdoTQa2zq90tRviA8UE6m7O2POEfGgW9wI01wlA2c2wTYcfqe8ZPwCk95YxuTlzkezgi+l2IkDD3mo20zvwssJP8QbXGnhAprHQTo5tLSr/GGEX7PPyRy572xFVu17MS5g7IprVy4cwn+LhcDmUYUNSLhQ=;cJruRocK0Lb8XGoCaiQr5A=="
 ---

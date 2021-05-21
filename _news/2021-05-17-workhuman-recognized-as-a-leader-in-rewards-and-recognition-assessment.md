@@ -716,6 +716,20 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 26
+  - title: "Outsourced cleaners win trade union recognition after lengthy battle"
+    excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
+    publishedDateTime: 2021-05-21T16:14:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-cleaners-win-trade-union-recognition-after-length-battle"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NHClQZ1xsfloezcynzajl6EKbNqyzPi8R8yGCPc4uAyt3oL/kyVsJTpgmhHWlI96joQt/hqT/UKyJK2EMrtES4LLotIao8yijLe3lIW0tut8dhzPPiraSsJpPedLEs8c1/0qlitAuXYpRj/J7w6fNTfWzchgd47tWNw6CqAXWcgX4phIQFAPkxwaLb+K+aSg7IVp6WTPitr3oZ4ixwfGkrclAod9vDkutvhn0nS6fMsZ5a/oEFdyjc/LKjDZCpU0NQUzmMXkEUsa+3QlLs+/GWSRvVokbCdkZq5LN9OTSKYe42nl3TD6SzCQEbsPnCwkO4PvmXdLfpEj3r4BiKyT8RA8amN28SLYtWs61cwPty7GiI0+2T+e//LawAttk0G9T/ZhddjhFAhMSmabd0ODiBssPbRYPS+vOGuZmF6XFueiQTx8qPLbasB95oQwPBTfD3RCXKf/Xv9J4tzd4lGjjSFq8FJg6QK9hRMLfie+EA1LydRt0+R94zV/xSRoCfJI6SQh+UGbEDYPV2G/8nZb0w==;99tvpRlvOH8xfCMKudvBZA=="
 ---

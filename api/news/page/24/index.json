@@ -2,6 +2,152 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-05-01-softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon.md",
+      "title": "SoftBank’s Newest AI Unicorns Are Taking On More Than Just Amazon",
+      "excerpt": "SoftBank is on the hunt for its next billion dollar IPO, seeking promising AI startups to bet big on. Meet two of its newest portfolio companies, Standard Cognition and Forward, and how they're leveraging artificial intelligence for market dominance in the post-pandemic world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608766c6e84ff10258227ace%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
+      "publishedDateTime": "2021-05-01T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-health-code-scan-to-enter.md",
+      "title": "Baidu Apollo to launch fully driverless ride-hailing services in Beijing; health code scan to enter",
+      "excerpt": "Baidu will open fully driverless robotaxi services to the public in Beijing starting tomorrow. This will be China’s first paid autonomous vehicle service where users can hail a robotaxi without a safety driver behind the steering wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greencarcongress.com/2021/05/20210501-baidu.html",
+      "originalUrl": "https://www.greencarcongress.com/2021/05/20210501-baidu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0263e9a1a784200b-600wi",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-01T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Green Car Congress",
+        "domain": "greencarcongress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe.md",
+      "title": "Intel CEO seeks $10B subsidy to build a chip factory in Europe",
+      "excerpt": "Intel CEO Pat Gelsinger may be asking for as much as $10 billion in subsidies to build a new foundry in Europe to ease the chip shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/model-n-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
+      "publishedDateTime": "2021-04-30T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2021.md",
       "title": "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021",
       "excerpt": "Pages Report] Check for Discount on Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report by Current Partnering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements",
@@ -1049,127 +1195,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
-      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
-      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
-          "width": 600,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "publishedDateTime": "2021-04-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-perceptmobile-azure-percept-obstacle-avoidance-lego-car.md",
-      "title": "Perceptmobile: Azure Percept Obstacle Avoidance LEGO Car",
-      "excerpt": "Obstacle avoidance with LEGO Boost car, powered by Azure Percept. Azure Percept is a platform of hardware and services that simplifies use of Azure AI technologies on the edge. I decided to give a try at building simple obstacle avoidance car over the weekend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hackster.io/gvuksic/perceptmobile-azure-percept-obstacle-avoidance-lego-car-1cde4f",
-      "originalUrl": "https://www.hackster.io/gvuksic/perceptmobile-azure-percept-obstacle-avoidance-lego-car-1cde4f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackster.imgix.net/uploads/attachments/1292097/_1fabWh5ahm.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackster",
-        "domain": "hackster.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-first-paid-robotaxi-service-in-china-to-begin-in-may.md",
-      "title": "First paid robotaxi service in China to begin in May",
-      "excerpt": "What is being called the first paid autonomous vehicle ride-hailing service will begin on May 2 in Beijing, China using driverless robotaxis from Chinese internet giant Baidu Inc. The fully autonomous Apollog Go Robotaxi service will have no safety driver behind the steering wheel and will be launched in Beijing’s Shougang Park—one of the venues for the 2022 Beijing Winter Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/16662/first-paid-robotaxi-service-in-china-to-begin-in-may",
-      "originalUrl": "https://electronics360.globalspec.com/article/16662/first-paid-robotaxi-service-in-china-to-begin-in-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
