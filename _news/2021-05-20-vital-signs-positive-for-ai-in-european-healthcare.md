@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI in healthcare: The tech is here, the users are not"
+    excerpt: "The biggest challenges for AI-enabled care are delivering real-time insights into the clinical workflow and gaining acceptance from caregivers as well as patients. Innovative solutions continue to emerge."
+    publishedDateTime: 2021-05-21T18:09:00Z
+    webUrl: "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html"
+    ampWebUrl: "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 76
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bias a Chief Barrier to Artificial Intelligence in Healthcare"
     excerpt: "The potential for algorithms to perpetuate bias and exacerbate disparities is a critical hurdle for artificial intelligence in healthcare."
     publishedDateTime: 2021-05-17T15:52:00Z

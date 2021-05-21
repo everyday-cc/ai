@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, cyber terrain analytics improve hybrid multicloud security"
+    excerpt: "Getting hybrid cloud security right is hard, but machine learning and cyber terrain analytics are a good place to start. Third in a series."
+    publishedDateTime: 2021-05-21T18:25:00Z
+    webUrl: "https://venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/"
+    ampWebUrl: "https://venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-cyber-terrain-analytics-improve-hybrid-multicloud-security/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/RedSeal-topograph-Fig1.jpg?w=700&resize=700%2C495&strip=all"
+        width: 700
+        height: 495
+        isCached: true
   - title: "Roambee adds AI analytics to supply chain tracking with Arnekt deal"
     excerpt: "Better supply-chain tracking is a driver for Roambee's buy of ML analytics house Arnekt. COVID-19 vaccine tracking is a prominent use case."
     publishedDateTime: 2021-05-20T14:20:00Z
@@ -56,54 +72,59 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Innovative SAS Hackathon Winners Solve Big Problems Through AI and Analytics"
-    excerpt: "PTI takes no editorial responsibility for the same.) From saving lives of first responders to exploring manure recycling, the winners transformed data into decisions. Mumbai, Maharashtra, India – Business Wire India The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI."
-    publishedDateTime: 2021-05-17T08:36:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2021/05/17/pwr9-sas.amp.html"
+  - title: "HCL Technologies Looking to Hire Professionals Fields of Cloud, Artificial Intelligence and Cybersecurity in UK"
+    excerpt: "HCL Technologies has been present in the UK since 1997 and its UK operation employs 3,500 people across various locations, supporting over 50 clients"
+    publishedDateTime: 2021-05-17T12:41:00Z
+    webUrl: "https://www.dqindia.com/hcl-technologies-looking-hire-professionals-fields-cloud-artificial-intelligence-cybersecurity-uk/"
+    ampWebUrl: "https://www.dqindia.com/hcl-technologies-looking-hire-professionals-fields-cloud-artificial-intelligence-cybersecurity-uk/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hcl-technologies-looking-hire-professionals-fields-cloud-artificial-intelligence-cybersecurity-uk/amp/"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 36
-  - title: "Altair Future.AI Global Event To Demonstrate How Artificial Intelligence And Analytics Accelerate Digital Transformation"
-    excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and artificial intelligen"
-    publishedDateTime: 2021-05-21T13:07:00Z
-    webUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 29
+      name: Dataquest
+      domain: dqindia.com
+    quality: 37
     images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Information-Technology-Industry-4-Network-Industry-3087393.jpg"
+        width: 800
+        height: 333
         isCached: true
-  - title: "AEG Sports uses advanced analytics to adapt to fan needs during COVID-19"
-    excerpt: "In the spring of 2020, as COVID-19 spread across the world, live entertainment and spectator sports were brought to a screeching halt. With stadiums shuttered, sports teams had to find new ways to engage with fans."
-    publishedDateTime: 2021-05-18T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19/article_d44755f9-cc26-5b5b-b153-cdec483fa8f7.html"
+  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
+    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
+    publishedDateTime: 2021-05-17T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b95214946d648fe89e3751d02ef5161"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/f9/0f9e88b0-e096-5a57-a067-42d548cdaf76/60a3c890ce1f7.image.jpg?resize=946%2C630"
-        width: 946
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Alteryx Introduces Innovations in Analytics Automation, Data Science and Cloud Analytics"
+    excerpt: "Alteryx, provider of a platform for end-to-end analytics process automation, has announced a series of new innovations in analytics and data science automation, analytics in the cloud, machine learning (ML),"
+    publishedDateTime: 2021-05-19T16:03:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alteryx-Introduces-Innovations-in-Analytics-Automation-Data-Science-and-Cloud-Analytics-146963.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 15
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
         height: 630
         isCached: true
-  - title: "AEG Sports Uses Advanced Analytics to Adapt to Fan Needs During COVID-19"
-    excerpt: "Using SAS Viya, the AEG Sports' analytics team created models to gauge fan perspectives toward such things as returning to in-person games. By continuously analyzing fan sentiment during the pandemic,"
-    publishedDateTime: 2021-05-20T08:15:00Z
-    webUrl: "https://www.businesswireindia.com/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19-73052.html"
+  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
+    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
+    publishedDateTime: 2021-05-18T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/stellar-cyber-cited-as-cybersecurity-startup-of-the-year/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 3
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 2
 
 secured: "NP2CpAq5g6hT3yBOAhVigFmkoQraYscoLQGHyrlI2MvXgESD9rK4UWlUbr78rONqEtMoJ4tHS1JAxt+w6DkctJ3gqqdKfLVyH0BUghelL5teT82SLpe5UaRyA5WTuCHecwiIloiyTTcA0vlc0c6rHqEUewo3A14b4y71L1i7Ar893b9vyCwO939ZyGiDW+gala63t4tSwOJM8D3MKVihv/bplst+uWujnNS4bhEKNoYZeMPgBegum7SJ9wDsAOXejswqejErdCPjV4Nc5Uw+57MTK+nVOkBP8DeJ5wd7YACbABtFGgPTrty5qiHDupF0sS3kOd+nyzhnmikkJBcBs9cNugoWE+EOz74eM/LjYyOxSGivEldULp/E+c5nsT/cWIzl8XMzgmtB4r4D/ts3BEtIinN1xoI8lrBC4I5IRTBNcfi9kcabebVzYJsG6Id2HfqWCwNSG3P+gfwDxsMeFBz/F5ijC2DlxOz3UyFDzQ9fWXFPcolcBiT3CpjASc8cK9Ko1XjzX5R/rcj3KHjapQ==;zHUA6gLxCQiNerB6B8PHSg=="
 ---

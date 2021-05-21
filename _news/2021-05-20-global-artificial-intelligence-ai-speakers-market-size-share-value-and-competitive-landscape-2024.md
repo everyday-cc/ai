@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market 2021 (Fresh PDF) Industry Size, Segments, Share, Key Players and Growth Factor Study by 2030"
+    excerpt: "MarketResearch.Biz one of the world’s prominent marketing research firm has launched a brand new report on Global Image Recognition Market. The report is complete of critical insights available in the market for you to assist the customers in making accurate enterprise decisions."
+    publishedDateTime: 2021-05-19T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-fresh-pdf-industry-size-segments-share-key-players-and-growth-factor-study-by-2030-2021-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

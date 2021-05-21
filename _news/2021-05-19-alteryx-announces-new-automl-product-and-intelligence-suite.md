@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alteryx-announces-new-autom
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Alteryx Introduces Innovations in Analytics Automation, Data Science and Cloud Analytics"
-    excerpt: "Alteryx, provider of a platform for end-to-end analytics process automation, has announced a series of new innovations in analytics and data science automation, analytics in the cloud, machine learning (ML),"
-    publishedDateTime: 2021-05-19T16:03:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alteryx-Introduces-Innovations-in-Analytics-Automation-Data-Science-and-Cloud-Analytics-146963.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 15
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "0/qTEOUtQO/OVNUbvPtSDKrzi2EPiF9o0FYQZq3APt+LOjJ5R8p2zNOSNbWg5MmAfJLZK1lVgayZsWO0w9L8jRgyIGPvv1dRKH1hYhRcAEc5okpB5YIbdCWQcDjJ0ssHtqXcvane/9MjKtJDdlBeEdaStjT/2zBwlAaBcElgKApOokHdZMgPK9bVD6XDUaW7ujDb6td8zPYXeg1y8RFOR7LTrUFhO2s+svO/MTB2tOR4wz3H8vTvxkfh4LGNeEcuX3HvQycu325UbbJ5C2Pb7UYGzCoC5vywgtgbH84G4X6vvx8WHJRtEUCRLABfdd0xGlUkVNaA0ybCX8nBv8bVKIq29ZG/DXJDcT68Cw1sfN4=;giByU8pzUqbRTDlZ03XNsA=="

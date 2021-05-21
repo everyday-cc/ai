@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-021-22756-2"
 webUrl: "https://www.nature.com/articles/s41467-021-22756-2"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Phase-to-pattern inverse design paradigm for fast realization of functional metasurfaces via transfer learning"
-    excerpt: "The design and optimization of a metasurface is a computationally- and time-consuming effort. Here, the authors propose a neural network-based algorithm for functional metasurface design, and demonstrate it for some functional metasurfaces."
-    publishedDateTime: 2021-05-20T10:21:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-23087-y"
+  - title: "Voice Assistant Application Market expected to gain $5.2 billion by 2024"
+    excerpt: "According to a new market research report Voice Assistant Application Market by Component Solutions and Services Deployment Mode Cloud and On premises Application Web Application Mobile Application and Devices Organization Size Vertical and Region Global Forecast to 2024 published by"
+    publishedDateTime: 2021-05-21T18:14:00Z
+    webUrl: "https://www.openpr.com/news/2288401/voice-assistant-application-market-expected-to-gain-5-2"
+    ampWebUrl: "https://www.openpr.com/amp/2288401/voice-assistant-application-market-expected-to-gain-5-2"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288401/voice-assistant-application-market-expected-to-gain-5-2"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-23087-y/MediaObjects/41467_2021_23087_Fig1_HTML.png"
-        width: 685
-        height: 417
+      - url: "https://cdn.openpr.com/U/5/U521978567_g.jpg"
+        width: 629
+        height: 389
+        isCached: true
+  - title: "Citizen Services AI Market predicted to grow $9.7 billion by 2024"
+    excerpt: "According to a new market research report Citizen Services AI Market by Application Traffic and Transportation Management Healthcare Public Safety Utilities and General Services Technology ML NLP Image Processing and Face Recognition and Region Global Forecast to 2024 published by"
+    publishedDateTime: 2021-05-17T15:23:00Z
+    webUrl: "https://www.openpr.com/news/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
+    ampWebUrl: "https://www.openpr.com/amp/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/5/U517199486_g.jpg"
+        width: 607
+        height: 365
+        isCached: true
+  - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T00:31:00Z
+    webUrl: "https://menafn.com/1102102410/Artificial-Intelligence-in-Defense-and-Aerospace-Market-2021-2025-by-Product-Type-Application-End-user-and-Region-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "m9RoTdFuINMYZaj9PXoeTk8Vn5fFjMcN299krmT7Y5ZORTMUf+mqkjiPStshflPERPHp8Xa3oGpat856kKmPjTGyw1D1k7GdEzQy9s1tQaGRwXmrX3f8d5hvze1Q/ojanLQaSxFHyD0Xy/DQrYpNbhZQypwTIfDkzvAX11Jcn90bMnWNNK1aGdH16nFBws0tHCDlRHkuqkMmRTIXQw9gH4QXRvAVYNTonIPwZWZsR8BtB/pWHEEznoYqNpR3SkDxDy/5JuvQH0gdrMmK4LrW2MFzgUElsZtSJOIaDQ2FFr9dw2vUryXz6uiAKiyFagHwP7TBUs1/9E0EdG34jDI45BOqllGJUMed92rbBF848ZK5/LmKIl9e6p6BQvcZqj9czAEco4du4wus1rb0g3LDGRcKPi1VwP94GDiSxXXoOeItLUAnyaiLQx1q0qx7eJQOfHv3kMBNDR/sb9a3+5qoQe6TL1HqS3Lk0ezh2DHzmQ6JbDkoPncE6XCju4N3emy0ie4vzcFGL8JDcPUCA3fBfA==;KAnSkg4A7CS9jmOk/6ZfZA=="

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-a-possible-novel-migraine-therapy.md",
+      "title": "A Possible Novel Migraine Therapy",
+      "excerpt": "Findings suggest developing HDAC6 inhibitors could be a novel new therapeutic avenue for the treatment of migraines.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/",
+      "originalUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/05/novel-migraine-therapy-neurosciences-public.jpeg",
+          "width": 770,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/hdac6-inhibitor-migraine-18358/amp/",
+      "publishedDateTime": "2021-05-05T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health.md",
       "title": "What We Can Learn From AI Healthcare Initiatives Like Watson Health",
       "excerpt": "Healthcare professionals aren't going to rely on AI as a decision-maker. Rather, they might use AI analysis as a tool integrated into their workflow.",
@@ -1326,59 +1369,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-artificial-intelligence-in-security-market-size-to-surpass-us-8129-million-by-2026.md",
-      "title": "Artificial Intelligence in Security Market Size to Surpass US$ 8129 million By 2026",
-      "excerpt": "The global Artificial Intelligence in Security Market size is estimated to be USD 8129.1 million in 2026 from USD 4295.7 million in 2020. The global Artificial Intelligence in Security market size is expected to grow at a CAGR of 17.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-to-surpass-us-8129-million-by-2026-2021-04-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-to-surpass-us-8129-million-by-2026-2021-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-c
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
+  - title: "Microsoft expands retail tech presence in China with Hanshow deal"
+    excerpt: "Microsoft will also provide technical support to the digital retail firm in co-creating cloud-based products that use the tech giant’s machine learning, IoT, and data technology. “Hanshow’s solutions empowered by Microsoft Azure are at the heart of ..."
+    publishedDateTime: 2021-05-21T18:35:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9090/microsoft-expands-retail-tech-presence-in-china-with-hanshow-deal"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft_hq.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
     excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
     publishedDateTime: 2021-05-17T16:51:00Z

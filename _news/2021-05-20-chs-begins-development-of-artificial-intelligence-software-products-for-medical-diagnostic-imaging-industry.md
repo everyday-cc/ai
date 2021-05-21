@@ -1,24 +1,28 @@
 ---
 category: news
 title: "CHS Begins Development of Artificial Intelligence Software Products for Medical Diagnostic Imaging Industry"
-excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce"
-publishedDateTime: 2021-05-19T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/n21203802/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21203802"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21203802"
+excerpt: "Peter Solodko, CEO of Consolidated Healthcare Services (CHS), a medical administrative management business, is excited to announce the company is taking steps to develop multiple Artificial Intelligence (AI) software products for the Medical Diagnostic Imaging Industry."
+publishedDateTime: 2021-05-19T17:06:00Z
+originalUrl: "https://www.digitaljournal.com/pr/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry"
+webUrl: "https://www.digitaljournal.com/pr/chs-begins-development-of-artificial-intelligence-software-products-for-medical-diagnostic-imaging-industry"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/FFF-9-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "A1 Medical Imaging to Be Part of Artificial Intelligence Software Development for Medical Diagnostic Imaging Industry"
@@ -36,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wZksKpwWF14ZQpByLbDjLjfTMOGGcKXbdrFFcmM9ueJroo7k7prrPYJ/x/PAOiYBqe0tYnFCSqFA1PR/SBCpZVbbe6v9VFFRoCr1TKcUCIMAx0w1hdNfovfkxOh6Ue47ev0rCn6VdxPoHDkE7953A87sjAvivwDm8MZFfaEejFCj2ZTQnN3+xHRVSWNoYQ8HQ21x1l/cQYiV60fceNa1wK0nopyPHoNKSJqVxqUY51TttcNR2XPmrqg9MXP5OB55+WwCBn3gByZkCFslwEh5myTF5B90Pulmn8pmhirKfZZ57Ae9jne3nbWy+NExQ4K60GcwG+Bh9mnp9Yxq1p8ziZ3fXYnC73JWwK6Fw/SSoxk=;94ctYyO1yAUoL4Nm87W5FA=="
+secured: "DzhTOrh2CFygAuESB21/qIhETdSQG49PYgMQvh7bjzxRG4hZcMx3+rZWmagSNjLIewaHlbkGthOTAv/7rZoOdVbkJOAE7VWKw7h9AaQHLainlEi9hGnrGvX9U2CqrEFsU74WaA2JpKDpYKtFF3Nz3MH/eC9UjAbJGAOVaB7w4TqHMVxAKXqMVUi/umhY0jVo746PzMM+7XPJ8572KKxjkkx/T71qizy7tTX+tdaA6XW1b/wMG7mo8gUXrlxx33fFCE0F31pKMG+1nl+e6cbrGUU0fAjZ+3GAaJVf5y52loGGa/AS6TzJukZ20BKGE0SGBiLcr0jMHJCspa3odkjYLF5uVCKMDhSajGxoh/sJmCA=;M7SVF9L6/Y8vSt5Jf3JB1Q=="
 ---
 

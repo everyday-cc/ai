@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-21-implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate.md",
+      "title": "Implement live customer service chat with two-way translation, using Amazon Connect and Amazon Translate",
+      "excerpt": "Many businesses support customers across multiple countries and ethnic communities, and therefore need to provide customer service in a wide variety of local languages. It’s hard to consistently staff contact centers with agents with different language proficiencies. During periods of high call volumes,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/8_v2.jpg",
+          "width": 550,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T12:17:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-voice-assistant-application-market-expected-to-gain-52-billion-by-2024.md",
+      "title": "Voice Assistant Application Market expected to gain $5.2 billion by 2024",
+      "excerpt": "According to a new market research report Voice Assistant Application Market by Component Solutions and Services Deployment Mode Cloud and On premises Application Web Application Mobile Application and Devices Organization Size Vertical and Region Global Forecast to 2024 published by",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2288401/voice-assistant-application-market-expected-to-gain-5-2",
+      "originalUrl": "https://www.openpr.com/news/2288401/voice-assistant-application-market-expected-to-gain-5-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U521978567_g.jpg",
+          "width": 629,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2288401/voice-assistant-application-market-expected-to-gain-5-2",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288401/voice-assistant-application-market-expected-to-gain-5-2",
+      "publishedDateTime": "2021-05-21T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition.md",
       "title": "Facebook AI cuts by more than half error rate of unsupervised speech recognition",
       "excerpt": "The use of unlabeled data has big implications for work with languages that, in an AI context, are low-resource, such as Amharic, Swahili, Kyrgyz, and Tatar.",
@@ -95,58 +191,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal.md",
-      "title": "Roambee adds AI analytics to supply chain tracking with Arnekt deal",
-      "excerpt": "Better supply-chain tracking is a driver for Roambee's buy of ML analytics house Arnekt. COVID-19 vaccine tracking is a prominent use case.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/",
-      "originalUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/global-supply-chain.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/roambee-adds-ai-analytics-to-supply-chain-tracking-with-arnekt-deal/amp/",
-      "publishedDateTime": "2021-05-20T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1447,59 +1491,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-healthcare-natural-language-processing-nlp-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by.md",
-      "title": "Global Healthcare Natural Language Processing (NLP) Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2026",
-      "excerpt": "MarketsandResearch.biz has recently publicized a new report entitled Global Healthcare Natural Language Processing (NLP) Market 2021 by Company, Regions, Type and Application, Forecast to 2026 highlights the need for up-to-date market data for the business management that will offer development and profitability of the global Healthcare Natural Language Processing (NLP) market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2026-2021-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2026-2021-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

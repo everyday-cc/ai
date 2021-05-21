@@ -1,25 +1,27 @@
 ---
 category: news
-title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science on Thursday about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-publishedDateTime: 2021-05-20T18:35:00Z
-originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
-webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+excerpt: "What is being called the world's first brain-computer interface allows a volunteer with paralysis from the chest down to control a robotic arm from a distance with his mind and feel when its fingers grasp an object,"
+publishedDateTime: 2021-05-20T20:23:00Z
+originalUrl: "https://www.ctvnews.ca/health/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch-1.5436841"
+webUrl: "https://www.ctvnews.ca/health/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch-1.5436841"
+ampWebUrl: "https://beta.ctvnews.ca/national/health/2021/5/20/1_5436841.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2021/5/20/1_5436841.html"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CTV News
+  domain: ctvnews.ca
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
+  - url: "https://beta.ctvnews.ca/national/health/2021/5/20/1_5436841/_jcr_content/root/responsivegrid/image.coreimg.jpg"
     width: 1024
     height: 682
     isCached: true
@@ -88,6 +90,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "BviZUE0UlnHVQwo+t45dmo4oyGJ+wGjw42c5VR64iGooTwVccNmTl4BrGNl2G3Q5bqpL2Sj9uD3DlvMn37v4mthiNBVxnETjRvY7sAaHs3Us4EoKprKVHMfbsvKIuymT5gO8TO45Hyflosm5j1o4QP+gfKaLipsWvhc3Eamx6S2WsO53+rwo0CJ6O8f/RgIalwpJge9EXyQA7a87++UA7Qh6rAr65xkv/eOKhaRR4gM6cobgzBNoVpW7iGpLMggVjF0vIlZ8XBi+2UgwAzs62UWM8pOWT41uSgNnWozAUq2XaOf9tlvwx15pnp+7R+41U+gAT3YXk8bLiEoz7JhsLzK4wkKX98yeuSLv5dYUMh38Fq9QrJC4lgvaYedXV2hko9WF0DZricgXzBOhnUuL8OeB9FF2IaUVAeaFlAv+xjQT9S6+NpmI/Nlu+UL8xVbLeN9BujvbiZxIzpI9J+5bKdpYjzZXaaEzpuaH0hTqk889E3FwZ1SX/1BEJ1msPEDwK47uFAJfX8o/tEU23Sn1JA==;7SnRYhifTe9hs5VQ4mncTQ=="
+secured: "Zope1IpKdHkTajDsZuU1YlcqTXyYXiuQimGmrObCEacmM708/DvdQMG87fYi6GhaIMF2RHojq5PQhOOyp00eFDpbWWRGmoStvVpXJARtpdlBR2AlNnD0yIxZfvrrzSMejCLNcyWi2Q55nn0DRmxv+90TkzTu4b1UPUtpbmIn7hpWxW96ES3+9xUtfbAtVggwUWS6Mn3bA3bi4dPKPyHngh6gk6Izm9QwEkXy403CPHYR5msj4on+yvmSeKFpf7ZQKHoodSk5z9JEL8+MQ31enn1KFsUjOVfZXPH8Zk/6nMtpGFcohKF3Frm1yoG7sNNjsQKxG2z4fWNo4x85AN+04vZ8cUiZSJ/4Wbx6mnKy4y0=;M14p3BUUuPk+FNS6C5EolA=="
 ---
 

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Will Fuel the Financial-Services Revolution. Here's What to Know."
+    excerpt: "AI is already a common tool used for some up-and-coming fintechs, whether that’s a robo-advisor or an automated-savings tool. Traditional banks are also recognizing its potential to offer a more personalized service for customers amid branch closures — HSBC and Wells Fargo offer an AI experience that mimics a real-life assistant."
+    publishedDateTime: 2021-05-21T18:42:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/AI-Will-Fuel-the-Financial-Services-Revolution-16193834.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/14/21/21021794/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "AFOUbXr066oPabVkxSOuJpd2OsoWVaJHIiJFW+yAIJ7MxcBPltKObkY7t+P8diYJjOKXutz64wSOGmev+U2it2alUlCb03v0zI9/FGGM0bcms+YG4kjA9/f0WgAo1az30Ccy+r+1hXAyHVpZba/LWBNFXuL0/YVkqCG/w8RH0XBBOXgH43tVuvPoSPzOjoaRe3Xoz1Asf8YdQMg7C3ER7D04oytVY4hYLn4LbtdH7yCu4bI9dVCZrtBljPR3fpqVMP7Z9Nj2YBUFEr7RyciTIAi94HLqNVdC03v8QGU1VD0fwSAHU6M+VUzHBcScZzQA75ZpuJdbgnU0JlXPyn8K1evpu0bBcwL8nlJ3dOyyr5E=;ZMpC2jkkHBNSumcLdj3o+Q=="
 ---

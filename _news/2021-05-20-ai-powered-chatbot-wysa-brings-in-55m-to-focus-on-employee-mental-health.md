@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI"
+    excerpt: "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence."
+    publishedDateTime: 2021-05-21T17:33:00Z
+    webUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/wysa-app-feature.jpg?w=1024"
+        width: 1024
+        height: 699
+        isCached: true
   - title: "AI-driven mental health app backed by Google nets $5.5m in series A round"
     excerpt: "Wysa, a mental health tech startup based in India and the US, announced that it has raised US$5.5 million in its latest round of funding. Wysa plans to use the new funds to promote its AI-driven platform to employers who want to expand their mental health benefits."
     publishedDateTime: 2021-05-21T12:17:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://vni.s3.amazonaws.com/210518103308706.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Wysa Puts $5.5M Series A To Work Targeting ‘Middle Of Mental Health’"
-    excerpt: "Wysa's chatbot function creates a safe space for users where they can be heard, feel validated and be guided without stress."
-    publishedDateTime: 2021-05-20T14:00:00Z
-    webUrl: "https://news.crunchbase.com/news/wysa-puts-5-5m-series-a-to-work-targeting-middle-of-mental-health/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2020/03/Mental_Health_App.png"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "lQWuAQwhrK/ryo6W4yZ6o12iVdlsyAaW6OUWLDAYPsF2tBTpzvw2KhWP/DBrxOAbi8k70SiVeC7ibVuadCu+zyIK+Nt96dkgE6eQWGEVDvFjR4EsLz71o4UyZSL5ChmwYIbDe2GMrquGBVO+uHmqSQCYsdXH8PaS7RvIbqdIqeQBt7w863+H+jIG831D2R/6c8hljqQpaQmAToFHRKYuLHeVAzHvRZNF73ycKvKMGG9wI5E82aPwb/2VSpRACEUBGSbWjhTTiISV/+WNUcpXeLPMuGBxUzuH9K61275GVagzeb1rMsALXhHimf19iVRl01vKM1YWFc9VgpF+2PAOCenrPhA9BhgKXL8aKaLbKpc=;xsh4qz3JIo+8zyKboLg6gw=="

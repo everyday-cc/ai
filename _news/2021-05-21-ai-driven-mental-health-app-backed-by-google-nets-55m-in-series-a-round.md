@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/googlebacked-aidriven-mental-health-app
 webUrl: "https://www.techinasia.com/googlebacked-aidriven-mental-health-app-wysa-nets-55m-series-a-round"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI"
+    excerpt: "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence."
+    publishedDateTime: 2021-05-21T17:33:00Z
+    webUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/wysa-app-feature.jpg?w=1024"
+        width: 1024
+        height: 699
+        isCached: true
   - title: "AI-powered mental health platform Wysa raises $5.5M"
     excerpt: "These people are who Jo Aggarwal, co-founder and CEO of AI-powered mental health startup Wysa, whicg announced a $5.5 million Series A financing round on Thursday, calls \"the missing middle of mental health."
     publishedDateTime: 2021-05-20T14:00:00Z
@@ -49,20 +65,6 @@ related:
       - url: "https://qtxasset.com/fiercehealthcare/1621524630/Wysa%20Founder%20photos.JPG?Sx1ORCR1ev5U2.4JEX5vONS6iyJ9kuq."
         width: 2550
         height: 1700
-        isCached: true
-  - title: "Wysa Puts $5.5M Series A To Work Targeting ‘Middle Of Mental Health’"
-    excerpt: "Wysa's chatbot function creates a safe space for users where they can be heard, feel validated and be guided without stress."
-    publishedDateTime: 2021-05-20T14:00:00Z
-    webUrl: "https://news.crunchbase.com/news/wysa-puts-5-5m-series-a-to-work-targeting-middle-of-mental-health/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2020/03/Mental_Health_App.png"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "GKl1fnMTkiEKpxx+NKqiH4r3/y5RZ1fImId/rokthGNnnExpcMKLOLiRutTcxlQWPQRbyrSN/PxsjRgtJdzgicUSvUivvKEx0Hwg9KNyTOxcYN/pw5nXU9HLLA3oqfyAGL+OoHkaehVg5Tynnbe9Ig/XXbnZLvwnVPrxj3OIQozeLtWuqjvFkzDSaNxLIosGy9sCmseluwQGecskKI7Z2fwGXBcGLsA5Mw1wtVaqqQPhiY+/blqZtN3wbEoPcHEZJ3aRh7/PZ6P4ZHYJhuDc+41nQh0zzZBoSdJxauata/6HOnalibiTalEZHXPbTVJK2wEsGQ0YqLBSZBgKTgNCQBgmas/JjsxtT8qLjkyMsIY=;qeJ6gcFWBd5YFrZkGx5Q+Q=="

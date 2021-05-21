@@ -41,6 +41,20 @@ related:
         width: 600
         height: 784
         isCached: true
+  - title: "AI Will Fuel the Financial-Services Revolution. Here's What to Know."
+    excerpt: "AI is already a common tool used for some up-and-coming fintechs, whether that’s a robo-advisor or an automated-savings tool. Traditional banks are also recognizing its potential to offer a more personalized service for customers amid branch closures — HSBC and Wells Fargo offer an AI experience that mimics a real-life assistant."
+    publishedDateTime: 2021-05-21T18:42:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/AI-Will-Fuel-the-Financial-Services-Revolution-16193834.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/14/21/21021794/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Agencies extend comment period on request for information on artificial intelligence"
     excerpt: "Five federal financial regulatory agencies announced today they will extend the comment period on the request for information on financial institutions’ use of artificial intelligence (AI) until July 1,"
     publishedDateTime: 2021-05-17T19:03:00Z

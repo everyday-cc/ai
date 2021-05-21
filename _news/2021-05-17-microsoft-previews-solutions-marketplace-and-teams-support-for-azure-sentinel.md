@@ -96,6 +96,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
+  - title: "Microsoft expands retail tech presence in China with Hanshow deal"
+    excerpt: "Microsoft will also provide technical support to the digital retail firm in co-creating cloud-based products that use the tech giant’s machine learning, IoT, and data technology. “Hanshow’s solutions empowered by Microsoft Azure are at the heart of ..."
+    publishedDateTime: 2021-05-21T18:35:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9090/microsoft-expands-retail-tech-presence-in-china-with-hanshow-deal"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft_hq.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
     excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
     publishedDateTime: 2021-05-18T13:00:00Z

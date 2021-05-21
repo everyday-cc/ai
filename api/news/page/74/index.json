@@ -2,6 +2,179 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-03-12-nuport-robotics-to-conduct-self-driving-middle-mile-truck-project.md",
+      "title": "NuPort Robotics to conduct self-driving middle-mile truck project",
+      "excerpt": "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
+      "originalUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insights.globalspec.com/images/assets/158/16158/Canadian_Tire.jpg",
+          "width": 752,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure.md",
+      "title": "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure",
+      "excerpt": "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/",
+      "publishedDateTime": "2021-03-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-profet-ai-simplifies-development-of-ai-solutions-for-manufacturing.md",
+      "title": "Profet AI simplifies development of AI solutions for manufacturing",
+      "excerpt": "Profet AI has introduced AutoML, an automated machine learning platform to enable makers to develop AI-based solutions for manufacturing processes and management, according to company founder and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20210310PD206.html",
+      "originalUrl": "https://www.digitimes.com/news/a20210310PD206.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20210310PD206_files/2_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-hayu-selects-aws-for-personalisation-and-data-analysis.md",
+      "title": "hayu selects AWS for personalisation and data analysis",
+      "excerpt": "Amazon Rekognition, which can identify well-known celebrities in a wide range of categories; and Amazon Kinesis Data Firehose, a capture, transform, and load streaming data service found in the AWS Management Console. European-based media software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis",
+      "originalUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/Hayu.jpeg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis?amp",
+      "publishedDateTime": "2021-03-12T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-ypb-groups-enhancements-to-motifmicro-authentication-solution-app-will-advance-commercialisation.md",
       "title": "YPB Group's enhancements to MotifMicro™ authentication solution app will advance commercialisation",
       "excerpt": "Object recognition has been achieved, adding to QR and GS1 barcode readability while intuitive user guidance has been added. MM1 is YPB’s forensic smartphone-based authentication solution for ...",
@@ -885,169 +1058,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-cisco-adds-real-time-translation-to-webex-video-meetings.md",
-      "title": "Cisco Adds Real-Time Translation to Webex Video Meetings",
-      "excerpt": "Audio is automatically translated into text for each participant using a choice of over 100 different languages.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-worldwide-ai-in-computer-vision-industry-to-2027-rise-in-demand-for-automating-processes-across-industries-presents-opportunities-researchandmarke.md",
-      "title": "Worldwide AI in Computer Vision Industry to 2027 - Rise in Demand for Automating Processes Across Industries Presents Opportunities - ResearchAndMarke",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ResearchAndMarkets.com's offering. According to this report the global AI in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-a-temporal-hierarchical-feedforward-model-explains-both-the-time-and-the-accuracy-of-object-recognition.md",
-      "title": "A temporal hierarchical feedforward model explains both the time and the accuracy of object recognition",
-      "excerpt": "The recognition accuracy and its processing time depend on different stimulus properties such as the viewing conditions, the noise levels, etc. Recognition accuracy can be explained well by different models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-85198-2",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-85198-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85198-2/MediaObjects/41598_2021_85198_Fig1_HTML.png",
-          "width": 685,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:44:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps.md",
-      "title": "Changing script: AI, not humans, to write subtitles for movies, soaps",
-      "excerpt": "Eros Now has joined hands with Google Cloud to use its artificial intelligence technology for streaming the entire range of its movies and originals with automated subtitles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/entertainment/changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps-6632641.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/entertainment/changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps-6632641.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

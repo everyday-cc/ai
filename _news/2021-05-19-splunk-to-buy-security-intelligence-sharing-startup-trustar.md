@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligen
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -29,31 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
-    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
-    publishedDateTime: 2021-05-17T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b95214946d648fe89e3751d02ef5161"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Stellar Cyber Cited as Cybersecurity Startup of the Year"
-    excerpt: "Stellar Cyber, the innovator of Open XDR – the only intelligent, next-gen security operations platform – announced today that it has captured Cyber Defense Magazine’s Global InfoSec Award, Cutting Edge in Cybersecurity Startup of the Year."
-    publishedDateTime: 2021-05-18T08:47:00Z
-    webUrl: "https://www.financialbuzz.com/stellar-cyber-cited-as-cybersecurity-startup-of-the-year/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 2
 
 secured: "qxJkcaZjEtZcPIBWbvXeeonh+0UJ9A+IGUeLTCZ86sZrdYVNlSP2G9NdUy+FCrXXaq26Zal7hYKRRBp9edgOdFb+0rmsNIy5zPj0akSBc3GiQZle+/wqxbVEoLW6XyMmifo7/GRvCKPUaElQpL63QynCheAQdwd2maudC05CuJPn9615NluJ12BHIUwDzccaPzS2q+UCPoFkGZJGyk4ILUHX5ecNFnzvVdLKsUzuQ4GuQeOb0Mes0nCASLh5BTsJc3/FvZavDs/OnMwN8yqhFjBx2uDx8eib/bRG6K4I77JFQX80b1192LZhoEwD8imK88nVfdTiKtBxn9vAMEhzP/1tTqqTANNlZmAQh0avds8=;7ORUwAS7GkT48UobjJ+HKw=="
 ---

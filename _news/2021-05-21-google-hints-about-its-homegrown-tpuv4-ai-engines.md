@@ -8,9 +8,9 @@ webUrl: "https://www.nextplatform.com/2021/05/21/google-hints-about-its-homegrow
 ampWebUrl: "https://www.nextplatform.com/2021/05/21/google-hints-about-its-homegrown-tpuv4-ai-engines/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/21/google-hints-about-its-homegrown-tpuv4-ai-engines/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Next Platform
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/google-tpu-pod.jpg"
@@ -42,6 +43,6 @@ related:
         height: 937
         isCached: true
 
-secured: "OlAbxG4pLSD4qU1UCSKbXTt2K5YCM1A+fzLCApYaursRq4l+R4+JHPPzn+RkUlP8pel0BihsLyhU2ndOU4K148OLxp50d0VRcSJ4a0LNDPeyB4In2D8mQImDAjKo2dsq849MNuO6K1TjHABdjjmlTbZlIAdn9MFui6JYik6GebNnTKgcYb9rSzFPokIhUqDchfM/wDeCmvz6d3Q1aqDTE2LXiB+A8xqE4RTWoKh+kEqH3vXURo2RYpvA77K/CTKMQZ52kCFvevTat/gFOWkGP0yZOL8chHqUfDrlFBtbo/ebIvATQaPr6deYS1UaRbTLoPim8SMBvfy560xnCaES2tBZGu/0Jln9h8YCDNM2Jpo=;MgXsCgFUJADaaiIydipOpQ=="
+secured: "jxNJoM7rza3xBuSYsb4IytCWj3F7iojQleSPTgqRxO2S1Lyg/mgJmex104BNU6Il8GnpSp7dXzdxCIQkJJDiwE98Kf6rPji6/im3UtZr36itRp0rJxej5M+GfF6I++bdDfJJRD56PWK61t6FB5MRrsH7j9PmZ3F/nAqmSo/vZn4B1/KdlM2ShKXlqzyNstLQI0pTX+sRP4IetALjGKNUDDFMFRGOYoua0L++9R32tVXdVnMv71zA0oG1sMOJtOXCSUtf72vD3uBEre24MnHHkCpxP14kiMrNmRJU/dZUHobpT8D1QNvRzPUL7lyMYNHfEanyHlQS+ukAumeWrQcf11Witt5YXskWRp7ufUTwBMw3PbJ+QavD5qwopZVAWK5NTTTHQPqO8PQwlNV57QSyLlRmg40evaZsYXYF/STv6F3K50xTjTjVNRjv/mPgCp5bp+utFSyco9mDl8ffRNPLKptntWFKwKqXfnDmImOpwdrfkp79nnhe3w1D2DymG4I+qQ4dEusaPV6YWx6ybkIXOA==;fCPqFZMLglA0tIz4PvJWqw=="
 ---
 
