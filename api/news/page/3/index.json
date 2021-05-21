@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-19-ways-in-which-artificial-intelligence-will-empower-business.md",
+      "title": "Ways In Which Artificial Intelligence Will Empower Business",
+      "excerpt": "Deep learning and machine learning breakthroughs have allowed computers to process and interpret data in ways we could never have imagined. Most people today still correlate artificial intelligence (AI) with science fiction,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372324",
+      "originalUrl": "https://www.entrepreneur.com/article/372324",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621407426-Officebuildingimages-03.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372324",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372324",
+      "publishedDateTime": "2021-05-18T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
       "title": "Ground processing with space data 5x faster with Azure",
       "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
@@ -1215,58 +1267,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-california-dmv-probes-tesla-over-self-driving-claims.md",
-      "title": "California DMV Probes Tesla Over Self-Driving Claims",
-      "excerpt": "The California Department of Motor Vehicles has launched an investigation to decide if Tesla (NASDAQ:TSLA) misleads buyers by offering its vehicles with \"full self-driving capabil",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627526%2Fvehicle-running-self-driving-mode-and-a-woman-driver-reading-book.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
-      "publishedDateTime": "2021-05-18T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

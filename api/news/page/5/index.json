@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-18-rise-of-the-robots-bank-of-america-names-its-favorite-stocks-for-our-post-covid-future.md",
+      "title": "Rise of the robots: Bank of America names its favorite stocks for our post-Covid future",
+      "excerpt": "As technologies like automation and AI are rapidly adopted, strategists at BofA name a slew of stocks set to benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106883283-1621003066000-gettyimages-1221937566-dsc04379gi.jpeg?v=1621003179",
+          "width": 5831,
+          "height": 3888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-the-future-workforce-how-conversational-ai-is-changing-the-game.md",
       "title": "The Future Workforce: How Conversational AI Is Changing The Game",
       "excerpt": "AI was among the many emerging technologies to take hold in 2021. Companies are using AI to streamline everyday workplace tasks and transform the client experience.",
@@ -1167,48 +1220,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound.md",
-      "title": "This Israeli startup thinks AI should be operating your next ultrasound",
-      "excerpt": "UltraSight develops smart technologies, offering accurate ultrasound diagnostics, and operated by untrained personnel. The startup's technology will also be traveling to space with another Israeli",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/",
-      "originalUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2021/05/UltraSight-1620728963.png",
-          "width": 1788,
-          "height": 1117,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/",
-      "publishedDateTime": "2021-05-16T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

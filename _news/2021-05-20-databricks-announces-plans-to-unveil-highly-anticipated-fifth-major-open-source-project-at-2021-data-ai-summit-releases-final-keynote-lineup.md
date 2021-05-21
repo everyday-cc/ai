@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Databricks Announces Plans to Unveil Highly-Anticipated Fifth Major Open Source Project at 2021 Data + AI Summit, Releases Final Keynote Lineup"
-excerpt: "Databricks co-founders Ali Ghodsi, Matei Zaharia and Reynold Xin slated to deliver keynotes on data and machine learning product innovations and the rise of the lakehouse architecture"
-publishedDateTime: 2021-05-19T18:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data/article_68561dbe-a409-5b99-bfe8-a3d2fa4c174c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data/article_68561dbe-a409-5b99-bfe8-a3d2fa4c174c.html"
+excerpt: "Databricks co-founders Ali Ghodsi, Matei Zaharia and Reynold Xin slated to deliver keynotes on data and machine learning product innovations and"
+publishedDateTime: 2021-05-19T18:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-1030448502"
+webUrl: "https://markets.businessinsider.com/news/stocks/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-1030448502"
 type: article
-quality: 3
-heat: 3
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "e5IMn1ydHYP4YP372u55supimfkoTZBsWlWqbATOzvkdQiSst/bBalvkuL4WNyFaAA5Ac8ed94y4ZrCkxGxNQZhQO4i9Aur5wr5RtVK0x2wHXVT6ZtoatbUV4twxhdQ2PqPkAYK0iwhrJkaQnp1fCL4MDAynqW/0tn3eKN1ldKmgA8ktCDbeDKiNQ0G/UC+OaiZdhZJ0LujCv8YLRBuPoSi3kqqbNsz+AiycTkh0ZDF7UGHkByrnbvDfVJDHslJstbAL4/IW51qHjmZJWC6VxXv0huveo/pL9mssul/IRTzEJOWgrtE2RLo4glPIcJNmffi39s87IP1CVfECS//JBdhFOrRHW4K+c3S0epElHgo=;tTI/eEL4w0iibq+FoHUqIQ=="
+secured: "/y/65haZw3WQoyUx+VQhL428E0lmH1oTyJsCu2xGA2vr6eLGcZjyX0Q16frjOIPz+6E45Kv9l2DugenDmp/6+P5w0bogpaltgxXZyqJoK590CY8HxSiQv9cD0K6mhxp2zUE7Lj1OYuRxJqYMPK7HA/MBhMvieYGQqgvAYxfBAk7Ftl+c0zTgEE8XSTQgwjGi20bINoXU/V1/HaXpXApDyNI+7goUhy1DW8ATvR6fHsbGvBoJYt/KAPgtKqhiUvKcysJhaaXb/h/b7EGwovgV85ICW+qYtOfM4WMjBLE0Os4ZJZK9lY6d3IR+8gdU3VRjMGOZIo5e9eb/Hdtblxv3BkfMwe+9gvdCgDYpwxggGI8=;RyGdOfsvEEY442+5fXg0BQ=="
 ---
 

@@ -2,6 +2,83 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-04-13-machine-learning-can-help-slow-down-future-pandemics.md",
+      "title": "Machine learning can help slow down future pandemics",
+      "excerpt": "Artificial intelligence could be one of the keys for limiting the spread of infection in future pandemics. In a new study, researchers at the University of Gothenburg have investigated how machine learning can be used to find effective testing methods during epidemic outbreaks,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/24-machinelearn.jpg",
+          "width": 1000,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
+      "publishedDateTime": "2021-04-13T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres.md",
+      "title": "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres",
+      "excerpt": "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238",
+      "originalUrl": "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-big-shake-up-due-to-covid-19-on-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
       "title": "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market",
       "excerpt": "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of",
@@ -958,92 +1035,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-machine-learning-could-assist-in-the-proper-management-of-tongue-cancer.md",
-      "title": "Machine learning could assist in the proper management of tongue cancer",
-      "excerpt": "Machine learning, a subfield of artificial intelligence is poised to revolutionize cancer management. Rasheed Alabi's doctoral research at the University of Vaasa shows machine learning techniques could assist in the proper management of tongue cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210412/Machine-learning-could-assist-in-the-proper-management-of-tongue-cancer.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210412/Machine-learning-could-assist-in-the-proper-management-of-tongue-cancer.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210412/Machine-learning-could-assist-in-the-proper-management-of-tongue-cancer.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210412/Machine-learning-could-assist-in-the-proper-management-of-tongue-cancer.aspx",
-      "publishedDateTime": "2021-04-12T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
-      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
-      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they are expanding tests of driverless trucks. Tesla founder and CEO Elon Musk announced late last week the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2019/06/fleetowner_29612_tesla_shipment_1_0.png?auto=format&fit=max&w=1200",
-          "width": 667,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

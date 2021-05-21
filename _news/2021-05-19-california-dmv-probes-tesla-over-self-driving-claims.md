@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
 type: article
 quality: 104
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
-    excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
-    publishedDateTime: 2021-05-16T09:31:00Z
-    webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 59
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "California places Tesla's 'Full Self-Driving' under review"
     excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-"

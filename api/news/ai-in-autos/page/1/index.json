@@ -171,7 +171,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -698,6 +698,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-canadian-tech-firm-diversio-honoured-for-pioneering-work-in-ai-and-data-at-prestigious-digital-awards.md",
+      "title": "Canadian Tech Firm Diversio Honoured for Pioneering Work in AI And Data at Prestigious Digital Awards",
+      "excerpt": "Diversio is being recognized in three categories of Fast Company's 2021 World Changing Ideas Awards. As a finalist in the AI and Data category, Diversio is recognized for its work harnessing the power of data and artificial intelligence to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19805210.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19805210.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1390,58 +1433,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-sleeker-ponyai-self-driving-suv-hints-at-more-road-ready-autonomous-cars.md",
-      "title": "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars",
-      "excerpt": "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
-      "originalUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Ponyai_Luminar_01-1.jpg",
-          "width": 1500,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
-      "publishedDateTime": "2021-05-10T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

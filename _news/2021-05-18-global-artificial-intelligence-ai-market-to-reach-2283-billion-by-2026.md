@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Production, Growth, Share, Demand and Applications Forecast to 2025"
+    excerpt: "Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  By identifying the growth,"
+    publishedDateTime: 2021-05-20T21:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
     excerpt: "The report titled Global Automotive Artificial Intelligence AI Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Automotive Artificial Intelligence AI market has been garnering remarkable momentum in recent years Demand continues to rise"
     publishedDateTime: 2021-05-18T19:29:00Z

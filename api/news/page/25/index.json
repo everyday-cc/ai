@@ -2,6 +2,102 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-30-cifar-10-image-classification-in-tensorflow.md",
+      "title": "CIFAR-10 Image Classification in TensorFlow",
+      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/",
+      "originalUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210423164753/2.jpg",
+          "width": 527,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/amp/",
+      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/amp/",
+      "publishedDateTime": "2021-04-29T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeeksforGeeks",
+        "domain": "geeksforgeeks.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-baidu-launches-robotaxi-service-outside-beijing-how-fully-driverless-is-it-vs-autox.md",
+      "title": "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?",
+      "excerpt": "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b4966a43cfa314e532181%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/",
+      "publishedDateTime": "2021-04-29T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-waymos-new-ceos-say-self-driving-unit-eyes-more-outside-funding.md",
       "title": "Waymo’s New CEOs Say Self-Driving Unit Eyes More Outside Funding",
       "excerpt": "Waymo, the prized self-driving arm of Alphabet Inc., is looking to nab further outside investment and make acquisitions of its own, the company’s new chief executive officers said.",
@@ -1108,92 +1204,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape.md",
-      "title": "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape",
-      "excerpt": "As brands and agencies look to diversify their media portfolios in ever-changing traditional web, IBM offers Watson AI for OTT market, where industry collaboration is critical to achieving scale",
-      "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/PressRelease/IBM-Watson-Advertising-Accelerator-Expands-to-Bring-AI-to-Fast-Growing-OTT-Media-and-Streaming-Landscape_52357.aspx",
-      "originalUrl": "https://www.streamingmedia.com/PressRelease/IBM-Watson-Advertising-Accelerator-Expands-to-Bring-AI-to-Fast-Growing-OTT-Media-and-Streaming-Landscape_52357.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-new-machine-learning-based-tool-to-help-physicians-determine-best-test-for-chest-pain.md",
-      "title": "New machine learning-based tool to help physicians determine best test for chest pain",
-      "excerpt": "The choice between two non-invasive diagnostic tests is a common dilemma in patients who present with chest pain. Yale cardiologist Rohan Khera, MD, MS, and colleagues have developed ASSIST, a new digital decision-aiding tool.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/chestpain.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
-      "publishedDateTime": "2021-04-29T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

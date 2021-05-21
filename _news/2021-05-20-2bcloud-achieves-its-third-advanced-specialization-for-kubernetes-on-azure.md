@@ -1,29 +1,23 @@
 ---
 category: news
 title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to"
-publishedDateTime: 2021-05-20T12:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure-301296026.html"
-webUrl: "https://www.prnewswire.com/news-releases/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure-301296026.html"
+excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be validation of a solution partner's deep knowledge,"
+publishedDateTime: 2021-05-20T07:36:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "IED4DBf9K5qdsVU59LSJ7ijzc21n7IQH4yKBE++2ehvmLOIPIX6OrNU2AeD4etojuGK0SDIBhA1ZFPSqYeJc+RjXquGdzBUNCIt1WveOSlv2Bdg29PeWySGV5az21R8L5ZRCg0cp5EuoXzvwFw2TPH/28UHDCHCIHv6m+QbMOluqfm9CHayN2/1fKAs4MXU7GErLWu9E07vHT1qOGmaMH68wfLYC7lTQTnmSXXuC6eYCxwQlE+zyRdoziTqQ1Oo6WMSlbhCKDfQEO4dVyzrkw9Q6/demosog9Lk1hfvlouCmc3TlsLJmwqRBbXZTutynxndrdVe310JN65abzKFLMd+HiLNeXeyDP1c5LMIlx1c=;zY/O9NTXPcL0KcFEdP/0Hg=="
+secured: "rSF8rgF8XHj6Tkaf28YgPFxrC650PpkxDQzSLvmALqfcwRKwm6xVH/pfdiSoftvAJKvLOSMuyD6k+wp2fLD9DFbnSd0ysa5hUxH/vTlGcwRbUvT5jqzGHaDO0HxGSMHikjRTiaUxx2Ov7ySCaybzpRl+u8a8qdIObnyI2qNNitRdZd+rwkQHM52B86AvrlywHausx06q3NFiFMMGBWrAqIYj95C+YyAZhi6cmzbCNOJGqhfx+EXDHNpC3+i4LcQ/7UEYzS3WO8VVQfZqARisnPQGp1Cd807DGoVslhYCnHm6bS/pQcdWccawI+gZ2IX+uenPTjaZoYQIHkfWsFnPZxtOqDZ2wqezPGQTPtkm+sw=;agu7ELxWCZzPIkDDJrLh3g=="
 ---
 

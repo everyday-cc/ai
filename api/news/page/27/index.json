@@ -2,6 +2,101 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-04-29-asml-riding-the-chip-wave.md",
+      "title": "ASML: Riding The Chip Wave",
+      "excerpt": "AI, IoT, 5G are driving a new wave for semiconductors. Chipmakers are spending billions to increase fab capacity in response to this structural uptrend in chip demand. A sizeable portion of that spending is expected to be on-chip equipment,",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
+      "originalUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1247736623/medium_image_1247736623.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
+      "publishedDateTime": "2021-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-elon-musk-teslas-next-full-self-driving-beta-update-will-blow-your-mind.md",
+      "title": "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’",
+      "excerpt": "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/",
+      "originalUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/",
+      "publishedDateTime": "2021-04-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-tensorflowjs-with-gant-laborde-ml-028.md",
       "title": "Tensorflow.js with Gant Laborde – ML 028",
       "excerpt": "Gant's back!!! He's releasing a book with Manning Publishing about Tensorflow.js and he's here to discuss all the details with us. He explains the difference between Teonsorflow and Tensorflow.js and goes into some of the pros and cons of using it.",
@@ -1079,109 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation.md",
-      "title": "Gartner says low-code, RPA, and AI driving growth in ‘hyperautomation’",
-      "excerpt": "Low-code, RPA, and AI are the key drivers for hyperautomation as enterprises try to automate and streamline data operations, Gartner said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/rpa.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
-      "publishedDateTime": "2021-04-28T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amd-bets-on-strong-demand-for-chips-as-revenue-soars-93.md",
-      "title": "AMD bets on strong demand for chips as revenue soars 93%",
-      "excerpt": "AMD raised its annual revenue forecast on Tuesday, betting on strong demand for its chips used in data centers and personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1231211568.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
-      "publishedDateTime": "2021-04-28T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

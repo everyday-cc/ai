@@ -2,6 +2,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-04-16-ocado-prepares-for-food-deliveries-by-robots-with-10m-investment-in-startup-oxbotica.md",
+      "title": "Ocado prepares for food deliveries by robots with £10m investment in startup Oxbotica",
+      "excerpt": "It is hoped that applying artificial intelligence and machine learning ... As well as cutting costs, a new driverless fleet would cut emissions by speeding up the shift to electric delivery ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
+      "originalUrl": "https://www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2021/04/16/10/SEI74877590.jpg?width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
+      "publishedDateTime": "2021-04-16T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
+      "title": "Driverless truck developer TuSimple debuts on Nasdaq",
+      "excerpt": "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
+      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-business-outline-of-artificial-intelligence-in-big-data-analytics-and-iot-market-2021-amazon-apple-inc-google-inc.md",
       "title": "Business Outline Of Artificial Intelligence in Big Data Analytics and IoT Market 2021| Amazon, Apple Inc., Google Inc.",
       "excerpt": "Profitable Strategic Report on Artificial Intelligence in Big Data Analytics and IoT Market by Top Key Players, Types, Applications, Product and Services,Industry Improvement, CAGR Status,Competitive Landscape and Their Strategies Forecast till 2028.",
@@ -1030,92 +1116,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-latest-research-on-gpu-database-market-size-by-component-region-and-new-business-opportunities-and-investment-research-report-2028.md",
-      "title": "Latest Research on GPU Database Market Size, By Component, Region and New Business Opportunities and Investment Research Report 2028",
-      "excerpt": "The global GPU database market size is projected to reach nearly USD 1,484.1 Million by 2028. Besides, it is projected to gather a CAGR of above 21% over the forecast years 2021-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43673387/latest-research-on-gpu-database-market-size-by-component-region-and-new-business-opportunities-and-investment-research-report-2028",
-      "originalUrl": "https://www.wicz.com/story/43673387/latest-research-on-gpu-database-market-size-by-component-region-and-new-business-opportunities-and-investment-research-report-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://WICZ.images.worldnow.com/images/20397967_G.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-omada-health-extends-science-of-behavior-change-to-musculoskeletal-treatments-through-patented-computer-vision-technology.md",
-      "title": "Omada Health Extends Science of Behavior Change to Musculoskeletal Treatments Through Patented Computer Vision Technology",
-      "excerpt": "Today, Omada Health announced that they are enhancing its musculoskeletal (MSK) personalized virtual physical therapy treatment for m",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-sports-covid-19-pandemic-medical-technology-a83afb5c787442a0887dec5c00204aec",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-sports-covid-19-pandemic-medical-technology-a83afb5c787442a0887dec5c00204aec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

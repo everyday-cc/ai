@@ -137,22 +137,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla crash victim lauded 'full self-driving' in Tiktok videos"
-    excerpt: "A Tesla car driver killed in a recent accident in California praised the automaker's \"full self-driving\" features, and posted videos on his apparent Tiktok account, in which he appeared to drive with his hands off the wheel."
-    publishedDateTime: 2021-05-16T09:31:00Z
-    webUrl: "https://www.deccanherald.com/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/tesla-crash-victim-lauded-full-self-driving-in-tiktok-videos-986478.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 59
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/05/16/2021-04-26t174941z1277381692rc2t3n9wk9cirtrmadp3usa-autos-congressjpg-986478-1621157477.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
     excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
     publishedDateTime: 2021-05-17T22:56:00Z

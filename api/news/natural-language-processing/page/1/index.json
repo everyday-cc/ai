@@ -260,6 +260,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-is-that-tom-hanks-speaking-in-japanese-no-its-just-ai.md",
+      "title": "Is That Tom Hanks Speaking in Japanese? No, It's Just AI",
+      "excerpt": "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "publishedDateTime": "2021-05-19T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-otterais-new-assistant-can-automatically-transcribe-your-zoom-meetings.md",
       "title": "Otter.ai’s new assistant can automatically transcribe your Zoom meetings",
       "excerpt": "A.I.-powered voice transcription service Otter.ai wants to make it even easier for its business users to record their meetings. The company is today introducing a new feature, Otter Assistant, which can automatically join the Zoom meetings on your calendar,",
@@ -1457,50 +1500,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital.md",
-      "title": "IBM builds new hybrid cloud, AI capabilities to help clients go digital",
-      "excerpt": "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "publishedDateTime": "2021-05-10T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],
