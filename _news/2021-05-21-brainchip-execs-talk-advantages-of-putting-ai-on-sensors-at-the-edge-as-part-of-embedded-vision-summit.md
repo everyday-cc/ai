@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-20T18:58:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
 webUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
 type: article
-quality: 3
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 related:
   - title: "Chips&Media Making its Presence at the 2021 Embedded Vision Summit as an Exhibitor"

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-lookout-for-v
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-lookout-for-vision-accelerator-proof-of-concept-poc-kit/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

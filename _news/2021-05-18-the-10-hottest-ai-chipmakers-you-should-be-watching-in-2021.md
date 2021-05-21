@@ -3,11 +3,11 @@ category: news
 title: "The 10 Hottest AI Chipmakers You Should Be Watching In 2021"
 excerpt: "CRN looks at the 10 hottest AI chipmakers to watch in 2021, which includes Intel, Nvidia and several startups in the AI hardware space."
 publishedDateTime: 2021-05-18T16:07:00Z
-originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/10"
-webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/10"
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4"
 type: article
-quality: 39
-heat: 39
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 449
     isCached: true
 
-secured: "eivDNYSr7JRPwN7pvRqQRPsKGDf6+tUVPwjRJNzIpn9dhw/VA6h+rB18IhFj5D9jYoLOIe2pbkHRdyyUzA3mySvaOEGLlX44fDVOGH+C61bDQ0hqLwJPGx5ogqJh2FickYuZ9IKRqTdrkhrGixQaEKYmEkyjvaVPBD0pvltm6XU4pQFa0ZXTROek/0QdoFCPaBJuSIAD3ETbKlKye4Wg8T7KhYfS46p+CyUV1S63QSvkT4G4YP8DCuUw2PwVrPk9Zo45XvIOUagB6rybIVDafnKUg61BtA0ya0KwLwjB/gfYGRem/lhkm8wevu19iJhW5OrG3icJelFxjnT5XzidqgoX1inJFXd6mk+xBDu2zpzJdonj9wCOiwBeDRwBfbjhxYpODbZUwIL7sYWSELLDeD1zIlz2RO/76fXblxDcOw7BcYKjOK2iylJag+cyXw1T7xOR70sC9kQZWw/9qrtT7Jsk2onCvDjOmqdtCQw3+l+Iy2pN/wvUA7PmGgsxiXVNnWd33xovyIIXGhuwVRwU2g==;0ccPWg0GUPp/sphJbZ7XKg=="
+secured: "+tArJHiMz0RHcKGzSDrpjWpS3sxdu/ZrCZGkAuhB3PAZ5oNnMWz/6fSZpWuqR0PF4rZAR4ijpm+w4DqVS7iJG5mGfmeJnsjrUoBRf3wTxBJtC4+AMvVtPnRcYBt286MJxm8jQmngbx/+jdzQBhSzWNPhHKnKEFNRSrYzr4Wj4WcdtPzR664LBWSsPECpQscVLEDe7NHc9UzfIU50x+R0s+Odk1yJE6SfIYE39tBKfIHxHuhQtyQe9Z/mLNPZKPOUlWKZOpnxelVYPK4A0LyQcEhXdkfp+JnWPVe79KQbCwy/dVnZ4iWW3ky3aqavFfXfFXtnE/mJydsyx24NIc2CMGH15BYFKkhGEFL4roaDDO0=;W4l+qRvHNCwIX4NxEo0oww=="
 ---
 

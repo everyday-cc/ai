@@ -2,6 +2,84 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-03-03-at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium.md",
+      "title": "At Microsoft Ignite, expanding reach for Azure ML & Purview, Power BI Premium",
+      "excerpt": "With enough data and ML announcements to go around, I'll cover news pertaining to Azure Machine Learning, Power BI and Azure Purview in this post. ZDNet comrade-in-data Tony Baer covers Ignite's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/",
+      "originalUrl": "https://www.zdnet.com/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/",
+      "publishedDateTime": "2021-03-02T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-core-scientific-achieves-aws-hpc-competency-status.md",
+      "title": "Core Scientific Achieves AWS HPC Competency Status",
+      "excerpt": "March 1, 2021 — Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/core-scientific-achieves-aws-hpc-competency-status/",
+      "originalUrl": "https://insidehpc.com/2021/03/core-scientific-achieves-aws-hpc-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure.md",
       "title": "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure",
       "excerpt": "For example, in Azure Cognitive Search, Microsoft says its search service ... data from passports and driver’s licenses, supporting services like online banking transactions, travel check ...",

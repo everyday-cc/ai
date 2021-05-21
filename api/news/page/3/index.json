@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
+      "title": "Alteryx announces new AutoML product and Intelligence Suite",
+      "excerpt": "The company, best known for its data prep bona fides, leverages its acquisitions in the machine learning space to announce new data science features in Alteryx Designer and new standalone AutoML product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/561d7db1-2f48-441a-bfd1-1cb1394ec6a5/alteryx-machine-learning-chord-diagram.png",
+          "width": 3836,
+          "height": 2060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "publishedDateTime": "2021-05-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-search-brings-more-ai-and-ar-power-to-your-fingertips.md",
+      "title": "Google Search brings more AI and AR power to your fingertips",
+      "excerpt": "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
+      "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Anchor_Blog_hero_v32x.max-1000x1000-1.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/",
+      "publishedDateTime": "2021-05-18T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan.md",
       "title": "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan",
       "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,",
@@ -200,7 +304,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speed-up-yolov4-inference-to-twice-as-fast-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -252,7 +356,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lookout-for-vision-accelerator-proof-of-concept-poc-kit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1146,109 +1250,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-splunk-to-buy-security-intelligence-sharing-startup-trustar.md",
-      "title": "Splunk to buy security intelligence-sharing startup TruStar",
-      "excerpt": "Splunk today announced plans to acquire security software company TruStar as Splunk continues growing its cybersecurity portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
-      "publishedDateTime": "2021-05-18T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-father-and-son-duo-take-on-global-logistics-with-optimal-dynamics-sequential-decision-ai-platform.md",
-      "title": "Father and son duo take on global logistics with Optimal Dynamics’ sequential decision AI platform",
-      "excerpt": "Like “innovation,” machine learning and artificial intelligence are commonplace terms that provide very little context for what they actually signify. AI/ML spans dozens of different fields of research,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1231045075.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
-      "publishedDateTime": "2021-05-18T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

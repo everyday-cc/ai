@@ -628,6 +628,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Post Office accused of using facial recognition as part of covert surveillance program"
+    excerpt: "The Post Office is using a controversial facial recognition program as part of its recently uncovered surveillance efforts."
+    publishedDateTime: 2021-05-20T22:53:00Z
+    webUrl: "https://www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/"
+    ampWebUrl: "https://www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 31
   - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
     excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
     publishedDateTime: 2021-05-17T13:11:00Z

@@ -105,6 +105,57 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-artificial-intelligence-is-americas-achilles-heel-against-china.md",
+      "title": "Artificial Intelligence Is America’s Achilles Heel Against China",
+      "excerpt": "Unless Big Tech, universities and the Pentagon can work together, China’s government-run approach will surpass U.S. efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iicAif8HY5Z4/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-sofic-news-microsoft-socom-discuss-ethical-use-of-artificial-intelligence.md",
       "title": "SOFIC NEWS: Microsoft, SOCOM Discuss Ethical Use of Artificial Intelligence",
       "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
@@ -157,7 +208,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -721,6 +772,48 @@
       ]
     },
     {
+      "path": "_news/2021-05-20-proposed-method-for-evaluating-user-trust-in-artificial-intelligence-systems.md",
+      "title": "Proposed method for evaluating user trust in artificial intelligence systems",
+      "excerpt": "Every time you speak to a virtual assistant on your smartphone, you are talking to an artificial intelligence—an AI that can, for example, learn your taste in music and make song recommendations that improve based on your interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/nist-proposes-method-f.jpg",
+          "width": 2880,
+          "height": 2086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-method-user-artificial-intelligence.amp",
+      "publishedDateTime": "2021-05-20T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-diverse-group-of-immigrants-fund-fair-fintech-a-startup-to-provide-equitable-banking-and-finance.md",
       "title": "Diverse Group of Immigrants Fund Fair Fintech, a Startup to Provide Equitable Banking and Finance",
       "excerpt": "Fair, an ethical digital bank and multilingual financial services platform, offering banking, lending, investments and retirement announces 90% of its investors are people of color, 80% are immigrants and many are first-time investors in",
@@ -1114,101 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Artificial Intelligence (AI) Speakers Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.”  The report demonstrates detail coverage of Artificial Intelligence (AI) Speakers industry and main market trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-mythic-ai-gets-funding-to-mass-produce-edge-chips.md",
-      "title": "Mythic AI gets funding to mass-produce edge chips",
-      "excerpt": "Just six months after unveiling its first AI inferencing processor, Mythic AI has announced a new round of funding for $70 million in Series C investment to begin mass production of its chips and to develop its next generation of hardware and software products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
-      "originalUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/neural-network1-100860577-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
-      "publishedDateTime": "2021-05-19T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

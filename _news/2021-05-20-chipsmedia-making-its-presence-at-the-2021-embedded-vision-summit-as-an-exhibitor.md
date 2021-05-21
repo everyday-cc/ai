@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/49995/chips-media-2021-embedded-
 webUrl: "https://www.design-reuse.com/news/49995/chips-media-2021-embedded-vision-summit.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 3
+    quality: 20
 
 secured: "SqiA2W1AFExY6uIw/vpatMTfW+B0R68DU9LIYgoWXMZwhTcVv4qfjcIWYkYcB8hj9+AbdsAavVRGOdAA96MYvErHgvjIemCPIvxVPNsoKS7xGv2HOhgqzOn8D+vGoTnoTajgMH6Sf63MK/vpoBT7HrM0ymQi+rik7GidSJtIaZuQqv/lrxnK0lw3DbYqPOjsBFZf5NrcwkSAeC0J6qPc0mogapR/5fL7P4TWe+wvyeJ5ip3+pWDQcNHIiKqU9LaOc3XxFqlmCw6wp9j3IMjoIQcMBYefE45p7ylft9/xl3+PdDe3/LXd/ITZoQpNZUyUqza6MkF0bl9b139K5/rP+HtQ88BcendanHTedO0gvETO/0klCzEakpkHxSbhx00SsqAknenUXNqwOWkZHLjQqW5rJqw51UB9xyemoZUEw1+GJoFgt2vtR9KDV5iiWHfJWcykjbTUX41YNBIzc+U9CTmW8vszE6m3MkaFk4dYlJs27tRsYy9e/lh34Vhx+KZ41qv8h1I3d2rNKvL4P/Mu4w==;iK21SV7cYnmWQPtIUZpS+A=="
 ---

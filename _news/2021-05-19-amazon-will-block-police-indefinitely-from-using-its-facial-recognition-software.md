@@ -617,6 +617,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Post Office accused of using facial recognition as part of covert surveillance program"
+    excerpt: "The Post Office is using a controversial facial recognition program as part of its recently uncovered surveillance efforts."
+    publishedDateTime: 2021-05-20T22:53:00Z
+    webUrl: "https://www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/"
+    ampWebUrl: "https://www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 31
   - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
     excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
     publishedDateTime: 2021-05-19T12:32:00Z
@@ -645,6 +656,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "dgANZ9mULgxSZymu3zQtJ5HmB4Uw4RTo9fcr2asA+7AChOGpCjdXk3ld+F7OjG9XtxamLhx5qt3xTd/baiaYlbkaNGp2cuUMCqDS5NKF0LXeZGvb97RR6u0Y5lD2jU1/P8cgT7LyrwPEd63asTiNGRluaGkq9nRknhpLTKvSLYb1/yXh1/CgH0XZWPh38URU0/dlIPHcWylhxwVSiNOmgK9ykp6MFuuEauW48yyhVSQdhwwLe6mdmGFO5h+cxPKeC7sgv8KpD1YT8eFwlUc/rI73ATVup8s/Wj5kyPcJnBrnRKprsE0FL6Coh8+xRT8yAzai8j+T3L052T94KnfHFLCcMl2MZpLDI+RH2cSW4Uk=;jBa0+uh0nWtJ4kw7hWz+Nw=="
+secured: "W/8iKhNFr5/OQBnSopSeOu1jlXz/50u/9KpsyFmOFKeCOAWrVh5ESJFsIBeDG981ScZ1jcrd9fZQ7cCfkb92j5TwY5HIGDu5g0yh0T9lwP6T04r1Dgcr7URoU0nH+lJzTWmfTsQZYVsqmTcUqKaNwb2hu2hCqoLH+uZVsvugBcW27lwb3nTAInFbkNZzvVHzKcnB/ock+WoMEWkgEZBFPao9JIvQNw0P4VSoZJp1f9u+vvafF7xJ+qkiVXotqr13Dz1JUwAiIifFANxUt6qFoZGulnTyqxZSOkhBKdMJ1M4oKeIpOfbMXhFGCTIo+f8jDKzDrS8gL9qqmdiGO6LmZjPeDvBSgym8TwtBh+3sIEaXqmk6GMH8c59vdFyVyHiJxC0Xr9pX69lMxmIx6ikvKqYQ3ATIaQJAIE2PJxKubAf015xiIJuH/0zBHagykAiC5EmeDhLjsOtB9NL8mMn5p0RAtncCqODJl0WnWIdD4tFqjId4eiJa99EMxwvJz2/Kwb1Dxo4lQpzyWPH4AZz7wQ==;fuWEIgiOaYMDed++Ftt54A=="
 ---
 

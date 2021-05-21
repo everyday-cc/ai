@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-11-3-ways-artificial-intelligence-ai-is-disrupting-fintech.md",
+      "title": "3 Ways Artificial Intelligence (AI) is Disrupting Fintech",
+      "excerpt": "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech",
+      "originalUrl": "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
+      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
+      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-fugue-announces-iac-security-for-aws-cloudformation-in-regula.md",
       "title": "Fugue announces IaC Security for AWS CloudFormation in Regula",
       "excerpt": "Fugue, the company helping organisations innovate faster and more securely in the cloud, announced support for AWS CloudFormation in Regula, the open-source infrastructure as code (IaC) policy",
@@ -1100,93 +1186,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-3-ways-you-can-start-relying-on-deep-learning.md",
-      "title": "3 Ways You Can Start Relying on Deep Learning",
-      "excerpt": "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/370549",
-      "originalUrl": "https://www.entrepreneur.com/article/370549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/370549",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549",
-      "publishedDateTime": "2021-05-10T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-nurses-are-essential-to-ai-integration-in-healthcare.md",
-      "title": "‘Nurses Are Essential’ to AI Integration in Healthcare",
-      "excerpt": "Nurses are also crucial stakeholders as hospitals seek more uses for artificial intelligence and machine learning to deliver care.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare",
-      "originalUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202105/AI.jpg?itok=lp3X--nF",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp",
-      "publishedDateTime": "2021-05-10T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

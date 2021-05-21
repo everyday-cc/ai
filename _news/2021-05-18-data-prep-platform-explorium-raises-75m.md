@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-rais
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/"
 type: article
 quality: 91
-heat: 112
+heat: 111
 published: true
 
 provider:

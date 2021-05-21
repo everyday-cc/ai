@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-19-splunk-to-buy-security-intelligence-sharing-startup-trustar.md",
+      "title": "Splunk to buy security intelligence-sharing startup TruStar",
+      "excerpt": "Splunk today announced plans to acquire security software company TruStar as Splunk continues growing its cybersecurity portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
+      "publishedDateTime": "2021-05-18T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-father-and-son-duo-take-on-global-logistics-with-optimal-dynamics-sequential-decision-ai-platform.md",
+      "title": "Father and son duo take on global logistics with Optimal Dynamics’ sequential decision AI platform",
+      "excerpt": "Like “innovation,” machine learning and artificial intelligence are commonplace terms that provide very little context for what they actually signify. AI/ML spans dozens of different fields of research,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1231045075.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
+      "publishedDateTime": "2021-05-18T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-ibm-will-buy-salesforce-partner-waeg-to-boost-hybrid-cloud-ai-strategy.md",
       "title": "IBM will buy Salesforce partner Waeg to boost hybrid cloud, AI strategy",
       "excerpt": "IBM announced plans to buy Waeg, a consulting partner for Salesforce, to extend its hybrid cloud and artificial intelligence strategy.",
@@ -61,7 +164,7 @@
       "originalUrl": "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 558,
+      "heat": 568,
       "tags": null,
       "images": [
         {
@@ -321,7 +424,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1167,102 +1270,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-research-launches-movenet-with-tensorflowjs-api.md",
-      "title": "Google Research launches MoveNet with TensorFlow.js API",
-      "excerpt": "Google has launched its new MoveNet model with an API for TensorFlow.js to help developers create apps that can track movements. In future updates, MoveNet should be able to track multiple people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
-      "originalUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621293350_movenet-still_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ethical-ai-is-our-responsibility.md",
-      "title": "Ethical AI Is Our Responsibility",
-      "excerpt": "Similarly, so does Responsible AI. In digital, many things can lead to ethical incidents with AI but we can distill them down to four major causes. So how do we adhere to Responsible AI? A ton of resources are available on this topic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6414197398b9485ea46c91da9ff40d67.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "publishedDateTime": "2021-05-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-04-29-baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving.md",
+      "title": "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving",
+      "excerpt": "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook",
+          "width": 1385,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa.md",
+      "title": "Lacuna Fund Announces its Second Round of Funding to Projects Supporting Natural Language Processing (NLP) technologies Across Africa",
+      "excerpt": "Supported projects will produce text and speech datasets for natural language processing (NLP) technologies that will have significant downstream impacts on education, financial inclusion, healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.africa-newsroom.com/press/lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa?lang=en",
+      "originalUrl": "https://www.africa-newsroom.com/press/lacuna-fund-announces-its-second-round-of-funding-to-projects-supporting-natural-language-processing-nlp-technologies-across-africa?lang=en",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.africa-newsroom.com/uploads/socialshare.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "APO Group English",
+        "domain": "africa-newsroom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-facial-recognition-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth.md",
       "title": "Facial Recognition Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth",
       "excerpt": "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity",
@@ -1096,111 +1182,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-saas-provider-boostupai-nabs-6m-to-support-revenue-operations.md",
-      "title": "Saas provider BoostUp.ai nabs $6M to support revenue operations",
-      "excerpt": "BoostUp.ai picks up $6 million to further adoption of its revenue operations platform that unifies sales, marketing, and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/BoostUp.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
-      "publishedDateTime": "2021-04-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-the-scout-moorebot-is-a-roving-security-camera-robot-thatll-patrol-your-home.md",
-      "title": "The Scout Moorebot is a roving security camera robot that’ll patrol your home",
-      "excerpt": "The Scout is a tiny, smart A.I.-powered security drone with four wheels and a camera that automatically patrols your home and yard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/",
-      "originalUrl": "https://www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dtcn.com/image/digitaltrends/scout-1200x630-c-ar1.91.jpg",
-          "width": 680,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/?amp",
-      "publishedDateTime": "2021-04-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Security"
       ]
     }
   ],

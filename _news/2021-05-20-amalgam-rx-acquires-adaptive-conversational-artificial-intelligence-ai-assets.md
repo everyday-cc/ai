@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Amalgam Rx Acquires Adaptive, Conversational, Artificial Intelligence (AI) Assets | Morningstar"
+    excerpt: "Investment Expands Amalgam’s Ability to Deliver Empathetic and Engaging AI-Based Behavioral and Clinical Interventions Amalgam Rx, Inc., the leader in connecting healthcare providers and life sciences companies through a SaaS-enabled digital marketplace and product platform,"
+    publishedDateTime: 2021-05-20T15:08:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210520005117/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 22
+
 secured: "xAm4dgluQujCuomaI8md+shWvkawP7df/lKIZt2+LquyGL/tTi+GwM/QA5e0Q4hVwrk5/hQzoMMa+TlVYBTN5GPS71fpF0WkIcMgILdE6pFGKuuaADZ+Y3gNhPu4hL2LscFTNTJ/YvphZxIF8eM2ldfY3fzb69HaqUOtUhYVXytKLSEQ4rmXISdcO3PstQsq3TFMtd3RgCJBSny6KPbKQJ4+Rzff/sv6C92SQPuq3VoCPTyI0a6p4l4nr3j2+A3CXcT15fbY+EytQkNFUkgCbUQFAvOKxdb+PzHyCsJpN5KdmFr6b9mJ3jRiduiO37Kh2hoARu1KcMnpkgvl5xt10rZvovZ8nwz1FVOLSQVcdjc=;F+2/t5Hb48S4b+pS0nnvpg=="
 ---
 

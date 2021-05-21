@@ -625,6 +625,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 35
+  - title: "Post Office accused of using facial recognition as part of covert surveillance program"
+    excerpt: "The Post Office is using a controversial facial recognition program as part of its recently uncovered surveillance efforts."
+    publishedDateTime: 2021-05-20T22:53:00Z
+    webUrl: "https://www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/"
+    ampWebUrl: "https://www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/post-office-facial-recognition-clearview-surveillance/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 31
   - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
     excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
     publishedDateTime: 2021-05-19T12:32:00Z
