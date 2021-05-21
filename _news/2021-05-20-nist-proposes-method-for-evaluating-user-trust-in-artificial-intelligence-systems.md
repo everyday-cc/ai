@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Proposed method for evaluating user trust in artificial intelligence systems"
-    excerpt: "Every time you speak to a virtual assistant on your smartphone, you are talking to an artificial intelligence—an AI that can, for example, learn your taste in music and make song recommendations that improve based on your interactions."
-    publishedDateTime: 2021-05-20T13:23:00Z
-    webUrl: "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-method-user-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-method-user-artificial-intelligence.amp"
+  - title: "AI Weekly: NIST’s proposal to evaluate trust in AI models faces significant challenges"
+    excerpt: "NIST proposed a model for evaluating user trust in AI systems. Many challenges stand in the way of its success."
+    publishedDateTime: 2021-05-21T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/"
+    ampWebUrl: "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nist-proposes-method-f.jpg"
-        width: 2880
-        height: 2086
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all"
+        width: 1200
+        height: 554
         isCached: true
   - title: "NIST Proposes Method for Evaluating User Trust in Artificial Intelligence Systems"
     excerpt: "This is the question that a new draft publication from the National Institute of Standards and Technology (NIST) poses, with the goal of stimulating a discussion about how humans trust AI systems. The document,"

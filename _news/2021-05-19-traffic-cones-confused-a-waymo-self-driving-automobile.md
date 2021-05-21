@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "The Waymo v. Uber of Self-Driving Taxis Has Achieved Liftoff"
+    excerpt: "A patent and trade secret dispute between Wisk Aero and Archer Aviation features some of the same firms that did battle a couple of years ago over autonomous vehicles."
+    publishedDateTime: 2021-05-21T20:30:00Z
+    webUrl: "https://www.law.com/therecorder/2021/05/21/the-waymo-v-uber-of-self-driving-taxis-has-achieved-liftoff/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2021/05/Archer-Aviation-Maker-Article-202105211531.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew"
     excerpt: "Autonomous vehicle experts who reviewed the video footage of the 41-minute trip say it shows a series of gaffes by the company's self-driving technology."
     publishedDateTime: 2021-05-18T20:23:00Z

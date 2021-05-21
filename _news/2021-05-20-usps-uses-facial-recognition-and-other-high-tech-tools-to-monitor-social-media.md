@@ -182,22 +182,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Police using facial recognition amidst claims of wrongful arrests"
-    excerpt: "Police say facial recognition technology has been instrumental in helping crack some tough cases, but in the last year, there have been allegations of wrongful arrests. Anderson Cooper reports."
-    publishedDateTime: 2021-05-17T04:08:00Z
-    webUrl: "https://www.cbsnews.com/video/facial-recognition-video-60-minutes-2021-05-16/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/facial-recognition-video-60-minutes-2021-05-16/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 74
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/16/894c04db-160e-4428-a9a4-1df839cc1579/thumbnail/1200x630/dca4e40a1aa58accb3aee4407b5d3ca8/0516-60minutes-cooper-716288-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon extends ban on police using Rekognition facial recognition technology, no end in sight"
     excerpt: "The existing moratorium will continue as Congress has not tackled concerns raised by the use of the technology in criminal cases."
     publishedDateTime: 2021-05-19T03:20:00Z
@@ -346,6 +330,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/US_NEWS_NC_AIRPORT_FACIALRECOGNITION_GET.60a2d23877fa2.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 745
+        isCached: true
+  - title: "Campaigners predict U.S. federal facial recognition regulation"
+    excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
+    publishedDateTime: 2021-05-21T21:23:00Z
+    webUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "Amazon says it will continue to ban police use of facial recognition ‘until further notice"
     excerpt: "Amazon said it will continue its moratorium on police use of facial recognition, extending the one-year ban it announced last year."

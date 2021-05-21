@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Vectra Identifies Top 10 Threat Detections Across Azure AD and Office 365"
-    excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat"
-    publishedDateTime: 2021-05-19T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
+    excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,"
+    publishedDateTime: 2021-05-19T12:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365-1030446125"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "LHERxR26o60eEf3KLen3wF81zJHzpUyfSuyLWPp/zPTabs5hi+NXgn9hbOTeop5cCINsy3AzueFROJnMDo0F/y4HUD51T84+RW/G8VraogxFlHngYe0eGIhh7U0LVH7egltQShSefTAJSYKOVl5R6+eCMEs25odOXfM+xBPIRFSUL0FV1HeDJSH6moqI0qh0dhuz2uIQEhHBriuzvfJh5OZXdZOGX69I9EXy69O1k6ipg/Crwh2RmAZGJKx2bQvdYSlodSHpmYwQ0I0kc7fmXtBdseqjL6zHUbiXZW7jpLutqrVt5hkumzM6r5BuLDhnYG/E/r9tL4uzg/tApxq6BkxD3dozR5N0jTehrLcP5R/v46LfrMpGQwIX6HLHM+CAF4dqPN7Amxa+WFAv9TcbYyBSps6bgGUx8QV9QBjcyHqfUtDnyKnN909lYBtgSfy0QChn6BLMxP3knM5IvA6CJ70cxCHgSChUcdIUFoVTWAZIvXNITSK6H6Ds5VupgoAihZ/0lELmAzxPjSUMxL4TFw==;oXXRLkmelWYlCFUUO8F1MA=="
 ---

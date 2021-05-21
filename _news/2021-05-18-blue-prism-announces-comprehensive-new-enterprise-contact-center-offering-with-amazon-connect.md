@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Blue Prism Announces Comprehensive New Enterprise Contact Center Offering with Amazon Connect"
-excerpt: "Blue Prism® (AIM: PRSM) today announced the availability of Blue Prism Service Assist on Amazon Web Services (AWS) – a comprehensive,"
-publishedDateTime: 2021-05-18T12:52:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-861670475.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-861670475.html"
+excerpt: "Blue Prism has a complete library of native integrations with Amazon Textract, Amazon Rekognition, and Amazon Comprehend for out-of-the box integrations. Organizations can quickly scale cognitive ..."
+publishedDateTime: 2021-05-18T12:55:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html"
+webUrl: "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html"
 type: article
 quality: 13
 heat: 13
@@ -12,18 +12,18 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1512616/Blue_Prism_Service_Assist.jpg?p=publish&p=facebook"
+  - url: "https://mma.prnewswire.com/media/1512616/Blue_Prism_Service_Assist.jpg?p=facebook"
     width: 1200
-    height: 630
+    height: 628
     isCached: true
 
-secured: "BBZo8Z3rdnxPO2tZG4hvWNCuEBHeVHZhNCcF6/kEhMYWKrzcbWf/u2Ymbyu0pgJ/355Rg/LbcNufJ1amtwoj2R1xQixNpeDcgh8yLJP6xMoBasbLH4ln++LipKITa/JiKZq0cED2DQWoaIwQUHJWZXoCiBECG7/YNSlmH9xD0sFYp8SexmlAEbO+qNIdsrFFsfPcNII5KkoWzB5Ky1d4clVhd1fF86fuCpBtu4NbJHGpGjV+xgnhyDUUta+vni9M3cC6NoxjvUfSxL4yooaducOryNP4lZ0A5zhhOPrav/RoHBbENgWul6iITez0L4S2nA09mMPYT/um362vz4JasqOTuqFSbL+vpablOdwH29t0T9Hvfp2/xWZx/e29R6PdQY6/PjtJ+5d6/n0Ki2JZSl5dtXHkaObbQDIh6qyIsR9H5sD+vHJCfVwUPRsaUlOxjRybtXioNmeb2+h01wPBgPuINUCzw5+HxLKV7n8WxLg9ej3Ca3xWvAyEDleIyjAaRn/GB4CIVv889bACm9oUiQ==;p2tifXsV955XBuDVwTJ2xQ=="
+secured: "2maFdl29qGhpUyid1qRXbmwqbd2wlaY2AxU2VPeytej26u/4dp2Wv5IAxjWt+p4SVEWQYHyFIP4rJ63FeJY99KwjGDMCEjPbsf62cJ7Kf8wBgLuupZK263ArolNPk7dj0wYsdKLHhgjs9LYv9NOoleBwnRgKQ0UkuiSNY+bH1jUN5IgAhU0wwBIKtPgWC/VttkFlOGF9WFap8zFxyh0jiBD5brtgLu4E7HXZ4GclsYf6W6XrdVU/HzBae1LVlcHDtVTvtBhGc0eFo7p7E9ezfxom+C0up2f7rewiGN8NbNtXzaMlSipBAbvaGg+i8XhNT140tn2azjwjiFBdAKPStnXvwZgGBtizHLKaIgz4MFs=;o1RWZAXQ7HOcbioUqK2duA=="
 ---
 

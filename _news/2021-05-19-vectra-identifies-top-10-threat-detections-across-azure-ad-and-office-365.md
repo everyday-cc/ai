@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Vectra Identifies Top 10 Threat Detections Across Azure AD and Office 365"
-excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat"
-publishedDateTime: 2021-05-19T12:10:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
+excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,"
+publishedDateTime: 2021-05-19T12:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365-1030446125"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365-1030446125"
 type: article
-quality: 38
-heat: 38
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Risky Exchange operation detection tops threat list for Azure AD and Office 365"
@@ -40,6 +38,6 @@ related:
         height: 478
         isCached: true
 
-secured: "pTRfScN4RLVpWzPVjxajP6ZsyaZ5Qi8TiPb837WeYE2YT48hBeNmV8Xq9j+nKdmuoN/IsdakVuzZCenlz8S9u0l2gobkGEeHnm6AdsJImhm+AqlhT3obNvgFAWtRiaRQc+mYFVa3ZfMcGVfjZITMbZa9aGh7OkhQcllbMA++g8KVZ1xCh45IQgIzn5kOmDMgBGGZYMLIqJlB1vyCYsnSe86+VJdcsEhak3ECYOTL7mhG+pwxcV8SZKrwJS+1QP3svKR8HqpprMbD1m7whQGf185i7lHgYYKE9h/atISUv4D0q+h7l5mYsifJ47x5kLXLVHiqv2DVHWXcQq+MXA7lFot8CSBB6ZL52K/Y4LJDnM4=;CgCv/UXq200uEdSp119Tvw=="
+secured: "YNqlzZufHLnoYtgKq+jWbwbuk9ZtHCySZc8YwLD1WWBwF1DRpkeua+OarwdKoQYhtKT8qLg+QIb0+dcNkG1Yd3AGsEU45TC2pU5d2beXFrCnELbVf4mFloKzsM6iBdE/qv2aDhDmxDH+BGX/ZPFhViDxIvg5Go4HmrMT4DV0hM1m4kpxFY1b2RIKbcrmMPIaacU4QgmUuKm4hK3Ylq/1aXHbOmGVHzLZUOWSgcBVUvQjldldd2B+oVWYcMorw5CaK0mTGQp0g89ydE4KrN69yxU+7MciSG8R/SbBXPFUDY/wXvzQp0y9FO6Zmvh2VLbdqxs+kt7p9u7DIIp4cqRWPnHvy4ffnnqDD+/9eMrZcsw=;paf1dGWa5EInhQ5KzlnoyA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workfo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI in Finance is transforming the way we interact with money"
-    excerpt: "AI-based consumer technologies are making payments more convenient, easier and frictionless, and the whole experience more personalized."
-    publishedDateTime: 2021-05-17T03:41:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82698338,imgsize-250350,width-800,height-434,overlay-etcio/how-ai-in-finance-is-transforming-the-way-we-interact-with-money.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Senate Bills Aim to Grow Federal Tech-Ready Workforce—and the Government’s Transparency About its AI Use"
     excerpt: "Two new pieces of Senate legislation aim to accelerate the study, fielding and buying of artificial intelligence capabilities across some agencies and the military, ensure transparency in the government’s deployments of the evolving technology,"
     publishedDateTime: 2021-05-17T20:41:00Z

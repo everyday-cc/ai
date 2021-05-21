@@ -34,22 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
-  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-    excerpt: "What is being called the world's first brain-computer interface allows a volunteer with paralysis from the chest down to control a robotic arm from a distance with his mind and feel when its fingers grasp an object,"
-    publishedDateTime: 2021-05-20T20:23:00Z
-    webUrl: "https://www.ctvnews.ca/health/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch-1.5436841"
-    ampWebUrl: "https://beta.ctvnews.ca/national/health/2021/5/20/1_5436841.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2021/5/20/1_5436841.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: "https://beta.ctvnews.ca/national/health/2021/5/20/1_5436841/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
     excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
     publishedDateTime: 2021-05-20T22:40:00Z
@@ -77,6 +61,20 @@ related:
       - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
         width: 342
         height: 240
+        isCached: true
+  - title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
+    excerpt: "The world's first brain-computer interface allowed a volunteer with paralysis from the chest down to accomplish this very feat"
+    publishedDateTime: 2021-05-21T12:20:00Z
+    webUrl: "https://www.dhakatribune.com/world/2021/05/21/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 24
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2021/05/watermarked/367558/1621599940829brain-computer-1621599614229.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."

@@ -59,6 +59,22 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Starting a Career in Fintech: An Introduction"
+    excerpt: "Fintech, or financial technology, is a growing area in various locations around the world. The industry is becoming increasingly appealing to all kinds of professionals and students, promising exciting opportunities in everything from cryptocurrency to digital banking."
+    publishedDateTime: 2021-05-21T19:53:00Z
+    webUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/"
+    ampWebUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/05/Career-in-Fintech.jpeg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Singapore based MarTech Startup Affable.ai Raises New Round of Funding"
     excerpt: "Singapore-based Martech startup, Affable.ai has raised $2 million USD from Prime Venture Partners, Decacorn Capital & SGInnovate."
     publishedDateTime: 2021-05-19T02:38:00Z

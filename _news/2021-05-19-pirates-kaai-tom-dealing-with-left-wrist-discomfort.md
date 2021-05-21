@@ -31,6 +31,17 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 37
+  - title: "Pirates' Ka'ai Tom: Placed on injured list"
+    excerpt: "Tom (wrist) landed on the 10-day injured list Friday, Kevin Gorman of TribLive.com reports. Tom hadn't played since Tuesday due to left wrist discomfort. The move can be backdated to Wednesday, leaving him eligible to return a week from Saturday,"
+    publishedDateTime: 2021-05-21T17:35:00Z
+    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-placed-on-injured-list/"
+    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-placed-on-injured-list/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-placed-on-injured-list/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 37
 
 secured: "q7Jh0Mgpe97qaH3eHyOKZrQpT4/EpB/Z4y9FpVtowUSZQYEpXY3PO2sY+oSoFLclEkGFiKDjqjEB2Ky7yZneJ8Bgwutd6HdB2Hrf9EpXmbqMDp3j9m4y/nrP+2bOqvv8L8B3TVX6LtO0NOGA6RgW39GLaKsBx6lWbCzzp6z+OSQn1EttwWjL26jDz9gGLYdLdcc2mQtRG0aZbn1LZHCDRKvFa9GR+QOrotTTYloGeXf+H88MnNoTPW4tZI8TcYk09sF9GmKZIr7x7jtQPkpVGa0h/KAQbPJxyAEi1NAEJmjALjPuPez/OrDFwzguQR5d3CTtbXI256gMhl59KRGLQNaVqWIRWkih1VBHRK8jE1uA/b4h4yA7mG8Lnt3alpisoxT+tiILbJ0+y5ZcXdMZ+27sT8BkiUOLaA/i3U3LRng1rjmEcAByC+teYBBxQeROaXLEaHMehEWJj28ho5NCt/iTMt8xGxB/ZaJGx0bn7vxEOeIjy2XcoUZAzSoJyNvTIf0Zw6tsuNSDleSvBpLBKw==;xY3kPy/zPKjlPWn6aRfvnQ=="
 ---

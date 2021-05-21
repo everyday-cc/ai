@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-mil
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
         width: 880
+        height: 400
+        isCached: true
+  - title: "Starting a Career in Fintech: An Introduction"
+    excerpt: "Fintech, or financial technology, is a growing area in various locations around the world. The industry is becoming increasingly appealing to all kinds of professionals and students, promising exciting opportunities in everything from cryptocurrency to digital banking."
+    publishedDateTime: 2021-05-21T19:53:00Z
+    webUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/"
+    ampWebUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/05/Career-in-Fintech.jpeg"
+        width: 700
         height: 400
         isCached: true
   - title: "Singapore based MarTech Startup Affable.ai Raises New Round of Funding"

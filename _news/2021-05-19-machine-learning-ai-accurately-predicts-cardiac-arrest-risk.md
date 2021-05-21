@@ -55,20 +55,6 @@ related:
         width: 777
         height: 498
         isCached: true
-  - title: "Machine learning (AI) accurately predicts cardiac arrest risk"
-    excerpt: "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest--when the heart suddenly stops beating--using a combination of timing and weather data,"
-    publishedDateTime: 2021-05-17T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/b-ml051321.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Machine learning accurately predicts cardiac arrest risk"
     excerpt: "Model combines timing and weather data Risk highest on Sundays, Mondays, public holidays, and when temperature drops Potential for use as early"
     publishedDateTime: 2021-05-18T08:10:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-excerpt: "What is being called the world's first brain-computer interface allows a volunteer with paralysis from the chest down to control a robotic arm from a distance with his mind and feel when its fingers grasp an object,"
-publishedDateTime: 2021-05-20T20:23:00Z
-originalUrl: "https://www.ctvnews.ca/health/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch-1.5436841"
-webUrl: "https://www.ctvnews.ca/health/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch-1.5436841"
-ampWebUrl: "https://beta.ctvnews.ca/national/health/2021/5/20/1_5436841.html"
-cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2021/5/20/1_5436841.html"
+title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
+excerpt: "The world's first brain-computer interface allowed a volunteer with paralysis from the chest down to accomplish this very feat"
+publishedDateTime: 2021-05-21T12:20:00Z
+originalUrl: "https://www.dhakatribune.com/world/2021/05/21/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
+webUrl: "https://www.dhakatribune.com/world/2021/05/21/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: Dhaka Tribune
+  domain: dhakatribune.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://beta.ctvnews.ca/national/health/2021/5/20/1_5436841/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-    width: 1024
-    height: 682
+  - url: "https://media-eng.dhakatribune.com/uploads/2021/05/watermarked/367558/1621599940829brain-computer-1621599614229.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -90,6 +88,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "Zope1IpKdHkTajDsZuU1YlcqTXyYXiuQimGmrObCEacmM708/DvdQMG87fYi6GhaIMF2RHojq5PQhOOyp00eFDpbWWRGmoStvVpXJARtpdlBR2AlNnD0yIxZfvrrzSMejCLNcyWi2Q55nn0DRmxv+90TkzTu4b1UPUtpbmIn7hpWxW96ES3+9xUtfbAtVggwUWS6Mn3bA3bi4dPKPyHngh6gk6Izm9QwEkXy403CPHYR5msj4on+yvmSeKFpf7ZQKHoodSk5z9JEL8+MQ31enn1KFsUjOVfZXPH8Zk/6nMtpGFcohKF3Frm1yoG7sNNjsQKxG2z4fWNo4x85AN+04vZ8cUiZSJ/4Wbx6mnKy4y0=;M14p3BUUuPk+FNS6C5EolA=="
+secured: "dLdKmn+suj83PMe1sw4uAecbiQkTIpvmfmdxjXSphjPQy8GrwbwjCZYON7e9OxsKDYMlM84aeaPvxgPa1sGm4KXWRpkp0lWTkZerq+Ds1Ldbmtwmo5hIbvS34rnEc3/+SfHM62Ludksuhr7sFwbx4XHp2Byrw78kHScmJCvi8Z2z5lVimS0nsioRYox1g2vYWBqn02Bshaf+8FSXOvEQXIkL3YWabOilZ/VeDA5+b5Rq66gOTTxL+jxkBGPdSTo2Ctrf/cugwBvBjo+jtHjiDmO+iSxoKHIiCRqiJ5eynAT9IEPkkBwX/7TJCqA3xAebB+LOGFuxSPpOH9L2CeQtu78ppcIlw/2nEdwP5ep3PNg=;vJrCfCKGR+9L8lM48y/c/g=="
 ---
 

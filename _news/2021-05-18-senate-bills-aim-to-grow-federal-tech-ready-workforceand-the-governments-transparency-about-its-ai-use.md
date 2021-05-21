@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI in Finance is transforming the way we interact with money"
-    excerpt: "AI-based consumer technologies are making payments more convenient, easier and frictionless, and the whole experience more personalized."
-    publishedDateTime: 2021-05-17T03:41:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-ai-in-finance-is-transforming-the-way-we-interact-with-money/82698338"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82698338,imgsize-250350,width-800,height-434,overlay-etcio/how-ai-in-finance-is-transforming-the-way-we-interact-with-money.jpg"
-        width: 800
-        height: 434
-        isCached: true
 
 secured: "zt/wj2m9JQ+9TyFUtLWbDGz6cLGd8Gn/Qy5EbmnItAtAzcvwlBOxzuFxV8e5tbGLOoyvpOSXEmRbVCYAzvmUsk+unbAUXesb5vO79+tcC/+A9pcTMngVWGf1s0QXODL0U9BtkBtAhZxI1M47NOUitN/GHU6lu+WTZ02AXrMt4tHdrmeT61q1B+uUlEK75v5xStv2/G8pmDQjPAue9RAoYbWtYY+kQycztN8nCupOyLMthgjDkC3/cfH5DIReYtD6DhyQh7lcij3GIF2Lb0LkdyfiCPYnHOCYFnruVcmhaDgDj4Q7Efrbgm5DitwfL1ovhcxx9S86keU66d9CqGGBKT03eu8ImlM+gHSRLOFUbIcabyDvzRC5op3j1RTYXpY4VurWRcWgV88C/MCWLa1KQlEog6oJtd2wRe0wdzk2QI7IFj+n/C23Sd0hcrY4IQKPGiUvUWhJEperPz+tl/A4C7AuyicFxWpIrP2gFLC7K0fvSVcqzzmceP8vKfraJdWZxlkGPIeOrefhylfFspv3qw==;utk+HX+FE4Jts2Tyuk6KxQ=="
 ---
