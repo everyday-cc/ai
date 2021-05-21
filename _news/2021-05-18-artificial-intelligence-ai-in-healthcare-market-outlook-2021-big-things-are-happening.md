@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
+  - title: "Artificial Intelligence in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2028 | FMI Report with Expert Review"
+    excerpt: "Future Market Insights (FMI) adopted a multidisciplinary approach during the pandemic-era to focus on the growth and development of the Artificial Intelligence in Healthcare Market. The study features insights on the current growth dynamics and the major revenue reforms prevailing in the market"
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-21/artificial-intelligence-in-healthcare-market-trends-2021-segmentation-outlook-industry-report-to"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 21
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Healthcare Chatbot Market outlook Opportunities and Demand Analysis, Forecast 2020 to 2025"
     excerpt: "Currently, Europe accounts for the highest market share in the global healthcare chatbots market in terms of revenue. This can be attributed to the growing awareness and benefits of healthcare chatbots,"
     publishedDateTime: 2021-05-17T09:51:00Z

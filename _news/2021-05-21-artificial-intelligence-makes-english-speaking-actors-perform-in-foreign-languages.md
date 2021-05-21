@@ -8,7 +8,7 @@ webUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-makes-engli
 ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-makes-english-speaking-actors-perform-in-foreign-languages/amp/"
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-makes-english-speaking-actors-perform-in-foreign-languages/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Faivideolanguage.jpg"

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-23-enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store.md",
+      "title": "Enable feature reuse across accounts and teams using Amazon SageMaker Feature Store",
+      "excerpt": "Amazon SageMaker Feature Store is a new capability of Amazon SageMaker that helps data scientists and machine learning (ML) engineers securely store, discover, and share curated data used in training and prediction workflows. As organizations build data-driven applications using ML, they’re constantly",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/1-FeatureStore.jpg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T13:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions.md",
+      "title": "eMAM streamlines search and processing with AWS Media Intelligence solutions",
+      "excerpt": "Amazon Rekognition is a service adds powerful visual analysis. Amazon Transcribe is an AWS service converts speech-to-text. Amazon Translate is a neural machine translation service that delivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20304553",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20304553",
+      "publishedDateTime": "2021-03-23T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-announcing-aws-media-intelligence-solutions.md",
       "title": "Announcing AWS Media Intelligence Solutions",
       "excerpt": "Today, we’re pleased to announce the availability of AWS Media Intelligence (AWS MI) solutions, a combination of services that empower you to easily integrate AI into your media content workflows. AWS MI allows you to analyze your media, improve content engagement rates, reduce operational costs, and",
@@ -1142,83 +1228,6 @@
       "provider": {
         "name": "Cloud Computing",
         "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
-      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
-      "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pga-tour-teams-up-with-aws-to-improve-fan-engagement-during-tournaments.md",
-      "title": "PGA Tour teams up with AWS to improve fan engagement during tournaments",
-      "excerpt": "This content will include video, audio and images dating back to the 1928 Los Angeles Open, which will be processed using the Amazon Rekognition deep learning image recognition service so it can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments",
-      "originalUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1",
-      "publishedDateTime": "2021-03-02T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

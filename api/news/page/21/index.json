@@ -2,6 +2,264 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-04-achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.md",
+      "title": "Achieving true situational awareness in operation centres with computer vision & AI",
+      "excerpt": "This webinar dives into the growing capabilities and use cases for Computer Vision and AI in Operation Centres and beyond. Join industry innovators Userful and Security & Safety Things in this round table discussion on how Computer Vision and AI helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html?ref=fve",
+      "originalUrl": "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html?ref=fve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/virtual-events/612/computer-vision-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-baidu-launches-driverless-robotaxi-in-beijing.md",
+      "title": "Baidu Launches Driverless RoboTaxi in Beijing",
+      "excerpt": "Baidu Apollo Robotaxis move on a street at the Shougang Park in Beijing, Sunday, May 2, 2021. [Image - The Associated Press] Chinese tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
+      "originalUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.bp.blogspot.com/-VqrCUbqcAm0/YJD2g5bhYaI/AAAAAAAAFJs/kKECe_rCvtQz2MhfQSNVqrgVCN4QHPqEACLcBGAsYHQ/s16000/robotaxi_baidu.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-building-ethical-ai-is-not-easy-but-this-guide-will-help-you.md",
+      "title": "Building Ethical AI is Not Easy. But, This Guide Will Help You",
+      "excerpt": "Adopting a sound ethical AI strategy is important to shape future developments. Building ethical AI requires both an ethical way for building AI systems and a strategy for making AI systems themselves moral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "originalUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Ethical-AI.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "publishedDateTime": "2021-05-03T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-computer-vision-for-visual-effects.md",
+      "title": "Computer Vision for Visual Effects",
+      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/computer-vision-for-visual-effects/82951CDB3BDD5967D1AC39149B27CB73",
+      "originalUrl": "https://www.cambridge.org/core/books/computer-vision-for-visual-effects/82951CDB3BDD5967D1AC39149B27CB73",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97805217/66876/large_cover/9780521766876i.jpg",
+          "width": 445,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-path-robotics-bags-usd-56m-funding-from-addition.md",
+      "title": "Path Robotics bags USD 56M funding from Addition",
+      "excerpt": "Path Robotics has recently announced to have raised funding worth USD 56 million in its latest Series B financing round led by Addition.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/",
+      "originalUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/05/Path_Robotics_logo_Logo-scaled.jpg",
+          "width": 2560,
+          "height": 1341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/",
+      "cdnAmpWebUrl": "https://techstory-in.cdn.ampproject.org/c/s/techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/",
+      "publishedDateTime": "2021-05-03T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales.md",
+      "title": "Intel Shows Us a Way to Use Artificial Intelligence to Boost Sales",
+      "excerpt": "The post-Covid world has seen a major surge in digitalization of businesses as well as use of AI. This has created greater demand for upgradation and automation of the sales sphere. Intel’s effort at embracing automation of the sales process is something to watch out for at this juncture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/",
+      "originalUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-1.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp",
+      "publishedDateTime": "2021-05-03T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-undercooked-fast-food-burgers-are-toast-with-robot-ai.md",
       "title": "Undercooked fast food burgers are toast with robot AI",
       "excerpt": "The company that invented the robotic fry cook has a new standalone AI for fast food restaurants. Here's why it's a smart play.",
@@ -849,310 +1107,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
-      "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
-      "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c16ccf518acfd55532183%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "publishedDateTime": "2021-05-03T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "3 Big Myths Of AI And Machine Learning Debunked",
-      "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
-      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
-      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
-      "title": "IBM to acquire Turbonomic for AIOps",
-      "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
-      "originalUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
-      "publishedDateTime": "2021-05-03T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers.md",
-      "title": "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers",
-      "excerpt": "Organizations have realized the need for augmenting their human employees with AI to manage manual tasks, given the complexities of a post-Covid world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
-      "originalUrl": "https://www.infoworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025.md",
-      "title": "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025",
-      "excerpt": "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

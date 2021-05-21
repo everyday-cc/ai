@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-micro
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://advanced-television.com/wp-content/uploads/2021/05/LaLigaMicrosoft.jpeg"
         width: 740
         height: 415
+        isCached: true
+  - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
+    excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
+    publishedDateTime: 2021-05-21T09:34:00Z
+    webUrl: "https://fcbusiness.co.uk/news/laliga-teams-up-with-microsoft-for-digital-transformation/"
+    type: article
+    provider:
+      name: fcbusiness.co.uk
+      domain: fcbusiness.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
+        width: 300
+        height: 243
         isCached: true
   - title: "La Liga and Microsoft ink new technology-led partnership"
     excerpt: "Spain's football league (La Liga) and Microsoft have enhanced a partnership that began in 2016 by signing a new agreement to boost revenues for clubs and launched a new commercial offering featuring the latest sports technology."

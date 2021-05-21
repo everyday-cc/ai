@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg"

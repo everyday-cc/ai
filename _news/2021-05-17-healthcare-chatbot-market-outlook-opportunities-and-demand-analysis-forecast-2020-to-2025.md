@@ -71,6 +71,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
+  - title: "Artificial Intelligence in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2028 | FMI Report with Expert Review"
+    excerpt: "Future Market Insights (FMI) adopted a multidisciplinary approach during the pandemic-era to focus on the growth and development of the Artificial Intelligence in Healthcare Market. The study features insights on the current growth dynamics and the major revenue reforms prevailing in the market"
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-21/artificial-intelligence-in-healthcare-market-trends-2021-segmentation-outlook-industry-report-to"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 21
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "MLDu8xb3QVOcD6S4YQ4XM/pj/7nR+gGxNqjudxiyACtjOQQ6U1DigFGl1wZk20ylY81e1+4vNOyVZk/eHdw3pwkp9RKdmAT5AQ/gUHwb5Owh7Vbwuv/HGxe3nCxXqr3suuLJfTaT/TRqV2rYxTCuipPLMhRGux/siGL7CHGdW+xPfK8kD3+NE4WtOrhJ2xnyfR6AjdXt7zt2+WRA3+VRaBV4/C2hH0CJRiAX0O3tqVmgcZps+aGm/uPdoYt7iNRXd1p3cq9X0S1mTxPLyyfc6V+/DNwWZPbd0fD3shgatB7NkV2WGXlIQnjXWrhoaVuYNsqCEUknWJawI6yShwoUUELJSbC1H4fbscuFuSBnbPTAoL9O2OyWxqVFLyFNGXq+hQGfz5K9vE3jRGiczEe8Q+z7lTrxJF/c654DL3/sIDcXLKaXadYCeZA3Vm25zN4rNeCJ5yL14LgGWPhlh2lOZp8JOHMtR+36bFJLNSvP6htxgyRfHqdWfeMLA5gm1fGakLe4FNuyE0uBSQCH38Mnwg==;h/axao7z+ae3CITSWJrp4A=="
 ---

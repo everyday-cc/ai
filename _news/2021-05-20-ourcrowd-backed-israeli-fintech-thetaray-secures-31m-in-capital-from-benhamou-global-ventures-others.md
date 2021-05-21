@@ -37,7 +37,7 @@ related:
     provider:
       name: Geektime
       domain: geektime.com
-    quality: 37
+    quality: 39
 
 secured: "s5vsbi2UUst/LqGHCYTR/j114ZirJPEnZq1tAXRwS26h+h1xEYIShgSu/HebZ1gYywZ9FrvTeN7p9qKIaZ+3Bj0dxJFk23g3p5zOLC9f6A315GjaKhn2m6LfDPrVyHCHl+1TPqSfxM5ofU7a/uidsnbbLyQSHwtymm+/ll8hOrpMlKtKe/JetAGvMAhDMh/kVN+ltBkip1B/91owQ1hHCPo08XISEVZX9P8rIBY5EEOUiBPnR7zx89yu9Se8ED6jGvT7kRCHLnyagwGec+GU7MqMeLrf90urqjNzNnN/RIPblQpH0BSmyD2mLU5HdVrQhjKD/8Am4YHaBXgVGerWlnu2UVw8PkPudBqPt0FBTayXKdqR/9xcFrENRVQQdE5tIaXN5Hlp2/pb7CJ8gCOCzLOO68fjHGnAvke1h8oCXUpACE+0cKPpZeL1CZTK6MKjLSquRHsGRyaqpwUCYHvwqIuenNhqVqIY5+zTlcGGROkO3noBBfLzwkqWszMBPGqYQq2K8ErEfxlXm1+LRRe/KQ==;0eMxlAXEC2tGR4LikASXzA=="
 ---

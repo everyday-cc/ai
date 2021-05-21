@@ -8,8 +8,8 @@ webUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight
 ampWebUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "OurCrowd backed Israeli Fintech ThetaRay Secures $31M in Capital from Benhamou Global Ventures, Others"

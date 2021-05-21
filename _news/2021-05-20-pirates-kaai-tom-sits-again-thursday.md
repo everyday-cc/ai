@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Ka'ai Tom starting in left field Sunday for Pirates"
-    excerpt: "The Pittsburgh Pirates will start Ka'ai Tom in left field for Sunday's game against the San Francisco Giants."
-    publishedDateTime: 2021-05-16T15:36:00Z
-    webUrl: "https://www.numberfire.com/mlb/player-news/169298/ka-ai-tom-starting-in-left-field-sunday-for-pirates"
-    ampWebUrl: "https://www.numberfire.com/mlb/player-news/169298/ka-ai-tom-starting-in-left-field-sunday-for-pirates/amp"
-    cdnAmpWebUrl: "https://www-numberfire-com.cdn.ampproject.org/c/s/www.numberfire.com/mlb/player-news/169298/ka-ai-tom-starting-in-left-field-sunday-for-pirates/amp"
-    type: article
-    provider:
-      name: numberFire
-      domain: numberfire.com
-    quality: 37
   - title: "Pirates' Ka'ai Tom: Dealing with left wrist discomfort"
     excerpt: "Tom is out of Wednesday's lineup against the Cardinals due to left wrist discomfort, Kevin Gorman of TribLive.com reports. Tom apparently suffered his wrist injury Tuesday, and Ben Gamel will take his place in left field Wednesday."
     publishedDateTime: 2021-05-19T16:59:00Z

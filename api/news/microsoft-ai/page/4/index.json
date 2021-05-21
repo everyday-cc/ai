@@ -2,6 +2,74 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-19-billcom-announces-integrations-with-microsoft-dynamics-365.md",
+      "title": "Bill.com Announces Integrations with Microsoft Dynamics 365",
+      "excerpt": "“We are thrilled to bring our Microsoft Dynamics 365 relationship to market to power payments processes for small and midsize businesses, helping them build efficient payment workflows, simplify ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bill.com/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210419005209/en/Bill.com-Announces-Integrations-with-Microsoft-Dynamics-365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-does-exercise-protect-cognitive-health-you-might-not-like-the-answer.md",
+      "title": "Does exercise protect cognitive health? You might not like the answer",
+      "excerpt": "The growing realization that exercise doesn’t really help with weight loss can dampen the motivation to be active in many people — one reason why I advocate for decoupling exercise from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
+      "originalUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
+      "publishedDateTime": "2021-04-19T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us.md",
       "title": "Cognitive Collaboration Market is Anticipated to Witness Massive Demand By 2027 | Cisco (US), Microsoft (US), Slack Technologies (US)",
       "excerpt": "The Global Cognitive Collaboration Market is expected to witness a CAGR of xx% over the forecast period 2021-2027 and is expected to reach US$ xx million in 2027, from US$ xx million in 2021. The assessment provides a 360° view and insights,",
@@ -1256,93 +1324,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-latest-release-of-the-indico-ipa-platform-delivers-unmatched-scalability-performance-for.md",
-      "title": "Latest Release of the Indico IPA Platform Delivers Unmatched Scalability & Performance for ...",
-      "excerpt": "Indico, a provider of intelligent process automation for the intake, understanding, and automation of document-based workflows, today announced significant enhancements to its award-winning Indico IPA software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion.md",
-      "title": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion",
-      "excerpt": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "publishedDateTime": "2021-04-12T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

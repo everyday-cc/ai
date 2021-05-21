@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2021/05/175597-bosch-ocean-protocol-re
 ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175597-bosch-ocean-protocol-represented-by-bigchaindb-fetch-ai-join-catena-x-to-bring-expertise-in-market-mechanism-token-based-incentive-design/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175597-bosch-ocean-protocol-represented-by-bigchaindb-fetch-ai-join-catena-x-to-bring-expertise-in-market-mechanism-token-based-incentive-design/amp/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Jaguar-Car-Auto-Red-Fast-300x225.jpg"

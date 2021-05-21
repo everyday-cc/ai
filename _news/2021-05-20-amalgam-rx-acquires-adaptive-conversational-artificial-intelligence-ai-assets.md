@@ -3,26 +3,20 @@ category: news
 title: "Amalgam Rx Acquires Adaptive, Conversational, Artificial Intelligence (AI) Assets"
 excerpt: "With this transaction, Amalgam acquires Geetha’s turnkey psychosocial engine (personality, moods, motivators, etc.) in 40 languages, algorithms to collect contextual data via chat, AI-based chat model and platform to create low-no code virtual personalized agents,"
 publishedDateTime: 2021-05-20T15:08:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets/article_1b7e0efc-3224-58a3-8ec5-faa17a72dd6c.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets/article_1b7e0efc-3224-58a3-8ec5-faa17a72dd6c.html"
+originalUrl: "https://www.financialbuzz.com/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets/"
+webUrl: "https://www.financialbuzz.com/amalgam-rx-acquires-adaptive-conversational-artificial-intelligence-ai-assets/"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/d4/4d449dfe-ce8c-5fe9-929b-1f8128957f12/60a67d28d6faf.image.jpg?resize=1200%2C627"
-    width: 1200
-    height: 627
-    isCached: true
+  - AI
 
 related:
   - title: "Amalgam Rx Acquires Adaptive, Conversational, Artificial Intelligence (AI) Assets | Morningstar"
@@ -35,6 +29,6 @@ related:
       domain: morningstar.com
     quality: 22
 
-secured: "xAm4dgluQujCuomaI8md+shWvkawP7df/lKIZt2+LquyGL/tTi+GwM/QA5e0Q4hVwrk5/hQzoMMa+TlVYBTN5GPS71fpF0WkIcMgILdE6pFGKuuaADZ+Y3gNhPu4hL2LscFTNTJ/YvphZxIF8eM2ldfY3fzb69HaqUOtUhYVXytKLSEQ4rmXISdcO3PstQsq3TFMtd3RgCJBSny6KPbKQJ4+Rzff/sv6C92SQPuq3VoCPTyI0a6p4l4nr3j2+A3CXcT15fbY+EytQkNFUkgCbUQFAvOKxdb+PzHyCsJpN5KdmFr6b9mJ3jRiduiO37Kh2hoARu1KcMnpkgvl5xt10rZvovZ8nwz1FVOLSQVcdjc=;F+2/t5Hb48S4b+pS0nnvpg=="
+secured: "tc0A8hE4dWCdrtDMmGerRgvzyVu6SNQmqvsTqJ27KDDgmuze/uU0T1y2w4u8MXiwHFzjkwfZ4r2AfaleQgwEuM4thOkZNS1nxr8QPChkyfxRm/bNVBW/JcL6lhqUoOtsCZ7L6Mf740cEUfFdiOsSZOxgFXxQJNqtikIORgu0b5E5zVf5w8Fb/YV2QHAY0si25/lsxGJs4R39mBU3u1moclMXgZsMXfCJN6veP/hErkhltbs1m16ESPsBB0EbzGVpd2qyurVblfPrQv3SKQckZRIYfLUEoTHAxurEBg1qC+FjWX/aYy5TtGasAQ8LZtTj/YD+bLPcU5dqpe/iM3YUMiZQPlp2oAacF/+z4947P6t58QVWINuxRcO6FS39nkyAbTT7kFAVC8GrkGCumPMkgpjuk0YCtN7JDDKg5XFgdbeCwthXqPwQpEDHUe3YPdpqJtebtz+l4815uC9FpRG+0xIWE0Vr6yGIbdK+j4VpgeTEeVzn9eClUJyiR8sqxs5cusT2AuJY47zyOqDOV7EDww==;7UiCizCZ+l8JwpsYAz+xjg=="
 ---
 

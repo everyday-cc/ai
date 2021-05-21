@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-20T23:24:00Z
 originalUrl: "https://siliconangle.com/2021/05/20/fiddler-labs-aims-remove-artificial-intelligence-bias-inequities-explainability-ai-awsshowcase2q21/"
 webUrl: "https://siliconangle.com/2021/05/20/fiddler-labs-aims-remove-artificial-intelligence-bias-inequities-explainability-ai-awsshowcase2q21/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Krishna-Gade-CC-AWS-Startup-Showcase-2021.jpg"

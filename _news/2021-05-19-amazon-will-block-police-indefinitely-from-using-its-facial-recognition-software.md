@@ -2,24 +2,24 @@
 category: news
 title: "Amazon will block police indefinitely from using its facial-recognition software"
 excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-publishedDateTime: 2021-05-18T23:56:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
-webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+publishedDateTime: 2021-05-18T23:55:00Z
+originalUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+  - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
     width: 500
     height: 333
     isCached: true
@@ -670,6 +670,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "2sGb5UnUaYKnnXETuJ/QQxFQoa85DNFPinsHhKPvuGs09blToSbxYBSvmS9ROsvWNogiONXRK2ClFCo1SJGSiO+JcQGsa4PK7MlXIYoELZB8VPeqyhvJPbsXZuRM2FH1U2vfqO8iVOtxYSP1lyZaDhB52ekyFq3hHBi5PNto2xxXt4Di1fZpN1iYwfHrP7kfGucGvew/EXgSuKw1SucF9n8j9YA+f0w3rRpVle04dmRgweulbobpg3KyX3QVRg8ZK1SQLnx+vs0XlMF9KXzRojvyyqdvVxJeRXvSbTFaR4bBNIvlVbNgHIodKqhzWecKGfMLjPr/klR8SlUvuo4loFuu+8/ErT8zh0bDbjNxLQE=;YFrjFxorSQLzcoamlRxHCA=="
+secured: "FM4cxPktHq8bkNDUXb70+LTjcyERQIQKwxYWmcgoDu/cOijhegbcC9rWJXqE2tO82lTsUcjfXWeQmpVNGhG3VV9P+loEUpiBMY9GpLbeJtmvhhi0d8Pz+TtY7RkReNH/eemXuxssWuMvVqemLUv71UkxRZ9KsulE/koc5+VNyCyRFTBGEvTjXI4eDCdNay45zoTf5cSviHXnQD6bnGW11cDDzV2AFsSQi3g+5RmFaBvrB78/K/q4tGzJ9sbzELm5JiXC4rjNYIU5KGttWUaTrD/ORll2NtBFpIsO1KGB4IQK3SUZZQMvwSXg7D7eVINvO9vl5xYvxdltS2jdxWDuTn8KdM3fNOQabAl8Im1KDk8=;4Uy5D6vGZVvYWRaHFdjX+A=="
 ---
 

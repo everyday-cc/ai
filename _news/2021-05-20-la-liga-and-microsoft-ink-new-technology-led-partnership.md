@@ -60,6 +60,20 @@ related:
         width: 740
         height: 415
         isCached: true
+  - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
+    excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
+    publishedDateTime: 2021-05-21T09:34:00Z
+    webUrl: "https://fcbusiness.co.uk/news/laliga-teams-up-with-microsoft-for-digital-transformation/"
+    type: article
+    provider:
+      name: fcbusiness.co.uk
+      domain: fcbusiness.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
+        width: 300
+        height: 243
+        isCached: true
 
 secured: "VZWA7NWGrwO6vEplb6mBEY3+DfdYyZ+JUUvQ6XNzM4ETVjh2GybkXz3xuRPafZ0tV0MLdmY3ytOJ2yiadALENhyWpbnUs3Tte7GUuYBSVi7qfE2BCCfrPBt2CZlAQl5PehvT0pT7jRwfnqCMQQts6JWV+SkgKk02I7z1RFB8QGnFm5r3AcJL7CAX2536YfaFN/EH6Q9EgFA1NtYhrYPMXmJ1+y0zRZ0IaMleSeqVhw8C1j5Hth9j5ViJBqD/t+ySgacn94Y0W6VE5ahZDybqIMJRBL1OdB+Hs7dEAbyKOOGvZ5a8pglehAgkY8JhEfhuz5ykWIYsX86fd53O+t8YW7T00/4JSTeFs2QOgmjNSWA=;v3BqDZpYa/69pKVE09MMag=="
 ---

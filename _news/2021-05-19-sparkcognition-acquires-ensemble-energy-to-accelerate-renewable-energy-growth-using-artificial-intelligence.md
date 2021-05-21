@@ -650,15 +650,15 @@ related:
     quality: 26
   - title: "Amazon will block police indefinitely from using its facial-recognition software"
     excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
-    publishedDateTime: 2021-05-18T23:56:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KVIA
+      domain: kvia.com
     quality: 19
     images:
-      - url: "https://ktvz.b-cdn.net/2021/05/PGHkYA1W-hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
         width: 500
         height: 333
         isCached: true

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-10-trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars.md",
+      "title": "Trillions Of Cicada Aiming To Bugout The Northeastern USA And Spur Swarmageddon Messiness For AI Self-Driving Cars",
+      "excerpt": "After a 17 years long wait, the cicada of Brood X are about to emerge, in the trillions, bringing a buggy mess and swarms, which has ramifications for human drivers and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093384b8a78a6d19cdd77be%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-10T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-sleeker-ponyai-self-driving-suv-hints-at-more-road-ready-autonomous-cars.md",
       "title": "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars",
       "excerpt": "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned",
@@ -214,6 +266,58 @@
         "name": "Caixin Global",
         "domain": "caixinglobal.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-the-startup-born-from-googles-self-driving-car-project-plans-to-automate-semis-meet-the-leaders-behind-it.md",
+      "title": "The startup born from Google's self-driving car project plans to automate semis. Meet the leaders behind it.",
+      "excerpt": "Insider talked to three of Waymo Via's top leaders about the company. Trucking is an $800 billion business in the US, so the opportunity is huge.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/5f17ab202618b9121c5778d3?format=jpeg",
+          "width": 790,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1183,6 +1287,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
+      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
+      "excerpt": "Each day, nearly 3,700 people die in car accidents around the world; that makes driving the leading cause of death for children and young adults between the ages of 5 and 29 years old, according to the Centers for Disease Control and Prevention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624470%2Fnvidia-orin.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/2-top-self-driving-car-stocks-to-buy-in-2021/",
+      "publishedDateTime": "2021-05-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-impact-of-autonomous-vehicles-on-businesses.md",
       "title": "Impact of Autonomous Vehicles on Businesses",
       "excerpt": "And let’s face it, like any other tech, with autonomous vehicles too, an innumerable businesses are expected to take a hit worldwide",
@@ -1212,40 +1368,6 @@
       "provider": {
         "name": "finsmes.com",
         "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1290,92 +1412,6 @@
         "name": "AutoIndustriya.com",
         "domain": "autoindustriya.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/",
-      "originalUrl": "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1",
-      "publishedDateTime": "2021-05-04T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
-      "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
-      "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "publishedDateTime": "2021-05-04T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

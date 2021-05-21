@@ -2,6 +2,273 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-04-01-driverless-vehicle-developer-horiba-mira-welcomes-mods-66bn-military-tech-pledge.md",
+      "title": "Driverless vehicle developer Horiba MIRA welcomes MoD's £6.6bn military tech pledge",
+      "excerpt": "Horiba MIRA leads the world in developing next generation of driverless and intelligent civilian and military vehicles",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658",
+      "originalUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.business-live.co.uk/incoming/article17958124.ece/ALTERNATES/s615/0_HORIBA-MIRA-VIKING-ALMRS-SPTA-2jpg-VIKIN.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658.amp",
+      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658.amp",
+      "publishedDateTime": "2021-03-31T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-live",
+        "domain": "business-live.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad.md",
+      "title": "AI-translated Nikkei content now available in English at home and abroad",
+      "excerpt": "The translation system featuring Nikkei’s unique AI technology lets users across the world quickly access a broad range of Nikkei content in English. This is the first time translated Nikkei content has been made available on any English-language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43584091/ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad",
+      "originalUrl": "https://www.wboc.com/story/43584091/ai-translated-nikkei-content-now-available-in-english-at-home-and-abroad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20554093_G.jpg?lastEditedDate=1617224910000",
+          "width": 900,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-156-valuates-reports.md",
+      "title": "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports",
+      "excerpt": "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
+          "width": 920,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe.md",
+      "title": "TCS named as Leader in 2021 Gartner Magic Quadrant for managed workplace services, Europe",
+      "excerpt": "Tata Consultancy Services has been named a Leader in the Gartner Magic ... immersive and collaborative,” said Ashok Pai, Global Head, Cognitive Business Operations, TCS. “We believe being positioned as a Leader in this report is a testament to our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2015-07/10/full/1436503039-9216.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "publishedDateTime": "2021-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
+      "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
+      "excerpt": "The company argues its use of natural language understanding machine learning is broadly applicable to many corporate functions that have a support component such as HR and legal affairs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "originalUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/31/04c51f4c-e000-4fbb-962e-8c2560699c68/moveworks-group-19-10-20-1127-1.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "publishedDateTime": "2021-03-31T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-the-cpsc-digs-in-on-artificial-intelligence.md",
+      "title": "The CPSC Digs In on Artificial Intelligence",
+      "excerpt": "American households are increasingly connected internally through the use of artificially intelligent appliances.1 But who regulates the safety of those dishwashers, microwaves, refrigerators, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
+      "publishedDateTime": "2021-03-31T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-jdcom-sells-off-cloud-ai-units-to-its-fintech-arm.md",
       "title": "JD.com Sells Off Cloud, AI Units To Its FinTech Arm",
       "excerpt": "Chinese eCommerce giant JD.com said on Wednesday (March 31) that it had officially sold its JD Cloud and artificial intelligence (AI) business to its FinTech unit for a combined valuation of $2.4 billion, Reuters reported. The FinTech unit will issue ...",
@@ -854,257 +1121,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-legal-software-focus-on-machine-learning-market-size-share-trends-analysis-report-2021-2025.md",
-      "title": "Legal Software (Focus On Machine Learning) Market Size, Share Trends Analysis Report 2021-2025",
-      "excerpt": "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global legal software focus on machine learning market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "originalUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "publishedDateTime": "2021-03-30T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
-      "title": "DALL-E: OpenAI's new neural network wonder",
-      "excerpt": "The future of AI is shining bright. AI expert Sahar Mor takes through the experience of OpenAI's new neural network technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
-          "width": 1134,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "publishedDateTime": "2021-03-30T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-aws-adds-explainability-to-sagemaker.md",
-      "title": "AWS Adds Explainability to SageMaker",
-      "excerpt": "Amazon Web Services is adding an AI explainability reporting feature to its SageMaker machine learning model builder aimed at improving model accuracy. SageMaker Autopilot now generates a model explainability report via SageMaker Clarify, the Amazon tool ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/31/aws-adds-explainability-to-sagemaker/",
-      "originalUrl": "https://www.datanami.com/2021/03/31/aws-adds-explainability-to-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/ML-models_shutterstock_OlegVyshnevskyy.jpg",
-          "width": 2000,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-driverless-scooters-could-boost-healthcare.md",
-      "title": "How Driverless Scooters Could Boost Healthcare",
-      "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore, and the Singapore-MIT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
-      "originalUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
-      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
-      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-translation-services-for-documents-supporting-deal-making-steadily-rising-as-capital-markets-grow.md",
-      "title": "Translation services for documents supporting deal making steadily rising as capital markets grow",
-      "excerpt": "... access to lawyers experienced in translation who can sign off on a translation being an exact rendering of the original in the other language. MT>Version also provides four levels AI translation and human review, based on clients’ needs, says Ivanovitch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianlawyermag.com/practice-areas/corporate-commercial/translation-services-for-documents-supporting-deal-making-steadily-rising-as-capital-markets-grow/354478",
-      "originalUrl": "https://www.canadianlawyermag.com/practice-areas/corporate-commercial/translation-services-for-documents-supporting-deal-making-steadily-rising-as-capital-markets-grow/354478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-res.keymedia.com/cms/images/ca/120/0348_637527573045308882.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Lawyer Magazine",
-        "domain": "canadianlawyermag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

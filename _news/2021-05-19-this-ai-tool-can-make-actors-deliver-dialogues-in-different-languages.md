@@ -37,7 +37,7 @@ related:
     provider:
       name: UNILAD
       domain: unilad.co.uk
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Faivideolanguage.jpg"
         width: 1200

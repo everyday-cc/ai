@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
+      "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
+      "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
+      "publishedDateTime": "2021-05-04T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-creating-an-end-to-end-application-for-orchestrating-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions.md",
+      "title": "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions",
+      "excerpt": "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg",
+          "width": 800,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast.md",
       "title": "Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast",
       "excerpt": "Amazon Forecast just launched the ability to hierarchically delete resources at a parent level without having to locate the child resources. You can stay focused on building value-adding forecasting systems and not worry about trying to manage individual resources that are created in your workflow. Forecast",
@@ -1341,101 +1447,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-21T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-tigergraph-and-google-cloud-make-it-a-threesome.md",
-      "title": "TigerGraph and Google Cloud make it a threesome",
-      "excerpt": "At the other end of the scale, existing support for Spark, Amazon SageMaker, and developer aids like PyTigerGraph (a Python package that connects to TigerGraph), will allow data scientists to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tigergraph-and-google-cloud-make-it-a-threesome/",
-      "originalUrl": "https://www.zdnet.com/article/tigergraph-and-google-cloud-make-it-a-threesome/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-and-google-cloud-make-it-a-threesome/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-and-google-cloud-make-it-a-threesome/",
-      "publishedDateTime": "2021-04-21T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation.md",
-      "title": "DISH and AWS Form Strategic Collaboration to Reinvent 5G Connectivity and Innovation",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
