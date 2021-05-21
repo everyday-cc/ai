@@ -80,6 +80,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 36
+  - title: "Altair Future.AI Global Event to Demonstrate How Artificial Intelligence and Analytics Accelerate Digital Transformation"
+    excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and"
+    publishedDateTime: 2021-05-21T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation-301296684.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1421069/Altair_Logo.jpg?p=facebook"
+        width: 2196
+        height: 1150
+        isCached: true
   - title: "AEG Sports Uses Advanced Analytics to Adapt to Fan Needs During COVID-19"
     excerpt: "Using SAS Viya, the AEG Sports' analytics team created models to gauge fan perspectives toward such things as returning to in-person games. By continuously analyzing fan sentiment during the pandemic,"
     publishedDateTime: 2021-05-20T08:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
+    publishedDateTime: 2021-05-20T19:18:00Z
+    webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "New Creation Could Give Robots Human-Like Sense of Touch"
     excerpt: "Robots and machines are getting smarter with the advancement of artificial intelligence, but they still lack the ability to touch and feel their subtle and complex surroundings like human beings. Now,"
     publishedDateTime: 2021-05-17T12:09:00Z
@@ -79,20 +95,17 @@ related:
         width: 342
         height: 240
         isCached: true
-  - title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science on Thursday about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-    publishedDateTime: 2021-05-20T18:35:00Z
-    webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+  - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+    publishedDateTime: 2021-05-21T10:01:00Z
+    webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
+    ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+      name: WION
+      domain: wionews.com
+    quality: 20
 
 secured: "4A87giWFgpOia0nlf4Lf/UfZ0w36LM54QNgpUzFMXttRuGwEcqq7pAIRNiXnWtA398/bV/RUU5j8Ye8LZ0RZwTqaWm+EMfBH9LkRwg169TCByAgar5hIAixVSmZgFzHQlon2PnvXuWODU4RpVVCM15CvEflW4jgQFNaKpUuA4YQnWzmOObWvGtmbWxb/scfEDsy8jcsofXL4AZ6OEcZ2HiEAloQPbkWo+THL5nH9f3jykqHnuAA8yum2XM8nM7pkmVfBJTkvYVFluKpRXP870pVzUepy0P2cfwIP6vV0Rs1NDUZUcXqGGwDyS2i9qgiK0g0F8LKUzr5rGxqJzdCno25ZQjBUdZdoFPrRcf2ANr4=;uS1DNBYmEJj10Suv65VPCA=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1360
         height: 906
         isCached: true
-  - title: "How Artificial Intelligence Is Transforming the Telecom Industry"
-    excerpt: "Artificial Intelligence (AI) is conquering every sector, providing new dimensions across all industries and accelerating digital transformation."
-    publishedDateTime: 2021-05-19T12:46:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/19790-how-artificial-intelligence-is-transforming-the-telecom-industry"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/5ed6903e1e95da1880f8be8a656cd3b0.jpg?t=20210519_123505"
-        width: 1126
-        height: 550
-        isCached: true
 
 secured: "2MsqbSNhnGcIA0w6UibrDnaLGbP50o7XTBu21jnSqM4VQojWasgVVaCvu9G0dTcz07GslxqdwGiKUEczFZ2qg1ZLJdCn537t4h0oQfIm8xWKytjDjvItnfzEqo2FemMX4K/wVk6gZRIApFG4CTrILcYVHrsccJ//TUJ1uyJG3ZTA1rb6oU9Fniwdyig6kmdE+OdRtGmxV3+lCPTYHZXjBfPBFIrqgKwFp0kd1LEDOfDuEB1m5E+8HtOWgYewtq1Fy+5247TBMiHONvhD6HaqgsZbAZsz2UVpZvkTac6CEUwCxIitf2Q9IblYY3D9QceOTT2gnoZ6ZwpX51X5IklbAPf43XvJceCfIvjYexA0Gsw=;aE0GU6vCQQxBsZQytCDqGg=="
 ---

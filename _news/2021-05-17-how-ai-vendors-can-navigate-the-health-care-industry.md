@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-c
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.biggerpockets.com/blog/wp-content/uploads/2021/05/AI-real-estate.png"
         width: 1360
         height: 906
-        isCached: true
-  - title: "How Artificial Intelligence Is Transforming the Telecom Industry"
-    excerpt: "Artificial Intelligence (AI) is conquering every sector, providing new dimensions across all industries and accelerating digital transformation."
-    publishedDateTime: 2021-05-19T12:46:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/19790-how-artificial-intelligence-is-transforming-the-telecom-industry"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/5ed6903e1e95da1880f8be8a656cd3b0.jpg?t=20210519_123505"
-        width: 1126
-        height: 550
         isCached: true
 
 secured: "jBQUmfO03yOM/4Me74wJa50eDHDuBFyepEWfTdCD5TuNWXBA+/LX6PlvTA8xwbmnMh7xZDlIzhL2l0BW7y3gFuPe+kjd2NWtIlVerUWX3VNfPK76907+rbQRcdnAWS1i+bKWOibEzNvc6aUWaN22KYT7/w0FC2j9Szi5IfKkI+Nj8wXUU853WEwMkhHmky4t5dvCgvdQ7pCPnQ9pKUl+XhvFtqF9Tz+mK0bODgaio9A4CHPz3ipcMfUEzgKobXo3Jod5FG+FXuiuviQzqFtqnmDFtM34mVOHUk4w4HWKSH8CdgkjO1YCcGVlao1mJc7aCgTfMJI2aIiyhMdIafIuyHw3s8/oZln9ETVVh6QBiVI=;9L8QU3+RWkwzq7hJGBhx9A=="

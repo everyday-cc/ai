@@ -274,6 +274,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Speech recognition comes to prompting"
+    excerpt: "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,"
+    publishedDateTime: 2021-05-21T11:36:00Z
+    webUrl: "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting"
+    ampWebUrl: "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
+  - title: "We could see federal regulation on face recognition as early as next week"
+    excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
+    publishedDateTime: 2021-05-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Amazon extends ban on police use of its facial recognition technology indefinitely"
     excerpt: "The tech giant said in June its freeze would last a year to \"give Congress enough time to implement appropriate rules.\" No federal laws have been passed since."
     publishedDateTime: 2021-05-18T20:13:00Z

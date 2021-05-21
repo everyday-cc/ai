@@ -1,25 +1,27 @@
 ---
 category: news
-title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science on Thursday about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-publishedDateTime: 2021-05-20T18:35:00Z
-originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
-webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
+publishedDateTime: 2021-05-20T19:18:00Z
+originalUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
     width: 1024
     height: 682
     isCached: true
@@ -90,7 +92,18 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+    publishedDateTime: 2021-05-21T10:01:00Z
+    webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
+    ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 20
 
-secured: "3I7A5Wj9M3ggfLdPCK/iF3BVdNyKL18fM0Fm8wE8nQe2hE7fvDYl5CH1NIhN26FC0oZzq06WMDR9QxX2LUR09dEadmsLCy91Y5Ki/WAoddoS2/6d05rdE+W/LFCxVjgrn3KMrlL8qeVMY44Aj+NO+YqIr7Pxc8Uw8wH0XJcKL9ogRdcMKR68cr3XqpiYdosbSMpEgS1UmOVKt/hGdxub/bxhHkqHpDAK5bbMDSZv6BzbFnp4U2aIkWGrCAc4vEt9A2rDQkfs+IAPqoY24MxXkenEwDQ9cKUijqJzjhJ15+UjLkXpKFpY8VUs5qKRWCy1CBjnDeAX05shRx3oKZlZRjL7PdrQ5Ptf8QxWd+tCb5QRmcOZ4sm3tphAmJLBUaW3JtJiqF6jNHVXhukxpCFut5rb9L6Zw5hp4dHGfTA/jqw5sUheyF0TIZgutoSoL2GYB6OGL9w5OymRDDadW59cbf/7AhRR6NhAzADoAObEfwtk4b6dTIyjTV39lGeQc/PZ4Y7/J9XnNLlE/4HY52Bczg==;dYTHZ68iXlinf6TpIILwCw=="
+secured: "SI7lnlocScDM9+Dx0s5Jk8SWJxsq2ouL2hcSrIN0ukoc+GMXuCKUtTjfzDg/fUB02z6czQ6bBJag7T4VIoy8bsJhtAc8a+JaCRrHfchVCYFxGeoK63OCGBxFSFDWvrFuYvjd0+EVSkdPQNb4i6UaglRhJHTHLBzSNJsiDm1r12w1qsgUmcBhmEhhgHyd8wDwx3LHJKLrsGA48n1OQlakbqBtE7/TfGfg5Wm0oNQ10hMQt285JxLwcJlJnsuNzu+xkKyTP4IGdhb0y1O4O2Mdo7K1IxcW8XTqZxt+kisj6JygZjsUCNQiQkaYX1pTm76VM/lVVBfCh8XMJoZ7HVPSbsUKIRY4WsGzF8kUSMt8rU4=;+Q/gHqpi8lvWO0oyXmxU3g=="
 ---
 
