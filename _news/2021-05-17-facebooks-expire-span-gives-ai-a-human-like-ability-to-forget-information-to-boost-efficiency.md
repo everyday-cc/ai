@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook system can train AI models to recognize speech without transcribed audio data"
+    excerpt: "Facebook Inc.’s artificial intelligence team today revealed a way to build speech recognition systems without using any transcribed audio data to train them. Speech recognition is one of the most common types of AI,"
+    publishedDateTime: 2021-05-21T14:25:00Z
+    webUrl: "https://siliconangle.com/2021/05/21/facebooks-wav2vec-u-can-train-ai-models-recognize-speech-without-transcribed-audio-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/wav2vec-U.jpg"
+        width: 1165
+        height: 578
+        isCached: true
 
 secured: "bMS+R/GiTyObtJDrYDNTlgGhyHDbwfV2TJcTDZy0QyM+YRaH0q6qtN9UcfV7ljIG2tAjQYkNCa7XEzQqdEsS8qTvpFMftSPnC+fhV+FEAxE8GkMnG6faFFPpiysC9ZfaOA1oRi5EKzuOi9sl2wpaI1VBUJcuCZWKFcdnEhuSmcupvrGc3maDvMWgtm4v/Us/iDrLm5EEXRW8dEcksnQzGnURStISqbb9B8l7z5ECGQj+fXV8aatM65RqqY2hbEwa05sLtVU1bBWwHHb7RNZX1pOpASMNobJUwkUC/qfQ8MetbhJ6X1fUhc9/KL09ON1Xnr42cOv85I7lE0sAYO5WIeRomO3UkY4pHQ4o1RNNJn8=;XL1Ixz8ljdPOGPsViJ2IuQ=="
 ---

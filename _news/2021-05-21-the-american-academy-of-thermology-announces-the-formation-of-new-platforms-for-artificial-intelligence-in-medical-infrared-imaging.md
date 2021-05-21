@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-21T12:27:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892"
 webUrl: "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -28,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hsHMIs4PEZRudjJM+s6zUtfKG4tlQQ3LH1GbS/XNRr/FTssbVSBUIj3Jq6x9olZWGv66FFe8CbkAeV90RNu8nfPN3/lpSRWPDwG/UFubV4cLL/rDwh49cfZEJLpxbKLK9n/eQ6UGUlfWp9nXA0Gc4SyuutMxtvWH9NKPHTSeoQ8O1vdlBS/howeN1GmGVzihdmh0BEGeoWB4xWcvg91evpmn1YirYiLnIrsDgf8taHgmdZoZ1rkRoam/XTsdQKnpPpSTe7bEqtCbj1rEhSAyi3QCNWG/5qccVhQN4boq1VZ6plb2RXNWjUuF6bT7PwgbZcqrYlVpQu4kol0ZS3fWnW2V9mitC9wqFCf9gIlbjiM=;97XlpKIaaURh6IfBTBKwmw=="
+secured: "q/rIxB1/Ik+5jiIJzSB567e3d/tfXGi6lGZDmLGUYy+uOfHypED9ZpQbJDgXoqkbrg6YmVuSuLs9Dacrgj7PieJnCPRJDVFTtZXXTSZWa4ylvfDuXfvgaxqWqLFRrLeWTwHoutVhbAiw/CGhAOj7f2E+Wb90lfwRlBBEWoRbv+OEiCr5QWapFkt+LGaMDLuP0Czx5mtQ0TtDT+VWL3e+KujJV40B7jLcZ5nW02GcI6756n7tdpMRHJjZ9DsBPo5t/YfVwE/gV+3ncKOTj4oM7TVJxGDKQgqUbuHNtLGNeDGrSR7TtOOkSiFXmtJgp4YywCL81V6iYiw2EbfZkZEFXzHyLLZekTQq39UJ6PZjR3U=;ibZvnBV2gA/F9wJAQ73xXQ=="
 ---
 

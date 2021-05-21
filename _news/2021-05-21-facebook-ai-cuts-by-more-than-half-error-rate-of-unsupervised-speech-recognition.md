@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/"
 type: article
 quality: 99
-heat: 119
+heat: 130
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook system can train AI models to recognize speech without transcribed audio data"
+    excerpt: "Facebook Inc.’s artificial intelligence team today revealed a way to build speech recognition systems without using any transcribed audio data to train them. Speech recognition is one of the most common types of AI,"
+    publishedDateTime: 2021-05-21T14:25:00Z
+    webUrl: "https://siliconangle.com/2021/05/21/facebooks-wav2vec-u-can-train-ai-models-recognize-speech-without-transcribed-audio-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/wav2vec-U.jpg"
+        width: 1165
+        height: 578
         isCached: true
   - title: "Facebook's \"Expire-Span\" Gives AI a Human-Like Ability to Forget Information to Boost Efficiency"
     excerpt: "Part of the path to \"human-like\" memory in AI systems, Expire-Span gives information an expiry date to boost system efficiency."

@@ -88,7 +88,7 @@ related:
     provider:
       name: Host Review
       domain: hostreview.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
         width: 400

@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-21T13:07:00Z
 originalUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
 webUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"

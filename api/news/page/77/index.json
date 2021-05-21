@@ -2,6 +2,49 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-03-09-exploring-natural-language-processing-with-croesus.md",
+      "title": "Exploring natural language processing with Croesus",
+      "excerpt": "While looking to the future of FinTech, those in the Croesus Lab have found themselves enamored with natural language processing, and the implications it has for their field",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthprofessional.ca/investments/wealth-technology/exploring-natural-language-processing-with-croesus/353737",
+      "originalUrl": "https://www.wealthprofessional.ca/investments/wealth-technology/exploring-natural-language-processing-with-croesus/353737",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-res.keymedia.com/cms/images/ca/155/0299_637509009424111500.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wealthprofessional.ca",
+        "domain": "wealthprofessional.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims",
@@ -1058,58 +1101,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-retrofitting-mits-deep-learning-boot-camp-for-the-virtual-world.md",
-      "title": "Retrofitting MIT’s deep learning “boot camp” for the virtual world",
-      "excerpt": "With technology new and old, instructors try to recreate the interactivity of their pre-Covid classroom. Deep learning is advancing at lightning speed, and Alexander Amini ’17 and Ava Soleimany ’16 want to make sure they have your attention as they ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
-      "originalUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202102/stata-amini-soleimany.png",
-          "width": 4032,
-          "height": 2688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

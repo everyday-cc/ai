@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Microsoft Partners With Chinese Solution Provider to Boost IT Efficiency and Security"
+    excerpt: "Microsoft’s China arm is partnering with Chinese electronic shelf label (ESL) provider Hanshow to empower its global expansion in the retail industry. Under the strategic collaboration, Hanshow will adopt Microsoft Azure operated by 21Vianet for its operations while also prioritizing Microsoft technology for its solutions to retail clients."
+    publishedDateTime: 2021-05-21T14:54:00Z
+    webUrl: "https://retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security"
+    ampWebUrl: "https://retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/store-operations/microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 69
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/05/microsoft.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
     excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
     publishedDateTime: 2021-05-20T15:09:00Z

@@ -48,6 +48,20 @@ related:
         width: 1494
         height: 774
         isCached: true
+  - title: "Facebook system can train AI models to recognize speech without transcribed audio data"
+    excerpt: "Facebook Inc.’s artificial intelligence team today revealed a way to build speech recognition systems without using any transcribed audio data to train them. Speech recognition is one of the most common types of AI,"
+    publishedDateTime: 2021-05-21T14:25:00Z
+    webUrl: "https://siliconangle.com/2021/05/21/facebooks-wav2vec-u-can-train-ai-models-recognize-speech-without-transcribed-audio-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/wav2vec-U.jpg"
+        width: 1165
+        height: 578
+        isCached: true
   - title: "Facebook's \"Expire-Span\" Gives AI a Human-Like Ability to Forget Information to Boost Efficiency"
     excerpt: "Part of the path to \"human-like\" memory in AI systems, Expire-Span gives information an expiry date to boost system efficiency."
     publishedDateTime: 2021-05-17T16:29:00Z
@@ -63,6 +77,6 @@ related:
         height: 450
         isCached: true
 
-secured: "kgcoTYKuZvw+zhu2HgrB7MiIUu+zGnRsZvHozQSKxfCxYJySjBBvO0iIxtBJWkOReyN2UCSVAXnEkujPMoNAiRuEgw4C/jYyCJgxBeq8obPoTmGaM5yeIETZFvnEGwLGWwhpvOWzZ0f0fyoDqVGylTfeoe6rH3NbP50qcZWIggOm1M0KzHs6X6UVMbKYOqKCp0Q+gufKk037Xtg8+F59eKPt350rgdsGNbliZ+Cwwt76lc4Ozut0mRjcouyCRmGS5lQWiQZMaRLx2+upXx2SNJ9+QfFWE35RfMq8swVG0lwJ9l/jDElz5kBXiiVZfLtydnuloJeO4Yt2g41TJaBpojdNJ97MWXo2FzkZESVB2PY=;ownVrOSaGVWgrltzpqhFVw=="
+secured: "I6TXtreMno1DfMUIoR7ShwnoEDdwRvqL6/vkQxA83iyDjPb9Ladm7ugXF4XDxpXaYl6mNyi3PAFEd6Vd7LnvtCR/zMmTYt61+AW3NbCWA+kVbF6OcFWHcrwWd2OWVkEhPBtrGYU+iGhlLZgp/iLxnryLAA6huloKfwTiSDfhiL+ag2Li6sZsB5OGUi5ksNwOTiFVPw4SRQr8f3rzbzfdStcjxnKZbG8ArklFjxLxC3rZLdQ9sm3O7+HJYvtO2z5C/3PY8mKW+bHlPkSaMvOFh+KTLgjayh56UtknOO1pYB8jr4QQnd3aUofrxfJQdnMtlseR7yCXchBHJTbMJXOufeeyaJ5JIVDjKRHn6O8ePnwLhUnuEzY5e70Uj7Wvvgyx0TG/ufjzeAHfDMZtKmB8DQcVaVXPGZ1wr1AI1MTHN9YNC+mICmpjWQMAPMlK+lxb7okpDbFcLKy7M714lBXdvZKx+GlWSJa2diSmAtxzGfVrR1n0vlZepB8meK5QormUcuk6T//1LDC+zls2LO8LKA==;aFPAnMeQaHHoBPB4n9tI0A=="
 ---
 
