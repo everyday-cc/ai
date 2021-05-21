@@ -540,22 +540,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
-    publishedDateTime: 2021-05-18T23:30:00Z
-    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
-    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "BBC addresses facial recognition bias issues in new Click episode"
     excerpt: "A new episode of BBC Click recently discussed the issues caused by facial recognition biases, and how they affect people on a daily basis."
     publishedDateTime: 2021-05-19T21:26:00Z
@@ -646,6 +630,20 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 26
+  - title: "Amazon will block police indefinitely from using its facial-recognition software"
+    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won’t be ending any time soon — if ever. On Tuesday, Amazon said it would extend its ban on police usage of the technology “until further notice."
+    publishedDateTime: 2021-05-18T23:55:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/05/18/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 19
+    images:
+      - url: "https://kvia.b-cdn.net/2021/05/hypatia-h_d9ef4ce003f8e064172082a07295fb4b-h_80edeb93fb529946b0632713efe41f55_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
     excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
     publishedDateTime: 2021-05-17T14:10:00Z

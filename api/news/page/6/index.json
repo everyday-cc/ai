@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-16-credly-and-degreed-partner-and-both-employers-and-employees-can-benefit.md",
+      "title": "Credly And Degreed Partner, And Both Employers And Employees Can Benefit",
+      "excerpt": "Employers get more information, and employees can show their full range of talents, through a new Talent Management collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/",
+      "originalUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609fed90050312b45b723c48%2F0x0.jpg",
+          "width": 1200,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelbarthur/2021/05/16/credly-and-degreed-partner-and-both-employers-and-employees-can-benefit/amp/",
+      "publishedDateTime": "2021-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound.md",
       "title": "This Israeli startup thinks AI should be operating your next ultrasound",
       "excerpt": "UltraSight develops smart technologies, offering accurate ultrasound diagnostics, and operated by untrained personnel. The startup's technology will also be traveling to space with another Israeli",
@@ -1173,50 +1225,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
-      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
-      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

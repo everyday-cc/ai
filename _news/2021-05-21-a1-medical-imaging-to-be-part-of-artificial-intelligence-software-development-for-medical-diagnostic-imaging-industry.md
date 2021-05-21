@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-20T22:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a1-medical-imaging-to-be-part-of-artificial-intelligence-software-development-for-medical-diagnostic-imaging/article_2fb49aec-5d9e-5592-81ab-11766cbb1b3d.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a1-medical-imaging-to-be-part-of-artificial-intelligence-software-development-for-medical-diagnostic-imaging/article_2fb49aec-5d9e-5592-81ab-11766cbb1b3d.html"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/9a/d9a6e099-789a-5cc4-98f1-aa37731889ce/60a6dc24c7c50.image.jpg?resize=815%2C630"
@@ -36,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 21
 
-secured: "yzvrEElM4QSv+N4lVpey0UMX740qDOHGD+2T3UXiH503sgKgDI44xn/tyY2zGGCkzxE2rVYZA3VLKbKNT9bFi+UJFGdn9zuXoEjcQCbam1FpaKydWD5uNHVbRWZVlm7VmBHe/Ax7CtJclAcMY61NzOIy+q+eogaz6u2QDxefH1PdzBZ6HDo7Cy4endMuZhkZkhDK7qizmC1rMWlpKg9cZ+7xgS8jxphQYpCyr7Hdf+9CQj0oaMQ+yeMev6cyfpvfO4B2QSwlGhSCrXhF3bP3HvbQy9YJfenXZs040HQTv5ajzdOYwuVrXBIUr25E+3WA0760z1MiksQTU6ZhNdcsllnDDantGQJwDYgGO2FySt0=;YT6iXeQ3++LQ2ThWLjdbnw=="
+secured: "JNbLslDoa6Mx2fyQc8dJU4wKxJrWinuuNVg8SXYQd1zE7SQ2/nCpS+eeUSVRPlL6NjTeCLt1CadN/yAs70MFYHaVh4Q/LxpU2ugWfZ9TMYHXE+tcurHE4+kGC8kpe1DF5LB0K5/xPnfSBeYp5wJPqcDzRo8lhE+n5HH7ggG7Ct8cknHPHpBvhGKsIh4IXYjYWc1Xkr6RMBeMyqiiPt+l0iVPez80DcZ2KweSUdaU9+NhM++4QP8tchXp3biLpfuNpitpxb2UAZLdi3AabsrwDcCuLWy+35CfWV2WgwnjnseT9RfDxbS23zd8BPk8II0U38EKMIN0XHgzTN5p7nIdfLpxX6yB+zfRkDDqdPGZliA6nwZSFOivhlWBxbU8l7qAib5J/K6dOZ7epxLxgrhRI0GqockVkkIXtYlhSaI09924RHD8DlhkD6zn3X6JI70FNYYHioTLwXAn85sKz02nNITUR3XuxZ53afuOSuXlkCbC5LsRfCpm6Xx7oEvI8XjO+mkvZCYr6Ja6MVLtD3Bzpg==;FiwjdEe7k3rVPBYCGLMgeA=="
 ---
 

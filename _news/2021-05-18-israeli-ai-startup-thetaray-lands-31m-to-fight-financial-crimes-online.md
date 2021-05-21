@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fi
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,49 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "This Israeli startup thinks AI should be operating your next ultrasound"
-    excerpt: "UltraSight develops smart technologies, offering accurate ultrasound diagnostics, and operated by untrained personnel. The startup's technology will also be traveling to space with another Israeli"
-    publishedDateTime: 2021-05-16T11:48:00Z
-    webUrl: "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/"
-    ampWebUrl: "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/"
+  - title: "OurCrowd backed Israeli Fintech ThetaRay Secures $31M in Capital from Benhamou Global Ventures, Others"
+    excerpt: "Israel-based ThetaRay, a Fintech firm that enables banking institutions to monitor payment activity in order to identify potential money laundering risks, has secured $31 million in capital via a new funding round."
+    publishedDateTime: 2021-05-20T15:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175589-ourcrowd-backed-israeli-fintech-thetaray-secures-31m-in-capital-from-benhamou-global-ventures-others/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175589-ourcrowd-backed-israeli-fintech-thetaray-secures-31m-in-capital-from-benhamou-global-ventures-others/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175589-ourcrowd-backed-israeli-fintech-thetaray-secures-31m-in-capital-from-benhamou-global-ventures-others/amp/"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 28
     images:
-      - url: "https://www.geektime.com/content/images/2021/05/UltraSight-1620728963.png"
-        width: 1788
-        height: 1117
-        isCached: true
-  - title: "Walmart to acquire Israeli AI sizing tech firm Zeekit"
-    excerpt: "Zeekit’s virtual try-on technology enables one of the most difficult things to replicate online: understanding how an item will actually look on you."
-    publishedDateTime: 2021-05-19T07:38:00Z
-    webUrl: "https://www.israel21c.org/walmart-to-acquire-israeli-ai-sizing-tech-firm-zeekit/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/05/download-768x432.gif"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "Israeli Startup SAIPS Is Helping Ford Roll Out Self-Driving Vehicles By 2022"
-    excerpt: "US auto giant Ford has joined the race to develop a self-driving vehicle and is working with Israeli startup SAIPS to get to the finish line."
-    publishedDateTime: 2021-05-20T15:25:00Z
-    webUrl: "https://nocamels.com/2021/05/ford-saips-self-driving-vehicles-autonomous/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 36
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/רכב-אוטונומי-פורד-קרדיט-רוסלן-ברדיצבסקי2.jpg"
-        width: 1600
-        height: 1200
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Jaffa-Tel-Aviv-Israel-600x479.jpeg"
+        width: 600
+        height: 479
         isCached: true
 
 secured: "Gj2tE37FOMXHEs7fqM0Zrc21pkRPgMSvy8nsYM0HatE9+mYJmkUJ/19t0RLAI2fEa14afPB5zq6iXJP5w/2IqgPGUEKqlvF2DtZ0hXG64boxftAC3F2ZH0rPgEwEiJTVbx9e/7skkui8jhIuxPQ2KOGiMQ4+2KTvXg/kUW5+V/YoLoqICer2zRvoCJgpev+cYHurJc2l4sddLj5oomh3e+nWlmh82hf09cO/7c3oYqvi9/9S9rEKcOC+ACMVC2uo2GLD9RxcRgtX+yHWx5hDHjOSgBwsfvEANIcm+Uw90uxnsuldmWFHPQFeLtvrH4bIQ2z7o7LP02SZAG5EXgoPCcIgpGU6vpuuq21VPDFR0vjhbmQVG53WRT44qr8j7U1WL1cUv0Ykgoms0BcoLjiW9PribEGYf+aqYVaMs8YMV8HUt8GtJHzzDb+c6kEPdJ6in/FvoAxw+nSMSH1JyetTFiMRBdgfCo45c5ItSDNcYvNlkHjEG93nAzKU9lK0gg9rylxPkfylCHSbdJDNPYsn/Q==;xGWVNoDm69BlDGCqG8h4wg=="

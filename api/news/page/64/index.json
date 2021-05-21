@@ -2,6 +2,40 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-03-20-scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report.md",
+      "title": "Scotland, UK governments tackle biometrics ethics with new Commissioners, report",
+      "excerpt": "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report",
+      "originalUrl": "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-40-women-leading-the-way-in-ai-innovation.md",
       "title": "40 women leading the way in AI innovation",
       "excerpt": "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles.",
@@ -877,49 +911,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-this-week-in-xr-facebooks-invisible-computing-research.md",
-      "title": "This Week In XR: Facebook’s Invisible Computing Research",
-      "excerpt": "Facebook Reality Lab reveals the direction of AR smart glasses. For AR smart glasses to work as an all day every day device, AI and haptics need to be work with advanced optics within a new OS and user interface. The system will use a nerve reading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

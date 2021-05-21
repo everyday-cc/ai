@@ -2,6 +2,40 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-04-06-augmented-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2021-2027.md",
+      "title": "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027",
+      "excerpt": "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis",
+      "originalUrl": "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis",
+      "publishedDateTime": "2021-04-06T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla.md",
       "title": "3D printed all-optical diffractive deep neural network created at UCLA",
       "excerpt": "Researchers from UCLA have used a 3D printer to create an artificial neural network able to analyze large volumes of data and identify objects at the speed of light. The system is called a diffractive deep neural network (D2NN). It uses the light scattered ...",
@@ -1037,49 +1071,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-us-army-looks-to-facial-recognition-access-at-bases.md",
-      "title": "U.S. Army looks to facial recognition access at bases",
-      "excerpt": "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "originalUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "publishedDateTime": "2021-04-05T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

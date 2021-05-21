@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/05/ford-saips-self-driving-vehicles-auto
 webUrl: "https://nocamels.com/2021/05/ford-saips-self-driving-vehicles-autonomous/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,46 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "This Israeli startup thinks AI should be operating your next ultrasound"
-    excerpt: "UltraSight develops smart technologies, offering accurate ultrasound diagnostics, and operated by untrained personnel. The startup's technology will also be traveling to space with another Israeli"
-    publishedDateTime: 2021-05-16T11:48:00Z
-    webUrl: "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/"
-    ampWebUrl: "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/"
+  - title: "Self-Driving Vehicle Maker Arrival Partners With Digital Mapping Company Here"
+    excerpt: "British electric-van startup Arrival said on Wednesday it had partnered with Here Technologies, a digital mapping company owned by some of Germany's premium carmakers, to provide location and cloud services for its self-driving vehicles."
+    publishedDateTime: 2021-05-19T16:26:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/self-driving-vehicle-maker-arrival-partners-with-digital-mapping-company-here"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
+  - title: "Didi to develop self-driving vehicles with GAC"
+    excerpt: "China's DiDi Chuxing has partnered with GAC Group to develop and produce a driverless model, which is expected to consolidate the car-hailing giant's position in the mobility market. Didi's self-driving technology arm Didi Autonomous Driving and GAC Group subsidiary Aion will be responsible for the model's development and mass production,"
+    publishedDateTime: 2021-05-18T02:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a32983a31024ad0babfaeb.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
     images:
-      - url: "https://www.geektime.com/content/images/2021/05/UltraSight-1620728963.png"
-        width: 1788
-        height: 1117
-        isCached: true
-  - title: "Israeli AI startup ThetaRay lands $31M to fight financial crimes online"
-    excerpt: "Cross-border money transfers create a $25T market that needs some security, and this Israeli startup wants to prevent fraud before it even happens."
-    publishedDateTime: 2021-05-18T13:57:00Z
-    webUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/"
-    ampWebUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 37
-  - title: "Walmart to acquire Israeli AI sizing tech firm Zeekit"
-    excerpt: "Zeekit’s virtual try-on technology enables one of the most difficult things to replicate online: understanding how an item will actually look on you."
-    publishedDateTime: 2021-05-19T07:38:00Z
-    webUrl: "https://www.israel21c.org/walmart-to-acquire-israeli-ai-sizing-tech-firm-zeekit/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/05/download-768x432.gif"
-        width: 768
-        height: 432
+      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a32983a31024adbdc85448.jpeg"
+        width: 647
+        height: 431
         isCached: true
 
 secured: "K/WyJ4v05aWYcrOKrSmkaAPUAu2dSzQiyTVZ+8bX6QpvFaaKIGwjdZ0Gwz8qlzGY4sQxoPBEEgGQBGYLGmwpJiZtON2b4X1DNuwHgdeCcHVaJMVrSHBJoGdz2yw/ICf7SMD8KZIxDPjfwPMQuV3YHhQ1bAjU2iZjue3nJaDjkQgtyEBVhojMLhpaBEWacBnGcvWNkm/JvHMKnEDSfy84ucIX/mddWNO4XO481yKeQTMwghOEtunMTyfkPl98P/ZwSW2FZckM9un3dYzeopTuaNwFwZaHDUerSf6xkJJkNaOTa9vSKImO68KZ/i7BJZKBHXu1Xac73L9eKMrBuIfBv/UtuOxf7yhe1lUAF3IwaQLdVQonFNQ+jIbs2d8cmMpI3GwySdXaCrV2pe1faTxWpHiSsUSskOrO3/BQOz+0UW4hQpEF9Czol2+rNHByzrFmYb6+Rkw3bfV8KBmNeAohRexIP+HiIEMXn7Gu9ncqBRACKoBrflI6psYpoEnPsu5NaZI5OOqu49b+oTQs9iDvDw==;dmLgG6SQvUS09JvtMj2Rmw=="

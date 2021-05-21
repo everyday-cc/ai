@@ -2,6 +2,52 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-04-21-global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics.md",
+      "title": "Global Machine Learning Software Market Research Report 2021 | Microsoft, Google, TensorFlow, Kount, Warwick Analytics",
+      "excerpt": "A recent research study on the global Machine Learning Software market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "originalUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-26-1-780x400.jpeg",
+          "width": 780,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-huawei-technologies-unveils-range-of-ai-chips.md",
       "title": "Huawei Technologies unveils range of AI chips",
       "excerpt": "China’s largest telecom equipment maker and smartphone vendor Huawei Technologies Co Ltd has unveiled a range of artificial intelligence chips, in what is arguably its biggest-ever push to expand its presence in the semiconductor sector and to compete with US companies such as Nvidia Corp.",
@@ -1105,49 +1151,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-download-ai-100-pdf-dumps.md",
-      "title": "Download AI- 100 PDF Dumps",
-      "excerpt": "The Microsoft AI-100 dumps learning material is available in pdf format, which is compatible with all smart devices. You can download the Microsoft Designing and Implementing an Azure AI Solution exam on your PC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
-      "originalUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg",
-          "width": 300,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mad in America",
-        "domain": "madinamerica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -137,6 +137,15 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "California Regulator Reviews Tesla's Self-Driving Claims"
+    excerpt: "A California regulator said on Monday it is reviewing whether Tesla Inc violated regulations by falsely promoting its advanced driver-assistance systems as being \"full self-driving.\" Tesla's driver assistant features,"
+    publishedDateTime: 2021-05-17T23:07:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-17/california-regulator-reviews-teslas-self-driving-claims"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "California places Tesla's 'Full Self-Driving' under review"
     excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-"
     publishedDateTime: 2021-05-18T00:04:00Z

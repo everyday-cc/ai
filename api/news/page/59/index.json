@@ -2,6 +2,59 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-03-26-aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp.md",
+      "title": "Aunalytics unifies siloed bank customer data with AI-driven data mart and NLP",
+      "excerpt": "Register for a free or VIP pass today. Aunalytics announced an update to its Daybreak for Financial Services platform that employs machine learning algorithms to enable midrange banks and credit ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/daybreak_slide.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
+      "publishedDateTime": "2021-03-26T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-ai-makes-nvidias-gpu-technology-conference-a-must-attend-event.md",
       "title": "AI makes Nvidia’s GPU Technology Conference a must-attend event",
       "excerpt": "but AI is the major use case for it currently. As the industry transitions from CPU-based traditional computing to GPU-powered computing, the skills required for IT will change as many of the day ...",
@@ -1041,49 +1094,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard.md",
-      "title": "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard",
-      "excerpt": "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

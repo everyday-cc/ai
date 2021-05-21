@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-04-21-download-ai-100-pdf-dumps.md",
+      "title": "Download AI- 100 PDF Dumps",
+      "excerpt": "The Microsoft AI-100 dumps learning material is available in pdf format, which is compatible with all smart devices. You can download the Microsoft Designing and Implementing an Azure AI Solution exam on your PC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
+      "originalUrl": "https://www.madinamerica.com/author/download-ai-100-pdf-dumps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg",
+          "width": 300,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mad in America",
+        "domain": "madinamerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-learning-to-be-financially-independent-with-the-cash-machine.md",
       "title": "Learning to be financially independent with 'The Cash Machine'",
       "excerpt": "Dave and his wife, Chana, are the authors of The Cash Machine, a fictional novel designed to teach readers how to reach financial independence. By sharing the lessons they learned in story form ...",
@@ -1036,50 +1079,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-exploring-ai-ethics-and-accountability.md",
-      "title": "Exploring AI ethics and accountability",
-      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
-      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2018/02/GettyImages-679721306-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
-      "publishedDateTime": "2021-04-19T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175589-ourcrowd-backed-isra
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175589-ourcrowd-backed-israeli-fintech-thetaray-secures-31m-in-capital-from-benhamou-global-ventures-others/amp/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 600
     height: 479
     isCached: true
+
+related:
+  - title: "Israeli AI startup ThetaRay lands $31M to fight financial crimes online"
+    excerpt: "Cross-border money transfers create a $25T market that needs some security, and this Israeli startup wants to prevent fraud before it even happens."
+    publishedDateTime: 2021-05-18T13:57:00Z
+    webUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/"
+    ampWebUrl: "https://www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-ai-startup-thetaray-lands-31m-to-fight-financial-crimes-online/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 37
 
 secured: "s5vsbi2UUst/LqGHCYTR/j114ZirJPEnZq1tAXRwS26h+h1xEYIShgSu/HebZ1gYywZ9FrvTeN7p9qKIaZ+3Bj0dxJFk23g3p5zOLC9f6A315GjaKhn2m6LfDPrVyHCHl+1TPqSfxM5ofU7a/uidsnbbLyQSHwtymm+/ll8hOrpMlKtKe/JetAGvMAhDMh/kVN+ltBkip1B/91owQ1hHCPo08XISEVZX9P8rIBY5EEOUiBPnR7zx89yu9Se8ED6jGvT7kRCHLnyagwGec+GU7MqMeLrf90urqjNzNnN/RIPblQpH0BSmyD2mLU5HdVrQhjKD/8Am4YHaBXgVGerWlnu2UVw8PkPudBqPt0FBTayXKdqR/9xcFrENRVQQdE5tIaXN5Hlp2/pb7CJ8gCOCzLOO68fjHGnAvke1h8oCXUpACE+0cKPpZeL1CZTK6MKjLSquRHsGRyaqpwUCYHvwqIuenNhqVqIY5+zTlcGGROkO3noBBfLzwkqWszMBPGqYQq2K8ErEfxlXm1+LRRe/KQ==;0eMxlAXEC2tGR4LikASXzA=="
 ---

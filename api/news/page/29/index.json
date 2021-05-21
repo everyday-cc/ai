@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-04-28-audiocodes-ltd-audc-q1-2021-earnings-call-transcript.md",
+      "title": "Audiocodes Ltd (AUDC) Q1 2021 Earnings Call Transcript",
+      "excerpt": "Q1 2021 Earnings Call Apr 27, 2021, 8:30 a.m. ET Hello, and welcome to the AudioCodes First Quarter 2021 Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "originalUrl": "https://www.fool.com/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 400,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2021/04/27/audiocodes-ltd-audc-q1-2021-earnings-call-transcri/",
+      "publishedDateTime": "2021-04-27T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-artificial-intelligence-is-misreading-human-emotion.md",
       "title": "Artificial Intelligence Is Misreading Human Emotion",
       "excerpt": "There is no good evidence that facial expressions reveal a person’s feelings. But big tech companies want you to believe otherwise.",
@@ -1142,49 +1194,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-toyota-acquires-lyfts-self-driving-unit-for-550-million.md",
-      "title": "Toyota acquires Lyft's self-driving unit for $550 million",
-      "excerpt": "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "publishedDateTime": "2021-04-26T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

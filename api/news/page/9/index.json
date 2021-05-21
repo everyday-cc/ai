@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-12-datarobots-zepl-acquisition-bridges-the-ai-divide.md",
+      "title": "DataRobot’s Zepl acquisition bridges the AI divide",
+      "excerpt": "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/DataRobot-Composable-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
+      "publishedDateTime": "2021-05-12T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
       "title": "Lasers, levitation and machine learning make better heat-resistant materials",
       "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
@@ -291,6 +343,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
+      "title": "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience",
+      "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
+      "originalUrl": "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg",
+          "width": 582,
+          "height": 304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Host Review",
+        "domain": "hostreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -654,49 +749,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
-      "title": "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience",
-      "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21075003/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg",
-          "width": 582,
-          "height": 304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21075003",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075003",
-      "publishedDateTime": "2021-05-11T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -1095,57 +1147,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m.md",
-      "title": "Huma, which uses AI and biomarkers to monitor patients and for medical research, raises $130M",
-      "excerpt": "While much of the world eagerly watches to see if the vaccination rollout helps curb and eventually stamp out Covid-19, one of the companies that has been helping to manage the spread of the virus is announcing a big round of funding on the heels for strong demand for its technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/",
-      "originalUrl": "https://techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Clinical-portal-seen-by-clinician.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/amp/",
-      "publishedDateTime": "2021-05-11T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/news/business/self-driving-vehicle
 webUrl: "https://www.channelnewsasia.com/news/business/self-driving-vehicle-maker-arrival-partners-with-digital-mapping-company-here-14843358"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 991
     height: 557
     isCached: true
-
-related:
-  - title: "Self-Driving Vehicle Maker Arrival Partners With Digital Mapping Company Here"
-    excerpt: "British electric-van startup Arrival said on Wednesday it had partnered with Here Technologies, a digital mapping company owned by some of Germany's premium carmakers, to provide location and cloud services for its self-driving vehicles."
-    publishedDateTime: 2021-05-19T16:26:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/self-driving-vehicle-maker-arrival-partners-with-digital-mapping-company-here"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 31
-  - title: "Didi to develop self-driving vehicles with GAC"
-    excerpt: "China's DiDi Chuxing has partnered with GAC Group to develop and produce a driverless model, which is expected to consolidate the car-hailing giant's position in the mobility market. Didi's self-driving technology arm Didi Autonomous Driving and GAC Group subsidiary Aion will be responsible for the model's development and mass production,"
-    publishedDateTime: 2021-05-18T02:42:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a32983a31024ad0babfaeb.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a32983a31024adbdc85448.jpeg"
-        width: 647
-        height: 431
-        isCached: true
 
 secured: "b4R8tMex062OUdfLUBNzMga/vPUVvcFgk+kI03Stwl7Cd2u3tudgLZBLF5vNlxR1g0bMUhGX2ISLT4rpBZOZ5pNttYIT6P5+pE/JZ0eY0jQv9X3yDA0hwQ5lDkUq9/NMUoY2B8FAMfu+4jvPlhEwIT01N3/5USphRAwXql2yWC8MYAj3cjPiAG5kkbSkqwL1kMtn6c7lCuRM9hrcPCBHwiWnKjOm17H47FFlmVTzYmMWg24rb+cxaDO1GziB/8kIJIRDvRfvIvCMcJ//MIQY0iAS6y6r8sUJNfOL2VF+p66Mq03+3G37sCZIEP327XPbMptmRSb+xAsa3b3mqZq1yaDbkMYlbTYjt/qFsY4p/3Q=;AxJJ9wcwpK7GHAr4rFEiXA=="
 ---
