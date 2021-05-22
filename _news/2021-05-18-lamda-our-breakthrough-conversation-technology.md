@@ -8,8 +8,8 @@ webUrl: "https://blog.google/technology/ai/lamda/"
 ampWebUrl: "https://blog.google/technology/ai/lamda/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lamda/amp/"
 type: article
-quality: 94
-heat: 114
+quality: 194
+heat: 214
 published: true
 
 provider:
@@ -62,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lDI+0rTUVAIP9XLIpiX1V/bAdJvcGJb/zKzFp1bJjQpQyni8MXG4dDiiaAuHh26jMMBqPz0oKLzO/ZPcm/6CR7nkGaSG2KDlh6jgaw/8Y9ttfE+J1ozJkBourifQzORIFmtEDaWaklSnUZHg6PXT2T72K1/K0d4OqJlqXu6Ty+uaNO7sw5L82++SQZbAxlMYeQfdAK+362IoQUKT2CvUPaHI+Gdxio2ERkmZxPuyAtGsYZkjnvENsfk+sjkkhKmIV6uPn3Yh9FkoSMPnFUNOScfyiMpD4IY/5BT7PTcgNV1zdszV289Q71qw6IPil07Vq/X+eag6IS3StXhzm7dB1BY8FhlmlnyCxZWGLBXb0tY=;JMRg5aq7tJ4/0F2QHRRBHw=="
+secured: "d44MJqvB01z9bDTw6HMVfillKZa9qoi3RO13Xt02vYemsrrOLzfxX1EOpqpyI5LC7ZZZqAI4qauxKBrcxueLPmn4EQe8EizqOf+4MYt154zuM7rpiyH3hdf53iWTL/UDoSeaLWJpid1wtppuykjbmfVdtXMDD/vauP6cGsuP72va3PkGHpgS4qwpg+KiOM17s5xl7nE23T3R27Z3W4VjsKH71IQ/AzgDfxWUNjfVyxiAjJpW7snyXtBIWeaDEUgAiaWr88LS87EKtOmEACezpFTBvV8fCzTc6I0fq85XLDdlxBtzwbUAAkSTbpoic3WKnoMf+46a6wZ6cJPeQMwLSA7xaPMygplOMgnnhbu4OlXUxXkabcQkf/iB6xRuB8EI;ilc1I3rN7xLEanSqbWiSdQ=="
 ---
 

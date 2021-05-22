@@ -2,6 +2,101 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-27-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
+      "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
+      "excerpt": "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-language-learning-startup-toucan-raises-45m.md",
+      "title": "Language learning startup Toucan raises $4.5M",
+      "excerpt": "Toucan, a startup that helps users learn a new language while they browse the web, is announcing that it has raised an additional $4.5 million in seed funding. As I wrote last fall, the Santa Monica,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/browser-only.jpg?w=680",
+          "width": 680,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/27/toucan-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/toucan-seed-funding/amp/",
+      "publishedDateTime": "2021-04-27T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
       "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
       "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
@@ -1073,101 +1168,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies.md",
-      "title": "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies",
-      "excerpt": "April 26, 2021 /PRNewswire/ -- Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478",
-          "width": 887,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
-      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
-      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "publishedDateTime": "2021-04-26T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

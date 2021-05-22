@@ -1,34 +1,44 @@
 ---
 category: news
-title: "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan"
-excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,"
-publishedDateTime: 2021-05-19T02:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867"
+title: "Mech-Mind Robotics Closes Series C Funding"
+excerpt: "Mech-Mind Robotics, a Beijing, China-based AI industrial robotics startup, completed a Series C funding round. The round, which brought total funding to over USD100m, was led by Meituan, with participation from existing investors Sequoia Capital China and Source Code Capital."
+publishedDateTime: 2021-05-22T17:41:00Z
+originalUrl: "https://www.finsmes.com/2021/05/mech-mind-robotics-closes-series-c-funding.html"
+webUrl: "https://www.finsmes.com/2021/05/mech-mind-robotics-closes-series-c-funding.html"
 type: article
-quality: 93
-heat: 133
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: finsmes.com
+  domain: finsmes.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1512747/image_1.jpg"
-    width: 362
-    height: 400
+  - url: "https://www.finsmes.com/wp-content/uploads/2021/05/image-34.jpeg"
+    width: 950
+    height: 1050
     isCached: true
 
 related:
+  - title: "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan"
+    excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech giant Meituan. This latest investment brings Mech-Mind's total funding to over USD100 million,"
+    publishedDateTime: 2021-05-19T02:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-1030443867"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://mma.prnewswire.com/media/1512747/image_1.jpg"
+        width: 362
+        height: 400
+        isCached: true
   - title: "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics"
     excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics."
     publishedDateTime: 2021-05-19T00:09:00Z
@@ -75,21 +85,7 @@ related:
         width: 730
         height: 395
         isCached: true
-  - title: "Mech-Mind Robotics Closes Series C Funding"
-    excerpt: "Mech-Mind Robotics, a Beijing, China-based AI industrial robotics startup, completed a Series C funding round. The round, which brought total funding to over USD100m, was led by Meituan, with participation from existing investors Sequoia Capital China and Source Code Capital."
-    publishedDateTime: 2021-05-22T17:41:00Z
-    webUrl: "https://www.finsmes.com/2021/05/mech-mind-robotics-closes-series-c-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 54
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/05/image-34.jpeg"
-        width: 950
-        height: 1050
-        isCached: true
 
-secured: "SRXXqA8Gd5Qb5/UfYzcavF0vNzERgcd65P3HnyICvTlOvSAZEl6grXW+VquWBp+Yoth23kx74Z3UtQhBGbR9X9xuAP6gnp5XzviqUJwsWJnKbEbrYMdupb8irdqQtDlvgDcJAYxcESUkluubfk9rC8lGYqm8ptUuuKv7NygB7/NN/woT0CzZ4FiYlseWc5Zyy4RXvbll5/Qhg17tXqMlwt4xYVYW78mDgcO07dlvsZ3mA/smNRM7A1fxrwmbN6V2dhz1ZVt+JMqHz8MwoAkYWvOqZQpXZTfuV3byjFqTNBSh4Am8hYHaqlk3enyqkSmI8n8mhG2nupewc1VwOY8SC7x0PYd1DVJHWj5C/v2myDTQmnbF/414Nikbf0qnyVR3Dcdmzay+e6kOhcadMRxbuDL1qXeVAjZQuESlky6NKTWKe/WdqKL8bjFMT0dENogrgJGBDUCxrEV62TFfV46HgD51I66tgocM3arBpr9GVXwop2IhMTYjIU5MW0t8A/3kIPIvSE9NifITMYsYbMaq2Q==;dJ/EUbq5NHSvmYpixvwq4g=="
+secured: "8FdDZ4zJocJlNDetCtZqHvoXOQ2Dh8BNmUBKlEjDh+7U2AiWNrIUOMXi7jQLXt4X/QZb2swNTA2xzavaQzfuHF6+8EGooAAsmK4WkgGbLPkfnMO7BLCgNc0JSz9OLjdExHA5zGHOtpnoR2kUlwUOTz+Rpfuk1/rypW0KsHz5do5HWwDorGPZtbWWlyrQ/4Xm57aagI6tVUOBebKam83BxUpgezahM63yCZEjc13vDAKTWy8d1s24BmGdCgxvvAh0p6wkBWoiqRiP3SMm9tYOT1qqDWWxvaqNNtE81Oa2lAJakBL5YLQmdupuDRLh5SmvyHaWS1xzxmuM3I8lepuNYk5K4rB2BVAkT51F0Qjjioc=;8C0Qb/i9g0/bGdaiQPOapg=="
 ---
 

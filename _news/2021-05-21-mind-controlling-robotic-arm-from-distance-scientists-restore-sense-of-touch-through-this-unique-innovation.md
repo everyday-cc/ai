@@ -30,6 +30,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
+  - title: "UPMC: Sense of Touch Improves Control of Robotic Arm"
+    excerpt: "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled."
+    publishedDateTime: 2021-05-22T12:41:00Z
+    webUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+    ampWebUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/upmc_logo_og-3.jpg"
+        width: 825
+        height: 366
+        isCached: true
   - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
     excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
     publishedDateTime: 2021-05-22T13:33:00Z
@@ -43,22 +59,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-    publishedDateTime: 2021-05-20T19:18:00Z
-    webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Mind-controlled arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
@@ -146,6 +146,15 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
+    publishedDateTime: 2021-05-20T18:58:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 4
 
 secured: "waVcTiRIDDCiLxjGZAscGr7cMWAE6N1V3Um0RvebBtL1+vu9UN2JrU3tiZWRW1lxtvHlNMO+6iBgkwSsWsgvLj+zzqgWvEEqIBvmklOp/KYdAoTO5FgHr1KY+3EiRZ+1pz97/nXmS1Jt3Con4uQ16jpOwdJwnwcIHQRLz/xGaa5Nh6qy2rUogJOSgIfeddILSXa2QWyPPVueP47pO2f8MGo8nw2bGpWyfHK7wUuKe0NRHaBFvAnt4UNUj1/GOdFEE2WyjfaGqgXy+DR/kR0U3Ot5kJLgQSiMIt+dhCvOyTnX1QPEvyJdkMhJtWH0BnfgkjmVVd7FvN3lHlNQragARivXdecyixN8uuBlT0uKS1+yjqOMVUAp2fpp+2tswKvQdIITEMkhoLF/QabHji0655yhc9XB1ZY6ISSNYkD8Sk+Tj9TlRke5x3qaNYip4IFYnEXs+fsmou3sbQJ0cHFNWyiEAptabo7ygIe0Up29EBIkrXNwWPB8n66CVvkrIu3G/X7NXCru+VwNhWtEjpgt4w==;UUcOw1Og4/GSAmUenJxKYg=="
 ---

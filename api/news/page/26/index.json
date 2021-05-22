@@ -2,6 +2,110 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-30-how-your-voice-can-help-spot-fraud.md",
+      "title": "How Your Voice Can Help Spot Fraud",
+      "excerpt": "It’s a newish field,” said Nigel Cannings, CTO and founder of Intelligent Voice. “We’re trying to detect fraud using indicators of deception.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b689bd48145be176050b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1106%26cropY1%3D89%26cropY2%3D628",
+          "width": 1106,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "publishedDateTime": "2021-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter.md",
+      "title": "From Coral Reefs To Assembly Lines, Computer Vision Gives New View On How To Work Smarter",
+      "excerpt": "Once a thing of science fiction, the vast uses for computer vision technology are now clear. Advancements in artificial intelligence (AI) over the past 10 years have helped scientists develop computer vision technology – an AI application that allows computers to “see” their surroundings and make these visual inputs actionable with 99% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608ace495cdafc942f2b2c8a%2F0x0.jpg",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
+      "publishedDateTime": "2021-04-30T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-self-driving-cars-can-they-be-brought-onto-the-roads-safely.md",
       "title": "Self-Driving Cars: Can They Be Brought onto the Roads Safely?",
       "excerpt": "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the",
@@ -1083,110 +1187,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-a-photographer-looks-deep-into-americas-past.md",
-      "title": "A Photographer Looks Deep Into America’s Past",
-      "excerpt": "Dawoud Bey’s images at the Whitney Museum expose rich histories hidden beneath the surface, how places evolve over time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/30/arts/30dawoud-bey-1/00dawoud-bey-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.amp.html",
-      "publishedDateTime": "2021-04-29T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-how-ai-is-mishandled-to-become-a-cybersecurity-risk.md",
-      "title": "How AI is Mishandled to Become a Cybersecurity Risk",
-      "excerpt": "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "originalUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png",
-          "width": 748,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -37,20 +37,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Didi to develop self-driving vehicles with GAC"
-    excerpt: "China's DiDi Chuxing has partnered with GAC Group to develop and produce a driverless model, which is expected to consolidate the car-hailing giant's position in the mobility market. Didi's self-driving technology arm Didi Autonomous Driving and GAC Group subsidiary Aion will be responsible for the model's development and mass production,"
-    publishedDateTime: 2021-05-18T02:42:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a32983a31024ad0babfaeb.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a32983a31024adbdc85448.jpeg"
-        width: 647
-        height: 431
-        isCached: true
 
 secured: "omeNkd8wdYfLYYJIACWw5fKDgus0c9c787kvhHuO5HVg4kr+PaHXm6fkOda2yHiE+6P6DH0RSw5FYLL53CrAt+WWDUswlUwNEJdbBKI1M5BU4Dpb4KCBJGdIg9KOTaJOjkQc9GwWDjdkY2cl3YnG2rjq8GDMtC46a7NM8qh77TMS1UK2udkQXeYNwvQC0674Q4rkzxNA+OcN8Gks0rmFPVrGRjvR9WkluFo+4bNEV0ZQPKioDyMfCrgc42CRyaCgquiTkAEczgbvxGFbGrKWtoLYKK1Y/fhaxy7lSl/HTZx7E8UDEagAZgZUwNdyV7fCADSIJUwJ5OrReQDAbwJUKlzyEe4hm2tw79zqQVybHxA=;PM1c77mtS9ut+dAJrJDFdg=="
 ---

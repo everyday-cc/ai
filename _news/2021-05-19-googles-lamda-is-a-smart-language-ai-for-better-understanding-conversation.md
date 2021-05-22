@@ -41,7 +41,7 @@ related:
     provider:
       name: Google
       domain: blog.google
-    quality: 94
+    quality: 194
     images:
       - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/1_Welcome_GenerativeMeena_CL_V02_150521_v2_720_25fps.gif"
         width: 720

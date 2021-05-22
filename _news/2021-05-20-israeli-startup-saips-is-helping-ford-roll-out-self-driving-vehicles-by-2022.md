@@ -34,20 +34,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 31
-  - title: "Didi to develop self-driving vehicles with GAC"
-    excerpt: "China's DiDi Chuxing has partnered with GAC Group to develop and produce a driverless model, which is expected to consolidate the car-hailing giant's position in the mobility market. Didi's self-driving technology arm Didi Autonomous Driving and GAC Group subsidiary Aion will be responsible for the model's development and mass production,"
-    publishedDateTime: 2021-05-18T02:42:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a32983a31024ad0babfaeb.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a32983a31024adbdc85448.jpeg"
-        width: 647
-        height: 431
-        isCached: true
 
 secured: "K/WyJ4v05aWYcrOKrSmkaAPUAu2dSzQiyTVZ+8bX6QpvFaaKIGwjdZ0Gwz8qlzGY4sQxoPBEEgGQBGYLGmwpJiZtON2b4X1DNuwHgdeCcHVaJMVrSHBJoGdz2yw/ICf7SMD8KZIxDPjfwPMQuV3YHhQ1bAjU2iZjue3nJaDjkQgtyEBVhojMLhpaBEWacBnGcvWNkm/JvHMKnEDSfy84ucIX/mddWNO4XO481yKeQTMwghOEtunMTyfkPl98P/ZwSW2FZckM9un3dYzeopTuaNwFwZaHDUerSf6xkJJkNaOTa9vSKImO68KZ/i7BJZKBHXu1Xac73L9eKMrBuIfBv/UtuOxf7yhe1lUAF3IwaQLdVQonFNQ+jIbs2d8cmMpI3GwySdXaCrV2pe1faTxWpHiSsUSskOrO3/BQOz+0UW4hQpEF9Czol2+rNHByzrFmYb6+Rkw3bfV8KBmNeAohRexIP+HiIEMXn7Gu9ncqBRACKoBrflI6psYpoEnPsu5NaZI5OOqu49b+oTQs9iDvDw==;dmLgG6SQvUS09JvtMj2Rmw=="
 ---

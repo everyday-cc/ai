@@ -1,39 +1,26 @@
 ---
 category: news
-title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality"
-excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality\"."
-publishedDateTime: 2021-05-17T16:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/g21156605/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-ficti"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/g21156605/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-ficti"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21156605"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21156605"
+title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the ‘Clone Technique’ of Science Fiction Movies Becomes Reality"
+excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the ‘Clone Technique’ of Science Fiction Movies Becomes Reality”."
+publishedDateTime: 2021-05-17T00:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fiction-movies-becomes-reality"
+webUrl: "https://www.digitaljournal.com/pr/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fiction-movies-becomes-reality"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
-  - Computer Vision
 
-related:
-  - title: "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the 'Clone Technique' of Science Fiction Movies Becomes Reality"
-    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Realizes Naked-Eye Interactive High-Simulation"
-    publishedDateTime: 2021-05-18T00:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21167383/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fict"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21167383"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21167383"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/4d6dcf36e0c4cb7994b2ecf152590018403969c1-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
-secured: "dyqa5qVnu0EV4j5UcfvL7pcGltl+q9W92YhrWp6K3Z9AbxIgZSNX+dtVGuNSH4JxCjwtX1WTO8XL4bqq2NAmpaQiW74EnMjXbCIhAnzGrrPwlQd9gjnDWrUbmmw1d1F9EO8z6pvh7pYdWLXDfWEwXFlAdENz22fDfQeDFiWNxaXk/e535jtp8ORwRQfoRtNcZ7tsUTgsOYBMrzfOiBzIM7ezSaydp7PUnrYNQoD+I0ufPwJGUYtmdsFgJQFJmCR+up0GaSjonx3psVsDgggdfGJ/QJcUoTJQmXm14CEMAdEAZKtux5iL/iLAMZM/t1M5+l1NDZLMPEoXhOwzGvuFwqMpIeFRzPJvooU0bwoevx8=;R1LLlJpf0lVBpeXz9iRRGw=="
+secured: "X2oBBpXx1IQwE+WCVXxQ9xahQ2yF5woxLn1GQqI4csN4G9TpKeiW6PIpZI8WYr5ygIrRO/+ESuUKWxkm/XwqrYd9ccMI5ZBh8/rqfIUIQF1rfA7IGdDCaNUS7h2qoFSe5XQupkf8jdxwcbg+SWf1Qj6+HIlcp3DxuQF0ueTrMKPDBmdghKUuxfy+RZJt6Xqg+6GHWbEOm/2zegKtd1URPEQMgJDLY/rDEDtU66g7X9ktPuIw+iKm/FbAlv5cwqqkJYcRn4IsKPzOgrEojAi3q6Ka6/MHdivctU1SOpvceJ8sMy7/Jn4RVNAZzGr5bzyBTpro1cFpFqxnvoVRhYD/aMMUhIjDF267ABuP9R2e1yU=;EzU0BrXOtjwS4zwv+J4IDA=="
 ---
 

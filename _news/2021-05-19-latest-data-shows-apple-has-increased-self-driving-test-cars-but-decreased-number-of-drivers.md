@@ -225,17 +225,6 @@ related:
         width: 764
         height: 400
         isCached: true
-  - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
-    excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."
-    publishedDateTime: 2021-05-18T01:05:00Z
-    webUrl: "https://www.seattletimes.com/business/california-puts-teslas-full-self-driving-under-review/"
-    ampWebUrl: "https://www.seattletimes.com/business/california-puts-teslas-full-self-driving-under-review/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/california-puts-teslas-full-self-driving-under-review/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
     excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
     publishedDateTime: 2021-05-18T18:24:00Z
@@ -247,17 +236,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "California places Tesla’s ‘Full Self-Driving’ under review | Charlotte Observer"
-    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
-    publishedDateTime: 2021-05-18T01:10:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251485333.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251485333.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251485333.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 35
   - title: "Tesla is being investigated for misrepresenting Full Self-Driving’s ability to actually drive"
     excerpt: "The LA Times is reporting that Tesla is under investigation by the California Department of Motor Vehicles, over the over-stated claims made by CEO Elon Musk about the efficacy of its Full Self-Driving technology."
     publishedDateTime: 2021-05-18T16:13:00Z

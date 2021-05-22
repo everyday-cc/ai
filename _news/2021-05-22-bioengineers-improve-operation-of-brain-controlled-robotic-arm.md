@@ -34,21 +34,21 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
-  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-    publishedDateTime: 2021-05-20T19:18:00Z
-    webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+  - title: "UPMC: Sense of Touch Improves Control of Robotic Arm"
+    excerpt: "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled."
+    publishedDateTime: 2021-05-22T12:41:00Z
+    webUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+    ampWebUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
-        width: 1024
-        height: 682
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/upmc_logo_og-3.jpg"
+        width: 825
+        height: 366
         isCached: true
   - title: "Mind-controlled arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
@@ -147,6 +147,15 @@ related:
       name: WION
       domain: wionews.com
     quality: 20
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
+    publishedDateTime: 2021-05-20T18:58:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 4
 
 secured: "bqaAagfsU5AIL+UddlUrrpoiH01zuCif2UCbGuFdEft0uR2YS1C45uYhYHp4Qwpx6xstMjWjBCYD1Rj2QdcZx1NLPhA0Xml9BJWA260iSKKQxbLcSMftreqUFreGMKm+UiBnaaffD+fD1QPgDAHwbU/SV24QrsjkcnJxqJLDZZf+pN2BJt/vlqdAGEmw9Xsic/HEtZgTw22dJMgnavHhVSCHS9FJJHkGk50Z5nFztHeOkDtkWUKgvCogor+s5V2I5qPJvmK+PM1smCeDrnSnSwfr5FGnrFBe+F71Fjcxfgpm72IgOhkStYz9511FRgkKUBYcxphbSgoeaZ+F5rGEolue4T20e0X6/pIiNVI17MRY0QQJHe8CSxoOSS4iHCBoR8LLxijjpxzf3Iu8Ykt9vPhl8cxUAVxcJ120NpH1xE/UAHBeosPTwWUGF6MN7kfKypHmhJFy7QeK6PWEYlddzDlqgOQrRwhQUfmWtIXX6Ac/yG2kewABaeBHwUDXjMup9PyHnQgOQ1M14Sy9tKZDdA==;6x/c3iFcZznQN5luxuecyw=="
 ---

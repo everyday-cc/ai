@@ -1,22 +1,30 @@
 ---
 category: news
-title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
-publishedDateTime: 2021-05-20T18:58:00Z
-originalUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
-webUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+title: "UPMC: Sense of Touch Improves Control of Robotic Arm"
+excerpt: "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled."
+publishedDateTime: 2021-05-22T12:41:00Z
+originalUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+webUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+ampWebUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
 type: article
-quality: 4
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Gold Coast Sun
-  domain: goldcoastbulletin.com.au
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/upmc_logo_og-3.jpg"
+    width: 825
+    height: 366
+    isCached: true
 
 related:
   - title: "Brain stimulation evoking sense of touch improves control of robotic arm"
@@ -28,22 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
-  - title: "UPMC: Sense of Touch Improves Control of Robotic Arm"
-    excerpt: "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled."
-    publishedDateTime: 2021-05-22T12:41:00Z
-    webUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
-    ampWebUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 59
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/upmc_logo_og-3.jpg"
-        width: 825
-        height: 366
-        isCached: true
   - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
     excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
     publishedDateTime: 2021-05-22T13:33:00Z
@@ -155,7 +147,16 @@ related:
       name: WION
       domain: wionews.com
     quality: 20
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
+    publishedDateTime: 2021-05-20T18:58:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 4
 
-secured: "dU+GqeSXm+KCS/PyT+t9hcPa/dc2AhRVk+XjKEYGfIeFEjqZDXsnS912y2sAcD7daFkFCqHAzNUemMuFfjnfTTHcD3+fp3w6XjeRkSh4rB1TlcxU8nFGcXMCWWxbtPoc6Vhapxc3v17DXFxEVQ5VDWqnLyKMBXrSeDrwIa70wwdwJK7dUj3k653p0ya02kn9xESCkEHXHwOJtzV72Sg97op/sdjEG8QeGJbONWPLqbQHg+Kssb8TCW1TmgGstpS2v/jnobCPdJInVyofxz5TjWDdh83zMect0Ehr5oC+gxlHgGl+VQZTDPJBO8QByniHMO0UmvSZwG7OQGPHjPiv/ckNX4aTi0MQmf8rlNUBe/c=;qkQGgF7ti3aWJMcVIrXnrQ=="
+secured: "5uiixK5x+qiOIpe2BhvvqxWHNABSKZ4u/nifhRBUiLJPKHF8h1VhAiPKINPOWEpVgcZ70L8Snenl8CdWiB4Twe4cqLOto+naSB1b9xnpel789VjwG0Ea3zU2jjskCOC8U5eLk4ZdadLQv13/Qg9KaxQpvm5O27cCkP2OSWB0Us313lHSTOCU8VVJJWrdvOuMshsP8dI+YMayjz+VFawCjv9OOwug8BxmiM3geFi3ksWOHZCsRQMl+1h48Dm1mtiVe9okVcQ2dJ737eLQtQP25mEv8BlP08cfcF5FGDBhkODPE0E0D19qoJWFLjWj7sBm1GiltigRllIkqroMKqeSLJi/MepasEpknbJ83OIgDdU=;Xod53iZ3lDFsDVsVpBfAww=="
 ---
 

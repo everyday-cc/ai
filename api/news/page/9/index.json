@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
+      "title": "Soniox taps unsupervised learning to build speech recognition systems",
+      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "publishedDateTime": "2021-05-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-moogsoft-rolls-out-new-aiops-features.md",
       "title": "Moogsoft rolls out new AIOps features",
       "excerpt": "AIOps startup Moogsoft this week announced the launch of new product capabilities and updates, including extended integration capabilities, incident workflow automations, and automatic event enrichment.",
@@ -1147,49 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
-      "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
-      "excerpt": "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

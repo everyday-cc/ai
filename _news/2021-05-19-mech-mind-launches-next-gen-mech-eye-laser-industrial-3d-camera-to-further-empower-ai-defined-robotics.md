@@ -75,6 +75,20 @@ related:
         width: 730
         height: 395
         isCached: true
+  - title: "Mech-Mind Robotics Closes Series C Funding"
+    excerpt: "Mech-Mind Robotics, a Beijing, China-based AI industrial robotics startup, completed a Series C funding round. The round, which brought total funding to over USD100m, was led by Meituan, with participation from existing investors Sequoia Capital China and Source Code Capital."
+    publishedDateTime: 2021-05-22T17:41:00Z
+    webUrl: "https://www.finsmes.com/2021/05/mech-mind-robotics-closes-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 54
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/05/image-34.jpeg"
+        width: 950
+        height: 1050
+        isCached: true
 
 secured: "mgDW1ALr3VjZRfk6KFFiJBZPAMaVKLfQulkP3YZB5gjz7mJy+Qy96d7d4TlCNkObUJOoU5mrjIAL5JdsDxu1PomdEROrhMDikca4H/B1EzKVcY2wt0KoY9Dc7DJ57aplhDyK2OszVKNOVjCNp4sDFleqJigVrV0IDjQIgZFQNjhdmY4+sD4H6NJOb4cQsixqQYoU0lI51YGsXSOCtxA2in4Ey/+nDqEGxAe+y+RpLeWReSH0bT2MfkiTQ5EdASxaX6XARUIaOn4CuwqFzGUL1GwIw0j/VcLCL48gEGiycM/ZDzkGuMGYzdhc5HwSHmQKxbZiMJmYfa3xMM9omOKDIHpBhige4Ixlk8eAa5/VCiJqcJyEFrn+WtLeDq0KbOiHa68jG191oTXbdkKkEYDXZNRKRg/cIJagJrXcp+WsNmST1M8Eucq/EiFYJOXm/sLCJTCUjABd7c+zk57bVuOoV7yC21wFxBFL766KEPRaXDtSfjm7jiAcuK2xqj+0UtAxwmtpB0SgXrNFNbPCopjTHA==;Oxv32/2IdAb3nnYTDZNrWQ=="
 ---

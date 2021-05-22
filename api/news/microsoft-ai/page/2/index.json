@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
+      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
+      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture.md",
       "title": "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture",
       "excerpt": "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?",
@@ -1263,49 +1310,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed.md",
-      "title": "Microsoft Giving Developers a Bigger Store Cut as New Commitment Plans Are Revealed",
-      "excerpt": "Looks like Microsoft is gearing up to make things better for game developers on their store front, as the company",
-      "sourceUrl": null,
-      "webUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
-      "originalUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mp1st.com/wp-content/uploads/2021/04/microsoftstore.jpg",
-          "width": 680,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mp1st.com",
-        "domain": "mp1st.com",
         "images": null,
         "publishers": null,
         "authors": null

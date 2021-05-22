@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-24-vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration.md",
+      "title": "VMware And NVIDIA Bring A100 GPUs To vSphere 7 To Virtualize AI Acceleration",
+      "excerpt": "With vSphere 7 Update 2 and NVIDIA AI Enterprise suite, the A100 GPU becomes available to VMware customers running AI workloads in the enterprise data center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60583db2404355d3e27ca8ff%2F0x0.jpg",
+          "width": 1000,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/amp/",
+      "publishedDateTime": "2021-03-23T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community.md",
       "title": "Rates of Cognitive and Functional Impairments in Older Adults Residing in a Continuing Care Senior Housing Community",
       "excerpt": "Department of Psychiatry, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093, USA Sam and Rose Stein Institute for Research on Aging, University of California San Diego, La Jolla, CA 92093, USA Research Service, VA San Diego Healthcare ...",
@@ -1139,59 +1192,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-study-warns-deepfakes-can-fool-facial-recognition.md",
-      "title": "Study warns deepfakes can fool facial recognition",
-      "excerpt": "In one case, one of the APIs — Microsoft’s Azure Cognitive Services — was fooled by up to 78% of the deepfakes the coauthors fed it. “From experiments, we find that some deepfake ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/",
-      "originalUrl": "https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/grobman-Elon_Musk_Tesla_DeepFake.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/amp/",
-      "publishedDateTime": "2021-03-05T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

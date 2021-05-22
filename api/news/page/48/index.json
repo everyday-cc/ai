@@ -2,6 +2,92 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-04-13-coinbase-expected-to-become-worth-more-than-bp.md",
+      "title": "Coinbase expected to become worth more than BP",
+      "excerpt": "Cambridge Quantum Computing, a company that makes software for quantum computers, announced that it has hired DeepMind’s former Senior Staff Research Scientist, Professor Stephen Clark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/03/24/TELEMMGLPICT000254079929_trans_NvBQzQNjv4BqOTom2IDArMR5JububTrAx-tnFTrpsYaAoL1DebmRBSo.jpeg",
+          "width": 2501,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
+      "publishedDateTime": "2021-04-12T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ai-stock-picking-mutual-fund-from-ibm-watson.md",
+      "title": "AI Stock Picking Mutual Fund from IBM Watson",
+      "excerpt": "He holds an MBA, B.S. and B.A. from UC Berkeley. In this 3,367 word interview, Mr. Natividad describes the AI based mutual fund powered by IBM’s Watson that he and his colleagues have created. “AIEQ is the ticker, and it is the first AI-powered equity ETF.",
+      "sourceUrl": null,
+      "webUrl": "https://www.twst.com/news/ai-stock-picking-mutual-fund-from-ibm-watson/",
+      "originalUrl": "https://www.twst.com/news/ai-stock-picking-mutual-fund-from-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.twst.com/wp-content/uploads/2021/04/ChrisNatividad-1.jpg",
+          "width": 1200,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Wall Street Transcript",
+        "domain": "twst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-legaltech-artificial-intelligence-market-outlook-on-emerging-application-revolutionary-trends-potential-growth-strategies-2027.md",
       "title": "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027",
       "excerpt": "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the",
@@ -1009,74 +1095,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud.md",
-      "title": "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud",
-      "excerpt": "Cloudera, (NYSE: CLDR), the enterprise data cloud company, today announced that Cloudera Data Platform (CDP) will integrate NVIDIA RAPIDS-accelerated Apache Spark 3.0 libraries, intended to enable enterprises to accelerate data pipelines and improve performance of data and ML workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/04/cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud/",
-      "originalUrl": "https://insidehpc.com/2021/04/cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:32:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-inspur-information-introduces-3-ai-servers-to-support-nvidia-a30-and-nvidia-a10-gpus.md",
-      "title": "Inspur Information Introduces 3 AI Servers to Support NVIDIA A30 and NVIDIA A10 GPUs",
-      "excerpt": "At NVIDIA GTC 2021, Inspur Information, an IT infrastructure solutions provider, introduced three GPU servers (NF5468M6, NF5468A5 and NF5280M6), which support the latest NVIDIA A30, NVIDIA A10 and NVIDIA A100 Tensor Core GPUs to meet the demand for AI computing power in multiple computing scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/04/inspur-information-introduces-3-ai-servers-to-support-nvidia-a30-and-nvidia-a10-gpus/",
-      "originalUrl": "https://insidehpc.com/2021/04/inspur-information-introduces-3-ai-servers-to-support-nvidia-a30-and-nvidia-a10-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
