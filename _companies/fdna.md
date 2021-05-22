@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "FDNA"
   url: "https://twitter.com/FDNA"
-  followers: 6408
+  followers: 6407
 
 size: 11-50 employees
 yearFounded: 2011
