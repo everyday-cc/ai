@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-c
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of AI in Improving Employee Health"
-    excerpt: "Employee Wellness is one area where the application of AI has demonstrated its immense advantages. Powering wellness solutions through AI has helped employers create better employee experiences. Furthermore,"
-    publishedDateTime: 2021-05-17T09:24:00Z
-    webUrl: "https://www.indiainfoline.com/article/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 57
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-05/17/full/1621230829-1409.jpg"
-        width: 352
-        height: 233
-        isCached: true
   - title: "Artificial intelligence opening new frontiers in Canadian health care"
     excerpt: "These may sound like the medical miracles of a distant future, but with artificial intelligence transforming the health care sector, these scenarios might become our present reality sooner than we think."
     publishedDateTime: 2021-05-17T20:39:00Z

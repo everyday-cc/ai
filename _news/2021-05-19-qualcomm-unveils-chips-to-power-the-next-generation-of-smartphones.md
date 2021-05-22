@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621417179_snapdragon_778g_5g_qrd_-_ai_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Honor 50 series to use a new chip, Qualcomm Snapdragon SM7325"
-    excerpt: "Honor 50 series to use a new chip, Qualcomm Snapdragon SM7325. As of now, there is no official launch date for this series"
-    publishedDateTime: 2021-05-17T10:22:00Z
-    webUrl: "https://www.gizchina.com/2021/05/17/honor-50-series-to-use-a-new-chip-qualcomm-snapdragon-sm7325/"
-    ampWebUrl: "https://www.gizchina.com/2021/05/17/honor-50-series-to-use-a-new-chip-qualcomm-snapdragon-sm7325/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/05/17/honor-50-series-to-use-a-new-chip-qualcomm-snapdragon-sm7325/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/05/Honor-50-1-1024x441.jpg"
-        width: 1024
-        height: 441
         isCached: true
   - title: "Qualcomm Snapdragon 778G 6nm Chip For 5G Smartphones Launched"
     excerpt: "Chipmaker Qualcomm has launched the new Snapdragon 778G 5G mobile platform that is designed to deliver cutting-edge mobile gaming and accelerated artificial"

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Honor 50 series to use a new chip, Qualcomm Snapdragon SM7325"
-    excerpt: "Honor 50 series to use a new chip, Qualcomm Snapdragon SM7325. As of now, there is no official launch date for this series"
-    publishedDateTime: 2021-05-17T10:22:00Z
-    webUrl: "https://www.gizchina.com/2021/05/17/honor-50-series-to-use-a-new-chip-qualcomm-snapdragon-sm7325/"
-    ampWebUrl: "https://www.gizchina.com/2021/05/17/honor-50-series-to-use-a-new-chip-qualcomm-snapdragon-sm7325/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/05/17/honor-50-series-to-use-a-new-chip-qualcomm-snapdragon-sm7325/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/05/Honor-50-1-1024x441.jpg"
-        width: 1024
-        height: 441
-        isCached: true
   - title: "Qualcomm Snapdragon 778G 6nm Chip For 5G Smartphones Launched"
     excerpt: "Chipmaker Qualcomm has launched the new Snapdragon 778G 5G mobile platform that is designed to deliver cutting-edge mobile gaming and accelerated artificial"
     publishedDateTime: 2021-05-20T16:54:00Z

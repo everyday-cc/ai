@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Healthcare Chatbot Market outlook Opportunities and Demand Analysis, Forecast 2020 to 2025"
-    excerpt: "Currently, Europe accounts for the highest market share in the global healthcare chatbots market in terms of revenue. This can be attributed to the growing awareness and benefits of healthcare chatbots,"
-    publishedDateTime: 2021-05-17T09:51:00Z
-    webUrl: "https://www.medgadget.com/2021/05/healthcare-chatbot-market-outlook-opportunities-and-demand-analysis-forecast-2020-to-2025.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 9
 
 secured: "VnUidNM3NR7DW0OgAbbw8pvimpd+6q1CpCBypvAnxBm16ZY9RJTysD82zoT+xJu5VJ1YYpWCypZrqyRpysLrv2fVknFuCU387e2hoGLAJY3pQpxiPC8S7k3IH4w6MzKB1i3U+umyfFx9PgrVHjgGphXM59GjwsMAdsJdzbueVimlHiKr/Whkw2J0JFBEIkfvz6pSu/f0wXmKFTDE1XHOKS8O9HmW17eVKFLvqNQKisR2rL6fYyXUDAtFjfXFb1MWwF9jdCABQkGFzPz3jWit7GsFtAVzMS82ciO7AfgPr+25pe5/G+uep8AHtAJqCNV/fpsBRzLRxLMeM7C4jo8wB13ihs0OofN9Jm3O/LhwXT8=;RQhiYYb3j3ZDj19EL7oyGg=="
 ---

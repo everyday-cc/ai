@@ -30,6 +30,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
+    publishedDateTime: 2021-05-20T19:18:00Z
+    webUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-sensation-mind-controlled-arm.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
     excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
     publishedDateTime: 2021-05-20T22:40:00Z
@@ -71,20 +87,6 @@ related:
       - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
         width: 342
         height: 240
-        isCached: true
-  - title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
-    excerpt: "The world's first brain-computer interface allowed a volunteer with paralysis from the chest down to accomplish this very feat"
-    publishedDateTime: 2021-05-21T12:20:00Z
-    webUrl: "https://www.dhakatribune.com/world/2021/05/21/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 24
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2021/05/watermarked/367558/1621599940829brain-computer-1621599614229.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "waVcTiRIDDCiLxjGZAscGr7cMWAE6N1V3Um0RvebBtL1+vu9UN2JrU3tiZWRW1lxtvHlNMO+6iBgkwSsWsgvLj+zzqgWvEEqIBvmklOp/KYdAoTO5FgHr1KY+3EiRZ+1pz97/nXmS1Jt3Con4uQ16jpOwdJwnwcIHQRLz/xGaa5Nh6qy2rUogJOSgIfeddILSXa2QWyPPVueP47pO2f8MGo8nw2bGpWyfHK7wUuKe0NRHaBFvAnt4UNUj1/GOdFEE2WyjfaGqgXy+DR/kR0U3Ot5kJLgQSiMIt+dhCvOyTnX1QPEvyJdkMhJtWH0BnfgkjmVVd7FvN3lHlNQragARivXdecyixN8uuBlT0uKS1+yjqOMVUAp2fpp+2tswKvQdIITEMkhoLF/QabHji0655yhc9XB1ZY6ISSNYkD8Sk+Tj9TlRke5x3qaNYip4IFYnEXs+fsmou3sbQJ0cHFNWyiEAptabo7ygIe0Up29EBIkrXNwWPB8n66CVvkrIu3G/X7NXCru+VwNhWtEjpgt4w==;UUcOw1Og4/GSAmUenJxKYg=="

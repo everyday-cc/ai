@@ -40,20 +40,6 @@ related:
         width: 590
         height: 442
         isCached: true
-  - title: "Football: Burnley hand academy trials to two players using artificial intelligence"
-    excerpt: "Burnley have handed trials for their academy to two players this week after the pair were scouted on talent identification platform Aiscout using artificial intelligence, the Premier League club said on Monday (May 17)."
-    publishedDateTime: 2021-05-17T10:18:00Z
-    webUrl: "https://www.straitstimes.com/sport/football/football-burnley-hand-academy-trials-to-two-players-using-artificial-intelligence"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 31
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/05/17/af_burnleyflag_1705.jpg?itok=5U7CIbnn"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "RMXw+08oYPnWiDov7gdElyAYAFtoIaIluagVN9+7PN0Hwp0z4kfcYdJa6XLla5GgiBgNQck5atXZRzgfUbObp5AO/gvDuN++FYoDl39qEpDJ+ubD3Eq9/s2I+CrjVCVLWuiHM+hKzjhfaj2VbMadp69hA4UORJq99VTbISlYXfyf/djNfAr+0HHDn+KOdb7BoY3wznOezY6ayv0uo8dkvnmjv9nMQoVte1m2vb32MClk0t8rrnlIgn7DF2loSdRLZGdnKAaOAtvl1gxMbRH/pPc/gqUNrIH8RyZUkwR7Ji6r6itGLgN71/QkvWzHU7GjHbm8nUM1gm+iGYwDZq3HCCN7Twn3ZDCrSe1sRHRbWCE=;gDAZkN2h6WbkshW0YOEBIA=="
 ---

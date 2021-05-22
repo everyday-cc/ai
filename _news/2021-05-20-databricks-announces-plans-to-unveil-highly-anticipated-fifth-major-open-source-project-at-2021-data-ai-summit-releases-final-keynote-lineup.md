@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Databricks Announces Plans to Unveil Highly-Anticipated Fifth Major Open Source Project at 2021 Data + AI Summit, Releases Final Keynote Lineup"
-excerpt: "Databricks co-founders Ali Ghodsi, Matei Zaharia and Reynold Xin slated to deliver keynotes on data and machine learning product innovations and"
-publishedDateTime: 2021-05-19T18:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-1030448502"
-webUrl: "https://markets.businessinsider.com/news/stocks/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data-ai-summit-releases-final-keynote-lineup-1030448502"
+excerpt: "Databricks co-founders Ali Ghodsi, Matei Zaharia and Reynold Xin slated to deliver keynotes on data and machine learning product innovations and the rise of the lakehouse architecture"
+publishedDateTime: 2021-05-19T18:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data/article_68561dbe-a409-5b99-bfe8-a3d2fa4c174c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/databricks-announces-plans-to-unveil-highly-anticipated-fifth-major-open-source-project-at-2021-data/article_68561dbe-a409-5b99-bfe8-a3d2fa4c174c.html"
 type: article
-quality: 13
-heat: 13
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "mtEDIIQ/0F0KWyBWRfoJVtXvuarED1k0PWgbeQd9PQEHqG4jX+h4XAg/3ffnAtyWhX/VQgVPF62aavFK5oBd/GuDGg3bIwnUxHa5ztd+8VcK8xMOa+cTe1XUYOWA5UZdt1WZaTvm+7UdeVcLqq9XK+uX5QLFmquLL6IQbmTq+0dQ4qz6rKsgiIXSiYxDH7VMqpDCZZC5GV+ugq+fZVrE/45EmfqY/4TDH/C6l3yGcT/GsieMVCimYMTYB0eQFjgunlQfS2J9JPcodAUG+zVqGDZtvEcN77ulNX8/EvBKChXmpT6yZHztSbCg+Lc1dT3hnPRGmf/SUn5cOhglRPc9c3SpykvEJJlbtAykH2FM3f0=;IS6uGWajiFrP0q4BF7Ew1A=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "cBlKH8Q3VTPbRm9DwYPU0ElAo8gl1j7U9zm4yoj7Vx9dEloRL0M3oo02Mg+bn3IhF5CH1nHEgkGuaJbS776ps53b9An9DGO//JQhsHhgAnoQl+eJaGp5CtoWK680NufPuPHvr1+3sL87NnB9Cm8p+5SspQy578Uge7e4Oeb/5OSIOHJ+wCpaO+yGvd+PKkXA9m9q1wOonFtdsw62+hyy7zohrvlTYB1zZ3YzKcBoAj+BuaDfQbSSNqG1DuXCKsoEOrwZBMt3l0x8fC2By5eDBEaxsSEnyYJo2sa9rK7TGajrt0W3N6pUzcRMiQNsjgxwAZ/qsk3VQYSUBMoQyDV6uVqjXY+icnJB7r/loVH1Ixk=;q3OUvHRoxZqXoSUfMiaIRQ=="
 ---
 

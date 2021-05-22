@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-15-gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about.md",
+      "title": "GPT-3’s free alternative GPT-Neo is something to be excited about",
+      "excerpt": "GPT-Neo performs on par with GPT-3 on several key benchmarks, but unlike GPT-3, it's open to anyone who wants to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
+      "originalUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1053437844.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
+      "publishedDateTime": "2021-05-15T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-european-ai-needs-strategic-leadership-not-overregulation.md",
+      "title": "European AI needs strategic leadership, not overregulation",
+      "excerpt": "Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
+      "originalUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211364640.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
+      "publishedDateTime": "2021-05-15T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-ai-artificial-intelligence-how-non-tech-firms-can-benefit.md",
       "title": "AI (Artificial Intelligence): How Non-Tech Firms Can Benefit",
       "excerpt": "No doubt, these problems are even worse for non-tech companies. They generally do not have the expertise or sufficient resources to make AI a success. “Research shows non-tech companies in particular have struggled to take their AI programs beyond the proof of concept and pilot phases–with just 21% of retail,",
@@ -1090,102 +1193,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM",
-      "excerpt": "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
-      "originalUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-labor-pitches-startup-year-as-key-to-australias-future.md",
-      "title": "Labor pitches 'startup year' as key to Australia's future",
-      "excerpt": "The 'startup year', Opposition Leader Anthony Albanese declared, is a program aimed at driving innovation and increasing links between universities and entrepreneurs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "originalUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/14/9fba52dc-2a0d-46b5-a568-ff29df43ddce/anthony-albanese.jpg",
-          "width": 5455,
-          "height": 3637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "publishedDateTime": "2021-05-13T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

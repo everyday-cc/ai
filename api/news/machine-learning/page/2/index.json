@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-11-global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026.md",
+      "title": "Global Machine Learning Market 2021 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2026",
+      "excerpt": "Global Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast to 2026 is the recent market study developed by MarketsandResearch.biz that contains a comprehensive assessment on market estimation based on historical data analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-3-ways-you-can-start-relying-on-deep-learning.md",
       "title": "3 Ways You Can Start Relying on Deep Learning",
       "excerpt": "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ...",
@@ -1364,50 +1417,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ai-rpa-and-machine-learning-how-are-they-similar-different.md",
-      "title": "AI, RPA, and Machine Learning – How are they Similar & Different?",
-      "excerpt": "AI, RPA, and machine learning confuse businesses in adopting the right disruptive technologies. Here’s a way to pick the right technology for business innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "originalUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/RPA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "publishedDateTime": "2021-05-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

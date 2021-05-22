@@ -2,6 +2,92 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
+      "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
+      "excerpt": "\"Any defects connected with these protein droplets can lead to diseases such as cancer. This is why bringing natural language processing technology into research into the molecular origins of protein malfunction is vital if we want to be able to correct ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/sjcu-aic040821.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/sjcu-aic040821.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/261461_web.jpg",
+          "width": 720,
+          "height": 1058,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-machine-learning-ai-making-its-way-into-clinical-lab-management.md",
+      "title": "Machine learning, AI making its way into clinical lab management",
+      "excerpt": "While clinical labs' use of machine learning and artificial intelligence is perhaps most prominently associated with areas like pathology and microbiology testing, these tools are also seeing uptake for lab management applications like specimen routing and billing support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management",
+      "originalUrl": "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-artificial-intelligence-ai-market-research-report-growth-forecast-2025.md",
       "title": "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025",
       "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
@@ -1104,101 +1190,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-artificial-intelligence-and-machine-learning-survey-motivations-and-challenges-in-ai-projects-researchandmarketscom.md",
-      "title": "Artificial Intelligence and Machine Learning Survey: Motivations and Challenges in AI Projects - ResearchAndMarkets.com",
-      "excerpt": "The “Artificial Intelligence and Machine Learning 2020, Volume 1” report has been added to ResearchAndMarkets.com’s offering. This survey gives a comprehensive view of the attitudes, adoption patterns and intentions of artificial intelligence and machine learning developers worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-318f0c3699c7496fa6228fe1fea19f92",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-318f0c3699c7496fa6228fe1fea19f92",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-this-is-the-most-powerful-artificial-intelligence-tool-in-the-world.md",
-      "title": "This Is the Most Powerful Artificial Intelligence Tool in the World",
-      "excerpt": "and in the field of robotics and vision. GPT-3 (Generative Pre-Training Transformer 3) is what is known as an autoregressive language model, which uses deep learning to produce texts that simulate human writing. Unlike most artificial intelligence systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/368843",
-      "originalUrl": "https://www.entrepreneur.com/article/368843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617656858-inteligencia-artificial1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368843",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368843",
-      "publishedDateTime": "2021-04-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Machine Learning for Misuse-Based Network Intrusion Detection: Overview, Unified Evaluation and Feature Choice Comparison Framework"
-    excerpt: "Network Intrusion detection systems are essential for the protection of advanced communication networks. Originally, these systems were hard-coded to identify specific signatures, patterns and rule violations;"
-    publishedDateTime: 2021-05-17T09:12:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9410557"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9410557/graphical_abstract/access-gagraphic-3075066.jpg"
-        width: 660
-        height: 295
-        isCached: true
 
 secured: "kWixYSyx4xGioBQZG+/StXrJ+ZUe5WPDy1OckZzxgG7BKnhHVa8Pu2Q2nbmtpWyQmD5n5cMVFLoa4YL1ajKRX+YLOqICRoBVswfgzTIQS4T3w2cXYtifvNYgJAVB03VKth6xMkFAvWkjyF6b40ziIhNI8f4y1HEp7CmC1keARjULLUSunxb+0/mvSntIy7h+9b6MAAxIW+jvYKUW8Y9hFoHUs1ZdN//4qROavrxuMq8+VfBEJ6hzmpv2czAWS238yI+ksUeKYuvF5CF3z8aT3zV8djvMaSfq/8fwkUNIEOLtlrJJA39kYphHwW354vGIkA1yVlcyxSJD6E/BGdEFU9zbXFFOd941ioaYKFCgCvw=;sc1J9SZSsOCPeLXRtU9eng=="
 ---

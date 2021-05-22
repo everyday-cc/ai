@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Role of AI in Improving Employee Health"
-    excerpt: "Employee Wellness is one area where the application of AI has demonstrated its immense advantages. Powering wellness solutions through AI has helped employers create better employee experiences. Furthermore,"
-    publishedDateTime: 2021-05-17T09:24:00Z
-    webUrl: "https://www.indiainfoline.com/article/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/general-editors-choice/the-role-of-ai-in-improving-employee-health-121051700130_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 57
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-05/17/full/1621230829-1409.jpg"
-        width: 352
-        height: 233
-        isCached: true
   - title: "Can AI Revolutionize the Real Estate Industry?"
     excerpt: "Listing AI, a Canadian startup, is using cutting-edge artificial intelligence to generate full-fledged listing descriptions with just a few minor inputs from the user. If you’ve ever bought or invested in a property, then you might have noticed how flat ..."
     publishedDateTime: 2021-05-18T19:22:00Z

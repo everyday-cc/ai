@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
 type: article
 quality: 80
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Healthcare Chatbot Market outlook Opportunities and Demand Analysis, Forecast 2020 to 2025"
-    excerpt: "Currently, Europe accounts for the highest market share in the global healthcare chatbots market in terms of revenue. This can be attributed to the growing awareness and benefits of healthcare chatbots,"
-    publishedDateTime: 2021-05-17T09:51:00Z
-    webUrl: "https://www.medgadget.com/2021/05/healthcare-chatbot-market-outlook-opportunities-and-demand-analysis-forecast-2020-to-2025.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 9
 
 secured: "+8C8yTaZL5rncCpD5zdtm+yU3V9CZe0J4tqVgwNpkZ+hHl2nvMT4aQzgm7bFUu+ZELMyNnZs4qJBpILD5GLhP/SHsyxLUy00Fo4sVxi0CP2hjSUxUtrCt7EcVSfMpyQhDwtJRVgDFT1KGsMw4o2Y+aDwow7HTCNYuCcUbop3bsNPkoDsH4gjuuy0JP5pmcoScL1n+Nwv/VJqI6C0VgFFCxCHT+OGk9ixVn0fHnwTORSXW86d8FXDr8Ndjp/yirNOynPHaGlImwC0Ps0WkzjYJgdKHZwx3n2WvmcimCeMNcSpctgY05Oe+e+QeFPkJKMS7VTfq8oXHx7tF2Et/ir/TUhobIbYdZrU61YETwPU1cev50lRkLYMllenBlzQBOorrYqUk4OU5lBohHT61p7dbd11y5bScgVlLR9fbujeHQyEmUKaxVplFTMvgev6oMLQghKl+P5iZtP+QFcEtXqLdpYpdaXltdxyp/AOE2z3rgipyVzmffxJ4DhILue3SYYLwlSWnuhIsGUcsbsJU7GbQg==;LhrCF4KQE3/gtwIv9bWFaA=="
 ---
