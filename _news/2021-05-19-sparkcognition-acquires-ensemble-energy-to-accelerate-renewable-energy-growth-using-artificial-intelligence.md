@@ -713,15 +713,6 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 31
-  - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
-    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
-    publishedDateTime: 2021-05-17T13:11:00Z
-    webUrl: "https://www.aviationpros.com/aviation-security/screening-technology/news/21222966/facial-recognition-debuts-at-charlottes-airport-for-use-on-foreign-arriving-passengers"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 26
   - title: "Outsourced cleaners win trade union recognition after lengthy battle"
     excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
     publishedDateTime: 2021-05-21T16:14:00Z
@@ -736,15 +727,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
-    excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
-    publishedDateTime: 2021-05-17T14:10:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "MvXOTqUSrl+W7jsCVmPXmOgzADG5XeqfVkk6CIbn79ilQ25PJmeNYVSOIDH6g43/QPi1LumUk4MzOqJH2/rSNGiXoeNMAE44a79TNGptO98MkXipmP+Q3ETdxI3FwQOiemxrmhwfUBzOLNSiQrB7eZljJipfeabZ25TU/lOKdbJKDYqHFt92jl2+mAHGnjGzxwHiIvEISAcGp3t1lguFHY0yrYYpNwniAmGvSATFRve/0m2MamN7zMlt3mUsodDCfHFIBBt2//+rcNlBTuHjDpT4K9Bn7BvGXPtVkmY+t4h4hG2eVrJFF+7cNwy4LFm9jmAJLOWzlmDTHZ1bfdPuZjS/YaohT66NaFplyX307vs=;SPpfgMl91osxC6y4cETEJA=="
 ---

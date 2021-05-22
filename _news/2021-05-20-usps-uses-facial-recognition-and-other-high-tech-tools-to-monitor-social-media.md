@@ -711,15 +711,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
-  - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
-    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
-    publishedDateTime: 2021-05-17T13:11:00Z
-    webUrl: "https://www.aviationpros.com/aviation-security/screening-technology/news/21222966/facial-recognition-debuts-at-charlottes-airport-for-use-on-foreign-arriving-passengers"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 26
   - title: "Outsourced cleaners win trade union recognition after lengthy battle"
     excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
     publishedDateTime: 2021-05-21T16:14:00Z
@@ -734,15 +725,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
-    excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
-    publishedDateTime: 2021-05-17T14:10:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "8W8L9eM75jnkZcCkIsTmgCdxZBlG8qBJWbiybUuZKPNoJtz80YY8WrAvbrS1WYQBV6m7yxIjwu3CkxpU3uOsPH9NivTHQiz+G4nvJ5czDfBdGla7Ezstr5lgsBy0MkAx40mVi9n9/VWxEezSP331PQO54YddMNI5hiJtbeYUfFZKbFQOd6BcnV27jYbG+IpeJJyO3BCuHUF+O/woVMPsGS/3JZ8bmJOsSmKWRiEY2jSAqejBrC2U7jl5xNjbZf8WQeqI1lwpO9UmP2GsLvVmrrOqryZ5gvF08goggZL2RU0GTQeZbH9IklKcBOJ4+/o4WQ8sxwEg4RkjIibQyyE/i+LC8ZEUpZM9kiuO1svgP6mKf4q5j7Qn5f0gjukT/abyTPUK4I4Gg/CjIl3w8h01DqD8LJjegQcJoi/UdPTNGZvh6NzLQl0AvbBU71m2GYiMcrB9YsKtwScq2evvINHVm3u2Tf2oD5xsS1tiuvm+dQjrmvEJ4D/aSWW7uNGNp9g4NoUT7LtvmvlWJ0llA9rpEQ==;7qwVTddGB3Gd3pvWlDEIRA=="
 ---

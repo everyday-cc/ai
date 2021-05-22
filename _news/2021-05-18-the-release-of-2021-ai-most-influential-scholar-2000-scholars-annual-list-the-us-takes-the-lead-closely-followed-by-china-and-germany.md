@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "The Release of 2021 AI Most Influential Scholar (2000 Scholars) Annual ..."
-    excerpt: "BEIJING, CHINA / ACCESSWIRE / May 17, 2021 / Recently, the A Miner team of Tsinghua University released \"2021 AI Most Influential Scholar Annual List\" (\"AI 2000 List\" for short). The AI 2000 List aims to select the most influential and active top-cited scholars from the field of artificial intelligence worldwide over the past ten years based on AMiner academic data."
-    publishedDateTime: 2021-05-17T14:01:00Z
-    webUrl: "https://www.pr-inside.com/the-release-of-2021-ai-most-influential-scholar-2000-scholars-annual-r4830323.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 37
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The Release Of 2021 AI Most Influential Scholar (2000 Scholars) Annual List"
     excerpt: "The AMiner team of Tsinghua University has released the 2021 AI Most Influential Scholars Annual List (\"AI 2000 List\" for short). The AI 2000 List aims to select the most influential and active top-cited scholars from the field of artificial intelligence worldwide over the past ten years based on AMiner academic data."
     publishedDateTime: 2021-05-18T16:56:00Z

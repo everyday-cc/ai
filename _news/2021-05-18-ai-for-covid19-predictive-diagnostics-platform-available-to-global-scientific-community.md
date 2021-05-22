@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/ai-for-covid19-predict
 webUrl: "https://www.prnewswire.com/in/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 536
     isCached: true
-
-related:
-  - title: "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community"
-    excerpt: "The platform integrates a range of AWS technologies, including machine learning and artificial intelligence from Amazon SageMaker, a fully managed service for creating, training and deploying ..."
-    publishedDateTime: 2021-05-17T14:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-301292623.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg?p=facebook"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "6lRaSt39sdyxPOKWYTSlyIa40vddVTGfawc8gOUW7GDjYufEefaMAXARd+JTaVekDvTut1+21BQWS9TJj8l/2POqQRfw6Mg2veobl/SWYSJsjE7VPfJuYFsHKRBIFxHVuqxRa6ipTca+V2/XLPE7eMv+jrB2GHn9tV73CvZmcmz0zjsJITEBtt0WXJ2MH1EkSs6kywbKg3Rysz+CXiXBdHe716PqKimy0CiL+t71oKp/eNfJIfrod2V5PeB5qSESuonC7lds5QHwaDn9Skh5Etufm2YwfSsb0J1mxlF1z58bClXmrmcOjK/heIN2kIgR5q0CcvIVFxoC1pGFYv2o0eylQ2LylpuPr3ZmkztaydApmF86z0D1uhPpabN2P+A4S/VbauIIYs4oiofREgVXRlyzXtsM5sHZlItzcF30sqU8F1PprG1TTVU9kbySirmqCsP6092oqQujE52QgLI8z7yCr8XZaFmL6N8xl74O1JP7WzoLop1Pf0BDFEWhtc1uqek10fOxuNKnchi4Qjor4A==;TcHY/N+Cc0aqkYSGhFQdEQ=="
 ---

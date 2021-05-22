@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/events/article-artificial-intellig
 webUrl: "https://www.theglobeandmail.com/events/article-artificial-intelligence-opening-new-frontiers-in-canadian-health-care/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How AI Vendors Can Navigate the Health Care Industry"
-    excerpt: "The adoption of AI in health care is being driven by an exponential growth of health data, the broad availability of computational power, and foundational advances in machine lear"
-    publishedDateTime: 2021-05-17T13:24:00Z
-    webUrl: "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2"
-    ampWebUrl: "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can AI Revolutionize the Real Estate Industry?"
-    excerpt: "Listing AI, a Canadian startup, is using cutting-edge artificial intelligence to generate full-fledged listing descriptions with just a few minor inputs from the user. If you’ve ever bought or invested in a property, then you might have noticed how flat ..."
-    publishedDateTime: 2021-05-18T19:22:00Z
-    webUrl: "https://www.biggerpockets.com/blog/ai-real-estate"
-    type: article
-    provider:
-      name: BiggerPockets
-      domain: biggerpockets.com
-    quality: 37
-    images:
-      - url: "https://www.biggerpockets.com/blog/wp-content/uploads/2021/05/AI-real-estate.png"
-        width: 1360
-        height: 906
-        isCached: true
 
 secured: "2MsqbSNhnGcIA0w6UibrDnaLGbP50o7XTBu21jnSqM4VQojWasgVVaCvu9G0dTcz07GslxqdwGiKUEczFZ2qg1ZLJdCn537t4h0oQfIm8xWKytjDjvItnfzEqo2FemMX4K/wVk6gZRIApFG4CTrILcYVHrsccJ//TUJ1uyJG3ZTA1rb6oU9Fniwdyig6kmdE+OdRtGmxV3+lCPTYHZXjBfPBFIrqgKwFp0kd1LEDOfDuEB1m5E+8HtOWgYewtq1Fy+5247TBMiHONvhD6HaqgsZbAZsz2UVpZvkTac6CEUwCxIitf2Q9IblYY3D9QceOTT2gnoZ6ZwpX51X5IklbAPf43XvJceCfIvjYexA0Gsw=;aE0GU6vCQQxBsZQytCDqGg=="
 ---

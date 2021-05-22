@@ -86,22 +86,6 @@ related:
         width: 808
         height: 526
         isCached: true
-  - title: "Using AI to Take the Bad Emotions Out of Trading"
-    excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
-    publishedDateTime: 2021-05-17T13:24:00Z
-    webUrl: "https://www.benzinga.com/news/21/05/21152396/using-ai-to-take-the-bad-emotions-out-of-trading"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21152396"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21152396"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/vantage.png"
-        width: 680
-        height: 451
-        isCached: true
   - title: "Artificial intelligence should aim to help not oppress workers"
     excerpt: "Technological developments are having a profound impact on the working lives of people across the UK. The pandemic has led to dramatic changes in the way workers use technology and not just for those"
     publishedDateTime: 2021-05-17T23:01:00Z

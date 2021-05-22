@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
-    excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"
-    publishedDateTime: 2021-05-17T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-isr-video-analytics-national-market-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2025-2021-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "v/fyGUgGRq+oaO/rOEnkc61unmMcTM0AF/uQOh7q7zMqeakb9AK2z15K2SyH6quq1Ydcf8NyTYwNaaUn2+XOErzwBkdmIDKVcRgEMOADfuR16QEWW94WfSQhbpWCxiwUEw1r3W3j6NfsRB2aDfGq8qVxRtEnjXvnqsx4BG3NjyJ2dZTrq1USmAsfZvpsr6tJXrEwZm0u4DEs6TSJyyJZPub6UiAQh5ittIZzSggmY3YYLGkW2KxjRiCRdvQc5a7Eg1upMvNhE/TaygprAaZTTpjGH9Atl/NARN2nBfs03EIQXsOcQGq+aTd8Lmm008eKXp21bP9g7600mqy0R26uUHA0xYdLLyx+YnKc2DvTff4=;kaHHh5+rOTOFnpd3zS8PbA=="
 ---

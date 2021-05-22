@@ -711,15 +711,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
-  - title: "Facial Recognition Debuts at Charlotte's Airport for Use on Foreign Arriving Passengers"
-    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
-    publishedDateTime: 2021-05-17T13:11:00Z
-    webUrl: "https://www.aviationpros.com/aviation-security/screening-technology/news/21222966/facial-recognition-debuts-at-charlottes-airport-for-use-on-foreign-arriving-passengers"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 26
   - title: "Outsourced cleaners win trade union recognition after lengthy battle"
     excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
     publishedDateTime: 2021-05-21T16:14:00Z
@@ -734,15 +725,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Workhuman Recognized as a Leader in Rewards and Recognition Assessment"
-    excerpt: "Workhuman named a ‘Leader’ and ‘Star Performer’ in Everest Group PEAK Matrix® for Rewards and Recognition Providers."
-    publishedDateTime: 2021-05-17T14:10:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210517005618/en/Workhuman-Recognized-as-a-Leader-in-Rewards-and-Recognition-Assessment"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
 secured: "eYXa3XqOOriYHgxLDbYDHsshi360RD6dYseRhRj0fwHNIDCdw2/s+aXvACDchbKHyakEOljTaTrYvuZIkOxCHgeb6U/3b00pot6Q7YpIQ60TJZdFGTJamnWVO6oujvnVWrexsJgjZ0KnLxE+V5gXr8Hh3Vj5fVHYNcH6JjOluB+WfOZpp4H5xvlcTC2441lg8jSp/fLKl0P/0ABVqFRVZUmateqjORuWgVQPmNUcoXcuhSL1IOFR8alrUx8ZYporMXwseVa8Gj4B8b0kVFyF30ss6ewGqKhuSSL00LWaz31MQDLKKvu6QVzyAnw9grKqBPZNmk0LqQwCEVET43Mv0mQEde0HOR4aJTagOPSVyPo=;5MeWZfenk/L8oRmo6Xinsw=="
 ---

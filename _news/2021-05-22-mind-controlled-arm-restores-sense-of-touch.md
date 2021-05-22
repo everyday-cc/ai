@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-publishedDateTime: 2021-05-21T10:01:00Z
-originalUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
-webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
-ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
-cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+title: "Mind-controlled arm restores sense of touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
+publishedDateTime: 2021-05-22T07:00:00Z
+originalUrl: "https://www.iol.co.za/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
+webUrl: "https://www.iol.co.za/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
+ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
+cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
 type: article
-quality: 20
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WION
-  domain: wionews.com
+  name: IOL News
+  domain: iol.co.za
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://image-prod.iol.co.za/resize/5519x366/Nathan-Copeland-who-is-quadriplegic-controlling-a-robotic-arm-thanks-to-electrodes-implanted-in-his-brain-at-the-University-of-Pittsburgh-Pennsylvania-Picture-Handout-UPMC-Pitt-Health-Sciences-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4bab8285-62c1-5381-abd8-5bca694d39ee&operation=CROP&offset=0x290&resize=5519x3104"
+    width: 651
+    height: 366
+    isCached: true
 
 related:
   - title: "Brain stimulation evoking sense of touch improves control of robotic arm"
@@ -45,22 +51,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/nathan-copelandcontrol.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-    publishedDateTime: 2021-05-22T07:00:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 44
-    images:
-      - url: "https://image-prod.iol.co.za/resize/5519x366/Nathan-Copeland-who-is-quadriplegic-controlling-a-robotic-arm-thanks-to-electrodes-implanted-in-his-brain-at-the-University-of-Pittsburgh-Pennsylvania-Picture-Handout-UPMC-Pitt-Health-Sciences-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4bab8285-62c1-5381-abd8-5bca694d39ee&operation=CROP&offset=0x290&resize=5519x3104"
-        width: 651
-        height: 366
         isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
     excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
@@ -104,7 +94,18 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+    publishedDateTime: 2021-05-21T10:01:00Z
+    webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
+    ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 20
 
-secured: "waVcTiRIDDCiLxjGZAscGr7cMWAE6N1V3Um0RvebBtL1+vu9UN2JrU3tiZWRW1lxtvHlNMO+6iBgkwSsWsgvLj+zzqgWvEEqIBvmklOp/KYdAoTO5FgHr1KY+3EiRZ+1pz97/nXmS1Jt3Con4uQ16jpOwdJwnwcIHQRLz/xGaa5Nh6qy2rUogJOSgIfeddILSXa2QWyPPVueP47pO2f8MGo8nw2bGpWyfHK7wUuKe0NRHaBFvAnt4UNUj1/GOdFEE2WyjfaGqgXy+DR/kR0U3Ot5kJLgQSiMIt+dhCvOyTnX1QPEvyJdkMhJtWH0BnfgkjmVVd7FvN3lHlNQragARivXdecyixN8uuBlT0uKS1+yjqOMVUAp2fpp+2tswKvQdIITEMkhoLF/QabHji0655yhc9XB1ZY6ISSNYkD8Sk+Tj9TlRke5x3qaNYip4IFYnEXs+fsmou3sbQJ0cHFNWyiEAptabo7ygIe0Up29EBIkrXNwWPB8n66CVvkrIu3G/X7NXCru+VwNhWtEjpgt4w==;UUcOw1Og4/GSAmUenJxKYg=="
+secured: "gZV9SX6gBUWPmhDpo+IEIbVDQ7dGK59RHfFTLArvOs+c4SkljUzLU9swTfd9X028p//6ACvv0YUCsm71rZjGaAFH6LpSlTmq9AyYbVUiyKuZUNs7Fya+h2GPbwKFON2zzBx9GMZifiJLjMos/up0H5RVDPv+FD8qYeHOKSpgC3MI/KU7qVQNLKOkmvpZ6pj7UYavE/nMBX3xqnGOUHxK2cVeqq2SMCzJQq5MX5hnG50whTEOlF99MJBHcUiXs7thauKSgiNMFQB+pATn1BjJC9IC7HCEgrtb4GDjBzwb0vapfEc4TiUxG/ieTI3Wk2WQJ3kQV2u4IzbOzzmqLGr582J+0d9qrhp64bXEZNYnI2M=;W9gUE/rkinyw4DwiLhXhaw=="
 ---
 

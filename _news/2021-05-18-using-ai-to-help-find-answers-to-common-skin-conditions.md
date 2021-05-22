@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
 type: article
 quality: 109
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
         width: 808
         height: 526
-        isCached: true
-  - title: "Using AI to Take the Bad Emotions Out of Trading"
-    excerpt: "Any winning trader or investor will be quick to tell you just how important managing emotions is for achieving long-term success. Hope, fear, and greed are all feelings that"
-    publishedDateTime: 2021-05-17T13:24:00Z
-    webUrl: "https://www.benzinga.com/news/21/05/21152396/using-ai-to-take-the-bad-emotions-out-of-trading"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21152396"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21152396"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/vantage.png"
-        width: 680
-        height: 451
         isCached: true
   - title: "Google launches AI health tool for skin conditions"
     excerpt: "Google is taking one of the most significant steps yet by a big tech company into healthcare, launching an AI-powered tool that will assist consumers in self-diagnosing hundreds of skin conditions. Derm Assist is the first of its kind and will launch in Europe this year before being aimed at the nearly 2bn people globally suffering from skin conditions ranging from acne to melanoma."

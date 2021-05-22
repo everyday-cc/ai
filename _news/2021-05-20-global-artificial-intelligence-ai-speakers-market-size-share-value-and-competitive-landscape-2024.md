@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video Surveillance, ISR & Video Analytics National Market Size by Global Major Companies Profile, Competitive Landscape and Key Regions 2025"
-    excerpt: "The market research report by Kenneth Research on Video Surveillance, ISR & Video Analytics National Market that"
-    publishedDateTime: 2021-05-17T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-isr-video-analytics-national-market-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2025-2021-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
