@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-101-ai-power-new-featu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Precise Touchscreens, Thanks to AI"
-    excerpt: "A new artificial intelligence technique more precisely estimates where a finger touches a mobile phone screen, to reduce typing errors."
-    publishedDateTime: 2021-05-17T19:28:00Z
-    webUrl: "https://cacm.acm.org/news/252647-precise-touchscreens-thanks-to-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
 
 secured: "AQWmA2k1n9UnY5wM0NPSnHytAQCE+hFv7lCCLtJBabI9vM/yIaIRHFc/sAN9qWWxjcCVtpWqwZkYM/9tS1EV/fm3kgQcdxnn5yZDnY0RID6kGi6XESU8Qj/f8quuBrdHjlRfNu1oykKgTZFxzMz3fbVGhpGbhdQosAsazoqBZ5g1Dmje34+gglSKSQVxit95zGbLC7zI5kwXkcZR9Fq3pxPtamQH7Enx6aK7beKwM7Mjr0RTC+YhW3FKv/2gLInZMq2AaGAx6ZSRtdz1xTSlCeMxWTPANG5LUGrky0bVI/fMHGOGu//Ch3RiwDKB6wcVoOGU8WPAQH4M1EuS616n/JMkySy9Lk2aFawX+w7w0OM=;W7Y5+GYvMr0F+ssHbcrVbQ=="
 ---

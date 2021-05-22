@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic"
-publishedDateTime: 2021-05-21T07:24:00Z
-originalUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
-webUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
+publishedDateTime: 2021-05-20T23:00:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg"
-    width: 800
-    height: 498
+  - url: "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6"
+    width: 948
+    height: 710
     isCached: true
 
 related:
@@ -34,6 +34,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
+  - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
+    excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
+    publishedDateTime: 2021-05-22T13:33:00Z
+    webUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
     publishedDateTime: 2021-05-20T19:18:00Z
@@ -106,6 +120,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "VG725KcVP5ZYTP6x8odxt0JK0kReicMI3fhqyLJARbUliHnMNIVsd5EkGGkKZA/11AsSoLxsxYshGv1qifJ2sEsOZMXVMDMYtEGgMmj8sQ8ngALUqFwEIhdiG6IqyG12uFwoZP1cJ1R8JZ8VMvn3oyrm0woPG8N3B/2YG4xpSRG2qvkfuqk/JoTWFwSyMCOhEVnkYPDEPKJKGif2Kxp0dazJbqyJ8CNROkvAuvh2jXe7aIRVrsmd+Funz6W+uln8Hbsap/zmZ0TE+umLOJY9diVGcOiXJLE3KxEf0Ar2H1d+xOT9kqZ7ltRtQR5bPi3egBaHE0AILytrWu8H7X6o6qAYssQxKOhQuRzOMbRcpwk9Mwb5qiV+DYKXwKxntOshMPetfE1Wxl85MyMxxJU7IYzN7FMotL7m1G6XLgQ/p6wU3X7cbNv1pGDq8aPI2oBq9HeI6JuBdFMJhcU3SO07MOGyIQ3MjtVnMU4SrUlKZRZxZ5WiinPcloIIhd2ULqaFkjKbJXtQsbw7PunTNBjV6g==;THwWZgV4UMKonk53ZvRggA=="
+secured: "xkQfaYNpIAypdXqfMI6eK5D+BvWR8STWV0Z9BnITlW/g7Intf7UmAFZuyWFq/xAWsu+/9Jn+nrisaxC5W5x2swoZPiIeAJOv1jmPMpUgnXwewHZVDVbx7r140rEu9/4hkcB+2dybV/9qQZmnUlix8RanY2vHz9sL8Cyk8GCNWvzh7mC7BbeGwUlqOpQgnMOSh84b/NS39NmfekZi/yCVjqVVlVfUjdw7DTXAEmmwkbJJe++fgki4IRhAebnIoeJrhU+8acKThFx5B+pgr64kADgwjynYU50XOG1noKEsPRP1qKLpMKQ6ZoO2cvtXf0vKcSkcdQ+oBp4LMnXWHQZ3+l3efLfLuZZxG+rSw016Jnk=;rsRfO+ZPnt0/aBoZ6Tk7zw=="
 ---
 

@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
-excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-publishedDateTime: 2021-05-21T10:01:00Z
-originalUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
-webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
-ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
-cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
+excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
+publishedDateTime: 2021-05-22T13:33:00Z
+originalUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
+webUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
 type: article
-quality: 20
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WION
-  domain: wionews.com
+  name: unite
+  domain: unite.ai
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "Brain stimulation evoking sense of touch improves control of robotic arm"
@@ -30,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 63
-  - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
-    excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
-    publishedDateTime: 2021-05-22T13:33:00Z
-    webUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
     publishedDateTime: 2021-05-20T19:18:00Z
@@ -118,7 +108,18 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
+    publishedDateTime: 2021-05-21T10:01:00Z
+    webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
+    ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 20
 
-secured: "waVcTiRIDDCiLxjGZAscGr7cMWAE6N1V3Um0RvebBtL1+vu9UN2JrU3tiZWRW1lxtvHlNMO+6iBgkwSsWsgvLj+zzqgWvEEqIBvmklOp/KYdAoTO5FgHr1KY+3EiRZ+1pz97/nXmS1Jt3Con4uQ16jpOwdJwnwcIHQRLz/xGaa5Nh6qy2rUogJOSgIfeddILSXa2QWyPPVueP47pO2f8MGo8nw2bGpWyfHK7wUuKe0NRHaBFvAnt4UNUj1/GOdFEE2WyjfaGqgXy+DR/kR0U3Ot5kJLgQSiMIt+dhCvOyTnX1QPEvyJdkMhJtWH0BnfgkjmVVd7FvN3lHlNQragARivXdecyixN8uuBlT0uKS1+yjqOMVUAp2fpp+2tswKvQdIITEMkhoLF/QabHji0655yhc9XB1ZY6ISSNYkD8Sk+Tj9TlRke5x3qaNYip4IFYnEXs+fsmou3sbQJ0cHFNWyiEAptabo7ygIe0Up29EBIkrXNwWPB8n66CVvkrIu3G/X7NXCru+VwNhWtEjpgt4w==;UUcOw1Og4/GSAmUenJxKYg=="
+secured: "eyXlFSIulm+kigib3wZ99WgUupYmzBvxd0XGXA9bIAUKSE9b4ZOi+m0LFxoAKdxhS17Z0yWSdxqlxUWT/iAtgK/POezl0n7hh92pRgiXsbYwcBT0hhEu0gyc43AJJtKOUrAqu6KBYvK+F+5bikBx4vyeunMJDdpWK6FoW83rj07a0v92uRfyYmccwuWeu8Qxv96mvcdEEWmoBNptJwPsLW4Rfh5FWgC4cShKCF109SpS00vvt+FqlEOjpH8l8eGyFTQarUZbMDjPWN2f1/otVNbUTxnwHXlIbGLT47AkuwNTv2fPdQsrMKLdoiW1FsnzBVfKaeQlDT2ytaIlDf/sz+rPIPHYZgdMbt6jKU/0qLU=;XtJOF785cFoTqW04mTqZEw=="
 ---
 

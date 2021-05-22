@@ -320,20 +320,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Facial recognition debuts at Charlotte airport"
-    excerpt: "Federal agents at Charlotte's airport have begun using facial recognition software on passengers arriving from foreign countries, U.S. Customs and Border Protection announced Friday. Facial biometrics is \"safe and touchless\" for passengers and has stopped more than 650 \"imposters\" from entering the U."
-    publishedDateTime: 2021-05-17T20:32:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21223097/facial-recognition-debuts-at-charlotte-airport"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/US_NEWS_NC_AIRPORT_FACIALRECOGNITION_GET.60a2d23877fa2.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 745
-        isCached: true
   - title: "Amazon says it will continue to ban police use of facial recognition ‘until further notice"
     excerpt: "Amazon said it will continue its moratorium on police use of facial recognition, extending the one-year ban it announced last year."
     publishedDateTime: 2021-05-18T21:18:00Z

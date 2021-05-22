@@ -2,22 +2,28 @@
 category: news
 title: "Sergio’s Restaurant Using Robot Named ‘Astro’ To Help Take Plates Off Servers’ Workload"
 excerpt: "It’s known as “Astro” at Sergio’s Restaurant in Kendall. The name stands for Automatic Service Tray Removal Organizer, but you can just call it robot. Astro is rolling in to help out. After the order is placed,"
-publishedDateTime: 2021-05-22T10:32:00Z
-originalUrl: "https://www.kake.com/story/43938845/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload"
-webUrl: "https://www.kake.com/story/43938845/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload"
+publishedDateTime: 2021-05-21T21:43:00Z
+originalUrl: "https://keyt.com/health/2021/05/21/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload/"
+webUrl: "https://keyt.com/health/2021/05/21/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload/"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: KAKE.com
-  domain: kake.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "+TRkselZehbtKKVyYlpbq+AeUSKO/lka0+0v5Urt1xRSvN/anV4fwHPtR8Ua7tB1JMta0nOoRYXDxMUxQym63YOebTO4onHeN35cq2BQqQ1ffVvjNgHkTFAziAPOiLCd650uzQs/DJ65GS4tea7rvsd6PJG0sWmqfVL2VnzOwwR1WMd8wlzukT8fE1714LRC7p4vJZmxjByvmuSObtEQM/wH0cVOrQM1s2E5AgzMpmpId/QA67l+zVjTWAyk4Q7ahcxFAed1H+Lv60Ht8oVJ3o+E65dHkFtfYPEoywoIc1WlBQKdInVF9AL1RQUwnKSlPTeX1svNy09peTRV0lSlUYO1zr5x7sd7gvNszXoIcc8=;Pyn87dxrDNMec58Y15pvAg=="
+images:
+  - url: "https://keyt.b-cdn.net/2020/12/keyt-health-generic-copy.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "JG0pqYeAmZSPPZMVS1mhNbv/+s2DvfwTziL1/vwxqQglEydyvlKQhaRRi12GV4EvsjWZZgehBhJ4aR0IxkeESK8QBPhMRjD03lI1pkrW908cXmsQMxzsMn2GNWGLpZuEjZ3QVyrYARdueuDQ+kBADKUR1lL/XFeTDor6eunOBKcCpg33RWG06IwcYaKGMscIjuJiDh4iX8DJmGhRtcXhgtofqPCRp3lV/O6nTQB7+/Nw3nkFL6cn8XxhZsrmmOyJ32QAYGcADxIaRBBuMuqbuymQntcQhNVuqBELl3slEdyxGZ+4r74hcxvdVjvgu2lmo5ZCLC85TSVGJ/GR+gzS/odHDagkYCTRps4PUGqy9p8=;2vEZT/E053Srz+nm2pOpnQ=="
 ---
 

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports"
-excerpt: "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga's technology offering,"
-publishedDateTime: 2021-05-19T14:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-1030446896"
-webUrl: "https://markets.businessinsider.com/news/stocks/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports-1030446896"
+excerpt: "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. LaLiga will offer new experiences such as augmented reality,"
+publishedDateTime: 2021-05-19T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine"
+webUrl: "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
@@ -33,6 +29,6 @@ related:
       domain: constructionweekonline.com
     quality: 19
 
-secured: "2ovemmIHk924/CLb1V75Uq7T7hDSnbBd0Fl0NqyORs1mZHFvrnfl5PIypDgrqNYmuDHulDvZD8qe6jptxiF4jT0mYdXELAWsgHnjYiS4QkfXbAhjXVTJZAVwWNBP2awtFMUy1AOlpTQWYN1AsPuNjMXEUsuZ4FB1E8x8yWpZ1iyz//KuHhKhXomhFVcG/VUGdYkJUMOK71ESr4L63TLb2ebIXa8eW2P2bCkd0JVHBLTxbdNeS7EvfDAq2QdZ0lEE2lMHANS16mleXT5WF3T3GLn2ojAXiR6DdIWmd/zlm+Ow8OBriecp1eInTxrcnW0FHY7bGziXoeo8dHi2ehJ9tbjyTGjy3Xq+tgfSq2jMZAU=;JNwxH7h9QoPAmSTxlmLTmQ=="
+secured: "qq8ty0uYHlwwoKX+3NsA2csnQnURAF0DtKNMNnSpbFmvC6gkFjFRePaDboYALCo9WMe5gL50HDRIOk3ORMHX+PTiA88eiL1dbvWPjWlMR+Sd3Jkf5KsEUFD5ZsNKKYU63K7eIY8s8s29f+MA4Jo7h0/rEJqNQKjKeMQn3QRv1LzWtCaIMqLFBcbyjfdDoNTYOpGZk6HpLywcJFJw7D24kWZm8RcpSO7FmvYG9dp2RoqnSBy/xE+vEcOy8rRd4mJlV84fbTBCqwMe8KYzerWcE/AKDU3/GGbyvwZw6KR7UUPRGhp44/7kZdqlRJQ2Use9sliHFZG5ZuuO88YoVLARaeHKInB/lAuTmyUe+8U61I8=;Xijxz5qzI4LnDnlqheKlDQ=="
 ---
 

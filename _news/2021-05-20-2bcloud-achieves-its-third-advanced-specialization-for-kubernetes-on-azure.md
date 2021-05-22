@@ -1,27 +1,29 @@
 ---
 category: news
 title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "TEL AVIV, Israel, May 20, 2021 /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for"
-publishedDateTime: 2021-05-20T12:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure-1030450895"
-webUrl: "https://markets.businessinsider.com/news/stocks/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure-1030450895"
+excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
+publishedDateTime: 2021-05-20T12:36:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "HwOTFrl69NZKg6gQErAqhuJhyStD2nXkYq6GrgzS9DVsQqqZe63ZFbad0Os/FBEghN8ePXbN9UNepN285Sw4NimmV24tyqKEmEFyac7oQMJNrm9/SRDH8LSNDJP/1307kcXkxvBEtqDY6MvHu3yAEZXpApq0keeVjvbfQU4WMO1DVImneCjYujtBVKJOMYY7IW/o9KCLCKBkwbny3gBd6F/om6xHWY96eGD5tGNoihcdDDk7695TIFUAsttdNRmjbtjW9/JY9fggkIXSg0F9KVPb5naZkJ3+TG1EvK4DTc7KbJYZEUQAevORW4goI/47iPbKM1lkY26lpkZXpqfiV87dvk2kolRqJu/IaXBaXK4=;v1DSBBMp7mzetEEnBixi7w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "u7K4eF/ZAuvwQwOKtpqyqMEVBnQ18FIS5Gx22Yx+O6YgX3MeLh27j0u0lT+PcxMdrQqqRGFBZsslPyjsmqx+afjizlwPiokgMhl7bMK55t4GNmraxgJZKgmyv7fMn0+ckxtyTOcHW0ou16Q+vpsTHmlBqcRioKa+A7h8RDeZr5fhUnySRejqD1i4nGOe8Z6BHguINd5OGC0QrW5s6ZWYy20O37mFZyF4TMrhn4syCXTthzfQzT5pwKCi3QxlmWLVLU9LRiY6fpy7tR6nX7CRDO/76X/96v2nz6TYZNLvkiu8+EuEyIgR5abvWmaAsiwzX7T5SQoVt4Ytz8vQ8vbNl5WkG+ztipmcOeaC3nYUErc=;aYdgcAkqIQEmVAlenk6K4g=="
 ---
 

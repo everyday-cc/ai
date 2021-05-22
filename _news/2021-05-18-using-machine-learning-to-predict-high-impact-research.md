@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Deep learning saves researchers years in race to save teens from bad driving"
-    excerpt: "A major NIH-funded study of teen drivers at UAB records participants's eyes as they progress through several simulated drives. This data is crucial"
-    publishedDateTime: 2021-05-17T19:55:00Z
-    webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/9493-deep-learning-saves-researchers-years-in-race-to-save-teens-from-bad-driving"
-    type: article
-    provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 36
-    images:
-      - url: "https://www.uab.edu/reporter/images/rep_deep_driving_over_shoulder_CREDIT_1000px.jpg"
-        width: 822
-        height: 369
-        isCached: true
-
 secured: "UtLW9sPyQ/XZjfGE5DHnw4Ro2c6H7TNjrSrwcgSL7TJwF3W+3Jhawh2NpI3ZbdWYYpkztcVkRiqXW55OFx7ysvaBxqP98SnxCyemgjzrZQH8gzibys1pY86fAj2YntF7L4Bbz5g8rLnhIdRgB/WyYLk4DFZCbBwwvm+MrwyLT0NxjF5EpR7o5YWbSQU/yiuOCYM9CVETq3m5fD0vhMrKZybPnG2LiLLzrXgHtRkh3t4r8yoaEgDuG/gNFBXX/DDnRvh93MUchLh1hhsfpeoGrfRZOLG1w0GFBj0mk21IqgPD2twsQbyb1OUttr03owiOwzw3zteaoZ2eFk1swCvCUcjcPa+mqWHU4ObpsdFCw8SYDFSrTL7R9jB6jry6x5lHPXyvVgA381JIyfJ7rh793ZofA3KGCMM7YPkMpfO3gCSoyT1OdkOTqqM91os6txmv4wVPeH7+l7hGl2J3lCmEd+Qah9YJJgP2CXAYa+mcEo0ekE4wI49v7xh/diB6SAdASmglmNAj71Md9XVDk8e8CA==;6vwT7fvY7hLWfXhOEn8R2w=="
 ---
 
