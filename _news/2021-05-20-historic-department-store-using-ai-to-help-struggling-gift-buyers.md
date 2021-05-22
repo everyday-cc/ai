@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Robotics Company Embodied Acquires Conversational AI Business"
-    excerpt: "On May 6, the company announced it had acquired artificial intelligence startup Kami Intelligence, a move Pirjanian said brings the company closer to its ambitious goal of creating interactive AI products that can successfully carry out long and detailed conversations with humans."
-    publishedDateTime: 2021-05-17T07:07:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai-compa/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 69
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 670
-        height: 376
-        isCached: true
   - title: "Mayo Clinic, Others Use ‘AI Factories’ to Speed AI Development"
     excerpt: "The healthcare provider and other organizations are using an assembly-line approach to artificial-intelligence development, where small teams use common software tools and procedures to speed the production of AI applications while cutting costs."
     publishedDateTime: 2021-05-18T08:30:00Z

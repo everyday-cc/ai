@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Changan Aims To Be The First Company To Bring Self-Driving Cars To Pakistan"
-    excerpt: "It seems that Changan, a company based in China, is aiming to solve this dilemma by being the first company to introduce self-driving cars to Pakistan. The company recently opened a plant in Karachi and has a production capacity of 50,"
-    publishedDateTime: 2021-05-17T07:04:00Z
-    webUrl: "https://www.techjuice.pk/changan-aims-to-be-the-first-company-to-bring-self-driving-cars-to-pakistan/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 37
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/V-Cross-e1592210464539.png"
-        width: 1004
-        height: 560
-        isCached: true
   - title: "AI of Autonomous Cars Finding Its Way into Conventional Cars, a Big Crossover"
     excerpt: "Poorly integrated tech from self-driving cars could actually undercut human driving and produce a human driving calamity, with many distractions."
     publishedDateTime: 2021-05-20T20:19:00Z

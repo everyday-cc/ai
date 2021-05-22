@@ -53,20 +53,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Baidu Aims to Replace State-of-the-Art Self-Driving Tech With Launch of V2X System"
-    excerpt: "Baidu has launched its “vehicle-to-everything” (V2X) communication technology that the search giant says is designed for vehicles characterized by Level 4 self-driving capabilities and could even replace costly vehicle-mounted sensor systems,"
-    publishedDateTime: 2021-05-17T07:53:00Z
-    webUrl: "https://www.caixinglobal.com/2021-05-17/baidu-aims-to-replace-state-of-the-art-self-driving-tech-with-launch-of-v2x-system-101713817.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 33
-    images:
-      - url: "https://img.caixin.com/2021-05-17/1621237949622696_560_373.jpg"
-        width: 559
-        height: 373
-        isCached: true
 
 secured: "geYi3+XQKbtPqM/ioqCqbEwHXfoedw+0P9ZBl6kOcPfGMEpNG9CEKk9icuW5RBatBCcb+0E8/on4SLEcsotPgUsFE1DNnb2kfFRL4d78n8ogwWqLjAkj91v25LYCYIPM4Qqr5Jsb/Oxk8cErvRT+y5VPGFfvUjk1THrdt2nhb+26mJTNj5T1Xbu65JH4ydbo2O5QmbzdFpHIxwB8iW8rhw+thW2p1MLa+qVe7pCmKhLBufrzOdr3gsHuLuy4k3YKPd1/YNQ2YZNzT+2ubNnebXKhLPsQowGFHlbQDQsMGVWD8dgWZ0CeFak8fK+6nJ2K8iltCIq5RPMKuHRWCJKAWebERKi4mJLfaCt2hRfD5msgfafTVjAwpkdHW+/Zi70l2xHkX6nzc0mvazY5vQUaD5d0VrM96M4oazlQh5rbPcmnUsvnm/MvuG184AsagSk7e8rQJGGl74PMuY9pJMRfjvWgeGd1+mV9jXu0aW3oEpGoxMMJ6Jp2x33h+KTL2QjPUYSAZixh6w4CBE+aCXam3A==;d63U8I3qBKQexCAyC90VFg=="
 ---
