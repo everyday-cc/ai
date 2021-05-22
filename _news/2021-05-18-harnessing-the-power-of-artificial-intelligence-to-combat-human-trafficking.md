@@ -130,22 +130,6 @@ related:
         width: 685
         height: 385
         isCached: true
-  - title: "How AI can Help Retailers Make Ecommerce Profitable During 2021 Back-to-School Shopping and Beyond"
-    excerpt: "With the speed of vaccine rollouts indicating that Zoom classes won’t be front and center for the new school year, the back-to-school (BTS) shopping season of 2021 will be unlike any other. Consumers will be making up for lost time in shopping for new clothes and supplies,"
-    publishedDateTime: 2021-05-17T11:43:00Z
-    webUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond"
-    ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 43
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/05/artificial-intelligence.jpg"
-        width: 2440
-        height: 1533
-        isCached: true
   - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
     excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"
     publishedDateTime: 2021-05-20T13:25:00Z

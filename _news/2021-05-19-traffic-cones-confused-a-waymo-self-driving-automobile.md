@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo self-driving taxi confused by traffic cones flees help"
-    excerpt: "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck."
-    publishedDateTime: 2021-05-17T11:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57144755"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57144755.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
     excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as"
     publishedDateTime: 2021-05-17T23:06:00Z

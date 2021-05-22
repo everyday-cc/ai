@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "International automaker to launch self driving cars in Pakistan"
-    excerpt: "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety"
-    publishedDateTime: 2021-05-17T11:03:00Z
-    webUrl: "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan"
-    ampWebUrl: "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp"
-    cdnAmpWebUrl: "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp"
+  - title: "Ultra-sensitive light detector gives self-driving tech a jolt"
+    excerpt: "Realizing the potential of self-driving cars hinges on technology that can quickly sense and react to obstacles and other vehicles in real time. Engineers from The University of Texas at Austin and the University of Virginia created a new first-of-its-kind light detecting device that can more accurately amplify weak signals bouncing off of faraway objects than current technology allows,"
+    publishedDateTime: 2021-05-20T15:00:00Z
+    webUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.html"
+    ampWebUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.amp"
     type: article
     provider:
-      name: The Times of Islamabad
-      domain: timesofislamabad.com
-    quality: 59
+      name: Phys.org
+      domain: phys.org
+    quality: 44
     images:
-      - url: "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg"
-        width: 1200
-        height: 669
-        isCached: true
-  - title: "AI of Autonomous Cars Finding Its Way into Conventional Cars, a Big Crossover"
-    excerpt: "Poorly integrated tech from self-driving cars could actually undercut human driving and produce a human driving calamity, with many distractions."
-    publishedDateTime: 2021-05-20T20:19:00Z
-    webUrl: "https://www.aitrends.com/ai-insider/ai-of-autonomous-cars-finding-its-way-into-conventional-cars-a-big-crossover/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 34
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-21HumanDriverDistraction-2.jpeg"
-        width: 550
-        height: 366
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ultra-sensitive-light.jpg"
+        width: 936
+        height: 524
         isCached: true
 
 secured: "BM+dwVJpcpQS0tMqZpAQGFy7zAFsJh4/JzoI64u07w+3tg63u1i7O8wqXpTApFzI50htKf+/zeyPiM74SWEDLpuh3rG+TmGg8cHBCxkroeXF1Vk0YFRdZG0Ju34MZUrvx3k2G/Y78q1pFi6FBhiwfGhm8pqaVj7b6xmFqp6kUhJDtIlesyIbEwY8LuCHnUOeGmZhXuwTyvalb7JDClAsEPVpBk1rrVmqDQ3PFfx57WARFe6MDgJ6nCRgUwaVYlWTPFyZ1gXQaS0OocEqjVDkXJFeyd9SJl45GusDW0jGJctzprK51RMyn6xNnY7Xz6ksCPLv4v50L36kiMDI9doIZsi90eUpQn/rCekYbQ+VM46LMg2Vi5gsQPxHTYAMWj/SF0uZk3QWefKfY+CMYexiITKiVtMCfApoPMm6aA+NNoRJJ2C+N0ZZ/xjpL1SnxON9Qa4FNZ9u4lAKj8pZEMR9wwYCVbnyXnft79YkXnMxvGBW+Y7T47fBiaa6XDFpwd8beEEx44ILm2UOMaplNlJiSg==;prntco7V+VrYHwHqrFFsJg=="

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-in-cu
 webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: AWS
@@ -27,24 +27,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Learning From The Past To Future-Proof Your Customer Service Operation"
-    excerpt: "After 1918, telephone companies were never the same because their entire trajectory of innovation changed, as did the expectations of their customers."
-    publishedDateTime: 2021-05-17T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2b1ba333bc3442553ebf61%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "kWixYSyx4xGioBQZG+/StXrJ+ZUe5WPDy1OckZzxgG7BKnhHVa8Pu2Q2nbmtpWyQmD5n5cMVFLoa4YL1ajKRX+YLOqICRoBVswfgzTIQS4T3w2cXYtifvNYgJAVB03VKth6xMkFAvWkjyF6b40ziIhNI8f4y1HEp7CmC1keARjULLUSunxb+0/mvSntIy7h+9b6MAAxIW+jvYKUW8Y9hFoHUs1ZdN//4qROavrxuMq8+VfBEJ6hzmpv2czAWS238yI+ksUeKYuvF5CF3z8aT3zV8djvMaSfq/8fwkUNIEOLtlrJJA39kYphHwW354vGIkA1yVlcyxSJD6E/BGdEFU9zbXFFOd941ioaYKFCgCvw=;sc1J9SZSsOCPeLXRtU9eng=="
 ---

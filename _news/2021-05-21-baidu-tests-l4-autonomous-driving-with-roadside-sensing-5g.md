@@ -39,20 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Some Self-Driving Truck Developers Make Case for Supervised Autonomy"
-    excerpt: "While most developers of Level 4 autonomous truck technology are targeting driverless operation, some see near-term business cases for highly automated, self-driving trucks with a driver still in the vehicle."
-    publishedDateTime: 2021-05-21T15:30:00Z
-    webUrl: "https://www.ttnews.com/articles/some-self-driving-truck-developers-make-case-supervised-autonomy"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-locomation-highway.jpg?itok=4glAATuU"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "R4AJMAnd0DWswU3qYzC5OBYLqkVn/daK3Wy4fhDAPGSf8TafsXheZfBRA8yBiyzI2Uar26IgB73GymmfqDz4eX9Xxz2JmvVMDqfy8w9D5gGUVVN/nouLY2uceB+jlBYVa7Pk9RhKBMSWdb/y8v7rk33HngiS/Ygfw0msdRwTwXZIKzSTMt0B+AwsB73W+i1vCH/P/PbTixQxTNnnUrXpLKPwZxwvBa2gTG0Kv9wz6PqeMHSchZcyLqzlPxuXc3PwT9v97Za+XK8LC+jGWMP8axTutmbPwHj8BISCxcOLYFHtR83d/6Kv1FZbveCYUa8JXqK1ju8aiZo1q/How858eOy+Brbvkx38IAyrkvLt/scRruqIqAKEfDz5JB9xjn5sDMDPf1GyawqTurIcfG2d0XsfOUTmDLGTYytjb33kl4Kd4f75TRgsXviDLKdUMRVP7yzIs9embLh+adRDlU1wWyVD6u02hoGkHMuHRlFvM3e8UzabmrLYu2mhXSfvt3TbpS6dtH7SVZqiy75aX+gAVA==;GhO942/apcNqTlmuJj7kQA=="
 ---

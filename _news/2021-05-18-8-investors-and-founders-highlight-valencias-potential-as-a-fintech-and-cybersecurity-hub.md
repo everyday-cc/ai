@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/05/17/8-investors-and-founders-highlight
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/8-investors-and-founders-highlight-valencias-potential-as-a-fintech-and-cybersecurity-hub/amp/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TechCrunch
@@ -29,22 +29,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Cisco adds to cybersecurity service with acquisition of Kenna Security"
-    excerpt: "Cisco has announced its intention to acquire risk-based vulnerability management firm Kenna Security to bolster its cybersecurity offering. The California-based company uses machine learning and data science to track and predict possible cyber risks and will \"empower security teams to manage the ever-evolving threat landscape\","
-    publishedDateTime: 2021-05-17T11:46:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4031410/cisco-adds-cybersecurity-service-acquisition-kenna-security"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 41
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/d57f0e5/41e03e6b-2e87-41a4-9974-933fd888330a/5/cisco-building-corporate-002-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "ozEQMKtCjM8KefIEG7sF2f4D6aGMMM8nMqDbvW4ZkFq/tW76/flPUhtGYtZrLPg0487R9BGLIJe5CZjc/Yrslsu4xKbCv+jiv/Tw4w64CsucfxHyUHngzX5axFVVeSTbxq2o34y7jPVJwRMXvTBCsV09lbwWgs3iPoF1cENmIvzX2o2Ngt+pxkG3IVbuA0FAvCnbz0sYimXToUN7wdD4NyG/qm5TDDlF8hx8s23qe9t/30M/vc6JzaVgufaFBvCySiVzqCttB3mHyvYnjRIITOuuUbEXtflok6M/ypEvPccNpkeabIUhPeLjvXTzAyVYkiDeDaRiYbpE5uShbtnp7dNPlSeGJ8frjwwHGdCUdqZSwHCj5pA2eAQXtGadu5uaSQp50Kho5LijA6dfLVGX9x5pRlbKxfGwR6xALoLG5vOcMIQ6t0ij3J7MLjjFd1iF4tFeu0IboqPCP8aliZ/RH17YBvAt/lbLcuG2Jy0/jSAbM6jWtL6fDXWg3pNwt8dtaP3laowBanW/WGWlZ4Odiw==;plyQjdSkKUQVUxkfCm1sKg=="
 ---

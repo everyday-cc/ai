@@ -1,36 +1,40 @@
 ---
 category: news
-title: "Tackling tuberculosis screening with AI"
-excerpt: "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can"
-publishedDateTime: 2021-05-18T18:45:00Z
-originalUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/"
-webUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/"
-ampWebUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
-cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
+title: "Making seismic easy with AI and machine learning"
+excerpt: "Using powerful new AI and ML solutions, oil and gas companies can accelerate their seismic efforts while increasing efficiency and quality."
+publishedDateTime: 2021-05-22T05:34:00Z
+originalUrl: "https://www.upstreamonline.com/sponsor-content/making-seismic-easy-with-ai-and-machine-learning/2-1-1014529"
+webUrl: "https://www.upstreamonline.com/sponsor-content/making-seismic-easy-with-ai-and-machine-learning/2-1-1014529"
 type: article
-quality: 109
-heat: 159
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Google
-  domain: blog.google
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg"
-      width: 50
-      height: 50
+  name: Upstream
+  domain: upstreamonline.com
 
 topics:
   - AI
-  - Google AI
-
-images:
-  - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg"
-    width: 1300
-    height: 541
-    isCached: true
+  - Machine Learning
 
 related:
+  - title: "Tackling tuberculosis screening with AI"
+    excerpt: "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can"
+    publishedDateTime: 2021-05-18T18:45:00Z
+    webUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/"
+    ampWebUrl: "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
   - title: "11 ways we're innovating with AI"
     excerpt: "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine"
     publishedDateTime: 2021-05-20T15:57:00Z
@@ -93,16 +97,7 @@ related:
         width: 800
         height: 427
         isCached: true
-  - title: "Making seismic easy with AI and machine learning"
-    excerpt: "Using powerful new AI and ML solutions, oil and gas companies can accelerate their seismic efforts while increasing efficiency and quality."
-    publishedDateTime: 2021-05-22T05:34:00Z
-    webUrl: "https://www.upstreamonline.com/sponsor-content/making-seismic-easy-with-ai-and-machine-learning/2-1-1014529"
-    type: article
-    provider:
-      name: Upstream
-      domain: upstreamonline.com
-    quality: 34
 
-secured: "3drDl+8ziKzPBOu+4zLeRtAOSCTFRxwV2sWFmkT34EelQNpr96IKXTByi6RwcALKBAHLnVdHgJfSHRSPPVw4KiyCbZR4GHVY6cGXMAaItrkv/vpDO/2e3kDftNCEieXPWjiUrsWUhazbNashPZ52NCIPwCKXFaKKUDp3en4/4bLJ0If5XjDLjZ9eWiDKxqbNNRLajI8+LgSQwLy9GV3MSKhTwj0uu5xykZzS/YmQn/nfRn5qwHJdkgy0GiNzlrhvSXHZQIF/lJEPmmM6McSTqdWCTNvqk/TzSDDUh4ZbtIPcZ7UoiAv1nYThDj9doVlbxjvrvOoeUT6ckZ9NLUayE4K+tvxaOw913bFKANK3vN4=;pJfzp4BL+V5pcB5F51uhgQ=="
+secured: "Vt2Ae/MhBWtcotXIu5kjrxrtYjPwsHNjQ8gja3xTd32LnWKpnn6lOOPM+VfFqNHc1guQ1kqYrjBEM4DQS8uo/eTtVC6lLTqIZ6FGLykXUOUsjnE2OzKGhfXSjz7Moc7X88ftGm0MBTDTFqzHY8Kk5gJPkzHDuu+5b6KLUErvxM+oonP7u3tkw4l7L+nRd9OuoJkM6yt+G33aDWneXs7IbGFmmdOmuZ2kHhOVycEynJWZH4FyvkAg+ncP8jmx5RS4tphK22sRC/unYqa74lh2cm/gadwhLS9Pqjqm3LScOIdoBOyH41IMFwlLYg48BvqRxtZZ34xdSFFSvQIPp5P3CcFapRKP5JxFdUxcGYZ3hwtTsgoTQSIcIxQzJZGf3/PM56owxl+kXr3i232ZKu7lhBZWIQSNWcB6Z8mU3XReh+fJRnBzY4tyIFS1hHaUTpgEuKfsNg/f5+NEfw6iyYnUiyYxpMWtZzfQN/DRdctGlAzM1fO/gtVznad+qfEm2F+CGUT1cbJmcwwdB1Fy6Ppalw==;E6KN7jrkCmuCIBRKCYSktQ=="
 ---
 

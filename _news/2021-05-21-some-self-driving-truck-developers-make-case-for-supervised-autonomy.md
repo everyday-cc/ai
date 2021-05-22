@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu tests L4 autonomous driving with roadside sensing, 5G"
-    excerpt: "Baidu, a leading Chinese self-driving technology developer, has started testing vehicle-to-everything technology that can help vehicles without sensor equipment achieve L4 autonomous driving on open roads with roadside sensing and 5G communication technology."
-    publishedDateTime: 2021-05-20T17:30:00Z
-    webUrl: "https://www.autonews.com/china/baidu-tests-l4-autonomous-driving-roadside-sensing-5g"
+  - title: "New Upgraded Radar for Self Driving Cars,"
+    excerpt: "Self driving cars are quite popular these days. They provide a high level of security and comfort for the rider. As the market for these cars continues to grow, many companies are trying their best to make their cars more efficient in order to attract the customer."
+    publishedDateTime: 2021-05-19T13:20:00Z
+    webUrl: "https://techstory.in/new-upgraded-radar-for-self-driving-cars/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: tech
+      domain: techstory.in
     quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20V2X.jpg"
+      - url: "https://techstory.in/wp-content/uploads/2021/05/upgradedrada.jpg"
         width: 800
-        height: 600
-        isCached: true
-  - title: "Baidu tests Level 4 autonomous driving with roadside sensing, 5G"
-    excerpt: "Baidu, a leading Chinese self-driving technology developer, has started testing vehicle-to-everything technology that can help vehicles without sensor equipment achieve Level 4 autonomous driving on open roads with roadside sensing and 5G communication technology."
-    publishedDateTime: 2021-05-20T17:30:00Z
-    webUrl: "https://www.autonews.com/china/baidu-tests-level-4-autonomous-driving-roadside-sensing-5g"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20V2X.jpg"
-        width: 800
-        height: 600
+        height: 479
         isCached: true
 
 secured: "geYi3+XQKbtPqM/ioqCqbEwHXfoedw+0P9ZBl6kOcPfGMEpNG9CEKk9icuW5RBatBCcb+0E8/on4SLEcsotPgUsFE1DNnb2kfFRL4d78n8ogwWqLjAkj91v25LYCYIPM4Qqr5Jsb/Oxk8cErvRT+y5VPGFfvUjk1THrdt2nhb+26mJTNj5T1Xbu65JH4ydbo2O5QmbzdFpHIxwB8iW8rhw+thW2p1MLa+qVe7pCmKhLBufrzOdr3gsHuLuy4k3YKPd1/YNQ2YZNzT+2ubNnebXKhLPsQowGFHlbQDQsMGVWD8dgWZ0CeFak8fK+6nJ2K8iltCIq5RPMKuHRWCJKAWebERKi4mJLfaCt2hRfD5msgfafTVjAwpkdHW+/Zi70l2xHkX6nzc0mvazY5vQUaD5d0VrM96M4oazlQh5rbPcmnUsvnm/MvuG184AsagSk7e8rQJGGl74PMuY9pJMRfjvWgeGd1+mV9jXu0aW3oEpGoxMMJ6Jp2x33h+KTL2QjPUYSAZixh6w4CBE+aCXam3A==;d63U8I3qBKQexCAyC90VFg=="

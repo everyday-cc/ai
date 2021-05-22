@@ -7,7 +7,7 @@ originalUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a
 webUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/article_2102333d-9f27-59a2-bf6e-e0b96c17c6a5.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo self-driving taxi confused by traffic cones flees help"
-    excerpt: "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck."
-    publishedDateTime: 2021-05-17T11:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57144755"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57144755.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Waymo’s Self-Driving Car Is no Match for Construction Road Cones"
     excerpt: "The problem with autonomous driving is that even within the relatively “unexiting” environment of urban road networks, there is an astonishing range of elements that introduce quirkiness and confuse driving AIs to a debilitating point."
     publishedDateTime: 2021-05-18T17:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -120,22 +120,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa806748a-b753-11eb-9a91-c8c89595f50e.jpg?crop=1500%2C844%2C0%2C78&resize=685"
         width: 685
         height: 385
-        isCached: true
-  - title: "How AI can Help Retailers Make Ecommerce Profitable During 2021 Back-to-School Shopping and Beyond"
-    excerpt: "With the speed of vaccine rollouts indicating that Zoom classes won’t be front and center for the new school year, the back-to-school (BTS) shopping season of 2021 will be unlike any other. Consumers will be making up for lost time in shopping for new clothes and supplies,"
-    publishedDateTime: 2021-05-17T11:43:00Z
-    webUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond"
-    ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 43
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/05/artificial-intelligence.jpg"
-        width: 2440
-        height: 1533
         isCached: true
   - title: "Harnessing the power of artificial intelligence to combat human trafficking"
     excerpt: "To combat human trafficking, MIT researchers have developed an algorithm to examine Internet patterns to try and break the chains."

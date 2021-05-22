@@ -24,6 +24,22 @@ images:
     height: 1067
     isCached: true
 
+related:
+  - title: "AI Can Be Your Next Financial Guru"
+    excerpt: "Machine learning frameworks are capable of effectively tracking fraudulent transactions, making payments systems safer for users."
+    publishedDateTime: 2021-05-22T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/ai-can-be-your-next-financial-guru/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/ai-finance.png"
+        width: 1600
+        height: 800
+        isCached: true
+
 secured: "VldyxgOYHYiCqX8UDXieENDyxe9msACD0MznwREe7KaWiyvHAD6xtk5fY+t65P/UrFC7vuskJ6hoAlGgjypv3qDW4qQEGvFeXkTRzp+h1Ehc0gAYMUWBHGoAUqE6JokJlUteN6CUpJWZ9KTmrtVEPVu65j2pAthmKXQS1DtHOSyyA6gurOMzXKSxAitTnFCpk86Lku9YFE258MMiDtsNGN9nv7aaQ5cU7BGuSHzVuEfHXV42+XUs1LCC8UjhmWrHXDT2ypBqobrTIFbAGtWazlM+Sm/wetr2Fopq0NdRNpg6MLjzGJqm6ZDvJL3MWPi57SWO0O3ge7IzIMZYHCLhcRbGWUez8JxuyTtWBpFfETLLKLKzIXBK7gVYi1c2huQY/lPB3+4dKpIlw8IZXSkLPr6bdJ5v4/8/fv8ICYS6RzViLApU2ww0qxSE1nJq0cm/ZJwPJxRGvuSwIwYy8ID8fHVqkBQD2S+N+dtvdjGVzxg24fE8SuUj6CZaryNb/wjvInytF3NsAQxX1ZctcobsyA==;x99VniK4akOFgdM3YHoGMg=="
 ---
 

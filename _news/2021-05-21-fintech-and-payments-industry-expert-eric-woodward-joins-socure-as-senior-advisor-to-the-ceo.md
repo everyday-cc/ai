@@ -58,15 +58,6 @@ related:
         width: 696
         height: 557
         isCached: true
-  - title: "Truliant Federal Credit Union invests in Boston-area fintech for AI capabilities"
-    excerpt: "\"This is the way the world is moving,\" says Karan Kashyap, CEO and co-founder of Posh Technologies. \"This is the way that the big banks are already moving, and if you don't understand that, then it's going to just be harder for you to stay relevant."
-    publishedDateTime: 2021-05-17T11:42:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "6/0SVV6IaWmDtEGuexXuskw8elsc9ZeEf5w2SjQr83Oprv6Drs26CepNBZPqvyN3GNIuYnTflm0CnXVOczWcIP6dnqBsI42BXiT+3UljOtm8mXt0QwJPXCZPmk/0RcSVCXPByQZAz1W3rzqE2F1GdJiDTJ6KKZmMQdvb1mZGtPDUK1OEFXDOUFS7UvrnRWVo+bPvha7oc7zsGPBeZ/BV9Omytij+XDHf0P8GJN3eREb/m3ra9+ztpa6UCifoAK1QqHAs6QoaGIwFBIV/ny3G5b9vmkrun3EVYLzpfO9IH/VyDBbfjYaxF0TbRWuBh1PuKgITwZME0Q1MThq9SnZ4cVgNmBIkprBT3ampcGxYPBk=;lOp7EjM4J4JGHlpUUklQ1g=="
 ---

@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy"
-excerpt: "Breakthrough technology uses cloud and artificial intelligence (AI) powered wearable devices to diagnose and correct vision defects in real time Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software,"
-publishedDateTime: 2021-05-20T13:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210520005301/heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy"
-webUrl: "https://www.morningstar.com/news/business-wire/20210520005301/heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy"
+excerpt: "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform."
+publishedDateTime: 2021-05-20T13:13:00Z
+originalUrl: "https://www.lelezard.com/en/news-19817130.html"
+webUrl: "https://www.lelezard.com/en/news-19817130.html"
 type: article
-quality: 13
-heat: 13
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
+  - AI in Healthcare
 
-secured: "cJgBuS31/jNhjbee6eS04k7+f7y2LTMbUTUS27Bv3CYZmMfKBHUzeIDvjwHjLgs7P7QGNAJLCE1heJhYKqQdUgK8INkYrddCatNvfRczG2CtAi9FmGy08v+njnKEunkN98MhbR3tOWcMJDvD5ysTdwv5f6n4MRKtksgXtuH/X9bxpM90jXMmHYbp4qJfBbt2T3tyFCpF5mLEH8OT8DSInQMWArkHV+bsWBj225vMbXeaNpaf2AwFBLaO+MRE1JaJ5f/WvZ0m/HFsLhhZ9+Xr0hYiLDqXaVHr6eavgd5DXWxrl2hAITY64Sd6iwbY9MKFlgYx7o6GYafp5gIZdQM/CDG769imm9qe3KwjtwintP4=;6ZCzFa4YvUVQlEcxuYhRnQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "4GvK8Rgcfi4b36FLi6krWqU91UQhOS9C+miadbcm4SOIB/EHwSSZ7XyCw6zzWNKd8Ld0jv3PPsvc2any6G6HWbRYZ/rxyvJ3aQ3DSg4V8eBP1i2gf5ZtkSXG2Ge6QPBpTq4ttnelqveyiixu5nmxX2kYhzFyMqFNf4SeoE2n7on8zS383rTLnTnINBA6xGD68JnoXU1CRt30qSQPzT1k9fZeC1LwISJU4p6AZZ55uXGxtlqc+YDv766mWcaPebpSfFZA84lmKH/G2eKxBnLP1uTCNne9HyES3Qge9d3Phqh2qmkuJoIKzq7XyV0L5MQqxxYwQ9h1E0g4ZFkLPNjn/1v1WuQfyWxDHgECB5i0F/Y=;jwKbDwidUJipGc0M3Kk5Jw=="
 ---
 

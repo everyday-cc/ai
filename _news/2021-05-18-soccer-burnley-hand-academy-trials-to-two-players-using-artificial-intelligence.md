@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/news/sport/soccer-burnley-hand-aca
 webUrl: "https://www.channelnewsasia.com/news/sport/soccer-burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-14827198"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 991
     height: 557
     isCached: true
-
-related:
-  - title: "Burnley hands academy trials to two players using artificial intelligence"
-    excerpt: "Burnley has handed trials for its academy to two players this week after the pair was scouted on talent identification platform AiSCOUT using artificial intelligence, the Premier League club said on Monday."
-    publishedDateTime: 2021-05-17T11:19:00Z
-    webUrl: "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece"
-    ampWebUrl: "https://sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/"
-    cdnAmpWebUrl: "https://sportstar-thehindu-com.cdn.ampproject.org/c/s/sportstar.thehindu.com/football/burnley-hand-academy-trials-to-two-players-using-artificial-intelligence-talent-identification-football-news/article34579231.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
-    images:
-      - url: "https://sportstar.thehindu.com/incoming/article34579213.ece/ALTERNATES/LANDSCAPE_590/Burnley-"
-        width: 590
-        height: 442
-        isCached: true
 
 secured: "RMXw+08oYPnWiDov7gdElyAYAFtoIaIluagVN9+7PN0Hwp0z4kfcYdJa6XLla5GgiBgNQck5atXZRzgfUbObp5AO/gvDuN++FYoDl39qEpDJ+ubD3Eq9/s2I+CrjVCVLWuiHM+hKzjhfaj2VbMadp69hA4UORJq99VTbISlYXfyf/djNfAr+0HHDn+KOdb7BoY3wznOezY6ayv0uo8dkvnmjv9nMQoVte1m2vb32MClk0t8rrnlIgn7DF2loSdRLZGdnKAaOAtvl1gxMbRH/pPc/gqUNrIH8RyZUkwR7Ji6r6itGLgN71/QkvWzHU7GjHbm8nUM1gm+iGYwDZq3HCCN7Twn3ZDCrSe1sRHRbWCE=;gDAZkN2h6WbkshW0YOEBIA=="
 ---

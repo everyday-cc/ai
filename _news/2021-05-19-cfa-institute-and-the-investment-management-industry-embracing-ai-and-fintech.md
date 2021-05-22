@@ -50,15 +50,6 @@ related:
         width: 696
         height: 557
         isCached: true
-  - title: "Truliant Federal Credit Union invests in Boston-area fintech for AI capabilities"
-    excerpt: "\"This is the way the world is moving,\" says Karan Kashyap, CEO and co-founder of Posh Technologies. \"This is the way that the big banks are already moving, and if you don't understand that, then it's going to just be harder for you to stay relevant."
-    publishedDateTime: 2021-05-17T11:42:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
   - title: "FinTech and Payments Industry Expert Eric Woodward Joins Socure as Senior Advisor to the CEO"
     excerpt: "Socure, the leading provider of digital identity trust and verification solutions, today announced the appointment of Eric Woodward as senior advisor"
     publishedDateTime: 2021-05-20T17:15:00Z

@@ -89,6 +89,15 @@ related:
         width: 800
         height: 427
         isCached: true
+  - title: "Making seismic easy with AI and machine learning"
+    excerpt: "Using powerful new AI and ML solutions, oil and gas companies can accelerate their seismic efforts while increasing efficiency and quality."
+    publishedDateTime: 2021-05-22T05:34:00Z
+    webUrl: "https://www.upstreamonline.com/sponsor-content/making-seismic-easy-with-ai-and-machine-learning/2-1-1014529"
+    type: article
+    provider:
+      name: Upstream
+      domain: upstreamonline.com
+    quality: 34
 
 secured: "V+kWWVQ+APK1dCyvRoNqJE6ulpmT9o570YK+M8buL4uNos2NHkAGrl88FFcx7iP+Xy3asa0Sgzg6v2iBtfqY2pjlPmcYn+L6EmwiSU45l8FRYByxQuf0SjXiX3YTPn3R43BLl/ePJqHOxgWSn6vgXevG0j3MZAFKvmNjiKZ/9AfIg/0YlC+LT9wlE+QgsCrt3WYwDW1obyMgwEzoiNQIfFKr3ICoB4IKmvxtW6Kzs5WQ2k7eEbivinAgK9oufgPa7/kyE9HGcKTi1Ht4GTBu5OfFzPl6kPydFxFWhN3Rj2wfw+LMvwXk9+TPF0HBbeVl6XjzXJVC3+5xA2ew0DyLs/J6V34JtSDJXrHIGHKGlk8pYjnV9bHCeOGNBM8HNJ2UGPr7+ZAEtoYB6Nkb5YC5cucnRZwY2bT/jotELIoGBweaGAvmC8oPKhWJ5T/Y2ITV3eGNEIDVoiASIHH1+4qnCsyiTK9DI69UjweLxk97pawLKAVqGP7qfHYVP3GpFf5q2htpXpIrfFCKG9WcIeYmng==;oicGfadVUgKgLXLe9ewz5A=="
 ---

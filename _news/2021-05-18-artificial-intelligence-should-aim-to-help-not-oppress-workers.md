@@ -116,22 +116,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "How AI can Help Retailers Make Ecommerce Profitable During 2021 Back-to-School Shopping and Beyond"
-    excerpt: "With the speed of vaccine rollouts indicating that Zoom classes won’t be front and center for the new school year, the back-to-school (BTS) shopping season of 2021 will be unlike any other. Consumers will be making up for lost time in shopping for new clothes and supplies,"
-    publishedDateTime: 2021-05-17T11:43:00Z
-    webUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond"
-    ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/how-ai-can-help-retailers-make-ecommerce-profitable-during-2021-back-to-school-shopping-and-beyond/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 43
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/05/artificial-intelligence.jpg"
-        width: 2440
-        height: 1533
-        isCached: true
   - title: "Harnessing the power of artificial intelligence to combat human trafficking"
     excerpt: "To combat human trafficking, MIT researchers have developed an algorithm to examine Internet patterns to try and break the chains."
     publishedDateTime: 2021-05-17T18:49:00Z
