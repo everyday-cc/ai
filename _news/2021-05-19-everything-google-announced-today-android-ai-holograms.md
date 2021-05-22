@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

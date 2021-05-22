@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

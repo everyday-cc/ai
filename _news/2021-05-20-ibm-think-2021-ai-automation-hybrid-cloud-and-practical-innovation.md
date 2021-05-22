@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-aut
 webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/"
 type: article
 quality: 71
-heat: 93
+heat: 91
 published: true
 
 provider:

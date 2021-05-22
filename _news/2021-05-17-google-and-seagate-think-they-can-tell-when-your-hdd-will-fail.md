@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/google-and-seagate-think-they-can-t
 webUrl: "https://www.techradar.com/news/google-and-seagate-think-they-can-tell-you-when-your-hdd-will-fail"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/09/Hard-Drive-PCMag.jpg"
         width: 1700
         height: 956
+        isCached: true
+  - title: "Google and Seagate use AI to predict hard drive failures"
+    excerpt: "The team tested two different AI models to predict which hard drives would fail, and found that an automated machine learning (AutoML) model worked better than a custom system, giving 98 percent precision - while also enabling Google to find new rules ..."
+    publishedDateTime: 2021-05-18T16:49:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-and-seagate-use-ai-to-predict-hard-drive-failures/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google-destroyed-hard-drives.2e16d0ba.fill-1200x630.jpg"
+        width: 1170
+        height: 616
         isCached: true
 
 secured: "vNpS4Id9tZp2/7CZzGUqPXNHBUXQiIEwDUVXr+aAIQLbp8paQj4+2053fDP4+aOPWww09Dg4oKG3mjdAckeyEOcnPwpAhkofve70Y7zBJCXPjor3+ez8bXCYvWcuUSV9aE3Em77H8RcoW3vqDLsczgum0EgskkeiBCqg9mbYt36rbLVdSiRvP/hgckdvP7WuC5usdWeyCxS3bxudoyhgHFMP5g0ggTYKlpl49JJmYGsJhqlfrA34nQnMjK8Q1NFDWAUPw6OhZqTNUe/lHhKXuCzIxMLAMNw62z4mGK4MJPvmcp72ut/SokonIVNGYl1DBzlA4ZxIHeTfLyVvRHp/zswzgFkz5FcEVezDAUMbR3c=;Q8/d15RPEWFcvircMTTWjA=="

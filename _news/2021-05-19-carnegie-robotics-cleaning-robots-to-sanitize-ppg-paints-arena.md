@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Advanced Robotics for Manufacturing (ARM) Institute Announces Availability of RoboticsCareer.Org"
-    excerpt: "National capability sponsored by the Department of Defense addresses pressing issue of lack of skilled labor in U.S. manufacturing."
-    publishedDateTime: 2021-05-20T15:54:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2021/advanced-robotics-manufacturing-institute-robotics"
+  - title: "Robotics Hub Carnegie Mellon Lands $150 Million Grant"
+    excerpt: "The university will use half of the grant to expand research and staff for its advanced manufacturing program and to build a new center focused on robotics innovation."
+    publishedDateTime: 2021-05-21T20:20:00Z
+    webUrl: "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046"
+    ampWebUrl: "https://www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 56
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
     images:
-      - url: "https://www.automation.com/getmedia/96202959-24fd-42ab-ad3b-17cf243895d4/ARM-news-May-20-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://images.wsj.net/im-342134/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "v549zuxxkebxBYsjCmzWWXZ/m/vlwBY/5MtjEsBqijycnRxbKS6lFEdPV+0hFQOfLWnGNl2PYz4let0HL7/6YmlbfW4VhzUVfKuJFmfu+QQBOFPmV5Ba4ylZD8tZkF+YxTX3qk3HX87shk/lCOd4PSQooVMGHfFn6eRhMfwsJrSmOLLSO7L1S+0rn6XDRy6twAs0XVad83fr3/5sAxjFk2waBN+JW0PjmFvyzj3DaIV/xd/9AehsiVb8+sclouhYxU9glb1WGutlMBzu112IqcUiOplhIolV1rLNVp8GLdu/tixxXwb6V5smf/zw5jaVfXSl7CraDfIdraVIVCi6BYo5jeheyqi+Sdm2uI/ikf4j0Kuf1C1m/y02Eykwl38zATD2TIGfHUo5xmYDEQxeQsOvkqOseAfqvxUdU015IsDvjkGrfclXh/Vmfe3fgbEBWBUUYKeA6nkoDxQSToiDG5I8ysxbtziLulCt8DUQ2Ou/QRahHQNKOfJKTKGz+I0mjX5Vc+pMoY+dRtBZXOlQiQ==;XHJTDQuF8pPee7ku8tdJfw=="

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Best practices in customer service automation"
+    excerpt: "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who"
+    publishedDateTime: 2021-05-21T22:48:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "Qjjso6nbgZBF+2YEGc9UKYW1Vv4wFC+HpwX6anoBc0xxmvppK3y9WEgw6rwH4mLEodEv0M3JXOMbzv5tr7l2xMtsGvrWHJSMPARlhDroWfSw9wYseLwjChoPKk/34Jo7f/bbMEF7/xD+8anWr3h0Mu4jGBnEVzGUW/la5UwmbDAZtBwAVuk3A89XnVTJDyMfcfgcwM31afA4USiY8psmYgwymxd18rW2Aq5CdYf83nrUxPcWWMiBFjnxGg5aPtXcoSKWsxBX5LbLleZJBsWvB3fk4V7YNg25bAUd//yCXnLBCW++gbsvkRT+u0jQsid6gg6ZUntzCH0/jwNHZaumAOOikFkbrSc42u5BuegHOig=;F8Y1us7q4IDM3YQkUhqCbA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-05-machine-covid-vaccine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:
@@ -51,6 +51,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "O8vYXdxJ+K4xDLbP/JLDNyAkYxNsL5NVaFGFcVlXnqMoHK14907n+He0ct70oDHmIkNaYSdlVI3QAsE+hQPPBNoM8KQeRJ6HUSonLAKfBXZhCkEvos6kqCn386eVz2dNCF7ipofm5mtw4aJaP+QGMWzUM/gAULqGHDli2TwqMWWvtCcvUFlmjbo4NFJj/JRSxMMJI/85DVqxGCv/gwSHHTKOdYaOEteZdug6ejnIGOjFClsxC9fmuhmhBhvo7k9DY1nzdxJXzgh23I46tw81AqfmpBTX6yLnXGK7TQcC1YU/oRzRAXMAP0P678PEs1gHuWjGEdzOKxP061xmnor1TsBbs9r6S8+oQvlC4JaS7Is=;NTqGU2pDCE6J+vn9Epv2dA=="
+secured: "HAgWyjWH7zTLmOigBEpyFUQr6zq5yHuKg2xx0wNmNKCMKMui+YXmtFhTE98EebRjHgBssgG4Bw/J1YZ+lTnM5ST6AuKdvlVyW08HshDRLQKTwPZuCnWzFlx1v9Xeoz92NiyOhrs1bmQQGaqIf8WbewrXf7F0zDGSX5KdRtZDwiEDwfg+N+OqGd2FikHIZyLJ3Ghgjq5kRlFIXjems/LC6QsVvep3/RHlr1t1PNagfXSllk76LgBd4+RJ7NsFr7R6lcpXvzrSyos9V9eVrr0EEY3cHtukL0SVRlGxnQko1P1uobyiifTLtQfON4cc4Dhmlja+2qK4gPGaIdn6CqKjAGlenDn+61aleio0rhM5fPI+zCw96LhW6v8Mih7ubx9lTuab5eO2ne2w42tXqRpaXk3BBd9LUPds4nnlnIecpP8suRzEdpemdJfJ1t7rGg471rV8btZiBmSpreCoUNUGC3UqQ4QzVvg0q5j+8pmFxPcRDFsustOuoMxU5Avt7h+eAQdEBMRiaw5eg34wdPqlrw==;uxfeeZ7RMmLjtyy6fPn4VA=="
 ---
 

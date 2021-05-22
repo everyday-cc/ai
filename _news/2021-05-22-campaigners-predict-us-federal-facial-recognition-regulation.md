@@ -614,6 +614,20 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
+    excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
+        width: 959
+        height: 368
+        isCached: true
   - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
     excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
     publishedDateTime: 2021-05-21T07:00:00Z
@@ -730,6 +744,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "RD3YQq7bpfmDluRCIkTHgUhJK4JmT/zZXcG2XGXyuBKnwXFX7bGqd6G2mptldzAqMxWKpIuzwo4oczx4JNHgYSRk7p3nPlhs4NCqlZD4nwF8jwBhkGfZCb/C5ulK6Br5GsuIz013tzwrRg3CsUhUDFQVL4JoaiVYVrFnBKheMbsjuUAAgOprb2wtII0Md9f7RJjIHIOx+ZIfbNiEK5BsM+sTjwh1niu+7JdToDuvrMmgUJBs9wg52qW6t8fBC3Ufn8j5D02g0blGbDCoKV4flmwF3P5VmXjBZFR21FuOlCOXc5i3gor2rip6z9++HtnZ2AvCFYv8gBKqgNhhHfLonuW3jSjikQH6t/vIO03miP8=;kttnXpPCS1RWHBmWF07Xig=="
+secured: "BRr0HXtx2ecYKqGzUpF91afh8YFz4l97EgirTn+Fmd8v8+d0d93aC3yC1/z9nuT1t75eqlLSXJU5gcn0itoPOVJ07cPKwl7Hnu3YNpEL1Wxc1WOrjd5cy2525vKaIpWMKUQtorBKFHPB4vE4Uf3rIHkKVEzLTp0noK45GP6bUndeBObN/3U0oPvRGUv0G4f1elsgp+MHPSMKx4T/wKLzCJGsKQf1k126JutEvY11h1gJizlP/Ciu8sOR78oppn8woc/DTNe3uwM6XQO/Zfe8OGFfxT6hxuOhEr1Hzw+6K+LdQ/3aF/ZFfIFw+YiraTBukM8YmZybr5DbYbtldv+2wVqyyj7Q8TagQgDS5P2dCFb5BA3EhiRzrzDs7O5LrviL0RHIJGz3E9rvXTZYHiqP8yVATyb4O58ygluDzz0ycL15pySHdMKr4L+Ya60knGgHMGrqRxgsZKmGFd7zPdQNI3H/tAteB5Hz66IpqIyqaWMhIvRVo29jhQSjFoRpWqP2+zhg+ER/gjMIsgtRUARQRQ==;04KyhCPPKaLpkvd+aX9l1g=="
 ---
 

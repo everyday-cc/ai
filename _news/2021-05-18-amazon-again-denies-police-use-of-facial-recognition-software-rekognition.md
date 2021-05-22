@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekogn
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
 type: article
 quality: 118
-heat: 618
+heat: 628
 published: true
 
 provider:
@@ -617,6 +617,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+        isCached: true
+  - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
+    excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
+        width: 959
+        height: 368
         isCached: true
   - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
     excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."

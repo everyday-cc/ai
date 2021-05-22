@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/21/under-the-ai-hood-a-view-from-rsa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/under-the-ai-hood-a-view-from-rsa-conference/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

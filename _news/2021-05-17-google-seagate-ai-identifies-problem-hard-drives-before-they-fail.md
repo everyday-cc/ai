@@ -39,6 +39,20 @@ related:
         width: 970
         height: 546
         isCached: true
+  - title: "Google and Seagate use AI to predict hard drive failures"
+    excerpt: "The team tested two different AI models to predict which hard drives would fail, and found that an automated machine learning (AutoML) model worked better than a custom system, giving 98 percent precision - while also enabling Google to find new rules ..."
+    publishedDateTime: 2021-05-18T16:49:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-and-seagate-use-ai-to-predict-hard-drive-failures/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google-destroyed-hard-drives.2e16d0ba.fill-1200x630.jpg"
+        width: 1170
+        height: 616
+        isCached: true
 
 secured: "k0ek2IyTwaW/4RF6G7E/bLeXoTHqcOnl7nz8PCEM2Qn+4LA0jyFp4J8v0AOABcyKqhuqgPoVdycCWfdnxXfMQR1FXOIoARH+PN5tmORyp1rY6bEgTVlsa8XyG+2wEd8F7IqM7LnADKQdAPnH6RaHv1PFFsj5ipA/rH2uCjFBpfrFhqd2qIIcoBPkaQVEjSQv1UTN5HNzZntWUHhd3X0nMQtEG3G/F/D81+sHbpmre9Kc2/UnPS4HsrPa1hlrPd5K51uLB9CUmmCvrhLPQTSrvJcfppdtEs7GqvS1DNxQj9vfL9KFI+s/hmNZTq+IoK0uQxmu+LuiFpNwuaQCW4mVRMfMobs81VKX/SB2KGFsFCRN4JvExCjZgrPsWCjeLHmL0Vz4oB8mxKNFps+czsJJUeuJ8YcZlQ//qPFyZrRVDi/zPoulLxpOYr/9BiryCmXv0C+atK2E4cGkKNXhXXoR3mt58GcHx4IBcVU5wsW146EV9CMSjPD445vg4s4WYdDJej+TDVy48GN6/6/8tFCWKw==;88KNmutmfpvRaNIDswmnOQ=="
 ---
