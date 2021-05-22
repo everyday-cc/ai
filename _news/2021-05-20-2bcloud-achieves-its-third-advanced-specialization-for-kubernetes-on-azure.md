@@ -1,29 +1,23 @@
 ---
 category: news
 title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
-publishedDateTime: 2021-05-20T12:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be validation of a solution partner's deep knowledge,"
+publishedDateTime: 2021-05-20T07:36:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "u7K4eF/ZAuvwQwOKtpqyqMEVBnQ18FIS5Gx22Yx+O6YgX3MeLh27j0u0lT+PcxMdrQqqRGFBZsslPyjsmqx+afjizlwPiokgMhl7bMK55t4GNmraxgJZKgmyv7fMn0+ckxtyTOcHW0ou16Q+vpsTHmlBqcRioKa+A7h8RDeZr5fhUnySRejqD1i4nGOe8Z6BHguINd5OGC0QrW5s6ZWYy20O37mFZyF4TMrhn4syCXTthzfQzT5pwKCi3QxlmWLVLU9LRiY6fpy7tR6nX7CRDO/76X/96v2nz6TYZNLvkiu8+EuEyIgR5abvWmaAsiwzX7T5SQoVt4Ytz8vQ8vbNl5WkG+ztipmcOeaC3nYUErc=;aYdgcAkqIQEmVAlenk6K4g=="
+secured: "CLJs1jSYC0j/dVAXO19KwrfTWpnpWXXXObrK8HkDlT5z0tlbIn4hQf+Ogldr9V54XmbYwR4dWxi32Rn2+qzQjVit3hB1Lmkcng4jlE2Y3l9mk8bwV3BPLSpJmD7wpwu0AA/e42H3x8Ud3WE3Yb1NbjhhUe1RY9hrxPd4eYh3TualEQ2n1AbR5C3WsPqQrV/cU0ybBQLiOe4Rt7sgFDZdc7JrGx0O6mJ83xFOaqqPLLp7xYjmitGNJW5YebvBEsTkWPT3N3bSvKD38S2Zf0V8r8pgZDbm4zJUoavbQpMa0sVZpxav9WMkj3+0spe0JwPFqbaGF5CKH2c+/m5irx4Flgo8+cUJPnbYf7qClnWUdNE=;ZlhcixxOVXHJL+WTjNPC/g=="
 ---
 

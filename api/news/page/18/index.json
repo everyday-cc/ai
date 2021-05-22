@@ -2,6 +2,145 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-05-06-game-theory-as-an-engine-for-large-scale-data-analysis.md",
+      "title": "Game theory as an engine for large-scale data analysis",
+      "excerpt": "Our research explored a new approach to an old problem: we reformulated principal component analysis (PCA), a type of eigenvalue problem, as a competitive multi-agent game we call EigenGame.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/EigenGame",
+      "originalUrl": "https://deepmind.com/blog/article/EigenGame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/x0n-XgP9SXm7u8sX8nGUdYiTOed0uC72J5kxxVkKzmfAtiA6xyI54lZqXlGPAS-jAmW92ayKxJ57NGCyzUOJrm0ErYN0KRolrwe_AlbKSIXkrTXVtg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-law-and-the-cognitive-sciences.md",
+      "title": "Law and the Cognitive Sciences",
+      "excerpt": "This series publishes book monographs exploring connections between law and the cognitive sciences. The books will be of interest to academics, students, and practitioners, and in particular to the scholars in the fields of legal theory, philosophy of law ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/series/law-and-the-cognitive-sciences/AB27850A2F56CE703E5529AED22FA4FE",
+      "originalUrl": "https://www.cambridge.org/core/series/law-and-the-cognitive-sciences/AB27850A2F56CE703E5529AED22FA4FE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97811087/23480/large_cover/9781108723480i.jpg",
+          "width": 427,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-machine-learning-crash-course-from-google.md",
+      "title": "Machine Learning Crash Course From Google",
+      "excerpt": "If you’ve yet to climb the learning curve, you might be interested in a new free class from Google using TensorFlow. Of course, we’ve covered tutorials for TensorFlow before, but this is ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
+      "originalUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/google-machine-learning-featured.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-dangers-of-driverless-cars.md",
       "title": "The Dangers of Driverless Cars",
       "excerpt": "The concept of driverless cars is here to stay. America is competing in a global race to make driverless cars the norm, and as predicted, nearly all major car manufactures currently offer vehicle",
@@ -1061,136 +1200,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
-      "title": "Artificial Intelligence and Customer Experience.",
-      "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "originalUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.eu-south-1.amazonaws.com/neosperience.com-media/wp-content/uploads/2020/11/02183410/tim-mossholder-bo3SHP58C3g-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Customer",
-        "domain": "neosperience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of.md",
-      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of ...",
-      "excerpt": "Rackspace Technology® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’s complex environments.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-9f5e946054633704affbaeb60ad7ec16",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-9f5e946054633704affbaeb60ad7ec16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-5-entry-level-marketing-projects-for-ai-newbies.md",
-      "title": "5 Entry-Level Marketing Projects for AI Newbies",
-      "excerpt": "Marketing teams are increasingly turning to artificial intelligence (AI) to improve results, with marketers investing over $227 million in AI-based technologies in 2018 alone, according to Statista. Yet many companies have yet to use AI or have just started exploring it recently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/0b9ddf7a31fc4dcc8f938ec905099756.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/",
-      "publishedDateTime": "2021-05-05T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

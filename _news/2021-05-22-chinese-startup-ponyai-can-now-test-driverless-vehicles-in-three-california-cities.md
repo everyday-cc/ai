@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla’s Full Self-Driving package claims are under DMV review for misleading advertising"
-    excerpt: "The California DMV is reviewing Tesla’s claims regarding the Full Self-Driving package for potential misleading advertising, according to a new report. The report in question is coming from LA Times‘ Russ Mitchell,"
-    publishedDateTime: 2021-05-17T22:28:00Z
-    webUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/"
-    ampWebUrl: "https://electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/17/tesla-full-self-driving-package-claims-are-under-dmv-review-misleading-advertising/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 95
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/11/Screen-Shot-2019-11-11-at-12.20.37-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "California places Tesla’s 'Full Self-Driving' under review"
     excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous."
     publishedDateTime: 2021-05-18T17:04:00Z
@@ -165,22 +149,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_4a35d5a5f27e4bffb6600fd2462f18dc_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Tesla ‘under review’ by California DMV, could face penalties if self-driving claims violated regulations"
-    excerpt: "Tesla is “under review” by the California Department of Motor Vehicles to determine whether the company misleads customers by advertising its “full self-driving capability” option, the agency told"
-    publishedDateTime: 2021-05-17T22:56:00Z
-    webUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/"
-    ampWebUrl: "https://ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/tesla-under-review-by-california-dmv-could-face-penalties-if-self-driving-claims-violated-regulations/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 57
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/05/GettyImages-545144494-e1621292006200.jpg?w=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Calif. to Review Tesla's 'Full Self Driving'"
     excerpt: "The department confirmed the review Monday in an email to The Associated Press. State regulation prohibits advertising vehicles for sale or lease as autonomous if they can't comply with the regulatory definition,"

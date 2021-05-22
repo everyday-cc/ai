@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
 type: article
 quality: 109
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F985d5dc0-51b6-46ea-b948-7bc5f0f8390c.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "Artificial intelligence should aim to help not oppress workers"
-    excerpt: "Technological developments are having a profound impact on the working lives of people across the UK. The pandemic has led to dramatic changes in the way workers use technology and not just for those"
-    publishedDateTime: 2021-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/artificial-intelligence-should-aim-to-help-not-oppress-workers-d2lvgw057"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 52
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa806748a-b753-11eb-9a91-c8c89595f50e.jpg?crop=1500%2C844%2C0%2C78&resize=685"
-        width: 685
-        height: 385
         isCached: true
   - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
     excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"

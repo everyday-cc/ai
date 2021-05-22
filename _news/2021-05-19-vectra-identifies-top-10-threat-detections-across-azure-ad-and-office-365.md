@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Vectra Identifies Top 10 Threat Detections Across Azure AD and Office 365"
-excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,"
-publishedDateTime: 2021-05-19T07:10:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210519ny82777/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210519ny82777/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365"
+excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat"
+publishedDateTime: 2021-05-19T12:10:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
 type: article
-quality: 18
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Risky Exchange operation detection tops threat list for Azure AD and Office 365"
@@ -34,6 +40,6 @@ related:
         height: 478
         isCached: true
 
-secured: "cv/B/QLxn9kjEOaXN0sWym9fqJmH9GyjGFlzYrLTsBxvGobxy1FI9Zr0hk6rbKrp13KzrI3WSebLmpDmq2AHQr3N3XuJfjx0v0m/zZM+1a/VJRcwWskL0PH8LECqmOXbyJC5iSktUTVNmuT3Xj2kYypp7HeZAhxUEA04lzQdESNu5XaAwixEvz+43pvlXK0OPVfAYgInRDJUryaHv9D9rltzkxcRJUBm0xVXM05X1aa8fQciQGleyy4Ea65X91aG66BMshPJJYpuHO1wcjgxmqMJ3mQ1MnQKLaON2+jKcp8Qp/7SIEjL7MvOSV8okbqHpmhGft4c4UCk+YZKv9lOY5UnSNK4ZPq7a17Lu7XRjdw=;WyVROkVC5+0EejcrmErssA=="
+secured: "m19CHj5IJPKFqjvheID+zqIo+0d/DOq7NQMgGgB8sydQrAtTAvRgA2TUAr0ifTFmKlFkju+gZT4Hdgxg7aPDXCKumUYn1mW4ryJ0xmG79tRoI5rgv/m/itsFs6G3zcms8+Rk3zYosW2cjp0BiafTEl017rcCgm8lFahhTVc6L0EdV4JjtmBt9P2VCNvEqI3Snnw2VsX2kJ+vSEyTr3ocpf6U38SabLha5zWt3sGcdpKGgxVF+uSRj1zRUauZOsDp0Lk0Ql8TonrpnOg4uPmGZbs6CK1pYXSUeaMDnPIUjINjFSjwKODnAbdCdhxSZZJKz+KND3MpMJp7Ijsy+cVllYZ3kYPr3hpL+SoKTjhkeYw=;vQcVjscnJMCWvs6rZBD3rQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-101-ai-power-new-featu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 120
 published: true
 
 provider:

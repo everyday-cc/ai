@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will we be liable for the decisions of our self-driving cars?"
-    excerpt: "Given other liabilities, it’s not much of a logical leap to hold drivers responsible for the actions and inactions of the self-driving car they’re in and responsible for."
-    publishedDateTime: 2021-05-17T21:33:00Z
-    webUrl: "https://techaeris.com/2021/05/17/will-we-be-liable-for-decisions-self-driving-car/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/05/self-driving-cars-liability-tesla-hero.jpg"
-        width: 1170
-        height: 724
-        isCached: true
   - title: "Americans leery of sharing the road with self-driving vehicles"
     excerpt: "Some autonomous vehicles are subtle. There's no easy way for passersby to detect whether they're sharing the road with a self-driving car. With other AVs, the spinning lidar sensor on the rooftop leaves no doubt."
     publishedDateTime: 2021-05-20T17:21:00Z

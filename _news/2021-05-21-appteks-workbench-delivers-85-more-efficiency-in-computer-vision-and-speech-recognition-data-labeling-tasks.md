@@ -1,34 +1,30 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform."
-publishedDateTime: 2021-05-21T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+publishedDateTime: 2021-05-21T12:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks/article_c8645ae2-6d2b-50b3-afb3-89334752be23.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks/article_c8645ae2-6d2b-50b3-afb3-89334752be23.html"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
-    width: 400
-    height: 286
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/6c/f6cb6f2b-798e-574b-9779-470a1bc0c157/60a7ab7c76e7e.image.jpg?resize=881%2C630"
+    width: 881
+    height: 630
     isCached: true
 
-secured: "ryflu0rTr8h9fEQEoZ5bNBGuSuV7tBWqkMRvNFD5xlU9u+VAvbaSV0J/rtTsekBDXAYGuWYqFo/1U1iLNnqUv9sfN97pMkkNioC3LETjHouYnK2+2PK8m2bhIvlRkpE2dSOxx8EjSJdG/aPzaDWkQI6ONXZRJkSo6zYOBBvFc7MALiECS09ik8t6cZclUk/58ZS+RLDkLz/hSV7VxGifLyBlS/sMXpO947pz/OV+Xvvj00jsXMvrSxPUiH0TDshnXIHo406u+gM1u2PgS/1cLS85gN8X+GyztWxsbVQIRICoq/G54GZDCoYCtYv1Kl+jPIhTxprWBEQkfjflj34B+qq5lKblvlWUrIN7UF9VSO8=;dDUf6Bg7parturf9rSX4Lw=="
+secured: "kaJ3W4gW5mA/UKjO668O83DW9fY+CBrLZPCxopWwxfNDuZYiPfkVPDi8OvwTFmqHqN1sHTw9YBRFh40DO0esZ/GriDOU73lmv/4RdrxZ562AQ9zaFFfucms6RLCcqqJOKClPyc0nBVPDUYXczNL6HGajkydxge0pd60dVYhSTsS57YDqiVoXPQFbCisB3E7ITcNrDZHgoenQPzaOZS38KrjIw/ZWybFXcR/eVZUIKyzNEOZfZ8MP43k/7wZqPpctquzkTWuMnfHyDc55Nt3mWPi2sV2Fz2+zLI1IXtpdmheSuONpOHkq8aPY9PIO9W1X2A8sel2yd98kZXY8FBWFmJ0fJZP67YRCttkXGtEG6Uk=;4dGZl6uEn+i5GJzboiW3iw=="
 ---
 

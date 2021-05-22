@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Will we be liable for the decisions of our self-driving cars?"
-    excerpt: "Given other liabilities, it’s not much of a logical leap to hold drivers responsible for the actions and inactions of the self-driving car they’re in and responsible for."
-    publishedDateTime: 2021-05-17T21:33:00Z
-    webUrl: "https://techaeris.com/2021/05/17/will-we-be-liable-for-decisions-self-driving-car/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/05/self-driving-cars-liability-tesla-hero.jpg"
-        width: 1170
-        height: 724
-        isCached: true
 
 secured: "FUGIUnh/XdK3xLfDgsw7+tl7oeG7ANlYJRAuymCNW5YBKdPZJB0EImpZSmXzDH6XOrDDMeHFnvE9lpx03rAsAYGDflAdyv3Pc1yKnlbor7rpNtd9Hi6wlsikDD+K2oopQkBIQ0rq5s7clx5JFYgynMMA56V31whtog90vnC+pMaBsmi/pRKY7whjGKZZ5PW80qpdvinz42cFgmfWZnx8QWDGFqIjQeI1NbqM3msJsI0wFmGU9B+Y3ZnF99UP3ZDIo7ktbPBdijWNusBdweVfao6tt16wXvaLWxjlDOJwklsRGo7fdS7MWHWjlFDlUhSLUZh1AKdn8Wet8arzFh5yBrgohTWlWHPKyhZEMvtCUHueNeqw7H22RQoll4z35irRTPvkb6VSpX+oJfJ+6neAO9Tt1V0l4EihI5yfmu3HMyQfVoBjv1R6V3397OhApF98lQ/Cmjh+F6BmyTetj5ZMq+lmNPrRYimEBgrPXmT2lx23PuEj7Eh05Tc31Uep9rqlUaDmHlmkNeLznaiXYe1DQA==;yfERaDBc8g5AJdw7rlBHKw=="
 ---
