@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "driveai_"
   url: "https://twitter.com/driveai_"
-  followers: 9052
+  followers: 9053
 
 size: 51-200 employees
 yearFounded: 2015
