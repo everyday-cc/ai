@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2288401/voice-assistant-application-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288401/voice-assistant-application-market-expected-to-gain-5-2"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Citizen Services AI Market predicted to grow $9.7 billion by 2024"
-    excerpt: "According to a new market research report Citizen Services AI Market by Application Traffic and Transportation Management Healthcare Public Safety Utilities and General Services Technology ML NLP Image Processing and Face Recognition and Region Global Forecast to 2024 published by"
-    publishedDateTime: 2021-05-17T15:23:00Z
-    webUrl: "https://www.openpr.com/news/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
-    ampWebUrl: "https://www.openpr.com/amp/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/5/U517199486_g.jpg"
-        width: 607
-        height: 365
-        isCached: true
   - title: "Permutation-based identification of important biomarkers for complex diseases via machine learning models"
     excerpt: "Study of human disease remains challenging due to convoluted disease etiologies and complex molecular mechanisms at genetic, genomic, and proteomic levels. Here, the authors propose a computationally efficient Permutation-based Feature Importance Test to assist interpretation and selection of individual features in complex machine learning models for complex disease analysis."
     publishedDateTime: 2021-05-21T10:26:00Z

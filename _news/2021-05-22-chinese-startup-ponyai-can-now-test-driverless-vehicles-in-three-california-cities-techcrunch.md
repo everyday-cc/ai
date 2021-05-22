@@ -1,24 +1,28 @@
 ---
 category: news
-title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
-excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
-publishedDateTime: 2021-05-18T18:24:00Z
-originalUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/"
-webUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/"
-ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
-cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
+excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
+publishedDateTime: 2021-05-22T07:45:00Z
+originalUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: CBS Local
-  domain: cbslocal.com
+  name: bestgamingpro
+  domain: bestgamingpro.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
+    width: 764
+    height: 400
+    isCached: true
 
 related:
   - title: "California DMV Probes Tesla Over Self-Driving Claims"
@@ -262,20 +266,6 @@ related:
         width: 870
         height: 485
         isCached: true
-  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
-    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
-    publishedDateTime: 2021-05-22T07:45:00Z
-    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
-        width: 764
-        height: 400
-        isCached: true
   - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
     excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."
     publishedDateTime: 2021-05-18T01:05:00Z
@@ -286,6 +276,17 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 39
+  - title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
+    excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
+    publishedDateTime: 2021-05-18T18:24:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
     quality: 39
   - title: "California places Tesla’s ‘Full Self-Driving’ under review | Charlotte Observer"
     excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
@@ -329,6 +330,6 @@ related:
         height: 600
         isCached: true
 
-secured: "62g3bcRKJTn7aRUX/gjnnSRq1jdpoAzAGb0xXr2po62GMRrWooYcb918vJbsWcqoJNY/lOQv/YerObqnOSGrfiHAa2l21AKxwwfEI9sze2QMRST0s5tygmvSjbyf0j2R19eqATg6Fs3GKKH6AQA7CabkML72gVTQ8ydxol5EYmI8xJVXBRZW6sc8XuBcwZ6znernkvev44HRcXhUAUNOGFmMqQPO9B1Q20TQVkroO+O8MV4wUwTdpDTqq4iM6PniJtRydRv8/2T5QnKt2Ol5OxOPZC50N6gSvOIQGsCut0emOtKhdcRsaXqPjgvzOQ4v/XW3+LubelpIRO+OfKETouwnjeiGJ3r2TkLJzncRAWU9Uh2oYIoBE3FG4n0quE5ux7sUH9BRX0jJ0UOlYxKfd8eHF781xq/1hYgt2P65pVtzatL8BXpbHhO0nxCAvFjz7OSJBENz6I1rP+Q34OJSZZH5NMIB/QLVHooPhu7h8hN/nRhcnj430k3+IHAOXNLGb6MwEV7/EesgyEHGGcdsfw==;Fws7U7k8Y6MP66f7lvncxg=="
+secured: "QZ31Dpm8hceRX5O7sO+W57LToLFN5TR8OZYbG15OgRhalcSeSB6GhPM3uAsgpC1yqp+J3cGKfB5bAjPmHMXUHNjIyRIGmq0e57++geO0s2toDBf+gNcGkGp9As5TQuyRSnfJlDEZJpx98oFLkPKX5CKvInk4oIxwbLQcpnL39jPKJrDXJ8uAMgUfgH9ym/1mRKQABwj/Ovrzc2VYmKq0zxYaQbZF+W2UTXYO4AExZ7AyfDTOvSdB6BE25RUG4vrpiunNd40BWm07MFNLALGiqWxd7SUuovTbmJ9GHMk4VIX7fp1v7XsrOueFQdSd+U8KsftjFRqIm+BQdGtHmKNbM1lGzDfht9g7VOo2Y7o5Iz0=;0KVoBe+JXai5VeQ6UbIkxg=="
 ---
 

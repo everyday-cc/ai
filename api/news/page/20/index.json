@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-05-05-gene-therapy-in-alzheimers-disease-mouse-model-preserves-learning-and-memory.md",
+      "title": "Gene Therapy in Alzheimer’s Disease Mouse Model Preserves Learning and Memory",
+      "excerpt": "Novel gene therapy treatment prevents learning impairments and memory loss in mouse models of Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
+      "originalUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/05/alzheimers-gene-therapy-neurosciences-public.jpeg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
+      "publishedDateTime": "2021-05-04T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025.md",
       "title": "At 36% CAGR, Artificial Intelligence (AI) Market Size and Forecasts Research Report up to 2025",
       "excerpt": "Market Forecast Report provides details analysis of Artificial Intelligence (AI) industry which will accelerate your business. Artificial Intelligence (AI) market report covers the current state of business and the growth prospects of the worldwide Artificial Intelligence (AI) Market.",
@@ -1145,58 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-it-pro-2020-understanding-our-complicated-relationship-with-ai.md",
-      "title": "IT Pro 20/20: Understanding our complicated relationship with AI",
-      "excerpt": "Welcome to issue 16 of IT Pro 20/20. This time we look at our strained, confusing, and often contentious relationship with artificial intelligence, and how that is shaping development. We’ve addressed some of the more concerning issues surrounding the eager rollout of the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619787080/itpro/IT_Pro_20-20_Issue_16_teaser.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
-      "publishedDateTime": "2021-05-04T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

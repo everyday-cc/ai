@@ -2,6 +2,50 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
+      "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
+      "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
+      "originalUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png",
+          "width": 1391,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20793834",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834",
+      "publishedDateTime": "2021-04-26T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-new-watson-capabilities-from-ibm-afford-trustworthy-ai-to-businesses.md",
       "title": "New Watson Capabilities From IBM Afford Trustworthy AI to Businesses",
       "excerpt": "Announcing new capabilities for its Watson business artificial-intelligence technology, Armonk, N.Y.-headquartered IBM revealed fresh approaches that it hopes will build trust in data and AI. According to its October 2020 survey,",
@@ -1135,50 +1179,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
-      "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
-      "sourceUrl": null,
-      "webUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.express-journal.com/img/img-14.png",
-          "width": 1042,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "publishedDateTime": "2021-04-25T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "express-journal",
-        "domain": "express-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

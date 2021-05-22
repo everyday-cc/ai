@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
+      "title": "States push back against use of facial recognition by police",
+      "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
+      "originalUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
+      "publishedDateTime": "2021-05-05T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-automatically-scale-amazon-kendra-query-capacity-units-with-amazon-eventbridge-and-aws-lambda.md",
       "title": "Automatically scale Amazon Kendra query capacity units with Amazon EventBridge and AWS Lambda",
       "excerpt": "Data is proliferating inside the enterprise and employees are using more applications than ever before to get their jobs done, in fact according to Okta Inc., the number of software apps deployed by large firms across all industries world-wide has increased 68%, reaching an average of 129 apps per company.",
@@ -1139,57 +1182,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-fast-companys-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category.md",
-      "title": "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category",
-      "excerpt": "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/apply/world-changing-ideas",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fast-company-s-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category-1030391333",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

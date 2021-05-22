@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-04-23-exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies.md",
+      "title": "Exclusive: Legion Capital CTO J. Bradley Hilton On AI, GoLegion, Cryptocurrencies",
+      "excerpt": "leading the company's continued innovations in FinTech powered specialized business lending and direct investing platforms,” according to a company press release. Legion Capital wants to use AI to help find qualified customers that might otherwise be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
+      "originalUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/screenshot_2021-04-23_8.25.20_am.png",
+          "width": 569,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20624407",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20624407",
+      "publishedDateTime": "2021-04-23T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-video-see-how-a-self-driving-car-perceives-the-world.md",
       "title": "Video: See how a self-driving car perceives the world",
       "excerpt": "Motional has partnered with Derq to test how driverless technology reacts to a broader view of the world from a bird’s eye view. Derq, an artificial intelligence and vehicle-to-everything (V2X) vendor,",
@@ -1066,58 +1109,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall.md",
-      "title": "Securing Amazon SageMaker Studio internet traffic using AWS Network Firewall",
-      "excerpt": "Amazon SageMaker Studio is a web-based fully integrated development environment (IDE) where you can perform end-to-end machine learning (ML) development to prepare data and build, train, and deploy models. Like other AWS services, Studio supports a rich set of security-related features that allow you",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Architecture.jpg",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T15:53:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

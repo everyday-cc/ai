@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-04-06-algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision.md",
+      "title": "Algolux Collaborates with Renesas on R-Car Camera Optimization for Computer Vision",
+      "excerpt": "Atlas automates today's months-long manual ISP tuning process to maximize computer vision accuracy and image quality in only days, an improvement of up to 100x in scalability and resource leverage. The workflow permits rapid evaluation of different camera ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision/article_ab78d5c2-740e-518b-a91c-3b6ce45a91f0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision/article_ab78d5c2-740e-518b-a91c-3b6ce45a91f0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future.md",
       "title": "An Exciting, Surprisingly Imaginative, Techy Vision Of Telemedicine’s Future",
       "excerpt": "There are many exciting innovation possibilities on the horizon that will make telemedicine even more productive, informative, helpful, and dare I say fun and personable, than current in-person doctor visits.",
@@ -1038,49 +1081,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-behind-the-scenes-with-ibm-services-david-sun.md",
-      "title": "Behind the scenes with IBM Services’ David Sun",
-      "excerpt": "When it comes to IBM’s vast services capabilities, David Sun has seen it all. Sun, the director of corporate business development for IBM Services, came to IBM 18 years ago when IBM acquired PwC Consulting and is now one of the driving forces behind the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
-      "originalUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/ibm-campus-1.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

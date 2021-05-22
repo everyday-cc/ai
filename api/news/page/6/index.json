@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-18-google-research-launches-movenet-with-tensorflowjs-api.md",
+      "title": "Google Research launches MoveNet with TensorFlow.js API",
+      "excerpt": "Google has launched its new MoveNet model with an API for TensorFlow.js to help developers create apps that can track movements. In future updates, MoveNet should be able to track multiple people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
+      "originalUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621293350_movenet-still_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-ethical-ai-is-our-responsibility.md",
       "title": "Ethical AI Is Our Responsibility",
       "excerpt": "Similarly, so does Responsible AI. In digital, many things can lead to ethical incidents with AI but we can distill them down to four major causes. So how do we adhere to Responsible AI? A ton of resources are available on this topic,",
@@ -1158,58 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
-      "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
-      "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "publishedDateTime": "2021-05-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

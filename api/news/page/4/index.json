@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
+      "title": "Alteryx announces new AutoML product and Intelligence Suite",
+      "excerpt": "The company, best known for its data prep bona fides, leverages its acquisitions in the machine learning space to announce new data science features in Alteryx Designer and new standalone AutoML product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/561d7db1-2f48-441a-bfd1-1cb1394ec6a5/alteryx-machine-learning-chord-diagram.png",
+          "width": 3836,
+          "height": 2060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
+      "publishedDateTime": "2021-05-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-google-search-brings-more-ai-and-ar-power-to-your-fingertips.md",
       "title": "Google Search brings more AI and AR power to your fingertips",
       "excerpt": "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for",
@@ -1070,7 +1122,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1214,57 +1266,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-father-and-son-duo-take-on-global-logistics-with-optimal-dynamics-sequential-decision-ai-platform.md",
-      "title": "Father and son duo take on global logistics with Optimal Dynamics’ sequential decision AI platform",
-      "excerpt": "Like “innovation,” machine learning and artificial intelligence are commonplace terms that provide very little context for what they actually signify. AI/ML spans dozens of different fields of research,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1231045075.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/optimal-dynamics-series-a/amp/",
-      "publishedDateTime": "2021-05-18T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

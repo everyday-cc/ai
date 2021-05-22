@@ -44,20 +44,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Bias a Chief Barrier to Artificial Intelligence in Healthcare"
-    excerpt: "The potential for algorithms to perpetuate bias and exacerbate disparities is a critical hurdle for artificial intelligence in healthcare."
-    publishedDateTime: 2021-05-17T15:52:00Z
-    webUrl: "https://healthitanalytics.com/news/bias-a-chief-barrier-to-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"
-        width: 689
-        height: 407
-        isCached: true
 
 secured: "Sv3TEkVH2SXrDNTirwp0BhLRDS8fFcRqg+W2T5m8dpPzbBl+mz8iJKMbd9iIxTTgtOzdHlznFW1uibNH4JcYd6XhqmaokZke8zBLQncOHzOyCj4Uau+iJNOs5+j2AbQKAdazhvzJQWmHjqO+FbZRl/1nvZT2sIby7rA2PYmc8lpfwS/hUN/hxt5zCjFMMKxBZjnBFYeixgSdZRLCTFxWGug9yeIKgTMmMnpAlRUjcTe1nIs0NuL58E9QVdLwNsBna+Y76PBCRmi/09EMWwufBAQuPdhTKNHgRg5aGrc/Z1C4mvEJGVFwAiyfLJdR5vkTyqgW6LQCJjPFw2vWC6B9JB592GcjM0YCqTMv47DchVtGASiK3KpSDHnxgahzFbC1j2GAUu0YQIc8S8ARmUhnCjBgt1duM8WuoBUCyuPTXD97MAOP7oTv36vhpMTEulPhFUtfXxX6+NCawa1g6xYDpHKKQwgg8/jtMZCwachPBNV+wC+BqtpTznoVPrQVlkkkyJJCsW4OkQ1T2Yw0RNM/1w==;ywzXsGVXDwazpNTRzQd5Ww=="
 ---

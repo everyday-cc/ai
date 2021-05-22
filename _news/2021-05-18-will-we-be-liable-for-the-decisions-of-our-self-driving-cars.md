@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Cars Dealing With Those Barefaced Acts Of Repeated Brake-Checking By Human Drivers"
-    excerpt: "Dealing with brake checking in an era of self-driving cars, including human drivers that aim to brake check those vaunted AI driving systems."
-    publishedDateTime: 2021-05-17T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/17/self-driving-cars-dealing-with-those-barefaced-acts-of-repeated-brake-checking-by-human-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c91de11e06cd3d56864e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4408%26cropY1%3D25%26cropY2%3D2506"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Americans leery of sharing the road with self-driving vehicles"
     excerpt: "Some autonomous vehicles are subtle. There's no easy way for passersby to detect whether they're sharing the road with a self-driving car. With other AVs, the spinning lidar sensor on the rooftop leaves no doubt."
     publishedDateTime: 2021-05-20T17:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
 type: article
 quality: 104
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -255,6 +255,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/42080-81563-40231-77412-37975-71780-000-lead-Apple-Car-xl-xl-xl.jpg"
         width: 870
         height: 485
+        isCached: true
+  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
+    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
+    publishedDateTime: 2021-05-22T07:45:00Z
+    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 41
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
+        width: 764
+        height: 400
         isCached: true
   - title: "California puts Tesla’s ‘Full Self-Driving’ under review"
     excerpt: "Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. California's Department of Motor Vehicles is reviewing the advertising claim."

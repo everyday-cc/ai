@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekogn
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
 type: article
 quality: 118
-heat: 608
+heat: 598
 published: true
 
 provider:
@@ -447,20 +447,6 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Bias in facial recognition is handicapping deepfake detection"
-    excerpt: "Harmful bias has been found in deepfake datasets and detection models by researchers from the University of Southern California."
-    publishedDateTime: 2021-05-17T15:51:00Z
-    webUrl: "https://www.biometricupdate.com/202105/bias-in-facial-recognition-is-handicapping-deepfake-detection"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
         isCached: true
   - title: "Emotion recognition: Can AI detect human feelings from a face?"
     excerpt: "For most of the past year, students at True Light College, a secondary school for girls in Kowloon, Hong Kong, have been attending classes from home. But unlike most children around the world forced into home-schooling during the pandemic,"

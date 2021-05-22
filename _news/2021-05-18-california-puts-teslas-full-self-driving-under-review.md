@@ -262,6 +262,20 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
+    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
+    publishedDateTime: 2021-05-22T07:45:00Z
+    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 41
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
+        width: 764
+        height: 400
+        isCached: true
   - title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
     excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
     publishedDateTime: 2021-05-18T18:24:00Z

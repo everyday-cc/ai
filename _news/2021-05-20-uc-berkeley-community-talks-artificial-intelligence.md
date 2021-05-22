@@ -25,17 +25,6 @@ images:
     height: 1160
     isCached: true
 
-related:
-  - title: "Berkeley SkyDeck: 17 Startups Selected for UC Berkeley's Highly Competitive SkyDeck Global Startup Accelerator Program"
-    excerpt: "SkyDeck's Batch 12 includes a broad range of international startups participating remotely from around the world BERKELEY, CA / ACCESSWIRE / May 17, 2021 / UC Berkeley SkyDeck, the startup accelerator"
-    publishedDateTime: 2021-05-17T15:15:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52895544-berkeley-skydeck-17-startups-selected-for-uc-berkeley-s-highly-competitive-skydeck-global-startup-accelerator-program-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
 secured: "fJudgMvl0Rtyl87X7F6smEeimUDVxcUeDYGOYx8MBiIv8jor+xiTLWfAFsZDYskYfT27oaWN+DrxQW3Nuyph23sgs6xhJdmt+upnjJ61irVDFApbrp7xnJnrb64FcP8WIN5mqdPhCjiIcdFyZpjNCOwcqoLfYkIDMYesqTCN9Hy5jjCxqqWA6coJjiP9vTTH8Krvv1ZqOAq/g53aJV3OIN0txETeYyHbcNbvcm5oXrRq5lMpCGX9ReeWdG9euDXLZkexIr+MbU/O19xjCkh+QpW0qKI4xdA+EVn1NUQ9M0vv/dsJTJYZrn1cshGCWEfTcvG2/SkZ84jtDwYUFWmJJAou4hF2nipQNB1iqU8eBSxXIYyu8YecqaTZyrsqGu2IVzS6TUsMz/zvTddWo6e4jBSwEueU9jxFFXpgJzb9qUzpsD4gYTFqHhyblOAwl/oCJgYkgTu0OeVQqGyNVPetaUfMSRkpdKnReg9ottJ3QTGR3H7UE6fHNaOTeRRyVXOUs+hlT349921hJE/eEeTqrg==;rHYB0ffwhM5HvTpVZVthxA=="
 ---
 

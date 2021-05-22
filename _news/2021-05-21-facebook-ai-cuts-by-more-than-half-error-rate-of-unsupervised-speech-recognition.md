@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/"
 type: article
 quality: 99
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/wav2vec-U.jpg"
         width: 1165
         height: 578
-        isCached: true
-  - title: "Facebook's \"Expire-Span\" Gives AI a Human-Like Ability to Forget Information to Boost Efficiency"
-    excerpt: "Part of the path to \"human-like\" memory in AI systems, Expire-Span gives information an expiry date to boost system efficiency."
-    publishedDateTime: 2021-05-17T16:29:00Z
-    webUrl: "https://www.hackster.io/news/facebook-s-expire-span-gives-ai-a-human-like-ability-to-forget-information-to-boost-efficiency-17fa64dacdb5"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 26
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1299234/_eFx38beMYN.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "EMS/yNsgx5ahuLaGBYQvjnferi1DcXeUGr+KAGBM+NAwKpRxyXIp2KxJNs8P5jhclhlooshyYVgch9oXaBLFln/Hr/G/260uaz7ARsdNCT+zofaopB4eaDlQJsXOciJH8tFXyjaRtDCW4IEkElQK8BfB8HprkJLBrkmUcnnJApI0EmAVPw+8Z++jHZQKVzlqXNfzHA7s8kjgxI3KKJKrU39f0jc6ybP+yqYuTPAN6RqXrde84LnnmClP6KZRsF07jpjAlAHVpVriFvPAD4LI9E0AkNlmd0GwErU8PQZRHHOYY+kLrhoqu0UsWB4wXiOMqyG5HAb5iehHrOOrY1zuQSDWP6aZxEfMta3Q/GMxlzs=;4Q1hcm4C2ynOtpYVMq0sTw=="

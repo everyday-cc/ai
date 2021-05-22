@@ -39,15 +39,6 @@ related:
         width: 822
         height: 369
         isCached: true
-  - title: "Scientific community: Machine-learning model predicts potential impact of research"
-    excerpt: "A machine-learning model can be used to predict the future ‘impact’ of work published in the scientific literature, according to a paper in Nature Biotechnology. The model, whose score is used to predict the ‘top 5% of papers’ published in any year,"
-    publishedDateTime: 2021-05-17T15:35:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/13680/"
-    type: article
-    provider:
-      name: natureasia.com
-      domain: natureasia.com
-    quality: 0
 
 secured: "UtLW9sPyQ/XZjfGE5DHnw4Ro2c6H7TNjrSrwcgSL7TJwF3W+3Jhawh2NpI3ZbdWYYpkztcVkRiqXW55OFx7ysvaBxqP98SnxCyemgjzrZQH8gzibys1pY86fAj2YntF7L4Bbz5g8rLnhIdRgB/WyYLk4DFZCbBwwvm+MrwyLT0NxjF5EpR7o5YWbSQU/yiuOCYM9CVETq3m5fD0vhMrKZybPnG2LiLLzrXgHtRkh3t4r8yoaEgDuG/gNFBXX/DDnRvh93MUchLh1hhsfpeoGrfRZOLG1w0GFBj0mk21IqgPD2twsQbyb1OUttr03owiOwzw3zteaoZ2eFk1swCvCUcjcPa+mqWHU4ObpsdFCw8SYDFSrTL7R9jB6jry6x5lHPXyvVgA381JIyfJ7rh793ZofA3KGCMM7YPkMpfO3gCSoyT1OdkOTqqM91os6txmv4wVPeH7+l7hGl2J3lCmEd+Qah9YJJgP2CXAYa+mcEo0ekE4wI49v7xh/diB6SAdASmglmNAj71Md9XVDk8e8CA==;6vwT7fvY7hLWfXhOEn8R2w=="
 ---

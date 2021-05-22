@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-13-optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics.md",
+      "title": "Optimal Dynamics nabs $22M for AI-powered freight logistics",
+      "excerpt": "Optimal Dynamics, an AI- and machine learning-powered logistics platform, raised $22 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/untitled-design21.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
+      "publishedDateTime": "2021-05-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-rd-tax-automation-pioneer-boastai-expands-leadership-team-with-industry-heavyweights.md",
       "title": "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights",
       "excerpt": "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,",
@@ -1158,49 +1209,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
-      "title": "Lasers, levitation and machine learning make better heat-resistant materials",
-      "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

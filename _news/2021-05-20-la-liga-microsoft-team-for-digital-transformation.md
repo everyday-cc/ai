@@ -110,20 +110,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
-    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
-    publishedDateTime: 2021-05-17T16:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 51
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
     excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -133,15 +119,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 49
-  - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-05-17T15:08:00Z
-    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 39
   - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
     excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
     publishedDateTime: 2021-05-21T09:34:00Z

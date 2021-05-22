@@ -2,6 +2,50 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-04-12-microsoft-to-buy-nuance-in-a-197b-deal-to-expand-healthcare-ai-cloud-capabilities.md",
+      "title": "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities",
+      "excerpt": "Nuance provides AI expertise and customer engagement solutions across interactive voice response (IVR), virtual assistants, and digital and biometric solutions. Microsoft plans to combine these capabilities with its cloud, including Azure, Teams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities",
+      "originalUrl": "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercehealthcare/1618238863/452292684-5a3b047ae73a1.jpg/452292684-5a3b047ae73a1.jpg?aH.519AnpRSf0BhCSyFD1DPvjxYYII3f",
+          "width": 5237,
+          "height": 3054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-machine-learning-at-speed-with-in-network-aggregation.md",
       "title": "Machine learning at speed with in-network aggregation",
       "excerpt": "Inserting lightweight optimization code in high-speed network devices has enabled a KAUST-led collaboration to increase the speed of machine learning on parallelized computing systems five-fold.",
@@ -1072,60 +1116,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-black-women-ai-and-overcoming-historical-patterns-of-abuse.md",
-      "title": "Black women, AI, and overcoming historical patterns of abuse",
-      "excerpt": "The Abuse and Misogynoir Playbook is part of the State of AI report from the Montreal AI Ethics Institute and was compiled by MIT professors in response to Google’s treatment of Gebru ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
-      "originalUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
-      "publishedDateTime": "2021-04-10T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "AWS AI"
       ]
     }
   ],

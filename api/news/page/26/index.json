@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-30-waymo-ridehailing-and-delivery-focus.md",
+      "title": "Waymo Ridehailing and Delivery Focus",
+      "excerpt": "CEOs. The Waymo plan is to expand its ridehailing business from Phoenix to other places. Waymo One. They will expand Waymo driving to truck delivering services. Waymo Via. Waymo One and Waymo via will have no driver behind the wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/04/Screen-Shot-2021-04-29-at-11.50.03-PM.jpg",
+          "width": 1078,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
+      "publishedDateTime": "2021-04-29T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-ibm-acquires-turbonomic-to-build-aiops-tools.md",
       "title": "IBM Acquires Turbonomic To Build AIOps Tools",
       "excerpt": "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance.",
@@ -1170,58 +1213,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-wealthfront-releases-a-new-self-driving-money-feature-to-make-saving-easier.md",
-      "title": "Wealthfront releases a new 'Self-Driving Money' feature to make saving easier",
-      "excerpt": "Wealthfront's new Self-Driving Money feature lets customers take a hands-off approach to saving, and it could potentially be more effective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
-      "originalUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106875922-1619707567064-gettyimages-951355782-kk0047-1143-2.jpeg?v=1619708028",
-          "width": 6720,
-          "height": 4480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
-      "publishedDateTime": "2021-04-29T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-c
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
 type: article
 quality: 104
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft Previews Solutions Marketplace and Teams Support for Azure Sentinel"
-    excerpt: "Microsoft last week announced a bunch of Azure Sentinel enhancements, which are at the preview stage right now."
-    publishedDateTime: 2021-05-17T16:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/17/azure-sentinel-solutions-marketplace.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 51
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/Marketplace.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
     excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
     publishedDateTime: 2021-05-18T13:00:00Z
@@ -123,15 +109,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 49
-  - title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-    excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-05-17T15:08:00Z
-    webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 39
   - title: "La Liga, Microsoft team for digital transformation"
     excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
     publishedDateTime: 2021-05-19T23:01:00Z

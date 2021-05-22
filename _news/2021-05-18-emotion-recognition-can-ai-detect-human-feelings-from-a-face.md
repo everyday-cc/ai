@@ -458,20 +458,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Bias in facial recognition is handicapping deepfake detection"
-    excerpt: "Harmful bias has been found in deepfake datasets and detection models by researchers from the University of Southern California."
-    publishedDateTime: 2021-05-17T15:51:00Z
-    webUrl: "https://www.biometricupdate.com/202105/bias-in-facial-recognition-is-handicapping-deepfake-detection"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Focus tightens on facial recognition"
     excerpt: "In April 2019, Guo paid 1,360 yuan ($211) for a VIP pass to the park and agreed to use fingerprint recognition to enter the venue under the contract. A short time later, he received the message requiring him to provide facial information for the venue's upgraded entry system."
     publishedDateTime: 2021-05-17T23:48:00Z

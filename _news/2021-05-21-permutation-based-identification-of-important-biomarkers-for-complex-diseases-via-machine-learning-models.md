@@ -41,22 +41,6 @@ related:
         width: 629
         height: 389
         isCached: true
-  - title: "Citizen Services AI Market predicted to grow $9.7 billion by 2024"
-    excerpt: "According to a new market research report Citizen Services AI Market by Application Traffic and Transportation Management Healthcare Public Safety Utilities and General Services Technology ML NLP Image Processing and Face Recognition and Region Global Forecast to 2024 published by"
-    publishedDateTime: 2021-05-17T15:23:00Z
-    webUrl: "https://www.openpr.com/news/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
-    ampWebUrl: "https://www.openpr.com/amp/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285536/citizen-services-ai-market-predicted-to-grow-9-7-billion-by-2024"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/5/U517199486_g.jpg"
-        width: 607
-        height: 365
-        isCached: true
   - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
     excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
     publishedDateTime: 2021-05-21T00:31:00Z

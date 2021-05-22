@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-11-mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components.md",
+      "title": "Mythic raises $70M to disrupt AI chips with analog and flash components",
+      "excerpt": "Mythic has raised $70 million to fund the analog-based AI processors it plans to launch later this year. Mythic has spent nine years coming up with a patented, potentially disruptive way to compete with other makers of artificial intelligence chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
+      "originalUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/mythic-chip-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
+      "publishedDateTime": "2021-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025.md",
       "title": "Global Voice Recognition Technologies Market Growth (Status and Outlook) 2020-2025",
       "excerpt": "This report presents a comprehensive overview, market shares, and growth opportunities of Voice Recognition Technologies market by product type, application, key manufacturers and key regions and countries.",
@@ -1133,58 +1185,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
-      "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
-      "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

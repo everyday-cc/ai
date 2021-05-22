@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/vital-signs-positive-for-ai-in-european-healthcare"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Bias a Chief Barrier to Artificial Intelligence in Healthcare"
-    excerpt: "The potential for algorithms to perpetuate bias and exacerbate disparities is a critical hurdle for artificial intelligence in healthcare."
-    publishedDateTime: 2021-05-17T15:52:00Z
-    webUrl: "https://healthitanalytics.com/news/bias-a-chief-barrier-to-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"
-        width: 689
-        height: 407
         isCached: true
 
 secured: "5evoWvQfvrODSVMXK/lxO04teOlb2Jgs505hya3690hJbvr7k557OCxzBU8NYKoVTx6+ekmqHbIbhveCQHQeNy6HsUDMo/aA7pQeEayPUNDDztoSD9VbhNgjxG6Y5WgdRQi0w1oLUCfei6s5n0iDFc+HcnHFsi9I437H+j5xTQ1uQvQU/J7MNdfjMOsjkbmM4pxd+VQHHXLuLGx7ZsRAKPestC3qP0RXLUakuDb5nK802L0/Y7gHEFMEgz5H4IpOCIVxU9pU7EWuyvQmdYjDqi/F7uVy25FqcdzDMcs2F2rDO/MpjO/qPVBycit1OZlA9Sr6g0NIoElT0Ttja23TtNviOumAe0aBXX44vTem6hs=;+Rwkxw0Mkni7p094Yl97tg=="

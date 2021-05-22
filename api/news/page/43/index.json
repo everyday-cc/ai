@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
+      "title": "Ford And Tesla’s EV Rivalry Heats Up",
+      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
+          "width": 479,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
       "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
       "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
@@ -1070,49 +1113,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-global-artificial-intelligence-in-medical-imaging-market.md",
-      "title": "Global Artificial Intelligence in Medical Imaging Market",
-      "excerpt": "Added a New Report on Artificial intelligence in medical imaging Market Report the combination of best industry insight practical solutions talent solutions and latest technology have been used The market report is a comprehensive study of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "originalUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U415772049_g.jpg",
-          "width": 696,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "publishedDateTime": "2021-04-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
