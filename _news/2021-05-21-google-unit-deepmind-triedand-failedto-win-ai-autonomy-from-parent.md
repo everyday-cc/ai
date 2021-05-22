@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win
 ampWebUrl: "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI Ethics
 
 images:
   - url: "https://images.wsj.net/im-337471/social"

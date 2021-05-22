@@ -444,34 +444,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Emotion recognition: Can AI detect human feelings from a face?"
-    excerpt: "For most of the past year, students at True Light College, a secondary school for girls in Kowloon, Hong Kong, have been attending classes from home. But unlike most children around the world forced into home-schooling during the pandemic,"
-    publishedDateTime: 2021-05-17T23:08:00Z
-    webUrl: "https://www.straitstimes.com/opinion/emotion-recognition-can-ai-detect-human-feelings-from-a-face"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/05/17/fw-ftaiface-180521.jpg?itok=zamWbkUF"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Focus tightens on facial recognition"
-    excerpt: "In April 2019, Guo paid 1,360 yuan ($211) for a VIP pass to the park and agreed to use fingerprint recognition to enter the venue under the contract. A short time later, he received the message requiring him to provide facial information for the venue's upgraded entry system."
-    publishedDateTime: 2021-05-17T23:48:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202105/18/WS60a300c0a31024ad0babf902_2.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202105/18/60a3010ca31024adbdc83eb0.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Local Teens Create Solution For Phone’s Facial Recognition Mask Issue"
     excerpt: "Two local teenagers worked together to solve a problem that’s been frustrating cell phone users since the pandemic began. While anyone who uses"
     publishedDateTime: 2021-05-18T15:57:00Z
@@ -485,20 +457,6 @@ related:
       - url: "https://d2wcro6av4bts2.cloudfront.net/wp-content/uploads/2021/05/worcester-prep-school.jpg"
         width: 300
         height: 225
-        isCached: true
-  - title: "Pet facial recognition technology helping owners reunite with lost pets"
-    excerpt: "When Bella, a local dog, went missing, her family searched for her everywhere. They uploaded her photo to a pet-facial recognition technology, Petco Love Lost."
-    publishedDateTime: 2021-05-18T00:15:00Z
-    webUrl: "https://www.cbs46.com/news/pet-facial-recognition-technology-helping-owners-reunite-with-lost-pets/article_68c1905a-b75a-11eb-8c6d-3f4d99b68e31.html"
-    type: article
-    provider:
-      name: CBS Atlanta
-      domain: cbs46.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/69/5699ead5-92a2-5fb6-b89d-da15e924ca6b/60a31516f0d11.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Will cannabis banking risk remain after federal recognition?"
     excerpt: "As I speak with bankers across the country who are considering launching cannabis banking programs, I am often asked about BSA/AML risk. Specifically, bankers want to know if they will still need to implement and maintain specialized compliance programs if the federal government legalizes marijuana,"
@@ -698,6 +656,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Q2gsuE/8H0SCpr6pU9sNUS3E3UwIWWk1hVuGwpgOx8GAAxE3GTnkLHegaSwQxT2YZEu2agghzYjmWapgqWeQGFWXSGruCs5cMQhoj4eObx6VmItwSUeFKsvUyoS52lEV73f+c3ZiVROLVCKmxQ54NAWCKVCA4oLIWqhB0dw/SAxnPsfIf5OK+0FQZH+P6Pv9FlcxaHDr8zQ6cbCwrRkOdvXcu3cz8OaJCNJx+coCgkoqEHsmol/G8sQFaNAT07i+B5IwFdeFs0G1UYlkZBpgv2TbUjRLWh1S2j1myBvEdMRChcmurSLNvz4vnrXauPlf7SebiRoR76ZHaVnFo0WlSpwZbJu1XfaB2iW3tLfwKyU=;MlohP1ALfBP7+swUa/PRpw=="
+secured: "9fmjTTMmzJ1LKSvOFv5Ko2uCtoM7/0f4wPlQnzw3QCqPIOlhfyj8y6uYv0xbjNW1VqFaXHwRNTaJmZYWz8Ts3XO2R3ab+6yXNFK3fygJMdbzYGTh41hdW7SYExQdZ1lYNV0BejDL+yDLLp9D2R+a0Rkt+koKhTNsc3KAmkzS2vGi3Gy3n+Fu/2ba25TxjMFOcvjPEDCrMv6ZBzV+XvMNSYMtN2tt4kL8EF/9jdJ7Tt+eBmRme5kb9s3AX7809pCGC9hvyRNso+gpI75y5QmQMFbMz1UMxjUWNlcmhRrHuG5w99A1f8TE6LbTzPz/zStbUWUtDzcWwTpYlox03q7CQlhsfQayHGS6ooCxusvVP9m1+NDizUqfxxVvMM060OW8fUsX6xZcUcCWyBr1wBep3Vte75xWLniWq0p7qJJM33uTXDqyDtutwb+riSdYmL863Ttd3wJVXxHL7AHy68zsg1xO70iGBqnM/7TbjAXZTTzjcjwTebmhbsTkCvIdjdiCY5p3IIIez7fKfhxyLhCzzA==;inMaFz33P6ZyGyeSj19q/g=="
 ---
 

@@ -1,30 +1,34 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
-publishedDateTime: 2021-05-21T12:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks/article_c8645ae2-6d2b-50b3-afb3-89334752be23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks/article_c8645ae2-6d2b-50b3-afb3-89334752be23.html"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform."
+publishedDateTime: 2021-05-21T12:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/6c/f6cb6f2b-798e-574b-9779-470a1bc0c157/60a7ab7c76e7e.image.jpg?resize=881%2C630"
-    width: 881
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
+    width: 400
+    height: 286
     isCached: true
 
-secured: "kaJ3W4gW5mA/UKjO668O83DW9fY+CBrLZPCxopWwxfNDuZYiPfkVPDi8OvwTFmqHqN1sHTw9YBRFh40DO0esZ/GriDOU73lmv/4RdrxZ562AQ9zaFFfucms6RLCcqqJOKClPyc0nBVPDUYXczNL6HGajkydxge0pd60dVYhSTsS57YDqiVoXPQFbCisB3E7ITcNrDZHgoenQPzaOZS38KrjIw/ZWybFXcR/eVZUIKyzNEOZfZ8MP43k/7wZqPpctquzkTWuMnfHyDc55Nt3mWPi2sV2Fz2+zLI1IXtpdmheSuONpOHkq8aPY9PIO9W1X2A8sel2yd98kZXY8FBWFmJ0fJZP67YRCttkXGtEG6Uk=;4dGZl6uEn+i5GJzboiW3iw=="
+secured: "QDmU8IByu9kOu1sF/uwbuWF+ZokK7xZB5jhadQCAJOjPDezZf6BKI9Q9OhRIgM6ehdeBQx8oOSc4duDcaV6hqwoJ5UvYEHWD2t1DOB4FfYvMONMHcrMy7G+HimZqFo4ySAnRKKQMXieLGLAaJDMT12M79ewR6xjQm7jFyWlqG87Zc7dV1WegPcHG+D39/yAiKawGygZ44c9SUQy2pIA3jfKHsJTlauH4RjRF3eVbQHQ3+MtPnrVMqelmdHW3RjlANsldQzE0WpMNJYgyAFthmKai3Bj7/ADvokHc3zIg9yx7SU7Jsj1sUSfH4lprCWMU2I2wOKa/euuxe7jk7s7VwUvGyzqK2BO7rCyllXEof3E=;ItIg8+nqWvRCVUTBPVg5EQ=="
 ---
 

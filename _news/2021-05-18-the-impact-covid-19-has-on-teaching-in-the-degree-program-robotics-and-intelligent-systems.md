@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Hawaii airports implement facial imaging technology for Covid-19 screening"
-    excerpt: "The technology is part of the state’s airport thermal screening project that aims to prevent the spread of Covid-19."
-    publishedDateTime: 2021-05-18T00:57:00Z
-    webUrl: "https://www.bizjournals.com/pacific/news/2021/05/17/hawaii-airports-implement-facial-recognition.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "FA9KtFx+ddPoaiEangpAsMyIjNxpPUxVjysEX6EnQxVp2YxSQwsfBFvF/IN30I4I88W3i99TECzoEWpEySi3sN6vRi6zilRAwJrv9Wndj3JBFF4U6/uFEI5Js80BqI8WL79kiqm75wWuLuyCjfDw2ewNTeCn2QcekpPAG0YH3yax1pOu4eJJVjhHjqrthMEJ/kop6GgjKxXadSpzDANCDAEz8IQ/3NZRmlB5xw3LZ/RVPka+paMXvTVbutUKe8K1moCeiHueJQ6KbdWGjlzTzkLqCltvGdGAel/KMG0IdEhHoWYtM3pOSlDz9eORtvqvdYNjxwKvYY8ckPZ5sUpWtVEwCHpIkaNc3+dROkKxJsI=;Ej2aFPkoSxEzgD66rhT9ug=="
 ---

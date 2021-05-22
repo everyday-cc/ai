@@ -1,27 +1,27 @@
 ---
 category: news
-title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
-excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"
-publishedDateTime: 2021-05-20T23:03:00Z
-originalUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
-webUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
+excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
+publishedDateTime: 2021-05-22T17:57:00Z
+originalUrl: "https://www.wbur.org/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
+webUrl: "https://www.wbur.org/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFUV
-  domain: wfuv.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-    width: 342
-    height: 240
+  - url: "http://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815_custom-8ffe72ab4ed1cd6a862fd29984d7bb30c82b1cdf.jpg?s=6"
+    width: 948
+    height: 589
     isCached: true
 
 related:
@@ -122,19 +122,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-    publishedDateTime: 2021-05-22T17:57:00Z
-    webUrl: "https://www.wbur.org/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
+  - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
+    excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"
+    publishedDateTime: 2021-05-20T23:03:00Z
+    webUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
     images:
-      - url: "http://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815_custom-8ffe72ab4ed1cd6a862fd29984d7bb30c82b1cdf.jpg?s=6"
-        width: 948
-        height: 589
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
         isCached: true
   - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
@@ -148,6 +148,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "nLrWI/5ZNHvsjP2nCHc2Nhl1asbQ4li94Z2BCSQh1cxEZTQbaEPm0JchYk2pjIISoRcX8gk7J2FcVTrrsmA9zDqkjCo9Q1lnZ0pCJ6CORr/AY3vn4gWaAxvpLGSahf6zFuDMZX7QOrM2yha/zzC9WLr/VSH2Kk9fNNDeL6AfB17KT8ByMA6QswhjyJ8shALgsDq8Piot2q4m6xJdSRN54bXoeg/6/00Fz6KZq/JgEObDLdglWF3zYNu3YB+GPfiYOlkpgASwPcHLc5vwujHSBwga20u8/jOXIiWUr3sJTY2LXl8o7Mhlot1MNUF6C9iOpGo0Mc6+GEV7y/yYKvDx41Ine/8UfEiM5ZAjE4Ii3UE=;+bZJ2PzhZf/s+Ps3tMV5tQ=="
+secured: "iHs8OMfd42VK8B5Rg991hXo8OGTMy9HbVSfK0Ib6sfDtXbW7NdA6TN7wPAp38CVk4xhhydBE1D1l992dFEoxobnkphKLJ1wtZygxfjx2KKS8S9IEQFy0zaOqyHQ6waqVrPgP5ArqGN8Lcs0MeYZpK3cwcFb9CsvVd3tt1bY3Ac5n69ELUc6JL8WChysZMPfI/VK9bqfNbc2MTz6emEjSTPfX2sGoWBHlMYECeISmXOJ4dt4iekitrYdmHIuEl4Tu5adtEpxcI+qFMZYwnIz8cL1JVyC64zRIbCx05ICRltUzMurUDXtKWxDNSXT6L73A/8PwR8auiLv8hlQbAaVyy6lCP9Okjh/Xm0U2IuRedVA=;lbMPk3uS5j3e3MP/Zizlig=="
 ---
 

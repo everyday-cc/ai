@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksbw.com/amp/article/arizona-self-driving-taxi-waymo-got
 cdnAmpWebUrl: "https://www-ksbw-com.cdn.ampproject.org/c/s/www.ksbw.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,84 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Traffic cones confused a Waymo self-driving car. Then things got worse."
-    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as"
-    publishedDateTime: 2021-05-17T23:06:00Z
-    webUrl: "https://madison.com/lifestyles/technology/traffic-cones-confused-a-waymo-self-driving-car-then-things-got-worse/article_2102333d-9f27-59a2-bf6e-e0b96c17c6a5.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/cf/6cfa3a7b-f49b-5c0f-bcde-ba55c8bc9b38/60a3123f0cef4.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "Waymo’s Self-Driving Car Is no Match for Construction Road Cones"
-    excerpt: "The problem with autonomous driving is that even within the relatively “unexiting” environment of urban road networks, there is an astonishing range of elements that introduce quirkiness and confuse driving AIs to a debilitating point."
-    publishedDateTime: 2021-05-18T17:29:00Z
-    webUrl: "https://www.industrytap.com/waymos-self-driving-car-is-no-match-for-construction-road-cones/57070"
-    type: article
-    provider:
-      name: Industry Tap
-      domain: industrytap.com
-    quality: 39
-    images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2021/05/safety-cone-3442464_1280.jpg"
-        width: 1280
-        height: 854
-        isCached: true
-  - title: "The Waymo v. Uber of Self-Driving Taxis Has Achieved Liftoff"
-    excerpt: "A patent and trade secret dispute between Wisk Aero and Archer Aviation features some of the same firms that did battle a couple of years ago over autonomous vehicles."
-    publishedDateTime: 2021-05-21T20:30:00Z
-    webUrl: "https://www.law.com/therecorder/2021/05/21/the-waymo-v-uber-of-self-driving-taxis-has-achieved-liftoff/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2021/05/Archer-Aviation-Maker-Article-202105211531.jpg"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Watch self-driving car struggle to understand traffic cones"
-    excerpt: "An autonomous Waymo car carrying a passenger got confused when it encountered construction cones and unexpectedly drove off when the roadside support arrived."
-    publishedDateTime: 2021-05-18T00:36:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.html"
-    ampWebUrl: "https://omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/technology/watch-self-driving-car-struggle-to-understand-traffic-cones/video_320778a4-6e58-5de2-b7d1-aa81e8ccc8bb.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-  - title: "Traffic Cones Confused a Waymo Self-Driving Automobile"
-    excerpt: "A confused Waymo self-driving car was captured on video as it became stranded on an Arizona road earlier this month while carrying a passenger and then unexpectedly driving away as a worker from the c"
-    publishedDateTime: 2021-05-18T18:55:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/05/18/traffic_cones_confused_a_waymo_self-driving_automobile_777709.html#!"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
-  - title: "WATCH: Self-driving car flees from human driver after getting confused by road construction"
-    excerpt: "A self-driving taxi fled from its human driver twice while on its route after getting confused. The vehicle, operated in Arizona by autonomous driving service Waymo, became bewildered when it approached a construction site."
-    publishedDateTime: 2021-05-18T17:02:00Z
-    webUrl: "https://www.westernmassnews.com/watch-self-driving-car-flees-from-human-driver-after-getting-confused-by-road-construction/article_3b8f9c48-135e-5bdb-909c-37373b14901d.html?block_id=998091"
-    type: article
-    provider:
-      name: Western Mass News
-      domain: westernmassnews.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/9/19/91934915-803e-5a11-a07c-96fe3e4d71ff/60a3e57a5b3d5.image.jpg?resize=640%2C360"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "evGymsJvdKmvv1/SFxZe9fea8WryN2E42Wrsq9hlekhNGlC5T5oUoP9/rx5jnrzV+w4IgXPGDVzHkIOC7EqpXDpwYWOy1VUTNxCHieJ3Jm5WR39zGjzXo2xx1nBA0lnCLPmtPY4ASTMhxcu0qjzINmj8Izh9bNa4XM4S23RJawoSByW3P83U8NbbCbaCX9/ZJDM1xUQ4je5m5gn/arQxy8fGli7OFZlQB5rK30Q0EhzIlkzzZteb7PXozpqd1FRiR0/FVHLXJASDOG0Ocg45uFgj33LPfPxHB1HB4e/IN+ut9Q7G8YKJ1dQRucR796CaAkvPRy0/P7X619V96qWc1SqSjSORhrG6iCLtFA5ABuA=;AyfCCYEkyeKAdfaoVO4n9A=="
 ---

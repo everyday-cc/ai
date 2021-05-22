@@ -1,27 +1,27 @@
 ---
 category: news
-title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
-excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"
-publishedDateTime: 2021-05-20T23:03:00Z
-originalUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
-webUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+title: "Mind-controlled robotic arm restores sense of touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
+publishedDateTime: 2021-05-22T16:00:00Z
+originalUrl: "https://www.taipeitimes.com/News/biz/archives/2021/05/23/2003757866"
+webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/05/23/2003757866"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFUV
-  domain: wfuv.org
+  name: The Taipei Times
+  domain: taipeitimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-    width: 342
-    height: 240
+  - url: "https://www.taipeitimes.com/images/2021/05/23/p16-210523-304.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -108,20 +108,6 @@ related:
         width: 948
         height: 710
         isCached: true
-  - title: "Mind-controlled robotic arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
-    publishedDateTime: 2021-05-22T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/05/23/2003757866"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2021/05/23/p16-210523-304.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
     excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
     publishedDateTime: 2021-05-22T17:57:00Z
@@ -136,6 +122,20 @@ related:
         width: 948
         height: 589
         isCached: true
+  - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
+    excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"
+    publishedDateTime: 2021-05-20T23:03:00Z
+    webUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
   - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
     publishedDateTime: 2021-05-21T10:01:00Z
@@ -148,6 +148,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "nLrWI/5ZNHvsjP2nCHc2Nhl1asbQ4li94Z2BCSQh1cxEZTQbaEPm0JchYk2pjIISoRcX8gk7J2FcVTrrsmA9zDqkjCo9Q1lnZ0pCJ6CORr/AY3vn4gWaAxvpLGSahf6zFuDMZX7QOrM2yha/zzC9WLr/VSH2Kk9fNNDeL6AfB17KT8ByMA6QswhjyJ8shALgsDq8Piot2q4m6xJdSRN54bXoeg/6/00Fz6KZq/JgEObDLdglWF3zYNu3YB+GPfiYOlkpgASwPcHLc5vwujHSBwga20u8/jOXIiWUr3sJTY2LXl8o7Mhlot1MNUF6C9iOpGo0Mc6+GEV7y/yYKvDx41Ine/8UfEiM5ZAjE4Ii3UE=;+bZJ2PzhZf/s+Ps3tMV5tQ=="
+secured: "nYhikl5hYnxIxtmBvjCOptoDKCi6org1JTRuObwb22xtYasL4iBB898dYAUMH/j/NRoD4mbrVE3mrozY999Mqp6BpWDvSZC4p/teMrmElVonS6tmPWBu7EpFSpuuV4zTsZ4IYOJ2lTv7NTcoH/Xizu72YnujOnu9OfCXY0PVHgFEsm9JPmQvpJ6MdxZ0mbEsmz9W28oeoStANqVXEc2CFVYS6zFwrsFHsvrhm6qE7qHdNbHkUBI8U7035eX5m5Fq8nj41DU4UhUG92SF7agDni386s9cCAKvIHU4PCpXgJfK+2Jzbv4YytgAw1CjnpL6uQluy1d/Z+X12Qg+n9BCeJWflpDuxVuIpW5iRlHT1GE=;72+0yvbSHBarIhFGbAPX7A=="
 ---
 

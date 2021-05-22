@@ -121,31 +121,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "California Regulator Reviews Tesla's Self-Driving Claims"
-    excerpt: "A California regulator said on Monday it is reviewing whether Tesla Inc violated regulations by falsely promoting its advanced driver-assistance systems as being \"full self-driving.\" Tesla's driver assistant features,"
-    publishedDateTime: 2021-05-17T23:07:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-17/california-regulator-reviews-teslas-self-driving-claims"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "California places Tesla's 'Full Self-Driving' under review"
-    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-"
-    publishedDateTime: 2021-05-18T00:04:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/california-places-teslas-full-driving-review-77745301"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/california-places-teslas-full-driving-review-77745301"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/california-places-teslas-full-driving-review-77745301"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_4a35d5a5f27e4bffb6600fd2462f18dc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Calif. to Review Tesla's 'Full Self Driving'"
     excerpt: "The department confirmed the review Monday in an email to The Associated Press. State regulation prohibits advertising vehicles for sale or lease as autonomous if they can't comply with the regulatory definition,"
     publishedDateTime: 2021-05-18T13:16:00Z

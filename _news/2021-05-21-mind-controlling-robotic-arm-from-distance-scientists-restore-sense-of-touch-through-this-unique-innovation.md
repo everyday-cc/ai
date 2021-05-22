@@ -104,6 +104,34 @@ related:
         width: 948
         height: 710
         isCached: true
+  - title: "Mind-controlled robotic arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
+    publishedDateTime: 2021-05-22T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/05/23/2003757866"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/05/23/p16-210523-304.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
+    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
+    publishedDateTime: 2021-05-22T17:57:00Z
+    webUrl: "https://www.wbur.org/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+    images:
+      - url: "http://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815_custom-8ffe72ab4ed1cd6a862fd29984d7bb30c82b1cdf.jpg?s=6"
+        width: 948
+        height: 589
+        isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
     excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"
     publishedDateTime: 2021-05-20T23:03:00Z
