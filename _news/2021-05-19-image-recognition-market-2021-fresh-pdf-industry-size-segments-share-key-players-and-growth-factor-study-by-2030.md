@@ -29,91 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Speakers Market Size, Share, Value, and Competitive Landscape 2024"
-    excerpt: "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.”  The report demonstrates detail coverage of Artificial Intelligence (AI) Speakers industry and main market trends."
-    publishedDateTime: 2021-05-20T03:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437"
+  - title: "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-05-22T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Production, Growth, Share, Demand and Applications Forecast to 2025"
-    excerpt: "Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  By identifying the growth,"
-    publishedDateTime: 2021-05-20T21:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20"
+  - title: "Artificial Intelligence in the Construction Market 2021 Industry Size, Key Manufacturers and 2025 Forecast Research Report | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Construction Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-20T10:53:00Z
+    webUrl: "https://menafn.com/1102102855/Artificial-Intelligence-in-the-Construction-Market-2021-Industry-Size-Key-Manufacturers-and-2025-Forecast-Research-Report-Says-Kenneth-Research"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Market to Reach $228.3 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-05-18T14:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-market-to-reach-228-3-billion-by-2026--301293951.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1511411/MCP_1592.jpg?p=facebook"
-        width: 1020
-        height: 534
-        isCached: true
-  - title: "AI Computing Hardware Market 2020, Size, Share, Growth Potential, Major Application, Industry basis of Region to 2025"
-    excerpt: "The AI Computing Hardware Market is expected to grow at the highest CAGR of 26% during the forecast period 2020-2025. More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips,"
-    publishedDateTime: 2021-05-21T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-2020-size-share-growth-potential-major-application-industry-basis-of-region-to-2025-2021-05-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
-    excerpt: "The report titled Global Automotive Artificial Intelligence AI Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Automotive Artificial Intelligence AI market has been garnering remarkable momentum in recent years Demand continues to rise"
-    publishedDateTime: 2021-05-18T19:29:00Z
-    webUrl: "https://www.openpr.com/news/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    ampWebUrl: "https://www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/5/U518133582_g.jpg"
-        width: 800
-        height: 435
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-05-20T04:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-share-value-and-competitive-landscape-2021-2026-says-kenneth-research-2021-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133029"
+        width: 380
+        height: 250
         isCached: true
 
 secured: "TliqNVs51LZK6rueZazoVuW5nn9+dIMmStnFn0rxyOuMIDG9qxOXcM3o11ZT6DC5yEknn8g9vAlYWI2S7mliga7nvvP6snHWLB+jTAPqQd4bnoCdu4vHiQ5LR/h9BNqbs0jsyHJueRVLOXnv9AAjUH+xOu9t+dbSfj1n/dr1Ii0ySxgaZMjEJkNLBfqPoNy4CWPb2w0ol/ZQxP0OvAbRnbtSUSraUph7MQUNVNIIQxvPgB0FFVywDwpEgnfhWUAOxrOd8WQdr11YuUENFlSwJ2LsEOcuJ+VlxBxNTT7tH6KEm/1zE3YdWmTd1dZeoXVLxHE7tl6ixIf7+wZyHtD9thIYFg2XQVflUUMnX9ouDts=;6Kc5Ca/Fj7sfcDtxWNef1Q=="

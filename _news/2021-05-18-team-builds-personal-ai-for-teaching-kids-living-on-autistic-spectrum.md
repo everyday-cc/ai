@@ -24,22 +24,6 @@ images:
     height: 1357
     isCached: true
 
-related:
-  - title: "UTSA builds personal AI for teaching kids living on autistic spectrum"
-    excerpt: "UTSA has established a wearables and artificial intelligence laboratory to provide precision treatment plans to improve learning among those diagnosed with autism spectrum disorder (ASD)."
-    publishedDateTime: 2021-05-18T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uota-ubp051721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "eekME0+W8eiH1Jj1cZUsXJmpNYtLdOrxbTTuIX01iIj0978hX+aGU0p+YDHIfyg/+PfAy4KTTh0RUCnU9mxY0YJ3ZO9z5s2lVeewJnz4jeBd1u2BQLRrZmyQwo4VxLqzmbpZ5Gs4SACXKcO0UQL4JYsiYGIsWNB1M0ma8JlTIN6z1FVZaOlAxcV9HpZmi+T90V8FiM0jxKVe7M54o7plwoD84GttofTefkPyysG24f1qjyvQyXPhBRLqCbRbfNZjYyzL77/qCCAbJfNMmFY8TowA7HlIyNeQqRAYPXkFvaXKhm4HdsuHP3Gg5JBcFmSlZZyQGHSYmtmo3MAwhsoMNjmWY4miRQvlKJz9AYSRwIm09ZDexgD/TLS2GOlpnc3S+9KW59aCHRWpYAXZBeXDfIOmYIC2Un3PmMcXdD8OOzH8A0yUn4uVAksq7btu5mDwsMVPCiNMWGh0EmCWAUHWswmYg4WeGx5hPdKuv8slVAfnT1hZTrUnm6mMvW7kZiCzmHF6jHdHH8AhkI+JQnskPA==;Pti+JauM0XOF8FmVJ85JAA=="
 ---
 

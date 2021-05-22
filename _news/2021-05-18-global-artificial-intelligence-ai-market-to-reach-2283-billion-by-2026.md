@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2021 (Fresh PDF) Industry Size, Segments, Share, Key Players and Growth Factor Study by 2030"
-    excerpt: "MarketResearch.Biz one of the world’s prominent marketing research firm has launched a brand new report on Global Image Recognition Market. The report is complete of critical insights available in the market for you to assist the customers in making accurate enterprise decisions."
-    publishedDateTime: 2021-05-19T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-fresh-pdf-industry-size-segments-share-key-players-and-growth-factor-study-by-2030-2021-05-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UZ8GfpGcKEOs6x997xp1WDwsFcZopWzEEvPUZrBVat2P1a+hbSwEEbl71C4qW3wEqBXyhbIECZfC0XEqmo4Hbv5H4OgqKKpHZptyhZuQnrtMcBx5BuYc1wAjChHmOdF3rNEFEuMtnEpbJx9O/08wPExHwmynd1gHufeZLetnEXjn9/zwHn8yYN/MjAdeImoxk/AFIAX4DzaMwy3yyeZ0SdKGPXTzlDEUhWZsChH4ij/jRldJZK4BBFJJBaIoA6ex6/yOMqnC9ODuGDOAx9tVBaRKt+p5MoZzdfGBxMJyJQLFSePMRbgsRQG28HgkDuPVTWtWlu24va27E8DFK8YwJl4kEIzTv2lUeYYiIvQBW3yFHssUxP96LNdPQGMURZ0epx2My3iz1Th3uUYdpaUH6hZCKYwuHuF/7rjDvGGuCEurLA8f8Y2VkOxFj1PjdmRL/EpJYLuGaehzIRCBkJp5lgq3hwFsG9nk/4RMU8rkxoxRpTEEsPGwqtRsuetpyWUOvV+PqntRepY+Xh/bz5o1Wg==;EJBoMo25lAXglaMYxYm5uQ=="
 ---

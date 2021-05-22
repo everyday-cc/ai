@@ -41,20 +41,6 @@ related:
         width: 2560
         height: 1288
         isCached: true
-  - title: "Covid-19: Role of Artificial Intelligence explained in making of vaccines"
-    excerpt: "India is facing a massive surge of Covid-19 cases in the past few days. The country fought the battle against the virus last year, but the second wave of the pandemic has become more devastating and put a big question mark on the nation’s health care system."
-    publishedDateTime: 2021-05-18T03:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/in-depth/covid-19-role-of-artificial-intelligence-explained-in-making-of-vaccines/videoshow/82258714.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://timesofindia.indiatimes.com/photo/msid-82258714,imgsize-196837.cms"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
     excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It has been a year and a half since Covid-19 broke out."
     publishedDateTime: 2021-05-18T14:13:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.mckinsey.com/industries/financial-services/our-insight
 webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: McKinsey & Company
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Platform operating model for the AI bank of the future"
-    excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."
-    publishedDateTime: 2021-05-18T23:32:00Z
-    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/platform-operating-model-for-the-ai-bank-of-the-future"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 54
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/platform%20operating%20model%20for%20the%20ai%20bank%20of%20the%20future/standard-platform-operating-model.jpg"
-        width: 1536
-        height: 1536
-        isCached: true
   - title: "Hitting the right note as AI streamlines the business of music production and distribution"
     excerpt: "How AI is used in the music distribution process. Deep learning and other AI algorithms are tailor-made for unstructured data and there is nothing less structured than digitized audio or video. Furthermore,"
     publishedDateTime: 2021-05-19T09:27:00Z

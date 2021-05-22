@@ -24,15 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market 2021 Segmentation, Future Business Strategy, Manufacturers Study and Forecast by 2030"
-    excerpt: "The report additionally offers the companies/producers panorama and a corresponding certain evaluation of the pinnacle companies/producers running withinside the worldwide Automotive Artificial Intelligence Market."
-    publishedDateTime: 2021-05-21T11:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2021-segmentation-future-business-strategy-manufacturers-study-and-forecast-by-2030-2021-05-21"
+  - title: "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-05-22T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market 2021 (Fresh PDF) Industry Size, Segments, Share, Key Players and Growth Factor Study by 2030"
+    excerpt: "MarketResearch.Biz one of the world’s prominent marketing research firm has launched a brand new report on Global Image Recognition Market. The report is complete of critical insights available in the market for you to assist the customers in making accurate enterprise decisions."
+    publishedDateTime: 2021-05-19T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-fresh-pdf-industry-size-segments-share-key-players-and-growth-factor-study-by-2030-2021-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

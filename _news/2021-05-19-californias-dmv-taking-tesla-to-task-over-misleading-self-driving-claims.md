@@ -93,22 +93,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "DMV probing whether Tesla violates state regulations with self-driving claims"
-    excerpt: "A review of Tesla's claims around its self-driving technology comes after a spate of accidents and videos showing owners 'driving' from the back seat."
-    publishedDateTime: 2021-05-18T03:47:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-05-17/dmv-tesla-california-fsd-autopilot-safety"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-05-17/dmv-tesla-california-fsd-autopilot-safety?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-17/dmv-tesla-california-fsd-autopilot-safety?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 71
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9d4ccf7/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2Fea%2Fd26db18a34a9692d694e1b0a48ba%2Fla-1557255076-hhgzax4ff3-snap-image"
-        width: 320
-        height: 209
-        isCached: true
   - title: "California’s DMV Investigating Tesla Over Potentially Misleading Full-Self Driving Option"
     excerpt: "The California Department of Motor Vehicles (DMV) is investigating whether Tesla has misled customers by advertising its full self-driving option, a system that isn’t even close to being fully autonomous."
     publishedDateTime: 2021-05-18T19:29:00Z
@@ -138,34 +122,6 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Tesla_Dealership_AP.60a3bf82aaf91.png?auto=format&fit=max&w=1200"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Tesla is under review by the DMV for its ‘full self-driving’ claims"
-    excerpt: "The California Department of Motor Vehicles is reportedly investigating Tesla Inc.’s claims regarding its vehicles’ full self-driving capabilities. Regulators will try and ascertain if the company has falsely promoted the feature,"
-    publishedDateTime: 2021-05-18T03:21:00Z
-    webUrl: "https://siliconangle.com/2021/05/17/tesla-review-dmv-full-self-driving-claims/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/30430513415_91a6217882_z.jpg"
-        width: 638
-        height: 358
-        isCached: true
-  - title: "Tesla is under review by the DMV for claiming ‘full self-driving’ capability"
-    excerpt: "The California Department of Motor Vehicles is reportedly investigating Tesla Inc.’s claims regarding its vehicles’ full self-driving capabilities. Regulators will try to ascertain if the company has falsely promoted the feature,"
-    publishedDateTime: 2021-05-18T03:39:00Z
-    webUrl: "https://siliconangle.com/2021/05/17/tesla-review-dmv-claiming-full-self-driving-capability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/30430513415_91a6217882_z.jpg"
-        width: 638
-        height: 358
         isCached: true
   - title: "Apple cuts the number of drivers for its self-driving cars in half"
     excerpt: "Sounds like Apple's self-driving cars are getting better? What you need to know Apple has increased the number of self-driving test cars on the road. It has also cut the number of drivers for those cars in half."

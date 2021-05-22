@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/finding-any-cartier-watch-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/"
 type: article
 quality: 94
-heat: 94
+heat: 95
 published: true
 
 provider:

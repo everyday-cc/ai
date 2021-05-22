@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Deep Longevity announces partnership with LifeHub & LifeClinic in Hong Kong"
-    excerpt: "Deep Longevity adds LifeHub & LifeClinic to its growing longevity network. LifeClinic physicians have been trained in longevity medicine to interpret Deep Longevity's biological age reports that incorporate multiple aging clocks."
-    publishedDateTime: 2021-05-18T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/dll-dla051721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 22
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/265129_web.jpg"
-        width: 720
-        height: 514
-        isCached: true
-
 secured: "1s1e6xBN21nFvaTsxtLZnSaBypaLkoC37OEMfqai2ljYXOJ9m3TqZJNv0PfpIQBFWO16HY5nZoOrT4inB2/gmhCYcWdpxvHob2LiJ+F+8s1p39cP+SySQXXUJn6qES5arqxQ6wdCh7JUl5i1vcT6wcZqlv01Oqo3zxmiFoUYQB1p1ISAPm6iHmNy5dfahy1Rsuh18pRjCQ6uuO2lgsc2QbZGLV9jEwUwgalZgUAI+9bRxVq2312TBOWIvlRon/Q/stXyoSdc6vBJ5NEK6tTy9XPmFGzt2H1TLaRbzocDVJlEdixXkD8WKKLY/jPng2Ve2NMGd20EzGRhEXDrxLeZgCVP52ZUf31c6lyNnGoRoTI=;r3mJnUvuEC9wRpGl/EC/yg=="
 ---
 
