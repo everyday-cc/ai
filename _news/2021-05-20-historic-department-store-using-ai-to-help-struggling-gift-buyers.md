@@ -108,20 +108,6 @@ related:
         width: 685
         height: 385
         isCached: true
-  - title: "Harnessing the power of artificial intelligence to combat human trafficking"
-    excerpt: "To combat human trafficking, MIT researchers have developed an algorithm to examine Internet patterns to try and break the chains."
-    publishedDateTime: 2021-05-17T18:49:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/harnessing-the-power-of-artificial-intelligence-to-combat-human-trafficking/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Human-Trafficking-Press.jpg"
-        width: 1600
-        height: 1054
-        isCached: true
 
 secured: "fhYr9+Ox+8FAO+Fge6o168iDdUPyfQe96n/kLZ+5jl49zq27JDTyEzNLdG3TdzYUtIjRB2HBapjFWhs0Yp+RMrL7P1vnIS6vatkzrKAVHtZHPrnLJqpn2TGitYtRNWskclOLy7tc1yfoyXPo4saLBnBX/57MUqlayRrEbNeGokGdD3wU97kfnBQeqzA5FICiTmQqOUdzPkai1HuSsyXeC1zU+Ker7XhW2lgjgfC+fjkeZLMrpK1Q09GjBPS2JTvYG6Ye6/cFMfPBhPV0v4f62QAKY4WOn/zkIjCBnBX2yTyr5IgTCUZfHWG/WJHvh4fthetchiuaPYNB8GFSpSb4l7lccYAW9RpbMY45vQK9YsU=;Cd96ILxqDMYlSD8ZsZg/wA=="
 ---

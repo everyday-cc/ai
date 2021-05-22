@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
 type: article
 quality: 109
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa806748a-b753-11eb-9a91-c8c89595f50e.jpg?crop=1500%2C844%2C0%2C78&resize=685"
         width: 685
         height: 385
-        isCached: true
-  - title: "Harnessing the power of artificial intelligence to combat human trafficking"
-    excerpt: "To combat human trafficking, MIT researchers have developed an algorithm to examine Internet patterns to try and break the chains."
-    publishedDateTime: 2021-05-17T18:49:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/harnessing-the-power-of-artificial-intelligence-to-combat-human-trafficking/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Human-Trafficking-Press.jpg"
-        width: 1600
-        height: 1054
         isCached: true
   - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
     excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"

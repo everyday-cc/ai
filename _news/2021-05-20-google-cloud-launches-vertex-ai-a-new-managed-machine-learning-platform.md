@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google Cloud Launches Vertex AI, A Machine Learning Platform"
+    excerpt: "Google Cloud has launched Vertex AI, a fully managed cloud platform that simplifies the deployment and maintenance of machine learning models."
+    publishedDateTime: 2021-05-22T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8ee6977b717c6109b388e%2F0x0.jpg%3FcropX1%3D98%26cropX2%3D3278%26cropY1%3D2%26cropY2%3D1791"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Cloud launches Vertex, a new managed machine learning platform"
     excerpt: "At Google I/O today Google Cloud announced Vertex, a new managed machine learning platform that is meant to make it easier for developers to deploy and maintain their AI models. It’s a bit of an odd announcement at I/O,"
     publishedDateTime: 2021-05-18T19:45:00Z
