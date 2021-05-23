@@ -43,20 +43,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Speed up YOLOv4 inference to twice as fast on Amazon SageMaker"
-    excerpt: "Machine learning (ML) models have been deployed successfully across a variety of use cases and industries, but due to the high computational complexity of recent ML models such as deep neural networks, inference deployments have been limited by performance and cost constraints. To add to the challenge,"
-    publishedDateTime: 2021-05-18T23:00:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/speed-up-yolov4-inference-to-twice-as-fast-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Amazon still won’t make its facial recognition software available to police anytime soon"
     excerpt: "Amazon place a one-year moratorium on police to block them from using the technology, coming at a time when other technology companies either said they wouldn’t sell their own similar product or stopped the development of such products."
     publishedDateTime: 2021-05-19T03:13:00Z

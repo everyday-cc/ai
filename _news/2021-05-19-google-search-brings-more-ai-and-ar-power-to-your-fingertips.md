@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/05/20/a4daa536-5ef5-4b66-8c2b-5b23f29da2ed/thumbnail/770x578/badfc2ccd7ef5e632069a16cf4707854/thumb.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
+    excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
+    publishedDateTime: 2021-05-19T07:43:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
+        width: 600
+        height: 390
         isCached: true
 
 secured: "TJzCNlcmubxA6BGUlDYzbDJEtfLKY5a4Ys8ceNPiIRVSBuX6oYIaOZUE7bN9WkAEbgTr3Wre+EdZMqBSbN3F15ecFBUhbkcC6vZKwebpHapXunxX+ISdA4vu6oNI4/XxItPfi4CqyCasJ6xm7E3ktH4RAg6syHkhe5WZLuJ2UOb8W5qTaelbsxDmuqnxK6sbITajAALIe1WL7Zla6ypCfEWRz8AMT6XaePECehLabG6Y77z9XP39HZkI/o45MrE62tIGzrKYVR8HHZ+5vuRYTYBqA8iMnV5NKv7er1t60m4tk62VKQBX24CMYstidwHLoRDS9icaS6WGmrZiTCSVztBC2M5ECT1FwwWN+eztoKk6kk1JjdDr9ybtK6sTcrLv8AI7eURIFQQFC1kM+wKSprhJwVvb/zbGmL7e1hVsFy8B0qXo4O3yXJsnqLOx+M0+E7Je+cNPTu60s+D2OpMEtkvSwvWsG/V0K9sJKnURwyQUHlrfd4yOOIbAEG0XCz7Vu/A36xyKD0CLeOupCVdXmQ==;gkz8nKQ+n+qdRRPxCg/9yg=="

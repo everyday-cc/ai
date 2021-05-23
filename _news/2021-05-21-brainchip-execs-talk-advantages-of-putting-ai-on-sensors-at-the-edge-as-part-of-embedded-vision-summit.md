@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-20T18:58:00Z
 originalUrl: "https://www.nasdaq.com/press-release/brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of"
 webUrl: "https://www.nasdaq.com/press-release/brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 related:
   - title: "Chips&Media Making its Presence at the 2021 Embedded Vision Summit as an Exhibitor"

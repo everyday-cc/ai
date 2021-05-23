@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speed up YOLOv4 inference to twice as fast on Amazon SageMaker"
-    excerpt: "Machine learning (ML) models have been deployed successfully across a variety of use cases and industries, but due to the high computational complexity of recent ML models such as deep neural networks, inference deployments have been limited by performance and cost constraints. To add to the challenge,"
-    publishedDateTime: 2021-05-18T23:00:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/speed-up-yolov4-inference-to-twice-as-fast-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Automate feature engineering pipelines with Amazon SageMaker"
     excerpt: "The process of extracting, cleaning, manipulating, and encoding data from raw sources and preparing it to be consumed by machine learning (ML) algorithms is an important, expensive, and time-consuming part of data science. Managing these data pipelines for either training or inference is a challenge"
     publishedDateTime: 2021-05-20T23:08:18Z

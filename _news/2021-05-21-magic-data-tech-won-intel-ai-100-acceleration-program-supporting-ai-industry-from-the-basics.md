@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 393
         isCached: true
+  - title: "AI has a Big Tech problem"
+    excerpt: "A handful of companies dominates not only how artificial intelligence is developed but critiqued. It’s time for that to change."
+    publishedDateTime: 2021-05-23T15:00:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/ai-has-a-big-tech-problem-3db2add4-3383-4176-b1d2-0f061a0f0a6a"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 39
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1280x366/File-picture-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Can the Youth Mental Health Crisis Caused by Tech Be Cured by Tech?"
     excerpt: "Health officials are warning of the significant, negative impacts that online life has had on youth mental health, but AI-based trainings and online therapy could ensure that health services are reachable wherever the child is."
     publishedDateTime: 2021-05-20T21:36:00Z

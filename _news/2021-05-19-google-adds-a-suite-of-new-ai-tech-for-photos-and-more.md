@@ -59,6 +59,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
+    excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
+    publishedDateTime: 2021-05-19T07:43:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "YqamEBEZdF4bLW/ch2mdu13dcYwas7NOiBkF7y0FbH8Ty1X14nNS497cAy+ZNUigsDX7XxxbkHgCo32Hve2ui+94H+TRa5yEAMpJuYs83pRIZK1oGDWqVpBc4clFQNOLozUGZOMZ0ZDjNmR0i5IVsLKQ+jsusti+xzjhS461UzPwqTTWJE7LrZCvOlk7NQcpmtd34Kha20MWX+qhr1Gqy8tx/Cs9IRZiQ+Iw7M8arB1/P0YnqSERVd/pm6GVUjdpcY2SRe+YNQCymikgkNs9m37D8Rk4ufpGOtAlI1GSaEXMbaVSgcFkY26iKzP3c4cSyI0IC8wAFsrM28JmudzIqvifdrr5v3iiaZDcaUYKn2I=;/WvueUXZ9RazvH19tDoH7Q=="
 ---

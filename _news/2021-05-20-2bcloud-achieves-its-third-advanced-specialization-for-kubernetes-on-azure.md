@@ -1,23 +1,29 @@
 ---
 category: news
 title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
-excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be validation of a solution partner's deep knowledge,"
-publishedDateTime: 2021-05-20T07:36:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210520ln85058/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure"
+excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
+publishedDateTime: 2021-05-20T12:36:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/2bcloud-achieves-its-third-advanced-specialization-for-kubernetes-on-azure/article_d03550ed-0386-5f28-ad4b-460dde83d954.html"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "nxNWjRP7SrzW3LHeA6UYg/AtN//tveRdzNOfyrzJ3ZhqyRyZrScCYfmI5OuO6rVRV5Ijv6SyrCGdDxknD70koDAUhcIgdivn3RGFa8NRgyGfZooq5CJnCYb9eT9heya4TuvI1nQyC1ouOabmZGaR/qo3J7O82JTd6s7xd15sXezxyBT3M4eNffjZs7MfQZzIz/OMNZ8Dk5ytWdlDA+/vr3i1d2KzVH3PwwKPsvbnsrd3GtIAMMg5g0fYXhKOZdQfjwWDCBEUColCbR2OmKCBVq3rN4W8dC6i7YaBgJ/a7G3J8kotnmYVAP+UdlVBVmp7W2H9xvd+SLzv6ccbcgmZUNr2vOEetWWzAswAAJeA17k=;Y0x11DD/b6AlrDF04ZBsQw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "9dZLkwfP6L67AgU5ZwaBOW6txTEMFtu40J4Jfmfdq6e5J3tK8fiNcvLnBiV/8EFpxU2jS6bZZc0zvuSd7BlEI72hE4bNbmyl3/QzpStPyvQvCUHI3pl+SwgwFVQqAw3EWSWvDmYp9EhcpDiZrhCzuzlmtNZWJdcq9cYi2JRSTROsiAx/wlhlGSY1bVLYC1lW1qqhbku9igmVv93q2mJDF0zrtGEKirmgDJfhBGWLhKHoZEeZH5EeLDg+LHI09V3MggxRBYip/k3WdYh3+FjNQP7W35TkX8nDL+p9TAarvqTZOII6sXvOq++CxZ/FijMWZ+WrOFJwWa/gqrU0Ocg6VSqtKruEuhDVMXt8YztuQg0=;BgjCO6OTTvecpxm/EvL7Vg=="
 ---
 
