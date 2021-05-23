@@ -2,57 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-05-10-artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice.md",
-      "title": "Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?",
-      "excerpt": "Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6098b3bc2cd0e76d77a5e166%2F0x0.jpg",
-          "width": 1199,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
-      "publishedDateTime": "2021-05-09T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-10-behavioural-and-cognitive-psychotherapy.md",
       "title": "Behavioural and Cognitive Psychotherapy",
       "excerpt": "This was a multi-site evaluation of psycho-educational transdiagnostic seminars (TDS) as a pre-treatment intervention to enhance the effectiveness and utilisation of high-intensity cognitive behavioural therapy (CBT). 106 patients across three services ...",
@@ -1215,6 +1164,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks.md",
+      "title": "Artificial Intelligence Ranks Moderna And IBM Among Trending Stocks",
+      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified Moderna and IBM among other trending stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001ebea375c531889c54471%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
+      "publishedDateTime": "2021-05-07T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

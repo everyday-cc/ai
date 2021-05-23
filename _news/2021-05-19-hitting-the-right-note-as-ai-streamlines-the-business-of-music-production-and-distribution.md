@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Introduction: Building the AI bank of the future"
-    excerpt: "To thrive in the AI-powered digital age, banks will need an AI-and-analytics capability stack that delivers intelligent, personalized solutions and distinctive experiences at scale in real time."
-    publishedDateTime: 2021-05-18T23:31:00Z
-    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/introduction-building-the-ai-bank-of-the-future"
+  - title: "Artificial Intelligence Is Rippling Across the Business Landscape"
+    excerpt: "A rtificial intelligence (AI) technology is penetrating all business sectors whether they're ready for it or not, making the Global X Artificial Intelligence & Technology ETF (AIQ) a prime play. \"In 2021,"
+    publishedDateTime: 2021-05-20T15:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-is-rippling-across-the-business-landscape-2021-05-20"
     type: article
     provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 54
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/building%20the%20ai%20bank%20of%20the%20future/standard-ai-banking-collection.jpg"
-        width: 1536
-        height: 1536
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "mMesf9xNA0IprwYNkMM9GunXZBSKutK15X8h4XJgJ8tj2BJfN48wCGBa1RdGL+AAB8MsYWSDayVH/QJtdeoDVQyQK84J1z53yoWIm8GVcSmFQKAa4y/2slz/oj8pMA6rXXPgOqbvSEINdSkaCF0QSKy7POAPvin4C2QDf+l9NX6kFqmBiBMqkaSsrCmLntX2m8BYY+cWdmdH12TAhZ7NA7pqAlJyyUqvLk9/+jzFGO5uiTE1SDiZqiBZFU9cMKoZp0SrzYLUQDeF3jQ+/iXXlgXmgNjfGYt7k4MzLTPuMatlHrT/RXh5/Yocvx+Z75MdzptaCht6JLedUh4cCgcTNmIs6AzqtbZ4xmUvQYqrR0Y=;hjJon4tCJw89GWG8L4TiUQ=="
 ---

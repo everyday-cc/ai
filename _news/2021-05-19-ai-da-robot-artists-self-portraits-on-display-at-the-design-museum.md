@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sciencefocus.com/news/ai-da-robot-artists-self-portraits
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-da-robot-artists-self-portraits-on-display-at-the-design-museum/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: BBC Focus
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist Ai-Da self-portraits go on display"
-    excerpt: "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp."
-    publishedDateTime: 2021-05-18T23:42:00Z
-    webUrl: "https://www.bbc.com/news/entertainment-arts-57093887"
+  - title: "Human-like robot creates creepy self-portraits"
+    excerpt: "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,"
+    publishedDateTime: 2021-05-21T16:08:00Z
+    webUrl: "https://www.livescience.com/robot-artist-self-portraits.html"
+    ampWebUrl: "https://www.livescience.com/amp/robot-artist-self-portraits.html"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 84
+      name: Live Science
+      domain: livescience.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09hz0cy.jpg"
-        width: 400
-        height: 224
+      - url: "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "SwuH4qKhdOKaRa1DkVUbKKLFXqKvSFXU9gNWScDXDHM6NY4cujtn5Gfb7ke5yG0ctH7aUbpRle5itbR90LGKBjMaCsQGKbh+r29j1OKdef2xOmR5nilfZzJWs2MqfrIueO623Or7h0ZMnznVuKpIOwhl+F/r9mUTlhI2Vdf45wDBcFaY9lKvx9jQDbHDgY+7CDpLcpnLoT7BiwGY7J9m1IrieEhuxuSVn5C8BwKdpmIhjOWz9JmVuJn7spEuQctRMw3crrU9QYLe9hNbHIuGI9TZkUTJsglOmKMln/x8cbxuwArK28oz13E+dQU2fdgdJre+lGwLl2HwtV5+9wfaurm5HXdu3bmmbVEKTc3HK4M=;Ctpb63KwwLgLuAvHJjyFNQ=="

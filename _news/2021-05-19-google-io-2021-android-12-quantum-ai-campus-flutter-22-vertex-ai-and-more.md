@@ -59,6 +59,20 @@ related:
         width: 696
         height: 392
         isCached: true
+  - title: "Google Unveils Artificial Intelligence Tool for Dermatology"
+    excerpt: "Google's artificial intelligence-powered tool will help users identify issues with their hair, skin, and nails."
+    publishedDateTime: 2021-05-20T14:52:00Z
+    webUrl: "https://healthitanalytics.com/news/google-unveils-artificial-intelligence-tool-for-dermatology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-Getty-Images.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "CuSdp911B8JwEteSB8AE82YRS6FtpdPIs8PPzArHQtzcKosHxPF/ieAqDNv/smzP4s5dgZySuLtbaasWIzGP4aVBn7IjiGGH2zVvDIklj91lDoaGJeuWCuh0mP42yW65UYLaWixOpsvaFSwmvHZtWfQpeVOpsQ0cyTU1o/62NXDdXPOwmXNbKc2T97qEQj9pYQTojAUZfoM4zsZBjbD/z3OaPWGEc+H95Tht/zHf5K8Jt5FRUy/poXWsSP7vMs/iLV93bfqrrLqEND5STsLoVxy1oqskmDU+ZhRIrJ0hh0lyATqZ/PyhFlh7MUS9I3NN9hofyUHRgYMftOu+Y9C0BXk2DbBwZYbtnRPyATXjnq0=;RAwWn6qqQoxgOJQuZ2gaFQ=="
 ---

@@ -149,22 +149,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Amazon extends June 2020 moratorium on police use of facial recognition software until further notice"
-    excerpt: "Amazon.com Inc (AMZN.O) said on Tuesday it is extending until further notice a moratorium it imposed last year on police use of its facial recognition software."
-    publishedDateTime: 2021-05-19T00:07:00Z
-    webUrl: "https://www.foxbusiness.com/technology/amazon-police-facial-recognition-software"
-    ampWebUrl: "https://www.foxbusiness.com/technology/amazon-police-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazon-police-facial-recognition-software.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d9044aee-8e19-44c4-b834-7613ff377fb4/d2cb7259-cd72-4551-a4d8-478d9012c6f6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon to ban police from using facial-recognition software indefinitely"
     excerpt: "Amazon hoped leaders in Congress would create a law that would ensure its ethical use, but no bill of the sort has been drawn up."
     publishedDateTime: 2021-05-19T19:31:00Z
@@ -180,20 +164,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/05/FacialRegTech-scaled.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "ACLU Statement on Extended Amazon Face Recognition Moratorium"
-    excerpt: "Amazon today announced it will indefinitely extend its moratorium on sales of face recognition technology to law enforcement. In June 2020, amidst nationwide protests against police violence, Amazon announced a one-year pause on its sale of the technology to police."
-    publishedDateTime: 2021-05-18T23:34:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-statement-extended-amazon-face-recognition-moratorium"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 41
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Amazon extends ban on police use of its facial recognition technology"
     excerpt: "Amazon is announcing that it will extend its ban on police use of it facial recognition technology until further notice."
@@ -222,22 +192,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
-        isCached: true
-  - title: "Amazon will block police indefinitely from using its facial-recognition software"
-    excerpt: "Amazon said it would stop providing its facial-recognition software, Rekognition, to police for a year. Now it appears that ban won't be ending any time soon"
-    publishedDateTime: 2021-05-18T23:30:00Z
-    webUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.html?block_id=997200"
-    ampWebUrl: "https://www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/amazon-will-block-police-indefinitely-from-using-its-facial-recognition-software/article_74d511c1-cb40-5ef2-94be-0e90f5971a6a.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/0e/d0e0c9f2-7d80-52f2-9d75-210dd7289092/60a4523a948e3.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
     excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"

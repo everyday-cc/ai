@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-ra
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/MIT_AI.Language_final.jpg?w=2400"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "Platform operating model for the AI bank of the future"
-    excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."
-    publishedDateTime: 2021-05-18T23:32:00Z
-    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/platform-operating-model-for-the-ai-bank-of-the-future"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 54
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/platform%20operating%20model%20for%20the%20ai%20bank%20of%20the%20future/standard-platform-operating-model.jpg"
-        width: 1536
-        height: 1536
         isCached: true
   - title: "Meet the Women Working to Make Artificial Intelligence a More Equitable Space"
     excerpt: "Black Women in A.I. founder Angle Bush and Capital One's Lauren Cole joined Adweek's Elevate: AI virtual event."

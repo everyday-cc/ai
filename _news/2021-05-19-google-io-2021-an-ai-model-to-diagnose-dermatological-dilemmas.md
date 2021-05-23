@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Google Unveils Artificial Intelligence Tool for Dermatology"
+    excerpt: "Google's artificial intelligence-powered tool will help users identify issues with their hair, skin, and nails."
+    publishedDateTime: 2021-05-20T14:52:00Z
+    webUrl: "https://healthitanalytics.com/news/google-unveils-artificial-intelligence-tool-for-dermatology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-Getty-Images.png"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "g0qlO32B5/cLyFa/0X9GoZx8AiZ1FRQYg3bB9XCmIZsJuD+J2poxKW5fsX06udoqFltPu+g/5jJikjyTsC9nRKNxtfEboU2OUViqKrFY8mbb3wl+usAVe4/PqBiJiLAMFv94mgaxHOySsXXoDYzJ8ZFaYZG3eEJzBSr/PtqEdEtjYcieaKRwsBl8IubTFfdGhdSnd9UMJSSJNQmQLkh/4Nas6OjATfHmxzJpa36Gj5laXE2e5LuzF6JJKUtSOcZWChXEw4On+9tqPqJWoMrU8IOHEcmOP4SzIEGgWHjofSasmmuU7rpkqVfrKN0gEHwUtgYFPwUEthMOlbUEnNbdUrm5iUC7r4y5Q9soU6EnZ2eAhu/a2ZPsHx8hiCl3QFOwpB20w6t7gn3SXQH9MoCmi5PBcEZlSPBXx4nPbxvl5roiPy0AzZNLy1BZfDvJ6lhqhdTQ5XZUmrjXAN5+c+/sDXgC3skDKhiKN9SbwEpDtpt80vWvh3pgMqfhGDvpPBR/76VxWRks95ZpuQ0PKag+4w==;U6+cnKVfF2yWjZuzTQ3UcQ=="

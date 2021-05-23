@@ -44,20 +44,6 @@ related:
         width: 1920
         height: 1005
         isCached: true
-  - title: "Platform operating model for the AI bank of the future"
-    excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."
-    publishedDateTime: 2021-05-18T23:32:00Z
-    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/platform-operating-model-for-the-ai-bank-of-the-future"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 54
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/platform%20operating%20model%20for%20the%20ai%20bank%20of%20the%20future/standard-platform-operating-model.jpg"
-        width: 1536
-        height: 1536
-        isCached: true
   - title: "Meet the Women Working to Make Artificial Intelligence a More Equitable Space"
     excerpt: "Black Women in A.I. founder Angle Bush and Capital One's Lauren Cole joined Adweek's Elevate: AI virtual event."
     publishedDateTime: 2021-05-19T21:35:00Z

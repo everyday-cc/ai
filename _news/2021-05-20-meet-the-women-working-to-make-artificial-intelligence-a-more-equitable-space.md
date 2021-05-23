@@ -58,20 +58,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Platform operating model for the AI bank of the future"
-    excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."
-    publishedDateTime: 2021-05-18T23:32:00Z
-    webUrl: "https://www.mckinsey.com/industries/financial-services/our-insights/platform-operating-model-for-the-ai-bank-of-the-future"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 54
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/platform%20operating%20model%20for%20the%20ai%20bank%20of%20the%20future/standard-platform-operating-model.jpg"
-        width: 1536
-        height: 1536
-        isCached: true
   - title: "Taking the Mystery Out of Vision AI"
     excerpt: "How do you actually get data from a camera, embed machine learning to carry out the inference algorithm, and enable something useful to be processed?"
     publishedDateTime: 2021-05-21T01:37:00Z

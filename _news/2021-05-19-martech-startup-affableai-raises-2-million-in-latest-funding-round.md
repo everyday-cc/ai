@@ -40,20 +40,6 @@ related:
         width: 362
         height: 400
         isCached: true
-  - title: "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics"
-    excerpt: "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics."
-    publishedDateTime: 2021-05-19T00:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics-1030443865"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://mma.prnewswire.com/media/1512713/Photo1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Mech-Mind Robotics Closes Series C Funding"
     excerpt: "Mech-Mind Robotics, a Beijing, China-based AI industrial robotics startup, completed a Series C funding round. The round, which brought total funding to over USD100m, was led by Meituan, with participation from existing investors Sequoia Capital China and Source Code Capital."
     publishedDateTime: 2021-05-22T17:41:00Z
