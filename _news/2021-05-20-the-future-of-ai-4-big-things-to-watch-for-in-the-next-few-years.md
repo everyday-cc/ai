@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/which-ai-fields-to-watch-in-t
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/which-ai-fields-to-watch-in-the-future/?amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

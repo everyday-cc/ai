@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livescience.com/amp/robot-artist-self-portraits.html"
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

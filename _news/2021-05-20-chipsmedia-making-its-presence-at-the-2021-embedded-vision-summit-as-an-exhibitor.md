@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "BrainChip Execs Talk Advantages of Putting AI on Sensors at the Edge as Part of Embedded Vision Summit"
-    excerpt: "BrainChip Holdings Ltd. (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power, high-performance AI technology, will present the Expert Bar session “Can You Put AI at the Sensor? (Not the Edge of the Cloud!"
+    excerpt: "BrainChip Holdings Ltd.,, a leading provider of ultra-low power, high-performance AI technology, will present the Expert Bar session“ Can You Put AI at the Sensor? The BrainChip team will help viewers better understand the requirements of sensors at the edge and how challenges associated with traditional machine learning make it difficult to properly"
     publishedDateTime: 2021-05-20T18:58:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
+    webUrl: "https://www.nasdaq.com/press-release/brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
 
 secured: "SqiA2W1AFExY6uIw/vpatMTfW+B0R68DU9LIYgoWXMZwhTcVv4qfjcIWYkYcB8hj9+AbdsAavVRGOdAA96MYvErHgvjIemCPIvxVPNsoKS7xGv2HOhgqzOn8D+vGoTnoTajgMH6Sf63MK/vpoBT7HrM0ymQi+rik7GidSJtIaZuQqv/lrxnK0lw3DbYqPOjsBFZf5NrcwkSAeC0J6qPc0mogapR/5fL7P4TWe+wvyeJ5ip3+pWDQcNHIiKqU9LaOc3XxFqlmCw6wp9j3IMjoIQcMBYefE45p7ylft9/xl3+PdDe3/LXd/ITZoQpNZUyUqza6MkF0bl9b139K5/rP+HtQ88BcendanHTedO0gvETO/0klCzEakpkHxSbhx00SsqAknenUXNqwOWkZHLjQqW5rJqw51UB9xyemoZUEw1+GJoFgt2vtR9KDV5iiWHfJWcykjbTUX41YNBIzc+U9CTmW8vszE6m3MkaFk4dYlJs27tRsYy9e/lh34Vhx+KZ41qv8h1I3d2rNKvL4P/Mu4w==;iK21SV7cYnmWQPtIUZpS+A=="
 ---

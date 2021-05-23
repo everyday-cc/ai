@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-demos-lamda-a-next-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-demos-lamda-a-next-generation-ai-for-dialogue/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F05%2FGoogle-Launches-Next-Generation-AI-Chip-at-Developer-Conference-a.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
-        isCached: true
-  - title: "Google's LaMDA AI can have a 'natural' conversation while pretending to be Pluto"
-    excerpt: "Google previewed LaMDA(“Language Model for Dialogue Applications”), research it says represents a “breakthrough conversation technology.”."
-    publishedDateTime: 2021-05-18T19:05:00Z
-    webUrl: "https://www.engadget.com/google-lamda-ai-180253539.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/5dc13d50-b803-11eb-b993-4d782a71a333"
-        width: 1900
-        height: 1200
         isCached: true
   - title: "Google unveils fourth generation TPU AI chip"
     excerpt: "Google has announced the latest version of its custom Tensor Processing Units AI chip. At its I/O developer conference this week the company claimed that the fourth generation TPU was twice as powerful as the previous iteration."

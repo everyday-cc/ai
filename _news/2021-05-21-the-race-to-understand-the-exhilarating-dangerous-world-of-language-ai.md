@@ -44,22 +44,6 @@ related:
         width: 1920
         height: 1005
         isCached: true
-  - title: "Helping students of all ages flourish in the era of artificial intelligence"
-    excerpt: "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),"
-    publishedDateTime: 2021-05-18T19:55:00Z
-    webUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/helping-students-of-al-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Platform operating model for the AI bank of the future"
     excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."
     publishedDateTime: 2021-05-18T23:32:00Z

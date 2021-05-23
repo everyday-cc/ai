@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-te
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
 type: article
 quality: 98
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla self-driving claim in question: California DMV"
-    excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
-    publishedDateTime: 2021-05-18T19:47:00Z
-    webUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/"
-    ampWebUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/sized-tesla-self-driving.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
     excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
     publishedDateTime: 2021-05-19T12:23:00Z

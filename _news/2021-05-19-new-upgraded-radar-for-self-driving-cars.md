@@ -57,22 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Apple expands self-driving car fleet, reduces number of test drivers"
-    excerpt: "Apple has reportedly increased the number of self-driving cars it is testing on California roads, but has halved the number of drivers licensed to operate them."
-    publishedDateTime: 2021-05-18T19:07:00Z
-    webUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers"
-    ampWebUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/42080-81563-40231-77412-37975-71780-000-lead-Apple-Car-xl-xl-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
     excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
     publishedDateTime: 2021-05-21T14:20:00Z

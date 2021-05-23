@@ -228,22 +228,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Amazon extends ban on police use of its facial recognition technology indefinitely"
-    excerpt: "The tech giant said in June its freeze would last a year to \"give Congress enough time to implement appropriate rules.\" No federal laws have been passed since."
-    publishedDateTime: 2021-05-18T20:13:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/18/amazon-facial-recognition-ban/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TTIT2NDAMEI6TPZE3NFZ7NRKUI.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Campaigners predict U.S. federal facial recognition regulation"
     excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
     publishedDateTime: 2021-05-21T21:23:00Z
@@ -283,15 +267,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Exclusive - Amazon Extends Moratorium on Police Use of Facial Recognition Software"
-    excerpt: "Amazon.com Inc told Reuters on Tuesday it is extending its moratorium on police use of its facial recognition software until further notice. The company in June 2020 had issued the moratorium for one year,"
-    publishedDateTime: 2021-05-18T19:56:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-18/exclusive-amazon-extends-moratorium-on-police-use-of-facial-recognition-software"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 43
   - title: "Amazon to ban police from using facial-recognition software indefinitely"
     excerpt: "Amazon hoped leaders in Congress would create a law that would ensure its ethical use, but no bill of the sort has been drawn up."
     publishedDateTime: 2021-05-19T19:31:00Z
@@ -404,17 +379,6 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 35
-  - title: "Amazon to extend pause on police use of facial recognition | Charlotte Observer"
-    excerpt: "Amazon says it will extend its ban on police use of its face-recognition technology beyond the one-year pause it announced last year."
-    publishedDateTime: 2021-05-18T21:01:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251512648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251512648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251512648.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
     quality: 35
   - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
     excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."

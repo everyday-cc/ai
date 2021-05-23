@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-superch
 webUrl: "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"
         width: 600
         height: 400
+        isCached: true
+  - title: "The Kiwis using AI to fight Covid"
+    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
+    publishedDateTime: 2021-05-23T12:00:00Z
+    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "A6jD8WhBR/ZFkE/jpdL9SGIWlMZ6y5zIlbNkYta2ssWs+PFKiM2TMjuz4XBrIEy1A0AaGeqIX5guDD3nmtH91SkVuS+TLjF7Qn+7AQ5ZfBJDsoO+xKWStWe2nzFbkfbfv5L56ibwBFjqTn4EwFSWz33LBWedX5rQR4rAMz1zq/xiZKx3sfYYq5MzJKO3dGiGoI4Ql4kQtja3Zs31VtTsf2G1Uqxv9wv0fl6bx0W5OtqmK3g58MGi0kcqHrZIWb7HwzcvrEE6SM9cW+hv0VBFAgemYOGBLccp4oyjNfJJJqkQTkP65k6H+CdkE1E2bcaMFTcFD/OVNgtna9jU/SaHwAWJJ6cTHDzYUtI1YP9WwIg=;Ki1xZn42qw8qk0K4hH46iA=="

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple expands self-driving car fleet, reduces number of test drivers"
-    excerpt: "Apple has reportedly increased the number of self-driving cars it is testing on California roads, but has halved the number of drivers licensed to operate them."
-    publishedDateTime: 2021-05-18T19:07:00Z
-    webUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers"
-    ampWebUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/42080-81563-40231-77412-37975-71780-000-lead-Apple-Car-xl-xl-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "New Upgraded Radar for Self Driving Cars,"
     excerpt: "Self driving cars are quite popular these days. They provide a high level of security and comfort for the rider. As the market for these cars continues to grow, many companies are trying their best to make their cars more efficient in order to attract the customer."
     publishedDateTime: 2021-05-19T13:20:00Z

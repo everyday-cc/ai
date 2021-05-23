@@ -57,22 +57,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Helping students of all ages flourish in the era of artificial intelligence"
-    excerpt: "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),"
-    publishedDateTime: 2021-05-18T19:55:00Z
-    webUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/helping-students-of-al-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Meet the Women Working to Make Artificial Intelligence a More Equitable Space"
     excerpt: "Black Women in A.I. founder Angle Bush and Capital One's Lauren Cole joined Adweek's Elevate: AI virtual event."
     publishedDateTime: 2021-05-19T21:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

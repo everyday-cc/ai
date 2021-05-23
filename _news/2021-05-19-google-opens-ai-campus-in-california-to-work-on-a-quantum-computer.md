@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Tesla self-driving claim in question: California DMV"
-    excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
-    publishedDateTime: 2021-05-18T19:47:00Z
-    webUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/"
-    ampWebUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/sized-tesla-self-driving.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z

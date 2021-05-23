@@ -79,17 +79,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Mars teams with Microsoft Azure for its digital transformation program"
-    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
-    publishedDateTime: 2021-05-18T19:39:00Z
-    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
   - title: "Microsoft expands retail tech presence in China with Hanshow deal"
     excerpt: "Microsoft will also provide technical support to the digital retail firm in co-creating cloud-based products that use the tech giant’s machine learning, IoT, and data technology. “Hanshow’s solutions empowered by Microsoft Azure are at the heart of ..."
     publishedDateTime: 2021-05-21T18:35:00Z

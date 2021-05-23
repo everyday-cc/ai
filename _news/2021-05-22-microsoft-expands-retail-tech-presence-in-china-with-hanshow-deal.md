@@ -85,17 +85,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Mars teams with Microsoft Azure for its digital transformation program"
-    excerpt: "The collaboration aims to optimise Mars’ operational speed in confectionaries and pet foods and build intelligent manufacturing supply chains"
-    publishedDateTime: 2021-05-18T19:39:00Z
-    webUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program"
-    ampWebUrl: "https://www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/97783-mars-teams-with-microsoft-azure-for-its-digital-transformation-program?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
   - title: "La Liga, Microsoft team for digital transformation"
     excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
     publishedDateTime: 2021-05-19T23:01:00Z

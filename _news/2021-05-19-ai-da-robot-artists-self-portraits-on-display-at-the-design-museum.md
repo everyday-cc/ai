@@ -41,20 +41,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Self-portraits by robot artist go on display at the Design Museum"
-    excerpt: "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da following its creation in 2019, is the first of its kind in the world,"
-    publishedDateTime: 2021-05-18T19:16:00Z
-    webUrl: "https://www.irishnews.com/magazine/entertainment/2021/05/18/news/self-portraits-by-robot-artist-go-on-display-at-the-design-museum-2326996/"
-    type: article
-    provider:
-      name: The Irish News
-      domain: irishnews.com
-    quality: 54
-    images:
-      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2021/05/18/200133398-59527558-69ab-42a9-aa60-12e5501c6616.jpg"
-        width: 900
-        height: 472
-        isCached: true
 
 secured: "SwuH4qKhdOKaRa1DkVUbKKLFXqKvSFXU9gNWScDXDHM6NY4cujtn5Gfb7ke5yG0ctH7aUbpRle5itbR90LGKBjMaCsQGKbh+r29j1OKdef2xOmR5nilfZzJWs2MqfrIueO623Or7h0ZMnznVuKpIOwhl+F/r9mUTlhI2Vdf45wDBcFaY9lKvx9jQDbHDgY+7CDpLcpnLoT7BiwGY7J9m1IrieEhuxuSVn5C8BwKdpmIhjOWz9JmVuJn7spEuQctRMw3crrU9QYLe9hNbHIuGI9TZkUTJsglOmKMln/x8cbxuwArK28oz13E+dQU2fdgdJre+lGwLl2HwtV5+9wfaurm5HXdu3bmmbVEKTc3HK4M=;Ctpb63KwwLgLuAvHJjyFNQ=="
 ---

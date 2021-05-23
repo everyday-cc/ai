@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
-    excerpt: "The report titled Global Automotive Artificial Intelligence AI Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Automotive Artificial Intelligence AI market has been garnering remarkable momentum in recent years Demand continues to rise"
-    publishedDateTime: 2021-05-18T19:29:00Z
-    webUrl: "https://www.openpr.com/news/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    ampWebUrl: "https://www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/5/U518133582_g.jpg"
-        width: 800
-        height: 435
         isCached: true
   - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
     excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"

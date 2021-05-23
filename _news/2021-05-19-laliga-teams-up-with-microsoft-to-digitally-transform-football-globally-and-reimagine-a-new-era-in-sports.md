@@ -22,17 +22,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Arada partners with Microsoft to become 'digitally-enabled'"
-    excerpt: "Sharjah-based developer Arada has partnered with Microsoft to accelerate its digital transformation and enhance experiences for its customers and business managers. The property d"
-    publishedDateTime: 2021-05-18T19:13:00Z
-    webUrl: "https://www.constructionweekonline.com/products-and-services/272319-arada-partners-with-microsoft-to-become-digitally-enabled"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 19
-
 secured: "/AU08+nMO3f8BF5BWCLnEhAUWFMhY+O1H0G+Bykhizx41FUogE85ZiEZrEvR/923oFHs8ujwIdVSNxNTq+1hMNF0bP63iVtzOrKj2SsTRuSc+PXNiUjumnzf0nH3pUE69BDeG4cl81mpy0wuCD6fksEZ6ZF+tp57yvvuhXojFqQOFVjtGxIxM1O+ZbDchIU1LY7ydy0xFdrlAauTk+EuPIKZwOIzWuLltWto5mkCrO/TiU2KgSWlDJZobaTpzVilryS7sC/b5QyXSuheWJYS1pGqE+RUMtyDCFueDlRtZBOCK0lpkWxTDbNxr8FwdU1xPEtcLZk+yyLOUHuFPAetmp3WwpAPmxc63wyE6SRExNs=;rmOawTblqhUB+u8VTi5EQg=="
 ---
 

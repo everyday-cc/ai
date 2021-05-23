@@ -56,20 +56,6 @@ related:
         width: 1170
         height: 780
         isCached: true
-  - title: "Google's LaMDA AI can have a 'natural' conversation while pretending to be Pluto"
-    excerpt: "Google previewed LaMDA(“Language Model for Dialogue Applications”), research it says represents a “breakthrough conversation technology.”."
-    publishedDateTime: 2021-05-18T19:05:00Z
-    webUrl: "https://www.engadget.com/google-lamda-ai-180253539.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/5dc13d50-b803-11eb-b993-4d782a71a333"
-        width: 1900
-        height: 1200
-        isCached: true
   - title: "Google unveils fourth generation TPU AI chip"
     excerpt: "Google has announced the latest version of its custom Tensor Processing Units AI chip. At its I/O developer conference this week the company claimed that the fourth generation TPU was twice as powerful as the previous iteration."
     publishedDateTime: 2021-05-19T10:24:00Z

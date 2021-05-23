@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1288
         isCached: true
+  - title: "The Kiwis using AI to fight Covid"
+    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
+    publishedDateTime: 2021-05-23T12:00:00Z
+    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NP0wZ0ZyltISjw4G3mHvnaR0YpVcldsaAcjFqv3qcDbSc6CBqmWYYT+Z8TuUodfDOTuzc2IgvvooqDklB/yury3FhWYc+1ECH9sJr4jUW/3Tma8ZovtvPs6/ShQW/pkXkzI1nsbj4hw5tqE/3OYdCw2X7orAKw2PEaQwUpxRxP4C6xoEp8YilRpKS9FENlVV3qcN/lAPMNWci7kWfxYAqyW8KePZ7sr7i4tLHhcAsgNhbR8BKQenzRix6wAHmdopB6Clql3d5kyRLEp3eofcWCnGauIGB3sD3b3j2qCsTAiZl2716xG48Cg9yStZ2MN/fVJD48ll4Q703SeRrJAc+1ZibMZExagcTNSchDxv09BZ7Yu2b43GYswwxdzCKa2yjYAZNXJXOqXBkh2NfU/PoXf4YZQBEPuDmExvuUSkDEkigu1C1hnHlzDLmwzd+1nM4U3NbtunIDk8oPzoB+Sbndc898ZI3y5SQQRkNd88HeXJrC/QUij0Mz8dM4gtmJhQ0v2559THcVPHbq0cvany+Q==;bVSpGHiM8NYmC39h7v4QtA=="
 ---

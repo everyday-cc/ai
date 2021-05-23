@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alteryx-announces-new-autom
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

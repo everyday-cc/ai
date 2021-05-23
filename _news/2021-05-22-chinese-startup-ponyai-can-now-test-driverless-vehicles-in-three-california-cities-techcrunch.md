@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Tesla self-driving claim in question: California DMV"
-    excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
-    publishedDateTime: 2021-05-18T19:47:00Z
-    webUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/"
-    ampWebUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/sized-tesla-self-driving.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
     excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
     publishedDateTime: 2021-05-19T12:23:00Z

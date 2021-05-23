@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/entertainment-arts-57093887"
 webUrl: "https://www.bbc.com/news/entertainment-arts-57093887"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/05/featureimage-crop-ff8539f.jpg?quality=90&resize=960,413"
         width: 960
         height: 413
-        isCached: true
-  - title: "Self-portraits by robot artist go on display at the Design Museum"
-    excerpt: "Self-portraits by a robot artist have gone on display at the Design Museum. The life-size “ultra-realistic” android, named Ai-Da following its creation in 2019, is the first of its kind in the world,"
-    publishedDateTime: 2021-05-18T19:16:00Z
-    webUrl: "https://www.irishnews.com/magazine/entertainment/2021/05/18/news/self-portraits-by-robot-artist-go-on-display-at-the-design-museum-2326996/"
-    type: article
-    provider:
-      name: The Irish News
-      domain: irishnews.com
-    quality: 54
-    images:
-      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2021/05/18/200133398-59527558-69ab-42a9-aa60-12e5501c6616.jpg"
-        width: 900
-        height: 472
         isCached: true
 
 secured: "j4xc5g5r+Vm5J4+6PwDnZrJeOb0soiaCQK4io1gUMbK7BdLN2hltziH1N8IBhbLTnlUUJenbSfvkNXIFKwFUKBC95ykau8XkyU7qH5PrEoxQWyMMGS8RGKK46YsI2CMfX6EIvvhjnJhAlEb5wYjbyE8q8qqXKcsGYzWlWWOc8lO+peofXI/qofT9KC9GAdQT12OlElQkxszc6192obMVNpzCQrAxlRsPbsL7YzrLSLMy0nBFF9lpI9XWXGT2DB4l7uItWEF29JNWviSedjf5FGjROtBPaRlawgBK5o+GUd+1/T+nfWO35eQUkbbVf7i+Ifsj4f3++oDzl5eGm2NKTXp+5rlpyITHlRBO7MYzJDM=;OBaP/txDGyWfi74izpdU0g=="

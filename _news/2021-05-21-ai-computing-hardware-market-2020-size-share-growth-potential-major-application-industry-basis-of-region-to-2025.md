@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
-    excerpt: "The report titled Global Automotive Artificial Intelligence AI Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Automotive Artificial Intelligence AI market has been garnering remarkable momentum in recent years Demand continues to rise"
-    publishedDateTime: 2021-05-18T19:29:00Z
-    webUrl: "https://www.openpr.com/news/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    ampWebUrl: "https://www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2286271/automotive-artificial-intelligence-ai-market-landscape"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/5/U518133582_g.jpg"
-        width: 800
-        height: 435
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
     excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
     publishedDateTime: 2021-05-20T04:59:00Z

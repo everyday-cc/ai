@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-ra
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/MIT_AI.Language_final.jpg?w=2400"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "Helping students of all ages flourish in the era of artificial intelligence"
-    excerpt: "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),"
-    publishedDateTime: 2021-05-18T19:55:00Z
-    webUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-students-ages-flourish-era-artificial.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/helping-students-of-al-1.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Platform operating model for the AI bank of the future"
     excerpt: "The successful use of AI in banking requires an operating model that brings together the right talent, culture, and organizational design."

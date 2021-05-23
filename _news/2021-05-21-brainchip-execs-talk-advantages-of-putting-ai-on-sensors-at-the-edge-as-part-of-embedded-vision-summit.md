@@ -1,23 +1,22 @@
 ---
 category: news
 title: "BrainChip Execs Talk Advantages of Putting AI on Sensors at the Edge as Part of Embedded Vision Summit"
-excerpt: "BrainChip Holdings Ltd. (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power, high-performance AI technology, will present the Expert Bar session “Can You Put AI at the Sensor? (Not the Edge of the Cloud!"
+excerpt: "BrainChip Holdings Ltd.,, a leading provider of ultra-low power, high-performance AI technology, will present the Expert Bar session“ Can You Put AI at the Sensor? The BrainChip team will help viewers better understand the requirements of sensors at the edge and how challenges associated with traditional machine learning make it difficult to properly"
 publishedDateTime: 2021-05-20T18:58:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
-webUrl: "https://www.businesswire.com/news/home/20210520005991/en/BrainChip-Execs-Talk-Advantages-of-Putting-AI-on-Sensors-at-the-Edge-as-Part-of-Embedded-Vision-Summit"
+originalUrl: "https://www.nasdaq.com/press-release/brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of"
+webUrl: "https://www.nasdaq.com/press-release/brainchip-execs-talk-advantages-of-putting-ai-on-sensors-at-the-edge-as-part-of"
 type: article
-quality: 20
-heat: 20
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Hardware
+  - AI
 
 related:
   - title: "Chips&Media Making its Presence at the 2021 Embedded Vision Summit as an Exhibitor"
@@ -35,6 +34,6 @@ related:
         height: 205
         isCached: true
 
-secured: "9kl78WSG6iGEVxSpg4MBOCULB/byMAFwSiNHK60iz4fNnEad0myu1KKKwTZLgC8Zo6QbcfP9O9TQNSoMWSaF8yUPRl7g2D1575rhXIO3hxwnSosyULQ14L2jlliUUOwnMROn0ltQeoY6Bxt4vKbUUUjksaFebVoOm2QtMh8RxuSzWtBlVoGLzp3D5SbucVlK6ZA78i2OhcC3R3E9jBwZR+0ZVjEfRmutYBM6M6MaXMjkptxZqrN0vkXELhJolt3ryn/NfNZqBKgga2VthAlozjuEoC4MjT9H9bge6K9lAw35w9LrWggo5z6rpN3kKrYIVR2iuuFhPiizb2zH0k41ALtxez6/3C1lw3V7jFaXhzE=;uIT4UxuZH12ZCKaVVWCM6Q=="
+secured: "E6wh+eRFJ6aAkYOyIQzmbG3EC4+MTagXCQcquBB/nLcDHX3VlkDFmLSgEWyu0n4Sc+nJNIDierNwaUuPNaDn4Mlx2Iw0dcrS7OkIyICylw3hhwpd1pCzFmfXxYMJ/o/fnsK+ncdZTOzSsnEc4DAmvJWL80hxCLAyFLPk1XQLWOo8t6aUnBt87Qz2gC3OD6E/j55Gir9PDwfW5Mr0cBs03T4askVRACi49fcR43cTDaAvqrV1Z5COZMiW/Y/CbBJ+lqils0iLuFMq6ML6J+Ptx+OqXUwvGvc1KSOe4iB/2JMDUWZH64Y19KV9cvRzhv76Q1gCVMo1eKQ05LNPn3oZ6WT73n7L+5Us/KEltnLfbq4=;EIVWwJOhS1WxLVjq2mvMwA=="
 ---
 

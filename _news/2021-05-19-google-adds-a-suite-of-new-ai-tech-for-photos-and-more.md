@@ -47,8 +47,8 @@ related:
         isCached: true
   - title: "How AI and AR are transforming the assistive technology landscape"
     excerpt: "Tonya Hall interviews the founder of Cognixion, Andreas Forsland, about how non-invasive brain-computer interfaces are making speech more accessible for people with disabilities."
-    publishedDateTime: 2021-05-20T13:38:00Z
-    webUrl: "https://www.zdnet.com/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
+    publishedDateTime: 2021-05-20T15:16:00Z
+    webUrl: "https://www.zdnet.com/index.php/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
     type: article
     provider:
       name: ZDNet

@@ -911,19 +911,19 @@
     {
       "path": "_news/2021-05-10-ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign.md",
       "title": "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign",
-      "excerpt": "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs.",
+      "excerpt": "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign/article_ef578213-6c45-515a-b650-1154456f50a4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign/article_ef578213-6c45-515a-b650-1154456f50a4.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-301286778.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-301286778.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/f1/bf116c0d-e35e-55b8-bcd7-a81495db699e/6098e84c55b00.image.jpg?resize=1121%2C630",
-          "width": 1121,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -936,8 +936,8 @@
       "publishedDateTime": "2021-05-10T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -947,6 +947,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
