@@ -2,6 +2,152 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-28-gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation.md",
+      "title": "Gartner says low-code, RPA, and AI driving growth in ‘hyperautomation’",
+      "excerpt": "Low-code, RPA, and AI are the key drivers for hyperautomation as enterprises try to automate and streamline data operations, Gartner said.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/rpa.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
+      "publishedDateTime": "2021-04-28T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-amd-bets-on-strong-demand-for-chips-as-revenue-soars-93.md",
+      "title": "AMD bets on strong demand for chips as revenue soars 93%",
+      "excerpt": "AMD raised its annual revenue forecast on Tuesday, betting on strong demand for its chips used in data centers and personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1231211568.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
+      "publishedDateTime": "2021-04-28T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures.md",
+      "title": "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures",
+      "excerpt": "An automated system that uses artificial intelligence (AI ... incidence and costs of additional imaging exams and unnecessary therapy, speed up diagnosis and allow earlier treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/RSNA-Researchers-Use-Artificial-Intelligence-I-to-Detect-Wrist-Fractures-523768-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/RSNA-Researchers-Use-Artificial-Intelligence-I-to-Detect-Wrist-Fractures-523768-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/images/common/covid-19-package-1-300.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending.md",
       "title": "How Shopify aims to level the playing field with its machine learning-driven model of lending",
       "excerpt": "Shopify is widely known for giving independent merchants a platform to start, run, market and manage their businesses. But over the past 5 years, the company has been steadily growing another part of its own business: Shopify Capital.",
@@ -1051,152 +1197,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-artificial-intelligence-is-misreading-human-emotion.md",
-      "title": "Artificial Intelligence Is Misreading Human Emotion",
-      "excerpt": "There is no good evidence that facial expressions reveal a person’s feelings. But big tech companies want you to believe otherwise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/wrG9Mzuhijw5-pB4uy5KILnDq40=/570x321/media/img/mt/2021/04/1_The_Atlantic_illustration_AI_MASK_Irene_SuosaloStill-1/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/618696/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/",
-      "publishedDateTime": "2021-04-27T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-5-best-automotive-stocks-to-invest-in-now.md",
-      "title": "5 Best Automotive Stocks to Invest in Now",
-      "excerpt": "In this article we will take a look at the 5 best automotive stocks to invest in now. For a detailed analysis of these stocks, go directly to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-automotive-stocks-to-invest-in-now-938063/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-automotive-stocks-to-invest-in-now-938063/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/01105255/Ferrari-RACE-sports-car-auto-piqsels.com-id-stefh.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
-      "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg",
-          "width": 800,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T14:22:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -30,61 +30,54 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to help find answers to common skin conditions"
-    excerpt: "Artificial intelligence (AI) has the potential to help clinicians care for patients and treat disease — from improving the screening process for breast cancer to helping detect tuberculosis more efficiently. When we combine these advances in AI with other technologies, like smartphone cameras, we can"
-    publishedDateTime: 2021-05-18T18:45:00Z
-    webUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021/"
-    ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
+  - title: "Everything Google Announced Today: Android, AI, Holograms"
+    excerpt: "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights."
+    publishedDateTime: 2021-05-18T22:28:00Z
+    webUrl: "https://www.wired.com/story/google-io-2021-highlights"
+    ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/derm_-_hero_image_2_1.max-1300x1300.jpg"
-        width: 1300
-        height: 684
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Google's latest AI tool claims to identify common skin conditions"
-    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
-    publishedDateTime: 2021-05-20T10:42:00Z
-    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
+  - title: "Everything Google Announced Today: Android, AI, Holograms"
+    excerpt: "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights."
+    publishedDateTime: 2021-05-19T17:52:00Z
+    webUrl: "https://www.wired.com/story/google-io-2021-highlights/"
+    ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
-        width: 808
-        height: 526
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Google launches AI health tool for skin conditions"
-    excerpt: "Google is taking one of the most significant steps yet by a big tech company into healthcare, launching an AI-powered tool that will assist consumers in self-diagnosing hundreds of skin conditions. Derm Assist is the first of its kind and will launch in Europe this year before being aimed at the nearly 2bn people globally suffering from skin conditions ranging from acne to melanoma."
-    publishedDateTime: 2021-05-18T18:35:00Z
-    webUrl: "https://www.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811"
-    ampWebUrl: "https://amp.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6d4cd446-2243-43f4-befd-565b4e880811"
+  - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
+    excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
+    publishedDateTime: 2021-05-19T07:43:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F985d5dc0-51b6-46ea-b948-7bc5f0f8390c.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Historic Department Store Using AI to Help Struggling Gift Buyers"
-    excerpt: "Historic department store, Jarrold, is using innovative technology to help struggling gift buyers. Jarrold is using artificial intelligence technology and psychology research to help online … Continue"
-    publishedDateTime: 2021-05-20T13:25:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/historic-department-store-using-ai-to-help-struggling-gift-buyers/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 17
 
 secured: "DeyHJytZyskGoCvEYX16INrWE5WqbYqgdiiUHlrw/lgLYaCxs5ZI3k6YE8ckw8/hicFfXCoK+cCOAJGmjkNPhTGLCg7m/iCsJ5CRhwTmMUhX9mbm4X2g2AWvtUr21/cab4PEr/Whvmqi8HX5PpoHLTWFvyxFv3tNKeOSobK5ocfF0TIHoPmYrZTFSzi2uTmEQtXhOC68O686TsCAnmbFDUxWt9c7QdpXPAUycGknjNSPr+gsB8MuZgIDqHwjV7lpkCiHB85LZpdLz3BhFoo7+Ho96Qj6bbG6lfVzAXESr51jHIEMrc64bAMtXLsQ4Cw8XwmOGhoGDGf58Vd5HX5mrfA3XM9kj73LRwfZIGGQWwnWJHlfs7xqWRCYyu9XTT0OzfXwri5wIIADE05Irzojcb/q5OVGgrOwvpkjYy14383D1AuaEk0Gf7FhKB1Qmq5MeQqAjWOC+qocSZP018q3GKi5NSvSeyh3K2Vnc0VlL1gAYapJ3OsA64h88AVXWqAX8k07PaZfrFc7LQBXivgznA==;eXAbWr6EkqrQaI1MiUO3rg=="
 ---

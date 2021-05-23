@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/google-rolls-out-holograms-in-ch
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/google-rolls-out-holograms-in-chats-smarter-conversational-ai/amp-11621447596135.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -36,6 +36,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/1_Welcome_GenerativeMeena_CL_V02_150521_v2_720_25fps.gif"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Google shows off some impressive advances in conversational AI"
+    excerpt: "Google’s Language Model for Dialogue Applications was announced during its virtual I/O conference, and displayed some huge leaps in AI language understanding too. LaMDA’s skills were shown off in two separate conversations."
+    publishedDateTime: 2021-05-19T00:25:00Z
+    webUrl: "https://siliconangle.com/2021/05/18/google-shows-off-impressive-advances-conversational-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/1_Welcome_GenerativeMeena_CL_V02_150521_v2_720_25fps.gif"
         width: 720

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: ZDNet
@@ -30,35 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Google I/O 2021: Being helpful in moments that matter"
-    excerpt: "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire"
-    publishedDateTime: 2021-05-18T18:55:00Z
-    webUrl: "https://blog.google/technology/developers/io21-helpful-google/"
-    ampWebUrl: "https://blog.google/technology/developers/io21-helpful-google/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/"
+  - title: "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation"
+    excerpt: "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes."
+    publishedDateTime: 2021-05-19T19:15:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 94
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg"
-        width: 1300
-        height: 808
+      - url: "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg"
+        width: 696
+        height: 392
         isCached: true
-  - title: "All The Latest ML Developments Announced At Google I/O"
-    excerpt: "Know Your Data is Google’s new web-based data set exploration tool that helps developers understand rich data sets. Five years ago, Google launched the open-source platform TensorFlow to accelerate machine learning research and empower developers to ..."
-    publishedDateTime: 2021-05-21T13:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-the-latest-ml-developments-announced-at-google-i-o/"
+  - title: "Google I/O 2021: Android 12, Quantum AI campus, Flutter 2.2, Vertex AI, and more"
+    excerpt: "Google announces the beta of Android 12, new Quantum AI campus, AI improvements and more at the Google I/O 2021 conference"
+    publishedDateTime: 2021-05-19T14:55:00Z
+    webUrl: "https://sdtimes.com/softwaredev/google-i-o-2021-android-12-quantum-ai-campus-flutter-2-2-vertex-ai-and-more/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: SD Times
+      domain: sdtimes.com
+    quality: 64
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Google-Ml.png"
-        width: 1600
-        height: 900
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "g0qlO32B5/cLyFa/0X9GoZx8AiZ1FRQYg3bB9XCmIZsJuD+J2poxKW5fsX06udoqFltPu+g/5jJikjyTsC9nRKNxtfEboU2OUViqKrFY8mbb3wl+usAVe4/PqBiJiLAMFv94mgaxHOySsXXoDYzJ8ZFaYZG3eEJzBSr/PtqEdEtjYcieaKRwsBl8IubTFfdGhdSnd9UMJSSJNQmQLkh/4Nas6OjATfHmxzJpa36Gj5laXE2e5LuzF6JJKUtSOcZWChXEw4On+9tqPqJWoMrU8IOHEcmOP4SzIEGgWHjofSasmmuU7rpkqVfrKN0gEHwUtgYFPwUEthMOlbUEnNbdUrm5iUC7r4y5Q9soU6EnZ2eAhu/a2ZPsHx8hiCl3QFOwpB20w6t7gn3SXQH9MoCmi5PBcEZlSPBXx4nPbxvl5roiPy0AzZNLy1BZfDvJ6lhqhdTQ5XZUmrjXAN5+c+/sDXgC3skDKhiKN9SbwEpDtpt80vWvh3pgMqfhGDvpPBR/76VxWRks95ZpuQ0PKag+4w==;U6+cnKVfF2yWjZuzTQ3UcQ=="

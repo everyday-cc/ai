@@ -42,6 +42,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Google shows off some impressive advances in conversational AI"
+    excerpt: "Google’s Language Model for Dialogue Applications was announced during its virtual I/O conference, and displayed some huge leaps in AI language understanding too. LaMDA’s skills were shown off in two separate conversations."
+    publishedDateTime: 2021-05-19T00:25:00Z
+    webUrl: "https://siliconangle.com/2021/05/18/google-shows-off-impressive-advances-conversational-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/1_Welcome_GenerativeMeena_CL_V02_150521_v2_720_25fps.gif"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "i21ETR6elHawwij+c1kSAcCndf2jrhvg6z4hBvY1qI6Xjq11gSzHnDeTyjQDNA0QUAaivuP8zEJOUSxcD3S5C2nf7el/17LIRYRCFiPinzrB0KpWZ7C2+BA5Y/ya+H8/qLCQSBHQw+CDxLeVYuap3xyvSeilzfGy+qh8TnfgdaIvHTqTmTvY3hLUrMaBlou91gbDoSKefWrvmk2srezsom6uhteTYM/JClj1NGUEYbSaI2dDAe9ntTNCyOIhQ1Kk3UcISbH/u0yWfxwi4HPee7ozaWwPwAcmk+ycM1ZDR/32EerkvXbTTNTOKo4OoSCHo0xJLw6/puHcubcH5gDoQ8dcJaf/vw4ugYprCDCIuW40hgbIh9gccK9Ud0EBCcEWbuhRzaaI/fgUdNZCN/mroJjKslm08wmeRjPXK6litVNCvVkkxZZFm/yR9NGdFAX8BIJBP8MGudXNu/WyLfdW5r+A30+lQ++fmIRaV2XJxV1RwI9dbGUgZyxOPkbvzJz7mTODA+CGRdkFgbM1ew/7CA==;d37Klry8WWxOKrVnpy2n6g=="
 ---

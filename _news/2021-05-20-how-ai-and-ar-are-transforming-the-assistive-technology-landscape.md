@@ -2,9 +2,9 @@
 category: news
 title: "How AI and AR are transforming the assistive technology landscape"
 excerpt: "Tonya Hall interviews the founder of Cognixion, Andreas Forsland, about how non-invasive brain-computer interfaces are making speech more accessible for people with disabilities."
-publishedDateTime: 2021-05-20T15:16:00Z
-originalUrl: "https://www.zdnet.com/index.php/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
-webUrl: "https://www.zdnet.com/index.php/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
+publishedDateTime: 2021-05-20T13:38:00Z
+originalUrl: "https://www.zdnet.com/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
+webUrl: "https://www.zdnet.com/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
 type: article
 quality: 67
 heat: -1
@@ -44,7 +44,21 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Google Adds a Suite of New AI Tech for Photos and More"
+    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
+    publishedDateTime: 2021-05-19T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "rpNfCOHEFV7799UidRqhtRDNwRXo1YY7pywTTejXO36IVqD2MfItB7fwO8nW+sdIg9hz6wBjrQGMhO8Jbc979cTF7Lf5fLONsMj0DZ2t8nB01svpSM0fHfyTZvfqrPZKNKzcb/5eHnzfvWSLekBsebUClnA90m7hJwFUKi15tyUu8wDBfgbTwmlzcQ0gdZTpN1rUPy36TH84i/6GGiD5nscGNwv6CwlFBrLP3aEpAZlEsSiHcKYG1xBvMpNxuoJ9W5ag8ADFdBdqr4mFdO0ShsT2Cl9LzN7+Uq38v3PrTOQ14KIxB+fCFOiwtY8a8oyEL8UVDTnNHGW1qEMuh4Xc9svmAcaXZXIGhEUzoR0nd51HRePvTrgYe+SqGfqQTZOSf3DPp0Ft+UsInMehpCnXG/wlijJktJioulIAA4cBV1b+6JCitjmXaRCn6KWT7qgBc6MyvvA5SbTUZDohx2fsgpBAdME0VBhkIPUtJA6qkuhT3V6HhWFylv4guGIlfOBaBOVGuAw2GUPQqvFuec0d1A==;WubXgHD28dc4hOSCLLimfg=="
+secured: "NFocZ2v1ZNJcbtxapg+ldYapj1aZWcRFuudS0tNPAotkSZoh26gINLAMlam3NyRj1cmwspYUqC1emzuVTzYnTmPL2oAw05xOvFQ+g1gezLXh1rDJz8lNVbGZ9uO4jOmZZg/dbwepuoEYONsdpWyfx6QrBsJ27JTwdKGp4bbF8aNBP295bVmFz/a770bwsx/gxiL0/t9C75C+pStCPtoECqr5CUTIE237whU5ElN8rIOx3lm1sgSmoVmQMo/r6orPJOby/3B6bP9soqWscikS6dCZuZsz8/FuMzyc4ubl+6BR3NzO7SOoDNuM76Lm6aq4zGU7iIXD7TQ8ZNaygQzoBvU2b/iVnDZXYfYKpHkUtVQ=;ToyOzOfasV0ivNDT4BCL2Q=="
 ---
 

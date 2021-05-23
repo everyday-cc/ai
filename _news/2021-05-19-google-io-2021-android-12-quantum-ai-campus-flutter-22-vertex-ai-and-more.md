@@ -29,53 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Unveiling our new Quantum AI campus"
-    excerpt: "Within the decade, Google aims to build a useful, error-corrected quantum computer. This will accelerate solutions for some of the world’s most pressing problems, like sustainable energy and reduced emissions to feed the world’s growing population, and unlocking new scientific discoveries, like more"
-    publishedDateTime: 2021-05-18T17:30:00Z
-    webUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/"
-    ampWebUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
+  - title: "Google I/O 2021: An AI model to diagnose dermatological dilemmas"
+    excerpt: "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned."
+    publishedDateTime: 2021-05-19T07:57:00Z
+    webUrl: "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1_294_R01_1_1.max-1300x1300.jpg"
-        width: 1300
-        height: 867
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/19/7e5f14e9-7437-4a6b-b8ed-3e78346e812c/google-skin-ss.png"
+        width: 419
+        height: 835
         isCached: true
-  - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
-    excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
-    publishedDateTime: 2021-05-19T12:23:00Z
-    webUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
+  - title: "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation"
+    excerpt: "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes."
+    publishedDateTime: 2021-05-19T19:15:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
-        width: 1600
-        height: 906
-        isCached: true
-  - title: "Google Unveils Quantum AI Campus For The Future Of Quantum Computing Research"
-    excerpt: "The campus features the company’s first quantum data center, quantum hardware research laboratories, and quantum processor chip fabrication facilities."
-    publishedDateTime: 2021-05-19T19:30:00Z
-    webUrl: "https://hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
-    ampWebUrl: "https://amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 56
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55146/content/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research.jpg"
-        width: 708
-        height: 411
+      - url: "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg"
+        width: 696
+        height: 392
         isCached: true
 
 secured: "CuSdp911B8JwEteSB8AE82YRS6FtpdPIs8PPzArHQtzcKosHxPF/ieAqDNv/smzP4s5dgZySuLtbaasWIzGP4aVBn7IjiGGH2zVvDIklj91lDoaGJeuWCuh0mP42yW65UYLaWixOpsvaFSwmvHZtWfQpeVOpsQ0cyTU1o/62NXDdXPOwmXNbKc2T97qEQj9pYQTojAUZfoM4zsZBjbD/z3OaPWGEc+H95Tht/zHf5K8Jt5FRUy/poXWsSP7vMs/iLV93bfqrrLqEND5STsLoVxy1oqskmDU+ZhRIrJ0hh0lyATqZ/PyhFlh7MUS9I3NN9hofyUHRgYMftOu+Y9C0BXk2DbBwZYbtnRPyATXjnq0=;RAwWn6qqQoxgOJQuZ2gaFQ=="

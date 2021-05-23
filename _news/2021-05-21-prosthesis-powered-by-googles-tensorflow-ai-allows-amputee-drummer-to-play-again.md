@@ -9,7 +9,7 @@ ampWebUrl: "https://www.musicradar.com/amp/news/prosthesis-powered-by-googles-te
 cdnAmpWebUrl: "https://www-musicradar-com.cdn.ampproject.org/c/s/www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

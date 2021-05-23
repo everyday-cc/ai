@@ -27,99 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "California DMV Probes Tesla Over Self-Driving Claims"
-    excerpt: "The California Department of Motor Vehicles has launched an investigation to decide if Tesla (NASDAQ:TSLA) misleads buyers by offering its vehicles with \"full self-driving capabil"
-    publishedDateTime: 2021-05-18T17:12:00Z
-    webUrl: "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
+  - title: "Solving Big City Murder Cases And Other Crimes Via AI And Self-Driving Cars"
+    excerpt: "Big City murders will be more readily solved via the advent of self-driving cars, especially due to the roving eye capability."
+    publishedDateTime: 2021-05-22T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627526%2Fvehicle-running-self-driving-mode-and-a-woman-driver-reading-book.jpg&w=1200&op=resize"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fec1d2ed6169fb0f641562b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities"
-    excerpt: "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety"
-    publishedDateTime: 2021-05-21T20:31:00Z
-    webUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/"
-    ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "California places Tesla’s 'Full Self-Driving' under review"
-    excerpt: "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous."
-    publishedDateTime: 2021-05-18T17:04:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/california-places-teslas-full-self-driving-review-rcna958"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna958"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna958"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1531/210518-tesla-california-ew-100p-281fb6_6da13de3db5f1f93cc6d205efb94ec561b7ff18b.jpg"
-        width: 2500
-        height: 1628
-        isCached: true
-  - title: "California’s DMV taking Tesla to task over misleading ‘self-driving’ claims"
-    excerpt: "California's DMV reviews Tesla to establish if the company is using misleading advertising regarding its \"Full Self-Driving\" package."
-    publishedDateTime: 2021-05-19T10:00:00Z
-    webUrl: "https://thenextweb.com/news/californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FTEESLA.jpg&signature=61a3a55a92e03b82bd654a0328ec9c61"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Tesla self-driving claim in question: California DMV"
-    excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
-    publishedDateTime: 2021-05-18T19:47:00Z
-    webUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/"
-    ampWebUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/sized-tesla-self-driving.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "California’s DMV Investigating Tesla Over Potentially Misleading Full-Self Driving Option"
-    excerpt: "The California Department of Motor Vehicles (DMV) is investigating whether Tesla has misled customers by advertising its full self-driving option, a system that isn’t even close to being fully autonomous."
-    publishedDateTime: 2021-05-18T19:29:00Z
-    webUrl: "https://www.carscoops.com/2021/05/californias-dmv-investigating-tesla-over-potentially-misleading-full-self-driving-option/"
-    ampWebUrl: "https://www.carscoops.com/2021/05/californias-dmv-investigating-tesla-over-potentially-misleading-full-self-driving-option/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/californias-dmv-investigating-tesla-over-potentially-misleading-full-self-driving-option/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 65
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
-        width: 1024
-        height: 555
+        height: 675
         isCached: true
   - title: "Apple cuts the number of drivers for its self-driving cars in half"
     excerpt: "Sounds like Apple's self-driving cars are getting better? What you need to know Apple has increased the number of self-driving test cars on the road. It has also cut the number of drivers for those cars in half."
@@ -137,46 +59,33 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
-    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
-    publishedDateTime: 2021-05-22T07:45:00Z
-    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+  - title: "New Upgraded Radar for Self Driving Cars,"
+    excerpt: "Self driving cars are quite popular these days. They provide a high level of security and comfort for the rider. As the market for these cars continues to grow, many companies are trying their best to make their cars more efficient in order to attract the customer."
+    publishedDateTime: 2021-05-19T13:20:00Z
+    webUrl: "https://techstory.in/new-upgraded-radar-for-self-driving-cars/"
     type: article
     provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
-        width: 764
-        height: 400
-        isCached: true
-  - title: "California DMV Places Tesla’s ‘Full Self-Driving’ Under Review"
-    excerpt: "California's Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-driving."
-    publishedDateTime: 2021-05-18T18:24:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/05/18/california-dmv-places-teslas-full-self-driving-under-review/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
+      name: tech
+      domain: techstory.in
     quality: 39
-  - title: "Latest data shows Apple has increased self-driving test cars but decreased number of drivers"
-    excerpt: "Apple has increased the number of self-driving cars and decreased by almost half the number of drives licensed to drive these cars."
-    publishedDateTime: 2021-05-18T18:21:00Z
-    webUrl: "https://9to5mac.com/2021/05/18/apple-increased-self-driving-test-cars/"
-    ampWebUrl: "https://9to5mac.com/2021/05/18/apple-increased-self-driving-test-cars/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/05/18/apple-increased-self-driving-test-cars/amp/"
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/upgradedrada.jpg"
+        width: 800
+        height: 479
+        isCached: true
+  - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
+    excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
+    publishedDateTime: 2021-05-21T14:20:00Z
+    webUrl: "https://www.fastcompany.com/video/volvo-is-creating-the-safest-self-driving-car-with-sound-and-gaming-technology/LSybbvZF"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 33
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 20
     images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/LSybbvZF/poster.jpg?width=720"
+        width: 1280
+        height: 722
         isCached: true
 
 secured: "IzmDuny7B18cBqGQcTj0Ts2eiOIPP8Sg4T0x5VVlPg4VSAQFToPCUE+hKjsbiKuhpTUM/CjpFyGER9ExOr43MQKgDtPofbkxakLcCncmwUrRhx0NgoG+oPRBOmnbJUcwooZ6rLGLw+dx1frjaE38A2zbPTx2Ljcz7XWHnGOu+N9RVCArmVO9jQ5JDfxkt5DNMPVTUizQ34NIjPeA7m30MmZn8MjGrDG8OG/ziXAxXPids2xNzz61UOOoaC7IvKsjYsK1neqL/41HpogCOgo4GH+jKqWJfu3/ZjR9JX+/XZrJahnAaDK4U9pVNag4uPAmSgWq9XIPd4dxba+VPuB93FZ/vSCpofewN4OVapd3EBs=;xhm9KlRkSe7p30EBimTYmw=="

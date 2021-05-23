@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,10 +31,24 @@ images:
     isCached: true
 
 related:
+  - title: "Google Adds a Suite of New AI Tech for Photos and More"
+    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
+    publishedDateTime: 2021-05-19T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI and AR are transforming the assistive technology landscape"
     excerpt: "Tonya Hall interviews the founder of Cognixion, Andreas Forsland, about how non-invasive brain-computer interfaces are making speech more accessible for people with disabilities."
-    publishedDateTime: 2021-05-20T15:16:00Z
-    webUrl: "https://www.zdnet.com/index.php/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
+    publishedDateTime: 2021-05-20T13:38:00Z
+    webUrl: "https://www.zdnet.com/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
     type: article
     provider:
       name: ZDNet

@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google details new AI accelerator chips"
-    excerpt: "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads."
-    publishedDateTime: 2021-05-18T18:49:00Z
-    webUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/"
-    ampWebUrl: "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all"
-        width: 1198
-        height: 601
-        isCached: true
-  - title: "Google launches the next generation of its custom AI chips"
-    excerpt: "At its I/O developer conference, Google today announced the next generation of its custom Tensor Processing Units (TPU) AI chips. This is the fourth generation of these chips, which Google says are twice as fast as the last version."
-    publishedDateTime: 2021-05-18T18:43:00Z
-    webUrl: "https://techcrunch.com/2021/05/18/google-launches-the-next-generation-of-its-custom-ai-chips/"
-    ampWebUrl: "https://techcrunch.com/2021/05/18/google-launches-the-next-generation-of-its-custom-ai-chips/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/google-launches-the-next-generation-of-its-custom-ai-chips/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/Screenshot-2021-05-18-102653.png?w=1024"
-        width: 1024
-        height: 574
-        isCached: true
   - title: "Google demos LaMDA, a next-generation AI for dialogue"
     excerpt: "At Google I/O 2021, Google demoed LaMDA, a next-generation AI model designed for different dialogue applications."
     publishedDateTime: 2021-05-19T00:30:00Z
@@ -89,19 +57,19 @@ related:
         width: 1170
         height: 780
         isCached: true
-  - title: "Google Adds a Suite of New AI Tech for Photos and More"
-    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
-    publishedDateTime: 2021-05-19T10:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+  - title: "Google's LaMDA AI can have a 'natural' conversation while pretending to be Pluto"
+    excerpt: "Google previewed LaMDA(“Language Model for Dialogue Applications”), research it says represents a “breakthrough conversation technology.”."
+    publishedDateTime: 2021-05-18T19:05:00Z
+    webUrl: "https://www.engadget.com/google-lamda-ai-180253539.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Engadget
+      domain: engadget.com
+    quality: 62
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/5dc13d50-b803-11eb-b993-4d782a71a333"
+        width: 1900
+        height: 1200
         isCached: true
   - title: "Google Unveils Artificial Intelligence Tool for Dermatology"
     excerpt: "Google's artificial intelligence-powered tool will help users identify issues with their hair, skin, and nails."
@@ -117,15 +85,20 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Machine learning module accelerates AI IoT systems"
-    excerpt: "To accelerate the push for artificial intelligence and the internet of things, referred to as the AI of Things (AIoT), Infineon Technologies AG has introduced its ModusToolbox machine learning module."
-    publishedDateTime: 2021-05-21T12:33:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16754/machine-learning-module-accelerates-ai-iot-systems"
+  - title: "Google Is Applying AI to Crack Next-Gen Geothermal Energy for Data Centers"
+    excerpt: "There’s a lot to like about geothermal energy generation, the process of harnessing Earth’s natural subsurface heat to generate electricity. It’s a renewable source that emits very little carbon, and unlike other renewable energy sources,"
+    publishedDateTime: 2021-05-18T21:42:00Z
+    webUrl: "https://www.datacenterknowledge.com/energy/google-applying-ai-crack-next-gen-geothermal-energy-data-centers"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 35
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/google%20data%20center%20construction%20tennessee%20jan%2016%2019%20cred%20Aerial%20Innovations.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "c0w9Ob7U5Fr0KQ0zibbWhjrsVLK9ej31E1y+DXNCff38cxtcbVTFV5P+ZMEa5RcHE6u4ioh3lTBkHeFeMAzvhp3pzFKl6OQ8DYxl4BhB3lZ0Cr8qO2xpNJlJtokx0Ojc6WBbmXZqchGEtmuQMbOOKXrWxS3QLuPrw5+PZepTcJ4llTV3IrA3FMfqo4+4kDmUomTYoBO04poMfPRjMJo2fUXkJMREQXYGxCucDyB5aHrQCchKuc42hU6GFdiUTKCQJ4jCj7TJWoko5gbm4/mTtKz2PooGh3TXsAzwz5HXxNiWPBWFVI1AQt7rlUlWa3SYcH9UFuLLncc1yflzgt2vOSpAobBEHlKdmRMe0vBjKQqDCcVyQI+cG17R65Cii1IO6nqkoRN6KrA7Kls/JGJBgmtqbpQBe3CbqnLT3Ut5BkaAQr8WBNga1mUqXhslrsOqAlJIpgiQeTm9rfxbHjJNLePWBtcNuPzyhrb69DOVy5U2jFYvhahNFReB4VO8F1C4lw7eHWEE8hZQHPL+rsenlA==;UlyAbknt7A/E4XlBD4gOxQ=="
 ---

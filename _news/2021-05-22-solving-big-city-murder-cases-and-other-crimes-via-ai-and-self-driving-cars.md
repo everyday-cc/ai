@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Apple cuts the number of drivers for its self-driving cars in half"
+    excerpt: "Sounds like Apple's self-driving cars are getting better? What you need to know Apple has increased the number of self-driving test cars on the road. It has also cut the number of drivers for those cars in half."
+    publishedDateTime: 2021-05-19T00:40:00Z
+    webUrl: "https://www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half"
+    ampWebUrl: "https://www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-cuts-number-drivers-its-self-driving-cars-half?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 44
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Apple expands self-driving car fleet, reduces number of test drivers"
+    excerpt: "Apple has reportedly increased the number of self-driving cars it is testing on California roads, but has halved the number of drivers licensed to operate them."
+    publishedDateTime: 2021-05-18T19:07:00Z
+    webUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers"
+    ampWebUrl: "https://appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/18/apple-expands-self-driving-car-fleet-reduces-number-of-test-drivers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/42080-81563-40231-77412-37975-71780-000-lead-Apple-Car-xl-xl-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
   - title: "New Upgraded Radar for Self Driving Cars,"
     excerpt: "Self driving cars are quite popular these days. They provide a high level of security and comfort for the rider. As the market for these cars continues to grow, many companies are trying their best to make their cars more efficient in order to attract the customer."
     publishedDateTime: 2021-05-19T13:20:00Z

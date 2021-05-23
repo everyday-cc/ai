@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Google Announces New AI App To Diagnose Skin Conditions"
+    excerpt: "Google announced the arrival of a new AI app to help diagnose skin conditions. It plans to launch it in Europe later this year."
+    publishedDateTime: 2021-05-21T19:20:00Z
+    webUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/"
+    ampWebUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
     excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."

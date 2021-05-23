@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google I/O 2021: Being helpful in moments that matter"
-    excerpt: "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire"
-    publishedDateTime: 2021-05-18T18:55:00Z
-    webUrl: "https://blog.google/technology/developers/io21-helpful-google/"
-    ampWebUrl: "https://blog.google/technology/developers/io21-helpful-google/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/"
+  - title: "Watch singing AI blobs rock the house with Tune-Yards at Google I/O"
+    excerpt: "The blobs are back in town. Google opened its I/O developer conference Tuesday with a performance that felt genuinely innovative, and actually fun, from the avant-garde vocal and electronica artist Tune-Yards — and Google's own Blob Opera."
+    publishedDateTime: 2021-05-18T22:01:00Z
+    webUrl: "https://mashable.com/video/blob-opera-tune-yards-google-io-2021/"
+    ampWebUrl: "https://mashable.com/video/blob-opera-tune-yards-google-io-2021.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/blob-opera-tune-yards-google-io-2021.amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 94
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg"
-        width: 1300
-        height: 808
-        isCached: true
-  - title: "Google I/O 2021: An AI model to diagnose dermatological dilemmas"
-    excerpt: "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned."
-    publishedDateTime: 2021-05-19T07:57:00Z
-    webUrl: "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Mashable
+      domain: mashable.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/19/7e5f14e9-7437-4a6b-b8ed-3e78346e812c/google-skin-ss.png"
-        width: 419
-        height: 835
+      - url: "https://mondrian.mashable.com/2021%252F05%252F18%252Fc4%252Ff4dd622c59fc40d283b55abaf6d68bff.210a8.png%252F1200x630.png?signature=rBiyGXhp7f0mQHvzkz9NmuzLc7w="
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "oG7qGRsjumPDnSGYwId2dgA6qMsb8vFqd2MIdNfyP9gGFPZylfNnPU8hf/L2CboTyr56b8TNWymsey2FzRQWyBK/he7ON9K1LZjL+6zTBKtKdVkHPk2hq1XuFDWbSyqB0VRSyfurR0Y8MqFzQXNau/4Kx50ye62bZm/IZGZemKyVjF2pyEWZoL8QhAMHwWLSnmkJlcybCVQAjYQDBXn6SqCCfj1wlnPG2LvG0jKZ7uoadEPDErcUfxiIOZiSmjJNQzPs8XUet9RURYXLx/uToQmDW1Lgwr1YohiTSTdQBY9VjImiVdVy11r2KPojRZG3q/G6GwOyqjjEhzr2j5PmzApbW3Tm9StPxoJ5O7raj+k=;hgM/eyFSE8bQ0DLAZTjFfA=="

@@ -2,6 +2,135 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-29-ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape.md",
+      "title": "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape",
+      "excerpt": "As brands and agencies look to diversify their media portfolios in ever-changing traditional web, IBM offers Watson AI for OTT market, where industry collaboration is critical to achieving scale",
+      "sourceUrl": null,
+      "webUrl": "https://www.streamingmedia.com/PressRelease/IBM-Watson-Advertising-Accelerator-Expands-to-Bring-AI-to-Fast-Growing-OTT-Media-and-Streaming-Landscape_52357.aspx",
+      "originalUrl": "https://www.streamingmedia.com/PressRelease/IBM-Watson-Advertising-Accelerator-Expands-to-Bring-AI-to-Fast-Growing-OTT-Media-and-Streaming-Landscape_52357.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Streaming Media Magazine",
+        "domain": "streamingmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-new-machine-learning-based-tool-to-help-physicians-determine-best-test-for-chest-pain.md",
+      "title": "New machine learning-based tool to help physicians determine best test for chest pain",
+      "excerpt": "The choice between two non-invasive diagnostic tests is a common dilemma in patients who present with chest pain. Yale cardiologist Rohan Khera, MD, MS, and colleagues have developed ASSIST, a new digital decision-aiding tool.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/chestpain.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
+      "publishedDateTime": "2021-04-29T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed.md",
+      "title": "Microsoft Giving Developers a Bigger Store Cut as New Commitment Plans Are Revealed",
+      "excerpt": "Looks like Microsoft is gearing up to make things better for game developers on their store front, as the company",
+      "sourceUrl": null,
+      "webUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
+      "originalUrl": "https://mp1st.com/news/microsoft-giving-developers-a-bigger-store-cut-as-new-commitment-plans-are-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mp1st.com/wp-content/uploads/2021/04/microsoftstore.jpg",
+          "width": 680,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mp1st.com",
+        "domain": "mp1st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-machine-learning-chips-market-dynamic-demand-analysis-statistics-trends-and-opportunities-to-2026.md",
       "title": "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026",
       "excerpt": "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the",
@@ -990,146 +1119,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-asml-riding-the-chip-wave.md",
-      "title": "ASML: Riding The Chip Wave",
-      "excerpt": "AI, IoT, 5G are driving a new wave for semiconductors. Chipmakers are spending billions to increase fab capacity in response to this structural uptrend in chip demand. A sizeable portion of that spending is expected to be on-chip equipment,",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
-      "originalUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1247736623/medium_image_1247736623.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
-      "publishedDateTime": "2021-04-29T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-elon-musk-teslas-next-full-self-driving-beta-update-will-blow-your-mind.md",
-      "title": "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’",
-      "excerpt": "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/",
-      "originalUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/",
-      "publishedDateTime": "2021-04-29T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-tensorflowjs-with-gant-laborde-ml-028.md",
-      "title": "Tensorflow.js with Gant Laborde – ML 028",
-      "excerpt": "Gant's back!!! He's releasing a book with Manning Publishing about Tensorflow.js and he's here to discuss all the details with us. He explains the difference between Teonsorflow and Tensorflow.js and goes into some of the pros and cons of using it.",
-      "sourceUrl": null,
-      "webUrl": "https://devchat.tv/adventures-in-machine-learning/tensorflow-js-with-gant-laborde-ml-028/",
-      "originalUrl": "https://devchat.tv/adventures-in-machine-learning/tensorflow-js-with-gant-laborde-ml-028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://devchat.tv/wp-content/uploads/2020/09/Adventures-in-Machine-Learning-LOGO-scaled.jpg",
-          "width": 2560,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devchat.tv",
-        "domain": "devchat.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

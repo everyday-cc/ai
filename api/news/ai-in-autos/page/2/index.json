@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-11-vw-will-sell-you-self-driving-for-850hour-someday-too-high-or-too-low.md",
+      "title": "VW Will Sell You Self-Driving For $8.50/hour Someday. Too High Or Too Low?",
+      "excerpt": "In a recent interview, VW Marketing boss Klaus Zellmer states they feel they could sell customer a full self-driving ability in their cars profitably at €7 per hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/05/11/vw-will-sell-you-self-driving-for-850hour-someday--too-high-or-too-low/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/05/11/vw-will-sell-you-self-driving-for-850hour-someday--too-high-or-too-low/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6099f81202899c38572ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/05/11/vw-will-sell-you-self-driving-for-850hour-someday--too-high-or-too-low/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/05/11/vw-will-sell-you-self-driving-for-850hour-someday--too-high-or-too-low/amp/",
+      "publishedDateTime": "2021-05-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-these-electric-self-driving-tractors-could-make-farming-much-greener.md",
+      "title": "These electric self-driving tractors could make farming much greener",
+      "excerpt": "A startup based in California says it can help farmers be greener and more profitable by offering what it describes as the world's first fully electric, self-driving tractor. The compact tractor can be programmed to perform tasks such as plowing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506123000-restricted-monarch-tractor-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "publishedDateTime": "2021-05-11T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-automotive-sensors-market-size-growth-trends-share-and-global-industry-forecast-to-2026.md",
+      "title": "Automotive Sensors Market | Size, Growth, Trends, Share And Global Industry Forecast To 2026",
+      "excerpt": "Global Analysis By Size, Growth Insights, Developments, Emerging Technologies, Share, Key Players, Trends, Regional Outlook And Global Industry Forecast To 2026 is latest study published by Fortune Business Insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-sensors-market-size-growth-trends-share-and-global-industry-forecast-to-2026-2021-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-sensors-market-size-growth-trends-share-and-global-industry-forecast-to-2026-2021-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-chinas-tech-hub-shenzhen-to-invest-us108-billion-in-rd-over-5-years.md",
       "title": "China’s tech hub Shenzhen to invest US$108 billion in R&D over 5 years",
       "excerpt": "Shenzhen is set to invest more than 700 billion yuan (US$108 billion) in hi-tech research and development over the next five years as it seeks to reinforce its position as China’s innovation ...",
@@ -1264,144 +1420,6 @@
       "provider": {
         "name": "The National Law Review",
         "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
-      "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
-      "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
-      "publishedDateTime": "2021-05-05T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public.md",
-      "title": "San Diego based TuSimple is the first autonomous driving company to go public",
-      "excerpt": "Just a few years ago, San Diego’s self-driving truck company TuSimple was just getting started. Now, TuSimple is one of the region’s most highly valued public companies. TuSimple creates self-driving trucks and the software used to run them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kusi.com/san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public/",
-      "originalUrl": "https://www.kusi.com/san-diego-based-tusimple-is-the-first-autonomous-driving-company-to-go-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kusi.com/content/uploads/2021/05/b/u/tusimple-cfo.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KUSI",
-        "domain": "kusi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-impact-of-autonomous-vehicles-on-businesses.md",
-      "title": "Impact of Autonomous Vehicles on Businesses",
-      "excerpt": "And let’s face it, like any other tech, with autonomous vehicles too, an innumerable businesses are expected to take a hit worldwide",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
-      "originalUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2016/07/Depositphotos_29760661_m-2015.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
         "images": null,
         "publishers": null,
         "authors": null

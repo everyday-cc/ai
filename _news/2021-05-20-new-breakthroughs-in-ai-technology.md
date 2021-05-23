@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "LaMDA: our breakthrough conversation technology"
-    excerpt: "We've always had a soft spot for language at Google. Early on, we set out to translate the web. More recently, we’ve invented machine learning techniques that help us better grasp the intent of Search queries. Over time, our advances in these and other areas have made it easier and easier to organize"
-    publishedDateTime: 2021-05-18T17:22:00Z
-    webUrl: "https://blog.google/technology/ai/lamda/"
-    ampWebUrl: "https://blog.google/technology/ai/lamda/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lamda/amp/"
+  - title: "NASA AI technology could speed up fault diagnosis process in spacecraft"
+    excerpt: "New artificial intelligence technology could speed up physical fault diagnosis in spacecraft and spaceflight systems, improving mission efficiency by reducing down-time."
+    publishedDateTime: 2021-05-20T13:08:00Z
+    webUrl: "https://phys.org/news/2021-05-nasa-ai-technology-fault-diagnosis.html"
+    ampWebUrl: "https://phys.org/news/2021-05-nasa-ai-technology-fault-diagnosis.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-nasa-ai-technology-fault-diagnosis.amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 194
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/1_Welcome_GenerativeMeena_CL_V02_150521_v2_720_25fps.gif"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Google’s LaMDA is a smart language A.I. for better understanding conversation"
-    excerpt: "At Google I/O, the search giant showed off its new A.I. language model that could make dialogue with machines more natural."
-    publishedDateTime: 2021-05-18T18:46:00Z
-    webUrl: "https://www.digitaltrends.com/news/google-lamda-ai-model/"
-    ampWebUrl: "https://www.digitaltrends.com/news/google-lamda-ai-model/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/google-lamda-ai-model/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 71
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/lamda.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nasa-ai-technology-cou.jpg"
+        width: 2880
+        height: 1917
         isCached: true
 
 secured: "7fcB0nk3BqubtIt05C+Gh2IqgspxC5qe4XMkvRu2WtkiSaqLcnrvSYVdLzoCPe+sigaTjRk7cEnQNPKFa6aGxZQWPgIDQT7HspmqASmRmdNVU6QLMaKKwsXe5/F5ta2kBv5Fu6Sjp0eX/2UKtF+9l4NfvjqgndcYilRsGkgryWQI76zLIdzsVnbW8LXFmeocv4otSOzPd53whErotE8YkaRGwPk4jL20OlWdgzO2Qn0fnS/Lj1UNFdug+/RIEyn4w6DjrrZufImy/+jULegvOuwf9shQ++4LbnGdBVqL596In/zaTnkvelEuD4HDSeEoGtVVtnzxjfqQ1RajDJNfWsNNr4uZe9YIrwvZWA+m8LNTckmQ2J3hFirLjyptg7MhLQCnRhSR58G/K0glbHOkYbJcDk3G6xLaWA9JvbQqV7rIwvzh6yhcoYNG/mFXy491n5bp1qLR8EQvIt7pCKL3sazobbUyI+58wb6mZs2MvU+CmPLBF5ZimxzyU6KCZnVo00KKU2uqRfezCYQzMIfLgw==;fHRsKsXTDhIkw1EQWw4Klw=="

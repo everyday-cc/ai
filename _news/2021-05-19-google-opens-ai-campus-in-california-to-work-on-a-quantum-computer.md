@@ -27,51 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Unveiling our new Quantum AI campus"
-    excerpt: "Within the decade, Google aims to build a useful, error-corrected quantum computer. This will accelerate solutions for some of the world’s most pressing problems, like sustainable energy and reduced emissions to feed the world’s growing population, and unlocking new scientific discoveries, like more"
-    publishedDateTime: 2021-05-18T17:30:00Z
-    webUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/"
-    ampWebUrl: "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/"
+  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities"
+    excerpt: "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety"
+    publishedDateTime: 2021-05-21T20:31:00Z
+    webUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/"
+    ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 98
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1_294_R01_1_1.max-1300x1300.jpg"
-        width: 1300
-        height: 867
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "Google I/O 2021: Android 12, Quantum AI campus, Flutter 2.2, Vertex AI, and more"
-    excerpt: "Google announces the beta of Android 12, new Quantum AI campus, AI improvements and more at the Google I/O 2021 conference"
-    publishedDateTime: 2021-05-19T14:55:00Z
-    webUrl: "https://sdtimes.com/softwaredev/google-i-o-2021-android-12-quantum-ai-campus-flutter-2-2-vertex-ai-and-more/"
+  - title: "Tesla self-driving claim in question: California DMV"
+    excerpt: "The state’s DMV is reviewing whether or not the electric car company is breaking the law over claiming their vehicles are autonomous."
+    publishedDateTime: 2021-05-18T19:47:00Z
+    webUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/"
+    ampWebUrl: "https://nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/tesla-self-driving-claim-in-question-california-dmv/amp/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 64
+      name: New York Post
+      domain: nypost.com
+    quality: 74
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/sized-tesla-self-driving.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google Unveils Quantum AI Campus For The Future Of Quantum Computing Research"
-    excerpt: "The campus features the company’s first quantum data center, quantum hardware research laboratories, and quantum processor chip fabrication facilities."
-    publishedDateTime: 2021-05-19T19:30:00Z
-    webUrl: "https://hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
-    ampWebUrl: "https://amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+  - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
+    excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
+    publishedDateTime: 2021-05-21T20:44:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 56
+      name: KRON4
+      domain: kron4.com
+    quality: 59
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55146/content/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research.jpg"
-        width: 708
-        height: 411
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/05/gettyimages-1035331902-594x594-1.jpg?w=1280"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
+    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
+    publishedDateTime: 2021-05-22T07:45:00Z
+    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 41
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
+        width: 764
+        height: 400
         isCached: true
 
 secured: "k/JjjEu/07ITMZzrJRlShJ0NPJeh2yMdOtB7aHwaYl73BIQvphpb0ox/WnpWaGjIX44Gd/N2VEE3ShqPsuSSXcqJcHfwniQJTcXP7rJoc+YXwlVPKRPZgUbeoW/LL9ukrCq2xErV8t5FxsoBAzrrh4Ciba3dDAO5GS5W+5Bpl5Hs3/qrTLBPykhPLGXtz1tnNvzUbw3MXglCYjtk1fA84QetVavPYzMYVaprq3gsvf0F87FQQogsUiR5KBTgW1CDNdvsA0qUTXUFGaS+XiB2WgoSXxGwaX9F48QAyvN+ptwRI17uSoa4WiCAF5LwjHYY421iMl/w45Uv/6JVapQoKMbES8LjA0Qf6UZSMRAwfoUnxYb+iEkgfgu8YxCLpnTe4n7IuKMvp4qG9has2kvQQvq/DFbwRFKAsFGc+9tNaO61nUPVwFrMKn0wgaqWQdXA50j0V+KofBW2KL6YQijwRovbmwHCwJk8ERrzEdSiuYByE/bHBqTyQ72hYzi3Db99S30xvxs9ZukoVS7Jb/nCCw==;3epW985bJLeDgGyWPMD8rQ=="

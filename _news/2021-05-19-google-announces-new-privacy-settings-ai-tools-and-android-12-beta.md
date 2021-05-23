@@ -59,6 +59,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google Announces New AI App To Diagnose Skin Conditions"
+    excerpt: "Google announced the arrival of a new AI app to help diagnose skin conditions. It plans to launch it in Europe later this year."
+    publishedDateTime: 2021-05-21T19:20:00Z
+    webUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/"
+    ampWebUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "N3L0VsKjbV19eeLfcLoVZeM12qZHDEWEtqmE3gE14bGZ1YloGPYDO+BhswEAa0wqDNpB7cnOC4+dnKpkzZlXlgXRkCmgtvtUE2UgWR4D9HBYxZhQltEEExl377ZxXimp98asYr9Pb88Pd44SrForLs4z7s8OI4Wwi1Ibem02hbMCZMJqQF4HFKiLf4ShrDs//RQCOjYtpivT1hFH0xCP1ZhUJeFZE3yRQ5HxZmVOA6+WxT54AlDKo680XmmOnSiGF++OX1FEXIpN5F2ilfFrFDlQi3YA++s/CBiEpCDngbAOfhV65Xi79RLMd+fLd1LFk2uxNC+ugLgB77MHZWScp4zVxsivHYhXFslcMlNWNT0=;SM9Al20/bWnS+8J6PnuIHQ=="
 ---

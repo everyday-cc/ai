@@ -85,20 +85,6 @@ related:
         width: 420
         height: 280
         isCached: true
-  - title: "Fintech Startup Janover Inc. Awarded Inc. Magazine's Best Workplaces of 2021"
-    excerpt: "Janover Inc., a FinTech (financial technology) startup that's making commercial real estate and small business financing easier, announced today that it has earned two spots on Inc. Magazine's Best Workplaces of 2021"
-    publishedDateTime: 2021-05-18T17:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19812708.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1512941/Janover_Ventures_Best_Workplaces_2021.jpg"
-        width: 396
-        height: 400
-        isCached: true
 
 secured: "aVKBbOIKUqsQ94QEZZ9SIgJ27g7si0VC8M+FcbGTgaOrMog93KF9Bzwf5vIewSR6UbSPM0b1GT/W8R8P1qHxjDP3NqSVKzNzDepdm0U7nF2RvxfnSdQbp/UZ987IPJU4zw7mY8iyr4TOxVozRbnRRU5j0cavz1JW6tBqJYBKSCdSV0x0blg4EmaIT7BaqsZPXYSulICnn5vJE7iY52nuYo/IrMkP+eZ7gf5ZRLE/C7HKRNB7exW7r1MEUyAx9ZO2s1d1iLzFPUnmCQlsSt9riiCrdevny9Aq8MwpOCbshJvwGFHNxSPPDAv4TsQj/PMBi8sIdyoxGZwv4ob+YohnWfaGaquhilqRRcjHhgcQ9mk=;rU0RtkhtZSjKskN0GCFbkw=="
 ---

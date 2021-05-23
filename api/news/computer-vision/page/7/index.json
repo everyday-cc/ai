@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-05-facebook-trains-ai-to-see-using-1-billion-public-instagram-photos.md",
+      "title": "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos",
+      "excerpt": "The \"computer vision\" program, nicknamed SEER, outperformed existing AI models in an object recognition test, Facebook said. While this is only a research project, Facebook said the potential uses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
+      "originalUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T15:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images.md",
       "title": "Facebook’s new computer vision model achieves state-of-the-art performance by learning from random images",
       "excerpt": "Learn more. Facebook today announced an AI model trained on a billion images that ostensibly achieves state-of-the-art results on a range of computer vision benchmarks. Unlike most computer vision ...",

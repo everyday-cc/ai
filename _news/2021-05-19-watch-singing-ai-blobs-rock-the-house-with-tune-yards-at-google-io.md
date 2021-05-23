@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/video/blob-opera-tune-yards-google-io-2021.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/blob-opera-tune-yards-google-io-2021.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "All The Latest ML Developments Announced At Google I/O"
+    excerpt: "Know Your Data is Google’s new web-based data set exploration tool that helps developers understand rich data sets. Five years ago, Google launched the open-source platform TensorFlow to accelerate machine learning research and empower developers to ..."
+    publishedDateTime: 2021-05-21T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-latest-ml-developments-announced-at-google-i-o/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Google-Ml.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "InBbu5N3PvIOIoGYP6/Jtr8iUNNZKE1/w3R+5gM1UruSv1W3+C/h97soF6EHJdbLQ8+qwbPuVGF0+AS1symZQ714gNj+Af4u7qSQRt4WPYYTtBh/Mc9VaH8cv0g6M4OMLcJ4xjGtDUjRiCPIxE8xTO3C8G0rbkF3zrOo1j1YIi8GBED83vckppiQnsepb+fgkRtbgMnuoTeGB6rpbSn9+OqSmirjJOcwWKsWf9gg+cuGKgIFtRSLnSHjm0OBLMNJwXWY0IRSHus3qwsXDLmtpFLNa7yZKaBR+RQJeLESZOSCVgiIJBCMWn4+QPizbbuuB00TtVUBfSnGl+k2dJ/vPr4Gh93AoYm8zZ9d4Nn9TBW36rmmhy1MZ1lJCSKmLr4KHTJIfIPmyxDVsx3DJ1eMGjar7IRS9kAbxm8yYQdr//8/14l28pMBR+FsnBlM0YkEp+p6Wh7nr3JxZdo3RPQGmUbyOo4LJUAxR5c1SILF6X5Zmp2TChk6w1ma7VOM/7kUWYlPak49SQm27mXl/f/VWA==;5p0q2Yo6i/9UUH5lR7xCpQ=="
 ---

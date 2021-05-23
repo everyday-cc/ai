@@ -196,22 +196,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Amazon to continue pause on police use of facial recognition"
-    excerpt: "Amazon said Tuesday Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
-    publishedDateTime: 2021-05-18T18:20:00Z
-    webUrl: "https://www.chron.com/business/article/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-    ampWebUrl: "https://www.chron.com/business/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Amazon-to-continue-pause-on-police-use-of-facial-16186052.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/10/56/21007268/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "We could see federal regulation on face recognition as early as next week"
     excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
     publishedDateTime: 2021-05-21T10:00:00Z
