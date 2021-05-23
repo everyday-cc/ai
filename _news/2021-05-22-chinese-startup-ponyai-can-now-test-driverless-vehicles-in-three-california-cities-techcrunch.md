@@ -178,20 +178,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla is being investigated for misrepresenting Full Self-Driving’s ability to actually drive"
-    excerpt: "The LA Times is reporting that Tesla is under investigation by the California Department of Motor Vehicles, over the over-stated claims made by CEO Elon Musk about the efficacy of its Full Self-Driving technology."
-    publishedDateTime: 2021-05-18T16:13:00Z
-    webUrl: "https://knowtechie.com/tesla-is-being-investigated-for-misrepresenting-full-self-drivings-ability-to-actually-drive/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 28
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "IcDQRDTFH2sRoIHl92+mqXk09GwLg6FDznKPrjdEz8wnr1hxL6NHedtjjF/b5BFms5caRGjKf/01dcnL8WsR8swK83wVj7bWmQpmHismRT0QHifcxTKUrs/FK79f0rpcdBE32rF4NVHrYxZSGYaYy6sx+ZAKzI9yxO+noCMvZzhMrCAbNA95SajQAMNrb6+bZwTSuT8vhZq9wuyEgCPORsE6soBjj9xaIFgxB8UZjl7QsUkpOWxvX6jKOB8wW2RRD8wDt+KnAwZ+8j1mwWcx8yGIwLjF8xWNJMua5J2olBEuBRl+/0iFEZb0fSkwyiWiDPVqSZQjzdVpQywc73WoWIVDY+6r20pwB5oBQ7bcW6YEfBzJ1DnlKa5ZuKG9wSvEA4BEgcryGqBQKKDVbnqAjh2poaHRdustJKpif7FYFoaHoK36vjBzLkeFYSRi+U2OkM4YIb6DnIbxCjPlvR1UDNZFMnRKfBB2uBszrvRGRReuUBKCoxefCfJP9HgkRV3y3CZZxDe4VpFtNUw66ShG2g==;1itw4HryObPp5nqfx1oodw=="
 ---

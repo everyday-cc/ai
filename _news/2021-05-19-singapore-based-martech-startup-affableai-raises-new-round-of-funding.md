@@ -7,7 +7,7 @@ originalUrl: "https://www.brandinginasia.com/singapore-based-martech-startup-aff
 webUrl: "https://www.brandinginasia.com/singapore-based-martech-startup-affable-ai-raises-new-round-of-funding/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,113 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup Vise raises $65 million in Series C led by Ribbit Capital"
-    excerpt: "Vise today announced a $65 million Series C financing round led by Ribbit Capital, with participation from existing investors including Sequoia. The startup launched on the Disrupt Startup Battlefield stage in 2019 and has since raised upwards of $125 million."
-    publishedDateTime: 2021-05-18T15:16:00Z
-    webUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/"
-    ampWebUrl: "https://techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital/amp/"
+  - title: "Visionary.ai Raises $4.5M in Seed Funding"
+    excerpt: "Visionary.ai, a Tel Aviv, Israel-based AI-powered image processing startup, closed a $4.5m seed funding. The round was led by Ibex Investors with participation from Spring Ventures, Capital Point, and others."
+    publishedDateTime: 2021-05-19T12:45:00Z
+    webUrl: "https://www.finsmes.com/2021/05/visionary-ai-raises-4-5m-in-seed-funding.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/vise-ai-DSC03361.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Fintech Platform Vise Secures $65 Million Funding"
-    excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
-    publishedDateTime: 2021-05-19T12:51:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "Starting a Career in Fintech: An Introduction"
-    excerpt: "Fintech, or financial technology, is a growing area in various locations around the world. The industry is becoming increasingly appealing to all kinds of professionals and students, promising exciting opportunities in everything from cryptocurrency to digital banking."
-    publishedDateTime: 2021-05-21T19:53:00Z
-    webUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/"
-    ampWebUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/05/Career-in-Fintech.jpeg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "AI enhanced Investment Management Provider Vise Secures $65M via Series C led by Ribbit Capital, Sequoia Capital"
-    excerpt: "AI enhanced investment management provider Vise secures $65M via Series C led by Ribbit Capital, Sequoia Capital."
-    publishedDateTime: 2021-05-19T16:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175530-ai-enhanced-investment-management-provider-vise-secures-65m-via-series-c-led-by-ribbit-capital-sequoia-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175530-ai-enhanced-investment-management-provider-vise-secures-65m-via-series-c-led-by-ribbit-capital-sequoia-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175530-ai-enhanced-investment-management-provider-vise-secures-65m-via-series-c-led-by-ribbit-capital-sequoia-capital/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Bad Robot Games Announces $40+ Million Series B Raise Led By Galaxy Interactive Along With Horizons Ventures And ICONIQ Capital"
-    excerpt: "Bad Robot Games, Bad Robot's video game division, announced today that it has completed a $40+ million Series B raise to create games that are as compelling to watch as they are to play. This round was led by Galaxy Interactive,"
-    publishedDateTime: 2021-05-18T16:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19812547.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 26
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Fintech Informed.IQ, which Helps Financial Institutions Verify Lending Documents, Secures $20M via Series A"
-    excerpt: "Fintech Informed.IQ, which helps financial institutions verify lending documents, secures $20M via Series A round."
-    publishedDateTime: 2021-05-20T06:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 26
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate-300x251.jpg"
-        width: 300
-        height: 251
-        isCached: true
-  - title: "LHoFT Foundation selects 14 fintech startups to showcase financial inclusion in Africa"
-    excerpt: "Building on the success of the 2018 and 2020 editions of CATAPULT: Inclusion Africa, the LHoFT Foundation is opening tomorrow, on Wednesday 19th of May, the third edition of this unique program of Fintech startup development."
-    publishedDateTime: 2021-05-19T01:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87685/lhoft-foundation-selects-14-fintech-startups-to-showcase-financial-inclusion-in-africa"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 16
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/05/visionary-ai.jpg"
+        width: 1104
+        height: 736
         isCached: true
 
 secured: "NuUVkuCWAuJau5nMCJSBf4Ft7NEFOgnZzvuOKc+pwm8TiJ1jbaQnbJW0wbthXU0xOi5kSavjREW48Iunm694lB8pGVw/qAn5exPh70sjcZAu+yYc6fy4rHBbrOgolV3zpuPQvx8xneg0ncp54oiSvzRIKqlyQdixXObKHW2fOUJmnMQw0ai9bpW6ogtAribRbC+6gRrs6lc7RKvAqXJASSbYF5E7ArpZwQuXHKicOhvmpEaOIksLtj+4CDurZQHeeebqD3vTRcGwN3jIkFj5SBRK787nbC3v3ieM1XIBnkYRaL7FcQOnp8UlSp4QgeJfwpXW0vqJW8bzMlTKD4zLZ3H9YabeHKvpOJlvPstAEx/AbzbDra/kowUvE8qTmCd8gFNqqPLEOtrPpBOoEakfpqdA5Mge4WEbZF/7hQ4sFmX0m67QxBjcy/xPsPKYUkJfF+tB6ejcDxYIx4szxgsr9DlZC/HrZfq43iCG34y+eBlkyNOb/Zxb9MnAwlW4FcyTLHw4nAVtexlATh4ruTDM7A==;FYFBtDt/F0o09bpqxJ5z0A=="

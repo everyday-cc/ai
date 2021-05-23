@@ -103,20 +103,6 @@ related:
         width: 652
         height: 367
         isCached: true
-  - title: "Understanding the Black Box Problem of Artificial Intelligence"
-    excerpt: "While artificial intelligence (AI) applications are becoming increasingly capable of solving even the most complex of our problems requiring human-like cognition, the black box of artificial intelligence makes it difficult for us to understand how these systems actually go about solving these problems."
-    publishedDateTime: 2021-05-18T15:12:00Z
-    webUrl: "https://www.bbntimes.com/technology/understanding-the-black-box-problem-of-artificial-intelligence"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/companies/Understanding_the_Black_Box_Problem_of_Artificial_Intelligence.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "zQR/J1j75FUuT85Ua9kMH2AhHi/Ku/cR6Z6eKQK4kT+pruKWpdK7+srcLLVZgJERUghYVHA59ID/oshirXuFjPhd9vz3ci4hZq1AWliActz06V3r4r5AjD3CrqPyA202ZjP9V2wTyyPlBQkEFjLFTCv0ScQ/+cVduwPklgyLk47dAMxZVAwzhmGpMR9yjecnzF1M/m0Mkv5C+aDi5LuS5nsJ2pmhZageez10C8ZGOgj4eZZMuNmjxj1UrEIdkMJvohEspdHlz/PRHuPKsyRXwA8GPOoC8YgkZnK9q3OoVebROTRK5eZY2prnK6G8GuT/2t3RxlDekNIRE00DBeQXpQkqvBgkwX0oea4i8r5Kb7Uv8fHP+vb7duNszd1tjiJ8OphvPgYDKjIM+105RhMh8KSRXIggxx2skiYnymhuX1gIWSaOXLh3vrHrpYlfMfrATG0y45p02nyaZTN7ah8gTS2h26ZifBdr15XQA+vm7vRK5mjhwV5l6qkSHCGWv845wiuWGZ9ukXwThvRmkdGT5w==;wtjWbkQUiW1dC+wX1bnU1Q=="
 ---

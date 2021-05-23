@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-ra
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2021/05/the-yes-elevate-ai-2021-652x367.jpg"
         width: 652
         height: 367
-        isCached: true
-  - title: "Understanding the Black Box Problem of Artificial Intelligence"
-    excerpt: "While artificial intelligence (AI) applications are becoming increasingly capable of solving even the most complex of our problems requiring human-like cognition, the black box of artificial intelligence makes it difficult for us to understand how these systems actually go about solving these problems."
-    publishedDateTime: 2021-05-18T15:12:00Z
-    webUrl: "https://www.bbntimes.com/technology/understanding-the-black-box-problem-of-artificial-intelligence"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/companies/Understanding_the_Black_Box_Problem_of_Artificial_Intelligence.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Taking the Mystery Out of Vision AI"
     excerpt: "How do you actually get data from a camera, embed machine learning to carry out the inference algorithm, and enable something useful to be processed?"

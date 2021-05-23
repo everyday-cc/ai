@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -181,20 +181,6 @@ related:
       - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Car-specs-suggested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla is being investigated for misrepresenting Full Self-Driving’s ability to actually drive"
-    excerpt: "The LA Times is reporting that Tesla is under investigation by the California Department of Motor Vehicles, over the over-stated claims made by CEO Elon Musk about the efficacy of its Full Self-Driving technology."
-    publishedDateTime: 2021-05-18T16:13:00Z
-    webUrl: "https://knowtechie.com/tesla-is-being-investigated-for-misrepresenting-full-self-drivings-ability-to-actually-drive/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 28
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "f8uqcxyoPiP6t/f+dOA/gSqXGmecOmZ1oE0jWO8lR5CJZImApaV7tXjoqz4+iWO0F2YdqB+mex3GqNrCSgZ17N2cLjUYstwK16KsK5b++DqJi9RQAsgMekiEOTDPcz/4TurpEdHEIpD1HvWCqqL8r6kOBdartiqxAPjdEZxYE69jbfXu3zvKR3yC4zkWm7m6fGoYTajN49XyzXSUd49opeEo409577J/Uhnr+NTqypIY7qkqGCrlLwoxDqyS2X53RID8bUlqHpBHdnnTmcAdrjQDLGqPCu+ztvWUq0mN54a8FQkqD3UK4tohZH5ITVKoIBR5q35QbKj7H8qa+AUhyVsSVZNtJ9WeWgvUAUufHvwh1s5KIilOJ8RnkGnlz1FGBnx4rfMK8sTpj6EgYH5/itiJ9yyWD53DOwpJ0Tqav9jxCpuX6U7IcI2SW06KJ9BNqpA0Z+5LtIfmA8ymVNlSFxJ+vd6T+zwDgU1AAddNvfWihq3BCeX7d160aHNt35+7UXAVz3J+iFrszeM8jPk//Q==;eT8ntmhPMFLJTit7R/TY2w=="

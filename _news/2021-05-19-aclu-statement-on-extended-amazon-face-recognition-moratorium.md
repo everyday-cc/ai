@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon again denies police use of facial recognition software Rekognition"
-    excerpt: "Amazon, which one year ago barred police from using its facial recognition software, is extending that moratorium indefinitely. The extension of the ban on police use of Amazon'"
-    publishedDateTime: 2021-05-18T15:49:00Z
-    webUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/"
-    ampWebUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 118
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/spheresmay2019-630x450.jpg"
-        width: 630
-        height: 450
-        isCached: true
   - title: "Amazon extends ban of police using its facial recognition indefinitely"
     excerpt: "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice."
     publishedDateTime: 2021-05-19T14:13:00Z
@@ -211,20 +195,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "States move to limit government use of facial recognition software"
-    excerpt: "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition."
-    publishedDateTime: 2021-05-19T21:25:00Z
-    webUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Amazon to continue pause on police use of facial recognition"
     excerpt: "Amazon said Tuesday Amazon and other technology companies have been under pressure from civil rights activists and their own workers to halt the sale of face-recognition technology to law enforcement agencies because they can incorrectly identify people with darker skin."
     publishedDateTime: 2021-05-18T18:20:00Z
@@ -256,22 +226,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-tec.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Speech recognition comes to prompting"
-    excerpt: "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,"
-    publishedDateTime: 2021-05-21T11:36:00Z
-    webUrl: "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting"
-    ampWebUrl: "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg"
-        width: 2560
-        height: 1536
         isCached: true
   - title: "We could see federal regulation on face recognition as early as next week"
     excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
@@ -344,36 +298,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Lightfoot’s office was blindsided by CPD’s use of controversial facial recognition software — then raised serious concerns"
-    excerpt: "Hacked emails show the city only learned police were using technology developed by Clearview AI — which faces multiple suits claiming it violated the state’s biometrics privacy act — until after inquiries last year by the Sun-Times."
-    publishedDateTime: 2021-05-20T10:30:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 48
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/YKugGkghNH_W2uowxDhK7_CxgqU=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69315653/large.0.jpg"
-        width: 768
-        height: 465
-        isCached: true
-  - title: "Amazon still won’t make its facial recognition software available to police anytime soon"
-    excerpt: "Amazon place a one-year moratorium on police to block them from using the technology, coming at a time when other technology companies either said they wouldn’t sell their own similar product or stopped the development of such products."
-    publishedDateTime: 2021-05-19T03:13:00Z
-    webUrl: "https://siliconangle.com/2021/05/18/amazon-still-wont-make-facial-recognition-software-available-police-anytime-soon/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/3745750194_a7e32a8505_c.jpg"
-        width: 800
-        height: 536
-        isCached: true
   - title: "Amazon extends June 2020 moratorium on police use of facial recognition software until further notice"
     excerpt: "Amazon.com Inc (AMZN.O) said on Tuesday it is extending until further notice a moratorium it imposed last year on police use of its facial recognition software."
     publishedDateTime: 2021-05-19T00:07:00Z
@@ -414,20 +338,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/05/FacialRegTech-scaled.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Local Teens Create Solution For Phone’s Facial Recognition Mask Issue"
-    excerpt: "Two local teenagers worked together to solve a problem that’s been frustrating cell phone users since the pandemic began. While anyone who uses"
-    publishedDateTime: 2021-05-18T15:57:00Z
-    webUrl: "https://mdcoastdispatch.com/2021/05/18/local-teens-create-solution-for-phones-facial-recognition-mask-issue/"
-    type: article
-    provider:
-      name: Maryland Coast Dispatch
-      domain: mdcoastdispatch.com
-    quality: 39
-    images:
-      - url: "https://d2wcro6av4bts2.cloudfront.net/wp-content/uploads/2021/05/worcester-prep-school.jpg"
-        width: 300
-        height: 225
         isCached: true
   - title: "Amazon extends ban on police use of its facial recognition technology"
     excerpt: "Amazon is announcing that it will extend its ban on police use of it facial recognition technology until further notice."
@@ -487,20 +397,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "BBC addresses facial recognition bias issues in new Click episode"
-    excerpt: "A new episode of BBC Click recently discussed the issues caused by facial recognition biases, and how they affect people on a daily basis."
-    publishedDateTime: 2021-05-19T21:26:00Z
-    webUrl: "https://www.biometricupdate.com/202105/bbc-addresses-facial-recognition-bias-issues-in-new-click-episode"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Trio of facial recognition standards are updated"
     excerpt: "An article published in the journal Standards Engineering calls out developing ASTM International standards for use in facial recognition."
     publishedDateTime: 2021-05-20T16:18:00Z
@@ -515,47 +411,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
-    excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
-    publishedDateTime: 2021-05-21T09:30:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
-        width: 959
-        height: 368
-        isCached: true
-  - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
-    excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
-    publishedDateTime: 2021-05-21T07:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/e476628/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2Fd2%2F5d1405d3469b8a308cd62605b4b7%2Fwb.Tech.jpg"
-        width: 2290
-        height: 1322
-        isCached: true
-  - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
-    excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"
-    publishedDateTime: 2021-05-20T13:30:00Z
-    webUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/"
-    ampWebUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
   - title: "Amazon extends ban on police use of controversial facial recognition technology"
     excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
     publishedDateTime: 2021-05-19T01:27:00Z
@@ -603,29 +458,6 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 31
-  - title: "SparkCognition Acquires Ensemble Energy to Accelerate Renewable Energy Growth Using Artificial Intelligence"
-    excerpt: "SparkCognition, a leading artificial intelligence (AI) company, is pleased to announce it has acquired Ensemble Energy, a leading provider of software products and services for the renewable energy industry."
-    publishedDateTime: 2021-05-19T12:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-acquires-ensemble-energy-to-accelerate-renewable-energy-growth-using-artificial-intelligence-1030446116"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-  - title: "Outsourced cleaners win trade union recognition after lengthy battle"
-    excerpt: "CLEANERS at La Retraite Roman Catholic Girls’ School in south London were celebrating today after they won their battle for trade union recognition. The outsourced cleaners, the majority of whom are Latin American migrants,"
-    publishedDateTime: 2021-05-21T16:14:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/outsourced-cleaners-win-trade-union-recognition-after-length-battle"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QmoUnZiZuF1xEwIC64LezwHq0sRl5Jf+rXhe7YsJAhujy5MiLgOn6rIGjb9JQJlaVrq1FqKuaN9hE+H61FYrP4BDwzycriuN+L/2Z1uFWN16q0YBiGGAxtzqjyNB8pkZ4XGgEckkFeNMhpmT16mU8AH/xDTTTDMOa4ejxCeymQbPXjY15AnJ28PWffDE720nILO0ex+16bS+9h7gS685/yE59FIYbh2jTirXF04o59bwV7TQUXKqmGeOUQvT52GQ3e5SzxHEybjgLowyWMhUo0KX7ARNS7N3peCfrpThTV2s+ncGbfiv4G7ptN9E2y3UoqHMppwqnP3ClLTLnh1iL8Vg3Ll6hXeBso6pjJYlatw=;fl/CGnQ9gIbIbyBNMeDdoQ=="
 ---

@@ -33,6 +33,22 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Fintech Informed.IQ, which Helps Financial Institutions Verify Lending Documents, Secures $20M via Series A"
+    excerpt: "Fintech Informed.IQ, which helps financial institutions verify lending documents, secures $20M via Series A round."
+    publishedDateTime: 2021-05-20T06:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175532-fintech-informed-iq-which-helps-financial-institutions-verify-lending-documents-secures-20m-via-series-a/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 26
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate-300x251.jpg"
+        width: 300
+        height: 251
+        isCached: true
   - title: "HyLyt joins hand with EST Global Inc, a Fintech for Seamless Data Management"
     excerpt: "HyLyt, a technology & business collaboration start-up has joined hands withEST Group represented by EST Global Inc, a Fintech global financial service provider,for data management and seamless search engine optimization service."
     publishedDateTime: 2021-05-20T08:45:00Z

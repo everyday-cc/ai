@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-aut
 webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why IBM’s AI, Hybrid Cloud Strategy Is More Than Good, Its Imperative"
+    excerpt: "The fact that IBM spent a lot of time at its recent Think conference – the company’s flagship annual event for customers and partners — talking up artificial intelligence and cloud computing is no real surprise."
+    publishedDateTime: 2021-05-20T12:23:00Z
+    webUrl: "https://www.cmswire.com/information-management/why-ibms-ai-hybrid-cloud-strategy-is-more-than-good-its-imperative/"
+    ampWebUrl: "https://www.cmswire.com/information-management/why-ibms-ai-hybrid-cloud-strategy-is-more-than-good-its-imperative/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-ibms-ai-hybrid-cloud-strategy-is-more-than-good-its-imperative/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 61
+    images:
+      - url: "https://www.cmswire.com/-/media/e39c6156c7494a3886527f48a2eedc5a.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Global Biological Data Visualization Markets, 2020-2021 & 2025 - Adoption of Artificial Intelligence for the Analysis of Biological Data & Rising Need"
     excerpt: "The \"Global Biological Data Visualization Market (2020-2025) by Technique, Application, Platform, End-Use, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-05-20T15:54:00Z

@@ -57,6 +57,20 @@ related:
         width: 800
         height: 408
         isCached: true
+  - title: "Amazon still won’t make its facial recognition software available to police anytime soon"
+    excerpt: "Amazon place a one-year moratorium on police to block them from using the technology, coming at a time when other technology companies either said they wouldn’t sell their own similar product or stopped the development of such products."
+    publishedDateTime: 2021-05-19T03:13:00Z
+    webUrl: "https://siliconangle.com/2021/05/18/amazon-still-wont-make-facial-recognition-software-available-police-anytime-soon/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/3745750194_a7e32a8505_c.jpg"
+        width: 800
+        height: 536
+        isCached: true
 
 secured: "QNHaQ1OQhW9ljLNnCO9Wb1AmMkE/F9pAsU0vh56V5Hmyr+pgJKq6Jsdn4HJN6nJYtTdFzDiR7fl/R+aHTEI5qL1mdGlMF9cGYxETjvHdC7rixFd8RTLjwV6I8vURkDtpkSpzekQPMb6dWMKhwaRdF2nkjR07stAw+boAM3f+gWtFi3ii6guWA5rVEn7SdQYt3loDzWxo5JvdJWXPbTuqFM+yM816mGvDyap0B3nvio7eTKZsZPcsZNzdzE0coyYz9mhVsS3k079cT8jPVNiJ82b+uK+mf+ULfNz8ihy6nLLP1i2pvSQnnZXNuOa1HaTV+3WdArogyG12SiHuJTO60bjb6HWkcygGM79pkFeatGg=;rq4l8usXKRnCtLuPDLPRcw=="
 ---
