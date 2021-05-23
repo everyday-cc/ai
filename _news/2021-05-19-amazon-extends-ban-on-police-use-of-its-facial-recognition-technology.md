@@ -458,20 +458,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Will cannabis banking risk remain after federal recognition?"
-    excerpt: "As I speak with bankers across the country who are considering launching cannabis banking programs, I am often asked about BSA/AML risk. Specifically, bankers want to know if they will still need to implement and maintain specialized compliance programs if the federal government legalizes marijuana,"
-    publishedDateTime: 2021-05-18T07:15:00Z
-    webUrl: "https://www.cuinsight.com/will-cannabis-banking-risk-remain-after-federal-recognition.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 39
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/05/bigstock-Marijuana-Leaf-And-Us-Dollar-B-391963688.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Amazon extends police facial recognition moratorium"
     excerpt: "Amazon has taken the time limit off of its self-imposed moratorium on offering its face biometrics technology to U.S. law enforcement."
     publishedDateTime: 2021-05-19T16:17:00Z

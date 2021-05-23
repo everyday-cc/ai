@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekogn
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/amp/"
 type: article
 quality: 118
-heat: 558
+heat: 548
 published: true
 
 provider:
@@ -447,20 +447,6 @@ related:
       - url: "https://d2wcro6av4bts2.cloudfront.net/wp-content/uploads/2021/05/worcester-prep-school.jpg"
         width: 300
         height: 225
-        isCached: true
-  - title: "Will cannabis banking risk remain after federal recognition?"
-    excerpt: "As I speak with bankers across the country who are considering launching cannabis banking programs, I am often asked about BSA/AML risk. Specifically, bankers want to know if they will still need to implement and maintain specialized compliance programs if the federal government legalizes marijuana,"
-    publishedDateTime: 2021-05-18T07:15:00Z
-    webUrl: "https://www.cuinsight.com/will-cannabis-banking-risk-remain-after-federal-recognition.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 39
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/05/bigstock-Marijuana-Leaf-And-Us-Dollar-B-391963688.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Amazon extends ban on police use of its facial recognition technology"
     excerpt: "Amazon is announcing that it will extend its ban on police use of it facial recognition technology until further notice."

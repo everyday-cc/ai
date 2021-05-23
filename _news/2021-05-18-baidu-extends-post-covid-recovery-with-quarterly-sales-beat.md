@@ -1,18 +1,22 @@
 ---
 category: news
-title: "Baidu Extends Post-Covid Recovery with Quarterly Sales Beat"
-excerpt: "Baidu Inc., the Chinese search giant that’s shifting into artificial intelligence, reported quarterly revenue that beat analysts estimates, extending its recovery from the Covid-19 pandemic. Revenue climbed 25% to 28."
-publishedDateTime: 2021-05-18T11:09:00Z
-originalUrl: "https://www.bloombergquint.com/business/baidu-extends-post-covid-recovery-with-quarterly-sales-beat"
-webUrl: "https://www.bloombergquint.com/business/baidu-extends-post-covid-recovery-with-quarterly-sales-beat"
+title: "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat"
+excerpt: "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ..."
+publishedDateTime: 2021-05-18T12:05:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat"
+webUrl: "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 86
+heat: 96
+published: true
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -20,9 +24,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL2Fg2mdn_Ew/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -43,6 +47,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VFB990ZH7SLL7ZEyRvmpIl+Ezy8CCZBPpR7E9ismZc3d8l/HxGwC+wRosLV0EAuX17fciFRGQ8CjCmM/akTC6afXEcy6r6tI1rE7GFG5LXkYgIeqi/7uXRrLiBqsHPsaZeCCEfAXDm2HdjuW8IpXCMTG7XaV6MURA64upv/iQ98Z4G0Avk0IIQr61fmjVjnMmiSLzkQyfb5Xp8T1HNdPI/L5kwAMiF7/dBNPXsOvUHNN4V5w1kJmRySSjMriDkMigPv3RhoZnlUwoRy2if7oKs+98wJHT8TFwi71DHDqZfX0jEgX2LveBEqBC3BRVia8ikP/4dfBd/wi+ssWdwXDN+D+2pNkqjORZVC+296VBNcv0ZYwkBfa64puxdZx/MUW+eLCPI6Ikc9XGnSugeb6zTTqJdyeyY0D1pd/6Dfz4Md0JFFXkNYNeBpWZ2iO9U8LohlGhifMQ25sP0NAT8YU0vBCkAnSyfhiuN2/iZuEbvkpfjXSQ10YTroVqglKsEmSSxoleHkO9POerKXl/vNoSw==;tTvRarTxcs4z3nD6Dxudtw=="
+secured: "x9eu7q1fZ/dGxYwt+WWCyvygbnWj0cVuSORxTdvPjTyimYhy5aTHS31e0qSdHiRtgpDOlC37SeZu2Zft2VD9i9lI1+V2rXg/WQCpijaIHm5VGg9HiWjQN0aItuzjXGXYn+bmN85uQ9Fl1eVSy983G+8YtG+roafkTDyzP17NSF+pF+oyVbBhiHimvw69rgooJFhBfddWuDVvdRHrw44dWyVTN3+mCDbFjRpsl82uZwaca90+1+OVZcFQAJd4Xx/IigFxQ6N6dVdSR0MtKprLmSIkSh3WaMRfzDJUWxBuQhopDR2FWRHMRGOIqLVczrZprV6Th4xL3+lsb2BZESlsTgLH3AmIvF5TKEcrxra1i9s=;2EY9h36nq+qx8UMtzbD+XA=="
 ---
 

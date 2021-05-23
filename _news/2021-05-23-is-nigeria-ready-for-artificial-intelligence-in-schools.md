@@ -8,8 +8,8 @@ webUrl: "https://punchng.com/is-nigeria-ready-for-artificial-intelligence-in-sch
 ampWebUrl: "https://punchng.com/is-nigeria-ready-for-artificial-intelligence-in-schools/?amp"
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/is-nigeria-ready-for-artificial-intelligence-in-schools/?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.punchng.com/wp-content/uploads/2021/05/22212602/Artificial-Intelligence.jpg"
@@ -26,6 +27,6 @@ images:
     height: 330
     isCached: true
 
-secured: "AyHvlTQcT7fMBlny+j9ixEDvflDhm4WTppljcpINvSUbj9pGXqwO38GslvFxfLqC2FSusjFXSFVAzdMYlPFaea5Q/63Okl1eYBAlk1jvXt7C7DgcpZ907rYzMypYvpcywCNh6bllqz5tNWP4iWv+h44gP+8u82ipWNeuBATor8De7DHNhT7dS04tJqT8ft4PNX7u5uQ2RUhrnwoopjo6E51DB6oDVBVDxv6ngTNnLJhDr0/pOLhupIswq6RCley2UwFLT6FXBZ8ILPE2bTqrWwmCfLn+Wgn+hMrH44GyyK+BGDrNfvfd65FGj/N6bw+FRTkxP7BTxprdD6NiIud6/2JJm6duA1Lb7LLdJFN2unI=;uscO82NP8U8H1/fhgLqwmg=="
+secured: "b951Hc5+PU8d5P/Zyb6s/wcSkzZ0AXw8vZnkj6kbB2fL34vXXP3tOGQvh8aOEd6xVkOx4BSKmVcJkdmfbaX4LuNPl1w9B03xKw9ydZGuyO9ZKwbbGqhZ2tSrJOn2CCJ5fOOqWoxoiXZOb8YxLN0SNbOM9FBKo/XMoX1wVjNSGsH3CJa4+DsIQ27m8TxstLtNyke47sUDD0/c3wUv0DdOL2EkLCK/t8J0krZsQ1gqG7QXs3Rawq9GgbaWlvTtu7bc33HMdXMYdhPvOveTHkNLmEir+F+U7FO/ngRBsBOdB9iuhGfdgs/dNseNEYeUEWzeCMPcJjhNkD3IeiAF6g3XMe/K4WJbmBXnoDlFbD+NUp1VyWuLtkmxtkN4GzXCIhidpbm65Ku5KLsBydb0GaeAII0TLz6sumac/HdMxbBbdV1HMSNLIHnATiCjWTioYFljGnDHfFR7LJL3u01twCevCFFg3g6y0EOln0PDIKXRwf+/rwZZfdjLEzTGxosTRmSQBHwakPPZ0sJ/EF5Ns9cteQ==;iyWqJP7f2foTifK2I2o3fw=="
 ---
 

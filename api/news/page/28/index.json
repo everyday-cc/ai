@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-29-artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing.md",
+      "title": "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing",
+      "excerpt": "Stock quotes by finanzen.net SAN FRANCISCO, April 29, 2021 /PRNewswire/ -- Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-crushbank-the-natural-language-ai-solution-announces-strategic-development-with-comptia-on-innovative-it-assessments-and-training.md",
       "title": "CrushBank, the Natural-Language AI Solution, Announces Strategic Development with CompTIA on Innovative IT Assessments and Training",
       "excerpt": "CrushBank, developers of an artificial intelligence (AI) solution that leverages the power of IBM Watson and Natural Language Processing to provide answers used in IT support, today announced a strategic development initiative with CompTIA,",
@@ -1113,49 +1156,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-rit-researchers-using-drones-and-artificial-intelligence-to-help-assess-crop-growth.md",
-      "title": "RIT researchers using drones and artificial intelligence to help assess crop growth",
-      "excerpt": "Researchers at Rochester Institute of Technology are exploring ways to use drones and artificial intelligence to help farmers and other users assess how well fields of crops are growing. The National Science Foundation awarded Guoyu Lu,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/riot-rru_1042921.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/riot-rru_1042921.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

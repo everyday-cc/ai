@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How smart tech is revolutionizing financial investments?"
-    excerpt: "New technologies have been knocking on the door of the BFSI sector for a while now, and they are ushering in drastic changes for the average investor.Get latest Finance online at cnbctv18.com"
-    publishedDateTime: 2021-05-18T07:29:00Z
-    webUrl: "https://www.cnbctv18.com/finance/how-smart-tech-is-revolutionizing-financial-investments-9338381.htm"
-    ampWebUrl: "https://www.cnbctv18.com/finance/how-smart-tech-is-revolutionizing-financial-investments-9338381.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/finance/how-smart-tech-is-revolutionizing-financial-investments-9338381.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 24
   - title: "HyLyt joins hand with EST Global Inc, a Fintech for Seamless Data Management"
     excerpt: "HyLyt, a technology & business collaboration start-up has joined hands withEST Group represented by EST Global Inc, a Fintech global financial service provider,for data management and seamless search engine optimization service."
     publishedDateTime: 2021-05-20T08:45:00Z

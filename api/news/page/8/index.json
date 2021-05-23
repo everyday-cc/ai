@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-14-7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning.md",
+      "title": "7 best practices for implementing data-driven technologies, like AI and machine learning",
+      "excerpt": "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/ar-BB1gJRb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T07:38:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "domain": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-language-models-like-gpt-3-could-herald-a-new-type-of-search-engine.md",
       "title": "Language models like GPT-3 could herald a new type of search engine",
       "excerpt": "The way we look for information online hasn’t changed in decades. A new idea from Google researchers could make searching the web more like talking to human experts",
@@ -1185,58 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021.md",
-      "title": "Google will bring Starlink satellite connectivity to enterprises in late 2021",
-      "excerpt": "SpaceX and Google Cloud have partnered to bring satellite-powered broadband and cloud services to enterprises across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
-      "originalUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/s3.reutersmedia.net_-1-e1620916687924.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/google-will-bring-starlink-satellite-connectivity-to-enterprises-in-late-2021/amp/",
-      "publishedDateTime": "2021-05-13T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

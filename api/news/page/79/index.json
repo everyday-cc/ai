@@ -2,6 +2,48 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-03-08-ai-here-there-everywhere-but-its-just-the-beginning.md",
+      "title": "AI here, there, everywhere — but it’s just the beginning",
+      "excerpt": "Many of us already live with AI, an array of unseen algorithms that control our Internet-connected devices, from smartphones to security cameras and cars that heat the seats before you’ve even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2021/03/06/ai-technology-interactions/",
+      "originalUrl": "https://www.denverpost.com/2021/03/06/ai-technology-interactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2021/03/PERSONALIZED-AI-0.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2021/03/06/ai-technology-interactions/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/06/ai-technology-interactions/amp/",
+      "publishedDateTime": "2021-03-07T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-building-ai-for-the-global-south.md",
       "title": "Building AI for the Global South",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Harm wrought by AI tends to fall most heavily on marginalized communities. In the United States, algorithmic ...",
@@ -1072,51 +1114,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy.md",
-      "title": "AWS launches webinar for marketers looking to maximise their machine learning strategy",
-      "excerpt": "Machine Learning for CMOs: How to personalise the customer experience and drive innovation in marketing will see Mumbrella, Amazon Web Services ... at the Australian Financial Review, has worked ...",
-      "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
-      "originalUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/03/Untitled-design-1.png",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

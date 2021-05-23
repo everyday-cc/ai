@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3133929/baidu-posts-25-ri
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3133929/baidu-posts-25-rise-quarterly-revenue-it-continues-pivot-ai-and-cloud"
 type: article
 quality: 79
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Extends Post-Covid Recovery with Quarterly Sales Beat"
-    excerpt: "Baidu Inc., the Chinese search giant that’s shifting into artificial intelligence, reported quarterly revenue that beat analysts estimates, extending its recovery from the Covid-19 pandemic. Revenue climbed 25% to 28."
-    publishedDateTime: 2021-05-18T11:09:00Z
-    webUrl: "https://www.bloombergquint.com/business/baidu-extends-post-covid-recovery-with-quarterly-sales-beat"
+  - title: "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat"
+    excerpt: "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ..."
+    publishedDateTime: 2021-05-18T12:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 56
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 86
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL2Fg2mdn_Ew/v0/1200x800.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "ItNuXTctDG1X7vnZ24+WJUshmz9PDbo5/x2+pU8SYN8xS+BOiffvAUq3xdb15cq5DOlWpUGec4D9UEcMCcP2z/gB+ctmCW8VhJdUKCRQFo0wwSWInR65dDgOea8DzrQ7FeT1Xm2AwP5o8HoJ+c0HOml26x86cabXBAppDzcNaR1kGxiiit9dwPJPAKue4/5PEXI+GDwOIujinI797x6Es3kbTvHp0mpKOjMX8vgvHgoAMvAIL1nzr6700YgRxRSXus4bjpMSsIjemLcMb1zEo+hYVw+o6CVluDAXo6FT4iIUZxUOh4PeBXGm4MoOhLQUy7jmGViiBFT2lNlOPOI1S/KDxuZFmy5MMDPiAvdjAoisXRxZwR6UafES+4s0OpCSW80Yi5WQldOAVnYhNTgWGadyL15Der1HShtqn47/FMEeY4hhB7CCaN0vZY7geAkZyMghQxvAXgy9l+hwN9XgLxK3vmJAhiyHbSvk2VF9nfHVXpsjujizqYYn079ziNB8NxDliMi/gUIEWN4mdgcuSg==;cros7xGCKtU79evSZ8p+wA=="

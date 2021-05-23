@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-04-19-state-panel-studies-use-of-facial-recognition.md",
+      "title": "State panel studies use of facial recognition",
+      "excerpt": "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology has stirred debate over privacy, due process and racial bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
+      "originalUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News of Newburyport",
+        "domain": "newburyportnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-shes-taking-jeff-bezos-to-task.md",
       "title": "She’s Taking Jeff Bezos to Task",
       "excerpt": "I asked him about Amazon’s Rekognition technology and some of its shortcomings, which there’s been lots of tests of that, too. And he was dismissive about how facial recognition could be misused.",
@@ -1061,49 +1104,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-facebook-employs-ai-tech-to-combat-complex-illnesses.md",
-      "title": "Facebook Employs AI Tech To Combat Complex Illnesses",
-      "excerpt": "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Facebook-AI-pharmaceuticals-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/",
-      "publishedDateTime": "2021-04-16T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

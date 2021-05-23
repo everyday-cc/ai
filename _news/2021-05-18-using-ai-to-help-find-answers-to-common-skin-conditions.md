@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-dermatology-preview-io-2021
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/"
 type: article
 quality: 109
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Mayo Clinic, Others Use ‘AI Factories’ to Speed AI Development"
-    excerpt: "The healthcare provider and other organizations are using an assembly-line approach to artificial-intelligence development, where small teams use common software tools and procedures to speed the production of AI applications while cutting costs."
-    publishedDateTime: 2021-05-18T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/mayo-clinic-others-use-ai-factories-to-speed-ai-development-11621330202"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-339735?width=620&size=1.5"
-        width: 620
-        height: 413
         isCached: true
   - title: "Google's latest AI tool claims to identify common skin conditions"
     excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."

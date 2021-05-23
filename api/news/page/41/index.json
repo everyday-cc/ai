@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-04-20-natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203.md",
+      "title": "Natural Language Processing Market projected to reach $35.1 billion by 2026, with a remarkable CAGR of 20.3%",
+      "excerpt": "Browse and in-depth TOC on \"Natural Language Processing Market\" Download PDF Brochure @  The NLP market is expected to witness a slowdown in 2020 due to the global lockdown. The COVID-19 pandemic has increased the churn rate and shuddered almost every vertical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/268837411/natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203",
+      "originalUrl": "https://www.bignewsnetwork.com/news/268837411/natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1619149200271.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
       "title": "Baidu Stock: 3 Reasons To Stay Away",
       "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
@@ -1026,49 +1069,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-state-panel-studies-use-of-facial-recognition.md",
-      "title": "State panel studies use of facial recognition",
-      "excerpt": "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology has stirred debate over privacy, due process and racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
-      "originalUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News of Newburyport",
-        "domain": "newburyportnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

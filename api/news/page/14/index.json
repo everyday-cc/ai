@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-10-the-pentagon-inches-toward-letting-ai-control-weapons.md",
+      "title": "The Pentagon Inches Toward Letting AI Control Weapons",
+      "excerpt": "Drills involving swarms of drones raise questions about whether machines could outperform a human operator in complex scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/",
+      "originalUrl": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60956d118edc04c16a2d0461/master/pass/business_drone-swarm_187347653.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/amp",
+      "publishedDateTime": "2021-05-10T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-analyzing-the-rise-of-deepfake-voice-technology.md",
       "title": "Analyzing The Rise Of Deepfake Voice Technology",
       "excerpt": "Today, businesses are at risk of deepfake attacks, and the potential impact on their businesses could be substantial.",
@@ -1149,48 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
-      "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
-      "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://getdivvy.com/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-provider-bill-com-to-acquire-expense-management-fintech-divvy-in-2-5b-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://getdivvy.com/wp-content/uploads/2019/05/Divvy-Logo-19.png",
-          "width": 640,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -46,20 +46,6 @@ related:
         width: 1300
         height: 684
         isCached: true
-  - title: "Mayo Clinic, Others Use ‘AI Factories’ to Speed AI Development"
-    excerpt: "The healthcare provider and other organizations are using an assembly-line approach to artificial-intelligence development, where small teams use common software tools and procedures to speed the production of AI applications while cutting costs."
-    publishedDateTime: 2021-05-18T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/mayo-clinic-others-use-ai-factories-to-speed-ai-development-11621330202"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-339735?width=620&size=1.5"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Google's latest AI tool claims to identify common skin conditions"
     excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
     publishedDateTime: 2021-05-20T10:42:00Z

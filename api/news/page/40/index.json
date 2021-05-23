@@ -2,6 +2,40 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-04-20-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
+      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
+      "excerpt": "Nano Dimension Ltd., an industry leading A dditively M anufactured E lectronics/ PE provider, announced today that is has signed a definitive agreement to acquire DeepCube Ltd., a world leader in Machine Learning/ Deep Learning technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd.-2021-04",
+      "originalUrl": "https://www.nasdaq.com/press-release/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd.-2021-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates.md",
       "title": "Startup taps radio frequency data, AWS tools to search the seas for pirates",
       "excerpt": "The company developed these capabilities using Amazon Web Services' SageMaker Autopilot, a fully-managed service for building, training and deploying machine learning models. Using Autopilot ...",
@@ -1086,49 +1120,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203.md",
-      "title": "Natural Language Processing Market projected to reach $35.1 billion by 2026, with a remarkable CAGR of 20.3%",
-      "excerpt": "Browse and in-depth TOC on \"Natural Language Processing Market\" Download PDF Brochure @  The NLP market is expected to witness a slowdown in 2020 due to the global lockdown. The COVID-19 pandemic has increased the churn rate and shuddered almost every vertical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/268837411/natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203",
-      "originalUrl": "https://www.bignewsnetwork.com/news/268837411/natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1619149200271.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

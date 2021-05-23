@@ -319,21 +319,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-18-baidu-posts-25-rise-in-quarterly-revenue-as-it-continues-pivot-into-ai-and-cloud-services.md",
-      "title": "Baidu posts 25% rise in quarterly revenue as it continues pivot into AI and cloud services",
-      "excerpt": "Once part of China’s Big Tech triumvirate, BAT, Baidu is morphing its core search product into an all-purpose platform.",
+      "path": "_news/2021-05-18-baidu-extends-post-covid-recovery-with-quarterly-sales-beat.md",
+      "title": "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat",
+      "excerpt": "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3133929/baidu-posts-25-rise-quarterly-revenue-it-continues-pivot-ai-and-cloud",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3133929/baidu-posts-25-rise-quarterly-revenue-it-continues-pivot-ai-and-cloud",
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/18/6f563934-b7c3-11eb-9461-e80e43f535ad_image_hires_184002.jpg?itok=w36E8vju&v=1621334413",
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL2Fg2mdn_Ew/v0/1200x800.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -341,16 +341,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3133929/baidu-posts-25-rise-quarterly-revenue-it-continues-pivot-ai-and-cloud",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3133929/baidu-posts-25-rise-quarterly-revenue-it-continues-pivot-ai-and-cloud",
-      "publishedDateTime": "2021-05-18T04:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -367,7 +367,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
