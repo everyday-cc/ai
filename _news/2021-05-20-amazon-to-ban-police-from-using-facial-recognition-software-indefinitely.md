@@ -59,33 +59,6 @@ related:
         width: 3500
         height: 2333
         isCached: true
-  - title: "Amazon Has Extended the Moratorium on Police Use of Its Facial Recognition Software"
-    excerpt: "While a number of states and localities have taken it upon themselves to ban or restrict the use of facial recognition tech by police in recent years, no federal legislation regulating its use currently exists."
-    publishedDateTime: 2021-05-19T04:03:00Z
-    webUrl: "https://gizmodo.com/amazon-has-extended-the-moratorium-on-police-use-of-its-1846922667"
-    ampWebUrl: "https://gizmodo.com/amazon-has-extended-the-moratorium-on-police-use-of-its-1846922667/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/amazon-has-extended-the-moratorium-on-police-use-of-its-1846922667/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 83
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ea7283e5abfd3e21d7924cf7b51624ff.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Amazon extends ban on police using Rekognition facial recognition technology, no end in sight"
-    excerpt: "The existing moratorium will continue as Congress has not tackled concerns raised by the use of the technology in criminal cases."
-    publishedDateTime: 2021-05-19T03:20:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-extends-ban-on-police-using-rekognition-facial-recognition-technology-no-end-in-sight/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
   - title: "Amazon Halts Police's Use Of Facial Recognition Software: Reuters"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt."
     publishedDateTime: 2021-05-19T17:14:00Z
@@ -182,20 +155,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
-        isCached: true
-  - title: "Facial Recognition: Civil Rights Groups Score Amazon Win"
-    excerpt: "Amazon just announced plans to extend its moratorium on the sale of facial recognition to police until further notice. This announcement"
-    publishedDateTime: 2021-05-19T03:55:00Z
-    webUrl: "https://www.valuewalk.com/facial-recognition-civil-rights-groups-score-amazon-win/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 39
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
-        width: 1280
-        height: 1066
         isCached: true
   - title: "Trio of facial recognition standards are updated"
     excerpt: "An article published in the journal Standards Engineering calls out developing ASTM International standards for use in facial recognition."

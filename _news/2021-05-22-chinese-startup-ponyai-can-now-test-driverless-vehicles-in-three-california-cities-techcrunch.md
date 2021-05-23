@@ -73,6 +73,20 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Chinese startup Pony.ai approved to test driverless vehicles in California"
+    excerpt: "Chinese autonomous vehicle startup Ponyai has received a permit from California Department of Motor Vehicles DMV to test its"
+    publishedDateTime: 2021-05-23T07:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269602056/chinese-startup-ponyai-approved-to-test-driverless-vehicles-in-california"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "IcDQRDTFH2sRoIHl92+mqXk09GwLg6FDznKPrjdEz8wnr1hxL6NHedtjjF/b5BFms5caRGjKf/01dcnL8WsR8swK83wVj7bWmQpmHismRT0QHifcxTKUrs/FK79f0rpcdBE32rF4NVHrYxZSGYaYy6sx+ZAKzI9yxO+noCMvZzhMrCAbNA95SajQAMNrb6+bZwTSuT8vhZq9wuyEgCPORsE6soBjj9xaIFgxB8UZjl7QsUkpOWxvX6jKOB8wW2RRD8wDt+KnAwZ+8j1mwWcx8yGIwLjF8xWNJMua5J2olBEuBRl+/0iFEZb0fSkwyiWiDPVqSZQjzdVpQywc73WoWIVDY+6r20pwB5oBQ7bcW6YEfBzJ1DnlKa5ZuKG9wSvEA4BEgcryGqBQKKDVbnqAjh2poaHRdustJKpif7FYFoaHoK36vjBzLkeFYSRi+U2OkM4YIb6DnIbxCjPlvR1UDNZFMnRKfBB2uBszrvRGRReuUBKCoxefCfJP9HgkRV3y3CZZxDe4VpFtNUw66ShG2g==;1itw4HryObPp5nqfx1oodw=="
 ---

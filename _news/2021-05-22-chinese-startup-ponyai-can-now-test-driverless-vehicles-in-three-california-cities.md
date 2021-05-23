@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-te
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/05/gettyimages-1035331902-594x594-1.jpg?w=1280"
         width: 594
         height: 396
+        isCached: true
+  - title: "Chinese startup Pony.ai approved to test driverless vehicles in California"
+    excerpt: "Chinese autonomous vehicle startup Ponyai has received a permit from California Department of Motor Vehicles DMV to test its"
+    publishedDateTime: 2021-05-23T07:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269602056/chinese-startup-ponyai-approved-to-test-driverless-vehicles-in-california"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
     excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."

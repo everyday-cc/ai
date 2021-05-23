@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/google-io-2021-highlights/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
+    excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
+    publishedDateTime: 2021-05-19T07:43:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
+        width: 600
+        height: 390
         isCached: true
 
 secured: "Apq9ArYqnanUX1dwnhQcUzrchyD7eYFEBcXAGm0x0b+LYAnVU17NN2CUn6kmqn1NJ8ktgJM44YEyALi+LZUmch3/ExKTO468sGR7h5HWbq0qsr5+rK3XmYhfgCL1SGmt7oRqFeV+ppF2ktH/b7Ss/P0qZYOcbxZQM2i+1ybxK2uDEofwdKiKhkM6oN6lzag7g9SzO0HlyC3RUaWRcIt2kCoQaRYGXL/r4GQ1yidPXJ8nsw185RAjpr5D5GLfwDn0Cihs66/tsuivhnjPQaFnA2wDQOnf3SzFpxkh4tQNtRjjuTAplzkfxwL29PzyP10CkcDW/q+cyrjYGR5LLqGTusYGUUc2yw5Otvzq39e5SDE9ov3ID4ohyvrx2M7s4NzFORlCH4WiUqJYtejbUNOnP+VCmpVw/hQNR9PH6CSjxHVUCP/zfYLAu1xfPzq4L8Tza7WpsnRgPNb84bdPK0h5SCEiYu39YF4dTOq70jPbTIr2wBJUh8DHxx5B7I1PmW5ONiSl7xXVAJPh5Eok3G/Auw==;iPY14GVlFVik52Miq9/sPA=="

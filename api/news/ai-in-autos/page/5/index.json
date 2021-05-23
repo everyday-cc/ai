@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-27-alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid.md",
+      "title": "Alphabet’s X moonshot division wants to bring AI to the electric grid",
+      "excerpt": "Google parent Alphabet has been working on “a moonshot” for the electric grid, with a secret project in its X R&D division aiming to figure out how to make power use more stable,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/",
+      "originalUrl": "https://www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/powerlines.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alphabets-x-moonshot-division-wants-to-bring-ai-to-the-electric-grid-26670404/amp/",
+      "publishedDateTime": "2021-04-26T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-lyft-sells-self-driving-project-cutting-a-big-expense.md",
       "title": "Lyft Sells Self-Driving Project, Cutting a Big Expense",
       "excerpt": "And although Waymo, the autonomous vehicle unit owned ... Many of those jobs will be in high-tech fields like machine learning and artificial intelligence. The overall spending includes its ...",
@@ -1325,49 +1377,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
-      "title": "Baidu Stock: 3 Reasons To Stay Away",
-      "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
-      "originalUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
-      "publishedDateTime": "2021-04-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

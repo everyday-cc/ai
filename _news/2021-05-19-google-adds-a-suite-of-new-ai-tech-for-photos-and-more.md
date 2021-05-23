@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -29,51 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Search brings more AI and AR power to your fingertips"
-    excerpt: "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for"
-    publishedDateTime: 2021-05-19T03:15:00Z
-    webUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/"
-    ampWebUrl: "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/"
+  - title: "Google Photos Will Use Machine Learning to Animate Your Still Shots"
+    excerpt: "Google Photos is getting a new AI-driven feature that can take two similar pictures in your iPhone's camera roll and turn them into a"
+    publishedDateTime: 2021-05-19T08:00:00Z
+    webUrl: "https://www.macrumors.com/2021/05/19/google-photos-cinematic-moments-feature/"
+    ampWebUrl: "https://www.macrumors.com/2021/05/19/google-photos-cinematic-moments-feature/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/05/19/google-photos-cinematic-moments-feature/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/Anchor_Blog_hero_v32x.max-1000x1000-1.jpg"
-        width: 1280
-        height: 800
-        isCached: true
-  - title: "How AI and AR are transforming the assistive technology landscape"
-    excerpt: "Tonya Hall interviews the founder of Cognixion, Andreas Forsland, about how non-invasive brain-computer interfaces are making speech more accessible for people with disabilities."
-    publishedDateTime: 2021-05-20T15:16:00Z
-    webUrl: "https://www.zdnet.com/index.php/video/how-ai-and-ar-are-transforming-the-assistive-technology-landscape/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/05/20/a4daa536-5ef5-4b66-8c2b-5b23f29da2ed/thumbnail/770x578/badfc2ccd7ef5e632069a16cf4707854/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "Google announces new privacy settings, AI tools and Android 12 Beta"
-    excerpt: "Pichai and other Google executives laid out the roadmap for tools and features that will be rolled out through the year across products like Search, Lens, Photos, Maps and Shopping."
-    publishedDateTime: 2021-05-19T07:43:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/may/19/google-announces-new-privacy-settings-ai-tools-and-android-12-beta-2304607.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 59
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/23/w600X390/google_logo.jpg"
-        width: 600
-        height: 390
+      - url: "https://images.macrumors.com/t/RYmDhOODRjW9JR68ygxOKvA6Fm0=/1600x/https://images.macrumors.com/article-new/2021/05/google-photos.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "YqamEBEZdF4bLW/ch2mdu13dcYwas7NOiBkF7y0FbH8Ty1X14nNS497cAy+ZNUigsDX7XxxbkHgCo32Hve2ui+94H+TRa5yEAMpJuYs83pRIZK1oGDWqVpBc4clFQNOLozUGZOMZ0ZDjNmR0i5IVsLKQ+jsusti+xzjhS461UzPwqTTWJE7LrZCvOlk7NQcpmtd34Kha20MWX+qhr1Gqy8tx/Cs9IRZiQ+Iw7M8arB1/P0YnqSERVd/pm6GVUjdpcY2SRe+YNQCymikgkNs9m37D8Rk4ufpGOtAlI1GSaEXMbaVSgcFkY26iKzP3c4cSyI0IC8wAFsrM28JmudzIqvifdrr5v3iiaZDcaUYKn2I=;/WvueUXZ9RazvH19tDoH7Q=="

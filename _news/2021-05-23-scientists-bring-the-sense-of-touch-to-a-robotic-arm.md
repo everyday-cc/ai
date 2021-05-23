@@ -95,18 +95,18 @@ related:
         height: 710
         isCached: true
   - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-    excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ..."
-    publishedDateTime: 2021-05-20T22:16:00Z
-    webUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+    excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
+    publishedDateTime: 2021-05-20T22:52:00Z
+    webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/"
     type: article
     provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
     quality: 39
     images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg"
-        width: 800
-        height: 498
+      - url: "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mind-controlled robotic arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
@@ -161,6 +161,15 @@ related:
       name: WION
       domain: wionews.com
     quality: 20
+  - title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. U.S. researchers have published a study in the journal Science about the world's first brain-computer"
+    publishedDateTime: 2021-05-23T21:37:00Z
+    webUrl: "https://japantoday.com/category/tech/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "ZOKJMWXJc1pa2sUPz1Xcg6GOyFDBWY5WphyB0Udcbi//5FNZeJY7rpLe4BWcZTTpfwgh2nJwoNl6doGdjgzUaJwkzqv4v4tzOJn+h93sC2IrLifaoxRvAGhKhKmVAMHj83HK9t+eYOBbUUAcz/f/SDFEFNT5+LjaTnfKsrsPBr2E2eS40u0aFOCrQjc/WWB4KduAg+t8PO/a4SR/2AMqKa9K757a7hwfzfXGB7rcgiBpq6Wv12K+vwvADJcba6le00tHcAYpVkL66eRliWIaN8136cSqwh10F7wahqtzKKMPJqJvMAi6YArcH4fnJSNGhH7tZj6aG3SxCplygtpMU9Vulf0HrlAI8sbTeJhocp6V4W19qS7/jNbSV2cwoOJ5EYs4TnPZysFf6CQk5sFAc3tVMbsJkGfGU9tSLGrgSWUkbcPlZeC+Om4fdIFj2Ov5r27OYWnmW8FMaGicutwyKIluS6Yp+gXpvS7cgkLazIFxGLBy1azjaCtqKcZMt6AmSD9bVE0KmKscKJoB9p8JAg==;z5NtqqSOLXI6yuW3DCvpuA=="
 ---

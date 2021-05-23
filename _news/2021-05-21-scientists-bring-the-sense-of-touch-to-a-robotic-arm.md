@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ..."
-publishedDateTime: 2021-05-20T22:16:00Z
-originalUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
-webUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
+publishedDateTime: 2021-05-20T22:52:00Z
+originalUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/"
+webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: Houston Public Media
+  domain: houstonpublicmedia.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg"
-    width: 800
-    height: 498
+  - url: "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -161,7 +161,16 @@ related:
       name: WION
       domain: wionews.com
     quality: 20
+  - title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
+    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. U.S. researchers have published a study in the journal Science about the world's first brain-computer"
+    publishedDateTime: 2021-05-23T21:37:00Z
+    webUrl: "https://japantoday.com/category/tech/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
-secured: "Ltzwq659E/MgC5wv1FY6fZxGDSDoHo7c7m1NMkg0XtsMTRDJjhgRRH6F0DKsm21bYd/SwZfJf5QRBVrbizcSioWYGb1RUVH3KD87xertetWEX0GZNVjsVYV79yJ8QXf/4NMWAQK2A2FwgTQtSfapjq59vV6SurXeptg0IZLsTGeA59/WX2r/1m/YSHskHJDBsnM4+Prt52BxVz/S3edmmmI+NMth4HsGGhl8ClVm5JXdbflm9X5w2vYBm1+ICbOjfat8K68DKdUMNGf1kcAfScaqlO2bhvYobVi9m2hhdQEMXcijhSTy4lNiQdW/rOCRojP/OTubpau47pdzPUH8mBYURglqlJFnu6pjukoghBM=;DkStMSLGO4P+suAYmHV8gg=="
+secured: "xk3OCUk0EWhmDhUQpKhK5/srzp6vwJ81LxCJSo+ff7t8jIuZU1XWgN3qlGyz4Vru5QumK/HazexDlK6bMXCHeV0k9CkNwshy9GZLw6DJAYyB9R1B5V3jxgY/ZTsl/e2JlWfyc7xZe/asD6UCuy6bl5ktR7/GWPdCIC8ob7kit9rlxyMGq7No/KRLtzYj+6Bq51wG+T5YGc1CxpsK+bANeyTWCAHIV2hd0HM/kNlQ8Jeze03ExfFwns8iGyGwi4/e28pD6IEkuEyVmGMtsYr89AS+7xqP4z3h4pifIdpN/gQp6yL5DWudxLOp21DNh8YMCCeriBWtBp6BY5l0DbnxF/AxtjGbBAIsOIQOfPxsUyg=;Nsua72JFNI7VnR9jIcBkaw=="
 ---
 
