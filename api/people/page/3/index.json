@@ -4,357 +4,326 @@
   "page": 3,
   "value": [
     {
-      "path": "_people/daniele-bonacorsi.md",
-      "title": "Daniele Bonacorsi",
-      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
-      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
+      "path": "_people/ray-kurzweil.md",
+      "title": "Ray Kurzweil",
+      "excerpt": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ray-kurzweil/index.json",
+      "webUrl": "https://everyday.cc/ai/people/ray-kurzweil/",
       "type": "profile",
-      "name": "Daniele Bonacorsi",
-      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "twitter": {
-        "username": "DBonacorsi",
-        "url": "https://twitter.com/DBonacorsi",
-        "followers": 699
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 152089
-      },
-      "affiliation": {
-        "path": "",
-        "name": "infn.it",
-        "domain": "infn.it"
+      "name": "Ray Kurzweil",
+      "bio": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ray_Kurzweil"
       },
       "topics": [
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
       ],
-      "heat": 42,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Daniele Bonacorsi",
-          "isCached": true
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Raymond_Kurzweil_Fantastic_Voyage.jpg/440px-Raymond_Kurzweil_Fantastic_Voyage.jpg",
+          "width": 440,
+          "height": 546,
+          "title": "Ray Kurzweil",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/john-krafcik.md",
-      "title": "John Krafcik",
-      "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
+      "path": "_people/sonja-betschart.md",
+      "title": "Sonja Betschart",
+      "excerpt": "Passionate about using technology to make the world a better place and create new businesses and experiences",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sonja-betschart/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sonja-betschart/",
       "type": "profile",
-      "name": "John Krafcik",
-      "bio": "We're building the world's most experienced driver.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/i1uBCCpct5",
+      "name": "Sonja Betschart",
+      "bio": "Passionate about using technology to make the world a better place and create new businesses and experiences",
+      "location": "Geneva, Switzerland",
       "twitter": {
-        "username": "johnkrafcik",
-        "url": "https://twitter.com/johnkrafcik",
-        "followers": 16020
+        "username": "sobetschart",
+        "url": "https://twitter.com/sobetschart",
+        "followers": 405
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/johnkrafcik/"
+        "url": "https://www.linkedin.com/in/sonjabetschart/"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/722006548713771008/EVgIvepe_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sonja Betschart",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/stuart-j-russell.md",
+      "title": "Stuart J. Russell",
+      "excerpt": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/stuart-j-russell/index.json",
+      "webUrl": "https://everyday.cc/ai/people/stuart-j-russell/",
+      "type": "profile",
+      "name": "Stuart J. Russell",
+      "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
+        "citations": 92510
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "John Krafcik",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/collections/female-pioneers-in-robotics-2020.md",
-      "title": "Female Pioneers in Robotics – 2020",
-      "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/female-pioneers-in-robotics-2020/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/female-pioneers-in-robotics-2020/",
-      "type": "collection",
-      "name": "Female Pioneers in Robotics – 2020",
-      "bio": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Jean Liu",
-          "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "type": "profile",
-          "name": "Jean Liu",
-          "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 71,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Jean Liu",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Alice M. Agogino",
-          "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "type": "profile",
-          "name": "Alice M. Agogino",
-          "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 32,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-              "width": 400,
-              "height": 400,
-              "title": "Alice M. Agogino",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Noramay Cadena",
-          "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "type": "profile",
-          "name": "Noramay Cadena",
-          "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "topics": [
-            "AI"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Noramay Cadena",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Madeline Gannon",
-          "excerpt": "Inventing better ways to communicate with machines.",
-          "type": "profile",
-          "name": "Madeline Gannon",
-          "bio": "Inventing better ways to communicate with machines.",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Madeline Gannon",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 38,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alice-agogino.md",
-      "title": "Alice M. Agogino",
-      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alice-agogino/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alice-agogino/",
-      "type": "profile",
-      "name": "Alice M. Agogino",
-      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "location": "UC Berkeley",
-      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
-      "twitter": {
-        "username": "agogino",
-        "url": "https://twitter.com/agogino",
-        "followers": 1473
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Alice M. Agogino",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-d-manning.md",
-      "title": "Christopher D Manning",
-      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-d-manning/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-d-manning/",
-      "type": "profile",
-      "name": "Christopher D Manning",
-      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "location": "Palo Alto",
-      "website": "https://nlp.stanford.edu/~manning/",
-      "twitter": {
-        "username": "chrmanning",
-        "url": "https://twitter.com/chrmanning",
-        "followers": 80758
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 160095
+        "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
       },
       "affiliation": {
         "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
+        "name": "berkeley.edu",
+        "domain": "berkeley.edu"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/yoshua-bengio.md",
+      "title": "Yoshua Bengio",
+      "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yoshua-bengio/index.json",
+      "webUrl": "https://everyday.cc/ai/people/yoshua-bengio/",
+      "type": "profile",
+      "name": "Yoshua Bengio",
+      "bio": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
+      "website": "https://mila.quebec/en/yoshua-bengio/",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
+        "citations": 402736
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "mila.quebec - Homepage",
+        "domain": "mila.quebec - Homepage"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
+          "width": 105,
+          "height": 128,
+          "title": "Yoshua Bengio",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alex-smola.md",
+      "title": "Alex Smola",
+      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
+      "type": "profile",
+      "name": "Alex Smola",
+      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "location": "Palo Alto, CA",
+      "website": "http://alex.smola.org/",
+      "twitter": {
+        "username": "smolix",
+        "url": "https://twitter.com/smolix",
+        "followers": 17080
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
+        "citations": 139046
+      },
+      "affiliation": {
+        "path": "",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
             "isCached": false
           }
         ]
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
+        "AWS AI",
         "Machine Learning"
       ],
-      "heat": 20,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Christopher D Manning",
+          "title": "Alex Smola",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/rosalind-picard.md",
-      "title": "Rosalind Picard",
-      "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rosalind-picard/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rosalind-picard/",
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
+      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
       "type": "profile",
-      "name": "Rosalind Picard",
-      "bio": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "location": "Cambridge, MA",
-      "website": "http://t.co/M6c0l3S5lb",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
       "twitter": {
-        "username": "rosalindpicard",
-        "url": "https://twitter.com/rosalindpicard",
-        "followers": 11403
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 280
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 65403
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 251765
       },
       "affiliation": {
         "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
+        "name": "unican.es",
+        "domain": "unican.es"
       },
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ],
-      "heat": 20,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Rosalind Picard",
+          "title": "Francisco Matorras",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/martin-ford.md",
-      "title": "Martin Ford",
-      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
-      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
+      "path": "_people/kyle-cranmer.md",
+      "title": "Kyle Cranmer",
+      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
       "type": "profile",
-      "name": "Martin Ford",
-      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "location": "Silicon Valley, CA",
-      "website": "https://t.co/NRuuR6oILg",
+      "name": "Kyle Cranmer",
+      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "location": "New York",
+      "website": "https://t.co/OiHC3bfPoX",
       "twitter": {
-        "username": "MFordFuture",
-        "url": "https://twitter.com/MFordFuture",
-        "followers": 48014
+        "username": "KyleCranmer",
+        "url": "https://twitter.com/KyleCranmer",
+        "followers": 10534
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
+        "citations": 173226
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Kyle Cranmer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
+      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "type": "profile",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "website": "https://t.co/7skid8sUXc",
+      "twitter": {
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2511
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
       },
       "topics": [
         "AI"
       ],
-      "heat": 6,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Martin Ford",
+          "title": "Verity Harding",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/carol-e-reiley.md",
+      "title": "Carol E. Reiley",
+      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
+      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
+      "type": "profile",
+      "name": "Carol E. Reiley",
+      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "location": "Los Altos, CA",
+      "website": "https://t.co/wvvOUl1h5W",
+      "twitter": {
+        "username": "robot_MD",
+        "url": "https://twitter.com/robot_MD",
+        "followers": 11639
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 31,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Carol E. Reiley",
           "isCached": true
         }
       ],
@@ -384,7 +353,7 @@
         "Google AI",
         "Machine Learning"
       ],
-      "heat": 0,
+      "heat": 18,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
@@ -397,135 +366,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/carol-e-reiley.md",
-      "title": "Carol E. Reiley",
-      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
-      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
+      "path": "_people/john-krafcik.md",
+      "title": "John Krafcik",
+      "excerpt": "We're building the world's most experienced driver.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
       "type": "profile",
-      "name": "Carol E. Reiley",
-      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "location": "Los Altos, CA",
-      "website": "https://t.co/wvvOUl1h5W",
+      "name": "John Krafcik",
+      "bio": "We're building the world's most experienced driver.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/i1uBCCpct5",
       "twitter": {
-        "username": "robot_MD",
-        "url": "https://twitter.com/robot_MD",
-        "followers": 11639
+        "username": "johnkrafcik",
+        "url": "https://twitter.com/johnkrafcik",
+        "followers": 16019
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Carol E. Reiley",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/demis-hassabis.md",
-      "title": "Demis Hassabis",
-      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
-      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
-      "type": "profile",
-      "name": "Demis Hassabis",
-      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "website": "http://t.co/8B3TFG0hNp",
-      "twitter": {
-        "username": "demishassabis",
-        "url": "https://twitter.com/demishassabis",
-        "followers": 226025
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 54304
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Demis Hassabis",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/fei-fei-li.md",
-      "title": "Fei-Fei Li",
-      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
-      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
-      "type": "profile",
-      "name": "Fei-Fei Li",
-      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "location": "Stanford, CA, U.S.A.",
-      "website": "https://profiles.stanford.edu/fei-fei-li",
-      "twitter": {
-        "username": "drfeifei",
-        "url": "https://twitter.com/drfeifei",
-        "followers": 381711
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 128565
+        "url": "https://www.linkedin.com/in/johnkrafcik/"
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
+        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
       },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Healthcare"
+        "AI in Autos"
       ],
-      "heat": 0,
+      "heat": 18,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Fei-Fei Li",
+          "title": "John Krafcik",
           "isCached": true
         }
       ],
@@ -572,7 +444,7 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 0,
+      "heat": 3,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
@@ -585,42 +457,171 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/ilya-sutskever.md",
-      "title": "Ilya Sutskever",
-      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
+      "path": "_people/mariya-yao.md",
+      "title": "Mariya Yao",
+      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mariya-yao/index.json",
+      "webUrl": "https://everyday.cc/ai/people/mariya-yao/",
       "type": "profile",
-      "name": "Ilya Sutskever",
-      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "name": "Mariya Yao",
+      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "website": "https://mariyayao.com/",
       "twitter": {
-        "username": "ilyasut",
-        "url": "https://twitter.com/ilyasut",
-        "followers": 65221
+        "username": "thinkmariya",
+        "url": "https://twitter.com/thinkmariya",
+        "followers": 28071
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 3,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Mariya Yao",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
+      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
+      "type": "profile",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
+      "twitter": {
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 26006
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
-        "citations": 241640
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 42199
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
       },
       "affiliation": {
         "path": "",
-        "name": "openai.com",
-        "domain": "openai.com"
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
       },
       "topics": [
         "AI",
         "Machine Learning"
       ],
+      "heat": 3,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Oren Etzioni",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fei-fei-li.md",
+      "title": "Fei-Fei Li",
+      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
+      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
+      "type": "profile",
+      "name": "Fei-Fei Li",
+      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "location": "Stanford, CA, U.S.A.",
+      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "twitter": {
+        "username": "drfeifei",
+        "url": "https://twitter.com/drfeifei",
+        "followers": 381709
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+        "citations": 128565
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Healthcare"
+      ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1374354193721491463/ehNHYiyy_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Ilya Sutskever",
+          "title": "Fei-Fei Li",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/john-carmack.md",
+      "title": "John Carmack",
+      "excerpt": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-carmack/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-carmack/",
+      "type": "profile",
+      "name": "John Carmack",
+      "bio": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
+      "location": "Dallas, TX",
+      "website": "https://t.co/c0ndp2bkKs",
+      "twitter": {
+        "username": "ID_AA_Carmack",
+        "url": "https://twitter.com/ID_AA_Carmack",
+        "followers": 915851
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Facebook",
+        "domain": "facebook.com"
+      },
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1106497789/aa_icon_option_2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "John Carmack",
           "isCached": true
         }
       ],
@@ -640,7 +641,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1541424
+        "followers": 1541443
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -675,178 +676,131 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/madeline-gannon.md",
-      "title": "Madeline Gannon",
-      "excerpt": "Inventing better ways to communicate with machines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
-      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
+      "path": "_people/martin-ford.md",
+      "title": "Martin Ford",
+      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
       "type": "profile",
-      "name": "Madeline Gannon",
-      "bio": "Inventing better ways to communicate with machines.",
-      "location": "Pittsburgh, PA",
-      "website": "https://t.co/It4puKUIPF",
+      "name": "Martin Ford",
+      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "location": "Silicon Valley, CA",
+      "website": "https://t.co/NRuuR6oILg",
       "twitter": {
-        "username": "madelinegannon",
-        "url": "https://twitter.com/madelinegannon",
-        "followers": 3109
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Madeline Gannon",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/mariya-yao.md",
-      "title": "Mariya Yao",
-      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mariya-yao/index.json",
-      "webUrl": "https://everyday.cc/ai/people/mariya-yao/",
-      "type": "profile",
-      "name": "Mariya Yao",
-      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
-      "website": "https://mariyayao.com/",
-      "twitter": {
-        "username": "thinkmariya",
-        "url": "https://twitter.com/thinkmariya",
-        "followers": 28071
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Mariya Yao",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/nando-de-freitas.md",
-      "title": "Nando de Freitas",
-      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nando-de-freitas/index.json",
-      "webUrl": "https://everyday.cc/ai/people/nando-de-freitas/",
-      "type": "profile",
-      "name": "Nando de Freitas",
-      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "location": "London, England",
-      "website": "https://t.co/uy8OBWPHze",
-      "twitter": {
-        "username": "NandoDF",
-        "url": "https://twitter.com/NandoDF",
-        "followers": 83980
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
-        "citations": 42864
-      },
-      "affiliation": {
-        "path": "",
-        "name": "google.com - Homepage",
-        "domain": "google.com - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nando de Freitas",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
-      "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
-      "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17476
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Noramay Cadena",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/oren-etzioni.md",
-      "title": "Oren Etzioni",
-      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
-      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
-      "type": "profile",
-      "name": "Oren Etzioni",
-      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "location": "Seattle",
-      "website": "https://allenai.org/team/orene/",
-      "twitter": {
-        "username": "etzioni",
-        "url": "https://twitter.com/etzioni",
-        "followers": 26007
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 42199
+        "username": "MFordFuture",
+        "url": "https://twitter.com/MFordFuture",
+        "followers": 48014
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Allen Institute for AI (AI2)",
-        "domain": "allenai.org"
+        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
       },
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Oren Etzioni",
+          "title": "Martin Ford",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 14121
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 38417
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
+      "type": "profile",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
+      "twitter": {
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 23767
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/kaliouby/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rana el Kaliouby",
           "isCached": true
         }
       ],
@@ -866,7 +820,7 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 22373
+        "followers": 22374
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
@@ -913,7 +867,7 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77047
+        "followers": 77049
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
@@ -971,7 +925,7 @@
       "twitter": {
         "username": "sougwen",
         "url": "https://twitter.com/sougwen",
-        "followers": 8960
+        "followers": 8959
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/sougwenchung/"
@@ -990,48 +944,6 @@
           "width": 400,
           "height": 400,
           "title": "Sougwen Chung",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/soumith-chintala.md",
-      "title": "Soumith Chintala",
-      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
-      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
-      "type": "profile",
-      "name": "Soumith Chintala",
-      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "location": "New York, NY",
-      "website": "https://soumith.ch/",
-      "twitter": {
-        "username": "soumithchintala",
-        "url": "https://twitter.com/soumithchintala",
-        "followers": 88220
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/soumith"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Facebook",
-        "domain": "facebook.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "PyTorch"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Soumith Chintala",
           "isCached": true
         }
       ],
@@ -1087,7 +999,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 246778
+        "followers": 246777
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
@@ -1135,7 +1047,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 316,
+          "heat": 263,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",

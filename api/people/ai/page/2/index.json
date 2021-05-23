@@ -4,6 +4,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/alice-agogino.md",
+      "title": "Alice M. Agogino",
+      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alice-agogino/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alice-agogino/",
+      "type": "profile",
+      "name": "Alice M. Agogino",
+      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+      "location": "UC Berkeley",
+      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
+      "twitter": {
+        "username": "agogino",
+        "url": "https://twitter.com/agogino",
+        "followers": 1473
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Alice M. Agogino",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/andrew-zisserman.md",
+      "title": "Andrew Zisserman",
+      "excerpt": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-zisserman/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrew-zisserman/",
+      "type": "profile",
+      "name": "Andrew Zisserman",
+      "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
+        "citations": 255342
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "University of Oxford",
+        "domain": "ox.ac.uk"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Andrew Zisserman",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/anil-k-jain.md",
+      "title": "Anil K. Jain",
+      "excerpt": "Michigan State University",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/anil-k-jain/index.json",
+      "webUrl": "https://everyday.cc/ai/people/anil-k-jain/",
+      "type": "profile",
+      "name": "Anil K. Jain",
+      "bio": "Michigan State University",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
+        "citations": 224312
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=g-_ZXGsAAAAJ&citpid=1",
+          "width": 128,
+          "height": 121,
+          "title": "Anil K. Jain",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/chuen-tsai-sun.md",
       "title": "Chuen-Tsai Sun",
       "excerpt": "Professor of Computer Science, National Chiao Tung University",
@@ -202,39 +306,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/francisco-matorras.md",
-      "title": "Francisco Matorras",
-      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
-      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
+      "path": "_people/jack-clark.md",
+      "title": "Jack Clark",
+      "excerpt": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jack-clark/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jack-clark/",
       "type": "profile",
-      "name": "Francisco Matorras",
-      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "name": "Jack Clark",
+      "bio": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
+      "location": "San Francisco, CA",
+      "website": "https://jack-clark.net/",
       "twitter": {
-        "username": "fmatorras",
-        "url": "https://twitter.com/fmatorras",
-        "followers": 280
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 251765
-      },
-      "affiliation": {
-        "path": "",
-        "name": "unican.es",
-        "domain": "unican.es"
+        "username": "jackclarksf",
+        "url": "https://twitter.com/jackclarksf",
+        "followers": 42824
       },
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Francisco Matorras",
+          "title": "Jack Clark",
           "isCached": true
         }
       ],
@@ -353,6 +449,44 @@
           "width": 400,
           "height": 400,
           "title": "Javier M. Duarte",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jean-liu.md",
+      "title": "Jean Liu",
+      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
+      "type": "profile",
+      "name": "Jean Liu",
+      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "location": "Beijing, China",
+      "twitter": {
+        "username": "jeanliuqing",
+        "url": "https://twitter.com/jeanliuqing",
+        "followers": 1191
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/u/2209030102",
+        "followers": 1906714
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
           "isCached": true
         }
       ],
@@ -969,150 +1103,6 @@
           "height": 250,
           "title": "Nick Bostrom",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ray-kurzweil.md",
-      "title": "Ray Kurzweil",
-      "excerpt": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ray-kurzweil/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ray-kurzweil/",
-      "type": "profile",
-      "name": "Ray Kurzweil",
-      "bio": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ray_Kurzweil"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Raymond_Kurzweil_Fantastic_Voyage.jpg/440px-Raymond_Kurzweil_Fantastic_Voyage.jpg",
-          "width": 440,
-          "height": 546,
-          "title": "Ray Kurzweil",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/stuart-j-russell.md",
-      "title": "Stuart J. Russell",
-      "excerpt": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/stuart-j-russell/index.json",
-      "webUrl": "https://everyday.cc/ai/people/stuart-j-russell/",
-      "type": "profile",
-      "name": "Stuart J. Russell",
-      "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 92510
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/yoshua-bengio.md",
-      "title": "Yoshua Bengio",
-      "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yoshua-bengio/index.json",
-      "webUrl": "https://everyday.cc/ai/people/yoshua-bengio/",
-      "type": "profile",
-      "name": "Yoshua Bengio",
-      "bio": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-      "website": "https://mila.quebec/en/yoshua-bengio/",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 402736
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "mila.quebec - Homepage",
-        "domain": "mila.quebec - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Deep Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
-          "width": 105,
-          "height": 128,
-          "title": "Yoshua Bengio",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alex-smola.md",
-      "title": "Alex Smola",
-      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
-      "type": "profile",
-      "name": "Alex Smola",
-      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "location": "Palo Alto, CA",
-      "website": "http://alex.smola.org/",
-      "twitter": {
-        "username": "smolix",
-        "url": "https://twitter.com/smolix",
-        "followers": 17081
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 139046
-      },
-      "affiliation": {
-        "path": "",
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alex Smola",
-          "isCached": true
         }
       ],
       "content": "\r\n"
