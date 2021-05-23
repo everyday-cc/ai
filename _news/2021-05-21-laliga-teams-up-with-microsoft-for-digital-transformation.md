@@ -110,15 +110,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Armorblox Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Armorblox, a cybersecurity innovator that helps organizations communicate more securely over email, today announced the availability of Armorblox Email Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2021-05-18T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/armorblox-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 49
   - title: "La Liga, Microsoft team for digital transformation"
     excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
     publishedDateTime: 2021-05-19T23:01:00Z

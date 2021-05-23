@@ -1,30 +1,30 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+excerpt: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut"
 publishedDateTime: 2021-05-21T12:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks/article_c8645ae2-6d2b-50b3-afb3-89334752be23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks/article_c8645ae2-6d2b-50b3-afb3-89334752be23.html"
+originalUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
+webUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/6c/f6cb6f2b-798e-574b-9779-470a1bc0c157/60a7ab7c76e7e.image.jpg?resize=881%2C630"
-    width: 881
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook"
+    width: 1304
+    height: 683
     isCached: true
 
-secured: "kmvDMuvx88/mDN2n8Y69jWdHNNW6Ud2zZ8CXcnUBup4ByIg0exTDLESznt4hIyhhCa+S+UYmI/Ky5z88x5dFImMXB18SS1bCgUYIoxa3BEoIlD9m7oZN81kmrg0o6o82dndyFuaCcWHsvApKGAr72CdcK19nsA4bOhvb5IQ8H0JKMLLbyDACLiJFkJ45UFaNjJLzDpSgPXMEebGp2BhCfA56WUhHrXhQKnCp8uSVqYjrlBQm1IjtmCI/VqkmwffVOcMh8D+UfjHQdfRlmNjFt4ZITuE5EhCgL8JUNR4jIUulX4R/efyhHqmjewl6CIVLXQaPFYedObytNh7AcsJ207QifflktrBltYvVsKu4NpU=;HX7sIuwf6JC9QZflZw4OQg=="
+secured: "PSJ9nI7a3NfTv5LdPFVArrVjm5WRfGVBnVqNyZ9U2+bsrubUCZaazqFHYH3zwjCWgj3XV0cKySJmbvxsdvM4RO5f9thT2PQpCDoxhnlUGT6Ctvn8CrlDVw1JgMtwl2kRzKIYIgC+4vsrwRQ8PKQZJpBaXZTrwkM4Nb+bCnTaEAqEJ2ra5+AygS+j+E12PeYhtTrT5mVdgVbgYU5/461erXeqWvMePrRCAd2ZeRi50de4l5niwGmoq0D2zrIzKrUFnkT7i90ctIUtHyWa2MmCUAwA2Fr2qW3fraBOMgwD4unJtVBbK5MUnbyhZBdlITj4dG6nZqsfRqxVjRV7+fIR8+M7eQBiSGGB+NwOW5QoezU=;GdimXFKCG9u2YakLsEbIUQ=="
 ---
 

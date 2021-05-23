@@ -25,22 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D"
-    excerpt: "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,"
-    publishedDateTime: 2021-05-18T12:17:00Z
-    webUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/"
-    ampWebUrl: "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/"
+  - title: "Mapping and logistics startup NextBillion raises $6.25M"
+    excerpt: "NextBillion, a geospatial data startup that provides software-as-a-service products for enterprises, today announced that it raised $6.25 million from M12, Microsoft’s Venture Fund. M12’s investment extends NextBillion’s 2020 $7 million series A funding from Lightspeed and FalconEdge,"
+    publishedDateTime: 2021-05-21T13:55:00Z
+    webUrl: "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/"
+    ampWebUrl: "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024"
-        width: 1024
-        height: 681
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/nextbillion-founder.jpeg?w=1200&strip=all"
+        width: 1199
+        height: 674
         isCached: true
+  - title: "NextBillion.ai Raises $6.25 Mn In Series A Round From M12"
+    excerpt: "The investment from Microsoft’s venture fund M12, claims to elevate the startup’s access to global markets and ... Founded in February 2020, NextBillion.ai helps large enterprises build, scale and manage their own spatial data ecosystem at scale."
+    publishedDateTime: 2021-05-21T09:52:00Z
+    webUrl: "https://www.entrepreneur.com/article/372572"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/372572"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372572"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1621589931-chris-liverani-dBI-My696Rk-unsplash2.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Singaporean AI mapping startup secures $6.25m from Microsoft’s venture fund"
+    excerpt: "NextBillion co-founder Ajay Bulusu said the investment will help the company scale and expand to markets such as North America."
+    publishedDateTime: 2021-05-20T14:01:00Z
+    webUrl: "https://www.techinasia.com/singaporean-ai-mapping-startup-nextbillion-secures-625m-microsofts-m12-venture-fund"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 62
 
 secured: "KmSCrZZPUQOuXL6t+SIoSstC7AAAXzQcFRO9ur7UirkNXUm6UEVutPrSol3AIfa+biLGbR/AejfqmVH1v50KaOwOxjW9WM37eqb+881peZW580qYVEE1zlCJUgMqfmX2QzVMhL8D0Injo6sT8k3v3nPRJbi3GEvhyBeXEmZtEKvmvnRqyCBMZ1w4XGoBJGS7+gYd4zygaKAOzWhrv3Vb/OlE9e+PYug99fGYluxWDMeel0kJzJgT2zv6pUjAvoLi9ZVBO1yIe5iUC4Gi+XNRR8iiRnRwoyV8coPM0MXEKonMuFpz43Q60lVhKG1chBovjO4ir3LgSC429KU7HT2VjMpNE8dMkGWftyeN5eI01UI=;EGrOAZzYnxbMJBO/s/YFnw=="
 ---

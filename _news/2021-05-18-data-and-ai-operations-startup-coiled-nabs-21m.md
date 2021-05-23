@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/data-and-ai-operations-startup-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-and-ai-operations-startup-coiled-nabs-21m/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Ascend.io Named a 2021 Gartner Cool Vendor in Enterprise AI Operationalization and Engineering"
-    excerpt: "Ascend.io, the data engineering company, today announced it has been named a 2021 Gartner Cool Vendor in the “Cool Vendors in Enterprise AI Operationalization and Engineering” 1 report. The cloud-native Ascend Unified Data Engineering Platform significantly accelerates the speed at which data teams can build and operationalize data pipelines across distributed data ecosystems."
-    publishedDateTime: 2021-05-18T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/ascend-io-named-a-2021-gartner-cool-vendor-in-enterprise-ai-operationalization-and-engineering/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 7
 
 secured: "axw/R/s4RiIgeOHIUp8Oh7Fc67B9JC8JrAhmmK1jw5VcByuKg3RzvJNn1JpCeXkr7UaZ65PRjMW3xxki2uUMGuF+MMzCXcu5VcIAoAH8eE90eQCqP9Q3mwNMogu+rc3rn/xlR8dbZoyEoTyJW1p1WsE9CqxhHG9j815S64Hebp3bPnVJt2dYtQG2175ojGyEG2uS11ElsST/11GTnhGLgaNKMdHGsCr0BcYhFMYqKOYOZWQcHzNOx2+aOhJ7FD4qZ/BsZZbY40sJzWukq+YBiMWlbteqRG8mr5Pwga1ec8o8lVFJAdwiVrR9Leo70sSxOmjBaGCYP4inU6ZbbpAkuAZsoxk2ltI8CIpQd7ARJF4oexJHmr+HDVai0zUGwFGygibNP7w9z55dllTxhcl3yF/Pbdk+VXpFEjFvOEUyyBjbx5TcHtTk5FrUBx4cRexeBqpGVsJZ0J8sB+ORgOlQSHDLuwtucpch8vnFJ7P2aRgXwpfiTEzg6brRdpo6mgIQeN8+FbBFv3c8P/fk3KoL2A==;NQ9ziXnH4QQJTUeN5SECSA=="
 ---

@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Deep Learning Market size is expected to grow at an annual average of 38 during 2021 2027 Deep learning is a subfield of machine learning that entails a series of computer instructions or algorithms inspired by the functions and"
+    publishedDateTime: 2021-05-20T11:21:00Z
+    webUrl: "https://www.openpr.com/news/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "Asia-Pacific Text to speech Market Size, Share, Impressive Industry Growth Report 2027"
     excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 Significant raise in the funding for text to speech technology providing start ups to unleash the"
     publishedDateTime: 2021-05-21T21:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nex
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 62
+  - title: "NextBillion.ai Adds $6.25M to its Series A from M12, Microsoft’s Venture Fund"
+    excerpt: "Microsoft's M12 investment extends last year’s $7 million Series A funding round from Lightspeed and Falcon Edge Capital to a total $13.25M in investment."
+    publishedDateTime: 2021-05-21T14:19:00Z
+    webUrl: "https://www.dcvelocity.com/articles/50912-nextbillion-ai-adds-6-25m-to-its-series-a-from-m12-microsoft-s-venture-fund"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 51
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/ee7c737d-a4b8-4640-87c7-ba638314bf08.jpg?crop=true&height=430&t=1621458254&width=640"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "99PK6A60ec8Hfuz/ggzNgY3LD7DbpgwmxQpgOAKK/jUDzDSquU0SGhLZ5vfobW0NSF5VnsmrnX4NqeT3toxb1rpUWjdmVBlzuw+1aRYf3VMWJxT+EfL1wvM5vbPOzWEyjWTrZbgp1C6vVRRv4D5T355QOrUFV1GonrZb3MH7AnUQcPJHOyQ4ARZXynWRBn5p8K4tjSiCAnqIWke2b/TAFgAXhZjQSuv3hlcOOU3WVaAopVYi4KenEtFkZQjapr/0fzeTPwb2EkTbG7cDKkg+9JXEOZRuIY9wMCZIZpNtrSamVTAP/9XCMcRQabdeCrj15ydoRd8p4yot04HaP4NgWY53BRjBmF60mslufiAHazo=;/vo2kJV/ufI4GTB8sbkVbw=="
 ---

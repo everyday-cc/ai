@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
+    publishedDateTime: 2021-05-20T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Food and Beverages Market By New Business Developments, Innovations, And Top Companies – Forecast To 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over"
     publishedDateTime: 2021-05-19T05:16:00Z

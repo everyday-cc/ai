@@ -55,6 +55,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 62
+  - title: "NextBillion.ai Adds $6.25M to its Series A from M12, Microsoft’s Venture Fund"
+    excerpt: "Microsoft's M12 investment extends last year’s $7 million Series A funding round from Lightspeed and Falcon Edge Capital to a total $13.25M in investment."
+    publishedDateTime: 2021-05-21T14:19:00Z
+    webUrl: "https://www.dcvelocity.com/articles/50912-nextbillion-ai-adds-6-25m-to-its-series-a-from-m12-microsoft-s-venture-fund"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 51
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/ee7c737d-a4b8-4640-87c7-ba638314bf08.jpg?crop=true&height=430&t=1621458254&width=640"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "wtEFcKFUkepUsog7OZm0ZWghi1VY4wFPKIriWbWAGLLf12eCApFZxf/zDlgAMAchRKQ12fycjttxO14j2g1kC0/4yB6C8EpY/u+EEk4wvzRCluHcirvEPKx7fl2h/Y7RPnVpGLOPIqvNABGzimp68oeE7WKjmsX0UISg/QukO083TiX+Qu0JpMgEnLVs1kO51M1ahgQ4PNYJ5AC9nGhxWTmG4DhYpHxAvlqlmc1kkHDdxR1XQ7pqZrUYlWt/8VzGfCaqkllCmBg3DtssoRR/aelmXqfF1jiZBAm2QjvsMnVEHKOMSYbSK5/BoK0IfoJYIn0Fm3hPdTj/Z6sq43sQawQNxISlFU4mIZx+1vfQJLA=;4CKIyMofjIJg3cQSlNsjeg=="
 ---

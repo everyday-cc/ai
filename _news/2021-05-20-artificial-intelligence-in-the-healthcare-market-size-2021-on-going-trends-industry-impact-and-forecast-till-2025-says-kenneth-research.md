@@ -29,57 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Outlook 2021: Big Things are Happening"
-    excerpt: "HTF Market Intelligence released a new research Study of 50 pages on title Artificial Intelligence AI in Healthcare Market in India 2021 2026 with in depth analysis forecast and business moves The market Study is segmented by key a region"
-    publishedDateTime: 2021-05-18T11:57:00Z
-    webUrl: "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
+  - title: "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-05-21T10:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 80
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://cdn.openpr.com/U/5/U518860946_g.jpg"
-        width: 800
-        height: 332
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
-    excerpt: "The global market for AI in healthcare is projected to have a CAGR of around 51 5 during the forecast period AI is the technology that combines the power of machine learning and deep learning technology used by many sectors"
-    publishedDateTime: 2021-05-18T11:07:00Z
-    webUrl: "https://www.openpr.com/news/2285938/artificial-intelligence-ai-in-healthcare-market-trends-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2285938/artificial-intelligence-ai-in-healthcare-market-trends-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285938/artificial-intelligence-ai-in-healthcare-market-trends-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-  - title: "Deep Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Deep Learning Market size is expected to grow at an annual average of 38 during 2021 2027 Deep learning is a subfield of machine learning that entails a series of computer instructions or algorithms inspired by the functions and"
-    publishedDateTime: 2021-05-20T11:21:00Z
-    webUrl: "https://www.openpr.com/news/2287419/deep-learning-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-  - title: "Artificial Intelligence in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2028 | FMI Report with Expert Review"
-    excerpt: "Future Market Insights (FMI) adopted a multidisciplinary approach during the pandemic-era to focus on the growth and development of the Artificial Intelligence in Healthcare Market. The study features insights on the current growth dynamics and the major revenue reforms prevailing in the market"
-    publishedDateTime: 2021-05-21T09:30:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-05-21/artificial-intelligence-in-healthcare-market-trends-2021-segmentation-outlook-industry-report-to"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 21
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 448
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2021-2027"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2021-05-20T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2021-2027-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Food and Beverages Market By New Business Developments, Innovations, And Top Companies – Forecast To 2027"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over"
+    publishedDateTime: 2021-05-19T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-by-new-business-developments-innovations-and-top-companies-forecast-to-2027-2021-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "kSSR73aTB+6+jjuEq/GqnxtBScurn3kq93pxk2+LSjWUSSrdsN/HZHRAdGsneorDPad4EP77jXdsWhxGLloe59TlJpViCpGAu4SwDn8Irmh2BCUZB/NE4fuhW5gYRCx0z28G4IdqaEKJFqhQVt/k/fCURmF+BMMiqL33EeBNOllinBwav136AFfKHekcAg7HGRr10QiDCj8qtwcjpzFH+tjX3xaqaN9hf4xjrkb1oNq2DsPMN7wLa0TidbhbPACuWhzgl6Wl1syAwh7G3IxHr3wRiijkLRzbXxycOnKdhHennqXZyXdsg/F/CxTTzn8EjraDBUXMYlZW2npr8RUFILGsU+WMQeXUoLfds7CZCoc=;V6NOMcxmb0dM8L9d3KRWsg=="

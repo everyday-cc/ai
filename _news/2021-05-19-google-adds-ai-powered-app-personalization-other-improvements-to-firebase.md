@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-person
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "ModelOp Named in the \"Where Are They Now\" Section of Gartner's \"Cool Vendors in Enterprise AI Operationalization and Engineering 2021\" Report"
-    excerpt: "ModelOp, the pioneer of ModelOps software for enterprises, has been named in the \"Where are They Now?\" section of Gartner \"Cool Vendors in AI"
-    publishedDateTime: 2021-05-18T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modelop-named-in-the-where-are-they-now-section-of-gartners-cool-vendors-in-enterprise/article_b7e363d5-03aa-5c5f-9f7b-6f6cd4a13086.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "wclzx7Rtu2APGjntFxuxVVGhVeLv43N/n6YuQvysXC9fG6Kg0etHTvOUQmcKyAUiebamsIUN/ADhYb2NDLppQYZn88W9TKJ94wJ+ez9iKrR93eTItiqn1Vm/Nybdp+5jAtZIES/44StCpOkIS7ErDLth8joDj+w0uaZE0mUaRDj7eIDpI73IYWHyuaZblh0MtS+eYcjfMBOQqrNMGhl4FoA44v+DmvqxZkK0nx5c29+yx8pI3wALr8DQ/M8ki2kOPxP0rFGeKF9MfzMWycqun5nRrbzdu/RlGCgCdBmRxbnAxI5UOiC8jwEqj81a56Pq1E8/Fn6/EdjhZHFszdbvOSKH6t9zW8ddix440PCzWcGT+yGNv20gBNmRuKlmfkV3mDsy/6i3J3s780j44xiONp8zWMkfxMiKLN2boQ+BGbAuH7tMB9llteNsT/szP6vea/ck5B0qX0ClzFXn2GgmDaQXSJXhKZHMqwDHp2ps+1veUyZYnJG9K3aWpTWlrvmdbvhs+yLQFB+NJOwxFwTTaQ==;ja2tA7nCaRWHIDc3875Bgw=="
 ---

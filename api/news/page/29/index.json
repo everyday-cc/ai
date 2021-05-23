@@ -2,6 +2,111 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-04-29-facial-recognition-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth.md",
+      "title": "Facial Recognition Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth",
+      "excerpt": "The global facial recognition market growth in the forecast period is premised on the rising incidents of identity",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
+      "title": "UK prepares to conditionally legalize self-driving cars",
+      "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
+      "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
+      "publishedDateTime": "2021-04-28T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-rit-researchers-using-drones-and-artificial-intelligence-to-help-assess-crop-growth.md",
       "title": "RIT researchers using drones and artificial intelligence to help assess crop growth",
       "excerpt": "Researchers at Rochester Institute of Technology are exploring ways to use drones and artificial intelligence to help farmers and other users assess how well fields of crops are growing. The National Science Foundation awarded Guoyu Lu,",
@@ -1096,101 +1201,6 @@
         "AI",
         "AI in Robotics",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-sending-different-data-to-particular-clients-with-tfffederated_select.md",
-      "title": "Sending Different Data To Particular Clients With tff.federated_select",
-      "excerpt": "This tutorial demonstrates how to implement custom federated algorithms in TFF that require sending different data to different clients. You may already be familiar with tff.federated_broadcast which sends a single server-placed value to all clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_select?hl=ro",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_select?hl=ro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-digest-this-self-learning-ai-software-lets-robots-do-tasks-autonomously.md",
-      "title": "digest | This self-learning AI software lets robots do tasks autonomously",
-      "excerpt": "This robot responds to smart AI software that enables the robot to complete physical tasks by trial + error. It’s called autonomous learning — meaning BRETT can approach a new environment, with objects he’s never seen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kurzweilai.net/digest-this-self-learning-ai-software-lets-robots-do-tasks-autonomously",
-      "originalUrl": "https://www.kurzweilai.net/digest-this-self-learning-ai-software-lets-robots-do-tasks-autonomously",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kurzweilai.net/images/photo-robot-+-hands-no.-2.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KurzweilAI",
-        "domain": "kurzweilai.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

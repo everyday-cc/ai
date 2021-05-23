@@ -41,6 +41,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Vertex AI unifies cloud machine learning toolkit"
+    excerpt: "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API."
+    publishedDateTime: 2021-05-19T08:17:00Z
+    webUrl: "https://www.reseller.co.nz/article/688489/google-vertex-ai-unifies-cloud-machine-learning-toolkit/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/google_cloud_dreamstime_4.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Google Cloud Launches Vertex AI, Making Machine Learning More Accessible and Useful For Developers and Businesses"
+    excerpt: "Today at Google I/O, Google Cloud announced the general availability of Vertex AI, a managed machine learning (ML) platform that allows companies to accelerate the deployment and maintenance of artificial intelligence (AI) models."
+    publishedDateTime: 2021-05-18T19:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-science-technology-e1356b4631c275771b1dd791e8adb9cf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "GKC52Hj/EvcFa/QMTo0ybg0FVJ/i7Q79wea70CXC5aAQqOfoFgZash5j587WALhPKyDfHDtJhimWkCKyXPbLQkna/jFZvSZShaCQxXB/Bm/ItxovpFVBmQsNAbCZJDY1s5EmkPeKVQWyyEu9jQp2KNUNK21aUMj7w9ZdigT9QWvBxQE0fZkOfCt7QBZu60KbJfdVV0kA5jqr+KXVw+xuX+97rgYO9U02E2afLHj+HfaxoSXo+iLSYmqF8maRnjpWfx8c2B2e0s43fZ8lSkhVD9BCRHupRgrWSU2bVvk7iv57BV70uvHzlIwJRIwy7B5ikZssjlkvUIhRgQuomP4R0y1QruSPrV/Hd3pNVuXNZHo=;DfzPKzlAgECV02bmF4FUWA=="
 ---

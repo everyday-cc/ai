@@ -21,61 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Outlook 2021: Big Things are Happening"
-    excerpt: "HTF Market Intelligence released a new research Study of 50 pages on title Artificial Intelligence AI in Healthcare Market in India 2021 2026 with in depth analysis forecast and business moves The market Study is segmented by key a region"
-    publishedDateTime: 2021-05-18T11:57:00Z
-    webUrl: "https://www.openpr.com/news/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285944/artificial-intelligence-ai-in-healthcare-market-outlook"
+  - title: "Deep Learning Market 2021-26: Key Players, Size, Share and Industry Trends - IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global deep learning market exhibited robust growth during 2015-2020."
+    publishedDateTime: 2021-05-22T02:59:00Z
+    webUrl: "https://menafn.com/1102113592/Deep-Learning-Market-2021-26-Key-Players-Size-Share-and-Industry-Trends-IMARC-Group"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Asia-Pacific Text to speech Market Size, Share, Impressive Industry Growth Report 2027"
+    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 Significant raise in the funding for text to speech technology providing start ups to unleash the"
+    publishedDateTime: 2021-05-21T21:50:00Z
+    webUrl: "https://www.openpr.com/news/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
+    ampWebUrl: "https://www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 80
-    images:
-      - url: "https://cdn.openpr.com/U/5/U518860946_g.jpg"
-        width: 800
-        height: 332
-        isCached: true
-  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
-    publishedDateTime: 2021-05-20T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
-    excerpt: "The global market for AI in healthcare is projected to have a CAGR of around 51 5 during the forecast period AI is the technology that combines the power of machine learning and deep learning technology used by many sectors"
-    publishedDateTime: 2021-05-18T11:07:00Z
-    webUrl: "https://www.openpr.com/news/2285938/artificial-intelligence-ai-in-healthcare-market-trends-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2285938/artificial-intelligence-ai-in-healthcare-market-trends-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2285938/artificial-intelligence-ai-in-healthcare-market-trends-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-  - title: "Artificial Intelligence in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2028 | FMI Report with Expert Review"
-    excerpt: "Future Market Insights (FMI) adopted a multidisciplinary approach during the pandemic-era to focus on the growth and development of the Artificial Intelligence in Healthcare Market. The study features insights on the current growth dynamics and the major revenue reforms prevailing in the market"
-    publishedDateTime: 2021-05-21T09:30:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-05-21/artificial-intelligence-in-healthcare-market-trends-2021-segmentation-outlook-industry-report-to"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 21
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
+    quality: 16
 
 secured: "JnI39nBFdianavvrq5DEB/OysEJ6kojLAHlFy741kKNZhu5K23gR8YUZdlJXbbuZ2t62kC+rWWGsT1teEiW+0oPKozmq2iPWVzXSqaudrEuCsmyvNNPCUiq2DCYaYn9ejYOQBAxCiUJyp46Aefp71UYgA0aP1fXnNumwAvz4oDnwKurq0ggyMAL9Isyk/GJ3htQ91BGvZQVM3Eh3EoHztSHOAXPSfhr1sFE0pwa09l2c3uMyavEYLAUtAk1Na2Dz3vrdFJpxVj+RudjPRPnCDLmhRUjLtPdVF18XaDqxzuzV7H3sQlzGsfiRI+oY985bQCu6hLWGmKfkerTjipFdmf8FDELuE3ZgR319O3L6FV4=;9JOIAVqXSIswu8oRnzAQfA=="
 ---

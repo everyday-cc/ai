@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/developers/io21-helpful-google/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/"
 type: article
 quality: 94
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 419
         height: 835
         isCached: true
-  - title: "Google I/O 2021: The Vertex AI platform connects ML tools"
-    excerpt: "With its new managed machine learning platform, Google promises to make up for the shortcomings of ML tools on the market"
-    publishedDateTime: 2021-05-18T12:45:00Z
-    webUrl: "https://www.zdnet.com/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-vertex-ai-a-platform-to-connect-ml-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
   - title: "All The Latest ML Developments Announced At Google I/O"
     excerpt: "Know Your Data is Google’s new web-based data set exploration tool that helps developers understand rich data sets. Five years ago, Google launched the open-source platform TensorFlow to accelerate machine learning research and empower developers to ..."
     publishedDateTime: 2021-05-21T13:30:00Z

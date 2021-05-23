@@ -42,22 +42,6 @@ related:
         width: 630
         height: 450
         isCached: true
-  - title: "Facial Recognition Unmasked: How Companies Can Ensure An Ethical Implementation"
-    excerpt: "A carefully developed facial recognition strategy could effectively be the first line of defense when the world as we know it is flipped upside down."
-    publishedDateTime: 2021-05-18T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/18/facial-recognition-unmasked-how-companies-can-ensure-an-ethical-implementation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0f76fe782210007a91069%2F0x0.jpg"
-        width: 1200
-        height: 918
-        isCached: true
   - title: "Amazon extends ban of police using its facial recognition indefinitely"
     excerpt: "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice."
     publishedDateTime: 2021-05-19T14:13:00Z
