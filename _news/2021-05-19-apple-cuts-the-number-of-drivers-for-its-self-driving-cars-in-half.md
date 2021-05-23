@@ -121,20 +121,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Calif. to Review Tesla's 'Full Self Driving'"
-    excerpt: "The department confirmed the review Monday in an email to The Associated Press. State regulation prohibits advertising vehicles for sale or lease as autonomous if they can't comply with the regulatory definition,"
-    publishedDateTime: 2021-05-18T13:16:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21439948/calif-to-review-teslas-full-self-driving"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 54
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Tesla_Dealership_AP.60a3bf82aaf91.png?auto=format&fit=max&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple expands self-driving car fleet, reduces number of test drivers"
     excerpt: "Apple has reportedly increased the number of self-driving cars it is testing on California roads, but has halved the number of drivers licensed to operate them."
     publishedDateTime: 2021-05-18T19:07:00Z

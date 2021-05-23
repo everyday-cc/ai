@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Market to Reach $228.3 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-05-18T14:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-market-to-reach-228-3-billion-by-2026--301293951.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1511411/MCP_1592.jpg?p=facebook"
-        width: 1020
-        height: 534
-        isCached: true
   - title: "AI Computing Hardware Market 2020, Size, Share, Growth Potential, Major Application, Industry basis of Region to 2025"
     excerpt: "The AI Computing Hardware Market is expected to grow at the highest CAGR of 26% during the forecast period 2020-2025. More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips,"
     publishedDateTime: 2021-05-21T06:13:00Z

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
-      "title": "Lasers, levitation and machine learning make better heat-resistant materials",
-      "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
       "title": "Machine learning & Artificial intelligence to Gain traction!",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
@@ -1399,6 +1356,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-undergraduates-explore-practical-applications-of-artificial-intelligence.md",
+      "title": "Undergraduates explore practical applications of artificial intelligence",
+      "excerpt": "SuperUROP scholars funded by the MIT Quest for Intelligence worked with faculty this past year exploring AI applications ranging from optimized scheduling to modeling ocean dynamics to improve climate model projections.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
+      "originalUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202104/mit-superurops.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
       ]
     }
   ],

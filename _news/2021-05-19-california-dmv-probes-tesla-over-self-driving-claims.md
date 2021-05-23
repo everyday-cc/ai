@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Calif. to Review Tesla's 'Full Self Driving'"
-    excerpt: "The department confirmed the review Monday in an email to The Associated Press. State regulation prohibits advertising vehicles for sale or lease as autonomous if they can't comply with the regulatory definition,"
-    publishedDateTime: 2021-05-18T13:16:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21439948/calif-to-review-teslas-full-self-driving"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 54
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Tesla_Dealership_AP.60a3bf82aaf91.png?auto=format&fit=max&w=1200"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Apple cuts the number of drivers for its self-driving cars in half"
     excerpt: "Sounds like Apple's self-driving cars are getting better? What you need to know Apple has increased the number of self-driving test cars on the road. It has also cut the number of drivers for those cars in half."

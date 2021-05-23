@@ -567,49 +567,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-machine-learning-ai-accurately-predicts-cardiac-arrest-risk.md",
-      "title": "Machine learning (AI) accurately predicts cardiac arrest risk",
-      "excerpt": "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest -- when the heart suddenly stops beating -- using a combination of timing and weather data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210517194656.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210517194656.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
       "title": "Less watching, more learning: AI enabling a smarter world",
       "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
@@ -1487,6 +1444,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
+      "title": "Lasers, levitation and machine learning make better heat-resistant materials",
+      "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210511123719.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

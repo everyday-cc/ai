@@ -2,49 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2021-03-12-hayu-selects-aws-for-personalisation-and-data-analysis.md",
-      "title": "hayu selects AWS for personalisation and data analysis",
-      "excerpt": "Amazon Rekognition, which can identify well-known celebrities in a wide range of categories; and Amazon Kinesis Data Firehose, a capture, transform, and load streaming data service found in the AWS Management Console. European-based media software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis",
-      "originalUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/Hayu.jpeg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/hayu-selects-aws-for-personalisation-and-data-analysis?amp",
-      "publishedDateTime": "2021-03-12T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-12-ypb-groups-enhancements-to-motifmicro-authentication-solution-app-will-advance-commercialisation.md",
       "title": "YPB Group's enhancements to MotifMicro™ authentication solution app will advance commercialisation",
       "excerpt": "Object recognition has been achieved, adding to QR and GS1 barcode readability while intuitive user guidance has been added. MM1 is YPB’s forensic smartphone-based authentication solution for ...",
@@ -1057,6 +1014,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps.md",
+      "title": "Changing script: AI, not humans, to write subtitles for movies, soaps",
+      "excerpt": "Eros Now has joined hands with Google Cloud to use its artificial intelligence technology for streaming the entire range of its movies and originals with automated subtitles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/entertainment/changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps-6632641.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/entertainment/changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps-6632641.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

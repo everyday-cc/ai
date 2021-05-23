@@ -41,20 +41,6 @@ related:
         width: 2560
         height: 1288
         isCached: true
-  - title: "AI and Covid’s symbiotic relationship may make for tech’s Trojan horse"
-    excerpt: "But while the tech has strengthened the response to the crisis and enabled vaccine conspiracy theories to be throttled, it has also been seen as a Trojan horse by privacy advocates. It has been a year and a half since Covid-19 broke out."
-    publishedDateTime: 2021-05-18T14:13:00Z
-    webUrl: "https://www.retail-insight-network.com/features/ai-and-covids-symbiotic-relationship-may-make-for-techs-trojan-horse/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/05/shutterstock_1764865133.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "NP0wZ0ZyltISjw4G3mHvnaR0YpVcldsaAcjFqv3qcDbSc6CBqmWYYT+Z8TuUodfDOTuzc2IgvvooqDklB/yury3FhWYc+1ECH9sJr4jUW/3Tma8ZovtvPs6/ShQW/pkXkzI1nsbj4hw5tqE/3OYdCw2X7orAKw2PEaQwUpxRxP4C6xoEp8YilRpKS9FENlVV3qcN/lAPMNWci7kWfxYAqyW8KePZ7sr7i4tLHhcAsgNhbR8BKQenzRix6wAHmdopB6Clql3d5kyRLEp3eofcWCnGauIGB3sD3b3j2qCsTAiZl2716xG48Cg9yStZ2MN/fVJD48ll4Q703SeRrJAc+1ZibMZExagcTNSchDxv09BZ7Yu2b43GYswwxdzCKa2yjYAZNXJXOqXBkh2NfU/PoXf4YZQBEPuDmExvuUSkDEkigu1C1hnHlzDLmwzd+1nM4U3NbtunIDk8oPzoB+Sbndc898ZI3y5SQQRkNd88HeXJrC/QUij0Mz8dM4gtmJhQ0v2559THcVPHbq0cvany+Q==;bVSpGHiM8NYmC39h7v4QtA=="
 ---

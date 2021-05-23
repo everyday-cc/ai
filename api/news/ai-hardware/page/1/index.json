@@ -407,20 +407,29 @@
     {
       "path": "_news/2021-05-18-aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu.md",
       "title": "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU",
-      "excerpt": "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU. The news coming product includes V3T5000-WRC & V3T3000-QRC,",
+      "excerpt": "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439570",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439570",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439569",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu-1030439569",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511387/PR_photo_VPX.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T01:30:00-07:00",
+      "publishedDateTime": "2021-05-17T23:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

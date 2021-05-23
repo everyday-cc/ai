@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Market to Reach $228.3 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-05-18T14:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-market-to-reach-228-3-billion-by-2026--301293951.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1511411/MCP_1592.jpg?p=facebook"
-        width: 1020
-        height: 534
-        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
     excerpt: "The report titled Global Automotive Artificial Intelligence AI Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Automotive Artificial Intelligence AI market has been garnering remarkable momentum in recent years Demand continues to rise"
     publishedDateTime: 2021-05-18T19:29:00Z
