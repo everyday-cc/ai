@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-13-behind-microsofts-nuance-deal-natural-language-processing-explained.md",
+      "title": "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained",
+      "excerpt": "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-324318/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "publishedDateTime": "2021-04-13T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases.md",
       "title": "Algorithms Used by Companies Like Netflix Could Decipher Biological Language of Neurodegenerative Diseases",
       "excerpt": "Powerful algorithms used by companies like Netflix, Facebook, and Amazon could have major implications in healthcare. They have demonstrated the ability to predict the biological language of cancer and other neurodegenerative diseases such as Alzheimer’s.",
@@ -1244,49 +1297,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard.md",
-      "title": "‘Accuracy in AI is a function of availability of quality data … building NLP tools for low-resource Indian languages is hard’",
-      "excerpt": "Accuracy in AI is a function of the availability of ... That’s called addressing a native language translation. But at IBM, that’s not what we’re talking about. We are talking about really ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/Gargi_Dasgupta-1.jpg",
-          "width": 630,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "publishedDateTime": "2021-04-01T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

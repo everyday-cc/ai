@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-publishedDateTime: 2021-05-20T23:00:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
+excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ..."
+publishedDateTime: 2021-05-20T22:16:00Z
+originalUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+webUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg"
+    width: 800
+    height: 498
     isCached: true
 
 related:
@@ -81,18 +81,18 @@ related:
         height: 366
         isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
-    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-    publishedDateTime: 2021-05-20T22:40:00Z
-    webUrl: "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/"
+    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ..."
+    publishedDateTime: 2021-05-20T20:48:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
     type: article
     provider:
-      name: KPCC
-      domain: scpr.org
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
     quality: 39
     images:
-      - url: "https://a.scpr.org/i/aae9139b88dad894336a1ed40d4911f8/233444-full.jpg"
-        width: 1024
-        height: 637
+      - url: "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
   - title: "Mind-controlled robotic arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
@@ -136,6 +136,20 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
+    excerpt: "New sensation: pioneering mind-controlled arm restores sense of touch WASHINGTON - Imagine being able to control a robotic arm from a distance, using only your mind."
+    publishedDateTime: 2021-05-20T19:47:00Z
+    webUrl: "https://www.bangkokpost.com/world/2118975/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210521/c1_3979439_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
     publishedDateTime: 2021-05-21T10:01:00Z
@@ -147,16 +161,7 @@ related:
       name: WION
       domain: wionews.com
     quality: 20
-  - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
-    publishedDateTime: 2021-05-20T18:58:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
-    type: article
-    provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 4
 
-secured: "dFYYx4ezsQyW1j8MG7dzE24Da38BMZ3jaj5lqXMEkfGy8JVkLNDo6Mxt50VNJI9CPVhv5xfa9Z6FfPEWaB6imwl6b+FVT29vLBZMk33gS2e0f7PrXROhJkSlFMxMdD8znTD4VJk0R1pR5RSaoYS4pyLMtbx7OpJ3djcBqp03JVnFLzSYAmc3S3VvI++Sw29oI2xyLhHAAyIOe3ZnfAIYw7O+1kP8JTC2WmVC45h8lsGcPiWfOSvxAb+UEgXgerK/7/C3hzJ+qm1TFwn3o61L49VWsB4zofoVHDkwznGiFDug69y7RpFDgZwYBPNVPODQ5KlsB3C2inUKVMm8aOelHbo+c1SNV4zQeHRV4GEpkOeDaZsqcb2I5obHofkBEHarCOiWTzE0kvcOpmAMld/NRc/Nxp9z347fYofMIVHrtLKN9zaFlJj5ZH/gHuVnbwiA/iwIkF62EFh5qoVQlGVBtRcvEoriixZA0TyK7JDDmMgUJQ/UQ6wQspgcY9BmseDWIzhpeCR3sRo3rqCtivQQyw==;NBB7zCEwEwxQNgsDe6wciw=="
+secured: "Ltzwq659E/MgC5wv1FY6fZxGDSDoHo7c7m1NMkg0XtsMTRDJjhgRRH6F0DKsm21bYd/SwZfJf5QRBVrbizcSioWYGb1RUVH3KD87xertetWEX0GZNVjsVYV79yJ8QXf/4NMWAQK2A2FwgTQtSfapjq59vV6SurXeptg0IZLsTGeA59/WX2r/1m/YSHskHJDBsnM4+Prt52BxVz/S3edmmmI+NMth4HsGGhl8ClVm5JXdbflm9X5w2vYBm1+ICbOjfat8K68DKdUMNGf1kcAfScaqlO2bhvYobVi9m2hhdQEMXcijhSTy4lNiQdW/rOCRojP/OTubpau47pdzPUH8mBYURglqlJFnu6pjukoghBM=;DkStMSLGO4P+suAYmHV8gg=="
 ---
 

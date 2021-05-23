@@ -77,23 +77,9 @@ related:
         height: 366
         isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
-    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-    publishedDateTime: 2021-05-20T22:40:00Z
-    webUrl: "https://www.scpr.org/news/2021/05/20/97893/a-sense-of-touch-boosts-speed-accuracy-of-mind-con/"
-    type: article
-    provider:
-      name: KPCC
-      domain: scpr.org
-    quality: 39
-    images:
-      - url: "https://a.scpr.org/i/aae9139b88dad894336a1ed40d4911f8/233444-full.jpg"
-        width: 1024
-        height: 637
-        isCached: true
-  - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-    publishedDateTime: 2021-05-20T23:00:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
+    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ..."
+    publishedDateTime: 2021-05-20T20:48:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
     type: article
     provider:
       name: Northcountrypublicradio.org
@@ -103,6 +89,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6"
         width: 948
         height: 710
+        isCached: true
+  - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
+    excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ..."
+    publishedDateTime: 2021-05-20T22:16:00Z
+    webUrl: "https://www.nhpr.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 39
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg"
+        width: 800
+        height: 498
         isCached: true
   - title: "Mind-controlled robotic arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
@@ -147,14 +147,19 @@ related:
         height: 240
         isCached: true
   - title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
-    publishedDateTime: 2021-05-20T18:58:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc"
+    excerpt: "New sensation: pioneering mind-controlled arm restores sense of touch WASHINGTON - Imagine being able to control a robotic arm from a distance, using only your mind."
+    publishedDateTime: 2021-05-20T19:47:00Z
+    webUrl: "https://www.bangkokpost.com/world/2118975/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
     type: article
     provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 4
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210521/c1_3979439_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "waVcTiRIDDCiLxjGZAscGr7cMWAE6N1V3Um0RvebBtL1+vu9UN2JrU3tiZWRW1lxtvHlNMO+6iBgkwSsWsgvLj+zzqgWvEEqIBvmklOp/KYdAoTO5FgHr1KY+3EiRZ+1pz97/nXmS1Jt3Con4uQ16jpOwdJwnwcIHQRLz/xGaa5Nh6qy2rUogJOSgIfeddILSXa2QWyPPVueP47pO2f8MGo8nw2bGpWyfHK7wUuKe0NRHaBFvAnt4UNUj1/GOdFEE2WyjfaGqgXy+DR/kR0U3Ot5kJLgQSiMIt+dhCvOyTnX1QPEvyJdkMhJtWH0BnfgkjmVVd7FvN3lHlNQragARivXdecyixN8uuBlT0uKS1+yjqOMVUAp2fpp+2tswKvQdIITEMkhoLF/QabHji0655yhc9XB1ZY6ISSNYkD8Sk+Tj9TlRke5x3qaNYip4IFYnEXs+fsmou3sbQJ0cHFNWyiEAptabo7ygIe0Up29EBIkrXNwWPB8n66CVvkrIu3G/X7NXCru+VwNhWtEjpgt4w==;UUcOw1Og4/GSAmUenJxKYg=="
 ---

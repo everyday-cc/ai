@@ -221,17 +221,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon extends ban on police use of controversial facial recognition technology"
-    excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
-    publishedDateTime: 2021-05-19T01:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/amazon-extends-ban-police-controversial-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/amazon-extends-ban-police-controversial-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/amazon-extends-ban-police-controversial-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 35
   - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
     excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
     publishedDateTime: 2021-05-21T13:40:00Z

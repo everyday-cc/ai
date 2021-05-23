@@ -1,29 +1,32 @@
 ---
 category: news
 title: "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging"
-excerpt: "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a"
-publishedDateTime: 2021-05-21T12:23:00Z
-originalUrl: "https://www.lelezard.com/en/news-19819004.html"
-webUrl: "https://www.lelezard.com/en/news-19819004.html"
+excerpt: "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a DICOM format to standardize acquisition."
+publishedDateTime: 2021-05-21T14:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892"
 type: article
-quality: 9
-heat: 9
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1515536/AAT_New_Platform_AI.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "UcWcHbglYNRxUkTM7NT/KeZhvSiIhep6/FymKxC9JEYT2mj/OgKc5N30gvYr7mis52Kkbgwpyg4nadM86La/xw3vnkSOHYY/BVkHd0VbIhnDxqvrODgZ9DVqw37IHoToW/p/TK+D17g6Iv/A8TlOAbkh7fqudPzJuqnHcpXQgKXJKY4zRtLJCHh5kMe9+UPqwOYolisNZ8lwYlmT4KlxZrNfJISuVtDkMVC4ZYu136QM7da0K20r28T0TDolRquHvD4ySeHpGK5BUch4qdHAkLRPmcU5cI8OVRAzJAZMy+YfkeStFw1dTch/UQpM2xDduftUndBGz90kBKRgyNjoE66IvRHnLGMcX/GkkM7w33c=;2bJBJEbNfmNFtsyEBtjdWQ=="
+secured: "dSMy4UW5Lf6LoXCWcroMudtwEsMlCkez1ww0higjmlR7NrsDR/rjy5jzd283K45AOfA5S3Wc6MLINI7dAJIA/mw48E1pZ2P2zbOIWOPt8LALkWv8gOn23qA+DTIL0MzedLjNsBDYN9d2n3JyOCDDQnWmbacWLeVpz6/Wtz9IeVOex0ASrfMIxUk4sNyIVSynACNpQov4mUoY3kDuReL94A1heDUn9Tg6xH2TRb4A+BEDYC7rgNcQEN97KiP7aV9FWTuUPVuhGV5rZtU4O16ai6nDg3sXobsE1Lo4T01sP+qKcSFl9X+bvx0tGRRbEn7XN0KIeAWwcPAektKgQtbgAtkwNhaYl8iPSH9wOfUbrt8=;S1Pz9gbcjP7mqZQq3ODMAw=="
 ---
 

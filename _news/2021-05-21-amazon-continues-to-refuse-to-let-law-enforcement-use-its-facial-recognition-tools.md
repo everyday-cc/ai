@@ -226,17 +226,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon extends ban on police use of controversial facial recognition technology"
-    excerpt: "Amazon said Tuesday that it would indefinitely extend its ban on police use of its facial recognition software amid growing criticism that the technology invades privacy and incorrectly identifies people with darker skin."
-    publishedDateTime: 2021-05-19T01:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/amazon-extends-ban-police-controversial-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/amazon-extends-ban-police-controversial-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/amazon-extends-ban-police-controversial-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 35
   - title: "Post Office accused of using facial recognition as part of covert surveillance program"
     excerpt: "The Post Office is using a controversial facial recognition program as part of its recently uncovered surveillance efforts."
     publishedDateTime: 2021-05-20T22:53:00Z

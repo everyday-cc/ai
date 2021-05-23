@@ -24,19 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore based MarTech Startup Affable.ai Raises New Round of Funding"
-    excerpt: "Singapore-based Martech startup, Affable.ai has raised $2 million USD from Prime Venture Partners, Decacorn Capital & SGInnovate."
-    publishedDateTime: 2021-05-19T02:38:00Z
-    webUrl: "https://www.brandinginasia.com/singapore-based-martech-startup-affable-ai-raises-new-round-of-funding/"
+  - title: "Martech startup Affable.ai raises $2 million in latest funding round"
+    excerpt: "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns."
+    publishedDateTime: 2021-05-19T07:07:00Z
+    webUrl: "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
     type: article
     provider:
-      name: Jury
-      domain: brandinginasia.com
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 57
+    images:
+      - url: "https://www.exchange4media.com/news-photo/113018-Affable_Logo1.jpg"
+        width: 730
+        height: 395
+        isCached: true
+  - title: "Fintech Platform Vise Secures $65 Million Funding"
+    excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
+    publishedDateTime: 2021-05-19T12:51:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
+        isCached: true
+  - title: "AI Insurance Startup Receives $57 Million in Funding"
+    excerpt: "The Jerry app uses automation to give consumers customized quotes from more than 45 insurance carriers “in 45 seconds.”"
+    publishedDateTime: 2021-05-19T13:11:00Z
+    webUrl: "https://www.fenderbender.com/articles/16527-ai-insurance-startup-receives-57-million-in-funding"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
     quality: 37
     images:
-      - url: "https://www.brandinginasia.com/wp-content/uploads/2021/03/data-analysis-on-laptop-Branding-in-Asia.jpg"
-        width: 1200
-        height: 680
+      - url: "https://www.fenderbender.com/ext/resources/moneyNk8-unsplash777.jpg?height=635&t=1616174083&width=1200"
+        width: 777
+        height: 523
+        isCached: true
+  - title: "Tech Behind Good Little Robots, A Startup Providing MarkTech Solutions & Vehicle Detection Services"
+    excerpt: "Bhavik Doshi, Tushar Shah and Priyanka G Talvadkar started Good Little Robots to use– in their own words–“technology for good.” The Mumbai-based company has developed in-house technology for vehicle detection and analytics."
+    publishedDateTime: 2021-05-20T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-good-little-robots-a-startup-providing-marktech-solutions-vehicle-detection-services/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/good-little-robots.png"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "oaqTJCsdRbEcffbB2gWZvN+2irdGOrodlCMd9MMB+GMgfIB4UGzJfzvzflxtDsxh9c//a3gqjKt9sPj77JTXFOlLH0p7LrJW1Vw0xWUrN+b2t2UZ/quIFlSSn2cw0oPJAaISt0jSbh7C1vQ3jGoF+McxOx02Wc3OwPkmFcWcoHBQK2xgwVgU5fn0AoT+LDKxyyFHp1l8pIDPk4XHA3e+CAniO1TMkF4TpS0UXajOyzY0niE9rPA0pVeCkQke1GdQCnbByBA0mQzQnt2e4CDJkdlmZJnmJsKyXIu0FxGmdciwpj5TAWrk+afW4fuWC1ghwKdMDhgx8nHfONMx2ZBFprr+nhrlpDke1Y3SoUQZGZE=;7X9hrf+lAJut8Nfz0HyvkA=="

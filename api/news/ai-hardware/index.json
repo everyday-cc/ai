@@ -361,6 +361,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better.md",
+      "title": "Google AI advancements: next gen AI chips and LaMDA to make AI conversations better",
+      "excerpt": "Google has announced two major advancements in the field of AI-v4 TPUs and the LaMBDA model for more natural AI conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/",
+      "originalUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2021/05/Screenshot-201-e1621363561223.png",
+          "width": 687,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/?amp",
+      "publishedDateTime": "2021-05-18T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu.md",
       "title": "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU",
       "excerpt": "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU.",
@@ -1455,58 +1498,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu.md",
-      "title": "Carnegie Mellon researchers trained AI to simulate our universe on a GPU",
-      "excerpt": "Simulating the universe is difficult. There are, after all, potentially infinite variables to consider. Scientists typically use supercomputers to crunch data at the cosmological level, but a team of",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu",
-      "originalUrl": "https://thenextweb.com/news/carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F10%2Fspacefoam.jpg&signature=8bcfb9474ea9432765269ecec6da5afb",
-          "width": 1212,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

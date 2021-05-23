@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19817096.html"
 webUrl: "https://www.lelezard.com/en/news-19817096.html"
 type: article
 quality: 56
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Platform Vise Secures $65 Million Funding"
-    excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
-    publishedDateTime: 2021-05-19T12:51:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Starting a Career in Fintech: An Introduction"
     excerpt: "Fintech, or financial technology, is a growing area in various locations around the world. The industry is becoming increasingly appealing to all kinds of professionals and students, promising exciting opportunities in everything from cryptocurrency to digital banking."
     publishedDateTime: 2021-05-21T19:53:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://www.gatewayhouse.in/wp-content/uploads/2021/05/shutterstock_744494326.jpg"
         width: 420
         height: 280
-        isCached: true
-  - title: "LHoFT Foundation selects 14 fintech startups to showcase financial inclusion in Africa"
-    excerpt: "Building on the success of the 2018 and 2020 editions of CATAPULT: Inclusion Africa, the LHoFT Foundation is opening tomorrow, on Wednesday 19th of May, the third edition of this unique program of Fintech startup development."
-    publishedDateTime: 2021-05-19T01:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87685/lhoft-foundation-selects-14-fintech-startups-to-showcase-financial-inclusion-in-africa"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 16
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "Fwuf3swDPaF2IubEvyyTqNZ4XND5shsXuH+/PAPaDD+n65wXCnydyAgV4WQAdGtbopTjqOhGOm4huYmTf8bzkEjDSOdsg90w6Y+L/U3BCQbcJ7hF6JLj4yFXkTdkOlhbyFzaoYKo7S+IVjRl0nxYeot4Fy7PAjtaY7Wo9lKLb6X3FWRBpCi+Tx4zR/GSpp7+wWtscO81Nib8S5RZMytEUedFaYDvL78g7S6hlfYKSMqDS0j8oB1JGjK0zESGF4clwcH690uAbiq2DeCoUFiXuZgDG5K5lpkkAOjJ+py4Tlcg4PaEagZppVmZkor8AzhpMOPXxqYylILZbXj2M5ulem0aeBt0McwOMHUFmKc8Nlk=;v74SHOfkF/hme3QqubSj9Q=="
