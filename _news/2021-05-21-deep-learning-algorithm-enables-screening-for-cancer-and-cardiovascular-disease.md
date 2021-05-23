@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "Use of Machine Learning and Artificial Intelligence to Augment Medical Laser Systems Market Growth"
-    excerpt: "The advent of latest medical technology and the increasing popularity of minimally invasive surgeries are now pushing medical science to an upper level. The various challenges of the 21st century have propelled the global healthcare industry to undergo drastic changes within short period of time."
-    publishedDateTime: 2021-05-18T09:30:00Z
-    webUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/"
-    ampWebUrl: "https://techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/use-of-machine-learning-and-artificial-intelligence-to-augment-medical-laser-systems-market-growth/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 64
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2016/05/square_v3.png"
-        width: 450
-        height: 450
-        isCached: true
   - title: "Deep learning enables dual screening for cancer and cardiovascular disease"
     excerpt: "Heart disease and cancer are the leading causes of death in the United States, and it's increasingly understood that they share common risk factors, including tobacco use, diet, blood pressure, and obesity."
     publishedDateTime: 2021-05-20T15:40:00Z

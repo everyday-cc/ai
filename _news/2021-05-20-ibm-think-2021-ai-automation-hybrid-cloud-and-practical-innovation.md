@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-aut
 webUrl: "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vatican sets up Artificial Intelligence foundation"
-    excerpt: "The Vatican has set up an Artificial Intelligence foundation, sources said Tuesday. Pope Francis instituted the new body acting on a request from t"
-    publishedDateTime: 2021-05-18T10:39:00Z
-    webUrl: "https://www.ansa.it/english/news/2021/05/18/vatican-sets-up-ai-foundation_1da025ab-a968-47ee-8e9f-4051c926ce36.html"
-    type: article
-    provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 37
-    images:
-      - url: "https://www.ansa.it/webimages/img_700/2021/5/18/51d1f4c2378feeb0ae1fbea52f1013a7.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Global Biological Data Visualization Markets, 2020-2021 & 2025 - Adoption of Artificial Intelligence for the Analysis of Biological Data & Rising Need"
     excerpt: "The \"Global Biological Data Visualization Market (2020-2025) by Technique, Application, Platform, End-Use, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-05-20T15:54:00Z

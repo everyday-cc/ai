@@ -39,20 +39,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "Vatican sets up Artificial Intelligence foundation"
-    excerpt: "The Vatican has set up an Artificial Intelligence foundation, sources said Tuesday. Pope Francis instituted the new body acting on a request from t"
-    publishedDateTime: 2021-05-18T10:39:00Z
-    webUrl: "https://www.ansa.it/english/news/2021/05/18/vatican-sets-up-ai-foundation_1da025ab-a968-47ee-8e9f-4051c926ce36.html"
-    type: article
-    provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 37
-    images:
-      - url: "https://www.ansa.it/webimages/img_700/2021/5/18/51d1f4c2378feeb0ae1fbea52f1013a7.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "4iLma2vU/qZDTRZLiKncT2TKEJs86jlJ6UlQ4f1vwUb9iGrnsBR9BTRZPRk2LZtVqPsc7wh3ehBcR5UKfTP82IHf17XoX7+tSBXOyPdaYqSLm+3vgL2U8I8+zNyWHLMwjIoPNmu/ExwZAKsiXKOfhtwVVGjkHTU9AV4kRPLC8JJyGsBOw71jYzTfMbFOzomiKLmffTHSwdK5c7HT6JcnRj5hW0X8CcrQy2gHYw5djx2x9QT3E79V+GQT48w8AzrfDAE0NIVKTp/UTrBO0/FK+Hme2sOHPdtIXyU8JMRhu+nVEM8dCTImqEBDZuzA+6iPwtXjgyCHPdI9MHqArvN59Kbvho7wJmUjANuETKkzn5NZBBgsHs4Q0n/b59vKz8TXbtQHRhW6aWU00IQ4wAvyhA0b50+OigUQW9ptoZIMHiZJsdUv9y/FrIOKPXLbaWr4v/zuA2rUIJPHzj+no8XXjt+9Zkn6KqcoSrHgqOGtGtEYyiXo3jqfS8/dD2MM2gz40PDIRnrOr75tcvHqQsmcTA==;hI37uFvKGDK7ttyTJMYk3A=="
 ---

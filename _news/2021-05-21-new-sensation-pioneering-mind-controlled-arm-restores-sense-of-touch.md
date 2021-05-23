@@ -156,6 +156,6 @@ related:
       domain: wionews.com
     quality: 20
 
-secured: "XR3m2WApbIalXS6sq0M7Tm67ADOq+RT61Gs/MSr3dxlb7LxcHknJ3sIlP7ZnxFey9TyXv6KAnejPHE+Ob/z/Rn/te5Fers4X0Ey23ab/HWdfl2mfCAM7F6BgKyCXG26isnfu6dqQqiGyQq+Lvv/U5goE6imeSd6bLU63kv/6Su1TrXAAwc5kkuIVM60VwU4gfRj9MucgwLn1RM+MrQEtco9HssJB6aSKbuqMBQvTKugeMGB6VyAiMVTNB9gey+U+etBDOvuYeEdMcJ851dc0cRKx82KoHtwJ5MG/QwhazWx64ZyVdVWH5KOtkmhnoC2qy36s/XrOlzsFHog7q4l1+vazcbBXg3RHsd1C1BIbBN4=;C7zO0FzwklSCBdbQEYxrVA=="
+secured: "fDyNoossX1ZYZ5/mBtYXnoPE1ctTSoKA8S4vVUZASck7v6CannH69RVSN1PS7g45kWZ4sSuDwQhnJc7uhbodRnui1+eP/K9yd69vEe0XUea8xvhTCO8aWUANJ/DlqPqqwh0AxiyxYD8gacRuoXuYnKy+U5bZrj2CnLjl4Y0OZWXz30bH0U7gkYlVKsJQLXyYlm1GRhasELONA2jpk9tba+QA3PKN6GKII8HYVxKQWMz9XY5EFFkU2rUuOkN8Gk9k2Z/ogr1uFMbkHHKfy10miS8stLGNn+ZW7bLzb3dFQj33bu5VSk1yJdavcMmnIh1cGDuQGE3KKQ9ZbrS6cPWsaYY5iP2sbjoJO/cN9UxJe2Y=;w6PRQaQh/xWDsq/cSARl2g=="
 ---
 

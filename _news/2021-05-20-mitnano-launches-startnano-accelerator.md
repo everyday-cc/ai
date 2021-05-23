@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/mitnano-launches-startnano-accelerator-0
 webUrl: "https://news.mit.edu/2021/mitnano-launches-startnano-accelerator-0519"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Arduino Nano RP2040 Connect board officially launches"
-    excerpt: "Following on from its introduction back in January 2021, this week the official Arduino team has announced the official launch of the new Arduino Nano"
-    publishedDateTime: 2021-05-18T09:15:00Z
-    webUrl: "https://www.geeky-gadgets.com/arduino-nano-rp2040-connect-18-05-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/05/Arduino-Nano-RP2040-Connect.jpg"
-        width: 700
-        height: 500
-        isCached: true
 
 secured: "N+KENG28Fa2IAo1bLG84aRhjqz1ZmAzyae7X+7XDHzmB4FJ/fhvspk+iuwO1vHpsF1h85bCcsKSp43CRJr5nk5QwWieWwPhW8nCfD4CFcY5yEsPnbrxn8IKaKwEN2O0VPPFgCB32dmkRPcUdIf1S93kHvyalszStAJrvh4u3+qPOZWWl9BLT4KHSXh4hnkgcVsP57hwSYQc539BRgBoc4aOdGmjNhFIhGlcfXXYPEvwCm2LX1QksYe4G9k4Jt1F1Q9OQRiDOMFahqOowxmODceLQs0kEufaXbg5IS5m1KsUMme/MP8qZzEwfWyhdjPsUMcPCeTM6ncECv9jPU/xxzbY2n7vuij3/i2P6gK4NRfk=;wDr1Zdne9GdUFT8qwT/1KA=="
 ---

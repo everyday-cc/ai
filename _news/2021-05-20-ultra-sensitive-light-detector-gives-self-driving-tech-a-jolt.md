@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Ultra-sensitive light detector gives self-driving tech a jolt"
-excerpt: "Realizing the potential of self-driving cars hinges on technology that can quickly sense and react to obstacles and other vehicles in real time. Engineers from The University of Texas at Austin and the University of Virginia created a new first-of-its-kind light detecting device that can more accurately amplify weak signals bouncing off of faraway objects than current technology allows,"
-publishedDateTime: 2021-05-20T15:00:00Z
-originalUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.html"
-webUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.html"
-ampWebUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.amp"
+excerpt: "A new light detecting device can more accurately amplify weak signals bouncing off faraway objects than current technology allows, giving autonomous vehicles a fuller picture of what's happening on the road."
+publishedDateTime: 2021-05-20T04:00:00Z
+originalUrl: "https://eurekalert.org/pub_releases/2021-05/uota-uld051721.php"
+webUrl: "https://eurekalert.org/pub_releases/2021-05/uota-uld051721.php"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/ultra-sensitive-light.jpg"
-    width: 936
-    height: 524
+  - url: "https://www.eurekalert.org/multimedia/pub/web/265152_web.jpg"
+    width: 720
+    height: 408
     isCached: true
 
-secured: "zqu4M7dSHTPRT4vSb4Wn5b2/rqv6QSE1LwFS1AXgx/DTG3CJFRscfoq1iPJWlfl1uyuB/d/HRrLVdM5ho5Ea6JPq6dZwvv3A1s72sUYMSKCoSIG72gKrq1ZoFF5++o/DAceLqMTzOG84ilOXhUW78kK4Ygx4jwd9Erbxu5e1QPqlmFK33p63JClhPAXb0ZpsSe15zeHX3hY/i7TSR2NRfo8FxerjsfscEyFr82v0MOaQfWxxk2iqZM25TlhLVKxdSoMpREjGwCq5+IhnytXu4Sz2HfvXwKukGRsW0hT7Of61KueNDgUqa7tzlMHGcqqGm3tC8UDy3ux8DH+noCyUfKvGOTwdWK0qc62ygL/n5RFSyVjMc8+HP0WFq2ElZyueEh8TCQ7dnQ1NZDmFsunW08NVCP6FQGvk1+XYsav8i//6OOHMx47efytcbrn/SKgw6xFHVlZgqV1OrVi6JKnZXjOt4OvRT4V7UdECGcTWsrmBJJV0ywDbrxwExSTm6XUEAyvCgoSTuokfvR06yXOmXA==;NcTnUDaQVDXR3SHp6zfuOA=="
+secured: "l+u47JmW42Wz/YAXI2rvVI8XkdRxgzbhN7A99762KRNVAN8N/Ra8d9rvr8VlsLY9T3okSwWD/Pp1emYUlSwW4xlb33w6uIIsbtae0TVzd5UJtuYuLIqtg4TkQO9/MsJ/RVNYhKOvTwWPBfhG7dghCKQjIlsFy31BYmpWya/IFFyIBbDcGRnB5hLPoemu0fBNmFcI4lRF89+TljjwhxZEme0VY0mxo9TGvXPa9Cw6ufk5VdpJ8WLWDrETCWQYr6iz9/Na3W32FmwGQckPoJfiFtkdZLOaJ255FOIQ3CCPohmMRgfYwCP9mZUIVEvwz6SZBdhkIHC4PwChu1OGooafByW2KB+bMON5Tam+WH6BQY4=;JYAvmfw10p+fJhx1Uv/5oQ=="
 ---
 
