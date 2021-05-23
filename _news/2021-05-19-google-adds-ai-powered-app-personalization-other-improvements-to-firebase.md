@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-person
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Barracuda adds AI-powered automation to its web application security platform"
-    excerpt: "Barracuda is a major maker of cybersecurity software and appliances. The company traded on the Nasdaq until 2017, when it was acquired by private equity firm Thoma Bravo in a $1.6 billion deal. Barracuda’s Cloud Application Protection platform blocks malicious traffic to websites and software-as-a-service applications,"
-    publishedDateTime: 2021-05-18T07:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/barracuda.png"
-        width: 739
-        height: 414
-        isCached: true
   - title: "ModelOp Named in the \"Where Are They Now\" Section of Gartner's \"Cool Vendors in Enterprise AI Operationalization and Engineering 2021\" Report"
     excerpt: "ModelOp, the pioneer of ModelOps software for enterprises, has been named in the \"Where are They Now?\" section of Gartner \"Cool Vendors in AI"
     publishedDateTime: 2021-05-18T13:00:00Z

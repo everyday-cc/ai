@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2287733/industrial-robotics-market-to-gro
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Military Robots Market to Reach USD 25.66 Billion by 2027; Increasing Deployment of Advanced Aerial Robots to Encourage Growth & Forecast"
-    excerpt: "The global military robot market size is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 12.2% during"
-    publishedDateTime: 2021-05-18T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-to-reach-usd-2566-billion-by-2027-increasing-deployment-of-advanced-aerial-robots-to-encourage-growth-forecast-2021-05-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Robots Market to Reach USD 25.66 Billion by 2027; Increasing Deployment of Advanced Aerial Robots to Encourage Growth & Forecast"
-    excerpt: "The global military robot market size is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 12.2% during"
-    publishedDateTime: 2021-05-18T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-to-reach-usd-2566-billion-by-2027-increasing-deployment-of-advanced-aerial-robots-to-encourage-growth-forecast-2021-05-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YTPGL4pTigujtMIH6s0gjZds7dsKo6/IXUMLRajoq5LLVLwp2WDDCnZQb3cmnvqnxUjNJgK1Euwxm3zKfAjuEjO+UeS0NbTOGaQDMCri8ocE4ryy139mUa58VDsXF4zm2PSTvoo3rasqw33YushXZs4tYBnbQYYPTl/3PEy8YjiREVSA6AKpbtQblYI5H6SQRYqvq1fXzfUwfQyThMp5WwQRdf1oZpWg/BIl20xSGKV8MPT7va2qW5oXaiXXASiT53EF8HUb0Ss+xcySdZiITLb6RxJ8gHNwU9Xn0EH+8P4zZF6+UnRg2m5l5oXDiEclcOC6zVFDD7JgYervUlMxJbAYrZ6WjeC47sJaaFlXZwJQYNcZu3R5IShr84ObLW8oGC718X/ykDb7lEbcPSF91FPrrCVnIREd9ldkPNYvpePwQQD9sAFCLRM/IY1B1QtwRfblnN5/I1a2GhvjQ/7cB1OKaKnW9DyEahvBFRs9Tc6495ZW+typ4ZauHV8Pn1LP1QS5LGTgKZmiRMQZiXMvkg==;6R52CEiHrZ9kzcByouuUXw=="
 ---

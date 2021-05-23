@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The state of data acquisition for analytics and machine learning in 2021, and how startup Explorium scores $75M Series C to capitalize on it"
-    excerpt: "Data science and machine learning are being commoditized, so it's the datasets that make the difference in the end. That's the thesis startup Explorium is capitalizing on."
-    publishedDateTime: 2021-05-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/the-state-of-data-acquisition-for-analytics-and-machine-learning-in-2021-and-how-startup-explorium-scores-75m-series-c-to-capitalize-on-it/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/its-all-about-the-data-exploriums-bet-pays-off-in-75m-series-c-funding/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/18/1a4acbf2-0502-4248-9ef8-4a801556ef97/explorium.jpg"
-        width: 734
-        height: 470
-        isCached: true
 
 secured: "SPTgYf5uqUPmE+RMVOrF8oizXZsJda7t0HH2bWeQNYtT9R+UfrdZBtk4C8GZKgTsKpG2jO47f/lXUE42VRHhYG2JhqFAnNGYcVh0id1ZVR0caygxYOH5A6k0I1CY51f/PW9idPECcd4Y0Oy5twxzLj4fxeqwu2c6xS4qF6qgUGC4Wv+yW9csriY3IgD9f6wxQ7FklCk6LM/ukvKe7sECmtF7sRWo9a4Jzmr1CuFALdtNCNZuSNy2m7C7ugRBslRuUOIYtmjO6Fwt9KPzgjYmtwAidAZTmFzgkGVgA87YSKG9TyjxiWD4syhmsXqEOjyOGxlawFptK4iFCZ5gt8I1QfY29/zYktY0lk6xumX25IQ=;SnDLJYMplWU/9LDegUwxew=="
 ---

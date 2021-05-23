@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
         width: 640
         height: 423
-        isCached: true
-  - title: "Artificial intelligence predicts when people are at greatest risk of heart attack"
-    excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
-    publishedDateTime: 2021-05-18T05:54:00Z
-    webUrl: "https://www.leicestermercury.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-5425396"
-    type: article
-    provider:
-      name: Leicester Mercury
-      domain: leicestermercury.co.uk
-    quality: 32
-    images:
-      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5425431.ece/ALTERNATES/s1200/0_Coronavirus-Wed-Jan-6-2021.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial intelligence predicts when people are at greatest risk of a heart attack"
     excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"

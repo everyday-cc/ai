@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-ma
 ampWebUrl: "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1218868159.jpg?w=1200&strip=all"
@@ -59,6 +60,6 @@ related:
         height: 557
         isCached: true
 
-secured: "RJeUOPw9EqDmDIgLvAkYIYjcL/SvshTSySG+409k7jS7J0oOhCyH97l5Xo1o4CwU1iH1LUlEB151nBMBhCitIXeawu0TaiT6qsiMyivQZpsxJ/Hg+nake/ta8rN/yYeJDt+w5Zi2ayi56Pva6PjP008O36QkpYh/yIu0rwMV9bpKbb9k1SLMRELQDUPWznXtGy6BnP3ON45U7t69vd0RH5iHcbw4o4mzB5qHxMQDBhwobWNV1zBCfdDUVb6ebgt4Zi3P+MWCDKccY0SztOExJ63Y6rhLFaLiDEj888xjKquLjpxQfwfR/b9eVyz9T7gMdDnAxapyy7BAyku+0itDmSIGrb+B/0h6K8buvnvunb4=;D1OlqREFGKxXLdAAEqZAOw=="
+secured: "YnLgt53OyNG/f8mTZ37U4TK8yt3Ct2ZihbY++LbgC7L/S0qlreZ2Hy1EGXo8MLDb+JKLI3OmsnUeKvWh9+1aI/Yz6rzXV/BO2bJMAzDERIqNqleEn+Q50Tcd3iyPAAmxHtp9orKJEosyUo/FN3QFsyxSQB3ZPZ2iOZkw64HbDJIXHFana7eGf/k0PTutOsyTOnia+wacMerfoaemDMg3Ufd7+m7ZDVYK4q8rRnD6po2Rrb68qSYGw83QluaxHh3kfDYdjT0fTDgddCpPnLPzn/aee8TBpNP/MvGwDtNgJ2jKkFbv7HvfaIiLrrKkV9rlBZWGKLLInJyYhrPX9EvUD5yu3sZ/P5tSy+UYITlSprvdMgPANpBL7G95W5EnEpY2MDDxEzOBvpdZLZsX2g3Q5UJH2iMC+pfK5VpXu+fr8FX6BTi9pBmhdqIJI13sMGBKZf5iN0qgGT5RYVvpDeHSKC7uP+dusd8n+RJxgjpZQAnbFUpfkUI5XuIPCMuIBEWCitQEiXrJkygBUrebfSsneg==;QmhRU/bUxuLbVCqAANvFMA=="
 ---
 

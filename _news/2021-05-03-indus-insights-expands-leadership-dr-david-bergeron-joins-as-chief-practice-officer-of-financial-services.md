@@ -2,25 +2,21 @@
 category: news
 title: "Indus Insights Expands Leadership; Dr. David Bergeron joins as Chief Practice Officer of Financial Services"
 excerpt: "The company creates value for its clients by combining Machine Learning and Analytics techniques with a deep expertise of the financial services sector. This unique value proposition has allowed ..."
-publishedDateTime: 2021-05-03T01:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-services/article_96b31880-72d6-5ef7-9bc1-2ad231bf1c42.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-services/article_96b31880-72d6-5ef7-9bc1-2ad231bf1c42.html"
+publishedDateTime: 2021-05-02T22:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/p20907809/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-s"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/p20907809/indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-s"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20907809"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20907809"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "g2lPjVip0px+bgLkAhmRV2gUdaO/nJL06iB/QHdUwail10fJOHRibf4YXe7YXekJlSYO40c8NqHnyBZxlOhiksjVoMwQtfCIRXV5m4QC0ozXOqXxRoKZkhzyXZ/W7sPb/r3haPJNAD/pnqScvYj6uN8pZHf/+DbDPL3t0dYa12WD/huyPSvz/g7/mSRXfYhPIAh6GYGfW8VUAZG/G+fOequjOrB+oJrrNI9J8O74RnHSkICKP9GIyomXSzhQHW/oV82JLaqzWmxVHJKIGud/EAwuq2h/UY8rTKFd/wgWaZBiTmB+m7mpIW1+1bMupJaMRkqBSHwR69YMbU0hku33d8fZx5j6Za4v1TrkX+1jKeI=;zRv3w8nvYlayjlf/jI3YjQ=="
+secured: "ovQ64PYanUhiS6zXim0tE9Mo4Q7URWKuO2sIRxMzCei+PRhYVyZcNE70z1Px8LPQ6vb0N/9kwwnUGbRQGbBS26uMNLDCVEG8GLK+tGj0cdyFBxzATysANE/Eqgek3I5aorOeXWFgDIWD2o2SXoH2S6P8AIM1/BqGuWPulbr126ZpHgT1aU8JTwevMdm/Mp5ulbTCBI2QkR/qGDYoriLDjLeLJ9B99IiDHqPNsAq3YiDt1qQJRrSxIR9e3ZvFq/J+XCCVdnapHTw1HhWyL2TQpwn2eFeq0SVtPyFTw/0ruz70FW7EHRrD4le4uxTscHDCjFtoYQoWJ52VkpSncy0U0f78LHt22vRmS/n7+IZYsFE=;v8cNqp6Xzez27eyBFtKafw=="
 ---
 

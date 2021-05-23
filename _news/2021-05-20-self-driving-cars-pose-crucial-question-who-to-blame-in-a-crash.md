@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/self-driving-cars-pose-cru
 webUrl: "https://www.bloombergquint.com/business/self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self-driving cars pose crucial question: who to blame in a crash"
+    excerpt: "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ..."
+    publishedDateTime: 2021-05-22T23:30:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/21/2fabb15a-b954-11eb-9461-e80e43f535ad_image_hires_153618.jpeg?itok=2T7WWRIP&v=1621582591"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FptFFKhxopbjnGWtLkg/AGhrxTIyvff95Hf5LzY+1qzuM7EZFfmP5v/63EfUp3BnGpMn7UXNS/r8Z6JCHYjFHlVmY+iue8D9w4L1idceoTseINb0AoKh3B89rEYX1ZQcxTfIVdYhAE031Wx846IKMq0ZM8kJYUhvWT7Z35ns4D27icnPqYt76mmK7pwX21jLVZZG5WYQITddONIlMUF+Sqcv5CIUQeyfoeOoc0ewTGI7Fkq0LHZqTTmcsc42yfHcSWw1vOJuJRw15K+ZAx4/w5aZ8yqknmzyYSBVLd+zmyI/MNkFVE6HHbnrLD5ZH4WYYb6pxc9PmF7gAwl8SRqRLMaQOToA2Q7Ft1DlKiZdIoI=;SlMNSBUqE3RxVu6sD0KWUg=="
 ---

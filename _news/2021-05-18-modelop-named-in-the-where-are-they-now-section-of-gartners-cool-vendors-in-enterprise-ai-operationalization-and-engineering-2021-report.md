@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Barracuda adds AI-powered automation to its web application security platform"
-    excerpt: "Barracuda is a major maker of cybersecurity software and appliances. The company traded on the Nasdaq until 2017, when it was acquired by private equity firm Thoma Bravo in a $1.6 billion deal. Barracuda’s Cloud Application Protection platform blocks malicious traffic to websites and software-as-a-service applications,"
-    publishedDateTime: 2021-05-18T07:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/18/barracuda-adds-ai-powered-automation-web-application-security-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/barracuda.png"
-        width: 739
-        height: 414
-        isCached: true
 
 secured: "BesfA/ysAXpJF1m6bOWFvU9ig2+U066voEYpZngqAvN0HpsW2xld9ZGUQizxyfbvePVzZ/7NsDOLKrzGipOkmNnVi1BPENtQ3pJYo1gqtTugipxZwZ8rsLm849EIVDVRGarb5VEblTFd+649xjTfA5kfhxX2riJZ834enisasMfv+UlwYrDhaDmfRGu8vyamfNhvuF61b0DX6GVmJWQkj+lzQDb5C75biNxrFoj4ATQpsAPNRgxlNjbIKOB0yZ4Ljh5iWvGa0V/nVbZ8SWwe1/EZIMmL/9gJqDoVwoI+RfbS2lwFISiqLLK+S2d0xhEel4ylRaA+RzICJ96BuJombxyrbWv7zPyi7RZbCCZ7D40=;tjlRzyJjBhIbIEHCGpyG+A=="
 ---

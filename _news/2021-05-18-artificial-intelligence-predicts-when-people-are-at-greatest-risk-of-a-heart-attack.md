@@ -73,20 +73,6 @@ related:
         width: 640
         height: 423
         isCached: true
-  - title: "Artificial intelligence predicts when people are at greatest risk of heart attack"
-    excerpt: "Scientists believe there are specific days and weather conditions during which the risk of a cardiac arrest is higher"
-    publishedDateTime: 2021-05-18T05:54:00Z
-    webUrl: "https://www.leicestermercury.co.uk/news/uk-world-news/artificial-intelligence-predicts-people-greatest-5425396"
-    type: article
-    provider:
-      name: Leicester Mercury
-      domain: leicestermercury.co.uk
-    quality: 32
-    images:
-      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5425431.ece/ALTERNATES/s1200/0_Coronavirus-Wed-Jan-6-2021.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5QJ/pJ46AodbDUZcpHgNG/UpHDsxUg0dzFWz2U1B2gLPcUQFVslAhtOuKLFlA+VR2QqPSwqKSSB4jQjdZsevFmAhk+Xi9vb4Daos53tc9k7bS8ARvYk3wjrIcBAR1aXt00Npf/0ZdU5wihNMqf33fHG2+6d3s0JwZP/QPLsdfM0LMlS27aPfPwxh3WbHnsXjxjAEjBLVW98UEWS8jnQHs6IE5h2kSmAvUGnP/LImaYJuLrQ00zhU/FKWVG8Q8GpngljYPx7t+l9WUB6ONsNIPcdWpWZEh1rgKD1d06QGZA+6P7Wm5QekQVsmF/c3Gyxa/GH+64MKSf33ye31qbcfiPqRYXASBMKYxQLiXL8F/zQ+H8SQ3htdT0PKHHfIzPtt7mqLvFHOpCXJmBA/eVFc7xlDTFwDJt/L/T10E69u1r9GHwdTI6nBWTV+jlPhMS0jdnE3aRMVxxGd7Koj3GIzJfh/dhyponoiC87+SvCvztbpsPS9HVVkrSu347T0SiE9h84eVrEqIcEkJHeOApSPZg==;XmTBpBAuYpHzf+f5+Z9QcQ=="
 ---
