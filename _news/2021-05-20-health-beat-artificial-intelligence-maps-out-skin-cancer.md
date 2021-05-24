@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/health/health-beat/health-beat-artificial-int
 webUrl: "https://www.wfmz.com/health/health-beat/health-beat-artificial-intelligence-maps-out-skin-cancer/article_27c9ccc6-b8cb-11eb-beb7-1b138c0e935c.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "HealthWatch: Artificial Intelligence Maps Out Skin Cancer"
+    excerpt: "According to the Skin Cancer Foundation, one in five Americans will develop skin cancer by age 70. However, when detected early the five-year survival rate for"
+    publishedDateTime: 2021-05-24T09:38:00Z
+    webUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-artificial-intelligence-maps-out-skin-cancer/"
+    ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-artificial-intelligence-maps-out-skin-cancer/amp/"
+    cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-artificial-intelligence-maps-out-skin-cancer/amp/"
+    type: article
+    provider:
+      name: We Are Green Bay
+      domain: wearegreenbay.com
+    quality: 57
+    images:
+      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "QcWJFFogpY51AhQbc7aL+uZWx06nJCpk5LLGuiQ4GXGJyAg1JZrNl0OPiVpolPxK5tzMmdvYX3Kf/Nbpm7J/bnSEQcUJMZSeVlIhALD4TigPVevah3nvU8rnHMSjWWibCSdeT6qt8lz1u4hGvZ7DtpwBZeBvsbB5TBpwfSFtjmgN466oeC5Mixc/1t6xP3Wa0Y/S5ekM3375xzDIcCen+MIhFUNn0/AnlGlvC0BO7GogmK27XPzwMr9KsJL4jdMFyjlsQH8aIw1oSTqcCuZDlybr5dCDvc1pB31YqU5M5iL1nbbko/3t3Y9gjktYoU+fzLpj/JWbzdYo2ZmddFeO3Yt6S10djukXvCXBQ1wM8e4=;iQYlRLcjx2Y3fTXdXTA3/Q=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "Self-Driving Vehicle Maker Arrival Partners With Digital Mapping Company Here"
-    excerpt: "British electric-van startup Arrival said on Wednesday it had partnered with Here Technologies, a digital mapping company owned by some of Germany's premium carmakers, to provide location and cloud services for its self-driving vehicles."
-    publishedDateTime: 2021-05-19T16:26:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/self-driving-vehicle-maker-arrival-partners-with-digital-mapping-company-here"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 31
-
 secured: "K/WyJ4v05aWYcrOKrSmkaAPUAu2dSzQiyTVZ+8bX6QpvFaaKIGwjdZ0Gwz8qlzGY4sQxoPBEEgGQBGYLGmwpJiZtON2b4X1DNuwHgdeCcHVaJMVrSHBJoGdz2yw/ICf7SMD8KZIxDPjfwPMQuV3YHhQ1bAjU2iZjue3nJaDjkQgtyEBVhojMLhpaBEWacBnGcvWNkm/JvHMKnEDSfy84ucIX/mddWNO4XO481yKeQTMwghOEtunMTyfkPl98P/ZwSW2FZckM9un3dYzeopTuaNwFwZaHDUerSf6xkJJkNaOTa9vSKImO68KZ/i7BJZKBHXu1Xac73L9eKMrBuIfBv/UtuOxf7yhe1lUAF3IwaQLdVQonFNQ+jIbs2d8cmMpI3GwySdXaCrV2pe1faTxWpHiSsUSskOrO3/BQOz+0UW4hQpEF9Czol2+rNHByzrFmYb6+Rkw3bfV8KBmNeAohRexIP+HiIEMXn7Gu9ncqBRACKoBrflI6psYpoEnPsu5NaZI5OOqu49b+oTQs9iDvDw==;dmLgG6SQvUS09JvtMj2Rmw=="
 ---
 

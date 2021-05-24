@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pedestrians Said To Need ‘Reprogramming’ For The Benefit Of Self-Driving Cars"
-    excerpt: "There is talk of \"reprogramming\" human pedestrians to cope with the limitations of self-driving cars, which some think is prudent and others say is impractical."
-    publishedDateTime: 2021-05-19T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/19/pedestrians-said-to-need-reprogramming-for-the-benefit-of-self-driving-cars/amp/"
+  - title: "Ultra-sensitive light detector gives self-driving tech a jolt"
+    excerpt: "Realizing the potential of self-driving cars hinges on technology that can quickly sense and react to obstacles and other vehicles in real time. Engineers from The University of Texas at Austin and the University of Virginia created a new first-of-its-kind light detecting device that can more accurately amplify weak signals bouncing off of faraway objects than current technology allows,"
+    publishedDateTime: 2021-05-20T15:00:00Z
+    webUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.html"
+    ampWebUrl: "https://phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-ultra-sensitive-detector-self-driving-tech-jolt.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Phys.org
+      domain: phys.org
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60121be798e828df8537895d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D46%26cropY2%3D4186"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ultra-sensitive-light.jpg"
+        width: 936
+        height: 524
         isCached: true
 
 secured: "FUGIUnh/XdK3xLfDgsw7+tl7oeG7ANlYJRAuymCNW5YBKdPZJB0EImpZSmXzDH6XOrDDMeHFnvE9lpx03rAsAYGDflAdyv3Pc1yKnlbor7rpNtd9Hi6wlsikDD+K2oopQkBIQ0rq5s7clx5JFYgynMMA56V31whtog90vnC+pMaBsmi/pRKY7whjGKZZ5PW80qpdvinz42cFgmfWZnx8QWDGFqIjQeI1NbqM3msJsI0wFmGU9B+Y3ZnF99UP3ZDIo7ktbPBdijWNusBdweVfao6tt16wXvaLWxjlDOJwklsRGo7fdS7MWHWjlFDlUhSLUZh1AKdn8Wet8arzFh5yBrgohTWlWHPKyhZEMvtCUHueNeqw7H22RQoll4z35irRTPvkb6VSpX+oJfJ+6neAO9Tt1V0l4EihI5yfmu3HMyQfVoBjv1R6V3397OhApF98lQ/Cmjh+F6BmyTetj5ZMq+lmNPrRYimEBgrPXmT2lx23PuEj7Eh05Tc31Uep9rqlUaDmHlmkNeLznaiXYe1DQA==;yfERaDBc8g5AJdw7rlBHKw=="

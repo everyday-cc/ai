@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
+    excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
+    publishedDateTime: 2021-05-24T05:45:00Z
+    webUrl: "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127"
+        width: 4032
+        height: 3024
+        isCached: true
   - title: "California OKs Pony.Ai Driverless Vehicle Permit For 3 Cities"
     excerpt: "The California Department of Motor Vehicles has issued a permit for Pony.ai to test driverless vehicles in three cities, a press release says. The driverless vehicles will be tested on public roads in Fremont,"
     publishedDateTime: 2021-05-24T02:29:00Z
@@ -100,6 +116,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
         width: 764
         height: 400
+        isCached: true
+  - title: "Startup Pony.ai receives approval to test autonomous vehicles in California"
+    excerpt: "California's Department of Motor Vehicles (DMV) issued a permit to Chinese autonomous vehicle startup Pony.ai to test its driverless cars without safety drivers behind the wheel on specified streets in the state's three cities of Fremont,"
+    publishedDateTime: 2021-05-24T06:37:00Z
+    webUrl: "https://www.chinaknowledge.com/News/DetailNews/91838/"
+    type: article
+    provider:
+      name: chinaknowledge
+      domain: chinaknowledge.com
+    quality: 35
+    images:
+      - url: "https://img.chinaknowledge.com/newsletter/20210524/052403.png"
+        width: 973
+        height: 460
         isCached: true
 
 secured: "j3h3VqDyOG9D91g/ZNLw/0wuX3ecbzUn46O4s8FFzuhbPcpkuXYJrtZw/QrTy93dVS/+acPOQuC3UV5fAVVQNp6PwbiZdJM/3IVPERPxb+cJOTgZkZFXe5Nl5fuAX/+VkTm5ZSKimiKR+37tRvr4nVPIL7O0dD7xIKKP2rBbStI8QOTZAS5dbf6AzJ8vdp71OQdCElfgmHuUiR/4KKax3BVqpfZMsEJ7EhJcrwkKxFcbq2tYEaTJR9pj5CVWhOTdbGN28IbQxWxkfimw+dtW4a6yBQzjbFVstPFIfT9J2K5yf5PpNeokjS4zRbgvM4r/U8fTvFOYFz2KJrA3C6bjWxQXfN5Oc1W/SypksJGIgL0OdWMCRtXYvvBR5aC5g5/yBBjAb2uCtcawC90Q/mSb9l7Z4fVRQWpKa/L5ErKR7g11+EEmKHYTI5TyKQtaVAYebyxPy/M4UtVAWZSKKQMNL6Sf4R+xwUWGkkgZuKPdqyZetY2xjCkVnt22Um70Gu8xvpx/xW3dTmUgD3P+ogbLUQ==;G2P7TfwgpJQ3fZ9Zz/qVuQ=="

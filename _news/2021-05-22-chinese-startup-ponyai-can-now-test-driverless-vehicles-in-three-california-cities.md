@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-te
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
 type: article
 quality: 98
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
+    excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
+    publishedDateTime: 2021-05-24T05:45:00Z
+    webUrl: "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127"
+        width: 4032
+        height: 3024
+        isCached: true
   - title: "California OKs Pony.Ai Driverless Vehicle Permit For 3 Cities"
     excerpt: "The California Department of Motor Vehicles has issued a permit for Pony.ai to test driverless vehicles in three cities, a press release says. The driverless vehicles will be tested on public roads in Fremont,"
     publishedDateTime: 2021-05-24T02:29:00Z
@@ -104,6 +120,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
         width: 764
         height: 400
+        isCached: true
+  - title: "Startup Pony.ai receives approval to test autonomous vehicles in California"
+    excerpt: "California's Department of Motor Vehicles (DMV) issued a permit to Chinese autonomous vehicle startup Pony.ai to test its driverless cars without safety drivers behind the wheel on specified streets in the state's three cities of Fremont,"
+    publishedDateTime: 2021-05-24T06:37:00Z
+    webUrl: "https://www.chinaknowledge.com/News/DetailNews/91838/"
+    type: article
+    provider:
+      name: chinaknowledge
+      domain: chinaknowledge.com
+    quality: 35
+    images:
+      - url: "https://img.chinaknowledge.com/newsletter/20210524/052403.png"
+        width: 973
+        height: 460
         isCached: true
 
 secured: "nCM46bs7QACG5pyOfPIyb+r3rqexToE6Ybp9Myt+EPjSx6Big/pIFM2ygomodQLoV2PoW84VMHf77mEfpLJX0GgfggmN8VUhmDtw5gXDiBAGTD5wdjRJsIrIW+nWTiEGo606GwiJcm2lm7gZ9jUGZopR1AER1fvdogWFauF/yDYdX6SYC4SZq6158VMQOaP0H6csJih3paDIUUpx5MD30Xk772ny1Ly7JF65zeIzQZhCaVSgdR4T4puxlWmArS/zAe/HQnuhCYrVpmDF7cjylmdinquh56WS6yN+BMz++NyT/noGtT0i7XscyBi1skvnBo2D1raCqPQptrbX3+uYFAM+qv8K8zjzx+RiGowMm8jwZvBmKWaMDWPFbbQ7CbnSUvTKH66Y4oHbOWONibuK+wkcfdzKpMewqDofOGwuD5sPsos6G62t+gswkG5XZsYPopiFdZvk6qUsff4XMptqoCfXtQC/gDj1pJLU0dhcn6GlKa48tqTY0hpvnmTeNbwinKUt7lKZ8CHRJhZUyBcwzA==;EAInd89A5lMmuAnQjDjHTw=="

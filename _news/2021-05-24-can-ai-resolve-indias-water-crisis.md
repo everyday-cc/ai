@@ -23,6 +23,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Investment, research driving AI growth in India, says study"
+    excerpt: "Higher investment and research is driving significant growth of Artificial Intelligence (AI) in India, finds a study."
+    publishedDateTime: 2021-05-24T09:26:00Z
+    webUrl: "https://www.sify.com/finance/investment-research-driving-ai-growth-in-india-says-study-news-topnews-vfyj05dejgdaj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/artificial_intelligence_uiepq9gafiaif.jpeg"
+        width: 650
+        height: 366
+        isCached: true
+
 secured: "6G1wWnPLlV63acnkkQrEd+7bvR5vKKuB24CrZaJvz4PMQnPmfgM/ou/2kHo07w5MEsj2ZUjJ2lz/lCqx4heoLEQxTIH1P7rryh4IlfXwY7zLU0gH9tsoF80t7hr+6DT1kqG2bBGCfayQ1WvRVWbBR1zVc1t+WKgyuYsvXvNCoiWs/rUQoMgzmcQXJpScXqwkM/dF/xrS7TCYsL49CdjgYZM4mU0/5bKw/1QthhWC3gW5w8jlCho5WWM0pF4/mlTCv6lolnFappTzVk/9Fdj73ZdYE+WrptXryS6kSgkwHSJOG9bA2RBT4CoDO6qSIUyy/bCdnEoxHCwe1Wtk1GQ679IjRVouSxyIMyLS2irLZj8=;/wdtA3HhA6RLERriMkWs6g=="
 ---
 

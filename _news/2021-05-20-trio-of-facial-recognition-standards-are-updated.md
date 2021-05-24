@@ -99,20 +99,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon extends police facial recognition moratorium"
-    excerpt: "Amazon has taken the time limit off of its self-imposed moratorium on offering its face biometrics technology to U.S. law enforcement."
-    publishedDateTime: 2021-05-19T16:17:00Z
-    webUrl: "https://www.biometricupdate.com/202105/amazon-extends-police-facial-recognition-moratorium"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
     excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
     publishedDateTime: 2021-05-21T13:40:00Z

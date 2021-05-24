@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-c
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
         width: 300
         height: 243
         isCached: true
-  - title: "Microsoft Expands Partnership with LaLiga"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and LaLiga has announced an expansion of their partnership that is focused on digitally transforming the sports experience on a global scale."
-    publishedDateTime: 2021-05-19T15:13:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-expands-partnership-with-laliga/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
   - title: "La Liga and Microsoft ink new technology-led partnership"
     excerpt: "Spain's football league (La Liga) and Microsoft have enhanced a partnership that began in 2016 by signing a new agreement to boost revenues for clubs and launched a new commercial offering featuring the latest sports technology."
     publishedDateTime: 2021-05-20T07:17:00Z

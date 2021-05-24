@@ -107,15 +107,6 @@ related:
         width: 300
         height: 243
         isCached: true
-  - title: "Microsoft Expands Partnership with LaLiga"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and LaLiga has announced an expansion of their partnership that is focused on digitally transforming the sports experience on a global scale."
-    publishedDateTime: 2021-05-19T15:13:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-expands-partnership-with-laliga/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "VZWA7NWGrwO6vEplb6mBEY3+DfdYyZ+JUUvQ6XNzM4ETVjh2GybkXz3xuRPafZ0tV0MLdmY3ytOJ2yiadALENhyWpbnUs3Tte7GUuYBSVi7qfE2BCCfrPBt2CZlAQl5PehvT0pT7jRwfnqCMQQts6JWV+SkgKk02I7z1RFB8QGnFm5r3AcJL7CAX2536YfaFN/EH6Q9EgFA1NtYhrYPMXmJ1+y0zRZ0IaMleSeqVhw8C1j5Hth9j5ViJBqD/t+ySgacn94Y0W6VE5ahZDybqIMJRBL1OdB+Hs7dEAbyKOOGvZ5a8pglehAgkY8JhEfhuz5ykWIYsX86fd53O+t8YW7T00/4JSTeFs2QOgmjNSWA=;v3BqDZpYa/69pKVE09MMag=="
 ---

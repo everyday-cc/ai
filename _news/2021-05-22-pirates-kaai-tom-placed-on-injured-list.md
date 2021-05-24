@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Pirates' Ka'ai Tom: Dealing with left wrist discomfort"
-    excerpt: "Tom is out of Wednesday's lineup against the Cardinals due to left wrist discomfort, Kevin Gorman of TribLive.com reports. Tom apparently suffered his wrist injury Tuesday, and Ben Gamel will take his place in left field Wednesday."
-    publishedDateTime: 2021-05-19T16:59:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-dealing-with-left-wrist-discomfort/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-dealing-with-left-wrist-discomfort/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-dealing-with-left-wrist-discomfort/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
   - title: "Pirates' Ka'ai Tom: Sits again Thursday"
     excerpt: "Sits again Thursday"
     publishedDateTime: 2021-05-20T16:59:00Z

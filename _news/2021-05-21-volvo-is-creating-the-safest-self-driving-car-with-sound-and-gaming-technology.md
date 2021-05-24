@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Costly Pursuit of Self-Driving Cars Continues On. And On. And On."
+    excerpt: "Many in Silicon Valley promised that self-driving cars would be a common sight by 2021. Now the industry is resetting expectations and settling in for years of more work."
+    publishedDateTime: 2021-05-24T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/24/technology/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/24/technology/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/24/technology/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/22/business/22driverless/22driverless-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Self-driving cars might never be able to drive themselves"
+    excerpt: "No cars are fully self-driving yet, despite a feature from Tesla called \"Full Self-Driving.\" The California Department of Motor Vehicles said this week it’s reviewing whether Tesla is telling people that its cars are self-driving when,"
+    publishedDateTime: 2021-05-21T00:00:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/05/tesla-ft-imf.jpg?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
 
 secured: "BM+dwVJpcpQS0tMqZpAQGFy7zAFsJh4/JzoI64u07w+3tg63u1i7O8wqXpTApFzI50htKf+/zeyPiM74SWEDLpuh3rG+TmGg8cHBCxkroeXF1Vk0YFRdZG0Ju34MZUrvx3k2G/Y78q1pFi6FBhiwfGhm8pqaVj7b6xmFqp6kUhJDtIlesyIbEwY8LuCHnUOeGmZhXuwTyvalb7JDClAsEPVpBk1rrVmqDQ3PFfx57WARFe6MDgJ6nCRgUwaVYlWTPFyZ1gXQaS0OocEqjVDkXJFeyd9SJl45GusDW0jGJctzprK51RMyn6xNnY7Xz6ksCPLv4v50L36kiMDI9doIZsi90eUpQn/rCekYbQ+VM46LMg2Vi5gsQPxHTYAMWj/SF0uZk3QWefKfY+CMYexiITKiVtMCfApoPMm6aA+NNoRJJ2C+N0ZZ/xjpL1SnxON9Qa4FNZ9u4lAKj8pZEMR9wwYCVbnyXnft79YkXnMxvGBW+Y7T47fBiaa6XDFpwd8beEEx44ILm2UOMaplNlJiSg==;prntco7V+VrYHwHqrFFsJg=="
 ---

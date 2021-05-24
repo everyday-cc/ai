@@ -61,20 +61,6 @@ related:
         width: 1000
         height: 597
         isCached: true
-  - title: "Alteryx Introduces Innovations in Analytics Automation, Data Science and Cloud Analytics"
-    excerpt: "Alteryx, provider of a platform for end-to-end analytics process automation, has announced a series of new innovations in analytics and data science automation, analytics in the cloud, machine learning (ML),"
-    publishedDateTime: 2021-05-19T16:03:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alteryx-Introduces-Innovations-in-Analytics-Automation-Data-Science-and-Cloud-Analytics-146963.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 15
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "POPaj0F3E7j2QMZZFstRza90pq4u9KjbV9cdLNH+9N0jwpo42i+ppnU5Kgep2U7SsEwYEHgLMQ+Nt5uuuPzANA2U8NorkaHFU0B5JGaw52hG2DVWGep3NvyGm2k0GpGrRUxJy4zbpTniCScCP/+2q7OOpJ7XDBFLXzQo8hrmaqcnas/lwr+QU8Lx8opLps9NChk6Imf9yy1mmYp+MiDPK+mnBZkkCQWg/eqNrtRsxZHo4Q9QJ/YqoBPEMDZmqIODHCiyXkvbN+yGkGxGODW85nHs6DB0RPh8qVgCqbCZ5Eyd0o0mk6nsW6pcCP+yKmXqNbVvgfFWnd9/Fu6QLsFd05xsDVCAFbY/uZos4zkRqz+5vwTaMAq2K2LwXi7HXSp/mOEvgLgW4bjfUVDuwdbizaKXRY5jajKkkfdCpBEBf5NkqN0GHAkiQUDioleq5K5anUxgSo69lTCYFbf1TUqe9GoDExcqRWK2WJZDKtgTzYx/RvN82/oAQeZqvfsRO/ce7OmO+WgUK75eJF98QmNMQw==;AZC5usCkDZehojesZhYnYA=="
 ---

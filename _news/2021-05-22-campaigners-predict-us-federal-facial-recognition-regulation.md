@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon extends police facial recognition moratorium"
-    excerpt: "Amazon has taken the time limit off of its self-imposed moratorium on offering its face biometrics technology to U.S. law enforcement."
-    publishedDateTime: 2021-05-19T16:17:00Z
-    webUrl: "https://www.biometricupdate.com/202105/amazon-extends-police-facial-recognition-moratorium"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Trio of facial recognition standards are updated"
     excerpt: "An article published in the journal Standards Engineering calls out developing ASTM International standards for use in facial recognition."
     publishedDateTime: 2021-05-20T16:18:00Z

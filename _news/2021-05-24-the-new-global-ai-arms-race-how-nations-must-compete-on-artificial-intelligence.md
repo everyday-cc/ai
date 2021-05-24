@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 649
     isCached: true
-
-related:
-  - title: "Embracing the rapid pace of AI"
-    excerpt: "In a recent survey, “2021 Thriving in an AI World,” KPMG found that across every industry—manufacturing to technology to retail—the adoption of artificial intelligence (AI) is increasing year over year."
-    publishedDateTime: 2021-05-19T16:45:00Z
-    webUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/CliffJustice-Header.png?w=1920"
-        width: 1920
-        height: 1005
-        isCached: true
 
 secured: "YvVN8pzbSMDrZyemRdzeatYx6OTBVjfyRel3j7mE1+68+MfWA9/+3p/sAnvR0INKfFxv3RHmaK3TE52sxm00DeradnMkzNedZYpYzexvP4zONzpudxNrEXTkuiHdVQuXMSM9UUWYmEzmtxTGoBDctMw3D9biq1xaqwaX/1bemGvjyz2C2gITWwUO0VbLJxiGCVWq9THCweGgAUWOr16/hgZ/3relhB/gu57+XHIxVbgkduDI/EZpxXZOaRX5S+O0zfm1WGC23NG2BiXjHXC5spAOZb63KrGJPzfWZ+oWERSFX/oukKTbkxxZ0zn9kPiLyT6CdPzDq4HYdWrxXwVuIALAmO1HkirUjX+h2ZqubcnvdFP3rC+KPglXxr2J2W7MbqxOwnfuQIE1IErZifXkotx+3mnEzzt5Wefb12m+lbssBEayGoCRUywlwWgtM9g4o+WMSWlZpNKzleVkUb0PatKg9RmFudNE6Hg5yNNFqEyfJQzmGwok58vfOL6/NJ2KVOQQ/65qHj754fKaDFmBDg==;1Ac4LkR5tvDmGu//6hm6XA=="
 ---

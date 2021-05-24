@@ -1,0 +1,49 @@
+---
+category: news
+title: "AI didn't invent privacy abuse - how the history of data privacy informs our future"
+excerpt: "There is no AI Ethics without data privacy. But how do we account for new privacy legislation like GPDR and CPRA - and also the resistance to it? Here's how the regulation of privacy evolved."
+publishedDateTime: 2021-05-24T09:21:00Z
+originalUrl: "https://diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future"
+webUrl: "https://diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future"
+ampWebUrl: "https://diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future?amp"
+cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future?amp"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: Diginomica
+  domain: diginomica.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "http://diginomica.com/sites/default/files/images/2019-12/shutterstock-Juergen-Faelchle-148272653.jpg"
+    width: 740
+    height: 450
+    isCached: true
+
+related:
+  - title: "Statistical bias in context - AI didn't invent quantitative methods of bias"
+    excerpt: "An effective approach to AI Ethics must reckon with bias, algorithmic discrimination, and privacy. These terms have a historical context that should be understood - if we want to deploy AI ethically."
+    publishedDateTime: 2021-05-20T09:17:00Z
+    webUrl: "https://diginomica.com/statistical-bias-context-ai-didnt-invent-quantitative-methods-bias"
+    ampWebUrl: "https://diginomica.com/statistical-bias-context-ai-didnt-invent-quantitative-methods-bias?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/statistical-bias-context-ai-didnt-invent-quantitative-methods-bias?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2016-01/e-book-verus-real-book.jpg"
+        width: 1267
+        height: 709
+        isCached: true
+
+secured: "a+wTT/KSS43mbFQzMdQ6S4rB0c8vYMB+TNeqqxajZmf0WNbtIe8F1SKWivilK0YJMSbRdLYnG83o93QPxdN3rPaStJSc3sAQarAZO8ejMoLFc+yCszLAoXtPwdOMmDO2RIhb9qwOyFsRD9LWzeLhWE9rWLhWgpPCJeZx9KLRMeyAwuYx7i0uul6eOrdcqOnNW25ipFZAvJtWi87Q4QngZKfUykiktUIySbgC23WIo9gmmVxe1zXC5ysTxeksY/Ecpr150D++/BZ2wXm0Xvb2zWAYFCDehIuHkFMcEzJQ0YiSwaNQfJhetaOkP05NoLRFw5HpEY25uzQbi5jRXE92UNX2NuVN7GaNLI5TToeQxbY=;ibO1pdPZzTXoIKeCooKi7g=="
+---
+
