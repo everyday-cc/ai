@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A machine learning model behind COVID-19 vaccine development"
-    excerpt: "When starting a vaccine program, scientists generally have anecdotal understanding of the disease they're aiming to target. When COVID-19 surfaced over a year ago, there were so many unknowns about the fast-moving virus that scientists had to act quickly and rely on new methods and techniques just to even begin understanding the basics of the disease."
-    publishedDateTime: 2021-05-19T14:32:00Z
-    webUrl: "https://phys.org/news/2021-05-machine-covid-vaccine.html"
-    ampWebUrl: "https://phys.org/news/2021-05-machine-covid-vaccine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-vaccine.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Artificial intelligence has been of little use for diagnosing covid-19"
     excerpt: "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts"
     publishedDateTime: 2021-05-19T17:24:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"
         width: 600
         height: 400
+        isCached: true
+  - title: "Comparing machine learning algorithms for predicting ICU admission and mortality in COVID-19"
+    excerpt: "As predicting the trajectory of COVID-19 is challenging, machine learning models could assist physicians in identifying high-risk individuals. This study compares the performance of 18 machine learning algorithms for predicting ICU admission and mortality among COVID-19 patients."
+    publishedDateTime: 2021-05-21T11:16:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00456-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 28
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00456-x/MediaObjects/41746_2021_456_Fig1_HTML.png"
+        width: 685
+        height: 443
         isCached: true
 
 secured: "eB+02FgGxYvh4oowzBn/+fF5W1E9JEqrQIlvNnfDUxTr+rgWok5NtMa/yOyKtPwS4ROn/RrgitJ3Zrn+TKeTiEZvBfSYD6cArmyFYl1wEhidfEDtfhvn6uW3v80iHmtN62G3HhuIvJGaK1lLuF7T9luFrY5M6gCx942jSQM1utwbjKw5gk5S7F1ftaq/LcyRguKeH0dFv7NRg7p0PQZ/sUA0P6rjzEFBckZs3TuP5PAKtUwBUGH+VXrAACahzu5ThaYt/cBTQo3ahZEyrYNsizt2EcVVSzSH9qAjqwPt0scRg2kT2TX2FKR+qtMdXCPtVZWRLZWj5KxlSOl21rmN92o3JRy+m9Xxg/ezWUbgRQI=;Y6JslEnQqSrCLI56HUDTqw=="

@@ -1,44 +1,25 @@
 ---
 category: news
 title: "Outlook on the Artificial General Intelligence Global Market - Nearly 700% of Companies will Deploy AI-Embedded Smart Machines by 2027"
-excerpt: "The \"Artificial General Intelligence Market: General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
-publishedDateTime: 2021-05-21T08:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/outlook-on-the-artificial-general-intelligence-global-market---nearly-700-of-companies-will-deploy-ai-embedded-smart-machines-by-2027-2021-05-21"
-webUrl: "https://www.marketwatch.com/press-release/outlook-on-the-artificial-general-intelligence-global-market---nearly-700-of-companies-will-deploy-ai-embedded-smart-machines-by-2027-2021-05-21"
+excerpt: "The \"Artificial General Intelligence Market: General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 -"
+publishedDateTime: 2021-05-21T08:58:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/g21231358/outlook-on-the-artificial-general-intelligence-global-market-nearly-700-of-companies-will-deploy-a"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/g21231358/outlook-on-the-artificial-general-intelligence-global-market-nearly-700-of-companies-will-deploy-a"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21231358"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21231358"
 type: article
-quality: 37
-heat: 37
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Global Artificial General Intelligence Market (2021 to 2026) - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
-    excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
-    publishedDateTime: 2021-05-20T06:23:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210520005568/global-artificial-general-intelligence-market-2021-to-2026-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-
-secured: "uCMDjuAu0TXvlbaxaUffNaKmxinR6mfPMIpahTXP3YZkmMzuUxDwNhgZXX6xJnfMu+GmLLQIH1+MB+oeHM+GlQdPGNIt8EZ2WzYKtx+e5gu0vb/l4sNoiPootIx67QPxJOZbFBL7Qb6b4m1JUYiWUgiNx9svYjoR2LTR8EyrflTICevNirtmlUZy/pdqLlxfG7QrbeqWcSavzMeeIejqUZjhC+Ng6BzINF940eGovubUtv0dw36Lt10rPWZau1/INT3KqGyXzsJxLBquX+n1HgpPQSUP0nW1Z+LGTFfaOdaeD0D22r2ph+0d8gKa79punwuHsXAvpBgwc0UlCThqjPzTjFaWS+B83O8a74lvzHw=;4rhn0Hp7gcet6aueLgDAjg=="
+secured: "GTtiX1MQJAxl9IuEsY3pq172Mjq9PUsvfD8gpf/8u6IG6rLcWmSgn0tlizZxtxEQ1mkgBR8NBtVu3OF2rVM6rl1IpD41z/iIkxAOwFQWkw6+REWNPnjOfQ4Yl46jpyiuZ8ryBzz7zq4o3SwqrR6AZC3aOZfm6AQV4I7g+lvqrkOQ0XSKsbNUIJJJTPa+O6nemHIbCBIfFECNZtWh/OQULXixa/C7w9Xay4OG5rMBXh2p3Ce42UKFWJWs6PYpSpERDTWBGrDpxOXbRctZE/niRcwm8z+Gg67faB8fyKH/OR5FAjDloWBxsYv+oH4oNAuao67JrHQ2egFvcx7NSpjSVtPk9EbljmnWgEdO3Dl0apM=;XqAie7baWROYdutT6SeK+g=="
 ---
 

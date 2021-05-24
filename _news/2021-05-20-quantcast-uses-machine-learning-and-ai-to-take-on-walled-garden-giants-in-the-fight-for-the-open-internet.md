@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/05/19/quantcast-uses-machine-learnin
 webUrl: "https://siliconangle.com/2021/05/19/quantcast-uses-machine-learning-and-ai-to-take-on-walled-garden-giants-in-the-fight-for-the-open-internet-remove-term-cookieconundrumsummit/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body"
-    excerpt: "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians."
-    publishedDateTime: 2021-05-19T14:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1513251/Clarius.jpg"
-        width: 400
-        height: 275
-        isCached: true
   - title: "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body"
     excerpt: "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians."
     publishedDateTime: 2021-05-19T19:11:00Z

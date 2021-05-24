@@ -39,20 +39,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "Google I/O 2021: Android 12, Quantum AI campus, Flutter 2.2, Vertex AI, and more"
-    excerpt: "Google announces the beta of Android 12, new Quantum AI campus, AI improvements and more at the Google I/O 2021 conference"
-    publishedDateTime: 2021-05-19T14:55:00Z
-    webUrl: "https://sdtimes.com/softwaredev/google-i-o-2021-android-12-quantum-ai-campus-flutter-2-2-vertex-ai-and-more/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 64
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Why IBM’s AI, Hybrid Cloud Strategy Is More Than Good, Its Imperative"
     excerpt: "The fact that IBM spent a lot of time at its recent Think conference – the company’s flagship annual event for customers and partners — talking up artificial intelligence and cloud computing is no real surprise."
     publishedDateTime: 2021-05-20T12:23:00Z

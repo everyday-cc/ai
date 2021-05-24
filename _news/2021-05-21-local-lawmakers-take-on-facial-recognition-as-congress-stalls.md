@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawm
 webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 959
     height: 368
     isCached: true
+
+related:
+  - title: "We could see federal regulation on face recognition as early as next week"
+    excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
+    publishedDateTime: 2021-05-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "eYXa3XqOOriYHgxLDbYDHsshi360RD6dYseRhRj0fwHNIDCdw2/s+aXvACDchbKHyakEOljTaTrYvuZIkOxCHgeb6U/3b00pot6Q7YpIQ60TJZdFGTJamnWVO6oujvnVWrexsJgjZ0KnLxE+V5gXr8Hh3Vj5fVHYNcH6JjOluB+WfOZpp4H5xvlcTC2441lg8jSp/fLKl0P/0ABVqFRVZUmateqjORuWgVQPmNUcoXcuhSL1IOFR8alrUx8ZYporMXwseVa8Gj4B8b0kVFyF30ss6ewGqKhuSSL00LWaz31MQDLKKvu6QVzyAnw9grKqBPZNmk0LqQwCEVET43Mv0mQEde0HOR4aJTagOPSVyPo=;5MeWZfenk/L8oRmo6Xinsw=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "Google I/O 2021: Android 12, Quantum AI campus, Flutter 2.2, Vertex AI, and more"
-    excerpt: "Google announces the beta of Android 12, new Quantum AI campus, AI improvements and more at the Google I/O 2021 conference"
-    publishedDateTime: 2021-05-19T14:55:00Z
-    webUrl: "https://sdtimes.com/softwaredev/google-i-o-2021-android-12-quantum-ai-campus-flutter-2-2-vertex-ai-and-more/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 64
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/05/May2021-cov-500px-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Global Biological Data Visualization Markets, 2020-2021 & 2025 - Adoption of Artificial Intelligence for the Analysis of Biological Data & Rising Need"
     excerpt: "The \"Global Biological Data Visualization Market (2020-2025) by Technique, Application, Platform, End-Use, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-05-20T15:54:00Z

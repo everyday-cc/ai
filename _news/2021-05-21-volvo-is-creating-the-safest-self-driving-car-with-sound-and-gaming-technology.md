@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Upgraded Radar for Self Driving Cars,"
-    excerpt: "Self driving cars are quite popular these days. They provide a high level of security and comfort for the rider. As the market for these cars continues to grow, many companies are trying their best to make their cars more efficient in order to attract the customer."
-    publishedDateTime: 2021-05-19T13:20:00Z
-    webUrl: "https://techstory.in/new-upgraded-radar-for-self-driving-cars/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/upgradedrada.jpg"
-        width: 800
-        height: 479
-        isCached: true
 
 secured: "BM+dwVJpcpQS0tMqZpAQGFy7zAFsJh4/JzoI64u07w+3tg63u1i7O8wqXpTApFzI50htKf+/zeyPiM74SWEDLpuh3rG+TmGg8cHBCxkroeXF1Vk0YFRdZG0Ju34MZUrvx3k2G/Y78q1pFi6FBhiwfGhm8pqaVj7b6xmFqp6kUhJDtIlesyIbEwY8LuCHnUOeGmZhXuwTyvalb7JDClAsEPVpBk1rrVmqDQ3PFfx57WARFe6MDgJ6nCRgUwaVYlWTPFyZ1gXQaS0OocEqjVDkXJFeyd9SJl45GusDW0jGJctzprK51RMyn6xNnY7Xz6ksCPLv4v50L36kiMDI9doIZsi90eUpQn/rCekYbQ+VM46LMg2Vi5gsQPxHTYAMWj/SF0uZk3QWefKfY+CMYexiITKiVtMCfApoPMm6aA+NNoRJJ2C+N0ZZ/xjpL1SnxON9Qa4FNZ9u4lAKj8pZEMR9wwYCVbnyXnft79YkXnMxvGBW+Y7T47fBiaa6XDFpwd8beEEx44ILm2UOMaplNlJiSg==;prntco7V+VrYHwHqrFFsJg=="
 ---

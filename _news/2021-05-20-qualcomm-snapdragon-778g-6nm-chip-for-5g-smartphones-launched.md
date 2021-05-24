@@ -7,7 +7,7 @@ originalUrl: "https://www.techshout.com/mobile-phones/2021/20/qualcomm-snapdrago
 webUrl: "https://www.techshout.com/mobile-phones/2021/20/qualcomm-snapdragon-778g-5g-mobile-processor-unveiled/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 690
     height: 480
     isCached: true
-
-related:
-  - title: "Qualcomm unveils chips to power the next generation of smartphones"
-    excerpt: "Qualcomm unveiled its new Snapdragon 778G5G mobile processor platform to power high-end smartphones coming in the second quarter."
-    publishedDateTime: 2021-05-19T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/"
-    ampWebUrl: "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/qualcomm-event-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 665
-        isCached: true
 
 secured: "JabjFm+w0cHbgg8Jpe9u1kvjNcphhgubRRAvmZBknLXbqOJHvsGTzH5Wv2uWjulyCiKzJY1gG4o2N2Lm0Ao2Orozl5ptelphya89DwFFX+XE+stouHcPYu1qBFV9c5iyHVtCZAcRx9j8ToZCYH3n80vn3k/ngdQq9VjYk/L5X50wYtkVW2ggvvkdv0S8hnFGkgZSsfVSPUiegnvFB0hIOS9iKZVg56X4UD5jx9s3gTGYHYmsANh5AbsrIKqADngj7HiUa6QnJIZOfm4aHaI9W4Ng0HNKscpO567jugVRLUtEAQxtJztHoBfqIoe3BFeX5J/ypYqrQxh9BVB7Jcz5IDUxCUlAFnW+DvT6UQU4s9M=;6YQxPWt7q4CY/TZPWnxfQg=="
 ---
