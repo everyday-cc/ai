@@ -80,9 +80,9 @@ related:
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z
-    webUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
-    ampWebUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+    webUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
     type: article
     provider:
       name: KRON4

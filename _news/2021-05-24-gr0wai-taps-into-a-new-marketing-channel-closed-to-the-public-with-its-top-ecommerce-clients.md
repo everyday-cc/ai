@@ -25,17 +25,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Small Businesses and eCommerce Startups Use Pencil’s New Creative AI Video Ad System to Level the Playing Field"
-    excerpt: "Pencil, the Creative AI company backed by Sequoia India's Surge program, announces today the availability of a new service which provides small businesses and startups with access to the same “Machine Generated Creative” (MGC) platform as larger brands,"
-    publishedDateTime: 2021-05-20T02:01:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210520005364/small-businesses-and-ecommerce-startups-use-pencils-new-creative-ai-video-ad-system-to-level-the-playing-field"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "DIPTdbJzkwZBMo4B1PFOLjS5F7W/prb0/2QR3zJp18FFVcxAdGBNITMcX0kjbr8S/vDLrvk7hEfEB56OntAMHmwr0qo7NOkegXgl/oe9zpasG+zNo3h9P0htPB6PrEeszlAS4A3MWHQtAe1EgG1lVYfekXSRpaZNtDMhhR5ryl9Nj8ZlN36j897uZsKBMqe28aIeeloItOBV4X+3RHts7yjek953Hvwu97PS0fMdEapnsh0Ssk9JHqCqQg+jwAtH5WfR4s6tOPtpCbqaR1I3ayf8o73TZAx7E6KFh1sO25ZJ9TJ8JvN7ZYyEA0j6kzBenaFceephaHoCZSxOJh2dUIVF8t2pTWflMV8H9vlStJ0=;sxCHDP31eDv7vB0kMeJkoQ=="
 ---
 

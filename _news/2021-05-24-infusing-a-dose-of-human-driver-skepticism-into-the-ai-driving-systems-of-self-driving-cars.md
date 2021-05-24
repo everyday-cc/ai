@@ -61,6 +61,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Costly Pursuit of Self-Driving Cars Continues On. And On. And On."
+    excerpt: "Many in Silicon Valley promised that self-driving cars would be a common sight by 2021. Now the industry is resetting expectations and settling in for years of more work."
+    publishedDateTime: 2021-05-24T18:21:00Z
+    webUrl: "https://www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/22/business/22driverless/22driverless-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Self-driving cars might never be able to drive themselves"
     excerpt: "No cars are fully self-driving yet, despite a feature from Tesla called \"Full Self-Driving.\" The California Department of Motor Vehicles said this week it’s reviewing whether Tesla is telling people that its cars are self-driving when,"
     publishedDateTime: 2021-05-21T00:00:00Z

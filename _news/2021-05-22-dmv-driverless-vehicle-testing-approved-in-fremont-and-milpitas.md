@@ -3,10 +3,10 @@ category: news
 title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
 excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
 publishedDateTime: 2021-05-21T20:44:00Z
-originalUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
-webUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
-ampWebUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
-cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+originalUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
+webUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
+ampWebUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
 type: article
 quality: 59
 heat: -1
@@ -160,6 +160,6 @@ related:
         height: 460
         isCached: true
 
-secured: "j3h3VqDyOG9D91g/ZNLw/0wuX3ecbzUn46O4s8FFzuhbPcpkuXYJrtZw/QrTy93dVS/+acPOQuC3UV5fAVVQNp6PwbiZdJM/3IVPERPxb+cJOTgZkZFXe5Nl5fuAX/+VkTm5ZSKimiKR+37tRvr4nVPIL7O0dD7xIKKP2rBbStI8QOTZAS5dbf6AzJ8vdp71OQdCElfgmHuUiR/4KKax3BVqpfZMsEJ7EhJcrwkKxFcbq2tYEaTJR9pj5CVWhOTdbGN28IbQxWxkfimw+dtW4a6yBQzjbFVstPFIfT9J2K5yf5PpNeokjS4zRbgvM4r/U8fTvFOYFz2KJrA3C6bjWxQXfN5Oc1W/SypksJGIgL0OdWMCRtXYvvBR5aC5g5/yBBjAb2uCtcawC90Q/mSb9l7Z4fVRQWpKa/L5ErKR7g11+EEmKHYTI5TyKQtaVAYebyxPy/M4UtVAWZSKKQMNL6Sf4R+xwUWGkkgZuKPdqyZetY2xjCkVnt22Um70Gu8xvpx/xW3dTmUgD3P+ogbLUQ==;G2P7TfwgpJQ3fZ9Zz/qVuQ=="
+secured: "EzxGSt1FsrqXK36pNemD1mv0Ny0t2cGhw2IzDwrEPAYVheoZcsGpRKJIi4sMYymejWcad2aiqUQpQ29g+xGT5xRqBgEfwLVCkcUq0XBp7BUQW+bW1+8oPv7UhXphEpw1j1v83Z9/prtGCewL8YJi8jyPht4ceWB9D+MetLlkkCLZERwBuR3xDjRqb1gDDuEkrgrFbJidaMdppd7oWDj6hiFhKn9ZFZh501L8NMzZY5zYk1lHQVu+yidO40CizNwBNFmzC7BL/Zk74QW3gp+BOEYhwlFzxXb+56TMgEhqv3NaryMct1+qa4Q6BAilOs+TjAqDNMU4nR7GoayHNFQphLI0VKlUApb5uGTkckVMEB8=;q5lZzbiO/99X17FL3LYiRg=="
 ---
 

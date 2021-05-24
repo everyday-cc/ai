@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/1-2361-Feature-Store.jpg"
         width: 800
         height: 408
+        isCached: true
+  - title: "How lekker got more insights into their customer churn model with Amazon SageMaker Debugger"
+    excerpt: "With over 400,000 customers, lekker Energie GmbH is a leading supraregional provider of electricity and gas on the German energy market. lekker is customer and service oriented and regularly scores top marks in comparison tests. As one of the most important suppliers of green electricity to private households,"
+    publishedDateTime: 2021-05-24T19:46:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-lekker-got-more-insights-into-their-customer-churn-model-with-amazon-sagemaker-debugger/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3-2942-Shap.jpg"
+        width: 800
+        height: 845
         isCached: true
 
 secured: "jI05bC/BAYoUaOE9Avw9fuUr5BJOs+CXXJFdjHzcJFko3r9WvZahVw4EbVa4ASHNT6W5F3Wps9x78rz5lEqT2GtBmrJ369BkfAY1T7H5hQX+xHu9GbBjdq7oYvbf0zKHR7H7um67T8nK+YOOby8KoNJfFmTgRXCto/SmJtWOUKANatGf+ihxfyidlcnYq1xj5+ND1cjAWBtPmT1yMFDP8qSQG8gFnd43zqGai4pJvwsWRx/xOinWN63Wkmzt4k5novxeU/uyQE61nk7KzW9DyiT8i+NTrOPfp5oJQwqzvrcYQgnfn0v+2BXHpcZF4TOs/6XXkXLT5thr/fPmE/eNKMmzmXOd7zERPQQ5SDwXYmA=;5lEjhuUZAthfP9cIqHojTg=="
