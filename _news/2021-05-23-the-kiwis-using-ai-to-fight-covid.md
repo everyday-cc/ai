@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2021-2027"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2021-05-20T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2021-2027-2021-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eB+02FgGxYvh4oowzBn/+fF5W1E9JEqrQIlvNnfDUxTr+rgWok5NtMa/yOyKtPwS4ROn/RrgitJ3Zrn+TKeTiEZvBfSYD6cArmyFYl1wEhidfEDtfhvn6uW3v80iHmtN62G3HhuIvJGaK1lLuF7T9luFrY5M6gCx942jSQM1utwbjKw5gk5S7F1ftaq/LcyRguKeH0dFv7NRg7p0PQZ/sUA0P6rjzEFBckZs3TuP5PAKtUwBUGH+VXrAACahzu5ThaYt/cBTQo3ahZEyrYNsizt2EcVVSzSH9qAjqwPt0scRg2kT2TX2FKR+qtMdXCPtVZWRLZWj5KxlSOl21rmN92o3JRy+m9Xxg/ezWUbgRQI=;Y6JslEnQqSrCLI56HUDTqw=="
 ---

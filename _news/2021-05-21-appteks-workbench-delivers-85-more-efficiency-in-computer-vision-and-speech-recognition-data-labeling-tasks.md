@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
@@ -47,6 +47,6 @@ related:
         height: 1536
         isCached: true
 
-secured: "bYyhcUUXFrBhUqinq+ucyIKfFoUadZT8Z0DddthK+mmf5voYLjngdtVo70D6qre+66KyVNRmbPEAaYnmAFTBnWTZ+PkW07YDzADcfPonx8sMwFeWjzA4VWIgWE8m8efjMhi7mc3Hdmm9uPvbiVeQGgG7RfEr7nxB8SKpIdAJg7bYdS42JMaOffZ61zZsCLvMTkeY+O2uTxXOxfNx8X5o7DRr1j7xewDLabEDytArNJfCl1kQaZWVhJ+SHbhK9MXpv1bwO8MIo79V4cQ9yoWXJSotwm/qt0181nL6hNFXaZGQM5fhALJK1k2Ifd+jEUSYj9suyJy4bidGFOEAKULKUCc9BISa7gm+P58Tce8MhsxHVkZgRmWamSEUj0NW7A0/Jz8uEs6zkA/uooWBQAqpApV7NFBnHmaG6oYnYvLK/Quww1bn4383ZhQN3ZlD5jZGnrA854wlbpa8BxQyMvHMI//uF675keuibzBzerSYv4oiWOpP9/ifnp7UGBN0bBHojLPSCPSW08agHret5FrGDA==;U6dQi2nsElk1GK2BVNNFLw=="
+secured: "E1bdjm3xkZuAxyiCtyCRHeoRKNW9oxWL4N6QdmjMnp2jP3oSjzXGeq3kJqL0e9pVTk4eUvY4ZG3BIK08o4Vo4pTGTXb2zTNdtI3iQsDevxFtFUU/TFJOt7l+xc+J+FgbMtdcXExVXGrW3rO4uyLVar5MXtGyKT2rkKMP1DA2gqEpoACmi1ip6oCLT6poZ4M8dLihpDm7wG+0HaU0QFTEe1dVHq4Hf4841H2669lydWrqtn2skula2A/jjWw23N+JhHvejW42gTIcy/A5y8VfbQXSCj4loPc1W8D6La69se7lGIBMdlfJhLu/OgAAgTyqdb6dx/gc5Fc6Jvt4jvvxikZzRFCxjAh77Vu5HTCJJf8=;/kdcW7WNFUrQvQp8Jjn1nQ=="
 ---
 

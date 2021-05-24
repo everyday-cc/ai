@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Researchers use artificial intelligence to determine extent of damage in kidney disease"
-excerpt: "Researchers from Boston University School of Medicine (BUSM) have developed a novel Artificial Intelligence (AI) tool to predict the grade of IFTA, a known structural correlate of progressive and chronic kidney disease."
-publishedDateTime: 2021-05-24T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/buso-rua052421.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/buso-rua052421.php"
+excerpt: "Chronic kidney disease (CKD) is caused by diabetes and hypertension. In 2017, the global prevalence of CKD was 9.1 percent, which is approximately 700 million cases. Chronic kidney damage is assessed by scoring the amount of interstitial fibrosis and tubular atrophy (IFTA) in a renal biopsy sample."
+publishedDateTime: 2021-05-24T16:26:00Z
+originalUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.html"
+webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.amp"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/kidney.jpg"
+    width: 2880
+    height: 1620
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 480
         isCached: true
 
-secured: "eFtcUFtN3XNoIhPuQMe3fBym9wolrMA1j31YV+77yLCZZ8tj9Q2PO/1Gblb+rOKANbZ4Ne7Hvw2Vbgp39NyqDvo5z4JSY6H3McMRUfdLXKi2pQ6Z9x6lHNR+HO7ZJ7WCGUMe42RmS45EpMyqmrwJn4Xtd5ozV2jZSTdKZ3fWnkPMrUutD4rBA9SAja8jjKQyJhcxN1PYV+IA+ITv9Zv0ycagBTdFdJxHlbo1hVSRPqTlzb4TOTgQm/ncmjATnbgyo9nPg3gDj4tmqmXfRi6GPXH4BnqWgOQ6102BRrye4tfFmaVryaVDAUjQ71F6uoJtAZxFMIVxelDCXYQgVm1iMqEcdUTBaZC6xmiaoOCaDdY=;3cGhr1erwci6W2DpKBRVBg=="
+secured: "vUNkvMt9Wy0WtbfXQ0WFNU8JXFOrEHKIefdN0jLCfqo3Y2ytsKKcYM7PuicM2zbtIOf437AZViS2Cw0/g8KW+XS1MJAtUOBvgqBAF8R4f6sLbTunSgkTRC5XUTUZyBAMb/DUYKaMihpc3b8k4a2mrRH4leAMmXRuUuTFOVIQ052Bsq+lLK07QLZQqnru2dfIceReze3QtQB18xSVDNlrf7MOYPzHZLBImGUWaZcD98nvJwrK0Xjbt//QWKabUEBXEdcRh1qR2cr+xv3LapyW7hHHZooDnLYesjErEBfnDEf55rXrrrwnK+DK8FWkKbzUrz/9Ot6qGZMH0sZa/KoKBTfgh3pP76O/1nf6weJetvw=;56K0wopNTcjltWTbSaDzCw=="
 ---
 

@@ -1,35 +1,29 @@
 ---
 category: news
 title: "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy"
-excerpt: "Learn to develop self-leadership and to govern your emotions in the face of situations that are happening at full speed."
-publishedDateTime: 2021-05-24T15:29:00Z
-originalUrl: "https://www.entrepreneur.com/article/372732"
-webUrl: "https://www.entrepreneur.com/article/372732"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/372732"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372732"
+excerpt: "The result is the modern epidemic of low emotional intelligence: in many cases, we do not know how to read others, we do not know when to listen, or we do not know how to communicate with people who are different from us."
+publishedDateTime: 2021-05-24T16:18:00Z
+originalUrl: "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php"
+webUrl: "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php"
 type: article
-quality: 57
-heat: 57
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1621869982-Depositphotos-160926830-l-2015.jpg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://s.hdnux.com/photos/01/20/16/70/21032496/3/rawImage.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
-secured: "bjb7p20jyzV29SuOUD93xVFTNYjiR2/xHdgiwp/n9RK1FohvYRCSStYkp2he6InEz11pP9iHkLeh4ug4oAJpzjkcPUlAJShAoUMGRH5pQR/OcR+L4Y88ABOs1QIqbMrfRGLcHOognBUpYm7VY6EO4TfMRkGUyg5R/yEL+JF4wniQzgcTR/hNaAo9BLvfvCFNhv/3No19HvzmgBHZzloQxNfADmiqBBb9a3AM6XcQ0aVH+ot9eOVB6lUuTlB7AiZa8h1Wf5cLQfQzX/Czm8YfflhvZ+QBRD+wQL/TkOG2DlhOMXXib2qVrVjiBbx2FH15ui895qxa4gdKoDJ6HcE8Sa9NjO4fC/R0Uyn5efptWGg=;oMeGa4fn4Jx7dbebwb/piQ=="
+secured: "we1JzJ4AKX5wVBv5vTJUVaKkcH42ztohLLAyBE1A/jtMCcStemVjom9g+6yAUHWqW9wwisoLGb33brusQwzqjHVhUwubnYMMVutzTLnw7EVoPjN9tVSGfWnaZy+aUbV2cRAcryawYy0D73/klf3t35kxJNKmWlvW7PgEalN/0anCpwfguscl0WZuNkPPdyBCfodMDijJQ+5QvkduR3UeKxNmQl40jLYn1a5NCfTIhBwDecxGEw1ELRj8KsZQpiGVjHsocZ1W/ldcF74nhhQc6q5d3rR+Ixqvea0srpLnT8cNuFvFzdDMGeWqmaP/EQ/nbpRkOGOPa3NOk4H/g/xlUnIFiyHtOkQVwFVdWo8HOA0=;OpayYuKwmOSWXaWWxufJBA=="
 ---
 

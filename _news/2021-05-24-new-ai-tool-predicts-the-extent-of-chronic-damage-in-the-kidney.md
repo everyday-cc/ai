@@ -27,18 +27,20 @@ images:
 
 related:
   - title: "Researchers use artificial intelligence to determine extent of damage in kidney disease"
-    excerpt: "Researchers from Boston University School of Medicine (BUSM) have developed a novel Artificial Intelligence (AI) tool to predict the grade of IFTA, a known structural correlate of progressive and chronic kidney disease."
-    publishedDateTime: 2021-05-24T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/buso-rua052421.php"
+    excerpt: "Chronic kidney disease (CKD) is caused by diabetes and hypertension. In 2017, the global prevalence of CKD was 9.1 percent, which is approximately 700 million cases. Chronic kidney damage is assessed by scoring the amount of interstitial fibrosis and tubular atrophy (IFTA) in a renal biopsy sample."
+    publishedDateTime: 2021-05-24T16:26:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-extent-kidney-disease.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 49
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/kidney.jpg"
+        width: 2880
+        height: 1620
         isCached: true
 
 secured: "YohDJgJFLXScGBHKwMPKvqQ91UwB5i2v8cIQjzKpwuZRIJ1xhN6mnKtaGAo4ia1gYYVewfvs/gNSl6t2MlFRH81mS2tO+4yg2+P8IukX/bRhh76/+CiHXJwSLipA1OVXrLoNGO7Mt4PNwfAOzORgADEqre2dZLyITdeVa5/SUaF51DDm/JxNTWM9n1XLrPjHyXoTUiAK/zdVs/DfEp7vWtWV2hr6mdqAuj2w3xOkaVNXWlWLUioaNQvRJOM76J1/40wKsaDYd03z0/v9VjWAY9eevtwbsUWbs/ri2kmChzfi2NPd9AI8Ptqs0gbbZtMe5HVpTS5g8qBgG4EX6PBuneZsAaPRck9vpXOAdew3yvU=;Cq+bXEUMsN8BwZvRmhjPJg=="

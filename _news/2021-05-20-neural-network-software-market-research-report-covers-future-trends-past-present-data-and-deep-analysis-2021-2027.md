@@ -29,47 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-05-21T10:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
+  - title: "Voice and Speech Recognition Software Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Sales, Profits & Analysis"
+    excerpt: "As per the new study published by Data Library Research, titled, “Voice and Speech Recognition Software Market by"
+    publishedDateTime: 2021-05-24T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2021-leading-growth-drivers-emerging-audience-segments-sales-profits-analysis-2021-05-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
-    publishedDateTime: 2021-05-20T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Kiwis using AI to fight Covid"
-    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
-    publishedDateTime: 2021-05-23T12:00:00Z
-    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "+E6smflaEVEffF3oo/pvHJ+57EkzB3NqfKmsxqeO/KV46T+NRWlrdhdgXmVsGxSd4V7zDwVtIMdy3u2PhUhtYnXfr9CZ7aARfu3Yzm1aMr2SA+3WSeBJHsloX+j509pwD+vIwBlgl2RVh2NP7LOH351nE/5LTFIgyLFl5FfUxkmr8W9Grwg/Z5kSmtmJ87sOxeB0aAn7VNDimdu02b70mM7asu1nyU7zFGjJHOiiQvaIK5S7faLLeeYF2DESddeQOgf+KABQDhVlYcRc/Bac/gnAz1riTZxvH65HEFaGxV2UTvAcoJLxvU/PWSHU2sDLZqm1uvvyD3nwaab+saL01w2i4IEHoc6KFfk97oWeGnU=;mmJ5RJiIbb7eR4/OErP8Ww=="

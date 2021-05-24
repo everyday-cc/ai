@@ -23,6 +23,22 @@ images:
     height: 431
     isCached: true
 
+related:
+  - title: "Gastrointestinal AI developer Docbot nets new CEO, series A funding for clinical trials"
+    excerpt: "Docbot aims to hit the ground running with a Series A cash infusion and a new CEO—and move forward with clinical trials of its real-time artificial intelligence programs for spotting potential cancers during colonoscopy."
+    publishedDateTime: 2021-05-24T15:24:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/gi-ai-developer-docbot-nets-new-ceo-series-a-funding"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 29
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1621870024/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?Fx_Gehhv9IckBMI4hd1KvAnf7zJu.hh1"
+        width: 1000
+        height: 486
+        isCached: true
+
 secured: "soUqzRjTuRQW0sE5FsjBpFMRfExGTP5B4Zkjo3rkw4OMfrXzQ9Cr8jyP2N35kY2xQ4MW9IXhhOiflO41hJ+/E5NoSDpEyEQD91D9eh5lWiczebs+TcXERf3Xlw9+yC/0sZTy2LmjtTVXoktF1gA++0caRsNMVrS4uUKZXj7VsURbrTDEjLkqckHC87HFyBxPSq1OdDiPvytHrBXjuHDpaQ6R/shb5UlYb4GBKzz2OcjCPyV4yBN4+vvbH5oK6VPsYsrDFr0Amfx2bdfXOQpixsqU2BCfr2D46sLqi5hCgmUhE0bhtM7rVCfd/A1L+9H6LwtCN9riz7ZNfsNYpuGbsRH+YzjB7NbhFztmVt1CHhg=;8PhDdXJlGt+dxZqzCWZYMw=="
 ---
 
