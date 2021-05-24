@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/everything-you-need-to-know-about-fa
 webUrl: "https://analyticsindiamag.com/everything-you-need-to-know-about-facebooks-deep-learning-library-pytorchvideo/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1440
     height: 810
     isCached: true
-
-related:
-  - title: "Scientists test mind reading tech, including one from Facebook"
-    excerpt: "As Richard Andersen, who was part of the study, pointed out, in order for this method to work \"Only a small, ultrasound-transparent window needs to be implanted in the skull; this surgery is significantly less invasive than that required for implanting electrodes."
-    publishedDateTime: 2021-05-19T05:59:00Z
-    webUrl: "https://www.ameinfo.com/industry/life/scientists-test-mind-reading-tech-including-one-from-facebook"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 4
 
 secured: "pZ2+56SPDqaMwW3ErHMCMmaliYh7jnNGnNdXMcOrhK2L+EleaTCTY9StKNZhL+aWO95lPGWROW7zcudHV6fFOWxqaLhsIamistVVOaRI8aqIuqPcdLJChpYp8NMdgJ32xPHv0dlYYJ7UQcGgIQTrRisHjEbWl/hWnAoblC7PTZjrFew79vowNFhOT91SoPmtymxmpYYMVstR6FoeAKfYlbqnt6rERwblKrlFHZN6J9dGUiRrs7zqSfkjRknso5413GXC9JfSEwiOvc44K8lCeObwTOl/y77LA27VMSavAE4v8mO4Ys4poTnxyQW31lOTDndQw9V8uRhRDeDqyli2t59vMW6CaXfDU/dXoD7DOVrdvY7D21CYHh+VUpqokeQOgpEudlV6C5JOGFhTxSvdACPWNQaLvvhvYbbYV2vLOFZYh7Ww0dEmnikHx/RhHLoHICJOb1yVpzNdjIqV5vdev98qZt9I4UlcmOQI2i5Ww6Es3Jlp9rQIlAxpyLTiG+3OLf+l4Pm+giwDEiO4q3yxOg==;Sg+QdYyfSf0QkYlkI8AWig=="
 ---

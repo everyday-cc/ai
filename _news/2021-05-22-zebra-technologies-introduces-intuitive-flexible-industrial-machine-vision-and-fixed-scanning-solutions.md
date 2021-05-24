@@ -41,20 +41,6 @@ related:
         width: 809
         height: 459
         isCached: true
-  - title: "Altair Future.AI Global Event To Demonstrate How Artificial Intelligence And Analytics Accelerate Digital Transformation"
-    excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and artificial intelligen"
-    publishedDateTime: 2021-05-21T13:07:00Z
-    webUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 29
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "7FfyET5PNhbSRZEdL+9IKQEQYRcwnuuViK7YJcDOdVgmlkhcgJlkYCeIETRSPEFbylK0rajEKGc0X+O6ownriM3o9GJvzOo2u+7dOGOUSyk/XpXTfEtXLeCdJXY9+nzKtruGQBQqzKodDg9rze+AH9eomp6ajAaN4C35gskHk+kGM7124k77FdO7ho8sJEKqQl6vC63aVOJuDixL3sNtcnVm8Q+01Oawqv2m0SyqIHMlil6wJEKlWO0gIvYOFzrMgXJ7/woR49rFdTR6dZ9rtqgtC55ZlGRUNL09X7Mw0JrNuAEORvdYxGcVZaz7WnUqD8OG/MUXiZQttroQxVMFh8YhKUNGNCgkAo3+lLc1dmsNlkQlEkPYp64TlPgdjmD6hOpA4Q+cSE8GCo8uQxPJXmilb9kp5sjRCHaYtadb5TnPQt1bfIYWUbN46UYxPFziOyfIwfjr1cK6jVCJWO2AtHluqx43NHsnraAgiouys84eUjEJTJjHykB1BOdTC/EWKy5dKG3tI4v+cuOUB/WCCA==;KO9u0dIjl+Z/ZvJXza5sGA=="
 ---

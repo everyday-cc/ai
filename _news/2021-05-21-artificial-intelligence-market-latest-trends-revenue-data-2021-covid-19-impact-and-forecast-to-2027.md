@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Food and Beverages Market By New Business Developments, Innovations, And Top Companies – Forecast To 2027"
-    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over"
-    publishedDateTime: 2021-05-19T05:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-by-new-business-developments-innovations-and-top-companies-forecast-to-2027-2021-05-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

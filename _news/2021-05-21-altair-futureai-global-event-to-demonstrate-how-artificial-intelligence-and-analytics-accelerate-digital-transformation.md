@@ -25,36 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "AirMarket and TELUS demonstrate Unmanned Traffic Management (UTM) and Computer Vision Solution for Infrastructure Surveillance"
-    excerpt: "AirMarket Inc. of Edmonton, Alberta, Canada (AirMarket) and TELUS Corp. (TELUS) did a live demonstration of the SKYLINK business solution at an operational TC Energy site.   The SKYLINK Business Solution is an integrated framework including UTM,"
-    publishedDateTime: 2021-05-22T06:17:00Z
-    webUrl: "https://www.suasnews.com/2021/05/airmarket-and-telus-demonstrate-unmanned-traffic-management-utm-and-computer-vision-solution-for-infrastructure-surveillance/"
-    ampWebUrl: "https://www.suasnews.com/2021/05/airmarket-and-telus-demonstrate-unmanned-traffic-management-utm-and-computer-vision-solution-for-infrastructure-surveillance/?amp"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/05/airmarket-and-telus-demonstrate-unmanned-traffic-management-utm-and-computer-vision-solution-for-infrastructure-surveillance/?amp"
+  - title: "Alteryx expands analytics automation platform with new ML features"
+    excerpt: "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists."
+    publishedDateTime: 2021-05-19T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/"
+    ampWebUrl: "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/"
     type: article
     provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 46
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/05/airmarket-screenshot.jpg?fit=809%2C459&ssl=1"
-        width: 809
-        height: 459
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
-    excerpt: "Company further accelerates enterprise asset intelligence vision through acquisition of adaptive vision and introduction of PartnerConnect Industrial Automation track."
-    publishedDateTime: 2021-05-21T18:02:00Z
-    webUrl: "https://www.automation.com/en-us/products/may-2021/zebra-technologies-industrial-machine-vision"
+  - title: "AEG Sports Uses Advanced Analytics to Adapt to Fan Needs During COVID-19"
+    excerpt: "Using SAS Viya, the AEG Sports' analytics team created models to gauge fan perspectives toward such things as returning to in-person games. By continuously analyzing fan sentiment during the pandemic,"
+    publishedDateTime: 2021-05-20T08:15:00Z
+    webUrl: "https://www.businesswireindia.com/aeg-sports-uses-advanced-analytics-to-adapt-to-fan-needs-during-covid-19-73052.html"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 7
-    images:
-      - url: "https://www.automation.com/getmedia/10449224-04a1-42f3-b3fd-169caabbaa81/Zebra-prod-May-21-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 3
 
 secured: "auvjK0AZ+AulB52a9b1LcHwcnkhxmIhrrqmtQPJDa2CI5+st0b7lRi0yWJpwul911OaR4KzX/Z1YNXNk3/Y/sE7AaA4AKSW8BNW+yMzu0pe5mfyisSAh+/Q+Ie4o765CrdnrQ5xe5A2jjVRmI3602MdXwuPnQd9Ov8EG/UFWm731oVlmtPSJGEn/u2zpoXw4PQO7jygSUwLIL1P+LxcE7kBaN6O10Yv7sEHGDeVSvBiKD8NmL4k9+t5y0rfAVJGiCOntmq05z9QDad+pWbnqziyZRjQxkoy3dUTL/G9XtfDwMop1ScvQMzsJn95kZiSWPjVLB/xn1DeN5zvOagygLCW0aBVmEOiuBWRtZjKOOHc=;vmSW+oKwnid25x9jRy8iZA=="
 ---

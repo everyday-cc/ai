@@ -34,20 +34,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Natural Language Processing Market Report and Future Opportunity Assessment, Size, Share Forecast to 2025"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during the forecast period."
-    publishedDateTime: 2021-05-19T05:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-report-and-future-opportunity-assessment-size-share-forecast-to-2025-2021-05-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YTPGL4pTigujtMIH6s0gjZds7dsKo6/IXUMLRajoq5LLVLwp2WDDCnZQb3cmnvqnxUjNJgK1Euwxm3zKfAjuEjO+UeS0NbTOGaQDMCri8ocE4ryy139mUa58VDsXF4zm2PSTvoo3rasqw33YushXZs4tYBnbQYYPTl/3PEy8YjiREVSA6AKpbtQblYI5H6SQRYqvq1fXzfUwfQyThMp5WwQRdf1oZpWg/BIl20xSGKV8MPT7va2qW5oXaiXXASiT53EF8HUb0Ss+xcySdZiITLb6RxJ8gHNwU9Xn0EH+8P4zZF6+UnRg2m5l5oXDiEclcOC6zVFDD7JgYervUlMxJbAYrZ6WjeC47sJaaFlXZwJQYNcZu3R5IShr84ObLW8oGC718X/ykDb7lEbcPSF91FPrrCVnIREd9ldkPNYvpePwQQD9sAFCLRM/IY1B1QtwRfblnN5/I1a2GhvjQ/7cB1OKaKnW9DyEahvBFRs9Tc6495ZW+typ4ZauHV8Pn1LP1QS5LGTgKZmiRMQZiXMvkg==;6R52CEiHrZ9kzcByouuUXw=="
 ---

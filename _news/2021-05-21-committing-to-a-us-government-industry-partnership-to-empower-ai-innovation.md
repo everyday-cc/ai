@@ -41,22 +41,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Ways In Which Artificial Intelligence Will Empower Business"
-    excerpt: "Deep learning and machine learning breakthroughs have allowed computers to process and interpret data in ways we could never have imagined. Most people today still correlate artificial intelligence (AI) with science fiction,"
-    publishedDateTime: 2021-05-19T06:57:00Z
-    webUrl: "https://www.entrepreneur.com/article/372324"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/372324"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372324"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1621407426-Officebuildingimages-03.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Teaching Robots With AI"
     excerpt: "Many industries are now using robots in order to carry out most of its heavy and dangerous tasks. As we proceed, one can’t deny the probability of robots being used more and more into the industrial sector."
     publishedDateTime: 2021-05-20T12:44:00Z

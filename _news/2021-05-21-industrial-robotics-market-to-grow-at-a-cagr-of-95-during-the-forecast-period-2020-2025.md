@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2287733/industrial-robotics-market-to-gro
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Report and Future Opportunity Assessment, Size, Share Forecast to 2025"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during the forecast period."
-    publishedDateTime: 2021-05-19T05:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-report-and-future-opportunity-assessment-size-share-forecast-to-2025-2021-05-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Revenue Data 2021, Growth Potential, Trends, COVID-19 Impact and Forecast to 2027"
     excerpt: "The overall artificial intelligence market is expected to grow from USD 20.67 Billion in 2018 to USD 202.57 Billion by 2026 at a CAGR of 33.1% during the forecast period"
     publishedDateTime: 2021-05-19T14:04:00Z

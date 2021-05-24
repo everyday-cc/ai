@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-unveils-new-ai-processor-for-self-driving-cars.md",
+      "title": "Nvidia unveils new AI processor for self-driving cars",
+      "excerpt": "Nvidia has introduced the next-generation of artificial intelligence (AI)-enabled processors for autonomous vehicles called Nvidia Drive Atlan. According to Nvidia, Atlan is capable of delivering more than 1,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars",
+      "originalUrl": "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet.md",
       "title": "Artificial Intelligence in Transportation Market to See Explosive Growth by 2026 | Magna, Continental, Alphabet",
       "excerpt": "Latest added Global Artificial Intelligence in Transportation Market research study by AMA Research offers detailed outlook and elaborates market review till 2026. The market Study is segmented by key regions that are accelerating the marketization.",
@@ -1303,49 +1337,6 @@
         "name": "WRKF",
         "domain": "wrkf.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-new-early-warning-system-for-self-driving-cars.md",
-      "title": "New early warning system for self-driving cars",
-      "excerpt": "Thanks to artificial intelligence (AI), their system can learn from past situations where self-driving test vehicles were pushed to their limits in real-world road traffic. Those are situations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210330121234.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210330121234.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

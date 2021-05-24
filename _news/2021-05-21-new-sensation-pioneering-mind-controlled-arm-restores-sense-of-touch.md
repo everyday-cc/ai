@@ -1,27 +1,27 @@
 ---
 category: news
-title: "New sensation: pioneering mind-controlled arm restores sense of touch"
-excerpt: "New sensation: pioneering mind-controlled arm restores sense of touch WASHINGTON - Imagine being able to control a robotic arm from a distance, using only your mind."
-publishedDateTime: 2021-05-20T19:47:00Z
-originalUrl: "https://www.bangkokpost.com/world/2118975/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
-webUrl: "https://www.bangkokpost.com/world/2118975/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
+title: "New Sensation: Pioneering Mind-controlled Arm Restores Sense Of Touch"
+excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ..."
+publishedDateTime: 2021-05-20T18:47:00Z
+originalUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
+webUrl: "https://www.ibtimes.com/new-sensation-pioneering-mind-controlled-arm-restores-sense-touch-3204311"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Bangkok Post
-  domain: bangkokpost.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.bangkokpost.com/media/content/20210521/c1_3979439_700.jpg"
-    width: 700
-    height: 467
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/20/nathan-copelandcontrols-a-robotic-arm-thanks-to-electrodes.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -95,18 +95,18 @@ related:
         height: 710
         isCached: true
   - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-    excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
+    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of... A robotic arm with a sense of touch has allowed a ..."
     publishedDateTime: 2021-05-20T22:52:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm/"
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/998725924/scientists-bring-the-sense-of-touch-to-a-robotic-arm"
     type: article
     provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
     quality: 39
     images:
-      - url: "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815-493e45de75e2bb62942e5046a4be25f33401bd9b.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
   - title: "Mind-controlled robotic arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
@@ -171,6 +171,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "K8044Vy/xXQVZcp0/9bVoBm2UzRc+Yhp559Luas1QsjEUN7sjw4pl9VxxZHFwacaMiRyazxWSgwOpD0z9XOkcn85BOFVAqA+FIhxt9NaFGruWVikH3tak4UW8fVWm646aUj/QaNvz0ZqHqe9aS6mWaNol9X3pv+3MYfmdwj2ERJDsDF927kSEF7Gep5VGZECRTyUVLY6W+QWIORc4YXXX5lX5eFFNCnW1G6R/eUbHgKEH/+0ghdV/I4Z6SpVhdvzv/Dv1fJDtnMYg+jiCYkWir+2JYqAaaSosQ3ASPnfhVFxJXCLR3wLchu/ScxX7QOj02EE3Qeyhcb97/6eqgWUNtFLbOioVmLKf1gnIcG8yN8=;ZJMxphapLXClkwDSd+mErA=="
+secured: "Cip+01MvwpfGxdoJrSnl69hOV2yCDAeTHScfHNNynCd7Bx+sEBLA2Y649LUNO1AkFnTjxNTAm8QPrcFtZEmC4Z/t2quQVQ5b974L9WmFG+KDwK/U+HOEFBt4SOsBwz5iQRLvrdkT0+kyAUK4loPYCXbpRNyBujCZiagMTYlpmLIm0cZyy7o4qP+b9XoLWpMnYr45vK449fC9353dn+qygZTc5ChCmkrIFYWWMsnqChidWXcbdMz3dWvIO8xgCvsvGgj/+NJVN80WBHHY7IsGqfZgp4JNcM6nf8oYQlL4XAyfEH4OA6S9HOU1xF63cSTP2YQnqu44jCzUw439BZYYhYX/OeTTv8oieTpGWg0p154=;kOIXDH2YerMBp1yVAGfNvw=="
 ---
 
