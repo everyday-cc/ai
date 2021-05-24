@@ -37,7 +37,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 53
+    quality: 55
     images:
       - url: "http://diginomica.com/sites/default/files/images/2019-12/shutterstock-Juergen-Faelchle-148272653.jpg"
         width: 740

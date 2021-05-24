@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-faile
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.livemint.com/img/2021/05/21/600x338/AFP_9AE7JK_1621599274477_1621599291789.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Google calls off Deepmind talks"
+    excerpt: "We don't want free-thinking here Senior managers at Google artificial-intelligence unit DeepMind have been negotiating for years with the parent company for more autonomy. The arm wants an independent legal structure for the sensitive research similar to the one used by nonprofit groups."
+    publishedDateTime: 2021-05-24T10:33:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52916-google-calls-off-deepmind-talks"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d6d4bc3c0e7fc7de1e3fc7765480cb4e_L.jpg"
+        width: 620
+        height: 464
         isCached: true
 
 secured: "2a0OA6/tPjlYcqUl+0kevQ7GGjroR2/YGyFFSKiTRdzikTTLyB5fh6KWX/s9D0+f+GNPIFI1npIt+JmpWjU9zeaOxijaqpAOYQH9s5x5RHzvmZM0Si5/LXQ7uFGQ/mIoepbeGPh1zeccFwgLEfz00NMhCU91N90IRdb+jrep24Vso0WCE/YiaLdQiiB7VP0UtoBUItrRDWoCzb8IhSBNOst0k+iDgpmM+ZLyQnRb8QZLyx/UoK/T1tN33lTN+IrQVxjc0c6Ywsci9RPMP+0stKTZCXB5STDJRh0aCrAi4vKl/bFFm3rYCukVOCXX0rIL9JP9MRs8CsXLYTyxwX6DsbaXS7ZeKWOSeQDvqVIxGiz4cd9sqMr+1T4jNkxfFYmvG9/1zC8fwcZPilHwDqDwyaKqIOMAAgCKbru0jeRfev/X/3NVKO3em4Teaq7YuW6ybJXKzb7UXDDqvrbpbJI6CNArnkNt66euBw3VayagPVB0XEv6bwdeADyG59FLJzibvMYyzfKclCEG7BE/4R3J1w==;iqkyASlQIhDUOhyVtk19XQ=="

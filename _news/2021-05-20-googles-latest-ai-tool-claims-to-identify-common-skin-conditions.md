@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool
 webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils Artificial Intelligence Tool for Dermatology"
-    excerpt: "Google's artificial intelligence-powered tool will help users identify issues with their hair, skin, and nails."
-    publishedDateTime: 2021-05-20T14:52:00Z
-    webUrl: "https://healthitanalytics.com/news/google-unveils-artificial-intelligence-tool-for-dermatology"
+  - title: "Google Announces New AI App To Diagnose Skin Conditions"
+    excerpt: "Google announced the arrival of a new AI app to help diagnose skin conditions. It plans to launch it in Europe later this year."
+    publishedDateTime: 2021-05-21T19:20:00Z
+    webUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/"
+    ampWebUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-Getty-Images.png"
-        width: 690
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8071bf22d91c8f0a1d723%2F0x0.jpg"
+        width: 1200
+        height: 798
         isCached: true
 
 secured: "lzEETLbjLXTG5buvpxsQchFcWyk/rDqaFURujRq7ArRLkY+MSUzukZKIYrrZLlke09vCP+N7cmF/mJ7SRA6UH1tXUhhcYBl0fdD8iKo2eMofpzHqITLvQ4PiGiLuGGJDwMyxqzk5J4dwneyzj8MTF0P++7hwcwnkzDT/rJUTlDQok7Ne84j5HTfZp+Iwe3UYXxxIeAspr7SSCYeJUHuZCSnX3jQIFOHOWnsOfV9GqDWH2c1WoyJn6o4sd9u/c3rwWGCXBOkvQNGPSZ2ObX14NjqgWYEG6B1geeS+1WpmiJH+MtknQV8ZsQFnkgrhl3RW6Zf6Q0d3zvJ+ZUfy+tWaMJKSAs91D7my3vM0f/+az22B2uiKJsHRp6wLT817P6n66plojya3xq77f31gxsMWjgnuiEeSx52pc1jV72FDK06MJ1JDQ+WCYqEHLegTP86Y6Nh3pf/kKH1zZaQXVo28g5kQ9Om4RQCBQw6IYePX6HoJpaNJgOWhXst5c9u4Lh97uvXXvG6Ns6EYu4nZtPggGw==;9oPQeLfRPfEeDQjE4qdOBg=="

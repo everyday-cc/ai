@@ -25,35 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence has been of little use for diagnosing covid-19"
-    excerpt: "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts"
-    publishedDateTime: 2021-05-19T17:24:00Z
-    webUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/"
-    ampWebUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
+  - title: "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-05-21T10:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"
-        width: 600
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Comparing machine learning algorithms for predicting ICU admission and mortality in COVID-19"
-    excerpt: "As predicting the trajectory of COVID-19 is challenging, machine learning models could assist physicians in identifying high-risk individuals. This study compares the performance of 18 machine learning algorithms for predicting ICU admission and mortality among COVID-19 patients."
-    publishedDateTime: 2021-05-21T11:16:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00456-x"
+  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
+    publishedDateTime: 2021-05-20T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00456-x/MediaObjects/41746_2021_456_Fig1_HTML.png"
-        width: 685
-        height: 443
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2021-2027"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2021-05-20T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2021-2027-2021-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "eB+02FgGxYvh4oowzBn/+fF5W1E9JEqrQIlvNnfDUxTr+rgWok5NtMa/yOyKtPwS4ROn/RrgitJ3Zrn+TKeTiEZvBfSYD6cArmyFYl1wEhidfEDtfhvn6uW3v80iHmtN62G3HhuIvJGaK1lLuF7T9luFrY5M6gCx942jSQM1utwbjKw5gk5S7F1ftaq/LcyRguKeH0dFv7NRg7p0PQZ/sUA0P6rjzEFBckZs3TuP5PAKtUwBUGH+VXrAACahzu5ThaYt/cBTQo3ahZEyrYNsizt2EcVVSzSH9qAjqwPt0scRg2kT2TX2FKR+qtMdXCPtVZWRLZWj5KxlSOl21rmN92o3JRy+m9Xxg/ezWUbgRQI=;Y6JslEnQqSrCLI56HUDTqw=="

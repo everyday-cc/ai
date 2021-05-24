@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-governm
 webUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: CNBC
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Halts Police's Use Of Facial Recognition Software: Reuters"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt."
-    publishedDateTime: 2021-05-19T17:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_394.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Campaigners predict U.S. federal facial recognition regulation"
     excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
     publishedDateTime: 2021-05-21T21:23:00Z
@@ -103,6 +89,33 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
+    excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
+    publishedDateTime: 2021-05-21T07:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/e476628/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2Fd2%2F5d1405d3469b8a308cd62605b4b7%2Fwb.Tech.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
+  - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
+    excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"
+    publishedDateTime: 2021-05-20T13:30:00Z
+    webUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/"
+    ampWebUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
   - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
     excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
     publishedDateTime: 2021-05-21T13:40:00Z

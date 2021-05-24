@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Halts Police's Use Of Facial Recognition Software: Reuters"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt."
-    publishedDateTime: 2021-05-19T17:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-halts-police-s-use-of-facial-recognition-software-reuters-1030447675"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_394.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "States move to limit government use of facial recognition software"
     excerpt: "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition."
     publishedDateTime: 2021-05-19T21:25:00Z
@@ -114,6 +100,33 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
+    excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
+    publishedDateTime: 2021-05-21T07:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/e476628/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2Fd2%2F5d1405d3469b8a308cd62605b4b7%2Fwb.Tech.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
+  - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
+    excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"
+    publishedDateTime: 2021-05-20T13:30:00Z
+    webUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/"
+    ampWebUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "7xiP/BB84WkqSAYf8Dqt347vgEPOz4Hv7mqWBiwqD+T2UDqudytN2QySx62Tyli559VvhzhQ59ADH19f0MkgJBJ+Br643SWodk4xn+pp29THZeniKQd7WL+3i1hInFc81ssVwAHb12xZa13efdLCTue0WAuXLBjXiCnQJk7TXfUVT9mb+Ysm1Zyqvr3z6b0I+5wcfn/7JrZ8GTlCzuc5mgNcDof8iy7mHGpcrQjwLE5jpuuwniEtEQmEdXeqGKVtdejrDTEsK9oyOz9vpLOhuq6a/DEd736LWEQnAvbw/uxhdNoGoUez9eNvxdIYASBZvL9jEVaftVUJePzjN6AKf4511egK9MABmUPlVEiqkIPTUuFwGMm05tZ0TY5Uh2FBecuEzNQ+upY43TGXi3pSkS3csOoOkOkitPe13FugyJZKnEh6c1/trOliT2tis84e46vLKGLQ8rMNCtX3V2pOrOkReJftQA19SYP3KNzqyqr0f70fbfL7KqbLAzGjted8XGI/HLwTa8ijeL/ct3WWrg==;jMH4kGX5nxIuuqjNT6ZG7A=="
 ---

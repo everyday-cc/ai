@@ -47,20 +47,6 @@ related:
         width: 700
         height: 495
         isCached: true
-  - title: "Alteryx Dips Analytics Tools Into Machine Learning Waters"
-    excerpt: "Alteryx arguably is best known for its desktop-based, self-service analytics product, Designer, which is also regarded for its data blending and prep"
-    publishedDateTime: 2021-05-19T18:28:00Z
-    webUrl: "https://www.datanami.com/2021/05/19/alteryx-dips-analytics-tools-into-machine-learning-waters/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
-        width: 1000
-        height: 597
-        isCached: true
 
 secured: "POPaj0F3E7j2QMZZFstRza90pq4u9KjbV9cdLNH+9N0jwpo42i+ppnU5Kgep2U7SsEwYEHgLMQ+Nt5uuuPzANA2U8NorkaHFU0B5JGaw52hG2DVWGep3NvyGm2k0GpGrRUxJy4zbpTniCScCP/+2q7OOpJ7XDBFLXzQo8hrmaqcnas/lwr+QU8Lx8opLps9NChk6Imf9yy1mmYp+MiDPK+mnBZkkCQWg/eqNrtRsxZHo4Q9QJ/YqoBPEMDZmqIODHCiyXkvbN+yGkGxGODW85nHs6DB0RPh8qVgCqbCZ5Eyd0o0mk6nsW6pcCP+yKmXqNbVvgfFWnd9/Fu6QLsFd05xsDVCAFbY/uZos4zkRqz+5vwTaMAq2K2LwXi7HXSp/mOEvgLgW4bjfUVDuwdbizaKXRY5jajKkkfdCpBEBf5NkqN0GHAkiQUDioleq5K5anUxgSo69lTCYFbf1TUqe9GoDExcqRWK2WJZDKtgTzYx/RvN82/oAQeZqvfsRO/ce7OmO+WgUK75eJF98QmNMQw==;AZC5usCkDZehojesZhYnYA=="
 ---

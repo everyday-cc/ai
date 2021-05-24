@@ -7,8 +7,8 @@ originalUrl: "https://www.lelezard.com/en/news-19817096.html"
 webUrl: "https://www.lelezard.com/en/news-19817096.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Le Lézard
@@ -40,20 +40,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/05/Career-in-Fintech.jpeg"
         width: 700
         height: 400
-        isCached: true
-  - title: "Big FinTech is here!"
-    excerpt: "The future is likely to see ‘Big FinTech’ replace ‘Big Tech’. But this time around, India can be part of the story from the ground up. India has been ahead of the fintech game on the technology, regulatory and consumer fronts."
-    publishedDateTime: 2021-05-19T18:03:00Z
-    webUrl: "https://www.gatewayhouse.in/big-fintech-is-here/"
-    type: article
-    provider:
-      name: Gateway House
-      domain: gatewayhouse.in
-    quality: 24
-    images:
-      - url: "https://www.gatewayhouse.in/wp-content/uploads/2021/05/shutterstock_744494326.jpg"
-        width: 420
-        height: 280
         isCached: true
 
 secured: "Fwuf3swDPaF2IubEvyyTqNZ4XND5shsXuH+/PAPaDD+n65wXCnydyAgV4WQAdGtbopTjqOhGOm4huYmTf8bzkEjDSOdsg90w6Y+L/U3BCQbcJ7hF6JLj4yFXkTdkOlhbyFzaoYKo7S+IVjRl0nxYeot4Fy7PAjtaY7Wo9lKLb6X3FWRBpCi+Tx4zR/GSpp7+wWtscO81Nib8S5RZMytEUedFaYDvL78g7S6hlfYKSMqDS0j8oB1JGjK0zESGF4clwcH690uAbiq2DeCoUFiXuZgDG5K5lpkkAOjJ+py4Tlcg4PaEagZppVmZkor8AzhpMOPXxqYylILZbXj2M5ulem0aeBt0McwOMHUFmKc8Nlk=;v74SHOfkF/hme3QqubSj9Q=="

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform."
-publishedDateTime: 2021-05-21T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
+excerpt: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut"
+publishedDateTime: 2021-05-21T12:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
+webUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
@@ -24,9 +20,9 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
-    width: 400
-    height: 286
+  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook"
+    width: 1304
+    height: 683
     isCached: true
 
 related:
@@ -46,7 +42,23 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Autoscript Introduces Voice-Controlled Teleprompting Solution"
+    excerpt: "Designed to be used with the company’s WinPlus-IP fully IP-enabled prompting software, Voice offers a solution customized to the user. It monitors production audio and automatically advances the script as words are spoken,"
+    publishedDateTime: 2021-05-20T14:11:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/autoscript-introduces-voice-controlled-teleprompting-solution"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/autoscript-introduces-voice-controlled-teleprompting-solution"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/autoscript-introduces-voice-controlled-teleprompting-solution"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/86gTXezNYLRw5Z8EtXitH6-480-75.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
-secured: "/bGk9Xtaq5RL4S+Iwbj871SRVQWeglpOn48eb/GBnCYq9J84g/lo4QdrvDKYfMFj/AtARnD373w5hkjLQ+NpW5RdhDXDeXNFoUefC6ZznPl0Mw51TGMRsIiXlNEW4pc5y+EEise7/sbgU65FYWXNFUGauwoXTmQ4cHMP+rGI8+OKvng2jj9lp/YbjAWIQ4itZnxJ0yt+ERZ7U9TUX8Cozb5zYxpA3tuo+YNSQIDw+AbluGauFsPg8dg/60wqHE2/qZN8RBLTo7PThQAEe04GcSrtnaPXArXmz5cbaRCD5LKTf6EhBM14XQACZDuPJXObL4XN+/QL3bm49hZOXviAz7gGFwd011Fk9XJDS/YLtoACr228qx3LBzXrfjtkXFV+C3owPDKmAeh9iz3QFn+LX6vYD/Hbw27RZ1qZ/0yGCgPCxmgLZwhbuEOSaTUr46NnuVH5GzaivQoF8Q8XGFPBIc2RPxFC4L00lIz59AIhH8W8DkDz/m1XwuE6E2lrcugVOmoMa2swmXoFUN3W5/gUjQ==;EpPIJdBjBkCpL/xQOqkrhw=="
+secured: "6SCsJ93qgFaeMaw9uOC59WsutJD8eO+4eFR194Riy0MjGDDt2O5zCwNyBQ5qp2GWb6G3f247y13amm/vMF2lNzw8QIiDq//6XSaG8fJ2oajDS7fY0zwEAhC1gjauMsK2O1AD+6on6LJBNA+hcP+2aVNBv8KfW7QCOx6Otwl9SLCxnTnxqONoirCh8aGNsEfWNNqFpEQj8unk5Zly2aLiT3Vt/PmOFp+SD3iGf+WmGT7E+XxjeJK/ZXSFqChJvAxVU55CQKRyehmSJyNTbeGDD/oBq3gW6c99mQURZaxGG+4VJ9WV5SgwmHz8c2UG6LqPj0n7RTbwU4P7Ugaxcgme4msLdODUQk9TT+kDGVCHY4I=;/VTK27ByTF6UTKOY7KI6gw=="
 ---
 

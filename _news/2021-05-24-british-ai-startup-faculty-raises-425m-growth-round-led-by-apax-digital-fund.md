@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 85
 published: true
 
 provider:

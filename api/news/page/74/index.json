@@ -2,6 +2,212 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-03-15-machine-learning-models-for-diagnosing-covid-19-are-not-yet-suitable-for-clinical-use.md",
+      "title": "Machine learning models for diagnosing COVID-19 are not yet suitable for clinical use",
+      "excerpt": "Systematic review finds that machine learning models for detecting and diagnosing COVID-19 from medical images have major flaws and biases, making them unsuitable for use in patients. However, researchers have suggested ways to remedy the problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-using-artificial-intelligence-to-improve-healthcare-for-all.md",
+      "title": "Using Artificial Intelligence to Improve Healthcare for All",
+      "excerpt": "Parkinson’s disease, which afflicts one million Americans, causes both unwanted movements, such as hand tremors, as well as difficulty in initiating",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
+      "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-new-study-confirms-predictive-power-of-ai-for-foods-beverages.md",
+      "title": "New Study Confirms Predictive Power of AI for Foods & Beverages",
+      "excerpt": "The right taste and texture are critical to brand success while speed and accuracy are key in getting the right product to the right consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodnavigator-usa.com/News/Promotional-Features/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages",
+      "originalUrl": "https://www.foodnavigator-usa.com/News/Promotional-Features/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/promotional-features/new-study-confirms-predictive-power-of-ai-for-foods-beverages/12241836-1-eng-GB/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages.jpg",
+          "width": 980,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Food",
+        "domain": "foodnavigator-usa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai.md",
+      "title": "Expert.ai Launches a new Natural Language User Community at https://community.expert.ai",
+      "excerpt": "Expert.ai today launched a new user Community designed to serve the AI natural language understanding (NLU) and natural language",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai-301247156.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai-301247156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-researchers-present-spontaneous-sparse-learning-for-pcm-based-memristor-neural-networks.md",
+      "title": "Researchers present spontaneous sparse learning for PCM-based memristor neural networks",
+      "excerpt": "A recent study, affiliated with South Korea's Ulsan National Institute of Science and Technology (UNIST) has unveiled a novel technology that could improve the learning ability of artificial neural networks (ANNs).",
+      "sourceUrl": null,
+      "webUrl": "https://eurekalert.org/pub_releases/2021-03/unio-rps031521.php",
+      "originalUrl": "https://eurekalert.org/pub_releases/2021-03/unio-rps031521.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/259112_web.jpg",
+          "width": 720,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-baidu-top-artificial-intelligence-innovations-from-the-chinese-google.md",
       "title": "Baidu : Top Artificial Intelligence Innovations From the Chinese ‘Google’",
       "excerpt": "Beijing based Baidu Inc., host to diverse artificial intelligence innovations. This includes Autonomous driving platform Apollo, PAddlePaddle, ERNIE, DuerOS, LinearFold, etc.",
@@ -880,185 +1086,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-what-to-call-full-self-driving-when-it-isnt-full-self-driving.md",
-      "title": "What to Call Full Self-Driving When It Isn't Full Self-Driving?",
-      "excerpt": "From the April 2021 issue of Car and Driver. Here is the number of self-driving cars for sale today: zero. And here is the number of privately owned self-driving cars that will be on the road if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/features/columns/a35769759/carty-self-driving-cars/",
-      "originalUrl": "https://www.caranddriver.com/features/columns/a35769759/carty-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
-      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
-      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T20:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-why-artificial-intelligence-might-not-win-a-war.md",
-      "title": "Why Artificial Intelligence Might Not Win a War",
-      "excerpt": "If neural networks and machine learning remain the dominant AI guiding technologies, the operational usefulness of AI in battle will be rather limited.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/reboot/why-artificial-intelligence-might-not-win-war-180076",
-      "originalUrl": "https://nationalinterest.org/blog/reboot/why-artificial-intelligence-might-not-win-war-180076",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/NightTankFire.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
-      "title": "Items filtered by date: March 2021",
-      "excerpt": "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
-      "originalUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

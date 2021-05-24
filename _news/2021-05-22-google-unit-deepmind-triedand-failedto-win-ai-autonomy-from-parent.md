@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google calls off Deepmind talks"
+    excerpt: "We don't want free-thinking here Senior managers at Google artificial-intelligence unit DeepMind have been negotiating for years with the parent company for more autonomy. The arm wants an independent legal structure for the sensitive research similar to the one used by nonprofit groups."
+    publishedDateTime: 2021-05-24T10:33:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52916-google-calls-off-deepmind-talks"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d6d4bc3c0e7fc7de1e3fc7765480cb4e_L.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "V7cPMbk7im5s/mDjkKk3aapIyrCXzzHpfwXNIriDjKc1y+0wUAwlkeHIJRItAeF3iYv89qD79PH+xX7NfIGi1B8n6wpTXNr8YgqeKneZP2slKn/RGDN9sfRx5aim0Kfj9wR/xz8KMs9zofeoA7JIp75746cixUOAZ9waOgWRTi/B+mBsXgItQ8f6uN4s4ySWxF8buYekVGImvjzkpbSbbw++densMQl52IIIz+X4Vgt6/95Nc35IFEVIjyA7Nge3NZuOdVvmjUwu6FAVRAle3jr6WkK0we1BNkrRBO3OAkwxbzDj92xPA7EqFCyMc/kqSvKrfmhpPIQ8COxyWBRUToDtLw/2AYeTR9TT0Wd9ot0DqKwDqIxeRicwn35hLf6wRQPSemJDelskgjQbGuromVaowDnPzrj5ewI4SyvBdjy5Ra1z74nu3lz3LfhjzE1C7Igo5XNVmfAM/jfd3nDDL/oPCliGF6+502L2cJnjHdD5eh9eTJrZNu0f+kbg62b+No5tzUQKaKukGR34eQ6Z9A==;HBTN8SukmofV8n3KHhmwmQ=="
 ---

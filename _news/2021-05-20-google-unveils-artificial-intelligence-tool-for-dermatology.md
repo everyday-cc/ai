@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google's latest AI tool claims to identify common skin conditions"
-    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
-    publishedDateTime: 2021-05-20T10:42:00Z
-    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
+  - title: "Google Unveils Quantum AI Campus For The Future Of Quantum Computing Research"
+    excerpt: "The campus features the company’s first quantum data center, quantum hardware research laboratories, and quantum processor chip fabrication facilities."
+    publishedDateTime: 2021-05-19T19:30:00Z
+    webUrl: "https://hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    ampWebUrl: "https://amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
-        width: 808
-        height: 526
+      - url: "https://images.hothardware.com/contentimages/newsitem/55146/content/google-unveils-quantum-ai-campus-for-the-future-of-googles-quantum-research.jpg"
+        width: 708
+        height: 411
         isCached: true
 
 secured: "MU45s0rHlxfeTaYLqcxKHCZXbOwi23Jp0No3wcQvvIV/14de4VjUwy6crCdvr4AAfxRb2V1mO/LQ/a5+ocv9wSRM7U9hV08liGZ5wJG+/Jmn7ggNjLr3iE3pGuEXdeDlhGl86PmiCcq4V4BjsO2fv0Gyxf0obOmqh9Jf3+3oCajIYexWw2kPUusAh1RugqVLlF3DxyRVBpQUMTSAzmvHqYJZJcvVADgZEGrd2HEBSloX6SzO1RnLFdJwuTr70PpD157X8eyAuc3crjGl1NZ+Df3S58zgHwl1bx+zgXokc0/vWcEa0dZagQ2R4Dd6rzFnaMrK98qYMcVBqMoFNak+g6P4O6DTmyaRvSa7orll2/AHqlQ7Ur0Dw1XcHzKezh8/NHlB3/c4PcDqeOdoPpSRRfW+8+HkMVlYCln1PUKfzowq47PpKwo/ZmGXmSmX2RamswzYEgBWPuolS8n8qTgu9LVePXSWJ4DX8vZ+yNifEzce1er5mhUHUwjKa4/57m2VcK+DM5DAFfKvfgU3VvqvBQ==;4QvEy840PVvpcHPbemDxmA=="

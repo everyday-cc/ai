@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence has been of little use for diagnosing covid-19"
-    excerpt: "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts"
-    publishedDateTime: 2021-05-19T17:24:00Z
-    webUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/"
-    ampWebUrl: "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/"
+  - title: "COVID-19 diagnosis by routine blood tests using machine learning"
+    excerpt: "Physicians taking care of patients with COVID-19 have described different changes in routine blood parameters. However, these changes hinder them from performing COVID-19 diagnoses. We constructed a machine learning model for COVID-19 diagnosis that was based and cross-validated on the routine blood tests of 5333 patients with various bacterial and viral infections,"
+    publishedDateTime: 2021-05-24T10:11:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90265-9"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "The Kiwis using AI to fight Covid"
-    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
-    publishedDateTime: 2021-05-23T12:00:00Z
-    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
+      name: Nature
+      domain: nature.com
     quality: 39
     images:
-      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90265-9/MediaObjects/41598_2021_90265_Fig1_HTML.png"
+        width: 587
+        height: 685
         isCached: true
 
 secured: "2WwMe/D/4PM10rwyAUc7pBFrjQYtW2K5a8nM8PF2VaWMVIL8OcyH7/A2yen4URic11bqqhrkEkn3C3CjM4wOIyeAXCtkg3S5ojbuoF//F22bagteUFiGOn3H1BVeBLMEypJZ2ZZfuazX24MMpQeQlklPwQhcFsRnsv70b+Tg0UHHpAyRIsAo4YKAHoa5Z9mOUa7mEN/p7AEv+WEhD5ajGLpy0Ya3suVVGMbJzn/PSsClw+wyomDa9em4VzeaKb5I+fpuZ0lP9kkchJZUnGe0Sc9XEzOxZg9DoXdLzutQAvvZdzR0E/HYAkVja5FKymWbj94nUifiUvwMhe4X4x2p+UXdM26XdISK0g15JzoHsaOCo+kuE4ZsbanVzCvk0vqzHRHslIIYY6kZ9FAtaxr4jbSbaTztpyCeGdJ8KhYCTx5eXQbCgCxg4a+KCoDmC3VkEt1HRWljSPrvbfaKbbmpq3ud6VdiniqA15iwHXHnkyE4VFUENREHERYngw0uayyDUutRJF5kpLrGhuoVRspQeA==;XKdRrJ70HAWPgBLD0/htDw=="

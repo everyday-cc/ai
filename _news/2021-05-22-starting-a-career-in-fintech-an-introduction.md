@@ -41,20 +41,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Big FinTech is here!"
-    excerpt: "The future is likely to see ‘Big FinTech’ replace ‘Big Tech’. But this time around, India can be part of the story from the ground up. India has been ahead of the fintech game on the technology, regulatory and consumer fronts."
-    publishedDateTime: 2021-05-19T18:03:00Z
-    webUrl: "https://www.gatewayhouse.in/big-fintech-is-here/"
-    type: article
-    provider:
-      name: Gateway House
-      domain: gatewayhouse.in
-    quality: 24
-    images:
-      - url: "https://www.gatewayhouse.in/wp-content/uploads/2021/05/shutterstock_744494326.jpg"
-        width: 420
-        height: 280
-        isCached: true
 
 secured: "fFbbM6/gbMAg8bQQmBipPzf8m+P1zvfIQp8nNuUi3NjSvZlh2LaDlgEOJg7kE/mrCgbA13TJoSnIityx7SCERD/zqX7M0Na7A+u76n80lOvBjyLwn3Jd5/ONZMVO/vfDx0RHSo5e3FdPbtdENxGkbbho6fseGrrFfmplTqCdBD0V4YD4vrRWhUTuVNNT+uvwIiU0zAMy48ermh7svKMoRCo1K33vcM/cd+PWamZ8lnWuWTwOpaSKxc9NXlii6tbBvanv6iWI8HIa1/B1ie2m5K6oZxJlhNNVA0v/bDk7oajB8qJmcGbTMdHYyzAHbY+ej/U3gfokS6m+MnG8Pg9XCQA51IrDWQ9BprrJabSflBWTJD5MeLsDXOp/KNTPnBI/pGcEzHRkDwwV9NrM+OX9O1CpwSaY/0Ti2m2zw4Q+Q/VW/Gt7okik0dDIWQz7S5NwPQ7GMbnnUpOQJv7LdTJjPmd2RVIhpCh+XjmWKyJl0eEr/Lp53fp/D3I22Ih74B3ja45EV6OwMLnAVJnJte0YnQ==;S/SVVzAa8L/ZP1i6D1Zn1Q=="
 ---

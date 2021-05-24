@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-021-23087-y"
 webUrl: "https://www.nature.com/articles/s41467-021-23087-y"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 685
     height: 417
     isCached: true
+
+related:
+  - title: "Predicting optimal deep brain stimulation parameters for Parkinson’s disease using functional MRI and machine learning"
+    excerpt: "Deep brain stimulation programming for Parkinson’s disease entails the assessment of a large number of possible simulation settings, requiring numerous clinic visits after surgery. Here, the authors show that patterns of functional MRI can predict the optimal stimulation settings."
+    publishedDateTime: 2021-05-24T10:06:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-23311-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 30
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-23311-9/MediaObjects/41467_2021_23311_Fig1_HTML.png"
+        width: 685
+        height: 521
+        isCached: true
 
 secured: "kjUZKgb2VpVUp9JEAwsfj8fab9q2FzbIiX2PcpCk9ADXc02dAcqHUS5hKLgSuuOMaR8XoD+osJDGAL+49jWUR9ImJMoEHSrZ5YzNvukHzhggBBBxmVdgb4I2Ae5CJpqkU0M4v6j9kHPjHTTMKcac9kIeWUdr9C3A9PS0p4se6IelR3OStxJ0FJ/uYWn0hkpNWX38J+YMy3yShFIdJS15ztSMNj/jcb5wPQ1nhk6kkkhFYcMYd0+CVAQMkhZgAv68BRdVxP7OuNnpaaK6JAwZtpGW0kkhLaEHzwE9aZ7hnDBvavUli7JTK6f0QVbJtgXi5kQ8gZutwvfr2rXBjT6H7BD/L66OksscYQGYeKSua97mLeoC2qYbUuC/c0R9D9U5tzGPGC7uHfh3rAQA6EVm2GPETrE7lSQEvDtcDM9n25tWYXztZQbqjBRbeX1fHjkVu9YqU2J+D7nymA5kiUTCCwwcKrKXcUsUnu3s2dOPl2kTFlSCfdwVcs5b4woX64XuqdYjot3CGGtRqfbm+Rv9oA==;NHcSebMc3ybD5sc5qPaCRA=="
 ---

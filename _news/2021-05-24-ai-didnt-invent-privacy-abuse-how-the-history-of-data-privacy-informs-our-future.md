@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-p
 ampWebUrl: "https://diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future?amp"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "http://diginomica.com/sites/default/files/images/2019-12/shutterstock-Juergen-Faelchle-148272653.jpg"
@@ -44,6 +45,6 @@ related:
         height: 709
         isCached: true
 
-secured: "a+wTT/KSS43mbFQzMdQ6S4rB0c8vYMB+TNeqqxajZmf0WNbtIe8F1SKWivilK0YJMSbRdLYnG83o93QPxdN3rPaStJSc3sAQarAZO8ejMoLFc+yCszLAoXtPwdOMmDO2RIhb9qwOyFsRD9LWzeLhWE9rWLhWgpPCJeZx9KLRMeyAwuYx7i0uul6eOrdcqOnNW25ipFZAvJtWi87Q4QngZKfUykiktUIySbgC23WIo9gmmVxe1zXC5ysTxeksY/Ecpr150D++/BZ2wXm0Xvb2zWAYFCDehIuHkFMcEzJQ0YiSwaNQfJhetaOkP05NoLRFw5HpEY25uzQbi5jRXE92UNX2NuVN7GaNLI5TToeQxbY=;ibO1pdPZzTXoIKeCooKi7g=="
+secured: "iMweoqFJds9PQUDIvCslTlaYC/eaD9rQKnOVgPi+WjvuyBu5CwzpN9atOd4838Wx3u04Li6o/W6DrJfuZlQcFBd3Jxo05Xr0JW/RJwjhhM+Esi8xbC8PJRTs4gXeIauvP40/pkR/evYXnAEi+ZRFzOVL9xfEVjDK0FP1W+dqQGkQ4SyNeiwExeiRG5/CsT06DHksshc385S/DEYWL3nN0LlUF5tIrjzfGKTNdzXAhZ00o64ri9gdco7sfGn7jHVCxaaYtiNX5G2m/hx7abU9ewnXenShfKWnQQ61Jh5jxBmi/U3JJ0EZVxdzBMmXdngqGJ9xTIBWNAdEGUCCe8NscyK8uNtsf2WM257+YyFBWH6gfKQ651Loj/jsqA1Oz56WJkZM1fa0lpINvN8sntkKA8HCAnF+IVgqSrp88hf1Uk49rfT1wLWXv1eTPlsQt3DdQeypzmb61UC8vJFsKU5iZjHV4wb1OkpbpEufw3x3IlDT2IyEhqTTiz3BcOJX2TD4R+FjQeyw2DwkiAlNFPp0Vg==;GEudJtkA1wLesfIRRxHkgg=="
 ---
 

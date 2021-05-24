@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-star
 webUrl: "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/"
 type: article
 quality: 137
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 997
     height: 544
     isCached: true
-
-related:
-  - title: "AI call center automation company Asapp raises $120M"
-    excerpt: "Asapp, a machine learning-driven call center automation company, has raised $120 million in equity venture capital."
-    publishedDateTime: 2021-05-19T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/"
-    ampWebUrl: "https://venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/ai-call-center-automation-company-asapp-raises-120m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "uZ975wxe//p9btLRSVV4aLpRvAxk3Jso1cv01PuCFkplRiHDXYGOmmmcVmOsl/yL6bLfxZcXREjR9xbgauslsl5yXqBrHYXdThWRZqB5uIVl7DNZEj0WxOaQ1AJpJ63uuy6t0nbYxVOllboR0UADrWdy/Xd38NIH9PIuSHeyeIFi+iUNAzn1cA+yHsU0kCDkKzBhwoJVvCh/1MZGGonQHNJrWhmEgwqQ//2a8EuRUeEEzruseUIMwZCfZUJ0rkeVQW+B/cnOn9SMbSR/BF9H/+J1NDdizC88q4SF3yNSrV/3WdZvpqqZ90elEb+4d3+ZEJgmklvobgdDNyi+7kRINtzNlJHVcYHN78M65US/QZPGX2mdTQipDfJpgCjcysQG;ZfLbOjOWk88zvNjoL5Jupg=="
 ---
