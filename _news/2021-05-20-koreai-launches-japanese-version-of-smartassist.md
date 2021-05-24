@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is That Tom Hanks Speaking in Japanese? No, It's Just AI"
-    excerpt: "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,"
-    publishedDateTime: 2021-05-19T10:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Is that Tom Hanks speaking in Japanese? No, it’s just AI"
     excerpt: "AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann, has a tool that it says can accurately recreate lip sync in dubbing without altering the performance of the actors."
     publishedDateTime: 2021-05-19T17:03:00Z

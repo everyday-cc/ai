@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/qualcomm-unveils-chips-to-power-the-next-generation-of-smartphones/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm introduces the new Snapdragon 778G with a 40% faster CPU and GPU"
-    excerpt: "Qualcomm today announced its latest Snapdragon 700-series chipset for high-end phones. Among other brands, Honor will be one of the first to use the new chip, now that it's no longer part of Huawei."
-    publishedDateTime: 2021-05-19T11:00:00Z
-    webUrl: "https://www.neowin.net/news/qualcomm-introduces-the-new-snapdragon-778g-with-a-40-faster-cpu-and-gpu/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 68
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621417179_snapdragon_778g_5g_qrd_-_ai_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Qualcomm Snapdragon 778G 6nm Chip For 5G Smartphones Launched"
     excerpt: "Chipmaker Qualcomm has launched the new Snapdragon 778G 5G mobile platform that is designed to deliver cutting-edge mobile gaming and accelerated artificial"
     publishedDateTime: 2021-05-20T16:54:00Z

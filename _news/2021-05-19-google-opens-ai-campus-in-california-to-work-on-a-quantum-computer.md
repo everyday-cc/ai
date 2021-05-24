@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "California OKs Pony.Ai Driverless Vehicle Permit For 3 Cities"
+    excerpt: "The California Department of Motor Vehicles has issued a permit for Pony.ai to test driverless vehicles in three cities, a press release says. The driverless vehicles will be tested on public roads in Fremont,"
+    publishedDateTime: 2021-05-24T02:29:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/shutterstock_1693673497-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z

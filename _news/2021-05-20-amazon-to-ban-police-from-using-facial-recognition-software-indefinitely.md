@@ -103,15 +103,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Amazon Indefinitely Extends Ban On Police Use Of Face Recognition Technology"
-    excerpt: "Amazon is indefinitely extending its moratorium on sale of its face recognition software, Rekognition, to law enforcement, Reuters"
-    publishedDateTime: 2021-05-19T10:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-indefinitely-extends-ban-on-police-use-of-face-recognition-technology-1030445472"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Amazon extends ban on police use of its facial recognition technology"
     excerpt: "Amazon is announcing that it will extend its ban on police use of it facial recognition technology until further notice."
     publishedDateTime: 2021-05-19T12:19:00Z

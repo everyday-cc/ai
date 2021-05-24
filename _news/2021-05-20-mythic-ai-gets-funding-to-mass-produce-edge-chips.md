@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google unveils fourth generation TPU AI chip"
-    excerpt: "Google has announced the latest version of its custom Tensor Processing Units AI chip. At its I/O developer conference this week the company claimed that the fourth generation TPU was twice as powerful as the previous iteration."
-    publishedDateTime: 2021-05-19T10:24:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/google-unveils-fourth-generation-tpu-ai-chip/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_4.width-358.png"
-        width: 358
-        height: 217
-        isCached: true
 
 secured: "ILO1RnoWpYXwVF8noq3Z2iiYzrbUDwJETIy1bKarYmPRy4FAicaWuyid3JLYi7wseufzsaVir5GBFr71baA9+rdKuTsmxpgV+YH7z7AkA4xQ0jocfx9ATq1VED5t0+Nzdu0PI8Ga7OuKrqWOl9in/61JxmfpfIiMZZYzIfKhBx7xP1KliNW+WnX99gr1r9NlPA3r6TAG5Oo4TMkFL/rqn7aYhRUBsovmS7myNfSvu47idvVy74WA7OtUL28jIE25ywUyg0ENEwOPZdXlHSAfuQcGX4EkRBdqNY4Ch1ur8KjX8GHRkN7u+6pVWDmwHmiu5K27RDQSkPGVgeZ4qgf31mFzUYrDi6t0cdy0hHKJikQ=;T7OvjyPrADaalIPCpfcefA=="
 ---

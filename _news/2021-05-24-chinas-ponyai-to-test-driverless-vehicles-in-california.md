@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "California OKs Pony.Ai Driverless Vehicle Permit For 3 Cities"
+    excerpt: "The California Department of Motor Vehicles has issued a permit for Pony.ai to test driverless vehicles in three cities, a press release says. The driverless vehicles will be tested on public roads in Fremont,"
+    publishedDateTime: 2021-05-24T02:29:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/shutterstock_1693673497-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
     excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
     publishedDateTime: 2021-05-19T12:23:00Z
@@ -102,6 +118,6 @@ related:
         height: 400
         isCached: true
 
-secured: "NzghugBlUn3U0H9QKLLQbu9iCiwjtj6jvQsVUulPQg1rJaKhv1tnVkCFn6Y86yFf9XRcEGCfb3iMxFDMK6wwsCbZ1wFEeepeZnrVSw/0+Zu76qxY8w+h3THf+IId/Tpvqg8miRx/29Y951wSaZeVQiiIo963B2nbA68oBDRFbg4bD3SHX0Pyz20FbB2+BQXzYHpxknS9+bS4wmkGHUmB52OFRwTeKu93BLk9FV+vVUsLBpHHb8buzd/6vsbD+R5cq8csoYza3MRPSrjMfD5/chenMpT+xSiQ8FIjK4n3CymONQKjBAiKE/suypPKYg8GVmbWcJM87GZ1RAJaExRcRpLDcpYTwLkPpvfMSYAkRjo=;+tamzlchNYfYr1aa13eJCw=="
+secured: "dZPEByi+qY/vlQrTuGabFYpqEXfWxcE5+2Ay1aaKL5KJDw3m3xmdG4pMrh+1tfmYBzmJ391STIiyuU5o6ULFm8t1JypOWDX98NOhwzjQ3jgpHiwJ2u0Hx2+7iv97n0D0J4nb1gGvsnquj2Hc6WjP34vLf7PFeKSWCbp94n4T3WBXgtiiuIjIWvBzdtVdcVDdAURZsiQT6yj7H2N8pFI97Pyoz2HR83RbZbIPOQK1+0rEihbWrF59Jb/KYcEEu0ek1PLdurRpqOBbNin07YcJYkTPdU6baMNBdPZW3YUlyQ3rNkXP72HReLQrKJ13D5jO+Cb0VJ3u7PDd0Vt48X4cwWut7fd+XYlpLzaSjEf54v8KO6f5RXj5fySpTubvoXW8qqlOH3kIHQj/BgfpruYlLr8r1J1r+m+IzVRe3EyiwlgI7ebtWUxjtghLXNsRip+Jc+t5pwKLn6xtCakeaojRiYBjme1yJgz7thNGqZyzYEKOsfzbPUOQzwIe0l7jmPuja9rWJuTGY94UsqRurJDaSw==;VmWv0m2//pmFTaO6VQ29wg=="
 ---
 

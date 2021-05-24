@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/05/19/is-that-tom-hanks-speaking-in-japanese
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is That Tom Hanks Speaking in Japanese? No, It's Just AI"
-    excerpt: "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,"
-    publishedDateTime: 2021-05-19T10:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Kore.ai Launches Japanese Version of SmartAssist"
     excerpt: "Kore.ai, a conversational artificial intelligence software company, has launched its artificial intelligence-powered contact cent"
     publishedDateTime: 2021-05-20T04:00:00Z

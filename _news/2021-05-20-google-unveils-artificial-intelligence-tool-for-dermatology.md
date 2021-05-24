@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google Adds a Suite of New AI Tech for Photos and More"
-    excerpt: "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog."
-    publishedDateTime: 2021-05-19T10:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more"
+  - title: "Google's latest AI tool claims to identify common skin conditions"
+    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
+    publishedDateTime: 2021-05-20T10:42:00Z
+    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
+        width: 808
+        height: 526
         isCached: true
 
 secured: "MU45s0rHlxfeTaYLqcxKHCZXbOwi23Jp0No3wcQvvIV/14de4VjUwy6crCdvr4AAfxRb2V1mO/LQ/a5+ocv9wSRM7U9hV08liGZ5wJG+/Jmn7ggNjLr3iE3pGuEXdeDlhGl86PmiCcq4V4BjsO2fv0Gyxf0obOmqh9Jf3+3oCajIYexWw2kPUusAh1RugqVLlF3DxyRVBpQUMTSAzmvHqYJZJcvVADgZEGrd2HEBSloX6SzO1RnLFdJwuTr70PpD157X8eyAuc3crjGl1NZ+Df3S58zgHwl1bx+zgXokc0/vWcEa0dZagQ2R4Dd6rzFnaMrK98qYMcVBqMoFNak+g6P4O6DTmyaRvSa7orll2/AHqlQ7Ur0Dw1XcHzKezh8/NHlB3/c4PcDqeOdoPpSRRfW+8+HkMVlYCln1PUKfzowq47PpKwo/ZmGXmSmX2RamswzYEgBWPuolS8n8qTgu9LVePXSWJ4DX8vZ+yNifEzce1er5mhUHUwjKa4/57m2VcK+DM5DAFfKvfgU3VvqvBQ==;4QvEy840PVvpcHPbemDxmA=="

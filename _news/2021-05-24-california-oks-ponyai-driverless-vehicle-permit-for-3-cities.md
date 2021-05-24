@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
-excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
-publishedDateTime: 2021-05-22T07:45:00Z
-originalUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
-webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+title: "California OKs Pony.Ai Driverless Vehicle Permit For 3 Cities"
+excerpt: "The California Department of Motor Vehicles has issued a permit for Pony.ai to test driverless vehicles in three cities, a press release says. The driverless vehicles will be tested on public roads in Fremont,"
+publishedDateTime: 2021-05-24T02:29:00Z
+originalUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/"
+webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/"
+ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
 type: article
-quality: 41
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: bestgamingpro
-  domain: bestgamingpro.com
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
-    width: 764
-    height: 400
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/shutterstock_1693673497-457x274.jpg"
+    width: 457
+    height: 274
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
         width: 1024
         height: 536
-        isCached: true
-  - title: "California OKs Pony.Ai Driverless Vehicle Permit For 3 Cities"
-    excerpt: "The California Department of Motor Vehicles has issued a permit for Pony.ai to test driverless vehicles in three cities, a press release says. The driverless vehicles will be tested on public roads in Fremont,"
-    publishedDateTime: 2021-05-24T02:29:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/california-oks-pony-ai-driverless-vehicle-permit-for-3-cities/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/shutterstock_1693673497-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
     excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
@@ -117,7 +103,21 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
+    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
+    publishedDateTime: 2021-05-22T07:45:00Z
+    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 41
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
+        width: 764
+        height: 400
+        isCached: true
 
-secured: "IcDQRDTFH2sRoIHl92+mqXk09GwLg6FDznKPrjdEz8wnr1hxL6NHedtjjF/b5BFms5caRGjKf/01dcnL8WsR8swK83wVj7bWmQpmHismRT0QHifcxTKUrs/FK79f0rpcdBE32rF4NVHrYxZSGYaYy6sx+ZAKzI9yxO+noCMvZzhMrCAbNA95SajQAMNrb6+bZwTSuT8vhZq9wuyEgCPORsE6soBjj9xaIFgxB8UZjl7QsUkpOWxvX6jKOB8wW2RRD8wDt+KnAwZ+8j1mwWcx8yGIwLjF8xWNJMua5J2olBEuBRl+/0iFEZb0fSkwyiWiDPVqSZQjzdVpQywc73WoWIVDY+6r20pwB5oBQ7bcW6YEfBzJ1DnlKa5ZuKG9wSvEA4BEgcryGqBQKKDVbnqAjh2poaHRdustJKpif7FYFoaHoK36vjBzLkeFYSRi+U2OkM4YIb6DnIbxCjPlvR1UDNZFMnRKfBB2uBszrvRGRReuUBKCoxefCfJP9HgkRV3y3CZZxDe4VpFtNUw66ShG2g==;1itw4HryObPp5nqfx1oodw=="
+secured: "X1JRM3a5hU4V/KpjFxJchoJafpT/eQL88fvD2Gw713ub3lMi02mbqHRSx7bijCKXc9/b7vE3MqJ7PC9z00U4fddYRFCxboKa7N14AHU6ZiYTna3ViWhTdOuCo3SozZGL00sahXxWLKWlKoOjzbc8NGV8aH3pzHFaxSOqnhQBa5uaoAXJQgCS3s93Hot21uFeN229KZD8FV7pTvYFsAVrIwl95VZkSfWcxqk31zV0WpubG0ZcERCMzmWRIh8d9IImPuBUlz3yETi6aIgwoqQW8D2D04aZoSs6etEoBDHiUDtK9T/g4MS+fF/XT5JBZ44vbTPZ3VGehkqn5bK7GZ5maJjBPyqaPzA6Xl7jH+W0p+A=;38dRbKfYJcCImhXMXN+Ybw=="
 ---
 
