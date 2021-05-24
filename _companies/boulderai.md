@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "boulderai"
   url: "https://www.twitter.com/boulderai"
-  followers: 140
+  followers: 139
 
 locations:
   - San Diego, CA
