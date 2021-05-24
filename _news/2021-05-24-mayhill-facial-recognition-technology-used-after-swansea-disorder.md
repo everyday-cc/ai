@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-57213543.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-57213543.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Tech Digest daily round up: Facial recognition tech used in Swansea"
+    excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea"
+    publishedDateTime: 2021-05-24T13:56:00Z
+    webUrl: "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-facial-recognition-tech-used-in-swansea.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 54
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/05/facial-recognition-feature_1200x675_hero_090418.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "DQp3ESbLaxCUWiXVn6ZjE3dQy/LSotsB1Ry7LpZmCrGeGcrjjhb0coLUYfJOLLobVNz4N03A+G1vQn1c8sWqoaQTL7gi0e83QVQvPkfiN5caC34CRmPRdRetwvU20Qy5sKyFOGYoQ2PJTL4vN2J9DI3pAkG7H+jajKGlmvxeeXUzXWFRH8y18riDcM+xMKKFTY4m/PgymDkytIM6qk2a75i03wx5rXZ9ycO1e2PmY0F+Ez3oiFQKP1Lth+vmOpKA3StwSdac+bfpMfRYISZOV0l3y8P5txHY11CM9nBFTHWfdR4GsKdlBruXngJx/QCOIftg0AcfoZgXMYHKMrMdl6Y7LuiAQTZLO2Iobb1hJT1enls90Ov6p0pbfEv3rNuNKD8xTBpm7Fsc418TRL5YBGbCBC9YP+ftdeQZUnCt4bxSpa+DALNHSEmQweiGwhzyfPaeVJt+rQLw7UMThBW75gpjMxz6VzRKtSBrKe6Iro2+6mayiTsnuhJ8yiO6NOWc0oAb9Z/AtKWj0J1ypq7Tqg==;9qztB/1jvSa5ddEGJQdKSw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-reco
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 88
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Campaigners predict U.S. federal facial recognition regulation"
+    excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
+    publishedDateTime: 2021-05-21T21:23:00Z
+    webUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
     excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
     publishedDateTime: 2021-05-21T09:30:00Z
@@ -40,6 +54,20 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
         width: 959
         height: 368
+        isCached: true
+  - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
+    excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
+    publishedDateTime: 2021-05-21T13:40:00Z
+    webUrl: "https://www.actuia.com/english/amazon-continues-to-refuse-to-let-law-enforcement-use-its-facial-recognition-tools/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Image-for-celebrity-recognition_v3.2264009c637a0ee8cf02b75fd82bb30aa34073eb.jpg"
+        width: 1224
+        height: 660
         isCached: true
 
 secured: "HkLBrc+P+b82X2OzhAb8Gm5RmyKTaS06Gkws8uYM8xH5AwUz+49K7jpJYO4aVQIpUO6n74x4yKiho1gatycJxWbdquklsfF7zrnY/bcRXfVlk5Pv+1kVhyW+ytlwoEvdkWCLsuPV2vN6l2Yl9tF09uSM5tpIewM2ImtNMKK9WpIqd5MjP1JtTrjxyMpHN6Gj+MX2lc7hG3wXDTawfDkpDczBJegBp6w2DYkTo1wYPzfKEFpPT13lYCQgZJsNsDurD5ccbNR+r/PhgSob0W6EHGvBJjlDe5NDVnzrepNac3aEgGLIvHdkmyODAUdaEVjVZVEnKNgWIlSF3Ai1SBwShHrLA2SDJi9dFNEk73Y+oNSAXEe3myxPPiKntBGoa/PTpw2JyShYqkVQSSmHW32Ba94eQmmmn27PYZA4mim6tFPlN55N7hZbiPcb5JawTnXgBgLk6ZJSEalLdLLJhVQIS+EIz42yNVcE9AsmYn5b7VhB+Yjkk7T8WPk1xO+B8Rn9+z0l2PSTQpq7svC27PSqFw==;lUhEVXOdiFg7k8ZsI63CIg=="

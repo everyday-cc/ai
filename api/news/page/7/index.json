@@ -2,6 +2,251 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-18-data-prep-platform-explorium-raises-75m.md",
+      "title": "Data prep platform Explorium raises $75M",
+      "excerpt": "Explorium, a platform for feature engineering and data prep, has raised $75 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/",
+      "publishedDateTime": "2021-05-18T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-cx-decoded-podcast-practical-use-cases-of-ai-in-marketing.md",
+      "title": "CX Decoded Podcast: Practical Use Cases of AI in Marketing",
+      "excerpt": "The use case for Artificial Intelligence (AI) in the workplace is there. Deloitte’s Tech Trends 2021 found AI and machine learning technologies are helping financial services firm Morgan Stanley use decades of data to supplement human insight with accurate models for fraud detection and prevention,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/59aafdbc179f4d45aed15ba760f4f665.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/",
+      "publishedDateTime": "2021-05-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
+      "title": "Less watching, more learning: AI enabling a smarter world",
+      "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
+      "publishedDateTime": "2021-05-18T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-insight-recognized-again-as-a-microsoft-security-2020-winner-for-microsoft-azure-security-deployment-partner-of-the-year.md",
+      "title": "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year",
+      "excerpt": "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has been named a Microsoft Security 20/20 award winner for a second year in a row in the Microsoft Azure Security Deployment Partner of the Year category.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=471062",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=471062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd.md",
+      "title": "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D",
+      "excerpt": "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
+      "publishedDateTime": "2021-05-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-ai-redefined-commits-to-better-training-models-under-new-ceo.md",
       "title": "AI Redefined commits to better training models under new CEO",
       "excerpt": "AI Redefined (AIR) appoints new CEO as it seeks to drive adoption of its human-centered Cogment framework for training AI agents.",
@@ -995,245 +1240,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-researchers-call-for-bias-free-artificial-intelligence.md",
-      "title": "Researchers call for bias-free artificial intelligence",
-      "excerpt": "Clinicians and surgeons are increasingly using medical devices based on artificial intelligence. These AI devices, which rely on data-driven algorithms to inform health care decisions, presently aid in diagnosing cancers,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
-      "publishedDateTime": "2021-05-17T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
-      "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
-      "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence-600x784.jpg",
-          "width": 600,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "publishedDateTime": "2021-05-17T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance.md",
-      "title": "AI-powered Jerry raises $28M to help you save money on car insurance",
-      "excerpt": "When Art Agrawal was growing up in India, a car ride was a rare treat, and car ownership was a dream. When he moved to the U.S. and bought his first car, he was shocked by how much it cost and how difficult it was to maintain a car.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
-      "originalUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Jerry-Co-Founders-Lina-Zhang-Art-Agrawal-Musawir-Shah.jpg?w=1024",
-          "width": 1024,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
-      "publishedDateTime": "2021-05-17T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week.md",
-      "title": "Artificial Intelligence Identifies IBM And Netflix Among Trending Stocks This Week",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified IBM and Netflix among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a29349196dab928cb87605%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
-      "publishedDateTime": "2021-05-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-provectus-cto-on-how-enterprises-can-boost-ai-implementation.md",
-      "title": "Provectus CTO on how enterprises can boost AI implementation",
-      "excerpt": "Provectus, a consulting firm that helps enterprises navigate AI adoption, is adding new tools via a Tecton partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
-      "originalUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data.GettyImages-1173239901.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
-      "publishedDateTime": "2021-05-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

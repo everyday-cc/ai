@@ -59,6 +59,34 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Infusing A Dose Of Human Driver Skepticism Into The AI Driving Systems Of Self-Driving Cars"
+    excerpt: "Human drivers make use of skepticism while driving, and the question for self-driving cars is how much skepticism ought to be infused into the AI driving systems."
+    publishedDateTime: 2021-05-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/24/infusing-a-dose-of-human-driver-skepticism-into-the-ai-driving-systems-of-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604d39ac3a24a026f900e871%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1179%26cropY1%3D26%26cropY2%3D689"
+        width: 1179
+        height: 663
+        isCached: true
+  - title: "Self-driving cars could spike CO2 — study"
+    excerpt: "Self-driving vehicl"
+    publishedDateTime: 2021-05-24T11:05:00Z
+    webUrl: "https://www.eenews.net/energywire/stories/1063733275/feed"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2021/05/image_asset_119343.jpg?1621865577"
+        width: 938
+        height: 483
+        isCached: true
   - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
     excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
     publishedDateTime: 2021-05-21T14:20:00Z

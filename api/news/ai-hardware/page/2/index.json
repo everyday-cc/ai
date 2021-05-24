@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage.md",
+      "title": "Tesla, Apple Supplier Delta To Pour $7M In AI Semiconductor Startup Amid Chip Shortage",
+      "excerpt": "Tesla Inc (NASDAQ: TSLA) and Apple Inc (NASDAQ: AAPL) power components supplier Delta Electronics is backing Kneron, an artificial intelligence startup that",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
+      "originalUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/8615ceba8e07821a.jpeg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20981899",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20981899",
+      "publishedDateTime": "2021-05-06T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-tesla-supplier-delta-electronics-invests-7m-in-ai-chip-startup-kneron.md",
       "title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
       "excerpt": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence capabilities by using edge computing,",
@@ -1412,59 +1456,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame.md",
-      "title": "Xiaomi Is Said to Mull Investing in AI Chipmaker Black Sesame",
-      "excerpt": "Mobile phone giant Xiaomi Corp. is among investors considering joining a funding round of at least 1.5 billion yuan ($231 million) for Black Sesame Technologies Inc., according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.y9b1.0zKA/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

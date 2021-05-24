@@ -41,6 +41,22 @@ related:
         width: 629
         height: 389
         isCached: true
+  - title: "Edge AI Software Market will grow to $1,835 million by 2026"
+    excerpt: "According to a new market research report Edge AI Market by Component Solutions and Services Data Source Application Autonomous Vehicles Access Management Video Surveillance Remote Monitoring and Predictive Maintenance and Telemetry Vertical and Region Global Forecast to 2026 published"
+    publishedDateTime: 2021-05-24T15:27:00Z
+    webUrl: "https://www.openpr.com/news/2289406/edge-ai-software-market-will-grow-to-1-835-million-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2289406/edge-ai-software-market-will-grow-to-1-835-million-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289406/edge-ai-software-market-will-grow-to-1-835-million-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/5/U524318783_g.jpg"
+        width: 650
+        height: 424
+        isCached: true
   - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
     excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
     publishedDateTime: 2021-05-21T00:31:00Z

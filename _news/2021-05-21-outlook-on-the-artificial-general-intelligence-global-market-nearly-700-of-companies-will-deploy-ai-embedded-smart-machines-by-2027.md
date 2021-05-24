@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/21231358"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21231358"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "The Worldwide Artificial General Intelligence Industry is Expected to Reach $4.25 Billion by 2026"
+    excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
+    publishedDateTime: 2021-05-24T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-artificial-general-intelligence-industry-is-expected-to-reach-4-25-billion-by-2026--301297622.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Global Artificial General Intelligence Market (2021 to 2026) - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
     excerpt: "General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the artificial general intelligence market including leading companies,"
     publishedDateTime: 2021-05-20T06:23:00Z

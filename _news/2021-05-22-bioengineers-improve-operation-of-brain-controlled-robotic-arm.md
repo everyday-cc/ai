@@ -50,6 +50,22 @@ related:
         width: 825
         height: 366
         isCached: true
+  - title: "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm"
+    excerpt: "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device."
+    publishedDateTime: 2021-05-24T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/"
+    ampWebUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/05/robotic-arm-sense-of-touch-1.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Mind-controlled arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
     publishedDateTime: 2021-05-22T07:00:00Z

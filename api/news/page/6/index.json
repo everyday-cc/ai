@@ -2,6 +2,264 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-19-data-sync-automation-startup-syncari-raises-173m.md",
+      "title": "Data sync automation startup Syncari raises $17.3M",
+      "excerpt": "Syncari, a data sync automation startup, has raised $17.3 million in a series A round, bringing its total raised to over $23 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/03/Big-Data.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/amp/",
+      "publishedDateTime": "2021-05-18T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-launches-vertex-ai-a-fully-managed-cloud-ai-service.md",
+      "title": "Google launches Vertex AI, a fully managed cloud AI service",
+      "excerpt": "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
+      "publishedDateTime": "2021-05-18T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-adds-ai-powered-app-personalization-other-improvements-to-firebase.md",
+      "title": "Google adds AI-powered app personalization, other improvements to Firebase",
+      "excerpt": "At its I/O 2021 developer conference, Google rolled out a range of improvements to its Firebase app development platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
+      "publishedDateTime": "2021-05-18T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
+      "title": "Google I/O 2021: Being helpful in moments that matter",
+      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
+      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
+      "publishedDateTime": "2021-05-18T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
+      "title": "Google details new AI accelerator chips",
+      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-05-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-googles-new-ai-technology-could-make-assistant-more-human-like.md",
       "title": "Google’s new AI technology could make Assistant more human-like",
       "excerpt": "Google is developing LaMDA technology that could lead to more natural Assistant conversations. It responds with logical, consistent answers rather than raw data. The technology is still quite early. Unlike with typical AI language models,",
@@ -1024,251 +1282,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-data-prep-platform-explorium-raises-75m.md",
-      "title": "Data prep platform Explorium raises $75M",
-      "excerpt": "Explorium, a platform for feature engineering and data prep, has raised $75 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-prep-platform-explorium-raises-75m/amp/",
-      "publishedDateTime": "2021-05-18T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-cx-decoded-podcast-practical-use-cases-of-ai-in-marketing.md",
-      "title": "CX Decoded Podcast: Practical Use Cases of AI in Marketing",
-      "excerpt": "The use case for Artificial Intelligence (AI) in the workplace is there. Deloitte’s Tech Trends 2021 found AI and machine learning technologies are helping financial services firm Morgan Stanley use decades of data to supplement human insight with accurate models for fraud detection and prevention,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
-      "originalUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/59aafdbc179f4d45aed15ba760f4f665.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/cx-decoded-podcast-practical-use-cases-of-ai-in-marketing/amp/",
-      "publishedDateTime": "2021-05-18T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
-      "title": "Less watching, more learning: AI enabling a smarter world",
-      "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "publishedDateTime": "2021-05-18T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-insight-recognized-again-as-a-microsoft-security-2020-winner-for-microsoft-azure-security-deployment-partner-of-the-year.md",
-      "title": "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year",
-      "excerpt": "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has been named a Microsoft Security 20/20 award winner for a second year in a row in the Microsoft Azure Security Deployment Partner of the Year category.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=471062",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=471062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd.md",
-      "title": "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D",
-      "excerpt": "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
-      "originalUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
-      "publishedDateTime": "2021-05-18T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

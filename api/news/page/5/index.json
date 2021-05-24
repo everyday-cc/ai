@@ -2,6 +2,256 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-19-alteryx-expands-analytics-automation-platform-with-new-ml-features.md",
+      "title": "Alteryx expands analytics automation platform with new ML features",
+      "excerpt": "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
+      "originalUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
+      "publishedDateTime": "2021-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-unbounce-snags-snazzyai-to-add-automated-copywriting-to-platform.md",
+      "title": "Unbounce snags Snazzy.ai to add automated copywriting to platform",
+      "excerpt": "Unbounce, a Vancouver startup best known for helping marketers create automated landing pages, added a new wrinkle this morning when it announced it has acquired Snazzy.ai, an early stage automated copywriting startup.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
+      "originalUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1032165070.jpg?w=1024",
+          "width": 1024,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
+      "publishedDateTime": "2021-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-a-current-googler-shared-his-account-of-the-firms-ethical-ai-team-turmoil-timnit-was-blackballed.md",
+      "title": "A current Googler shared his account of the firm's ethical AI team turmoil: 'Timnit was blackballed'",
+      "excerpt": "Blake Lemoine said there was \"barely a hint of ethical concerns\" around Google's AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-insider-shares-firsthand-account-of-ethical-ai-team-fiasco-2021-5",
+      "originalUrl": "https://www.businessinsider.com/google-insider-shares-firsthand-account-of-ethical-ai-team-fiasco-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-adds-a-suite-of-new-ai-tech-for-photos-and-more.md",
+      "title": "Google Adds a Suite of New AI Tech for Photos and More",
+      "excerpt": "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-is-that-tom-hanks-speaking-in-japanese-no-its-just-ai.md",
+      "title": "Is That Tom Hanks Speaking in Japanese? No, It's Just AI",
+      "excerpt": "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "publishedDateTime": "2021-05-19T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims.md",
       "title": "California’s DMV taking Tesla to task over misleading ‘self-driving’ claims",
       "excerpt": "California's DMV reviews Tesla to establish if the company is using misleading advertising regarding its \"Full Self-Driving\" package.",
@@ -991,264 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-data-sync-automation-startup-syncari-raises-173m.md",
-      "title": "Data sync automation startup Syncari raises $17.3M",
-      "excerpt": "Syncari, a data sync automation startup, has raised $17.3 million in a series A round, bringing its total raised to over $23 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/03/Big-Data.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/data-sync-automation-startup-syncari-raises-17-3m/amp/",
-      "publishedDateTime": "2021-05-18T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-launches-vertex-ai-a-fully-managed-cloud-ai-service.md",
-      "title": "Google launches Vertex AI, a fully managed cloud AI service",
-      "excerpt": "Vertex AI, a new fully managed AI service from Google, aims to unify offerings across the company's cloud portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-launches-vertex-ai-a-fully-managed-cloud-ai-service/amp/",
-      "publishedDateTime": "2021-05-18T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-adds-ai-powered-app-personalization-other-improvements-to-firebase.md",
-      "title": "Google adds AI-powered app personalization, other improvements to Firebase",
-      "excerpt": "At its I/O 2021 developer conference, Google rolled out a range of improvements to its Firebase app development platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-adds-ai-powered-app-personalization-other-improvements-to-firebase/amp/",
-      "publishedDateTime": "2021-05-18T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
-      "title": "Google I/O 2021: Being helpful in moments that matter",
-      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
-      "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
-      "title": "Google details new AI accelerator chips",
-      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

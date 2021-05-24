@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-07-ai-is-ready-to-take-on-a-massive-healthcare-challenge.md",
+      "title": "AI is ready to take on a massive healthcare challenge",
+      "excerpt": "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
+      "originalUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-482179767.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
       "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
       "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
@@ -1297,58 +1349,6 @@
         "name": "STAT",
         "domain": "statnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-the-eu-is-proposing-regulations-on-aiand-the-impact-on-healthcare-could-be-significant.md",
-      "title": "The EU Is Proposing Regulations On AI—And The Impact On Healthcare Could Be Significant",
-      "excerpt": "Regulatory frameworks regarding AI and healthcare generally will undoubtedly only continue to grow, especially as innovators attempt to solve increasingly difficult problems with technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6085b608a78cd2efaae3d58f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/amp/",
-      "publishedDateTime": "2021-04-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

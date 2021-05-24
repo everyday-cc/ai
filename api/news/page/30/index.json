@@ -2,6 +2,239 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-29-why-the-launch-of-apples-self-driving-cars-is-delayed.md",
+      "title": "Why the Launch of Apple’s Self-driving cars is Delayed?",
+      "excerpt": "Since 2014, the launch of Apple’s self-driving cars is delayed for the development of level-5 autonomous driving and third-party partner. It depends on an Artificial Intelligence operating system which has potential till level-3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "originalUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/self-driving-car.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-huawei-trained-the-chinese-language-equivalent-of-gpt-3.md",
+      "title": "Huawei trained the Chinese-language equivalent of GPT-3",
+      "excerpt": "Huawei trained a 200-billion-parameter Chinese-language model. But whether it moves the needle on research is an open question.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/2019-04-24T111728Z_3_LYNXNPEF3N0ER_RTROPTP_4_HUAWEI-HSBC-e1558409923159.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "publishedDateTime": "2021-04-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
+      "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
+      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, announced support for the AWS for Media & Entertainment initiative from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_0da846a1-a202-53c2-905b-796acde47573.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/8b/c8b5b739-be2c-5990-9bd7-43368bd99665/608a9cec01459.image.jpg?resize=1181%2C630",
+          "width": 1181,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-vectra-ai-raises-130-million-led-by-blackstone-growth-bxg.md",
+      "title": "Vectra AI Raises $130 Million led by Blackstone Growth (BXG)",
+      "excerpt": "Vectra AI, a leader in threat detection and response today announced a $130 million round of funding led by funds managed by Blackstone Growth (BXG, “Blackstone Growth”). The investment will help fuel Vectra’s continued growth through platform innovation and expansion into new markets and geographies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/vectra-ai-raises-130-million-led-by-blackstone-growth-bxg/article_b65b7d1a-7766-5bd1-9f77-99b7e9090dcd.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/vectra-ai-raises-130-million-led-by-blackstone-growth-bxg/article_b65b7d1a-7766-5bd1-9f77-99b7e9090dcd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ai-powered-cybersecurity-platform-vectra-ai-raises-130m.md",
+      "title": "AI-powered cybersecurity platform Vectra AI raises $130M",
+      "excerpt": "Vectra AI, an AI-powered cybersecurity platform, raised $130 million in a funding round that values the company at $1.2 billion post-money.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "publishedDateTime": "2021-04-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-hawaii-banks-new-mobile-app-uses-artificial-intelligence-to-customize-experience.md",
       "title": "Hawaii bank’s new mobile app uses artificial intelligence to customize experience",
       "excerpt": "The bank’s customers can now store information from all of their accounts in one place ― even accounts that aren’t with First Hawaiian.",
@@ -936,237 +1169,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-promoting-artificial-intelligence-in-accounting-profession.md",
-      "title": "Promoting Artificial Intelligence in Accounting Profession",
-      "excerpt": "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/c701d120-technology-innovation.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/",
-      "publishedDateTime": "2021-04-28T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-aws-announces-general-availability-of-amazon-nimble-studio.md",
-      "title": "AWS Announces General Availability of Amazon Nimble Studio",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Nimble Studio, a new service that enables customers to set up a content production studio in hours instead of weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777",
-      "originalUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-frances-macron-eyes-artificial-intelligence-to-monitor-terrorism.md",
-      "title": "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism",
-      "excerpt": "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "originalUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-330987/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713",
-      "publishedDateTime": "2021-04-28T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.md",
-      "title": "Imagen AI uses artificial intelligence to edit your photos in Lightroom",
-      "excerpt": "Imagen AI recently announced its new desktop app for Mac and PC. Using artificial intelligence, it will automatically edit batches of your photos in Lightroom based on what it has learned from your past editing preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom",
-      "originalUrl": "https://www.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.img-dpreview.com/files/p/E~TS590x0~articles/1163298841/Screen_Shot_2021-04-28_at_1.38.30_PM.png",
-          "width": 590,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1163298841/imagen-ai-uses-artificial-intelligence-to-edit-your-photos-in-lightroom.amp",
-      "publishedDateTime": "2021-04-28T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-qa-vivienne-sze-on-crossing-the-hardwire-software-divide-for-efficient-ai.md",
-      "title": "Q&A: Vivienne Sze on crossing the hardwire-software divide for efficient AI",
-      "excerpt": "Vivienne Sze is an MIT researcher who is co-designing artificial intelligence hardware and software to be more energy efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
-      "originalUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202104/vivienne-sze-mit-00.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

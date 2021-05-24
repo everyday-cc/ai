@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "States move to limit government use of facial recognition software"
-    excerpt: "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition."
-    publishedDateTime: 2021-05-19T21:25:00Z
-    webUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html"
+  - title: "We could see federal regulation on face recognition as early as next week"
+    excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
+    publishedDateTime: 2021-05-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370"
-        width: 1920
-        height: 1080
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Campaigners predict U.S. federal facial recognition regulation"
     excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
@@ -54,63 +56,20 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Lightfoot’s office was blindsided by CPD’s use of controversial facial recognition software — then raised serious concerns"
-    excerpt: "Hacked emails show the city only learned police were using technology developed by Clearview AI — which faces multiple suits claiming it violated the state’s biometrics privacy act — until after inquiries last year by the Sun-Times."
-    publishedDateTime: 2021-05-20T10:30:00Z
-    webUrl: "https://chicago.suntimes.com/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2021/5/20/22444054/clearview-ai-facial-recognition-cpd-police-department-lori-lightfoots-privacy"
+  - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
+    excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 48
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/YKugGkghNH_W2uowxDhK7_CxgqU=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69315653/large.0.jpg"
-        width: 768
-        height: 465
-        isCached: true
-  - title: "Trio of facial recognition standards are updated"
-    excerpt: "An article published in the journal Standards Engineering calls out developing ASTM International standards for use in facial recognition."
-    publishedDateTime: 2021-05-20T16:18:00Z
-    webUrl: "https://www.biometricupdate.com/202105/trio-of-facial-recognition-standards-are-updated"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Bloomberg Law
+      domain: bloomberglaw.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
+        width: 959
+        height: 368
         isCached: true
-  - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
-    excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
-    publishedDateTime: 2021-05-21T07:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/e476628/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2Fd2%2F5d1405d3469b8a308cd62605b4b7%2Fwb.Tech.jpg"
-        width: 2290
-        height: 1322
-        isCached: true
-  - title: "USPS Uses Facial Recognition and Other High-Tech Tools To Monitor Social Media"
-    excerpt: "Plus: Three things that aren't as bad as they seem, Tennessee bans certain treatments for transgender minors, and"
-    publishedDateTime: 2021-05-20T13:30:00Z
-    webUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/"
-    ampWebUrl: "https://reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/05/20/usps-uses-facial-recognition-and-other-high-tech-tools-to-monitor-social-media/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
 
 secured: "7xiP/BB84WkqSAYf8Dqt347vgEPOz4Hv7mqWBiwqD+T2UDqudytN2QySx62Tyli559VvhzhQ59ADH19f0MkgJBJ+Br643SWodk4xn+pp29THZeniKQd7WL+3i1hInFc81ssVwAHb12xZa13efdLCTue0WAuXLBjXiCnQJk7TXfUVT9mb+Ysm1Zyqvr3z6b0I+5wcfn/7JrZ8GTlCzuc5mgNcDof8iy7mHGpcrQjwLE5jpuuwniEtEQmEdXeqGKVtdejrDTEsK9oyOz9vpLOhuq6a/DEd736LWEQnAvbw/uxhdNoGoUez9eNvxdIYASBZvL9jEVaftVUJePzjN6AKf4511egK9MABmUPlVEiqkIPTUuFwGMm05tZ0TY5Uh2FBecuEzNQ+upY43TGXi3pSkS3csOoOkOkitPe13FugyJZKnEh6c1/trOliT2tis84e46vLKGLQ8rMNCtX3V2pOrOkReJftQA19SYP3KNzqyqr0f70fbfL7KqbLAzGjted8XGI/HLwTa8ijeL/ct3WWrg==;jMH4kGX5nxIuuqjNT6ZG7A=="
 ---

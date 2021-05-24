@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-24T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/googles-artificial-intelligence-voice-assistant-bests-siri-alexa"
 webUrl: "https://healthitanalytics.com/news/googles-artificial-intelligence-voice-assistant-bests-siri-alexa"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
@@ -23,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lFjCYNRtFMAMKi2EPk4bIp4eF8pWblE9TGrqGja7fvG6hiW+bp1It2r6ljGzWJAhngV13qJKQj1ExzgtFmzG2gAa7f+MSYYvImX/npR5egrcKhkgQkWws+bk0TYkrkXpvwMuElGQglVfDk1WvuDYYI6MDbul2tyLU7rKXd8RJYyGOMz0U1p6lfJbi0z635FUCpWbKGZnmxomuoZ018CZGnOzt7nO6uhNplrwzwH9TFoIwhLe3fHFuYQF7LpfxmGtRxMAuvBxEGnV/v2hhymxBxh5NG58JBebSoUwzJoeCLQ+FZ6q0Z6g1QaafEUQMFA/wfExn2IzfbNjXgYMuDlHCrkIo1tFXtmlNxOvbvbapwA=;MBKLqd5cC364kLn+cpBTCA=="
+secured: "mbHbOwLGTCOxXsHlkGj7dd4iotnliMgvdK9HraMrXK96lr4tuWeMJylb7l/dg0zfuI8ty31tMOWzdW1x+pw6k/Ah5uDz7EvfcHXdUH/x8s1kYt18fwkI9IROwmoeTrFYB+5pocsYt6xrVMVL3Kfu5Ddp7bOsH2Bsg58yD3dcaanKA+9O3wYSPLYMfgcsbHUduiwQa1pjdcbrRSR18vACImrhOs2nsPRZAFvvEl//xg5vRO5M4rKR/kKflk6yx1Dcgzk6M0jh6OWMiJGJk6x156Fh7Bx8OsqM+x4CyPnDk5aVjkvfIP2KUHuVamFr3WCUlzH9ybZB5NAGzdalb2O9rOmpQukdxT0SkuheCddVsLDQoF0+ZVrIPIT8oJeoMjvvU+caePPcZ8NWSFTunvT/ek0nUIlvB8T/YDiAUUA27HmyBvy9ejHCN6BoIBBoei07fgOuIIyQ+Txwzbue0Qjz1ja/S04YYVx4Zrz9fM5LTxmVyPN2Kll5bQn/9Njq6F0vAel/q4NpWDmkWmiZvClFCA==;iCTGvV230a7t5iP5zBDkWg=="
 ---
 

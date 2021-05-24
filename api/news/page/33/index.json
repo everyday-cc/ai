@@ -2,6 +2,240 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-04-27-official-master-changan-is-testing-self-driving-cars-in-pakistan.md",
+      "title": "Official: Master Changan is Testing Self-Driving Cars in Pakistan",
+      "excerpt": "The future finally meets the roads of Pakistan. Master Changan Motors is leading Pakistan into the future of mobility by",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
+      "originalUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2016/05/Mobilink_Microfinance_Bank.jpg",
+          "width": 750,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
+      "publishedDateTime": "2021-04-27T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights.md",
+      "title": "Machine learning security vulnerabilities are a growing threat to the web, report highlights",
+      "excerpt": "Security industry needs to tackle nascent AI threats before it’s too late. As machine learning (ML) systems become a staple of everyday life, the security threats they entail wi",
+      "sourceUrl": null,
+      "webUrl": "https://portswigger.net/daily-swig/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
+      "originalUrl": "https://portswigger.net/daily-swig/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://portswigger.net/cms/images/20/7c/f2c9-twittercard-210427-ai-machine-learning-body-text.jpg",
+          "width": 506,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://portswigger.net/daily-swig/amp/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
+      "cdnAmpWebUrl": "https://portswigger-net.cdn.ampproject.org/c/s/portswigger.net/daily-swig/amp/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
+      "publishedDateTime": "2021-04-27T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PortSwigger",
+        "domain": "portswigger.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-computer-vision-is-changing-residential-property-management.md",
+      "title": "Computer Vision Is Changing Residential Property Management",
+      "excerpt": "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring AI solutions into property management. Property management is an essential service facilitating the balance in the rental housing market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-google-pressured-on-racial-equity-audit-after-ai-ethics-collapse.md",
+      "title": "Google Pressured on Racial Equity Audit After AI Ethics Collapse",
+      "excerpt": "Gebru and her co-lead Margaret Mitchell were ousted and have blamed a sexist and racist culture as the reason they were excluded from conversations about AI ethics. Gebru is well-known for her work on a landmark study in 2018 that showed some facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-27/google-pressured-on-racial-equity-audit-after-ai-ethics-collapse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iox2cS.BPlds/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
+      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
+      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (“C-FER”) and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft”) are pleased to announce that C-FER has entered into a technology sharing agreement with OneSoft’s wholly owned subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
+      "originalUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal.md",
       "title": "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal",
       "excerpt": "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors.",
@@ -942,231 +1176,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-cleareyeai-joins-itfa-the-fintech-committee.md",
-      "title": "Cleareye.ai joins ITFA & the Fintech Committee",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net LOS ANGELES, April 26, 2021 /PRNewswire/ -- Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cleareye-ai-joins-itfa-the-fintech-committee-1030345128",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cleareye-ai-joins-itfa-the-fintech-committee-1030345128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
-      "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
-      "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
-      "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg",
-          "width": 400,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20796180",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180",
-      "publishedDateTime": "2021-04-26T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups.md",
-      "title": "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups",
-      "excerpt": "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to preserve digital stories and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d1/cd135112-3bc6-5c29-8306-b1c8139d53c6/6086d5a2c221e.image.jpg?resize=1119%2C630",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
-      "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
-      "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
-      "originalUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png",
-          "width": 1391,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20793834",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834",
-      "publishedDateTime": "2021-04-26T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

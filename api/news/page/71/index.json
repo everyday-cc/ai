@@ -2,6 +2,176 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-03-18-retalon-announces-breakthrough-application-of-deep-learning-technology-in-business-specific-predictive-analytics.md",
+      "title": "Retalon Announces Breakthrough Application of Deep Learning Technology in Business Specific Predictive Analytics",
+      "excerpt": "Retalon introduces “Progressive Learning”, a methodology that makes the process of training of Neural Nets 80% more resistant to the bad data. TORONTO, March 17, 2021 /PRNewswire/ - Retalon, an award-winning AI & Predictive Analytics software provider announced a new approach to training of Neural Nets,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-professional-services-educational-services-0d6e5bf1d8cf4438c986bddac258e316",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-professional-services-educational-services-0d6e5bf1d8cf4438c986bddac258e316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-schrodinger-to-participate-in-credit-suisse-2021-healthcare-innovators-series-the-intersection-of-drug-discovery-drug-development-and-artificial.md",
+      "title": "Schrödinger to Participate in Credit Suisse 2021 Healthcare Innovators Series: The Intersection of Drug Discovery, Drug Development and Artificial Intelligence",
+      "excerpt": "Schrödinger will participate in the virtual Credit Suisse 2021 Healthcare Innovators Series on March 23, 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210317005039/en/Schrödinger-to-Participate-in-Credit-Suisse-2021-Healthcare-Innovators-Series-The-Intersection-of-Drug-Discovery-Drug-Development-and-Artificial-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210317005039/en/Schrödinger-to-Participate-in-Credit-Suisse-2021-Healthcare-Innovators-Series-The-Intersection-of-Drug-Discovery-Drug-Development-and-Artificial-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-bmws-new-idrive-8-gets-a-massive-curved-display-and-enhanced-voice-recognition.md",
+      "title": "BMW’s New iDrive 8 Gets A Massive Curved Display And Enhanced Voice Recognition",
+      "excerpt": "BMW’s iDrive 8 features a 12.3-inch digital instrument cluster and a 14.9-inch infotainment display in a single unit. The system will use BMW’s Intelligent Assistant AI to control vehicle functions. Users can choose between voice commands,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/",
+      "originalUrl": "https://www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/?is_amp=1",
+      "cdnAmpWebUrl": "https://www-zigwheels-com.cdn.ampproject.org/c/s/www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/?is_amp=1",
+      "publishedDateTime": "2021-03-17T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZigWheels",
+        "domain": "zigwheels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-china-grants-baidu-first-robotaxi-permit-for-paying-riders.md",
+      "title": "China grants Baidu first robotaxi permit for paying riders",
+      "excerpt": "Baidu displayed a self-driving car without a safety driver in Shougang Park, the headquarters of the 2022 Winter Olympics organizing committee, on the outskirts of Beijing on Tuesday, Sept. 15, 2020. (Image credit: Baidu) The city of Cangzhou in northern ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
+      "originalUrl": "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
+      "publishedDateTime": "2021-03-17T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-fmcsa-driverless-truck-message-stokes-workforce-fear.md",
+      "title": "FMCSA driverless truck message stokes workforce fear",
+      "excerpt": "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/are-driverless-truck-workforce-fears-warranted",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/are-driverless-truck-workforce-fears-warranted",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-fsu-researchers-report-enhanced-quantum-machine-learning-algorithms.md",
       "title": "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms",
       "excerpt": "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,",
@@ -740,186 +910,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy.md",
-      "title": "ImageNet creators find blurring faces for privacy has a ‘minimal impact on accuracy’",
-      "excerpt": "Makers of the influential ImageNet plan to replace a version of the dataset with the blurred faces of more than half a million people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
-      "publishedDateTime": "2021-03-16T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-dexter-robot-arm-embraces-new-manufacturing-with-first-micro-factory.md",
-      "title": "Dexter Robot Arm Embraces New Manufacturing With First Micro-Factory",
-      "excerpt": "Haddington Dynamics, the company behind the Dexter robot arm that won the 2018 Hackaday Prize, has opened its first microfactory to build robot arms for Australia and Southeast Asia. You may ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/03/09/dexter-robot-arm-embraces-new-manufacturing-with-first-micro-factory/",
-      "originalUrl": "https://hackaday.com/2020/03/09/dexter-robot-arm-embraces-new-manufacturing-with-first-micro-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-microsofts-innovation-happened-at-the-intersections-at-ignite-2021.md",
-      "title": "Microsoft's Innovation Happened at the Intersections at Ignite 2021",
-      "excerpt": "But so far, Google has fallen short within its core platform. Similarly, Amazon Web Services (AWS) has yet to announce compatibility between Amazon SageMaker and AWS Outposts, although I expect it will do so imminently. Another big move targeted the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/",
-      "originalUrl": "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/",
-      "publishedDateTime": "2021-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-watch-google-deepminds-alphago-documentary-for-free.md",
-      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
-      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-aws-announces-general-availability-of-amazon-ec2-x2gd-instances-powered-by-graviton2-processors.md",
-      "title": "AWS Announces General Availability of Amazon EC2 X2gd Instances Powered by Graviton2 Processors",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company, announced general availability of Amazon Elastic Compute Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ec2-x2gd-instances-powered-by-aws-designed-graviton2-processors/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ec2-x2gd-instances-powered-by-aws-designed-graviton2-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

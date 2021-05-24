@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2288401/voice-assistant-application-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288401/voice-assistant-application-market-expected-to-gain-5-2"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edge AI Software Market will grow to $1,835 million by 2026"
+    excerpt: "According to a new market research report Edge AI Market by Component Solutions and Services Data Source Application Autonomous Vehicles Access Management Video Surveillance Remote Monitoring and Predictive Maintenance and Telemetry Vertical and Region Global Forecast to 2026 published"
+    publishedDateTime: 2021-05-24T15:27:00Z
+    webUrl: "https://www.openpr.com/news/2289406/edge-ai-software-market-will-grow-to-1-835-million-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2289406/edge-ai-software-market-will-grow-to-1-835-million-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289406/edge-ai-software-market-will-grow-to-1-835-million-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/5/U524318783_g.jpg"
+        width: 650
+        height: 424
+        isCached: true
   - title: "Permutation-based identification of important biomarkers for complex diseases via machine learning models"
     excerpt: "Study of human disease remains challenging due to convoluted disease etiologies and complex molecular mechanisms at genetic, genomic, and proteomic levels. Here, the authors propose a computationally efficient Permutation-based Feature Importance Test to assist interpretation and selection of individual features in complex machine learning models for complex disease analysis."
     publishedDateTime: 2021-05-21T10:26:00Z

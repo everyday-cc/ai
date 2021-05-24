@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-23-azure-speech-ai-how-future-xbox-pc-games-could-say-your-custom-characters-name.md",
+      "title": "Azure Speech AI: How future Xbox, PC games could say your custom character's name",
+      "excerpt": "One such area that is quite compelling revolves around Microsoft's Azure Speech services, which takes cloud processing and AI algorithms to produce next-gen accessibility and gameplay features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/azure-voice-ai",
+      "originalUrl": "https://www.windowscentral.com/azure-voice-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/11/xbox-series-xs-hero-1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/azure-voice-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/azure-voice-ai?amp",
+      "publishedDateTime": "2021-04-22T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
       "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
       "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
@@ -1251,58 +1294,6 @@
         "name": "MD&M East",
         "domain": "mddionline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-what-microsofts-197-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech.md",
-      "title": "What Microsoft's $19.7 billion purchase of Nuance could mean for AI and speech tech",
-      "excerpt": "Carlsson said of Monday's news, \"This has been proceeded by a major shakeup internally in Microsoft when it comes to AI—both organizationally (key Azure Cognitive Services individuals are now at Oracle) and technically (the services are being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "originalUrl": "https://www.techrepublic.com/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/12/3518d643-217e-4ace-aa3f-eaf2e9360af5/resize/1200x/e684b41809444853af05cb5db997b971/microsoft-nuance-logos.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "publishedDateTime": "2021-04-12T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

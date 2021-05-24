@@ -2,6 +2,245 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-18-researchers-call-for-bias-free-artificial-intelligence.md",
+      "title": "Researchers call for bias-free artificial intelligence",
+      "excerpt": "Clinicians and surgeons are increasingly using medical devices based on artificial intelligence. These AI devices, which rely on data-driven algorithms to inform health care decisions, presently aid in diagnosing cancers,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
+      "publishedDateTime": "2021-05-17T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
+      "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
+      "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence-600x784.jpg",
+          "width": 600,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
+      "publishedDateTime": "2021-05-17T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance.md",
+      "title": "AI-powered Jerry raises $28M to help you save money on car insurance",
+      "excerpt": "When Art Agrawal was growing up in India, a car ride was a rare treat, and car ownership was a dream. When he moved to the U.S. and bought his first car, he was shocked by how much it cost and how difficult it was to maintain a car.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
+      "originalUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Jerry-Co-Founders-Lina-Zhang-Art-Agrawal-Musawir-Shah.jpg?w=1024",
+          "width": 1024,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/17/ai-powered-jerry-raises-28m-to-help-you-save-money-on-car-insurance/amp/",
+      "publishedDateTime": "2021-05-17T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week.md",
+      "title": "Artificial Intelligence Identifies IBM And Netflix Among Trending Stocks This Week",
+      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified IBM and Netflix among other trending stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a29349196dab928cb87605%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
+      "publishedDateTime": "2021-05-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-provectus-cto-on-how-enterprises-can-boost-ai-implementation.md",
+      "title": "Provectus CTO on how enterprises can boost AI implementation",
+      "excerpt": "Provectus, a consulting firm that helps enterprises navigate AI adoption, is adding new tools via a Tecton partnership.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
+      "originalUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data.GettyImages-1173239901.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
+      "publishedDateTime": "2021-05-17T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-ai-driven-etf-grabbed-up-shares-of-tesla-this-month.md",
       "title": "AI-driven ETF grabbed up shares of Tesla this month",
       "excerpt": "An exchange-traded fund managed by artificial intelligence has bought a large number of Tesla Inc (NASDAQ:TSLA) shares. What makes the purchase especially significant is the AI’s previous track record in predicting movements in the automaker’s stock.",
@@ -936,256 +1175,6 @@
         "name": "Geektime",
         "domain": "geektime.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-tesla-crashes-bitcoin-microsoft-azure-ditches-blockchain-and-more-in-this-weeks-top-news.md",
-      "title": "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News",
-      "excerpt": "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
-      "originalUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai.md",
-      "title": "What the vaccine rollout can teach us about big data and AI",
-      "excerpt": "When it comes to being data driven and innovative with AI, there are 4 lessons enterprises can learn from the vaccine rollout.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1152335789.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/what-the-vaccine-rollout-can-teach-us-about-big-data-and-ai/amp/",
-      "publishedDateTime": "2021-05-15T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
-      "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
-      "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "publishedDateTime": "2021-05-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about.md",
-      "title": "GPT-3’s free alternative GPT-Neo is something to be excited about",
-      "excerpt": "GPT-Neo performs on par with GPT-3 on several key benchmarks, but unlike GPT-3, it's open to anyone who wants to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
-      "originalUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1053437844.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
-      "publishedDateTime": "2021-05-15T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-european-ai-needs-strategic-leadership-not-overregulation.md",
-      "title": "European AI needs strategic leadership, not overregulation",
-      "excerpt": "Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
-      "originalUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211364640.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
-      "publishedDateTime": "2021-05-15T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

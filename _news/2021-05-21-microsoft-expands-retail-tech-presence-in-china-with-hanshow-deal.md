@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-c
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft_hq.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "La Liga, Microsoft team for digital transformation"
-    excerpt: "La Liga, Spain’s top-flight football league, and Microsoft are expanding their partnership focused on digitally transforming the sports experience globally. T"
-    publishedDateTime: 2021-05-19T23:01:00Z
-    webUrl: "https://advanced-television.com/2021/05/20/la-liga-microsoft-team-for-digital-transformation/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 39
-    images:
-      - url: "https://advanced-television.com/wp-content/uploads/2021/05/LaLigaMicrosoft.jpeg"
-        width: 740
-        height: 415
         isCached: true
   - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
     excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"

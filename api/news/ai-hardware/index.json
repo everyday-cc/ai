@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-24-qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost.md",
+      "title": "Qualcomm’s Snapdragon 7c Gen 2 gives entry laptop chip a speed boost",
+      "excerpt": "Qualcomm is launching a new version of its chipset for laptops, with the Snapdragon 7c Gen 2 promising more performance for affordable Windows notebooks and Chromebooks. The successor, as you",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "originalUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Qualcomm-Snapdragon-7c-Gen-2-compute-platform-Still-Animation-Chip-on-board.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "publishedDateTime": "2021-05-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization.md",
       "title": "Adapdix adds adaptive AI tool EdgeOps DataMesh for process optimization",
       "excerpt": "Adapdix’s EdgeOps DataMesh puts AI on the factory floor. Semiconductor manufactuers are both backers and customers.",
@@ -1453,50 +1505,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage.md",
-      "title": "Tesla, Apple Supplier Delta To Pour $7M In AI Semiconductor Startup Amid Chip Shortage",
-      "excerpt": "Tesla Inc (NASDAQ: TSLA) and Apple Inc (NASDAQ: AAPL) power components supplier Delta Electronics is backing Kneron, an artificial intelligence startup that",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
-      "originalUrl": "https://www.benzinga.com/news/21/05/20981899/tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/8615ceba8e07821a.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20981899",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20981899",
-      "publishedDateTime": "2021-05-06T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     }
   ],

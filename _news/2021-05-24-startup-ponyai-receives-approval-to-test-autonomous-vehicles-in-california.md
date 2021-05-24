@@ -72,6 +72,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Chinese startup Pony.ai gets the nod to start testing its driverless vehicles in California"
+    excerpt: "The US state of California has granted permission to Chinese firm Pony.ai to carry out a pilot run of its driverless vehicles in three cities in the state. Six Pony’s autonomous vehicles will be allowed without a safety driver at the wheels in Fremont,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.gizmochina.com/2021/05/24/chinese-startup-pony-ai-nod-start-testing-driverless-vehicles-california/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
+        width: 731
+        height: 393
+        isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z
@@ -145,6 +159,6 @@ related:
         height: 220
         isCached: true
 
-secured: "W6+yvSC1Nj6mXv1BJOsGQY5JzYgzdqdBfReD9lissaCSHiFkdYeXTNCsV0W3jZiCr8qJvSD2gbF815PbA1yJmA31TBGI9bz0a6sFsiALiDc/QW5N06ZZ6jYhjF4mFZpnUQ0kWWuvUuWB4V4EGHaNcgJwliaE/anydqmvHtFjl9SLZY6HTKSO3ys/alZFovNTcGoaYRq531P0G0C1P4E52B1I6Sy3pxGX6+PR+vrZtwqxxXqAwe3kPYn3wkclIhD/sjKfkcYFjsCcbb6T49QChD1GzCkVf8SMb+ANVwRS51ectfvGCtxmqtDzbNQS5kgWUvCxU3oaTdZgTXgTr6xIVkEzoPvV/BMLhor1xCg9SEk=;ZBshAqzn1j0wp0JmPRRdvQ=="
+secured: "MF/jz01WrHNVtUDV7eyCpMVvasy8SxGpHLEn/fb5gTIG7+z+3eULPG9L+3wqiXSRAHGObxNr6Iv0uQSrJLtTh9f5NB/gCk/9qj0R0yyWRl3GmxMZHMfwaUpbIgGLnayZf5e/RXrVV4UnnlQG9MhJPM3cGnUtGjF4/dQvRzD18lgLXq+QOcfGe6SPmw598w8zhS2AEflW1siFEl6E297LKQ0KyIbCjYOTPyq93Af47zfso41o+K3d8O26ef739GWShV7l0MsW2KfLdMYELNbp+lV8tsWngTijIEUVCiT7SOe0LZhrtg9+bUtjdi8FeAayq48QF0zX9YJ0yGbk57QHltklg+vdM64K8uXH1KuQTBi5vaXiwX+nxAM17yO/eHHjYOZ/uCw+x6UPZ7E4u0YyFTkKd9vJfgSxWFND3LJ7z/2Lc4s5dLm2As+TXhQmvP5sIWmEXrsxZZCejns4v5UiJHmkvRrw50DJWBeF+R4fr7ZqerKG7H9cqzrZJ+EPjAaVtyzO2CyfhcuO7g65HtU4Eg==;bYbYDCBqYHO3whvlIbXV8w=="
 ---
 

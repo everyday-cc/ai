@@ -2,6 +2,249 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-11-build-a-cognitive-search-and-a-health-knowledge-graph-using-aws-ai-services.md",
+      "title": "Build a cognitive search and a health knowledge graph using AWS AI services",
+      "excerpt": "Medical data is highly contextual and heavily multi-modal, in which each data silo is treated separately. To bridge different data, a knowledge graph-based approach integrates data across domains and helps represent the complex representation of scientific knowledge more naturally. For example, three",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/07/3-2590.jpg",
+          "width": 800,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T16:39:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-microsoft-looks-to-bring-nuance-biometrics-to-healthcare-in-philippines.md",
+      "title": "Microsoft looks to bring Nuance biometrics to healthcare in Philippines",
+      "excerpt": "A top official from Microsoft says the tech giant is considering bringing its conversational artificial intelligence (AI) technology to the Philippines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202105/microsoft-looks-to-bring-nuance-biometrics-to-healthcare-in-philippines",
+      "originalUrl": "https://www.biometricupdate.com/202105/microsoft-looks-to-bring-nuance-biometrics-to-healthcare-in-philippines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m.md",
+      "title": "Huma, which uses AI and biomarkers to monitor patients and for medical research, raises $130M",
+      "excerpt": "While much of the world eagerly watches to see if the vaccination rollout helps curb and eventually stamp out Covid-19, one of the companies that has been helping to manage the spread of the virus is announcing a big round of funding on the heels for strong demand for its technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/",
+      "originalUrl": "https://techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Clinical-portal-seen-by-clinician.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/11/huma-which-uses-ai-and-biomarkers-to-monitor-patients-and-for-medical-research-raises-130m/amp/",
+      "publishedDateTime": "2021-05-11T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-improve-the-streaming-transcription-experience-with-amazon-transcribe-partial-results-stabilization.md",
+      "title": "Improve the streaming transcription experience with Amazon Transcribe partial results stabilization",
+      "excerpt": "Whether you’re watching a live broadcast of your favorite soccer team, having a video chat with a vendor, or calling your bank about a loan payment, streaming speech content is everywhere. You can apply a streaming transcription service to generate subtitles for content understanding and accessibility,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/11/3855-header_v2.jpg",
+          "width": 801,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-alphabets-google-plans-to-double-ai-ethics-staff.md",
+      "title": "Alphabet's Google Plans to Double AI Ethics Staff",
+      "excerpt": "Alphabet's Google will double its AI-ethics staff to 200 researchers, Google Vice President of Engineering Marian Croak says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/alphabet-google-double-artificial-intelligence-staff",
+      "originalUrl": "https://www.thestreet.com/investing/alphabet-google-double-artificial-intelligence-staff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ3NjU0NDU4MDA5NDk1/midday-report-apple-supplier-jabil-circuit-disappoints-stocks-down.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/alphabet-google-double-artificial-intelligence-staff",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-google-double-artificial-intelligence-staff",
+      "publishedDateTime": "2021-05-11T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-onestream-data-analysis-ai-tools-usage-increased-in-2021.md",
       "title": "Onestream: Data analysis, AI tools usage increased in 2021",
       "excerpt": "Onestream's Enterprise Financial Decision-Making Report found that companies increased investment and usage of data analysis tools in 2021.",
@@ -964,239 +1207,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-kfin-technologies-acquires-17-stake-in-insurtech-startup-artivaticai.md",
-      "title": "KFin Technologies acquires 17% stake in insurtech startup Artivatic.ai",
-      "excerpt": "The stake purchase in Artivatic.ai will mark KFin Technologies foray into Indias insurtech space as the General Atlantic-backed fintech firm looks to diversify its portfolio of services.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102294,msid-82550299/acquisition.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
-      "publishedDateTime": "2021-05-11T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-datarobot-expands-platform-and-announces-zepl-acquisition.md",
-      "title": "DataRobot expands platform and announces Zepl acquisition",
-      "excerpt": "DataRobot, the Boston-based automated machine learning startup, had a bushel of announcements this morning as it expanded its platform to give technical and nontechnical users alike something new. It also announced it has acquired Zepl,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
-      "originalUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1299482894.jpg?w=1024",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/amp/",
-      "publishedDateTime": "2021-05-11T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-the-four-keys-to-trustworthy-ai.md",
-      "title": "The four keys to trustworthy AI",
-      "excerpt": "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg",
-          "width": 2001,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T06:00:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components.md",
-      "title": "Mythic raises $70M to disrupt AI chips with analog and flash components",
-      "excerpt": "Mythic has raised $70 million to fund the analog-based AI processors it plans to launch later this year. Mythic has spent nine years coming up with a patented, potentially disruptive way to compete with other makers of artificial intelligence chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
-      "originalUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/mythic-chip-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
-      "publishedDateTime": "2021-05-11T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025.md",
-      "title": "Global Voice Recognition Technologies Market Growth (Status and Outlook) 2020-2025",
-      "excerpt": "This report presents a comprehensive overview, market shares, and growth opportunities of Voice Recognition Technologies market by product type, application, key manufacturers and key regions and countries.",
-      "sourceUrl": null,
-      "webUrl": "https://industribune.net/uncategorised/85590/global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025/",
-      "originalUrl": "https://industribune.net/uncategorised/85590/global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indus Tribune",
-        "domain": "industribune.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

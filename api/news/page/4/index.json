@@ -2,6 +2,256 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
+      "title": "States move to limit government use of facial recognition software",
+      "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-walgreens-used-ai-to-optimize-vaccine-outreach-emails.md",
+      "title": "Walgreens used AI to optimize vaccine outreach emails",
+      "excerpt": "Walgreens worked with Phrasee, which develops marketing automation products, to optimize the language of its vaccine outreach emails.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/",
+      "originalUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/",
+      "publishedDateTime": "2021-05-19T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-the-church-of-ai-is-dead-so-whats-next-for-robots-and-religion.md",
+      "title": "The Church of AI is dead… so what’s next for robots and religion?",
+      "excerpt": "The Way of the Future, a church founded by a former Google and Uber engineer, is now a thing of the past. It’s been a few months since the world’s first AI-focused church shuttered its digital doors,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "originalUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image?fit=300%2C205&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-23.jpg&signature=13bdf3c189e2e230044f8b63ee740134",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-new-120m-round-doubles-ai-startup-asapps-valuation-to-16b.md",
+      "title": "New $120M round doubles AI startup ASAPP’s valuation to $1.6B",
+      "excerpt": "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/",
+      "originalUrl": "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png",
+          "width": 997,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation.md",
+      "title": "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation",
+      "excerpt": "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-this-ai-makes-robert-de-niro-perform-lines-in-flawless-german.md",
       "title": "This AI Makes Robert De Niro Perform Lines in Flawless German",
       "excerpt": "When films are dubbed in another language, an actor’s facial movements may clash with his lines. Technology related to deepfakes can help smooth things over.",
@@ -1009,256 +1259,6 @@
         "IBM AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-alteryx-expands-analytics-automation-platform-with-new-ml-features.md",
-      "title": "Alteryx expands analytics automation platform with new ML features",
-      "excerpt": "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-unbounce-snags-snazzyai-to-add-automated-copywriting-to-platform.md",
-      "title": "Unbounce snags Snazzy.ai to add automated copywriting to platform",
-      "excerpt": "Unbounce, a Vancouver startup best known for helping marketers create automated landing pages, added a new wrinkle this morning when it announced it has acquired Snazzy.ai, an early stage automated copywriting startup.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
-      "originalUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1032165070.jpg?w=1024",
-          "width": 1024,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-a-current-googler-shared-his-account-of-the-firms-ethical-ai-team-turmoil-timnit-was-blackballed.md",
-      "title": "A current Googler shared his account of the firm's ethical AI team turmoil: 'Timnit was blackballed'",
-      "excerpt": "Blake Lemoine said there was \"barely a hint of ethical concerns\" around Google's AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-insider-shares-firsthand-account-of-ethical-ai-team-fiasco-2021-5",
-      "originalUrl": "https://www.businessinsider.com/google-insider-shares-firsthand-account-of-ethical-ai-team-fiasco-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-adds-a-suite-of-new-ai-tech-for-photos-and-more.md",
-      "title": "Google Adds a Suite of New AI Tech for Photos and More",
-      "excerpt": "One of the features Google debuted, dubbed “cinematic moments,” will use machine learning to animate groups of two or three similar photos, using the images to, for example, create a gif of your dog.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-05-19/google-adds-a-suite-of-new-ai-tech-for-photos-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixoZ2bfNwxq0/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-is-that-tom-hanks-speaking-in-japanese-no-its-just-ai.md",
-      "title": "Is That Tom Hanks Speaking in Japanese? No, It's Just AI",
-      "excerpt": "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
-      "publishedDateTime": "2021-05-19T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

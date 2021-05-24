@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-we-could-see-federal-regulation-on-face-recognition-as-early-as-next-week.md",
+      "title": "We could see federal regulation on face recognition as early as next week",
+      "excerpt": "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
+      "originalUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/",
+      "publishedDateTime": "2021-05-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
       "title": "States move to limit government use of facial recognition software",
       "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
@@ -1383,49 +1426,6 @@
       "provider": {
         "name": "Patch",
         "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
-      "title": "States push back against use of facial recognition by police",
-      "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
-      "originalUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
-      "publishedDateTime": "2021-05-05T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null

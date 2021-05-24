@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
+      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
+      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
+      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
+      "publishedDateTime": "2021-05-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science.md",
+      "title": "Bridging the STEM divide: AI hackathon helps young women excel in computer science",
+      "excerpt": "The post Bridging the STEM divide: AI hackathon helps young women excel in computer science appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/europe/features/bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science/",
+      "originalUrl": "https://news.microsoft.com/europe/features/bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2021/05/SUR21_LaptopGo_Contextual_0501_RGB-1-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T08:15:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost.md",
+      "title": "Qualcomm’s Snapdragon 7c Gen 2 gives entry laptop chip a speed boost",
+      "excerpt": "Qualcomm is launching a new version of its chipset for laptops, with the Snapdragon 7c Gen 2 promising more performance for affordable Windows notebooks and Chromebooks. The successor, as you",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "originalUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Qualcomm-Snapdragon-7c-Gen-2-compute-platform-Still-Animation-Chip-on-board.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "publishedDateTime": "2021-05-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-koreas-riiid-raises-175m-from-softbank-to-expand-its-ai-based-learning-platform-to-global-markets.md",
+      "title": "Korea’s Riiid raises $175M from SoftBank to expand its AI-based learning platform to global markets",
+      "excerpt": "AI is eating the world of education,” Riiid co-founder and CEO YJ Jang notes in his biographical description on his LinkedIn profile, and today his startup — which builds AI-based personalized learning,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "originalUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1273917891.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "publishedDateTime": "2021-05-24T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-nlp-in-healthcare-life-sciences-market-forecasts-to-2026.md",
       "title": "NLP in Healthcare & Life Sciences Market - Forecasts to 2026",
       "excerpt": "As per the research conducted by GME the Natural Language Processing NLP in Healthcare and Life Sciences will grow with a CAGR value of 20 8 percent by 2021 Aspects such as heightened demand for enhancing the usability of electronic",
@@ -54,7 +262,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -106,7 +314,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -146,7 +354,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -304,7 +513,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -700,7 +909,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1044,214 +1253,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
-      "title": "Best practices in customer service automation",
-      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T15:48:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-chinese-startup-ponyai-can-now-test-driverless-vehicles-in-three-california-cities.md",
-      "title": "Chinese startup Pony.ai can now test driverless vehicles in three California cities",
-      "excerpt": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
-      "originalUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
-      "publishedDateTime": "2021-05-21T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-robotics-hub-carnegie-mellon-lands-150-million-grant.md",
-      "title": "Robotics Hub Carnegie Mellon Lands $150 Million Grant",
-      "excerpt": "The university will use half of the grant to expand research and staff for its advanced manufacturing program and to build a new center focused on robotics innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "originalUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342134/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
-      "publishedDateTime": "2021-05-21T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges.md",
-      "title": "AI Weekly: NIST’s proposal to evaluate trust in AI models faces significant challenges",
-      "excerpt": "NIST proposed a model for evaluating user trust in AI systems. Many challenges stand in the way of its success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
-      "publishedDateTime": "2021-05-21T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

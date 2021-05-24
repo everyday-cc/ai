@@ -2,6 +2,41 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-22-xsede-hpc-workshop-big-data-and-machine-learning-april-6-7.md",
+      "title": "XSEDE HPC Workshop: Big Data and Machine Learning, April 6-7",
+      "excerpt": "XSEDE, the National Science Foundation’s Extreme Science and Engineering Discovery Environment virtual organization that shares HPC, supercomputing and other advanced computing resources, will present a Big Data and machine learning workshop on Tuesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
+      "originalUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better.md",
       "title": "This Winery And Tomato Processor Used Artificial Intelligence To Make Their Crops Better",
       "excerpt": "This company says that by combining AI and aerial imagery it can help give them inisght into the health of their crop while it is still growing.",
@@ -1077,49 +1112,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-aptanet-as-a-deep-learning-approach-for-aptamerprotein-interaction-prediction.md",
-      "title": "AptaNet as a deep learning approach for aptamer–protein interaction prediction",
-      "excerpt": "Aptamers are short oligonucleotides (DNA/RNA) or peptide molecules that can selectively bind to their specific targets with high specificity and affinity. As a powerful new class",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-85629-0",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-85629-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85629-0/MediaObjects/41598_2021_85629_Fig1_HTML.png",
-          "width": 614,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

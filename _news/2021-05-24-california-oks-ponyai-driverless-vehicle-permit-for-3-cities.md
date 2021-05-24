@@ -59,6 +59,20 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "Chinese startup Pony.ai gets the nod to start testing its driverless vehicles in California"
+    excerpt: "The US state of California has granted permission to Chinese firm Pony.ai to carry out a pilot run of its driverless vehicles in three cities in the state. Six Pony’s autonomous vehicles will be allowed without a safety driver at the wheels in Fremont,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.gizmochina.com/2021/05/24/chinese-startup-pony-ai-nod-start-testing-driverless-vehicles-california/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
+        width: 731
+        height: 393
+        isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z

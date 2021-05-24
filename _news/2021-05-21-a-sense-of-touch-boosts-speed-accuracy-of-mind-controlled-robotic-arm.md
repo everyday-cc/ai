@@ -50,6 +50,22 @@ related:
         width: 825
         height: 366
         isCached: true
+  - title: "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm"
+    excerpt: "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device."
+    publishedDateTime: 2021-05-24T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/"
+    ampWebUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/05/robotic-arm-sense-of-touch-1.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
     excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
     publishedDateTime: 2021-05-22T13:33:00Z
@@ -171,6 +187,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "vGKdJvVPQSVXkSXPXEUFypIhM+5zlK1VOJ7qubY2LViEW+/ShQVmaTKf9Q3f1QWscprehodqHIE14nffkXl4Rr3jMbFe1OP6bEDikGlWC5Tb5WhyeKGIY/bPXh/AhWcIf4SBHd3E7P4Aqq3Ajd2LiclVtwLgndX/oslR7k8NGrOb6aCehAu3+wrfAQ9nOK7kZ8Mu2JcL/Il+1iuoMdoHwidYDggBLSuJSjF7YH6f6XTKY7yLtTwdAx54XrGiIAhRCKetdvG5B7eDiLouJq5oJbk/QAJMRY0pJYha3fskKeWDZQfDbl/Vds0CN2oubNv4sbI+It72E9YePRkVW0lsH7pJDD2N0DL1vzSGUTgiLAg=;RxcveLc/qxKZ+f6fS5t0tA=="
+secured: "kQ6O1argcT4xvtYpuhHmCEZM0JMxpZM1pA4zKPzkTR+DObh8VYWLar/4Zjor34E8ru31CNrNijns0x4r1PZwCbvp0Wv8ivR2hsx4FK85qOaKuV9z+Y0br0fLkMYAUvdRCmu5uBkJtVQF1WR8LSGztkqoqD5KZiuwMFlEhMHZEqQu5erz+xFIYoLc+amiFgG2oiVdF+Bhl2ya7iAZCXCeuQTthjXjHhMcrfXR+1q6XPT8PLx+Xi3CkfHQtBHstMhIWnsltj3qSfuJY9j7Cx2NLxUOazgPvFX0JCyvfFklv/5rEVcmVcfFVJYp+ag3a57v3YQxOLug5iES3F4ix88OYansr8pRgfmkRXulTXkMSeA=;ZBmFK7VbS+CQ0DrRTfArxA=="
 ---
 

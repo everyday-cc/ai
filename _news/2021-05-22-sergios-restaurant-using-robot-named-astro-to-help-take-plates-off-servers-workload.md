@@ -2,28 +2,22 @@
 category: news
 title: "Sergio’s Restaurant Using Robot Named ‘Astro’ To Help Take Plates Off Servers’ Workload"
 excerpt: "It’s known as “Astro” at Sergio’s Restaurant in Kendall. The name stands for Automatic Service Tray Removal Organizer, but you can just call it robot. Astro is rolling in to help out. After the order is placed,"
-publishedDateTime: 2021-05-21T21:43:00Z
-originalUrl: "https://keyt.com/health/2021/05/21/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload/"
-webUrl: "https://keyt.com/health/2021/05/21/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload/"
+publishedDateTime: 2021-05-22T10:32:00Z
+originalUrl: "https://www.kake.com/story/43938845/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload"
+webUrl: "https://www.kake.com/story/43938845/sergios-restaurant-using-robot-named-astro-to-help-take-plates-off-servers-workload"
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: KAKE.com
+  domain: kake.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://keyt.b-cdn.net/2020/12/keyt-health-generic-copy.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
-secured: "JG0pqYeAmZSPPZMVS1mhNbv/+s2DvfwTziL1/vwxqQglEydyvlKQhaRRi12GV4EvsjWZZgehBhJ4aR0IxkeESK8QBPhMRjD03lI1pkrW908cXmsQMxzsMn2GNWGLpZuEjZ3QVyrYARdueuDQ+kBADKUR1lL/XFeTDor6eunOBKcCpg33RWG06IwcYaKGMscIjuJiDh4iX8DJmGhRtcXhgtofqPCRp3lV/O6nTQB7+/Nw3nkFL6cn8XxhZsrmmOyJ32QAYGcADxIaRBBuMuqbuymQntcQhNVuqBELl3slEdyxGZ+4r74hcxvdVjvgu2lmo5ZCLC85TSVGJ/GR+gzS/odHDagkYCTRps4PUGqy9p8=;2vEZT/E053Srz+nm2pOpnQ=="
+secured: "XBUEht/GFQv8en46tkAJPR/oerhu7a20kJUjj9ui3qLwGpYPyv3HzIFgOxGtkMvGFujkACEjLL/3nnY7ty47gM7a/djKwSxFPVygCK2oDL83DuMDkt8l1VF1ZTeUtESsGl3PHjXiKhfaG2go58l+s4TC7trVLPdR7v/wDVzMIThfGkf1u4lCPRu7G2bnOj79Zkd82efTKftvjE2cV1xH5jidfYogquxkBgWYZAoq+jzS0iadwdcTLpWRn+aqyNUI4NAL2ALe+JGzYDTEo0IDLXYmYZfIcIsCB2WCIVnKbwrOmdJ7YzHX+4biQl1qtSB3lV2jWcJYKSbVzPyr0JdJ7PrS10Qp0Lsda/y4DKn+SVg=;a4aFZEseafmuw4wGGFiS/A=="
 ---
 

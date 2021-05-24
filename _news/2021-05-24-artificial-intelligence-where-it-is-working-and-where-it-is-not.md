@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-in
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a803f744a4520c480a70d4%2F0x0.jpg"

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-01-deep-learning-genomic-data-may-help-predict-alzheimers-disease.md",
+      "title": "Deep Learning, Genomic Data May Help Predict Alzheimer’s Disease",
+      "excerpt": "Deep learning methods analyzed genomic data from whole blood samples and found differences in patients with Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/deep-learning-genomic-data-may-help-predict-alzheimers-disease",
+      "originalUrl": "https://healthitanalytics.com/news/deep-learning-genomic-data-may-help-predict-alzheimers-disease",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
       "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
       "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
@@ -1258,41 +1301,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-xsede-hpc-workshop-big-data-and-machine-learning-april-6-7.md",
-      "title": "XSEDE HPC Workshop: Big Data and Machine Learning, April 6-7",
-      "excerpt": "XSEDE, the National Science Foundation’s Extreme Science and Engineering Discovery Environment virtual organization that shares HPC, supercomputing and other advanced computing resources, will present a Big Data and machine learning workshop on Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "originalUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

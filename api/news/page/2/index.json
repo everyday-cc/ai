@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
+      "title": "Best practices in customer service automation",
+      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T15:48:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-chinese-startup-ponyai-can-now-test-driverless-vehicles-in-three-california-cities.md",
+      "title": "Chinese startup Pony.ai can now test driverless vehicles in three California cities",
+      "excerpt": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
+      "originalUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/",
+      "publishedDateTime": "2021-05-21T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-robotics-hub-carnegie-mellon-lands-150-million-grant.md",
+      "title": "Robotics Hub Carnegie Mellon Lands $150 Million Grant",
+      "excerpt": "The university will use half of the grant to expand research and staff for its advanced manufacturing program and to build a new center focused on robotics innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "originalUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342134/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "publishedDateTime": "2021-05-21T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges.md",
+      "title": "AI Weekly: NIST’s proposal to evaluate trust in AI models faces significant challenges",
+      "excerpt": "NIST proposed a model for evaluating user trust in AI systems. Many challenges stand in the way of its success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/",
+      "publishedDateTime": "2021-05-21T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-google-announces-new-ai-app-to-diagnose-skin-conditions.md",
       "title": "Google Announces New AI App To Diagnose Skin Conditions",
       "excerpt": "Google announced the arrival of a new AI app to help diagnose skin conditions. It plans to launch it in Europe later this year.",
@@ -166,7 +374,7 @@
       "originalUrl": "https://www.openpr.com/news/2288401/voice-assistant-application-market-expected-to-gain-5-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -722,7 +930,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -813,6 +1021,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-we-could-see-federal-regulation-on-face-recognition-as-early-as-next-week.md",
+      "title": "We could see federal regulation on face recognition as early as next week",
+      "excerpt": "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
+      "originalUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/",
+      "publishedDateTime": "2021-05-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1011,247 +1262,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload.md",
-      "title": "Overwatch 2: Monte Carlo Map Has A Flying, AI-Driven F1 Car For A Payload",
-      "excerpt": "Among the updates Blizzard revealed for Overwatch 2 in today’s gameplay livestream was a map that hadn’t been discussed much until now. The sequel will take players to Monte Carlo, which includes a ton of references to the famous F1 Monaco Grand Prix.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a6cf7299bdc5004fded974%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/05/20/overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload/amp/",
-      "publishedDateTime": "2021-05-20T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization.md",
-      "title": "Adapdix adds adaptive AI tool EdgeOps DataMesh for process optimization",
-      "excerpt": "Adapdix’s EdgeOps DataMesh puts AI on the factory floor. Semiconductor manufactuers are both backers and customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/",
-      "originalUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-e1611232841973.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/",
-      "publishedDateTime": "2021-05-20T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-artificial-intelligence-is-americas-achilles-heel-against-china.md",
-      "title": "Artificial Intelligence Is America’s Achilles Heel Against China",
-      "excerpt": "Unless Big Tech, universities and the Pentagon can work together, China’s government-run approach will surpass U.S. efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-20/china-s-artificial-intelligence-advantage-is-america-s-achilles-heel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iicAif8HY5Z4/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-sofic-news-microsoft-socom-discuss-ethical-use-of-artificial-intelligence.md",
-      "title": "SOFIC NEWS: Microsoft, SOCOM Discuss Ethical Use of Artificial Intelligence",
-      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/01_covers/may_cover.ashx?h=793&w=601&la=en&hash=2A0B7FC465C936EDFB5D8EB19D5A3113",
-          "width": 601,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
-      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
-      "excerpt": "The brain-computer interface user was able to transfer objects with a robotic arm at twice the speed of doing it without the tactile feedback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,239 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-04-21-ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-artificial-intelligence.md",
+      "title": "CEO of Softbank-backed SambaNova explains the firm's approach to artificial intelligence",
+      "excerpt": "Many companies are struggling to figure out how to hire teams in order to deploy artificial intelligence technology, says Rodrigo Liang, co-founder and CEO of SambaNova Systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106870723-16189099913ED4-SBA-042021-RodrigoLiang.jpg?v=1618909991",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic.md",
+      "title": "AI-based Medical Image Analysis Market Outlook 2021 – GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung, Medtronic",
+      "excerpt": "The Global AI-based Medical Image Analysis Market is expected to reach approximate CAGR of 5.3% by 2025. Click Here to Get Free Sample PDF Copy of Latest Research on AI-based Medical Image Analysis Market 2021 Before Purchase:  The prominent players in the Global AI-based Medical Image Analysis Market: GE Healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/21/ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic/",
+      "originalUrl": "https://ksusentinel.com/2021/04/21/ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-by-lenovo.md",
+      "title": "Nvidia GeForce RTX 3050 Ti, RTX 3050 GPU Clocks, TGP, Other Specs Leaked By Lenovo",
+      "excerpt": "The specs of the unannounced Nvidia GeForce RTX 3050 Ti and RTX 3050 have been leaked by the Chinese multinational tech company Lenovo. A recent report from Videocardz revealed that Lenovo accidentally listed its new Legion gaming notebooks housing the unannounced Nvidia GeForce RTX 3050 Ti and GeForce RTX 3050 GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-lenovo-3185062",
+      "originalUrl": "https://www.ibtimes.com/nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-lenovo-3185062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/14/geforce-rtx-30-series-laptops-ultimate-play.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-jpmorgan-chase-vows-again-to-address-banker-burnout-live-updates.md",
+      "title": "JPMorgan Chase Vows, Again, to Address Banker Burnout: Live Updates",
+      "excerpt": "JPMorgan Chase’s co-heads of investment banking, Jim Casey and Viswas Raghavan, announced policies aimed at improving working conditions amid record deal volume and",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/04/21/business/stock-market-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/04/21/business/stock-market-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-techhearings/merlin_186670563_fa81e2bb-9e33-4213-ad08-aa6c6a3cd16b-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/04/21/business/stock-market-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/21/business/stock-market-today.amp.html",
+      "publishedDateTime": "2021-04-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-fbi-used-facial-recognition-to-identify-a-capitol-rioter-from-his-girlfriends-instagram-posts.md",
+      "title": "FBI used facial recognition to identify a Capitol rioter from his girlfriend’s Instagram posts",
+      "excerpt": "The FBI says it used facial recognition technology to track down and arrest an individual suspected of taking part in the US Capitol riots earlier this year. The case, which was first reported by The Huffington Post,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "originalUrl": "https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/21bm0QFzvWH99KP5t_dHCx60JnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69161462/acastro_180730_1777_facial_recognition_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "publishedDateTime": "2021-04-21T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-master-the-science-of-machine-learning-with-these-training-classes.md",
       "title": "Master The Science Of Machine Learning With These Training Classes",
       "excerpt": "Our interactions in (and out) of the tech world all rely heavily on machine learning (ML), the science of getting computers and devices to mimic human be",
@@ -936,231 +1169,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-health-systems-embracing-ai-use-in-6-recent-tech-partnerships.md",
-      "title": "Health systems embracing AI use in 6 recent tech partnerships",
-      "excerpt": "Health systems are embracing the potential benefits of using artificial intelligence and data analytics in their healthcare model with these six recent tech partnerships. The following articles were published by Becker's Hospital Review in the last week: Rochester,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-systems-embracing-ai-use-in-6-recent-tech-partnerships.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-systems-embracing-ai-use-in-6-recent-tech-partnerships.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
-      "title": "Xilinx launches Kria chips to handle AI for edge applications",
-      "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/xilinx-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
-      "publishedDateTime": "2021-04-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment.md",
-      "title": "Singularity Systems Named a Major Contender in Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment.",
-      "excerpt": "Singularity Systems Inc., a global provider of artificial intelligence solutions for intelligent document processing and predictive",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment-301273122.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment-301273122.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=facebook",
-          "width": 2091,
-          "height": 1094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings.md",
-      "title": "Chengdu Hunters Dominate The First Week Of Overwatch League’s AI-Driven Power Rankings",
-      "excerpt": "Chengdu Hunters reign supreme on both the team and overall player rankings. MORE FROM FORBES IBM Watson AI Will Calculate The Overwatch Lea",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607f0828aef7a98e2d58bc3a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
-      "publishedDateTime": "2021-04-20T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-visual-object-recognition-is-facilitated-by-temporal-community-structure.md",
-      "title": "Visual object recognition is facilitated by temporal community structure.",
-      "excerpt": "Humans and others primates are highly attuned to temporal consistencies and regularities in their sensory environment and learn to predict such statistical structure. Moreover, in several instances, the presence of temporal structure has been found to facilitate procedural learning and to improve task performance.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/33858967",
-      "originalUrl": "https://europepmc.org/article/MED/33858967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

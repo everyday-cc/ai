@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-16-google-researchers-boost-speech-recognition-accuracy-with-more-datasets.md",
+      "title": "Google researchers boost speech recognition accuracy with more datasets",
+      "excerpt": "Google researchers propose a simple solution for improving speech recognition accuracy: training one large model on many datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/",
+      "publishedDateTime": "2021-04-15T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in-its-new-lineup-of-battery-electric-vehicles.md",
       "title": "Cerence Provides Dynamic Voice Recognition to Hyundai IONIQ 5, the Automaker’s First in its New Lineup of Battery Electric Vehicles",
       "excerpt": "Cerence delivers conversational AI-powered access to key in-car functions and information, enhancing driver safety and convenience. BURLINGTON, Mass., April 14, 2021-- Cerence Inc., AI for a world in motion,",
@@ -1240,49 +1292,6 @@
       "provider": {
         "name": "Indus Tribune",
         "domain": "industribune.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-google-translate-is-sexist-what-it-needs-is-a-little-gender-sensitivity-training.md",
-      "title": "Google Translate is sexist. What it needs is a little gender-sensitivity training",
-      "excerpt": "Adjusting the gender in languages like German is especially ... instead of millions – to adjust the behaviour of translation AI in targeted ways. When testing gendered professions in translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/991275/google-translate-is-sexist-and-it-needs-a-little-gender-sensitivity-training",
-      "originalUrl": "https://scroll.in/article/991275/google-translate-is-sexist-and-it-needs-a-little-gender-sensitivity-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157079-chfowagvsw-1617373446.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/991275/google-translate-is-sexist-and-it-needs-a-little-gender-sensitivity-training",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991275/google-translate-is-sexist-and-it-needs-a-little-gender-sensitivity-training",
-      "publishedDateTime": "2021-04-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
         "images": null,
         "publishers": null,
         "authors": null
