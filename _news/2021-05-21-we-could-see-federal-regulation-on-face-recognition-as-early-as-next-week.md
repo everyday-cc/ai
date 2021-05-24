@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Amazon to extend ban on police use of face recognition tech"
-    excerpt: "Amazon said Tuesday it is extending its ban on the use of its facial recognition tools for law enforcement, amid persistent concerns of bias in the technology."
-    publishedDateTime: 2021-05-19T07:56:00Z
-    webUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-amazon-police-recognition-tech.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-tec.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Campaigners predict U.S. federal facial recognition regulation"
     excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
     publishedDateTime: 2021-05-21T21:23:00Z
@@ -169,6 +153,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+        isCached: true
+  - title: "Strong take-up of facial recognition technology in gaming venues"
+    excerpt: "More than 230 gambling venues in South Australia have installed Facial Recognition Technology, as part of moves aimed at tackling gambling-related"
+    publishedDateTime: 2021-05-23T23:13:00Z
+    webUrl: "https://www.miragenews.com/strong-take-up-of-facial-recognition-technology-564941/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
+        width: 700
+        height: 417
         isCached: true
   - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
     excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."

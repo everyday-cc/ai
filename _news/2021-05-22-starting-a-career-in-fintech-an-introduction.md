@@ -41,6 +41,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Fintech Platform Vise Secures $65 Million Funding"
+    excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
+    publishedDateTime: 2021-05-19T12:51:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
+        isCached: true
   - title: "Big FinTech is here!"
     excerpt: "The future is likely to see ‘Big FinTech’ replace ‘Big Tech’. But this time around, India can be part of the story from the ground up. India has been ahead of the fintech game on the technology, regulatory and consumer fronts."
     publishedDateTime: 2021-05-19T18:03:00Z

@@ -55,6 +55,15 @@ related:
         width: 936
         height: 490
         isCached: true
+  - title: "Adapdix announces EdgeOps DataMesh(TM), first product of next-generation adaptive AI software platform EdgeOps(TM)"
+    excerpt: "Two of the top five semiconductor manufacturers among first wave customers using Adapdix software to improve their advanced manufacturing performance, help overcome challenges of global chip shortage Adapdix,"
+    publishedDateTime: 2021-05-24T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/249751"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "pI2q1TZ3Xd7gINfv78LvCsQxViTDZXt0PcULe1AuM29z8wqdeAAIzkvxoF+flQck+g0/OxB7bJ+voOOOIjxhwKncvQn+ZBq1ZOb+kIkoeKuNPFuWql84XB7+hkKnISaxCnn9zApMW+K+dB2pZgi0Gb72gKmBQQSSZpC7+mzs6E23mWm97CPWfUbf7AGGD8KrtDIWx5eMT9cayO8EPTebAckMOJ+6lfajA1TR9umw2ydAFIqUvy2FYkRxuwWU29H87TJwYC5mMVIN+PHFbHockgrJ8P9gKjikowvU2ftHtI0PEIO/SIplGHnU+qihBxbhMv33lTgowTHZLaMgTM4ZVjt8HMpRLaO6azm37l4JigE=;I6X0j506Lp7uaUYeCP083w=="
 ---

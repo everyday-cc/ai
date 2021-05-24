@@ -27,63 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Martech startup Affable.ai raises $2 million in latest funding round"
-    excerpt: "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns."
-    publishedDateTime: 2021-05-19T07:07:00Z
-    webUrl: "https://www.exchange4media.com/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/martech-startup-affableai-raises-2-million-in-latest-funding-round-113018.html"
+  - title: "Diverse Group of Immigrants Fund Fair Fintech, a Startup to Provide Equitable Banking and Finance"
+    excerpt: "Fair, an ethical digital bank and multilingual financial services platform, offering banking, lending, investments and retirement announces 90% of its investors are people of color, 80% are immigrants and many are first-time investors in"
+    publishedDateTime: 2021-05-20T13:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-19817096.html"
     type: article
     provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 57
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 56
     images:
-      - url: "https://www.exchange4media.com/news-photo/113018-Affable_Logo1.jpg"
-        width: 730
-        height: 395
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "AI Insurance Startup Receives $57 Million in Funding"
-    excerpt: "The Jerry app uses automation to give consumers customized quotes from more than 45 insurance carriers “in 45 seconds.”"
-    publishedDateTime: 2021-05-19T13:11:00Z
-    webUrl: "https://www.fenderbender.com/articles/16527-ai-insurance-startup-receives-57-million-in-funding"
+  - title: "Starting a Career in Fintech: An Introduction"
+    excerpt: "Fintech, or financial technology, is a growing area in various locations around the world. The industry is becoming increasingly appealing to all kinds of professionals and students, promising exciting opportunities in everything from cryptocurrency to digital banking."
+    publishedDateTime: 2021-05-21T19:53:00Z
+    webUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/"
+    ampWebUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
     type: article
     provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
     images:
-      - url: "https://www.fenderbender.com/ext/resources/moneyNk8-unsplash777.jpg?height=635&t=1616174083&width=1200"
-        width: 777
-        height: 523
+      - url: "https://techbullion.com/wp-content/uploads/2021/05/Career-in-Fintech.jpeg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Visionary.ai Raises $4.5M in Seed Funding"
-    excerpt: "Visionary.ai, a Tel Aviv, Israel-based AI-powered image processing startup, closed a $4.5m seed funding. The round was led by Ibex Investors with participation from Spring Ventures, Capital Point, and others."
-    publishedDateTime: 2021-05-19T12:45:00Z
-    webUrl: "https://www.finsmes.com/2021/05/visionary-ai-raises-4-5m-in-seed-funding.html"
+  - title: "Big FinTech is here!"
+    excerpt: "The future is likely to see ‘Big FinTech’ replace ‘Big Tech’. But this time around, India can be part of the story from the ground up. India has been ahead of the fintech game on the technology, regulatory and consumer fronts."
+    publishedDateTime: 2021-05-19T18:03:00Z
+    webUrl: "https://www.gatewayhouse.in/big-fintech-is-here/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: Gateway House
+      domain: gatewayhouse.in
+    quality: 24
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/05/visionary-ai.jpg"
-        width: 1104
-        height: 736
-        isCached: true
-  - title: "Tech Behind Good Little Robots, A Startup Providing MarkTech Solutions & Vehicle Detection Services"
-    excerpt: "Bhavik Doshi, Tushar Shah and Priyanka G Talvadkar started Good Little Robots to use– in their own words–“technology for good.” The Mumbai-based company has developed in-house technology for vehicle detection and analytics."
-    publishedDateTime: 2021-05-20T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/tech-behind-good-little-robots-a-startup-providing-marktech-solutions-vehicle-detection-services/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 25
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/good-little-robots.png"
-        width: 2048
-        height: 1152
+      - url: "https://www.gatewayhouse.in/wp-content/uploads/2021/05/shutterstock_744494326.jpg"
+        width: 420
+        height: 280
         isCached: true
 
 secured: "EIWi68/XXEINlA0aaxNiNiBQMJlYb+zbbkUYGmIIHmqS9j6DjoRvW9lIjn/VXStLyJHx9lrycqKCCDP611ZFfuC8zjE+G0Y1SLy7ELIEqzYq6EP2+21/np/lUy9D2eT6pYGyIWxM8AWlRlxW2+YJt2+GKvk2HE2mYLj0aYLPWClh4jg8jrfd9owSZaqtWusMyk9TI1OnoNBorC5qavnkd85f1GeOeoY8dtWWGiILG1y7sZ7SBFQ2eQjt8lxCwzp9G53W15eLENFKa/6pZrYgW3KnmBRnD82uE1lAiOARuw+2S9O1PFymgbTz9i5jyQoeeJFl/oSuZWfZueq0poG8tukxSHmd61i6AuMOsodQ6dR4zr+JGJfOjzksDRjFtmHMPo17+S7G3xTG2CHiRRpqXuvpAKXM0TeI+PZxxmdJa0rk1yFKbDyKiP6W5Mng7TOX26Rd2ZCdr9XQZ7ikxMyDiJ5q7IZwUHzRatubTtsdjeHtiKuG6tR17NOu113RWSuKehJthx/svCZvwtYAiLOtyA==;dJbDfztmFYvJxudh98iRkg=="

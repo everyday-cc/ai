@@ -60,9 +60,9 @@ related:
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+    webUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
+    ampWebUrl: "https://www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
     type: article
     provider:
       name: KRON4
@@ -72,6 +72,20 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/05/gettyimages-1035331902-594x594-1.jpg?w=1280"
         width: 594
         height: 396
+        isCached: true
+  - title: "China's Pony.ai to test driverless vehicles in California"
+    excerpt: "Chinese autonomous vehicle startup Pony.ai has received a permit from California's Department of Motor Vehicles (DMV) to test its driverless cars without human safety drivers behind the wheel on specified streets in the state's three cities."
+    publishedDateTime: 2021-05-24T01:35:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/05/24/china039s-ponyai-to-test-driverless-vehicles-in-california"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/05/24/1158810.jpg"
+        width: 799
+        height: 450
         isCached: true
   - title: "Chinese startup Pony.ai approved to test driverless vehicles in California"
     excerpt: "Chinese autonomous vehicle startup Ponyai has received a permit from California Department of Motor Vehicles DMV to test its"

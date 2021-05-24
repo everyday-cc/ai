@@ -1,22 +1,26 @@
 ---
 category: news
 title: "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse"
-excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual"
-publishedDateTime: 2021-05-15T00:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21139096"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096"
+excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual into"
+publishedDateTime: 2021-05-15T00:42:00Z
+originalUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
+webUrl: "https://www.wicz.com/story/43890549/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "e49Tecf7A6J+7+XkBz4QfiKl9XprvhZIyzDSsGKA8FJxB8tXHfBE5hPY7x74l4zvQsVB28HuuoTLB322gzsB+l1KP1OOFhR9bULgU8uF3xui2xy4QgQNYA5mk225jJwXfWw0JGCFBMs51QbhumkQzdycSNhw0uSXqZBuhIR2Fi2pz23hBKs0VOES81n2NCuyBUUmzBN4WT9fvdyKvDAG4m6pKs8QgyyWV6N5MPJDZQPhLc1MjZkVYzp3ggJUDFDLKrupJmRuGVcS9RaDnPNMdxhO61GNtPGGTmwBGWbhgnxFzff6cDLAjeJAXN9VkEDWzVZzNzlO3w699LSMeelM5102KlzX2XjCFvJH088qi6Q=;gMzqtGLo6HofF/eFm47uzA=="
+images:
+  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "RyJ+eqG8Ylw+iL5FUDqAs0AKvWsU6xS2CPLSjBEGSsx0U+uJa9LZVnv4YC2ZZcAZxnglvYz/Gl8wmYhhKP3RtccSjo71CHrNT6eSDlsc6cQenCfxJf2rtLB8B6VhkyVZmz3jdb8msoCYpOjdRREuzQs/j4uKLjSsruhPhrloW7RGVhabgyU8Q0grUe5FyEXX8F1/3/Z+CZfG+9Q4OxGZCzdDJdlftRSaQ4XLLtC02Zpiy4Wb3eeiE6TW/Qwm8Vn9ffagGYWlCM8U937w+EvYYeqkAdzoHuSEykYcfRF8lYWPm4DsPr+446sxX/phMPihuOD/8ZhDe/zQCif0ppual7txC38he76se/384RPywWw=;bgRYQOfEISgZHCNBhbBT7w=="
 ---
 

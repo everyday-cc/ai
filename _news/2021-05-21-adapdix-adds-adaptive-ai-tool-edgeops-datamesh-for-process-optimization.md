@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edg
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 936
         height: 490
         isCached: true
+  - title: "Adapdix announces EdgeOps DataMesh(TM), first product of next-generation adaptive AI software platform EdgeOps(TM)"
+    excerpt: "Two of the top five semiconductor manufacturers among first wave customers using Adapdix software to improve their advanced manufacturing performance, help overcome challenges of global chip shortage Adapdix,"
+    publishedDateTime: 2021-05-24T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/249751"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "06omRYBWM+NqtgYX7D0kvDxh+KzrmTojhGFFjwo+tWbRdt3R5WQRTQT1mH6v7S7bvYAp/CkP5GxW8Fd48+5xH+GySPF4QBBJU+qVVxRTLW94BG8SR81UiYpG/Df/yec9QW4PJ1D+55AxJZkpAgZlkjCDRHCzMwbdhCkfZeqd9StynUeSowAEFZ4MNeziMzz3sC+Odgo3GkULRxX/x/PVhUY1kkdrP5MiX/p2FPknBzotTPUJK43kjXRqne+zSp6RPZKm7y8JVkBJHT65UI410ErKIfqVYSE6yoaMhr4uKsg/6ueZZXjkF/kqbXRvWG41iEVso1oakxyuOLM4wTNtMR7cFUnZRlFvu36oi5QifKzL9366b7fZEBvl7UgUwSmzMYt0ybHnvBNu7nZGPTsKmIauT+tMjl83ZR5RXgmGPtpMPxk8DSH54OrDO9mbrTYmA1x4fk2tl1ZXE8n4Whmp3dIKAVavPYxt4/RT8UJnaq/jTXN/ApSrBKGhjOaSbaF8v8zBGQbIHmtUEHpHy3L2Iw==;6VaKDevAYWZkJqMI42eBFg=="
 ---
