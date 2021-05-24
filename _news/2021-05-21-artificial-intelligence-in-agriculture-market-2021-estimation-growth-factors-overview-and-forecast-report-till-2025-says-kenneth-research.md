@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Size, Share, Value, and Competitive Landscape 2021-2026| Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-05-20T04:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-share-value-and-competitive-landscape-2021-2026-says-kenneth-research-2021-05-20"
+  - title: "Artificial Intelligence in Healthcare Market Trends 2021 | Segmentation, Outlook, Industry Report to 2028 | FMI Report with Expert Review"
+    excerpt: "Future Market Insights (FMI) adopted a multidisciplinary approach during the pandemic-era to focus on the growth and development of the Artificial Intelligence in Healthcare Market. The study features insights on the current growth dynamics and the major revenue reforms prevailing in the market"
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-21/artificial-intelligence-in-healthcare-market-trends-2021-segmentation-outlook-industry-report-to"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
-        height: 630
+        height: 448
         isCached: true
 
 secured: "skPCEXm9Bg0ecVSK6ppzaRE9duYbNWB61Sf6KVki7AgJAFs2BkZbVFqAfTvfd8NTlIWQdQAGmHtCj+VdD+mcRHMU6KTCgqgrsRJM7JX+QSZANcYaNAU4RfDSHzMwpZeoxlMDvadykGvdtdDJ9wbNzEO5Xmd+ZcMMdIrXkRcVh+fmM0Q7oO3JCJRqzAEypETsCa9sJayw9He1ZKuPpAngRxAuD17Nvh2pyOpXH9qSW5k+7+RpUzIrYIqa5+0OTGiic8DOtMu8MIL/zajojVTs4Y0bznKXnXOd8WUZbcuv/HNSmPs6NigiAYD+XYFxlrrRH/HFuH4Y6nriH6DD/TplIOqFR1KGsYTMT/FIOkDCD3I=;SeUk50mFTuBgjA5lCcrfIQ=="

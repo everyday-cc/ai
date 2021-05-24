@@ -44,6 +44,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Flush with $42M, hot AI startup Faculty plans to hoover-up more PhDs… and steer clear of politics"
+    excerpt: "In the wake of the news that UK-based AI startup Faculty has raised $42.5 million in a growth funding round, I teased out more from CEO and co-founder Marc Warner on what his plans are for the company."
+    publishedDateTime: 2021-05-24T20:50:00Z
+    webUrl: "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/"
+    ampWebUrl: "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/image002.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "/Nsei3AuCRO/GsuLtmG8uG5hMNbPwNkuN4IbXhmvNMPif8kdwb751gFAcHyvX08D7D5uyto6wF0bDck1luanWFKa1rZxvx6V/16yhm+lKDFH4EoehzBtRFnHgvYxVqfKu6DonTqG5GXWWZtkJkxkMXS7gSB8N59S75cH1pTxWdQRmvUToogxwiCdEUzNixcFued/NfD2pltTGWEkwkm55sapv4MB55rfS28vI1OQpFvRfSHeZuhM1fBlX2zB/nVschgbM38KoPjghZbq50M2X8qPbYeIFTt8i6+zZeSL5mLehcqp+Z3NSEn8PEBgIR1CplNpOuVhcpSTNG1isatYd+IcWYv5/ScEmnGmS0yHaw8t7B2nS0JyfoHSoGunouP54ODHjccEGyexUYHCo4Dnf4/C2N2MmIQvVNexY8/vt/grRQBp4T65o1SQzGkEh878tjvFkzLpBoG+0BJoasoU1j0VrhKPbz5JPtjwJU43kpMumSGUy653WqV8uRHwki3vKQaz1lXrt6VRkso8pyHfeQ==;rK38ykAJ/88miaZ7WJYYmg=="
 ---

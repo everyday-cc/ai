@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-russia-is-building-an-army-of-robot-weapons-and-chinas-ai-tech-is-helping.md",
+      "title": "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping",
+      "excerpt": "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362",
+      "originalUrl": "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg",
+          "width": 2618,
+          "height": 1374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1",
+      "publishedDateTime": "2021-05-24T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center.md",
       "title": "Berry Robotics unveils plastic sorting robot at Evansville recycling center",
       "excerpt": "Mayor Lloyd Winnecke joined officials from Berry Global Friday morning to officially cut the ribbon on a plastic sorting robot at Tri-State Resource Recycling making",
@@ -1385,49 +1437,6 @@
           "url": "http://img.youtube.com/vi/QBYT2PeLxUk/0.jpg",
           "width": 480,
           "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-modular-robotics-made-easier-with-ros.md",
-      "title": "Modular Robotics Made Easier With ROS",
-      "excerpt": "A robot is made up of many hardware components each of which requires its own software. Even a small robot arm with a handful of servo motors uses a servo motor library. Add that arm to a wheeled ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/05/31/modular-robotics-made-easier-with-ros/",
-      "originalUrl": "https://hackaday.com/2018/05/31/modular-robotics-made-easier-with-ros/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/ros.jpg",
-          "width": 3000,
-          "height": 1815,
           "title": null,
           "attribution": null,
           "isCached": true

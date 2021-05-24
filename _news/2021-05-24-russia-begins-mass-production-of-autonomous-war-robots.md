@@ -7,7 +7,7 @@ originalUrl: "https://www.globalsecurity.org/wmd/library/news/russia/2021/russia
 webUrl: "https://www.globalsecurity.org/wmd/library/news/russia/2021/russia-210523-presstv01.htm"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 675
     height: 313
     isCached: true
+
+related:
+  - title: "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping"
+    excerpt: "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,"
+    publishedDateTime: 2021-05-24T21:36:00Z
+    webUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362"
+    ampWebUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 102
+    images:
+      - url: "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg"
+        width: 2618
+        height: 1374
+        isCached: true
+  - title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
+    excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
+    publishedDateTime: 2021-05-24T18:43:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 35
+    images:
+      - url: "https://www.armytimes.com/resizer/50cKkI-h56CsIkoM65q7J7Fl6bk=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/XCNUTPI7ZFAO7OK4ICXENPKE2Y.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yuebIRkTXK9fWThA6EouWl2cWgvXUcbORImanv0LEtlyHwlHCBZmHX9nT+VfND+1u16mxwiZ67vL2xVoClPi4Z/EAoujhRBz2nKPAYcosMarfSoXKogY9nMnmQEF+yTdKwCx+wB2JEKoLN6SstTTMPhEFvEahArlnjOzZq8G2hlAc1hQm/bdnjAR6D2zGm5V9gGvKu8gXDTGa6a4rG9xDl/o0FQm09RWsNPPnITewnk+HBJQgLsUD1xQjHtS5mlVWk3fH6kHGv7JVybmjNAhhC8UrZ1FQ7VUOpbBCaw4lAie9QIQN9bTLk+XHyiW0FbSE+azCTXSPjjV6Txa1ohbkzuWyIfiIfKfHoBLtkizcGk=;zymSyd6etZmvfojV/PABRw=="
 ---

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Mayhill: Facial recognition technology used after Swansea disorder"
-    excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smashed in Mayhill on Thursday."
+    excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash."
     publishedDateTime: 2021-05-24T06:58:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-57213543"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-57213543.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-57213543.amp"
+    webUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+    ampWebUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10663/production/_118617176_concrete.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3EF3/production/_118651161_ethan1.jpg"
         width: 1024
         height: 576
         isCached: true

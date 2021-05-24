@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind reportedly lost a yearslong bid to win more independence from Google"
+    excerpt: "Tensions between Google and its AI brain trust DeepMind have always been fascinating. To put the relationship in crude terms: DeepMind, founded in 2010, is home to some the best AI researchers in ..."
+    publishedDateTime: 2021-05-21T23:34:00Z
+    webUrl: "https://www.theverge.com/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/tM3uxkTrzfKUZ2BrV3lpyVPDi08=/0x0:3500x2335/1400x933/filters:focal(1470x888:2030x1448):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69323166/1281728508.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Google unit DeepMind tried—and failed—to win AI autonomy from parent"
     excerpt: "Alphabet cuts off yearslong push by founders of the artificial-intelligence company to secure more independence"
     publishedDateTime: 2021-05-21T23:48:00Z

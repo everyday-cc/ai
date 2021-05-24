@@ -41,6 +41,22 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Creating Impact With AI: Doing Well By Doing Good"
+    excerpt: "From pandemic prevention and fighting cancer, to fighting hunger, wildlife conservation and boosting accessibility, this article will explore exactly how AI is doing well by doing good."
+    publishedDateTime: 2021-05-24T21:12:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac1169057baa980eb5b648%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Committing to a U.S. Government-Industry Partnership to Empower AI Innovation"
     excerpt: "Such a partnership could make prompt and significant progress in resolving the top barriers to AI innovation and deployment."
     publishedDateTime: 2021-05-21T15:00:00Z

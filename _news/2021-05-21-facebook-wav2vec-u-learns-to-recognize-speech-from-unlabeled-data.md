@@ -62,6 +62,20 @@ related:
         width: 1165
         height: 578
         isCached: true
+  - title: "Facebook touts unsupervised voice biometrics, AI infrastructure could speed things up"
+    excerpt: "The advance is billed as making the creation of speech recognition systems faster and less expensive, and is supposed to do so for all languages and dialects."
+    publishedDateTime: 2021-05-24T20:05:00Z
+    webUrl: "https://www.biometricupdate.com/202105/facebook-touts-unsupervised-voice-biometrics-ai-infrastructure-could-speed-things-up"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
+        isCached: true
 
 secured: "I6TXtreMno1DfMUIoR7ShwnoEDdwRvqL6/vkQxA83iyDjPb9Ladm7ugXF4XDxpXaYl6mNyi3PAFEd6Vd7LnvtCR/zMmTYt61+AW3NbCWA+kVbF6OcFWHcrwWd2OWVkEhPBtrGYU+iGhlLZgp/iLxnryLAA6huloKfwTiSDfhiL+ag2Li6sZsB5OGUi5ksNwOTiFVPw4SRQr8f3rzbzfdStcjxnKZbG8ArklFjxLxC3rZLdQ9sm3O7+HJYvtO2z5C/3PY8mKW+bHlPkSaMvOFh+KTLgjayh56UtknOO1pYB8jr4QQnd3aUofrxfJQdnMtlseR7yCXchBHJTbMJXOufeeyaJ5JIVDjKRHn6O8ePnwLhUnuEzY5e70Uj7Wvvgyx0TG/ufjzeAHfDMZtKmB8DQcVaVXPGZ1wr1AI1MTHN9YNC+mICmpjWQMAPMlK+lxb7okpDbFcLKy7M714lBXdvZKx+GlWSJa2diSmAtxzGfVrR1n0vlZepB8meK5QormUcuk6T//1LDC+zls2LO8LKA==;aFPAnMeQaHHoBPB4n9tI0A=="
 ---

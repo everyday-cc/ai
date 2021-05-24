@@ -74,20 +74,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "How AI Is Reimagining the Customer Experience"
-    excerpt: "Customers know that AI-driven tools exist for personalizing the experience because they encounter the technology everywhere they go online: Amazon, Netflix, Spotify, etc. Fortunately, organizations of all sizes can use AI-driven tools to power their customer experience and compete in the big leagues."
-    publishedDateTime: 2021-05-20T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/119731-viewpoints-digitalhandshake-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Crayon opens AI Center of Excellence"
     excerpt: "Crayon officially opens its AI Center of Excellence in Singapore to offer additional Data and AI services to customers"
     publishedDateTime: 2021-05-24T09:31:00Z

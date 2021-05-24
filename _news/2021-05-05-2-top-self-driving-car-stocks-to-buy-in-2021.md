@@ -1,10 +1,12 @@
 ---
 category: news
 title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
-publishedDateTime: 2021-05-05T11:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
-webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
+excerpt: "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ..."
+publishedDateTime: 2021-05-05T07:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251"
+webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251"
+ampWebUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "4ceIVBkLBdcCIIUdLiuh6ePYTfLrF2XKzus5/J5VPigcHigf5HAWe03aelV3uVhGa1r4RcJvoD/v5Ft2xHJW0nkCJiZCbuzSvTKcHmdxQJrT+6NoTvTp24kykY/ITRnp19Q2MbRJyV4dnx4xi5EvmAeAK9OZeYuQjjLnpYMsOYWfCrR7wOIYkJNjFNfIictyNRSpUZnzcACFbI9E++63iz0jlTuGmhlSnKigbuxCUXtv0FSZHscNVOXRffihl9Ci3UgY7chNcxpE53R/mn0wkhaonazNlN+CBICjGWItsaMt1O/UoXyzlSv2pu+dBNEW0fIT8PQUiVAbKiYmtU9YVnTieVhK4ueCts8igvTSK2dTigoFHiXDRfd76c+Cd+6FJkSo4TYdwQhNY5BDGv8XVy5BChEVG0GxWfXh+FuCyjW3TNct4Bg5meJ0RZMuNWle+ioGCenUnWErn7WQZPAFFroRNSEJAf7bYiI8UTP9sM51bk0UtD5HhCa6ktXJzu6bdwLMx5k1P/d4NbjmZDKwyw==;xc1yJ7mli+U9XHBWYQGCbg=="
+secured: "CXLKlcH/d5ixuBElq4uXaeLwzHJEaEj9AuTWOVaBDf0m21RZ+ebhqPUmg6jr+5k+WIFXSwTWB7zKxEoptpVdqrl7KanACWyFi8U2rAgbswqyVsYk6P5IVji34WZ1JgkBr4uAGhexmp9PRfcJRhKa4j3mNasUY2oLOUo09KbIcdG7zPl9xwSoGV6/avdgiVSfHDzSGWoCESIDZrJAigTWeasMlxna6FS5hhO1Wva72oPabTvjVodC9dAESJKREImo8vDRRmJ8qn3szTUkI5HOq2lvLOb/BIbxQimVRNcPpeC+9oT/MwWENeBrtOz+xOOV2mOHlAA2ZAdoZmJ6B7PNTmM4U38oGQmcwTfmchoQFSU=;8wMMCOeNNU4Qy3TRVRGM5Q=="
 ---
 

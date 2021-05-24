@@ -7,7 +7,7 @@ originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/05/24/a-warn
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 630
     isCached: true
 
-secured: "cD0FnwwF+/DU4B3HwU7QOy6YjWeItinauQtXzrL+63KhkO84X4pPPHJuF5L9leC3rCgtNsF5zkZqIPT5WJwUCnTnVVnFaZvMmfozXAKztD9RsTS2G4q2/Bxhh8NdneM09NdKS0dajvPY2Qma6iR+Psxw4yh+AA0OfsKlDdpnlXKvBFTEly9QGwWWlPVKB7emhcv/E7+SxBWwFpF1EBxZaGiEQYAf+P9Ea6t82AFIYsQVZ3ityavL6O3h82hpbyif8ul2ba9KQtUBvPaBiKkg92H3l/DecAnWBPPHTh3p3VFpqa+ZiuMptjbiOu5ZpBqTpAoJAxE657hr5uCLK9MLFPX2ijkndpLoVSdVrqEOzj0=;fycevD0LpnE/VjOjvTgS8Q=="
+related:
+  - title: "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping"
+    excerpt: "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,"
+    publishedDateTime: 2021-05-24T21:36:00Z
+    webUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362"
+    ampWebUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 102
+    images:
+      - url: "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg"
+        width: 2618
+        height: 1374
+        isCached: true
+  - title: "Russia begins mass production of autonomous war robots"
+    excerpt: "Russia begins mass production of autonomous war robots. Iran Press TV. Sunday, 23 May 2021 5:47 AM. Russia says its military will soon be equipped with autonomous war robots capab"
+    publishedDateTime: 2021-05-24T05:13:00Z
+    webUrl: "https://www.globalsecurity.org/wmd/library/news/russia/2021/russia-210523-presstv01.htm"
+    type: article
+    provider:
+      name: GlobalSecurity.org
+      domain: globalsecurity.org
+    quality: 39
+    images:
+      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
+        width: 675
+        height: 313
+        isCached: true
+
+secured: "V0VygfbiLKbgqrPL8re5rpuI6k5MhKshcMcrES8v52PFHaRh5zwxTWDrFeLJOU8FszDfsNvyBH2SeEEb9Zp7XhB2nmEcnrNE/Tzk+6vOiHs2RSzFt+ChTCA9H9JNyzM/jbcASKcp+t9MElzhDw1u5LEJuzZkUGmgcoJdJ2ckWKRQEQ4IAO5vCJZ5OVyrUL/jZRdwQEvcAZw7HTKSbKH7JKHlitfl6dccedRCo0XRq02VTZI/YmTO97yfQ/Gq7prCE2df2d1nbCfYiePAqCVntsboIPTlpwdDjkEsBeVUZ0qEbcW5RdR1TOU9JvRzsdoaxFgO/3yP6xHi3p1DWZnHcFKtRd3OzQzvMp/1lo73t63BCS63lMgwCgtkby4Ofq/Dkhu+ff/JuN5kJcd8QsZWhn0h4K0l2Rw7fftB3coKzhp2CcecqYsNl2W9aZCbhCu+ESG3rycNweeYg2cYTzxN6bdBdK5vF9NeRoEgF+tiGWMfzqQbGYPKWspcn+iZ7kIOe8QpmCIhN9B9CrEyyXLUkA==;WlPjJgZQKzAR+5YJ1fOvVA=="
 ---
 

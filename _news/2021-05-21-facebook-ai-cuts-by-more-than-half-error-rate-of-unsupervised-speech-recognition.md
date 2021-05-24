@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/wav2vec-U.jpg"
         width: 1165
         height: 578
+        isCached: true
+  - title: "Facebook touts unsupervised voice biometrics, AI infrastructure could speed things up"
+    excerpt: "The advance is billed as making the creation of speech recognition systems faster and less expensive, and is supposed to do so for all languages and dialects."
+    publishedDateTime: 2021-05-24T20:05:00Z
+    webUrl: "https://www.biometricupdate.com/202105/facebook-touts-unsupervised-voice-biometrics-ai-infrastructure-could-speed-things-up"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
         isCached: true
 
 secured: "EMS/yNsgx5ahuLaGBYQvjnferi1DcXeUGr+KAGBM+NAwKpRxyXIp2KxJNs8P5jhclhlooshyYVgch9oXaBLFln/Hr/G/260uaz7ARsdNCT+zofaopB4eaDlQJsXOciJH8tFXyjaRtDCW4IEkElQK8BfB8HprkJLBrkmUcnnJApI0EmAVPw+8Z++jHZQKVzlqXNfzHA7s8kjgxI3KKJKrU39f0jc6ybP+yqYuTPAN6RqXrde84LnnmClP6KZRsF07jpjAlAHVpVriFvPAD4LI9E0AkNlmd0GwErU8PQZRHHOYY+kLrhoqu0UsWB4wXiOMqyG5HAb5iehHrOOrY1zuQSDWP6aZxEfMta3Q/GMxlzs=;4Q1hcm4C2ynOtpYVMq0sTw=="
