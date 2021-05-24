@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-governm
 webUrl: "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/YKugGkghNH_W2uowxDhK7_CxgqU=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69315653/large.0.jpg"
         width: 768
         height: 465
-        isCached: true
-  - title: "Amazon to ban police from using facial-recognition software indefinitely"
-    excerpt: "Amazon hoped leaders in Congress would create a law that would ensure its ethical use, but no bill of the sort has been drawn up."
-    publishedDateTime: 2021-05-19T19:31:00Z
-    webUrl: "https://thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/"
-    ampWebUrl: "https://thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/19/amazon-bans-police-facial-recognition-software-use/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 43
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/05/FacialRegTech-scaled.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trio of facial recognition standards are updated"
     excerpt: "An article published in the journal Standards Engineering calls out developing ASTM International standards for use in facial recognition."

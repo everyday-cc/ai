@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body"
-    excerpt: "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians."
-    publishedDateTime: 2021-05-19T19:11:00Z
-    webUrl: "https://www.medgadget.com/2021/05/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 3
-
 secured: "z+Y6Q4TskUY6C8YuklHyUjoTw//Fq1btd3nT4Fcje5qcf0VF8dS8Uk73Yf+0fWMZ8iuVmj57zAiIa/CS3rT/zqHq7GCTh+QMpRGNdWOYbsXTSSmswuTmLgP0I+AiMHp+gkkxxhCgQD5hmHIAimt+gzSkted5+1sTxUUQR2iH3BS5F5I5PKH1lTdySKN4Ek8008HTSDQwld0NQ58SQvVj/YcIicfXvwcH7/kstABk21Wd6QzFsCmWnM9laS/LlfYQQBNJHTG41A05ra6O2XqZARPAXz4ff5ks2N2/t/WRppXJbziApHONoraDFhpL5Ft/n8hI12qfgwatUQKYZufjgtFZCmDhFKtqNL2vQY4vokI=;xIRBF3l9iLjH+wwYK5jlZg=="
 ---
 

@@ -1,20 +1,32 @@
 ---
 category: news
 title: "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch"
-excerpt: "The Time To Add These Top Artificial Intelligence Stocks To Your Portfolio? While investors wonder why stocks are dropping today, artificial intelligence (AI) stocks could be worth watching. Why? For starters,"
+excerpt: "While investors wonder why stocks are dropping today, artificial intelligence (AI) stocks could be worth watching. Why? For starters, they are likely trading lower in today’s stock market as tech stocks sell-off amidst inflation and crypto-related issues."
 publishedDateTime: 2021-05-19T16:43:00Z
-originalUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19"
-webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19"
+originalUrl: "https://www.entrepreneur.com/article/372388"
+webUrl: "https://www.entrepreneur.com/article/372388"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/372388"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372388"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "8pn6PfhKIXkE0LRSxP2dklSRBXUqGrq1ZMmuhuYcZ2ltE+soVb5+d0lDsxKAcTDYtr6W93Alu/ZQg5NyshJPlAqhjhynGA+uVTUuTR8vu3PQawxyFPIihycDJcpm7autH4xz+dFZuwmqheoaWcI7vKhLyswhSxeXqIXlBiN0rlkc/qTeQ59ihyKGHPnDsmgdI+/f+mo1WtP6Ly2q0hneyzKd8PrL9NGhP7AMX1XSucSLUE0XITXf2wNXocONlgF3nmTjSmJ57zp62w0yvIvvrkf0dG0tP72Oxdco4JcMIN302Wfl71uTq1L4zGNyb4/puHa+EyLzeuzPdxLfWYC2mDj8ji35IovhRb/e9cpGDnQiJ+0x0hgMSdVSRLpnJINvkDwf1As0ktNEaVzWZC7XyUMglWVArGP+MhkckbnFPv4pv452OJ91MqsS7wO5fWI9tG/NIY3SucEd6mxqvMRCsYw6EQj3GZ436AIpAnd5gdq+JopTee33SAymQqdkA9IOuAEIz4841yG4Xt80TzAs2g==;+ZxQ3THS4T9U43KY7MXYAQ=="
+images:
+  - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-372388.jpeg?width=600&crop=16:9"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "s0WjFrxTc0UQD7BOA47ceumZr/r+nX6UkHxw3XUec9LV8Xyy+LV60SlBs5l2Mux4L3jQ/oxEueLTu8Ed3U7mVtVgi2jaR2jY+dXOGMZXAECi2Q8vs0kCIkyQtXtXOV3q5d4EPIBzqaWGcxDaBgCr/eUpNto9p3qjedN6WJ6SDoQr9cgjplO3QVz3SUCnlDqWr7hqGlnHnA34ROdsPCucFjn9siIDFRc5CKoB6DxlyPyC83+t7O8MEMfxsti2MTOBzB2IVs8hzkfDAFJD9v/NisJT9Z1ozQeog2dHw3n+wiJYn0eiG0+BvzcSI9JtirqQpdhL5eGpeupey33F6ybVrwvvqm6f2MILwyzc2dydi6k=;+XTJHGnAKlGDmndIDUk9hA=="
 ---
 

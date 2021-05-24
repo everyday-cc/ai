@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-te
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
 type: article
 quality: 98
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
         width: 764
         height: 400
+        isCached: true
+  - title: "Robotaxi Company Pony.ai Gets Permits To Test Vehicles In Irvine"
+    excerpt: "Pony.ai, a Chinese company developing driverless \"robo-taxi\" vehicles, has gained permission from the California Department of Motor Vehicles (DMV) to test its vehicles on public roads in Irvine, along with Fremont and Milpitas."
+    publishedDateTime: 2021-05-24T13:52:00Z
+    webUrl: "https://www.socaltech.com/robotaxi_company_pony_ai_gets_permits_to_test_vehicles_in_irvine/s-0081300.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 37
+    images:
+      - url: "https://www.socaltech.com/images/story/ponyaicar21.png"
+        width: 391
+        height: 220
         isCached: true
   - title: "Startup Pony.ai receives approval to test autonomous vehicles in California"
     excerpt: "California's Department of Motor Vehicles (DMV) issued a permit to Chinese autonomous vehicle startup Pony.ai to test its driverless cars without safety drivers behind the wheel on specified streets in the state's three cities of Fremont,"

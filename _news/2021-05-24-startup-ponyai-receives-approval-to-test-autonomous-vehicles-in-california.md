@@ -130,6 +130,20 @@ related:
         width: 764
         height: 400
         isCached: true
+  - title: "Robotaxi Company Pony.ai Gets Permits To Test Vehicles In Irvine"
+    excerpt: "Pony.ai, a Chinese company developing driverless \"robo-taxi\" vehicles, has gained permission from the California Department of Motor Vehicles (DMV) to test its vehicles on public roads in Irvine, along with Fremont and Milpitas."
+    publishedDateTime: 2021-05-24T13:52:00Z
+    webUrl: "https://www.socaltech.com/robotaxi_company_pony_ai_gets_permits_to_test_vehicles_in_irvine/s-0081300.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 37
+    images:
+      - url: "https://www.socaltech.com/images/story/ponyaicar21.png"
+        width: 391
+        height: 220
+        isCached: true
 
 secured: "W6+yvSC1Nj6mXv1BJOsGQY5JzYgzdqdBfReD9lissaCSHiFkdYeXTNCsV0W3jZiCr8qJvSD2gbF815PbA1yJmA31TBGI9bz0a6sFsiALiDc/QW5N06ZZ6jYhjF4mFZpnUQ0kWWuvUuWB4V4EGHaNcgJwliaE/anydqmvHtFjl9SLZY6HTKSO3ys/alZFovNTcGoaYRq531P0G0C1P4E52B1I6Sy3pxGX6+PR+vrZtwqxxXqAwe3kPYn3wkclIhD/sjKfkcYFjsCcbb6T49QChD1GzCkVf8SMb+ANVwRS51ectfvGCtxmqtDzbNQS5kgWUvCxU3oaTdZgTXgTr6xIVkEzoPvV/BMLhor1xCg9SEk=;ZBshAqzn1j0wp0JmPRRdvQ=="
 ---

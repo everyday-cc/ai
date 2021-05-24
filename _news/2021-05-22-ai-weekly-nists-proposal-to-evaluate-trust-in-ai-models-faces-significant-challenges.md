@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evalu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NIST Proposes Method for Evaluating User Trust in Artificial Intelligence Systems"
-    excerpt: "NIST's new publication proposes a list of nine factors that contribute to a human's potential trust in an AI system. A person may weigh the nine"
-    publishedDateTime: 2021-05-19T20:32:00Z
-    webUrl: "https://www.miragenews.com/nist-proposes-method-for-evaluating-user-trust-563138/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 32
-    images:
-      - url: "https://www.nist.gov/sites/default/files/images/2021/05/19/AI-trust_dash-final-rev.png"
-        width: 4025
-        height: 2916
-        isCached: true
   - title: "NIST Proposes Method for Evaluating User Trust in Artificial Intelligence Systems"
     excerpt: "This is the question that a new draft publication from the National Institute of Standards and Technology (NIST) poses, with the goal of stimulating a discussion about how humans trust AI systems. The document,"
     publishedDateTime: 2021-05-20T22:01:00Z
