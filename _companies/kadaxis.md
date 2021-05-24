@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "kadaxis"
   url: "https://twitter.com/kadaxis"
-  followers: 29104
+  followers: 29103
 
 size: 2-10 employees
 yearFounded: 2013
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3ELoLhZNxb0"
 
-secured: "1c6CQWxiy5DGC+CgA6ylSmq/FhR5d4Logfada8HoOFj7/xF6wykIaBrl4Mulw6XSK2jt04EaJcfu/b0lWB+YknmyJiyc2oJCANsFTMyqj1q+0mRGYg/lYqYt9nzS7+A0m/gRMH2clw7DItginloQ2LhloD/S/xS1yqvB5/xwgckil8LjccQou20djssIDeDtxUPxj+7nbqioKfWP5Val/zk7Z3hEm5PGNs35ee3Pq+2JLIQrl93qaESdS+drcBQz5mBQfxKvGAaW/tmDjM44rYfLCmy8Ne5orcXVlcnxiNZ/hdulCt3D1DlwbsrYQQ2h5nnxxKizRzx8r8SmW/cbw3nZLPOY9h1vpA2LyYf5o2qBUn9OBDSCkmEOQHqvb0EZUm7ywVIxHkZmei+xUcxkRFiBIBK1DwxlZH6xeYE6CLU=;Qtq36b3INFZkJaZ28uwGHg=="
+secured: "pmQXCivjfypGNeIInlxbU7GINvEekNLju6uqZjTuBVmrqWOJEuID1EnCW4+lQmfz4h+i3RFVYH4/zRuWRAFj2u52ZeuOZgt05o8059RfJl5Y0B8UGL1TSbsx1n7fLMaE5dqGhRYsNkbpPgrfvFRWE+G4hiBrCqPGOLPmojFFpGNZIWg0aIBKUtMLISoDXS4nwMwgU4SBQLvqdcD8/MilXDDmu/Vk4uDM+gPgKnlNKqH/W5KPdSX7YjhparczeMOZUlqfU/ING6zcckiFewHMevlurdH21AxB/6sUZyu+P+2wf3ePjEQaYk6FPAuCQ5no144ASNjvoZ1P0QthybScS/IpfFtnEytfaPtQvEp94Eu7Du58lg0OxmuFk/vAiVY1WQhEBzp1AfRZ3yS7Z1G/J5jPATrkqLoj689jxja6HhA=;MC5RnREZjhJoVM7V0q9r1w=="
 ---
 
