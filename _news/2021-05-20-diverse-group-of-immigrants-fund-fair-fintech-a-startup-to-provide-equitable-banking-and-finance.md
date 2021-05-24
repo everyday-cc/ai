@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19817096.html"
 webUrl: "https://www.lelezard.com/en/news-19817096.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Platform Vise Secures $65 Million Funding"
-    excerpt: "Vise, a New York-based investment management platform for advisors, announced that the company has raised $65 million in a Series C funding round."
-    publishedDateTime: 2021-05-19T12:51:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-platform-vise-secures-65-million-funding/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Starting a Career in Fintech: An Introduction"
     excerpt: "Fintech, or financial technology, is a growing area in various locations around the world. The industry is becoming increasingly appealing to all kinds of professionals and students, promising exciting opportunities in everything from cryptocurrency to digital banking."
     publishedDateTime: 2021-05-21T19:53:00Z

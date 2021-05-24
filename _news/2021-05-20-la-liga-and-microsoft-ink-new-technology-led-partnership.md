@@ -65,20 +65,6 @@ related:
         width: 1920
         height: 1292
         isCached: true
-  - title: "Microsoft and LaLiga expand partnership to transform the digital sports experience"
-    excerpt: "The Spanish football association will not only be working with Microsoft to make the digital sports experience better, but also to develop tech solutions for the media and entertainment industry."
-    publishedDateTime: 2021-05-19T11:42:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-laliga-expand-partnership-to-transform-the-digital-sports-experience/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 63
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621437676_microsoft_laliga_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft expands retail tech presence in China with Hanshow deal"
     excerpt: "Microsoft will also provide technical support to the digital retail firm in co-creating cloud-based products that use the tech giant’s machine learning, IoT, and data technology. “Hanshow’s solutions empowered by Microsoft Azure are at the heart of ..."
     publishedDateTime: 2021-05-21T18:35:00Z

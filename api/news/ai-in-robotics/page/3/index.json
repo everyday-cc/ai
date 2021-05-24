@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-02-this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai.md",
+      "title": "This new robotics challenge could bring us closer to human-level AI",
+      "excerpt": "Developing robots that can physically sense the world and interact with their environment is the realm of embodied artificial intelligence, one of the long-sought goals of AI scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/bdtechtalks.com/wp-content/uploads/2021/04/TDW-challenge-first-person-view.jpg?resize=696%2C246&ssl=1",
+          "width": 696,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai.md",
       "title": "Reinforcement learning competition pushes the boundaries of embodied AI",
       "excerpt": "The ThreeDWorld Transport Challenge lets embodied AI scientists test a robot's ability to physically sense and interact with the environment.",
@@ -1291,58 +1343,6 @@
         "name": "Medgadget",
         "domain": "medgadget.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
-      "title": "Want to Get Along With Robots? Pretend They’re Animals",
-      "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
-      "originalUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/607a36b98b8cd2f789408f30/master/pass/science_robot_876959718.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
-      "publishedDateTime": "2021-04-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-23-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-03-20-a-researcher-turned-down-a-60k-grant-from-google-because-it-ousted-2-top-ai-ethics-leaders-i-dont-think-this-is-going-to-blow-over.md",
       "title": "A researcher turned down a $60k grant from Google because it ousted 2 top AI ethics leaders: 'I don't think this is going to blow over'",
       "excerpt": "An assistant professor at the University of Western Ontario turned down a $60k Google grant after the company ousted two prominent AI ethicists.",

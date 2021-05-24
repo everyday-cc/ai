@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
+      "title": "Want to Get Along With Robots? Pretend They’re Animals",
+      "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "originalUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607a36b98b8cd2f789408f30/master/pass/science_robot_876959718.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "publishedDateTime": "2021-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
       "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
       "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
@@ -1325,58 +1377,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding.md",
-      "title": "The $2,100-A-Month Factory Robot: Rapid Robotics Pushes To Automate Small Manufacturers, Helped By $12 Million In New Funding",
-      "excerpt": "Forget big, fancy robots. Rapid Robotics wants to spread its robots, which are inexpensive and programmed to do very simple jobs, at small manufacturers across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a7fe1ef90295a9f3f14d4%2F0x0.png",
-          "width": 745,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

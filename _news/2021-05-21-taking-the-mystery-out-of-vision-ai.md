@@ -7,7 +7,7 @@ originalUrl: "https://www.eetindia.co.in/taking-the-mystery-out-of-vision-ai/"
 webUrl: "https://www.eetindia.co.in/taking-the-mystery-out-of-vision-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,56 +23,6 @@ images:
     width: 600
     height: 231
     isCached: true
-
-related:
-  - title: "Embracing the rapid pace of AI"
-    excerpt: "In a recent survey, “2021 Thriving in an AI World,” KPMG found that across every industry—manufacturing to technology to retail—the adoption of artificial intelligence (AI) is increasing year over year."
-    publishedDateTime: 2021-05-19T16:45:00Z
-    webUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/CliffJustice-Header.png?w=1920"
-        width: 1920
-        height: 1005
-        isCached: true
-  - title: "The race to understand the exhilarating, dangerous world of language AI"
-    excerpt: "Hundreds of scientists around the world are working together to understand one of the most powerful emerging technologies before it’s too late."
-    publishedDateTime: 2021-05-20T17:38:00Z
-    webUrl: "https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project/"
-    ampWebUrl: "https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/MIT_AI.Language_final.jpg?w=2400"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Meet the Women Working to Make Artificial Intelligence a More Equitable Space"
-    excerpt: "Black Women in A.I. founder Angle Bush and Capital One's Lauren Cole joined Adweek's Elevate: AI virtual event."
-    publishedDateTime: 2021-05-19T21:35:00Z
-    webUrl: "https://www.adweek.com/brand-marketing/meet-the-women-working-to-make-artificial-intelligence-a-more-equitable-space/"
-    ampWebUrl: "https://www.adweek.com/brand-marketing/meet-the-women-working-to-make-artificial-intelligence-a-more-equitable-space/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/meet-the-women-working-to-make-artificial-intelligence-a-more-equitable-space/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 54
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/05/the-yes-elevate-ai-2021-652x367.jpg"
-        width: 652
-        height: 367
-        isCached: true
 
 secured: "zQR/J1j75FUuT85Ua9kMH2AhHi/Ku/cR6Z6eKQK4kT+pruKWpdK7+srcLLVZgJERUghYVHA59ID/oshirXuFjPhd9vz3ci4hZq1AWliActz06V3r4r5AjD3CrqPyA202ZjP9V2wTyyPlBQkEFjLFTCv0ScQ/+cVduwPklgyLk47dAMxZVAwzhmGpMR9yjecnzF1M/m0Mkv5C+aDi5LuS5nsJ2pmhZageez10C8ZGOgj4eZZMuNmjxj1UrEIdkMJvohEspdHlz/PRHuPKsyRXwA8GPOoC8YgkZnK9q3OoVebROTRK5eZY2prnK6G8GuT/2t3RxlDekNIRE00DBeQXpQkqvBgkwX0oea4i8r5Kb7Uv8fHP+vb7duNszd1tjiJ8OphvPgYDKjIM+105RhMh8KSRXIggxx2skiYnymhuX1gIWSaOXLh3vrHrpYlfMfrATG0y45p02nyaZTN7ah8gTS2h26ZifBdr15XQA+vm7vRK5mjhwV5l6qkSHCGWv845wiuWGZ9ukXwThvRmkdGT5w==;wtjWbkQUiW1dC+wX1bnU1Q=="
 ---

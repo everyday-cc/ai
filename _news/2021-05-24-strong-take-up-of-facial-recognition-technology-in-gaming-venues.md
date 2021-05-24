@@ -117,20 +117,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon extends ban on police use of its facial recognition technology"
-    excerpt: "Amazon is announcing that it will extend its ban on police use of it facial recognition technology until further notice."
-    publishedDateTime: 2021-05-19T12:19:00Z
-    webUrl: "https://bronx.news12.com/amazon-extends-ban-on-police-use-of-its-facial-recognition-technology"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 39
-    images:
-      - url: "https://img.chdrstatic.com/media/d2db7e0e-ec70-430c-a2fe-c2cb1eb235ac.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon extends police facial recognition moratorium"
     excerpt: "Amazon has taken the time limit off of its self-imposed moratorium on offering its face biometrics technology to U.S. law enforcement."
     publishedDateTime: 2021-05-19T16:17:00Z

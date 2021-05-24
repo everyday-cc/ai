@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "When a self-driving car doesn't know what to do"
+    excerpt: "The incident raised concerns about Waymo's self-driving technology, called Waymo Driver, and the humans who are supposed to oversee its operation. From the rear seat, Johnson caught the whole thing on video,"
+    publishedDateTime: 2021-05-24T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/when-self-driving-car-doesnt-know-what-do"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/1WAYMO-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "1EfnHipFlvpKaMsZ5zBilZ5GcZUtnXOGiJeRyPM2gELq+7wlDgcWDmBUYzp+tpe99zLduVJhtpCL6X81cnCsavYyGOjPymteeibcAZK8HW7sWxyXweuMh0kqN8r7TveVVCiY/K7b6MxCApplTGyYUYYpEr5shwKfZa3MfzGGifeKvvNNEW9vgWs2ipHxl3zefyXOufe5TKziD4WFDqxDYSzjULxk8lfGQqqrmBhLRggyX+oh64vp7l9bZra2G1dxMbWcTWz+Yl3k0zMyirh1RYHDcDTt27nlgYzZNffzLtPPI34JT6B5bGx+A0TBNddSRUi2AvPQ1dmFqRCT7ZZMM8C5ns7XI3y7kwazihaA8c0uzRSCICWp49o1th5xkUP6GkPEYT+hdw31crGTldOvp8UYEldFO5il68yPtjaLFAufx0xQzrWEW2Et06sEDnwxKz5pMkabyZ82pkKPD9B28gYdouVV1g2Ypadu6fMg04KLrESfJtZAW5SbhkIgWcDt/hDTEq0iLdcZWTXBzLorQw==;V69TZzVBS/IrEZDmjlIfkA=="

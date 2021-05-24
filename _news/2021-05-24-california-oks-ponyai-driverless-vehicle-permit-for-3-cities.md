@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
-    excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
-    publishedDateTime: 2021-05-19T12:23:00Z
-    webUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
-        width: 1600
-        height: 906
-        isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z
@@ -118,6 +102,6 @@ related:
         height: 400
         isCached: true
 
-secured: "X1JRM3a5hU4V/KpjFxJchoJafpT/eQL88fvD2Gw713ub3lMi02mbqHRSx7bijCKXc9/b7vE3MqJ7PC9z00U4fddYRFCxboKa7N14AHU6ZiYTna3ViWhTdOuCo3SozZGL00sahXxWLKWlKoOjzbc8NGV8aH3pzHFaxSOqnhQBa5uaoAXJQgCS3s93Hot21uFeN229KZD8FV7pTvYFsAVrIwl95VZkSfWcxqk31zV0WpubG0ZcERCMzmWRIh8d9IImPuBUlz3yETi6aIgwoqQW8D2D04aZoSs6etEoBDHiUDtK9T/g4MS+fF/XT5JBZ44vbTPZ3VGehkqn5bK7GZ5maJjBPyqaPzA6Xl7jH+W0p+A=;38dRbKfYJcCImhXMXN+Ybw=="
+secured: "A0hFlg4yFuVVo/eMzuiyxAuu8ejA8T5iRt3OsI7yv7nMeOjJlKAZjqNcrr4EYKr8bvawvhHg0+hRVhwpZQyIJ6L9ajuAACjCM4VU9Nv5Cdq6n37dA1EoaBCy95CY8ouys9Y0Vo/wV6HSPSQt8mNMa64AnLMqJbcwkWqR4Mc+42BIe+wXkdHfptTEXbfU1b5c8r4j7TuleaIexARkk8QWrrKgG4RvsHk9JwL/ugJcZXWPtE2JYJHdQNV5qExyya5DbvrbifMxCr2GEOLm/Mq0/RQ+7pa8+o+KtnJX5qe7M1flSE/MZKe2z7a1QhBg/8q+Tv7zSkLtZDgS1twREMubfPjCaBvUfg2ZekNCXalPHUlkvjuHOfPf43WeiSH8rTpRYCZw194/MqeO7J++/ljCbSAEqJHFib4jX9sC7aZ9AWGlYmhcuNT5z+EgsehYmTRuOrcSu3+GuVVv6oK9pzVKnNLf6QbDRMjc9eOICLZfDygmE6UEMq37QIKRd7jxllaZRlOzVikCfbe9IjfEQlFbuQ==;oIbsrZfUc4l3m2u9q4RoUg=="
 ---
 

@@ -2,6 +2,136 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-05-03-creating-an-end-to-end-application-for-orchestrating-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions.md",
+      "title": "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions",
+      "excerpt": "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg",
+          "width": 800,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-top-tech-stocks-to-watch-right-now.md",
+      "title": "Top Tech Stocks To Watch Right Now",
+      "excerpt": "The company has five segments in the tech industry. It includes cloud and cognitive software and also global technology services. IBM stock currently trades at $141.25 as of 10:30 a.m. ET.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
+      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-artificial-intelligence-market-valuable-applications-for-host-of.md",
+      "title": "Artificial Intelligence Market: Valuable Applications for host of",
+      "excerpt": "Seeming relatively new, the conception of artificial intelligence (AI) dates back to 1955 which was founded as an academic discipline. Since then, course of the technology has been a like that of a rollercoaster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-valuable-applications-host-functions-across-/2021/05/03/9359840.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-valuable-applications-host-functions-across-/2021/05/03/9359840.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-the-art-of-balancing-two-forces-ai-and-human-nature.md",
       "title": "The Art Of Balancing Two Forces: AI And Human Nature",
       "excerpt": "Our natural approach to problem-solving is additive: stir in more data, layer in more sophisticated modeling, think through solving the problem for every contingency. While that’s the first instinct,",
@@ -1053,153 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
-      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
-      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139",
-      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?21639",
-          "width": 390,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-baidu-launches-chinas-first-paid-robotaxi-service.md",
-      "title": "Baidu launches China's first paid robotaxi service",
-      "excerpt": "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
-      "originalUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/cb1afed/2147483647/strip/true/crop/1385x923+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F16%2F7a%2F31e38f5d418f813406035fa5f07a%2Fbaidu-apollo-s-fully-driverless-robotaxis-motion.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true",
-      "publishedDateTime": "2021-05-03T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
-      "title": "Intel will invest $3.5 billion in New Mexico chip factory",
-      "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
-      "originalUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
-      "publishedDateTime": "2021-05-02T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

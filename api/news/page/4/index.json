@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-19-were-not-prepared-for-ai-hackers-security-expert-warns.md",
+      "title": "We're Not Prepared for AI Hackers, Security Expert Warns",
+      "excerpt": "AI promises a future where machines solve problems humans cannot, but can we trust them not to poke around where they don't belong? Bruce Schneier from the Harvard Kennedy School has concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns",
+      "originalUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04qQqxzBnOGSE6poQ896Gju-1.1621439902.fit_lim.size_1200x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/were-not-prepared-for-ai-hackers-security-expert-warns?amp=true",
+      "publishedDateTime": "2021-05-19T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-ibms-research-group-set-to-simplify-enterprise-ai.md",
       "title": "IBM’s Research Group Set To Simplify Enterprise AI",
       "excerpt": "We believe IBM is going to bring its AI research for improved power efficient AI to mainstream data centers. To effectively use its reduced precision AI hardware, it's critical that there be the right software support.",
@@ -212,6 +264,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-a-machine-learning-model-behind-covid-19-vaccine-development.md",
+      "title": "A machine learning model behind COVID-19 vaccine development",
+      "excerpt": "When starting a vaccine program, scientists generally have anecdotal understanding of the disease they're aiming to target. When COVID-19 surfaced over a year ago, there were so many unknowns about the fast-moving virus that scientists had to act quickly and rely on new methods and techniques just to even begin understanding the basics of the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.html",
+      "originalUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/11-vaccine.jpg",
+          "width": 1920,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-machine-covid-vaccine.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp",
+      "publishedDateTime": "2021-05-19T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.md",
       "title": "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body",
       "excerpt": "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians.",
@@ -315,7 +410,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/372432",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1155,110 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
-      "title": "Ground processing with space data 5x faster with Azure",
-      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
-          "width": 1028,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T23:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
-      "title": "Alteryx announces new AutoML product and Intelligence Suite",
-      "excerpt": "The company, best known for its data prep bona fides, leverages its acquisitions in the machine learning space to announce new data science features in Alteryx Designer and new standalone AutoML product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/561d7db1-2f48-441a-bfd1-1cb1394ec6a5/alteryx-machine-learning-chord-diagram.png",
-          "width": 3836,
-          "height": 2060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "publishedDateTime": "2021-05-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

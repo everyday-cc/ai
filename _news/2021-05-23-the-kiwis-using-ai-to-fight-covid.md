@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The COVID-19 pandemic has supercharged AI for telcos"
-    excerpt: "While IBM was initially concerned the COVID-19 pandemic would bring operations to a screeching halt, we’ve observed quite the opposite for telcos. Last year was a turning point for AI in the telco industry, which was faced with increasing bandwidth demands due to the influx of people staying home. Calls"
-    publishedDateTime: 2021-05-19T13:00:30Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/"
+  - title: "A machine learning model behind COVID-19 vaccine development"
+    excerpt: "When starting a vaccine program, scientists generally have anecdotal understanding of the disease they're aiming to target. When COVID-19 surfaced over a year ago, there were so many unknowns about the fast-moving virus that scientists had to act quickly and rely on new methods and techniques just to even begin understanding the basics of the disease."
+    publishedDateTime: 2021-05-19T14:32:00Z
+    webUrl: "https://phys.org/news/2021-05-machine-covid-vaccine.html"
+    ampWebUrl: "https://phys.org/news/2021-05-machine-covid-vaccine.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-machine-covid-vaccine.amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC_121_Telco_Trends_2000x1006-scaled.jpg"
-        width: 2560
-        height: 1288
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-vaccine.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Artificial intelligence has been of little use for diagnosing covid-19"
     excerpt: "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts"

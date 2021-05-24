@@ -57,22 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
-    excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
-    publishedDateTime: 2021-05-19T12:23:00Z
-    webUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
-        width: 1600
-        height: 906
-        isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
     publishedDateTime: 2021-05-21T20:44:00Z

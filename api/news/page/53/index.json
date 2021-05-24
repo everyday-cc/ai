@@ -2,6 +2,153 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-04-08-appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to.md",
+      "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
+      "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-revolution-3-stocks-to-automate-your-gains.md",
+      "title": "Artificial Intelligence Revolution: 3 Stocks to Automate Your Gains",
+      "excerpt": "Take a moment to consider all of the different applications for artificial intelligence technology ... the company is investing in things like self-driving vehicles that have huge potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/368936",
+      "originalUrl": "https://www.entrepreneur.com/article/368936",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-368936.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368936",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368936",
+      "publishedDateTime": "2021-04-08T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19.md",
+      "title": "30 Under 30 Europe 2021: Changing The World From Artificial Intelligence To Covid-19",
+      "excerpt": "Healthcare and Science list. These researchers, innovators and business leaders are changing the world with everything from new cancer treatments to artificial intelligence. The list includes talented people working within Europe, as well as Europeans who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b91b7ac889ee96a51d99b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3240%26cropY1%3D0%26cropY2%3D1823",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
+      "publishedDateTime": "2021-04-07T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-dallas-police-used-face-recognition-software-without-authorization-installed-on-personal-phones.md",
       "title": "Dallas Police Used Face Recognition Software Without Authorization, Installed on Personal Phones",
       "excerpt": "Dallas police officers used unauthorized facial recognition software to conduct between 500 and 1,000 searches in attempts to identify people based on photographs.",
@@ -1048,153 +1195,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-7-ways-the-cloud-is-changing.md",
-      "title": "7 ways the cloud is changing",
-      "excerpt": "Amazon’s AWS for the Edge service offers a similar opportunity to move your code closer to the users. Those who use the Amazon SageMaker machine learning services can push them out of the major data centers to the edges. Amazon is now emphasizing their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
-      "originalUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
-      "publishedDateTime": "2021-04-06T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
-      "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
-      "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e8e74c42155d05d289032%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D1230%26cropY1%3D18%26cropY2%3D689",
-          "width": 1191,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
-      "publishedDateTime": "2021-04-06T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
-      "title": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut",
-      "excerpt": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut (Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
-      "publishedDateTime": "2021-04-06T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

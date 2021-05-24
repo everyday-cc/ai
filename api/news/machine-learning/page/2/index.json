@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-12-klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge.md",
+      "title": "Klas Government Launches Market's First Tactical GPU That Extends AI/ML To Network Edge",
+      "excerpt": "Klas Government, which makes the world's most powerful, low-SWaP technology for the extreme tactical edge, today announced the availability",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1508871/Voyager_GPU_video_v5_01.mp4?p=medium",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-datarobots-zepl-acquisition-bridges-the-ai-divide.md",
       "title": "DataRobot’s Zepl acquisition bridges the AI divide",
       "excerpt": "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits.",
@@ -1364,49 +1408,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-leveraging-uncertainty-from-deep-learning-for-trustworthy-material-discovery-workflows.md",
-      "title": "Leveraging Uncertainty from Deep Learning for Trustworthy Material Discovery Workflows",
-      "excerpt": "In this paper, we leverage predictive uncertainty of deep neural networks to answer challenging questions material scientists usually encounter in machine learning-based material application workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://pubs.acs.org/doi/10.1021/acsomega.1c00975",
-      "originalUrl": "https://pubs.acs.org/doi/10.1021/acsomega.1c00975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png",
-          "width": 323,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

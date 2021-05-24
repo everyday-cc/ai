@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-te
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
 type: article
 quality: 98
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/shutterstock_1693673497-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
-    excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
-    publishedDateTime: 2021-05-19T12:23:00Z
-    webUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
-        width: 1600
-        height: 906
         isCached: true
   - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
     excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"

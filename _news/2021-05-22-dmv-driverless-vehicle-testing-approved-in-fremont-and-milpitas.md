@@ -59,22 +59,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Google Opens AI Campus In California To Work On A Quantum Computer"
-    excerpt: "Google has officially unveiled its new quantum AI campus in Santa Barbara, California. The developers on this campus will work on Google's commercial"
-    publishedDateTime: 2021-05-19T12:23:00Z
-    webUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/google-ai-campus-quantum-computer.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
-        width: 1600
-        height: 906
-        isCached: true
   - title: "China's Pony.ai to test driverless vehicles in California"
     excerpt: "Chinese autonomous vehicle startup Pony.ai has received a permit from California's Department of Motor Vehicles (DMV) to test its driverless cars without human safety drivers behind the wheel on specified streets in the state's three cities."
     publishedDateTime: 2021-05-24T01:35:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Altair Future.AI Global Event To Demonstrate How Artificial Intelligence And Analytics Accelerate Digital Transformation"
+    excerpt: "Altair (Nasdaq: ALTR), a global technology company providing solutions in simulation, high-performance computing (HPC), and artificial intelligen"
+    publishedDateTime: 2021-05-21T13:07:00Z
+    webUrl: "https://www.hostreview.com/news/210521-altair-futureai-global-event-to-demonstrate-how-artificial-intelligence-and-analytics-accelerate-digital-transformation"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 29
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Zebra Technologies Introduces Intuitive, Flexible Industrial Machine Vision and Fixed Scanning Solutions"
     excerpt: "Company further accelerates enterprise asset intelligence vision through acquisition of adaptive vision and introduction of PartnerConnect Industrial Automation track."
     publishedDateTime: 2021-05-21T18:02:00Z

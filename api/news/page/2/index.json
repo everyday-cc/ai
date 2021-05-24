@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
+      "title": "Finding any Cartier watch in under 3 seconds",
+      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
+          "width": 1600,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
       "title": "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent",
       "excerpt": "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company.",
@@ -209,21 +261,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
-      "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform.",
+      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
+      "title": "Speech recognition comes to prompting",
+      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
+      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
-          "width": 400,
-          "height": 286,
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
+          "width": 2560,
+          "height": 1536,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -231,23 +283,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:43:00-07:00",
+      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "publishedDateTime": "2021-05-21T04:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -257,8 +300,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
@@ -270,7 +312,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -417,7 +459,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/359622/mindtree-acquires-industrial-ai-startup-nxt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1188,57 +1230,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today.md",
-      "title": "Artificial Intelligence Identifies Ethan Allen Interiors And Yum China Holdings As Trending Stocks Today",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Ethan Allen Interiors and Yum China Holdings among the trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77a29dc7b02d000666d9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
-      "publishedDateTime": "2021-05-20T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

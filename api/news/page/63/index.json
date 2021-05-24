@@ -2,6 +2,108 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-03-25-artificial-intelligence-neural-network.md",
+      "title": "Artificial Intelligence Neural Network",
+      "excerpt": "Artificial neuron in concept of artificial intelligence. Wall-shaped binary codes make transmission lines of pulses and/or information in an analogy to a microchip. Neural network and data transmission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebusinessdesk.com/yorkshire/news/2072726-pandemic-recovery-and-future-growth-in-the-northern-powerhouse/artificial-intelligence-neural-network",
+      "originalUrl": "https://www.thebusinessdesk.com/yorkshire/news/2072726-pandemic-recovery-and-future-growth-in-the-northern-powerhouse/artificial-intelligence-neural-network",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The UK",
+        "domain": "thebusinessdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-swipe-down-to-find-more-with-the-huawei-assistanttoday-ai-search-tool.md",
+      "title": "Swipe Down To Find More With the Huawei Assistant·Today AI Search Tool",
+      "excerpt": "In addition, the AI Search tool includes an instant translator that will help users break the language barrier and a code scanner that is bound to provide users access to a lifetime contactless experience. This feature is available as part of HUAWEI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/swipe-down-find-more-huawei-assistant·today-ai-search-tool-1418558",
+      "originalUrl": "https://www.albawaba.com/business/pr/swipe-down-find-more-huawei-assistant·today-ai-search-tool-1418558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
+      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
+      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
+      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
       "title": "Domo Expands AWS Relationship",
       "excerpt": "“Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT data, or providing a powerful data engine from which customers can use ...",
@@ -997,137 +1099,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
-      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
-      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-blockchain-and-machine-learning-can-deliver-the-promise-of-omnichannel-marketing.md",
-      "title": "How blockchain and machine learning can deliver the promise of omnichannel marketing",
-      "excerpt": "Researchers from University of Minnesota, New York University, University of Pennsylvania, BI Norwegian Business School, University of Michigan, National Bureau of Economic Research, and University of North Carolina published a new paper in the Journal of Marketing that examines how advances in machine learning (ML) and blockchain can address inherent frictions in omnichannel marketing and raises many questions for practice and research.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
-      "originalUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
-      "publishedDateTime": "2021-03-24T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fintech-startup-qraft-technologies-raises-9-mn-from-smilegate-investments.md",
-      "title": "Fintech Startup Qraft Technologies Raises $9 Mn From Smilegate Investments",
-      "excerpt": "Seoul-based fintech company Qraft Technologies, which uses artificial intelligence (AI) to create and manage exchange-traded funds (ETFs), announced on Tuesday to have closed a funding round worth $9 million. Veteran South Korea-based venture capital (VC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/367792",
-      "originalUrl": "https://www.entrepreneur.com/article/367792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616568382-CEO-Marcus-Kim-1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367792",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367792",
-      "publishedDateTime": "2021-03-23T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

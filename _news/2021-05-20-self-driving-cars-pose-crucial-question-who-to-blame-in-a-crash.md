@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "When a self-driving car doesn't know what to do"
+    excerpt: "The incident raised concerns about Waymo's self-driving technology, called Waymo Driver, and the humans who are supposed to oversee its operation. From the rear seat, Johnson caught the whole thing on video,"
+    publishedDateTime: 2021-05-24T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/when-self-driving-car-doesnt-know-what-do"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/1WAYMO-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "FptFFKhxopbjnGWtLkg/AGhrxTIyvff95Hf5LzY+1qzuM7EZFfmP5v/63EfUp3BnGpMn7UXNS/r8Z6JCHYjFHlVmY+iue8D9w4L1idceoTseINb0AoKh3B89rEYX1ZQcxTfIVdYhAE031Wx846IKMq0ZM8kJYUhvWT7Z35ns4D27icnPqYt76mmK7pwX21jLVZZG5WYQITddONIlMUF+Sqcv5CIUQeyfoeOoc0ewTGI7Fkq0LHZqTTmcsc42yfHcSWw1vOJuJRw15K+ZAx4/w5aZ8yqknmzyYSBVLd+zmyI/MNkFVE6HHbnrLD5ZH4WYYb6pxc9PmF7gAwl8SRqRLMaQOToA2Q7Ft1DlKiZdIoI=;SlMNSBUqE3RxVu6sD0KWUg=="
 ---

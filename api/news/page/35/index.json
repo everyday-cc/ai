@@ -2,6 +2,146 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-04-24-weakly-supervised-facial-expression-recognition-in-the-wild-with-noisy-data.md",
+      "title": "Weakly-Supervised Facial Expression Recognition in the Wild with Noisy Data",
+      "excerpt": "Facial expression recognition (FER) has attracted much attention in recent years due to its wide applications. While some progress has been achieved thanks to the emergence of deep learning, the challenge occasioned by pose variations remains.",
+      "sourceUrl": null,
+      "webUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
+      "originalUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IEEE",
+        "domain": "ieee.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-4-reasons-to-learn-machine-learning-with-javascript.md",
+      "title": "4 reasons to learn machine learning with JavaScript",
+      "excerpt": "There are already several JavaScript machine learning libraries. An example is TensorFlow.js, the JavaScript version of Google’s famous TensorFlow machine learning and deep learning library.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/javascript.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "publishedDateTime": "2021-04-23T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025.md",
+      "title": "Artificial Intelligence Robots Market Supply, Sales, Revenue and Forecast from 2021 to 2025",
+      "excerpt": "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-build-a-medical-sentence-matching-application-using-bert-and-amazon-sagemaker.md",
       "title": "Build a medical sentence matching application using BERT and Amazon SageMaker",
       "excerpt": "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently,",
@@ -1011,117 +1151,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-how-technology-is-changing-transportation-and-logistics.md",
-      "title": "How technology is changing transportation and logistics",
-      "excerpt": "Waymo, in addition to pilot testing self ... help companies take full advantage of all the data they collect. Artificial intelligence and big data analytics enable companies to find patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://techaeris.com/2020/07/24/how-technology-is-changing-transportation-and-logistics/",
-      "originalUrl": "https://techaeris.com/2020/07/24/how-technology-is-changing-transportation-and-logistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techaeris.com/wp-content/uploads/2019/10/drone-delivery-canada-sparrow-cargo-drone.jpg",
-          "width": 1085,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techaeris",
-        "domain": "techaeris.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-fintech-robos-migrates-to-cloud-only-infrastructure-with-aws.md",
-      "title": "Fintech Robos migrates to cloud-only infrastructure with AWS",
-      "excerpt": "We are a B2B Fintech company, providing our partners with leading-edge technology for offering mobile-first and cloud-only savings and investments services",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/Fintech_Robos_migrates_to_cloudonly_infrastructure_with_AWS-ZAWYA20210422125206/",
-      "originalUrl": "https://www.zawya.com/uae/en/press-releases/story/Fintech_Robos_migrates_to_cloudonly_infrastructure_with_AWS-ZAWYA20210422125206/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20210422125206/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210422125206/",
-      "publishedDateTime": "2021-04-22T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-eurotech-announces-dynacor-40-36-a-rugged-hpec-system-for-transportation-5g-and-ai-at-the-edge.md",
-      "title": "Eurotech Announces DynaCOR 40-36 - A Rugged, HPEC System for Transportation, 5G and AI At the Edge",
-      "excerpt": "“The DynaCOR 40-36 sets a new record for AI performance in truly rugged applications” said Pierfrancesco Zuccato, Senior Product Manager at Eurotech. “It is a great platform for the most computation intense inference models and supports double ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/175262/Eurotech-Announces-DynaCOR-40-36-A-Rugged-HPEC-System-for-Transportation-5G-and-AI-At-the-Edge/",
-      "originalUrl": "https://www.newswiretoday.com/news/175262/Eurotech-Announces-DynaCOR-40-36-A-Rugged-HPEC-System-for-Transportation-5G-and-AI-At-the-Edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

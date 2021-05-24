@@ -1,22 +1,18 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform."
-publishedDateTime: 2021-05-21T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
+excerpt: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut"
+publishedDateTime: 2021-05-21T12:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
+webUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
@@ -24,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
-    width: 400
-    height: 286
+  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook"
+    width: 1304
+    height: 683
     isCached: true
 
 related:
@@ -46,7 +42,23 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Autoscript Introduces Voice-Controlled Teleprompting Solution"
+    excerpt: "Designed to be used with the company’s WinPlus-IP fully IP-enabled prompting software, Voice offers a solution customized to the user. It monitors production audio and automatically advances the script as words are spoken,"
+    publishedDateTime: 2021-05-20T14:11:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/autoscript-introduces-voice-controlled-teleprompting-solution"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/autoscript-introduces-voice-controlled-teleprompting-solution"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/autoscript-introduces-voice-controlled-teleprompting-solution"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/86gTXezNYLRw5Z8EtXitH6-480-75.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
-secured: "VsHLzScfU6AO2mZa4F8PtCR2lR65R0NXo8/A0ZukeitV8g9LNALMkDclEK27Kf39TNmqHyiyzHOii9jUIgSFVpYXrhpzuuo8fh4fIm7YrSRLW+gP2TO+ERR6IaJ6F7X5wpmAkuCW3bNs0HNdheXY8L7mC15YFtLLS7SQt95oEp+wvPbDLmQX78dp7VjBqhYN5swDvaFTB8A2JI3aatStSUNyF97iPZS/sBv39/sSERyqGltn+eW+LMQ1zIIKVMedV85o1ZZGQGLZCL7bZlnQn5qnyXJVCbA7PKSh+4Xr3WyKkHPaE27HaM6sqmbD05U8BFgnPBrPiYMPV6CPYHT6C+g863BticfbAmxfo5Kycc0=;m+eQAyclXaIzrEVPl1v3Iw=="
+secured: "XaaizE2ljZaDiAO8CZjv7XSKopw8l8bGUC7KE4W8gTic7NGuFRcsyrRdpq/EmykQYkl1z9sMGuD/acAGhqV/yvzvClaUazSi+mxHz9XTmj9wxKcHwAd09xVmmQ3ao4D8RaHL+LhaDX/U0F+7QBMFIFZ2PATDI4yq3aVv1xw7bUb2ieewWhFHqURJgMfuSLvscfIA1pS7wZps9PW61DPSOwfKNawhyvgHjrOdmwaLQcyI/8y8j2tJWkzIsPGMBEiiGs8CfISoR1cA6OXdvQEXwe0qacrBsFg/R94l/XtU2VEg0skKRUeNqIPjr9XVaLeh8Q91cypIfcXE45AimAzW/QctctioxnnyD3gWbHShYf0=;AjyqFvuvwngLTz1FVdL0+A=="
 ---
 
