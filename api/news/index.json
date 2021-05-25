@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good.md",
+      "title": "TikTok Viral ‘Uberduck.AI’ Text To Celebrity Speech Bot Is Quite Quacking Good",
+      "excerpt": "Uberduck.AI is a text to speech tool that allows you to turn any text into a celebrity, rapper, or famous politician's voice. TikTok's new voice change and the internet's love for innovation have combined into the next AI internet spectacle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
+      "originalUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac60fe8714a2b9c17f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
+      "publishedDateTime": "2021-05-24T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-russia-is-building-an-army-of-robot-weapons-and-chinas-ai-tech-is-helping.md",
       "title": "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping",
       "excerpt": "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,",
@@ -105,21 +156,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-24-firefliesai-raises-14m-for-its-meeting-transcription-and-automation-service.md",
-      "title": "Fireflies.ai raises $14M for its meeting transcription and automation service",
-      "excerpt": "The Fireflies.ai project is a good reminder that not every startup project goes from idea to unicorn-status in 48 minutes. Instead, the startup’s CEO Krish Ramineni told TechCrunch about how a period of interest in natural language processing (NLP),",
+      "path": "_news/2021-05-25-firefliesai-puts-14m-into-its-ai-videoconferencing-assistant.md",
+      "title": "Fireflies.ai puts $14M into its AI videoconferencing assistant",
+      "excerpt": "Fireflies.ai, an AI-powered videoconference note-taking tool, has raised $14 million in a series A funding round.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-meeting-transcription-and-automation-service/",
-      "originalUrl": "https://techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-meeting-transcription-and-automation-service/",
+      "webUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
+      "originalUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-648950244.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Copy-of-FoundersPicJ219-1.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -127,16 +178,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-meeting-transcription-and-automation-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-meeting-transcription-and-automation-service/amp/",
-      "publishedDateTime": "2021-05-24T09:14:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
+      "publishedDateTime": "2021-05-24T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1208,57 +1259,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
-      "title": "Pinterest’s Use of AI Drives Growth",
-      "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
-      "originalUrl": "https://www.wsj.com/articles/pinterest-ai-growth-11621604558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342074/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pinterest-ai-growth-11621604558",
-      "publishedDateTime": "2021-05-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

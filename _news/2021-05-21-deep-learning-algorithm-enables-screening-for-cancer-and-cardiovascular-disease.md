@@ -43,20 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography"
-    excerpt: "Low dose computed tomography (LDCT) for lung cancer screening offers an opportunity for simultaneous CVD risk estimation in at-risk patients. Here, the authors develop a deep learning model to perform this task,"
-    publishedDateTime: 2021-05-20T10:03:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-23235-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-23235-4/MediaObjects/41467_2021_23235_Fig1_HTML.png"
-        width: 685
-        height: 378
-        isCached: true
 
 secured: "06vhf+gKnm/3BXg6CxTVFy0SR+Amb6+K2sc9HXrprQML3ix0GKlwyWuAZoga1t/65s7IkuvNeqOAUBjZnM4uR2gHGfb3zR6w7Mr48Q9A11icx3g3/ojo2gBnoLugDdRBCOAriZv2Jf8zINWxKI8SMlDyq+evKmow3oCjUfodAXPd4t1lfMDr81B7C/WMUUcmfViKDIHJ0jIoe6Ngx1w/gcvkjGeLGj4fyT0jmUyfK6Ruc/tJQz2oEPQO7mT5XadqbGR80r9Cjmt5kGHMZvqnEdWduoQmUrl/Hpv4W+6orqjjYWPUzmPL/a9CGwPykm9U8SeHAAyXfsj+xVq/YwjPBMspOt5HkBDx8ZTxs1uJzlppiaSvzdI9d/lLCiK8ZBoI14/zeySMXNqDoL73QPhsSO9R9ZNNdjJQy6G7efGFcpZwGJTdlS0vDACMBKVIiUSFPT7Wijr2prMvIGXBYnXsfA8vfTu80Zz+Qrbyng8vJThrIer4h+RcH8E1MhfUgZwQehERX1+8+IYIaWVJ+ZdhHg==;O1jOnxSSd5cGx28XLuXNQg=="
 ---

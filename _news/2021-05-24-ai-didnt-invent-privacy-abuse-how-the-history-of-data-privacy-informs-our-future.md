@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-didnt-invent-privacy-abuse-how-history-dat
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-didnt-invent-privacy-abuse-how-history-data-privacy-informs-our-future?amp"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 740
     height: 450
     isCached: true
-
-related:
-  - title: "Statistical bias in context - AI didn't invent quantitative methods of bias"
-    excerpt: "An effective approach to AI Ethics must reckon with bias, algorithmic discrimination, and privacy. These terms have a historical context that should be understood - if we want to deploy AI ethically."
-    publishedDateTime: 2021-05-20T09:17:00Z
-    webUrl: "https://diginomica.com/statistical-bias-context-ai-didnt-invent-quantitative-methods-bias"
-    ampWebUrl: "https://diginomica.com/statistical-bias-context-ai-didnt-invent-quantitative-methods-bias?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/statistical-bias-context-ai-didnt-invent-quantitative-methods-bias?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "http://diginomica.com/sites/default/files/images/2016-01/e-book-verus-real-book.jpg"
-        width: 1267
-        height: 709
-        isCached: true
 
 secured: "iMweoqFJds9PQUDIvCslTlaYC/eaD9rQKnOVgPi+WjvuyBu5CwzpN9atOd4838Wx3u04Li6o/W6DrJfuZlQcFBd3Jxo05Xr0JW/RJwjhhM+Esi8xbC8PJRTs4gXeIauvP40/pkR/evYXnAEi+ZRFzOVL9xfEVjDK0FP1W+dqQGkQ4SyNeiwExeiRG5/CsT06DHksshc385S/DEYWL3nN0LlUF5tIrjzfGKTNdzXAhZ00o64ri9gdco7sfGn7jHVCxaaYtiNX5G2m/hx7abU9ewnXenShfKWnQQ61Jh5jxBmi/U3JJ0EZVxdzBMmXdngqGJ9xTIBWNAdEGUCCe8NscyK8uNtsf2WM257+YyFBWH6gfKQ651Loj/jsqA1Oz56WJkZM1fa0lpINvN8sntkKA8HCAnF+IVgqSrp88hf1Uk49rfT1wLWXv1eTPlsQt3DdQeypzmb61UC8vJFsKU5iZjHV4wb1OkpbpEufw3x3IlDT2IyEhqTTiz3BcOJX2TD4R+FjQeyw2DwkiAlNFPp0Vg==;GEudJtkA1wLesfIRRxHkgg=="
 ---

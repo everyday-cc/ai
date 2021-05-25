@@ -24,22 +24,6 @@ images:
     height: 521
     isCached: true
 
-related:
-  - title: "Phase-to-pattern inverse design paradigm for fast realization of functional metasurfaces via transfer learning"
-    excerpt: "The design and optimization of a metasurface is a computationally- and time-consuming effort. Here, the authors propose a neural network-based algorithm for functional metasurface design, and demonstrate it for some functional metasurfaces."
-    publishedDateTime: 2021-05-20T10:21:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-23087-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-23087-y/MediaObjects/41467_2021_23087_Fig1_HTML.png"
-        width: 685
-        height: 417
-        isCached: true
-
 secured: "FpPQdxwJf2/pI1nHJJoFjXBoCGEA9oKhEzRC6DEajphHHmdoJWcf7ziNe8lu1sje2ESzBv1rOIZfKUbFCt36OrAciKl4xq8o2yhPMK/hhD8rw1Hhe6RkHWp2eVlMpkty82kacYz5OzcqUV7KloLGnV2fVARcNyqJOmjh9zS2HtsxEfIuM3JHTlMf4D70x/ik0Y/EVoN7WHQ9dKidUDr7SrXq2lguIQx5YNaxL58b6sXoSi4jotR2UgA+KgisCFLur4/NQtbRnFfAsOUJZUos12AmtEiJfBQHUoLypGbUjG+Agq3Jtc/UGFW/AomRWwFgfZdC1AoTXTj0/psFPK9wXp07B5TMZIHxiSNwmjJD1Svs48eBvr/Epb7HvClzgLonAZ3iu9DXh0eCyw8b4B+6uwg5dyG0+xqwp28qf8ADb3VNf9kbE9R8Q7iIPuSpimyEfsehn3pTSsP0J9FxDR6wRMNgttj3rdr5NSqkVC0TBPqHHpEL82fhkzwOEuJSTAk2EBtCjMFlW+F0qJIWd9q64w==;PMqpscpfJDHR3BdKnhDENQ=="
 ---
 

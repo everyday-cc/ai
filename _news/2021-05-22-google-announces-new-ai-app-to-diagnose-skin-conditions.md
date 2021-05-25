@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 798
     isCached: true
-
-related:
-  - title: "Google's latest AI tool claims to identify common skin conditions"
-    excerpt: "Google previewed a new AI-powered tool that helps anyone with a smartphone get more information about skin, hair and nail conditions.."
-    publishedDateTime: 2021-05-20T10:42:00Z
-    webUrl: "https://www.engadget.com/google-ai-powered-dermatology-assist-tool-helps-identify-skin-hair-nail-conditions-190955234.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9f783b60-b80b-11eb-b7bf-80ee2bfcb5d3"
-        width: 808
-        height: 526
-        isCached: true
 
 secured: "DeyHJytZyskGoCvEYX16INrWE5WqbYqgdiiUHlrw/lgLYaCxs5ZI3k6YE8ckw8/hicFfXCoK+cCOAJGmjkNPhTGLCg7m/iCsJ5CRhwTmMUhX9mbm4X2g2AWvtUr21/cab4PEr/Whvmqi8HX5PpoHLTWFvyxFv3tNKeOSobK5ocfF0TIHoPmYrZTFSzi2uTmEQtXhOC68O686TsCAnmbFDUxWt9c7QdpXPAUycGknjNSPr+gsB8MuZgIDqHwjV7lpkCiHB85LZpdLz3BhFoo7+Ho96Qj6bbG6lfVzAXESr51jHIEMrc64bAMtXLsQ4Cw8XwmOGhoGDGf58Vd5HX5mrfA3XM9kj73LRwfZIGGQWwnWJHlfs7xqWRCYyu9XTT0OzfXwri5wIIADE05Irzojcb/q5OVGgrOwvpkjYy14383D1AuaEk0Gf7FhKB1Qmq5MeQqAjWOC+qocSZP018q3GKi5NSvSeyh3K2Vnc0VlL1gAYapJ3OsA64h88AVXWqAX8k07PaZfrFc7LQBXivgznA==;eXAbWr6EkqrQaI1MiUO3rg=="
 ---
