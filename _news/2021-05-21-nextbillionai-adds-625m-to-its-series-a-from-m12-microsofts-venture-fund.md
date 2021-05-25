@@ -57,15 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Singaporean AI mapping startup secures $6.25m from Microsoft’s venture fund"
-    excerpt: "NextBillion co-founder Ajay Bulusu said the investment will help the company scale and expand to markets such as North America."
-    publishedDateTime: 2021-05-20T14:01:00Z
-    webUrl: "https://www.techinasia.com/singaporean-ai-mapping-startup-nextbillion-secures-625m-microsofts-m12-venture-fund"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 62
 
 secured: "KmSCrZZPUQOuXL6t+SIoSstC7AAAXzQcFRO9ur7UirkNXUm6UEVutPrSol3AIfa+biLGbR/AejfqmVH1v50KaOwOxjW9WM37eqb+881peZW580qYVEE1zlCJUgMqfmX2QzVMhL8D0Injo6sT8k3v3nPRJbi3GEvhyBeXEmZtEKvmvnRqyCBMZ1w4XGoBJGS7+gYd4zygaKAOzWhrv3Vb/OlE9e+PYug99fGYluxWDMeel0kJzJgT2zv6pUjAvoLi9ZVBO1yIe5iUC4Gi+XNRR8iiRnRwoyV8coPM0MXEKonMuFpz43Q60lVhKG1chBovjO4ir3LgSC429KU7HT2VjMpNE8dMkGWftyeN5eI01UI=;EGrOAZzYnxbMJBO/s/YFnw=="
 ---

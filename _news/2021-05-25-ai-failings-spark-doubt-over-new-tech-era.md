@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T04:02:00Z
 originalUrl: "https://asia.nikkei.com/Spotlight/Century-of-Data/AI-failings-spark-doubt-over-new-tech-era"
 webUrl: "https://asia.nikkei.com/Spotlight/Century-of-Data/AI-failings-spark-doubt-over-new-tech-era"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F4%252F8%252F34348452-5-eng-GB%252FCropped-1621912809photo_SXM2021042700002741.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
@@ -24,6 +25,6 @@ images:
     height: 512
     isCached: true
 
-secured: "TtWyjqR5DD4tsU8l5cleXd/MPhC+2gyomw0/Qt+finKmxWjr3XZYYJdeKUSkXjS/0uS83lg+UtUVELLz5lY5RchNHz3xIXzIopzj/I5zdO+K8lMyl2ja5AizLmcAU4BFhHPItJzEGxGw+DD1zQzJqSpQBjXVky6uFNH5b3aYEAWbB4j8VuInlQj4VJmsqXxCwn+ZuXaePNeVQmKoDb62XywsjV04/Vtk8ZQsq5k4DQWqYhiT5tY+Rmh66/OcIh5pHawCnEKJNmpg5UBgk9ZM+Fs+/B5NfXrrVcLTtQTzyk5wBG7aBN8y2k660uVKnQZZY526amhnKzg7gf6shXCE8kumPriKt9e7HI5yrHSdzPg=;0TdtNoZ1M9DPFRa/POTYGA=="
+secured: "xT2GUNJ5WXT+CDlsuW9quPcbugbyepQnHALaK9MPceYaymYsLHqyBDTOPvypOiJz1BP3gRW7z4qfEBCdyTcroIGCmcffTIgxh0htkK1KktCX6buUW7M93u7XTLN4NmuWnCtW8l3Gg6TbzQ4OFYWtnPs0VE4wxPAZlpZnrDreOfZNy2qFMSQNagUmCCCy+78du9dcZMo/aN/WRZjQcQFyMSSHtdE32MhpRhgavuwl4d8oQLHdPVavpleHXM2/BO98H73Nve12kEzjgJ9nOuWg/MzI70fC5aFLHOq0G5m+szc50dfPnY7bhoGZjgI0BjJ8VlUX04F6X6k46lhHO3IE2Re3XxiHHJzDLQmK3sdfIXSDY0tNCeg4EjoG1JkfCRPcy1MHDG/XlzDYu2If0FQVzvFWhxp/IIw8+Urm/iNeWfGGzXAa5V2/Kl/+UrIjj2kAzja/X58iXh20zgvi2g+yslBcNqAB/R9TqfQfr7H7oiIrAtgxuS+EdA3zHpvB3kMaEjmQDobUgVMwCbZNHQNLnw==;LEL/Mb+uFwb8RHeeLwx25w=="
 ---
 

@@ -2,30 +2,30 @@
 category: news
 title: "Driverless cars hitting streets of Fremont, Milpitas, Irvine"
 excerpt: "The company, which was founded in Fremont in 2016, has been testing cars equipped with its self-driving technology suite since 2017."
-publishedDateTime: 2021-05-25T04:12:00Z
-originalUrl: "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine"
-webUrl: "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine"
-ampWebUrl: "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
+publishedDateTime: 2021-05-25T06:23:00Z
+originalUrl: "https://www.eastbaytimes.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/"
+webUrl: "https://www.eastbaytimes.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/"
+ampWebUrl: "https://www.eastbaytimes.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&#038;h=452"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2-1.jpeg?w=680&#038;h=452"
     width: 680
     height: 452
     isCached: true
 
-secured: "o5VkF+KnkLk3apLCJFPh4q+GG3vM/GjqTcbUJ3ICz2DMAETrKe7hhsmj0i+rMVrgwbcSlhr2cevHAyt5JTw6X64JNCvdaWX3WNU5FHD7cPqSL5gVw91JCFxcXz+fRLenvBSaOgXwysTm4gpJOpFcppgYuRF+71QxdjNcLcv+t/d60wHnABwbLcp75qqdjeBU5Bo1s2+giVixxXzuHD3SVAUAo27LSTJ2v0OOW0ipCQKtBphi3o9u3ZDQiAnIxGTn20pwDrWb93hVmoNeZCxfBk8T9RB81QJlf4d4JrB6PV097tmqVlaB9yDrVlJPXQfdRYve/dWYMPgqec+aGj0EmuS4md2DEkevFiGzMioALeg=;56H26UBvJZZpCQvbuzrLtQ=="
+secured: "EnrvjDWw0t52Bnz3rgL002735jUjqEwrekVhl0ybLmdSdDbEoCU6WPmYNhjTJaHb2LjWmlpuTYBigbT+glI+L7ot5sEiDvcCNnWpMArxI03D1HmXui5vXthHc0i++SnwhhPGNAr9qYjvcCNfjzkcK82M7gr0zcXZEpjsW3hmZAiGlqLvt1GeYsu4hOLVRi2UU9Xp0YddnsRCE8fuCwy2rQ2doZ3V5vsU4WnAxNHfJoYRFwdGLKbW1Tynmo4UqPcxi+bgVs0p6tJmef25NFSlHLjRXBh2qCJ1Ycz/sibX5QC2g48bCu4kkvMFRAMt0QfwUpmSCOAaMBwi9d0ku2kwdf/PJevLizBoT25S7/F/a1c=;A0IXjXRbt+pJHkSgkSF+/Q=="
 ---
 

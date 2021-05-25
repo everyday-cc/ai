@@ -343,21 +343,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
-      "title": "Speech recognition comes to prompting",
-      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
+      "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
+      "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
-      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
-          "width": 2560,
-          "height": 1536,
+          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
+          "width": 400,
+          "height": 286,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -365,14 +365,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
-      "publishedDateTime": "2021-05-21T04:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T05:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -381,8 +390,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1008,6 +1018,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-18-sogou-launched-worlds-first-ai-sign-language-news-anchor.md",
+      "title": "Sogou Launched World's First AI Sign Language News Anchor",
+      "excerpt": "PRNewswire/ -- (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launched-worlds-first-ai-sign-language-news-anchor/article_930a7a1c-bf7e-57d4-b8d0-ef539c803a1d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launched-worlds-first-ai-sign-language-news-anchor/article_930a7a1c-bf7e-57d4-b8d0-ef539c803a1d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/fa/9fad2d92-e059-5f5b-9426-8a101096bed6/60a34d763b73c.image.jpg?resize=983%2C549",
+          "width": 983,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about.md",
       "title": "GPT-3’s free alternative GPT-Neo is something to be excited about",
       "excerpt": "GPT-Neo performs on par with GPT-3 on several key benchmarks, but unlike GPT-3, it's open to anyone who wants to use it.",
@@ -1307,10 +1360,10 @@
     {
       "path": "_news/2021-05-13-soniox-debuts-speech-ai-recognition-platform.md",
       "title": "Soniox Debuts Speech AI Recognition Platform",
-      "excerpt": "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world’s first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns.",
+      "excerpt": "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/",
-      "originalUrl": "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1323,8 +1376,8 @@
       "publishedDateTime": "2021-05-13T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1441,59 +1494,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-how-could-conversational-ai-shape-our-language-particularly-in-business.md",
-      "title": "How Could Conversational AI Shape Our Language, Particularly In Business",
-      "excerpt": "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/",
-      "publishedDateTime": "2021-05-12T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

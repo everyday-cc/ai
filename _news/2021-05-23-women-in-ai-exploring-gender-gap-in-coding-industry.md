@@ -23,6 +23,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "How is the Adoption of AI Helping the Gaming Industry?"
+    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
+    publishedDateTime: 2021-05-25T07:30:00Z
+    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
+        width: 487
+        height: 469
+        isCached: true
+
 secured: "6zdfrSILgEntml+JurHWe8i5peW11NMELOa77hYYw6M/fDYMDlaUT/2R3bJU+cayv1LyG8H9vqYGbHOmU5L2eYsG1iWaO2qe/Larf9hWC4w1hvmQm3LlkiRHY1vI/A4Q0+o/tX8EgZHldNF8eASyEBCOjtLMLjkOUXtsnINmOoxQid4ao0GP4u42cvTNq3zAchqCbGFKneR/WyFRVI/pnlFDR2J/WpajvfLfINfFS85nuj+JcGcxsgAC96LtBqqn29RM8/4Wt7Vnada6FUtts/O8EB1QcqoVWUH2Y6gB25dZupKSjkpfkv3QlFdKKFhg6PlXz/bMLBb4j4GXbBrWo5KuT4K7JqO1ptSRo0Ri4VI=;YY4JHqbd3qiiJUa5ypkT1g=="
 ---
 

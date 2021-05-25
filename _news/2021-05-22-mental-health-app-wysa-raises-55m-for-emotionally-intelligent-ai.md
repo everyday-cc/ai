@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
-  - title: "AI-powered mental health platform Wysa raises $5.5M"
-    excerpt: "These people are who Jo Aggarwal, co-founder and CEO of AI-powered mental health startup Wysa, whicg announced a $5.5 million Series A financing round on Thursday, calls \"the missing middle of mental health."
-    publishedDateTime: 2021-05-20T14:00:00Z
-    webUrl: "https://vator.tv/news/2021-05-20-ai-powered-mental-health-platform-wysa-raises-55m"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 37
-    images:
-      - url: "https://vni.s3.amazonaws.com/210518103308706.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI-powered chatbot Wysa brings in $5.5M to focus on employee mental health"
     excerpt: "Wysa, an artificial intelligence-enabled chatbot, focuses on the “missing middle\" of mental health, between meditation and medication. The startup has raised $5.5 million in Series A funding backed by Google Assistant Investments."
     publishedDateTime: 2021-05-20T15:04:00Z

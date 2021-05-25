@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/starting-a-career-in-fintech-an-introduction
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/starting-a-career-in-fintech-an-introduction/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Diverse Group of Immigrants Fund Fair Fintech, a Startup to Provide Equitable Banking and Finance"
-    excerpt: "Fair, an ethical digital bank and multilingual financial services platform, offering banking, lending, investments and retirement announces 90% of its investors are people of color, 80% are immigrants and many are first-time investors in"
-    publishedDateTime: 2021-05-20T13:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-19817096.html"
+  - title: "Machine learning-based microstructure prediction during laser sintering of alumina"
+    excerpt: "Predicting material’s microstructure under new processing conditions is essential in advanced manufacturing and materials science. This is because the material’s microstructure hugely influences the material’s properties."
+    publishedDateTime: 2021-05-21T09:36:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-89816-x"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 56
+      name: Nature
+      domain: nature.com
+    quality: 33
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-89816-x/MediaObjects/41598_2021_89816_Fig1_HTML.png"
+        width: 641
+        height: 685
         isCached: true
 
 secured: "fFbbM6/gbMAg8bQQmBipPzf8m+P1zvfIQp8nNuUi3NjSvZlh2LaDlgEOJg7kE/mrCgbA13TJoSnIityx7SCERD/zqX7M0Na7A+u76n80lOvBjyLwn3Jd5/ONZMVO/vfDx0RHSo5e3FdPbtdENxGkbbho6fseGrrFfmplTqCdBD0V4YD4vrRWhUTuVNNT+uvwIiU0zAMy48ermh7svKMoRCo1K33vcM/cd+PWamZ8lnWuWTwOpaSKxc9NXlii6tbBvanv6iWI8HIa1/B1ie2m5K6oZxJlhNNVA0v/bDk7oajB8qJmcGbTMdHYyzAHbY+ej/U3gfokS6m+MnG8Pg9XCQA51IrDWQ9BprrJabSflBWTJD5MeLsDXOp/KNTPnBI/pGcEzHRkDwwV9NrM+OX9O1CpwSaY/0Ti2m2zw4Q+Q/VW/Gt7okik0dDIWQz7S5NwPQ7GMbnnUpOQJv7LdTJjPmd2RVIhpCh+XjmWKyJl0eEr/Lp53fp/D3I22Ih74B3ja45EV6OwMLnAVJnJte0YnQ==;S/SVVzAa8L/ZP1i6D1Zn1Q=="

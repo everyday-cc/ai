@@ -57,6 +57,15 @@ related:
         width: 690
         height: 480
         isCached: true
+  - title: "Qualcomm unveils Snapdragon 7c Gen 2 chip for budget laptops"
+    excerpt: "Qualcomm announced the upcoming launch of the Snapdragon 7c Gen 2 compute platform, the second generation of the company's entry-level platform for entry-level Windows PCs and Chromebooks. The chip is designed to upgrade the budget device experience with enhanced camera and audio capabilities,"
+    publishedDateTime: 2021-05-25T06:57:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-unveils-snapdragon-7c-gen-2-chip-for-budget-laptops--1384218"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "sGrWP/pAegKDLLsWHpVMO3d7YHCJ8KxXZ00GTNTc1SPZn9R0t57PCYlOheqoWtVT9dVEzfPw89N81jjexgjAOdZRvhI8Ttmk+MM+OoBz8lci8w4cgZNbgKj4/vbFAFmiAyFkVtibiTDugU6P/uTTAsm0fuAsT5Bq6mWm8fBtPb22tGiG3bbeSXUAxzljVrT6xPJa1bImE95Az5OsGk7AUiVYjVTLo1fNZ6xlTW+lDPPLVoL6ifGbHC+qiF1RpZu2xf16uGBbslS1i70nqs5I4fXt/n2V2iYh7Dx+DUtPnsJpELoMswamoZsyQMD/rEQdltEuy0NcEY5RIWozlrEIyrGL2eGI78YdC6R9YRaDFU09Qo73glwku/zwRrXJHyApOV8Jpr/8oyBIA+aRRxLvHhxrDMSbO0CsjkRmMdlq7CjZKmtcM5oe9RF2BiEXG6i9zVPZng6OYTlOYOcZ7VwVOMTKdyUXjpxygBaUDy8/yA5DMJEtsjeLlP6qioboaGn8UbmScBk+Tx+qh2izOCfeAg==;TwGp6m1pbzeyb6v9MZAhkA=="
 ---

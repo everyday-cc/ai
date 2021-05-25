@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Americans leery of sharing the road with self-driving vehicles"
+    excerpt: "Some autonomous vehicles are subtle. There's no easy way for passersby to detect whether they're sharing the road with a self-driving car. With other AVs, the spinning lidar sensor on the rooftop leaves no doubt."
+    publishedDateTime: 2021-05-20T17:21:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/americans-leery-sharing-road-self-driving-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/hummer-need-to-know.jpg"
+        width: 792
+        height: 488
+        isCached: true
   - title: "Some Self-Driving Truck Developers Make Case for Supervised Autonomy"
     excerpt: "While most developers of Level 4 autonomous truck technology are targeting driverless operation, some see near-term business cases for highly automated, self-driving trucks with a driver still in the vehicle."
     publishedDateTime: 2021-05-21T15:30:00Z

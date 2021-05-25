@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-lau
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google Cloud Mainstreams AI With Vertex Platform"
-    excerpt: "For the past several years, tech giants have been trying to make artificial intelligence in its many guises HPC, data analytics, and other advanced"
-    publishedDateTime: 2021-05-20T14:10:00Z
-    webUrl: "https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/"
-    ampWebUrl: "https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 63
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/Google-CEO.png"
-        width: 1162
-        height: 800
-        isCached: true
 
 secured: "3BSzKXgeM7Oa4HTFf2WT9fOEZZkksj3mrMJTruQOINX/CFOAQeI8DeduZln+3yUTD5dW0miZJb14Rlm/gLEFgr2rAXxYZMGemD11SZ/x7AR4g6VCsHb4ttT9rPWq1f3ZrRNERBFH0D9ICM+j574MCmZB/Kz6Cna/n0cuBu/Ocn9xJJswXxdWG9NTYZQLo6/fxioGVSkAhHBfTGx5PkwrUDGTY31Lebb7VUATlwLAXUuYRTLA/PGFncaMK30AYE8Ch00+CNwLYhPHfPHWxCFWRyRKkrqCGJETeR/IX5wegwlo25ww99PW+19Kb0GjxKt34k+hVKw0je1ElsqTG24i9CfJqlnf10DDALSpBFyQI7RerToR7Hf8Go9QynTNM/JJRP5xBhOywXqZewwVYkpsvaON3Z5o5yqVJBWgldWNZQWrGbJndB6Ok8qQU0X1UrkrD1KJCblB9c9Nqox6pBpY4ns/T3D19NEyRkdJJmH4unC9jdeJTEQFMCoyQXrXeNQVUE05YDyjwCImvWF/8hMFZg==;KetgYwSJI6qXoWQ5kSBseQ=="
 ---

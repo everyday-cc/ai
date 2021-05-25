@@ -1,20 +1,20 @@
 ---
 category: news
 title: "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide can now gain access to CoreStack Cloud Compliance and Governance to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies CoreStack,"
+excerpt: "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-05-17T15:08:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace"
+originalUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "pQkFlUa2zoCL1CbLLSPAaeyXhxNn+Yt153shqGkNYwglVVd/fXfe93BYN1U/saa9KH3aHEOcWusqwd6L2o7HJ1OKddi6DTf+ox72p+juLXXETLJWKDjhD1dVOaBxH7IdSf4yFTMysSt6I6UbfEhyb1Lda5X2XoySBqRGFybs3WQSUpk+HpvNKal2CBForqjVXQ8j+8oIB/QjrXag7I9YE8ai/8vvIBMIFUcPpp/RwHi0liChEKFUWb52LHE7ELdeOUUc0HU3HsThfTqOjoBDIiiXJIRrwH8L6IfxkQLF7hQ1+fORiGA3Ghx5jyeUz3A9sKpJSpmiHTDd/oSItmFBzw7ODcUMAY9G1Lt0DzqMeiU=;yRHbBhctXl8guAUs671DCA=="
+secured: "3F+5sUoTjb0wrP0WRZSQlDBmoziIjLHaiSpMaeGbLk3HeR2zeVAg20dRROc7LboqgApoJYn9plq05AVFfGMICrGyZ6Depon2K+UvwGBCDaMj/poZbK6lKFRVQuoeBHw2s2SdQDtEJnL1pMTTHrbTGSvD+fQb7KU54t6p5CwalN/yU2mYYFSHl0gEzmEezd0f2/HBv7DjAisJwHFfwxwNXXcUzi5bmQOoLvJP9sUnAp9iCC2WYeGifqHI+3qhcsUkpY8utV5jXv3HqkwikrNIXJ6Pun0drPtB9j7NM5XrrR5IGaVRfVo+pTe/Od2v9YZXIcl1JLt9vREkGbtzaxxb7oaWNjojovGj9XVV4VCzQu0=;AGehBp0BIcWbYm/A6uTuLg=="
 ---
 

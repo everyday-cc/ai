@@ -37,20 +37,6 @@ related:
         isCached: true
   - title: "Adapdix announces EdgeOps DataMesh™, first product of next-generation adaptive AI software platform EdgeOps™"
     excerpt: "Adapdix, the industry leader in adaptive enterprise software, today announced EdgeOps DataMesh™, the first software-only product based upon"
-    publishedDateTime: 2021-05-20T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/adapdix-announces-edgeops-datamesh-first-product-of-next-generation-adaptive-ai-software-platform-edgeops-301296155.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1359461/ADAPDIX__Logo.jpg?p=facebook"
-        width: 936
-        height: 490
-        isCached: true
-  - title: "Adapdix announces EdgeOps DataMesh™, first product of next-generation adaptive AI software platform EdgeOps™"
-    excerpt: "Adapdix, the industry leader in adaptive enterprise software, today announced EdgeOps DataMesh™, the first software-only product based upon"
     publishedDateTime: 2021-05-21T00:30:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/adapdix-announces-edgeops-datamesh-tm-first-product-of-next-generation-adaptive-ai-software-platform-edgeops-tm--893223547.html"
     type: article

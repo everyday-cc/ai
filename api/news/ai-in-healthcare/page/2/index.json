@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-07-global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health.md",
+      "title": "Global Healthcare AI Market 2021 Growth Factors – Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health",
+      "excerpt": "The recently uploaded report titled Global Healthcare AI Market 2021 by Company, Regions, Type and Application, Forecast to 2026 by MarketQuest.biz offers a comprehensive picture of the market from the global viewpoint as well as a descriptive analysis with detailed segmentation,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health/",
+      "originalUrl": "https://manometcurrent.com/global-healthcare-ai-market-2021-growth-factors-apple-ge-healthcare-google-deepmind-health-ibm-watson-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da1d21acd594c000620eaae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6235%26cropY1%3D12%26cropY2%3D3518",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-expressable-raises-45m-from-lerer-hippeau-and-nextview-to-transform-speech-therapy-care.md",
+      "title": "Expressable Raises $4.5M from Lerer Hippeau and NextView to Transform Speech Therapy Care",
+      "excerpt": "Expressable, a leading speech therapy solution that combines 1-on-1 teletherapy with its proprietary education platform, is pleased to announce the close of its seed round totaling $4,500,000. The funding was co-led by Lerer Hippeau and",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19791441.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19791441.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-ai-is-ready-to-take-on-a-massive-healthcare-challenge.md",
       "title": "AI is ready to take on a massive healthcare challenge",
       "excerpt": "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible.",
@@ -1263,102 +1351,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-how-ai-trends-could-transform-the-healthcare-industry.md",
-      "title": "How AI Trends Could Transform The Healthcare Industry",
-      "excerpt": "Beyond its applicability in our current public health crisis, AI has several longer-lead implications for how we'll experience healthcare moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60832c1b062aef4c0ac65530%2F0x0.jpg",
-          "width": 1183,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
-      "publishedDateTime": "2021-04-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-ai-caught-a-hidden-problem-in-one-patients-heart-can-it-work-for-others.md",
-      "title": "AI caught a hidden problem in one patient’s heart. Can it work for others?",
-      "excerpt": "Casey covers the use of artificial intelligence in medicine and its underlying ... to democratize medicine with data 5 virtual physical therapy startups to watch 5 virtual physical therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/04/26/artificial-intelligence-afib-mayo-clinic/",
-      "originalUrl": "https://www.statnews.com/2021/04/26/artificial-intelligence-afib-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2021/04/042321-PETER-MAERCKLEIN-08812-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

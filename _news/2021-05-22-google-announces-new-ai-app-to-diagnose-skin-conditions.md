@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "Google I/O Reveals the Brand New AI Innovations"
+    excerpt: "Google in its recent Google I/O meet revealed several new products and AI innovations. It includes the launch of their Quantum AI Campus which will produce the first-ever error-corrected quantum computer."
+    publishedDateTime: 2021-05-25T05:49:00Z
+    webUrl: "https://www.analyticsinsight.net/google-i-o-reveals-the-brand-new-ai-innovations/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "DeyHJytZyskGoCvEYX16INrWE5WqbYqgdiiUHlrw/lgLYaCxs5ZI3k6YE8ckw8/hicFfXCoK+cCOAJGmjkNPhTGLCg7m/iCsJ5CRhwTmMUhX9mbm4X2g2AWvtUr21/cab4PEr/Whvmqi8HX5PpoHLTWFvyxFv3tNKeOSobK5ocfF0TIHoPmYrZTFSzi2uTmEQtXhOC68O686TsCAnmbFDUxWt9c7QdpXPAUycGknjNSPr+gsB8MuZgIDqHwjV7lpkCiHB85LZpdLz3BhFoo7+Ho96Qj6bbG6lfVzAXESr51jHIEMrc64bAMtXLsQ4Cw8XwmOGhoGDGf58Vd5HX5mrfA3XM9kj73LRwfZIGGQWwnWJHlfs7xqWRCYyu9XTT0OzfXwri5wIIADE05Irzojcb/q5OVGgrOwvpkjYy14383D1AuaEk0Gf7FhKB1Qmq5MeQqAjWOC+qocSZP018q3GKi5NSvSeyh3K2Vnc0VlL1gAYapJ3OsA64h88AVXWqAX8k07PaZfrFc7LQBXivgznA==;eXAbWr6EkqrQaI1MiUO3rg=="
 ---

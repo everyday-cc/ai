@@ -46,15 +46,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Singaporean AI mapping startup secures $6.25m from Microsoft’s venture fund"
-    excerpt: "NextBillion co-founder Ajay Bulusu said the investment will help the company scale and expand to markets such as North America."
-    publishedDateTime: 2021-05-20T14:01:00Z
-    webUrl: "https://www.techinasia.com/singaporean-ai-mapping-startup-nextbillion-secures-625m-microsofts-m12-venture-fund"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 62
   - title: "NextBillion.ai Adds $6.25M to its Series A from M12, Microsoft’s Venture Fund"
     excerpt: "Microsoft's M12 investment extends last year’s $7 million Series A funding round from Lightspeed and Falcon Edge Capital to a total $13.25M in investment."
     publishedDateTime: 2021-05-21T14:19:00Z
