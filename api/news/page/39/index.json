@@ -2,6 +2,50 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-04-22-ai-chatbot-maker-juji-jumps-into-higher-education.md",
+      "title": "AI chatbot maker Juji jumps into higher education",
+      "excerpt": "Juji co-founder Michelle Zhou said her company’s chatbots are more flexible and their models come pre-trained for higher education customers.",
+      "sourceUrl": null,
+      "webUrl": "https://edscoop.com/ai-chatbot-juji-higher-education/",
+      "originalUrl": "https://edscoop.com/ai-chatbot-juji-higher-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-media-es/2021/04/21190612/GettyImages-1146444386-1.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edscoop.com/ai-chatbot-juji-higher-education/?amp",
+      "cdnAmpWebUrl": "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/ai-chatbot-juji-higher-education/?amp",
+      "publishedDateTime": "2021-04-21T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edscoop.com",
+        "domain": "edscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-5-ai-tools-that-can-think-and-write-like-humans.md",
       "title": "5 AI tools that can think and write like humans",
       "excerpt": "These five tools can actually think and write just like humans! (Or at least they can passably get you started.) It would have been hard to miss the buzz around AI-powered text generation, and in spheres like content marketing a host of tools are now broadly used for day-to-day tasks.",
@@ -1104,58 +1148,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-google-turmoil-exposes-cracks-long-in-making-for-top-ai-watchdog.md",
-      "title": "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog",
-      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Pose Crucial Question: Who to Blame in a Crash"
-    excerpt: "A debate over who to blame -- or sue -- when a self-driven car hits someone is holding up legislation the industry says it needs to advance. “If another driver hits you, it’s clear who the driver is,” Sarah Rooney,"
-    publishedDateTime: 2021-05-20T07:00:00Z
-    webUrl: "https://www.bloombergquint.com/business/self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "When a self-driving car doesn't know what to do"
     excerpt: "The incident raised concerns about Waymo's self-driving technology, called Waymo Driver, and the humans who are supposed to oversee its operation. From the rear seat, Johnson caught the whole thing on video,"
     publishedDateTime: 2021-05-24T04:00:00Z

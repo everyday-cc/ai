@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/demand-science-acq
 webUrl: "https://markets.businessinsider.com/news/stocks/demand-science-acquires-trustedout-adding-ai-powered-b2b-content-and-data-intelligence-to-its-global-revenue-intelligence-platform-1030451901"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "AI and data science specialists are in big demand"
+    excerpt: "Up to 10,000 jobs in AI and data science open each month, and the trend is only growing - but candidates often lack the right skills."
+    publishedDateTime: 2021-05-24T11:00:00Z
+    webUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in-big-demand/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/05/21/1db8e864-c81a-4469-bc51-e26e0da17610/thumbnail/770x578/e92ae5e29d9fb07f756017f9f9d2bf40/ai-and-data-science-specialists-are-in-b-60a77b167503d44654241f02-1-may-21-2021-10-24-57-poster.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform"
     excerpt: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform By CIOReview - Climate & Capital’s groundbreaking climate journalism will be combined with Science4Data’s proprietary"
     publishedDateTime: 2021-05-24T11:34:00Z

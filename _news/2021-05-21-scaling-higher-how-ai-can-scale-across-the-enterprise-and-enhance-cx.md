@@ -60,20 +60,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Football’s Moneyball: How AI Can Be Used to Enhance Strategies"
-    excerpt: "DeepMind’s research uses AI to combine computer vision, statistical learning and game theory with helping teams spot patterns in data."
-    publishedDateTime: 2021-05-20T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/footballs-moneyball-how-ai-can-be-used-to-enhance-strategies/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/AI-FOOTBALL.png"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "Crayon opens AI Center of Excellence"
     excerpt: "Crayon officially opens its AI Center of Excellence in Singapore to offer additional Data and AI services to customers"
     publishedDateTime: 2021-05-24T09:31:00Z

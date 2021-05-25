@@ -70,20 +70,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Football’s Moneyball: How AI Can Be Used to Enhance Strategies"
-    excerpt: "DeepMind’s research uses AI to combine computer vision, statistical learning and game theory with helping teams spot patterns in data."
-    publishedDateTime: 2021-05-20T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/footballs-moneyball-how-ai-can-be-used-to-enhance-strategies/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/AI-FOOTBALL.png"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "+esYV1wZV8vrLRhsPjfjtBSTXEQuO+qhXv7Nqp+UoeltiPZLt/ohWwqR1Z8r0wYG/uBxlH/rgBBohuJr0Ci9oiHr2hMrxo9n7DMN/Zbc7U9WzqtI1TJZMEB1OPV8WWpxHZD4LvtMrAl48Bv2Ih3tWKUjrGZHip1QrugoDOdCUTbWVU2FIf4q58gjpwcAavmL6LdupwxUbOziDDhwB56qDa83yoMLL4wGzkn1vCQBb+DD3LBM+ngd9Aab1MEcqbuskvehUVQRTf3XavRBhMvwzBGry8E2stzpI34LVzsMkZVTtmHiH074d8TUuyCKWEy1LQcHoblMZINo3yLKFDIWsog6JqVQvROGPRsYmPJntUU=;xafaWA5o5kde9PxjlZAMQg=="
 ---

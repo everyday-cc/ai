@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-me
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/fireflies-ai-raises-14m-for-its-meeting-transcription-and-automation-service/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

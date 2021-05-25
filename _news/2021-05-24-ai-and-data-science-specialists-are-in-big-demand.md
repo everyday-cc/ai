@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in
 webUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in-big-demand/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -28,21 +28,28 @@ images:
     isCached: true
 
 related:
-  - title: "AI and data science jobs are hot. Here's what employers want"
-    excerpt: "Up to 10,000 jobs in AI and data science open each month, and the trend is only growing - but candidates often lack the right skills."
-    publishedDateTime: 2021-05-20T06:30:00Z
-    webUrl: "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/"
+  - title: "Demand Science Acquires TrustedOut, Adding AI-Powered, B2B Content and Data Intelligence to Its Global Revenue Intelligence Platform"
+    excerpt: "Demand Science, providing a Global Revenue Intelligence Platform with a data-centric, innovative B2B product and solution set that delivers growth for over a thousand of the world's largest software,"
+    publishedDateTime: 2021-05-20T15:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/demand-science-acquires-trustedout-adding-ai-powered-b2b-content-and-data-intelligence-to-its-global-revenue-intelligence-platform-1030451901"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
+  - title: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform"
+    excerpt: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform By CIOReview - Climate & Capital’s groundbreaking climate journalism will be combined with Science4Data’s proprietary"
+    publishedDateTime: 2021-05-24T11:34:00Z
+    webUrl: "https://www.cioreview.com/news/climate--capital-and-science4data-partner-to-launch-climate-media-signal-an-aidriven-market-media-intelligence-platform-nid-33666-cid-6.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 13
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/20/1542e485-4a71-4a41-adb6-6608a5b1f96a/gettyimages-1206260104.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.cioreview.com/news_new/sliderimage/c0v5o.mediamag.jpg"
+        width: 300
+        height: 350
         isCached: true
 
 secured: "CAZ6NoPKDjH7ZX+Ypwn+ftqoOpLOcdjS56jFVxD16YnuMonFjUcbrLuuKYitGtj55fdb1IKBrR25ZcU83rfRdOEqWdxzg27tEiHcS60WqagdYrcnkSfHP4L3Vsdlv9NfCExXcHxKF7N/IZlrbG3L43sczqLWIboNAsLLPwlVB1TPjRUc7pSOZQIamj0GOUu2yC7QylvSIDCxLlIKEdumJ91jyRwptsmiDyZMghT9szA4VNMdT28vAZZMZQQM2XSPIOi9+YMa+U2o/mnsPb4OvPWHjnC2Jv1MQ4B2IRdwoDa1p5Z/52fnVaSPInSnQWlvlgv2PA9NgPElkj59+adJnYK5QiNZBwYKjFDKjSelRm8ppfY+/ZRV2JMcparhgMvIeAXtURBqA2Y3a6R9GLLvPuRXwJKsWuxtNb9yU4pAlk3T8t1Yx6cAAYzbCMuIbj3hVxZoD7BNOWAYlNwCkHv0C5124fqvDUz7CDz2sZTeDrscfgwTX5GscJNxwZDGdf/4Ilc0skAUj/gOVACMlekUGw==;0yxCDNInLWggL5VfOqCCNQ=="

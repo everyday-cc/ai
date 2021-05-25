@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
-    publishedDateTime: 2021-05-20T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eB+02FgGxYvh4oowzBn/+fF5W1E9JEqrQIlvNnfDUxTr+rgWok5NtMa/yOyKtPwS4ROn/RrgitJ3Zrn+TKeTiEZvBfSYD6cArmyFYl1wEhidfEDtfhvn6uW3v80iHmtN62G3HhuIvJGaK1lLuF7T9luFrY5M6gCx942jSQM1utwbjKw5gk5S7F1ftaq/LcyRguKeH0dFv7NRg7p0PQZ/sUA0P6rjzEFBckZs3TuP5PAKtUwBUGH+VXrAACahzu5ThaYt/cBTQo3ahZEyrYNsizt2EcVVSzSH9qAjqwPt0scRg2kT2TX2FKR+qtMdXCPtVZWRLZWj5KxlSOl21rmN92o3JRy+m9Xxg/ezWUbgRQI=;Y6JslEnQqSrCLI56HUDTqw=="
 ---

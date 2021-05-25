@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Healthcare Market Size 2021 On-Going Trends, Industry Impact and Forecast till 2025 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in the Healthcare Market, which has"
-    publishedDateTime: 2021-05-20T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-size-2021-on-going-trends-industry-impact-and-forecast-till-2025-says-kenneth-research-2021-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Kiwis using AI to fight Covid"
     excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
     publishedDateTime: 2021-05-23T12:00:00Z

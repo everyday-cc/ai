@@ -70,7 +70,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
         width: 768

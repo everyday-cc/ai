@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/4
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "How Telstra turned its AI chatbot into an HR tool"
+    excerpt: "As at most companies, the COVID-19 pandemic sent Telstra scrambling to keep remote staff supported – but for digital experience principal Melissa Dorey, that disruption proved to be the perfect time to introduce artificial intelligence (AI) to a human resources function that had become more critical for staff than ever before."
+    publishedDateTime: 2021-05-24T23:55:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/how-telstra-turned-its-ai-chatbot-into-an-hr-tool.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/telstra%20chatbot.jpg"
+        width: 821
+        height: 462
+        isCached: true
 
 secured: "dS2KeboPzrrh7/lyzLFjwnF1us/B1et1LrxEuS4JagTNh78jjuoSm6cwCeyKP3VK+j3suYMMuQ1Ym9a/qzP3K3lCEN2+cTy9dL3rli3pvpP9oZ8Z9CwAK3XvR4iCEXwnTDorji4nM4YbBpvP2au1OjiEy6DIV+GEBSSOgiBzU2OpfsMKSnYSWLBsYB3oRovpLAsFMdCJZsRGQ2K71j2A5lLMlAAcLCnxMQSsxg+8/tIv1bM25D1HdBNMrtwjOojldAXoJjkM/l0T6g9LQuN4iRXIdHnNPrDvYMDUSy3Cg1w8R3gK5lkS9HqG61INCSvf6ty9HSr7shzKidNUz6qyJvC/ZQ44zt89skvNt8Ojfec=;o6jlapX4j4OTeHOHo5ktYw=="
 ---

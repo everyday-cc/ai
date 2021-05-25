@@ -727,6 +727,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-can-federated-learning-save-the-world.md",
+      "title": "Can federated learning save the world?",
+      "excerpt": "Working with collaborators at the University of Oxford, University College London, and Avignon Université, they explored the environmental impact of a different form of training – called federated learning – and discovered that it had a significantly greener impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridgenetwork.co.uk/news/616339",
+      "originalUrl": "https://www.cambridgenetwork.co.uk/news/616339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridgenetwork.co.uk/sites/default/files/42271822770927eb47fe0o.jpg",
+          "width": 700,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge Network",
+        "domain": "cambridgenetwork.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-improve-the-streaming-transcription-experience-with-amazon-transcribe-partial-results-stabilization.md",
       "title": "Improve the streaming transcription experience with Amazon Transcribe partial results stabilization",
       "excerpt": "Whether you’re watching a live broadcast of your favorite soccer team, having a video chat with a vendor, or calling your bank about a loan payment, streaming speech content is everywhere. You can apply a streaming transcription service to generate subtitles for content understanding and accessibility,",
@@ -1101,59 +1144,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ibm-project-codenet-to-teach-ai-how-to-code.md",
-      "title": "IBM Project CodeNet to teach AI how to code",
-      "excerpt": "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png",
-          "width": 1654,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

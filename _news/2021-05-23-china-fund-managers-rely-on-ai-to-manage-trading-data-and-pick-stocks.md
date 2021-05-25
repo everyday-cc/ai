@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:
