@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques"
-excerpt: "Numenta, Inc. announced it has achieved greater than 100x performance improvements on inference tasks in deep learning networks without any loss in accuracy. In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration."
-publishedDateTime: 2021-05-20T10:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210520005369/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques"
-webUrl: "https://www.morningstar.com/news/business-wire/20210520005369/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques"
+excerpt: "In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration."
+publishedDateTime: 2021-05-20T15:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-numenta-demonstrates-100x-performance-acceleration-deep-learning-networks-/2021/05/20/9374586.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-numenta-demonstrates-100x-performance-acceleration-deep-learning-networks-/2021/05/20/9374586.htm"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "vmIQFcDRgKG79T4Y9TsLublPXKfr658RrkGS8ESR2eUait3WsBMod8VrCOfF3pGQX1LwV2rOFpOESv4b3LrQ3C4wJqqmarjvpnnPTtEz0FYm0kBXirkI8LMIcSxlQduxV0jwh0ZxtVTziwlJcxooR6CtyqsH7EGqN5R+j7YwEZXAj2ebrA0cD2XVQ4AAuy/BiiimzsYtU8PNoZjI8pfbFffxe9N0ctxZmqv9DHCW1Ah1wpzV9bDWHgZL7RGtuFVX3Mup0r7eAASwaJ2GlMihplaJlUAcBSUmoHxdohlrdLROAF2MzmSB5efFSWH5SdQzHfMr+2Y/KZeSR0pf/vbfw1o/0yx5w6AvSZVMS7u+PTM=;4ajgqgiH+5SRF8W0QI1bog=="
+secured: "tbypH0yFrnaNPWTzIANxFUf8ouU/jgY9Gb4h9V17LhfO5ol03FOUTAqB7HulgvP3uqQKIKfC6qNOxh1JheW7Xq2sYaPcWgQiAEDHBqfeQ86x9Mc6NOsfqUFrh0Tq69tdnh3E4LZSbIeoM9mguInLoCWx+Vyd9mbzSriappn9HMcpgA4ReOwWv2tLwn+VXLbQXr0X6Ai2Wdz9cWXakXzSccYOW1Apwd5dmOSmAsbR3yqwBhziWegZT5WfJ0u8FlUnOtX8WcSbqktpSkWq7L1aYE3uUIpjkK21zCjHJnc0UkgtRpOutrV6t2G1HEngaMKjjdHX8KMVgU4bN0XjtvzGqkqmE9GC1QmYzIBV0wPIEqw=;5aRXEvVZqtX2HWELvbZgaQ=="
 ---
 

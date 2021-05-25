@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 649
     isCached: true
+
+related:
+  - title: "All-in Global debuts new AI translation solution"
+    excerpt: "All-in Global has released a new AI-powered translation solution, allowing companies to ‘meet large content volumes while maintaining accurate translation’."
+    publishedDateTime: 2021-05-25T08:15:00Z
+    webUrl: "https://www.sbcnews.co.uk/technology/2021/05/25/all-in-global-debuts-new-ai-translation-solution/"
+    ampWebUrl: "https://www.sbcnews.co.uk/technology/2021/05/25/all-in-global-debuts-new-ai-translation-solution/amp/"
+    cdnAmpWebUrl: "https://www-sbcnews-co-uk.cdn.ampproject.org/c/s/www.sbcnews.co.uk/technology/2021/05/25/all-in-global-debuts-new-ai-translation-solution/amp/"
+    type: article
+    provider:
+      name: sbcnews.co.uk
+      domain: sbcnews.co.uk
+    quality: 59
+    images:
+      - url: "https://oddslifenetstorage.blob.core.windows.net/sbcnews/2021/05/shutterstock_1164143653.jpg"
+        width: 660
+        height: 330
+        isCached: true
 
 secured: "9lKHb2dZX1K0q5H4vB5gvSsfwH1lOxtbvt8mwWjQPn+wRoavOq1gqyZlZGosE2kQxQnlqtpTPWQ3uqfcou3UqV6V350YPUKzTiobE6uIrUhzvuRpu8eA8lbnzo+HtjnBXKiKNcESO0QP8ftmbckxzIMIduZ77+TIJErVo+JmbJTqF77o6ARJGJcVBkSgn7W9QaXHMqBUApeT2JhBdeBPf7N7KNf7uZXyik4XRdDI8E5T/S44Tq/m1bJdhyATVUEhofNIMGcaWUGZ/DXR0YgweJCwWg4v4y/POTxteQMsLQjddowBfuOs9MkQSlhs0O/jFNPS3px9cV2HkuKCWlIUFM2GRPRROkEUCYP+4jQo3Hf7a/vJ3xOFDGJiVE41MEZ+0pzKBYv/6HZ1ICR6v4dGhTUHoApgOUgDyiRi/D+5SulI65KToIIm+X+7lk8YiZ+hh9XodHDShp1qXL7Kq8Ijo6i34gDt6FoTqMpf4eLbtoZ9ufYvSRjLxt5ECJDIoGkfYmkGZvBjPQi8VPXycYKvKg==;Scy0HIf3+UeRvoVaCqaoNw=="
 ---

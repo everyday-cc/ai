@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/business/article-ai-chip-maker-ten
 webUrl: "https://www.theglobeandmail.com/business/article-ai-chip-maker-tenstorrent-joins-herd-of-canadian-unicorns-after/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI"
-    excerpt: "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with"
-    publishedDateTime: 2021-05-20T16:28:00Z
-    webUrl: "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 79
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-20-image-16.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "YPeixhyLLkMF2BD9E27Xn6vhSzSmturV/GfMU9VeeXm4BmEa2Hj9DQVXpi9BtrKcLU0MhVJTuWaYyS5sR2hkbXOenqlGcMYvwRH9onyclk3Uf52q0DkRcCUgD+K+oDL0tZEa+jY9g1QX/awuDpqTx/Sh8/0acrsPHsOvtw7+ihjb1fVypPVYYHPKZH5My7GA+pleiUjGcSgW46585xSzwygzqPUWuVT2PnmtspCGyEhY8dqqTpKVuciItA5Vo6X3mBartME1OLmkfRQ/bPTDiTgbfx5vN10kuF4gUER+seJzWe/qhUIVxboBySf1x2QS/LD3iAwlhcsbWqwU4pAyME+xyzg6i0NKN4SXdGJ1zjbVjrPnVQnmTUcIxUec5/PMszLn9Clc2cS9bAEdJPrifmivgvBR0cdeIfKKalsqIbCKOV9JGn+1OZkW7Pa7TDuAuzKsJeB8nskBCn8r0zBcTIPnoVJuOBQrnb3ymewxlXRzYoN4t6xZBI+C2dMdSiBFH1fgqIw+RTjfsNPXUtcivQ==;w3bY44y5Sv0vSaCSIDr0fg=="
 ---

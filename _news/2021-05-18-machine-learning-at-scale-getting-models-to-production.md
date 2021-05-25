@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/05/210de077-leipzig-1256514_1280.jpg"

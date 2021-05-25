@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T06:44:00Z
 originalUrl: "https://customerthink.com/artificial-intelligence-machine-learning-what-do-they-exactly-mean/"
 webUrl: "https://customerthink.com/artificial-intelligence-machine-learning-what-do-they-exactly-mean/"
 type: article
-quality: 54
-heat: 54
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-514786830-ctmedia.jpg"

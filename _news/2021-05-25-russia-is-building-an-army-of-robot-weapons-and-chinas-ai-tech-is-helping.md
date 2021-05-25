@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Autonomy in Russia"
+    excerpt: "As Russian leadership attempts to come to terms with technology's impact on its military power and role in the world, artificial intelligence and autonomy stand out as an area of particular growth and"
+    publishedDateTime: 2021-05-25T03:58:00Z
+    webUrl: "https://www.realcleardefense.com/articles/2021/05/25/artificial_intelligence_and_autonomy_in_russia_778579.html#!"
+    type: article
+    provider:
+      name: RealClearDefense
+      domain: realcleardefense.com
+    quality: 17
 
 secured: "sBrSOCz5DvzRgSR66xRbjA9Qkr3+cWV8vC9T6phX/HHPFuPJL3xlSEVj8rhv94s1lPmuDAIZZrs+tJbsGDEbZxPN+03J6tEhwUx6X14CEbXw+Mx7oQinzcWQMHQvvOBrAy+lXDPwnwj4ZDeZx/1U7UwpGQjelGUuYmeDn99Yp4QLtelylcMNyFGNO5QvN3uf/s+YFXL7OI/Jx2WEUnPDAYiiKBaFJBmif6KC749d01KeQ6xwtUTY7jWLG7ERP8YQB0S0SxUlHk2UFNIB9tOTDO3VuoyI4WXJPgr+iNp92mgoUfhw1VuRIyoL+Ynoxwp/OfrjqVnL7dAY9eSvEzoT9NXage4oO4hpXKKtcw3M/Us=;dVPacfoAg4kzddk8m75ILA=="
 ---

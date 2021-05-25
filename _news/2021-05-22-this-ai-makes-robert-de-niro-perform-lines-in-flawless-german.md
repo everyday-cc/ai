@@ -3,8 +3,8 @@ category: news
 title: "This AI makes Robert De Niro perform lines in flawless German"
 excerpt: "New deepfake technology allows Robert De Niro to deliver his famous line from Taxi Driverin flawless German—with realistic lip movements and facial expressions. The AI software manipulates an actor's lips and facial expressions to make them convincingly match the speech of someone speaking the same lines in a different language."
 publishedDateTime: 2021-05-22T12:15:00Z
-originalUrl: "https://arstechnica.com/gaming/2021/05/robert-de-niro-speaks-fluent-german-in-taxi-driver-thanks-to-ai/?comments=1"
-webUrl: "https://arstechnica.com/gaming/2021/05/robert-de-niro-speaks-fluent-german-in-taxi-driver-thanks-to-ai/?comments=1"
+originalUrl: "https://arstechnica.com/gaming/2021/05/robert-de-niro-speaks-fluent-german-in-taxi-driver-thanks-to-ai/?comments=1&start=80"
+webUrl: "https://arstechnica.com/gaming/2021/05/robert-de-niro-speaks-fluent-german-in-taxi-driver-thanks-to-ai/?comments=1&start=80"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 380
     isCached: true
 
-secured: "qQbjtJm7d/tdi5laruF9m7k4HxD0OzPIGLE3CYQdhsuWeutBWxlB5VOvzPW22lZGuHVD/uuhintN9PrmkdmumY93YuDijeTMsWVrwYjjHnbA9UCkYK47G1Z/EDGm9blEXNP3hJotUcnvWxxAPvZdVOSUGbdClBSV9qDFNAhERBCycHCBPqgA0vQRRZt+uxYZu2Hpl+yQLMO2EH14zbHonZRTk0WjGPNknNJ4bVD0HmScQ0uU/A0qr8+ZaoUTo2zuXQLhqZ3CpCdo2nk/X1TtWp1xLb8/9gXM1K/dT/2S5NBhx4dnkSECblSgC990dj5IqTnKl3cfSY9v1VnSUjPgN+lfGDvY8NVjTlt+Xq+Cdl8lHCCcAKCYYR4vv4OdWUhfzyugxtBbnIXRLQg1JfZZaBslq6UtEQu6u2QQ/lBYTzcZ0NAsiZ966U7L8nw6yFrmhAwQurV/YgNELWaXOOt31U/6e33FkWobC/IdtuzyfQ6QuUISgiv4WB/f9/ulF6BJLlGFBVkmQmATKab0S3jn7Q==;7KsYw+XAeRJbU1TWim6HTA=="
+secured: "aIBuOj9j4a67t54gogXs89Lv89Rdmrdb5fHgv+PteDp1JTjIY4Y1fnp/48rqqJtDkIrz/o2ryKTaDoT67f7RKRDY5tN2aBjrDRlSIL/7iUuo5xQQWx7auEKdi/QeClEzzg+FQoVYU7ER68g0LC1JKSdh1XoCPsgSyNsAnr64Ye0cECm86NUSwd9L9tzT78QuQFQte1qfJ3o2mX08tiPdRPpc+95ieJ8AXeEF2pAGZI2OB/nALtZMTwjcDj3bxMNA64/DCOPyzkZQwtP3I4QF+2BbUk+5OMDK22g2q4MZmdiucNze0LYtOe+8PUY/uha3RTihdIoU/IQwH15VmQQRfwPZZFwU7WhhhbT0RQo7ENY=;iljDRBc5a3Rc9EGOlhPtwA=="
 ---
 

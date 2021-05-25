@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Advanced Robotics for Manufacturing (ARM) Institute Announces Availability of RoboticsCareer.Org"
-    excerpt: "National capability sponsored by the Department of Defense addresses pressing issue of lack of skilled labor in U.S. manufacturing."
-    publishedDateTime: 2021-05-20T15:54:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2021/advanced-robotics-manufacturing-institute-robotics"
+  - title: "Automotive Artificial Intelligence Market 2021 Segmentation, Future Business Strategy, Manufacturers Study and Forecast by 2030"
+    excerpt: "The report additionally offers the companies/producers panorama and a corresponding certain evaluation of the pinnacle companies/producers running withinside the worldwide Automotive Artificial Intelligence Market."
+    publishedDateTime: 2021-05-21T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2021-segmentation-future-business-strategy-manufacturers-study-and-forecast-by-2030-2021-05-21"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
-      - url: "https://www.automation.com/getmedia/96202959-24fd-42ab-ad3b-17cf243895d4/ARM-news-May-20-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bjP0/gu1CAdkTNw9ffiEGZQIp7vw83RQWPBv53rmBWrm5hhPBmJt1CS9JqkaCKYYxNwL+m2qXmRqnvz671wSZKrR6o49uzrOdZ1f0W0yjjXOoQpGpfa6RzKY95cloMbeqBRfysYag0dY3ISCYxOzZlVSa2Onov/kb9wWpaMTGb519RI2w8K+JM3gbXaNUjdKhshlkmxAD6F8Wur/EDNyoT4ucCSfskDpD3T+tp/+3fesnUFm3BBrIwgWZV0NWolWzDSILr2+qaRVSLXkznpSnaehqWXv8aEGdx3tTUakO/+MB1ScT3n7BK78+B06xGKIxbLO45qtQzEL+79esr6U2dx7COxIJb/KXgltMbrtas8=;GDkZHaTM8At7H03t4dVpaw=="

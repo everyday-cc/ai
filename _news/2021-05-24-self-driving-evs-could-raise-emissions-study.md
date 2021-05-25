@@ -3,8 +3,8 @@ category: news
 title: "Self-driving EVs could raise emissions — study"
 excerpt: "Self-driving veh"
 publishedDateTime: 2021-05-24T10:52:00Z
-originalUrl: "https://www.eenews.net/climatewire/stories/1063733277"
-webUrl: "https://www.eenews.net/climatewire/stories/1063733277"
+originalUrl: "https://www.eenews.net/climatewire/stories/1063733277/feed"
+webUrl: "https://www.eenews.net/climatewire/stories/1063733277/feed"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 483
     isCached: true
 
-secured: "u3L2ncK01YPV0EkuP/ZEy3pyGycplDT9MJNrJDRqwMmTRCuPIASj4zKCTt3hTArc+hghUm8uVK2ektxOt7kAYPTyFB1FZ0QC65f1WyE+s8NMsQZhb7KkE1XMVzTVayp2XhVTETgIGnD1dYJVS+UEY935ixW1mCzbwFvilIUcG7ouRNvdCpnv7YUahFaOaPU+J5S1OHSKNJvapWMzMgSp/RvQMJaMbF880H9wn2b6ogbjxlupkMj8XBiWMEOmhRBlgQ0KsiuqHBtydV5WKMse5RIkBm2lH+b5/azkDtWVv2e8jBGoCNxJv6LS2RP0gLwdEy7nnQndtj+3QWb7PoYQopCOYluXA+0vGjw+665OLSM=;tfOrSAG7UpSyHXheO4qxhw=="
+secured: "dWbnAvz8lLsI9SyK58+rhwIPFnabacThcvyYMpFX91boL5ymFlt9qi09l2VKIzea1XM2iRFfYfuRSlzhU4ElUV2wfC7kGVy1S3exKqnMo5m9Hz/Cg6M6ZUkXmevT782EN5t+H9PoUt3F2VGqVVXW65pV1dA8QgaQQlbe56x9jVo7B1/kaKTVph1JrdbWGV3C/6OhXD93r9yP0coQFGQynmrnmxnU12Tr3RW/O948D2ma5yw/eMwfIavTliIrjNh30YVaqskT6jnhHaOx8efE9YvC8xogJqk/DCzWmbZ0oDVuAssYUD5Nn88rUIMVfA/Bd440nOVu0zVm42yF6ex6d0s7kOuTA6te77PmvwpnNgw=;X4C4LLvj9pwUtcenLgjgYA=="
 ---
 

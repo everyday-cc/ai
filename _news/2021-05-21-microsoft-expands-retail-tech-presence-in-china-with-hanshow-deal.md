@@ -47,20 +47,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
-    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
-    publishedDateTime: 2021-05-20T15:09:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 66
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
-        width: 1920
-        height: 1292
-        isCached: true
   - title: "Microsoft expands retail tech presence in China with Hanshow deal"
     excerpt: "Microsoft will also provide technical support to the digital retail firm in co-creating cloud-based products that use the tech giant’s machine learning, IoT, and data technology. “Hanshow’s solutions empowered by Microsoft Azure are at the heart of ..."
     publishedDateTime: 2021-05-21T18:35:00Z
@@ -88,6 +74,20 @@ related:
       - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
         width: 300
         height: 243
+        isCached: true
+  - title: "LaLiga teams up with Microsoft to digitally transform football globally"
+    excerpt: "LaLiga, Spain’s premier football association and Microsoft have announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga’s technology offering,"
+    publishedDateTime: 2021-05-24T13:28:00Z
+    webUrl: "https://www.intelligentcio.com/eu/2021/05/24/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 39
+    images:
+      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2021/05/AdobeStock_321260329_Editorial_Use_Only-w.jpg"
+        width: 1000
+        height: 450
         isCached: true
 
 secured: "7o2uJWWhC7IAinXEePK+zq7lHmGt8z4OZhBmPx5Tl934TYY7G8qc4uMKY0Y3ybMrUHqiI8P5xYptzelNFFKljf6nnS0ZQ+QEy8z5asc8HMvQi96kYz4dtfsjC32joyRlBF49N1qtuC2iOIuD9AmB9qvAzVskAG86QmirBBqvJ8hrjXDuqjaGSDh/aEUsU685UgHwN8Kay7GOf1qRDSok4fq8d9FyAekNTdfWUYAIx9jY3bbmumqoghFLVSAB1BpK9d5IxUxO5BaZOh2NIyEc3v+xwKFwHUmKqSHsh5BRfjIonmU1Wfr3b/wmmpec6xDwgx1xx6vIo8A5LJgZbnjy3GKDuzVfb+fA9iJAnktm6rs=;vyY5r4f7Kh3g9W0D8nlQjA=="

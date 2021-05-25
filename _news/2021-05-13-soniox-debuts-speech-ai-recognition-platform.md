@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
-publishedDateTime: 2021-05-13T14:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
-webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
+publishedDateTime: 2021-05-13T14:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "f3tsHIFKDI/TyjQfv+Kae5HV2G2Ud6EOLQ3LytHhmP3a5LLhWNYkWHCRSDv3CVd/fenR/cLevYG8y+dq/O4U7+nWojFYM3M56x4dBBLeMr1K0Jum7O1P2viStiEmIsBE3zToixeS1gH3GtnsbCjclOqtVu5FlVIBuB1IYC2rqhv/uRS5wL0qeAiS8144CbvdWWQx8T1ghcb3Cq9Iu1yosc9XUHSVWHg+wAjGAXUla1DsD89p5VFo1tvkCUjre3mQL2HVRO8DWtaa4Mk28iDK4szqhh6Idj+WLo5Z9OmkxrJ0gTnbcv/8BQJJUg1cBFeteoMTcHlkVtRWfi8xqP9YwiEuFW4T5ZcYl3Cq22ed978=;ebNZLJI8KflQ+gl82GgpmQ=="
+secured: "4ifwPj5XZYuj5ENYFxMV4o03ySeRQ7oajvmI+0L4WEHASSSgi/v/W3pTnkU34LwuiXWqtpitXKe9kOZwBD9YHUgB4WIjUYtaQuFxXW4HMRPFHJxvQRQzoGWTUdDwwBh/14F9zyCIdRGNyrQnYh09rAFsNTClx66qKVvNw7TRs0RLCAc2fFnKffJJ6LSPFAO57vEpuzREouCPpTtRDVUjyZw8SvechrAkY/DaZKJ7N56sGJKfSQ/Q4fneeSUq9rLl2Xe8Rz0Qne+vxGFBhsbolVckjE45vIzi/T+0BVQwCBpNVviH39VTjZX/NYfDqrnIka+1no6q1zJ7yG5uuq9/wnvQFKymKjMkPl20PrncIho=;5p1W1Ke1CCvHCWlMypEByA=="
 ---
 

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Vectra Identifies Top 10 Threat Detections Across Azure AD and Office 365"
-excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,"
-publishedDateTime: 2021-05-19T07:10:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210519ny82777/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210519ny82777/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365"
+excerpt: "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat"
+publishedDateTime: 2021-05-19T12:10:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365/article_149ce5fc-5182-59ab-a82b-6f2868c9070c.html"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "fMqcUybxBH+6t7PYlEUS9QIRB5MXgv228LZq8euioESdqPQADNgaBZGVEiK1tk9/YdFkF/LUecoaMk8RaJqPw88tOXHluAOSQMLuCJhJASH612cE67cSCKivPWrBwExZoJYb7j9x737D1H8iUHLO1XTUu4lRtpRZNvTXowY8uPG+G+VnIf6Y2bsmgD2cY8DcGwTRWKgb6C6YMGCRqL0PMQoAyizMj2nwKHQRrOwm1ZBIB1lhuOoB11K/887T5m0RpRwx3MZ+T4WCJGEwEWnVjWYLkk+ykCA3HvPsVLlj+1Ko6T5H+WhZVEVHJ24CwUxKPrPD6HcYv+xko5AVHYOnpJq7R6IWjyO/ebLirmfDU6o=;0jpmFj5lpqWHrbT+GBuQbw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "wBXeQztcOhIaEqENIkEcEx0zhwJ/Ucypoi+lEMz1tZQdrS7qqPy2Nvpm4PQEtBMap4pif8ZSxRWW5If/r6YFEiLaeU0OM6Uxp6fBtLBEMuDhmY/IXGsG6UWyw6xgTf7IIxqBJXw2wBkXfdWgcyEiuSF0qqEUVleBrMylnuKvQjpiPEz1V4nbR72ZnijSYnupLWi0Ey3EOvf8ySjuO3COX7gAXs3D5iROXJtrlF2YFn7ZJVziAB5ZZKCywKko926kj6Ty5RI9EuUWQ1fGdR6StIBPaU9kyrCEuEeK3O7MXZmxU2YgqWl6+CVUInmC1RI3f0ZfguagOy6TQ35/7Gw2ywF8Dbr2DESL804C0ydJjOE=;zxVwAZcVA0g2b3bv88j6/w=="
 ---
 

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services"
-excerpt: "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS),"
-publishedDateTime: 2021-05-12T16:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844"
-webUrl: "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844"
+excerpt: "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in helping Canadian public sector organizations drive innovation and build solutions on the AWS Cloud."
+publishedDateTime: 2021-05-12T14:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "BBUdBIha1N52yf7/8aRNY8oqGTEWdxJqUjcV9WiGi3V4iY378y7IQ0cS8u2QWkb3IprZrK7Wa1RRBqqCRJmtozCUJwJsJqQAx6DdlE3R9WjzB0HsI2dPGfdT02+fHZgtkSwXKCRrfPT+5YucJoU6es15r07q5S5l8vgA4OWNt+xrUt/+IvFFtRhvOKvJ8zlW2Wlbq2Yn+/zWXdIbLv75Qh2yFKLdJy9/42vjaWAVwWhpOhtkjurAzx6lG8C36sz1HBYOye2A5UOTJQtN4yodZk0JtB9UHFMrH8A38WBlXw/zAYFUrKdihuGFQkpiVLVRXAplsK4gUxxWz2jfnBdbW458kFer6NB/MnRNg1hnp+s=;3Pbfz7Rd8S/L8lFGPqy3Rw=="
+secured: "WXH/xhxziPgQC0/7WPM3wxWpSTlXAZTiYSz3EnkAbL1xmLBBqO3Sk3S+F3Xkc189oy5HUGO76cscBcBS2xc6EPQaq+96NgchuUeZibSM09S2l78Udko9J2yQxzJZkW6TS5CMGYV5MkHeashjAPoXqCRlrw2da7+yhh2EfivIYDdyABWAMVCFBNc4Cy49RidHbcnVTrSJWi2eubrpecex4j2hctd5jgY6+l95qyA+x+xtIijMLrFrJVkOlIzZB6f7YECfzogrODkjn0eD+aKOCTVKoOB/U88dsLae/gLnI/NVYcFhdyB4bsG6A3LnBlp4k7v9VAooqRlC1HNgoQpVMZkEJ15uPaPydXcKd5E8/Lw=;w8ABGfh3jxRlkpPAho6O2w=="
 ---
 

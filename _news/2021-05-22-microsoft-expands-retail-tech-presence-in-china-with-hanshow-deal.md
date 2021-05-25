@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "La Liga expands Microsoft Azure partnership for OTT services and ML enhancements"
-    excerpt: "La Liga, the foremost Spanish football league, has expanded its partnership with Microsoft Azure to focus on machine learning and OTT services."
-    publishedDateTime: 2021-05-20T15:09:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/may/20/la-liga-expands-microsoft-azure-partnership-for-ott-services-and-ml-enhancements/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 66
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/tim-roosjen-jLUSUUUbZeE-unsplash.jpg"
-        width: 1920
-        height: 1292
-        isCached: true
   - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
     excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
     publishedDateTime: 2021-05-21T09:34:00Z
@@ -84,6 +70,20 @@ related:
       - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
         width: 300
         height: 243
+        isCached: true
+  - title: "LaLiga teams up with Microsoft to digitally transform football globally"
+    excerpt: "LaLiga, Spain’s premier football association and Microsoft have announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga’s technology offering,"
+    publishedDateTime: 2021-05-24T13:28:00Z
+    webUrl: "https://www.intelligentcio.com/eu/2021/05/24/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 39
+    images:
+      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2021/05/AdobeStock_321260329_Editorial_Use_Only-w.jpg"
+        width: 1000
+        height: 450
         isCached: true
 
 secured: "BhQFrcbZYqIXRBZGWsYChpqntIQT9ZSRvLe//I8o1TAgHe8al36ABgNb8tLrmi8DDkyz8LyVm8+k0cflANEcxCM+Yjyn39+/0/3BdIehY5P+Qlq7Wd0zZGxb9chRaEdRx6bIoWQ8RYgQhnhizt9vp14XhAaRLMPnRpLR77qA30zWCgtTZoUV0bOlt727Atoa9vBx2IGxIkQiN2OJ8g+4woXD5mv/BtDwv3qKblFTWjVimMMpHON0meARZavX3eZfT3x65H+jsUYi/oEXWMPc78VVe09OGjtlwMw40c33WF12cnZe7gDBThwkqBP8BLQ3WRyy5dqdoqB+/QuqgRaaw9rGexfbhLO/p7zigSP8oOLHHjNMb92v0L4cdI1OD12nVnRZxwL8VYxLK44YBUtxHz69+mAfpfhv9qaDkV+1isMsR+YLYCef0S4RG1Y1Cvb/pJNq/7PiNRDpfU8xwveYsohzyc1nHPSTveqadOSo4JP5TD7T2tB5xGPMh4CwhLJZHXPHiHxzhA3ro66W2AXDAQ==;Y7APz/Ch9YIpxdH7VbzeuA=="

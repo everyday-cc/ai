@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157035-laptops-news-qualcomm-introduces-snapdragon-7cx-gen-2-chips-for-chromebooks-and-cheaper-windows-10-pcs-image1-fy1xqy4rri.jpg"
         width: 945
         height: 630
-        isCached: true
-  - title: "Qualcomm Snapdragon 778G 6nm Chip For 5G Smartphones Launched"
-    excerpt: "Chipmaker Qualcomm has launched the new Snapdragon 778G 5G mobile platform that is designed to deliver cutting-edge mobile gaming and accelerated artificial"
-    publishedDateTime: 2021-05-20T16:54:00Z
-    webUrl: "https://www.techshout.com/mobile-phones/2021/20/qualcomm-snapdragon-778g-5g-mobile-processor-unveiled/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/05/qualcomm-snapdragon-778g-5g.jpg"
-        width: 690
-        height: 480
         isCached: true
   - title: "Qualcomm unveils Snapdragon 7c Gen 2 chip for budget laptops"
     excerpt: "Qualcomm announced the upcoming launch of the Snapdragon 7c Gen 2 compute platform, the second generation of the company's entry-level platform for entry-level Windows PCs and Chromebooks. The chip is designed to upgrade the budget device experience with enhanced camera and audio capabilities,"

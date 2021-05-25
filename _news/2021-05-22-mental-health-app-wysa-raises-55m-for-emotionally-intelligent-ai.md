@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
-  - title: "AI-powered chatbot Wysa brings in $5.5M to focus on employee mental health"
-    excerpt: "Wysa, an artificial intelligence-enabled chatbot, focuses on the “missing middle\" of mental health, between meditation and medication. The startup has raised $5.5 million in Series A funding backed by Google Assistant Investments."
-    publishedDateTime: 2021-05-20T15:04:00Z
-    webUrl: "https://www.fiercehealthcare.com/digital-health/ai-powered-chatbot-wysa-brings-5-5m-to-focus-employee-mental-health"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 35
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1621524630/Wysa%20Founder%20photos.JPG?Sx1ORCR1ev5U2.4JEX5vONS6iyJ9kuq."
-        width: 2550
-        height: 1700
-        isCached: true
 
 secured: "SozigMCDjhDmhHPHGSC8AYimbMuajFFNQJ1sLoHyK+vSKiFXY1pKmDdYNisavz9nnNqjLZSF/4deRCtXjP9Uqy8Fmpl/pFDz9Stk9QPU3VBLVY23leve8M6WWv+8GdrODrZ63mP86wkK1i30f7/sd3nDu8GwFck4mVw9wmgQ5dOzvDWiY3zskneEyo3kdiwsUb99V19G+cuCS8+cHAfUA0R4ljfdEGneXTAyUjgnUHXZiKnvLMsyZ4DTUG7FfP0wt52AlSLhWtARp5X9v0znpk2GD7eDNQN2s5m3heXuSGiJPBeOrtxh8nOBemxVy6ADeKLT7Tg6YsKumbnSEgbkAdnptCb/GvoxHXW2IdtPIqBu+Rs+3q8M6KcqNUYptU8MaWgs3tc6elceYVirCbxlkpek5po3cODuvUSeXTU1wQFjoOxk9HvPH1ZjhFn6G2g27TyxCcrtr/PwgI7rjktOh9Xo5F+v5ADZVB1xWi0SdISC9Tr3khrcGOSAq2gMCcnj8rjgqTjk+twRFkw1fvKtFA==;+GfoG5ijCC9DBm9m+5ZvDA=="
 ---

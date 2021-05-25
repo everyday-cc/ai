@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Autonomy in Russia"
+    excerpt: "As Russian leadership attempts to come to terms with technology's impact on its military power and role in the world, artificial intelligence and autonomy stand out as an area of particular growth and"
+    publishedDateTime: 2021-05-25T03:58:00Z
+    webUrl: "https://www.realcleardefense.com/articles/2021/05/25/artificial_intelligence_and_autonomy_in_russia_778579.html#!"
+    type: article
+    provider:
+      name: RealClearDefense
+      domain: realcleardefense.com
+    quality: 17
 
 secured: "yuebIRkTXK9fWThA6EouWl2cWgvXUcbORImanv0LEtlyHwlHCBZmHX9nT+VfND+1u16mxwiZ67vL2xVoClPi4Z/EAoujhRBz2nKPAYcosMarfSoXKogY9nMnmQEF+yTdKwCx+wB2JEKoLN6SstTTMPhEFvEahArlnjOzZq8G2hlAc1hQm/bdnjAR6D2zGm5V9gGvKu8gXDTGa6a4rG9xDl/o0FQm09RWsNPPnITewnk+HBJQgLsUD1xQjHtS5mlVWk3fH6kHGv7JVybmjNAhhC8UrZ1FQ7VUOpbBCaw4lAie9QIQN9bTLk+XHyiW0FbSE+azCTXSPjjV6Txa1ohbkzuWyIfiIfKfHoBLtkizcGk=;zymSyd6etZmvfojV/PABRw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in
 webUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in-big-demand/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Demand Science Acquires TrustedOut, Adding AI-Powered, B2B Content and Data Intelligence to Its Global Revenue Intelligence Platform"
-    excerpt: "Demand Science, providing a Global Revenue Intelligence Platform with a data-centric, innovative B2B product and solution set that delivers growth for over a thousand of the world's largest software,"
-    publishedDateTime: 2021-05-20T15:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/demand-science-acquires-trustedout-adding-ai-powered-b2b-content-and-data-intelligence-to-its-global-revenue-intelligence-platform-1030451901"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
   - title: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform"
     excerpt: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform By CIOReview - Climate & Capital’s groundbreaking climate journalism will be combined with Science4Data’s proprietary"
     publishedDateTime: 2021-05-24T11:34:00Z

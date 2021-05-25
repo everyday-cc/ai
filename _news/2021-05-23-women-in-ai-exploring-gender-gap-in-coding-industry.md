@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/sabujsreewrites/wo
 webUrl: "https://timesofindia.indiatimes.com/readersblog/sabujsreewrites/women-in-ai-exploring-gender-gap-in-coding-industry-32426/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How is the Adoption of AI Helping the Gaming Industry?"
-    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
-    publishedDateTime: 2021-05-25T07:30:00Z
-    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
+  - title: "Creating Impact With AI: Doing Well By Doing Good"
+    excerpt: "From pandemic prevention and fighting cancer, to fighting hunger, wildlife conservation and boosting accessibility, this article will explore exactly how AI is doing well by doing good."
+    publishedDateTime: 2021-05-24T21:12:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
-        width: 487
-        height: 469
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac1169057baa980eb5b648%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "6zdfrSILgEntml+JurHWe8i5peW11NMELOa77hYYw6M/fDYMDlaUT/2R3bJU+cayv1LyG8H9vqYGbHOmU5L2eYsG1iWaO2qe/Larf9hWC4w1hvmQm3LlkiRHY1vI/A4Q0+o/tX8EgZHldNF8eASyEBCOjtLMLjkOUXtsnINmOoxQid4ao0GP4u42cvTNq3zAchqCbGFKneR/WyFRVI/pnlFDR2J/WpajvfLfINfFS85nuj+JcGcxsgAC96LtBqqn29RM8/4Wt7Vnada6FUtts/O8EB1QcqoVWUH2Y6gB25dZupKSjkpfkv3QlFdKKFhg6PlXz/bMLBb4j4GXbBrWo5KuT4K7JqO1ptSRo0Ri4VI=;YY4JHqbd3qiiJUa5ypkT1g=="

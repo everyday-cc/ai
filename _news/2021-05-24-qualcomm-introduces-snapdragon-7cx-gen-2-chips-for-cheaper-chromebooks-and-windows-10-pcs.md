@@ -43,20 +43,6 @@ related:
         width: 1500
         height: 938
         isCached: true
-  - title: "Qualcomm Snapdragon 778G 6nm Chip For 5G Smartphones Launched"
-    excerpt: "Chipmaker Qualcomm has launched the new Snapdragon 778G 5G mobile platform that is designed to deliver cutting-edge mobile gaming and accelerated artificial"
-    publishedDateTime: 2021-05-20T16:54:00Z
-    webUrl: "https://www.techshout.com/mobile-phones/2021/20/qualcomm-snapdragon-778g-5g-mobile-processor-unveiled/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/05/qualcomm-snapdragon-778g-5g.jpg"
-        width: 690
-        height: 480
-        isCached: true
   - title: "Qualcomm unveils Snapdragon 7c Gen 2 chip for budget laptops"
     excerpt: "Qualcomm announced the upcoming launch of the Snapdragon 7c Gen 2 compute platform, the second generation of the company's entry-level platform for entry-level Windows PCs and Chromebooks. The chip is designed to upgrade the budget device experience with enhanced camera and audio capabilities,"
     publishedDateTime: 2021-05-25T06:57:00Z

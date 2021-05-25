@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Healthcare Market Outlook, Size, Forecasts, Demand, Competitive Analysis, Growth Factors, And Key Players"
+    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
+    publishedDateTime: 2021-05-25T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market 2021-26: Key Players, Size, Share and Industry Trends - IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled “Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global deep learning market exhibited robust growth during 2015-2020."
     publishedDateTime: 2021-05-22T02:59:00Z
@@ -39,17 +53,20 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Asia-Pacific Text to speech Market Size, Share, Impressive Industry Growth Report 2027"
-    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 Significant raise in the funding for text to speech technology providing start ups to unleash the"
-    publishedDateTime: 2021-05-21T21:50:00Z
-    webUrl: "https://www.openpr.com/news/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
-    ampWebUrl: "https://www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
+  - title: "Artificial Intelligence in Agriculture Market 2021 Estimation, Growth Factors, Overview, and Forecast Report till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Agriculture Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T01:24:00Z
+    webUrl: "https://menafn.com/1102102389/Artificial-Intelligence-in-Agriculture-Market-2021-Estimation-Growth-Factors-Overview-and-Forecast-Report-till-2025-Says-Kenneth-Research"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "UU7oWO3Npu9anXbVRd61nRZV2uFThQlj/Swl6o/zl+b1yljlkD0fWrMhL5q6WDZWLBDSi/uPzISs4TaBcUpaR4mY4jf987tkRGHq7Yrh1KoVma0yORuKyGs/zRX2RzQJQX/QVz4lyqthYtbNQhT5ZtvyhbHylrLkwK8IpbPyz97J3dTInj45AFxZhAIuolwsUbKJ4OfxhcpCLo6ZJd8+n5kBugHZFy9w+GghYB22KHBcpbHbMFvBMEpAQqmH97qanRZmbSO5hPV0Qr/B6mej+JRLD4Qg6SqV08zKL1z9Pvn751IO9dv1L/qI3RTWddXJjb7tHYVSxLmTtcJf/1kp2LhxvFtZIRt4MqU3k9tzjFBa8cbw7F4EKJT1xFjIsi8T24LRn6E7B78MQVhoaQppLePNVA9oNaoHoV0IG+VQmj/SsOr+ljwZ+nDp+AlyuwJ8EYxZGKwzpTeIWXH8EjyQ+XKj3ghhsVsJu8QEdQIZJLLB5icOSD1jox6DMGFreGzAJtxKtWEO0jHte0aXmHZswQ==;ZD8wZ5rb74o1Nq/EH4jiJQ=="
 ---

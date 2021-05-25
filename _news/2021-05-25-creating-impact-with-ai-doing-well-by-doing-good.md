@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,59 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "11 ways we're innovating with AI"
-    excerpt: "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine"
-    publishedDateTime: 2021-05-20T15:57:00Z
-    webUrl: "https://blog.google/technology/ai/innovating-with-ai/"
-    ampWebUrl: "https://blog.google/technology/ai/innovating-with-ai/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/"
+  - title: "Women in AI: Exploring gender gap in coding industry"
+    excerpt: "Stephen Hawking, in an online Reddit Q&A session about AI, had said, “A super-intelligent AI will be extremely good at accomplishing its goals, and if those goals aren’t aligned"
+    publishedDateTime: 2021-05-23T15:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/sabujsreewrites/women-in-ai-exploring-gender-gap-in-coding-industry-32426/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg"
-        width: 1300
-        height: 733
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Walmart Innovates at the Retail Edge with AI"
-    excerpt: "Through the combination of world-class software from Malong Technologies and a powerful processing platform Dell Technologies and NVIDIA, Walmart is able to deliver groundbreaking AI acceleration at the store edge."
-    publishedDateTime: 2021-05-24T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/05/24/walmart-innovates-at-the-retail-edge-with-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
-  - title: "Committing to a U.S. Government-Industry Partnership to Empower AI Innovation"
-    excerpt: "Such a partnership could make prompt and significant progress in resolving the top barriers to AI innovation and deployment."
-    publishedDateTime: 2021-05-21T15:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/05/committing-us-government-industry-partnership-empower-ai-innovation/174115/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/18/NGai20210518/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Making seismic easy with AI and machine learning"
-    excerpt: "Using powerful new AI and ML solutions, oil and gas companies can accelerate their seismic efforts while increasing efficiency and quality."
-    publishedDateTime: 2021-05-22T05:34:00Z
-    webUrl: "https://www.upstreamonline.com/sponsor-content/making-seismic-easy-with-ai-and-machine-learning/2-1-1014529"
-    type: article
-    provider:
-      name: Upstream
-      domain: upstreamonline.com
-    quality: 34
 
 secured: "XjIh2J5RZhtJWBEKYWxZg3+XhiQg2NF3/mCPVTexDIOrkZ4Kek6i+rdH8iwJ+e/15y/SvL6YUkyzB3lfRAmFpWwgbkUCyRPRzl4Stkwu5prhJQTqOvQsRmdmMRaJR8kFU1UUbiuNSyqg0a05ultu2Jj/SaiKR0kcvv6RV0137LXF9udlSqxQKhnjZfxIoH7B3e+W2ID/94lWJ4/3I56zJbESBvKYSHkL5rx5ywRbWR8Gs6+YNQBYKwEeOFgjJxN+w9T99XuR+Q62uIBY2fz9IsSD1HsQ3371P7g/Dk9Pp64PrXbIrk+CVmzuzj3ZZMZvqQP4WbAwBYwxLeabyjaKlQISniJg0ohLKRDvLruq3Q8E6D9M6VdA6u3i71q8IvU1bt7nsp+K6hMVuexPWZz6ChIp47cC0sjgjelWPL0cB0I+6DtcXXyvl+tOIL/GLYiggfHFA+LgSkRi47BDI17UN+BCwJGF1uPLf6p+EbX5sAt0At4n0NjQ+UaAHNIGazx6tlbNsQ8CJc9xDW5YW51eyw==;vfvn4yqqW7USvPXVAG0vnQ=="
 ---

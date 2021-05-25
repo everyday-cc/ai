@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Watch now: Facial recognition technology was tested by Macon County Sheriff’s Department"
-    excerpt: "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology — especially in"
-    publishedDateTime: 2021-05-21T17:55:00Z
-    webUrl: "https://herald-review.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-macon-county-sheriff-s-department/article_d604a08d-ff3b-5068-8e04-b0fd6803fd73.html"
-    ampWebUrl: "https://herald-review.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-macon-county-sheriff-s-department/article_d604a08d-ff3b-5068-8e04-b0fd6803fd73.amp.html"
-    cdnAmpWebUrl: "https://herald--review-com.cdn.ampproject.org/c/s/herald-review.com/news/local/public_safety/watch-now-facial-recognition-technology-was-tested-by-macon-county-sheriff-s-department/article_d604a08d-ff3b-5068-8e04-b0fd6803fd73.amp.html"
+  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
+    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
+    publishedDateTime: 2021-05-25T09:31:00Z
+    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
     type: article
     provider:
-      name: Herald & Review
-      domain: herald-review.com
-    quality: 50
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/7/66/76692250-b2ee-5953-9b5c-3faba34973d1/5fe4e0dba27db.image.jpg"
-        width: 251
-        height: 351
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
+        width: 1600
+        height: 684
         isCached: true
 
 secured: "xj5P0KVXHZXdderLnBP5/6bJ5ZNukwHDPtetbVVTX6M/6cyOCsEfC3Bn07+sx8aLKrZzcgtEBAnlvp/MKsc6vG+Ry/aW0NUEZGW02ePyaQZabdUHZY3U/kzudCGvqJY0LhUdD7uO49/OqOlXti3a14YZ/nuR94S5srNEgkQRXsl03VYGFvOcOXJpFTh6cM6eYh4YPyoRA7MpotaCKin0hUaxMRbE1Q8QRimfXGCLzaHT+pticgkITaE+9SGi/eT1GWhm3NZwcQPblEqMla0E72vOf5UAvmX1s6tVhOHMI6tzS0UfWMP1hiR9UI50x6Y00JI1pLCjXwGJ2A7IQQnnMeVnXEWv2RtUuzlXWcGXbiM=;N0C3v6FX96aj3KhGTehS2A=="
