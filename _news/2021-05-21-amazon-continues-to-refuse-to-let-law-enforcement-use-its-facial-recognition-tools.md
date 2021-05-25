@@ -26,51 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "Speech recognition comes to prompting"
-    excerpt: "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,"
-    publishedDateTime: 2021-05-21T11:36:00Z
-    webUrl: "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting"
-    ampWebUrl: "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp"
+  - title: "We could see federal regulation on face recognition as early as next week"
+    excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
+    publishedDateTime: 2021-05-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
     images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg"
-        width: 2560
-        height: 1536
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
-    excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
-    publishedDateTime: 2021-05-21T07:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+  - title: "Campaigners predict U.S. federal facial recognition regulation"
+    excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
+    publishedDateTime: 2021-05-21T21:23:00Z
+    webUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
+  - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
+    excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.mainepublic.org/politics/2021-05-25/legislative-committee-backs-proposed-limits-on-maine-agencies-using-facial-recognition-software"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 42
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/050ee76/2147483647/strip/true/crop/2016x1058+0+227/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
+    excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
+    publishedDateTime: 2021-05-21T09:30:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
     quality: 39
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/e476628/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2Fd2%2F5d1405d3469b8a308cd62605b4b7%2Fwb.Tech.jpg"
-        width: 2290
-        height: 1322
-        isCached: true
-  - title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-    excerpt: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut"
-    publishedDateTime: 2021-05-21T12:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook"
-        width: 1304
-        height: 683
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
+        width: 959
+        height: 368
         isCached: true
 
 secured: "7xiP/BB84WkqSAYf8Dqt347vgEPOz4Hv7mqWBiwqD+T2UDqudytN2QySx62Tyli559VvhzhQ59ADH19f0MkgJBJ+Br643SWodk4xn+pp29THZeniKQd7WL+3i1hInFc81ssVwAHb12xZa13efdLCTue0WAuXLBjXiCnQJk7TXfUVT9mb+Ysm1Zyqvr3z6b0I+5wcfn/7JrZ8GTlCzuc5mgNcDof8iy7mHGpcrQjwLE5jpuuwniEtEQmEdXeqGKVtdejrDTEsK9oyOz9vpLOhuq6a/DEd736LWEQnAvbw/uxhdNoGoUez9eNvxdIYASBZvL9jEVaftVUJePzjN6AKf4511egK9MABmUPlVEiqkIPTUuFwGMm05tZ0TY5Uh2FBecuEzNQ+upY43TGXi3pSkS3csOoOkOkitPe13FugyJZKnEh6c1/trOliT2tis84e46vLKGLQ8rMNCtX3V2pOrOkReJftQA19SYP3KNzqyqr0f70fbfL7KqbLAzGjted8XGI/HLwTa8ijeL/ct3WWrg==;jMH4kGX5nxIuuqjNT6ZG7A=="

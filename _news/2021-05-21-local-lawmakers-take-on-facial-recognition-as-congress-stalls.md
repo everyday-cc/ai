@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
+    excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
+    publishedDateTime: 2021-05-21T13:40:00Z
+    webUrl: "https://www.actuia.com/english/amazon-continues-to-refuse-to-let-law-enforcement-use-its-facial-recognition-tools/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Image-for-celebrity-recognition_v3.2264009c637a0ee8cf02b75fd82bb30aa34073eb.jpg"
+        width: 1224
+        height: 660
+        isCached: true
 
 secured: "eYXa3XqOOriYHgxLDbYDHsshi360RD6dYseRhRj0fwHNIDCdw2/s+aXvACDchbKHyakEOljTaTrYvuZIkOxCHgeb6U/3b00pot6Q7YpIQ60TJZdFGTJamnWVO6oujvnVWrexsJgjZ0KnLxE+V5gXr8Hh3Vj5fVHYNcH6JjOluB+WfOZpp4H5xvlcTC2441lg8jSp/fLKl0P/0ABVqFRVZUmateqjORuWgVQPmNUcoXcuhSL1IOFR8alrUx8ZYporMXwseVa8Gj4B8b0kVFyF30ss6ewGqKhuSSL00LWaz31MQDLKKvu6QVzyAnw9grKqBPZNmk0LqQwCEVET43Mv0mQEde0HOR4aJTagOPSVyPo=;5MeWZfenk/L8oRmo6Xinsw=="
 ---

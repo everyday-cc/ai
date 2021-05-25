@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertglatter/2021/05/21/google-announc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2021/05/21/google-announces-new-ai-app-to-diagnose-skin-conditions/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
+    excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate"
+    publishedDateTime: 2021-05-25T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year-award-winners-301299269.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "Google I/O Reveals the Brand New AI Innovations"
     excerpt: "Google in its recent Google I/O meet revealed several new products and AI innovations. It includes the launch of their Quantum AI Campus which will produce the first-ever error-corrected quantum computer."
     publishedDateTime: 2021-05-25T05:49:00Z

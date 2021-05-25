@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-pr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
+  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
+    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
+    publishedDateTime: 2021-05-25T20:38:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 14
 
 secured: "LtvjFWurqSfKrd9D/cyffOYzTJ5E53pL+DsV8PB+1UUhxcd78zryy1304JTE5LjS/AgPmt4ZIqrxvzD3El0OHLwQAMZP5j0KW09SvIt1n40ZbPg4oNy4sZ4TbjQcmiapXbaBo1OR2JI3xlDy2hBrYLvqmk9dH76ExQzP3wNwW+tUKTwUL8lL5QmRrBsME7Cz+LMtSIpbQpmAeQKFQ9aiT3TMjWUpVZXnd8fgtSakKTJN8BDca9EvQitroS+/P28R1RtQBDnLa81Ko/OpYo5iyYYGw3nOgzqmwkQJWOdmEbZKxxYjdnkHSzFa4VxobgtyI9dyWSis8e0KQltTwxAb7VYDwUL07FVT5JP5vNV4b0w=;n1MvWU1m7ZwFgBnFKyXBEA=="
 ---

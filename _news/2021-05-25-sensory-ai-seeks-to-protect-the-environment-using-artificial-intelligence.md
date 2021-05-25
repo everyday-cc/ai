@@ -43,7 +43,16 @@ related:
         width: 487
         height: 469
         isCached: true
+  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
+    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
+    publishedDateTime: 2021-05-25T20:38:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 14
 
-secured: "11oyuYZmOx82+gdM5vFCmhaOfFeP2wcJL9hOyMdtm88QbMmWl3PdPWRJBMeN+AAvkv7Ia8Ztr11nN/sBLzRarvfbx/ojdKP3nw1k1tZXA5K6MzAWv46Fcw+n4p99qgyB8Nq8rCAv1IjJdkjVXknHQX/voXTcvdNzWMqdCcDt4enWD3aYA7WS0v3TmhWh8T1KBT1ChwxZ8dHEdCDPAmOgM/CsqYCwwrsjfZBwJNQ9M0fZFO1fO/dlhNEB1Dtu80n3PfMxdjEjj08J3QCyletdrS8Q9ORFPn2Fqq/M6n/XGxf0D1nrym+84HRiY3jvHAs0w4AZHpxo3DNj/3VwfDwViezohxFquDRa6TsbveBFIjY=;6S/hwYMNEJbOYTxOpsbJRA=="
+secured: "F4qievNDVTkn9ZkYaExKgx8EUEJ2u/WcnjZOL7r0XpS8qNbOb2HYBD9K4+5CSja8zG3s5wMj8bKP/kRMjIxapERp/fzgVL0dvtjnc1/PNf5ZopLv69pPGmMrrL6rUifgYy7CDqeVBhqXxC9/0evNwVYLMnvixz0LpuKRpbuttoAczWpmtHsKFP7DWxEtyVyVRJrvj58cnbFjD2qV+JkFs2ZNCAAkLyMtRISBXMEoi6Kl7AFEe8SDWsVVdNNkhUfZumaGq3IzMeW8U1JKzWHtBGHvijp5A/TlP27snqjcX+LBnKMGxSBqaX7e5aG3AtDVwaE1+JnQbRCFpeNvItSHKoxlGm6oJ2b/J3xWQkzVbDs=;zaMjwpf3f0cQHW9oa4uoHg=="
 ---
 
