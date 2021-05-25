@@ -85,15 +85,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "La Liga and Microsoft ink new technology-led partnership"
-    excerpt: "Spain's football league (La Liga) and Microsoft have enhanced a partnership that began in 2016 by signing a new agreement to boost revenues for clubs and launched a new commercial offering featuring the latest sports technology."
-    publishedDateTime: 2021-05-20T07:17:00Z
-    webUrl: "https://www.telecompaper.com/news/la-liga-and-microsoft-ink-new-technology-led-partnership--1383761"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "zBgiePExxnRlH80GKMUp4z9n0KfJs5y0IGVIPzOS8fZ1lkv3ogK4wV+u1wi6m8qW5YeBM19pNgTLbbNrz3b8SfUQDuYnbGZmmZRYwmAxtUWwHCr6DGAJ4Od2fn4TV82Ax7rbu/MA6ytlTjOZHOggtf6DJjb60OXD95m9bwdiDXMGZKZf1ougGhz2iD8/SQiLBVpvG80WiK6mQ+BznvSVjpflF4vBoX37Gk3o/0wJeg2hslKcL6JqE8Md5GO1o+ZCdk9pAdusrB7vZ3Y+jgT4F3fVwqi4tBtRjlyB2eQZPiAunYuFKdfLk876dKB6L1T6mtPxkozrHn+YrKQtdqMYiCo5/2yBZ0vGdN4wa7HJeWQ=;ND2LUtxe9Myu97KL2FvFUg=="
 ---

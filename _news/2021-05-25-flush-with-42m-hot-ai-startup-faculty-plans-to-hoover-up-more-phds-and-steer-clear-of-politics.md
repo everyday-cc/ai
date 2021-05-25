@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty
 ampWebUrl: "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/05/image002.jpg?w=1024"
@@ -61,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "D9sLRDNih5mlCFp+zMPBHdL3euToDfCrzrgMRKSdaeHi1W8QEebb6oqYmKkhSuJDwsKOifegbrck9f8DlaWsYocHrRiI4aafjZ5ZdgMH8FqsVQ1u6x2H6ni6N6ohadsM0H87/oBpNgzraHLbVwc4NJFjAeYVsYzd9dhH3MAWQv37mI+uqKxayyNVcPlQum6Ruxw8x/X/B0bEkmGdu9nxauV9f7U0toXuMToqYjTplkfh6MWye4kqVPg8wi5GJ6q2oXPFIYPQ3rlgb/haFcjis+8a+9AjcKvxwYSiyu0bwRDfAVtkqnhQIkIS9DeC2fwLcta8pS1W5skUJWz9Y7frwfblQK9KOOHYYAw+CgF6DvM=;/f0gdRWO4HY/vg4sw9EPXg=="
+secured: "eHRccFW77XK3ThScyvQ0tHAN8KDkx/fW4qqg5EAStZ03vVcXnryKNDklhN7FOkAxUvIWCsosJgk5VRRJlXef9x6ORkhBbaxIXiwB83P1PizXaIXNp8q9fsOBtlC14bpUhx/LA9kGu+6s1VigkNoEejo6V5oPTHYWpSUeXgm7bN1fdzzqWw3BSM4cJakQ23TkxplNB71HpjYLdT97jNhgQq0R/eE98Ti91DS0bdJG/fIkQFTMv0tBtOrt/C5mVk6Pgl32QPEaAxMMjFwXsXfTYPDR8ktCQaTthobqCZwgsNJwT2luQYYRmAs6BdfvQcDG/5Rod2LLQO3ZehW4nHcaJ/NjBIsaats7cFiSvbcjCTgk9Jz+QXp8RwhWQTKSyx6v2B/+9VneQsbrhgAwJKXpkeaztWwivRcSlw2X4+ilNN0BhoAWHJ88bHfmt29m7hgifJFNhwCMK+CR2zotC7FlN6NYFpvGHCmM/D7KxhiVfJe072GkqhDvoBUTLrKexiCuS7cEWcMgDwz1tSkIj55Hpw==;sDmnXQGD5zQ1qkSE2rWl0Q=="
 ---
 

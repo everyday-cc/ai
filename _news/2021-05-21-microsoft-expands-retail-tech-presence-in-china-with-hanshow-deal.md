@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-c
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 300
         height: 243
         isCached: true
-  - title: "La Liga and Microsoft ink new technology-led partnership"
-    excerpt: "Spain's football league (La Liga) and Microsoft have enhanced a partnership that began in 2016 by signing a new agreement to boost revenues for clubs and launched a new commercial offering featuring the latest sports technology."
-    publishedDateTime: 2021-05-20T07:17:00Z
-    webUrl: "https://www.telecompaper.com/news/la-liga-and-microsoft-ink-new-technology-led-partnership--1383761"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "7o2uJWWhC7IAinXEePK+zq7lHmGt8z4OZhBmPx5Tl934TYY7G8qc4uMKY0Y3ybMrUHqiI8P5xYptzelNFFKljf6nnS0ZQ+QEy8z5asc8HMvQi96kYz4dtfsjC32joyRlBF49N1qtuC2iOIuD9AmB9qvAzVskAG86QmirBBqvJ8hrjXDuqjaGSDh/aEUsU685UgHwN8Kay7GOf1qRDSok4fq8d9FyAekNTdfWUYAIx9jY3bbmumqoghFLVSAB1BpK9d5IxUxO5BaZOh2NIyEc3v+xwKFwHUmKqSHsh5BRfjIonmU1Wfr3b/wmmpec6xDwgx1xx6vIo8A5LJgZbnjy3GKDuzVfb+fA9iJAnktm6rs=;vyY5r4f7Kh3g9W0D8nlQjA=="
 ---

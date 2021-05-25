@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/innovating-with-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/05/teachingrobo.jpg"
         width: 800
         height: 427
+        isCached: true
+  - title: "Walmart Innovates at the Retail Edge with AI"
+    excerpt: "Through the combination of world-class software from Malong Technologies and a powerful processing platform Dell Technologies and NVIDIA, Walmart is able to deliver groundbreaking AI acceleration at the store edge."
+    publishedDateTime: 2021-05-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/05/24/walmart-innovates-at-the-retail-edge-with-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
         isCached: true
   - title: "Committing to a U.S. Government-Industry Partnership to Empower AI Innovation"
     excerpt: "Such a partnership could make prompt and significant progress in resolving the top barriers to AI innovation and deployment."
