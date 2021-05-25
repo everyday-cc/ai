@@ -119,6 +119,20 @@ related:
         width: 938
         height: 483
         isCached: true
+  - title: "Self-driving cars offer chance to re-imagine sound systems"
+    excerpt: "Self-driving cars won't only be used for transportation. Conveniently, passengers will be able to work as they travel along, holding video meetings and conference calls. Or they will enjoy music, TV and movies much as they would in their own home theaters."
+    publishedDateTime: 2021-05-25T13:39:00Z
+    webUrl: "https://europe.autonews.com/guest-columnist/self-driving-cars-offer-chance-re-imagine-sound-systems"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Lars%20Carlsson%20cutout_1.JPG"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
     excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
     publishedDateTime: 2021-05-21T14:20:00Z

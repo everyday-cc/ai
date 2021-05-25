@@ -19,22 +19,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Adapdix adds adaptive AI tool EdgeOps DataMesh for process optimization"
-    excerpt: "Adapdix’s EdgeOps DataMesh puts AI on the factory floor. Semiconductor manufactuers are both backers and customers."
-    publishedDateTime: 2021-05-20T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/"
-    ampWebUrl: "https://venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/20/adapdix-adds-adaptive-ai-tool-edgeops-datamesh-for-process-optimization/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/alpha-e1611232841973.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Adapdix announces EdgeOps DataMesh™, first product of next-generation adaptive AI software platform EdgeOps™"
     excerpt: "Adapdix, the industry leader in adaptive enterprise software, today announced EdgeOps DataMesh™, the first software-only product based upon"
     publishedDateTime: 2021-05-21T00:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3618173/how-ai-can-enhance-custome
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scaling Higher: How AI Can Scale Across the Enterprise and Enhance CX"
-    excerpt: "Artificial intelligence can be transformational in improving customer experience, yet too often the technology is stuck at the trial stages rather than full-fledged development across the enterprise."
-    publishedDateTime: 2021-05-20T22:13:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/scaling-higher-how-ai-can-scale-across-the-enterprise-and-enhance-cx/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard.jpeg"
-        width: 1928
-        height: 1125
-        isCached: true
   - title: "NLP innovations to help elevate customer experience"
     excerpt: "With the latest NLP innovations, companies of all sizes can put in place mechanisms to identify and resolve issues impeding the customer experience. C.."
     publishedDateTime: 2021-05-24T03:28:00Z

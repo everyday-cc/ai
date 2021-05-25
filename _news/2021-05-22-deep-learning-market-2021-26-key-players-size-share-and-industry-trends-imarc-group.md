@@ -53,6 +53,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2021 Estimation, Growth Factors, Overview, and Forecast Report till 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Agriculture Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-05-21T01:24:00Z
+    webUrl: "https://menafn.com/1102102389/Artificial-Intelligence-in-Agriculture-Market-2021-Estimation-Growth-Factors-Overview-and-Forecast-Report-till-2025-Says-Kenneth-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "ObJeEN6yz+s3fg3i9BBhfuXklD8BwDLt2qwq9ftU+l+9jAGMOFN61O/bgqNccPW8Iir5ymjCV3ynRxzPTzhPxcq4aJXISiqjnbz0mM9ng/u+2Y95bZRedd+q4I3vYqjmJ+j9yo4xBu2hroqCH/s+HfKEa5KSBQPVuWqLg1lJiuifGe/79f/xo01RRVJHT/ADG12z5RfZ2n4802QoLBLI/SyPeUlZkGcOY12QFRl+hjz8THy+fRgWbLEVcVptt7tUbSsB5mb++X11fupQAhdrNQID24RgBZTU7LoCNGtUjYybHd0CyU6ihFhElMCREjoUVAqPqDw9Xi117nML/W8GNKK7jSOpyyrnuXFMDZOCYXw=;EuDf2XJYlSh5wyL4ksobXA=="
 ---

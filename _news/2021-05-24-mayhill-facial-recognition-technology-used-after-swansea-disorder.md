@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Mayhill: Facial recognition technology used after Swansea disorder"
-excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smashed in Mayhill on Thursday."
+excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash."
 publishedDateTime: 2021-05-24T06:58:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-wales-57213543"
-webUrl: "https://www.bbc.co.uk/news/uk-wales-57213543"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-57213543.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-57213543.amp"
+originalUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+webUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+ampWebUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -42,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9vc4ywIc+GyLpC035WGd360G8m6CdGiAQVtAKAD5xj5uEHdCU/S7Uh6MG8eiCtPvHT2m1vfw/d7JxJpDdd6+DtPQwTZoIJyFoHqY4dNe7Z5ZIEh2bhqSn4ZO0/Gq+inxwoyDyimsov3G6GUG1FcZJmzsYMFM3wYXAJRcgmf2GbbIyMMvE4gBlZ0E5FvTWJe0LdnKzK7D5nd8YTArodbahOr16M3GJ3+X9dIkV2aok3L41loumpPzkYe+lobvBEcuUdmDJgwo4TDvmfqv2qPXLy1A3MsUdtQd/7UOezcUdrEASEVOU2/aEZsjoE9gx78CprU9T/kmzXtbdw+FeYL4MQKUkvh3kC4dz/+l0BcbqSk=;2Fqj7tKcUVfBv6ylpZXQ0w=="
+secured: "1ssGM/wFBelDfGbFo0y1JKaJwe/7Sz5ru7EGwpcu2zTTskDSwzNgQEzf3zL4mZSpzDoWxMp8JxRR41Mm3mrReGXAxP957wWHrhNOzlKnba2QXnwHb5PWEX2abGDCLisvkmdk1vkGTIwp7yyYDF0qAG+zxEeuqB6QAkDWy1wL+ecG9htmhQ3XMCmXlOpBcZVKHyOMZ43boQA+VXd/I6w67PxAogB1ZYv6gQqKh0i2IGQlQAI2ZYOoIT6RGp/8kD14sbdgAX3WaH/5ZrTpAM6Rv1bnUR9xtkNeY6S2rZ7IDsliO+godQtV4yTAnS+nes8RF8j1X4fYe9vCbTUGXXUx4MUzaSVyvXc2NnOHTyTb0X4=;ZiICmzHUHqCuX7BsDul87g=="
 ---
 

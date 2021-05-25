@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Scaling Higher: How AI Can Scale Across the Enterprise and Enhance CX"
-    excerpt: "Artificial intelligence can be transformational in improving customer experience, yet too often the technology is stuck at the trial stages rather than full-fledged development across the enterprise."
-    publishedDateTime: 2021-05-20T22:13:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/scaling-higher-how-ai-can-scale-across-the-enterprise-and-enhance-cx/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard.jpeg"
-        width: 1928
-        height: 1125
-        isCached: true
   - title: "Crayon opens AI Center of Excellence"
     excerpt: "Crayon officially opens its AI Center of Excellence in Singapore to offer additional Data and AI services to customers"
     publishedDateTime: 2021-05-24T09:31:00Z

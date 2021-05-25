@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evalu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 554
     isCached: true
-
-related:
-  - title: "NIST Proposes Method for Evaluating User Trust in Artificial Intelligence Systems"
-    excerpt: "This is the question that a new draft publication from the National Institute of Standards and Technology (NIST) poses, with the goal of stimulating a discussion about how humans trust AI systems. The document,"
-    publishedDateTime: 2021-05-20T22:01:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/nist-proposes-method-for-evaluating-user-trust-in-artificial-intelligence-systems/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 32
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2019/02/technology-3389904_1920.jpg"
-        width: 1920
-        height: 1078
-        isCached: true
 
 secured: "93iUA4ZQFRAe4foL+qGNtKMh64L3IOWWoGZf3doeosup72oT1N1VXSW5n6Lp1Frc08xEPzqLm616a/YTrmWNoS5TTxNYeKJ8Uwy8Me3sojjvioqW8hN1aEgnNDDcnkkz0X/GPDOqUqRG1g+0ZzVxZYwAmBjtYcn/VkGJm2gYSSAGeWQA30i6VMlHOW2/c9lsz88T7FxpVpwICrLz6fXy0cpIElW+HP59yemBC51UCTf6P2zDjQYVn0ENcwvhFcNMaPuuaNuAusOrQMY+qhZlSisfjKHsET6cU5CPm0lbCvFhDIsTIBxIpLsT6RxNUxhGLYlUOakjBS4UpJ0zxuUFyGqrvF7/O/vOD0qQ2WA2bp1SgxIOwyjWY9VVphEOSl9tWHdOvg9M+z2DXJlk05+GwTlR7TPVJyaITZmBw5BXV3ugkmTNFLfqPeOXFiaCygrx5qdvXe6dZC4FCElp/UKr+6J/yaPgijHZebJCRxj4IfbYxSezF0Yc/vyQ6MIhVpQnIAuGE790T7zBQzMdh7/00A==;ENzrO5xaJWRjfAGgzR5l9g=="
 ---

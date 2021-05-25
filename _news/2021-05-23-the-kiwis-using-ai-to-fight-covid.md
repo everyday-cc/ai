@@ -25,21 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence to Improve the Way Videos Are Organized"
-    excerpt: "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content. At any given moment, many thousands of new videos are being posted to sites like YouTube,"
-    publishedDateTime: 2021-05-22T22:52:00Z
-    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/"
-    ampWebUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
+  - title: "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-05-25T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://scitechdaily.com/images/Netra-Artificial-Intelligence-777x518.jpg"
-        width: 777
-        height: 518
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
+    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-05-25T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-05-21T10:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-05-25T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Interview: how AI and IoT enable businesses to adapt to a post-Covid-19 world"
+    excerpt: "The pandemic has accelerated the transformation led by AI-based building solutions and IoT-enabled remote services."
+    publishedDateTime: 2021-05-24T07:08:00Z
+    webUrl: "https://business-reporter.co.uk/2021/05/24/interview-how-ai-and-iot-enable-businesses-to-adapt-to-a-post-covid-19-world/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/EcoEnergy-Virtual-Diagram-W-1200-x-H-675-pix-01-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "eB+02FgGxYvh4oowzBn/+fF5W1E9JEqrQIlvNnfDUxTr+rgWok5NtMa/yOyKtPwS4ROn/RrgitJ3Zrn+TKeTiEZvBfSYD6cArmyFYl1wEhidfEDtfhvn6uW3v80iHmtN62G3HhuIvJGaK1lLuF7T9luFrY5M6gCx942jSQM1utwbjKw5gk5S7F1ftaq/LcyRguKeH0dFv7NRg7p0PQZ/sUA0P6rjzEFBckZs3TuP5PAKtUwBUGH+VXrAACahzu5ThaYt/cBTQo3ahZEyrYNsizt2EcVVSzSH9qAjqwPt0scRg2kT2TX2FKR+qtMdXCPtVZWRLZWj5KxlSOl21rmN92o3JRy+m9Xxg/ezWUbgRQI=;Y6JslEnQqSrCLI56HUDTqw=="

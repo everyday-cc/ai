@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
-publishedDateTime: 2021-05-13T14:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
+excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
+publishedDateTime: 2021-05-13T14:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "4ifwPj5XZYuj5ENYFxMV4o03ySeRQ7oajvmI+0L4WEHASSSgi/v/W3pTnkU34LwuiXWqtpitXKe9kOZwBD9YHUgB4WIjUYtaQuFxXW4HMRPFHJxvQRQzoGWTUdDwwBh/14F9zyCIdRGNyrQnYh09rAFsNTClx66qKVvNw7TRs0RLCAc2fFnKffJJ6LSPFAO57vEpuzREouCPpTtRDVUjyZw8SvechrAkY/DaZKJ7N56sGJKfSQ/Q4fneeSUq9rLl2Xe8Rz0Qne+vxGFBhsbolVckjE45vIzi/T+0BVQwCBpNVviH39VTjZX/NYfDqrnIka+1no6q1zJ7yG5uuq9/wnvQFKymKjMkPl20PrncIho=;5p1W1Ke1CCvHCWlMypEByA=="
+secured: "9fPP4JklbB6DHiZI/sFV/qcD47JLbmjm7ENZBzjaZvH5WJ6XlH+Cx2BtXWnI6Lwod6quF6cvc2szofWCKFE6orfxZQrdiGmkmpxslk9dKzgEvh5Iev0ttbflpad46XyVbQ6GXRojdeVpyDZpdOLEByjijV1leRD+XJ08tzNTudeV4Ih2qwHGghne0pWdn6N5kVFACxA3PdfGCyRrXJYE+B3gpzwR8a6a5WKX+Jd6gdZmSXHqF7LeMdupGcoJ1T2f7HQOwxZiHaChlHv3PHc6knKiubFXNx4eGnsoEp4luUJNOVUPhG51rBeur27iwDu06vCZY0W6KEOMSEvUYb5ZMx6uL+drGWxyd5VvvTWlUnE=;Uh3q9YfLF5VQo6tkIdk0kQ=="
 ---
 

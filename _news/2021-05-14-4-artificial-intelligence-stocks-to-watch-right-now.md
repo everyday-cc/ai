@@ -1,32 +1,22 @@
 ---
 category: news
 title: "4 Artificial Intelligence Stocks To Watch Right Now"
-excerpt: "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?"
+excerpt: "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI"
 publishedDateTime: 2021-05-14T14:24:00Z
-originalUrl: "https://www.entrepreneur.com/article/371987"
-webUrl: "https://www.entrepreneur.com/article/371987"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/371987"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987"
+originalUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14"
+webUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14"
+ampWebUrl: "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp"
 type: article
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "Q/X5ZHlZ//f5NjrFQl2FFs11RIHzPvH7sxoMUZ+cWrdDBkD5+OvPasQyEjOGGB6NlOBOUjDNcvb5GkSeuWJRuHLU8IVejokYrxEwHix+PiSRABjqTHO665b/isQyK/JwuNpGa3S53ydwHC60UJkx6R8Tig9PcMpK2ukGqjNyzjGCArQc8dsU67A8un6wI4BHpkrsBXzDQnsjQP3SX6dOgdEc3a21T/TcIIacOs66kMjf9wwcEMQ7M+PTeIoFEJXEzgYiS2kWwGWPrYYnfIxSm63seo/izGcE0CO68mR5g766jxl2HuJi3eKFf8feSCS33CmkzKdBrbgPEMe6F5pygXE3vm1eidGGEcQuD/4SQor2QXpyUB9Kza3yv5KVBB/FYV3EYu/s7YeG88Yw3rS7XXz/cGBcRjvAPwmWF9w1Vhbx4XHcE6LzHgFTxg+aZ/b8rLBX/J8PT9hHZ7I2jzipKGvoRv3cvDosE27cnKZGo1x9qbizAaijFRiZOiV/LmWcaONbaZgfzX0t/cO5I3xOVg==;SD29VOX9/nr6KTucmRsL8Q=="
+secured: "mebQ3SPvPjxU0J0xRnz4oNY+BeuG/omrW9eMpSWzbcYA4xtj0Un9rFvUSW9r/Sx67YatvFBSfO18XtvdORaI61wBq88uj6Q6P0WMCetQLmBwPKJ9PGslggXUC5KcMN/8Dv/ukpsZCgG9q1wGw1lG9UXJUw2a2Gta99f8y48EDzYq+FcliszhN06UxIlsp0z0e377uAZLvF00/U8Ho8kthZLHhR9XC8GXelTacPT+aMRVlbKCrYnKoN4+ADK+W5b0ds7SMkCkingS9PUBgghshzoD0S8Nz62qx3+k19f+QzfBBwG7lbQwWeTvkvFHmJ9BLMZpfc1eVOvg2VvfXRh+/0uUyk0K+fHDVTwlSh0RCWk=;fYAlvr6Dh5B3I3Chu7v8cA=="
 ---
 

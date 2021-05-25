@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML"
+    excerpt: "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house"
+    publishedDateTime: 2021-05-25T13:16:00Z
+    webUrl: "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/"
+    ampWebUrl: "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/"
+    cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/"
+    type: article
+    provider:
+      name: androidbeat.com
+      domain: androidbeat.com
+    quality: 60
+    images:
+      - url: "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg"
+        width: 1024
+        height: 665
+        isCached: true
 
 secured: "dEQHzglmzLZ173Hee/P4AzuAPITB6N8n96/Ic1iRIDquh1nBeSeqUBZp3plAUxnlnIxhx/HHzx+Ql5ZKJ2uzM5Amml3Vla8T4AwKZUKCbtL7oo6dJkOrGRrTTB9iYfcYZQTPaw0wswmNppmybOXy9zx7DXTDCoK5E23GeXu08BLGvO0fbfGfd6wXqk8M4UAcNZQiR9l42W74MlnIrdLI55eVTbnvBhHzIwGiZ/IE/nX4pNG/SAp6k8SnnaBx8kVoEyF5m490fkPq/E7VJ4pChHW5E5CYNZrETN66ynCh4XPWFqF+A+uG/UEFx4TE56an7PPlXG/9OGFkSI5tzIt7Iv4fMRe6X/6tYDC7VPX8ri0dFChVFqRZp6X5KAzjy4gZRU6jYft9iVP2q3eY4yPoVkPnOtpnACdrLTmPrEUkZnavADD5j9aXqpE7uPleMSSOGCJFpugwncIbEMAdYUMny2jcUvV+ddJ7d3CRnHw0D89no13yt/L/fkNsN16HX1jjpQrl/BwYHJxX8dgFKw4QoA==;ocjVB8QOTtjxEPdQRZHPrg=="
 ---

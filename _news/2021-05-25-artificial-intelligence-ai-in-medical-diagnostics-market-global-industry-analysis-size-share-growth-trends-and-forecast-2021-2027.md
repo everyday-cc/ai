@@ -21,15 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Artificial Intelligence (AI) Market Production, Growth, Share, Demand and Applications Forecast to 2025"
-    excerpt: "Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. Request a sample Report of Automotive Artificial Intelligence (AI) Market at:  By identifying the growth,"
-    publishedDateTime: 2021-05-20T21:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-production-growth-share-demand-and-applications-forecast-to-2025-2021-05-20"
+  - title: "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025"
+    excerpt: "According to report Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020 the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25."
+    publishedDateTime: 2021-05-25T13:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2021-05-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Share, Size 2021-2025, Industry is Growing Rapidly at a CAGR of 46.76%"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
+    publishedDateTime: 2021-05-25T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-size-2021-2025-industry-is-growing-rapidly-at-a-cagr-of-4676-2021-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -49,20 +63,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market 2021 Segmentation, Future Business Strategy, Manufacturers Study and Forecast by 2030"
-    excerpt: "The report additionally offers the companies/producers panorama and a corresponding certain evaluation of the pinnacle companies/producers running withinside the worldwide Automotive Artificial Intelligence Market."
-    publishedDateTime: 2021-05-21T11:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2021-segmentation-future-business-strategy-manufacturers-study-and-forecast-by-2030-2021-05-21"
+  - title: "Asia-Pacific Text to speech Market Size, Share, Impressive Industry Growth Report 2027"
+    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 Significant raise in the funding for text to speech technology providing start ups to unleash the"
+    publishedDateTime: 2021-05-21T21:50:00Z
+    webUrl: "https://www.openpr.com/news/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
+    ampWebUrl: "https://www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
     publishedDateTime: 2021-05-25T13:53:00Z
@@ -74,34 +85,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 12
-  - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-05-21T00:31:00Z
-    webUrl: "https://menafn.com/1102102410/Artificial-Intelligence-in-Defense-and-Aerospace-Market-2021-2025-by-Product-Type-Application-End-user-and-Region-Says-Kenneth-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
-        width: 443
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Market 2021 Estimation, Growth Factors, Overview, and Forecast Report till 2025 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Agriculture Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-05-21T01:24:00Z
-    webUrl: "https://menafn.com/1102102389/Artificial-Intelligence-in-Agriculture-Market-2021-Estimation-Growth-Factors-Overview-and-Forecast-Report-till-2025-Says-Kenneth-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "fJX35jLrnrye1c0Gq0JXvrfZRRtAGnGGaIWdzO8lrMauWiLAA/0DGblzjI8NkBePXxrEnYEvKjyz5dHWI4A5UL9QRHW9l9fRgwK/8jfps2tLfp7fhxS7eU+BN1aPg/5G7j24H+cF4r4uIevv2ildjHQZi6GNzRo7yiHOT8p7WrmB9kqhMuxtwuw4v3DxRU3wwdZpqPeiy+sWSEOoWBxjRZmiIyKskY/LRJzstvB6gQ0qvZMGkfEFDc9O7p/BGSGMsuBaYV3AHnG1LPEP+3tTHXLz4Jn0w6ll74K0RfI/Uk6x/TAWF36Nd89qUikgY4YwxzcVxDJGF0wbt1ZdH4I3RCTe1p3caMVDY9RMuj40fL8=;+z4Ax9Gef3sc3lJd1Fz9Dw=="
 ---

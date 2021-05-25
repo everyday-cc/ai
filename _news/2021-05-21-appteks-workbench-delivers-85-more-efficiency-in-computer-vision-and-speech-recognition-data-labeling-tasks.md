@@ -1,22 +1,18 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform."
-publishedDateTime: 2021-05-21T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
+excerpt: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut"
+publishedDateTime: 2021-05-21T12:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
+webUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
@@ -24,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
-    width: 400
-    height: 286
+  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook"
+    width: 1304
+    height: 683
     isCached: true
 
 related:
@@ -46,7 +42,37 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Massachusetts becomes the first state to pass legislation restricting the use of facial recognition technology"
+    excerpt: "Lawmakers in Massachusetts passed one of the United States's first statewide restrictions on facial recognition for police officers, which may set the standards for the industry nationwide."
+    publishedDateTime: 2021-05-21T07:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/massachusetts-becomes-the-first-state-to-pass-legislation-restricting-the-use-of-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/e476628/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2Fd2%2F5d1405d3469b8a308cd62605b4b7%2Fwb.Tech.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
+  - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
+    excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
+    publishedDateTime: 2021-05-21T13:40:00Z
+    webUrl: "https://www.actuia.com/english/amazon-continues-to-refuse-to-let-law-enforcement-use-its-facial-recognition-tools/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Image-for-celebrity-recognition_v3.2264009c637a0ee8cf02b75fd82bb30aa34073eb.jpg"
+        width: 1224
+        height: 660
+        isCached: true
 
-secured: "90b0qZhhC0iOJcrUhwN26gevhZkcfp8hacuiLFyjWQHLvEx3mq6wxt6smvrIQljkYxsG9N8bNqnLH3vBDUSNCD9LxhV/kSaG7vqhNKnEs3g22e9uMjz45qxLrR/ZloTViDBEw/9DUPwBKE+iSeOC98UwtX+eFsShpLEd1P/HGLarsB6ZnPC9t2pMoWg4yr96YvwMJ0AkiCyik3gwIB0/XpDulkgOIMoTBdljsRQGtcXopHxtd4jkFML8gYt9Bgd0izkUCMbIiyoh4zhDmUwxShndycxAgSPorT6jBzUIL1ciQd4KPhRrB06j/sRzUJghUHwju0n+mY+6SXlw9/2U/78PWA1vPDmpwJtCnimYwKdNpLfCXTZaXUCAlTxllRU0NLYzXDrUI3GrNr+I4bhmX+4H5GpHMcEqzwsISgx4/GV2npITQgXhYQU6Lu4sI9cS0R80k6d2iFlAAziuRUE41CmBTY8plAgvmOz6AwtHtzxgqjPXntWCGxi/wwjJp5cdbK8Y7wea4DoumKyVKA3dAA==;XaN3H6EiQ4Esszv9FeOkxg=="
+secured: "0snvkuaGa0FK6IACD2ZACRA1VjE52HRrcjlESIjookNFRCwBWZir1EbzLaHyXOjuHRnxLoCJxptxt6LbK3UQnc+HyXweaG3fEEAEREoi3EkRne791OG7g6UGeN5umV1dkSfyysh8INgcBt/qE3WMZFSa9smzaLXwZK0lG+uorUNjtX/xIdZUXzkxwXN04s507YrBQ6gXD179FFh7EFqqdUQt6puIO6lFKOMacX7Gzmg03Bj0Snwxc720IfrHgaoDpgL9+TChjl3phkgP34kziHmVUSwfHgNfXfLnHBigcmcq0/6j9S+UWAdlMcUT8U44spJ2fvx5Mq/cP3mJPHdz+BD16KK/DmsaZeCy2WMTMrc=;U9PwMPsP2464G9I8cpKz8A=="
 ---
 

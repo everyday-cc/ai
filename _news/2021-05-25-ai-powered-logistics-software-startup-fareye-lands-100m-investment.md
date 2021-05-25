@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/05/25/ai-powered-logistics-software-
 webUrl: "https://siliconangle.com/2021/05/25/ai-powered-logistics-software-startup-fareye-lands-100m-investment/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Invoca buys contact center AI startup DialogTech for reported $100M"
-    excerpt: "Invoca announced the acquisition today without disclosing the deal size. The transaction’s $100 million price tag was reported by TechCrunch. Invoca makes artificial intelligence software that enables companies to analyze contact center representatives’ conversations with shoppers to identify ways of improving the customer experience."
-    publishedDateTime: 2021-05-24T17:13:00Z
-    webUrl: "https://siliconangle.com/2021/05/24/invoca-buys-contact-center-ai-startup-dialogtech-reported-100m/"
+  - title: "AI-powered financial research platform Sentieo nabs $20M"
+    excerpt: "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round."
+    publishedDateTime: 2021-05-25T14:36:00Z
+    webUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/"
+    ampWebUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/image.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all"
         width: 800
-        height: 450
+        height: 400
+        isCached: true
+  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
+    excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital with participation from existing investors Centana Growth Partners and Studio Management."
+    publishedDateTime: 2021-05-25T13:11:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=836825"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
         isCached: true
 
 secured: "hWkW5Ib+zajc7OynEDjbD32m2wOU/JlIIMjcPRTKCrVlVGMvAamM9MDJb0EWP3lNatChtnUSLG0kf2QJ72IvxJc+YIAkPUr+jkcx7liZX+5bz7oNyd85uMyafWnRGeiigsmTJ2SkEA6bHXhsNTZDUEscnJTXm+Zsc6629TfzjKDBoBRw0FocgTmNYGn9qle8buStc3Ci5Eu5tTme1V1h2rXj3Wppi4gOyCxBHOXywRSOAyZmdQVm48NyGLRV49d/2NJJA0SSdKYRomupIm8rPP1tuodMKDhEnJqcVrOKjk6z+kluZ6XFS6jzVH2AmAYtBpSXMQ94h2erMKpzXjTIquv0kIpmYAnKAg/w1KuYy5HLnv4XbA9tWyV4iLlT7P3ZQsY1xIZEKnmOGdZ6UgTnHG0fDymQVkkL1m92e472emUTeBD+nfx1XlSjww46BYzPaPvG3By808pJBPHCtz/EhWQ6msGqqbcHVOK5DElm00YRAmGT2LQCuJMNPJ6qFe+PTXmGzn/povRRZaL+4F4G1A==;tiDEtrES3kwJedmo8iJ3xg=="

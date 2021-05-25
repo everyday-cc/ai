@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-c
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft_hq.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
-    excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
-    publishedDateTime: 2021-05-21T09:34:00Z
-    webUrl: "https://fcbusiness.co.uk/news/laliga-teams-up-with-microsoft-for-digital-transformation/"
-    type: article
-    provider:
-      name: fcbusiness.co.uk
-      domain: fcbusiness.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
-        width: 300
-        height: 243
         isCached: true
   - title: "LaLiga teams up with Microsoft to digitally transform football globally"
     excerpt: "LaLiga, Spain’s premier football association and Microsoft have announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga’s technology offering,"

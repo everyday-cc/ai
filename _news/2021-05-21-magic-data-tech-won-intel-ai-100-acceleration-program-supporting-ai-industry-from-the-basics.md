@@ -53,17 +53,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Can the Youth Mental Health Crisis Caused by Tech Be Cured by Tech?"
-    excerpt: "Health officials are warning of the significant, negative impacts that online life has had on youth mental health, but AI-based trainings and online therapy could ensure that health services are reachable wherever the child is."
-    publishedDateTime: 2021-05-20T21:36:00Z
-    webUrl: "https://www.governing.com/next/can-the-youth-mental-health-crisis-caused-by-tech-be-cured-by-tech"
-    ampWebUrl: "https://www.governing.com/next/can-the-youth-mental-health-crisis-caused-by-tech-be-cured-by-tech?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/can-the-youth-mental-health-crisis-caused-by-tech-be-cured-by-tech?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
 
 secured: "4Bc/XpTNAb+KDuirNykUqdAmq88c+2wBEARxQXUnhxMAFQJDVeOupFlmMLIZu6+q9Ej4XanhZ4x4ChZzfC+2s6uKVuuRfc8h4aEhdhp5LrQuzJ8ys9rXXHqmxAJcxoH8RhuFxozw+gwa+SI9lMTx3uycXAZr3HWgfoKylT0OXVADf/VseVh279Rclg2z00RF/e8oTVcXJ9oajxXtiJExFG0BW//x03yprHV+vh4WR/mvGKAOcYzb++BqN6vuOfonlptMvd6TEh23dIJwjiF0OT+0/gX3lhv8v8vseo1jZz3U+a2TzNze/hQRs6sBvkhurNUlhgb2oDsfs6blkkzijfyS0fHRxyOLguMOujtDyyQ=;6PdFI3kt5VRv6iSOs+yncw=="
 ---

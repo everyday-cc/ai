@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/manufacturing-ai-startup-exlattice-joins-nvidia-inception-301297998.html"
 webUrl: "https://www.prnewswire.com/news-releases/manufacturing-ai-startup-exlattice-joins-nvidia-inception-301297998.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1517200/InceptionPR.jpg?p=facebook"
@@ -23,6 +24,6 @@ images:
     height: 419
     isCached: true
 
-secured: "3smcNdSv3YdrYF1NNcJ0kV+WvEetE4pauhbtzGUx/fycALPuaVeFL+W36lUcBwvNajnfD8v7jNag6lS/pdAONa3NpJl3/pJXmhnMjh79KZTcGwHwRu/+1qx+SKWgRFIR0pJfrH6bSv/N4vhzK/zKO5CUpyfA2wFjqk8BaDIsgbVUYBlNblASSjfbGiVCnylaYrRHuD0Lm/Iatgz0fHhl6qNXFYoJBZFvP4qPA7BVkDRXPMumuCXE3cHrdxVDtgVzdN2qM7kSvFBMJ/PDnNqqnP2ozVNj3keKo0ND7FwF9d2fKfxk8NQ9Tbufir691s6xmL0DxyBNVUpu11tjCUR00im8zheT6/kOIjexYSFOqpE=;/hUU+8MKMWVXRMT0vwkWDA=="
+secured: "O+gnt2CaAvuDjDLPBmjujHDIUMtrypwNIukKj5DTFdKc6XwQp0JP5gKNV3LhzXlcEurPfRut2JIf6dHOvejk7GpKsvdVvEQ7Cm1Dp74fTvlCjP6Vn1mQuiN3npwvPk70ooNM2seWuK6efMSq3LpePsnu/Dzng+AYBke8FnQC+hU+3Y6MtGjGM63VVNmfTEdoKi0BsCWMlmpsuyxDi2CldeOobl893+DbBUCRUnHNirjdFKmLkHMzQ132FQQc0xkPuxH/ak64dMlVRtWwmjse1Vq/rg3GZOnDsZSjTY0FtOFZy+Yjwc7UwUrBsxBRt7CGYjxmWGHysOPc0aQRZOQkSOkmzOUd4D80vC2eN/B7jfwdmdibpcn8adhuhtAZmENBXUdOZ595e9Wv5Ut7SZikC7s+1nABZoSnE/V1+SQyoveCbXcWNYCnngIKpO+ljuiwdEtyE9yXky09RClJiyndAJQVJpggN7C2owdU93suUjleqbPo6Lbe0hGvDUwsfI8o11yJzpeSt+grhwevzd8nCA==;C/q2U3miWfPwY7f/xCqxTw=="
 ---
 

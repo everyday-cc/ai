@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Splice Machine Introduces New Edition of Livewire Operational AI Platform for Industrial Users"
-excerpt: "Splice Machine, a real-time machine learning and AI solutions provider, today announced the release of Livewire Pulsar, the latest edition of its Livewire"
+excerpt: "Splice Machine, a real-time machine learning and AI solutions provider, today announced the release of Livewire Pulsar, the latest edition"
 publishedDateTime: 2021-05-25T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/splice-machine-introduces-new-edition-of-livewire-operational-ai-platform-for-industrial-users/article_1ec33ca8-022c-5178-aa3d-beb8066c6d2f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/splice-machine-introduces-new-edition-of-livewire-operational-ai-platform-for-industrial-users/article_1ec33ca8-022c-5178-aa3d-beb8066c6d2f.html"
+originalUrl: "https://www.prnewswire.com/news-releases/splice-machine-introduces-new-edition-of-livewire-operational-ai-platform-for-industrial-users-301298503.html"
+webUrl: "https://www.prnewswire.com/news-releases/splice-machine-introduces-new-edition-of-livewire-operational-ai-platform-for-industrial-users-301298503.html"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/df/fdf19d0d-5d98-5b2c-a6ba-b7fcd523f047/6048d202ce436.image.jpg?resize=1200%2C628"
+  - url: "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook"
     width: 1200
     height: 628
     isCached: true
 
-secured: "Q6mulIaBcPzuCy2sCEhEXUyAw4KcCWMAp5u76A09ODYwEazWToGOGl9YQBQa1XtWCTcdtAt7S0rvIt1Kx5yn5//jeUeS5g02Ps6PpIYbJKtWEADpDrgsXrSdiKotpUy8g1XkDpHjuLDlBVxBH9hIY1QOBsn0nq1EzW+LVq/+IIimhuq05XLuzmrnN7QCCX2KuOepzrSmfzZhJ6p/V4QeXNKB3hNauuarTEAeZW72F+oIDPVXtdh/6AorZMW/6AFkbYX1Opkl4XACRxdLFKa76N+tkVCPjQjRGVsdip7sESew2u+e7eQdREIvhup54D+Zd1QHwkmlPlNjveFlRtQ7YdlIeoSq3F8C1VXri91s9/M=;CkL7pSaMhCvIiduZpFFodA=="
+secured: "Tc5DOShE5F2V36DkKIWIz4yR+lERXlfJ1q8xn2hib+9esrVu+7UUIhSQi4kpqFU1y7bGUQszv35opfoqoGyPmL8Yarp/ULuLy3shRWdNMijyJ5BEzxR1Ky2L676q+5YG00uybD1gGTBXnAxBLOQvDDW9HOYJwP4K6ftX8R+Kam4jyP/IANud5SQ8Znle4cTmp6pSJdLj88H3HoPqAAKmex4zziwpEga5I+Ltl46AdzZNBd0qrI6799H7sP3/cGtuteyQlVKW+QTzMhA0sbNXTPd8GLmrzQM/fw31tU0rK1301Vp0+3x/EkkNnB0RETLBVOvCAeG8a6HYmVkvsvbCj1aB3A95FVXUvoMxp+yjJ1I=;gFnLrfJsladPVliGOcmihA=="
 ---
 
