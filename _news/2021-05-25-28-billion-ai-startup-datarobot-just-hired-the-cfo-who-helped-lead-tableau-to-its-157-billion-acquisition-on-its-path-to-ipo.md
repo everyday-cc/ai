@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-24T23:08:00Z
 originalUrl: "https://www.businessinsider.com/ai-startup-datarobot-hires-cfo-ipo-artificial-intelligence-2021-5"
 webUrl: "https://www.businessinsider.com/ai-startup-datarobot-hires-cfo-ipo-artificial-intelligence-2021-5"
 type: article
-quality: 38
-heat: 38
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/60ac2c90a412370019d31bbd?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "+3CJN4R4E0pltd4dh4Lha5bxjdcbInXUBh/KxTMJM0sFr30NfQRMMu0OUrpbPs952XnbhcKvBELLeJ5h358cyRaleH2WvS1or+XVXOWMY/EFunqKoiZjAHb16UH09QPFuipSmQMBEZbOrkq6swCIxXGYjUHDbwA+WsqdKH0JSTrCgUMuR7VnnWgneZ/Ve60eU4ul1YAtf5Vna6FYKuxQjbCwDUdWt324+DsAt0/p6ZH5BXQCUECs2eRo4BoxO4YgUnLPLMXjFpXDehTE8uFLpQIxPZBo+JjMkAa0UnjoUNESMjFBKUA2WEaktwVtlN2TAfUCcaYOg51NFiBpdiNXb4bs5Et0fR96E2dI5xrLMs8=;gCmiqFMs1kxuOSD+1LZtFw=="
+secured: "1/7lu18yMMWHijXfE4FnTw6o6afqbjNm5Uio0bdApR76xs/GVWDSR3kMsquo2x+YBUEDgRqKA9MoW93yp/D+KFDj5ZwVIjc1mvowqdSuWoZiXTls0QEp21YeRbNzJBzP79OOge8hOcUueGPHNo9wCC+CAeU7xHVcl0pK0DCdfYWd5wjyZQkdLBiKvs2wAAfK3jVNdS9ym/CV51R7IXgWlDLPQeoGvWe3hL3J4j7u8fQew5IO+NwN1hZE4u4qNEtdaCMCZjAFLscm0r6y3xNqlVsFl58/BQqpVQw/kVDiogbHMbKxlPlnlz9E4PlJZG6Qpx01ES89f6GuIFyKP1+HWnI7rYQc//9hhH4IujxPNyD5ZCX9dtW2Fwu9EF9qW0KQ6OkM4xAP0VhcyPMH1EeYqS5/EFqmAdi3yoSQdmO66NGeRhKb/qtNVxhnDK51HZfyjK9KZtf85JA6ZVTQo5MNTDmMS/bTkBqZENhJns95KgqRnZnT6Er4TD39CmvPFowSNdabfDz2jzRTnWylKEwtUA==;lhskchUh3en3nqAbjPiTTw=="
 ---
 

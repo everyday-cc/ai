@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-te
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
 type: article
 quality: 98
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -163,6 +163,17 @@ related:
         width: 973
         height: 460
         isCached: true
+  - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
+    excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."
+    publishedDateTime: 2021-05-25T10:00:00Z
+    webUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 26
 
 secured: "nCM46bs7QACG5pyOfPIyb+r3rqexToE6Ybp9Myt+EPjSx6Big/pIFM2ygomodQLoV2PoW84VMHf77mEfpLJX0GgfggmN8VUhmDtw5gXDiBAGTD5wdjRJsIrIW+nWTiEGo606GwiJcm2lm7gZ9jUGZopR1AER1fvdogWFauF/yDYdX6SYC4SZq6158VMQOaP0H6csJih3paDIUUpx5MD30Xk772ny1Ly7JF65zeIzQZhCaVSgdR4T4puxlWmArS/zAe/HQnuhCYrVpmDF7cjylmdinquh56WS6yN+BMz++NyT/noGtT0i7XscyBi1skvnBo2D1raCqPQptrbX3+uYFAM+qv8K8zjzx+RiGowMm8jwZvBmKWaMDWPFbbQ7CbnSUvTKH66Y4oHbOWONibuK+wkcfdzKpMewqDofOGwuD5sPsos6G62t+gswkG5XZsYPopiFdZvk6qUsff4XMptqoCfXtQC/gDj1pJLU0dhcn6GlKa48tqTY0hpvnmTeNbwinKUt7lKZ8CHRJhZUyBcwzA==;EAInd89A5lMmuAnQjDjHTw=="
 ---

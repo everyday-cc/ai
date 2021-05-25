@@ -159,6 +159,17 @@ related:
         width: 973
         height: 460
         isCached: true
+  - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
+    excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."
+    publishedDateTime: 2021-05-25T10:00:00Z
+    webUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 26
 
 secured: "4jdpnMfrXhFBM/2MkZDx1HnWOY/lKeUs/6fPBziG0WfRVgpIFmQB43vWOoDn3LkJbZzNkJMQaCAcvvY3NvCtBoPQqv8kUbZYljKarOSWlN/39pUj0wNLI2HZXzP5EluVoHD+Q2rYACGnh9QUmC8U+OR8e1CHg7ccamHEqBMd6/IGSmc3bGNbVi6sxpi5PWgmwYITfmYwO9ZDvjATmj8qS5VJFMLGqw+Ai26CtowWY0omt1Slq+Kj2qS7eTdfibDmPmZjj8gKL2wQYfW+l5fvCzoTMjrX1SAPVO8puzJdPc4OiWeyXXmSDF90iIlKHcOeNiyoyBINC4YSk0K8S1t2Dz28TZJxCPfLsOy2JwLWR0w=;3740KaoHMIlpy8Qbx14ajw=="
 ---

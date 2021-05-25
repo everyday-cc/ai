@@ -1,28 +1,23 @@
 ---
 category: news
 title: "IVF Life the first clinic group in Europe to use Artificial Intelligence to non-invasively assess the genetic integrity of embryos"
-excerpt: "IVF Life Group, a leading group of IVF clinics across Spain, UK, and Germany, will be among the first in Europe to use Artificial"
-publishedDateTime: 2021-05-25T09:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ivf-life-the-first-clinic-group-in-europe-to-use-artificial-intelligence-to-non-invasively-assess-the-genetic-integrity-of-embryos-301297468.html"
-webUrl: "https://www.prnewswire.com/news-releases/ivf-life-the-first-clinic-group-in-europe-to-use-artificial-intelligence-to-non-invasively-assess-the-genetic-integrity-of-embryos-301297468.html"
+excerpt: "IVF Life Group, a leading group of IVF clinics across Spain, UK, and Germany, will be among the first in Europe to use Artificial Intelligence (AI) to non-invasively assess embryos to determine their genetic integrity."
+publishedDateTime: 2021-05-25T09:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ivf-life-first-clinic-group-europe-use-artificial-/2021/05/25/9376617.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ivf-life-first-clinic-group-europe-use-artificial-/2021/05/25/9376617.htm"
 type: article
-quality: 7
-heat: 7
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "R6PWETAIzySPAkT8/nWF65FzdpSKHJQh8Y3APY0DA+cW0aNk1gIuZoPDtrZc4F/hcj3KjrOMNuaW//UjDL6zg88tHy/BLwf3nicqJuYrr+3QD/eQGRJoX+H/ElNTKUnDSx+kgU308sHczgU7/X0ymrNyasEWomI4utypbjptGJSk8NcJFe8G6UIJ9LS4vVZGxgq2P6udt5tIPBPu/PkYvEhGCuuzV3fxkrxzqS7UYo4mnlzWwggZvd2JrlWGpupVnC4koJ17lFTcYgcpL/UiOai5heEZHN+uMLMBD1/zLYQrcFi7eCCiK1haOAdu5JnomZ55E6vpYAIRAxOEX1ZwsLibg9L81y2W+TeyknlwAZY=;9cLA6dP+Dc7ApthxYgRoIQ=="
+secured: "DLsoUATKEpuZ55b8M2B2KAth72R9sfwvb4CAD30CAxfrVTCjAnoqc5IqGm31eJgRfo+wDXOin0+nWsKHePE/urBaKXOSj//WZeT0esBUscj0pVMkxfSiz9NwewV/z/iiMem3rNuzaOZjNVxGu6WTXs6RvwXCiELHKgA8BvfeTU/nL4CW8fxIChKcKHGG+G6K7czf5o6mrr4gvIJG6R8SWvArcCjxMIIoMU4P0ov3mkqPxOjooYUlzgmiG46Hrc6pdX8ZHfG3BorVknqgsAB4KFm4FO6uJ08mVlBvCJYMLFCBQprSPEnM/bMrQGOGISZtIpB7ZSdys8cFfYVu48QSB8VXl2SaPibbz4kvNs3iNbU=;+tDBJN83hAYLuz4axrRKqA=="
 ---
 

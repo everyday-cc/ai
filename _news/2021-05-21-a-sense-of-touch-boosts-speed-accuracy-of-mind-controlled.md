@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brain stimulation evoking sense of touch improves control of robotic arm"
-    excerpt: "The brain-computer interface user was able to transfer objects with a robotic arm at twice the speed of doing it without the tactile feedback."
-    publishedDateTime: 2021-05-20T19:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 63
   - title: "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm"
     excerpt: "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device."
     publishedDateTime: 2021-05-24T14:00:00Z
@@ -79,20 +70,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/5519x366/Nathan-Copeland-who-is-quadriplegic-controlling-a-robotic-arm-thanks-to-electrodes-implanted-in-his-brain-at-the-University-of-Pittsburgh-Pennsylvania-Picture-Handout-UPMC-Pitt-Health-Sciences-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4bab8285-62c1-5381-abd8-5bca694d39ee&operation=CROP&offset=0x290&resize=5519x3104"
         width: 651
         height: 366
-        isCached: true
-  - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
-    excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
-    publishedDateTime: 2021-05-20T20:44:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 39
-    images:
-      - url: "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."

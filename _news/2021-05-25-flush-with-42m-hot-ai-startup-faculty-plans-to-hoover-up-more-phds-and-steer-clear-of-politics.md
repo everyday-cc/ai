@@ -32,20 +32,18 @@ images:
 
 related:
   - title: "British AI startup Faculty raises $42.5M growth round led by Apax Digital Fund"
-    excerpt: "British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5M) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40m ($56.6M) to date. In April this year,"
+    excerpt: "British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5. million) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40 million ($56."
     publishedDateTime: 2021-05-24T06:00:00Z
-    webUrl: "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/"
-    ampWebUrl: "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/amp/"
+    webUrl: "https://faculty.ai/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 83
+    quality: 163
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1145149807.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://faculty.ai/wp-content/uploads/2019/01/faculty-logo.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Faculty, the AI startup with ties to ex-Boris Johnson advisor Dominic Cummings, has raised $42.4 million to expand into the US"
     excerpt: "The London-based startup has raised £30 million ($42.4 million) from UK and US-focused VC firm Apax Digital Fund."

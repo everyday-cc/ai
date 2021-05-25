@@ -30,7 +30,7 @@ related:
   - title: "Artificial intelligence won't replace investment managers, but it could improve returns"
     excerpt: "It shouldn’t be news to anyone that artificial intelligence (AI) is developing rapidly and drastically reshaping our future. Yet what the average pension-contributing individual might not have thought about is how this development will affect the management of his or her pensions and savings in the years ahead."
     publishedDateTime: 2021-05-25T11:12:00Z
-    webUrl: "https://www.standardmedia.co.ke/sci-tech/article/2001413897/ai-wont-replace-investment-managers-but-it-could-improve-returns"
+    webUrl: "https://www.standardmedia.co.ke/business/article/2001413897/ai-won-t-replace-investment-managers-but-it-could-improve-returns"
     ampWebUrl: "https://www.standardmedia.co.ke/amp/sci-tech/article/2001413897/ai-wont-replace-investment-managers-but-it-could-improve-returns"
     cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001413897/ai-wont-replace-investment-managers-but-it-could-improve-returns"
     type: article
@@ -44,6 +44,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0GDJ3COvk/QQnHglf2jJ2BRzwp9tQpFVcCdSQV4SKW2gwlRdPv9TY5aSZNffDOVqOaYgCwyCIodTa7Z7IgYKglxZp1Z3VWU/NMkxYeEJXBRWmI2i1Hqut9L12rLjrL0y+G38f/ivVqimLlk1ANaXT0rCR3zJgKgu0J3bRCrDsZBhX/4uDvcIdukupugkXhasbnhBz98h9C0P/zVJ32ColXto4pBTblm94f0i8VJqKMhi42uA3DGiqkDzcDO2T+JHRohPVofWk0JniEwutCiwWp/WMYf5KkET6zo8qH6Wb+bBzXKxDfN8Q3l0b45aiHFJxSnuIRLThXJR9hzFeZ5LYmVX4i/VqYdyqyaeZTdbioQ=;ZklpITDqNNDTtKrsySQIwA=="
+secured: "jkPFQMTRo9FsG6OoOvM/51oEaP4TVh3f+Hh3E6K1dbnK5iFYAGFbI9w9gm9kqO1FHcOHu06ibzi9cGKbxnbQsurUQ1OqEk7sMJpM8CjJBaat++L18JPVp//e39TsU4OC3Cf6TSdsk1WREwsblyGoQ7cIzWJwnQi0rYcqwn5ScNPhAXcRTAX0PymOpG2rExGcKq9nCapFbYGMAsCUXiIO7ujJd3Xo8xzLu3kt9j5ZlGXS+448vQgeLGWM2IpeTWdWOuAZSPfpquQTwy1ms4RTzwPvOMHegmfhjc7sC+olniS465bBAM98ViQE0cMRpXSSFcMIbwv8Sw2qgp5Jt/a8HY8uEFuWFqGEgH0701av1dnXppUnspsqlAsF37UXheeZj61/A9ZTGypKpMnnGSVDQeCFhN+DhxfPcocQBkkVqok8j9Z7R/vGaEArhBenNHPQCU5WixdUISzuzm7uuWvrL3g6xYaaE+OES5bo9eRF7GyxjxsDErDVnfRkpxkxxR/6Wtow/gkbtF+xpjFoFK9M+Q==;IJ75ntqxDgoqr+e1hF6TKA=="
 ---
 

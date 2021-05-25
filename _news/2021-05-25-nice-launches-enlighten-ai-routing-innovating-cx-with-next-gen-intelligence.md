@@ -2,9 +2,9 @@
 category: news
 title: "NICE Launches Enlighten AI Routing, Innovating CX with Next-Gen Intelligence"
 excerpt: "NICE (Nasdaq: NICE) today announced the launch of NICE Enlighten AI Routing, enabling hyper-personalized, next-gen experiences in real-time. Powered by data from NICE Enlighten AI and infused with customer available data sources,"
-publishedDateTime: 2021-05-25T10:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9376684.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9376684.htm"
+publishedDateTime: 2021-05-25T12:53:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/05/25/9376684.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/05/25/9376684.htm"
 type: article
 quality: 14
 heat: 14
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "BJ4+rujbDKbIs1zCkyWKmycrqmtaeHEZMzOtEJWJPyVqLZzBI3LcsTeiMYNMHpR0kggiL2NYmhXWJ8+V692qWcsqIcX+dC5BfAvpwsvyZTd3gOHr2kUpXJzBC1ytROfEGOO9NRScBUdSpMa1PO4ITNkOut87v2kYvCblRDcsFktZDxTd07eEdTD8URr99rQ5cfv0ucY8DiBqkKEwR/bvgrjeGKCWgi2uB6hC+C/SCMhn4QhA4CVTTHILjScXHNFs36Oa1yGW4sQL/6KR/xw5td0/+1wjTadvKqRMY03cojcNrc9ZdbCXL+F6WMmd/7cTM17Hjnh88ebNtTSEBwDQr+y1Ea5K6nbVnzFtt4pUxPQ=;1WvdPTek/Xi4xM8ipjCkJQ=="
+secured: "+waQfbM73+RVsTHLZcKhy+9+L0K8VDjLUaeIwDa3mKho6M6+yNvH4uhAyC4GR/w9UkgjBoajs9h4jsyvUimk54VKGaNh4R0VcyaBPhs4geCFvkvpwj2oCGFyfzMek2+jXr3U0sq4uyYhuuEI+cGT5HpxXU/tc6486jonAKvQpOmqbys7kotz2qxQn5EMFVMdNrnsA/2jo7t/7v2ZmkOMhjAQMjezZamZ5kp02YnwWlf2gpaiKwDf+a2bSW9aOpBZDuKetvrKqmSbXsCfdoVysK5Y/WlMrw8wn1yEv9b/I7wJCysKZhwSbLAj1c3y4C97JOegffs3GRsFudn75wfEonnovQtwDG+P2EyF1H2RTPg=;H03AwgswghHWO2XOYv2+mg=="
 ---
 

@@ -38,6 +38,15 @@ related:
         width: 810
         height: 431
         isCached: true
+  - title: "Docbot Raises $4M For AI Diagnosis Tools"
+    excerpt: "Irvine-based Docbot, a startup developing artificial intelligenec tools for diagnosing gastrointestinal (GI) disease, has raised $4M in a Series A funding round, according to the company. The funding was led by Khosla Ventures,"
+    publishedDateTime: 2021-05-25T13:04:00Z
+    webUrl: "https://www.socaltech.com/docbot_raises_4m_for_ai_diagnosis_tools/s-0081303.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
 
 secured: "3QqEdeHEfFyZduBiZ8G5uoLD9XbjsqJ1W4+3l+8cW8ZFENMs9DkwSm5PhftApdMMymmMiB9WRUlhtVMT4vTD7htE+aGP7jaHXdcoJxiL8fICNa0JmApudEuezDKeNXE25LeYjC1V2C9Bow+29WDV2na7pCD6zyKnH30VlGzwA20RaM3sHH7Km3bApyvaf9EiuYLpYDs2cVjPSjZKJOrHsOOwk2lrpi85Ix3SV39m0gQbTXz3HTE22Y2CtZlex/eie8LHp2DlGcaB2ZiLsTBVcwynqgyjlrIZav+XMSWWu/gz/UsX8pIXldAoqiQJyEu7XI6TH6hnMK8pyxECKhIiqIcwnVoDkhaeRdWD2UrH2Ss=;nJtKSWigdSjjV8Mw7hHTPQ=="
 ---

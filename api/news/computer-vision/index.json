@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-24-mayhill-facial-recognition-technology-used-after-swansea-disorder.md",
-      "title": "Mayhill: Facial recognition technology used after Swansea disorder",
-      "excerpt": "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash.",
+      "path": "_news/2021-05-25-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
+      "title": "Computer Vision Is Like Investing In The Internet In The ‘90s",
+      "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
+      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/",
+      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3EF3/production/_118651161_ethan1.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60acceb37e888667457f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1079",
+          "width": 1199,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp",
-      "publishedDateTime": "2021-05-23T23:58:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/",
+      "publishedDateTime": "2021-05-25T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

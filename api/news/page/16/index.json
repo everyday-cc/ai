@@ -2,6 +2,471 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-11-global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai.md",
+      "title": "Global Shipping Logistics, Legal Risk And Compliance, Another Arena For Artificial Intelligence (AI)",
+      "excerpt": "Shippers and their customers must be able to know where product are and when they will get to where they should go. They must also be able to show to governments that the ships and cargo are in compliance with law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/amp/",
+      "publishedDateTime": "2021-05-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-google-plans-to-double-ai-ethics-research-staff.md",
+      "title": "Google Plans to Double AI Ethics Research Staff",
+      "excerpt": "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "originalUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-336712/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "publishedDateTime": "2021-05-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ibm-simplifies-automation-with-watson-orchestrate.md",
+      "title": "IBM simplifies automation with Watson Orchestrate",
+      "excerpt": "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "originalUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "publishedDateTime": "2021-05-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-kfin-technologies-acquires-17-stake-in-insurtech-startup-artivaticai.md",
+      "title": "KFin Technologies acquires 17% stake in insurtech startup Artivatic.ai",
+      "excerpt": "The stake purchase in Artivatic.ai will mark KFin Technologies foray into Indias insurtech space as the General Atlantic-backed fintech firm looks to diversify its portfolio of services.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/articleshow/82550317.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102294,msid-82550299/acquisition.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/kfin-technologies-acquires-17-stake-in-insurtech-startup-artivatic-ai/amp_articleshow/82550317.cms",
+      "publishedDateTime": "2021-05-11T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ibm-codenet-teaches-ai-to-translate-programming-languages.md",
+      "title": "IBM CodeNet teaches AI to translate programming languages",
+      "excerpt": "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/ibm-codenet-teaches-ai-to-translate-programming-languages/",
+      "originalUrl": "https://www.techcentral.ie/ibm-codenet-teaches-ai-to-translate-programming-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2018/12/code_face_insight_analysis_concept_web.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-datarobot-expands-platform-and-announces-zepl-acquisition.md",
+      "title": "DataRobot expands platform and announces Zepl acquisition",
+      "excerpt": "DataRobot, the Boston-based automated machine learning startup, had a bushel of announcements this morning as it expanded its platform to give technical and nontechnical users alike something new. It also announced it has acquired Zepl,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
+      "originalUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1299482894.jpg?w=1024",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/amp/",
+      "publishedDateTime": "2021-05-11T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-the-four-keys-to-trustworthy-ai.md",
+      "title": "The four keys to trustworthy AI",
+      "excerpt": "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg",
+          "width": 2001,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T06:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components.md",
+      "title": "Mythic raises $70M to disrupt AI chips with analog and flash components",
+      "excerpt": "Mythic has raised $70 million to fund the analog-based AI processors it plans to launch later this year. Mythic has spent nine years coming up with a patented, potentially disruptive way to compete with other makers of artificial intelligence chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
+      "originalUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/mythic-chip-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
+      "publishedDateTime": "2021-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025.md",
+      "title": "Global Voice Recognition Technologies Market Growth (Status and Outlook) 2020-2025",
+      "excerpt": "This report presents a comprehensive overview, market shares, and growth opportunities of Voice Recognition Technologies market by product type, application, key manufacturers and key regions and countries.",
+      "sourceUrl": null,
+      "webUrl": "https://industribune.net/uncategorised/85590/global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025/",
+      "originalUrl": "https://industribune.net/uncategorised/85590/global-voice-recognition-technologies-market-growth-status-and-outlook-2020-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indus Tribune",
+        "domain": "industribune.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ai-fintech-firm-riskfuel-expands-into-insurance-space.md",
+      "title": "AI Fintech Firm Riskfuel Expands into Insurance Space",
+      "excerpt": "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ai-fintech-firm-riskfuel-expands-into-insurance-space-/2021/05/11/9366132.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-fintech-firm-riskfuel-expands-into-insurance-space-/2021/05/11/9366132.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-vw-will-sell-you-self-driving-for-850hour-someday-too-high-or-too-low.md",
       "title": "VW Will Sell You Self-Driving For $8.50/hour Someday. Too High Or Too Low?",
       "excerpt": "In a recent interview, VW Marketing boss Klaus Zellmer states they feel they could sell customer a full self-driving ability in their cars profitably at €7 per hour.",
@@ -709,482 +1174,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-chinas-tech-hub-shenzhen-to-invest-us108-billion-in-rd-over-5-years.md",
-      "title": "China’s tech hub Shenzhen to invest US$108 billion in R&D over 5 years",
-      "excerpt": "Shenzhen is set to invest more than 700 billion yuan (US$108 billion) in hi-tech research and development over the next five years as it seeks to reinforce its position as China’s innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/07/00bc4a4c-aefc-11eb-9c9f-63ba12e765d1_image_hires_173114.jpg?itok=iBXd7t3i&v=1620379883",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3132651/chinas-tech-hub-shenzhen-invest-us108-billion-rd-over-5-years",
-      "publishedDateTime": "2021-05-10T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026.md",
-      "title": "Global Machine Learning Market 2021 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2026",
-      "excerpt": "Global Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast to 2026 is the recent market study developed by MarketsandResearch.biz that contains a comprehensive assessment on market estimation based on historical data analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-marketing-ai-institute-raises-in-1m-seed-funding.md",
-      "title": "Marketing AI Institute Raises in $1M Seed Funding",
-      "excerpt": "Cleveland, OH-based Marketing Artificial Intelligence Institute closed a $1m seed funding round. The round was led by Blue Cypress, a family of purpose-driven companies founded by technology entrepreneur Amith Nagarajan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/05/image-7.jpeg",
-          "width": 950,
-          "height": 1267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire.md",
-      "title": "Utilizing AI To Reach Peak Performance In Health And Business: How The Sculpted Vegan Built An 8-Figure Empire",
-      "excerpt": "According to Kim, data measurement is not only how she tracks performance and improves results, it is key to her success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60999aa57f0f303323a5e166%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1600%26cropY1%3D67%26cropY2%3D967",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
-      "publishedDateTime": "2021-05-10T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system-on-chip-technology.md",
-      "title": "XCO and Atlazo Announce Joint Venture to Commercialize Virtual Healthcare Products Leveraging Edge AI System-on-Chip Technology",
-      "excerpt": "XCO Tech Inc. and Atlazo, Inc. have announced the formation of Recon Health Inc., a joint venture to commercialize a",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system/article_0d1e6a2e-48ff-57fa-bf0b-b68061e41b97.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/xco-and-atlazo-announce-joint-venture-to-commercialize-virtual-healthcare-products-leveraging-edge-ai-system/article_0d1e6a2e-48ff-57fa-bf0b-b68061e41b97.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c7/3c7d6d13-f279-5e29-8e82-f83204fb91aa/60999bb0eba41.image.jpg?resize=1118%2C630",
-          "width": 1118,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-apex-takes-dell-beyond-just-storage-as-a-service.md",
-      "title": "APEX Takes Dell Beyond Just Storage-As-A-Service",
-      "excerpt": "Senior Analyst, Storage & Data Steve McDowell dives in as Dell Technologies has jumped into its introduction this month of its APEX infrastructure services offerings. Dell's APEX spans the gamut of on-prem consumption-based storage through custom cloud-based managed solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609ae83af07b601f6d705852%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/10/apex-take-dell-beyond-just-storage-as-a-service/amp/",
-      "publishedDateTime": "2021-05-10T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
-      "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
-      "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-autonomous-vehicles-market-size-to-surpass-us-55527-billion-by-2027.md",
-      "title": "Autonomous Vehicles Market Size to Surpass US$ 555.27 Billion by 2027",
-      "excerpt": "According to Report, the global autonomous vehicle market size is projected to surpass US$ 555.27 billion by 2027, with registering a CAGR of 39.20% from 2019 to 2027. The global autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens.md",
-      "title": "Tech Moves: Tanium hires CFO; Utrip founder launches VC firm; AWS IoT exec joins Siemens",
-      "excerpt": "Cybersecurity giant Tanium appointed Marc Levine as its new CFO, effective May 17. He was most recently CFO at RSA Security. Levine previously was CFO at C3.ai, Athenahealth, and Blue",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/",
-      "originalUrl": "https://www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/05/Marc-Levine-headshot-300x300.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/tech-moves-tanium-hires-cfo-utrip-founder-launches-vc-firm-aws-iot-exec-joins-siemens/amp/",
-      "publishedDateTime": "2021-05-10T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-3-ways-you-can-start-relying-on-deep-learning.md",
-      "title": "3 Ways You Can Start Relying on Deep Learning",
-      "excerpt": "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/370549",
-      "originalUrl": "https://www.entrepreneur.com/article/370549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/370549",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549",
-      "publishedDateTime": "2021-05-10T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

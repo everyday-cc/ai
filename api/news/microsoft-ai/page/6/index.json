@@ -2,6 +2,137 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-06-behind-the-scenes-with-ibm-services-david-sun.md",
+      "title": "Behind the scenes with IBM Services’ David Sun",
+      "excerpt": "When it comes to IBM’s vast services capabilities, David Sun has seen it all. Sun, the director of corporate business development for IBM Services, came to IBM 18 years ago when IBM acquired PwC Consulting and is now one of the driving forces behind the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
+      "originalUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/ibm-campus-1.jpg",
+          "width": 610,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m.md",
+      "title": "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M",
+      "excerpt": "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ...",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/",
+      "originalUrl": "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc.md",
+      "title": "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc",
+      "excerpt": "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-kintent-raises-4m-seed-round-to-simplify-cybersecurity-compliance-with-ai.md",
       "title": "Kintent raises $4M seed round to simplify cybersecurity compliance with AI",
       "excerpt": "They included Microsoft Azure Executive Vice President Jason Zander ... we immediately recognized the value of having an AI-enabled platform to unblock sales with a high-quality compliance ...",
@@ -1067,137 +1198,6 @@
         "name": "아크로팬",
         "domain": "acrofan.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-europe-ai-governance-market-2021-2027-advanced-technology-and-market-analysis-by-ibm-microsoft-facebook-fico-google-sap.md",
-      "title": "Europe AI Governance Market 2021-2027: Advanced Technology and Market Analysis by IBM, Microsoft, Facebook, Fico, Google, SAP",
-      "excerpt": "The detailed market intelligence report on the Europe AI Governance Market applies the most effective of each primary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-ai-governance-market-2021-2027-advanced-technology-and-market-analysis-by-ibm-microsoft-facebook-fico-google-sap-2021-03-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-ai-governance-market-2021-2027-advanced-technology-and-market-analysis-by-ibm-microsoft-facebook-fico-google-sap-2021-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-aws-slips-a-bit-in-cloud-ai-developer-services-report.md",
-      "title": "AWS Slips a Bit in Cloud AI Developer Services Report",
-      "excerpt": "Amazon Web Services (AWS) was the clear leader in research firm Gartner's annual report on Cloud AI Developer Services. This year, not so much.",
-      "sourceUrl": null,
-      "webUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
-      "originalUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-ai-for-health-a-year-of-innovations-from-grantees-across-the-globe.md",
-      "title": "AI for Health – a year of innovations from grantees across the globe",
-      "excerpt": "As we reflect on how the world has changed this past year due to the pandemic, we want to take a moment to shed light on the great work our grantee partners are doing to tackle some of the most difficult health challenges using AI and data science.",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/on-the-issues/2021/03/15/ai-for-health-grantee-partner-covid-19-anniversary/",
-      "originalUrl": "https://blogs.microsoft.com/on-the-issues/2021/03/15/ai-for-health-grantee-partner-covid-19-anniversary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2021/03/Stock-Image_3-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

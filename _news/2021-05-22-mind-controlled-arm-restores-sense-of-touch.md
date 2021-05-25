@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brain stimulation evoking sense of touch improves control of robotic arm"
-    excerpt: "The brain-computer interface user was able to transfer objects with a robotic arm at twice the speed of doing it without the tactile feedback."
-    publishedDateTime: 2021-05-20T19:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 63
   - title: "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm"
     excerpt: "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device."
     publishedDateTime: 2021-05-24T14:00:00Z
@@ -65,20 +56,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
-    excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
-    publishedDateTime: 2021-05-20T20:44:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 39
-    images:
-      - url: "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
     excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"

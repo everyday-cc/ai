@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Distinguishing between chatbots and conversational AI"
+    excerpt: "In your business you need to learn how to distinguish between chatbots and conversational AI, here are some tips on how to do that."
+    publishedDateTime: 2021-05-25T12:29:00Z
+    webUrl: "https://techaeris.com/2021/05/25/distinguishing-between-chatbots-and-conversational-ai/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 37
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2021/05/chatbot.jpg"
+        width: 1170
+        height: 724
+        isCached: true
 
 secured: "oXxCPgEwPxs+C4+gIHQql99yKXup4tCJ1KdinAskFI+Vhnx55EAZ0HMqRu0nh8E1fnk4ZmIG2vioJIEHqH3JzvOs4YYoXbySBK+Q2VUI6LTKFx49vFeWNgia13jSTGjvQpGyJC3GGGc4ll2A7VGbEloDTvb1xfyrxTcAulNchby8bO68RlRzZwKfI9lARoo7VgiN6ksYICENUbL0O4aY8RETMrF5PBVDAN+gIoekccQHjzX7G8rtRIUyTZ7EDBXAEeIIJbGzs2RnPj7PfOfEhSqLAeqT5CaooOmFXJ95cn9Xg0Bl6otvPHj6yzFeTQst/YEvp1oon0+7i0SxmHNGrZ2Vo+ImqxSxayDDp4WMasbUXgoeXILAFH6O8v3gPEPcSFXX9WMnSpdBhZGec5YN9b5e5y+h4yDi0CS72yo9WNYJlH4in0bm1ajerPm8OWbfF8qCczMhF8dgYm8TeCFdJcQSwtMzHYEF1VyXEYPZrK53jTaz2VzEGgdT15dEIMaqC1HU7JMb3dSauib3021+Dg==;QbvgpLzhf3bz4H6/JNfwFQ=="
 ---
