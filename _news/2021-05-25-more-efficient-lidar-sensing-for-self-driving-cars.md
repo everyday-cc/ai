@@ -89,21 +89,21 @@ related:
         width: 1179
         height: 663
         isCached: true
-  - title: "Self-driving cars might never be able to drive themselves"
-    excerpt: "No cars are fully self-driving yet, despite a feature from Tesla called \"Full Self-Driving.\" The California Department of Motor Vehicles said this week it’s reviewing whether Tesla is telling people that its cars are self-driving when,"
-    publishedDateTime: 2021-05-21T00:00:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves?amp"
+  - title: "Silicon Valley is resetting expectations for self-driving cars and settling in for years of more work."
+    excerpt: "After years of hype, billions of dollars of investments and promises that people would be commuting to work in self-driving cars by now, the pursuit of autonomous cars is undergoing a reset. Expectations are that tech and auto giants could still toil for years on their projects."
+    publishedDateTime: 2021-05-25T11:57:00Z
+    webUrl: "https://www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.amp.html"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
+      name: New York Times
+      domain: nytimes.com
+    quality: 58
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/05/tesla-ft-imf.jpg?fit=740%2C416"
-        width: 740
-        height: 416
+      - url: "https://static01.nyt.com/images/2021/05/25/business/22driverless/22driverless-facebookJumbo.png"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Self-driving cars could spike CO2 — study"
     excerpt: "Self-driving vehicl"

@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/05/25/eys3d-raises-7m-for-ai-edge-sensor-t
 ampWebUrl: "https://venturebeat.com/2021/05/25/eys3d-raises-7m-for-ai-edge-sensor-technology/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/eys3d-raises-7m-for-ai-edge-sensor-technology/amp/"
 type: article
-quality: 91
+quality: 95
 heat: -1
 published: false
 
@@ -24,6 +24,8 @@ topics:
   - Facebook AI
   - AI
   - AI in Robotics
+  - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
@@ -77,6 +79,6 @@ related:
         height: 720
         isCached: true
 
-secured: "MACKkFKSsqPnJZfW67iazypeYCC64J5u4oksh9nMsvNqP4b0NJy5uiFGDa02GR5fUW0hSNEndAyUCpV3LojRQIyLYgLMNzOsbKoiU/3ifFzuc2cp1J7ovoPZo2xt6ijoApQHaTJGs9HPFrliwHXBbQl6qvJhR3js7+EX9K89yVNsJG+JEj9aKAc53PtZr0EFllX8cppSKUDZvw/4SxxNY2PhTTxWfzLN+X3lQrH7AzHKRrx/Jki1UZUU4jKje6WaCSjtlf8UHraH5P92y63cIyewOdaEMEDhk6SM5y2KrFRgZ2zHRmPXzGl6NaeFZocHcdfaCR0GzEVskmIs+F08GDzEZSb5NSl9dvxWAB7goRM=;upAtHtCNWm8pRfq2IIXIrQ=="
+secured: "CbGZbbc2ajPMk9gZzC4YvmOHp2tfk1oqWs2FY/3XGkbKEibg7SOftKN0DBJ62HtKTK0TaQHzwiA6CSNjcfO2VvvQmz34ECKb+d0eBfFz8FfOZPSBPRkr+TPCfjgQoS6q9rv5h9wje9lOSoKDaCI9lxWA7JfVPqUGeTrUG4Ak7gxOWH+5v6Vpg/nfxHwluPvF098IvJm6s3Y2z/JTIsve3KODHSsYKg/DgBQ2V87kuR1EO0GIhXbR60VtBLn30A+si1KjNI+Emmf3z3pxfTOONzyFTYWLysnL+J2ATlrufmLL613pocVhVMeKB4B3GaWRBIidANb84esk4K4qDKXbJLfoadizq2ScOf2ay9sCHTT1chGS2err6BZtQOcf00Cvfif+akun1987sisS5CGsesRfxj1O11zz83eHIMLl59yefgBz3xK3QyFqYhdOV9XbhELlUxbKzKy6uXM23MTlUYiSRQWohRDAtbVb3nDQnCIZxSwpxrSgFJB2v79M8FFQ22IS/bryVuAcpyowFVhB8w==;VYdPHYcqmb3zDlOUvSheaw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T13:31:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-program-boosts-patient-satisfaction"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-program-boosts-patient-satisfaction"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Patient_Satisfaction.jpg"
@@ -23,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ift0gXGvjuBmmRxmUOthmMvj1q0SGYoF2mTONMn+ATm++Xk4doWWZXnUfnuOUrxt3cGNywjYFcM+HcC3lqYjNDbJTcWdi/mygLjSBPW1oQApui4Qhw9e79x7Yi8d+B61+8T4T1mSByNdEoS1R67KM5BlFGy+QTElGnpMbAEJKJIlUKKmkpG48VkPKQbavx+r0l58iDmhRozUHtelYU8BGuRikM2VGP2HAbX9s9oduInGc7/qIXPJq8dlLsBmGbexfQ7NSeJtPMFd4lCO/Sc58dZd0ePa8WciVy9XkXW0BvkGqLNzsBzKRP3c5lJ1hmJHHvNxSnPjPIPiDB8ya4elF10VXO9oBn3eHkI7TiOa+so=;VjktgpHIDpMPPKpJRfHaOw=="
+secured: "7exY2yv0K969dD9+eL+j/L3uUUFzfa7nSaeX2CcZmVSbTRdnblP/4LC+YiZEsBeUnz8g49IrJ9evRktKEkOM2WPlMQbV1do/p2ZUnxSeyg6l4OKgGRLng2t+Zd6h1O3SDEFtv2lxz+fKQIETuFT8dHhNDE+P7FmXVoVpUZhJI+syJh+qoInV7XIXbZ8DzNmt8cKkFO5dVhqqd4xCDb8K/EcLQhVkbRZ5ngozMuXq0JjnldMxdGo6PsfecVZWVat5WMf/VTPWt6k+bpfes3YuYrCTN0+B0H3yHhLpzMjR94+FX7T0sK2Ui0ZYBvs8bdlESTnQe6XAdNJ8E+tE4aiQWyxMlymRYQuEw5A1VmXw6iIOIKN8SoR2e5wH25Qz+RR8buLVhTLe3db2ppu64Gb5AR+HEPjYReLfVhJXuHoVnTMaJeUkTjsFv56/ecdTE7mE0SWh39HpfP9drOCwA37e2tzx+Pxmoipzs38WG4uTM29vlw1B6uEGQKRP02xvcAOWhntcBLMT97vuHMgc9MY3cQ==;qeypksdPmlPBkOeDjpMUaA=="
 ---
 

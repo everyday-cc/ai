@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T13:43:00Z
 originalUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2021-05-25"
 webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2021-05-25"
 type: article
-quality: 69
-heat: 119
+quality: 71
+heat: 121
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

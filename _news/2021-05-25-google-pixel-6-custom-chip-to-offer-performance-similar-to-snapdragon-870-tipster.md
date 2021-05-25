@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-s
 webUrl: "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Gizmochina
@@ -27,6 +27,22 @@ images:
     width: 5120
     height: 2880
     isCached: true
+
+related:
+  - title: "Google Pixel 6’s Custom Google Chip Will Offer Similar Performance To Snapdragon 870, Reveals By Tipster"
+    excerpt: "Google Pixel 6 featuring Google’s custom chip is said to have similar performance to Snapdragon 870 chipset claimed by tech tipster, checkout to know more"
+    publishedDateTime: 2021-05-25T17:43:00Z
+    webUrl: "https://techstory.in/google-pixel-6s-custom-google-chip-will-offer-similar-performance-to-snapdragon-870-reveals-by-tipster/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 22
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/Ci0GMyAWsAAmExw.jpg"
+        width: 2462
+        height: 1231
+        isCached: true
 
 secured: "IHVS45vryyw7kR3dKWuG+iw1NS6ZxPiRhFj3APTFaOoKAUYTewmc/oiADykmSLrQX1Ytgr5qpTJCuy3HehGOdyuMoNt8Fs5AtW26gBo+DcpWFJptHLV+QlWpdFeBsmyjDDrFtm/Ex5WCgDwSGi5ei50iSDBP1MAAnNfSUNXQgJsWAk8urPdca2aaZBg42r60TjiYm3ChhWfgNlMWqethjlOUHtAWILqqoB8nfdgQTnB1Dz8MLQW48lXNcbmCTNTOct+M8XJwJXa8o/tcRq4oBHitZnSCHxlZ3MhhcGvDrJ2EEwmgOrf+ya4INx0KR/PvK9N67eZ7XZ1OnlwCH28qd4GkHi8U5mQk1vyR2n37P3ZgYTcbKOJHNLIUagKs+ho2QxEJrJqeAQ+r95VaTAho/pBoVIo4e9857mBb0RPXkUFEGV5QJ2V97lbLrnoLTd/S/wfq8jyT8qUvCnt4VUJ82oui8Tpxzsv2tnJEdJF78Y9sw5LxYbWwhsAC7JSvr03zKj9+1UTaSqAtxF2pLWcpHg==;fCZqsy3dx++CJ/VCQLr9kQ=="
 ---

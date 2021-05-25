@@ -87,21 +87,21 @@ related:
         width: 1179
         height: 663
         isCached: true
-  - title: "Self-driving cars might never be able to drive themselves"
-    excerpt: "No cars are fully self-driving yet, despite a feature from Tesla called \"Full Self-Driving.\" The California Department of Motor Vehicles said this week it’s reviewing whether Tesla is telling people that its cars are self-driving when,"
-    publishedDateTime: 2021-05-21T00:00:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-might-never-drive-themselves?amp"
+  - title: "Silicon Valley is resetting expectations for self-driving cars and settling in for years of more work."
+    excerpt: "After years of hype, billions of dollars of investments and promises that people would be commuting to work in self-driving cars by now, the pursuit of autonomous cars is undergoing a reset. Expectations are that tech and auto giants could still toil for years on their projects."
+    publishedDateTime: 2021-05-25T11:57:00Z
+    webUrl: "https://www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.amp.html"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
+      name: New York Times
+      domain: nytimes.com
+    quality: 58
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/05/tesla-ft-imf.jpg?fit=740%2C416"
-        width: 740
-        height: 416
+      - url: "https://static01.nyt.com/images/2021/05/25/business/22driverless/22driverless-facebookJumbo.png"
+        width: 1050
+        height: 550
         isCached: true
   - title: "More efficient lidar sensing for self-driving cars"
     excerpt: "If you see a self-driving car out in the wild, you might notice a giant spinning cylinder on top of its roof. That's a lidar sensor, and it works by sending out pulses of infrared light and measuring the time it takes for them to bounce off objects."
@@ -148,6 +148,6 @@ related:
         height: 722
         isCached: true
 
-secured: "7Y+YZw22HMDK4We5Lb0TrhzkgKqeqZOB1XA9ns6ypRukUIgj+1iS/3n/h6nA6pyHy1W8YZ2XfUWHxt/MLgHM4IjPqSBwWlO3w5BQpyNoFuMNcTFGBSSamzyCYDLD3d275/O8ce3jxua7ybKXpJOZsY3+R2K9XpEeCLtNaw3tb1ZagMB7oSofFke5hMU0frw8pj0muCE38f4zEF2mCC7GSdMWpxNTAwwkIQAxFl6IcB5h8/PUVkzCmGOzU/F6cA68EnAQyjWKaE53MXkLwQAQd1a3zVS+MHol9drlEJ7C14oYqmLThi/ZZM6TTncE1fwsdVXB42ek1tuKKQX/9DodViuHg6mgpqTc9v5RZX8MMVU=;WyOeHhBsZxt+QjsYYCvpsg=="
+secured: "HMuCqBhMVw6WOFl6V2DZFRv0gffNr4jcqQ4R5EDhn1fy5MD4Y7OAgTggSDEbnCK1kwkk7ClfaWaAwZGK1T7k3x04jVhq74CkjBiIiOYf11dTNxUakKWXvvXe/IfXKqesDQDn7lBMATkW3gnj8Nfsv7IVY2EweRU5+e3VuVNqRK32YXiPm54qMB9jamJ4qTOOoAVNe2lI3HqlzDqJ7h5POmZNhXTOU/lLxO/dL/fDdyMjxth78jzeP6CUYOc+HMzjoG3TE0umBst90eAvmkUf1g2BbucDiwxOf1/87ESYUjKUXepbEvBiF/vXhwFIDsNPlWyhVjO/1xX1W4eHyr6jAWpmJ/6qXnYiylzr2SJtO4/yePcsMZs0MArKdxY5c4hVie1uzIXFj7HG7NyJ9q6Ryp0fIEnpTAWyTPvfVjfJjqEryRc54ZfV5gfDV3VPM1AfmfdjHdmwOBHbpVWFZC/EjRmJbevd68W1NFXvUAMR+0ia80gI9Tsf5kXKGZ+mxBtf5sfMdmllv5HN7QhWfA5axg==;nxIsofcsHmBjWcV7k6stIA=="
 ---
 

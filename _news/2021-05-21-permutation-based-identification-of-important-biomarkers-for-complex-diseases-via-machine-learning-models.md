@@ -57,20 +57,6 @@ related:
         width: 650
         height: 424
         isCached: true
-  - title: "Artificial Intelligence in Defense and Aerospace Market 2021 2025 by Product Type, Application, End-user, and Region | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Defense and Aerospace Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-05-21T00:31:00Z
-    webUrl: "https://menafn.com/1102102410/Artificial-Intelligence-in-Defense-and-Aerospace-Market-2021-2025-by-Product-Type-Application-End-user-and-Region-Says-Kenneth-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "m9RoTdFuINMYZaj9PXoeTk8Vn5fFjMcN299krmT7Y5ZORTMUf+mqkjiPStshflPERPHp8Xa3oGpat856kKmPjTGyw1D1k7GdEzQy9s1tQaGRwXmrX3f8d5hvze1Q/ojanLQaSxFHyD0Xy/DQrYpNbhZQypwTIfDkzvAX11Jcn90bMnWNNK1aGdH16nFBws0tHCDlRHkuqkMmRTIXQw9gH4QXRvAVYNTonIPwZWZsR8BtB/pWHEEznoYqNpR3SkDxDy/5JuvQH0gdrMmK4LrW2MFzgUElsZtSJOIaDQ2FFr9dw2vUryXz6uiAKiyFagHwP7TBUs1/9E0EdG34jDI45BOqllGJUMed92rbBF848ZK5/LmKIl9e6p6BQvcZqj9czAEco4du4wus1rb0g3LDGRcKPi1VwP94GDiSxXXoOeItLUAnyaiLQx1q0qx7eJQOfHv3kMBNDR/sb9a3+5qoQe6TL1HqS3Lk0ezh2DHzmQ6JbDkoPncE6XCju4N3emy0ie4vzcFGL8JDcPUCA3fBfA==;KAnSkg4A7CS9jmOk/6ZfZA=="
 ---

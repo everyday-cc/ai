@@ -32,9 +32,9 @@ related:
   - title: "Microsoft to make coding 'in plain English' easier with PowerFx and GPT-3 AI model"
     excerpt: "Microsoft's integration of the OpenAI GPT-3 technology into Power Apps is the first time GPT-3 will be available commercially in one of its own products."
     publishedDateTime: 2021-05-25T08:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+    webUrl: "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
     type: article
     provider:
       name: ZDNet

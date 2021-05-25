@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/4
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/telstra%20chatbot.jpg"
         width: 821
         height: 462
+        isCached: true
+  - title: "SAS announces expanded cloud provider support and AI-powered chatbot"
+    excerpt: "Data analytics platform provider SAS announced its first-class cloud support has expanded from Microsoft Azure to include AWS, Google Cloud Platform, and soon IBM Red Hat OpenShift. The company has also released an AI-powered conversational chatbot."
+    publishedDateTime: 2021-05-25T15:28:00Z
+    webUrl: "https://itwire.com/business-it-news/data/sas-announces-expanded-cloud-provider-support-and-ai-powered-chatbot.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/de72bb7400baef4481ba3f700f9fad22_M.jpg"
+        width: 375
+        height: 306
         isCached: true
   - title: "Distinguishing between chatbots and conversational AI"
     excerpt: "In your business you need to learn how to distinguish between chatbots and conversational AI, here are some tips on how to do that."

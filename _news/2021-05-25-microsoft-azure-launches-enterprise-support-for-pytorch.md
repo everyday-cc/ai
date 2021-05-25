@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-e
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
 type: article
 quality: 123
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -33,6 +33,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
+    excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
+    publishedDateTime: 2021-05-25T08:45:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 118
   - title: "Facebook and Microsoft launch PyTorch Enterprise Support Program"
     excerpt: "Facebook partnered with Microsoft to launch the PyTorch Enterprise Support Program, a service offering for organizations using PyTorch."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -84,9 +95,9 @@ related:
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
     publishedDateTime: 2021-05-25T15:10:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
       name: TechRadar
@@ -175,6 +186,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How Microsoft is transforming football with data and machine learning"
+    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the top (OTT) streaming services,"
+    publishedDateTime: 2021-05-25T15:47:00Z
+    webUrl: "https://www.dqindia.com/microsoft-transforming-football-data-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/microsoft-transforming-football-data-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-transforming-football-data-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2018/08/FOOTBALL.jpg"
+        width: 714
+        height: 400
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -232,6 +259,6 @@ related:
         height: 768
         isCached: true
 
-secured: "NaaLS9dHQPamn93TGUT1z/Cz3iE9VKOxnZelOZje3Fww6arpFxFIqv4a/p9qTdDWoJI2PUnAMIU/rYcXUFzpqHTEKw0anAlUz607hVoRqEGLWSie/bcbWVyI65QCfOKw8KbqjQEshOu+04eiJfiCps21rGyqSHzZi6xhAuduLL3iOP9fHLf9QW3Lk37wBzY+9a80I5BBYNgV3F8CuAX2HHX1kudf3D97iJdcgaHL+RWBQUQfX2Z2DpeHl61eZaEM6G3IEIyIIupA5i7ZBnc6CPDb9KeOyAI217K7fABxJRMERp1SNU1zXVuMU1I2F/aiMIlLf+uiRGlZ2ceMmYm+nR4UZUMOM8LPrdAYArfhUkg=;rmI+uk6ZS0VhKqTepzjUvQ=="
+secured: "QLmOghxqexkmD1Ng3q1LQOWmyQCZtNb1bPo8FbArCN1YVXeAP611bDqgWcfOFxEo4PDBWP3CgJCm4juUuc/kjnXNVqz7TE4jO8kw+i7o62ulI236r7nTkZ9++VMX/K8Q6KrKT/zSrLiUSfpHyf4gE8Ywv8KhwGkQpjiyvpuuayXHhLIVESq6vKzWd3fYZXEFtLYGLG9ugR71f6hgccN4w+RbPkXdaICjUdCBJRKyNNcgMRqAlHzc/DrX2NJo683IUzgDPypFy9m2y8ZA4dPp/eX7t7v4yJYeMquO/XvwTiJEfi4pU0poV6AAUkPQKv4pSlIlFkSruNMZmpeo+hHKdeQ9477YcYBhHRfDFfe4MvgnPsGtp7NX3z/TyHcycbIzSTbL/RYzRO9CseCfL4XRDlu4fgN9kNNpZVHfkhXUA3IuKOi0fXxU165RPRZJOTAPHmUIGv+nDcbKUwHR7pPbGZi+ij+86aRycKhrSUBNuTXMEioJcxKH7+VfcF3ztRi/1gjTTDRoRMoK/UG8ZQ5iOQ==;3F+dXaGVhFhb0pGNwjdl3A=="
 ---
 

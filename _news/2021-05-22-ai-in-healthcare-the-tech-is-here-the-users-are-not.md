@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-her
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
+    publishedDateTime: 2021-05-25T15:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "How Healthcare Workflows Can Use Intelligent Automation for Better Care"
     excerpt: "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience."
     publishedDateTime: 2021-05-24T13:55:00Z

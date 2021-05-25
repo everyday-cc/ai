@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "SAS announces expanded cloud provider support and AI-powered chatbot"
+    excerpt: "Data analytics platform provider SAS announced its first-class cloud support has expanded from Microsoft Azure to include AWS, Google Cloud Platform, and soon IBM Red Hat OpenShift. The company has also released an AI-powered conversational chatbot."
+    publishedDateTime: 2021-05-25T15:28:00Z
+    webUrl: "https://itwire.com/business-it-news/data/sas-announces-expanded-cloud-provider-support-and-ai-powered-chatbot.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/de72bb7400baef4481ba3f700f9fad22_M.jpg"
+        width: 375
+        height: 306
+        isCached: true
   - title: "Distinguishing between chatbots and conversational AI"
     excerpt: "In your business you need to learn how to distinguish between chatbots and conversational AI, here are some tips on how to do that."
     publishedDateTime: 2021-05-25T12:29:00Z

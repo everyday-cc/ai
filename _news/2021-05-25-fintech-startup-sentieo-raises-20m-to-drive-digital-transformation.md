@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Fintech startup Sentieo raises $20M to drive digital transformation"
-excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital with participation from existing investors Centana Growth Partners and Studio Management."
-publishedDateTime: 2021-05-25T13:11:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=836825"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=836825"
+excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
+publishedDateTime: 2021-05-25T15:37:00Z
+originalUrl: "https://www.glamsham.com/world/technology/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation"
+webUrl: "https://www.glamsham.com/world/technology/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-    width: 280
-    height: 250
-    isCached: true
 
 related:
   - title: "AI-powered financial research platform Sentieo nabs $20M"
@@ -56,6 +50,6 @@ related:
         height: 500
         isCached: true
 
-secured: "k4pMDLOVvO/8vmlHl8oLeY3xflZAazZSrJdCn+UmRksk+RxBz0Z40aQhz4L8ZC1NjkiVO756cMEAICqQnPCVEGP8QFJIuX6t6F1Rj/Ow7CSF0X/nDLXLxP60vdyNg6+BcD4X9frBgzNEL3dh44f/hs3qN4qxs7YsxwylKmXTvO/wlVfHFZ3LHkaR/Ff0qaL0QjpCBJEOwwSfjsesLsbv02hnPb0iRZkMxL7r+0FjvN/ejXsxMvcVTXuuTi0AIcK8cNbIbrCZNBm0qo6+fSFCluJXc2cRIiZvc/ZRFThdEOOqi7CqTv4+3+neJAl4Y1FDy995qqbjoL51Are/8oYmbKvO2L0OXtFL5OOOUJ6sjsI=;hkzEXa58whslUfGcN88Hhg=="
+secured: "RMfYLI+jbC3Fr8QHJcsIJJpY+RuvDb6Dvu1GU4uoBCY9eUbsx3deVCSt/MvLFcTVAhgBo3Ik8tZZB5ChNt7R6OIr5cOF9emTebkfx4X5UAP2s8ktyybk27UNv48ZY5rXxwLNjNUfbP6Kl0izQFczJALYsjmWhXo1yPRHfeZ4CH5UzrDprBFxDGXRPdTgLgr9udE4+PmbcX/Gi3A7hz2cz6nd2UvFhkKqp9U9szXgp1oz2sPa+vO//M0yxOwd9Y0XOLqfAyHFwXP4Hk02IDJnfZ7Ox48PJxDq8GsJUj0UZlNgCFIMFScLUc9+sdSjINxw0xvMgox+ReGZg+UK1PglOZENiiaHpuR/mHsUKV9K0+I=;ZmtOzVCrxEzWas2X+0oCkQ=="
 ---
 

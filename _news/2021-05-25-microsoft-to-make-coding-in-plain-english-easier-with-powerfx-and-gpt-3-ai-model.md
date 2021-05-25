@@ -3,10 +3,10 @@ category: news
 title: "Microsoft to make coding 'in plain English' easier with PowerFx and GPT-3 AI model"
 excerpt: "Microsoft's integration of the OpenAI GPT-3 technology into Power Apps is the first time GPT-3 will be available commercially in one of its own products."
 publishedDateTime: 2021-05-25T08:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-webUrl: "https://www.zdnet.com/index.php/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+originalUrl: "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+webUrl: "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
 type: article
 quality: 98
 heat: 118
@@ -60,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gMVVioBMD9HCBBTdiLCd+qTgLMFdXjlAJQ0g4KcsAIW1S8k0Fuu608zTw73qXEg2NMEk/pxsS9hibQ2oe8hg27i13FtwHn77B0mCbO7oT/ikDjOti/moKX/+ZLXSZpeobPuTzi3fAbAFVTwmvUtv5wmRU7Ik6/+qQwQSyCrVjMb4W+t8xDwLILGKxJ2wCoDSTqAQ855AqUALs673iwHy9d4+JRfI41JHhhuj42NwICCzBZqSg36P62+m/2cTkQXj/GIGyrrCE5hZQhgZLvgTbZp90IIA5p4oAcF1fH1j7n3zYY4yLC5M5zcOxxINSc7IdHRFrsjoGd1hJe1OvY0GBuzfyHhFWsPzaRGjo0lDfl8=;zSKX0LGRlEoaH4vhqn5sVg=="
+secured: "hn6aAZE+2jYp85FDUMr/f6xw6jTUO9Sx3W7m9U+z8x6+tUwhayEgcjW3MF7VS3m5c8e4Cnhsg2vKIZbIuj7V+ykIwZ2TLRay+9UtRTXmj8+Fgdg/gzjf9HeF9MtrDpsOX4Ri/V7jZKURWt22f3Mco3gPtlkLJbIaoHU1PEUHem5Odjv9ZQPkwnChebYPColaF6J6W+RPU9l+kUAtl09VhKf8FpLs9wOPgJ8DwrxGEpDjF7QzuizGnc2we5stXYesl5NPQIz7UsFf43SJsH2u1FND3EnW8qRYB3GCZuk5dARCl77N7/Nvr05OOLvpKK76BsyD6MfpIWfRqnUqp+o5Xpd80zpOVocc0hi4bzMw6NQ=;VvHzkMMpY/TXqEHJGB7XLw=="
 ---
 

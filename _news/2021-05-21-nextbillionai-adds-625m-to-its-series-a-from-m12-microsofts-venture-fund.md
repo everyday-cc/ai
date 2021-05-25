@@ -57,6 +57,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Map services firm NextBillion.ai raises funds for “Facial AI and NLP” development"
+    excerpt: "Microsoft venture fund M12 has placed $6.25 million in geospatial data startup NextBillion.ai, and its ambitions for enterprise AI, including biometrics."
+    publishedDateTime: 2021-05-25T16:07:00Z
+    webUrl: "https://www.biometricupdate.com/202105/map-services-firm-nextbillion-ai-raises-funds-for-facial-ai-and-nlp-development"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/03120610/funding-round-biometrics-and-identity-verification-small.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "KmSCrZZPUQOuXL6t+SIoSstC7AAAXzQcFRO9ur7UirkNXUm6UEVutPrSol3AIfa+biLGbR/AejfqmVH1v50KaOwOxjW9WM37eqb+881peZW580qYVEE1zlCJUgMqfmX2QzVMhL8D0Injo6sT8k3v3nPRJbi3GEvhyBeXEmZtEKvmvnRqyCBMZ1w4XGoBJGS7+gYd4zygaKAOzWhrv3Vb/OlE9e+PYug99fGYluxWDMeel0kJzJgT2zv6pUjAvoLi9ZVBO1yIe5iUC4Gi+XNRR8iiRnRwoyV8coPM0MXEKonMuFpz43Q60lVhKG1chBovjO4ir3LgSC429KU7HT2VjMpNE8dMkGWftyeN5eI01UI=;EGrOAZzYnxbMJBO/s/YFnw=="
 ---

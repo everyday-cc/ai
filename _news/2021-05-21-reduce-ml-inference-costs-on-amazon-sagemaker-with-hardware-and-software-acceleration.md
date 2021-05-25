@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automate feature engineering pipelines with Amazon SageMaker"
-    excerpt: "The process of extracting, cleaning, manipulating, and encoding data from raw sources and preparing it to be consumed by machine learning (ML) algorithms is an important, expensive, and time-consuming part of data science. Managing these data pipelines for either training or inference is a challenge"
-    publishedDateTime: 2021-05-20T23:08:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-feature-engineering-pipelines-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/12/1-2361-Feature-Store.jpg"
-        width: 800
-        height: 408
-        isCached: true
   - title: "Enhance sports narratives with natural language generation using Amazon SageMaker"
     excerpt: "This blog post was co-authored by Arbi Tamrazian, Director of Data Science and Machine Learning at Fox Sports. FOX Sports is the sports television arm of FOX Network. The company used machine learning (ML) and Amazon SageMaker to streamline the production of relevant in-game storylines for commentators"
     publishedDateTime: 2021-05-24T23:11:36Z

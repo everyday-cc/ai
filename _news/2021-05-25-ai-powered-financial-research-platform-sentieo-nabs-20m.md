@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
-    excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital with participation from existing investors Centana Growth Partners and Studio Management."
-    publishedDateTime: 2021-05-25T13:11:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=836825"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "AI-powered logistics software startup FarEye lands $100M investment"
     excerpt: "FarEye Inc., whose machine learning-powered logistics platform helps companies such as UPS Inc. process more than 100 million transactions a month, has raised $100 million in funding through a new funding round announced today."
     publishedDateTime: 2021-05-25T10:00:00Z
@@ -58,7 +44,16 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
+    excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
+    publishedDateTime: 2021-05-25T15:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 19
 
-secured: "/CIFuWy49tq73CVIyXn5tiw5UNKsreJPY9mtgReVm1Xphavkm5pTysG8GAm5eYRbHtVMj4H8lukr0Jow2VL6Hw7wTJN13OCJfm9ijgSUrxL5Xorm9azTY/xDTziOxo4AJVmxOxLWNcHN6kBpDJZbx10jdAu2kpbGTKZiYZWuuqGb2Jx073sSzJspG0adMIoXN6CYKBjARfpz51sZSemRiR2qKMICw2e0g8rBMexZdEiWuKx67+J9wSgHb/ZVEneBr9zBp3FafQRepYuD5DbhWzethSUKPTb1nJgYld3db6jwaolzHs9/BAhu6FiP3Ro6MGf+aWxedxWfEckggsvi1wrd738vDrpsngcZi8K7zHs=;IB8D2AYPCoMJq4YzDNIX3A=="
+secured: "q9sWDnl0Pnt6/OalIy/O7GNu/JNv/H+uWbt7Of2+eXIVNsK7CqdQ1x4VbNP/BOL30UelPdSioe/IvJv55fRmQUBzAG1rji5s73WhZCoVOCdvVKGhNd40nC5KhDE8aJ28VQuDno+1U4/McqeZ2ojoGGfpN/6sDa+/FztjCIZATn0OHlhaVbFQWYUUd8wLEYd3N8n94xAcY5VhEsw3gMGParRx9daSHbSpwMdiP2aFj/UHHxSS617XrAO31i/2HBNVCCmG8QNZ7QXrpjCY/+ZxGJA5DAeqXumJ1a+mc/SApzJqclqjODezanOcvFAAiQzC2nAbK2/GFcl71BYcD+9q93Bp2jg3YrbcmzNsbSo3PYDQDpzUJRS6ELyUxgCdUsvNccfVAw79qaCPB6XF9POo0gY8Q6JviNtQzCxHkl784NHH+rXUEBtvUt5twtAJo01PuQm7/pjrwEzTxUiEjzqhi7zO+HWRts/y5fvKBKbtwJF2+9GUZRwDMkKshjBWii1g1ehtMq9EIH25/m1juIOhnw==;BOWwQSshBJzrA2raDd87sQ=="
 ---
 

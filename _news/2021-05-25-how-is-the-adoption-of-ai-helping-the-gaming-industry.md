@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-t
 webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,34 +24,26 @@ images:
     isCached: true
 
 related:
-  - title: "Committing to a U.S. Government-Industry Partnership to Empower AI Innovation"
-    excerpt: "Such a partnership could make prompt and significant progress in resolving the top barriers to AI innovation and deployment."
-    publishedDateTime: 2021-05-21T15:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/05/committing-us-government-industry-partnership-empower-ai-innovation/174115/"
+  - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
+    excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
+    publishedDateTime: 2021-05-25T17:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/18/NGai20210518/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Language I/O Releases Gaming Industry Findings"
-    excerpt: "Language I/O (LIO), powering meaningful conversations between global organizations and their customers, today announced the findings of a"
-    publishedDateTime: 2021-05-25T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/language-io-releases-gaming-industry-findings-301298764.html"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
+    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
+    publishedDateTime: 2021-05-25T16:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/810118/LIO_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
 
 secured: "tEPdVMcI7ZAP43FOO9cqoUeK9B2aD7+MeF3PkdnL+IY6Fw4WkBUaCYU+Vz8XXKGzcuQr8SLTn6GQfLdzFkgJy075BfzVojsXq8yK6lTprnlXkfBO5weSjeoNRYQHFoORq+7a0i4q90phTUZ72utnx8wDkqV5RXnZn0fbnSTxwrOSzgi1NR/N/iorZzuSSuPmolHn9LiBdHLUpsC40BNQbkFYQxDXXJxXbeVZcWQxx0paGXapFbLDzwjGtRtISTcaG4oHLczaIlEN1+x3pFRT2tqds70Aq7lvpY3KtqRYLGRmFzXcoHzwj3KMkEIZ2yn+9TDSMF48s3AMgvEFDFGiTX4Y1xL3O+rR/jTB6DhFd1o=;FZRcfIoS0aj3GhrPgcqJIA=="
 ---

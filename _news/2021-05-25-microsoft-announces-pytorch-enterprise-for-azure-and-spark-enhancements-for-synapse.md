@@ -46,6 +46,17 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
+    excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
+    publishedDateTime: 2021-05-25T08:45:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 118
   - title: "Facebook and Microsoft launch PyTorch Enterprise Support Program"
     excerpt: "Facebook partnered with Microsoft to launch the PyTorch Enterprise Support Program, a service offering for organizations using PyTorch."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -97,9 +108,9 @@ related:
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
     publishedDateTime: 2021-05-25T15:10:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
       name: TechRadar
@@ -174,6 +185,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How Microsoft is transforming football with data and machine learning"
+    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the top (OTT) streaming services,"
+    publishedDateTime: 2021-05-25T15:47:00Z
+    webUrl: "https://www.dqindia.com/microsoft-transforming-football-data-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/microsoft-transforming-football-data-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-transforming-football-data-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2018/08/FOOTBALL.jpg"
+        width: 714
+        height: 400
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -231,6 +258,6 @@ related:
         height: 768
         isCached: true
 
-secured: "poSNuvWAOuxrSdOe84nOtrverxMaWKTKEQUCGrPr8p2qFnvsBTpDk3pns9XnVD4xAMz+bevW/yNMU8jKI81ijEc4yxJ/oamZe7MyY5fNlddUX92OTYNht6ggO8mDBVeafi3uWX8Go/Byexh3hwnWInGLKzMy7MlTaK0rz4yiv8A3y4Ms40BnLTnmkWNFE8Mv1pkfZ8nHkYEsqGjZwTFVgVnnC1F+X0JbbrSHZ23zQ2RNvqiXWYKnFn8vkpCmSRwYG++UGKPCJafYqCoTebyRGtr0ScnrZlWpXQdMN9Ib30izbthHv+Fw/c2X5B90w7gC9DyiOa5a6+mstT5Wn3uki+u2zdToqnRek5BcSXnSQ7c=;05p049w+I23DNtDdS7QUVA=="
+secured: "3Gdi30WvBNyPAsSt5rmGLjQfW+vGxZuDii2Q8oAdsknlANH9ZbNAgjvr9XOJVGol9w1xpuTYsiujPyTPmQiy6X54dAM5yrXPeQIWMpQfAwSsIw2czESLheLg7eoKWXQ1ZpkdPVb/f+5y5JSzipCreNHYYm0sqe7vU/dsb2t9HASDddsdWRN6KjPmwZDbDWGrHriME0vWOE+JVXAVYr1vFSfqDJMNBJdbg9R7QIPURrWJSYeq+yn2dNuE+rg7bb8+W/1usGhP5kx9h0+xoNQy4Q3DRFdbgDsGaZBtlBQpGExmBtzqmjAap/GB8Igd1oBnbq0yXpFqzH0zgeH1oFT2sfBWcEL+jzjlQihDvrcLHiV/4XPDy6XzXYE5RqFMYD4HCrvUwUjEGueNN6mUe8GAzl3a6EbnR8M6m8/3rAaiRQO0fMU/wenOxWAoYS330Ep3zad3KR2Jipi8MtINTA+kpm94T2xI5XBSf87Xf0Dnlo59xgvXqSCQ/EBx7JLbkmEW7HcLNvZGPICWMvGFaciT5g==;cVmq9BZdrAzAshlY9cAtmQ=="
 ---
 

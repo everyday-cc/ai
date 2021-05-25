@@ -1,45 +1,28 @@
 ---
 category: news
 title: "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report"
-excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner"
-publishedDateTime: 2021-05-20T06:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report-301295614.html"
-webUrl: "https://www.prnewswire.com/news-releases/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report-301295614.html"
+excerpt: "According to Gartner, \"computer vision technology is becoming mainstream for specialized use cases across various industries. Many high-value use cases have a strong domain component, and vendors ..."
+publishedDateTime: 2021-05-20T08:07:00Z
+originalUrl: "https://www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report"
+webUrl: "https://www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report"
+ampWebUrl: "https://www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report?amp"
 type: article
-quality: 40
-heat: 40
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1514656/AInnovation_Named_a_Gartner_Cool_Vendor.jpg?p=facebook"
-    width: 1269
-    height: 664
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
-related:
-  - title: "AInnovation Named a Cool Vendor in the 2021 Gartner ''Cool Vendors in AI for Computer Vision'' Report"
-    excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its Cool Vendors in AI for Computer Vision report. The Gartner Cool Vendor report is designed to highlight interesting, new and innovative vendors,"
-    publishedDateTime: 2021-05-21T06:34:00Z
-    webUrl: "https://menafn.com/1102102260/AInnovation-Named-a-Cool-Vendor-in-the-2021-Gartner-Cool-Vendors-in-AI-for-Computer-Vision-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-05/20/PN_f3b08c27-6_Image_In_Body.jpg"
-        width: 400
-        height: 301
-        isCached: true
-
-secured: "Kxd7DZvdsMxM0VrPuuG6RxtAHI+1++mqsAA3BN9efmsXLOAg+5XNAeJQeMpIPGV4plYdgC7IQoWnepcOXy612TC3WMxiU03YOlL4tw5sc0taRmWGWK8j/GCuDztc5VQJUSOD4gsoG0vVCIkwY0YZ4hVpejraXb6CrQPnh5Tj9wTdE8pTWy60lcw4NhS+cPyIuKto3FI+LY9JfTgJ0vmbfpRl48wZWRTvfJCpJVOv1ENPboRusQDpkEAb3tMPfQyygo/g2YW8mRxgedDmp3QsapYes/t/W3f0rRrL2PYWi8lqbvKY1fI8LOh6fqGgjPcO2G8AOxe7JOrduwUyjFp5N/wo20pMGAnlHvV39GWZvFYmRCK23r5f2QNbeBrp5TSmPQsoIxDaW3qcZ0qyrCchF3bQBWf0s5T34foSyFAwG+4iQ/k52f1JToss1DW3nxC05tg5MaN9JnlbyWz9MVestJ46xkuoo2Dusy92yFKiVVDGWVmg/is/Wb3Xva71UI2dENl0eGkOn9bK6vekK6yUzw==;/4DyPHG/guYoTMveZyGIRg=="
+secured: "xkHNExUwJ6hhLeRPqy/inmEJTEZNTrvSxbbT9Sc/Yb1wGck0lKackiNtVni+cle90yPcOHzSTAvJWHHBcsMnU1uFcvCMaENlKaxKM9YmRDgZWiBBpqihCb7enhCRq9oQe9US3ycEfWrLclnSmBJQ0OY8y2Ee7tOYBmz1g+MbPTkMuKmlo26rToxNns8VaHx1LOUx2emmOzUTwnYCWE6u729oWfCc9PQNn0lX1od/D7U0NwDbg9fSpSRopV5cG6AX9Tz1YC5EDPblx1gM2Ngt4JxDSz+KfWiUWDIIcO/Tr/2UkQqideQr7NHI3f5T7h23eqt7mp551bdR8rmk2QZ7Mfu8OrSZ4W+lDLfqU3BC8R8=;Uc/t4PEeKKirBhWGH1PUhQ=="
 ---
 
