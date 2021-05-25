@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
-    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
-    publishedDateTime: 2021-05-25T09:31:00Z
-    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
+  - title: "CBP expands use of facial recognition technology in New Mexico, West Texas"
+    excerpt: "U.S. Customs and Border Protection is expanding its use of facial recognition technology at border crossings in the El Paso Sector."
+    publishedDateTime: 2021-05-25T19:54:00Z
+    webUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/"
+    ampWebUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
+    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
     type: article
     provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 54
+      name: BorderReport
+      domain: borderreport.com
+    quality: 59
     images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
-        width: 1600
-        height: 684
+      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2021/05/Facial-recognition-tech-CBP-courtesy-photo.png?w=1280"
+        width: 980
+        height: 700
         isCached: true
 
 secured: "xj5P0KVXHZXdderLnBP5/6bJ5ZNukwHDPtetbVVTX6M/6cyOCsEfC3Bn07+sx8aLKrZzcgtEBAnlvp/MKsc6vG+Ry/aW0NUEZGW02ePyaQZabdUHZY3U/kzudCGvqJY0LhUdD7uO49/OqOlXti3a14YZ/nuR94S5srNEgkQRXsl03VYGFvOcOXJpFTh6cM6eYh4YPyoRA7MpotaCKin0hUaxMRbE1Q8QRimfXGCLzaHT+pticgkITaE+9SGi/eT1GWhm3NZwcQPblEqMla0E72vOf5UAvmX1s6tVhOHMI6tzS0UfWMP1hiR9UI50x6Y00JI1pLCjXwGJ2A7IQQnnMeVnXEWv2RtUuzlXWcGXbiM=;N0C3v6FX96aj3KhGTehS2A=="

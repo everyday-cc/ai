@@ -2,6 +2,60 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-06-why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science.md",
+      "title": "Why machine learning, not artificial intelligence, is the right way forward for data science",
+      "excerpt": "Commentary: We like to imagine an AI-driven future, but it's machine learning that will actually help us to progress, argues expert Michael I. Jordan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "originalUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "publishedDateTime": "2021-04-05T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-artificial-intelligence-enhances-preventive-care-telehealth.md",
       "title": "Artificial Intelligence Enhances Preventive Care, Telehealth",
       "excerpt": "Researchers are leveraging artificial intelligence to enhance preventive care services and telehealth practices.",
@@ -1246,50 +1300,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
-      "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
-      "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory. The research was published in IEEE Robotics and Automation Letters with other co-authors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
-      "originalUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/03/artificial-intelligence-2228610__480.jpg",
-          "width": 767,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

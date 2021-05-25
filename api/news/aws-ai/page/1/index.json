@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
+      "title": "Your Guide to the AWS Machine Learning Summit",
+      "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/2021_ML_Email-Signature_400x173@2x.png",
+          "width": 800,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T11:32:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
       "title": "Best practices in customer service automation",
       "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
@@ -157,50 +210,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
-      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
-      "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -794,10 +803,10 @@
     {
       "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
       "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
-      "excerpt": "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS),",
+      "excerpt": "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS), recognizing its role in helping Canadian public sector organizations drive innovation and build solutions on the AWS Cloud.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844",
+      "webUrl": "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-accenture-receives-aws-canadian-partner-the-year-award-/2021/05/12/9367907.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -807,21 +816,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T09:30:00-07:00",
+      "publishedDateTime": "2021-05-12T07:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

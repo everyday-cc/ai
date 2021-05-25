@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
 type: article
 quality: 54
 heat: -1
@@ -51,7 +51,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 118
+    quality: 120
   - title: "Facebook and Microsoft launch PyTorch Enterprise Support Program"
     excerpt: "Facebook partnered with Microsoft to launch the PyTorch Enterprise Support Program, a service offering for organizations using PyTorch."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -103,9 +103,9 @@ related:
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
     publishedDateTime: 2021-05-25T15:10:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
       name: TechRadar
@@ -210,6 +210,22 @@ related:
         width: 714
         height: 400
         isCached: true
+  - title: "Nokia makes AI move with Microsoft"
+    excerpt: "Nokia claimed a significant reduction in time taken to add AI to mobile networks through use cases employing Microsoft’s Azure public cloud."
+    publishedDateTime: 2021-05-25T19:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2016/05/microsoft-finland.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Build 2021: Microsoft announces new capabilities for Azure database services."
     excerpt: "Microsoft is announcing several new capabilities for Azure database services at Build. The Azure Database's ledger capability, which is in preview for users,"
     publishedDateTime: 2021-05-25T15:27:00Z
@@ -252,7 +268,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-05-25T18:08:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 30
 
-secured: "QeJSvbxPW1WpdsBd3jpbAsylTx5pW2HRyR+wCp3v7eTteilLEk6D4Td1YRTQiKD58cI4CMeLi/6BZx78+t3vaKtwRDoo4YJ/9JQjk3m/LI+lddW23aT/soN7NL1ncIpI1b8cwAMG4yvYYmGake8zasBaBk0zJNnicPAXT4s1ZN3x67CSOzspcz/OMkRQc9NXlM5SAW+B3y0mqm0XtMzzbzTgDAkBNkDtcFlj/8CYckRvqvwqnjO3x81FcnUsQlofYoRZTmt1auOx1nzeqxNwWSPWDrNSJ5ze3AHnpz7/vY+/BDV2+n/XGPcfArnqc6J1bEKwVhRt0WFmR6kwEnpwUYbUdxKt5E7aqiGblmF20jY=;KCYdFHdrOzp7g7hkq5m0jg=="
+secured: "1AZ53Qey13PKMZZ3AffCO9QAml/YofpbGQDnrvCrdaNZpEp4tWM0yKitKXN8hHh3MoD6kkhv1J8IgmKKTX4mXuVHNCl7OLO+c+z0DRiR3ZTa9aKUEewGrXRrU15Z3hArIqx/w3WpIq4ViwlHpvU1cG0kQhiLCVAh8Axb9mTnOteNcatIEL2Yvoo2PIfR6W9Uba22jIhBMwrUF2hHeAuJ9LXebmFLyG6x1W4cWzIrzWQ7ZRT5UsYhYZfBWAyiW+I9uDk2TTa+qSVVFJlzV47Uil9bX/oi6NLBbwanZdP3UtMYoDl4ixHe7/3DoqxSgTWlQWgZWMGHfiHaZcymzH5YdMbugcwblYVZ4oR9+ClGgVU=;fTpIz1KmAKZm0xSYNyBQ2A=="
 ---
 

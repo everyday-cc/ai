@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.md",
+      "title": "Neteera CEO on using artificial intelligence to change healthcare",
+      "excerpt": "Neteera is a health care technology firm that has developed a heart and lung monitor that is contact free and can measure vital signs through clothing. The company is ranked 26th on CNBC's Disruptor 50 list.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106888119-1621966946-16331919716-hd-L-00-00-08-03-Still002-png?v=1621968882",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
       "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
       "excerpt": "According to report Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020 the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -442,33 +494,24 @@
     {
       "path": "_news/2021-05-20-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
       "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
-      "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
+      "excerpt": "Breakthrough technology uses cloud and artificial intelligence (AI) powered wearable devices to diagnose and correct vision defects in real time Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software,",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210520005301/heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210520005301/heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
+      "publishedDateTime": "2021-05-20T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -478,9 +521,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -539,24 +581,33 @@
     {
       "path": "_news/2021-05-20-carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial-intelligence-as-a-service.md",
       "title": "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service",
-      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service.",
+      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial",
-      "originalUrl": "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial",
+      "webUrl": "https://www.lelezard.com/en/news-19816657.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19816657.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T05:00:00-07:00",
+      "publishedDateTime": "2021-05-20T05:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1323,49 +1374,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
-      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
-      "excerpt": "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

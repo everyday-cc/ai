@@ -2,6 +2,135 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-12-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-our-reactions-to-the-treatment-of-robots.md",
+      "title": "Our Reactions To The Treatment Of Robots",
+      "excerpt": "Most of us have seen employees of Boston Dynamics kicking their robots, and many of us instinctively react with horror. More recently I’ve watched my own robots being petted, applauded for ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/10/09/our-reactions-to-the-treatment-of-robots/",
+      "originalUrl": "https://hackaday.com/2017/10/09/our-reactions-to-the-treatment-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/10/relating.jpg",
+          "width": 3519,
+          "height": 2039,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
+      "title": "SoftBank’s Son expects mass production of driverless cars in two years",
+      "excerpt": "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-build-a-cognitive-search-and-a-health-knowledge-graph-using-aws-ai-services.md",
       "title": "Build a cognitive search and a health knowledge graph using AWS AI services",
       "excerpt": "Medical data is highly contextual and heavily multi-modal, in which each data silo is treated separately. To bridge different data, a knowledge graph-based approach integrates data across domains and helps represent the complex representation of scientific knowledge more naturally. For example, three",
@@ -1043,161 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-edge-ai-chipset-developer-simaai-raises-80m.md",
-      "title": "Edge AI chipset developer Sima.ai raises $80M",
-      "excerpt": "Sima.ai, a startup developing an edge AI accelerator chipset, has secured $80 million in venture capital backing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/",
-      "originalUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/edge-ai-chipset-developer-sima-ai-raises-80m/amp/",
-      "publishedDateTime": "2021-05-11T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai.md",
-      "title": "Global Shipping Logistics, Legal Risk And Compliance, Another Arena For Artificial Intelligence (AI)",
-      "excerpt": "Shippers and their customers must be able to know where product are and when they will get to where they should go. They must also be able to show to governments that the ships and cargo are in compliance with law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/11/global-shipping-logistics-legal-risk-and-compliance-another-arena-for-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2021-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-google-plans-to-double-ai-ethics-research-staff.md",
-      "title": "Google Plans to Double AI Ethics Research Staff",
-      "excerpt": "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "originalUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-336712/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
-      "publishedDateTime": "2021-05-11T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

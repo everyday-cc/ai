@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-25T17:48:00Z
 originalUrl: "https://www.globalbankingandfinance.com/five-things-you-need-to-know-about-machine-learning/"
 webUrl: "https://www.globalbankingandfinance.com/five-things-you-need-to-know-about-machine-learning/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/05/Machine-Learning.jpg"
@@ -40,6 +41,6 @@ related:
         height: 810
         isCached: true
 
-secured: "yAEifk7HgbARA9HXuEyQjArXQV9SvowqdN56/w6TPS/xzCvlSi5JV39Z8+sDZO5hedLaEf0hQm9I9x5//SuLgoRqyGfRY5iu2fGaN8kjiFGvp62PyMrUmCBrdwXK6peGCZv5obDaEt22n24li/P+b4/a8YwR2L/+QKo/99loSTApzCKx3GuyAv+0Ul/oef099b446uhnT2ihX4ocqLgwroLNkCT8FHbhDIxQ/XPLAIk49GLJ1aHdglZlyx1gSQwpcVrMZ9s53UrDIDBXVbhOIoROJz7qL7PInYwgViNWR5GN1bIhBPIXK9BNqUkij5Pl/0QN1HxKBeRMQz0LPJ/tnE23Jb2rEE39p7U2RD65fjM=;ixGvTldrdh828YpdbG5pIQ=="
+secured: "t6XDO+FLTqMR8IZksB4AQN/wrkGi2GvyLtL9MxkPHbj2JBxZhciBsES9sYMCue/DS1Iz9B4YGfJrv5fde+1Sb0KmUhPhnWyTAiJmQu3epYIeayoLA326tBd24MZJbiNqVI4cnbVZhql3tqwSP56vD//7KVlp3HNyxXSb0mM7FKVDz17NNw8ASevPqCGFYcA/hHWqhWKmlM7vRIWXSWxmjm4kxKAm+KAiKygfijekaRJiSwtk/WucUoecWmqkfFRV0xhTYaGq8atsbQhfs42mB0nzsoyjfH5VNh8HEoRWeI5xP4wIYoT6x5rghdMtpGBEYm4dfOkfwaCbvfdbATf5pAJcemxTuylS1pBj2nZe6smaWbqiEi7FyzB3eF3U/xkOhLHUmwNwgFSqfSfCTTFJMI/peXLoG+lCrpKq+2UVqtwLuf39UKDtfOa+aJonvgsyrs+F2tAXQEuBRlru7USBBDxsyi3OVuOiAlb1/VUOmwGjdPd4JMJUjom0TwZee0RJ29HRnE55Z6uvlaJC4bExPQ==;h84PSpWH0kas/xhjYVeQCg=="
 ---
 

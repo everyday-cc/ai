@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-thei
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 800
     isCached: true
 
-secured: "npkIJGv52OLtFZOCvi1ao3iGE+loeMv7kT+cVjZ2WtKhSa+3Gqtl1/BPewPOAdtuXCcG53YSDAgaciRYjS82Rh3+c4uZjwIN7s3Qxp0UVY4atGdcibKooMfrKofSRz47XzQuOJDF4a/eckWmq08yK159z3QL8WKhtdPankl+Dp5+eMbgv3KSDSq+DeKJQN0JT4OSoar+4A0u7cvwrXKAzCtyqtAKltiSJGPTUKrZXu04eNcBstpbsaqiXmnHzGWfEjUFF6hTFI7SD2EdyVS8mfHa1NIVcFgFtFBRmukUKbn4ta6xMN1a+D9/ExNRCyKTsYkckFrseS8nRQ6LMqd/nY+Osmihd+ln15RZ0o7QADk=;Mm/Wm5cl9fu694VBEOonuw=="
+related:
+  - title: "How Does Your AI Work? Nearly Two-Thirds Can’t Say, Survey Finds"
+    excerpt: "Nearly two-thirds of C-level AI leaders can’t explain how specific AI decisions or predictions are made, according to a new survey on AI ethics by FICO,"
+    publishedDateTime: 2021-05-25T17:43:00Z
+    webUrl: "https://www.datanami.com/2021/05/25/how-does-your-ai-work-nearly-two-thirds-cant-say-survey-finds/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/Human_bias-Shutterstock_-Lightspring.jpg"
+        width: 1000
+        height: 672
+        isCached: true
+
+secured: "7ZvynEN71fylHspblHbKQzBn6PHPIypH/Q9rmG4HyzekfsaUxR095QXlBBSYCu8w+l22S68iN5bYZDzVg8IfaM1u4AHP2t1GrPoVhm2fDk5S5ONA6KbgVdNayYylxMdwhXIGK/8BQWENNl0iQ9R6W0Q/l1K0tYWkoidE3o5pN3ULUpD0XbEZHBjKLV48RLG9MRyTGnAnRS8av6UOOTwGXoXumKPkemXHevGZ2f0ZwscLSgsLfvlQwsrrk9FZnn8pdyND6uQkfOFegH4/jMcIjwcch1M1UG4RVBLbgvXm5yLVD0asliRd8EVEvkVhWxB4zBbqlDsjMZIVixJQYgW/dJzYIyHc4YkRgxd9AtUI0anXLaXwuG1ABz+CD5fXQekWEhomlsLTeCqjWDNjYNpT6iCBTLsiGshymyyKaKrEkBCwT0oHPeo1iq2t1AdJzycoU6MBQVeFQ7NBDkTzcD5tKOmR/3Txr8zSEEriDwLWR1VV/BEWlwQ662GoftW3592iIoR72uy3FRkq8a4nIO5vtA==;WKxPlW+MJMA89t/0Tym1Wg=="
 ---
 

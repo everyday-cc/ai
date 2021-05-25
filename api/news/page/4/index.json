@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-21-have-ai-chatbots-come-of-age.md",
+      "title": "Have AI chatbots come of age?",
+      "excerpt": "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
+      "originalUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/ai-bot-0041z.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
+      "title": "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent",
+      "excerpt": "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "originalUrl": "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-337471/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951",
+      "publishedDateTime": "2021-05-21T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-mapping-and-logistics-startup-nextbillion-raises-625m.md",
+      "title": "Mapping and logistics startup NextBillion raises $6.25M",
+      "excerpt": "NextBillion, a geospatial data startup that provides software-as-a-service products for enterprises, today announced that it raised $6.25 million from M12, Microsoft’s Venture Fund. M12’s investment extends NextBillion’s 2020 $7 million series A funding from Lightspeed and FalconEdge,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/",
+      "originalUrl": "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/nextbillion-founder.jpeg?w=1200&strip=all",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/mapping-and-logistics-startup-nextbillion-raises-6-25m/amp/",
+      "publishedDateTime": "2021-05-21T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-under-the-ai-hood-a-view-from-rsa-conference.md",
       "title": "Under the AI hood: A view from RSA Conference",
       "excerpt": "AI and ML in security is full of buzz, but we saw promising signs at RSA Conference, such as an evaluation system for enterprise buyers",
@@ -105,21 +252,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
-      "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform.",
+      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
+      "title": "Speech recognition comes to prompting",
+      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
+      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
-          "width": 400,
-          "height": 286,
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
+          "width": 2560,
+          "height": 1536,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -127,23 +274,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:43:00-07:00",
+      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "publishedDateTime": "2021-05-21T04:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -152,9 +290,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -218,7 +355,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1067,161 +1204,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-geospatial-startup-unfoldedai-acquired-by-foursquare.md",
-      "title": "Geospatial startup Unfolded.ai acquired by Foursquare",
-      "excerpt": "Well, that was fast. Just a few months after raising its seed round, Unfolded.ai announced today that it is being acquired by Foursquare. Terms of the deal were not disclosed. The startup had raised a total of about $6 million when we last checked in with them.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GaryLittle.jpg?w=600",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
-      "publishedDateTime": "2021-05-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-11-ways-were-innovating-with-ai.md",
-      "title": "11 ways we're innovating with AI",
-      "excerpt": "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/innovating-with-ai/",
-      "originalUrl": "https://blog.google/technology/ai/innovating-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/innovating-with-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/",
-      "publishedDateTime": "2021-05-20T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
-      "title": "Slicing up pizza robots",
-      "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Pj1j9cioj_w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
-      "publishedDateTime": "2021-05-20T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

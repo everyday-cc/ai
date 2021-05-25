@@ -54,7 +54,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 118
+    quality: 120
   - title: "Facebook and Microsoft launch PyTorch Enterprise Support Program"
     excerpt: "Facebook partnered with Microsoft to launch the PyTorch Enterprise Support Program, a service offering for organizations using PyTorch."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -106,9 +106,9 @@ related:
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
     publishedDateTime: 2021-05-25T15:10:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
       name: TechRadar
@@ -197,10 +197,26 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Nokia makes AI move with Microsoft"
+    excerpt: "Nokia claimed a significant reduction in time taken to add AI to mobile networks through use cases employing Microsoft’s Azure public cloud."
+    publishedDateTime: 2021-05-25T19:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2016/05/microsoft-finland.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
     type: article
     provider:
       name: CRN
@@ -253,7 +269,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-05-25T18:08:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 30
 
-secured: "Z+SKLKJep/2QtDD6lsUeApDByzZQYhhNwsinCkJI6N2xeB/Fosz2O6TAhsVImFr2vBZ7FRmdvK9N5zHgxZl+b7DAHI5UdVTgCuZZUJWgoeG1z5+9sQQItBvRjc+dZ8+vVBeB/OASw9GkLY1A2RgE83jcmFp2JX+KjVAj229uVMHwAIhNCugCSamwa9ZqpEzaNbnS3fyyzae96gJUgZbJNDn0dL0I74lZfpVoXIv8SNmu0k5V8v/78yVHnzHW2b8uBjp09HE1Wf5iHLTX4Cb9f89sfuCrDE4D4gXNY+DXx9O1CCfml7Uz2GGW3llvnJ+QjIoTsWxCHjXqN2nIMKE+Lnrm1SFLsbgs1ftoyplq6dM=;SgHdgBdzVW4a8DQ5gFt6pg=="
+secured: "CmsNibQGA5CeFfVVGzUt0rWu0i+jV610lzS8z1QQp3P5JjxH4tdFphC2fVSRZdVs0ar8XB3hrfGCm1nT2l5LBaez8O5L20LeOUVcmeLV7JxlntGKYy8Zrl3zhuLiA7/kEox1Upk1wSyR38g3w2I3zEGxYWcDZcBI/F7g1V5GHlW4pQqVz5T2+UehkDCEKO7d8XXKVW8TG7BxC5HI8GJtmzJWQ1R1yQby+0MNQ6ZclNBM4GWirT0AaJZyzwZi+7QTABDStBzf+fYXNQ7IOP6kt8j9zgYGxZ9hQJmCZY9LHE4QFW+pF4bxQFikE4iidbOAahmkQZkUuqohLiE9+9k0IJ3QZyUdvwa4eBrECtLEouMjzSuLHYNIXPm19unxo9+i2PdBbEjwEQ7AvGwAJq77UsFHRYp5myH6wTavbaSPmveVY5f+PFizYrn2GBDfzwaDRW9SywG8FXQotoGG49jSjkBYG3SUGM8JKNXZ+zdH9PM0SGbYHaXncabT3sslaGxl72Dtl2q/8GQ4i3A09FEEjg==;AMQ+Bd1QygnlHMH2iTwjFQ=="
 ---
 

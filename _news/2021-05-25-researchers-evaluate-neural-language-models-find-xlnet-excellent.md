@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T16:27:00Z
 originalUrl: "https://www.datanami.com/2021/05/25/researchers-evaluate-neural-language-models-find-xlnet-excellent/"
 webUrl: "https://www.datanami.com/2021/05/25/researchers-evaluate-neural-language-models-find-xlnet-excellent/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/shutterstock_ai_reading-e1621959676774.jpg"
@@ -24,6 +25,6 @@ images:
     height: 667
     isCached: true
 
-secured: "a4QM5OqFwFA6CUb2ZeNYBm7c1BxR70r6ASoajZAnO2qdF3m0XYIx8vagmQDq1+upxPFiZtrI3Z8neG/UuwuCJxpcFdeqkFq22HjXMJL8Dfs0GuUSIBY7/jS5IQqIBoLZ76a7BoOWPKTs07gHEw0KkmahLajC3mikMvejBW8eHtkPPRdFghj/0HnXJkO+nTGC0uUA+kSqrCRGhua+HY8y+y822rAvmEouiQnKTSr9Vnt1P5fc1qMEsusvQrOPQk2KF1MTYkQF1ZHM1h5X0TT515g+IjLe5gqCFrI0jVGcFLd/bZp+EVhBR+/q4OvUg7CLZRTqWYR/3dfvuo9C0bGTowpfBnE/KkqL+RvZE6N717s=;kVOthFefGlcsj1WdyEWbMQ=="
+secured: "HpMkIGhFVjTsx6mnqy3YMd/2LcLjjbWE0PDC+ndQt6vswUN3GQZcQHLMJ/vLJXXKM7A300ikP+Jtm9NMI+FOM/1TfoBAJj4IsbM+DO9k8m5z+4hXKqrm4c9xHDN7p20k5a30ORafukoVHIapvSCfZ0MIfmcttgWJF3drhxuu1bA2kajwgLk16nW7McE2uXqA/njT8JqFze/E6vx2HpipjSanSH1ysA2haI5RlglSKkpXT+qDX/0iGzsWjhVzvl2N92BylFS3Yp3k4YCngFHrvd+MRoySyihqxTQrJ3XjpeDBwWUlTNQvP9M5YlWjtjlM4fWKns9cZxpPBVQuOoJwakCm+RxxAOJttFA2Bjlh55Kb52cLeky0q0qXC1VJzKB319oc/5bamRPE9BLtUH52T7D6ADSb2bb+jz4e1HZzIE5AAVbmv+GZSH57hwvRpvLz4C6MkCREeqk34xLvFUyrFss3+50m5/pwvysHUhe6/C7+Bluva+ATBuoyjryhiynOHAUozELHHVz63j08BB9/Iw==;rsBHUawUYqu11peXEVwJAA=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/05/Machine-Learning.jpg"
         width: 750

@@ -9,7 +9,7 @@ ampWebUrl: "https://theathletic.com/news/msg-considered-facial-recognition-techn
 cdnAmpWebUrl: "https://theathletic-com.cdn.ampproject.org/c/s/theathletic.com/news/msg-considered-facial-recognition-technology-to-id-charles-oakley-shattered/Zly52V8cGMm8?amp=1"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1440
     height: 951
     isCached: true
+
+related:
+  - title: "Ex-MSG Employee: Knicks Considered Facial Recognition Technology to ID Charles Oakley"
+    excerpt: "A former Madison Square Garden employee said the Knicks considered using facial recognition technology so they could identify if Charles Oakley was in the luxury suites during his ban from the arena."
+    publishedDateTime: 2021-05-25T18:28:00Z
+    webUrl: "https://bleacherreport.com/articles/10003739-ex-msg-employee-knicks-considered-facial-recognition-technology-to-id-charles-oakley"
+    type: article
+    provider:
+      name: Bleacher Report
+      domain: bleacherreport.com
+    quality: 32
+    images:
+      - url: "https://media.bleacherreport.com/image/upload/v1621965531/cl3arbhfunjsudjt2nce.jpg"
+        width: 3843
+        height: 2562
+        isCached: true
 
 secured: "JgTa3eYBo/8Zj1M73rGfy6J0qrD28jfBBeFQn4kgyNvcCnQKxL1z2irXZSl8XqsdS6ZFnitf165zsziEsAUYpRQQQMmyYuOS9y5NIfs70UyDZuHC0r4nWJcE117YcxUh5GFU5C1rgmVUhfo82WbY7KfZpoMZ/yerzxQnyoTCzu++nMb59+X+VCcS+imUfYvd7s3anYDyXMxAkUhAjcWpTA4L2qNWRxZMQ2sZ1vT8PpcfO2ULyFT7tZuNxFqgu/pMeckTmDnNcez6ZunaoNxMty+eQzalKzTpFpGpjD+fWYyALzuKC+3xBsx1KP79E7pMUFiEa98IO4rKmBHnAaAxG1P8gEi/1bOUh0mFMlEuNDkGytBSBWQyIjtygcDpNfSgHsypLPgk08vwWSUaKogN8y8rDFq9xZhpTPgIHxgy5hMaeasuvQgHigBNd63d/+FJfnlvxeLod9JAtexvg6O66+EHbf6Ci0FFChTKYKRPoAM2QuCYsYNewaWzNBjd7SgqxO0Tfh9XiTG/Q3aOf0q8lg==;zrS2ZEOh8JBB+pK83BGYbw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Market 2021 Estimation, Growth Factors, Overview, and Forecast Report till 2025 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Agriculture Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-05-21T01:24:00Z
-    webUrl: "https://menafn.com/1102102389/Artificial-Intelligence-in-Agriculture-Market-2021-Estimation-Growth-Factors-Overview-and-Forecast-Report-till-2025-Says-Kenneth-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489336"
-        width: 443
-        height: 250
         isCached: true
 
 secured: "iupjbk36AkWizHPxx131NS+mp9nMh/2rYMVLsGsOy4uAiu/13duMaTJSTDGkgIst3YRau48N41qDxajdtneMnwZ7gqLG2iOfEsF5Y+dnQDyFfA2iR2dXVBfk8hLWOYH1UHmUCBx3Y8M2/FdjO8lb9fl1PXHUq9mrW3ydo/ekEawEQQU2t5XjrKDO//+vbZolzHXzGHkzgkwzQc7W5j1WaLP45PaVWDNaF6eCo3sn5rQ+qbyws6t0+ZNz0nLUTBZlaZJMJ6nTbQBwMlQjdPXyYdnpK/vPT2F2cnpdPetwSS/KklUJmSTn1wzLpBmzL1zXkdow6eUjDCuiycQIOgIsaQTgeCESR8UcxDzj7p4KIrc=;Ob2YbEz42m7aGjNYDf7ZkQ=="

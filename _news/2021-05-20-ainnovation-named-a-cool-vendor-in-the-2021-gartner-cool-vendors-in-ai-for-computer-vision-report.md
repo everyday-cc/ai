@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report"
-excerpt: "According to Gartner, \"computer vision technology is becoming mainstream for specialized use cases across various industries. Many high-value use cases have a strong domain component, and vendors ..."
-publishedDateTime: 2021-05-20T08:07:00Z
-originalUrl: "https://www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report"
-webUrl: "https://www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report"
-ampWebUrl: "https://www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ainnovation-named-cool-vendor-2021-gartner-cool-vendors-ai-computer-vision-report?amp"
+excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner"
+publishedDateTime: 2021-05-20T06:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report-301295614.html"
+webUrl: "https://www.prnewswire.com/news-releases/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report-301295614.html"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1514656/AInnovation_Named_a_Gartner_Cool_Vendor.jpg?p=facebook"
+    width: 1269
+    height: 664
     isCached: true
 
-secured: "xkHNExUwJ6hhLeRPqy/inmEJTEZNTrvSxbbT9Sc/Yb1wGck0lKackiNtVni+cle90yPcOHzSTAvJWHHBcsMnU1uFcvCMaENlKaxKM9YmRDgZWiBBpqihCb7enhCRq9oQe9US3ycEfWrLclnSmBJQ0OY8y2Ee7tOYBmz1g+MbPTkMuKmlo26rToxNns8VaHx1LOUx2emmOzUTwnYCWE6u729oWfCc9PQNn0lX1od/D7U0NwDbg9fSpSRopV5cG6AX9Tz1YC5EDPblx1gM2Ngt4JxDSz+KfWiUWDIIcO/Tr/2UkQqideQr7NHI3f5T7h23eqt7mp551bdR8rmk2QZ7Mfu8OrSZ4W+lDLfqU3BC8R8=;Uc/t4PEeKKirBhWGH1PUhQ=="
+secured: "cFJOUIbF9wYtzPy+HY/4MXahyYye554QSnpvmoJactLBI5atCF3gqaDC943xVSvuflu5+vcD/lBvhE75KcwKImtrLBDD0csaCRJgiiwBD+SbaarTdrNnNdrTVdpnviN1GqTAmt1vt5cjbjFfWGfwNpKXqrZk2MpFm6EU8w0N6Pgtb/MXIrsjuQjEoJ8qimDTtuzIJ75pQFl5QABu+eL3VDMnznv8hkXXb1bRcAMcnHKqBlyLt+6qJbMAOiyK9wiWsDehp0twD32qhrubBSdbd15+DsLuEGcREIGJH7ZrusjMVEfh9Ae46hDVmg4IXoG6hv/9/UoWG8eVfznSbWJSfIp3mFSOgFTmtPVTlbRRCw8=;/lO6z5HpRoFOHiqM3CWkPA=="
 ---
 

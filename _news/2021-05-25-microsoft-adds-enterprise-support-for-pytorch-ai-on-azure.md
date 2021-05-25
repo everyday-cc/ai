@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pyt
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
 type: article
-quality: 118
+quality: 120
 heat: -1
 published: false
 
@@ -25,6 +25,7 @@ topics:
   - AI
   - Microsoft AI
   - Facebook AI
+  - AI Hardware
 
 related:
   - title: "Microsoft Azure launches enterprise support for PyTorch"
@@ -94,9 +95,9 @@ related:
   - title: "Microsoft Azure is now smarter and more powerful than ever"
     excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
     publishedDateTime: 2021-05-25T15:10:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
     type: article
     provider:
       name: TechRadar
@@ -201,10 +202,26 @@ related:
         width: 714
         height: 400
         isCached: true
+  - title: "Nokia makes AI move with Microsoft"
+    excerpt: "Nokia claimed a significant reduction in time taken to add AI to mobile networks through use cases employing Microsoft’s Azure public cloud."
+    publishedDateTime: 2021-05-25T19:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2016/05/microsoft-finland.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
     type: article
     provider:
       name: CRN
@@ -257,6 +274,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+    publishedDateTime: 2021-05-25T18:08:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 30
 
 secured: "qOzspnZB9mpI8KvNlUw36BIYgT9qGmfBn8mZ4AfQ1O98sDuWseQ6ecVzcnZqd5pNp9bwQXdDbMUnUHO+JJzzKjEETXm8hnMUR1DpUxXETJtIc2HQTAYnjcAHnb4FUQnMWNN73xkPhpLfNU9dyNKcmJpAG4sHoQW5WtNfH6G23XvOxTZC69CbOKhlJs4bpq+q2ZVbrgrFuxSyrDBekJzoY9JLy0kAMjuUwmKdRDjtAFulLjo/Qk5Nho7wxgP9x2UM23XuNRFBfr9PG+MD3mXq3CJcpC2oqH5P08ve/XPR/7SYQm4+Jv/JIoRUZiZYbJzxOk9j1RE0owzbbt6r9+glJ0E+fHAPYyQiwqfrAhApK8HXrQSPG3BcrmLjPm8hYGWy84AmjDZTFQw0oaQZxUK4UwATUSioG/XAp1XukCCxs8g4afgdm6pxJHOoSM8dXg4dmevmSn5Ahy2sfKkjYHyTdnhnCw5/+jgTd6tVKPfizFra87cXzSeR1JQWyWlpV/td5XJ1r3rkHt3ahCgwC8k7AA==;UI4ncduIOfu03j/G/gjkNg=="
 ---

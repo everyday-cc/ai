@@ -7,7 +7,7 @@ originalUrl: "https://www.tampabay.com/opinion/2021/05/25/whats-it-like-to-ride-
 webUrl: "https://www.tampabay.com/opinion/2021/05/25/whats-it-like-to-ride-dunedins-driverless-shuttle-futuristic-and-fun/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 450
     isCached: true
 
-secured: "cezcisC6gcCH1u48FbTIZW4KCgXDrR8PpfrU1jan7GMp81t7FWOUof1fysuyvQMnGFhXPFHHb+uL9uvjkC5Npm3GKL+jXLFNlJZOBVGRLseiQnnkj5nDOpZQPyT6ifTCEIbL7+z4cGVkpmIJM1+hS6swzSV1RteUoUUn96VcAWK+AJSNIJlNRBZC4rkLC3XJtSLBRafq/J3uoHCCr8Xrok4VKsiynjmMR0+kxfcjrz9fib8cDb+VVqAFFxJpCUGmHxyZOk4kZNYZQD8kUTFAFoxIl91dDRKZiN7f2jIRHmg0agLzMImj9IGkfNiCl22AHHiEU0kDBUH/uoAiKVFbtgoY0gjoh+4X7yofV8TyG1k=;s/YEGWASJ4mdVI5pF3eSlg=="
+related:
+  - title: "From driverless cars to robotic warehouses, China looks to automation to get ahead of labor shortage"
+    excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
+    publishedDateTime: 2021-05-25T03:31:00Z
+    webUrl: "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127"
+        width: 4032
+        height: 3024
+        isCached: true
+
+secured: "qJAYekhSVyc6y77msY4vRhkikJ/9QoxIb17niRRnlnGXY3uXmGcfikpSVK3wZEaMztmnyF74H9y6vE7FcJzr+RCMGEK3g7ODYHnITTTZ3DS9iJjuOUW7giP9GNDOWWbVg5ohb/PxUuRWcyXuhHZwPj7hPucpdqEppLGZ+//L0MW9M2sFGM3+lh0MJgedKjyLtwX0I5H4ysLQxG0FOyqvUSCRTUhReemI2SXedO3nJ+BepFjqXoDYlDcxWmmEq/Erg7fTfMTBRhJr/giVqSFLeI/MPdMcDWgaVLWIz199DxZZ1LitH//lCDEyDjSCWJdFVM3YDkB2w9S3xJKQ7oEXqN6rHZ6ETwSnTKj3Y/Nf9o6h3vPRnGsCLGLq+Yg+lGYDKwf7fYsqvQ/sPuAyvKgH7Mnwf4p8sZVB4xnh7MCKC+UcdezF7UUxwQHZ+3Og0zQi33U5Z49SxMqXtrHo/O0poatFjflPz2duYwl3z35h3wq/tOp532OI2mX7HF4pqYXd7SE5szGn6odGb2ub7sJtaA==;OFv0mOojfgkyXlSqCLc00Q=="
 ---
 
