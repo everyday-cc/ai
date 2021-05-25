@@ -103,6 +103,22 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "More efficient lidar sensing for self-driving cars"
+    excerpt: "If you see a self-driving car out in the wild, you might notice a giant spinning cylinder on top of its roof. That's a lidar sensor, and it works by sending out pulses of infrared light and measuring the time it takes for them to bounce off objects."
+    publishedDateTime: 2021-05-25T11:29:00Z
+    webUrl: "https://techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/more-efficient-lidar-s.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
     excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
     publishedDateTime: 2021-05-21T14:20:00Z

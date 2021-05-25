@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2021/05/tesla-ft-imf.jpg?fit=740%2C416"
         width: 740
         height: 416
+        isCached: true
+  - title: "More efficient lidar sensing for self-driving cars"
+    excerpt: "If you see a self-driving car out in the wild, you might notice a giant spinning cylinder on top of its roof. That's a lidar sensor, and it works by sending out pulses of infrared light and measuring the time it takes for them to bounce off objects."
+    publishedDateTime: 2021-05-25T11:29:00Z
+    webUrl: "https://techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/more-efficient-lidar-s.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Self-driving cars could spike CO2 — study"
     excerpt: "Self-driving vehicl"

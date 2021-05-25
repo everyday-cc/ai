@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-27-official-master-changan-is-testing-self-driving-cars-in-pakistan.md",
+      "title": "Official: Master Changan is Testing Self-Driving Cars in Pakistan",
+      "excerpt": "The future finally meets the roads of Pakistan. Master Changan Motors is leading Pakistan into the future of mobility by",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
+      "originalUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2016/05/Mobilink_Microfinance_Bank.jpg",
+          "width": 750,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/27/official-master-changan-is-testing-self-driving-cars-in-pakistan/amp/",
+      "publishedDateTime": "2021-04-27T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-amazon-releases-deepracer-software-in-open-source.md",
       "title": "Amazon releases DeepRacer software in open source",
       "excerpt": "Register fo r the AI event of the year. In November 2018, Amazon launched AWS DeepRacer, a car about the size of a shoebox that runs on AI models trained in a virtual environment with ...",
@@ -1349,59 +1392,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
-      "title": "Europe proposes strict regulation of artificial intelligence.",
-      "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
-      "publishedDateTime": "2021-04-20T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
