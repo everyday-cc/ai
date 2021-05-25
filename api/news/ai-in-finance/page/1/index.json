@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -491,34 +491,34 @@
     {
       "path": "_news/2021-05-13-rd-tax-automation-pioneer-boastai-expands-leadership-team-with-industry-heavyweights.md",
       "title": "R&D Tax Automation Pioneer Boast.ai Expands Leadership Team with Industry Heavyweights",
-      "excerpt": "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in the United States and Scientific Research & Experimental Development (SR&ED) tax credits in Canada,",
+      "excerpt": "Boast.ai, a FinTech platform that helps companies automate the cumbersome process of preparing and financing Research and Development (R&D) tax credit claims in",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights-1030425095",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/r-d-tax-automation-pioneer-boast-ai-expands-leadership-team-with-industry-heavyweights/article_4dbdc110-68fe-5cb9-bb80-140a22c6d172.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T05:00:00-07:00",
+      "publishedDateTime": "2021-05-13T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

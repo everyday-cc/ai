@@ -41,20 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Tenstorrent Raises over $200 million at $1 billion Valuation to Create Programmable, High Performance AI Computers"
-    excerpt: "\"We are bringing to market a high programmable chip at an accessible price point as a means of driving innovation,\" said Jim Keller, Tenstorrent's CTO. \"AI is going to transform the data-center and Tenstorrent's architecture is best positioned to address ..."
-    publishedDateTime: 2021-05-20T11:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tenstorrent-raises-over-200-million-at-1-billion-valuation-to-create-programmable-high-performance-ai/article_0392e741-1332-520f-9654-6aa19c5395a6.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/dd/8dd3e4b7-878b-57dd-a0b7-2609db9ee4ac/60a64c517a264.image.jpg?resize=1156%2C563"
-        width: 1156
-        height: 563
-        isCached: true
 
 secured: "YPeixhyLLkMF2BD9E27Xn6vhSzSmturV/GfMU9VeeXm4BmEa2Hj9DQVXpi9BtrKcLU0MhVJTuWaYyS5sR2hkbXOenqlGcMYvwRH9onyclk3Uf52q0DkRcCUgD+K+oDL0tZEa+jY9g1QX/awuDpqTx/Sh8/0acrsPHsOvtw7+ihjb1fVypPVYYHPKZH5My7GA+pleiUjGcSgW46585xSzwygzqPUWuVT2PnmtspCGyEhY8dqqTpKVuciItA5Vo6X3mBartME1OLmkfRQ/bPTDiTgbfx5vN10kuF4gUER+seJzWe/qhUIVxboBySf1x2QS/LD3iAwlhcsbWqwU4pAyME+xyzg6i0NKN4SXdGJ1zjbVjrPnVQnmTUcIxUec5/PMszLn9Clc2cS9bAEdJPrifmivgvBR0cdeIfKKalsqIbCKOV9JGn+1OZkW7Pa7TDuAuzKsJeB8nskBCn8r0zBcTIPnoVJuOBQrnb3ymewxlXRzYoN4t6xZBI+C2dMdSiBFH1fgqIw+RTjfsNPXUtcivQ==;w3bY44y5Sv0vSaCSIDr0fg=="
 ---

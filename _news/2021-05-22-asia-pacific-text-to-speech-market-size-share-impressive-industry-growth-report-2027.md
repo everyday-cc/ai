@@ -35,17 +35,20 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Deep Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Deep Learning Market size is expected to grow at an annual average of 38 during 2021 2027 Deep learning is a subfield of machine learning that entails a series of computer instructions or algorithms inspired by the functions and"
-    publishedDateTime: 2021-05-20T11:21:00Z
-    webUrl: "https://www.openpr.com/news/2287419/deep-learning-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287419/deep-learning-market-share-2021-global-trends-key-players"
+  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
+    publishedDateTime: 2021-05-25T05:39:00Z
+    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "GpOw6aN07ANuTUNpBR2t2hrSAYomg1GSdzFjzA5AhKWANYbxEQqWmFN1cxhtqaW8idUs+l4E5PvDifWuZ/q5WSB/SZ4x7Fmx4Zm6a64yGKGRcPtPdTm8ACR/Bijy8a9ogfngYX0DnBbqH7tK3Kwm+QUcrbE9L4obcH46DdIhESUrYKIkUkJeNoSA/r8fkZ1Don4EAcgDFRE65QrGuOph5cRelvRNm0bKgU4L6DJIPyJB3o3ffhhg6p4IIlYgI4T9ByMaWjdYE2ZfQHW/WHOGUQ8M1CiZDHW9oPBuQXh5vs1U1grrR0HYwE1v/ub2MOZhLMsKkl+CfhDCa1Luqn0AJQEAIMDakPG1BVq0TVAGgV0=;2FSI9HvPPbI91B40JWG8sA=="
 ---

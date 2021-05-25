@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-22-whats-next-machine-learning-at-scale-through-unified-modeling.md",
+      "title": "What’s next: Machine learning at scale through unified modeling",
+      "excerpt": "Here's how to create a single model, rather than a set of related but separate models, to power a process or product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "originalUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/whats-next-machine-learning-at-scale-through-unified-modeling/amp/",
+      "publishedDateTime": "2021-05-22T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-solving-big-city-murder-cases-and-other-crimes-via-ai-and-self-driving-cars.md",
+      "title": "Solving Big City Murder Cases And Other Crimes Via AI And Self-Driving Cars",
+      "excerpt": "Big City murders will be more readily solved via the advent of self-driving cars, especially due to the roving eye capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fec1d2ed6169fb0f641562b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-pinterests-use-of-ai-drives-growth.md",
       "title": "Pinterest’s Use of AI Drives Growth",
       "excerpt": "Using neural networks, the site is able to find images—and ads—that will catch the consumer’s eye.",
@@ -1169,101 +1273,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-big-brains-new-books-on-artificial-intelligence.md",
-      "title": "Big Brains: New Books on Artificial Intelligence",
-      "excerpt": "Reading ‘Genius Makers,’ ‘A Brief History of Artificial Intelligence,’ ‘Atlas of AI’ and ‘Futureproof.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "originalUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-341172/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "publishedDateTime": "2021-05-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
-      "title": "Speech recognition comes to prompting",
-      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
-      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
-          "width": 2560,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
-      "publishedDateTime": "2021-05-21T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

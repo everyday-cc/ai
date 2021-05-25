@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Teaching Robots With AI"
-    excerpt: "Many industries are now using robots in order to carry out most of its heavy and dangerous tasks. As we proceed, one can’t deny the probability of robots being used more and more into the industrial sector."
-    publishedDateTime: 2021-05-20T12:44:00Z
-    webUrl: "https://techstory.in/teaching-robots-with-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/teachingrobo.jpg"
-        width: 800
-        height: 427
-        isCached: true
   - title: "Committing to a U.S. Government-Industry Partnership to Empower AI Innovation"
     excerpt: "Such a partnership could make prompt and significant progress in resolving the top barriers to AI innovation and deployment."
     publishedDateTime: 2021-05-21T15:00:00Z

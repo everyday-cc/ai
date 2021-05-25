@@ -805,6 +805,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-17-corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide can now gain access to CoreStack Cloud Compliance and Governance to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies CoreStack,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210517005303/corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-financial-literacy-startup-goalswell-closes-seed-round.md",
       "title": "Financial Literacy Startup Goalswell Closes Seed Round",
       "excerpt": "a computer scientist and cognitive psychologist from Microsoft Corp.’s research lab in New York, have been named to the startup’s board. Others are expected to join, Yuan said. MobLab and ...",
@@ -1155,10 +1189,10 @@
     {
       "path": "_news/2021-05-13-infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
       "title": "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work",
-      "excerpt": "The team used Microsoft Azure IoT Hub, Azure Stream Analytics, Azure Cognitive Services, Azure Stack Edge, Azure IoT Edge, Azure Maps Creator, Computer Vision spatial analysis and more ...",
+      "excerpt": "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1177,7 +1211,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T09:02:00-07:00",
+      "publishedDateTime": "2021-05-13T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -1366,58 +1400,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
-      "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
-      "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang has joined the leadership team as Chief AI and Data Officer.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer-1030422188",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer-1030422188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1508378/Dr__Luyuan_Fang_as_Chief_AI_and_Data_Officer__Prescryptive_Health.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

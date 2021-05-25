@@ -2,6 +2,161 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-19-california-dmv-probes-tesla-over-self-driving-claims.md",
+      "title": "California DMV Probes Tesla Over Self-Driving Claims",
+      "excerpt": "The California Department of Motor Vehicles has launched an investigation to decide if Tesla (NASDAQ:TSLA) misleads buyers by offering its vehicles with \"full self-driving capabil",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627526%2Fvehicle-running-self-driving-mode-and-a-woman-driver-reading-book.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/18/california-dmv-probes-tesla-over-self-driving-clai/",
+      "publishedDateTime": "2021-05-18T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-how-to-attract-better-talent-14-useful-tips-for-startup-founders.md",
+      "title": "How To Attract Better Talent: 14 Useful Tips For Startup Founders",
+      "excerpt": "Making the opportunities a startup provides more alluring to highly skilled professionals than other, potentially more lucrative positions is challenging. Larger, well-established companies usually offer better compensation in terms of both pay and perks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a3ef2f7e492102e69aee55%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/05/18/how-to-attract-better-talent-14-useful-tips-for-startup-founders/amp/",
+      "publishedDateTime": "2021-05-18T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-splunk-to-buy-security-intelligence-sharing-startup-trustar.md",
+      "title": "Splunk to buy security intelligence-sharing startup TruStar",
+      "excerpt": "Splunk today announced plans to acquire security software company TruStar as Splunk continues growing its cybersecurity portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
+      "publishedDateTime": "2021-05-18T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-father-and-son-duo-take-on-global-logistics-with-optimal-dynamics-sequential-decision-ai-platform.md",
       "title": "Father and son duo take on global logistics with Optimal Dynamics’ sequential decision AI platform",
       "excerpt": "Like “innovation,” machine learning and artificial intelligence are commonplace terms that provide very little context for what they actually signify. AI/ML spans dozens of different fields of research,",
@@ -1090,152 +1245,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-logitech-intros-ai-powered-whiteboard-camera-scribe.md",
-      "title": "Logitech intros AI-powered whiteboard camera Scribe",
-      "excerpt": "PC accessories and peripherals maker Logitech on Tuesday introduced Scribe, a new AI-powered whiteboard camera product for hybrid offices and classrooms.  Scribe is Logitech's answer for mimicking whiteboarding sessions virtually for dispersed teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/logitech-intros-ai-powered-whiteboard-camera-scribe/",
-      "originalUrl": "https://www.zdnet.com/article/logitech-intros-ai-powered-whiteboard-camera-scribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/17/72612723-ab78-4c15-99b5-d961a4edc512/scribe-pdp-perfect-views-edu-split-generic.png",
-          "width": 4000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/logitech-intros-ai-powered-whiteboard-camera-scribe/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/logitech-intros-ai-powered-whiteboard-camera-scribe/",
-      "publishedDateTime": "2021-05-18T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-martech-startup-affableai-raises-usd-2m-to-boost-the-adoption-of-its-influencer-marketing-platform.md",
-      "title": "MarTech Startup Affable.ai Raises USD 2M to Boost the Adoption of its Influencer Marketing Platform",
-      "excerpt": "Investors: Prime Venture Partners, Decacorn Capital, SGInnovateBENGALURU, India and SINGAPORE, May 18, 2021 /PRNewswire/ -- Singapore-based",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/martech-startup-affable-ai-raises-usd-2m-to-boost-the-adoption-of-its-influencer-marketing-platform-1030439542",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/martech-startup-affable-ai-raises-usd-2m-to-boost-the-adoption-of-its-influencer-marketing-platform-1030439542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512485/Affable_Team.jpg",
-          "width": 400,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu.md",
-      "title": "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU",
-      "excerpt": "This lineup provided 16GB memory and x4 multi-display output benefits more AI computing applications in harsh environment scenarios. Aetina VPX GPU enables a high-efficient image to decode/encode by NVIDIA Quadro RTX Turing GPU computing architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/en/it_en/3055618",
-      "originalUrl": "https://www.thaipr.net/en/it_en/3055618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thaipr.net/wp-content/uploads/2021/05/3165405.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

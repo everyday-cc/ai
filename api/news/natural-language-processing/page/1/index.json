@@ -747,6 +747,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-19-natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025.md",
+      "title": "Natural Language Processing Market Report Analysis, Share, Revenue, Growth Rate With Forecast Overview To 2025",
+      "excerpt": "The research report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025-2021-05-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025-2021-05-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-google-search-brings-more-ai-and-ar-power-to-your-fingertips.md",
       "title": "Google Search brings more AI and AR power to your fingertips",
       "excerpt": "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for",
@@ -1255,10 +1307,10 @@
     {
       "path": "_news/2021-05-13-soniox-debuts-speech-ai-recognition-platform.md",
       "title": "Soniox Debuts Speech AI Recognition Platform",
-      "excerpt": "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl",
+      "excerpt": "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world’s first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform",
+      "webUrl": "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/",
+      "originalUrl": "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1271,8 +1323,8 @@
       "publishedDateTime": "2021-05-13T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1442,59 +1494,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-improve-the-streaming-transcription-experience-with-amazon-transcribe-partial-results-stabilization.md",
-      "title": "Improve the streaming transcription experience with Amazon Transcribe partial results stabilization",
-      "excerpt": "Whether you’re watching a live broadcast of your favorite soccer team, having a video chat with a vendor, or calling your bank about a loan payment, streaming speech content is everywhere. You can apply a streaming transcription service to generate subtitles for content understanding and accessibility,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-partial-results-stabilization-for-streaming-audio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/11/3855-header_v2.jpg",
-          "width": 801,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

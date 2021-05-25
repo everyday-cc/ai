@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-21-big-brains-new-books-on-artificial-intelligence.md",
+      "title": "Big Brains: New Books on Artificial Intelligence",
+      "excerpt": "Reading ‘Genius Makers,’ ‘A Brief History of Artificial Intelligence,’ ‘Atlas of AI’ and ‘Futureproof.’",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "originalUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-341172/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
+      "publishedDateTime": "2021-05-21T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
+      "title": "Speech recognition comes to prompting",
+      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
+          "width": 2560,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "publishedDateTime": "2021-05-21T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-microsoft-expands-retail-tech-presence-in-china-with-hanshow-deal.md",
       "title": "Microsoft expands retail tech presence in China with Hanshow deal",
       "excerpt": "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries",
@@ -682,7 +777,7 @@
       "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -785,7 +880,7 @@
       "originalUrl": "https://blog.google/technology/ai/innovating-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1138,108 +1233,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 1)",
-      "excerpt": "As AI is the arrowhead of digital transformation, enterprises must quickly learn how to use the technology to create meaningful value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a578e6aa73d4db775ea400%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/amp/",
-      "publishedDateTime": "2021-05-20T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-eliminating-bias-in-ai-how-cpos-and-chros-can-help.md",
-      "title": "Eliminating Bias In AI: How CPOs And CHROs Can Help",
-      "excerpt": "As leaders tasked with ensuring an equitable work environment, it is crucial that CHROs and CPOs discuss and acknowledge the biases and gaps that exist within the technology and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601167ca1d105c17d557e98e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/amp/",
-      "publishedDateTime": "2021-05-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-20-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Status, Global Outlook and Forecast 2020-2025",
+      "excerpt": "The Global Artificial Intelligence and Robotics in Aerospace and Defense Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2025. The Artificial Intelligence and Robotics in Aerospace and Defense Market report is a valuable source of insightful data for business strategists.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
+      "originalUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-facebook-reveals-plans-for-brain-computer-interface-for-speech-prostheses-and-mind-controlled-likes.md",
       "title": "Facebook Reveals Plans for Brain-Computer Interface for Speech Prostheses and Mind-Controlled “Likes”",
       "excerpt": "This week, Facebook held its annual-ish F8 conference in San Jose, California. While F8 typically involves announcing new features to the company’s namesake social media platform, Mark ...",
@@ -1325,58 +1359,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-this-is-the-most-powerful-artificial-intelligence-tool-in-the-world.md",
-      "title": "This Is the Most Powerful Artificial Intelligence Tool in the World",
-      "excerpt": "and in the field of robotics and vision. GPT-3 (Generative Pre-Training Transformer 3) is what is known as an autoregressive language model, which uses deep learning to produce texts that simulate human writing. Unlike most artificial intelligence systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/368843",
-      "originalUrl": "https://www.entrepreneur.com/article/368843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617656858-inteligencia-artificial1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368843",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368843",
-      "publishedDateTime": "2021-04-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

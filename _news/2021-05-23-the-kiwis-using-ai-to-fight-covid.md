@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Latest Trends, Revenue Data 2021, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-05-21T10:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-revenue-data-2021-covid-19-impact-and-forecast-to-2027-2021-05-21"
+  - title: "Using Artificial Intelligence to Improve the Way Videos Are Organized"
+    excerpt: "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content. At any given moment, many thousands of new videos are being posted to sites like YouTube,"
+    publishedDateTime: 2021-05-22T22:52:00Z
+    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/"
+    ampWebUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://scitechdaily.com/images/Netra-Artificial-Intelligence-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
 
 secured: "eB+02FgGxYvh4oowzBn/+fF5W1E9JEqrQIlvNnfDUxTr+rgWok5NtMa/yOyKtPwS4ROn/RrgitJ3Zrn+TKeTiEZvBfSYD6cArmyFYl1wEhidfEDtfhvn6uW3v80iHmtN62G3HhuIvJGaK1lLuF7T9luFrY5M6gCx942jSQM1utwbjKw5gk5S7F1ftaq/LcyRguKeH0dFv7NRg7p0PQZ/sUA0P6rjzEFBckZs3TuP5PAKtUwBUGH+VXrAACahzu5ThaYt/cBTQo3ahZEyrYNsizt2EcVVSzSH9qAjqwPt0scRg2kT2TX2FKR+qtMdXCPtVZWRLZWj5KxlSOl21rmN92o3JRy+m9Xxg/ezWUbgRQI=;Y6JslEnQqSrCLI56HUDTqw=="

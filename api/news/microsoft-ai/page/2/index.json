@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-13-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
+      "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
+      "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang has joined the leadership team as Chief AI and Data Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer-1030422188",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer-1030422188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1508378/Dr__Luyuan_Fang_as_Chief_AI_and_Data_Officer__Prescryptive_Health.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
       "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
       "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang",
@@ -1293,58 +1345,6 @@
         "name": "legalitprofessionals.com",
         "domain": "legalitprofessionals.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-a-definitive-primer-on-robotic-process-automation.md",
-      "title": "A definitive primer on robotic process automation",
-      "excerpt": "Robotic process automation (RPA) is an exploding software category in the enterprise. Here's what it means and why it matters.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/02/what-is-robotic-process-automation/",
-      "originalUrl": "https://venturebeat.com/2021/05/02/what-is-robotic-process-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?fit=800%2C567&strip=all",
-          "width": 800,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/02/what-is-robotic-process-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/what-is-robotic-process-automation/amp/",
-      "publishedDateTime": "2021-05-02T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

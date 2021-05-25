@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-31-arm-announces-new-chip-architecture-with-focus-on-security-and-ai.md",
+      "title": "Arm announces new chip architecture with focus on security and AI",
+      "excerpt": "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "originalUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-arms-first-new-architecture-in-a-decade-is-designed-for-security-and-ai.md",
       "title": "Arm’s first new architecture in a decade is designed for security and AI",
       "excerpt": "its first new chip architecture in a decade following Armv8 way back in 2011. According to Arm, Armv9 offers three major improvements over the previous architecture: security, better AI performance, and faster performance in general. These benefits should ...",
@@ -1215,58 +1259,6 @@
         "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
         "domain": "ferret.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-how-nvidia-ai-enterprise-suite-simplifies-ai-deployment.md",
-      "title": "How NVIDIA AI Enterprise Suite Simplifies AI Deployment",
-      "excerpt": "eWEEK NETWORKING PRODUCT ANALYSIS: Joint NVIDIA-VMware solution promises to unlock the power of AI. This week GPU market leader and AI thought leader NVIDIA revealed its NVIDIA AI Enterprise, a comprehensive suite of enterprise-grade AI tools and frameworks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-simplifies-ai-deployment/",
-      "originalUrl": "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-simplifies-ai-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/01/NVIDIA.logo_.black_.green_.jpg",
-          "width": 1901,
-          "height": 1353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work"
-excerpt: "The team used Microsoft Azure IoT Hub, Azure Stream Analytics, Azure Cognitive Services, Azure Stack Edge, Azure IoT Edge, Azure Maps Creator, Computer Vision spatial analysis and more ..."
-publishedDateTime: 2021-05-13T16:02:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
+excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,"
+publishedDateTime: 2021-05-13T15:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure/article_bc31d9d0-b072-5dc2-9a87-4b018ee91d31.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 420
     isCached: true
 
-secured: "k69DnYphXki5G/8gksrDIZLbwpXhySE3ojC65t9vfOlyr4Sdk+78oDGX1qTDvzCcAa/7n2TZJZK5zC1Pu43mB2WmZuiA1xpByCHzgb+aRvWDNj2TZ4PEboxMDWUxFn5h9F09zeQQaCpdmnpveESXBmajFqtbvnhs6/5nuR81YBze3oqh4NVj6ADU6qA8Dw7HsCQsMHmq3GGv3k8CAArt8La+h+wZcRq1ITIXwb8kETyNKVNcd//g88hmLy4WOnJC2oCo/soFPCp2ctouMPDIxeWh61HDSESDuB0YxlNwtULAk/+r3154mwIsUFQSu+OIgeudtbE7gQ//fZcqVfw/QetD9H6DpAL1cQsO980adYM=;ZYq1ClzKS1rGkoVsHWli2w=="
+secured: "abxElx7WSFuKs5chtba3eSOOCMgCLkN93vioG42OsogwerSDrETEf4GHu+ktTEdQyeOWuxMFtxsLmFvXw7s1OvyMUoo/ocYiYrzSkIzjy+r7EURIroNnRp9Y/2Icxdar0y24mZaMdnNcBt65IiLkBSisc0aZTJx0T0nwT/a6aIDhHfm07BXvVQ5Z0JWMhIT3p8pEMvkxI3Us4lNoPXtJx0zMJ3cT9/1uXz3VimRmFMydyjZx3Td00fdkr1UhhTWeAYQqaD2ZyRyRCJTxxY/U1iN6/7d39D0FtTmNSmSDiKNsb3dRLY7weoXfbfXk2UwhQ5MhOuHn+ylWjmLEm+FeiDAjC+0FJc30HB0nz5zpzK0=;vhA2J9FN2f6LT21S3TT3Kw=="
 ---
 

@@ -3,16 +3,16 @@ category: news
 title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
 excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
 publishedDateTime: 2021-05-24T18:43:00Z
-originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
-webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI Ethics
@@ -56,6 +56,6 @@ related:
         height: 313
         isCached: true
 
-secured: "V0VygfbiLKbgqrPL8re5rpuI6k5MhKshcMcrES8v52PFHaRh5zwxTWDrFeLJOU8FszDfsNvyBH2SeEEb9Zp7XhB2nmEcnrNE/Tzk+6vOiHs2RSzFt+ChTCA9H9JNyzM/jbcASKcp+t9MElzhDw1u5LEJuzZkUGmgcoJdJ2ckWKRQEQ4IAO5vCJZ5OVyrUL/jZRdwQEvcAZw7HTKSbKH7JKHlitfl6dccedRCo0XRq02VTZI/YmTO97yfQ/Gq7prCE2df2d1nbCfYiePAqCVntsboIPTlpwdDjkEsBeVUZ0qEbcW5RdR1TOU9JvRzsdoaxFgO/3yP6xHi3p1DWZnHcFKtRd3OzQzvMp/1lo73t63BCS63lMgwCgtkby4Ofq/Dkhu+ff/JuN5kJcd8QsZWhn0h4K0l2Rw7fftB3coKzhp2CcecqYsNl2W9aZCbhCu+ESG3rycNweeYg2cYTzxN6bdBdK5vF9NeRoEgF+tiGWMfzqQbGYPKWspcn+iZ7kIOe8QpmCIhN9B9CrEyyXLUkA==;WlPjJgZQKzAR+5YJ1fOvVA=="
+secured: "RGPEk9IRjHNZlvgJHDwAJULe1TMqKNacWIu+Dugy8WUJ0rLhfg8sj4dBJ8HijGJsgy6Bu8rKyH1piJvOXaPqtiFzjW66ARuuKWss7+TRl9ZSgFEReppcy4gNIpceJnJ8LP+/2kv8MKGXgE+wTiTCJO8yAAuuHSqILZsz97cRdz4kbrj5y3Tx5INDq54xznKtpLkj6ny6s4gq4qzBhUrybq7WlGDW6NFykiQWGq5mNOBMuHTdLsroLaEixQBcKN59OZwRfM+W6t4S+QFOnzDKnqUgL8iyIGoVqG8t70PA6ne9YlYUMOvCYa1UZpjIm8V6xXD/Cq39UndlcjNIbtMSvYgSPDIvUTL4wFTjJnjhDRk=;KDQNvP3Mzj61mWk81lB8Iw=="
 ---
 
