@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
-    excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate"
-    publishedDateTime: 2021-05-25T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year-award-winners-301299269.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
 
 secured: "icMmgoqj+vRnjM0PHRNbp8YPCDQ5YXpUEp+JBB7MEYg65gtEsb88tTVWla5CRYJexluO/nMsLsqfhTSdMoFQohuahdXzr+UHLjdqgdmfcifba8yckDv3B5mJOFCoiK2Ny6IzLzc/yXvsyBEzdaFCgeEwIowqmCsuskIC2IAsBEP3iipMLwYpNu1SIkP1MuqdLRkFeify0umhvn2zwp8jwKJntiW6/h8g6ThRv3j3Lel72An6fgvRy3gG6gh3dE/MqbtB7MdAt2pw7seTyLsfkbwrp3p6mhLBesEX+DeryF00MlJRN+vpMqfn1kX23gEFjc9FlhAYijgzTPlRfiOoFd0RhDCB2cOzGPu6hJdLtwQ=;p1WEqoQ5ZnDYRJn69BU90w=="
 ---

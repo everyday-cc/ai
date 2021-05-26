@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Computing Hardware Market 2020, Size, Share, Growth Potential, Major Application, Industry basis of Region to 2025"
-    excerpt: "The AI Computing Hardware Market is expected to grow at the highest CAGR of 26% during the forecast period 2020-2025. More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips,"
-    publishedDateTime: 2021-05-21T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-2020-size-share-growth-potential-major-application-industry-basis-of-region-to-2025-2021-05-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Asia-Pacific Text to speech Market Size, Share, Impressive Industry Growth Report 2027"
     excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 Significant raise in the funding for text to speech technology providing start ups to unleash the"
     publishedDateTime: 2021-05-21T21:50:00Z

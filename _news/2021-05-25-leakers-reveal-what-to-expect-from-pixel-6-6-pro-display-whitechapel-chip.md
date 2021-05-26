@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg"
         width: 1024
         height: 665
+        isCached: true
+  - title: "Google’s Pixel 6 Whitechapel gets detailed as sort-of a flagship chip"
+    excerpt: "The custom-designed Whitechapel chip inside Pixel 6 is reportedly based on the 5nm process, but lags behind Qualcomm Snapdragon 888 SoC."
+    publishedDateTime: 2021-05-25T22:32:00Z
+    webUrl: "https://pocketnow.com/googles-pixel-6-whitechapel-gets-detailed-as-sort-of-a-flagship-chip"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 54
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/05/pixel-6-pro-onleaks-digit.png"
+        width: 1920
+        height: 1199
         isCached: true
   - title: "The latest on Pixel 6 and 5a: Whitechapel chip performance, green color, and price"
     excerpt: "Tech journalist Myriam Joire and leaker Max Weinbach talk about the Google Pixel 6 in a new podcast, discussing the need for an in-house chip and the Galaxy S series-level marketing budget for Google's upcoming phones."

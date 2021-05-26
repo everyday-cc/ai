@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic."
-publishedDateTime: 2021-05-12T04:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-data-from-ibm-points-ai-growth-as-/2021/05/12/9367088.htm"
+excerpt: "To give businesses, data scientists and developers the capabilities they need to scale AI, IBM is continually bringing new innovations to IBM Watson from IBM Research that help enable ..."
+publishedDateTime: 2021-05-12T09:51:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 722
     isCached: true
 
-secured: "ot7tOJ/YLB79flpMx6uUjnFn/cJG89xCYh47edVTOebwvHPGqVVlntJMNdI/UPoKjSEdFVebx90ERvkuq7+YS0woN1Z5sh2m/ATDWtAmaWS6PC+k2PA9dz4LyscidF7vO6Zr/4y9TVLntEnut5cznh57yRT3JgPlfMwR0O8nutYB3+Eh6RSVC/5xolm5hDX2paWihvdWkyEIAAoj7x0NnlkrOJnoniTumfHEqKRNIpDOIrSY1c4Wa6+/JOBxQ5qETRXeTihBqg4ciSyCvldvNtWVaQpjNw9kgD+0bj5ZAXymAR/JdjrsP4EVsvwRGexhgt8w3EY6DfPFDB1S+hpdQVpkTeRMAISAozLvuR6DQn2rFClmAyxogfqC+KD6yijPa3FnY4Y+kzrbM8LWhvLw630REQAbNOcmBdI93uw6Sji8I+ufPeA8TmSbYw/PHmPvhJMUPezC4Iya/6jS4eNtdjo4pRPaenmst6s//hCYqYOrTNgn5+Pli98bxzrLS3Hw0bAkjEOTufZ/UcuiFC98SA==;7Rzal3lofL/OysgiSxHp/A=="
+secured: "DtiXjhpt+iVneCQc9D0o8z7GlGvf3fPdWM8Buqu3d4YYUNy4E8rl1HFaxRZ+95ED7Yqy4BcLKiBN2kTo6nU4BPteu2DB9uvXl9sYgZuEmNPba2mv/yLz26+m84CUU5YcqpPmTsOXbKvzhasQJ4RPh5nbbgq51Y+cLIg7Hb1VU4PM41VfbnZWMK3du+BVDNc8br9+usWXkQAkJJLrgP5dIXeHSnK9lMoUFOfU+KvSVSLhZUkFYIz7S9IS9YnzTRhqzsOuBPosTNvX+dV1wk8+8zziu0g07p9fa3jUjo/DL83z4hR0BjICfVRRg7tlLAnG3AOyzGDTl49/1skkqln3voY2MJrN1vY4j5qCb8Pxq90=;0PRNHXBho85Kb2gG0hjsew=="
 ---
 

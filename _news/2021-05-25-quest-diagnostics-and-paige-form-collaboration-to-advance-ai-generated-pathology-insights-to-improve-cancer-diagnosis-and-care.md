@@ -33,6 +33,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Quest links up with Paige for AI-powered cancer pathology tests"
+    excerpt: "To help build out its own portfolio of artificial-intelligence-driven pathology tests, Quest Diagnostics has enlisted the help of Paige to develop a suite of products aimed at individual clinical oncologists as well as larger biopharma companies and their R&D efforts."
+    publishedDateTime: 2021-05-25T19:15:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/quest-links-up-paige-for-ai-powered-cancer-pathology-tests"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 37
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1621968554/analysis-2030266_1280.jpg/analysis-2030266_1280.jpg?B5RYBSIuCxzMikC96TGdugo4OvZL.WMg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "Ziiq4CRmbKmn3KWSiBHwl3n7zwkJjaLrSltZ9rw1hCo3ePr1ycQUBHIF95AjTRSO+9BetDGjQXQaN3oGB5hs6yxAhUM9+Cc56MkbjK6pqCB5y2AWOOag+pDoRWs0T1/v2B85L1i08TsFYxZCr/de1q6eH7XpLGB1XUnC6dsJwfnKsRmZz8qeWcDv1kqUzWAPq1mDNKbWUCIkkemqI9G5rx8LO3dW04SCcYGmZ7ttt9erkXJcKD/fkux0CJJJC0IxT7EyGBImMMcgeLNqtaasiCmrgR4CBcsxF0D/V2eh4wi7lzOPafDXgWa1Os0wVBEz29p2RXsffcCiP4eZ6KdxVNIUX6frqJPfbXblyQ/q5hZNJyHaPOOjBrOgDH+2rRZgO0VApeer/74mpohIGQtiJPKAWovMT6/lt5OmeFa5ZUdQFQD+ZdHeRlgf2Xp6TFgO3kGJs3x2uoGYuYo8mAD5MMYNBv/HW4o6Z2swQigw0XaWw7gwFi/5/nzHjEnQOlDxl2jgicueo4PqXyWG6ftk+Q==;vHYl0xu0a8J0kWWs2FRTLg=="
 ---
