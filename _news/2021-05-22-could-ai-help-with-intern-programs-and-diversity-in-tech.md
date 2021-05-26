@@ -39,20 +39,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Magic Data Tech Won Intel AI 100 Acceleration Program: Supporting AI Industry from the Basics"
-    excerpt: "Intel published the 5th issue of its AI 100 Acceleration Program List at the 2021 Shenzhen (International) Artificial Intelligence Exhibition, and Magic Data Tech was selected for the program relying on its strong"
-    publishedDateTime: 2021-05-21T08:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-19818696.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 28
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "5tasqqjA1YJLl7bFkH23xJOBbCOxse5gCgdT23k8kxFNNKPWgLzky9Ei6Ug52GLozwjKJm5Ws6Dg2B5aXpC2fGoreYgoCvKJ55tKrd+JOuTvlwLlFuSULlDvW+oExwcYMbT/jM70yb28IrQnex5LtIPJ6jdxPGlcqa5LeiTNIOZ31WpSe2JfOqLDcXKwnwcecWNGd8d6sGnuP7DMMBMr7BEPC49OsIl2mTSau0f4S3Et65Zliq2aJ+K8bCfWnLGymMSgX4i71PT1P5ZeQSrd69DSy5VimC4ffD78889dVJpwfKOAqGAcaFgTbmq5dVOrhnfnFFdS1IxvE5xqB54SlutwfIToNQK/wTzAsoeGBCbAOO9AiQa4GdPFtBjV97wn5i3W2pwiHJfLQdtITT6P5dtpRYcYRu2LCZcipCYxAaKJp9JqRkex6X5aesfp95AbHRQtFMFcXp5gFTw7CsHNgUHu8KKfIFVctw8xe9oJwjbSQIXxpAFWTpNTGB3bip0haCua9hIUXBT7Z4qCQjKZkw==;7yi1pLXb/nCo4FeLdDl6BA=="
 ---

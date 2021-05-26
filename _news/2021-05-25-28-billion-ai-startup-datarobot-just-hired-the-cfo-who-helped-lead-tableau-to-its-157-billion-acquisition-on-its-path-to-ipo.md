@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-datarobot-hires-cfo-ipo
 webUrl: "https://www.businessinsider.com/ai-startup-datarobot-hires-cfo-ipo-artificial-intelligence-2021-5"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 38
+    quality: 55
     images:
       - url: "https://i.insider.com/60ac2c90a412370019d31bbd?width=1200&format=jpeg"
         width: 1200

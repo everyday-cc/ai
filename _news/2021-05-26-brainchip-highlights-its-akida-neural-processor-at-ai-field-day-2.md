@@ -19,6 +19,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "BrainChip Highlights Its Akida Neural Processor at AI Field Day 2"
+    excerpt: "AI Field Day is the latest entry into the long-running series of Tech Field Day events presented by Gestalt IT. BrainChip will discuss recent developments about its Akida event domain neural processor SoC,"
+    publishedDateTime: 2021-05-25T16:21:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210525005995/brainchip-highlights-its-akida-neural-processor-at-ai-field-day-2"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
+
 secured: "EOi9skUedHxaXMc5VHR47GhOx/6M0UZ6pyTHMSLaFuAkKifFvck08KWEFkOvwS9WnZtU1zXoQst9ZXFXISgmcew9NvBz2cDLGadBt85QH10cROH/TgZruEjXFqm6pkrdl9HlISVrvLQFXZOqJ38+wKrdAq4TMKWMASrAva3nBGYzODwv5fRBrtg+v0WN8ykR6n/hP9QSNUF+mmXC/upTpk2oTRLnyAW0q2DsSWDaoSEVTrdijhuOz+BgqhaLW/IOYeh6iwxWWx7j0/wsgVzBHnpaDRz9K50UrcQII3S/ukEqfwcply9eOPFTQKRD/pLnCTOplkXFmGjcsrEzICLk4DBJusphidozEoxtqolU8ig=;9OCsPhAZcVlMEua/GC1Jug=="
 ---
 

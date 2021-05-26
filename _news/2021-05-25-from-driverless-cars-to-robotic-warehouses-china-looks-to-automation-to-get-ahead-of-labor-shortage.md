@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
+    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
+    publishedDateTime: 2021-05-26T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
+    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 53
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
   - title: "What’s it like to ride Dunedin’s driverless shuttle? Futuristic and fun."
     excerpt: "We aren’t teleporting in bad face paint like the original Star Trek, but things aren’t that far off. We walk around with pocket computers and connect across the world. Don’t get me started on cryptocurrency."
     publishedDateTime: 2021-05-25T09:00:00Z
@@ -44,20 +60,6 @@ related:
       - url: "https://www.tampabay.com/resizer/v-ulquMw-DwA1j1FUjnWvQf_Mk8=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TDGQ4BQDLFGAJFL5EORYIY6FJY.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive applications at KoreaMAT ( May 25-28, 2021 ). Combining driverless technology and IIoT (Industrial Internet of Things) technology,"
-    publishedDateTime: 2021-05-25T23:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-visionnav-showcased-latest-driverless-industrial-vehicles-solution-koreamat-/2021/05/25/9377755.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1517703/image.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "VTT8aGnzAAjzsAmRUi1LO7xUg/znG+eTupW738cD7JM0iaJRAK+UN0AFWMalyLBlNinQRJOOclL9LORHpM9BmkayRLlNrWj1L0lEBYr0wm0Q/JeY0RJvq9wP1hScl9RtjP3aGIaf6ukati35ba01avunenXPZHjdnJvQtvNcx32q8rgeKoJA/u2GF2jhYqTv4YrBkYLGhfakY6iUEOszq0OAFyO1F2uZST7DWtAW2QDUDS9cMfXdB8hj7UpdjBG96W12qQKi6IgZllT439jqMzHTjxlGdt6vFP6FNDvv+KcdOM1IE+s5x/KD4avFSxHL4BSIOs4ES75cb0H5ci59G9iSDpqCdZ2aRvPUQ53Cu7Q=;xFXlDWxBh1DBhSKQunDhNw=="

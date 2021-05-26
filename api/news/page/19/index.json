@@ -1145,21 +1145,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-09-us-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech.md",
-      "title": "U.S. Senate committee revised a draft bill to fund AI, quantum, biotech",
-      "excerpt": "The U.S. Senate will consider a revised technology research bill to invest $95 billion in AI, semiconductors, quantum computing, and biotech.",
+      "path": "_news/2021-05-09-google-io-2018-the-10-biggest-announcements.md",
+      "title": "Google I/O 2018: The 10 biggest announcements",
+      "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "originalUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
+      "webUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/",
+      "originalUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://bgr.com/wp-content/uploads/2018/05/waymo-google-io-2018.jpg?quality=70&strip=all",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1167,23 +1167,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "publishedDateTime": "2021-05-08T16:44:00-07:00",
+      "ampWebUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/amp/",
+      "publishedDateTime": "2021-05-08T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1192,7 +1183,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
         "AI"
       ]
     }

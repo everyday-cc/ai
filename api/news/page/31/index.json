@@ -2,6 +2,50 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-30-speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio.md",
+      "title": "Speech Recognition Market including top key players Nuance, Microsoft, Agnitio",
+      "excerpt": "The study provides company profiling, product picture and specifications, sales, market share and contact information of key manufacturers of Speech Recognition Market, some of them listed here are Nuance,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
+      "originalUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Speech-Recognition-Market.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-computer-vision-inches-toward-common-sense-with-facebooks-latest-research.md",
       "title": "Computer vision inches toward ‘common sense’ with Facebook’s latest research",
       "excerpt": "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before",
@@ -1134,58 +1178,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-6-tips-for-expanding-your-smb-internationally.md",
-      "title": "6 tips for expanding your SMB internationally",
-      "excerpt": "Virk predicts that the need for human translators will increase as more content is produced from AI translation engines. Heather Shoemaker, CEO of Language I/O, explained how to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/6-tips-for-expanding-your-smb-internationally/",
-      "originalUrl": "https://www.techrepublic.com/article/6-tips-for-expanding-your-smb-internationally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/05/21/702ce4df-0870-4f12-9e1f-2d0da7890eae/resize/1200x/e08fd66b72e66ca19baaa0c090eb1b04/global-economy.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/6-tips-for-expanding-your-smb-internationally/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/6-tips-for-expanding-your-smb-internationally/",
-      "publishedDateTime": "2021-04-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

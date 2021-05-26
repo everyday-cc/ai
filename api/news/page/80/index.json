@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-03-12-tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure.md",
+      "title": "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure",
+      "excerpt": "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/",
+      "publishedDateTime": "2021-03-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-profet-ai-simplifies-development-of-ai-solutions-for-manufacturing.md",
       "title": "Profet AI simplifies development of AI solutions for manufacturing",
       "excerpt": "Profet AI has introduced AutoML, an automated machine learning platform to enable makers to develop AI-based solutions for manufacturing processes and management, according to company founder and ...",
@@ -1023,40 +1066,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-worldwide-ai-in-computer-vision-industry-to-2027-rise-in-demand-for-automating-processes-across-industries-presents-opportunities-researchandmarke.md",
-      "title": "Worldwide AI in Computer Vision Industry to 2027 - Rise in Demand for Automating Processes Across Industries Presents Opportunities - ResearchAndMarke",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ResearchAndMarkets.com's offering. According to this report the global AI in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

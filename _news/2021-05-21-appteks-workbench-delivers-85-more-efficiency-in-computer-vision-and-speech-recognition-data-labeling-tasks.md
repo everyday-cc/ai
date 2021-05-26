@@ -1,32 +1,28 @@
 ---
 category: news
 title: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform."
-publishedDateTime: 2021-05-21T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962"
+excerpt: "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Data Labeling Tasks . The addition of next-generation pre-trained computer vision and aut"
+publishedDateTime: 2021-05-21T12:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
+webUrl: "https://www.prnewswire.com/news-releases/appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-301296763.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg"
-    width: 400
-    height: 286
+  - url: "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg?p=facebook"
+    width: 1304
+    height: 683
     isCached: true
 
 related:
@@ -46,7 +42,21 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
+    excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
+    publishedDateTime: 2021-05-21T13:40:00Z
+    webUrl: "https://www.actuia.com/english/amazon-continues-to-refuse-to-let-law-enforcement-use-its-facial-recognition-tools/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Image-for-celebrity-recognition_v3.2264009c637a0ee8cf02b75fd82bb30aa34073eb.jpg"
+        width: 1224
+        height: 660
+        isCached: true
 
-secured: "/yDb+mwLSKTbotBbpMsdTvhQQeCtyBA+uNtmIow5PDbtmlJR+OCDTXSHqUbxaST8Xz9oNI7egsqNR6zJr4pUjpOaa/cpDa/BtrlCtg4o/nQVHSb/iZJfnjXrYUKWNdfAKCihSWym/6kqTp6tme4bQQfUCpA+pQKlN5M8hhzEX4/b2yjzbu7tsvAf2O/qwpdpy4YWDW45s4Mx3sunPFyhaV0ebtc6Fsafe8grgycp3Oj4veUqZHB6JAEOJdIiia84xvyosytFklyQQ9b6KVu8tiAWtSrlFJfLa2WNC6iTBh8AQBHw0f/3ViOi75kGfrkL5OnpWQNDFfaM4xxBNP3/16gLw5lYG36ZIWUQjJ6NOCK835nK6MunthF6/U50mm/5/dwoBTyAtaJ0bSVSGyM0R7uB1/f3hp3fGoa6gEC8c2z4GwRCCC3j0Ju6bV2iqhKApv9jcUCIzDNZCoZ4l6WSyXvcvMh+GVEVrx9kPdoytILly3fufvwz31610eab5M1RCYV3WqRU35ZD2MUsOQspOQ==;Vg7ndr2YW2Z35tabJafyuA=="
+secured: "HwiqIf/UTgDL0aeEY7KbTyZ6h2QkUU8pyTW9YJkqDY63po6rDkT/rIG3CKddtYc+wffP4M78dL7U5FhezmlG3entJYz1IJz5hCwnBiNSCRTysX6L0bP13DG7Vf0IFH7QIWdGWBKS1Zpxp1EtBp8rydtt4olznHrFlpTwexrnesrZdncN9FDwaUhuSDfWdUK4Q1b/ONZ5E39u5rAS2iKYuqLyjq7l+I1/cJU1gT0amtVf5IzTLCCSZ+XPe/Fs72lrGbaIoyz+SIjk1gba/4Pqki2B9N1x2N0Oiz/Yqh56/bzICjXhJsg4heiv91fsvm6BnM5GXuDgNWp63OO93MvIZ/XNfGmkV6M8XkahDjGT5bg=;mnewhefxeAumVaE7djc5kA=="
 ---
 

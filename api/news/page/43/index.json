@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-21-5-things-to-know-about-ibms-earnings-report.md",
+      "title": "5 Things to Know About IBM's Earnings Report",
+      "excerpt": "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "publishedDateTime": "2021-04-21T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-how-ibm-watson-is-helping-clients-build-trust-in-data-models-and-processes.md",
       "title": "How IBM Watson is helping clients build trust in data, models and processes",
       "excerpt": "Through my role as Chief AI Officer at IBM, I have the privilege of working with organizations to ensure they have a holistic approach to AI. We do that by helping businesses design AI strategies, set guiding principles, and infuse responsible AI products with intent and purpose throughout their business.",
@@ -1104,49 +1156,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-elon-musks-driverless-dreams-take-hit-as-tesla-autopilot-accidents-pile-up.md",
-      "title": "Elon Musk's driverless dreams take hit as Tesla Autopilot accidents pile up",
-      "excerpt": "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg",
-          "width": 1196,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/",
-      "publishedDateTime": "2021-04-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

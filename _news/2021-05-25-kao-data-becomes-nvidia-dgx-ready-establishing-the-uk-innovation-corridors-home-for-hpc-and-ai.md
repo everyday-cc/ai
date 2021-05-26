@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-kao-data-becomes-nvidia-dgx-ready-
 webUrl: "https://www.tmcnet.com/usubmit/-kao-data-becomes-nvidia-dgx-ready-establishing-uk-/2021/05/25/9376597.htm"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Manufacturing AI Startup ExLattice Joins NVIDIA Inception"
+    excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine."
+    publishedDateTime: 2021-05-25T12:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "ZTiGipwbyZST7EOCRRvZ6umcX53Hlp8Z2vH8qbL8+YKbtqv7DgyPMNwP1yzj/5JXCKtqM02IOxUIdoF2Z3SUCztUWeGIgiA4qqfnmjU/gF14giDzfJYKOJ0USJ6es2z4NFGhyGCjyKGF+/MAFCtE2tbVdTxXxvWqeZzakb22aQCl8mhz+DZCL7D+Ya+O+OLnX/VQ09vQ7ZDL2bl+nuMFky1gltMLur8xPbQhJGGrf5Fpen8brd3MWDAA87PlwPT2qMbpayJPQtBgrAguZ4WMgLYaoYb5NwFBIUP4tvidU0ewp9zQYTShVp119SvY3kXO1N26jMEsmXgJVd73MGLMguScvDWuCq6eUSh/bZys69A=;0YpEdLHdlpYqaWN4AZYDsQ=="
 ---

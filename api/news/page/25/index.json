@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-05-05-this-startup-wants-to-bring-clarity-to-the-complex-world-of-ivf.md",
+      "title": "This startup wants to bring clarity to the complex world of IVF",
+      "excerpt": "About 180 million people globally suffer from infertility. In the United States, one in eight families have trouble conceiving. The statistics are only getting worse, as male infertility and miscarriages continue to increase.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/08/gettyimages-117452594.jpg?w=1024",
+          "width": 1024,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/alifehealth-seed/amp/",
+      "publishedDateTime": "2021-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-curiosity-powers-sas-biggest-brand-move-in-20-years.md",
       "title": "Curiosity powers SAS’ biggest brand move in 20 years",
       "excerpt": "Curiosity is transformative. It enables humans to ask bold questions and sparks innovation. Curiosity is also the heartbeat driving SAS’ new brand campaign, ” Curiosity Forever.” The company unveiled the multi-year campaign designed to reintroduce SAS as the world’s analytics leader in advance of its popular AI and analytics conference,",
@@ -1070,60 +1121,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-achieve-12x-higher-throughput-and-lowest-latency-for-pytorch-natural-language-processing-applications-out-of-the-box-on-aws-inferentia.md",
-      "title": "Achieve 12x higher throughput and lowest latency for PyTorch Natural Language Processing applications out-of-the-box on AWS Inferentia",
-      "excerpt": "AWS customers like Snap, Alexa, and Autodesk have been using AWS Inferentia to achieve the highest performance and lowest cost on a wide variety of machine learning (ML) deployments. Natural language processing (NLP) models are growing in popularity for real-time and offline batched use cases. Our customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-12x-higher-throughput-and-lowest-latency-for-pytorch-natural-language-processing-applications-out-of-the-box-on-aws-inferentia/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-12x-higher-throughput-and-lowest-latency-for-pytorch-natural-language-processing-applications-out-of-the-box-on-aws-inferentia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/2-Inf1.jpg",
-          "width": 700,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T14:09:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

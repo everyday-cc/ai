@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world's first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
-publishedDateTime: 2021-05-13T14:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-soniox-debuts-speech-ai-recognition-platform-/2021/05/13/9369014.htm"
+excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
+publishedDateTime: 2021-05-13T14:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "f7omsvHVyj39Z8dtwQW1LuLl3ryztj70XEtIDKTRIKzu9qsXXZfiCmQxHFG/ny/4QtwX6jcJmKBPIGy+cH6RZeEuT6aqqRoaaUmHWATNrHrivq22xjpWuE9gbw/s6e58fbtNS83HaSvrCG4SvUHoW3oNTSw+WBGi/FyVJBwy9G1j+0iIXqFuKZ7iOnSewrm4a/nh7679vIhzY4a4PRSTS24kD6A9+RTnfMAl7PPgY/ZPa8nDEG79EjG+73OJTcnm6NN0+mnXFevAwlksZNmk/A/hSroAun0tjPsA2sxtRBAnndMjcTBw4oEsrrCC20QifPQZA57Bn595YFNWS4evO0DyzZzEM3EbIFmDvCcKNUc=;JuoOewpFkFzuaZQxBhNZ5w=="
+secured: "jhfFg6M7eAX5KyGJbcaOSUA48psR8+TCm2Kqp3R7qM6+Ytxh/+N9qqtO9SESHno5zpP6pxbiA5/B/4oV57ROPLl8PM7QYZCpQwNFIdISvMRVGiept5yOZ9wzOj4McGXJ8h98ZwaqIYBwKA3jNx03w8XobjirTqwmFfOu8cBMC5XmMfqOhaMkh1WQj7iSoO+xqTtHlOR4KKSp2PcfQjjjDpsRtVG9flEB0s7drZK6AkdX0vfoCxqJ39xZjEYntlklGkVoAcV3CKGbMkkPJj4t/7SN7mClo0YLzLDAM5JVbcydCMp2/wTo7I/NNIDHh02GT5cb7VSC/5AGaAKwCfYQjiMZb7Iwx84fHMHzk89A9O4=;dvQjwDgaAbJXLjskJ82+Gg=="
 ---
 

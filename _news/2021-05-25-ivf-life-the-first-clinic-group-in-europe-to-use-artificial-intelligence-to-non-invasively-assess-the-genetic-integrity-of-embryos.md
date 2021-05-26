@@ -3,8 +3,8 @@ category: news
 title: "IVF Life the first clinic group in Europe to use Artificial Intelligence to non-invasively assess the genetic integrity of embryos"
 excerpt: "IVF Life Group, a leading group of IVF clinics across Spain, UK, and Germany, will be among the first in Europe to use Artificial Intelligence (AI) to non-invasively assess embryos to determine their genetic integrity."
 publishedDateTime: 2021-05-25T09:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9376617.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9376617.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-ivf-life-first-clinic-group-europe-use-artificial-/2021/05/25/9376617.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ivf-life-first-clinic-group-europe-use-artificial-/2021/05/25/9376617.htm"
 type: article
 quality: 0
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 315
         isCached: true
 
-secured: "c1NRKkT5hwTJKN1JV05dAO8EcWBe263W/FVcyJttz+0DE847Y5uRtmK5VxfqgH9yejTP2l1knnBIxFks9pKgWzixnikONiRnN4j1XzxhTGhWuiNdOKo5roNnF+qCGXWSUrSQT8BX1us8RrSLYG1Cjwcjdf/mwUlY8TMs7B22TOOogForOTBh8OHc31PSWA6D4YVi7Wx6qrt/F9mOydYcWTcWzVYTAvwcb1doWSQj9KyV3SES234wmEAoG5iiYxRYPR9lGbchjHUnrVDIHt1qTmkjumiIXHXB13ar0CZ/Q0DSiObN/QYwP8yh2Rza2ddYSF3ykSnk6SNvIgUtOhKJ9bC6p+Dh4OhYtnmOZY74uOQ=;zQjkxC3OsBlpBBw4+s4Y3A=="
+secured: "x262CewyGz4LD3VrxzkZ3f4MWPBfuf52ItlE20u8TuzszU5GG0LoQwjN2vmbjZJrZUHPFyFOufl5Aj52C8S7T4vh2YypRrBq/Ylj2QT3GLVfI/zWr7nXn/0ECsHOo4S2mupV36mZAV/i/aw/+fuS/rIW8Kp0RtL5U7zyoUBACHX0zBEyBasGr3/Jb+rx2oDxMcYkEKftkwkImxpDarC6eiV5Kh5lRW5Vf3OF3NsUi/4WmRVh4Gj6ntZsnmulUeCAGn1s/iu2QXiF6zFAlvGX5WuQ9JlwigxZ05/YUQEj3oJ6LB9Rqcb2MkTT6pMWhws4eqposaC3MLPr0vEv/NbAfEbIquC4xgC55CjWpRbx2/4=;Jvt8YENRyMy3w60bY00blA=="
 ---
 

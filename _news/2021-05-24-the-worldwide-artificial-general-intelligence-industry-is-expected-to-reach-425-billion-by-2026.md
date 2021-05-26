@@ -24,19 +24,6 @@ images:
     height: 419
     isCached: true
 
-related:
-  - title: "Outlook on the Artificial General Intelligence Global Market - Nearly 700% of Companies will Deploy AI-Embedded Smart Machines by 2027"
-    excerpt: "The \"Artificial General Intelligence Market: General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2021 -"
-    publishedDateTime: 2021-05-21T08:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21231358/outlook-on-the-artificial-general-intelligence-global-market-nearly-700-of-companies-will-deploy-a"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21231358"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21231358"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
-
 secured: "+vanM4+K9o5rado7oDa5wHME+2sXGQrVlkgt8QnLTx5ntggfxxbdobHFoEqtdVZKVXormgZiMJC9krZZV2plizDdLD9rPIs2EhtWW7BzDf1deEJrhvEnWS+sHyEVVOeq2rQkk00YsO4qgVnZbFetsgA8cmIH6y5N0muUVsw6pAXA914zc1QXATdRtptfj8E2hSIGZW7x9DUsa287kLlav+rCc/htSwqrvzOA87u9qez7TtM2lGhQjrhrDbCXU6qKiiXY/mTKyGcGKgJ39hwV3ma1h4+rtTQnz/3LWJ1iYAQRA74+dbKY/v1c9hU8Z4648pFLBbGbQJz+h7i4eEb4qM1V8vXpiSb8g+uxhotcioM=;UYhU9fVndmfv79EBBVke9Q=="
 ---
 

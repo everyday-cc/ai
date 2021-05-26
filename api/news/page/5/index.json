@@ -2,101 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-05-21-industrial-robotics-market-to-grow-at-a-cagr-of-95-during-the-forecast-period-2020-2025.md",
-      "title": "Industrial Robotics Market to Grow at a CAGR of 9.5% During the Forecast Period 2020-2025",
-      "excerpt": "Industrial Robotics Market size was valued at 28 9 Million in 2019 and it is estimated to grow at a CAGR of 9 5 during 2020 2025 The advent of numerous sorts of techniques committed to production control and introduction",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "originalUrl": "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U520628557_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
-      "publishedDateTime": "2021-05-20T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-in-the-race-for-tech-talent-the-us-should-look-to-mexico.md",
-      "title": "In the race for tech talent, the US should look to Mexico",
-      "excerpt": "Amid a backdrop of skyrocketing tech valuations, the U.S. tech sector should look to Mexico as a key growth market and partner. The time is now for the U.S. to tap into Mexico's surplus tech talent.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1164223141.jpg?w=1024",
-          "width": 1024,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/amp/",
-      "publishedDateTime": "2021-05-20T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
       "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
       "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
@@ -377,6 +282,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
+      "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
+      "excerpt": "In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/",
+      "originalUrl": "https://www.financialbuzz.com/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -755,33 +694,24 @@
     {
       "path": "_news/2021-05-20-carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial-intelligence-as-a-service.md",
       "title": "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service",
-      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service",
+      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service.",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19816657.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19816657.html",
+      "webUrl": "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial",
+      "originalUrl": "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T05:06:00-07:00",
+      "publishedDateTime": "2021-05-20T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1078,40 +1008,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
-      "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
-      "excerpt": "Numenta, Inc. announced it has achieved greater than 100x performance improvements on inference tasks in deep learning networks without any loss in accuracy. In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210520005369/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210520005369/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-20-equinix-uses-precision-robotics-in-healthcare-tech-quest.md",
       "title": "Equinix uses Precision Robotics in healthcare tech quest",
       "excerpt": "Digital infrastructure firm Equinix has announced that Precision Robotics, a surgical robotics startup from Imperial College London, has deployed an NVIDIA DGX A100 system in Equinix International Business Exchange HK4 in Hong Kong.",
@@ -1153,6 +1049,109 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research.md",
+      "title": "Artificial Intelligence Market 2021 Trending Technologies, Distributors, Future Growth and Geographical Regions 2025 | Says Kenneth Research",
+      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence Market, which has been categorized by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research-2021-05-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research-2021-05-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-ai-and-data-science-jobs-are-hot-heres-what-employers-want.md",
+      "title": "AI and data science jobs are hot. Here's what employers want",
+      "excerpt": "Up to 10,000 jobs in AI and data science open each month, and the trend is only growing - but candidates often lack the right skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
+      "originalUrl": "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/20/1542e485-4a71-4a41-adb6-6608a5b1f96a/gettyimages-1206260104.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
+      "publishedDateTime": "2021-05-19T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

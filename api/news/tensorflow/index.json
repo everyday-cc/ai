@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-21-prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again.md",
-      "title": "Prosthesis powered by Google’s TensorFlow AI allows amputee drummer to play again",
-      "excerpt": "The movements and gestures from the residual part of Jason’s limb generates electrical signals, which is converted into streams of data for the TensorFlow software to learn and process. “I can flex my muscle and it will tighten the grip on the stick ...",
+      "path": "_news/2021-05-26-host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints.md",
+      "title": "Host multiple TensorFlow computer vision models using Amazon SageMaker multi-model endpoints",
+      "excerpt": "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for",
       "sourceUrl": null,
-      "webUrl": "https://www.musicradar.com/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again",
-      "originalUrl": "https://www.musicradar.com/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 189,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/kqRyjAhwTw8wNaRts4vsqa-480-80.jpg",
-          "width": 480,
-          "height": 270,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/11/1-2888-Architecture.jpg",
+          "width": 801,
+          "height": 553,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again",
-      "cdnAmpWebUrl": "https://www-musicradar-com.cdn.ampproject.org/c/s/www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again",
-      "publishedDateTime": "2021-05-21T02:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T17:00:53-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MusicRadar",
-        "domain": "musicradar.com",
-        "images": null,
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,10 @@
         "news"
       ],
       "topics": [
-        "Google AI",
         "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Google AI",
         "TensorFlow"
       ]
     },
