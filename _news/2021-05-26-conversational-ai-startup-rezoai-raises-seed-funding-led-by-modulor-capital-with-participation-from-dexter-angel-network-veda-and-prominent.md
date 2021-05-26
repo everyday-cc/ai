@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2021/05/conversational-ai-startup-rezoa
 webUrl: "https://www.indianweb2.com/2021/05/conversational-ai-startup-rezoai-raises.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 640
     isCached: true
 
-secured: "Tz5UYYPXf7rVoKgYONB7DX1VKUa3iSpdvmByThau5Lh/nzoSEI3urOUZQiEyaWXA8UBJrTAiMGd0asSexw5a0EY5m5JfRX0ioB9QC6Sd0HHP4NDksr8Tx7sVR3nnXV2veqHIE0rmLbpHeM0S6g1swih1/Zgrrr51fNaE2014LQ0vsXg759e7gcOfghAf7cytNbVRIHngLxfC9lyWYA5T5PWYOZFmtUjCrOBafWEoxcMIxwszyZ5cdNhfi1+UBJSKIg+sXb/3HXUiQzbAAdshU/ZFbm3S9fUiP3BH3D8Q7eMIVq22dU8X+LOBrQnJj5MZjKaAdxhBK3uXV/JPKuae7DjpeJkBEpwkjppD6RATWaM=;NLgGR6RMsDc2gjDXuzwDjA=="
+related:
+  - title: "Rezo.ai Raises Seed Funding Led By Modulor Capital"
+    excerpt: "Conversational AI startup Rezo.ai on Wednesday informed to have raised an undisclosed amount in Seed funding led by Modulor Capital, Dexter Angel Network, Veda, and prominent angels including Bhavesh Manglani (co-founder,"
+    publishedDateTime: 2021-05-26T08:07:00Z
+    webUrl: "https://www.entrepreneur.com/article/372901"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/372901"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622016398-ManishRashiGuptaCo-foundersRezoai1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "i7UKUiekltNvqIbqbWUozMijUgUgR3iWogwzSFZwOaMR9ee5CmCo/HjFEAHd4NlLeNCIE2mOiTM+ddVAwF+dzPpCF57Lk0UoSyTTiN4aWUS55079MvOKyCf5Bba0E8yJ6nORWZZIcucjjJCHtwFb+RuV6xGSkn3CagxIFcKS6wJyvjSyxnRl1JFKfF3ZOVSYYJEMvUxrHhfnZp+j61qQd+GCWF1hy59/VYH6ZI3jYlo8lV5EvekEFZ11Jh79zEuA50cziJXOyncR08ZCMFbZYLU7COPMmMGORt0nNsP9YkDJE3bRZY7DCwklNYHfXFQCS0UC51dHCHBVQwnFE2VCDj/LpmgJbWIg3wMr8YO/aShWsFX6JJojLE+5TawaLZ6lb72eNapN5Udugnwtb2qEHDDSn/kvvkd14YizoqVp9XxEA1LMcAe1DEr99qWCIpNs1YIsI3Mw0uZesyoKQ7VqfCRw50G3t6MolbimUipyOhaPD9mDFOF8zDRjq+Fyy55I3KX/1zO48Se4NqygcrMniA==;o5X9LTqRvia+Ba8s6I331g=="
 ---
 

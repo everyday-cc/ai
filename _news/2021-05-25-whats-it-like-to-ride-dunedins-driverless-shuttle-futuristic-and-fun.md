@@ -42,17 +42,19 @@ related:
         height: 3024
         isCached: true
   - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive applications at KoreaMAT ( May 25-28, 2021 ). Combining driverless technology and IIoT (Industrial Internet of Things) technology,"
-    publishedDateTime: 2021-05-25T23:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-visionnav-showcased-latest-driverless-industrial-vehicles-solution-koreamat-/2021/05/25/9377755.htm"
+    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
+    publishedDateTime: 2021-05-26T08:00:00Z
+    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
+    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: Asia One
+      domain: asiaone.com
+    quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/1517703/image.jpg"
-        width: 400
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
         height: 300
         isCached: true
 

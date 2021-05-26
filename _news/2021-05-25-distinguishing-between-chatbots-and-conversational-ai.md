@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Have AI chatbots come of age?"
-    excerpt: "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ..."
-    publishedDateTime: 2021-05-21T16:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679"
-    ampWebUrl: "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/05/ai-bot-0041z.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "How Telstra turned its AI chatbot into an HR tool"
     excerpt: "As at most companies, the COVID-19 pandemic sent Telstra scrambling to keep remote staff supported – but for digital experience principal Melissa Dorey, that disruption proved to be the perfect time to introduce artificial intelligence (AI) to a human resources function that had become more critical for staff than ever before."
     publishedDateTime: 2021-05-24T23:55:00Z

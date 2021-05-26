@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2021/how-telstra-turned-its-ai-chatb
 webUrl: "https://ia.acs.org.au/article/2021/how-telstra-turned-its-ai-chatbot-into-an-hr-tool.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Have AI chatbots come of age?"
-    excerpt: "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ..."
-    publishedDateTime: 2021-05-21T16:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679"
-    ampWebUrl: "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/05/ai-bot-0041z.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "SAS announces expanded cloud provider support and AI-powered chatbot"
     excerpt: "Data analytics platform provider SAS announced its first-class cloud support has expanded from Microsoft Azure to include AWS, Google Cloud Platform, and soon IBM Red Hat OpenShift. The company has also released an AI-powered conversational chatbot."
     publishedDateTime: 2021-05-25T15:28:00Z

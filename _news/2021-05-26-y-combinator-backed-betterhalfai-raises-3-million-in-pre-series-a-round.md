@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/y-combinator-backed-bett
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/y-combinator-backed-betterhalfai-raises-3-million-in-pre-series-a-round-9434721.htm/amp"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Betterhalf.ai Raises $3 Mn In Pre-Series A Round"
+    excerpt: "The company plans to utilize the funds to boost user engagement on the app, adding monetization features, and increasing product discovery across organic channels"
+    publishedDateTime: 2021-05-26T09:12:00Z
+    webUrl: "https://www.entrepreneur.com/article/372905"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/372905"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372905"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1622020333-Betterhalf-team.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "AI startup Fireflies.ai raises Rs 100 crore in Series A funding"
+    excerpt: "Fireflies.ai, a conversation-tracking platform, will use the funding to expand its 50-member team across five countries and invest in technologies like GPT-3."
+    publishedDateTime: 2021-05-24T11:42:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-fireflies-ai-raises-rs-100-crore-in-series-a-funding/articleshow/82908790.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-fireflies-ai-raises-rs-100-crore-in-series-a-funding/amp_articleshow/82908790.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-fireflies-ai-raises-rs-100-crore-in-series-a-funding/amp_articleshow/82908790.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-151040,msid-82908780/saas.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "cYMRFZuHswiumOYRqKGDi/Ky2mSYMjUYB3so+EeV0/k7TU2P6D53Y/aoM+0FXGc/EtxrylmZqpMvX+ab2mrqNqP/gAv2FzB+HKIOM16VJ7UTWt5dXP8peSFenl6bC/P25B9DzS/zcqzXqf2zqWB4unQkOKxya5VQDJbSjnYkIWTY2XifyDYxqSYYQil4+FO3U+fA/bqTyPj1+gyA6AnPNeLkHVZAP26TQmV7zddzFmNr9N8jw+MZtAUCLQHQe0tTsZ6EtNfnZhK0HTJLMmo1PoSrBE6X2FE0XjvvzewATKvJcZ/H5SA8LqQuTxkZ96nkDZs+VckfJ+iBoJl7EY2OR+LXpSDkcWXrw4Ul57LasxaQ+MaX+zT/RqcwIbAPaP0O2ovC+ZHhF69eX3PsH4fgSIviizs+LQEfyzslOJti2uRtsnqNnKLxXoIZNrWfX6/jHE/mTJNweTQNg0g8ihimxA+FKs1oi1sxGOnQDp1CQhMb8zqvrh6ZaFqvOEfKjUCMcRndcFNWuGq+1Cxd/ffTzw==;W/+z6SftLAofgwEymGDLnA=="
 ---

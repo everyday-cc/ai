@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Automobiles/Ford-and-Toyota-top-s
 webUrl: "https://asia.nikkei.com/Business/Automobiles/Ford-and-Toyota-top-self-driving-technology-league-table"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Some Self-Driving Truck Developers Make Case for Supervised Autonomy"
-    excerpt: "While most developers of Level 4 autonomous truck technology are targeting driverless operation, some see near-term business cases for highly automated, self-driving trucks with a driver still in the vehicle."
-    publishedDateTime: 2021-05-21T15:30:00Z
-    webUrl: "https://www.ttnews.com/articles/some-self-driving-truck-developers-make-case-supervised-autonomy"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-locomation-highway.jpg?itok=4glAATuU"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "3PMpJ2BZN3h4BnzipS1MZvoHzhoxEE6GI3DIRZbQBkn+Z3IZMenjbWbkWRCUu0x9R1H6X5r4cET8KwxEZcR0sMYb9VsOHa4yjQ4E+Wa5PitPzGcq+0L+FqxWJ/MEUwkG9N9DRsEzCvow5rzcxuZ1wq4tETfiImT06w7PfglaDrZqPRLG345Mk1SgxVDdPm3lNX0Ugxj29Y9mWeWfROZGzlWxFj3PmfY90bG0C1ouA81Pxajt2lT0UNDKPmHQHnnodtcKeZAM7iB1OCjaByfBCg1gxfsw8JwN3h7xAegZaOkNWDkxiPOxYwoY7mZD14ejfaNCVqbEEOlAyjjpOPJgIJZooRk/Df5IMMQWemyCh+dIyj8d5PmkT/MW/w4bdeLvo/Qp02+ZxhC7wzubVzBy3G/5huLVoghKVjkQco//Dm5G27ZYJVyAH5zW1FKyw4cxFHXj161dSKQHphzoyMK+WVVOtBw3zlOvHhlsyvfYj1N9kbQfdDPtHyrmp8SxkrWUJUZSRY1qYqjDiQ0cjT1/SQ==;nnvUnektl2zpJ0kFYgWPSg=="
 ---
