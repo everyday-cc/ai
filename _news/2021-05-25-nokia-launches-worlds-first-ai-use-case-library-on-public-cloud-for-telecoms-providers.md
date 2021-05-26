@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
-excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
-publishedDateTime: 2021-05-25T07:10:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/1000496872/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers"
-webUrl: "https://www.morningstar.com/news/globe-newswire/1000496872/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers"
+title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
+excerpt: "Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture,"
+publishedDateTime: 2021-05-25T12:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
+webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
 type: article
-quality: 11
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Nokia unveils the world’s first telecom AI library"
@@ -52,6 +62,6 @@ related:
         height: 675
         isCached: true
 
-secured: "7+TomIE79E2Mafqb9F+pSFaaRBu1xPOZW6GQ8yuXuFDaYHxDgrN4eS3nHVBMCEaJxntoPkqut78o5oAABDrLg6lY3fyU3vAvARt0ydpLj3e0N/mcj3x6suxW+dM9WxcOFYuJGagufX2TVqwqySMgQzeNwvnet4og/72S89t8fgK225qTsvTAcQCI/3a1gBouEtj1nNyOlXtcuM9nlCATsnByxCmdlYoEv+oP3xCpbDahQZ6XHZud18JHJWtx3OTVhPw1wfs6c9YF/m1rXcZ5zDSHDbaoJBuncbVJltsFAvRFZac4CFztwqlYdV5WYu6d84D550MEKU+Ip8nDFyyReZUPzzYUIwzEo/KREe9f5LI=;Q5zzKzTuxYM/+oubfWiV7w=="
+secured: "zvpP9+7kMICgoQitprhQRapWazJGnCYNArDXIrQJV6E5iml8526lF6N3pVVQsCYkh7x7tERXPRbLuf5lnbqx4AH0InvuuH1MCpUHiuyt/o6OTYeXNc8mBRZ47GoB8uusorDzKDr2kmAjeei5XWvLxIOSaTCZzesigi0zufXxMB0BMd6Zu3NHgWLNZyvRH1xyeT+rImNIOxngTmPPwJkTO9S65p4ZbGW5patc5pJsQAaWiocXRqfXyHwp13ghBtNL9RuFu7Rb/LxBZi5LTg/vO9FAhyypr18vE+E3LGOjM/taDlwoCONrWind90fTlgUs44Ny2AWJ7kcal0dvmm5l/8WuF2DS6WsfG8vyhygC7o8=;H+aC1kJlwcMfX4/m3Ygdvg=="
 ---
 

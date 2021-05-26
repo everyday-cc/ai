@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including"
+    publishedDateTime: 2021-05-26T13:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tesla-modifies-self-driving-feature-in-its-electric-vehicles-2021-05-26-91974328"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Items tagged with tesla vision"
     excerpt: "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles."
     publishedDateTime: 2021-05-26T14:32:00Z
@@ -57,24 +71,10 @@ related:
         width: 708
         height: 454
         isCached: true
-  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
-    excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including the self-driving 'Autopilot’' system. In a blog post, the company said its best-selling Model 3 and Model Y vehicles made for customers"
-    publishedDateTime: 2021-05-26T13:30:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/2912/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/Tesla2.jpg"
-        width: 1024
-        height: 400
-        isCached: true
   - title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
     excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."
     publishedDateTime: 2021-05-26T15:00:00Z
-    webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3,-Model-Y-in-the-U.S.---Rolling-Out-‘Pure-Vision-Autopilot’-Using-Cameras"
+    webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3,-Model-Y-in-the-U.S.---Rolling-Out-â€˜Pure-Vision-Autopilotâ€™-Using-Cameras"
     type: article
     provider:
       name: futurecar

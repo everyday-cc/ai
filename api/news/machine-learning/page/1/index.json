@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-sony-ai-working-with-first-party-ps5-devs-on-ai-machine-learning.md",
+      "title": "Sony AI working with first-party PS5 devs on AI machine learning",
+      "excerpt": "Sony's experimental AI division will team up with first-party devs and use machine learning to create next-gen AI in PS5 games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79579_3_sony-ai-working-with-first-party-ps5-devs-on-machine-learning.png",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/amp.html",
+      "publishedDateTime": "2021-05-26T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
       "title": "Your Guide to the AWS Machine Learning Summit",
       "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
@@ -1398,49 +1441,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-14T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-heres-what-the-dreams-of-googles-artificial-intelligence-look-like.md",
-      "title": "Here’s What the “Dreams” of Google’s Artificial Intelligence Look Like",
-      "excerpt": "Google’s Artificial Intelligence can dream in reality. Its innovative DeepDream software is turning AI neural networks inside out to comprehend how computers think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/heres-what-the-dreams-of-googles-artificial-intelligence-look-like/",
-      "originalUrl": "https://www.analyticsinsight.net/heres-what-the-dreams-of-googles-artificial-intelligence-look-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-10.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T13:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Analytics Insight",

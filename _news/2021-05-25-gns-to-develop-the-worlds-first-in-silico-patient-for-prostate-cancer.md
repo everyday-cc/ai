@@ -1,29 +1,23 @@
 ---
 category: news
 title: "GNS to Develop the World's First in silico Patient For Prostate Cancer"
-excerpt: "GNS Healthcare, an artificial intelligence company creating in silico patients that simulate drug treatment at the individual patient level, today announced plans to"
-publishedDateTime: 2021-05-25T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer/article_15897f49-4587-55d8-9e3d-5b54e312884f.html"
+excerpt: "GNS Healthcare, an artificial intelligence company creating in silico patients that simulate drug treatment at the individual patient level, today announced plans to develop and launch Gemini — The in silico Patient™ for Prostate Cancer."
+publishedDateTime: 2021-05-25T14:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gns-develop-worlds-first-silico-patient-prostate-cancer-/2021/05/25/9377320.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gns-develop-worlds-first-silico-patient-prostate-cancer-/2021/05/25/9377320.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "+pQ6uq+Q9zj1O60wjYqDqhkpkNinWNO5OTyKEvsmXOMbuskSNVS2cvpE+HOR0wtC7ldjtf2qzqa802BB72EAB5HUNe+aNiISaWC6+Riy/3vNrpGGUUBiULTHbLhAFMEWAVXrZ+ZSFAJVkB1Pf3ZvxLYGtlfm7recROh2MrPIW21JR/Emcyb3PMGuVFTj1Kj+OwBQTG4bQp/NillUKeGyvKoXI317mn18Y3YL1V62tRiu+qFe66T3FqZ108ERNgIMgWJbbvipXBDD7TmfTzdIT5n7LdhQZ8zoB21SRUPXolsEi8NyMoY5Dgp2DJUnDyMZZP5qP8VT7hTSx99Rz5InLNkRLRcHL0hXyuiPtpwTUOY=;/0B+NwKuWOr7m8kc6Xuo9A=="
+secured: "L5lrVJjqw4x+hbBalmBwWmv593v88hjWrL8C+5O3YytlkYTR6f5nytUK+c/IHlRhXOsyNajkmr9uX+QY6tjNHPV7gn+Blp2EDZS+ZNFH5AhwF4DPx2frU3GkcE9182qlPhAuyMGH6TC4IyeUVNVP6PLKlURq+NFhLUwTnIdf1DSstQbmy1Lhv9PD8cVR8YUhwyW0Ekt9WifNCjXP1avwGePMdBWzE7MWG10BPSChv7H+49winzYlbC30NulZFuH5JoEv60nT6N0R9fI8hA6HUd7RlQ5+y87zIaB0JTZPLWAN2tkOb1nTIqkoY0817NOdgDCLxE2xJT+ahVIDWQG8h/tvfzKsaMRW3y9pIkHBtbc=;R7PaFQzWuy5LukF7Y/YG7A=="
 ---
 

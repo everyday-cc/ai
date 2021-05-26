@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-
 webUrl: "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-in-your-applications-with-azure/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "7 weird and wonderful applications of artificial intelligence"
+    excerpt: "Backed by technology investors including Tej Kohli, we believe that AI has the potential to positively impact every segment of economic activity and to improve every aspect of human life. Here we reveal seven weird and wonder applications of artificial intelligence,"
+    publishedDateTime: 2021-05-26T16:05:00Z
+    webUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/"
+    ampWebUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 61
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/05/Flippy_Grilling1-scaled.jpeg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Artificial Intelligence Market Demand, Industry Analysis, Share, Growth, Applications, Types and Forecasts Report 2027"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
     publishedDateTime: 2021-05-23T09:22:00Z

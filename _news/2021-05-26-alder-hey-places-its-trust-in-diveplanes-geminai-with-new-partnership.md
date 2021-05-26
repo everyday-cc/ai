@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Alder Hey Places Its Trust In Diveplane's GEMINAI With New Partnership"
-excerpt: "Diveplane, the company keeping humanity in artificial intelligence (AI), announced today that it is entering a new partnership with Alder"
-publishedDateTime: 2021-05-26T15:48:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/alder-hey-places-its-trust-in-diveplanes-geminai-with-new-partnership-301300069.html"
-webUrl: "https://www.prnewswire.com/news-releases/alder-hey-places-its-trust-in-diveplanes-geminai-with-new-partnership-301300069.html"
+excerpt: "Diveplane, the company keeping humanity in artificial intelligence (AI), announced today that it is entering a new partnership with Alder Hey Children's NHS Foundation Trust, one of Europe's leading pediatric healthcare institutions."
+publishedDateTime: 2021-05-26T15:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378629.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378629.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1008515/Diveplane_Logo.jpg?p=facebook"
-    width: 1554
-    height: 815
-    isCached: true
-
-secured: "iL0fKKMQjfLI2Q1Uhjbd473pXvIMCQ2VxgU2vYt4KAce2Jq1WSZKfeLi+Xxfzdbd8uqNOPxAu7ArqVTmWEdfhW3EXnBTEOMM1j0NNBK6Qbs3Gl7WVIAMWXM5rBR3NxBHXeylkQOmV2/n2b6ZLs9CyEh5ldo5bcN0cLQbkEpGnGdUMM8XVdNXEk8vBl8ZWuNr/0bQKuiylwYdYDg1LodMTKiubYAeavRxHsuok+s1ujY/tif7bD0wvGUiVRCBlP37WzrGEQ/lqwZQqXjzjrjfHX6onenXO/OQGKFsFROwrEAS/s1/seJ4YS1cPnKjjFuqg1tvb5Q9XLvrZnxO4mQ0Q/uJLPSzHgDn29gJMTLDl04=;zwe2JuPuAZwgDbZN/WKgug=="
+secured: "lcmrA2CIPljHtSkolQzVgPv3mKNZ9eFeVNzfrxvogYUVTmzHxEFMw39H58rAh4uiz2/wQtrIAowNSix1P4diHUezZPRvkmkNE2eaF8uQ2kZiYjf1dfFjeXOzBfjzEGhHQRewGQo0XhTg0+6akpwNy2OliIY7o9dFgtfELdcTGOmtkd0U5DaLkSKn8qOW4xEgChwi6bCT4n5yzGhhglRLsAUvLRyRO+o6zuffn17BPseUy8p7fOv9oHG30jOsXqoFBOtn4pWvHtEo/HkFmFcMMN9XeZK1x8SVTskGzFblKvNx+4BwNI3b2FFVWQvJTpfoXsYJT2KFl+kjcSmQtQ45Q36LtUVhp6xf4jpRTZTdqUaCFVnrxtd1hhWQ5DI2nlZd+UD1OCQSE/CgfXZjALAg22ZPkBmSL6YOc0qvmtof9z5IdXF+yoUVvMNhfVDeccuOFeyimTuPAfKYlY7M9ZKMybiSgvwqqWfwIwQ3ZauEY+mfW4vmhepQiMGyQjxwlx0tZWfJVEx+pqb45+fHO4JK8A==;uw7+a2OJTvXzBEwG5MHT6w=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in
 webUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in-big-demand/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform"
-    excerpt: "Climate & Capital and Science4Data Partner to Launch Climate Media Signal, an AI-Driven Market Media Intelligence Platform By CIOReview - Climate & Capital’s groundbreaking climate journalism will be combined with Science4Data’s proprietary"
-    publishedDateTime: 2021-05-24T11:34:00Z
-    webUrl: "https://www.cioreview.com/news/climate--capital-and-science4data-partner-to-launch-climate-media-signal-an-aidriven-market-media-intelligence-platform-nid-33666-cid-6.html"
+  - title: "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare"
+    excerpt: "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic."
+    publishedDateTime: 2021-05-26T17:41:00Z
+    webUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 13
+      name: Forbes
+      domain: forbes.com
+    quality: 101
     images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/c0v5o.mediamag.jpg"
-        width: 300
-        height: 350
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "CAZ6NoPKDjH7ZX+Ypwn+ftqoOpLOcdjS56jFVxD16YnuMonFjUcbrLuuKYitGtj55fdb1IKBrR25ZcU83rfRdOEqWdxzg27tEiHcS60WqagdYrcnkSfHP4L3Vsdlv9NfCExXcHxKF7N/IZlrbG3L43sczqLWIboNAsLLPwlVB1TPjRUc7pSOZQIamj0GOUu2yC7QylvSIDCxLlIKEdumJ91jyRwptsmiDyZMghT9szA4VNMdT28vAZZMZQQM2XSPIOi9+YMa+U2o/mnsPb4OvPWHjnC2Jv1MQ4B2IRdwoDa1p5Z/52fnVaSPInSnQWlvlgv2PA9NgPElkj59+adJnYK5QiNZBwYKjFDKjSelRm8ppfY+/ZRV2JMcparhgMvIeAXtURBqA2Y3a6R9GLLvPuRXwJKsWuxtNb9yU4pAlk3T8t1Yx6cAAYzbCMuIbj3hVxZoD7BNOWAYlNwCkHv0C5124fqvDUz7CDz2sZTeDrscfgwTX5GscJNxwZDGdf/4Ilc0skAUj/gOVACMlekUGw==;0yxCDNInLWggL5VfOqCCNQ=="

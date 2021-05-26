@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
-    excerpt: "Data-for-AI experts from Venga Global, e2f, and Oxford University Press discuss data annotation, AI use cases, and working with big tech."
+    excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
     publishedDateTime: 2021-05-26T12:13:00Z
-    webUrl: "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/"
+    webUrl: "https://slator.com/industry-news/why-data-for-ai-providers-need-a-problem-solving-mindset/"
     type: article
     provider:
       name: Slator

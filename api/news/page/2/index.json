@@ -2,6 +2,396 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law.md",
+      "title": "Chips Designed By AI Are The Future Of Semiconductor Evolution Beyond Moore's Law",
+      "excerpt": "Synopsys CEO Aart de Geus believes his company and its advanced AI design automation tools may have an answer to scale complexity of Moore’s Law and the systemic complexity of hyper-convergent integration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ad2c51a132a7ece07f4a43%2F0x0.jpg",
+          "width": 1200,
+          "height": 912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/05/25/chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law/amp/",
+      "publishedDateTime": "2021-05-25T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-why-ai-is-key-to-transforming-the-property-insurance-claims-industry.md",
+      "title": "Why AI is Key to Transforming the Property Insurance Claims Industry",
+      "excerpt": "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25",
+      "originalUrl": "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp",
+      "publishedDateTime": "2021-05-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds.md",
+      "title": "65% of execs can’t explain how their AI models make decisions, survey finds",
+      "excerpt": "According to a new survey conducted by FICO and Cornium, the majority of companies lack sufficient AI explainability tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/",
+      "originalUrl": "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/data_share.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/amp/",
+      "publishedDateTime": "2021-05-25T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.md",
+      "title": "Neteera CEO on using artificial intelligence to change healthcare",
+      "excerpt": "Neteera is a health care technology firm that has developed a heart and lung monitor that is contact free and can measure vital signs through clothing. The company is ranked 26th on CNBC's Disruptor 50 list.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106888119-1621966946-16331919716-hd-L-00-00-08-03-Still002-png?v=1621968882",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure.md",
+      "title": "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure",
+      "excerpt": "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar.md",
+      "title": "Azure Applied AI Services accelerate AI solution development to help businesses soar",
+      "excerpt": "The post Azure Applied AI Services accelerate AI solution development to help businesses soar appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar/",
+      "originalUrl": "https://blogs.microsoft.com/ai/azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/05/Azure-Applied-AI-services-1200-x-630-1024x505.jpg",
+          "width": 1024,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T08:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-microsoft-azure-launches-enterprise-support-for-pytorch.md",
+      "title": "Microsoft Azure launches enterprise support for PyTorch",
+      "excerpt": "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/",
+      "originalUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 383,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-951875250.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/",
+      "publishedDateTime": "2021-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-new-tools-for-azure-data-at-build-2021.md",
+      "title": "New tools for Azure Data at Build 2021",
+      "excerpt": "From immutable ledgers in SQL Azure to in-memory cache in Cosmos DB, Microsoft is adding more features to its Azure data platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html",
+      "originalUrl": "https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/data_explosion_proliferation_transmission_spiral_data_streams_volume_velocity_by_matjaz_slanic_gettyimages-637952444_cso_2400x1600-100852890-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.amp.html",
+      "publishedDateTime": "2021-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system.md",
       "title": "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™",
       "excerpt": "Aera Technology today announced a collaboration with Microsoft to integrate Microsoft Azure Digital Twins with Aera's Cognitive Operating System. Azure Digital Twins is the platform that enables the creation of next-generation connected IoT solutions that model the real world.",
@@ -717,7 +1107,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-in-your-applications-with-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -812,7 +1202,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -853,410 +1243,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
-      "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
-      "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "originalUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-Pixel-6-Pro-Hemmerstoffer-Renders-2-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/",
-      "publishedDateTime": "2021-05-24T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good.md",
-      "title": "TikTok Viral ‘Uberduck.AI’ Text To Celebrity Speech Bot Is Quite Quacking Good",
-      "excerpt": "Uberduck.AI is a text to speech tool that allows you to turn any text into a celebrity, rapper, or famous politician's voice. TikTok's new voice change and the internet's love for innovation have combined into the next AI internet spectacle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
-      "originalUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac60fe8714a2b9c17f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
-      "publishedDateTime": "2021-05-24T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-facial-recognition-and-biometric-technology-to-end-airport-passport-queues.md",
-      "title": "Facial recognition and biometric technology to end airport passport queues",
-      "excerpt": "Queueing at passport controls could become a thing of the past under plans for fully automated border checks.Priti Patel, the home secretary, has published plans to install “contactless corridors”",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7",
-      "originalUrl": "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F608aa02c-bc0d-11eb-a904-b6ed9daa84aa.jpg?crop=2857%2C1607%2C58%2C190&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-russia-is-building-an-army-of-robot-weapons-and-chinas-ai-tech-is-helping.md",
-      "title": "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping",
-      "excerpt": "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362",
-      "originalUrl": "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg",
-          "width": 2618,
-          "height": 1374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1",
-      "publishedDateTime": "2021-05-24T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-creating-impact-with-ai-doing-well-by-doing-good.md",
-      "title": "Creating Impact With AI: Doing Well By Doing Good",
-      "excerpt": "From pandemic prevention and fighting cancer, to fighting hunger, wildlife conservation and boosting accessibility, this article will explore exactly how AI is doing well by doing good.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac1169057baa980eb5b648%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
-      "publishedDateTime": "2021-05-24T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-e-discovery-company-reveal-taps-gibson-dunn-legal-tech-vet-for-c-suite.md",
-      "title": "AI e-discovery company Reveal taps Gibson Dunn, legal tech vet for C-Suite",
-      "excerpt": "Reveal-Brainspace, which provides an artificial intelligence-enabled electronic discovery platform, has looked to legal technology company DISCO for its latest hire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-legalinnovation-reveal-hire-idUSKCN2D525D",
-      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-reveal-hire-idUSKCN2D525D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210524&t=2&i=1563260198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4N14T",
-          "width": 819,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D525D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D525D",
-      "publishedDateTime": "2021-05-24T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-firefliesai-puts-14m-into-its-ai-videoconferencing-assistant.md",
-      "title": "Fireflies.ai puts $14M into its AI videoconferencing assistant",
-      "excerpt": "Fireflies.ai, an AI-powered videoconference note-taking tool, has raised $14 million in a series A funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
-      "originalUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Copy-of-FoundersPicJ219-1.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
-      "publishedDateTime": "2021-05-24T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
-      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
-      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "publishedDateTime": "2021-05-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

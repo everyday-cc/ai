@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-57101248.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57101248.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
-    excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.mainepublic.org/politics/2021-05-25/legislative-committee-backs-proposed-limits-on-maine-agencies-using-facial-recognition-software"
-    type: article
-    provider:
-      name: Maine Public
-      domain: mainepublic.org
-    quality: 42
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/050ee76/2147483647/strip/true/crop/2016x1058+0+227/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "ES1ZlirRDQpHttWq9zc1hd8q9Tmnki9XH4B+3aJ1uZ7tt+/RVSnww1l2ZDi2ya8cnKY+AymhAEW9bOrh8MF6cxxsHzzpO+YEPswpXAaeBimApkTemWKrDeTm4AaxbGhwdl+KUWvd8uULyNZwGOkw0VmtluwzeKFjsVdRfZDKtdwaQGWmXaSjQxEKx3sELGmxSBA68K2qEIsqNWJtoeSSm671IGYnPfED1kYKcC12bz9RW3EVS7/XJadIGYo5fzl/ZpxZvTUzJzRnninajZR5dfT9Ojt+EIdmeKO01iZedQ6qf/wUXAeIBnkdGygds23oNsZuvNLoy2GYfDocK8O/PjfHjrnlCRZjbWSsdN8hcTM=;TOeAVNFD6KltGNfw9NMbJw=="
+secured: "sMnfvCNM8QmmuANGPiv6ztsgKYHXBQEqUqPh0DkeO+0LRdA1jnp+nnP7jIMv1YLwj9kI/mYtBDoH01J/TVHullG7z2NkzETKtJ4hS6xYoZtDwp+KMkQ0dBR0SXA0DPT7Qf8q2wT1C+i4M5fM0pka3TfhnEx7xL8X9Cejc6Q/B30/JbhOn8bcwDxaxGnFLr4yxGX6HvxNqXRBtQBTAlOPjFFMswnMWI4XA3gEw/O4AuO5DevhqMWcCOPDzxGnrLtHE1fgHJ+6FWiB0CcEGwE4zT0sOXss4YTJ1KRTJ8wm0s/y7F3LrRyeEnxFRw/VQQZnn/2zNzzuqdyX5xU0Q88RStP8KOzPkA/HzYXRg2S80y39EbAJv5hvYvKW1mLZgYljWW9F2iFGo381TwX3y9FBEjGMYGEs6X1C1SxOtPRxb79UOJqn2B4YSu5sjepbBhCvBWbmWSARe04wv187+fJB1X+9/7uZbIg/VYBfw415XZi/nwYukYCMIMSMfLMNAH0pAZQF9uZcJlDEOZqJRo3QDA==;idzOe5HD7/KATLU/e2ThYQ=="
 ---
 

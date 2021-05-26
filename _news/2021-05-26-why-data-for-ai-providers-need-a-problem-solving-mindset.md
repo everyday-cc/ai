@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
-excerpt: "Data-for-AI experts from Venga Global, e2f, and Oxford University Press discuss data annotation, AI use cases, and working with big tech."
+excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
 publishedDateTime: 2021-05-26T12:13:00Z
-originalUrl: "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/"
-webUrl: "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/"
+originalUrl: "https://slator.com/industry-news/why-data-for-ai-providers-need-a-problem-solving-mindset/"
+webUrl: "https://slator.com/industry-news/why-data-for-ai-providers-need-a-problem-solving-mindset/"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 366
         isCached: true
 
-secured: "YvTB58Urri+V3zT5yWtib27MAubMlwYgnI/rKb1+24ioVbunA7bGWzWUt0u7tu4heV/lq7L6+CHPOo5CRNnaPy3e9KgE/G/+yAjENPBMWkZpuLQ6EmxrasCWhBY3L5TVPJTb/WPnQxVYRkztvmBQ4UgeRovGluc3uMZHPfJaKedu2/J1wvVZ3i7YxqN72Q4n3wfIfUR7r4hTDvogqrouUvfmfnkfhpkuqxcKTFPhaU/rj6qW9Y+eBRq/QRVC5RX2XLg4U2Bgtxx4tIG0a4X2ZHmscQVEitVrI6ur7N8RXG7tl9lzk/7prDgU9OFaEsZn0PDp0I+pkTkHsFic1ViNtOhyVKY18X+oe+ekyi4x3ko=;YiooZ2qLrw+f08i+JZU9Dg=="
+secured: "hZYLg73ou5pIBtqBvLtt5m7INP+SUV8uk+um/FcxkLZV8xb0Xu3o/BGmT3Cix6ukDkF+MmTWXCuqRnGKaKlmgKliWCw337k7HL1dj0VFk13YB5F44X8bKiFOWsLFbGdAfEL5xuPDYndUz4oh6e/IWz5Chwpviq1T7OngIKWeJoIk+38tpX+uqpmT/uQbZYG0RSzvzqaD2sXBAGvcRZvBlWC6AI1K8wNSdSrm2p6v/dOQWPiq4s0uy8s8giV72hTDvvDHe8NRAkE7Ix1WeTBWhI0pEqeZY4DDkxPm5iofVmDqKoQgI5DKrIPjTe7q851P6kIi4Jqc+BSTigq/1o6XXiEn9C1MTsbXiadOeyc78ZE=;3ms9OGM0aF52/NZIFR/mQQ=="
 ---
 

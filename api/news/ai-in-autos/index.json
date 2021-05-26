@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-26-gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa.md",
+      "title": "GM and Lockheed Martin are making a self-driving Moon buggy for NASA",
+      "excerpt": "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
+      "originalUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Lockheed_GM_Defense_LunarVehicles.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
+      "publishedDateTime": "2021-05-26T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-memorial-day-traveling-in-an-era-of-ai-self-driving-cars.md",
       "title": "Memorial Day Traveling In An Era Of AI Self-Driving Cars",
       "excerpt": "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1418,49 +1471,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-top-5-most-controversial-scandals-in-ai-and-big-data.md",
-      "title": "Top 5 Most Controversial Scandals in AI and Big Data",
-      "excerpt": "Hi-tech companies, who invest huge funds on managing and examining real-time data explosion, have experienced the most scandalous controversies in the history of AI and Big Data, which take years to s",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
-      "originalUrl": "https://www.analyticsinsight.net/top-5-most-controversial-scandals-in-ai-and-big-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Top-5-Most-Controversial-Scandals-in-AI-and-Big-Data.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

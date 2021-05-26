@@ -148,6 +148,22 @@ related:
         width: 997
         height: 734
         isCached: true
+  - title: "OpenAI launches $100 million startup funded with backing from Microsoft"
+    excerpt: "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft."
+    publishedDateTime: 2021-05-26T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/"
+    ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft expands Azure Communication Services with call recording, UI library"
     excerpt: "At its Build 2021 conference, Microsoft announced a range of updates to Azure Communication Services, including call recording."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -293,6 +309,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
+    publishedDateTime: 2021-05-26T17:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Top ML Announcements From Microsoft Build 2021"
     excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
     publishedDateTime: 2021-05-26T11:47:00Z
@@ -324,7 +354,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
     type: article
     provider:
       name: CRN

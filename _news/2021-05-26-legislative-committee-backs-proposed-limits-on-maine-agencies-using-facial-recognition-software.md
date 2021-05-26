@@ -25,21 +25,109 @@ images:
     isCached: true
 
 related:
-  - title: "AI emotion-detection software tested on Uyghurs"
-    excerpt: "A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been told. A software engineer claimed to have installed such systems in police stations in the province."
-    publishedDateTime: 2021-05-25T23:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57101248"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57101248.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57101248.amp"
+  - title: "Maine May Limit Use of Facial Recognition Tech by Police"
+    excerpt: "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder."
+    publishedDateTime: 2021-05-26T16:30:00Z
+    webUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police"
+    ampWebUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4D18/production/_118663791_surveillance2.jpg"
-        width: 1024
-        height: 576
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "CBP expands use of facial recognition technology in New Mexico, West Texas"
+    excerpt: "U.S. Customs and Border Protection is expanding its use of facial recognition technology at border crossings in the El Paso Sector."
+    publishedDateTime: 2021-05-25T19:54:00Z
+    webUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/"
+    ampWebUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
+    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
+    type: article
+    provider:
+      name: BorderReport
+      domain: borderreport.com
+    quality: 59
+    images:
+      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2021/05/Facial-recognition-tech-CBP-courtesy-photo.png?w=1280"
+        width: 980
+        height: 700
+        isCached: true
+  - title: "Healey defends limited use of no-knock warrants, facial recognition"
+    excerpt: "Healey said she supported last year’s policing accountability bill that limited the use of no-knock warrants and facial recognition technology, but believes both can be valuable in limited"
+    publishedDateTime: 2021-05-25T19:53:00Z
+    webUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/"
+    ampWebUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
+    type: article
+    provider:
+      name: WWLP
+      domain: wwlp.com
+    quality: 59
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lawmakers may limit use of facial recognition software by police in Maine"
+    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 53
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
+        isCached: true
+  - title: "Legislature may limit use of facial recognition software by police in Maine"
+    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 52
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
+        isCached: true
+  - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
+    excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."
+    publishedDateTime: 2021-05-26T17:38:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21224445/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 52
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/05/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV.60ae76bebbbff.png?auto=format&fit=max&w=1200"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Strong take-up of facial recognition technology in gaming venues"
+    excerpt: "More than 230 gambling venues in South Australia have installed Facial Recognition Technology, as part of moves aimed at tackling gambling-related"
+    publishedDateTime: 2021-05-23T23:13:00Z
+    webUrl: "https://www.miragenews.com/strong-take-up-of-facial-recognition-technology-564941/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
+        width: 700
+        height: 417
         isCached: true
 
 secured: "h3wIj3pEZeuZqoPqM0oT8g9ywuF9xYJArFurj/F6mYMkCGFZqMNQRa90c48qLQza5JqhxlWUSEaU7yDHt9gq3h7Za0XNI+hWTBnNp7FUH+/Mot8qqtaphIp1uaixey6vLZZPpZmyx8qIhQ+bZzoVM+bw4TndpDXSLwkbGJNuHhgBbUM6puvkf/8G7ALIWKVAV1eMvorVp5kGwUQkVabqSeAmsTulGR30Qb2VAJxl96JR+fP9soe3PGFTQW5VoJmvxjDriI4YOa58s7qL4P6/fN+AnQTIdgzNQdVAzH+Q12Nr0Of61qfQTgm8jIPSQFqcsUT12Fko2tCzzt05gojFQYr3bCWQEAPXig4HSykUADVQm8LNTz8PFSeAYNGp4p9m66nCDflgyoh6ptZEHDgwBhg8qHc+hLjhvRJkUip54h755XLHUAQdrpJMEoKkClTZE9uPxKYHlkMR2KTRRnMR/yHIHN/wDh/IdJ8mpz/v5oH3uUYDoYyVJP/oTIkiwjD/ZU9JnRUSdpbsdNKRMdfiCg==;3xF5tzNM7T/uxOI2ZEcAVQ=="

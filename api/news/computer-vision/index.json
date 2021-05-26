@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-26-maine-may-limit-use-of-facial-recognition-tech-by-police.md",
+      "title": "Maine May Limit Use of Facial Recognition Tech by Police",
+      "excerpt": "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
+      "originalUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
+      "publishedDateTime": "2021-05-26T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals.md",
       "title": "Mumbai: Railway cops to have a facial recognition app to identify criminals",
       "excerpt": "The Government Railway Police (GRP) is on the verge of developing an in house software to identify criminal with the previous criminal records. The software would have a facial recognition system which will enable the police to go through previous criminal history of a person with just a click.",
@@ -1390,49 +1433,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions.md",
-      "title": "Graphene Flagship spin-off Qurv will develop imaging technology for next-generation computer vision solutions",
-      "excerpt": "The new company will market graphene-enabled image sensors with disruptive cost and performance potential compared to current alternatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mynewsdesk.com/graphene-flagship/pressreleases/graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions-3098595",
-      "originalUrl": "https://www.mynewsdesk.com/graphene-flagship/pressreleases/graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions-3098595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/stigv3gzk8q2gq13tsjv.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mynewsdesk.com",
-        "domain": "mynewsdesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

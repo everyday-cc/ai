@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveli
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
 type: article
-quality: 89
-heat: 179
+quality: 91
+heat: 181
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415"
@@ -170,6 +171,6 @@ related:
         height: 600
         isCached: true
 
-secured: "XK3kgO2feU+kdNM4gRp6v/PCNWPccWJGkhdsE4DhJwn+gEl1adOVLxgJVs0AKNltJuewr4mPtTYmKZW8vCgQFz9s4RFMS1dwhZNiRS35KAu6M4Jim+FJxi8CEfrcBj8fbo3/8KdoBtt8brnfCbkkphEf6iR71yq9Vq0TfQPfXmLeR196SRGH2WSJbPncwwZrsLLj2KfXDSILnV6f/HuU6ku9DXxEXzTm10uDJpOFKE/FloLKr9W6I8jifLU8KVXgqy3/iXvgptUbkbB19vwJjlGTmD/SCD1UoZBjqcv35SfLeexOo5E5E0UByMLaHoKlI0dyutvTXcRr08rBdbqTNAtLCJu0s04LJW4HLDjCOvQ=;BokFF0ZH4lPN8EF6/4MLgQ=="
+secured: "4HY16e1pJSwlbC9rvIc4l6/d3jLhbbFWgT9B5BqkynUDHD2uVAsZc9Xq/Rr10t6tSchkGTty7vPrCOHk6ZVHu2TrrmwceRtARRm5wutI3TTmFtSbJeZ/QUdhNKrFjQ3RQdqrn3210OIQttifk2AQp65WC6vQmISy/vKEWLTM3sTcAJg+yM3OamHU/hr/BTT8V1lzYD4iCzjznpmypsV7a0JIy64hia4qqkV9JaL3QB+KjQSVLqJUHQqdeHNBeeP6vTek2ZLRVZuIpo9bwoRmgK64b03K+x1JmZs8ZwuDbrlb7eHfYJ6xNjNM3j/3OrUYWeYpZZxLzsaHA80GHgfcaLa+JgMRM9oYepxDg/AVeOdpgsffjpQ8G7cBuIcFBhdI+PZPW76OZSyKZxQ5Km9lKzQhjlhq5rtkLfe6NgWV7t8Oo087R5nB8C4GesB9fM0nuotiG8ec7e47C/y8aqZoVbz3UfzEph4nfm1jUhPsZuI7IA/fOAw/fa0aeY4QMAMaxwRJ7HFAegEj+CrHExF+CQ==;yA/+aK1rZKu1LaKuzaXo1w=="
 ---
 

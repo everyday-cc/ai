@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
 type: article
 quality: 54
 heat: -1
@@ -147,6 +147,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
         width: 997
         height: 734
+        isCached: true
+  - title: "OpenAI launches $100 million startup funded with backing from Microsoft"
+    excerpt: "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft."
+    publishedDateTime: 2021-05-26T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/"
+    ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft expands Azure Communication Services with call recording, UI library"
     excerpt: "At its Build 2021 conference, Microsoft announced a range of updates to Azure Communication Services, including call recording."
@@ -293,6 +309,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
+    publishedDateTime: 2021-05-26T17:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Top ML Announcements From Microsoft Build 2021"
     excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
     publishedDateTime: 2021-05-26T11:47:00Z
@@ -373,6 +403,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "q235VQsUqw4t1fCkpIQ3pbreYox0GiHFZLQYpLcgd/FvwH1bhHqN4H8M+3K4Lihhm/H8P4ebBvFcV1MMcNKFGfZxcWbAta7wuQQ3slgy5IZANko7hDBXsuwdbncTnfdlCR5LipKOkkKGbTQZlv7g3DGn0s4zG0p7jgKcVBVqzLLxoQLPxDlfveg5tYkpIYsqRaPGXrV0reFdNaCGXAmF7iFnZxXK9NyO5R+xpmQWUjoqkjCi6Wm2RLlxfEMCy+2t3sl8zCrqI4jbPiuO5WEN1wcjSEnuqE6m0sShf991EYJCp4Yi6b9o9nKqlJxkmkfDM3uzojaHnOhHbENXTpBAEaoCvNP4Ck+wjuxNmhBOEEE=;SAG7sA4Md1shYpHL0hcRnw=="
+secured: "hwmI9EKS6eYG+RP20Zx8MOHBBT/TLhPNx3OmBtg4fuQuuOBBfbj0Mv7ErF+VdUIWzZuth+bQascIjJvwwvo0SRUWmZe1QxAUTQ8jTimu67FE4CtROG2x9pnZcyWmY+Z6D3r658JHRsd/AIJTPLchb3fVYKyWK79cj3x/OKGvBSxw+VoCdouRN41UX9dzOl7codcx2xbYBOsJdTHzoq9pfp+Hr1oMlwHJhKvSoqueHN/xCJFwSA7fCbClCMgzeBNoXSrbMmChEoTA4aH3/1+TiMUzZwFXOaqovVEQQvlappXM71arqD06WNPk7ayIAEQrXC3q9JUevAtxxOo6iu3Y4WPToF1ud3izHC1Gh2Wsh9g=;vV7kXW7DEui/GGdye8ehTw=="
 ---
 

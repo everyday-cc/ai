@@ -3,8 +3,8 @@ category: news
 title: "Privacera and Customer Northwestern Mutual Present \"How to Scale Privacy in a Spark Ecosystem\" at Data + AI Summit 2021"
 excerpt: "Privacera will team up with customer Northwestern Mutual and Databricks to deliver two informative sessions during the conference, including: This session will also explore how Privacera's advanced security,"
 publishedDateTime: 2021-05-26T13:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378454.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378454.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-privacera-customer-northwestern-mutual-present-how-scale-privacy-/2021/05/26/9378454.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-privacera-customer-northwestern-mutual-present-how-scale-privacy-/2021/05/26/9378454.htm"
 type: article
 quality: 15
 heat: 15
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "XVHF+kaJuPBXadohPNYw50AWj7jzNpyPmCIfLSHCG73MuGjXQuGDi5zBU55hovDQUVk2WI8Tdz3NcY6q0kJ7RhuEffn0hm/sKoJvHW0QL1pNUyvkhlUClFOVKUTmGt2UYvg4+ZycD2NzSgdiBBvsXP29yxe//hmn4iQuqy9vLvWRzkglTZorhavAPhjmaPoO9fBpriue2Spgri5l2V6jECyeWqwjyr4d5vrMEzLIJu3MeFkp/ETdhNn4fl7eQGuanC2C/1/g8owNmc2oQumDlyik0Pzr9GM+IfI7SMkNmrOSUL8tJStG73ZDJZcKFvY/J0nw0s6BymG1igMqfdAW3gnVuzS2MVwbZU0xQpqzuLo=;eDJmUao/uQg+2znue6tfRQ=="
+secured: "bxqHN8eP0aLAbCeFs3pW51Q+msVIEdWch7U5G4VRjEN0JVwM4T1R06ps0sPqNyIu1d19b7c0Ph99GuCRMF5uXYiC8CGMCHZUkku59Jzdj6kKHhodc6fzWRqpt4YL9dJS9xRyDVKn06LmNwIY0Jz2lgWVO6KTwr6lOG0lKzMaResWZ4BGcvEUh10GZrNUg2mBwJm5DTC0p1pkmqkTDEcPgIfNZSEgWOLLt/Fd3VIF9dkjtshEIyNWszwTELNURpUtLRPTP4q+MtUgpL6LIJkwfawiWmjwAFCyyeOoeFAySCY2pP+k+dcLZkqrWi8GDWhTj/JRPngEziX1fBr6lHbuof0U1utdrjXa5a4feRwgEeI=;spQ3kFboLSO2BOoCNt41uA=="
 ---
 

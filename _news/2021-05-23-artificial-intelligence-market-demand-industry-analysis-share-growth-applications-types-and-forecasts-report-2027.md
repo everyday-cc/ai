@@ -34,6 +34,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "7 weird and wonderful applications of artificial intelligence"
+    excerpt: "Backed by technology investors including Tej Kohli, we believe that AI has the potential to positively impact every segment of economic activity and to improve every aspect of human life. Here we reveal seven weird and wonder applications of artificial intelligence,"
+    publishedDateTime: 2021-05-26T16:05:00Z
+    webUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/"
+    ampWebUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 61
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/05/Flippy_Grilling1-scaled.jpeg"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "J/AhJq0vkhx2cG5eHV1/ELFGT2npJ3XnZMQWyhvoendvuVef3ZP5BdabWTMVjr8TKBfVFoK3uKlSh0R62/x3ZuuhT/gX733Ml8ibjUo7tAJkbInNFMJY/tjp3i9Zwzwt3oGCUdrMug3MI+yr4FDEgK9Ade7JOO826qRqK3EKiLw33nANgb9GGvzBMaIzZy9oV72QC/s9/N5TweBzK5JK7KNMFF5Q01RCvU+4tvvz5DyXz0WdcVqFqTgEaIbwKvi36PVhwKFmNCWsKfvwaQZ8/YwV8OA7tgBhq9ji50+iryvWk78rJjra7+2aaoF5bWYR05KDh8b+k8X6XktomxQMGMWUHay8HWXdx9DDCuvJEF0=;mcyvfOCDTeIH5isMxFbAVw=="
 ---

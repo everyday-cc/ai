@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
+    excerpt: "Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture,"
+    publishedDateTime: 2021-05-25T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
     excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
     publishedDateTime: 2021-05-26T12:14:00Z
@@ -47,16 +61,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
-    excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
-    publishedDateTime: 2021-05-25T07:10:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/1000496872/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 11
 
-secured: "j36POQHXHQosvPAui2khZL0DK4WRdLS01/5d5SiBKiQOAseYVgcnyKE+Fm6XWWd9WZ0/MHfXQevG5n7CgXwgQppRt5xNBZawkcDOjK7SZJXO8QEQefGVNgd8MfTie3Nve6lNiyvp+ONgsjGXKUqqWUf+U9Bn79KOLyAyohd5EEPOfcgcWRTMJvXEqxMEvIVfe6k2GfFtthCGO5QzI2E4yVVdZvqr8s5+8oVdHbqSD5U2lKAbQU9r16nEf/8sMTvCZpfbcShStXg52W7EgXFEkP9LDXoahxskeQQOU2oaN34bxiqnycP2kHJVxqfW66e2F0kOV/KHt9yk8uuP2kRgXIc52ML6nJnM6H482fOgE7Q=;V179DPw1hhsOPyD2ON3Z/Q=="
+secured: "ts+5J45EfPcs3qGYwMeKtXAhqa/vsvJEiB1L/K5ZrVMrrag7FwnlWwx6rrlE5f/HfdJYqehvXaNzNL4+okrc8K6babQlWcW+FUt8/fBnGGHN6slSHW+h+NJxwrtPj9VQ8KmkFp/n9Bs6E8Ro/NR1HWB8Fz1zKF+Lv3aVxPPY7cbhBfPhSlBFxjCw2rWOTL9l9IQDdp5mpakX5eI5wOLl42qjQgDSmAo7ERLdAa7nqoQgleRiv2S2L6qw+XrVzZrTqhiOHoIFDU/KzhpkuYcs/Rr9L2oKambYjY2g42USxWQ1K7G1KiOpHp2opd/M6stReJZFDSo2f23G256NOllU7MmqBeTgpgwG21C/CTA4+PiA/xhh2/eIPy003Gv8zJvQd4GFGTMkVLT0xKqIbw33POytFUuwqMekJloWCcpOe/9+N9d8HbEsCDYOwFfINamGB4mf6G6EyP89pTTruJMB/Ke80kXhq5cN8OTxkH3oBdgb4WEuNyezvrfG2oSdZezJKWdfxFr93ihVVWBIKQnpvA==;PLWKd02kIj0xaQNXiXmfIw=="
 ---
 
