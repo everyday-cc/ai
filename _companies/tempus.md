@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tempuslabs"
   url: "https://www.twitter.com/tempuslabs"
-  followers: 4045
+  followers: 4042
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -33,7 +33,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1154066113317285889/IFoETg00_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1397565148156596224/39oxK3m2_400x400.png"
     width: 400
     height: 400
     isCached: true
