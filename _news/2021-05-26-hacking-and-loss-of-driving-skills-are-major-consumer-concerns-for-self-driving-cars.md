@@ -2,29 +2,47 @@
 category: news
 title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
 excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
-publishedDateTime: 2021-05-26T04:00:00Z
-originalUrl: "https://eurekalert.org/pub_releases/2021-05/uok-hal052621.php"
-webUrl: "https://eurekalert.org/pub_releases/2021-05/uok-hal052621.php"
+publishedDateTime: 2021-05-26T14:38:00Z
+originalUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.html"
+webUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.html"
+ampWebUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/autonomouscar.jpg"
+    width: 1920
+    height: 1920
     isCached: true
 
 related:
+  - title: "Memorial Day Traveling In An Era Of AI Self-Driving Cars"
+    excerpt: "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars."
+    publishedDateTime: 2021-05-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Solving Big City Murder Cases And Other Crimes Via AI And Self-Driving Cars"
     excerpt: "Big City murders will be more readily solved via the advent of self-driving cars, especially due to the roving eye capability."
     publishedDateTime: 2021-05-22T15:30:00Z
@@ -119,15 +137,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Waymo warns against calling cars 'self-driving' before they really are"
-    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
-    publishedDateTime: 2021-05-26T13:55:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
   - title: "Self-driving cars could spike CO2 — study"
     excerpt: "Self-driving vehicl"
     publishedDateTime: 2021-05-24T11:05:00Z
@@ -157,6 +166,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hlSlmErZSHdTH+6YRVxTRdAXX0WWkeyLzaazAPPRNsSbMPnYj6+L5sfs/3q432G8E8wpkBILeou3uqyZIbolM0mHp3TsSTf/JnSzsfEoW+q+0IeEX4DnYYY9vrLpRxKvdPv2TwrTqVjRE8Jr32i/J6JQuICcdxBnk51PnKBQ5U1qGzbl+nF6xnjlc57KxHHjhpDGi07G1dpoI5JNxt9WcKdId7/g9Hym1+Bd/0yQSSt+SqBJwt7KfbYet8XFrQCrjL9IEr9w2tkgoClE5QW7IURr9jvwH3rHhzG+0w/fBjrfTIg36dgQz6oIer48+1I9nz11ua6/x3kbs7S2Gc7xHq4AOsM04wf1m+g1shIfPD0=;+6Z+6QF1d9n0NsfkGQrjEw=="
+secured: "5zyQKTKU9qwjpDpz8VnQbA1siHT3rtU7cy4v+FgwPVFD1uG2x9N61DZiRCwDkIZwj7cj5DU+fM1mzMvogogu2b2rAGxacuc2K9wJSnGo5ikvbHFdISrbQMOAnuiNb6y8HmVsTFNJ9Y1QOQjst7qotHkYWHRf3hIaNSnjXqyUEKQhiWUezt2am854UWl8Fv576n2Wmip1k906OWfr+nzVH9+URS5EAWkjW7++py0tuDAOlwj5m2Drajw4M1gB9XPEF8bkhVA9/2qNzYyCXR9yylGywXIsB49ef+EGvcifXYTD7KjeH2lGwnL7s1ytOI/slrhYJEGCuFS7s/LVH3OEqDj8F50cm2JDsZRN/dy9/pY=;C5toLEAQ4huhZzpo5+clrg=="
 ---
 

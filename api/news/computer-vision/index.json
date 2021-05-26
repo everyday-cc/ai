@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-26-leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year.md",
-      "title": "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year",
-      "excerpt": "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of",
+      "path": "_news/2021-05-26-mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals.md",
+      "title": "Mumbai: Railway cops to have a facial recognition app to identify criminals",
+      "excerpt": "The Government Railway Police (GRP) is on the verge of developing an in house software to identify criminal with the previous criminal records. The software would have a facial recognition system which will enable the police to go through previous criminal history of a person with just a click.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year-301299663.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year-301299663.html",
+      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg?p=facebook",
-          "width": 2398,
-          "height": 1257,
+          "url": "https://gumlet.assettype.com/freepressjournal/2019-10/3cadeda3-d9ee-48f8-9d87-f4165d72dc90/MUMBAI_GRP.jpg",
+          "width": 760,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:00:00-07:00",
+      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "publishedDateTime": "2021-05-26T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -238,6 +237,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-facial-recognition-and-biometric-technology-to-end-airport-passport-queues.md",
+      "title": "Facial recognition and biometric technology to end airport passport queues",
+      "excerpt": "Queueing at passport controls could become a thing of the past under plans for fully automated border checks.Priti Patel, the home secretary, has published plans to install “contactless corridors”",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7",
+      "originalUrl": "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F608aa02c-bc0d-11eb-a904-b6ed9daa84aa.jpg?crop=2857%2C1607%2C58%2C190&resize=685",
+          "width": 685,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -488,10 +530,10 @@
     {
       "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
       "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
-      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
+      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -508,13 +550,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:06:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21210159",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21210159",
+      "publishedDateTime": "2021-05-19T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,50 +1433,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-iit-hyderabad-invites-applications-for-free-online-course-on-deep-learning-for-computer-vision.md",
-      "title": "IIT Hyderabad Invites Applications for Free Online Course on Deep Learning for Computer Vision",
-      "excerpt": "IIT Hyderabad has offered a free online course on deep learning for computer vision on the NPTEL platform of the Ministry of Education",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
-      "publishedDateTime": "2021-05-11T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "The world's smallest fruit picker controlled by artificial intelligence"
-excerpt: "Inspired by insects that suck nutrients directly from plant veins, physicists from DTU have studied whether valuable chemical substances can be harvested directly from the cells of plants. Using a harvester measuring only a few microns,"
-publishedDateTime: 2021-05-26T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/tuod-tws052621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/tuod-tws052621.php"
+excerpt: "The goal of Kaare Hartvig Jensen, Associate Professor at DTU Physics, was to reduce the need for harvesting, transporting, and processing crops for the production of biofuels, pharmaceuticals, and other products."
+publishedDateTime: 2021-05-26T14:41:00Z
+originalUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html"
+webUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html"
+ampWebUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
+  - Machine Learning
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/265995_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-worlds-smallest-fr.jpg"
     width: 1440
-    height: 753
+    height: 1440
     isCached: true
 
-secured: "8f9aoi67kneUPso24f1ECrGRvlDwwG6NmA5x0yoAexCFVARxD71hJSalP8fQnmptuYS7csnJqkgf2J+THuv5CyNTzKr3Z6sVPnVymAdSr6kAvOS2AHDSi1XjlD2ljYjdwvSFjlXc7OX4JRNtuvuQJbLhzlfqPds2e+EhS/hXql2GVVVCZFWhqonAk+lHsIP0VuFon9sGz4KSoVcCmGIgvE3jDSMqwmuxYb0/k09xNDYuBmy6C3Mdui83vfi3N8pn6BJrm3lNDNvCH4omCTWZ95wHW0Vi4MaUT0yM20rB67wPa4tBTZ+f7spCltiCgK0IBG9aW+MjsBGBqeuNURYeUUGZ8glXbituzsMCWWL1HV4=;upfc4Xhjbp7ZQXYrdnzuJg=="
+secured: "HdnsqxZUnUka/ghOz2ssNCRDvulDo4La4Ghw2TF9zoheijXl9J466Bg4ItPO/VL+XwzHUKPAhyaAfs7cZ6EmNO3GYe6xjW1UfeZ+btgVvQ+Ypptz4CMqPo/QdIAtSkPU7/3JQTDEMhdBrJgPiXsCv+18vpHsdjQxkqNdl7eSP8nM2ERTzEXKLedUUkEtm1+awtD6+34azX5tzOZYZE0MoPA40XAtmrImnIBBKFuq9qVMswX+P/MSpUbK5KlYdCGdtTyJQ7QZTvMZExKCjd5kqwhgRqkNNfSqA4BnQeDbKAuX+7sF5XK/v1GPNq7E6PhDU1iEIBF/P5L5FN1MQNiqaK8H8A/cYJVO8fSuoBBqWtM=;KKQmzXlfFLIFwxeDqFjswA=="
 ---
 

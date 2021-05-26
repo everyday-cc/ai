@@ -7,8 +7,8 @@ originalUrl: "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-n
 webUrl: "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: National Defense Magazine
@@ -24,6 +24,22 @@ images:
     width: 878
     height: 500
     isCached: true
+
+related:
+  - title: "Nadella Highlights Microsoft's Data and AI Advancements at Build Dev Event"
+    excerpt: "Microsoft is a company of software developers that's simply addressing the needs other developers, CEO Satya Nadella indicated in a Microsoft Build keynote talk."
+    publishedDateTime: 2021-05-26T15:33:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/26/nadella-at-build.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 52
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BuildNadellaBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "VlC/xMnkLGOofdL2D9B2C2NzEpGBQyTJjovh5dxr436wzpfUtBOHB525HVlie7KS5Kzx1odmNiNbM0sqgfmrNzmrPItd8c2r4Hy0rvUPINKksNgycKj0KOwzz1BtdU6keghRA6rzvm5k4OYaUfocLuKx9D22EeWby0vQVhP1lps/KTGkrtDs38GfmsUP7Vlnr0k/3Trmkx4cvQAumoywHMDtdpOQWi5JlC/C3HyLgUFPu1YyOI4vHaz7tMzHQa4zwWn7NindHkqgKlC0e1f/9U23F2mCs6fC1/6fxWG5WxJCxvfs1a1C95ZebLiRpHpT/wbanYjAc/J+yY0JBNolmW8wlfa6oDt+dY5Itu70yYDV2M0RSwyllGO/rkJbVTRiqj6lZdq/7J8/gXtHHjgLkz06caZZGWxM6Crn1Cu0QM5JL2rMTYFvTJ+xzdFr6s+jRTDwHVxaQAGuW3WrK5ePH6XeBanF6KKx+w30GgnYrQV38Jf94OeZBL6bJo+w/UeChwxgWl+MD2Lh6uhfe7/hCA==;lrN7tzZftwfkvKhpeqPzhw=="
 ---

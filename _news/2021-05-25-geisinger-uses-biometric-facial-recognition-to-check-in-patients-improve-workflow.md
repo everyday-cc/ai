@@ -39,6 +39,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Economic developers donate to speed voice biometrics project for African tongues"
+    excerpt: "Bill Gates philanthropic foundation is making an investment in efforts by Mozilla to expand the languages understood by speech and voice recognition apps."
+    publishedDateTime: 2021-05-26T15:10:00Z
+    webUrl: "https://www.biometricupdate.com/202105/economic-developers-donate-to-speed-voice-biometrics-project-for-african-tongues"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
+        isCached: true
 
 secured: "VHwBywX5uyGAHI/C/Mv7bi375wtP/Zo+L+eawWgtYqHovOAWk5se2wRIXOVoRe1VUypswimV75lX7evJj0x7gjeJMCe/TBKi1fm5aVGxcCFzkk1OHo1eFWAnHN47OE/hwW9FuXG1SbBEq+LcoVtZx5pjQJ5r0XdHy4ueswbP1fDlzA2WpppC72ojfIY8m8083U/e8t6MXgAKp8WmTcq1ng3SQBqNOxwNr1K4KdvzCfpKZrQMiu2iCaCl0Zr7zLNj0z0jcrXCneZvFU3gnGG4WABe82a7Jyi1xi14CSZ5Oz369+I67mSETbEHz/Tsk30RLGiqsQxfinRGoH4fnBmrB5zl7luZn6lyIjlknoT8Om3HFaiSXqx2syLN1hc7l/tZ4nnOJg9psa+AEpXUbVZteDXIp9pNg2xF1nsSqv95jqSGiIRHTJQbHlaxu2mrxWqCUArrMeFVu6i6xh8Hcgxi9lyqUC7bUzaA/YHuJSUgEDiEs33jFPbQnUWA9af5GNGIsu5cuQmUyiBpTLQLQpWJOw==;7BBAjRTDBdjnwXMqysWeRQ=="
 ---

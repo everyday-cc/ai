@@ -187,7 +187,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 92
+    quality: 94
     images:
       - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
         width: 640
@@ -209,6 +209,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
+    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
+    publishedDateTime: 2021-05-26T09:00:23Z
+    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "How Microsoft is transforming football with data and machine learning"
     excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the top (OTT) streaming services,"
     publishedDateTime: 2021-05-25T15:47:00Z

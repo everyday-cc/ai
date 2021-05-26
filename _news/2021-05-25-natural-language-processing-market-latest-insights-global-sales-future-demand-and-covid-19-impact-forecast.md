@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
+    excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
+    publishedDateTime: 2021-05-26T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Speech and Voice Recognition Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
     excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-05-25T13:22:00Z

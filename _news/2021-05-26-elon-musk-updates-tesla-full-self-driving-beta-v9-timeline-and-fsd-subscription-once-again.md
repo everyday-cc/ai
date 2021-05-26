@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-dri
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Items tagged with tesla vision"
+    excerpt: "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles."
+    publishedDateTime: 2021-05-26T14:32:00Z
+    webUrl: "https://hothardware.com/tags/tesla-vision"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 41
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg"
+        width: 708
+        height: 454
+        isCached: true
   - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
     excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including the self-driving 'Autopilot’' system. In a blog post, the company said its best-selling Model 3 and Model Y vehicles made for customers"
     publishedDateTime: 2021-05-26T13:30:00Z
@@ -60,6 +74,20 @@ related:
       - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/Tesla2.jpg"
         width: 1024
         height: 400
+        isCached: true
+  - title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
+    excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."
+    publishedDateTime: 2021-05-26T15:00:00Z
+    webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3,-Model-Y-in-the-U.S.---Rolling-Out-‘Pure-Vision-Autopilot’-Using-Cameras"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
+    images:
+      - url: "https://img.futurecar.com/202105/26/l_60ae639645d91.jpeg"
+        width: 800
+        height: 544
         isCached: true
 
 secured: "MPrURUZiQjPEUSytvrGzesKZqvd0VE73JyKKDdMAhVvzekEOecSc2WBUvX3S1kvoKGmvJEgcL+/uArdHWLsgrZt0gNQ7PjYylJkKzp+rmriU7FAe9DnHt6N9Yz1UTJBucDz5bfUQKJPPXfVOVjghmT6kPQ3Z4zYWUkHB5czOEF3tVJ0NWQGYzLHBwMiWbL0bBOTIc8ky5uLbbHts3yEO63gE5EBwAfOE+4fgcQje4/3Npjg5zJvBJcyiu1NaiQ23K0NGR7j/tttvbtlO5opUG1mW7/tdCj8b0T/3sYIQ4FNra0BMQwMdYRBX0oYbmXaZ241sb7IRF6zirZRmO1sIYOEG4jhp/jR4BrPCQXEMbvDzp+2lRf0tOKG4aj9qhsUDJ2c0TqhWF0J0a82YNotUVroO505U+g5IrqKNnbK9GamDESZOL6pre7eSZRUPyDfz839Gl8CJUhywEIGdEIHTV8qTn2iyjLASsT9ottACpk2pnaN54USBm4Knxuf8+QQdAFq50v//aJlH0i2AyIRWfg==;uJ/VsLSJVjuKS3fn1g4P2w=="

@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
+    excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
+    publishedDateTime: 2021-05-26T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "The Kiwis using AI to fight Covid"
     excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
     publishedDateTime: 2021-05-23T12:00:00Z

@@ -1,15 +1,17 @@
 ---
 category: news
 title: "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report"
-excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,"
-publishedDateTime: 2021-05-20T06:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm"
+excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The"
+publishedDateTime: 2021-05-20T06:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21210159"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21210159"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
@@ -21,6 +23,6 @@ images:
     height: 301
     isCached: true
 
-secured: "nGloc9rb5Pbbtb2vrtJePTFirePaunFqSnMbbGTjQMhtGCR+xSrjqzzhiwEnigRsC8Toh8jch5PJs6K/Ofm17FQTg0a9b+yKcXzhq6xKA+1va5UVWMoRp++eCdGdGKbACdcvlJVaD57dV5nEY6F4zsLfp7MaOLcL4VBOooxUxEcTkDTqHRF9MFKtztucvG5ZL11cNIClE2exHflyEvr5NPQHf58gmbL4+4mcveBZZdabl1Ki7s79B7wB5x31psig93qdHgHWOnlDUlMibMDxnhPyQr26DvefJf24+y8746Al5/jO/bXOPBlLM7jkA+ap0bxcieZpk+/JKeVWdDGg19CWCm/2g5rHJ3pT+dL0tCeBVTuZhYgo6YXjm2LzSHwgNg4zs5QPWmmQvkmNsE7nagPhTR/gq4wVwXkp14rLA/Ho4cmO3uWXAmdI6yPkW9jHLn/HkWpZThRBqEJo+qfPGBCnAwkhMRNn47kdLi/qLgXnlq2q4ljt++zcmhcJ4d96gsVC4jmhY5DHmAAvdjyFeg==;ylb9fIge8oMyaZG63aapwA=="
+secured: "LX0U44+Y1LIKgD0m3hPlHGUFOVsyFcl/an9fWlnmTpZY9Gi0rqbUGWFd9uik2QbwsZFobund70ursnpDAlx7h91dsDNlLY6JM1pMhbWe5xyE5YtRxUA0upaVJjhPvMFA5flqahrvua3xWGOQf7hx4RLGZIaGuevJ2HZ1nhywBKbtNYbn2Q3RVr0qTgY1jnPwppxeOWEpwtuOzOEwqUfyo5K3CSFkVoSGxDoX9lR80z6pVWmAdfirOHtkaQK/EwIRTJ9xyZeg5jl/2fKZh87VRevSIeabdZ5K2vOLLcYD2GWPJQysDwZAINgcH/BmHXX2r3uB7xH3r/+q9xx2IiTfDc0eNFs5dV5NeoY6JDB1xMY=;1/XAOTEW0+JXl5/R2LjgeQ=="
 ---
 

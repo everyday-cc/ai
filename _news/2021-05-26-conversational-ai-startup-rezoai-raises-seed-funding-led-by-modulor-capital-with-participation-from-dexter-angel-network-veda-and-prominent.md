@@ -40,6 +40,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Calendar assistant startup Reclaim.ai raises $4.8M"
+    excerpt: "Portland-based time management startup Reclaim.ai raised $4.8 million from investors after the company saw larger than anticipated traction for its product last summer. The round was led by Index Ventures and included Gradient Ventures,"
+    publishedDateTime: 2021-05-26T14:21:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2021/05/26/calendar-assistant-startup-reclaim-ai-raises-4-8m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "i7UKUiekltNvqIbqbWUozMijUgUgR3iWogwzSFZwOaMR9ee5CmCo/HjFEAHd4NlLeNCIE2mOiTM+ddVAwF+dzPpCF57Lk0UoSyTTiN4aWUS55079MvOKyCf5Bba0E8yJ6nORWZZIcucjjJCHtwFb+RuV6xGSkn3CagxIFcKS6wJyvjSyxnRl1JFKfF3ZOVSYYJEMvUxrHhfnZp+j61qQd+GCWF1hy59/VYH6ZI3jYlo8lV5EvekEFZ11Jh79zEuA50cziJXOyncR08ZCMFbZYLU7COPMmMGORt0nNsP9YkDJE3bRZY7DCwklNYHfXFQCS0UC51dHCHBVQwnFE2VCDj/LpmgJbWIg3wMr8YO/aShWsFX6JJojLE+5TawaLZ6lb72eNapN5Udugnwtb2qEHDDSn/kvvkd14YizoqVp9XxEA1LMcAe1DEr99qWCIpNs1YIsI3Mw0uZesyoKQ7VqfCRw50G3t6MolbimUipyOhaPD9mDFOF8zDRjq+Fyy55I3KX/1zO48Se4NqygcrMniA==;o5X9LTqRvia+Ba8s6I331g=="
 ---

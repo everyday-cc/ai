@@ -2,6 +2,325 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-04-20-ai-eye-podcast-baidu-unveils-intelligent-driving-and-cloud-upgrades-at-auto-shanghai-2021-unity-software-announces-unity-computer-vision-datasets.md",
+      "title": "AI Eye Podcast - Baidu Unveils Intelligent Driving And Cloud Upgrades At Auto Shanghai 2021, Unity Software Announces Unity Computer Vision Datasets",
+      "excerpt": "Baidu Unveils #IntelligentDriving and #Cloud Upgrades at Auto Shanghai 2021, and Unity Software Announces Unity",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5580847-ai-eye-podcast-baidu-unveils-intelligent-driving-and-cloud-upgrades-auto-shanghai-2021-unity",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5580847-ai-eye-podcast-baidu-unveils-intelligent-driving-and-cloud-upgrades-auto-shanghai-2021-unity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai.md",
+      "title": "The Forbes 30 Under 30 Asia Startups Unshackling Businesses Using AI",
+      "excerpt": "The four cofounders of South Korean startup Selectstar are among the entrepreneurs in the Enterprise Technology category of this year's Forbes 30 Under 30 Asia list that are using AI technologies to improve everything from drafting legal documents to the way AI itself is trained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073b74ced6af72207d03133%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
+      "publishedDateTime": "2021-04-19T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-survey-finds-talent-gap-is-slowing-enterprise-ai-adoption.md",
+      "title": "Survey finds talent gap is slowing enterprise AI adoption",
+      "excerpt": "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2021-04-19T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203.md",
+      "title": "Natural Language Processing Market projected to reach $35.1 billion by 2026, with a remarkable CAGR of 20.3%",
+      "excerpt": "Browse and in-depth TOC on \"Natural Language Processing Market\" Download PDF Brochure @  The NLP market is expected to witness a slowdown in 2020 due to the global lockdown. The COVID-19 pandemic has increased the churn rate and shuddered almost every vertical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/268837411/natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203",
+      "originalUrl": "https://www.bignewsnetwork.com/news/268837411/natural-language-processing-market-projected-to-reach-351-billion-by-2026-with-a-remarkable-cagr-of-203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1619149200271.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
+      "title": "Baidu Stock: 3 Reasons To Stay Away",
+      "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
+      "originalUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
+      "publishedDateTime": "2021-04-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-artificial-intelligence-ai-in-education-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024.md",
+      "title": "Artificial Intelligence (AI) in Education Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024",
+      "excerpt": "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2021-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2021-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-retail-analytics-market-research-methods-that-will-give-you-proven-results-study-with-oracle-microsoft-manthan-fujitsu-information-builders.md",
+      "title": "Retail Analytics Market Research Methods that Will Give You Proven Results | Study With Oracle, Microsoft, Manthan, Fujitsu, Information Builders",
+      "excerpt": "Retail analytics enables retailers to make improvements according to their customer behavior and preferences The rising number of social media users enables retailers to understand the demographic data such as shopping habits purchase history and preferences to design their promotional",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "originalUrl": "https://www.openpr.com/news/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U419660259_g.jpg",
+          "width": 800,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "publishedDateTime": "2021-04-19T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens.md",
       "title": "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens",
       "excerpt": "Stock Market News, Stock Advice & Trading Tips. Shares of Chinese search giant Baidu (NASDAQ:BIDU) look to have finally found a floor after a sharp selloff. BIDU s",
@@ -756,309 +1075,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-global-machine-learning-artificial-intelligence-market-2021-to-witness-huge-growth-by-2026-aibrain-amazon-anki-cloudminds-deepmind.md",
-      "title": "Global Machine Learning Artificial intelligence Market (2021) to Witness Huge Growth by 2026 | AIBrain, Amazon, Anki, CloudMinds, Deepmind",
-      "excerpt": "A recent research study on the global Machine Learning Artificial intelligence market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions. It also offers several ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/global-machine-learning-artificial-intelligence-market-2021-to-witness-huge-growth-by-2026-aibrain-amazon-anki-cloudminds-deepmind/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/global-machine-learning-artificial-intelligence-market-2021-to-witness-huge-growth-by-2026-aibrain-amazon-anki-cloudminds-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-12-1-780x400.jpeg",
-          "width": 780,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
-      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
-      "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/L7BH",
-      "originalUrl": "https://www.newswit.com/en/L7BH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newswit.com/img/f/20210419/5260a0b19f5d8644725b108b03935f64-0.jpg",
-          "width": 1067,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ping-ans-askbob-doctor-top-ranked-in-global-artificial-intelligence-competition-supporting-research-diagnoses-and-treatment-decisions.md",
-      "title": "Ping An’s AskBob Doctor Top-ranked in Global Artificial Intelligence Competition, Supporting Research, Diagnoses and Treatment Decisions",
-      "excerpt": "Ping An Insurance (Group) Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEX: 2318; SSE: 601318) is pleased to announce that AskBob Doctor, a consultation and treatment assistance tool,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-state-panel-studies-use-of-facial-recognition.md",
-      "title": "State panel studies use of facial recognition",
-      "excerpt": "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology has stirred debate over privacy, due process and racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
-      "originalUrl": "https://www.newburyportnews.com/news/regional_news/state-panel-studies-use-of-facial-recognition/article_d8ec8b3a-8e0b-51eb-a2f5-ed7f32fec71c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News of Newburyport",
-        "domain": "newburyportnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-shes-taking-jeff-bezos-to-task.md",
-      "title": "She’s Taking Jeff Bezos to Task",
-      "excerpt": "I asked him about Amazon’s Rekognition technology and some of its shortcomings, which there’s been lots of tests of that, too. And he was dismissive about how facial recognition could be misused.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/19/opinion/19sway-buolamwini-image/19sway-buolamwini-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
-      "publishedDateTime": "2021-04-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-talking-innovation-and-company-growth-with-amazon-web-services.md",
-      "title": "Talking innovation and company growth with Amazon Web Services",
-      "excerpt": "In the first of our series of three Q&As with Roldan, we hear about why he’s so excited about widening access to machine learning, how AWS helps startups grow through access to the cloud, and how social shopping app Depop used an Amazon data lake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/",
-      "originalUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.maddyness.com/uk/app/uploads/2021/04/Untitled-design-2.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/?amp",
-      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/04/19/talking-innovation-and-company-growth-with-amazon-web-services/?amp",
-      "publishedDateTime": "2021-04-19T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Maddyness",
-        "domain": "maddyness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ai-medicine-software-market-size-2021-top-companies-enlitic-recursion-pharmaceuticals-babylon-health-atomwise-sophia-genetics-deepmind.md",
-      "title": "AI Medicine Software Market Size 2021 | Top Companies – Enlitic, Recursion Pharmaceuticals, Babylon Health, Atomwise, Sophia Genetics, DeepMind",
-      "excerpt": "The latest report published by Verified Market Reports examines various factors such as AI Medicine Software Market size, productivity, import and export conditions, conditions of sale, supply, and demand.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/ai-medicine-software-market-size-2021-top-companies-enlitic-recursion-pharmaceuticals-babylon-health-atomwise-sophia-genetics-deepmind/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/ai-medicine-software-market-size-2021-top-companies-enlitic-recursion-pharmaceuticals-babylon-health-atomwise-sophia-genetics-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

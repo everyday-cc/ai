@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/udacity-and-aws-collabora
 webUrl: "https://www.prnewswire.com/news-releases/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning-301299648.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 377
     isCached: true
 
-secured: "W0tlyiDX4SQZZUHK2jW1X1wJu8qG0+jPsjUv3ewjovuZeAhX4MiIeID7TKkTIzgRiYB4/iuAQoay5q2oH1S3DeIqp0kjXCicoC57n9ry143SW5WBQqevAGHcy7m6B4qa87M71Qoz7dvpYv2mYVVBGtbXUpIe9VqGkG9U/QGiQTZWmzZCdJWgwZfTK7cdn6PhYZtPjaQtxBAKk6/cAlsGRs8lAaCST03YQWEhr0f2JBoCSapAolHC2B6pR5znxZE+ZHEnxmSOIGmIzQGTFvjG2U659UoI3k7YNuil3WGvpSI3UKYNSABCptXByEdMnitUrmAfRHUCdJXqh4NoLJaty5qQiH6NN2fpag6fGPYoRok=;END8PpmPBzlQBTHLOqsXuw=="
+related:
+  - title: "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity"
+    excerpt: "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting"
+    publishedDateTime: 2021-05-26T15:50:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 122
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
+
+secured: "BGcKOigAV1EEBg4T0LdGsbSo36lBqQ3b9yxQihztVJWNo9UkGr+DLXtYfhfXVXC3VD8E03btUc1CQhTHtWrt9DNdR3KH3+Rw7/j1Mw1XHfyX5afDlvbzaZy7QzccmdldnxcpQDiS9O9zoxSzP/CHZ3UnNvVbBVVDm38SzykHQfFyCy4cLzeWWuav376YdqnuOePbD0COohNwTA6wBQp4cKeAQA2qbJ8j5wfjkL31QNIfFP8HuMngVrOBif+fsFpaHiNxrva31iRN6oVEyOMsYrncYczpXWhPTH1gorzgFHDhp3NO2Fl/9lb8hYguthtZIcFRJIVlz+3LkBxvznJszKPY0emjq9WzGkrPI3EBJFwUhQ5qwyRKZVMGuqxWMYjReX+zEDIXLVUQtdjuJ2PGteHILgbJcBHjF+rHGUba0hwBQzYd7h1Y6zjwDmIe/4K8Kosmx3SqwlMacH3zBAk1oRxihPi1q1gsUz9dDUvnsMivF9WWlUiCD5XzZTWkprJFlCF9lxemZn1gGMayltacmw==;LDMy9Jl01jG2etpj8TQXFw=="
 ---
 

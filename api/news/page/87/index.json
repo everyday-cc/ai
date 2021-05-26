@@ -2,6 +2,345 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2021-03-02-core-scientific-achieves-aws-hpc-competency-status.md",
+      "title": "Core Scientific Achieves AWS HPC Competency Status",
+      "excerpt": "March 1, 2021 — Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/core-scientific-achieves-aws-hpc-competency-status/",
+      "originalUrl": "https://insidehpc.com/2021/03/core-scientific-achieves-aws-hpc-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure.md",
+      "title": "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure",
+      "excerpt": "For example, in Azure Cognitive Search, Microsoft says its search service ... data from passports and driver’s licenses, supporting services like online banking transactions, travel check ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/",
+      "publishedDateTime": "2021-03-02T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai.md",
+      "title": "Microsoft unveils Azure Percept, a family of edge devices optimized for AI",
+      "excerpt": "they’ll have access to Azure AI Cognitive Services and Azure Machine Learning models, plus AI models available from the open source community designed to run on the edge, Microsoft says.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-rbac-support-is-now-generally-available-on-azure-machine-learning.md",
+      "title": "RBAC support is now generally available on Azure Machine Learning",
+      "excerpt": "At Microsoft's Ignite 2021 conference, the company has announced a host of new capabilities now available across its Azure Cognitive Search and Azure Machine Learning solutions. Additionally, it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "originalUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/03/1614629172_azure_percept_story.jpg",
+          "width": 760,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
+      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
+      "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players-research-forecasts-to-2027.md",
+      "title": "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027",
+      "excerpt": "Mar 02, 2021 (The Expresswire) -- Global “AI in Fintech Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-selected-as-official-cloud-provider-of-pga-tour.md",
+      "title": "AWS selected as official cloud provider of PGA Tour",
+      "excerpt": "AWS's Amazon Rekognition deep learning system will then allow the Tour to tag content with \" specific metadata like player names and sponsor logos\" and provide \"instant access\" to historical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "publishedDateTime": "2021-03-02T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025.md",
       "title": "Object Recognition Imaging Systems Market Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2025",
       "excerpt": "Mar 02, 2021 (The Expresswire) -- The report presents a detailed study of “Object Recognition Imaging Systems Market” covering both global and regional markets. It aims to give an appropriate ...",

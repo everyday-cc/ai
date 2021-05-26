@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-11-iit-hyderabad-invites-applications-for-free-online-course-on-deep-learning-for-computer-vision.md",
+      "title": "IIT Hyderabad Invites Applications for Free Online Course on Deep Learning for Computer Vision",
+      "excerpt": "IIT Hyderabad has offered a free online course on deep learning for computer vision on the NPTEL platform of the Ministry of Education",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
+      "originalUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
+      "publishedDateTime": "2021-05-11T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-a-scientist-from-hse-university-has-developed-an-image-recognition-algorithm.md",
       "title": "A scientist from HSE University has developed an image recognition algorithm",
       "excerpt": "A scientist from HSE University has developed an image recognition algorithm that works 40% faster than analogues. It can speed up real-time processing of video-based image recognition systems. The results of the study have been published in the journal Information Sciences.",
@@ -1379,58 +1423,6 @@
         "name": "ABC Kcrg  9",
         "domain": "kcrg.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-a-false-facial-recognition-match-sent-this-innocent-black-man-to-jail.md",
-      "title": "A false facial recognition match sent this innocent Black man to jail",
-      "excerpt": "Story & Video by John General and Jon Sarlin, CNN Business Updated 1623 GMT (0023 HKT) April 29, 2021 Paterson, NJIn February 2019, Nijeer Parks walked into the Woodbridge Police Department to ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200302-restricted-01-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "publishedDateTime": "2021-04-29T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -41,7 +41,37 @@ related:
         width: 595
         height: 373
         isCached: true
+  - title: "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia"
+    excerpt: "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the"
+    publishedDateTime: 2021-05-26T14:53:00Z
+    webUrl: "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/"
+    ampWebUrl: "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/Kodiak-Truck-Sunset.jpg?w=1024"
+        width: 1024
+        height: 559
+        isCached: true
+  - title: "Kodiak targets 2023 for driverless trucks in U.S. as it sets up a future in Asia"
+    excerpt: "In a partnership with a South Korean conglomerate that creates autonomous vehicle components, Kodiak Robotics gets its ‘foot in the door’ of Asia’s freight market as it eyes U.S. expansion beyond Texas."
+    publishedDateTime: 2021-05-26T14:37:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21165229/kodiak-targets-2023-for-driverless-trucks-in-us-as-it-sets-up-a-future-in-asia"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 34
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/Kodiak_vision.60ae55e336ebe.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
-secured: "lEI/1IUWSDyAPeYiAo7OODRoJD3py50HHtHePkxGQzo3vXYZMYqVyKZCOSaUFcuJVUNlCnQYJ9hrNqIzO+iBXEEdkAl2gkf04p/ARelSW6+XHLfnAy394w4DT4XO7h22ZzK+z6jkD+GVyjAUlB5khfcCqLdwwl2p/SGOVe0NDS+XQUzzgYa5FBnTSIh0J7MXYSkDt737y4QcU4yaqNjZjCIaCwaaO3NbViii/nHUxbdqpNvkVDFmtWu6Z3+j24xe36E8MvlneQVdLNrta1BUPMFdfQaMGojQ8YiaaTG4Zx/1ycRJLrQ6+VMB5ck+rjI4x1t6vwc9iFkNoo4im7Jj4ciNVwFep40tGE+DRKPB+kM=;e+03/18Rr7+X4/Gzhb92RA=="
+secured: "BVGqOqxfjlMW/fnQkfIsWoRitFudXWdh/Y15ey6Wsu27SdcLmtLaocCHPrPdFK6951me5qvjr5zE6WlxytyzZzw1Cm0Fzf8x0LQmvA3ZaNRlARboBpqSifU4YkTOUgs5KS1F19KVABkINS5HOobcMjhoJXxmW4ugNYrk8EYisB3tIK/06nJ/sBgOqJF3hBszwrD2i3PyRtvvfgQybJard6EPN2i6TNKLcNJerDuGUz6ecSahrwSYkhbOhIPtvsU2vhyOHPL7LAMlMl8IIcdgsQj135g4EWJ5kKKg9Fi1qjBY4z96Ui3ynbPOIGxQPQSa3QNUgDjMF8XDBDvAKN3he+hEkfP6WEgP3eig9S0kImA88oNOVZw03Jr0sS8amoo6TmvwRUmsUoxA9klUK6UNU0snR8vLaslNvbhHmVFGAFLSmHRxEGtHSah+vPEPjPYEjA1fQMGWT6DvNEt2P4LNW5CwGC5CBv77xSQvknJgI3f8aBm+wD79AA8hQKdUWfRWBX0P6R4W7ULYL81znGttvg==;9FfFymEAO1n3Vjtq52Gk6Q=="
 ---
 

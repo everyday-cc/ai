@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: CNBC
@@ -29,6 +29,17 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Waymo warns against calling cars 'self-driving' before they really are"
+    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
+    publishedDateTime: 2021-05-26T13:55:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "hoHsKptPZc2l2dHdbW24FSsyYMCT5RS5jCJDG7vh+2JyysTxr82rNX6sL0S1Ly5nfF9thOXWLhxYrkAve7tPCuucPF+xLmDo0GPyeMjJ/mfWEt0Z3Qq0EdYD7HRUVa1Tqp/3jycF8uvhODmQrMEVYuO2ofDRAUXk9OC/1L+Vj52ZZK7aLcmhYIP9kf5e9Q3x8CqAAgqkDqfrZl7hKUDdTr67mc0QO7ihQE5NMGocFrgX3MIDMIxkqfeq1MCvSo+MVtwmgpzaG3idOP4JWxbK2t6U+ZO4Q+NQtayDUgTpUeAH7Bi2UCWhgIwKLO1TAWFkztxuKpkUIsPNaiJ+MYGJBUBG/Zp/CrmXN+B4K3HDLNJ8F+M3FrURKljXmmz8ppmhiPSV45TAb07Kd0yMLjOdv3d7jSvUKgvuWIy8l0biJwoy896BLWDIJh2tr9mq1ILKe9luwtMADnBetYQ1HWtVQ2AVc9gk6m7Gaof3WjGAjlGmjjzQ3VoIVK7dAI8LE9hRKalNtR3BysyJi5R/iX/MUw==;qqZtBL9x1pzhUKFkwWo4zA=="
 ---

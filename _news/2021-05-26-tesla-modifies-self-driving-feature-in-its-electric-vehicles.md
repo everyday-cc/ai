@@ -57,7 +57,35 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Items tagged with tesla vision"
+    excerpt: "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles."
+    publishedDateTime: 2021-05-26T14:32:00Z
+    webUrl: "https://hothardware.com/tags/tesla-vision"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 41
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg"
+        width: 708
+        height: 454
+        isCached: true
+  - title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
+    excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."
+    publishedDateTime: 2021-05-26T15:00:00Z
+    webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3,-Model-Y-in-the-U.S.---Rolling-Out-‘Pure-Vision-Autopilot’-Using-Cameras"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
+    images:
+      - url: "https://img.futurecar.com/202105/26/l_60ae639645d91.jpeg"
+        width: 800
+        height: 544
+        isCached: true
 
-secured: "OF9TnxOkGUHTrZhMAkvdl9GREUVr4sqVQrh0dJu/lJQ2Iu+8/g7+6oZS3eHlK72QUpN6vXfpK2hO6y4YHi3wPJLfNJIq1IBISicy6f5NxNZ0B3GxcV9e4sO9td249gYTz9nNFfpfmK3Z6IT2nbriF6Sgup6X2AGMzszrz1ckP9CVqLiQ0Gyn8FbAKHE0IGDNF8BvgdyBWHUjHOmrY8aKMgjNO4JWIKQHRkuMt0M5Vkm+gW80bRU65EohmUQtbKs/eo+gt+Zr8/14ZQRjEN93JbjqPcBnDNeT8NVzTonMGaCWdzhwKzpettl8/WkolN10HWSGRHdkIhb2ciYVBMGf0zXR9TQKbFgkreDWxY845XI=;/cLg+/d+LkhHHW2lgpjEBA=="
+secured: "6luZnNLTzU+dMyk39MgVIgy5TzIfqdAl0ynQP4VImLoIitIzEKmlbOnaMdJIT6gjnHW2UEdiykzFJb31tid+ckjBsDrogyItwDe5zvyT1JPb5+epgPbO40vag+7bL1ITfBil8jan8ZMG+YTkVIBOACH4VN4h9jqhx+Y7rXOpRBDT7sKvKJB4qLWt/SYRhoVugi4/gMAs7FPMlVn7Er9J2CMWehNDP4pqqAGGLt+JxQs0PFTpqqZwIpxNL6zeCxHp0YSAaCubIn1PcilE18oFs7cv3DJ9nB9177TscCM8MPP0ZKKTpDi0aR5ExYvRFFmaP4ZqDK6ih3w+eCyjvS2jIfFKQXBEqLoSvgFdl/35tiDqIVj0AoWKuTzXT4nF3GYnTbK4L+WSHHL21ZmTC6vlIlU2Y7FwLlsinqGGzi4zUTSXkUAX31Qhft1RBcwDMcgOQY2HESizOvQRT1VPAL4uRVuCyxStQx3EKrnMddIJCiNYeFzwDoFdMz8qBFGv+ljsZnUcpmah0qaDx9A+qpAubA==;bAXul1ov1UiKYjpgNHqrmg=="
 ---
 

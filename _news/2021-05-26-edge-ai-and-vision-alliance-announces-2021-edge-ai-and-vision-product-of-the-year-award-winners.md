@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-25T21:05:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377729.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377729.htm"
 type: article
-quality: 7
+quality: 9
 heat: -1
 published: false
 
@@ -17,21 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 related:
   - title: "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year"
-    excerpt: "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of"
-    publishedDateTime: 2021-05-26T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year-301299663.html"
+    excerpt: "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor."
+    publishedDateTime: 2021-05-26T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 55
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
     images:
-      - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg?p=facebook"
-        width: 2398
-        height: 1257
+      - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
     excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."

@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes.co.uk/article/facial-recognition-and-biometri
 webUrl: "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Times
@@ -38,6 +38,20 @@ related:
       - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/biometrics_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Economic developers donate to speed voice biometrics project for African tongues"
+    excerpt: "Bill Gates philanthropic foundation is making an investment in efforts by Mozilla to expand the languages understood by speech and voice recognition apps."
+    publishedDateTime: 2021-05-26T15:10:00Z
+    webUrl: "https://www.biometricupdate.com/202105/economic-developers-donate-to-speed-voice-biometrics-project-for-african-tongues"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
         isCached: true
 
 secured: "YCw4i8y20MUGDXSS1D9KGEwolXia2LQoaokrtNzlE8o3cUiuL9OzpZ1xZR8ntbBs7ibDZQ3U5nbZwb7QQ+SBIdQJYS2sDDx86d7yeEQCJl96pSk/KNSL0s7I2Kh42PTDystJNnGdk7YBWsnQgRxu5yrgYOAAYjG156lAoWoikTqJeXtoZmpIDaqZrmWgGfGqaUAny+nyn7i0VFOxuwW7jHsX5/tDW1ErwNDc69yOBzuxn5YJEitEgEjSUdbgKkB1CQj/tIBhU7lTb+H3K/ursEDFm8wT/P34wB4mYdSJTFzpRhmA/ZcoXZmINrk5qIl90jUZ7e/Nq4ifOZ2d9tRi3ZU2+jINiQ6rYqS5Fw3afMA=;7PFgyYqGHgMreXOXa1DZhw=="

@@ -2,6 +2,352 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-05-zammo-unfurls-conversational-ai-integration-service.md",
+      "title": "Zammo unfurls conversational AI integration service",
+      "excerpt": "Zammo.ai launched a platform for integrating a diverse range of conversational AI technologies across a workflow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Zammo-UI-Builder.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
+      "publishedDateTime": "2021-05-04T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-arista-networks-beats-q1-estimates-delivers-strong-q2-outlook.md",
+      "title": "Arista Networks beats Q1 estimates, delivers strong Q2 outlook",
+      "excerpt": "\"Arista begins the 2021 year with a flying start,\" Ullal said in a statement. \"Clearly, the focus on our cognitive cloud networking suite is resonating with customers across diverse data sets and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
+      "originalUrl": "https://www.zdnet.com/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
+      "publishedDateTime": "2021-05-04T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
+      "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
+      "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "publishedDateTime": "2021-05-04T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem.md",
+      "title": "Anyone can use this powerful facial-recognition tool — and that's a problem",
+      "excerpt": "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html",
+      "originalUrl": "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210504123035-20210504-facial-recognition-photo-scraping-gfx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html",
+      "publishedDateTime": "2021-05-04T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool.md",
+      "title": "Microsoft open-sources Counterfit, an AI security risk assessment tool",
+      "excerpt": "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/",
+      "publishedDateTime": "2021-05-04T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-aws-announces-general-availability-of-amazon-devops-guru.md",
+      "title": "AWS Announces General Availability of Amazon DevOps Guru",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91",
+      "originalUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-campaigners-call-for-spotify-to-disavow-dangerous-speech-recognition-patent.md",
+      "title": "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent",
+      "excerpt": "Campaigners have demanded that Spotify renounces a patent for speech recognition tech that recommends music based on a user's mood, gender, age, or accent.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations",
+      "originalUrl": "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T164205.505.png&signature=c486bf4243cdaf77bc553e68b1d5ab74",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
       "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
       "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
@@ -850,334 +1196,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-spotify-urged-to-rule-out-invasive-voice-recognition-tech.md",
-      "title": "Spotify urged to rule out 'invasive' voice recognition tech",
-      "excerpt": "Musicians and rights groups including Tom Morello, Talib Kweli and Amnesty International urge music streaming company to abandon 'dangerous' project",
-      "sourceUrl": null,
-      "webUrl": "https://news.trust.org/item/20210504140300-keqp5",
-      "originalUrl": "https://news.trust.org/item/20210504140300-keqp5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/28851b1a-d179-4636-b342-5480ff6ee1a8/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
-          "width": 1100,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thomson Reuters Foundation",
-        "domain": "trust.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-defining-a-role-for-ai-ethics-in-national-security.md",
-      "title": "Defining a role for AI ethics in national security",
-      "excerpt": "We spoke with Mariarosaria Taddeo, an associate professor and senior research fellow at the Oxford Internet Institute and Dstl Ethics Fellow at the Alan Turing Institute working on digital and AI ethics about two recent reports from the UK and the US on using AI in national defence and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s42256-021-00344-9",
-      "originalUrl": "https://www.nature.com/articles/s42256-021-00344-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00344-9/MediaObjects/42256_2021_344_Figa_HTML.png",
-          "width": 546,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-apple-snaps-up-ex-google-ai-leader-who-quit-in-the-wake-of-timnit-gebrus-firing.md",
-      "title": "Apple snaps up ex-Google AI leader who quit in the wake of Timnit Gebru’s firing",
-      "excerpt": "Apple has hired former Google AI scientist Samy Bengio, who resigned from the Big G following the controversial firing of ethics researcher Timnit Gebru.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing",
-      "originalUrl": "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T130252.161.png&signature=472b7fa172b55f4ff1cc4f2839b66a2e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego.md",
-      "title": "Accel Robotics Launches Autonomous 'Valet Market' Store With Last Step™ Delivery in San Diego",
-      "excerpt": "Stock quotes by finanzen.net SAN DIEGO, May 4, 2021 /PRNewswire/ -- Accel Robotics, a leading startup for checkout-free retail solutions powered by computer vision and artificial intelligence, today announced the soon-to-be-open Valet Market,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1498388/Valet_Market1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-argo-ai-readies-its-own-lidar-sensor-for-ford-automated-vehicles.md",
-      "title": "Argo AI Readies Its Own Lidar Sensor For Ford Automated Vehicles",
-      "excerpt": "Argo AI, the automated driving system development partner of Ford and Volkswagen has revealed some details about its in-house developed lidar that will go onto Ford automated vehicles in 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
-      "publishedDateTime": "2021-05-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel.md",
-      "title": "Unisys Builds Leading Automatic Speech Recognition Technology onto its InteliServe™ Voice Channel",
-      "excerpt": "BLUE BELL, Pa., May 4, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has embedded voice recognition technology from PerVoice within InteliServe,™ the Unisys digital workplace services platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/news/state/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_85bc2a3a-817f-5ea0-87df-d2bc9abc9150.html",
-      "originalUrl": "https://www.tiogapublishing.com/news/state/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_85bc2a3a-817f-5ea0-87df-d2bc9abc9150.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/custom/image/d29c7e94-810a-11e6-9e0b-7f79a010bf0f.jpg",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing.md",
-      "title": "Baidu Has Just Introduced A Fleet Of Autonomous Taxis In Beijing",
-      "excerpt": "Baidu has launched a fully driverless robotaxi ... BMW fans turned off by the 4-series’ new nose. “Hamburgers in self-driving cars” sounds like nonsense, but is a reality VW wants to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/",
-      "originalUrl": "https://www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/05/Baidu-Autonomous-a-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/amp/",
-      "publishedDateTime": "2021-05-04T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

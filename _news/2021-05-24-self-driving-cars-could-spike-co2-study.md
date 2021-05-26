@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Memorial Day Traveling In An Era Of AI Self-Driving Cars"
+    excerpt: "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars."
+    publishedDateTime: 2021-05-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Solving Big City Murder Cases And Other Crimes Via AI And Self-Driving Cars"
     excerpt: "Big City murders will be more readily solved via the advent of self-driving cars, especially due to the roving eye capability."
     publishedDateTime: 2021-05-22T15:30:00Z
@@ -119,15 +135,22 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Waymo warns against calling cars 'self-driving' before they really are"
-    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
-    publishedDateTime: 2021-05-26T13:55:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
+  - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
+    excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
+    publishedDateTime: 2021-05-26T14:38:00Z
+    webUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-hacking-loss-skills-major-consumer.amp"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/autonomouscar.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
   - title: "Self-driving cars offer chance to re-imagine sound systems"
     excerpt: "Self-driving cars won't only be used for transportation. Conveniently, passengers will be able to work as they travel along, holding video meetings and conference calls. Or they will enjoy music, TV and movies much as they would in their own home theaters."
     publishedDateTime: 2021-05-25T13:39:00Z
@@ -141,20 +164,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Lars%20Carlsson%20cutout_1.JPG"
         width: 800
         height: 600
-        isCached: true
-  - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
-    excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
-    publishedDateTime: 2021-05-26T04:00:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-05/uok-hal052621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "/w4fe48JatdrUXEoKfa/rAO65+F7Th7SMn33v0vOZOSEIfAKD4qeaHi5a2LSoTKJTQwKQNbl4HmfbG1H9ZkmJw63PgY8PtsvoOiHULIKRY3NPUmOvKdFO9xQy/YqtvCNj92G4MuqWjL54+Seh1b6SavDlMScBuCk0WBwU/Yt1oJm/yY4wvAY8p0bU7aHqy0T1BHji971q9Hzc780jKZhqWRXU8bPcX40Jj3TKUtmcu6ITrAFUSaXzsyrsJpcAPBwhFbeP2HlmCJTd3/gS2x6FkEjYxyDGCQ+SOV7Ly/fD+QwqUFg0BuZ6bJYz8GkXBiCz+9vBpt63J56A9LB56x/ctOb54Xvnk7/8kclEK3prtE=;NbUjEoZrqiH1cefz0GjpvA=="

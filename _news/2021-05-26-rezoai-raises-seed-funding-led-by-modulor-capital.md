@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/372901"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Calendar assistant startup Reclaim.ai raises $4.8M"
+    excerpt: "Portland-based time management startup Reclaim.ai raised $4.8 million from investors after the company saw larger than anticipated traction for its product last summer. The round was led by Index Ventures and included Gradient Ventures,"
+    publishedDateTime: 2021-05-26T14:21:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2021/05/26/calendar-assistant-startup-reclaim-ai-raises-4-8m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Conversational AI Startup Rezo.ai Raises Seed Funding Led by Modulor Capital with Participation from Dexter Angel Network, Veda and Prominent Angels"
     excerpt: "Rezo.ai , a conversational AI startup has raised an undisclosed amount in seed funding led by Modulor Capital, Dexter Angel Network, Veda"
     publishedDateTime: 2021-05-26T05:26:00Z

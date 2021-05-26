@@ -186,7 +186,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 92
+    quality: 94
     images:
       - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
         width: 640
@@ -208,6 +208,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
+    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
+    publishedDateTime: 2021-05-26T09:00:23Z
+    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "How Microsoft is transforming football with data and machine learning"
     excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the top (OTT) streaming services,"
     publishedDateTime: 2021-05-25T15:47:00Z
@@ -364,6 +373,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "laGcjV4wK0c0xB4Eg33DvDWb1VEV4N9+EHQk6N4wo1ibOglpnk5kUB3roGARjISfe/jGjyRkNiJ7feRzHn4oyaSCeVT8C7H3bOAVlkUHb0ytZivfnA3XHBoQPKk3SCqJeHPKRKF8KA/fBKiysiKPYY4xYquws5uR5cGr7TFLywoVL6iNyJ8nh5YbkxAqruq1TwW9fJohMY4wN9MqoRG6b47Avo8tinLJgzYF4xlT2CGxz4nOHkSPnvSI3JaFuFLU3HyXCTw3WMikuD5Go9kzinAdW0IL7FsaICIqIEB1dnDwoV9eBmA9F6tU+o52jIkteg4U5qzAh8IokcsoSjyJTWTVB5o2kfwTmUo7LZ0/Eqw=;7L1ngTtTbr1V0Grt3Gq9CQ=="
+secured: "tcD7KL/BGE+PqmJ26cZOoLD+go30zBpxoGkaQyXOeoGer4pGENqyNvMHM5Xk3ti9TvVOXbCdazR+g3BmnNSmBfi4ce3Ex9g6OdRncFvQBJ82P54qkDcoqAVEqqej+FDDcnAcG9XJFMg7xPNcEwhVZbUiuE/+14XyHBTEj9ujZVZOwdLwBLyNsNHd80/U/yu4EfyElDmlkBg2hFoGPoiYRGsfsHCx5eATaDdL81foT2wwJb5BN0qcy3eQRR2dUtaUrJdLr+RkUR3lDk9ERke96ekVE20QEzugZGoV9VJO+o3IqAsF9rTfwHVp0iJygP86Gtn2ByOzDyvGK3NCpxtYPOh9E5KXoabpApEe1MT+Szw=;m08o8kzqhJkocTvePwUaiw=="
 ---
 
