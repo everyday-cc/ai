@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contract
 webUrl: "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/"
 type: article
 quality: 117
-heat: 117
+heat: 118
 published: true
 
 provider:

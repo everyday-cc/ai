@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy"
-excerpt: "Breakthrough technology uses cloud and artificial intelligence (AI) powered wearable devices to diagnose and correct vision defects in real time Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software,"
-publishedDateTime: 2021-05-20T13:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210520005301/heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy"
-webUrl: "https://www.morningstar.com/news/business-wire/20210520005301/heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy"
+excerpt: "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform."
+publishedDateTime: 2021-05-20T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "lBOqi27dL0czEaUp37/7Qov+/+aIncDPKa28OIhZ9+XtN48Q7fAtcgf1BDb17AB+Ij2CIEtZYxKYT2hpWu8ddTfOs7fx1AVOkUgzRnI1bCL0HyjIWLWEdNfePCVszkLXYGELRDaI6r6VHAkcv1gzv5dH7LWLjutxJzr8gthIU5uHiW6/w+kLpHw02E8zp2b/Zbm8V5iiPKgAwCjB+uDAnqy9+lO1qNysAeFvRTzWbcKApnYkGVmxLYCs0SBwwBt2lBXySxvFb1UCyE1ACpwe5c2ZLmLQvOx13jDt0RF/VJlhLK+ph031rQd7PPlW8NSngpcIEGCA6TMYESSRNyxppi27dAEzpfouyelEqwfYyLc=;d4b2vnG2Jb1fNN+rjdj5qQ=="
+secured: "5MQNk1DAq2qA8PwLlu7ELQo7p0W90L5HdqXYHHt6qhbCcfRXyc0R9q3iFRnBu0nJaVOofhUqkcRFIqfEDKZdcVM7suUWpLfB2nTqidof1Adz8sOTMoTJLFATQslm1wZCuZrXpXpPaDNXALUKIsfkqdoW0HBkbzPAEzvzBWR4U43OXir0x8Y7i9kBildelw1fHB1IqPsaom8cLJIqWgXBxTx/3DekBTjeK/yVGuGg4rX0wyyHaGaPp9tFJT6y/eDRfb2qLM69luFE5wLMpiJmC20x+mnxFj02LqFqkpZ3KgeqOehEyUdbVC+Jfp9v+uIcn5Qddx4z73/Odksfgz6kqQDFmQhnWzUJeF6j0GDwZ4Q=;7culyD180TuTYFKUaTwiWQ=="
 ---
 

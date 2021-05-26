@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Fintech startup Sentieo raises $20M to drive digital transformation"
-excerpt: "Fintech startup Sentieo raises $20M to drive digital transformation - Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led"
-publishedDateTime: 2021-05-26T03:47:00Z
-originalUrl: "https://www.siliconindia.com/news/general/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-nid-216142-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-nid-216142-cid-1.html"
+excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital with participation…."
+publishedDateTime: 2021-05-26T10:01:00Z
+originalUrl: "https://www.sify.com/finance/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-news-topnews-vf0kbRfcjjfcb.html"
+webUrl: "https://www.sify.com/finance/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-news-topnews-vf0kbRfcjjfcb.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/s7W65qiy.jpg"
-    width: 570
-    height: 367
+  - url: "https://www.sify.com/uploads/sentieo_ians_vftm7aaijdchd.jpg"
+    width: 650
+    height: 300
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
       domain: glamsham.com
     quality: 19
 
-secured: "CKbM2/vdng8/Px2+FDtSjNF50QqjuS7EP01PqxMoC32vIoZN4ROQhiCsXHYiFnXZ1P1Z9W0QAtZjy2Rn6YPhWutm8aO5qGyh/ZB0oKMY2Jme9vfMVMaaLDuke9Q+iYt1gRb+W0O/ZlTtQiPrQCvJoxFBU5MGcTr14tHWrYK6sJNL/sMZuOWLF2OM/41MZ/m4VShDvhDupviSnYkHo4tF5adceqG89LkokHYAapIanT0GjZTsUW9A+QxDIe2/KgXk8mJx8F6NA32DPf5E1j4xcFLb37+WH7XYf2koaj6tQeLmFAspyUvEaOQHjc7spAhwXdzfWW9D8rOEYxbsuaLt9+vmTfn60TfWPuebGC1j3Fqo3vMEPxSKkXyOlxVlnFQDahu8nFKSREyO2Ymr896BShXcX3E7d7zqeDx/mnqIkmaocg/zkqjkLfK9gmNzLHCmVhkzRHgJrrFFwjNcFkwt57ymmh64vh8kby38kg9wAHbBi8ZwAmLcNr6mdozLgGUte/LG+RfQe+gwuYErxMy3hQ==;iKig5jSbYhx1uQoubSealg=="
+secured: "Kt1QnAQrkF8/AW+n5NiFXzu/Zt8npRNLn6O6smxut5E1lQdjCBCv4advCcKCP1Hu9Wxl0URmFMFd7WSr6oABNYJJYjE8xjh5DAp+gqspp1/+oODVOT3xL69lrkWni93qZz9CCOPyWe9l2aRiRZv5It23BQ8SP2Wen1a/2oJAvTQAfp0nfrWYQ/aEmBetDSQ8IHGH4n15qLOXuChESNVP1KbjU0DVB/q0wjpWyVHGISOZsObmrcuB6SG/VR1vPVH2XyytKYw2T7dEg2Tzk/FfC+q4HwCKj3Qmhx8pqOIJrQxVWqAUMUO0DAHXmvGA8l1176XiUp5H5vuBkyHxcD9GwBh0lQBkNXHH4LXyvZgSxbY=;jqroygnuq/6kSkODdeSEuA=="
 ---
 

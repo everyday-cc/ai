@@ -1,17 +1,15 @@
 ---
 category: news
 title: "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report"
-excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The"
-publishedDateTime: 2021-05-20T06:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21210159"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21210159"
+excerpt: "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,"
+publishedDateTime: 2021-05-20T06:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -23,6 +21,6 @@ images:
     height: 301
     isCached: true
 
-secured: "ggUmlfJCqmq5J3/g9HyvzdNN7STWr8Qxhs4ZlsHC9dBDVX9Q6TGRnqRwAW/jOVvP1Uz0RnYmwrEbqIxZ9SRRxlJt7w336ckKgF4AaxMqfCk2YlrwB0N74kBf6+XTCIt+LMBG5V62EZu6Vh5AtxCFL3Fba5XviBKwUOd1sirCDWSkrJpCJxfQJi9FmMG6ix3NAgstL7oMRazLbVpVFbwfodAPzZkG9aV1XV4s32FdM9N4oJo/L6FwgPhy1+2tC3AIMkXVnloU9Ma0HZYpmbHiFvmtkmpLczbD7G0dQ8SlZvxXCYAMR5XVMi3cjDxBecDHydmfqBnAREiLqxI2ybRjS0nUwP49L7Vygbor6XmWoWo=;kxftDYc8cDX1V6E3isOqbA=="
+secured: "P+oOUezpctdXARPCWaDxO9XXHILzu/iYBsdZuqjKvlI0qMo0i0tYYouPKzB31EbO2aQCBsjrA58tNU9NmZQVrG62exjv9ZQdy9fSoLo1B0a7mNFdjy5kmD5HdDmHFYMNL3m9YpBIqOeilDJh3p4sjaVw1BooWMFjDzlpZqlX9dYX38ywNzlw3mVjLje/k9PuN9xGMqH63upTFVgwK7m7SudQ4XyAOGiPsU+oA1n1dmu3wtTDXeYxEJqaLuQ1xNQWhQtogTp5UrTnpa1UXSN1dGCc0G7H+FCaTl0R9Damz0481szQs5hKTwVtf6nFm5w+Ar7P7jPs6HUdnDpGVr/8y5m4YtJ11xHozxGy+6CpEbM=;zd2K60Z+Ai5uCLWyeq8oLQ=="
 ---
 

@@ -178,6 +178,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
+    excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
+    publishedDateTime: 2021-05-26T10:00:00Z
+    webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 92
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Microsoft uses GPT-3 to let you code in natural language"
     excerpt: "Unlike in other years, this year’s Microsoft Build developer conference is not packed with huge surprises — but there’s one announcement that will surely make developers’ ears perk up: The company is now using OpenAI’s massive GPT-3 natural language model in its"
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -240,6 +254,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Top ML Announcements From Microsoft Build 2021"
+    excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
+    publishedDateTime: 2021-05-26T11:47:00Z
+    webUrl: "https://analyticsindiamag.com/top-ml-announcements-from-microsoft-build-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft is teaching AI to write apps for users"
     excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
     publishedDateTime: 2021-05-26T04:41:00Z
@@ -257,7 +285,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
     type: article
     provider:
       name: CRN
@@ -306,6 +334,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "TeIobug/+EBT57YzDluFhpjxocMAhUMlZOPydWgOBBgzgUmKX5oKm0tlzJX293ZyfrmPT6Wn38vSIga3+iEX0E+YQutZcF9U7ETPCCAgfTyRf5gh8L+4dTOk3qKwNxFga61kfWOLknoBxPbKaRpy3nUedutLcsUyAwILUvCoj+XZ437AqTsNzaMn0gPZYA4in86GOHgbR5c2NnL184BkS3kYoO/93n+NGgxY9vW+SPuUiLEK7vbPDO/xSPwEcXCJYWWkR9Bcq4l5j+/NnSiXceyWIbAYal3siE4DfnXU/fg6Kn2fkqE1U2+qF/whecsjOs9nH8V37v9y09qdNL7W1kTK3YeOrIl4fe5sDyzV/cY=;E0oiFwrIqD02Y03XG5aP0A=="
+secured: "0yOtx+xDei112u3eALa4PsU/5LdNODBeWRT4XoS4+zaLAJ7CATnFB+ZMG0no64MqQMEc3D8fbshbcvr+Sx17+Cppe92TIqJfKlWoHyQdpo2DUAU8orb9KkTG8jk+SdNlCjri7JOpQubcUqOFYLY4PQF8o+Q0zpE81dF/WTlCaSzpzav/VlM4itrVr02PP8rXwbJVPGHunogk1Ak91Maj5X/gcA5tVdj5Ai0l88pR5ttoGQNWb4iRDRJzgmXAwak0W9KQ5+z9fY89Bm5ihVIoVZXWTlx04gKW1P8E9tkRVkzET/VkFfCK0KglCs+aeXtGSCqaQxZo14hbs91e1R56iDQpG9PKYo2zfqWzwN6Z8EzDYbzy2LtuUuZzmvQB0O1UmP8cCM0gpxoBK0XSa7A3YsxzQxLeLv/vpUYKXEhwqETk3eKzfHjHGp4pSTeYkU9KRpjBeo1+9V0pOeXhumGQDzu0XkuB37lAUoUiOERb0NveASTu3Sork8KLEp7cmCJ5wNs2oibx8fM7C2LK1FCaDw==;UwCs8tKrIpmCe7lPuk/lNw=="
 ---
 

@@ -24,38 +24,63 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI in healthcare: The tech is here, the users are not"
-    excerpt: "The biggest challenges for AI-enabled care are delivering real-time insights into the clinical workflow and gaining acceptance from caregivers as well as patients. Innovative solutions continue to emerge."
-    publishedDateTime: 2021-05-21T18:09:00Z
-    webUrl: "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html"
-    ampWebUrl: "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html"
+  - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
+    excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
+    publishedDateTime: 2021-05-25T17:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Healthcare Workflows Can Use Intelligent Automation for Better Care"
-    excerpt: "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience."
-    publishedDateTime: 2021-05-24T13:55:00Z
-    webUrl: "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care"
-    ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care"
-    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
+    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
+    publishedDateTime: 2021-05-26T11:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
     type: article
     provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg"
-        width: 480
-        height: 278
+      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
+        width: 400
+        height: 218
         isCached: true
+  - title: "How is the Adoption of AI Helping the Gaming Industry?"
+    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
+    publishedDateTime: 2021-05-25T07:30:00Z
+    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
+        width: 487
+        height: 469
+        isCached: true
+  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
+    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
+    publishedDateTime: 2021-05-25T16:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
+    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
+    publishedDateTime: 2021-05-25T20:38:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 14
 
 secured: "2ueBDQeYQQP1U71Dv+GnbGBX8Ri5oPTfd2Df4oE4CcAawSykYnpuX49j+6XRPwTCCKfqDO2q/eVdb8Xoyu5e2ZsvF31dyHu84+NWUjVSTAPAH8rncULFIOa1QojryTAJdmXGqdym+x+dVecALUpVCzavkHrWNqOnzNWv1H8ZCh/Ovuz1JeTc8BXpLr9rroqSx9FJ8w3fl4Uim0AygowNxqntKtYhkAKFGV4emC/n/d5k7z6Ce8BedtGVXUSFL9c1WxDXLwaMrCpyv0zF5yN6hzJ2//KuaY9/DzUTFtHRLMlPTYzgpvXXY90/U+3KWQPr9kmBIcF6WCEcznOCftuHPuUNssuFNb11uaFsFnabzqeDYP5klYVHJi4Gg4XtJs85HRJOorfCoO/cQ8iTHVpwBtaDMybB+wvZ4snYEE1WGlE9SYSzT75kyNc9x+SCUryZuk0gifJLb31+Wk6/isaemgOBlXxlclt5FPZytz13anBCgi0RcNYk16+ggOgkUGCaDiyQgnvN5bvhT2jZZW3uog==;RfrQ+n+/G5OZNEs0P8ansg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-go
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.livemint.com/img/2021/05/21/600x338/AFP_9AE7JK_1621599274477_1621599291789.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "DeepMind lost a yearlong bid of asking more independence from Google"
+    excerpt: "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor"
+    publishedDateTime: 2021-05-22T20:42:00Z
+    webUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
+    ampWebUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
+    cdnAmpWebUrl: "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
+    type: article
+    provider:
+      name: Micky
+      domain: micky.com.au
+    quality: 59
+    images:
+      - url: "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg"
+        width: 741
+        height: 486
         isCached: true
   - title: "Google calls off Deepmind talks"
     excerpt: "We don't want free-thinking here Senior managers at Google artificial-intelligence unit DeepMind have been negotiating for years with the parent company for more autonomy. The arm wants an independent legal structure for the sensitive research similar to the one used by nonprofit groups."

@@ -1,0 +1,87 @@
+---
+category: news
+title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
+excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
+publishedDateTime: 2021-05-26T11:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
+webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
+type: article
+quality: 66
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
+    width: 400
+    height: 218
+    isCached: true
+
+related:
+  - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
+    excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
+    publishedDateTime: 2021-05-25T17:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
+    publishedDateTime: 2021-05-25T15:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "How is the Adoption of AI Helping the Gaming Industry?"
+    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
+    publishedDateTime: 2021-05-25T07:30:00Z
+    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
+        width: 487
+        height: 469
+        isCached: true
+  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
+    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
+    publishedDateTime: 2021-05-25T16:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
+    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
+    publishedDateTime: 2021-05-25T20:38:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 14
+
+secured: "6VPpY+BevLKokglfVl4jFT1qhK5uTsQgC89YmAPpN0IfZBtFBd+bGuLoS4XOz+5KZGcvOOMGvfQp/+3ZA8J5vVs4SmKw6/x41DmWV30avYbs8bO4LYScOBBzsWfm8doRjxeQX46SghEWUDYjQgd5/SebhylLt3nvMBUlaRVSfFxa8yJ8OmOUa9mBRLE05Xx5G4cd0BlFMR//YcIwp7G59yV9XQIVLUqXyajOd9TErdZhsMWOzU9rLnhNbAadGwUe3eCeEHUVfl9+600kZFWGiIDXU+tOHntPeRrjgUeD0IBtjTEOLGR9K9U3zZLOu0GDR4GqZvUlv5b4rEhR5u/iHwCp8JtL8X0djbjB5uORt9Y=;FdI4L/5hVohlnYSXhP54Eg=="
+---
+

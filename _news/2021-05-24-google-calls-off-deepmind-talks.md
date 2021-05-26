@@ -57,6 +57,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "DeepMind lost a yearlong bid of asking more independence from Google"
+    excerpt: "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor"
+    publishedDateTime: 2021-05-22T20:42:00Z
+    webUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
+    ampWebUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
+    cdnAmpWebUrl: "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
+    type: article
+    provider:
+      name: Micky
+      domain: micky.com.au
+    quality: 59
+    images:
+      - url: "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg"
+        width: 741
+        height: 486
+        isCached: true
 
 secured: "2Ccq75W+KUA0QK/g6/snddTi6gBfyV4eizdiPvJDnFxiiyyYVY+Rv1IZDkSizYKkkh3eSnu5H4XGvgSIbp7kAIMxCl3/zgvBYVcQXC3NEdLxb9XOXfVXzdM/uBxU0jjKriYfaotI+tWAZQNRV/mVnI2f9AHWDXo5leAYdASwrBpS5BAhxD/ziiQgslMjdbViYHAAFEREk0FJvlymwUlISmOJiyB5re8UWca90eFIz8Nws9xGt+PsmlU2SxSHygPaZS5z9HWqFoAqOrwLQpe/jK/ioxJTiuCey4ZqJZLZ77ZBpAWgNeAE28HqiaJzDxCy/5G6hKe5SJTya3TE+t7daagOExdCKz32YMoFMLp6+DM=;GxSbTpbk3SgVqDfDREZw/g=="
 ---

@@ -45,20 +45,6 @@ related:
         width: 801
         height: 553
         isCached: true
-  - title: "Reduce ML inference costs on Amazon SageMaker with hardware and software acceleration"
-    excerpt: "Amazon SageMaker is a fully-managed service that enables data scientists and developers to build, train, and deploy machine learning (ML) models at 50% lower TCO than self-managed deployments on Elastic Compute Cloud (Amazon EC2). Elastic Inference is a capability of SageMaker that delivers 20% better"
-    publishedDateTime: 2021-05-21T17:50:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/2-3649-Chart.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Enhance sports narratives with natural language generation using Amazon SageMaker"
     excerpt: "This blog post was co-authored by Arbi Tamrazian, Director of Data Science and Machine Learning at Fox Sports. FOX Sports is the sports television arm of FOX Network. The company used machine learning (ML) and Amazon SageMaker to streamline the production of relevant in-game storylines for commentators"
     publishedDateTime: 2021-05-24T23:11:36Z

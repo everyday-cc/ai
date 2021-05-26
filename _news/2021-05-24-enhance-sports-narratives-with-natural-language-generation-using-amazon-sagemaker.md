@@ -57,20 +57,6 @@ related:
         width: 700
         height: 326
         isCached: true
-  - title: "Reduce ML inference costs on Amazon SageMaker with hardware and software acceleration"
-    excerpt: "Amazon SageMaker is a fully-managed service that enables data scientists and developers to build, train, and deploy machine learning (ML) models at 50% lower TCO than self-managed deployments on Elastic Compute Cloud (Amazon EC2). Elastic Inference is a capability of SageMaker that delivers 20% better"
-    publishedDateTime: 2021-05-21T17:50:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-with-hardware-and-software-acceleration/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/2-3649-Chart.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "How lekker got more insights into their customer churn model with Amazon SageMaker Debugger"
     excerpt: "With over 400,000 customers, lekker Energie GmbH is a leading supraregional provider of electricity and gas on the German energy market. lekker is customer and service oriented and regularly scores top marks in comparison tests. As one of the most important suppliers of green electricity to private households,"
     publishedDateTime: 2021-05-24T19:46:02Z

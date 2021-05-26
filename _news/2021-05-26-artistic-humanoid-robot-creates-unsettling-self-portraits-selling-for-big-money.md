@@ -9,7 +9,7 @@ ampWebUrl: "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-p
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits?amp"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

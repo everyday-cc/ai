@@ -46,22 +46,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Tesla Updates Website To Reflect Removal Of Radar In Self-Driving Suite"
-    excerpt: "CEO Elon Musk recently said the company will be eliminating radar from its self driving hardware. Going forward, Tesla vehicles will be"
-    publishedDateTime: 2021-05-24T18:58:00Z
-    webUrl: "https://www.benzinga.com/tech/21/05/21260784/tesla-updates-website-to-reflect-removal-of-radar-in-self-driving-suite"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21260784"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21260784"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_8.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "H02ZRIyIQlYw1gB3sLoiFPKR6ugOQK5wVfdV4sPhd848m5h3DxTwgwNyleqJ/WIUJjh0gA8pl267XQDIcDkBqaShRv2+K6L0OMOiMjqV5TskIHnV1bKomCurd0OtAppk0UAgAUJaO6jQq4lN580sMJmZRyhK/ZLrBgmcLV57jyPv78f8UYyoUAZWQy0bw9hKZmXma/Qi7CzMUr1hSCzhIbwbjqlI5k5TIFvNlMe1Apd6uezgroJ7/crvOzD8FwVgULVQTrEI3ceymXZAcrPEvIOloRK8MmJ4HsasWVfLBTnUIP1g2KPM1fsychag7p6Yfp3AINkx1OU3LQb7Nj8+INkLvDfAno5BlGHaWoVMjp0H/ma9n53dBIrYHe74Rdzsx2ATRie/YisR0YImKpO4Mc/yYZMGAYqTWpcxsmN+ltf2NVKnkYB3fODbDrlknNQSQ6GCwHTXx1TPSKHHfsJhzMd8PAGI/ce65384TLMVYylFTGKnPZRJacAzuVml0uHkoBZUVN7PTZt3OYsqKTCEbQ==;4RyBHgKBhaX2+DXqQmloVQ=="
 ---

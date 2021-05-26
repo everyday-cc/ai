@@ -3,16 +3,16 @@ category: news
 title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
 excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
 publishedDateTime: 2021-05-24T18:43:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+originalUrl: "https://www.airforcetimes.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+webUrl: "https://www.airforcetimes.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI Ethics
@@ -65,6 +65,6 @@ related:
       domain: realcleardefense.com
     quality: 17
 
-secured: "E+1pIu1gra98hk22HwXx+m2hYeibR81hRP0BDa1xn8VkQbLhj3giD1cQiwBmDpcNqn6PcPEt/fRviilGrc6IZOV4mE1WX3HV1pYWx9MsL9mQ37W6//cpBp27o7gPiGcvR/u6EuK2OyCsn0bbxiPYxlI5tfCK1r1x5PPqAtFCJdc6n7N2mtxffkG4tWqcKDXbPh4WNkxVrXndKNISC8dC5ai6obD1GA+flO/1kh97iPMa/Q6KIpRTFkNmU3Zggd+JQo5uLXpzcbmh+RglDED7kkM0W5M7VndWggZvfqe9C/LXOT13WdHo/eWnV/wyLISZf7eTJIlyvyyXan599YIaCBRJbSlmVI26iQzsRpIyE7m3ivK7fX151/C1dx9GgSacxZUqoTwmOBNHE+W8TKKPyA2TBxA2ngMc8eFcHeKrZE/fmTDpeXYS9XoUR1UnyRmG1q2ielpDZUtmCi8HB8mOfh0T3otaaE/iUUv2RyrwUT9KI/LJmW8mGioUT9U66PVD2KovL6XgFbCI3ku9wlEfqw==;47Z+l0cZV5QS1vxXbM6j5g=="
+secured: "+Y3J4TWB9/YnV7/5NYToEYwUoW7n/KrNgjHpSOQal+EDf75pxH2osjjX8SL6V9B2SAy8azcQ8a0LaH8p4Az5signk51wjtUJeMgw2iqNWmzRzUqqhw00lSd37sbfdCEb6WTAKGBGGa0RrBp3GVduYfeQ0B7I70f5pWlJ0buyX72Ui7BmvmecX1P39s5GHOSLt3LsjGtkxPQqt76Dtz9fJgObmLRgvoi/Zfz4JSvw2zB6vf0xLmM8nXrG1uoetILHOJ+x/YO6OixIxVs8UMrw+WbHMM0JCLFJdAxdp1hBtjOA97ggoArTW4ejkFQTIRzdslLH3KwJFRVZVDT4aYbfB+XTTDw8KvG2KrXVhjWTtBI=;HBmLlCxJ1r6HhFYBCMOMNA=="
 ---
 

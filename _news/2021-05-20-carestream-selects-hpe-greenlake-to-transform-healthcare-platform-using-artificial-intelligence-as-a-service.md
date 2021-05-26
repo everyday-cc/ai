@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "1Gu0MhVlddXarKgEMJmTY6sFFNTp7n2gunGJ/zDRfmzz2kGJb4Ze7b0Tf9SpVzqkB3Zi9sXjJp+ip3iIHGwoF8Xx7CGSRL9+jitCWfb9Iev5KXtJsMrA/pk0sG9z3559gNL7Pt/Nk8hy/803KgKU5k1mx0XffdURVWgr4bBGfzh3WnP7Fr4ZhF1mgps27ui2yAKAP+jVsPa9yUSCAOs45K/MncOP8KOh+9g1UdG5EIvKp+ByjmapHCHO144rf0omYcxh0QJ/qBMxkBfTxkmhIkNEBr00cUP1ciXvhoVWQgncib57/ZsraQAo6t7ISdbZerBrgNoulSkgddyiHkmo6G8P/0rAqfUpFlGIM/mxd+Q=;3ywyIfNB5EcVkl3aLa8M7g=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "oBECEUsmNdxYvtff61wRUytRgZxP9z7G6/9M1Llt63J5Jf4GcJeTDZUC0Brcr36Tb0ofeVgaj4lrBPLQwu60bImeHQOzmdD4fMWFOmBMEMeIslikQ4fEmtS6fgZhUSn231S4CvgQZl414Tx2O95W+lMRuqu6P+FaLNoPHSjDuNzcZ5aiD180gJxOeR6fwX5cioZmVImX2InhyDqL5qM5F0iZ74Nc3jryCz/tgICwS3gStbCnmF9ntzEUIV6fu16flbC8nB8UGGMx5XYiupTcDOiPRvbI8Plq5LAGpRWgW2Yduz+5IBV/RcresPipbc5gBG2POHGN7blEjr9jkLUaz4tcyM44xjWI9rEkA+Cn9i0=;vQfYPZb4EjFEjix4ZN1Xlg=="
 ---
 

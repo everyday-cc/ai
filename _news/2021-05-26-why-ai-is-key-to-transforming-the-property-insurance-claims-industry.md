@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-pr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
 type: article
 quality: 67
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -20,6 +20,29 @@ topics:
   - AI
 
 related:
+  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
+    publishedDateTime: 2021-05-25T15:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
+    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
+    publishedDateTime: 2021-05-26T11:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
+        width: 400
+        height: 218
+        isCached: true
   - title: "How is the Adoption of AI Helping the Gaming Industry?"
     excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
     publishedDateTime: 2021-05-25T07:30:00Z

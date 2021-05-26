@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-r
 webUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Updates Website To Reflect Removal Of Radar In Self-Driving Suite"
-    excerpt: "CEO Elon Musk recently said the company will be eliminating radar from its self driving hardware. Going forward, Tesla vehicles will be"
-    publishedDateTime: 2021-05-24T18:58:00Z
-    webUrl: "https://www.benzinga.com/tech/21/05/21260784/tesla-updates-website-to-reflect-removal-of-radar-in-self-driving-suite"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21260784"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21260784"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_8.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "Tlxv5dKaNvnEvzK5xhzhahpNU5rHMs7nmyJez+vb0vgwGAe55/5pAvQO3wmb/YASTlvc1py7K+jZuJgRGjok23cxlf5pQLFvHh2uMVmsjM0NceMbnc2NEVkICrPpFS6Z9leMLAxx+MsQxrh8e0W6vfRDwikt55CjdB4RT77A+RZr+1ZJauDWN1A3WTg4Xqft9EryYbnqGOo09iaj8KSn5gWMX3IfXN8p9U8apxn4JJTHjELcXbo4X72TsRkU+n0YqhDPfpjudTJeI5jW5lqq+DfawVkj+ggykfZ6YVQVwXfLQy1pKfeneBBekAta9nkSgBTRGAx3Ne2aRPfQTrZki/mQg+TECLinfMr+H/4gE9izh2cUlpcRb+lWrrDzxCM9SzzbX8/bpLtiuezwf+fywkJtca0HSsNd5pjEmaSI3qLDRMWlZrIYidmZ61nN0HgJxa7ifdx6gw4e3j5Qhm9AgJm3EiKQzs3lol2NTBz95Weg33Vd0udOm3vEKLlbTFtF6+jmin2cyBkEYwA9xHOtzA==;28883rJ7jSyh7fSuUreNAg=="

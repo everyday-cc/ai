@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-17-3u-vpx-embedded-computing-for-artificial-intelligence-ai-electronic-warfare-ew-offered-by-curtiss-wright.md",
+      "title": "3U VPX embedded computing for artificial intelligence (AI), electronic warfare (EW) offered by Curtiss-Wright",
+      "excerpt": "The VPX3-4935 SOSA aligned module feature an NVIDIA Quadro Turing TU104 (RTX5000E) GPU that delivers 11.2 TFLOPS/TIPS performance. It provides 3072 CUDA cores, 384 tensor cores, and 48 ray-tracing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "originalUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/Curtiss_19_May_2021.609ade048a9db.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-how-crocs-used-robots-to-rule-the-comfort-economy.md",
+      "title": "How Crocs used robots to rule the comfort economy",
+      "excerpt": "Crocs emerged as a stay-at-home comfort essential and experienced unprecedented demand. As a result, the company quickly outgrew their distribution center and",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "originalUrl": "https://www.zdnet.com/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/17/f87144b9-b649-47ca-8d43-9a8a2d6c8c0c/crocs.jpg",
+          "width": 960,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "publishedDateTime": "2021-05-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-understanding-dimensionality-reduction-in-machine-learning-models.md",
       "title": "Understanding dimensionality reduction in machine learning models",
       "excerpt": "Data scientists use dimensionality reduction in machine learning models to remove irrelevant features from busy datasets.",
@@ -1075,100 +1170,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-when-ai-meets-bi-5-red-flags-to-watch-for.md",
-      "title": "When AI meets BI: 5 red flags to watch for",
-      "excerpt": "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "publishedDateTime": "2021-05-14T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-facebook-teaches-ai-to-disregard-irrelevant-information-to-improve-overall-performance.md",
-      "title": "Facebook Teaches AI To Disregard Irrelevant Information To Improve Overall Performance",
-      "excerpt": "Expire-Span works by predicting what information is most important and therefore worthwhile to keep based on context.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "originalUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55100/content/facebook-teaching-ai-to-forget-things-to-improve-performance.jpg",
-          "width": 708,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "publishedDateTime": "2021-05-14T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

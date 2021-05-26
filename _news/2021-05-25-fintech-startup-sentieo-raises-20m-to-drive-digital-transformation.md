@@ -36,18 +36,18 @@ related:
         height: 400
         isCached: true
   - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
-    excerpt: "Fintech startup Sentieo raises $20M to drive digital transformation - Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led"
-    publishedDateTime: 2021-05-26T03:47:00Z
-    webUrl: "https://www.siliconindia.com/news/general/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-nid-216142-cid-1.html"
+    excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital with participation…."
+    publishedDateTime: 2021-05-26T10:01:00Z
+    webUrl: "https://www.sify.com/finance/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-news-topnews-vf0kbRfcjjfcb.html"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
+      name: Sify.com
+      domain: sify.com
     quality: 39
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/s7W65qiy.jpg"
-        width: 570
-        height: 367
+      - url: "https://www.sify.com/uploads/sentieo_ians_vftm7aaijdchd.jpg"
+        width: 650
+        height: 300
         isCached: true
   - title: "AI-powered logistics software startup FarEye lands $100M investment"
     excerpt: "FarEye Inc., whose machine learning-powered logistics platform helps companies such as UPS Inc. process more than 100 million transactions a month, has raised $100 million in funding through a new funding round announced today."

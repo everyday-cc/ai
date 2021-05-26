@@ -35,6 +35,29 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
+    publishedDateTime: 2021-05-25T15:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
+    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
+    publishedDateTime: 2021-05-26T11:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
+        width: 400
+        height: 218
+        isCached: true
   - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
     excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
     publishedDateTime: 2021-05-25T16:33:00Z

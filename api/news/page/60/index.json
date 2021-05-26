@@ -2,6 +2,103 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-04-06-why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science.md",
+      "title": "Why machine learning, not artificial intelligence, is the right way forward for data science",
+      "excerpt": "Commentary: We like to imagine an AI-driven future, but it's machine learning that will actually help us to progress, argues expert Michael I. Jordan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "originalUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "publishedDateTime": "2021-04-05T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-verizon-aws-launch-private-mobile-5g-edge-computing-integrations.md",
+      "title": "Verizon, AWS launch private mobile 5G edge computing integrations",
+      "excerpt": "Verizon Business and Amazon Web Services said they will start delivering private mobile edge computing to enterprises in the US via integration with Verizon's private 5G network and AWS Outposts. The two partners will start providing private edge computing platforms to be used in factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "originalUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "publishedDateTime": "2021-04-05T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-lounge-lab-unveils-aris-capsule-based-ice-cream-robot.md",
       "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot",
       "excerpt": "Customizable with 10 flavors and 3 shapes “We want everyone to be happy.” From the comment on the launch. Visit:  The food-tech start-up",
@@ -1008,101 +1105,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-gpt-neo-the-open-source-cure-for-gpt-3-fomo.md",
-      "title": "GPT-Neo: The Open-Source Cure For GPT-3 FOMO",
-      "excerpt": "GPT-3 was the largest language model when OpenAI released it last year. Now, Google Brain’s 1.6 trillion parameters language model (as opposed to GPT-3’s 175 billion parameters) has replaced GPT-3 as the largest language model.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
-      "originalUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-7.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-deepminds-cofounder-partied-with-elon-musk-for-his-raucous-40th-birthday-party-on-the-orient-express-a-new-book-revealed.md",
-      "title": "DeepMind's cofounder partied with Elon Musk for his raucous 40th birthday party on the Orient Express, a new book revealed",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% One of the cofounders of Google's buzzy in-house AI company DeepMind once partied with Elon Musk as the Tesla cofounder celebrated his birthday on board the Orient Express, a new book reveals. The Tesla CEO's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-cofounder-elon-musk-tesla-orient-express-2021-4",
-      "originalUrl": "https://www.businessinsider.com/deepmind-cofounder-elon-musk-tesla-orient-express-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6065e812902281001950a93b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
+      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
+      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (“C-FER”) and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft”) are pleased to announce that C-FER has entered into a technology sharing agreement with OneSoft’s wholly owned subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
+      "originalUrl": "https://apnews.com/press-release/accesswire/health-technology-business-canada-coronavirus-a890f16dd5bc958abf5aa1f9bfac0b9e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
       "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
       "excerpt": "EVOLUTION OF OUR AI GENERATED FASHION Overall, Microsoft Azure Machine Learning enhances the business potential for fashion by empowering researchers to collaborate, improve, train and deploy AI ...",
@@ -1327,40 +1370,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-does-exercise-protect-cognitive-health-you-might-not-like-the-answer.md",
-      "title": "Does exercise protect cognitive health? You might not like the answer",
-      "excerpt": "The growing realization that exercise doesn’t really help with weight loss can dampen the motivation to be active in many people — one reason why I advocate for decoupling exercise from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "originalUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/wellness/does-exercise-protect-cognitive-health-you-might-not-like-the-answer/?amp=1",
-      "publishedDateTime": "2021-04-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
