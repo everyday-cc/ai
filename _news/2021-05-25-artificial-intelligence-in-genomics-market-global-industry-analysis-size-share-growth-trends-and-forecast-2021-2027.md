@@ -20,33 +20,33 @@ topics:
   - AI
 
 related:
-  - title: "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025"
-    excerpt: "According to report Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020 the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25."
-    publishedDateTime: 2021-05-25T13:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2021-05-25"
+  - title: "Artificial Intelligence In Healthcare Market Outlook, Size, Forecasts, Demand, Competitive Analysis, Growth Factors, And Key Players"
+    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
+    publishedDateTime: 2021-05-25T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Share, Size 2021-2025, Industry is Growing Rapidly at a CAGR of 46.76%"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
-    publishedDateTime: 2021-05-25T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-size-2021-2025-industry-is-growing-rapidly-at-a-cagr-of-4676-2021-05-25"
+  - title: "Deep Learning Market 2021-26: Key Players, Size, Share and Industry Trends - IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global deep learning market exhibited robust growth during 2015-2020."
+    publishedDateTime: 2021-05-22T02:59:00Z
+    webUrl: "https://menafn.com/1102113592/Deep-Learning-Market-2021-26-Key-Players-Size-Share-and-Industry-Trends-IMARC-Group"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
@@ -59,17 +59,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
-  - title: "Asia-Pacific Text to speech Market Size, Share, Impressive Industry Growth Report 2027"
-    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 Significant raise in the funding for text to speech technology providing start ups to unleash the"
-    publishedDateTime: 2021-05-21T21:50:00Z
-    webUrl: "https://www.openpr.com/news/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
-    ampWebUrl: "https://www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2288456/asia-pacific-text-to-speech-market-size-share-impressive"
+  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
+    publishedDateTime: 2021-05-25T05:39:00Z
+    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "Qml/WPzNXM+PCFviqARC3aUQGSYrxVu4LZLtruZfQ/bYuwT52QbF4DadyrXD/9FrtZnQmZ2ozLSswxufR1mvzYUk+9USFdMTH/prMEQctAq7sAFW/lml2quUwfVSmDiOia3XSw7SQbVZPNMfgC92xOlUldWhhLElc3SxJOFwwXRfSz/IZ4D0gEg3nFqc4Ws00xdo35wCzs7jjDaqRnFjyYP2rr4xZhyPjgQg+LfeUQMEcKHwR6h6aPm8SXN7GcgBdBDndWGhzY8Ve/T76Tm4aoQVx6Eo8aihlMevaOo3ZJAJQbgnBYMbgs0huPIdWgX9pXcRumaqNXUwkDA6tm88lqIZDINcXWpN4wx8UkgdGA8=;o9+CBB7kGyD50FqFIxMdwA=="
 ---

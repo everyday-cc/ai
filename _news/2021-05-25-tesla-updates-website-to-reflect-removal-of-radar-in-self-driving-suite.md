@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including the self-driving 'Autopilot’' system. In a blog post, the company said its best-selling Model 3 and Model Y vehicles made for customers"
+    publishedDateTime: 2021-05-26T13:30:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/2912/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 39
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/Tesla2.jpg"
+        width: 1024
+        height: 400
+        isCached: true
 
 secured: "clTohSZwkI0X4ZPWQXT6RzF7bSjNBz3YrCxjz2NtSoEZrwuzNVG/qn3YL9w0ARISrpilrTaaZ2O/pem/G+g1KwdtJxixjGjgb0iYpg/WjciO3jp8pjpNDnTVCjeUnM6eKk4qHUAPrCz79t4P9HqxDApQElGahTMjrQpbl0YrdiuPXv6Ee9Btrc43eQ2k3U9KQYGpXyKXhFfXrtlvhiciMLZERwDiwbICurrS7nKajb5bYZE/vv02eUsMVH+PiFr1hPCzSX7Cdiydi1zYWPJIYb/TI/kKR/t6BHa8IbI9JqrBZreMcUWGWn+qwrwr3jqyq5cWvgE2T46qB1D2bZV1FWxbR4Z+DGmGheEMvADWj/RbfBnKt1SenCA/mejgS6HJWQ3+SKzYfRAHL8Npf4uVNlScj6XIS4RpdJeaGP1Ml9QwCHRqbaZcTTseOVwetzEHT7hnl/CsgOetCwda1+mQ4fWaK1LLC2DGiOvZ9HD5vn5jAqOtozVK/tf3qlTvycE70RogOFkhhmKP0JalyDiVMg==;QlXgfKRGeiD3wKhECaXqxg=="
 ---

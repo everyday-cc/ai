@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-start
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "eYs3D Microelectronics, Co. Raises $7 Million Series A from Leading Industry Strategic Investors for Vision/AI Chips"
+    excerpt: "ARM, Etron, WI Harper and MARUBUN CORPORATION contribute to the round to back eYs3D to deploy its computer vision ICs to AIoT, robotics and VR/AR technologies"
+    publishedDateTime: 2021-05-26T12:34:00Z
+    webUrl: "https://www.design-reuse.com/news/50038/eys3d-series-a-funding-vision-ai-chips.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 13
 
 secured: "jacprx3qD5nnSWwfmMXmANugvS/aLoJIJYLt6y75nJYhMXPhGJ1/4URzpSZxNuN2FquT1ijXy+OQcGmEZfjcSNh3FFo+5bHEseHJ6ziDBXVWf4rNEtlAFDoKE3jNDT/439XqhQn3EVvO1vjnNZE51+MYUsDFCpTiCnIoUbTtTKnNc9sXMvePf7L26F/U7pu08lT0cek60ADFWOCS7Q3A1y6ov6x7KAmv7ZzAQCpCd2HvfNUToWS9PAsF8Te84zUrKkmUl6aykdj5YAbQJ9+MoZXZOWxq4pqbjM37OaRzfnW8c1gRybuh5yq6yHPgpbBoBA0WIHOhJusnZY2g5Zj/ruEH+UMP8NpszQf0xae+4SPy2GS3xuDkrVpmkx9qJ+iPV/G5eASESdOc0HXn9ONYj3y2LP+wtZxPVfNi5GAJHsSATXHYAiRkQfM6Cj1zljbEa+Hp/umbuSXV3rX+hh+kWBqvOVS9fZFKwkxGFD/Z1YWo9j5Uz4dup52q/oDtfE0pVqxDqcz7MUVVDgifN5mREQ==;iIYMacZUdC9DunfYA5jEqQ=="
 ---

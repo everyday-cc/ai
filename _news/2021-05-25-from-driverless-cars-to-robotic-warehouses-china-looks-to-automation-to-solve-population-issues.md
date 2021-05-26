@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities"
-    excerpt: "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous vehicles with a safety"
-    publishedDateTime: 2021-05-21T20:31:00Z
-    webUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/"
-    ampWebUrl: "https://techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
     excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
     publishedDateTime: 2021-05-24T05:45:00Z
@@ -83,21 +67,21 @@ related:
         width: 731
         height: 393
         isCached: true
-  - title: "DMV: Driverless vehicle testing approved in Fremont and Milpitas"
-    excerpt: "Fremont and Milpitas residents will soon see driverless vehicles sooner than later. The California Department of Motor Vehicles issued a permit to Fremont-based Pony.ai Friday, authorizing them to test autonomous vehicles in Fremont,"
-    publishedDateTime: 2021-05-21T20:44:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/dmv-driverless-vehicle-testing-approved-in-fremont-and-milpitas/amp/"
+  - title: "From driverless cars to robotic warehouses, China looks to automation to get ahead of labor shortage"
+    excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
+    publishedDateTime: 2021-05-25T03:31:00Z
+    webUrl: "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 59
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/05/gettyimages-1035331902-594x594-1.jpg?w=1280"
-        width: 594
-        height: 396
+      - url: "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127"
+        width: 4032
+        height: 3024
         isCached: true
   - title: "China's Pony.ai to test driverless vehicles in California"
     excerpt: "Chinese autonomous vehicle startup Pony.ai has received a permit from California's Department of Motor Vehicles (DMV) to test its driverless cars without human safety drivers behind the wheel on specified streets in the state's three cities."
@@ -113,6 +97,22 @@ related:
         width: 799
         height: 450
         isCached: true
+  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
+    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
+    publishedDateTime: 2021-05-26T08:00:00Z
+    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
+    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 53
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
   - title: "Chinese startup Pony.ai approved to test driverless vehicles in California"
     excerpt: "Chinese autonomous vehicle startup Ponyai has received a permit from California Department of Motor Vehicles DMV to test its"
     publishedDateTime: 2021-05-23T07:22:00Z
@@ -126,48 +126,6 @@ related:
       - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
-    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
-    publishedDateTime: 2021-05-22T07:45:00Z
-    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
-        width: 764
-        height: 400
-        isCached: true
-  - title: "Robotaxi Company Pony.ai Gets Permits To Test Vehicles In Irvine"
-    excerpt: "Pony.ai, a Chinese company developing driverless \"robo-taxi\" vehicles, has gained permission from the California Department of Motor Vehicles (DMV) to test its vehicles on public roads in Irvine, along with Fremont and Milpitas."
-    publishedDateTime: 2021-05-24T13:52:00Z
-    webUrl: "https://www.socaltech.com/robotaxi_company_pony_ai_gets_permits_to_test_vehicles_in_irvine/s-0081300.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 37
-    images:
-      - url: "https://www.socaltech.com/images/story/ponyaicar21.png"
-        width: 391
-        height: 220
-        isCached: true
-  - title: "Startup Pony.ai receives approval to test autonomous vehicles in California"
-    excerpt: "California's Department of Motor Vehicles (DMV) issued a permit to Chinese autonomous vehicle startup Pony.ai to test its driverless cars without safety drivers behind the wheel on specified streets in the state's three cities of Fremont,"
-    publishedDateTime: 2021-05-24T06:37:00Z
-    webUrl: "https://www.chinaknowledge.com/News/DetailNews/91838/"
-    type: article
-    provider:
-      name: chinaknowledge
-      domain: chinaknowledge.com
-    quality: 35
-    images:
-      - url: "https://img.chinaknowledge.com/newsletter/20210524/052403.png"
-        width: 973
-        height: 460
         isCached: true
 
 secured: "JV3PakxhhfdWkM8dL4fOBXLna7irWHfYVOUZQYdyKrh7qCsNvbpswssJ25u5mxPWLl+NB5RBLqetti1ROw6LCHiU0kzppeM7auKgVp0I1a417S5IT+Gz38Z+1Hh2Bk1f9IqbbA9DIwzfJ2/0EwhFacV4bGfBMYeqGnzqTc7ajWL5UwrtK2TtoWYJ93Oqm5KgESh7GybKANZsPZ03rom/GBDcax5QNfsZ+Uf9IiVat8ebvpHtOmNqCSpvmB0qVY414wUFippP3V7YwJ9e6yJOsh6M4RiEdsA6Y5fcfsL5jBpBFaofJLJ0d3TA8QHtT3JMf2JBwsGmJRGAs09IJ453XJchi/Mn0/Py+XeEbdL/mlE=;zf8w2rNfxYXO2+z9q1iiCw=="

@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -224,6 +224,22 @@ related:
         width: 714
         height: 400
         isCached: true
+  - title: "Microsoft is using AI to turn natural language into code"
+    excerpt: "Microsoft's AI powered solution is limited right now but shows immense potential for the future of app development"
+    publishedDateTime: 2021-05-26T12:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-is-using-ai-to-turn-natural-language-into-code-6943631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-is-using-ai-to-turn-natural-language-into-code-6943631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-is-using-ai-to-turn-natural-language-into-code-6943631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/02/Microsoft-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Nokia makes AI move with Microsoft"
     excerpt: "Nokia claimed a significant reduction in time taken to add AI to mobile networks through use cases employing Microsoft’s Azure public cloud."
     publishedDateTime: 2021-05-25T19:01:00Z
@@ -253,6 +269,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
+    publishedDateTime: 2021-05-26T12:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Top ML Announcements From Microsoft Build 2021"
     excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
@@ -334,6 +364,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "LHP/YZMsDzOjkt5fZCJXwLQImerrEt5+gKgRZHgmm30nVebTIaczxEgAps/zH17UeEwplgH3huQmh++M0ZpTw/QhMxRRmQfFxaZZpIq2Siwufk5zLHe78JiYq1PCft7b3luTDHRyYGMvurbE6TKQ2pMV00Dg4R4ZbZhkzTU6AUXKOywiV0hZ4AsQWyO+NXX8cVYsnEaRH+hvF07oxKehkNdJrpR0/oV6hecjJ2W17PVqk7MEUMg9F0bg8C92C4dJQregzegzMp0Y1wHfWxi88yYN7/pC8NAOs2RBxtOZ/LjiggUcfnCBVpLvzAqWWiRxvaCXEqQZJ+0qIPwVhA+TGN1BShzmpYbr9PDXR/xxDNA=;hforoDqaLMq0ptq3Sj0Zvg=="
+secured: "IgiuAztFOld3P+1Q1O2OoDiRSndufuGOppHxUWNzrddcKyygRCtcmarxFy5EJ5ccdhxgDZtpOplwvdk2aEwAfZFcKBROftiLfQcUeUMhBVXCC/zE823QCDELoDRfKbaVM8pReenfhQuNwmdfKB4vsVl1jvZLwVyLCjFeDrEN1pZ4uEAX6Fb9/YszceMrxGYQWA9T5CfFJrxtjSWDdUK4iO1k9NQHz4sIjytE1XWCCGurycRUdJUjwCvAcLjAkeYAYivq6fMrVryUpWoRg3VBbkVHrSfBHJBM/JrQfeoF/3ae9zCHKfSQmED2olRJwiYHIq8H63Dt0BTW2KYVq+HCgar2UEEP8HDT1rXUUzJKWag=;8oo77SDfce85Ehwn+7x++w=="
 ---
 

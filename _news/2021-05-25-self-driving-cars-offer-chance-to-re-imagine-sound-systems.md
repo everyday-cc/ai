@@ -119,6 +119,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo warns against calling cars 'self-driving' before they really are"
+    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
+    publishedDateTime: 2021-05-26T13:55:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Self-driving cars could spike CO2 — study"
     excerpt: "Self-driving vehicl"
     publishedDateTime: 2021-05-24T11:05:00Z
@@ -132,6 +141,20 @@ related:
       - url: "https://www.eenews.net/image_assets/2021/05/image_asset_119343.jpg?1621865577"
         width: 938
         height: 483
+        isCached: true
+  - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
+    excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
+    publishedDateTime: 2021-05-26T04:00:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2021-05/uok-hal052621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "HMuCqBhMVw6WOFl6V2DZFRv0gffNr4jcqQ4R5EDhn1fy5MD4Y7OAgTggSDEbnCK1kwkk7ClfaWaAwZGK1T7k3x04jVhq74CkjBiIiOYf11dTNxUakKWXvvXe/IfXKqesDQDn7lBMATkW3gnj8Nfsv7IVY2EweRU5+e3VuVNqRK32YXiPm54qMB9jamJ4qTOOoAVNe2lI3HqlzDqJ7h5POmZNhXTOU/lLxO/dL/fDdyMjxth78jzeP6CUYOc+HMzjoG3TE0umBst90eAvmkUf1g2BbucDiwxOf1/87ESYUjKUXepbEvBiF/vXhwFIDsNPlWyhVjO/1xX1W4eHyr6jAWpmJ/6qXnYiylzr2SJtO4/yePcsMZs0MArKdxY5c4hVie1uzIXFj7HG7NyJ9q6Ryp0fIEnpTAWyTPvfVjfJjqEryRc54ZfV5gfDV3VPM1AfmfdjHdmwOBHbpVWFZC/EjRmJbevd68W1NFXvUAMR+0ia80gI9Tsf5kXKGZ+mxBtf5sfMdmllv5HN7QhWfA5axg==;nxIsofcsHmBjWcV7k6stIA=="

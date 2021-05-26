@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
 type: article
 quality: 53
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
+    publishedDateTime: 2021-05-25T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
   - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
     publishedDateTime: 2021-05-25T05:39:00Z
@@ -57,6 +68,17 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
+    publishedDateTime: 2021-05-25T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "iupjbk36AkWizHPxx131NS+mp9nMh/2rYMVLsGsOy4uAiu/13duMaTJSTDGkgIst3YRau48N41qDxajdtneMnwZ7gqLG2iOfEsF5Y+dnQDyFfA2iR2dXVBfk8hLWOYH1UHmUCBx3Y8M2/FdjO8lb9fl1PXHUq9mrW3ydo/ekEawEQQU2t5XjrKDO//+vbZolzHXzGHkzgkwzQc7W5j1WaLP45PaVWDNaF6eCo3sn5rQ+qbyws6t0+ZNz0nLUTBZlaZJMJ6nTbQBwMlQjdPXyYdnpK/vPT2F2cnpdPetwSS/KklUJmSTn1wzLpBmzL1zXkdow6eUjDCuiycQIOgIsaQTgeCESR8UcxDzj7p4KIrc=;Ob2YbEz42m7aGjNYDf7ZkQ=="
 ---

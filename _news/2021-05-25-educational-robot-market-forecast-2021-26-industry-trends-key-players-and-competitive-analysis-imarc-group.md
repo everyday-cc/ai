@@ -53,6 +53,28 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
+    publishedDateTime: 2021-05-25T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
+  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
+    publishedDateTime: 2021-05-25T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "UU7oWO3Npu9anXbVRd61nRZV2uFThQlj/Swl6o/zl+b1yljlkD0fWrMhL5q6WDZWLBDSi/uPzISs4TaBcUpaR4mY4jf987tkRGHq7Yrh1KoVma0yORuKyGs/zRX2RzQJQX/QVz4lyqthYtbNQhT5ZtvyhbHylrLkwK8IpbPyz97J3dTInj45AFxZhAIuolwsUbKJ4OfxhcpCLo6ZJd8+n5kBugHZFy9w+GghYB22KHBcpbHbMFvBMEpAQqmH97qanRZmbSO5hPV0Qr/B6mej+JRLD4Qg6SqV08zKL1z9Pvn751IO9dv1L/qI3RTWddXJjb7tHYVSxLmTtcJf/1kp2LhxvFtZIRt4MqU3k9tzjFBa8cbw7F4EKJT1xFjIsi8T24LRn6E7B78MQVhoaQppLePNVA9oNaoHoV0IG+VQmj/SsOr+ljwZ+nDp+AlyuwJ8EYxZGKwzpTeIWXH8EjyQ+XKj3ghhsVsJu8QEdQIZJLLB5icOSD1jox6DMGFreGzAJtxKtWEO0jHte0aXmHZswQ==;ZD8wZ5rb74o1Nq/EH4jiJQ=="
 ---

@@ -3,16 +3,16 @@ category: news
 title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
 excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
 publishedDateTime: 2021-05-24T18:43:00Z
-originalUrl: "https://www.airforcetimes.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
-webUrl: "https://www.airforcetimes.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Air Force Times
-  domain: airforcetimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI Ethics
@@ -65,6 +65,6 @@ related:
       domain: realcleardefense.com
     quality: 17
 
-secured: "+Y3J4TWB9/YnV7/5NYToEYwUoW7n/KrNgjHpSOQal+EDf75pxH2osjjX8SL6V9B2SAy8azcQ8a0LaH8p4Az5signk51wjtUJeMgw2iqNWmzRzUqqhw00lSd37sbfdCEb6WTAKGBGGa0RrBp3GVduYfeQ0B7I70f5pWlJ0buyX72Ui7BmvmecX1P39s5GHOSLt3LsjGtkxPQqt76Dtz9fJgObmLRgvoi/Zfz4JSvw2zB6vf0xLmM8nXrG1uoetILHOJ+x/YO6OixIxVs8UMrw+WbHMM0JCLFJdAxdp1hBtjOA97ggoArTW4ejkFQTIRzdslLH3KwJFRVZVDT4aYbfB+XTTDw8KvG2KrXVhjWTtBI=;HBmLlCxJ1r6HhFYBCMOMNA=="
+secured: "6f7OKzO4kkfx5Uc4ros7M9CE1qWj6kUWNuSAyif2NTr7J3eYgccQ3EbH4+pNad9Pz0OyNm9CjC7Rir4wNvv1wD8UWI3zMpHt/N9olwf36Dn1OHAVF+Hw6kFXHEq8RzmudwYFzZ6emMEvJP984aTKTsXASwu7EAEA+3uf69/u/6gQ5eYQ6btJa8NxItecGkl2uGoRfIMkAe5Cfk2OgOT3efZeupwg8l9EX5IYgMpVow69awR9/zEMqckKVcO2JMsCK5OKchZ2gQbM+rLBqr45j2R6RLgFB4nbJUGUwwvJ1PjwuI/maWacdq2UUAnDCc17bvWTNg/VqbDhZnQj0Js91TQny6mFMs4aCvK+lO6Xmpw=;WdbEARlXmgyTLzWWOpwnaw=="
 ---
 

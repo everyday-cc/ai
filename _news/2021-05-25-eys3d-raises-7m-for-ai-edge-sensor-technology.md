@@ -78,6 +78,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "eYs3D Microelectronics, Co. Raises $7 Million Series A from Leading Industry Strategic Investors for Vision/AI Chips"
+    excerpt: "ARM, Etron, WI Harper and MARUBUN CORPORATION contribute to the round to back eYs3D to deploy its computer vision ICs to AIoT, robotics and VR/AR technologies"
+    publishedDateTime: 2021-05-26T12:34:00Z
+    webUrl: "https://www.design-reuse.com/news/50038/eys3d-series-a-funding-vision-ai-chips.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 13
 
 secured: "CbGZbbc2ajPMk9gZzC4YvmOHp2tfk1oqWs2FY/3XGkbKEibg7SOftKN0DBJ62HtKTK0TaQHzwiA6CSNjcfO2VvvQmz34ECKb+d0eBfFz8FfOZPSBPRkr+TPCfjgQoS6q9rv5h9wje9lOSoKDaCI9lxWA7JfVPqUGeTrUG4Ak7gxOWH+5v6Vpg/nfxHwluPvF098IvJm6s3Y2z/JTIsve3KODHSsYKg/DgBQ2V87kuR1EO0GIhXbR60VtBLn30A+si1KjNI+Emmf3z3pxfTOONzyFTYWLysnL+J2ATlrufmLL613pocVhVMeKB4B3GaWRBIidANb84esk4K4qDKXbJLfoadizq2ScOf2ay9sCHTT1chGS2err6BZtQOcf00Cvfif+akun1987sisS5CGsesRfxj1O11zz83eHIMLl59yefgBz3xK3QyFqYhdOV9XbhELlUxbKzKy6uXM23MTlUYiSRQWohRDAtbVb3nDQnCIZxSwpxrSgFJB2v79M8FFQ22IS/bryVuAcpyowFVhB8w==;VYdPHYcqmb3zDlOUvSheaw=="
 ---

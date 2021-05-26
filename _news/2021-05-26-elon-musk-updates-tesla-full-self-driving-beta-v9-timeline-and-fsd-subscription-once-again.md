@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-dri
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features, including the self-driving 'Autopilot’' system. In a blog post, the company said its best-selling Model 3 and Model Y vehicles made for customers"
+    publishedDateTime: 2021-05-26T13:30:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/2912/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 39
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/Tesla2.jpg"
+        width: 1024
+        height: 400
+        isCached: true
 
-secured: "yBfgjnWi2i1ubwUIDibpPOGOT0B/OJfcPaczoVVZKf35JkFrX0CUN0rEqzjquHypX8TrJz84X3oQJRsGohE63HQ/F5In0CFKyjCpYE+gSHryBjih0ZYFdoGKBWc9qObBQt4nS//3WTu4PWnuwaffQYybytGNObvb7rl6siI0rToRCUnG+FWjxF1beQAAhTyajSYNQNiuXKYJV7SS4ACDQc7zyqPFTnokXmqVy1hcMQhhgy10Dcq3TITdA+125Xo37HP/AdpqRkONFiF9Nh+6XyYVHJo0AmamcjyfMoSY9V3di3AsjGFtgByVYK9AwFjkEUDviBkvN9AOe8uSJjuPJ2Nsb/3o3OKPfwA4Qckx4yc=;n9D0q70mjMqeCguNFPB5yQ=="
+secured: "MPrURUZiQjPEUSytvrGzesKZqvd0VE73JyKKDdMAhVvzekEOecSc2WBUvX3S1kvoKGmvJEgcL+/uArdHWLsgrZt0gNQ7PjYylJkKzp+rmriU7FAe9DnHt6N9Yz1UTJBucDz5bfUQKJPPXfVOVjghmT6kPQ3Z4zYWUkHB5czOEF3tVJ0NWQGYzLHBwMiWbL0bBOTIc8ky5uLbbHts3yEO63gE5EBwAfOE+4fgcQje4/3Npjg5zJvBJcyiu1NaiQ23K0NGR7j/tttvbtlO5opUG1mW7/tdCj8b0T/3sYIQ4FNra0BMQwMdYRBX0oYbmXaZ241sb7IRF6zirZRmO1sIYOEG4jhp/jR4BrPCQXEMbvDzp+2lRf0tOKG4aj9qhsUDJ2c0TqhWF0J0a82YNotUVroO505U+g5IrqKNnbK9GamDESZOL6pre7eSZRUPyDfz839Gl8CJUhywEIGdEIHTV8qTn2iyjLASsT9ottACpk2pnaN54USBm4Knxuf8+QQdAFq50v//aJlH0i2AyIRWfg==;uJ/VsLSJVjuKS3fn1g4P2w=="
 ---
 

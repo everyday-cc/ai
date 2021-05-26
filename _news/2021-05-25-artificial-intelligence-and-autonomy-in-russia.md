@@ -51,11 +51,11 @@ related:
   - title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
     excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
     publishedDateTime: 2021-05-24T18:43:00Z
-    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
     type: article
     provider:
-      name: Air Force Times
-      domain: airforcetimes.com
+      name: Defense News
+      domain: defensenews.com
     quality: 35
     images:
       - url: "https://www.armytimes.com/resizer/50cKkI-h56CsIkoM65q7J7Fl6bk=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/XCNUTPI7ZFAO7OK4ICXENPKE2Y.jpg"

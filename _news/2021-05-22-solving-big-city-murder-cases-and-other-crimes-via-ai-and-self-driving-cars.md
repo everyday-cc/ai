@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo warns against calling cars 'self-driving' before they really are"
+    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
+    publishedDateTime: 2021-05-26T13:55:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Self-driving cars could spike CO2 — study"
     excerpt: "Self-driving vehicl"
     publishedDateTime: 2021-05-24T11:05:00Z
@@ -136,6 +145,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Lars%20Carlsson%20cutout_1.JPG"
         width: 800
         height: 600
+        isCached: true
+  - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
+    excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
+    publishedDateTime: 2021-05-26T04:00:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2021-05/uok-hal052621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fEWVItRZ3xovDt2SCEvohHzpYItGdSKYifLXX+excv4I9YPlQOFvilIw6JIxJ5wJzONHck75SMkdV/u95BIU5mn589m6J6E1uUPnWZMdUkhW8fLdfvlnIBAH23owl+zFAuPQ5vkYmmaulQaJdfL5pKgeunF3+s/xX9UcVPrdQVJbSbXS/M/jdLMe9hmJ93/y6iA46EidtVL+avHI71kjbzLZGnEVkOX8E/K/I5aQrX7Ctbt+MACp5AV7qhwM8b+DeSNu1enForRILaVqS65H5bjstWju4AF+H2LLMzqDVC63sh1Noi5hOetqX3ZpKsUDEGacAOAro+0i1w7FFa7/XTLAHg0CxLUT8Cfwn+uJ4OmlbxoLpYSOmFWLUe2XqDdw4Nqm+ra8HQnzIzI20tGHNwXO0lXloMtQ6I7G45ZNCSMC1h4XAqFWzOHZxWfX/IL5IZE7qoogY/s6S2wZIWoQNsF8f+RAu1EehOMX3wXc21nsMs9QFIuN2vD3OKXISeylFDwdJ+kw/cnl67DknxFwZQ==;6oG4dkSmFnF2llvEvmAqMA=="

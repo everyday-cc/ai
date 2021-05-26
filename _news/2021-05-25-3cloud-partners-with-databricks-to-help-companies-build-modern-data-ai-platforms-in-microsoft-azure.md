@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-data
 webUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: PR Newswire
@@ -39,6 +39,15 @@ related:
         width: 949
         height: 534
         isCached: true
+  - title: "BigID Partners with Databricks to Automate Data Discovery and Intelligence for Analytics and AI"
+    excerpt: "BigID, the leading data intelligence and management platform for privacy, protection, and perspective, today announced their partnership with Databricks, the data and AI company, to drive business value by bringing transformative data discovery and context for analytics and artificial intelligence (AI)."
+    publishedDateTime: 2021-05-26T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bigid-partners-with-databricks-automate-data-discovery-intelligence-/2021/05/26/9378352.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "RYic0tTTlr9NqlAb5zBy0UANGXvxcYUyLnzj29WxcEK4TT30w65tD1/Cq/OWqzxPZHmoWaGDtihByzD8xJ3/CfkzJ/atCCic/VjNPv7EU1HE2B9QO9KHe9+jKhoAiuiOoK4GsANcQd7aU+bZtEXqMOS1h9sOQfrm8Ask3pygAkkAMWIQh7oOcKzU9h1LREnnS3tuUZ1S+DGRUGXWwa6D+a113x+WbYYy2S33ju51DWUXebKr3lomqep8rDt6ROiqGlL4UapPEtKbxN6SIApwLIGUDoANb1RcTTllicSltbZDpgTAAM15BtHJW5yMms2x25PnYV8dWa/WMaOavOWv2Hk/j22lOMUEqp65PlatOfCf5NiG97gy8qzBILDFcG2jDP6AdErDI5q3MHk7ffRByv5kT70oB8P8HNh4UHZGLvL84KKc+vq+n+O6bFgBUxfv2UH6JGb4CvAJb0qtxLRQnv7ieOUjNfz+R/3EZn1+yxYwtk0yHvLmrQAFeUPZnXOLEnaFumd63eIPZv7h+21jQw==;NJ9zoQN84FKxGcmeNF/q7w=="
 ---

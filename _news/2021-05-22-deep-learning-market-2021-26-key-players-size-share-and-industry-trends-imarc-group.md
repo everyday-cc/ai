@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
+    publishedDateTime: 2021-05-25T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
   - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
     publishedDateTime: 2021-05-25T05:39:00Z
@@ -53,6 +64,17 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
+    publishedDateTime: 2021-05-25T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "ObJeEN6yz+s3fg3i9BBhfuXklD8BwDLt2qwq9ftU+l+9jAGMOFN61O/bgqNccPW8Iir5ymjCV3ynRxzPTzhPxcq4aJXISiqjnbz0mM9ng/u+2Y95bZRedd+q4I3vYqjmJ+j9yo4xBu2hroqCH/s+HfKEa5KSBQPVuWqLg1lJiuifGe/79f/xo01RRVJHT/ADG12z5RfZ2n4802QoLBLI/SyPeUlZkGcOY12QFRl+hjz8THy+fRgWbLEVcVptt7tUbSsB5mb++X11fupQAhdrNQID24RgBZTU7LoCNGtUjYybHd0CyU6ihFhElMCREjoUVAqPqDw9Xi117nML/W8GNKK7jSOpyyrnuXFMDZOCYXw=;EuDf2XJYlSh5wyL4ksobXA=="
 ---

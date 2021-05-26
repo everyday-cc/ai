@@ -35,6 +35,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Man's robotic arm works faster with high-tech sense of touch"
+    excerpt: "A robot hand extends toward a small cube, guided by signals from electrodes implanted in the sensory cortex of partially paralyzed patient Nathan Copeland's brain. Copeland is the first human to get the implants."
+    publishedDateTime: 2021-05-26T13:37:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/05/26/brain-implants-robotic-arm/8861622035453/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/05/26/brain-implants-robotic-arm/8861622035453/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/05/26/brain-implants-robotic-arm/8861622035453/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/8861622035453/2021/1/16220360656460/v1.5/Mans-robotic-arm-works-faster-with-high-tech-sense-of-touch.jpg"
+        width: 597
+        height: 397
+        isCached: true
   - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
     excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
     publishedDateTime: 2021-05-22T13:33:00Z
