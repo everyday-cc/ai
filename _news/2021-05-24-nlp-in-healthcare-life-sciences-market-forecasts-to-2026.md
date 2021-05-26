@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

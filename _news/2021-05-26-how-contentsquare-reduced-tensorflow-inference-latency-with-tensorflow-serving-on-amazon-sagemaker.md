@@ -59,22 +59,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Prosthesis powered by Google’s TensorFlow AI allows amputee drummer to play again"
-    excerpt: "The movements and gestures from the residual part of Jason’s limb generates electrical signals, which is converted into streams of data for the TensorFlow software to learn and process. “I can flex my muscle and it will tighten the grip on the stick ..."
-    publishedDateTime: 2021-05-21T09:49:00Z
-    webUrl: "https://www.musicradar.com/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
-    ampWebUrl: "https://www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
-    cdnAmpWebUrl: "https://www-musicradar-com.cdn.ampproject.org/c/s/www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
-    type: article
-    provider:
-      name: MusicRadar
-      domain: musicradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kqRyjAhwTw8wNaRts4vsqa-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Enhance sports narratives with natural language generation using Amazon SageMaker"
     excerpt: "This blog post was co-authored by Arbi Tamrazian, Director of Data Science and Machine Learning at Fox Sports. FOX Sports is the sports television arm of FOX Network. The company used machine learning (ML) and Amazon SageMaker to streamline the production of relevant in-game storylines for commentators"
     publishedDateTime: 2021-05-24T23:11:36Z

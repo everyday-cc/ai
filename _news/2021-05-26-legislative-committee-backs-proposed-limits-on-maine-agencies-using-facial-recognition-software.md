@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "We could see federal regulation on face recognition as early as next week"
-    excerpt: "On May 10, 40 advocacy groups sent an open letter demanding a permanent ban of the use of Amazon’s facial recognition software, Rekognition, by US police. The letter was addressed to Jeff Bezos and Andy Jassy,"
-    publishedDateTime: 2021-05-21T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/"
-    ampWebUrl: "https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/amp/"
+  - title: "AI emotion-detection software tested on Uyghurs"
+    excerpt: "A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been told. A software engineer claimed to have installed such systems in police stations in the province."
+    publishedDateTime: 2021-05-25T23:40:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-57101248"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-57101248.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57101248.amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/AP_21125089623947.jpg?w=3000"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Campaigners predict U.S. federal facial recognition regulation"
-    excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
-    publishedDateTime: 2021-05-21T21:23:00Z
-    webUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "Local Lawmakers Take On Facial Recognition as Congress Stalls"
-    excerpt: "Pressure from the private sector has forced local governments to step in on the issue of facial recognition as they wait for the federal government to act on regulating the technology’s use."
-    publishedDateTime: 2021-05-21T09:30:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/local-lawmakers-take-on-facial-recognition-as-congress-stalls"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0b5ad51/2147483647/crop/5394x2072%2B0%2B187/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F13%2F1f%2F199066ba4e89a9f2e13fe3f188a1%2Fgettyimages-1232283697.jpg"
-        width: 959
-        height: 368
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4D18/production/_118663791_surveillance2.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "h3wIj3pEZeuZqoPqM0oT8g9ywuF9xYJArFurj/F6mYMkCGFZqMNQRa90c48qLQza5JqhxlWUSEaU7yDHt9gq3h7Za0XNI+hWTBnNp7FUH+/Mot8qqtaphIp1uaixey6vLZZPpZmyx8qIhQ+bZzoVM+bw4TndpDXSLwkbGJNuHhgBbUM6puvkf/8G7ALIWKVAV1eMvorVp5kGwUQkVabqSeAmsTulGR30Qb2VAJxl96JR+fP9soe3PGFTQW5VoJmvxjDriI4YOa58s7qL4P6/fN+AnQTIdgzNQdVAzH+Q12Nr0Of61qfQTgm8jIPSQFqcsUT12Fko2tCzzt05gojFQYr3bCWQEAPXig4HSykUADVQm8LNTz8PFSeAYNGp4p9m66nCDflgyoh6ptZEHDgwBhg8qHc+hLjhvRJkUip54h755XLHUAQdrpJMEoKkClTZE9uPxKYHlkMR2KTRRnMR/yHIHN/wDh/IdJ8mpz/v5oH3uUYDoYyVJP/oTIkiwjD/ZU9JnRUSdpbsdNKRMdfiCg==;3xF5tzNM7T/uxOI2ZEcAVQ=="

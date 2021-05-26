@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -226,6 +226,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "15 Azure announcements from Microsoft Build 2021"
+    excerpt: "Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure announcements ranged from artificial intelligence (AI) features,"
+    publishedDateTime: 2021-05-26T00:56:00Z
+    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+        width: 1196
+        height: 769
+        isCached: true
   - title: "Build 2021: Microsoft announces new capabilities for Azure database services."
     excerpt: "Microsoft is announcing several new capabilities for Azure database services at Build. The Azure Database's ledger capability, which is in preview for users,"
     publishedDateTime: 2021-05-25T15:27:00Z
@@ -239,20 +253,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-AI.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "LaLiga Teams Up With Microsoft For Digital Transformation"
-    excerpt: "LaLiga Teams Up With Microsoft For Digital Transformation. LaLiga and Microsoft Corp. have announced an expansion of their partnership focused on digitally transforming the sports"
-    publishedDateTime: 2021-05-21T09:34:00Z
-    webUrl: "https://fcbusiness.co.uk/news/laliga-teams-up-with-microsoft-for-digital-transformation/"
-    type: article
-    provider:
-      name: fcbusiness.co.uk
-      domain: fcbusiness.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fcbusiness.co.uk/wp-content/uploads/2018/11/FCsubs.jpg"
-        width: 300
-        height: 243
         isCached: true
   - title: "Build 2021: Microsoft extends low code Power Platform with VS extensions, GPT-3 support"
     excerpt: "The Power Platform team uses Azure Machine Learning managed endpoints, a new capability announced in preview at Build that helps users to deploy models of all"
@@ -278,6 +278,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "IwyGfl/4UKyp6MVqh/bvzDalAqp87nxpWve6g3HscSeMUqaGldYR9kJXl+fzyOmJIUZhD6nqa87mwuM+Xyjh6S+QSCpVHtraZeVQ9G3UpcMpSFkSggr3xrJtTv/zcCzhZHwySyi0f7m/wS/Y/flf2HhruZuRl/loazprk9uiFLK76XhogocfV+XTugfnTNYx5tol+pFXmCXznVcShhn5vXcey4w+v2RQFNbfxMscUOLaG/20JTsHJ8XmbNDTyz8sbsOACzq53+zr8SRoLIyyjDrk92Kkh5PJOxyxOd/rr09MhBQc3Jx51smmB0dbBXZY/WpqcezDIY1lVHLH3aoMxQ+9G6y82G18TnAysph9v4w=;V7r/+baDj1chgnrm7TnwUQ=="
+secured: "ee4IT9FHHExPWDHQumcQUUX1h9ngIYq5QWZ7cxcCXHF/OcRC597jknpszmfLqa1OFMHl5Dw/JhsHWF0vptoh82RJ0ugVaAioVZalozew/bbSAxEk77B1B16A+9DVpwlKlXuHAILJsljj5JnzHil9qcR5Lj641anVdsjjfCDF4/Y5lK3+0Q+d4alhbw6U7kYUGdm5psWiEnH21gLMhqojDduKLaPVOh8R5j6AlQZX35sdeExZIpc8+/1PpTvK4ZqgU6DvxZuH/iX2wigZim+uRqF4pubA9Ebsm7E8nOEbnhLTutjpk+g5nEDxNTJV5HfaIxtEASM+A60aaczzTkEJqEVSVjHOqi/a5+2lfopEXdY=;rKCBm5eejFvdxCfFk7bWig=="
 ---
 

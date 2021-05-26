@@ -2,17 +2,21 @@
 category: news
 title: "IVF Life the first clinic group in Europe to use Artificial Intelligence to non-invasively assess the genetic integrity of embryos"
 excerpt: "IVF Life Group, a leading group of IVF clinics across Spain, UK, and Germany, will be among the first in Europe to use Artificial Intelligence (AI) to non-invasively assess embryos to determine their genetic integrity."
-publishedDateTime: 2021-05-25T09:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ivf-life-first-clinic-group-europe-use-artificial-/2021/05/25/9376617.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ivf-life-first-clinic-group-europe-use-artificial-/2021/05/25/9376617.htm"
+publishedDateTime: 2021-05-25T09:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ivf-life-the-first-clinic-group-in-europe-to-use-artificial-intelligence-to-non-invasively-assess-the-genetic-integrity-of-embryos-1030461325"
+webUrl: "https://markets.businessinsider.com/news/stocks/ivf-life-the-first-clinic-group-in-europe-to-use-artificial-intelligence-to-non-invasively-assess-the-genetic-integrity-of-embryos-1030461325"
 type: article
-quality: 0
-heat: -1
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -34,6 +38,6 @@ related:
         height: 315
         isCached: true
 
-secured: "x262CewyGz4LD3VrxzkZ3f4MWPBfuf52ItlE20u8TuzszU5GG0LoQwjN2vmbjZJrZUHPFyFOufl5Aj52C8S7T4vh2YypRrBq/Ylj2QT3GLVfI/zWr7nXn/0ECsHOo4S2mupV36mZAV/i/aw/+fuS/rIW8Kp0RtL5U7zyoUBACHX0zBEyBasGr3/Jb+rx2oDxMcYkEKftkwkImxpDarC6eiV5Kh5lRW5Vf3OF3NsUi/4WmRVh4Gj6ntZsnmulUeCAGn1s/iu2QXiF6zFAlvGX5WuQ9JlwigxZ05/YUQEj3oJ6LB9Rqcb2MkTT6pMWhws4eqposaC3MLPr0vEv/NbAfEbIquC4xgC55CjWpRbx2/4=;Jvt8YENRyMy3w60bY00blA=="
+secured: "6dEQW7lvxBNxVu2kKQwidmza2iDtWIRFt4X1pP9IHvi+44boVLeDlNqfNcVXOX5Fq5Ip8E6WJzElf/228CGWm+GBvBYTcjpJVa9r+I7LsmaUx1oNv9LER/fJur8oJ7AIBGWv0wOi5OgoL5E1bB/XLcku8RxVnunTgrSWx9tekzQn13JCGHXl2d87R/P1XzWr7R08mHDtp+IPEXqLKCIR373/LYrkMyvA5jUkzyiC02lZk9U3iZLPJPB8+RLwUp73EO5QCOcWO3zuL9Yc36MXk4ftQwShQ2uOgq0zP1l+PSYa2bAqzEnVq/U7MgNBPcS4g7l8kHl0if+Nr02H9eGGvHYUv0PGR6yerdGkdbbUXXM=;PYj/zAs4UZW4qtibJ02NSA=="
 ---
 

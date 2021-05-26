@@ -43,20 +43,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Machine learning-based microstructure prediction during laser sintering of alumina"
-    excerpt: "Predicting material’s microstructure under new processing conditions is essential in advanced manufacturing and materials science. This is because the material’s microstructure hugely influences the material’s properties."
-    publishedDateTime: 2021-05-21T09:36:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-89816-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-89816-x/MediaObjects/41598_2021_89816_Fig1_HTML.png"
-        width: 641
-        height: 685
-        isCached: true
   - title: "Fintech company opens new HQ at Industry City"
     excerpt: "Industry City announced that Fundraise Up, an AI-powered fundraising platform for nonprofits including UNICEF USA, the American Heart Association, the World Health Organization Foundation, has opened its newly-inked headquarters at the 16-building,"
     publishedDateTime: 2021-05-25T14:49:00Z

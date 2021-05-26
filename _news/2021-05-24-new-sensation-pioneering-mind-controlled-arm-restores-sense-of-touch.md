@@ -65,17 +65,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-    publishedDateTime: 2021-05-21T10:01:00Z
-    webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
-    ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 20
 
 secured: "EAZbRqVrkRIL0xyvJiC+qv90D3i8Qpa4W0IDFk4vNpCtv/Nev1hFkKgxpgBxmu/mVpli9454oRk+Gchb629/WrJKTZPzmetP2YmOiFA2mv7PMMq3xrXdj4zR07i3TGG1ExYPn3aCjkfSGjFsXp9tphuezsSjlvfKe/W479g39HHSwbNHdbDgHwMnCCx4XSa5RDeewzZ8YjP8ceuKxwkblTRRXD6si1F1QBBM0Ea+GFVw+SE1+C4LhxfDJ/SzEVkX0r9+wy1M05Z+s+pHqDhrrFy3nO9W97spxlNSFEiJBCG504s+jw1V8JvMg/64jkE4+I58kIyRIDDVM1jxSKH5ojIhZ/F13D2hyZ2WZ/AnV5soO3Dm4zX0D8LslzuYATEbUtcTlb+2NxJHybvw06lUZJKhlN+WlgRFYMoLbtJdw9ogq2QoRFWfy96DV1dUX5Qg3j/MIKQh+wSIvUYahT4QOKk77jnZFz7ubW7bBeAzvw8Ip7jnPqoL/T31V5l+1GtwjjpasK5Ir3lL9LH5KqiJrA==;hpC1bp34vEfztw5cBODC3A=="
 ---

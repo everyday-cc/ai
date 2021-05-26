@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
+    excerpt: "Fintech startup Sentieo raises $20M to drive digital transformation - Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led"
+    publishedDateTime: 2021-05-26T03:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-nid-216142-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/s7W65qiy.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AI-powered logistics software startup FarEye lands $100M investment"
     excerpt: "FarEye Inc., whose machine learning-powered logistics platform helps companies such as UPS Inc. process more than 100 million transactions a month, has raised $100 million in funding through a new funding round announced today."
     publishedDateTime: 2021-05-25T10:00:00Z

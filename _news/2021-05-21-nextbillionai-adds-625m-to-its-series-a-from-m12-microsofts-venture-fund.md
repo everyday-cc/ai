@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "NextBillion.ai Raises $6.25 Mn In Series A Round From M12"
-    excerpt: "The investment from Microsoft’s venture fund M12, claims to elevate the startup’s access to global markets and ... Founded in February 2020, NextBillion.ai helps large enterprises build, scale and manage their own spatial data ecosystem at scale."
-    publishedDateTime: 2021-05-21T09:52:00Z
-    webUrl: "https://www.entrepreneur.com/article/372572"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/372572"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372572"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1621589931-chris-liverani-dBI-My696Rk-unsplash2.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Map services firm NextBillion.ai raises funds for “Facial AI and NLP” development"
     excerpt: "Microsoft venture fund M12 has placed $6.25 million in geospatial data startup NextBillion.ai, and its ambitions for enterprise AI, including biometrics."
     publishedDateTime: 2021-05-25T16:07:00Z

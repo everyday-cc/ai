@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Soniox Debuts Speech AI Recognition Platform"
-excerpt: "The World’s First Self-Learning Artificial Intelligence For Speech-to-Text. Soniox Inc launched the Soniox AI Speech Recognition Pl"
+excerpt: "Soniox Inc launched the Soniox AI Speech Recognition Platform, the world’s first self-learning artificial intelligence for automatic speech recognition. Soniox Speech AI leverages vast amounts of available unlabeled audio and text to teach itself how to recognize complex speech patterns."
 publishedDateTime: 2021-05-13T14:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
-webUrl: "https://www.morningstar.com/news/business-wire/20210513005099/soniox-debuts-speech-ai-recognition-platform"
+originalUrl: "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/"
+webUrl: "https://www.financialbuzz.com/soniox-debuts-speech-ai-recognition-platform/"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "jhfFg6M7eAX5KyGJbcaOSUA48psR8+TCm2Kqp3R7qM6+Ytxh/+N9qqtO9SESHno5zpP6pxbiA5/B/4oV57ROPLl8PM7QYZCpQwNFIdISvMRVGiept5yOZ9wzOj4McGXJ8h98ZwaqIYBwKA3jNx03w8XobjirTqwmFfOu8cBMC5XmMfqOhaMkh1WQj7iSoO+xqTtHlOR4KKSp2PcfQjjjDpsRtVG9flEB0s7drZK6AkdX0vfoCxqJ39xZjEYntlklGkVoAcV3CKGbMkkPJj4t/7SN7mClo0YLzLDAM5JVbcydCMp2/wTo7I/NNIDHh02GT5cb7VSC/5AGaAKwCfYQjiMZb7Iwx84fHMHzk89A9O4=;dvQjwDgaAbJXLjskJ82+Gg=="
+secured: "1MOqyh3ghsECAeHEisEdppsmaxRseXVWGfw24B++R0+XPk05AZvBvCbbffBHEf/Qcd4j2m4LCGyEBlb5wy6U6njJNdUxDy+PAPTQNfHB82qYcANtCiB4ZsBiD3ICw6bV3wkzpEliDqY2+7SDxMzDHKRuyAeVBhIxYiy4E7Otlda3xjlvzzAbNYO8VWlA+hLe3SdUIih6rejn4zL3pmTaZ9hO8B5PMPmmW2Q276uHwKICKryuFO821yyxCeGi2qg2PKgTY1bRypFamd4jYzKCYcv1eF+e13db4MwGdydwLPi/wkck7U84kP+H99vVb7go3sqITJ2c+dQx8EcHPolREc7BlxDXXyCDbaye23+yOjk=;ph2itCokXXIesCl8YMkXEQ=="
 ---
 

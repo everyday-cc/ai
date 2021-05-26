@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/reaction-gifs-offer-a-new-key-to-emotion-reco
 webUrl: "https://www.unite.ai/reaction-gifs-offer-a-new-key-to-emotion-recognition-in-nlp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Campaigners predict U.S. federal facial recognition regulation"
+    excerpt: "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation."
+    publishedDateTime: 2021-05-21T21:23:00Z
+    webUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
+  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
+    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
+    publishedDateTime: 2021-05-25T09:31:00Z
+    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 54
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
+        width: 1600
+        height: 684
+        isCached: true
+  - title: "CyberExtruder upgrades facial recognition platform for VMS integration"
+    excerpt: "Aureus Insight has been updated with alerting features for faces with masks and for those without. The company also announced a new subscription licensing plan."
+    publishedDateTime: 2021-05-24T19:48:00Z
+    webUrl: "https://www.biometricupdate.com/202105/cyberextruder-upgrades-facial-recognition-platform-for-vms-integration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
 
 secured: "JuZlE8SqfrXZUb+2aV8kq2Is4iRHt6AuACt9Yr/us6XLK7SBsEE9R3lKUB3PyHXlyKMy6z/wNIeT28QjA4nnt4OXnMzC5g7ahbxKkbYEJXku8Aj15U2RRKInEz9hq+msbnnQ/hExAOGnl3RihTBJu0MpmBB8dZop9QEaA9T2Nzacara7vGkby56f+tdZkQt/hi2TcE7dyjsgTeFAZBQEKHQCtHKUTDKlu5wMKVMWxKYeTkDC1JZDzcjqWT3Ex1rClcxjPYmFRG0qfM9UWfIeP9biCZKnuaWhRUZoyoZ329N8iAWorXCH+40JMDrMx34973JMlRE2aGyamMEhCqye3R+cfmw2FtuPSfu/Ra+k29HSFqkO/tV2i/5hXvPXSEUCKX5t4ikyGMbs2eipMC2U0hOWVPzyYIOaTThenlIAQ7DwU8mOxHj4yZrNHNRx6agDM0k2B92qqEBAmrOP5NJjbp1r6v53D/ULger+1U3KqQonBVLX8ZXyqGBZT/wk1sd0oByhzJIcMHLsfZljBwRTVQ==;P23ulpRWIH/8AnNU7cWxyg=="
 ---

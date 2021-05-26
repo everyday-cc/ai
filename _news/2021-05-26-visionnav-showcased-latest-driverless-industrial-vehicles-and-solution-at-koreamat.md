@@ -1,28 +1,26 @@
 ---
 category: news
 title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
-publishedDateTime: 2021-05-26T00:00:00Z
-originalUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive applications at KoreaMAT ( May 25-28, 2021 ). Combining driverless technology and IIoT (Industrial Internet of Things) technology,"
+publishedDateTime: 2021-05-25T23:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-visionnav-showcased-latest-driverless-industrial-vehicles-solution-koreamat-/2021/05/25/9377755.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-visionnav-showcased-latest-driverless-industrial-vehicles-solution-koreamat-/2021/05/25/9377755.htm"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
+  - url: "https://mma.prnewswire.com/media/1517703/image.jpg"
+    width: 400
     height: 300
     isCached: true
 
@@ -58,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Iu3824glyLWnMhZ9eaGTYQouo3aSlLPXo/8LA09PJrjMkFRtceRVULT375zxz18vK+MT5Zfojw8mxZj3UE3/jEx+oucnIQmgy5i9fVp5bWrtlvkePEs6Evc3rpbtuU+7dRNJSypZzBhaU62ubfsiJwLfJpZpQiOvX3iCBwf2Lt9UgXO8r9xEAzfSCDsDWMljj/sxu5yD9IH8WlcHpjJorc5WVUV5lixDSW39ySDllYrR8FzfjsPt3rI2WP5AbabslieMaHkCmPFJDHcTrFjueI4laAs6Pq9pDnbKC21dsbdMX2casblYUXiiSgopM5Y+hWbAMNKA42WVelCCbcK6o8BV643BqVLenNL08vI0+M8=;Uh83uxv4mVkBblq9HJIM8w=="
+secured: "jcCP3qyI+JT2kQwj9KLWxCGgm2m7McdRjCJmKsjqP9w8gpog8Z/CsJKL56kJMbEt91W4PtW2h0B9QojZOkPJTHbBGmCYka5+UKi4CT6X7O2wqBtY8r9DCs1Rw49HTlTAfIgfLgY7swuIr47nD0mFixNQ+SfzzWR2gMC9TUXmJsv7WGaJ0XbvUcYcK24C3okeQjJbYA0ZGIGa1VCZN8qPDB3c/Yb9BSrxjtDAkTmGhRfmAC9OAfvmJLSFy+TXGiJ1RgbTmfs6KdrNygOSJVzqZrhW/FPgWLcmCIkOz6tS1ob6lZn5uJ+wj19v9R5fhF1yOZpgJnUfVEfBUKXc2YdtnW69tqCfRJpoPCzWaQH+/QI=;Ml0l5nHSrRjiDT2/sm0XTw=="
 ---
 

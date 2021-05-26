@@ -41,6 +41,20 @@ related:
         height: 400
         isCached: true
   - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
+    excerpt: "Fintech startup Sentieo raises $20M to drive digital transformation - Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led"
+    publishedDateTime: 2021-05-26T03:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-nid-216142-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/s7W65qiy.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
     excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
     publishedDateTime: 2021-05-25T15:37:00Z
     webUrl: "https://www.glamsham.com/world/technology/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation"

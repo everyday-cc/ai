@@ -71,22 +71,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Prosthesis powered by Google’s TensorFlow AI allows amputee drummer to play again"
-    excerpt: "The movements and gestures from the residual part of Jason’s limb generates electrical signals, which is converted into streams of data for the TensorFlow software to learn and process. “I can flex my muscle and it will tighten the grip on the stick ..."
-    publishedDateTime: 2021-05-21T09:49:00Z
-    webUrl: "https://www.musicradar.com/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
-    ampWebUrl: "https://www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
-    cdnAmpWebUrl: "https://www-musicradar-com.cdn.ampproject.org/c/s/www.musicradar.com/amp/news/prosthesis-powered-by-googles-tensorflow-ai-allows-amputee-drummer-to-play-again"
-    type: article
-    provider:
-      name: MusicRadar
-      domain: musicradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kqRyjAhwTw8wNaRts4vsqa-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "How lekker got more insights into their customer churn model with Amazon SageMaker Debugger"
     excerpt: "With over 400,000 customers, lekker Energie GmbH is a leading supraregional provider of electricity and gas on the German energy market. lekker is customer and service oriented and regularly scores top marks in comparison tests. As one of the most important suppliers of green electricity to private households,"
     publishedDateTime: 2021-05-24T19:46:02Z
