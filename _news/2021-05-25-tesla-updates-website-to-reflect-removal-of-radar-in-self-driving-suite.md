@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla aspires to become a robotics firm in Artificial Intelligence"
+    excerpt: "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world."
+    publishedDateTime: 2021-05-26T06:56:00Z
+    webUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 86
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/21/05/21041482/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tesla announces transition to ‘Tesla Vision’ without radar, warns of limitations at first"
     excerpt: "Tesla today announced the official transition to “Tesla Vision” without radar on Model 3 and Model Y. In the process, the automaker warns of some limitations on Autopilot features at first. Over the last few months,"
     publishedDateTime: 2021-05-25T20:06:00Z

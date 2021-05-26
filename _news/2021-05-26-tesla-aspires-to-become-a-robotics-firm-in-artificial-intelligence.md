@@ -1,0 +1,64 @@
+---
+category: news
+title: "Tesla aspires to become a robotics firm in Artificial Intelligence"
+excerpt: "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world."
+publishedDateTime: 2021-05-26T06:56:00Z
+originalUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php"
+webUrl: "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php"
+type: article
+quality: 86
+heat: 106
+published: true
+
+provider:
+  name: Houston Chronicle
+  domain: chron.com
+
+topics:
+  - AI
+  - AI in Autos
+  - AI in Robotics
+
+images:
+  - url: "https://s.hdnux.com/photos/01/20/21/05/21041482/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+related:
+  - title: "Tesla announces transition to ‘Tesla Vision’ without radar, warns of limitations at first"
+    excerpt: "Tesla today announced the official transition to “Tesla Vision” without radar on Model 3 and Model Y. In the process, the automaker warns of some limitations on Autopilot features at first. Over the last few months,"
+    publishedDateTime: 2021-05-25T20:06:00Z
+    webUrl: "https://electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/"
+    ampWebUrl: "https://electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 82
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla Updates Website To Reflect Removal Of Radar In Self-Driving Suite"
+    excerpt: "CEO Elon Musk recently said the company will be eliminating radar from its self driving hardware. Going forward, Tesla vehicles will be"
+    publishedDateTime: 2021-05-24T18:58:00Z
+    webUrl: "https://www.benzinga.com/tech/21/05/21260784/tesla-updates-website-to-reflect-removal-of-radar-in-self-driving-suite"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21260784"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21260784"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_8.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "Z0rObYMfoNc4wH8O9xJpvYQ9uUR9PSjTr24OxjxmACnyEZGHeHZq2IBBLeXc0fqZK/XfR9llMk87eaTiXU4b9yP6DZ7zCZERuE+yxD1WShO6zdpEH4eSY45PbaFYbHEQ26UzIwABBsrs9W/CxDGb7pUFqLFiqfaSrl+RqXtzKV4VCH9N9y9YEwcOTDQ1RjRrHEXplq9qxWCzScPPpsvxHVRm2kG3Hf5vy3A9OXQeiIEY5p27ZI+JmVtbsJbJ7mP3ZzR95A4CycAKPMW+uWZkVbjPNafy7tJUDMT1KMDb+nhMazW/ZAPEa5SHUT0uDZl4zfszbLNbgzHEv/mzViqOf5FxGUJ0Ranu+bhM07zgLro=;vWh/TGOLejqg6cECcw7O2Q=="
+---
+

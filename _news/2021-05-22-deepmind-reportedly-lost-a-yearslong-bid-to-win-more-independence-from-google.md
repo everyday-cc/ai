@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-go
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: The Verge
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent"
-    excerpt: "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company."
-    publishedDateTime: 2021-05-21T14:29:00Z
-    webUrl: "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
-    ampWebUrl: "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 106
-    images:
-      - url: "https://images.wsj.net/im-337471/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google unit DeepMind tried—and failed—to win AI autonomy from parent"
     excerpt: "Alphabet cuts off yearslong push by founders of the artificial-intelligence company to secure more independence"
     publishedDateTime: 2021-05-21T23:48:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Manufacturing AI Startup ExLattice Joins NVIDIA Inception"
-excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries"
-publishedDateTime: 2021-05-25T12:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/manufacturing-ai-startup-exlattice-joins-nvidia-inception-301297998.html"
-webUrl: "https://www.prnewswire.com/news-releases/manufacturing-ai-startup-exlattice-joins-nvidia-inception-301297998.html"
+excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine."
+publishedDateTime: 2021-05-25T12:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
 type: article
-quality: 39
-heat: 39
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1517200/InceptionPR.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
+related:
+  - title: "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI"
+    excerpt: "NVIDIA DGX-Ready status enables Kao Data to support and host the latest NVIDIA accelerated computing technology - Provides a dedicated technical environment for start-ups, scale-ups and world-leading organisations utilising GPU-accelerated computing on an industrial-scale - Architectural requirements of its OCP-Ready™ facility provides seamless integration with NVIDIA DGX systems,"
+    publishedDateTime: 2021-05-25T09:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kao-data-becomes-nvidia-dgx-ready-establishing-uk-/2021/05/25/9376597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
-secured: "xxm3ig2naufUqiPVWH51mGgN4FEOxKAeKYoE/eXMNmXehzPJ9zqbcKhiQRAivHzmjNQytRrtRJ7uJ321PM18QlosQI33GuWT4gSC5890+9yLrvz3J+8VNorK9hMjfzPEyM92IVFnRrNlPbcBx3XwviExpZ80EpgIUxHINv+cHzgsz4Fw23eaNOXuEeOOvv4JxaLX16vXFKj9fiRILlBAJSRcFSjfj2unVzg+McUc3cPcx9to2g5GpnwOZeS5gsTOtPsccyOL4byx6OOno4HURQ75eUlRcL6B6hPUOO+B0ttsUJR6Y3lsfHvwYn6JpbIV7n8kIzlAYyCbn0mVz1EP1gysvmazLmtm7bbKmHKtwJL8XECk0UM2L/Hfav+VnKgUwId3B+yc5dEbfKVMHTJmNa4UBF4VXXLzBL5Ozu4zLFRdKLgHgXx8xoPbhO41GugdYK92nIgtYMkjhFc/BwIZTjDrV2EOfAhlNwruA+46cP/yqvC+TO7Q+LKsSBtHbQon8t0nvWoCFIN/ly5AmL4x1Q==;kAmBNM2NrctmJL3BS5ntsQ=="
+secured: "DbVBAG3wGWar91D1bVrbwfiS1NItEUKyXa1wn3VK905wLma9DeaU59PtdcLyh+SqIxIqGpl+j7xGn895jYUg5BIVCDWXr1/b0jNmK0tmUeVa4Dfz+3GN6p/yp/lQHuxXV6/TlSetQu0Yf/UAmBI2lGtwI9Zd2qpTE0+yL/MVofuwosFVtVuO+DqzBzvk/JfGfihCf7PNSnJwx47faCI1zBC0EtMBvkx+UedvSnaPO6Z2eN3/KNs5Wu8Zi9uqM+rNolM0/lKjByO5RKMOMT6ZaGaLFdqzAR02UZY7rMycmiuRB/EZG94rrLRsV97ldk12l+tR0NFvJ6XXietOeABtnimMuXz0r2sgC6JScaa/dX8=;UVhLj0VB9sygnrrVAZK6dw=="
 ---
 

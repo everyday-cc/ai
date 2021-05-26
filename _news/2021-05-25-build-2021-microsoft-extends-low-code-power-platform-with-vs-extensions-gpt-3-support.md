@@ -226,6 +226,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Microsoft Adds Enterprise Support For PyTorch AI"
+    excerpt: "Microsoft has now added enterprise support for PyTorch AI on Azure. With this, Microsoft aims to give users of PyTorch a more reliable production experience. For the uninitiated, PyTorch is a library for the Python programming language that integrates with important Python add-ons like NumPy and data-science tasks that require faster GPU processing."
+    publishedDateTime: 2021-05-26T05:59:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-adds-enterprise-support-for-pytorch-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 73
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft is teaching AI to write apps for users"
     excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
     publishedDateTime: 2021-05-26T04:41:00Z
@@ -243,7 +257,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
     type: article
     provider:
       name: CRN

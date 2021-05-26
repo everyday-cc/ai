@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
-    excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards."
-    publishedDateTime: 2021-05-25T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year/article_c481754c-ab14-5936-9d91-8923820d9113.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
 
 secured: "icMmgoqj+vRnjM0PHRNbp8YPCDQ5YXpUEp+JBB7MEYg65gtEsb88tTVWla5CRYJexluO/nMsLsqfhTSdMoFQohuahdXzr+UHLjdqgdmfcifba8yckDv3B5mJOFCoiK2Ny6IzLzc/yXvsyBEzdaFCgeEwIowqmCsuskIC2IAsBEP3iipMLwYpNu1SIkP1MuqdLRkFeify0umhvn2zwp8jwKJntiW6/h8g6ThRv3j3Lel72An6fgvRy3gG6gh3dE/MqbtB7MdAt2pw7seTyLsfkbwrp3p6mhLBesEX+DeryF00MlJRN+vpMqfn1kX23gEFjc9FlhAYijgzTPlRfiOoFd0RhDCB2cOzGPu6hJdLtwQ=;p1WEqoQ5ZnDYRJn69BU90w=="
 ---

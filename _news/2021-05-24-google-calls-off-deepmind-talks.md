@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent"
-    excerpt: "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company."
-    publishedDateTime: 2021-05-21T14:29:00Z
-    webUrl: "https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
-    ampWebUrl: "https://www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 106
-    images:
-      - url: "https://images.wsj.net/im-337471/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DeepMind reportedly lost a yearslong bid to win more independence from Google"
     excerpt: "Tensions between Google and its AI brain trust DeepMind have always been fascinating. To put the relationship in crude terms: DeepMind, founded in 2010, is home to some the best AI researchers in ..."
     publishedDateTime: 2021-05-21T23:34:00Z

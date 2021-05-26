@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -136,20 +136,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Lars%20Carlsson%20cutout_1.JPG"
         width: 800
         height: 600
-        isCached: true
-  - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
-    excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
-    publishedDateTime: 2021-05-21T14:20:00Z
-    webUrl: "https://www.fastcompany.com/video/volvo-is-creating-the-safest-self-driving-car-with-sound-and-gaming-technology/LSybbvZF"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 20
-    images:
-      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/LSybbvZF/poster.jpg?width=720"
-        width: 1280
-        height: 722
         isCached: true
 
 secured: "fEWVItRZ3xovDt2SCEvohHzpYItGdSKYifLXX+excv4I9YPlQOFvilIw6JIxJ5wJzONHck75SMkdV/u95BIU5mn589m6J6E1uUPnWZMdUkhW8fLdfvlnIBAH23owl+zFAuPQ5vkYmmaulQaJdfL5pKgeunF3+s/xX9UcVPrdQVJbSbXS/M/jdLMe9hmJ93/y6iA46EidtVL+avHI71kjbzLZGnEVkOX8E/K/I5aQrX7Ctbt+MACp5AV7qhwM8b+DeSNu1enForRILaVqS65H5bjstWju4AF+H2LLMzqDVC63sh1Noi5hOetqX3ZpKsUDEGacAOAro+0i1w7FFa7/XTLAHg0CxLUT8Cfwn+uJ4OmlbxoLpYSOmFWLUe2XqDdw4Nqm+ra8HQnzIzI20tGHNwXO0lXloMtQ6I7G45ZNCSMC1h4XAqFWzOHZxWfX/IL5IZE7qoogY/s6S2wZIWoQNsF8f+RAu1EehOMX3wXc21nsMs9QFIuN2vD3OKXISeylFDwdJ+kw/cnl67DknxFwZQ==;6oG4dkSmFnF2llvEvmAqMA=="

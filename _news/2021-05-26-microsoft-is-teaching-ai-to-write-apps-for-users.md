@@ -227,10 +227,24 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Microsoft Adds Enterprise Support For PyTorch AI"
+    excerpt: "Microsoft has now added enterprise support for PyTorch AI on Azure. With this, Microsoft aims to give users of PyTorch a more reliable production experience. For the uninitiated, PyTorch is a library for the Python programming language that integrates with important Python add-ons like NumPy and data-science tasks that require faster GPU processing."
+    publishedDateTime: 2021-05-26T05:59:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-adds-enterprise-support-for-pytorch-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 73
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
     type: article
     provider:
       name: CRN
@@ -293,6 +307,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "F4UFWKoKAjiyvqSxRlsj+RyJP84drLV9vHod0oHtj8d2MaM8H+j0PsKm/3cExdPtrc1notetuhPpl4VZYRMA2K8y58QKyIEUvpZMEm0hST0YoLhofI2hvXS9VtTQw0Dc6sCHtZWlTC0FIhd4xaGpqBOqh59Aq9UJHp75ldrPzqHSgL1hvNm5hRzOkf7nuGJmcMzwg8c2zH/1OeoDV/yjEObvB7Dp4lJZFuRhuolCpzBXYFxaG53TscamrJdi6N5zl+ZVAcwnpqwer3xQ1rhmlkmsktQp7mBMD5krYTDuNo4b/8Li2opgnMrANcZMIJHYMLNVUXtoAkWLd/dm8hsMwT7mAQO+UZ7iRYfPpcOPWRc=;p20WaXYeDz4Yk2TazZe04w=="
+secured: "gWC1gv49OVnROEnqsgUYO3JkpxsK9PbFfWFVb+KWuLG+uDCzWSc4fOjvXUnsUE44nI2oM7ZQgtegEn5xH9se1Hil3JTUi2I5ubASrTDTm6d+6+BMbszPSCVKaaZdX5flh9gYqvf/36zv09OXxl7zPdSRYlAh6EHNHRxkZOZGynMG8ADEmOKSq7lUT0gwFoj6F5Ov1NXcm5a3srmGdPky/KVVVqs58UXXSBIFp7JB4nepbVED0rQSI9mJHCG8vUcNUhgomCNJN51eRINPIcVbeHmO/Eg3QIGeCXiC5qihh7/LGCmcH64RnSz73nIXHSMXb0Xm0F1cUuqydAR5+XgfmoBF61FYpM0bTOo9mhOOZY0CL9wOjRFtpYDETE+8DO739GlLpfKaLrOzxMF8Z+rv5zntbdq2pR1rvdfjPYr4qfWg0pEsanJCTGT3nDQNqL6NeDcC4zb6mQgsnLtLwuCnZyTLoZv6oyUZbYZxTbu40N47kI5+PW4Ry9S/UKo6vrej3AXtr9VPrUbU43/OFxf0hg==;ChDAc5iOj+AwCs7jtFp9Fg=="
 ---
 

@@ -137,20 +137,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Volvo is creating the safest self-driving car with sound and gaming technology"
-    excerpt: "Volvo has always been ahead of the curve when it comes to car design. Its latest iteration is the 360c autonomous concept vehicle. Ever the innovator, Volvo is now on a mission to create the safest self-driving car with sound engineering."
-    publishedDateTime: 2021-05-21T14:20:00Z
-    webUrl: "https://www.fastcompany.com/video/volvo-is-creating-the-safest-self-driving-car-with-sound-and-gaming-technology/LSybbvZF"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 20
-    images:
-      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/LSybbvZF/poster.jpg?width=720"
-        width: 1280
-        height: 722
-        isCached: true
 
 secured: "0lxZu1sH43+JcuZxnkN/KMMaBPg3V/nzRa/3DcIjRcEKbzJUaP4eS9+voRdPktPvOfpLKsULtZ3yDHtWhCazU9J9PMY3LKFWYPeNYvrFXRUzMvV4iVLmh8UG8en1ozYsE+0ulmwiuHhJmfaNpvTjsOjvBgSyAz9rTCYItMY/hff8DnXh4ENbI3ctwq74QeT621F//8OymweILQTxiDcmY3lb+pKGFZf89K0NOLOPinw48ia3A3Mu0HnCcFY4+22xI8HRQInt42tylJ5kY/F3tN/u34lIhMitiAN7WGxOsD3tMtvxv3BW1p11+pJZxuixhZ+KWWk/L9n9s0lKTfS0OY5rOtlz64fuTB8c4mRMhBRS2C4svwblSoefJxWfRBxtv379sDPbaVBYDQeAxpXo+D7cLI2KR0DvKnivwn0yV3qMkSdbzvk7+8goAhdhJJOWaBfq0/I6hMtZqV7+8I15IaG6AjLkX8sPFuKnJCavVObnXU6lFN3fVd8pLHx8mAfgcZHn7lLfyEJ4AyueJLOErA==;fjR3Q8boryQU3fKBtrY0CA=="
 ---

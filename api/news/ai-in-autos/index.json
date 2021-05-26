@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-26-tesla-announces-transition-to-tesla-vision-without-radar-warns-of-limitations-at-first.md",
-      "title": "Tesla announces transition to ‘Tesla Vision’ without radar, warns of limitations at first",
-      "excerpt": "Tesla today announced the official transition to “Tesla Vision” without radar on Model 3 and Model Y. In the process, the automaker warns of some limitations on Autopilot features at first. Over the last few months,",
+      "path": "_news/2021-05-26-tesla-aspires-to-become-a-robotics-firm-in-artificial-intelligence.md",
+      "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
+      "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/",
-      "originalUrl": "https://electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/",
+      "webUrl": "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php",
+      "originalUrl": "https://www.chron.com/business/article/Tesla-aspires-to-become-a-robotics-firm-in-16203638.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s.hdnux.com/photos/01/20/21/05/21041482/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/25/tesla-vision-without-radar-warns-limitations-first/amp/",
-      "publishedDateTime": "2021-05-25T13:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T23:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -273,7 +264,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/22/solving-big-city-murder-cases-via-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T21:36:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-brainchip-highlights-its-akida-neural-processor-ai-field-/2021/05/25/9377741.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-brainchip-highlights-its-akida-neural-processor-ai-field-/2021/05/25/9377741.htm"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 related:
   - title: "BrainChip Highlights Its Akida Neural Processor at AI Field Day 2"

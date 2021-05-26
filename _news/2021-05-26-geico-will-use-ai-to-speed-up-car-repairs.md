@@ -3,8 +3,8 @@ category: news
 title: "Geico will use AI to speed up car repairs"
 excerpt: "Geico, the nation’s second-biggest auto insurer, will try to speed up vehicle repairs for its policyholders by running photographs of damaged"
 publishedDateTime: 2021-05-25T17:51:00Z
-originalUrl: "https://www.marketwatch.com/story/geico-will-use-ai-to-speed-up-car-repairs-11621965082"
-webUrl: "https://www.marketwatch.com/story/geico-will-use-ai-to-speed-up-car-repairs-11621965082"
+originalUrl: "https://www.marketwatch.com/story/geico-will-use-ai-to-speed-up-car-repairs-11621965082?mod=mw_latestnews"
+webUrl: "https://www.marketwatch.com/story/geico-will-use-ai-to-speed-up-car-repairs-11621965082?mod=mw_latestnews"
 type: article
 quality: 67
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 512
         isCached: true
 
-secured: "nvkLXVLqOdok7qLqGSa13zSJMFyxxCGzHjs/fuCWB3jPRuzaBQoLBEAo/vxseXUvb/aCIapZyE8Hi+4DNEFkmbX7lzGIW9XncySzTQ6nKo3XbYanSyA4ER4qfBuMwqok6RlW5v024yZBkvl3B6tuEwbBUiKEGTf1IIlabtuXFaTWH5Wm4S1ivvLBChS4abanavJ2bjMVuPhpKRfYNC4/qoU6GOIHTCxt06pkUhpMi9T6lwad2Q3PfIXyI3XLtmQbGq1J8iMir5m/5kaxD4jVv4IYua+bA8pP/QVBrKWeaC108CTM6hV1i8WsZsXCWdH5MP9pRUEmScVXWgfm9oFT2Z/+1D6B0L4vrgETYH9ComiSoMi7STlleaic+qGaED8/+7H067XgKKR1HHoXrIes3jZwRm7IaaplfUxLULMbTd4O44kAduYpT3RTUVKxbVDFDpX1HWd9VWrbudsPX4x7zwgRQ2yi3HAB4SOnxqxtf12Hf95556FZQ6W/XANEFKNnx6KzxwPO1j7zNqTAtAaRBw==;09K2Wv/7zRaQo6nfwhy6/g=="
+secured: "8+nnsnofZHMuhgVFXZ2we4k07KOEkJjwHEF9afGWSDefE0o7jw0zU2NGNnGwgm2og4uNZtvT1qu2Z+AO02OxrRfxioE19tZTwi4Ntw4KvOEW6gVqQ0fLkT0adCWA9mBfVr7HO/scXxpXp1n0cHQVhS8741BC4lmbkeTONBvXSwl/QsNSiPaEBCtbcUi8uokvDT0x32fZ36f9L3GAhQ7Jp5wfbNVB3Nz0OWpDL9oTAx1QAqb3Ito/NKdN6iWdaFfYpE/u5FxYTywBbfG65/MvNyQnzPMq7C1d0rDnxqwKkZCSQ98vELn80kDhR8lvxG6wYHcxobwo4iKycqehRuwpb4PKhNwpBe0JphpEzEgiU28=;YvtVMrBn7cOgb2ElU6lgZQ=="
 ---
 

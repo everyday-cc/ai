@@ -48,7 +48,7 @@ related:
   - title: "Geico will use AI to speed up car repairs"
     excerpt: "Geico, the nation’s second-biggest auto insurer, will try to speed up vehicle repairs for its policyholders by running photographs of damaged"
     publishedDateTime: 2021-05-25T17:51:00Z
-    webUrl: "https://www.marketwatch.com/story/geico-will-use-ai-to-speed-up-car-repairs-11621965082"
+    webUrl: "https://www.marketwatch.com/story/geico-will-use-ai-to-speed-up-car-repairs-11621965082?mod=mw_latestnews"
     type: article
     provider:
       name: MarketWatch
