@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
-    publishedDateTime: 2021-05-26T17:52:00Z
-    webUrl: "https://www.chron.com/news/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205149.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205149.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205149.php"
+  - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
+    excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
+    publishedDateTime: 2021-05-26T20:50:00Z
+    webUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover"
+    ampWebUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/general-motors-lockheed-martin-lunar-rover/amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
+      name: Futurism
+      domain: futurism.com
+    quality: 41
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://wp-assets.futurism.com/2021/05/general-motors-lockheed-martin-lunar-rover-600x315.jpg"
         width: 600
-        height: 336
+        height: 315
         isCached: true
 
 secured: "yOXVOoNErs+cOZOCJ4VqOWu3LHRCykJXL37D86Z3FdZ6Jw3RP1Sx0oNSxA6LZ1ijvtpYsyTky+QZ7L3kOstYJtn5CQpvVQiKM2L214WIMFbs4LaDiUunIIGDczHCCJ3VOk13GxWO+6DJOx85TCfPeqvg1b+hoTHZqR6K843l50M0sP5j4k4hN4dP/PNMnkE2fpblpJtONifdLUwtfh7jP/oSFi4w2V46Zpb1v2VHIvLGjivmL7gnoLI6J/9fVIYRzbEnJ9++3SidTshFksbNi46a6JQjTXqTMekq2rTfm6x0ER9lVdn02rXLRZ+7fK1pkmAfkvJAQNsv9CqlCHJFySGDOXCcPqOOpXeL/cKerzmDxuyAjVAHElmpsoAK/Bklk3HQlNhDlZuTGA/DixO7TloN25Yt/XF95rCffr8JmSImobsMh59ye+KRRSa5oQ/si16IzlTVXy7//W+U3eysbDnt5yZvqTSqoEYDqzpRnhm7ZljJaLl9WFwis4r36qpjpDzv67jNSwuGiKBB4+NJlQ==;sEg/x0t7QuShhVZcorPpLQ=="

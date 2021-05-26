@@ -8,7 +8,7 @@ webUrl: "https://www.tomsguide.com/news/ps5-games-sony-ai"
 ampWebUrl: "https://www.tomsguide.com/amp/news/ps5-games-sony-ai"
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ps5-games-sony-ai"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/75MNxt66g6pmAMrDbjWtij-480-80.jpg"
@@ -44,6 +45,6 @@ related:
         height: 348
         isCached: true
 
-secured: "q6auflu8wCxWmmjWROlleUcA7OwpXk9jzgdAPrNANmyxY0Xx3xIqMOOCqo/orguO/Ht1oa2AXtq/nm90ejPZZLNtTzW4uVxnRQYtVHoQqYCPWAkEEtjP895Yqg3NfNtEDPgQYZMmJPjszgggV8B85M3wLnyhhHqSCh6zPr2Z4/5+GxSIKVmmekDEIvTXl1KWSdmcglZ5/oDAJ4P2GoPixDrZuRQs6Y/ONf1QbXqeS+JjPmwEO9vn/SqSKCTQpy+LD75ljaSglfUBRwuPiWEyfykO8AaYZGxt7pMv9ATadCErl9h74c7rif2iHzkmhwhK69cjStc+oHip54W/pey1Dr7zZMtOSbtU3FtLmZ9UI/E=;KNE1AVBukOHTdEda0EpSJQ=="
+secured: "8aZdXOuWs2P+M7rrFADhMHwsrnMFZ2fOr1/Gaa24wuu56+0+b4pNo+ZWxrK10RLDk2rnFu3VHuf9e7SPZSz2NVVSMr9o+0bp9DT2pA5oXKNu2AUDokfidQlzfGi9QV8bmA4JwWsZyQdHWGgl8PLkQx00v+X3F/ZPALxFFRWufXQXcAITG9CF2319AeYMZsORYRpBU/TsnFEKShnopR6c56HuCZyKA6ZQkXNCCvNNvrBxMQ0jI7Cdj2u763FGH8zaBCO6+f7ROC6n02UHkhN3pCue+4ZNYJVccDGMSxDzkDFyDAHerM2KpTfCBcVG90nRO6hY1qzSF9NJsnUOvnVZIIXiv9xXG8+iPq08DOGf7yJwqE6LRf2EdqSYBSaMCmGtP42ncT/NrQpsj7UQWNOYB6idbj1EYdospnhnOsb6LOq+omfDQSK4ydqyRMR6eqBndTgjScU069viFu2+J821JReTlI3K8/hkRkwHdTcZk7ddxbSDh6eqxXxNze2I+XsIfyQSWFkub60gQzGQY+ktBw==;nox8oRjYsTFlUiP2GlNqEg=="
 ---
 

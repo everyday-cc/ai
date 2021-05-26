@@ -1,0 +1,65 @@
+---
+category: news
+title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
+excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
+publishedDateTime: 2021-05-26T20:50:00Z
+originalUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover"
+webUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover"
+ampWebUrl: "https://futurism.com/general-motors-lockheed-martin-lunar-rover/amp"
+cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/general-motors-lockheed-martin-lunar-rover/amp"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: Futurism
+  domain: futurism.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://wp-assets.futurism.com/2021/05/general-motors-lockheed-martin-lunar-rover-600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+related:
+  - title: "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market"
+    excerpt: "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers."
+    publishedDateTime: 2021-05-26T14:12:00Z
+    webUrl: "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/"
+    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae53b5af931c3c2f08b5b6%2F0x0.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon"
+    excerpt: "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years."
+    publishedDateTime: 2021-05-26T17:10:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8099f86d9bca57b5b640%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2697%26cropY1%3D0%26cropY2%3D1518"
+        width: 1199
+        height: 675
+        isCached: true
+
+secured: "d0ij5D7FoLpt234KAx9xPImKqIQeTTxGF0L6keafL9dY2BuYY+lexbQjd1uEPM57GEC+jUlie36r4y/zFYmM2rAkB9SVnITWz8q9LkG0UBfjlbfUADTe8Y/ghcUqG4iRjWijc3/gw3nrCOM9oQXgNdgcosGOZ2JUsM8N4dnADfm5w5INXsQKRr3oToa2y41QP1Eoj70cbLYORKUtQC32ohaHqc2DdM42oq1Z6+a5CQgK4fkB9xoL35spQfw/gDfphsLBkmBc9Tb2dJWqX68vm6sc6Ki6HVrb1uZE1Yrbs8/AMRXX27vgoPcJ0Mlq4CWFiR5WcKXxk/RCIRyrs1MjUueJMpgf14YC9fJV52VxGQs=;4DwMsa5ozVlO3vYtXGIauA=="
+---
+

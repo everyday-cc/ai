@@ -91,22 +91,6 @@ related:
         width: 799
         height: 450
         isCached: true
-  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
-    publishedDateTime: 2021-05-26T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 53
-    images:
-      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-        width: 299
-        height: 300
-        isCached: true
   - title: "Chinese startup Pony.ai approved to test driverless vehicles in California"
     excerpt: "Chinese autonomous vehicle startup Ponyai has received a permit from California Department of Motor Vehicles DMV to test its"
     publishedDateTime: 2021-05-23T07:22:00Z
@@ -120,6 +104,20 @@ related:
       - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
+    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive applications at KoreaMAT ( May 25-28, 2021 ). Combining driverless technology and IIoT (Industrial Internet of Things) technology,"
+    publishedDateTime: 2021-05-25T23:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visionnav-showcased-latest-driverless-industrial-vehicles-solution-koreamat-/2021/05/25/9377755.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1517703/image.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
     excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."

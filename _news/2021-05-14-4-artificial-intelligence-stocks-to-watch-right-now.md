@@ -20,6 +20,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
