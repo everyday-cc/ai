@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft expands retail tech presence in China with Hanshow deal"
-    excerpt: "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries"
-    publishedDateTime: 2021-05-21T11:24:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816840/itpro/2019/04/microsoftchinashutterstock_510722167.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Microsoft Partners With Chinese Solution Provider to Boost IT Efficiency and Security"
     excerpt: "Microsoft’s China arm is partnering with Chinese electronic shelf label (ESL) provider Hanshow to empower its global expansion in the retail industry. Under the strategic collaboration, Hanshow will adopt Microsoft Azure operated by 21Vianet for its operations while also prioritizing Microsoft technology for its solutions to retail clients."
     publishedDateTime: 2021-05-21T14:54:00Z
@@ -70,6 +54,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft_hq.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating Systemtm"
+    excerpt: "Aera Technology today announced a collaboration with Microsoft to integrate Microsoft Azure Digital Twins with Aera's Cognitive Operating System. Azure Digital Twins is the platform that enables the creation of next-generation connected IoT"
+    publishedDateTime: 2021-05-25T14:38:00Z
+    webUrl: "https://www.lelezard.com/en/news-19823569.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "07Kt0KXM5/pb969SQWf6z1kMO7a1ec8yOpakc+txNCjGmheTg8yNKPCsamzELQilr+I/uB1Uga+Ro3XRH2ONOXh4LjM1vi83NKuUKd5yFDImFd2t/SvlQ22BCxClNkRc4kVGBjdJtHd/nJlSRRfGESNhsBdc+85Jg8K4UIWqzt7nxX4JFcIIQQIXC6ExTNwnJC3B1jX9hJAS6u/8WXXghmDJr4FN1FAJbSf3VvlciGTfJhHOBF5NS2B9WuG8GJk1vEJzmiPe14SPmMGU3yaGUCwd4Av9869caejaT5cIpjZIyCsfMYecyh5i18Rg/u/uny4Xyp4vtYVafx+M+0kjFCCDTFmLGgnhsp4SwqVqrFim7+fDKikOpdegWFtUgJPorRCsT+K2qtOUb3VrjGixPk1CfEqYSsS4kWS+IpwrCTNNm7zN24f0sWebC1pzYuRyI7kqEM/OcGpdSfc5A4APH/VqNkdBmIfafwTFMS6qvZ5Ty/lh19Dj3mwmqoMmzV+YFHl9WjPXQ2QuLbSPpBv+AA==;J4/0Lj7EKNMtr7cSHT0ZYg=="

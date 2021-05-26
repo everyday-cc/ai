@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Face Recognition Systems Market Statistics, Cagr, Outlook, And Covid-19 Impact 2021 - 2023"
+    excerpt: "Global Face Recognition Systems Market Overview:Global Face Recognition Systems Market Report 2020 comes with the"
+    publishedDateTime: 2021-05-25T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-systems-market-statistics-cagr-outlook-and-covid-19-impact-2021---2023-2021-05-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

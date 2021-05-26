@@ -24,22 +24,6 @@ images:
     height: 685
     isCached: true
 
-related:
-  - title: "Comparing machine learning algorithms for predicting ICU admission and mortality in COVID-19"
-    excerpt: "As predicting the trajectory of COVID-19 is challenging, machine learning models could assist physicians in identifying high-risk individuals. This study compares the performance of 18 machine learning algorithms for predicting ICU admission and mortality among COVID-19 patients."
-    publishedDateTime: 2021-05-21T11:16:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00456-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 28
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00456-x/MediaObjects/41746_2021_456_Fig1_HTML.png"
-        width: 685
-        height: 443
-        isCached: true
-
 secured: "J/ieUWWWOz0OQtOBR2uRfGAfPH4L9Yg88fOX1me2CMQM2+0RphrcUHcH86r/3DuI5TyxF47ZGVt9hbIORibcTMszbYtw4mOBx/6C7Osw548erbJpYqow4FSb7KnoJnu8Tuh/pbJH+hTCBnHFlUhhtaXhWuwqx3qAoWiH2WyR4+ShgBGw7CdjQPw+0UwGFw7S6ZCPfYIN+gbeRHkKFj9gvZIEQ92IIbF+TK4QWu0PJV4sgvAmRAzRSKxZQ2u9oDcuUUCesWmXQ4bk93pvAqJJZeSRvvofDqT33M1i0di0TbnIB32EJkSjQ1XHD+hEFnBolO3TQiGyhXj2wpbp+i2jGNE/Gk2USClvXQa3ewSPijpa3jGiyCTkPP0B0b7/9/6XqTBVsdjdaYFWdkB1Kg4S5PyCigqhKqVKH21Cv7fLZvEHbiCiOnzV7iRQlWcYmPK6S0Q4z0HBMwoBEAOoD5g6kt7eHGQyzjQhGzVLgwhP99MR6RlAMKv8DHt4wKWVVqtuQAhmfNb4iTspFzLLUpzRXg==;uPDEtfbm96Z3tv7Vu3NhMQ=="
 ---
 

@@ -1,0 +1,81 @@
+---
+category: news
+title: "Sentieo : Sentieo Raises $20M Series B Round Following Record Demand for AI-Driven Financial Research Platform"
+excerpt: "Gold prices have jumped more than 10% since the start of April amid a weaker dollar and falling bond yields » SHARE THIS POST Ai NewsMORE Related Stocks Find News"
+publishedDateTime: 2021-05-26T05:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sentieo---sentieo-raises-$20m-series-b-round-following-record-demand-for-ai-driven-financial-research-platform-10172849"
+webUrl: "https://markets.businessinsider.com/news/stocks/sentieo---sentieo-raises-$20m-series-b-round-following-record-demand-for-ai-driven-financial-research-platform-10172849"
+type: article
+quality: 27
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "AI-powered financial research platform Sentieo nabs $20M"
+    excerpt: "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round."
+    publishedDateTime: 2021-05-25T14:36:00Z
+    webUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/"
+    ampWebUrl: "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
+    excerpt: "Fintech startup Sentieo raises $20M to drive digital transformation - Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led"
+    publishedDateTime: 2021-05-26T03:47:00Z
+    webUrl: "https://www.siliconindia.com/news/general/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation-nid-216142-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/s7W65qiy.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "AI-powered logistics software startup FarEye lands $100M investment"
+    excerpt: "FarEye Inc., whose machine learning-powered logistics platform helps companies such as UPS Inc. process more than 100 million transactions a month, has raised $100 million in funding through a new funding round announced today."
+    publishedDateTime: 2021-05-25T10:00:00Z
+    webUrl: "https://siliconangle.com/2021/05/25/ai-powered-logistics-software-startup-fareye-lands-100m-investment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/unsplash-2.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
+    excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
+    publishedDateTime: 2021-05-25T15:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/fintech-startup-sentieo-raises-20m-to-drive-digital-transformation"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 19
+
+secured: "PtEIKVZLka0sHk41GzvwB0nfPja/qgU3i1alHNgSFI4HESq3sJ7tSzdm7Xva7UkOgoMPJBW+fkrpAwsaw0NO9j1n8hERZuGKxLM1vnZ8AR6dYirKBRlLOtv704V6MRuoLFOFUULiezmtIWwpRwq+f1NqUe1LDDTf4fuG79qbDBFT1I1lFp6c0x2IxiIru67oGOofex/9l8xtAdmCee5W0W0TqYVyO6Zuum1zBT20jaowwJtUPcVLqSEwz1u54X0csETKliOI0v6DccQQ1AFzmafYzv4eA/fH6TXdj0MdIRhZkqrwscoyxo3cODZT8uk+ql6iio5Pj8++/vZ7ehP9yRjeKKMwEJorN23Jk/hxPS0=;cblH7pGsNqvGkJ1U90IpVg=="
+---
+

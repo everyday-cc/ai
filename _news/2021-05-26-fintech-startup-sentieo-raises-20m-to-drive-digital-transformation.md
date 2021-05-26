@@ -55,6 +55,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Sentieo : Sentieo Raises $20M Series B Round Following Record Demand for AI-Driven Financial Research Platform"
+    excerpt: "Gold prices have jumped more than 10% since the start of April amid a weaker dollar and falling bond yields » SHARE THIS POST Ai NewsMORE Related Stocks Find News"
+    publishedDateTime: 2021-05-26T05:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sentieo---sentieo-raises-$20m-series-b-round-following-record-demand-for-ai-driven-financial-research-platform-10172849"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "Fintech startup Sentieo raises $20M to drive digital transformation"
     excerpt: "Fintech startup Sentieo on Tuesday announced it has raised $20 million in its Series B round of funding, led by Ten Coves Capital"
     publishedDateTime: 2021-05-25T15:37:00Z
@@ -65,6 +74,6 @@ related:
       domain: glamsham.com
     quality: 19
 
-secured: "CxoZB68FMZHAe3CQNHHwjKxsX3GzkNAdXC1AciDfqqPtWWDwQSoj2H4w9nvBO7yMvTwuYhEc4cItDyDz53eRa9wgMXp06Wps3LIg8snQcWkWJCb6GXB+/X00zCKNJVV9/YWpoe7NxDy6BjguNxkzC5MpHF0GeodGhEZPdUR9Eo0xR7t/Tbq9kW1TqiMJ/z+kB6ycWs0QZnpHn8S6ttA9T158Jf5rQHGxJ72GyRHMono5l5LjXmMUs1rLbV/hbNzb9ASIa6tz/ydC1VusteyyyCXnjiiCpCJJJDFOnUDIiyauAfoHf8fcezbfGSN7gHkGQO7+zf7JQ1fZ27MeN2D2G8cEnUrA4RHveYpfVJSaz/k=;NN6ds4vsHLFqtucejo+OGQ=="
+secured: "CKbM2/vdng8/Px2+FDtSjNF50QqjuS7EP01PqxMoC32vIoZN4ROQhiCsXHYiFnXZ1P1Z9W0QAtZjy2Rn6YPhWutm8aO5qGyh/ZB0oKMY2Jme9vfMVMaaLDuke9Q+iYt1gRb+W0O/ZlTtQiPrQCvJoxFBU5MGcTr14tHWrYK6sJNL/sMZuOWLF2OM/41MZ/m4VShDvhDupviSnYkHo4tF5adceqG89LkokHYAapIanT0GjZTsUW9A+QxDIe2/KgXk8mJx8F6NA32DPf5E1j4xcFLb37+WH7XYf2koaj6tQeLmFAspyUvEaOQHjc7spAhwXdzfWW9D8rOEYxbsuaLt9+vmTfn60TfWPuebGC1j3Fqo3vMEPxSKkXyOlxVlnFQDahu8nFKSREyO2Ymr896BShXcX3E7d7zqeDx/mnqIkmaocg/zkqjkLfK9gmNzLHCmVhkzRHgJrrFFwjNcFkwt57ymmh64vh8kby38kg9wAHbBi8ZwAmLcNr6mdozLgGUte/LG+RfQe+gwuYErxMy3hQ==;iKig5jSbYhx1uQoubSealg=="
 ---
 

@@ -226,6 +226,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Microsoft is teaching AI to write apps for users"
+    excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
+    publishedDateTime: 2021-05-26T04:41:00Z
+    webUrl: "https://www.arnnet.com.au/article/688648/microsoft-teaching-ai-write-apps/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_197728332.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "15 Azure announcements from Microsoft Build 2021"
     excerpt: "Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure announcements ranged from artificial intelligence (AI) features,"
     publishedDateTime: 2021-05-26T00:56:00Z
@@ -278,6 +292,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "ee4IT9FHHExPWDHQumcQUUX1h9ngIYq5QWZ7cxcCXHF/OcRC597jknpszmfLqa1OFMHl5Dw/JhsHWF0vptoh82RJ0ugVaAioVZalozew/bbSAxEk77B1B16A+9DVpwlKlXuHAILJsljj5JnzHil9qcR5Lj641anVdsjjfCDF4/Y5lK3+0Q+d4alhbw6U7kYUGdm5psWiEnH21gLMhqojDduKLaPVOh8R5j6AlQZX35sdeExZIpc8+/1PpTvK4ZqgU6DvxZuH/iX2wigZim+uRqF4pubA9Ebsm7E8nOEbnhLTutjpk+g5nEDxNTJV5HfaIxtEASM+A60aaczzTkEJqEVSVjHOqi/a5+2lfopEXdY=;rKCBm5eejFvdxCfFk7bWig=="
+secured: "aNxpVEJL8u5z5x+Ubu6X/4Ij93uXB71kJgyBmiLw9RK9rHC1LYpr4sJD2vLwbEOLlSe6PRU3U5vd3H83QfWXo7DJ/42xNfRNu9lnZXTLAbYmZe5cLLY5Joxhxc/EF3diZOkAs82UogvkMlLdy0Htn/BbCw1LfAtKZnU7bHho3zBsHR28piflDbj7wwvkBlA4vT0Ts7YjtYJYY14BlUJsiKXe13x12uBB4Lh+YOCTuklpI/SkPqeGJnfO1uEKFbyKbgVGjPTQAsixaBKBGlGSo9HlR/feqW0QlPxzzw0v187IkttgSwnO4Owy/ShytsTPbna5vt1HQGjd8ME2hE73TKnrmQeeD2kpZQeL7SeRlM0=;yhldIghjBTZDqK7Ir8bORg=="
 ---
 

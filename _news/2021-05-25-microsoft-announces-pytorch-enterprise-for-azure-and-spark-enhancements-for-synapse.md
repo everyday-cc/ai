@@ -217,6 +217,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Microsoft is teaching AI to write apps for users"
+    excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
+    publishedDateTime: 2021-05-26T04:41:00Z
+    webUrl: "https://www.arnnet.com.au/article/688648/microsoft-teaching-ai-write-apps/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_197728332.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z

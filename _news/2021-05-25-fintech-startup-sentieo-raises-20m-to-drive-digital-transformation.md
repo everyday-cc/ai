@@ -63,6 +63,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Sentieo : Sentieo Raises $20M Series B Round Following Record Demand for AI-Driven Financial Research Platform"
+    excerpt: "Gold prices have jumped more than 10% since the start of April amid a weaker dollar and falling bond yields » SHARE THIS POST Ai NewsMORE Related Stocks Find News"
+    publishedDateTime: 2021-05-26T05:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sentieo---sentieo-raises-$20m-series-b-round-following-record-demand-for-ai-driven-financial-research-platform-10172849"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "RMfYLI+jbC3Fr8QHJcsIJJpY+RuvDb6Dvu1GU4uoBCY9eUbsx3deVCSt/MvLFcTVAhgBo3Ik8tZZB5ChNt7R6OIr5cOF9emTebkfx4X5UAP2s8ktyybk27UNv48ZY5rXxwLNjNUfbP6Kl0izQFczJALYsjmWhXo1yPRHfeZ4CH5UzrDprBFxDGXRPdTgLgr9udE4+PmbcX/Gi3A7hz2cz6nd2UvFhkKqp9U9szXgp1oz2sPa+vO//M0yxOwd9Y0XOLqfAyHFwXP4Hk02IDJnfZ7Ox48PJxDq8GsJUj0UZlNgCFIMFScLUc9+sdSjINxw0xvMgox+ReGZg+UK1PglOZENiiaHpuR/mHsUKV9K0+I=;ZmtOzVCrxEzWas2X+0oCkQ=="
 ---

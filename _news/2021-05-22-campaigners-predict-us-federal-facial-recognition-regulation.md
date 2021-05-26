@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-fed
 webUrl: "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+        isCached: true
+  - title: "Amazon continues to refuse to let law enforcement use its facial recognition tools"
+    excerpt: "In a statement on May 18, 2021, Amazon announced that it is extending its ban on U.S. police operating its facial recognition software Rekognition. Law enforcement is being denied access to the tool due to controversies related to the potential for discrimination that its use could cause."
+    publishedDateTime: 2021-05-21T13:40:00Z
+    webUrl: "https://www.actuia.com/english/amazon-continues-to-refuse-to-let-law-enforcement-use-its-facial-recognition-tools/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/05/Image-for-celebrity-recognition_v3.2264009c637a0ee8cf02b75fd82bb30aa34073eb.jpg"
+        width: 1224
+        height: 660
         isCached: true
 
 secured: "BRr0HXtx2ecYKqGzUpF91afh8YFz4l97EgirTn+Fmd8v8+d0d93aC3yC1/z9nuT1t75eqlLSXJU5gcn0itoPOVJ07cPKwl7Hnu3YNpEL1Wxc1WOrjd5cy2525vKaIpWMKUQtorBKFHPB4vE4Uf3rIHkKVEzLTp0noK45GP6bUndeBObN/3U0oPvRGUv0G4f1elsgp+MHPSMKx4T/wKLzCJGsKQf1k126JutEvY11h1gJizlP/Ciu8sOR78oppn8woc/DTNe3uwM6XQO/Zfe8OGFfxT6hxuOhEr1Hzw+6K+LdQ/3aF/ZFfIFw+YiraTBukM8YmZybr5DbYbtldv+2wVqyyj7Q8TagQgDS5P2dCFb5BA3EhiRzrzDs7O5LrviL0RHIJGz3E9rvXTZYHiqP8yVATyb4O58ygluDzz0ycL15pySHdMKr4L+Ya60knGgHMGrqRxgsZKmGFd7zPdQNI3H/tAteB5Hz66IpqIyqaWMhIvRVo29jhQSjFoRpWqP2+zhg+ER/gjMIsgtRUARQRQ==;04KyhCPPKaLpkvd+aX9l1g=="

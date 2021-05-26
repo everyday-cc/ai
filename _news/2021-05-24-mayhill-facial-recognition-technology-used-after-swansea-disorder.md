@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Mayhill: Facial recognition technology used after Swansea disorder"
-excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smashed in Mayhill on Thursday."
+excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash."
 publishedDateTime: 2021-05-24T06:58:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-wales-57213543"
-webUrl: "https://www.bbc.co.uk/news/uk-wales-57213543"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-57213543.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-57213543.amp"
+originalUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+webUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+ampWebUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -42,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "i3T+hzHIIYnNcqpjuWTqjLBPMzEIDIcrxjuSgyVUP+hi5HSkOZjAPWlxmrSHhqnV08T9G63YXxzTneHi+VmJdlEfntETs8cDgopWXRLk/6E/jjnoUcl0/XrtwJxYupkc2IqLsFZ7Z1J0y9kRGe9AT5QJy8ttKVFbPvosqKueOKF4arQaz78mhNVkch7nROfpxjdUsERO7CG9ysqywM0PGVQzWFNYoh2pUPFAoRMXv5fp/eSuEVsLCc6Pr8VoZRSrKJ8MoARUZEdzce0vFmwjS1i47JSjCizGGK+2iNpKf1Q3T4RBnl/f2Ym/ZW/wNP2BW+1KsGnIrNr+koC//L3rsYl+pz2fk2SLa3GOWrRTdw3MfI5e++eKOjmtqUXyhJzcw2oGRWzdLttettbz0DAquaJNr0Nu1J5WTMMx2nd+BZZgjxFXMTD9Pf1ZVV9QLXDp2HofM6WKMI4sJFnLjlLbgkOEXJvkVndCqierakLahX6Q5pX7u3iptDMQvbsUIZbAqQW2NMub4pa8lRUna0Szcg==;98vhgp54GYO5bwSNmnZypg=="
+secured: "chg3RjsqHceBioxC/w1LUVR25tolDGI3L7LRuq4m5qP65oeqnvSaPonBsxrLRg2GuGDFCds1Ru+ZCLHgrD5hfhxovYtuSp5F5qdseVoycT75t6JvJjEkJRN7B/XGx8BH9EMGm4wocO9V4xkq2NuVH8dPnFcoqbf01P/c7zCcKdkK38vP+o/jigyZLt6acKApMDiomyIjL+WqAJGdVU9nyTxpKQkFTMeH7LIUKixWa7dAJ3c+Od2jiRUe+M5iNt8059wxD5FGfPVGk0HYzAqwoQLaVdhw9m4q3ZfpxWcsxtB7SoZs1lhCXi9P54raupjBAEEwLqm6mI/9vk59aMN59btOOPL+dgMzDHWx+yDd0ks=;pEWsi1Z+jEhtpuDvEtaTtQ=="
 ---
 

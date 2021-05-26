@@ -226,6 +226,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Microsoft is teaching AI to write apps for users"
+    excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
+    publishedDateTime: 2021-05-26T04:41:00Z
+    webUrl: "https://www.arnnet.com.au/article/688648/microsoft-teaching-ai-write-apps/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_197728332.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
@@ -278,6 +292,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "IedwSM33WVd5cO9msZYocaKIbLhHhDMgahhAclfDa0ivEAEEk5MePSL1LUpQhlBWO3yzd8QxD3PHsn2e0NhWoGAnNHAqdUIIUDQvTo3sP4I5CLlHFWiU0ijAEl6/fFfC4P/V44UXtYRbzLlJTZ3dzolO2l9gTxUOa4GKMzkhZtLwpcj78b85WevSz11I8PoFwbd+MPkcabDDLBKYlUC2kEKlZ5TVyq/s0dT3/F8y1XOz8dTbAlGyYFdJC8SQGPRP/t++/wDRkr5f8ZPdoU/ahQ9k83e+NrzFyqruwYzIfZpV7fNxbkkk0xaeZmGhArsRw8kPA4SsyRAo0WhEWk0YdNs0DTdfMSjvbsFptOFDg4w=;sWJL04zZxY1DDPAo4N1Aag=="
+secured: "oEBX0vBmNdRNTu1r7urjrnWcc+shOU/OY7p8Adsyq2dz0IJB8n+fE8Z0d81lFXsj/GdfbmXWl6qopkLSYWLRwjNO4iza518ugc8OG9NOgaUsgegQtfX7Y6GJ9ELZ/MUf7C+Rw+QGsUmnfiSTI0Pnig3bVkAmD6Wuep6RkTUWL+MEDAgkFFBXeBh6AOjC6I4BHUAFtCMIzl0Hs2ffeUBD7U5YrhLHadIEJ4Zw+4sAGqxeffwWyckziV2blpHFKvNMNWVuD+Et8xMuglp8TtY2JE5P1dZUDHpDJ7EyXHTr1SnFETbTRqnI3kHmxwlVPO5OHSDHEyys8So//WQdr5yz0+GvkEyPGW9fXzy4xljAsjETo/ov0bK/pFN/U7TdNXm1FY9Qg9A5asXRWKCkaGjLqkMqJ9HPmSBmBZHxHooYDiB+wdVPDdzfr42WVZqzxRX6ltEbH8wlElNKTCBuYHFlmM8AGYsfeFQKXHQVZk9hNgqbirZgQ4zU1P+G7/86pQHZ3XN6Y7WQsDKeeszfcTviHw==;tAwPh/BEGJ9ktpff6/KhFg=="
 ---
 

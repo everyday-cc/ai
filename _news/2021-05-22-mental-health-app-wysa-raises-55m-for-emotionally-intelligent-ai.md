@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1024
     height: 699
     isCached: true
-
-related:
-  - title: "AI-driven mental health app backed by Google nets $5.5m in series A round"
-    excerpt: "Wysa, a mental health tech startup based in India and the US, announced that it has raised US$5.5 million in its latest round of funding. Wysa plans to use the new funds to promote its AI-driven platform to employers who want to expand their mental health benefits."
-    publishedDateTime: 2021-05-21T12:17:00Z
-    webUrl: "https://www.techinasia.com/googlebacked-aidriven-mental-health-app-wysa-nets-55m-series-a-round"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
 
 secured: "SozigMCDjhDmhHPHGSC8AYimbMuajFFNQJ1sLoHyK+vSKiFXY1pKmDdYNisavz9nnNqjLZSF/4deRCtXjP9Uqy8Fmpl/pFDz9Stk9QPU3VBLVY23leve8M6WWv+8GdrODrZ63mP86wkK1i30f7/sd3nDu8GwFck4mVw9wmgQ5dOzvDWiY3zskneEyo3kdiwsUb99V19G+cuCS8+cHAfUA0R4ljfdEGneXTAyUjgnUHXZiKnvLMsyZ4DTUG7FfP0wt52AlSLhWtARp5X9v0znpk2GD7eDNQN2s5m3heXuSGiJPBeOrtxh8nOBemxVy6ADeKLT7Tg6YsKumbnSEgbkAdnptCb/GvoxHXW2IdtPIqBu+Rs+3q8M6KcqNUYptU8MaWgs3tc6elceYVirCbxlkpek5po3cODuvUSeXTU1wQFjoOxk9HvPH1ZjhFn6G2g27TyxCcrtr/PwgI7rjktOh9Xo5F+v5ADZVB1xWi0SdISC9Tr3khrcGOSAq2gMCcnj8rjgqTjk+twRFkw1fvKtFA==;+GfoG5ijCC9DBm9m+5ZvDA=="
 ---

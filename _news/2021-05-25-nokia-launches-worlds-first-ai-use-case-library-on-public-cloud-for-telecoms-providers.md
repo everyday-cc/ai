@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/globe-newswire/1000496872/nokia-l
 webUrl: "https://www.morningstar.com/news/globe-newswire/1000496872/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
+    excerpt: "Espoo, Finland -Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture ..."
+    publishedDateTime: 2021-05-26T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7+TomIE79E2Mafqb9F+pSFaaRBu1xPOZW6GQ8yuXuFDaYHxDgrN4eS3nHVBMCEaJxntoPkqut78o5oAABDrLg6lY3fyU3vAvARt0ydpLj3e0N/mcj3x6suxW+dM9WxcOFYuJGagufX2TVqwqySMgQzeNwvnet4og/72S89t8fgK225qTsvTAcQCI/3a1gBouEtj1nNyOlXtcuM9nlCATsnByxCmdlYoEv+oP3xCpbDahQZ6XHZud18JHJWtx3OTVhPw1wfs6c9YF/m1rXcZ5zDSHDbaoJBuncbVJltsFAvRFZac4CFztwqlYdV5WYu6d84D550MEKU+Ip8nDFyyReZUPzzYUIwzEo/KREe9f5LI=;Q5zzKzTuxYM/+oubfWiV7w=="
 ---
