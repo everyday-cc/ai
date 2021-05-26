@@ -1,0 +1,23 @@
+---
+category: news
+title: "U.S. Army Research Lab and two Md. universities launch $68M robotics and AI partnership"
+excerpt: "Researchers from UMBC, College Park and the U.S. Army Research Lab will work over 5 years to develop new #AI, #robotics and #autonomous tech to support soldiers and first responders. #highered #milita"
+publishedDateTime: 2021-05-26T18:37:00Z
+originalUrl: "https://www.bizjournals.com/baltimore/news/2021/05/26/army-two-md-universities-partner-robotics-and-ai.html"
+webUrl: "https://www.bizjournals.com/baltimore/news/2021/05/26/army-two-md-universities-partner-robotics-and-ai.html"
+type: article
+quality: 41
+heat: 41
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+secured: "/U7yofYz+ykCU5v7ganquHVOksx2YZJDtvncwI5fkV0bvhxvJXUcrMYeOAKBDE2Ao1mM0kXQ40pWYN/8Fj4q47Nzr1Bb/W2YTD95AjGymY8xgex40Y7UpkYoatutbfBasacm04s7HawcdpCR/U+fdACwmE7/id3UTaZjkjjOtzDYChaRjuYoTNwK7fUtyCir9X/4ViXmbppoL3MnfVf85j88+OSJD06VggCBgIzcz1GSESqTeAUSmZC3kdpGgdx8JkxuUN/oKRgl/S3llcddmX4XjZa3BVMjRbiXri/ECcax5nhT+c3osvyhbPZQJF8vyjcNS2Cc2XPATznErucs+Dy5aH5PWRF9auQDDN3EPzHP2CFA1DCeDwXpyg2aeEO60X/YMb6M8oHs6k8qOOhoS+n8MRGS5jGTgkjv8FS1gz57TbmVo76PalOI2QORRbZWr7Hff7v6PzGlc2aA5BQwr+bECJNlB5NE6O2o0jFRIkDndbPjagJH265TinVKkkyeE/Sm5DBB/gp3gGWkgdBehg==;7OITDR+Q2nR7lGgd2eTfPw=="
+---
+

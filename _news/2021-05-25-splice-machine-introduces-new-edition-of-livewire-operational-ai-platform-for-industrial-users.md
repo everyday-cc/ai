@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Splice Machine Introduces New Edition of Livewire Operational AI Platform for Industrial Users"
+    excerpt: "Updated Livewire platform reduces costs, adds new AI features for increased productivity, delivers a simplified user interface."
+    publishedDateTime: 2021-05-26T18:29:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/article/21165209/splice-machine-introduces-new-edition-of-livewire-operational-ai-platform-for-industrial-users"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 27
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/tdworld/image/2021/05/livewire_ai_platform_screen.60ae20adb5970.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 545
+        isCached: true
+
 secured: "8IyBkg/n3bk3WeR/C1n+zbjPGYrNtGfjU7lM0f2KMa8lnqlvhTvMoCZ85w/tP1kq9xOwZl+BLNX/RPmh8DJOW9M4XVAaJBiGI+gK+joncpVbzgSdAypPlclpp43iEosEa8cI8SgetRO0So8yr+87110pz8pD+fHLXD7cYyxQIpKpZK90oy+bU7DAortVdBjY9tJMzShcTxoSHClIiwQzmJhk2E/JeJ7mBH5jL6RYH3DEhi2dWvuAYz49GydkHfCJG+tby4/++hZSxgJjJ8y7fhK82rTjO7S1CI+uuPOGUe0kFL+FBL6M05eEUeJ2MgGC77YmJHX+6ovBkH5lqPJAG1AnUjUY5qSWGYnfyoNSk+U=;gSK15zq2GXC3fRxRr6cOkg=="
 ---
 

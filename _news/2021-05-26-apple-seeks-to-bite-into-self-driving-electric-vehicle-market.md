@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
+    publishedDateTime: 2021-05-26T17:52:00Z
+    webUrl: "https://www.chron.com/news/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205149.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205149.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205149.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
-secured: "JVyhJzFn0ZkE9SRKk3vLGPAlnM/m1uvnsvrnaegP9yvXQUMsAtdeIl2kWKwlq/HohiIj0czlCC7iyl/3jyokUeU6RJ26KZuwyvS7qlWIwETP97Z+3vGr3y8bB/is3EdbphQjgZ0u9bgcCS4VCzncZExXh4KS/P+PN3tEgg/4skiHC0x/va8hZgAn73dYmZ/SnLyuyZ/n7UYABQ1iJSFvshupamnP/5eQ9jzKj0BDpEUiJ/Xj/+1ykdU7Bvjb319sUd+M8yYTuAXpfjknnJ3H6nq6OiGnXPy1Pfpx+Fhl573q/UjrBXWvk4fJP7gVWvlrIrjLb1+1t0tXA3i39G+aHNvg7gsIQPd/d+g+Jsh867o=;OVsnDXQEC0tNE3M4INpLdA=="
+secured: "q1kFnSg7VRmIJnD/PVrjQUwJrzHCARmP6bC2gaGKwaHHyPqrpHEy8sgoex4DHg1v7YIUeVZhKN32qq3vBtAXjyC1AZyMMaaCz/7x0KV+Ry+6PQ7HdzrABHrxcIJjd9Y8ZF0llR3VdWfKUH696PSW8v+X1faX67cyDzdmMaW6zy+xXnrMXjW+Wq5lVnmZn713uW0iushfo18X6RW0UxNirlMOcAoCx1/vXsLY23ie23DoU1HuhWUVsg+qfxgk8pIT0ZMcun18ZvphwHrMuaYKmOTZ8Ya4GLIKDtIsoAVNRw3r1HOlmfFmIY0/JpO4rdUmCJtekOLlQzg+k3k3030YwiQBBcsO+l6r02Y2UEjg7aoB84l6BsRIwZKEx3tAiKx+lVnlbACDnCVzE/HnoZy/X4fWxnNXLG0lCZ+r/vJWzpugyYGarV8VNZLF1EHanVuBq4yc+C2SsqkJRwVeMsvU1riqiFircsTa5bZQbYYRek7KQIjk6wduXMspEqk0/s+4Qzsm1hFCCV/O+EYzXMkcCw==;LHkRs+erQR1u7lophE1x3w=="
 ---
 

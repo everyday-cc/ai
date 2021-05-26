@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Deep Learning Market 2021-26: Key Players, Size, Share and Industry Trends - IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global deep learning market exhibited robust growth during 2015-2020."
-    publishedDateTime: 2021-05-22T02:59:00Z
-    webUrl: "https://menafn.com/1102113592/Deep-Learning-Market-2021-26-Key-Players-Size-Share-and-Industry-Trends-IMARC-Group"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"

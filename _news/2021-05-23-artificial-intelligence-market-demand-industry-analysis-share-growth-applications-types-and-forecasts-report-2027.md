@@ -44,7 +44,7 @@ related:
     provider:
       name: City A.M.
       domain: cityam.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://www.cityam.com/wp-content/uploads/2021/05/Flippy_Grilling1-scaled.jpeg"
         width: 1600

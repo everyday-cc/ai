@@ -46,6 +46,20 @@ related:
         width: 949
         height: 534
         isCached: true
+  - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
+    excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
+    publishedDateTime: 2021-05-26T18:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-19826714.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "pXNE8uGeZVKM4okPcNpZcduLXsbgoNT+F+YqLqGUDhAmgFowOkw3TrggEfAuw2s9SeinDGxmXCmT7GFv/XOujX4sfYggNfGpgWDAsF4zBRYxtkdOlGGkUPXUeJjBvGyDUrUL6y2cjtVn1eqAO8E6AZdUgiKcEnsaHM3KzUqNa0RNpnn77TlQNVs4F2h5UuBGDH3aCqFX6YiC5gPzpXx3bgBjGBpdTB2+YM8K288Xx8ybk9S1XzhVqgMsJ2D8vn+Z6HogWv+6ZewQ/PWXaNAInfGoU5t9ICFCwM7ORWK44DpGeSUv1BQqnQdRsQYe68JHGMGMM1VbvxynxtWw/jplFoYwEL8oZr9VW7Hk+6AmZW8Nr0FzFgoct794npZgnjE5Co9tb0vdaEbYcGdh/ka9F2BcQOGzKpA4G1SPEUIR4KC99JGtz+W8TmvBbHVoj27AjY2zHUuPQ7BH2T53RHNrXr64xa/Qj8tTcKj5xo+FTQo/vsjZvSodyT6EgYMMBKU0GTf09r/RHloDWofQjgAaAw==;4ILNjI4XKKTzRypVT5tZxw=="
 ---

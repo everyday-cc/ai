@@ -8,7 +8,7 @@ webUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial
 ampWebUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - IBM AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cityam.com/wp-content/uploads/2021/05/Flippy_Grilling1-scaled.jpeg"
@@ -52,6 +53,6 @@ related:
         height: 220
         isCached: true
 
-secured: "+M86nB28tW9WcRwxMOI7Qthxt9bFfWjaPn6LF4ea15NO7GNrXLn63bd7wHkV84QpD9+qR8v1R485vTzQ6ObCtVX93tlmk9Itg4jdRFZ6INKM3h00q3neER6hzDWT8jIPwtVOwBzfahmMQSP4lKgKdyvVFaH5R7bogAvNvQlsmzBkErwd8ZNZPV3INUfAbw6EGblnD8+CkKorkCrL+DZITP2uwTZYumSoyPrX84j8jz6oiwKWBLJ9bfxeMHzp/zlZWJb7IksBJjDPoNZjhUA+DUqPXZ3vJYWZ77mJU5xjpry6eX7qYaZKItqqz9PdqN3rQ9Y7coeFI8tcTyPy2xLHfby6hKCXVQ5Z508YYs2kRA8=;nh9pvmXoWbobgCXKo9FIQg=="
+secured: "Xsod0+awj2LPWtD0MgzmrXR7UB69E0+hKBzZXx6fvCgYXk8YIMn+iOPYqiPgE9oxrmLXWCr1fxSwDY4WbcXAbkNlu4JzDTHiETQDG/amt5+x/tEmAgUIU4T8MyYw/TU/OvtV6x8u80TQNZ43dVuMideN4dvDJhTSI+NAb1LjvkODu+V6RiXEMopRmNH71aG4vG6wfshxf3/R2LZ7/l6cgcYJsJfQH3dFaL3e5LZ+mzvXLC2FFDvk6Ke79PqN7h9kSB4pJdteqEuZM8pxpAHFU8/lZsv4SG8lZfdZ1WwNX9pDcXDhm5DaUnOfWfhCVlphzZA1OtLNVG7jvTHnfyKHYNbucS4Y3QDCanw99Hq5XRvfJlEoQ0rREV9KM3FnuQ8oaET+MTWZJdisYMAqCEDyD+E9R2SZDscz88StAo5gswZp06Vhr3ZYlICyUEB7FM3+14pwwJeYOXrGKjH45Uae8NicgcxOVPOUmUMwQ8lRRVoP4xWw/8OuzJ+73BKW8kpo/Fz1gGx5fIXCz1Q8Pzm/lA==;ZLaVGLiORVSE+JEoilYroQ=="
 ---
 
