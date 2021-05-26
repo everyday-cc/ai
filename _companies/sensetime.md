@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "sensetime_ai"
   url: "https://twitter.com/sensetime_ai"
-  followers: 1385
+  followers: 1386
 
 size: 1,001-5,000 employees
 yearFounded: 2018
@@ -53,6 +53,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wMUmPumXtpw"
 
-secured: "l+zc1fshkAYsAnGhyBiaHQvEFC6cjurPUFR7qaEBSZDmuF1yckYCkVJDQ8est+XPsMbHwhhB/2tTwY6j3uG+fKNIFm95DAsSd39JO14VFq6zJB/lLWvM54iqdpdCNyEvbVHUt0lyPQ4YpAI1bHq402d/ey3OYHQWwX8YYCjYWICWxe0c+5X/g0qDHuQh1Yfuvw5LNsKMHZxHDwh/reLZ8PLbnvaRZtjUVBDb/W4S6gcjEDr3Z44Hu3Nvz7bhrZk1MpQD3kNj+LIMiSqWQWRLtXsyo31DiVVT2xtPjZaS8ZlA8R9kWalT83qQCgw2KRpzcaetQ0qANBVeuX4/UjdWUPhVTpBX93vcfGQZ+3LhCIKmJEm7ytCFaI4IHnyE8gTgm7y+de016qWPKVhNsMNZPtnzjvDUaXmDbPEDsW6wo04=;Dwn/PrGdOpPqCXmfHSRljQ=="
+secured: "NyjouD5QluVyzSkkGWHgpGcJfqlCWaVWqpH6VZp2Pyq+m+WUnJbp/eOkDewc+Xe22xJNkZi9xmwG8WxcwQn1zLUszdgbRjwF4IDAF2397TQKakL+eCxW/G9+v8GKK3lIz9ijAIPuFFPwpIfzNPnFIXgh/bSlBeOeioz5uXgVpaZU8B5/ZCYMPxXA5i2TkY7qVVJObXc/IgJRcUwzfLJBOLhfdNrHloQH2Fyh7wZHq2kI+xz9V3+rK58ZIQ9VGetJPYFJlIQzNtYZ8XRw7jcjvqYFnwhXn9TdomLr7TIeWmFHZGt15+cYmYJJqwZNexnb/Qh1gZ5qJ6lIJ/LScOG1l97Cvij5cG6hhfAsPT40TwwdzQ6E4Fy3rah3owW7jqQF60ry15Fv1d1r84Fp2gQtwjc4mVylPNcYto3zRZ2VKVc=;kVQEP2fbGY2NC3/i2NEsgw=="
 ---
 
