@@ -1,29 +1,23 @@
 ---
 category: news
-title: "AWS to open data centers in UAE"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Emirates (UAE) in the first half of 2022. The new AWS Middl"
-publishedDateTime: 2021-05-26T16:56:00Z
-originalUrl: "https://menafn.com/1102142381/AWS-to-open-data-centers-in-UAE&source=29"
-webUrl: "https://menafn.com/1102142381/AWS-to-open-data-centers-in-UAE&source=29"
+title: "AWS to Open Data Centers in UAE"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Em"
+publishedDateTime: 2021-05-26T08:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210525006052/en/"
+webUrl: "https://www.businesswire.com/news/home/20210525006052/en/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2021-05/26/M_54a76image_story.jpg"
-    width: 1200
-    height: 717
-    isCached: true
-
-secured: "k4R6TI+3B0LFEGIznm72ECtpx7zDKxPmMPHdrDqRFdJlHpLcoBsDuNkSlIZ2QQ6ZVe3aw9IlRkhYKy+/wfQxRIbHd7ycMQDjL+u3U6ckquNli4a+BSkjFkz0sVnmDp+bNrbvTnWMO9LVPmp3TVBBeTy8zkMCrxHCdab1KenKjaZK0r+OJ7GYR241uAAn+HmAn+CobB9Lh/rlaiYnyRHg3g9TLjM+LtJudUOmjuzg+e0tG/UDwsgidozY8FSnJ3BviW38drdlSboXrJcrrtMtdHQM50E7D70hZnQnSlROJ0wJiiaRR8/19UfOloj2EQ9H5xvkyvwLsKgfISDLDirP9JcAgzISdXK8YybVbaxfzAM=;xG9oHWDeZtnFPQooynGQ2w=="
+secured: "PI0HFpAOg+Yz4EloGFLnD6HWHbb3oH2fDFT2w+7miPv59vza5nE0rl68HwbS/kzQ1EQng3LeP3PQi/sUaj4lea4YbKnNsr7s0lXws5RabTCdtFilA2v3G/leA04928Rpjvk435CcDtZaPOz6HRmexMWgb6tiN/M70nWK8fJHulfWUnSQL/omu+bv1JpCxdaaxw9NUTkNJrJ7hj7bJLF+3CrDopv+UbKyw+XmisoYFuNTo0BHLT1As47CKeIZWngSvA9lTew0i9ZPpo+HI8ztMqvednTHXHX8Xn34f4UhU3XeEGiJWfx+CzN8/Nch+/gWl5/+vH0zwHpqiR8vO8NDUZsX3xYDsT3cWO4E+WAnJ3A=;YPabzccrLq3vPmlFIcqN2Q=="
 ---
 

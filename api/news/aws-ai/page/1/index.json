@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -396,6 +396,50 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
+      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
+      "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -895,59 +939,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-4-artificial-intelligence-stocks-to-watch-right-now.md",
-      "title": "4 Artificial Intelligence Stocks To Watch Right Now",
-      "excerpt": "As more advanced tech continues to rely on artificial intelligence, could this be the tech frontier to invest in right now?",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/371987",
-      "originalUrl": "https://www.entrepreneur.com/article/371987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/371987",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371987",
-      "publishedDateTime": "2021-05-14T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
       ]
     },
     {

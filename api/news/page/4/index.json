@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
+      "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
+      "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
+      "sourceUrl": null,
+      "webUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "originalUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
+      "publishedDateTime": "2021-05-24T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthpayerintelligence.com",
+        "domain": "healthpayerintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-nlp-in-healthcare-life-sciences-market-forecasts-to-2026.md",
       "title": "NLP in Healthcare & Life Sciences Market - Forecasts to 2026",
       "excerpt": "As per the research conducted by GME the Natural Language Processing NLP in Healthcare and Life Sciences will grow with a CAGR value of 20 8 percent by 2021 Aspects such as heightened demand for enhancing the usability of electronic",
@@ -1185,49 +1229,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center.md",
-      "title": "Berry Robotics unveils plastic sorting robot at Evansville recycling center",
-      "excerpt": "Mayor Lloyd Winnecke joined officials from Berry Global Friday morning to officially cut the ribbon on a plastic sorting robot at Tri-State Resource Recycling making",
-      "sourceUrl": null,
-      "webUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
-      "originalUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/05/snapshot22.jpg?w=1280",
-          "width": 1280,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
-      "cdnAmpWebUrl": "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
-      "publishedDateTime": "2021-05-21T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVW",
-        "domain": "tristatehomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

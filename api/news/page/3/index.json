@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-25-how-watson-discovery-helps-contractpodai-provide-legal-excellence.md",
+      "title": "How Watson Discovery helps ContractPodAi provide legal excellence",
+      "excerpt": "IBM Watson Discovery speeds contract renewal time by 50% IBM Watson Assistant helps counsel find specific information among thousands of data points IBM business partner ContractPodAi offers an end-to-end contract management solution designed by lawyers for lawyers. The solution aims to dissolve traditional",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ContractPodAI_V2_2000x1006.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T06:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
       "title": "Computer Vision Is Like Investing In The Internet In The ‘90s",
       "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
@@ -269,7 +320,7 @@
       "originalUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -510,7 +561,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1206,50 +1257,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
-      "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
-      "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
-      "sourceUrl": null,
-      "webUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "originalUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "publishedDateTime": "2021-05-24T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthpayerintelligence.com",
-        "domain": "healthpayerintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

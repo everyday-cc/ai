@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 760
         isCached: true
-  - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-    publishedDateTime: 2021-05-22T17:57:00Z
-    webUrl: "https://www.wbur.org/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "http://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815_custom-8ffe72ab4ed1cd6a862fd29984d7bb30c82b1cdf.jpg?s=6"
-        width: 948
-        height: 589
-        isCached: true
 
 secured: "F5KCh745wyd50lrp37x54uJQClkEwLaUvyzswQd2U93XKPrEsT4SARXMHGAsekozGmJxxOrMRho9UcdM54++mGBKgZZQK3bqsR5FBMU1XrdtU4pz/SIL14ZrwiIXGNYm6/4bin2Hh7bS1o/fSY1nnMMR6f+iZ8gX3F9QzBNyWsxegyN7S0HsoABS4DQr661Wr2PxC1jWB75uLMC/sDIfl4ixPGG60WlaBdPaqhVu7kT3+GrbzrnA965MNmxHjpRfGeB2eHFe0bT+4Crv2eQlAPbYQ7GesqPVpLpLO/oWC5k2EEeuNl54tXM8G4mdk0VP0s6LQV4LdP1crFyNQiksJ/2RFOeXKF7MEx+G7+FQRK1W51PVFcorz8gtD73cJ1vXyrQ6T80TpoX6xpK5ChBMkTM3PDDgaOQ9YJishZ2QFGqO1CAgzpynNlBGrCTid2vqA+k7wwIvQr57I4fH6QuRUv8HImaCZm8HBjpMB2u2aoG6gUi7bxAVbVFuOch+J4BMSlg1EiCKKv9REkrPj7FEkg==;AINydO1ED4fEMz3jpXwKvQ=="
 ---

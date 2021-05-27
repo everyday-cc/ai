@@ -46,6 +46,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Is AI Disrupting or Enhancing the Asset Management Industry?"
+    excerpt: "Technologies like machine learning and AI are changing the way that we do many things, including asset management, investing, trading, and managing money."
+    publishedDateTime: 2021-05-27T08:32:00Z
+    webUrl: "https://dataconomy.com/2021/05/is-ai-disrupting-enhancing-asset-management/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/05/is-ai-disrupting-enhancing-asset-management.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
     publishedDateTime: 2021-05-25T11:01:00Z

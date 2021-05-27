@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-make-coding-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
+    excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
+    publishedDateTime: 2021-05-27T11:05:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 84
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
   - title: "From conversation to code: Microsoft introduces its first product features powered by GPT-3"
     excerpt: "The post From conversation to code: Microsoft introduces its first product features powered by GPT-3 appeared first on The AI Blog.\n"
     publishedDateTime: 2021-05-25T15:00:04Z

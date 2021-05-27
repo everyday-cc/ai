@@ -3,8 +3,8 @@ category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
 excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2021-05-26T12:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
 type: article
 quality: 49
 heat: -1
@@ -334,7 +334,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
     type: article
     provider:
       name: CRN
@@ -397,6 +397,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "iIA61pnHE1LzK2paTfREziAMNGrjkJtgmqJKhJUa3XiMtLgzMc+4RXRiXF7bRwMXJiejfiIY49DO2zdUlUCcBaMcllq2cWavDJ+4gZFIeP3I7Mm8Mr1XsMnTn5NhlNTXr43cWl8Au7oqpNDRlTbK65jL4tuTNctZQnvl/lvZEM4f9Yjch1PAqDNLqB+BUmHkYApNLAU00nWe6dkiJOPsq7nQy10ddc5SnJoWlqfVaHF1ojLaeaPmlvgxgJWcLHuskTIVBcmgEglSsmQ1KZOIX2xY23q5LHqWQ8Ue0aQYovwv6l+H6tN9wZ0LquyoiwwAgahkUTxDdstxnuOQb6USM2OBPA6PNXKeGmImqhfakPo=;/kR8fnJ63KXgkyZVbstekA=="
+secured: "d51giBBt0HcNbvgnrwiRgjX2alJUcLV2VZRvk33GZFZpFmvfi7yty5wxV/6YkvB9yko1R6kj9wPgjQMQlSzw/RLAAmc52oi6RyGNxHR/JQuGvKkfCfPbuid1Lll2Y9Qal9Gl7K5kLne6XBHB2Wkyi2jiDcsNMMFRXRzjz4iNaD4+Wcd+YtYjHmiHw5NQ2pmHoTFszXRDrZV8Yk17trcU1p4hobOo61K8ns6tqegJGZpCphfdRtgO09XLcPqN98AiJ1I3N7lzlDOvMXMbLqmQHiXXZrKaHDgtQQ56IIXOoK2OuwZyXO3ZS4XJcm2PhD6bJIxsG3olEgqvdGSquBhonVTeHKSUkq2QbGVPZ93ukBE=;KK1VJMefoSs25/B7M8CzWA=="
 ---
 

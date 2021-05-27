@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-dri
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/"
 type: article
 quality: 94
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg"
         width: 708
         height: 454
+        isCached: true
+  - title: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles"
+    excerpt: "Tesla Modifies Self-Driving Feature In Its Electric Vehicles<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> Tesla (NASDAQ:TSLA) has announced that it will no longer use radar in its driver-assistance features,"
+    publishedDateTime: 2021-05-27T11:35:00Z
+    webUrl: "https://menafn.com/1102146459/Tesla-Modifies-Self-Driving-Feature-In-Its-Electric-Vehicles"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/26/B_76102edb-cimage_story.jpg"
+        width: 1024
+        height: 400
         isCached: true
   - title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
     excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."

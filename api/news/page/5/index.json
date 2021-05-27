@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-22-berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center.md",
+      "title": "Berry Robotics unveils plastic sorting robot at Evansville recycling center",
+      "excerpt": "Mayor Lloyd Winnecke joined officials from Berry Global Friday morning to officially cut the ribbon on a plastic sorting robot at Tri-State Resource Recycling making",
+      "sourceUrl": null,
+      "webUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
+      "originalUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/05/snapshot22.jpg?w=1280",
+          "width": 1280,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
+      "cdnAmpWebUrl": "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
+      "publishedDateTime": "2021-05-21T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVW",
+        "domain": "tristatehomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-deepmind-reportedly-lost-a-yearslong-bid-to-win-more-independence-from-google.md",
       "title": "DeepMind reportedly lost a yearslong bid to win more independence from Google",
       "excerpt": "Tensions between Google and its AI brain trust DeepMind have always been fascinating. To put the relationship in crude terms: DeepMind, founded in 2010, is home to some the best AI researchers in ...",
@@ -992,6 +1035,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
+      "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
+      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a DICOM format to standardize acquisition.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1515536/AAT_New_Platform_AI.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-mapping-and-logistics-startup-nextbillion-raises-625m.md",
       "title": "Mapping and logistics startup NextBillion raises $6.25M",
       "excerpt": "NextBillion, a geospatial data startup that provides software-as-a-service products for enterprises, today announced that it raised $6.25 million from M12, Microsoft’s Venture Fund. M12’s investment extends NextBillion’s 2020 $7 million series A funding from Lightspeed and FalconEdge,",
@@ -1134,111 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-big-brains-new-books-on-artificial-intelligence.md",
-      "title": "Big Brains: New Books on Artificial Intelligence",
-      "excerpt": "Reading ‘Genius Makers,’ ‘A Brief History of Artificial Intelligence,’ ‘Atlas of AI’ and ‘Futureproof.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "originalUrl": "https://www.wsj.com/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-341172/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-brains-new-books-on-artificial-intelligence-11621607063",
-      "publishedDateTime": "2021-05-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data.md",
-      "title": "Facebook Wav2vec-U learns to recognize speech from unlabeled data",
-      "excerpt": "Facebook claims to have developed an AI model that learns to recognize speech without the need for annotations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/amp/",
-      "publishedDateTime": "2021-05-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

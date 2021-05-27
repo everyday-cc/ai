@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automatic detect lung node with deep learning in segmentation and imbalance data labeling"
+    excerpt: "In this study, a novel method with the U-Net-based network architecture, 2D U-Net, is employed to segment the position of lung nodules, which are an early symptom of lung cancer and have a high probability of becoming a carcinoma,"
+    publishedDateTime: 2021-05-27T10:25:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90599-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 30
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90599-4/MediaObjects/41598_2021_90599_Fig1_HTML.png"
+        width: 606
+        height: 685
+        isCached: true
   - title: "Transforming our understanding of deep learning"
     excerpt: "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms."
     publishedDateTime: 2021-05-26T10:55:00Z

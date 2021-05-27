@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-ro
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists Bring The Sense Of Touch To A Robotic Arm"
-    excerpt: "A man who is paralyzed can quickly perform tasks like pouring a glass of water, thanks to a mind-controlled robotic arm that conveys a sense of touch."
-    publishedDateTime: 2021-05-22T17:57:00Z
-    webUrl: "https://www.wbur.org/npr/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "http://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815_custom-8ffe72ab4ed1cd6a862fd29984d7bb30c82b1cdf.jpg?s=6"
-        width: 948
-        height: 589
-        isCached: true
   - title: "Researchers Create Mind-Controlled Robotic Arm With Sense of Touch"
     excerpt: "Touch feedback allowed a man with electrodes implanted into his brain to command a robotic arm and complete tasks quickly"
     publishedDateTime: 2021-05-25T11:30:00Z

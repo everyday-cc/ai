@@ -34,6 +34,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
+    excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision"
+    publishedDateTime: 2021-05-27T11:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-301300413.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
     excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
     publishedDateTime: 2021-05-25T16:00:00Z

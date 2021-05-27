@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
 type: article
 quality: 54
 heat: -1
@@ -368,7 +368,7 @@ related:
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-05-26T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kms-lighthouse-now-available-microsoft-azure-marketplace-/2021/05/26/9378094.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
     type: article
     provider:
       name: TMCnet
@@ -398,6 +398,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "FtxLA9rnEGpD8AFCmRjCt7xa+GiNY1CD8G3b32G9qW6gKzrHGRt8b3MEtValekh9n3+2Fkqfd0fdqlq22w3GU/siVTMbgh+69JqI85HECoU/7Sq8XPCw5kcA717jcZt0unVzTNIZxUT4DcTvl6KpzQw2ceZp5HBereKOce5nbrO7VUNqDglrVbywXvqmoBQae+QAszPWKJeOelUfdpbLnbkjmFDhfvTcNpaIHPVjynriWkrrMkwdUErLKqi2VfNAux2W7FJkWq1kCAL9Tb5EOJf+z0wtXX2JErJ6iE4yG35bPxclGKwoe0XW8Q/GKXZhdnYcg/e8B+GHTy/x1tQdkYqW0LVZR4gy6JxRdPCbGko=;MjUV+0EJ+A5Pp4OSxTiJog=="
+secured: "TTKCVj4DGx4u9u08TYCwn6Y88mqf2wfqHq6V/tIqZQ+lrbLIpC8NF17JSn8dDYKbjq983sPBzC9BAAEFNOcBfJ0s69pLkQfuDZ7aT+BXHD+Y+oDdUItA2/5g/4VrsCZbf8TtQjV8xy86FlkHrg4UCJQU7hwSJVcO2n01rbNhMVDeEmNQkqY5fPVOkN1q27twhTqy+EmJJPHDpmYUmHltFVXT9ngzovX8p7U0KV0bRjDq6gYs4pCELgYMghPEC+TQqko7vKJJl2eMDoUHqZ5q5bEU8m4JmjfK8286AFZunxoWyEV/73WQL+TJjWgXH/lJJ3jEcaV8bwiqCU1GSqRzDMpYGP8aQ0QUmOb8oMM8et8=;/RRTiF3QQI4O90sxR7OtlA=="
 ---
 

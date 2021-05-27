@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-14-facebooks-new-technique-helps-ai-systems-forget-irrelevant-information.md",
+      "title": "Facebook’s new technique helps AI systems forget irrelevant information",
+      "excerpt": "Facebook claims to have developed a technique that enables AI models to forget irrelevant information while retaining relevant data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
+      "originalUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
+      "publishedDateTime": "2021-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths.md",
       "title": "AI under the sea: Autonomous robot to collect data from new depths",
       "excerpt": "Terradepth CEO talks about a project to map out and collect data from all the oceans of the world. The company uses artificial intelligence and machine learning to gather and make sense of the data.",
@@ -1133,58 +1185,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
-      "title": "The fulfilling world of warehouse robotics",
-      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
-      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
-          "width": 1024,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
-      "publishedDateTime": "2021-05-13T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

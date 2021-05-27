@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
+      "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
+      "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae53b5af931c3c2f08b5b6%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
+      "publishedDateTime": "2021-05-26T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year.md",
       "title": "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year",
       "excerpt": "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -97,7 +149,7 @@
       "originalUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -785,7 +837,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1166,57 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-how-watson-discovery-helps-contractpodai-provide-legal-excellence.md",
-      "title": "How Watson Discovery helps ContractPodAi provide legal excellence",
-      "excerpt": "IBM Watson Discovery speeds contract renewal time by 50% IBM Watson Assistant helps counsel find specific information among thousands of data points IBM business partner ContractPodAi offers an end-to-end contract management solution designed by lawyers for lawyers. The solution aims to dissolve traditional",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ContractPodAI_V2_2000x1006.jpg",
-          "width": 2000,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T06:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

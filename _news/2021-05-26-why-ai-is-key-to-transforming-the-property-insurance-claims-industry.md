@@ -31,6 +31,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 88
+  - title: "Is AI Disrupting or Enhancing the Asset Management Industry?"
+    excerpt: "Technologies like machine learning and AI are changing the way that we do many things, including asset management, investing, trading, and managing money."
+    publishedDateTime: 2021-05-27T08:32:00Z
+    webUrl: "https://dataconomy.com/2021/05/is-ai-disrupting-enhancing-asset-management/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/05/is-ai-disrupting-enhancing-asset-management.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "How is the Adoption of AI Helping the Gaming Industry?"
     excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
     publishedDateTime: 2021-05-25T07:30:00Z

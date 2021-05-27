@@ -18,9 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - IBM AI
+  - AI
 
 images:
   - url: "https://assets.entrepreneur.com/providers/stockmarket/hero-image-stockmarket-371987.jpeg?width=600&crop=16:9"
@@ -28,6 +27,6 @@ images:
     height: 338
     isCached: true
 
-secured: "y1Mkdlb1PwNqTUHksktHS9Mj2+s7MoFLHT+AwSkJyzLaZBeE+gSlLtYvCXVFuMYEReElXDzDD/9dhEYzvf4l8O6hhr9uKLKfJ8bRCfNxKb/l8OL0OTv0cEh41qh96NKi45V/8swj9UIXMADLd2jTcDE5ME/z+si+QJcyTgkI9DYEoccGHdJkI98WwbegZt5HK3JBqWLuGYx88l1PI89bgnVem5rr+8lvZLNKt+EpD7MNbicPEl8mOoHaR0shSLsgbOxzMkFPAwF4b+9Xo6z3e4nkNBUc/QFKToufTZLgJujvXTlsGQvlP3T1TPad/lV6g6GVNHNp6zFABCJnekzvNDsB/0nkEbRq/DFn2sBBp3Q7VEFt6LI+EdIU38l8HLRv9e+jPovQoXZrQWd6u8zUXOjyIwima9hEIHzVrmakp/wj6ATSfhGMHSOlXZhTDjhJby/drxYSWOkRw451QHfwqZZH+QT8B7y/IppZG9PMu7mS1GhEikgpOAQOk/CTrrDWuzP8nXJhSRGB23W4BFTgVw==;MKqfrDHCTl62oEDXnq8NcA=="
+secured: "KWzG43SEmCcT5BKzB6nhFv1MXw0nSgvZQWE43GRdltegiW6Xjpygo2N7/LJSFyiJl+JknQU14BmQ/mv1rDZcf9RntA48XmG2U4RZqHACLK3RfF5QkReNILse7ZSV8hCBmUE3fN1BUyYkpRGH5/LOnFyyZF5sYkFSAHeGFNPx+58OzYu0WdKwhMzg9lH3SfbjEZCPIskc+5oZf+tKNrruuUjzQCWtvwA77oBlcO0afuk0/KsLyw7jPlTNQ/pvlWUojWI3MZhNtp5WthoWwIiM3MFPAxqwjqPV6wcdetFn/TdMPgmRMRio18TM8bdeW+CD7bQrV9iV0L+x6XIGGbZ1Hulp6toynQ6e/8+U3dI0Q+U=;gALXOUsSG8+hiYfJW8WpSw=="
 ---
 

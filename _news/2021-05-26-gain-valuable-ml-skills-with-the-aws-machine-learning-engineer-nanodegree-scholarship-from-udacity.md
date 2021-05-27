@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-ski
 webUrl: "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Udacity, AWS to Offer Free Courses in Machine Learning"
+    excerpt: "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ..."
+    publishedDateTime: 2021-05-27T11:42:00Z
+    webUrl: "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 76
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Udacity and AWS collaborate to offer more free courses in Machine Learning"
     excerpt: "Read Article Udacity, an online learning platform powering the careers of the future, has announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS)."
     publishedDateTime: 2021-05-27T08:44:00Z
@@ -45,6 +61,20 @@ related:
       - url: "https://cdn.crn.in/wp-content/uploads/2018/12/06142541/Partnership.jpg"
         width: 696
         height: 465
+        isCached: true
+  - title: "AWS & Udacity Launch Machine Learning Scholarship Program"
+    excerpt: "AWS strives to help level the playing field for women and people of colour, who have been underrepresented in the tech industry."
+    publishedDateTime: 2021-05-27T10:39:00Z
+    webUrl: "https://analyticsindiamag.com/aws-udacity-launch-machine-learning-scholarship-program/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Udacity_AIM.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning"
     excerpt: "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning"
