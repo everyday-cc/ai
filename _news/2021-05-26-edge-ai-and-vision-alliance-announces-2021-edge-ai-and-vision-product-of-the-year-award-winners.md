@@ -28,7 +28,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg"
         width: 400

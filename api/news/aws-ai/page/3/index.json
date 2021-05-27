@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-26-hpe-why-mission-critical-storage-needs-more-intelligence.md",
-      "title": "HPE: Why mission-critical storage needs more intelligence",
-      "excerpt": "SPONSORED Storage is perhaps the most fiendishly complex part of enterprise IT, as the storage infrastructure has to meet the demands of a range of workloads with differing requirements for performance,",
-      "sourceUrl": null,
-      "webUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
-      "originalUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blocksandfiles.com/wp-content/uploads/2021/04/shutterstock_colored_blocks.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blocksandfiles",
-        "domain": "blocksandfiles.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-25-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
       "title": "Why applied AI requires skills and knowledge beyond data science",
       "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
@@ -1389,6 +1346,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-clock-ticking-for-strategy-to-maintain-us-global-lead-in-artificial-intelligence.md",
+      "title": "Clock Ticking for Strategy to Maintain U.S. Global Lead in Artificial Intelligence",
+      "excerpt": "U.S. technological advantages over great power competitor China could be lost in less than 10 years without a robust and comprehensive artificial intelligence (AI) security strategy, according to the findings of an independent government commission.",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
+      "originalUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seapowermagazine.org/wp-content/uploads/2021/04/AI-Navy-UGVs-for-AI-webbie-scaled.jpg",
+          "width": 2048,
+          "height": 1515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },

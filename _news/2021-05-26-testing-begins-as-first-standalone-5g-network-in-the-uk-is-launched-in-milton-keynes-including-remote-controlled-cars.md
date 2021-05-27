@@ -3,8 +3,8 @@ category: news
 title: "Testing begins as first standalone 5G network in the UK is launched in Milton Keynes including remote controlled cars"
 excerpt: "Look out for more robots and driverless cars in Milton Keynes as a new standalone 5G network will be used to test futuristic technology, starting today (May 26). Once again Milton Keynes will be the testing ground for more futuristic and novel uses of modern technology."
 publishedDateTime: 2021-05-26T13:44:00Z
-originalUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104?itm_source=parsely-api"
-webUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104?itm_source=parsely-api"
+originalUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
+webUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
 type: article
 quality: 1
 heat: 1
@@ -24,6 +24,6 @@ images:
     height: 1536
     isCached: true
 
-secured: "Wngrhy6UZBrRt2BTffgYzKA/yzxw+AEAT6tc3Q1ZsQu1TW+pByQEqBZAFfVL1bBWJhy7Pf1jZ2C/KXG1SvcfxB+UunszKZJG5KC5Nx1iJJU0aqydrwMG7+9twP1E9lmVy8v2QjZxKYzqWJonH0IWZNKaMGKmuKCjWn4eO6O5p28SkjNgnZhGHhNctjkKIYZ7AHGSRrFi0L5J/igB/KM+nb1cV9SknD9g+yBrd15TeqCXPzcF4fuWeFHslSvrtKLgRZZ8rSavV9hYTBwq3JsRTnSnZtm2juPkuN2tO0k7PyT5Byx7i/UzC1/c2PEQS9lgv1N3pJiDFY7mKWkKinviuj+qrY6+9Oqon71l8ysvqco=;+s+mMOjN20uGllN61IvILA=="
+secured: "nsDKQKVww6ks0k+qRI9+r/e0uFgdg2oKsOCjhqCApGPmm3qmmiQwpsqgedWfyM2rd/t/g5zblIHyiTgCZILmtKfVWfQ+ynunWojQgPxbiIn+peuAf6dVSRXe8mV06/tk/M7LfAWVSKCxPuC0NUmCBpwAkuEjIj3I+5cH3mBseuEfwNWVIT55vGQF7/3hilH/3yfaxRnaTbnpiVdbHr8aDigwtFOYq2a1cSuCj7gUYAdIoNzAt093JKMZboGX+RpxEkOhZNZbLuaalgQpCo8tGeARRUocAlLc9EpimcONIvNRnK0w1nAM8mXyNt8r0z5vLIddbMBWAq9b+lbysLWn3s+eskCu0b4NyuG9VQl8ssc=;y2xgJinl3c9eLJ3OX4bTaA=="
 ---
 

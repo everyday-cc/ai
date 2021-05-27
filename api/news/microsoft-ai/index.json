@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-27-artificial-intelligence-ai-in-supply-chain-and-logistics-market-the-latest-trends-ibm-google-baidu-microsoft.md",
+      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market: The Latest Trends | IBM, Google, Baidu, Microsoft",
+      "excerpt": "The latest analysis released by HTF MI on Global Artificial intelligence AI in Supply Chain and Logistics Market Outlook 2020 Survey results sheds light on how investment and competitive landscape is impacted due to significant changes in the Artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
+      "originalUrl": "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U527291217_g.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
+      "publishedDateTime": "2021-05-26T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-google-unveils-cloud-products-to-help-analyze-and-organize-data.md",
       "title": "Google unveils cloud products to help analyze and organize data",
       "excerpt": "At its inaugural Data Cloud Summit, Google introduced a slew of new products, including Dataplex, Datastream, and Analytics Hub.",
@@ -1384,58 +1429,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
-      "title": "Ground processing with space data 5x faster with Azure",
-      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
-          "width": 1028,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T23:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

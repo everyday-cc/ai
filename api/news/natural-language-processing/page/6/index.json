@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-20-the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust.md",
+      "title": "The success of speech recognition in commercial applications comes down to trust",
+      "excerpt": "Joel Chimoindes, VP Europe at distributor Maverick AV Solutions, speaks to Tim Kridel about the opportunities for speech recognition in pro AV applications. TK: What’s driving interest in and adoption of speech recognition for pro AV applications?",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
+      "originalUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
       "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
       "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
@@ -1156,49 +1190,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application.md",
-      "title": "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-29-new-machine-learning-based-tool-to-help-physicians-determine-best-test-for-chest-pain.md",
+      "title": "New machine learning-based tool to help physicians determine best test for chest pain",
+      "excerpt": "The choice between two non-invasive diagnostic tests is a common dilemma in patients who present with chest pain. Yale cardiologist Rohan Khera, MD, MS, and colleagues have developed ASSIST, a new digital decision-aiding tool.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/chestpain.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
+      "publishedDateTime": "2021-04-29T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-machine-learning-chips-market-dynamic-demand-analysis-statistics-trends-and-opportunities-to-2026.md",
       "title": "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026",
       "excerpt": "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the",
@@ -1368,59 +1411,6 @@
         "Machine Learning",
         "Google AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-nvidia-crushes-latest-artificial-intelligence-benchmarking-tests.md",
-      "title": "NVIDIA Crushes Latest Artificial Intelligence Benchmarking Tests",
-      "excerpt": "Goodson dives deeper as in its third round of submissions, MLCommons released results for MLPerf Inference v1.0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
-      "publishedDateTime": "2021-04-22T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

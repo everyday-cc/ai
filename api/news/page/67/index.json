@@ -2,6 +2,135 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
+      "title": "Computer vision software has the potential to reinvent the way cities move",
+      "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
+      "originalUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-951157764.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
+      "publishedDateTime": "2021-03-26T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-watch-the-role-of-artificial-intelligence-in-auto-finance.md",
+      "title": "Watch: The role of artificial intelligence in auto finance",
+      "excerpt": "Auto lenders are turning to artificial intelligence (AI) and machine learning to increase efficiencies, improve customer service and expand marketing endeavors. Yet, incorporating new technology stacks poses challenges that financiers will need to navigate in order to take full advantage of the opportunities AI offers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
+      "publishedDateTime": "2021-03-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Finance News",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-how-microsoft-azure-is-powering-digital-transformation-from-the-cloud.md",
+      "title": "How Microsoft Azure is Powering Digital Transformation From the Cloud",
+      "excerpt": "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-microsoft-azure-is-powering-digital-transformation-from-the-cloud-2021-03-26",
+      "originalUrl": "https://www.nasdaq.com/articles/how-microsoft-azure-is-powering-digital-transformation-from-the-cloud-2021-03-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-philly-airport-screening-international-travelers-using-facial-recognition-technology.md",
       "title": "Philly airport screening international travelers using facial recognition technology",
       "excerpt": "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters",
@@ -1004,127 +1133,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-configure-amazon-forecast-for-a-multi-tenant-saas-application.md",
-      "title": "Configure Amazon Forecast for a multi-tenant SaaS application",
-      "excerpt": "Amazon Forecast is a fully managed service that is based on the same technology used for forecasting at Amazon.com. Forecast uses machine learning (ML) to combine time series data with additional variables to build highly accurate forecasts. Forecast requires no ML experience to get started. You only",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configure-amazon-forecast-for-a-multi-tenant-saas-application/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-amazon-forecast-for-a-multi-tenant-saas-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/24/1-Tenancy_v2.jpg",
-          "width": 450,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T13:17:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-announces-general-availability-of-amazon-lookout-for-metrics.md",
-      "title": "AWS Announces General Availability of Amazon Lookout for Metrics",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-lookout-for-metrics/article_d7b04c53-117a-587d-b267-25492631dbeb.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-lookout-for-metrics/article_d7b04c53-117a-587d-b267-25492631dbeb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-partners-with-hugging-face-to-democratize-access-to-nlp-models.md",
-      "title": "AWS partners with Hugging Face to democratize access to NLP models",
-      "excerpt": "AWS is collaborating with Hugging Face to aid in making NLP simpler to train and optimize on AWS. Thanks to the new HuggingFace estimator in the SageMaker SDK, customers can easily train, fine-tune, and optimize Hugging Face models built with TensorFlow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145972",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145972",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

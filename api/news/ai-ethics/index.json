@@ -249,6 +249,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
+      "title": "It takes a lot of energy for machines to learn – here's why AI is so power-hungry",
+      "excerpt": "One study has found that training BERT once has the carbon footprint of a passenger flying a round trip between New York and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
+      "originalUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.britannica.com/56/222356-131-19F4FC94/geography-travel-health-medicine-science-technology.jpg",
+          "width": 900,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Britannica",
+        "domain": "britannica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-sofic-news-microsoft-socom-discuss-ethical-use-of-artificial-intelligence.md",
       "title": "SOFIC NEWS: Microsoft, SOCOM Discuss Ethical Use of Artificial Intelligence",
       "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
@@ -1398,49 +1442,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-artificial-intelligence-what-about-its-ethical-deployment.md",
-      "title": "Artificial Intelligence – what about its ethical deployment?",
-      "excerpt": "While companies are making progress deploying artificial intelligence and machine learning, more than half of enterprises overestimate their levels of maturity in deploying responsible AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment",
-      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/photos/2021/04/29/meralco-pasay-substation_2021-04-29_16-50-43755_thumbnail.jpg",
-          "width": 686,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
-      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
-      "publishedDateTime": "2021-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

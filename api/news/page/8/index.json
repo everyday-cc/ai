@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-20-the-church-of-ai-is-dead-so-whats-next-for-robots-and-religion.md",
+      "title": "The Church of AI is dead… so what’s next for robots and religion?",
+      "excerpt": "The Way of the Future, a church founded by a former Google and Uber engineer, is now a thing of the past. It’s been a few months since the world’s first AI-focused church shuttered its digital doors,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "originalUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image?fit=300%2C205&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-23.jpg&signature=13bdf3c189e2e230044f8b63ee740134",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-new-120m-round-doubles-ai-startup-asapps-valuation-to-16b.md",
+      "title": "New $120M round doubles AI startup ASAPP’s valuation to $1.6B",
+      "excerpt": "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/",
+      "originalUrl": "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png",
+          "width": 997,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-deep-learning-algorithm-estimates-cancer-risk-of-pulmonary-nodules.md",
+      "title": "Deep-learning algorithm estimates cancer risk of pulmonary nodules",
+      "excerpt": "A deep-learning algorithm can yield comparable performance to experienced thoracic radiologists in estimating the malignancy risk of pulmonary nodules on chest CT exams, according to research published online May 18 in Radiology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
+      "originalUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_19_18_58_7336_2021_05_18_AI_CT_social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AuntMinnie",
+        "domain": "auntminnie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation.md",
       "title": "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation",
       "excerpt": "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes.",
@@ -1065,166 +1202,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-the-covid-19-pandemic-has-supercharged-ai-for-telcos.md",
-      "title": "The COVID-19 pandemic has supercharged AI for telcos",
-      "excerpt": "While IBM was initially concerned the COVID-19 pandemic would bring operations to a screeching halt, we’ve observed quite the opposite for telcos. Last year was a turning point for AI in the telco industry, which was faced with increasing bandwidth demands due to the influx of people staying home. Calls",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC_121_Telco_Trends_2000x1006-scaled.jpg",
-          "width": 2560,
-          "height": 1288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T06:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-114-milestones-in-the-history-of-artificial-intelligence-ai.md",
-      "title": "114 Milestones In The History Of Artificial Intelligence (AI)",
-      "excerpt": "The evolution of AI from theoretical concepts to machine logic to expert systems to machine learning to artificial neural networks and big data-based deep learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a46f458055cee11c70a746%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1429%26cropY1%3D174%26cropY2%3D1245",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "IBM AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-alteryx-expands-analytics-automation-platform-with-new-ml-features.md",
-      "title": "Alteryx expands analytics automation platform with new ML features",
-      "excerpt": "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

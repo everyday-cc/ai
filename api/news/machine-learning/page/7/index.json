@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-06-3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla.md",
+      "title": "3D printed all-optical diffractive deep neural network created at UCLA",
+      "excerpt": "Researchers from UCLA have used a 3D printer to create an artificial neural network able to analyze large volumes of data and identify objects at the speed of light. The system is called a diffractive deep neural network (D2NN). It uses the light scattered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/",
+      "originalUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/ucla-od.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/amp/",
+      "publishedDateTime": "2021-04-06T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.md",
       "title": "Deep learning algorithms improve diagnostic performance of breast ultrasound",
       "excerpt": "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide.",
@@ -1284,40 +1336,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-automated-detection-of-critical-findings-in-multi-parametric-brain-mri-using-a-system-of-3d-neural-networks.md",
-      "title": "Automated detection of critical findings in multi-parametric brain MRI using a system of 3D neural networks",
-      "excerpt": "With the rapid growth and increasing use of brain MRI, there is an interest in automated image classification to aid human interpretation and improve workflow. We aimed to train a deep convolutional neural network and assess its performance in identifying abnormal brain MRIs and critical intracranial findings including acute infarction,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-86022-7",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-86022-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1289
         isCached: true
+  - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
+    excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
+    publishedDateTime: 2021-05-26T23:09:00Z
+    webUrl: "https://www.ucsf.edu/news/2021/05/420661/fetal-heart-defect-detection-improved-using-machine-learning"
+    type: article
+    provider:
+      name: UC San Francisco
+      domain: ucsf.edu
+    quality: 39
+    images:
+      - url: "https://www.ucsf.edu/sites/default/files/styles/quarter/public/2021-05/fetal-ultrasound-heart-structures-highlighted.jpg"
+        width: 330
+        height: 413
+        isCached: true
 
 secured: "ndDwkhvHGd1AwCW5kqki/t3U48uOmIY5SkuDIgFyAtxDGhl823XODUFAKKE7YKP5P3MhSM2FES+cdpSawIXRuWSk6C3O+iUdVQRGy6q6q7I2a9Y+QKfbtLSOKUuGZOr5Zt+qls7Xwy4/uCh0r4BYQE6aOXAgDhwpc7DBeeHeraKsg5VHwzJ85+wp5Xz+XaGK+HKQ2L1yGXYS45eVpikrfJDC0dRYBhPeH0m0OFbw0L5vg2t1KvfuU7B+PIcoAi0lAv5ejyHgVnB8PTo0UEDFLgAAVLFaUVvMJf5om8nDrTvJ4WwMms82qX4VkPCcCyuS/6q7lsZEAzBkh+vGeIzehrjcnd55pql0cgDMHAE+Z3RlqC0KUmMeMVBLJgbYcWvawmwCzZcxEK2FPjnwZ7beUevFZ3k6j81YuTmEhdcUamtPbvZxGM6RD19EyVN2HatYjuvep7bPkSLJP3Z0pMQxSFsAGa3GXsz/E4/2Eii3zvDS4gcckG00pxjaAnEhn+P1aXL8pW5kvHYhL1eaUXS9ng==;QkbWurf2/81qXFkGCHPNdA=="
 ---

@@ -295,20 +295,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
-    publishedDateTime: 2021-05-26T12:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Top ML Announcements From Microsoft Build 2021"
     excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
     publishedDateTime: 2021-05-26T11:47:00Z
@@ -340,7 +326,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
     type: article
     provider:
       name: CRN
@@ -379,6 +365,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-26T12:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Build 2021: Microsoft extends low code Power Platform with VS extensions, GPT-3 support"
     excerpt: "The Power Platform team uses Azure Machine Learning managed endpoints, a new capability announced in preview at Build that helps users to deploy models of all"
     publishedDateTime: 2021-05-25T15:23:00Z

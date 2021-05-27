@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-09-nlpcloudio-helps-devs-add-language-processing-smarts-to-their-apps.md",
+      "title": "NLPCloud.io helps devs add language processing smarts to their apps",
+      "excerpt": "While visual ‘no code‘ tools are helping businesses get more out of computing without the need for armies of in-house techies to configure software on behalf of other staff, access to the most powerful tech tools — at the ‘deep tech’ AI coal face — still",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/",
+      "originalUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg?w=1024",
+          "width": 1024,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/amp/",
+      "publishedDateTime": "2021-04-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
       "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
       "excerpt": "\"Any defects connected with these protein droplets can lead to diseases such as cancer. This is why bringing natural language processing technology into research into the molecular origins of protein malfunction is vital if we want to be able to correct ...",
@@ -1243,40 +1295,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust.md",
-      "title": "The success of speech recognition in commercial applications comes down to trust",
-      "excerpt": "Joel Chimoindes, VP Europe at distributor Maverick AV Solutions, speaks to Tim Kridel about the opportunities for speech recognition in pro AV applications. TK: What’s driving interest in and adoption of speech recognition for pro AV applications?",
-      "sourceUrl": null,
-      "webUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
-      "originalUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InAVate",
-        "domain": "inavateonthenet.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

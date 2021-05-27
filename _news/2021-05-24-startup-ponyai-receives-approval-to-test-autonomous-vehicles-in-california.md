@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese startup Pony.ai can now test driverless vehicles in three California cities – TechCrunch"
-    excerpt: "Chinese language robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous automobiles and not using a human security driver behind the wheel in three cities."
-    publishedDateTime: 2021-05-22T07:45:00Z
-    webUrl: "https://bestgamingpro.com/chinese-startup-pony-ai-can-now-test-driverless-vehicles-in-three-california-cities-techcrunch/"
+  - title: "Robotaxi Company Pony.ai Gets Permits To Test Vehicles In Irvine"
+    excerpt: "Pony.ai, a Chinese company developing driverless \"robo-taxi\" vehicles, has gained permission from the California Department of Motor Vehicles (DMV) to test its vehicles on public roads in Irvine, along with Fremont and Milpitas."
+    publishedDateTime: 2021-05-24T13:52:00Z
+    webUrl: "https://www.socaltech.com/robotaxi_company_pony_ai_gets_permits_to_test_vehicles_in_irvine/s-0081300.html"
     type: article
     provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
+      name: SocalTech
+      domain: socaltech.com
+    quality: 37
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Chinese-startup-Pony.ai-can-now-test-driverless-vehicles-in-three.png"
-        width: 764
-        height: 400
+      - url: "https://www.socaltech.com/images/story/ponyaicar21.png"
+        width: 391
+        height: 220
         isCached: true
 
 secured: "MF/jz01WrHNVtUDV7eyCpMVvasy8SxGpHLEn/fb5gTIG7+z+3eULPG9L+3wqiXSRAHGObxNr6Iv0uQSrJLtTh9f5NB/gCk/9qj0R0yyWRl3GmxMZHMfwaUpbIgGLnayZf5e/RXrVV4UnnlQG9MhJPM3cGnUtGjF4/dQvRzD18lgLXq+QOcfGe6SPmw598w8zhS2AEflW1siFEl6E297LKQ0KyIbCjYOTPyq93Af47zfso41o+K3d8O26ef739GWShV7l0MsW2KfLdMYELNbp+lV8tsWngTijIEUVCiT7SOe0LZhrtg9+bUtjdi8FeAayq48QF0zX9YJ0yGbk57QHltklg+vdM64K8uXH1KuQTBi5vaXiwX+nxAM17yO/eHHjYOZ/uCw+x6UPZ7E4u0YyFTkKd9vJfgSxWFND3LJ7z/2Lc4s5dLm2As+TXhQmvP5sIWmEXrsxZZCejns4v5UiJHmkvRrw50DJWBeF+R4fr7ZqerKG7H9cqzrZJ+EPjAaVtyzO2CyfhcuO7g65HtU4Eg==;bYbYDCBqYHO3whvlIbXV8w=="

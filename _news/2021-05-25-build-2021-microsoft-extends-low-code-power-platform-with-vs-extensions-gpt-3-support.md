@@ -297,20 +297,6 @@ related:
         isCached: true
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
-    publishedDateTime: 2021-05-26T12:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
     publishedDateTime: 2021-05-26T17:00:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
     type: article
@@ -354,7 +340,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
     type: article
     provider:
       name: CRN
@@ -393,6 +379,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
+    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-05-26T12:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-05-25T18:08:00Z

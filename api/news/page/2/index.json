@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-betterhalfai-raises-3-mn-in-pre-series-a-round.md",
+      "title": "Betterhalf.ai Raises $3 Mn In Pre-Series A Round",
+      "excerpt": "The company plans to utilize the funds to boost user engagement on the app, adding monetization features, and increasing product discovery across organic channels",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372905",
+      "originalUrl": "https://www.entrepreneur.com/article/372905",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622020333-Betterhalf-team.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372905",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372905",
+      "publishedDateTime": "2021-05-26T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-rezoai-raises-seed-funding-led-by-modulor-capital.md",
+      "title": "Rezo.ai Raises Seed Funding Led By Modulor Capital",
+      "excerpt": "Conversational AI startup Rezo.ai on Wednesday informed to have raised an undisclosed amount in Seed funding led by Modulor Capital, Dexter Angel Network, Veda, and prominent angels including Bhavesh Manglani (co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372901",
+      "originalUrl": "https://www.entrepreneur.com/article/372901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622016398-ManishRashiGuptaCo-foundersRezoai1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372901",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901",
+      "publishedDateTime": "2021-05-26T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027.md",
       "title": "Artificial Intelligence (AI) In Retail Market Size to Record 29.7% CAGR Through 2027",
       "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution, Services), by Function, by Technology and Regional Forecasts 2020-2027',",
@@ -1118,110 +1220,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast.md",
-      "title": "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast",
-      "excerpt": "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-why-businesses-should-take-note-of-the-artificial-intelligence-of-things.md",
-      "title": "Why Businesses Should Take Note Of The Artificial Intelligence Of Things",
-      "excerpt": "Time will tell, but perhaps adding AIoT to your “biggest tech breakthroughs in modern history” list will happen sooner than you think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd921f231029bc6eaa81aa1%2F0x0.jpg%3FcropX1%3D1017%26cropX2%3D9853%26cropY1%3D0%26cropY2%3D4968",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/amp/",
-      "publishedDateTime": "2021-05-25T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

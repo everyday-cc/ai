@@ -1,28 +1,22 @@
 ---
 category: news
 title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
-publishedDateTime: 2021-05-26T12:00:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-861187119.html"
+excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-05-26T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft Azure launches enterprise support for PyTorch"
@@ -340,7 +334,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
     type: article
     provider:
       name: CRN
@@ -403,6 +397,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "tcD7KL/BGE+PqmJ26cZOoLD+go30zBpxoGkaQyXOeoGer4pGENqyNvMHM5Xk3ti9TvVOXbCdazR+g3BmnNSmBfi4ce3Ex9g6OdRncFvQBJ82P54qkDcoqAVEqqej+FDDcnAcG9XJFMg7xPNcEwhVZbUiuE/+14XyHBTEj9ujZVZOwdLwBLyNsNHd80/U/yu4EfyElDmlkBg2hFoGPoiYRGsfsHCx5eATaDdL81foT2wwJb5BN0qcy3eQRR2dUtaUrJdLr+RkUR3lDk9ERke96ekVE20QEzugZGoV9VJO+o3IqAsF9rTfwHVp0iJygP86Gtn2ByOzDyvGK3NCpxtYPOh9E5KXoabpApEe1MT+Szw=;m08o8kzqhJkocTvePwUaiw=="
+secured: "m2OcgtP2MiTSOZ64khSNb06+HP7dN+D+oyfFJ1AVZtQhcMmyYbdg++qhPbVM+zdobDalHXZ2jLUePaLso7BUQZOCN9YtuTFRqw5VfwLP+AbhnGg9FFjR6jbORP2wrRlwcYN1PbuJuS49qg/SVgfjYS9i4YZkIIxF+PksV1HBK+bNow4okcY3aZHdQRr+GaFQO/LfKbBRQUA5H4IwOyvppdifPrTx8OMHz5SWq6iSIue8ACpTLsr0Ez0s7j9yA8xMfqKKTbIocOREWn5OUclg57xnsClhNgXwyicGEy+3bF91YLJCpcOaY8wMMyDrAciM+9wJNYTGpfaxc/BWo65PPZWDJW5nutVbrQwLWIhozrA=;8OJjKimXJcfeUcIh11nAtQ=="
 ---
 

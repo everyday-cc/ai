@@ -1,29 +1,23 @@
 ---
 category: news
-title: "AWS to open data centers in UAE"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Emirates (UAE) in the first half of 2022. The new AWS Middl"
-publishedDateTime: 2021-05-26T16:56:00Z
-originalUrl: "https://menafn.com/1102142381/AWS-to-open-data-centers-in-UAE&source=29"
-webUrl: "https://menafn.com/1102142381/AWS-to-open-data-centers-in-UAE&source=29"
+title: "AWS to Open Data Centers in UAE"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Em"
+publishedDateTime: 2021-05-26T08:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210525006052/en/"
+webUrl: "https://www.businesswire.com/news/home/20210525006052/en/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2021-05/26/M_54a76image_story.jpg"
-    width: 1200
-    height: 717
-    isCached: true
-
-secured: "0DkXoWI22wLi/S+m92/TCgmFWCnN6yLemgdk6RVSvCErGzH0Bg0qfg+uCjikVFhKZm/DFKOQMGknbdvgmE5UIWg8pj2MaCs/qiVtytSzK064Xzi1i0j/7pcPC8zqpaqrmRLMu5gRvrnyp3zWZcABMBWhML7qk7eebsSl3gXOYCCW3OWiqiArb15ab7osiaA6PlJDghG7M8hexgdy6g7tDmyZGAh23vaICfBzOkRj59e5jmTLoOnKj5rav0YQJx2pmuR1yixmE8EsERnONl6dA2Hw5wxEAp5RLLnPbECIDO4agv7Vfeyf+YDpIJwuOZAXZhfZ5jcwLhGGoqI8s1DC7nkuSorWhiq4VOurv27at9o=;gfxOpE9hKwuq0gk+UsgMcQ=="
+secured: "iaq0KtkWq2r5cw8qb1Q/FnB3Ndx4DuBkZyLW5cE4KNZb9XYrZ2YxTsabdoQ2kKPEVCCmtI0PnSpQxr/q7Z13oozgncqed1cr41mrrgMfO1eXZsPKJLZzAWCk8IRHPEmQhGYO7UmrK8UJE69N7edKfTW3to54xYeo9qBafZt7REgH9C324lki4hQbOy1+V+Cl1Iop7g5pNzyA9n0OftAIzmiSQUFxaXgozZ6ejs5egopJQjSs8ke79qSyD4xi+9eOX9W+eUcnarOvxVUUy19egSshMWAsFjDEOpoONYZuVtnGxQYHahwiudRrxEh0oR7e+ZIOS6YOsGfYu44cKvwP4exXYiQ9bQ36QMqXPPj8Mw0=;+4xzIWXnwlArgUf7LwS3fw=="
 ---
 

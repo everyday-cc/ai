@@ -141,6 +141,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year.md",
+      "title": "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year",
+      "excerpt": "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
       "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
       "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
@@ -626,10 +670,10 @@
     {
       "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
       "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
-      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The",
+      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21210159/ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -646,13 +690,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21210159",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21210159",
-      "publishedDateTime": "2021-05-19T23:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T23:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1380,59 +1424,6 @@
         "IBM AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
-      "title": "Your face, voice, and fingerprints could defend you against banking scams",
-      "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "originalUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/11/8104b7ae-9d38-43cb-8ac5-84137f5d6e35/thumbnail/770x578/be84cecb7e419c7da08de55941d1cefc/20210510-daphne-karen-bio.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

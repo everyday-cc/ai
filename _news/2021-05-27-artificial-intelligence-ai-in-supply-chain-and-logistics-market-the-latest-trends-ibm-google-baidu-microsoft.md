@@ -8,9 +8,9 @@ webUrl: "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-suppl
 ampWebUrl: "https://www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: openpr.com
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/5/U527291217_g.jpg"
@@ -27,6 +28,6 @@ images:
     height: 320
     isCached: true
 
-secured: "JrNHrHgQ+w8gl9F9MiVPcsTFJjKu37ZYD8ANgyDuRw33pydALoHr1U4Ib3zk1C+Odizt4vpRTyb8XMDEZH18jrUWAQ7M++oPQzZA1qnM06++NvRQnVg9qJx1IdGzjAMPjogHqYMB+zQ/u6XRVhF0AO8z3ST7vht0KYUZRd+yDaxx9DYtTiYQMS2RWbtgV3DCl5gpkx6d/wPnodrVC1ytsqRouPTgyQ9f1hh0LOPP/A6OfYlb+PQ+75w2AZGtZL3JOfYbhi9I451lhED7rV4bQaa1mwLOG0k2TcOgqs7rJV2JUPxBiXPY1fvuN7aIjsxJnulXicdw0zfNvJEj18TaUMRqWRylrzDv9Rt47KWU6t0=;dqpVx8GgM25gy1y5pPeIjw=="
+secured: "soq9bTjoPBYHYhA4noyyLkQ57kUo2TA118US2oJ8/iqY102sacVl0vN6CExayLC7vk0PkI7hxYXfCD1pINDiq/Liy81N9xECqZ5CPaC5hclndgqzJzXwpwyLJTdE2j/q85h3479Nwp1lQ7ZDUYqWeEPxbIsSRls//j4Su2yOh01qc0tenyhlKfyLdVOlfTbHgSH/fcay4DWimqz49zC8Gpf8tr0qupoWFoU/0L/VtNvt3CNe052UohxZi2EGTKSB0xqlHniH12AcrfLJrYP0W89/rM5ew6iDqjQTXPzNbwawAdJHqzUinZ5dswcVBSFkJ/kgqT8lCHYO74hyDh3n2+VXr9t12PGYR18dppTsLTqlOpzBc5WuQ5tqJ+H2LaEVO3RG8Z7oP1SU5OFTN5+EvFKGHRH7DIhqWbjtvG8fYFJy2naeAa/i4/biuV8wBzcsSmCK6HqKgUV0bdp4wQuRUpsj9q5KUw+QyCbWt8O1Pb0NR4OZX5qn/JTR1j/GkOU+Oo2R6C/hfuGHlJnwNTmx6Q==;Yh0kbppuv4NghRfTHbBXwQ=="
 ---
 

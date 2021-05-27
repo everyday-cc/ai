@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-04-focus-on-big-science-the-collaborative-project-for-the-development-of-an-efficient-open-source-language-model.md",
+      "title": "Focus on “Big Science”, the collaborative project for the development of an efficient open source language model",
+      "excerpt": "In order to develop an efficient open source multilingual language model in one year, several laboratories, large groups and start-ups have come together. They will use the French supercomputer Jean Zay to carry out the “Big Science”project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.actuia.com/english/focus-on-big-science-the-collaborative-project-for-the-development-of-an-efficient-open-source-language-model/",
+      "originalUrl": "https://www.actuia.com/english/focus-on-big-science-the-collaborative-project-for-the-development-of-an-efficient-open-source-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.actuia.com/wp-content/uploads/2021/05/maxresdefault-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Actu IA",
+        "domain": "actuia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-spotify-urged-to-rule-out-invasive-voice-recognition-tech.md",
       "title": "Spotify urged to rule out 'invasive' voice recognition tech",
       "excerpt": "Musicians and rights groups including Tom Morello, Talib Kweli and Amnesty International urge music streaming company to abandon 'dangerous' project",
@@ -1336,49 +1379,6 @@
       "provider": {
         "name": "Big News Network.com",
         "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-why-transformer-model-for-natural-language-processing.md",
-      "title": "Why Transformer Model for Natural Language Processing?",
-      "excerpt": "Natural Language Processing models have a varied range of applications in every possible field. A transformer model is a remarkable innovation that’s made NLP look lot easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
-      "originalUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Natural-Language-Processing.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
-      "publishedDateTime": "2021-04-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null
