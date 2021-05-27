@@ -7,7 +7,7 @@ originalUrl: "https://hitconsultant.net/2021/05/26/imprivata-mobile-facial-recog
 webUrl: "https://hitconsultant.net/2021/05/26/imprivata-mobile-facial-recognition-solution/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Imprivata's Advanced Facial Recognition"
+    excerpt: "Developed in partnership with established facial recognition providers, this first-to-market healthcare mobile facial recognition solution will help healthcare organizations improve security and compliance,"
+    publishedDateTime: 2021-05-27T18:37:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/product/21224647/imprivata-imprivatas-advanced-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 41
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/The_Imprivata_Report_on_the_Economic_Impact_of_Inefficient_Communications_in_Healthcare.60afe56ab3935.png?auto=format&fit=max&w=1200"
+        width: 610
+        height: 335
+        isCached: true
   - title: "Imprivata Unveils Mobile Facial Recognition Solution"
     excerpt: "Developed in partnership with established facial recognition providers, this first-to-market healthcare mobile facial recognition solution will help healthcare organizations improve security and compliance,"
     publishedDateTime: 2021-05-26T20:50:00Z

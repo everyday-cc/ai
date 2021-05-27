@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 545
         isCached: true
+  - title: "Splice Machine Strengthens Support of Industrial IoT with Livewire Pulsar"
+    excerpt: "Splice Machine, a real-time machine learning and AI solutions provider, is releasing Livewire Pulsar, the latest edition of its Livewire open source Operational AI platform for industrial IoT use cases,"
+    publishedDateTime: 2021-05-27T19:26:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Splice-Machine-Strengthens-Support-of-Industrial-IoT-with-Livewire-Pulsar-147114.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 23
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8IyBkg/n3bk3WeR/C1n+zbjPGYrNtGfjU7lM0f2KMa8lnqlvhTvMoCZ85w/tP1kq9xOwZl+BLNX/RPmh8DJOW9M4XVAaJBiGI+gK+joncpVbzgSdAypPlclpp43iEosEa8cI8SgetRO0So8yr+87110pz8pD+fHLXD7cYyxQIpKpZK90oy+bU7DAortVdBjY9tJMzShcTxoSHClIiwQzmJhk2E/JeJ7mBH5jL6RYH3DEhi2dWvuAYz49GydkHfCJG+tby4/++hZSxgJjJ8y7fhK82rTjO7S1CI+uuPOGUe0kFL+FBL6M05eEUeJ2MgGC77YmJHX+6ovBkH5lqPJAG1AnUjUY5qSWGYnfyoNSk+U=;gSK15zq2GXC3fRxRr6cOkg=="
 ---

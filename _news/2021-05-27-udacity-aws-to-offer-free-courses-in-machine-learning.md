@@ -73,14 +73,19 @@ related:
         height: 427
         isCached: true
   - title: "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning"
-    excerpt: "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,"
-    publishedDateTime: 2021-05-26T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm"
+    excerpt: "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning"
+    publishedDateTime: 2021-05-26T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning-301299648.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1121585/Udacity_Logo.jpg?p=facebook"
+        width: 717
+        height: 377
+        isCached: true
 
 secured: "SzCndFfmtIn2ViJmXpy67aFy1nY5ls2dWsE3+6Dhm0bgVSuUdMg6l9eXpXknYDOoYrLX1lLw6OWWgK3axGFai5ylq3QKf3gcZZ3fdJSG29MJtGn0kr33z+WofeeP/qo5UeHAdUocFrM0VjKjuHoByPJWn6dxlBRL0Gye8R/2XFTPA1Xt7WlJYBc9MOESP0sPaaV7TRqG6V7R07mu/1h+k1OXEmokWEnKC73s7R7Efa2CpVjDXrcDFaGGOIn+5RcwbqY6vQyHY6pEcAkYKLxa+oT980e6PuuFI10jGrm7+kFXc860yIoVi7tYWyhB5tGmWtkC5JziR6TKGOAuvYyMRZEHwDuV9V5ZkA36Jj/2FnlXJ8GZJRFJJs/o81C8RaxtRQ4hKrw/l7Cjv6/gTHR6LV1CBFShYy+Mfhd0Vzr1Hr2sHCRfsvf24cJ+7F7kL9BxdAeV8srREgd83X22+hK4xTRnPLZPKZZaUL0Yevzp2woyurrMBQUwM3INzvjT1MTuffqBnC/OoFVpzcL/dN40Tw==;uoEQtdKvmS70swrVUpe4BA=="
 ---

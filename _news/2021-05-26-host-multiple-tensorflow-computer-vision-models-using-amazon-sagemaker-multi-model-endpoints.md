@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensor
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints/"
 type: article
 quality: 129
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-3094-Chart.jpg"
         width: 700
         height: 392
+        isCached: true
+  - title: "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker"
+    excerpt: "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)"
+    publishedDateTime: 2021-05-27T18:25:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg"
+        width: 800
+        height: 395
         isCached: true
   - title: "How lekker got more insights into their customer churn model with Amazon SageMaker Debugger"
     excerpt: "With over 400,000 customers, lekker Energie GmbH is a leading supraregional provider of electricity and gas on the German energy market. lekker is customer and service oriented and regularly scores top marks in comparison tests. As one of the most important suppliers of green electricity to private households,"

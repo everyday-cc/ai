@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -41,6 +41,17 @@ related:
         width: 330
         height: 413
         isCached: true
+  - title: "Machine Learning Helps Detect Fetal Heart Defect"
+    excerpt: "Combining routine ultrasound imaging with machine-learning computer tools helps detect fetal heart defects, say UC San Francisco researchers. The team, led by UCSF cardiologist Rima Arnaout, MD, trained a group of machine-learning models to mimic the tasks that clinicians follow in diagnosing complex congenital heart disease (CHD)."
+    publishedDateTime: 2021-05-27T17:49:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "x35156rqq5ZY3ctZ9xjO51ttflSm5acBLdKc+lJMvmesA+ZuzZWZNirOk84QAri1jqjZAf2FXlemDGPfvWE9LFko075CcKtJTOk1RtJ2mAfmRlrlQYU0LbRVHTj0fBZE0fGdftQDecKrul1IDR0H4TfVJi0zkhK6Mdzs+sA540FWW2x6rFB488K7nklyLkjsc8PSYVC6vYYAnadWJxEFBMDyH641gnsDIev+nAHCaTEd0Tj/pF0MA5ED7PjCAgnBbb6WBp0zbdGLgUlScPotGAKduexDAhtiLbFeLXskLKs4CXKt0SlMb/IRxRCmV3w0SyXE5vlT8fN5SrAv6vDyOkVkg2bRyJp7Cj7idFMQ3grAFUqSZQUUmygqVVNFZ8NHsBRA6I3c0TiEMExlm6Y52FJRtzYYtvlUzUZ7NahAQiswnbCbIGJgO+/DDWUGNQFQNwQJ+AgiExD5fDkEnHau5aNm9iFdcaiKXuwEgbKjJrxRURWG3xiNPxWRUHMcH20IDP+82/Ztshq5p+WKcD3o+w==;pMkaGXl/wIor8DpBsyW71A=="
 ---

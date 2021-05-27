@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Imprivata's Advanced Facial Recognition"
+    excerpt: "Developed in partnership with established facial recognition providers, this first-to-market healthcare mobile facial recognition solution will help healthcare organizations improve security and compliance,"
+    publishedDateTime: 2021-05-27T18:37:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/product/21224647/imprivata-imprivatas-advanced-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 41
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/The_Imprivata_Report_on_the_Economic_Impact_of_Inefficient_Communications_in_Healthcare.60afe56ab3935.png?auto=format&fit=max&w=1200"
+        width: 610
+        height: 335
+        isCached: true
   - title: "Imprivata Launches First-to-Market Mobile Facial Recognition Solution"
     excerpt: "Imprivata together with technology partners Aware and IDEMIAinnovative announced the launch of mobile facial recognition solution"
     publishedDateTime: 2021-05-26T21:16:00Z

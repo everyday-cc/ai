@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
+    excerpt: "BIDMC's Yuri Quintana, PhD discusses how diverse clinical research data affects treatment strategies and outcomes for underrepresented members of the community."
+    publishedDateTime: 2021-05-27T18:23:00Z
+    webUrl: "https://www.bidmc.org/about-bidmc/news/2021/05/incorporating-health-equity-racial-justice-into-medical-artificial-intelligence-systems"
+    type: article
+    provider:
+      name: Beth Israel Deaconess Medical Center
+      domain: bidmc.org
+    quality: 9
 
 secured: "9/acGEpKDQFBuf7ScgVTmFWAJBxva8TKzMJtrcZHOhqvPflH7/EokdxXiodm5LSq7ZzUZGPA640tIC+ssOsYUZQeBxKnmQK3ov/L75wSQd2vL9kBE+tyrOUf47Eit8YWeGALFlCMYUiqX3r05t+XVZaB1TzrxkO/4nw6qw/8vJz15Q3Zm1qf3s8t2B2VJt3OGGZps3XVouN3WwH+6zasRc2fsDnQIh2wkX1Jq5BB41NW+gLXx3iJVquoKd/qS5+bpnSaAX/JLZm3xxUsydpISoZ4hL8YsWg1x1T4Zp/CNSKw4WLdnRQhccqXVy1jFWn5EqHvocjU4+AsWnpa+oSqdozbOrS4d3b4W4rv5tiVwok=;Kzulmt+ePgWw35Jf6+iQCQ=="
 ---

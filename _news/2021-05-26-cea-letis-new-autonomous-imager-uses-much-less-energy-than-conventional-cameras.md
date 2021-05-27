@@ -7,7 +7,7 @@ originalUrl: "https://optics.org/news/12/5/33"
 webUrl: "https://optics.org/news/12/5/33"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 450
     height: 346
     isCached: true
+
+related:
+  - title: "CEA-Leti develops autonomous face biometrics imager for mobile devices and cars"
+    excerpt: "Leti has unveiled an autonomous imager technology capable of activating mobile devices and small appliances via facial recognition."
+    publishedDateTime: 2021-05-27T18:08:00Z
+    webUrl: "https://www.biometricupdate.com/202105/cea-leti-develops-autonomous-face-biometrics-imager-for-mobile-devices-and-cars"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
 
 secured: "ug9PpjngYh69p/gJEZdw5jQdbqh+5msWtHD1aglFt8tMohfTw8bOeA77a6J8WGqyGrkouDRCmQyzYX0M+uD7oKQUcXsu73ruMGOFH9tAy4hrKetZjBeT9+wpgtAbMZpQVtXYFga1Fs8ZPNiw2kmkPm/vYu04PlHJrt/2iGVma/abnHxmZlCVdnjXk+veMb9j8Hoy2KJYyhlDsSdohYNPEvE4QR0mNtVIR3tRFHuwDd1C7r/jeBFzobAMkNl0pwl0T4EJGCf+EbzKgYYBTfXfMM7Gxtt0uXn3AGK+c3mdCMxnpOkXM8e+BZVPywiHK5Afli1S3QJQ/bczldldky6ru7Ee6ifmzhGflIP8/x+uvi0=;a3m2oQAZlPWjQaZPcvXqOw=="
 ---

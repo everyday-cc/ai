@@ -41,6 +41,20 @@ related:
         width: 4000
         height: 3300
         isCached: true
+  - title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
+    excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
+    publishedDateTime: 2021-05-27T19:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Perlmutter Joins Growing List of “AI Supercomputers”"
     excerpt: "Nearly all non-classified supercomputers are being touted as “AI supercomputers” with the favor falling to reporting FP16 performance numbers alongside"
     publishedDateTime: 2021-05-27T14:53:00Z
@@ -67,6 +81,6 @@ related:
         height: 240
         isCached: true
 
-secured: "8yIo4cPJnAmCc+ZsKNeY1UoWRWnF7U6wQ7q3/1cIVsLSEE3B3vS4QSIRjwDmgv78yW96DP+9dfvcgmUWoq+hmNAFEpQwkN7b7TvaybfcNUadoFkv3/ON8FEHg6nWrEuipfZYEactYnKBfhdKa4CF1YOH5AKhGU8jMl1kdzOqPf9PkIDfK7tQtiOPemMCXGxIfGNywd+oqsFql2SAz7ZdiY4pbCN2kCLhQMEsCEk2S1hdACp5/Mqm4IvhTm5hklk7R/mcWAxJe0yd6HUi9a/VnSfPimKu98jZuWx4t3EU3xvBcNY1HHol4KRyPr8W8zuINV1aXCEP6CAg0e9QzbPF4JavehIcziZIYX/5d9pVOvk=;8c7dkesK7d/Er+Ede6Xa2w=="
+secured: "diaWdcRdTW8mjPrMoTBiXA7nnEGPnGT/nSzwEGUhxLrujVaFuz5yUgsAUt/tl+2Uv1uqRjEoDkq9X/LA0eRLwSXCpQteHxqsDtPnhYsdqazzlF77dALTfAsS6HvP8D3Sh0IkO5RrMf4icZHsvVp//R0rpWLlragMdTkw7OqLIGtAGvnAl2xFAtrpbkqE0mAFpBoi6/nUal4k+lgHgA2xiZdwK9s/zyckZFozbQBeyglrbyF6lbP/HSX9VcqemZjuvsnl3J3M0ZMXo5b0m0HwnCD2/1u8V/cWoTiUywnjHgNlxJlC7AsvxRzl8eul+AdKw52q64k9wLjDcjlzXKYy0pcrd6yKxhqPbkIWMUZV0o8xffRKGqikTahLkhz0jcNwLn5MYv18gfGL+w3SH8+eHYW+I2yV6tEWw22bUd9Um2l3U1pKxHX5X7Qv4aVUbeDvqK6VhLN0BGs4hRAoop7XofZiKaAkMmbvggDKo0nfw0fmJPbFBbQ43ymVMhpzUosUhjijz4GDajY9QrNjtNhlNQ==;xO8TW1S/4PGQrQZ4+d9JkQ=="
 ---
 

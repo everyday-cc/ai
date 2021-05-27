@@ -41,6 +41,20 @@ related:
         width: 4000
         height: 3300
         isCached: true
+  - title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
+    excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
+    publishedDateTime: 2021-05-27T19:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "6,000 GPUs: NERSC Says Perlmutter Delivers 4 Exaflops, Claims Top Spot in AI Supercomputing"
     excerpt: "Claiming the no. 1 position among AI supercomputers, the U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
     publishedDateTime: 2021-05-27T17:31:00Z
@@ -67,6 +81,6 @@ related:
       domain: nextplatform.com
     quality: 39
 
-secured: "Z/Jl+LyFPYXd7SjuDG0j1nJZTjWiyJP7KjPfKRj2y5KI7xIc+PNs6lSMNGG3geVbyz8kjNs4zetMXpPPMTRILcJhnkI9+N1KG6XIrPrU+YyLN0i4AcIvZEb9RxwuDTaeqdAWRf8r6cuHTt8ILmxZfp0pDDqe+vmYgUxIVXk429dBkc2kBE6mgs4iCeWH6S+tcPjK+jmdEYMfpzW7HAPFBTdQOjGjd9NJZk7lgo0VHZUV/UyOgBkblwDVm+Rkp2iYQEXV66CCMHnXs9MlkVeW79rl3p55lW0RmnGoKohe0utow0e0tQwniMBLnbTqZuib04VJQBNpDFGNErLb1cs3bHMBI22asHwph7WKbvql1Os=;zX5xH95tOl/lSRI5yRoURQ=="
+secured: "OUZwahXzBya1wcoJbqDmGsRRrBw0eghWmC4uxVRqwig/7xMLNPIi74NLZ1yOP+cOEjEsf5+ZXv5DStqOhNuInxbwZCGgsZFRuWVoYUSPfkhvntuXYshlKrbXSzfDtEzMidODs3ics0pykRtTIxli/of4zzPSJu3p0ZiiT8HFY17JVaU3wxYGNwf5xNatxCLre1O9v705XjmYLKjVduDSIXz8kJMXTAr7d7vrztB0lIKlzIJaXEj31tMh1ymJcZq5D1FqGGSmSXjL1x9RtQXoOD99Xcve/vwdPIhBj2Ioq7DD1Jry2XM7WfHEnfRcoz5jY8QCC7c6lZDTzPftgXasFxsAbBmHZgi96yVhHbBhncCD+XEFqESW+5jv2Knl/Poe/tH9kBmmoMw13LxLkvoVFR99MtTXSj8WVd10xTdDUxbh7Tq3G1JV1w5iZgTxznfmbWp65IdIY69uaQ5/9SfjhPEY7XrOIChNC56CDYpUI7L6LQx2HdHeqrHbUPsP4nzxYhaLyWbTSLts5fiksN+bQA==;8Pa1VjXWr+uMi8dqKYGKJw=="
 ---
 

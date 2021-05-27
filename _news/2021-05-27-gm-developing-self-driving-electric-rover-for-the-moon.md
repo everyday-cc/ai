@@ -91,6 +91,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
+    publishedDateTime: 2021-05-27T18:25:00Z
+    webUrl: "https://www.snopes.com/ap/2021/05/27/gms-newest-vehicle-off-road-self-driving-rover-for-moon/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 24
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "G0wgHfMyigukatcEkrI8SxBZD9ElVR9uSNuZc17iMpiHawIzC29RJ8mJj3Gx4LOof+b1/9vh0srE8KA3Z1rklj1oJAICPgKpcARMEbJcR6VYCUAk7QsYXhvVjwhdBJ7xvekPDU4yh5BcO8lmdwdxgMj+yVDy8TWxgxz7QzhbBmrDPdnJ7KAdqw8wq6Eg0lH67+JO9QSsjoi6pjvodbnHrvh5CDxYPab+OkPSdtz7iKCrmHKAPabsXYticm/M00HAroMvLwU76ZW/zZry7ROtOtZlBf3Xk9f4bMwipxJbhtIMkDZLkdTdbNIIWyVXsDLPWsp1NFbaEbkhZ9pln0WBkYKqSW28DnXwFx6/Vh0rGEGuoV09AIDvDrArITQDShngvFhMZUPbAq4R/XW2GVmt46VkuhVKtcWwlrSfoAiWh1dbHGNOMITLWfLMx5/LSrHKCCUaiX9mXcybwsahLxkprD/wtJzUDDL7e4Vko218X25j5qivppRWa+3wjB/lw5zSw9KUPXKzkJJpc1TkfcxIDg==;WCRYQSoVVadMJZ6m9AFPZQ=="
 ---

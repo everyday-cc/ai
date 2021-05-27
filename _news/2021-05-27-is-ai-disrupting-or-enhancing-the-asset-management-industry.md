@@ -100,6 +100,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
+    excerpt: "BIDMC's Yuri Quintana, PhD discusses how diverse clinical research data affects treatment strategies and outcomes for underrepresented members of the community."
+    publishedDateTime: 2021-05-27T18:23:00Z
+    webUrl: "https://www.bidmc.org/about-bidmc/news/2021/05/incorporating-health-equity-racial-justice-into-medical-artificial-intelligence-systems"
+    type: article
+    provider:
+      name: Beth Israel Deaconess Medical Center
+      domain: bidmc.org
+    quality: 9
 
 secured: "Gv1MLPHuiTfgIWUBqfB+lu9CZrbsdKGvrJGUzFuxqwyM26Q5DZbeaq1UJuOHlOOcVT5UvkOCCPF24yHPsr5b3xD4Q7hK67lCsnZYJt164eQSGPg1kVaGMvFKn8qOLG2PMSzimzHdCQ4IyYnYXHhWvukngc3zjqMun/D4ciuP5Vd5Ov47SCmaJgZLmUt41dE7zBIVaxJVPKVz8Kp9b4H381lybwc7HCBuPbL0ACPZayPDoSxon6zZDoOyXa/uPQTVGielaDa5l4Il4EYh/Vz5NvFaDZ3qqTK7pd8RCYG3TmSlTifaLFKgyH9qMIc4mIV4sCyiVw5OV7DiazAEWKDx7EdOH136WKT4kLQaXkzfKL0=;8RwnmgY/cq1DER97DV8qDA=="
 ---

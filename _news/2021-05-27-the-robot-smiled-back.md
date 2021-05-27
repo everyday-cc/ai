@@ -7,7 +7,7 @@ originalUrl: "https://eurekalert.org/pub_releases/2021-05/cuso-trs052721.php"
 webUrl: "https://eurekalert.org/pub_releases/2021-05/cuso-trs052721.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     height: 810
     isCached: true
 
-secured: "tAZJFmrq6Js26HU/TuXki/bJMqwkvcNzSnRV9XgAmfVhW8xJMGdJpx7T2lNgAK/Ef3RjTedNDjV11OAkOvRtDi2Ukfe8ER8kWgF+/LJBc0+uMtDIFuhKT5l684WvhxGlTJ1DVynWNXEDRIgG2If0nqam4Al/wkS+zrAwxbQWvur8hQZajJ4LbUXao/gc1G13m8LOyy4df+fhQgHNxWtLtFUwO3kXFE/hNkDUse9kXrInOhHlc4RI014diW1Y5Q907eGcRHH0kv7SdgxoBb0MIMTiyNO3USS1Lz6dHFmf7mKsYX+gSsbzVf6c4FOeAhaZzQiYqf+rWTBbUpMmoflsqDHnggT+H3RMTOX3jOuV7Do=;17ZUJwdfMenRKhWDvAO7qw=="
+related:
+  - title: "Researchers create robot that smiles back"
+    excerpt: "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,"
+    publishedDateTime: 2021-05-27T19:02:00Z
+    webUrl: "https://techxplore.com/news/2021-05-robot.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-robot.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-robot-smiled-back.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "The robot smiled back (w/video)"
+    excerpt: "Researchers use AI to teach robots to make appropriate reactive human facial expressions, an ability that could build trust between humans and their robotic co-workers and care-givers."
+    publishedDateTime: 2021-05-27T18:46:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58113.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
+
+secured: "RdthtpgigPjm9idjDhcQKHn0PNl1MhKmxoz32aXiCyFJFxzf3MZo9yhHeesi/EkKv99BcjbvqHYHH8SZl+FKpU4YDRU+tFtHGWiV/3zEtrDhVykseHKy/h6/q5rzB3Owe+g/rfiIP+4DDX+YLER1zkP+6f5Ia7DdwRBalnzuZCKDUZIMvvaO8duifFMPVoMBwmz0yyDX+qTdHEaowrhEQLY/TjDyEKaNkbzEBRQMnq5BP2dra/ejqNdb9MyAFLSndcN8mPVSDlTq6PJQZwtU2pLqPXrIHp5Yg8YqZfbgEKocO1rbm02cNBNoGPYpWORrJTLBdoPLIkLF1MmgVhLARjwLpye5irHacPzE3m1UJ9JuqFRxwHiVdlUUU/0VUHS5O83jyIqaIAKshg4jIRgdysCFkhcTewc/apf8+67NPtmFainmtLNqhrjDn0i8bbJ60Rx4snbpVCqjfosWm5pgcwCCequAY0t8rPZxWTHcfAXEhHcO7eLQzAMy5JNTBO+EQwm3ThaGGvXFiywbhy+o7A==;44RJcAdaCEa19BDnC4XELg=="
 ---
 

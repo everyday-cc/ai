@@ -71,6 +71,20 @@ related:
         width: 700
         height: 392
         isCached: true
+  - title: "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker"
+    excerpt: "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)"
+    publishedDateTime: 2021-05-27T18:25:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg"
+        width: 800
+        height: 395
+        isCached: true
   - title: "It’s a wrap for Amazon SageMaker Month, 30 days of content, discussions, and news"
     excerpt: "Did you miss SageMaker Month? Don’t look any further than this round-up post to get caught up. In this post, we share key highlights and learning materials to accelerate your machine learning (ML) innovation. On April 20, 2021, we launched the first ever Amazon SageMaker Month, 30 days of hands-on workshops,"
     publishedDateTime: 2021-05-24T23:29:45Z

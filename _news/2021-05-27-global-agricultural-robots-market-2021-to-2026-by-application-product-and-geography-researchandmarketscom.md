@@ -49,18 +49,13 @@ related:
         isCached: true
   - title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-05-27T12:59:00Z
-    webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
+    publishedDateTime: 2021-05-27T07:59:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210527005561/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 1
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "KPbmKBhHKYFSuRg+ioBJqE7bkYxMbEN4Z5t0gVnaG69veLKv0xhLaeu2GpVrRFj7lF1ZnpjDD9im12l4PIxQ2xY101KvckaKhwRAa7vNKS1zt/VlVateQrU1cVujot/LKK0sACLx6FP2Q1rPa5U+i8lq4dHmmMd0Q0MY2v7fguNirb/UeQi02Naj+WKwszxAL8TBhyuSVPLsiMJojk7k/8t120Fw2dcqjNKwsB+TS0LkCZyPTbJmv4tTLkNUaToJjAa+vXUFaZRnYHEgnFjq8d+M3F01u3wB475hkn0l4YGLzXaWhJ7jsY8PPqxLnrF4gwkqYYy1r2UehVt+8H29SOZvDfsSjS92xdj0s+NPxBo=;cdbAs3wxOy06UHuRzx9Jtg=="
 ---

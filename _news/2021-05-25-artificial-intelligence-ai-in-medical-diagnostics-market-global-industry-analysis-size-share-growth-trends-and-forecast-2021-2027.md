@@ -99,6 +99,15 @@ related:
         width: 1416
         height: 829
         isCached: true
+  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
+    excerpt: "BIDMC's Yuri Quintana, PhD discusses how diverse clinical research data affects treatment strategies and outcomes for underrepresented members of the community."
+    publishedDateTime: 2021-05-27T18:23:00Z
+    webUrl: "https://www.bidmc.org/about-bidmc/news/2021/05/incorporating-health-equity-racial-justice-into-medical-artificial-intelligence-systems"
+    type: article
+    provider:
+      name: Beth Israel Deaconess Medical Center
+      domain: bidmc.org
+    quality: 9
 
 secured: "fJX35jLrnrye1c0Gq0JXvrfZRRtAGnGGaIWdzO8lrMauWiLAA/0DGblzjI8NkBePXxrEnYEvKjyz5dHWI4A5UL9QRHW9l9fRgwK/8jfps2tLfp7fhxS7eU+BN1aPg/5G7j24H+cF4r4uIevv2ildjHQZi6GNzRo7yiHOT8p7WrmB9kqhMuxtwuw4v3DxRU3wwdZpqPeiy+sWSEOoWBxjRZmiIyKskY/LRJzstvB6gQ0qvZMGkfEFDc9O7p/BGSGMsuBaYV3AHnG1LPEP+3tTHXLz4Jn0w6ll74K0RfI/Uk6x/TAWF36Nd89qUikgY4YwxzcVxDJGF0wbt1ZdH4I3RCTe1p3caMVDY9RMuj40fL8=;+z4Ax9Gef3sc3lJd1Fz9Dw=="
 ---

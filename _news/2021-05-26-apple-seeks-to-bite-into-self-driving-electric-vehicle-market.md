@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://wp-assets.futurism.com/2021/05/general-motors-lockheed-martin-lunar-rover-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
+    publishedDateTime: 2021-05-27T18:25:00Z
+    webUrl: "https://www.snopes.com/ap/2021/05/27/gms-newest-vehicle-off-road-self-driving-rover-for-moon/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 24
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/05/Moon_Rover_66929-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "q1kFnSg7VRmIJnD/PVrjQUwJrzHCARmP6bC2gaGKwaHHyPqrpHEy8sgoex4DHg1v7YIUeVZhKN32qq3vBtAXjyC1AZyMMaaCz/7x0KV+Ry+6PQ7HdzrABHrxcIJjd9Y8ZF0llR3VdWfKUH696PSW8v+X1faX67cyDzdmMaW6zy+xXnrMXjW+Wq5lVnmZn713uW0iushfo18X6RW0UxNirlMOcAoCx1/vXsLY23ie23DoU1HuhWUVsg+qfxgk8pIT0ZMcun18ZvphwHrMuaYKmOTZ8Ya4GLIKDtIsoAVNRw3r1HOlmfFmIY0/JpO4rdUmCJtekOLlQzg+k3k3030YwiQBBcsO+l6r02Y2UEjg7aoB84l6BsRIwZKEx3tAiKx+lVnlbACDnCVzE/HnoZy/X4fWxnNXLG0lCZ+r/vJWzpugyYGarV8VNZLF1EHanVuBq4yc+C2SsqkJRwVeMsvU1riqiFircsTa5bZQbYYRek7KQIjk6wduXMspEqk0/s+4Qzsm1hFCCV/O+EYzXMkcCw==;LHkRs+erQR1u7lophE1x3w=="
