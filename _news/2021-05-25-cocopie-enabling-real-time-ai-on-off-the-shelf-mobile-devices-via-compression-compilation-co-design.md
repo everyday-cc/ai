@@ -105,6 +105,20 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "Green AI Seeks to Connect Compute Power to Carbon Emissions"
+    excerpt: "Green AI works to connect the computer power required to build AI models with the carbon footprint of the required energy, in an effort to manage."
+    publishedDateTime: 2021-05-27T20:46:00Z
+    webUrl: "https://www.aitrends.com/ai-and-climate-change/green-ai-seeks-to-connect-compute-power-to-carbon-emissions/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-28GreenAI-1.jpeg"
+        width: 553
+        height: 311
+        isCached: true
 
 secured: "hDpYUpmzBUlaYmTT/mAvCW1C45Y2Y3cT49xK9K/Twede6ZyouuYcCwgkMRJW2J3UbIbPz/IfZzLAyY4o1mQIiZg0/0w0/NkPLMFyEJUSlNQI0aYLutdZE1byn9x6i3RLpoFF7JEzBgZVoGK/LHyawRT3X/G+4INojWQ+4R4YJ7BayYmJyTTLKigk3WdPmIT6620iiI0tMG+yA0FU+nA3aremRLqGErso3OCjBRLVe/D+0VaJqWisLn1yq5nVvqSwQXsRur/JVyR/JjfxT4bnczRS4pej4AWSB4mb2RK0zaI5/VnCyw1bCTle5UXx6DBk+5aT+f1mG2iCXR6IRbOF9hcagMXJrMGiWQmpT4LUlc+elQjbSDVIxxTMWW6Bxyx3TRu5XfWCB3T6NniRjdV1IO4XKK8WzsggUPLCltdYErj49nOgSkZ6Alyh2+XQCFFEyi8t6/2dUlGI38N4A+sBKw4hpgLGki4NuTKmZjz9NnO54n2rtJZFCbkMLYIMt7Ck2LEkHqvCjCbChJ2fikFJXA==;VknyqzMtLj4VM74Le32rLg=="
 ---

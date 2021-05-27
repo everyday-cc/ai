@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-robot.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The robot smiled back"
+    excerpt: "Long interested in interactions between robots and humans, researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
+    publishedDateTime: 2021-05-27T21:11:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210527145244.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "The robot smiled back"
     excerpt: "Long interested in interactions between robots and humans, Columbia Engineering researchers have created EVA, a new autonomous robot with a soft and expressive face that responds to match the expressions of nearby humans."
     publishedDateTime: 2021-05-27T04:00:00Z
@@ -51,6 +60,6 @@ related:
       domain: nanowerk.com
     quality: 19
 
-secured: "PPZ7JcNJxl57tpcn4WB1JUnipc5l/ChTBdEjYCX8hqKMmN2PfMY/ceb+Fw4IBsdizahIyxkzQy281neoeZ++fKFbNcLhvnXW9yUk/rSB/q64MMrjCvCtj54J687iYNm0gONYFbWaYdeCsG4qxYHM9yu5FnE8hUSMdF7jNjgOo0ITOEM3oeioWPb7vckz2bBFKawBvEIXzlhQqryD+VOisxvFnRIVMd8eUjptB/KlXAr9vyhdLSYp1NVc/TMm1J0jhuU3WZxfchfXbvqp4Amv56Wlvb1GvQphxWb5nDbm+hvjGxROyY/9/b5fwKnQeyR4SKmgSvxcH+hCf4uX/Rt15KKuHPHweJhDgWjah+X424A=;DDlW8ZOiYUqSAH3HtunVbg=="
+secured: "VWXcJP7AmMxWTn0QJ4wiPCCrkHqWsIkuS0dnQD/MvJNYERxgs9aG50jz2lb+lvDvXJ4tPjlFUEJUWY8toJR7q5v8yKJj3et5g1l6SGq9a6P0kYHGINMENZ0MFpjo/B4v3azE+UtfDQs2JggPSWt9qFkY9GrWKXXmKgsTJo6lMQ4QRMbCD5fC5kBLUmRzdbgO0FVT5qt0tBz4ofUBRA41TngDkt4YhHNDiRqyIxHdGXY5deMSAlEiOPloSAHMtI8ZkMxfhUfL1HuESx+4sr0zNhCIJUIC2NvZX8s9KZ+KHZ6fczyJwbHdGwST/qcvpidnjkEzcggwZIYhOt4oVAZk2h360M5QwgYj2A8MIZtYelZYfFgSPbOADa8WZl0Tkp7V8oueggYiPI0uk15EvjJZ6L3SUhb3nCGEmr7ePdfKeDi3vBurCgY5CV6uMFOPomn4VueiX41LTlH2rGbFhLOIPj9N8ZZd34KwDX72sdM3o5aGErf/a7IaW4rhCmnDc6x6f38IWV2QTe65vxsTuTTyZA==;en0tlD4QsskNx6koaW9F9w=="
 ---
 

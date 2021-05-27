@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning help fight the COVID-19 battle"
+    excerpt: "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications."
+    publishedDateTime: 2021-05-27T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-05-25T12:56:00Z
@@ -53,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Systems Market Statistics, Cagr, Outlook, And Covid-19 Impact 2021 - 2023"
-    excerpt: "Global Face Recognition Systems Market Overview:Global Face Recognition Systems Market Report 2020 comes with the"
-    publishedDateTime: 2021-05-25T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-systems-market-statistics-cagr-outlook-and-covid-19-impact-2021---2023-2021-05-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
     excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
     publishedDateTime: 2021-05-26T15:00:00Z
@@ -83,19 +85,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Speech and Voice Recognition Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-05-25T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+  - title: "COVID-19 diagnosis by routine blood tests using machine learning"
+    excerpt: "Physicians taking care of patients with COVID-19 have described different changes in routine blood parameters. However, these changes hinder them from performing COVID-19 diagnoses. We constructed a machine learning model for COVID-19 diagnosis that was based and cross-validated on the routine blood tests of 5333 patients with various bacterial and viral infections,"
+    publishedDateTime: 2021-05-24T10:11:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90265-9"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90265-9/MediaObjects/41598_2021_90265_Fig1_HTML.png"
+        width: 587
+        height: 685
         isCached: true
   - title: "Interview: how AI and IoT enable businesses to adapt to a post-Covid-19 world"
     excerpt: "The pandemic has accelerated the transformation led by AI-based building solutions and IoT-enabled remote services."

@@ -2,20 +2,27 @@
 category: news
 title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
 excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-05-27T07:59:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210527005561/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20210527005561/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarketscom"
+publishedDateTime: 2021-05-27T12:59:00Z
+originalUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
+webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Investment in Robotics Research: Global Report 2021"
@@ -56,6 +63,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "3q6gDLTNLJImO2XWdD4eIjUmBJecMZX5TkNYJm2p/rRAt7lyDZrsG8KgcYMs9ZFQCYwlhW0MK4oegapHpG5tWWfW7GewuHSJara1n2R5to2Bwz9ih/brdQSjdQyUxYmI+52bumm2QYyFc5aCH5x9PyUzn5ytXS1wBfid4hiJFbai/wh2A6eRPcIXYPdtQYj/f6AQFwJ4kxqr1d4uSVJwsbdo++YqKvaKwGeNiJU2cWZ/aWCiERxgvifQ1xqf4JJaMqumHb7zy4XURbh1Q4bE1yvy9c/TjPw5NWdFd6CW56RInVFCxBL6B3aGu2W49J6yG3waJtwNrhLjav2PfX6RxPr5OVZSKMQMJ16PfnvtlUU=;ItvV7ssyumxXVeKYENqyGQ=="
+secured: "RtGswZCj0dbC+ziTNSIotDhHWTyCsZ9XbFYfpdl7i3B6zw2/bcMEWL1rCrC8xMHoVonsL8m5CIMnX27YOoBmu7XpGDR8RtDFcs+SnCGBoYTnOBa0zV5KJDj5xAuSEV0jv4xotqjwkPoTemJmgOFVQAFBBbP9Vo3syhs6QVFkb7Y16lTJXGTLUqf8gBZuvUpn9FGc7nhOnxmgsEqXI+RLR1qoaOs2hV+Nz4EklmTnX5CWBCFtwhZnZu0SC0HaBYLR79gcsUenL+BLMIQWprrQoAujbcif2DvRw2Zz0B0ZP/KKXrivGN1by9EZ+i5eWTnGSC13s9F4O+dObXH1VscHbWJFaWNPfAgF0+Rl5cbS8X8=;U3j72JjFwCIztWGbjqIAcQ=="
 ---
 

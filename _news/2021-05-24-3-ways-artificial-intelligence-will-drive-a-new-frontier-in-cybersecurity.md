@@ -56,6 +56,20 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "AI Runs Into Skepticism From Cybersecurity Experts"
+    excerpt: "How effectively AI can be applied to cybersecurity was debated at a recent industry conference, with one supplier proposing an AI assessment tool."
+    publishedDateTime: 2021-05-27T21:21:00Z
+    webUrl: "https://www.aitrends.com/security/ai-runs-into-skepticism-from-cybersecurity-experts/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-28Skeptic-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "How to improve cybersecurity using machine learning and applied data science"
     excerpt: "Cybersecurity prevents infiltration and data breaches while saving your business from the heavy financial impacts of cyberattacks."
     publishedDateTime: 2021-05-27T12:38:00Z

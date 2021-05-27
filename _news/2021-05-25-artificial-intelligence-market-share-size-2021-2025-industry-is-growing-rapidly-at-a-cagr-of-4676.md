@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Face Recognition Systems Market Statistics, Cagr, Outlook, And Covid-19 Impact 2021 - 2023"
+    excerpt: "Global Face Recognition Systems Market Overview:Global Face Recognition Systems Market Report 2020 comes with the"
+    publishedDateTime: 2021-05-25T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-systems-market-statistics-cagr-outlook-and-covid-19-impact-2021---2023-2021-05-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
     excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
     publishedDateTime: 2021-05-26T13:36:00Z

@@ -1,123 +1,28 @@
 ---
 category: news
 title: "Brain stimulation evoking sense of touch improves control of robotic arm"
-excerpt: "The brain-computer interface user was able to transfer objects with a robotic arm at twice the speed of doing it without the tactile feedback."
-publishedDateTime: 2021-05-20T19:28:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/05/210520145351.htm"
+excerpt: "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled."
+publishedDateTime: 2021-05-20T18:00:00Z
+originalUrl: "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html"
+webUrl: "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp"
 type: article
-quality: 63
-heat: 133
-published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm"
-    excerpt: "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device."
-    publishedDateTime: 2021-05-24T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/"
-    ampWebUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/05/robotic-arm-sense-of-touch-1.jpg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
-    excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
-    publishedDateTime: 2021-05-22T13:33:00Z
-    webUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-    publishedDateTime: 2021-05-22T07:00:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 44
-    images:
-      - url: "https://image-prod.iol.co.za/resize/5519x366/Nathan-Copeland-who-is-quadriplegic-controlling-a-robotic-arm-thanks-to-electrodes-implanted-in-his-brain-at-the-University-of-Pittsburgh-Pennsylvania-Picture-Handout-UPMC-Pitt-Health-Sciences-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4bab8285-62c1-5381-abd8-5bca694d39ee&operation=CROP&offset=0x290&resize=5519x3104"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm"
-    excerpt: "AP, Susan Walsh A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile ..."
-    publishedDateTime: 2021-05-20T20:44:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2021/05/20/998725924/a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 39
-    images:
-      - url: "https://cdn.hpm.io/assets/images/HPM-logo-OGimage-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled..."
-    excerpt: "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the device,"
-    publishedDateTime: 2021-05-20T23:03:00Z
-    webUrl: "https://wfuv.org/content/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
-  - title: "Mind-controlling robotic arm from distance? Scientists restore sense of touch through this unique innovation"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers published a study in the journal Science about the world's first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish this very feat."
-    publishedDateTime: 2021-05-21T10:01:00Z
-    webUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506"
-    ampWebUrl: "https://www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-develop-pioneering-mind-controlled-arm-that-restores-sense-of-touch-386506/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 20
-  - title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. U.S. researchers have published a study in the journal Science about the world's first brain-computer"
-    publishedDateTime: 2021-05-23T21:37:00Z
-    webUrl: "https://japantoday.com/category/tech/new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 4
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/brain-stimulation-evok-1.jpg"
+    width: 1280
+    height: 853
+    isCached: true
 
-secured: "4A87giWFgpOia0nlf4Lf/UfZ0w36LM54QNgpUzFMXttRuGwEcqq7pAIRNiXnWtA398/bV/RUU5j8Ye8LZ0RZwTqaWm+EMfBH9LkRwg169TCByAgar5hIAixVSmZgFzHQlon2PnvXuWODU4RpVVCM15CvEflW4jgQFNaKpUuA4YQnWzmOObWvGtmbWxb/scfEDsy8jcsofXL4AZ6OEcZ2HiEAloQPbkWo+THL5nH9f3jykqHnuAA8yum2XM8nM7pkmVfBJTkvYVFluKpRXP870pVzUepy0P2cfwIP6vV0Rs1NDUZUcXqGGwDyS2i9qgiK0g0F8LKUzr5rGxqJzdCno25ZQjBUdZdoFPrRcf2ANr4=;uS1DNBYmEJj10Suv65VPCA=="
+secured: "yvdDWhZkelVCt5ly/Sm4cT9lCF+1KfT+3N5dTILi8F3dQ9fTEXjV0YWaNS8eD2DvgSHlH+qtSAU8YH9ehvYBMpoXfpwGDyT/MQ2Lcokh92yJQ0p0HF2rzRSDkyrh6nuEJLUbcqLiKo/Ng3E5CUzqJuzK4MStODF+dM8GAI1tzyrwz+1GHky0MWU7pEKgw+2D+F9XzsN7nw1pjFUAiD4CRjboWmw6PldRnj9q7FLGG5Ir+Fa0O/5Zk4CjELd6WGlS4WRhDR14/VDgPrXH4I+/t0/VHoqv9XMwLqCvVez4hmaFd0xIyK1X22ZieS7jW8a1NVBfllt4WzXzCOrtLyVrQ5NWOf6q0De1eIBrBI5ml3Q=;470gJ0V5tct6RPT4nXQI7w=="
 ---
 

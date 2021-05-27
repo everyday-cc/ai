@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-inte
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
         width: 2560
         height: 1280
+        isCached: true
+  - title: "AI Runs Into Skepticism From Cybersecurity Experts"
+    excerpt: "How effectively AI can be applied to cybersecurity was debated at a recent industry conference, with one supplier proposing an AI assessment tool."
+    publishedDateTime: 2021-05-27T21:21:00Z
+    webUrl: "https://www.aitrends.com/security/ai-runs-into-skepticism-from-cybersecurity-experts/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-28Skeptic-2.jpeg"
+        width: 550
+        height: 366
         isCached: true
   - title: "How to improve cybersecurity using machine learning and applied data science"
     excerpt: "Cybersecurity prevents infiltration and data breaches while saving your business from the heavy financial impacts of cyberattacks."

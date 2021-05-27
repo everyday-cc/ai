@@ -89,6 +89,20 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "Green AI Seeks to Connect Compute Power to Carbon Emissions"
+    excerpt: "Green AI works to connect the computer power required to build AI models with the carbon footprint of the required energy, in an effort to manage."
+    publishedDateTime: 2021-05-27T20:46:00Z
+    webUrl: "https://www.aitrends.com/ai-and-climate-change/green-ai-seeks-to-connect-compute-power-to-carbon-emissions/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/05/5-28GreenAI-1.jpeg"
+        width: 553
+        height: 311
+        isCached: true
   - title: "CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design"
     excerpt: "In summary, the research reported in this article has provided strong evidence of the promise of the co-design principle, indicating it is possible to instill AI directly on existing commodity computing devices while offering even higher speeds and better ..."
     publishedDateTime: 2021-05-25T07:52:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human
 cdnAmpWebUrl: "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Heimdal Security
@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Australian HRC calls for partial facial recognition moratorium, new AI oversight"
+    excerpt: "Australian governments at the federal and state and territory levels should write legislation for biometrics and facial recognition that protects human rights."
+    publishedDateTime: 2021-05-27T20:41:00Z
+    webUrl: "https://www.biometricupdate.com/202105/australian-hrc-calls-for-partial-facial-recognition-moratorium-new-ai-oversight"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
+  - title: "Human Rights Commission calls for temporary ban on 'high-risk' govt facial recognition"
+    excerpt: "The Australian Human Rights Commission has used a landmark report to call for a temporary ban on the use of facial recognition and other biometric technology in “high-risk” government decision making until new laws are developed."
+    publishedDateTime: 2021-05-27T19:30:00Z
+    webUrl: "https://www.itnews.com.au/news/human-rights-commission-calls-for-temporary-ban-on-high-risk-govt-facial-recognition-565173"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 31
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics_face_scan.jpg"
+        width: 1314
+        height: 798
+        isCached: true
   - title: "‘Ban high-risk facial recognition technology’, new report from the Human Rights Commission says"
     excerpt: "Australia should temporarily ban high-risk uses of facial recognition technology until safeguards are introduced according to a landmark report from the Australian Human Rights Commission, which is also recommending the creation of a powerful new AI Safety Commissioner."
     publishedDateTime: 2021-05-27T05:39:00Z

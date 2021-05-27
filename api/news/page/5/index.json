@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-24-how-ai-can-enhance-customer-experience.md",
+      "title": "How AI can enhance customer experience",
+      "excerpt": "G&J Pepsi and Zipline turn to data science and machine learning to get the right products to the right locations at the right time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html",
+      "originalUrl": "https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/02/ip_cw_ss21_salary_survey_2021_satisfaction_happy_employee_user_customer_by_thinkstock-621128688_banknote_certificate_texture_by_margarita_lyr_gettyimages_3x2_2400x1600-100877152-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.amp.html",
+      "publishedDateTime": "2021-05-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-hardening-ai-is-machine-learning-the-next-infosec-imperative.md",
+      "title": "Hardening AI: Is machine learning the next infosec imperative?",
+      "excerpt": "As enterprise deployments of machine learning continue at a strong pace, including in mission-critical environments such as in contact centers, for fraud detection and in regulated sectors like healthcare and finance for example,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
+      "originalUrl": "https://www.itproportal.com/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
+      "publishedDateTime": "2021-05-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-mayhill-facial-recognition-technology-used-after-swansea-disorder.md",
       "title": "Mayhill: Facial recognition technology used after Swansea disorder",
       "excerpt": "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash.",
@@ -1120,101 +1215,6 @@
       "provider": {
         "name": "futurecar",
         "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
-      "title": "Best practices in customer service automation",
-      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T15:48:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-campaigners-predict-us-federal-facial-recognition-regulation.md",
-      "title": "Campaigners predict U.S. federal facial recognition regulation",
-      "excerpt": "The indefinite moratorium by Amazon on sales of facial recognition to U.S law enforcement is adding to the sense of a vacuum for new federal legislation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation",
-      "originalUrl": "https://www.biometricupdate.com/202105/campaigners-predict-u-s-federal-facial-recognition-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
-          "width": 640,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
         "images": null,
         "publishers": null,
         "authors": null

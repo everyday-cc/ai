@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-06-embodied-acquires-conversational-ai-startup-kami-computing.md",
+      "title": "Embodied acquires conversational AI startup Kami Computing",
+      "excerpt": "Kami will strengthen Embodied's Moxie robot by adding memory of past conversations context, consistent personality, common sense reasoning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/embodied-acquires-conversational-ai-kami-computing/",
+      "originalUrl": "https://www.therobotreport.com/embodied-acquires-conversational-ai-kami-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/05/Moxie_Embodied_Lifestyle_002-scaled-e1598288717694.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-artificial-intelligence-and-the-future-of-humans.md",
+      "title": "Artificial Intelligence And The Future Of Humans",
+      "excerpt": "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
       "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
       "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",

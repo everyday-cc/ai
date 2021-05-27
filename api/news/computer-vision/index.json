@@ -10,7 +10,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210527091439.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -53,7 +53,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -84,6 +84,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-ahrc-high-risk-facial-recognition-should-be-banned.md",
+      "title": "AHRC: ‘High-Risk’ Facial Recognition Should Be Banned",
+      "excerpt": "The Australian Human Rights Commission (AHRC) calls for protecting human rights in the regulation of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/",
+      "originalUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heimdalsecurity.com/blog/wp-content/uploads/MicrosoftTeams-image-22-2.png",
+          "width": 698,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/",
+      "cdnAmpWebUrl": "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/",
+      "publishedDateTime": "2021-05-27T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heimdal Security",
+        "domain": "heimdalsecurity.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -288,7 +331,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1360,49 +1403,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
-      "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
-      "excerpt": "However, recent studies on object recognition in omnidirectional cameras show that distant objects captured in these cameras have rather poor resolution, making their identification difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

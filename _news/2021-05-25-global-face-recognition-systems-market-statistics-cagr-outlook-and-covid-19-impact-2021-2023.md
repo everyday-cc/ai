@@ -29,54 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-05-25T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+  - title: "Emerging Face Recognition Systems Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2026"
+    excerpt: "(The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Face Recognition Systems Market”"
+    publishedDateTime: 2021-05-26T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-05-25T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+  - title: "Voice and Speech Recognition Software Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Sales, Profits & Analysis"
+    excerpt: "As per the new study published by Data Library Research, titled, “Voice and Speech Recognition Software Market by"
+    publishedDateTime: 2021-05-24T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2021-leading-growth-drivers-emerging-audience-segments-sales-profits-analysis-2021-05-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
-    excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
-    publishedDateTime: 2021-05-26T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-swarm-intelligence-cancer-lung.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Speech and Voice Recognition Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-05-25T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+  - title: "Artificial Intelligence Market Share, Size 2021-2025, Industry is Growing Rapidly at a CAGR of 46.76%"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
+    publishedDateTime: 2021-05-25T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-size-2021-2025-industry-is-growing-rapidly-at-a-cagr-of-4676-2021-05-25"
     type: article
     provider:
       name: MarketWatch
@@ -87,33 +71,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Kiwis using AI to fight Covid"
-    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
-    publishedDateTime: 2021-05-23T12:00:00Z
-    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
+  - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
+    excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
+    publishedDateTime: 2021-05-26T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-industry-statistics-consumer-demand-developments-plans-industry-impact-and-forecast-till-2025-2021-05-26"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
-      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Interview: how AI and IoT enable businesses to adapt to a post-Covid-19 world"
-    excerpt: "The pandemic has accelerated the transformation led by AI-based building solutions and IoT-enabled remote services."
-    publishedDateTime: 2021-05-24T07:08:00Z
-    webUrl: "https://business-reporter.co.uk/2021/05/24/interview-how-ai-and-iot-enable-businesses-to-adapt-to-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 34
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/EcoEnergy-Virtual-Diagram-W-1200-x-H-675-pix-01-scaled.jpg"
-        width: 2560
-        height: 1440
+        height: 630
         isCached: true
 
 secured: "h0hHboo2yLhlZiHV86a7LwU7+IjtLfbVrwSQIDG0isPlGC0w+1hiH2ZLJr1/UXocheR9rEOi8Vuk3xNWQofR5XTBcFyQs5/hJvtws+mBXU4gFH2Y1Q/wUf7pimVtgk1ejo6/BnpAeXCUkxMC9WoThzCvk11Z4BFhXZaOaEvRQ7bv25UfKnXYgYlEkvqgnoCHHtCXGM4X1vDpHf1gRmhlzZoLc5MnW1VG+iIdqL03xdcGgcGE6F1yAlBy5KtCEAK9P8x7jy0Ml3TH8NYNOVGa4ho7QJvf6xiQqU6SqAuZHjLvAw5Ui14U22KOsLApmcxnjtmoq8rHprvIvPvTxD+lQrSVZu2Ig5cfMuW9rrJ/zvs=;gBlvfZ0QswhlFm/9zqFHYA=="

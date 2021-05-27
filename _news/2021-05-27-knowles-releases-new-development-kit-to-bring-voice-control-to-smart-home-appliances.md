@@ -9,7 +9,7 @@ ampWebUrl: "https://www.twice.com/the-wire/knowles-releases-new-development-kit-
 cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-new-development-kit-to-bring-voice-control-to-smart-home-appliances?amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1080
     height: 1080
     isCached: true
+
+related:
+  - title: "Knowles Brings Voice Control To Smart Home Appliances With AISonic White Goods Standard Solution"
+    excerpt: "The AISonic White Goods Standard Solution is one of several options under Knowles’ new line of reference solutions for voice activation."
+    publishedDateTime: 2021-05-27T20:09:00Z
+    webUrl: "https://www.twice.com/product/product-spotlight/smart-home/knowles-brings-voice-control-to-smart-home-appliances-with-aisonic-white-goods-standard-solution"
+    ampWebUrl: "https://www.twice.com/product/product-spotlight/smart-home/knowles-brings-voice-control-to-smart-home-appliances-with-aisonic-white-goods-standard-solution?amp"
+    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/product/product-spotlight/smart-home/knowles-brings-voice-control-to-smart-home-appliances-with-aisonic-white-goods-standard-solution?amp"
+    type: article
+    provider:
+      name: Twice
+      domain: twice.com
+    quality: 46
+    images:
+      - url: "https://www.twice.com/wp-content/uploads/2021/05/AISonic-Bluetooth-Enabled-Refrigerator-726x277.png"
+        width: 726
+        height: 277
+        isCached: true
 
 secured: "rS31hxk3++DjXyBwod1lHoN7Lz/+/fvaFi+LPnmeXx6SEjiv0p+49US5R1AfQUsd4SrifdPyog+I90wkIgE9zHFboQT6wa7rTEkyhKOMqKVRNwQQiw1GEvlKqRYmBwVaI9TUUidFekdFPz2A2h8ZP62kt6AqJY9iImIA96ehA9iT1IVK+KygkYuZFETfQea8R47WyAUVZ/oZ7ewIZAVOqaIhj2WoV+aiiycxCpewb0srFdQo5fWeswtepsihX2jXV28uCwrzO9P5K91ctIRxsvkFVjhz93Nu8m1Nh6oRZlizYpJvLHdoENkAufxtv9e08B3oa75h8d3npRCqVEOob2KuslT9d5xoKjAS/dbed4E=;gO37AqSdUOvU6O26BWrMqw=="
 ---
