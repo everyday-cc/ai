@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 760
         isCached: true
-  - title: "UPMC: Sense of Touch Improves Control of Robotic Arm"
-    excerpt: "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled."
-    publishedDateTime: 2021-05-22T12:41:00Z
-    webUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
-    ampWebUrl: "https://indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/upmc-sense-of-touch-improves-control-of-robotic-arm/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 59
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/upmc_logo_og-3.jpg"
-        width: 825
-        height: 366
-        isCached: true
   - title: "Mind-controlled robotic arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers on Thursday published a study in the journal Science about the world’s first brain-computer interface that allowed a volunteer with paralysis from the chest down to accomplish the feat."
     publishedDateTime: 2021-05-22T16:00:00Z

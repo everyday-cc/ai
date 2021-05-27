@@ -19,63 +19,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
-    excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
-    publishedDateTime: 2021-05-25T17:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
+  - title: "NICE Launches Enlighten AI Routing, Innovating CX with Next-Gen Intelligence"
+    excerpt: "NICE (Nasdaq: NICE) today announced the launch of NICE Enlighten AI Routing, enabling hyper-personalized, next-gen experiences in real-time. Powered b"
+    publishedDateTime: 2021-05-25T14:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210525005392/en/NICE-Launches-Enlighten-AI-Routing-Innovating-CX-with-Next-Gen-Intelligence"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
-    publishedDateTime: 2021-05-25T15:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
-    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
-    publishedDateTime: 2021-05-26T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
-        width: 400
-        height: 218
-        isCached: true
-  - title: "How is the Adoption of AI Helping the Gaming Industry?"
-    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
-    publishedDateTime: 2021-05-25T07:30:00Z
-    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
-        width: 487
-        height: 469
-        isCached: true
-  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
-    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
-    publishedDateTime: 2021-05-25T16:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
 secured: "BNFZ8oNLJVc9JvqEzBBpz7ORU/Fi9gYAa8OhTohlAT1biDM0XU3NHQIaFZoWovVt+z9XYBKg2KR0uFKI1vpo3Mf1pYhh6sna2KZ88e52KhloEf9bmFQHXYaZ2pF2hOIdNbnYDucuFv3t3hFOMVP6rd0pK5jIGiJvx6fBsApd7sklIatdT/H6ktsMzasHtt12ZSeGjdeYZvPDoU/Xx3lg0VosfS1JBFAJiG/ypPgZVso+ET7R/DWNVO26Pe0WFVVOXSfTps5vIm5+9QPDgSn0a6n9SPGzJp0MIpmfHmEdf0GjZYedfqP/FREhZYn6e/f4Cxkvmw7FvjCRVc8u1chMu2GogOCtdOuO/bKU+zSSHDs=;AqSWUsi3x3/KDeu5BRsVjw=="
 ---

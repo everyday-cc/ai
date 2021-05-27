@@ -1,27 +1,25 @@
 ---
 category: news
 title: "4 AI Healthcare Stocks Transforming the Medical Industry"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
+excerpt: "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade."
 publishedDateTime: 2021-05-25T15:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
-webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+originalUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25"
+webUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25"
+ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 116
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI Hardware
+  - AI
+  - AI in Healthcare
 
 related:
   - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
@@ -35,20 +33,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
-    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
-    publishedDateTime: 2021-05-26T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
-        width: 400
-        height: 218
-        isCached: true
   - title: "How is the Adoption of AI Helping the Gaming Industry?"
     excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
     publishedDateTime: 2021-05-25T07:30:00Z
@@ -63,25 +47,18 @@ related:
         width: 487
         height: 469
         isCached: true
-  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
-    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
-    publishedDateTime: 2021-05-25T16:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
+    publishedDateTime: 2021-05-25T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
-    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
-    publishedDateTime: 2021-05-25T20:38:00Z
-    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 14
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
-secured: "2ueBDQeYQQP1U71Dv+GnbGBX8Ri5oPTfd2Df4oE4CcAawSykYnpuX49j+6XRPwTCCKfqDO2q/eVdb8Xoyu5e2ZsvF31dyHu84+NWUjVSTAPAH8rncULFIOa1QojryTAJdmXGqdym+x+dVecALUpVCzavkHrWNqOnzNWv1H8ZCh/Ovuz1JeTc8BXpLr9rroqSx9FJ8w3fl4Uim0AygowNxqntKtYhkAKFGV4emC/n/d5k7z6Ce8BedtGVXUSFL9c1WxDXLwaMrCpyv0zF5yN6hzJ2//KuaY9/DzUTFtHRLMlPTYzgpvXXY90/U+3KWQPr9kmBIcF6WCEcznOCftuHPuUNssuFNb11uaFsFnabzqeDYP5klYVHJi4Gg4XtJs85HRJOorfCoO/cQ8iTHVpwBtaDMybB+wvZ4snYEE1WGlE9SYSzT75kyNc9x+SCUryZuk0gifJLb31+Wk6/isaemgOBlXxlclt5FPZytz13anBCgi0RcNYk16+ggOgkUGCaDiyQgnvN5bvhT2jZZW3uog==;RfrQ+n+/G5OZNEs0P8ansg=="
+secured: "9/acGEpKDQFBuf7ScgVTmFWAJBxva8TKzMJtrcZHOhqvPflH7/EokdxXiodm5LSq7ZzUZGPA640tIC+ssOsYUZQeBxKnmQK3ov/L75wSQd2vL9kBE+tyrOUf47Eit8YWeGALFlCMYUiqX3r05t+XVZaB1TzrxkO/4nw6qw/8vJz15Q3Zm1qf3s8t2B2VJt3OGGZps3XVouN3WwH+6zasRc2fsDnQIh2wkX1Jq5BB41NW+gLXx3iJVquoKd/qS5+bpnSaAX/JLZm3xxUsydpISoZ4hL8YsWg1x1T4Zp/CNSKw4WLdnRQhccqXVy1jFWn5EqHvocjU4+AsWnpa+oSqdozbOrS4d3b4W4rv5tiVwok=;Kzulmt+ePgWw35Jf6+iQCQ=="
 ---
 

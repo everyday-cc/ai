@@ -144,6 +144,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-08-ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018.md",
+      "title": "AI, Azure, and second chance tech: Highlights from Microsoft’s Build 2018",
+      "excerpt": "This gives developers the software and hardware needed to create camera-based IoT solutions, and it comes packed with Azure Machine Learning services. Microsoft CEO Satya Nadella also reiterated the company’s responsibility to trusted and responsible AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
+      "originalUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/05/Photo-Satya-Nadella-Microsoft-Build-2018.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
+      "publishedDateTime": "2021-05-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture.md",
       "title": "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture",
       "excerpt": "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?",
@@ -1285,50 +1328,6 @@
         "Google AI",
         "AI",
         "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio.md",
-      "title": "Speech Recognition Market including top key players Nuance, Microsoft, Agnitio",
-      "excerpt": "The study provides company profiling, product picture and specifications, sales, market share and contact information of key manufacturers of Speech Recognition Market, some of them listed here are Nuance,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
-      "originalUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Speech-Recognition-Market.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Microsoft AI"
       ]
     }

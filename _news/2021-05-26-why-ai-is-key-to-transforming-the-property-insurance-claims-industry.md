@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-pr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
 type: article
 quality: 67
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -21,28 +21,16 @@ topics:
 
 related:
   - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
+    excerpt: "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade."
     publishedDateTime: 2021-05-25T15:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+    webUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
-    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
-    publishedDateTime: 2021-05-26T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
-        width: 400
-        height: 218
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "How is the Adoption of AI Helping the Gaming Industry?"
     excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
     publishedDateTime: 2021-05-25T07:30:00Z
@@ -57,24 +45,17 @@ related:
         width: 487
         height: 469
         isCached: true
-  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
-    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
-    publishedDateTime: 2021-05-25T16:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
+    publishedDateTime: 2021-05-25T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
-    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
-    publishedDateTime: 2021-05-25T20:38:00Z
-    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 14
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "LtvjFWurqSfKrd9D/cyffOYzTJ5E53pL+DsV8PB+1UUhxcd78zryy1304JTE5LjS/AgPmt4ZIqrxvzD3El0OHLwQAMZP5j0KW09SvIt1n40ZbPg4oNy4sZ4TbjQcmiapXbaBo1OR2JI3xlDy2hBrYLvqmk9dH76ExQzP3wNwW+tUKTwUL8lL5QmRrBsME7Cz+LMtSIpbQpmAeQKFQ9aiT3TMjWUpVZXnd8fgtSakKTJN8BDca9EvQitroS+/P28R1RtQBDnLa81Ko/OpYo5iyYYGw3nOgzqmwkQJWOdmEbZKxxYjdnkHSzFa4VxobgtyI9dyWSis8e0KQltTwxAb7VYDwUL07FVT5JP5vNV4b0w=;n1MvWU1m7ZwFgBnFKyXBEA=="
 ---

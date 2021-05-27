@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-d
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "GM joins effort to build self-driving moon rover"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles ̵"
+    publishedDateTime: 2021-05-27T04:00:00Z
+    webUrl: "https://www.journalgazette.net/news/science/20210527/gm-joins-effort-to-build-self-driving-moon-rover"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210527/ARTICLE/305279939/AR/0/AR-305279939.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "GM’s newest vehicle: Off-road, self-driving rover for the moon"
     excerpt: "The automaker is teaming up with Lockheed Martin to produce light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts in the early 1970s."
     publishedDateTime: 2021-05-26T20:45:00Z

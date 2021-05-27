@@ -41,6 +41,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "GM joins effort to build self-driving moon rover"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles ̵"
+    publishedDateTime: 2021-05-27T04:00:00Z
+    webUrl: "https://www.journalgazette.net/news/science/20210527/gm-joins-effort-to-build-self-driving-moon-rover"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210527/ARTICLE/305279939/AR/0/AR-305279939.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Y5MCkypdcPZQ0BMvdxKcvMDTvnuQBfx8eFLfRIyDi80tob4O3z1NhbVCYB5tf29Qp7xKcFlzrFSZV6VoLBd44omeS/YOLY1NaLp1Zf4bb/9MzhM0LDI722J7xWTNBMEQjYtdQeh3bScj5U3jExK/eejwNtlJFznYSDdQg5NMgMF+ixrjhLZAvMwjBnD4DKj4b7tD2r7NJ+BNGWrhF1uGluz1PTuGj0OeI4SwJFQCJvpJxkNVh3Q3YbljN7p6i6vEspx2n4UIWJ6CZ6tJLRSHkSWI9iHEx9W61oxm6xmeRafOOMJ64SBK65AziqczlrW8uZOs47oU6WlUaINwzaC0IpIeYOEIyzwXma8aOsM+R3s=;8aTld/2rat39p/ryZAF7ug=="
 ---

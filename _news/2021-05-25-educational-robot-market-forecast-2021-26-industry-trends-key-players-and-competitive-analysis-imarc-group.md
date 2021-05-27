@@ -53,17 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
-    publishedDateTime: 2021-05-25T11:01:00Z
-    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
-    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
     publishedDateTime: 2021-05-25T13:53:00Z

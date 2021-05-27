@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-26T11:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
 webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
 type: article
-quality: 66
-heat: -1
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -21,66 +21,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
     width: 400
     height: 218
     isCached: true
-
-related:
-  - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
-    excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
-    publishedDateTime: 2021-05-25T17:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
-    publishedDateTime: 2021-05-25T15:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "How is the Adoption of AI Helping the Gaming Industry?"
-    excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
-    publishedDateTime: 2021-05-25T07:30:00Z
-    webUrl: "https://www.cioreview.com/news/how-is-the-adoption-of-ai-helping-the-gaming-industry-nid-33679-cid-257.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioadvisorapac.com/uploaded_images/0ii8yaiaw.jpg"
-        width: 487
-        height: 469
-        isCached: true
-  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
-    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
-    publishedDateTime: 2021-05-25T16:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
-    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
-    publishedDateTime: 2021-05-25T20:38:00Z
-    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 14
 
 secured: "eDt6h9zyvKBCZ/AnKhHLGR7o3f8toLmnR+FoSDQwH0k9kKq6Y0CMjc1ZINXoEw1joEUpw/bXOaIQz0YjOMyiQ/z8i8JiehICcEJmu6UdGffJgAoaZ3AtgpFfgKRfzmFd01SAFxeyfqDpIGeHndlG4qiu8/pDWF1RZKU8ulc9EsILcXjfr/XY5GcQWog0UuVUfTNx2SRN+In2irB66UBwv22HNiG5Iw8OkySqY0yq7+/gWR7KeYF+TfXyuQQjM9M0LssF3zyvMi7i/VI5C4CULqzY725PUjTli38lvPiWljQF3eSsAN9aRtoYVcjVnMcCaxdZweMNk1X+b8GezSR3GDz9iPvnSdn15t0YJCx07PW6lt3zpkmzcKc8EVvpbqarcON3jPf69RdzBBIWPkusRXDHCvTjknVUullSbN8sKKj1OsfwlsDfcOFxdCeBp9weyJcmC+v4A5rDdp6FyOoIGPsTeqbfY15tx7NhUw0ZwJbhFXQZRf0PKz0ivHSVrknYzc2w93xSRnEFl6/sJCd8Ww==;gLCPFzpwLfvjgDfBM8GNeA=="
 ---

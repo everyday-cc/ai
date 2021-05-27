@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026"
 type: article
 quality: 76
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Global Natural Language Processing Market Size, Growth Rate, Verticals, Key Players Analysis, Application and Forecasts to 2026"
+    excerpt: "The need to make sense of unstructured data and extract insights is expected to drive the adoption of NLP solutions and services which will contribute to the growth of the NLP market The global Natural Language Processing NLP market size"
+    publishedDateTime: 2021-05-27T05:35:00Z
+    webUrl: "https://www.openpr.com/news/2291669/global-natural-language-processing-market-size-growth-rate"
+    ampWebUrl: "https://www.openpr.com/amp/2291669/global-natural-language-processing-market-size-growth-rate"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291669/global-natural-language-processing-market-size-growth-rate"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
 
 secured: "5ou/toAJjB1AZI19HKl3pMTbKXL77SBQq87Ph2BVg0CUQpNQ02YKFfeTbbAiCp4OJzaro/3oNY9Ou6lyLAeOcUboEAlgrgnGLHZmq5fd2LAM3BftLgmRJMaoNTzCArsF8f1CeDLamQs/r7H10tm9IH6g8nDu3n0fNHy/rTaS3imnS7ePY0JOkI2R/7i17wzMIfP3rgfQ6VUGzuebbEC9ieaHpivwnrxK4T2PomZz3LT0zyic9K8z16rscpx/JicPQr2/1k+MtPXBtdxHNsBWbHyrRFx6TYcg1FxaCPAsTJ+pAhmIE48iuYIDRqdCbxnj4/fqB9V+MBeyFYiyiKA2+HlXu1e7yqy/f+AG9itIHueeH6U8OdUY5ICr2aTarlD7PwhDVOjVSL3/v6f+/IMR9xjxAE7jBQ17PP/hek/6AuMGru5OPeCKWqXX9mNvOBDaS/gH2IRm+1hW6pJtErk89zoYbI0E/Qe8ai5OI7LDJUU0d1+R3CK5q33yPYtuZa8gVSDiWzN+FzCo14CxTb80eQ==;9X1LkFs8iCUdc2y8YfPoiA=="
 ---

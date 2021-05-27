@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
+    excerpt: "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade."
+    publishedDateTime: 2021-05-25T15:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
     excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
     publishedDateTime: 2021-05-25T17:06:00Z
@@ -35,47 +46,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "4 AI Healthcare Stocks Transforming the Medical Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An article from the Brookings Institution suggests that “whoever leads"
-    publishedDateTime: 2021-05-25T15:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-healthcare-stocks-transforming-the-medical-industry-1030463712"
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
+    publishedDateTime: 2021-05-25T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289900/artificial-intelligence-ai-in-medical-diagnostics-market"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "BD Leverages Artificial Intelligence To Transform Microbiology Urine Testing"
-    excerpt: "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. launch of a Urine Culture Application for use with the BD Kiestra™ lab automation incubation and imaging system that can transform the way microbiology labs approach urine culture analysis."
-    publishedDateTime: 2021-05-26T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bd-leverages-artificial-intelligence-to-transform-microbiology-urine-testing-1030466015"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1479210/BD_Logo.jpg"
-        width: 400
-        height: 218
-        isCached: true
-  - title: "SensoRy AI Seeks to Protect the Environment Using Artificial Intelligence"
-    excerpt: "SensoRy AI today announced its grand opening and revolutionary concept for utilizing artificial intelligence (AI) to prevent and predict hazards that threaten natural resources. The technology that SensoRy AI is developing uses a sensor network enabling prediction,"
-    publishedDateTime: 2021-05-25T16:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sensory-ai-seeks-protect-environment-using-artificial-intelligence-/2021/05/25/9377535.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-  - title: "Alaska Airlines and Airspace Intelligence Announce Partnership to Optimize Air Traffic Flow with Artificial Intelligence and Machine Learning"
-    excerpt: "Alaska Airlines and Airspace Intelligence announced the signing of a multi-year contract for the use of Flyways AI, an industry-changing platform that uses artificial intelligence (AI) and machine learning to assist dispatchers in making flight operations more efficient and sustainable by optimizing routes and improving the predictability and flow of airline traffic."
-    publishedDateTime: 2021-05-25T20:38:00Z
-    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21224305/alaska-airlines-alaska-airlines-and-airspace-intelligence-announce-partnership-to-optimize-air-traffic-flow-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 14
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "tEPdVMcI7ZAP43FOO9cqoUeK9B2aD7+MeF3PkdnL+IY6Fw4WkBUaCYU+Vz8XXKGzcuQr8SLTn6GQfLdzFkgJy075BfzVojsXq8yK6lTprnlXkfBO5weSjeoNRYQHFoORq+7a0i4q90phTUZ72utnx8wDkqV5RXnZn0fbnSTxwrOSzgi1NR/N/iorZzuSSuPmolHn9LiBdHLUpsC40BNQbkFYQxDXXJxXbeVZcWQxx0paGXapFbLDzwjGtRtISTcaG4oHLczaIlEN1+x3pFRT2tqds70Aq7lvpY3KtqRYLGRmFzXcoHzwj3KMkEIZ2yn+9TDSMF48s3AMgvEFDFGiTX4Y1xL3O+rR/jTB6DhFd1o=;FZRcfIoS0aj3GhrPgcqJIA=="
 ---
