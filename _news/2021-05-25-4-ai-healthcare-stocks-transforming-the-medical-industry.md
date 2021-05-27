@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the
 ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
 type: article
-quality: 86
-heat: 116
+quality: 88
+heat: 118
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 related:
   - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"

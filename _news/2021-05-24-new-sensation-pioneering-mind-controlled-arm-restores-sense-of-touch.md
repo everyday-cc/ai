@@ -51,20 +51,6 @@ related:
         width: 597
         height: 397
         isCached: true
-  - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
-    excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
-    publishedDateTime: 2021-05-22T13:33:00Z
-    webUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "EAZbRqVrkRIL0xyvJiC+qv90D3i8Qpa4W0IDFk4vNpCtv/Nev1hFkKgxpgBxmu/mVpli9454oRk+Gchb629/WrJKTZPzmetP2YmOiFA2mv7PMMq3xrXdj4zR07i3TGG1ExYPn3aCjkfSGjFsXp9tphuezsSjlvfKe/W479g39HHSwbNHdbDgHwMnCCx4XSa5RDeewzZ8YjP8ceuKxwkblTRRXD6si1F1QBBM0Ea+GFVw+SE1+C4LhxfDJ/SzEVkX0r9+wy1M05Z+s+pHqDhrrFy3nO9W97spxlNSFEiJBCG504s+jw1V8JvMg/64jkE4+I58kIyRIDDVM1jxSKH5ojIhZ/F13D2hyZ2WZ/AnV5soO3Dm4zX0D8LslzuYATEbUtcTlb+2NxJHybvw06lUZJKhlN+WlgRFYMoLbtJdw9ogq2QoRFWfy96DV1dUX5Qg3j/MIKQh+wSIvUYahT4QOKk77jnZFz7ubW7bBeAzvw8Ip7jnPqoL/T31V5l+1GtwjjpasK5Ir3lL9LH5KqiJrA==;hpC1bp34vEfztw5cBODC3A=="
 ---

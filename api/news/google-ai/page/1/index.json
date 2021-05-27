@@ -119,7 +119,7 @@
       "originalUrl": "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -308,6 +308,49 @@
         "AI",
         "Google AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-whats-going-on-at-googles-ai-unit-called-deepmind.md",
+      "title": "What’s going on at Google’s AI unit called DeepMind?",
+      "excerpt": "Kohl’s stock has pulled back more than 10% following Thursday’s earnings beat. This creates an opportunity to buy ahead of a rebound.",
+      "sourceUrl": null,
+      "webUrl": "https://invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/",
+      "originalUrl": "https://invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://invezz.com/wp-content/uploads/2021/05/101744575-l-1024x553.jpg",
+          "width": 1024,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/?amp",
+      "cdnAmpWebUrl": "https://invezz-com.cdn.ampproject.org/c/s/invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/?amp",
+      "publishedDateTime": "2021-05-21T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Invezz",
+        "domain": "invezz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1454,50 +1497,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-machine-learning-crash-course-from-google.md",
-      "title": "Machine Learning Crash Course From Google",
-      "excerpt": "If you’ve yet to climb the learning curve, you might be interested in a new free class from Google using TensorFlow. Of course, we’ve covered tutorials for TensorFlow before, but this is ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
-      "originalUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/google-machine-learning-featured.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

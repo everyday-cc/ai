@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-to
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/8861622035453/2021/1/16220360656460/v1.5/Mans-robotic-arm-works-faster-with-high-tech-sense-of-touch.jpg"
         width: 597
         height: 397
-        isCached: true
-  - title: "Bioengineers Improve Operation of Brain-Controlled Robotic Arm"
-    excerpt: "When an individual operates a prosthetic arm, especially a mind-controlled technology, it becomes extremely difficult to have complete motor control to do things like touch or grasp. A team of bioengineers from the University of Pittsburgh Rehab Neural Engineering Labs has detailed in a new Science paper how brain stimulation that evokes tactile sensations can"
-    publishedDateTime: 2021-05-22T13:33:00Z
-    webUrl: "https://www.unite.ai/bioengineers-improve-operation-of-brain-controlled-robotic-arm/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/05/abstract-1392404_1280.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "New sensation: Pioneering mind-controlled arm restores sense of touch"
     excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. U.S. researchers have published a study in the journal Science about the world's first brain-computer"

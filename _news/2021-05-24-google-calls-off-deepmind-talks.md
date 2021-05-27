@@ -55,6 +55,20 @@ related:
         width: 783
         height: 391
         isCached: true
+  - title: "Watch Google Deepmind's AlphaGo Documentary for Free"
+    excerpt: "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ..."
+    publishedDateTime: 2021-05-24T00:00:00Z
+    webUrl: "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg"
+        width: 1278
+        height: 724
+        isCached: true
 
 secured: "EsjX+Du8Ou3zLXnemuSNPc7fHR3YddJjf4uloYZNCyeBmY0hVKe2SlO8I7U1neVdnOOU580+8dPzRBabXx/jIYeaR/7wQ0N4hHvO3te9jJPnVnky3DPKJ8VMU08lqceMYonNMB0s+x/8JuBiZUdhmYsBz/24V6eKlb7zTDch4VOVIPxBS9zrJmufOlxyQRtmb6R4ishR8Z+g1TqOzaLX6z+7Uix/CaDZFGK1HkqhdjsuIHu2XaM+rSSfNRjiaIbKkboPJcT3S9edY0Ovzom2bAmqcX/LjQ41ExTXj5Z03iyx5ynC8jdocLk6xXmuAOnmXDOWgaXUPpR3T8jKGV68pdZYFZWuZHh5YTQD3kl+JU8fESyb1kNvY9k757lFH5Fp0Hm5bQ7Oaf96ImS4NW2vvclXYJiUnywEj7EnVhVni0LeXIO1u6ewZYQaV/x2KVv9dwRqJ8IU+Cmzn2D0FDNT4rfpjZhoON+WcQ3PK7LUqV+0zYQNTiJzqRxwYQYDC+sHfuvy0mFFYDqzoFCEN0H7Bw==;IpPU+b3WYEFO8vgBBfDu7A=="
 ---

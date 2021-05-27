@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-22-youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen.md",
+      "title": "You’ll Soon be Able to Use Your Apple Watch Without Touching the Screen",
+      "excerpt": "Companies like Apple and Spotify are making it easier for people with disabilities to use their products. Accessibility advocates hope more follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "originalUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342069?width=620&size=custom_495x278",
+          "width": 495,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "publishedDateTime": "2021-05-21T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
       "title": "Best practices in customer service automation",
       "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
@@ -845,6 +897,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
+      "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
+      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a DICOM format to standardize acquisition.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1515536/AAT_New_Platform_AI.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-mapping-and-logistics-startup-nextbillion-raises-625m.md",
       "title": "Mapping and logistics startup NextBillion raises $6.25M",
       "excerpt": "NextBillion, a geospatial data startup that provides software-as-a-service products for enterprises, today announced that it raised $6.25 million from M12, Microsoft’s Venture Fund. M12’s investment extends NextBillion’s 2020 $7 million series A funding from Lightspeed and FalconEdge,",
@@ -892,6 +996,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-whats-going-on-at-googles-ai-unit-called-deepmind.md",
+      "title": "What’s going on at Google’s AI unit called DeepMind?",
+      "excerpt": "Kohl’s stock has pulled back more than 10% following Thursday’s earnings beat. This creates an opportunity to buy ahead of a rebound.",
+      "sourceUrl": null,
+      "webUrl": "https://invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/",
+      "originalUrl": "https://invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://invezz.com/wp-content/uploads/2021/05/101744575-l-1024x553.jpg",
+          "width": 1024,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/?amp",
+      "cdnAmpWebUrl": "https://invezz-com.cdn.ampproject.org/c/s/invezz.com/news/2021/05/21/whats-going-on-at-googles-ai-unit-called-deepmind/?amp",
+      "publishedDateTime": "2021-05-21T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Invezz",
+        "domain": "invezz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1102,144 +1249,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
-      "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
-      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19819004.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19819004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
-      "title": "Speech recognition comes to prompting",
-      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
-      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
-          "width": 2560,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
-      "publishedDateTime": "2021-05-21T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-microsoft-expands-retail-tech-presence-in-china-with-hanshow-deal.md",
-      "title": "Microsoft expands retail tech presence in China with Hanshow deal",
-      "excerpt": "The Chinese retail tech company will use Azure to manage its technology at over 20,000 stores across 50 countries",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal",
-      "originalUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816840/itpro/2019/04/microsoftchinashutterstock_510722167.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/359628/microsoft-expands-retail-tech-china-hanshow-deal?amp",
-      "publishedDateTime": "2021-05-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-25T06:18:00Z
 originalUrl: "https://www.ciol.com/ai-ml-use-case-hospitality-sector/"
 webUrl: "https://www.ciol.com/ai-ml-use-case-hospitality-sector/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 secured: "VoqoBQez1XMyPTSRnsYr1rRTHBsgptK+tt4Fhq/rGgU3fLD4il2OOpqTbnnYdNVzlOcL5ncLVIWpTf6AfA1LebHuJNJW6qP4SbxKgasR32RdyLgLgIf4RpM7jDflmdVSVAMrq7fwJDWOQBKttggDFVazjy/ECMLldFu1e6TkBOygB23mo9Wa3rOJX7pdAAdtaYzVNuTwBZnrM6zBlncPrarjm2i0QWJgrqriyLn2ADLKQ94g5wO12k3GUZBwDt2noOyTtrIvpCajkngkuPsoQEvXflpeqIyhuBfnThSkrFogwlCTXGIaDm7YtzDXLDlj3YeaeLYDqD5FRdx6bqkVzoL/Cw3a6gtpXb71yPBQhlc=;5RqjYtl210eRlvS81nPDTQ=="
 ---

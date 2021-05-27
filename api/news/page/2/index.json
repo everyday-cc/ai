@@ -54,7 +54,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/372905",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -646,7 +646,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -669,7 +669,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     },
     {

@@ -34,7 +34,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 86
+    quality: 88
   - title: "Why AI is Key to Transforming the Property Insurance Claims Industry"
     excerpt: "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient."
     publishedDateTime: 2021-05-25T17:06:00Z

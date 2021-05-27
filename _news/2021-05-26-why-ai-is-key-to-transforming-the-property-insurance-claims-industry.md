@@ -30,7 +30,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 86
+    quality: 88
   - title: "How is the Adoption of AI Helping the Gaming Industry?"
     excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"
     publishedDateTime: 2021-05-25T07:30:00Z

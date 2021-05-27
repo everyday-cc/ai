@@ -3,8 +3,8 @@ category: news
 title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
 excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."
 publishedDateTime: 2021-05-26T15:00:00Z
-originalUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3,-Model-Y-in-the-U.S.---Rolling-Out-â€˜Pure-Vision-Autopilotâ€™-Using-Cameras"
-webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3,-Model-Y-in-the-U.S.---Rolling-Out-â€˜Pure-Vision-Autopilotâ€™-Using-Cameras"
+originalUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3-Model-Y-in-the-US---Rolling-Out-‘Pure-Vision-Autopilot’-Using-Cameras"
+webUrl: "https://www.futurecar.com/4641/Tesla-to-Replace-Radar-in-its-Model-3-Model-Y-in-the-US---Rolling-Out-‘Pure-Vision-Autopilot’-Using-Cameras"
 type: article
 quality: 21
 heat: -1
@@ -87,6 +87,6 @@ related:
         height: 454
         isCached: true
 
-secured: "YoXTMJHfx+BkGjU6kYSDnsGcxmdNp5w3lPtxuJ9tydYz3wQyLDgTok5sOId4U558wbwUrkxj6iStaY6s7+ZMmlpubRyb56xrFIxyncxuHQxkoCNWjq4q39oiBNpWTgSEh3i0zqiAvKiLZfuv73jQVvx/g2CpY7Y/jX/PfBpWH22TRWGFv3NccsCd4zHJ/6PpbnFlQRgoEzUOvhyw5ecURNv47OoeIuqjvDjGACtg3oReeatB4/lYS8mPrMuCpUKf5XUuSxFj1JZM2vuwC98NWkc8vFizuuH7ILkClFEy0GgUeSxTfq/zAEAlKo3VX3Jw6vb6P9nA0vyb4YhtqMTVZcxjHEGo1kNlnxbUX9b6iTEZtZs5Waet8UB5kgRD00Y4xgO6SKtPNl9mT9eQqwDDh4j5F7YX780lQlsFZ2ernSnQ0/bjH2nl5GzzvL9oUyTC+CjwuzJXZLGcklPm4kqo9GSUQQ0QHqNHciWbn/YHXErAxFx3vUrsEfgFBPWRQUTMWOHqGJ6HXuN+e//K4gP6qQ==;Xd6BkJGpPQyb3SeonuhIHQ=="
+secured: "RZkz5YpYacB0ltL7JJ74FB+yQU8LTOOXXTIJQCcBTpC/AIwz4//tNtDmMJFjBEDXD6eoy1Lm5HlSGERpg4iVOP+mLY1iHHIR7o6yVhreQVkQWc9TQf5qB50JFsRZQ+Wt5jtry2oVuSNaoNCUy0+fe9CqJFNRLbE2ECsYMRSjvVWaHEH5oGivMc6iwEqCkxhP2fdkTf2dhYDpMg1Wkfd2fR3GUdidnzJFzhiQ+qIv1bhrdiBe5pJokc1dLSUYSg0A5Qn0i9lOMfnJoPXVpdBpYA0onlVs20Je9pprmXUjrypOkHN7bW4cPVmp/2ZDE5okoXjRoyw/EGvyv3cOllzMgIbms6L3rQjQwpI4aj0CGpE=;ZfLFOCa7yIh2vxTgWFRS6g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-ind
 cdnAmpWebUrl: "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d6d4bc3c0e7fc7de1e3fc7765480cb4e_L.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Watch Google Deepmind's AlphaGo Documentary for Free"
+    excerpt: "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ..."
+    publishedDateTime: 2021-05-24T00:00:00Z
+    webUrl: "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg"
+        width: 1278
+        height: 724
         isCached: true
 
 secured: "JQ21biH9rxHEeY49AEANwXCvJFfK4UdmORU3QWCJ2RD+RdofX7Adio5WtFcqk66EEYXUGWaz3OXbEjMBlQWAiMobmgBhVRRTvwI+hvdGumh36fvi+XNPaeogv3h96N3q30ivQGir65vStzLhktYvdKMgW0ZEfVYk6Ivqvl7IJU4qeBdwZvaDdXITkJ/k6rTGXZ0/3tSjHHsSximHrRoTDkcuQIXYTlNIW5Ly6nfc22v8MBCohrAFtbc6iIFIJmIKBAwOSbFt7zWbzXAMXRtGG3M+FXw2qs076FN7hlxChcs35tTmQtfrrpswhtfUqGy7XZp1Cu2IDU0oqePYNN9oNDJGvyv5/vK5bYHmL3W23YTbG7wmrRqAEmD9Pg/54tI6qYGAywRJFB8HdYMBZ79XMb0mDIvHg2DuK+FRCIyllZuLFBRaPzNuRnb7P23pDvrlq9c3O63vQv/maPvA0iPDvFR+xDrlCFNZD++4h6ACB6yMULDZRsEDTrzIv6XYu0J2SwRxrgcrUpxuH6XYGgtnoQ==;th60oRFW7b7UM+cyT1qGoQ=="
