@@ -53,6 +53,20 @@ related:
         width: 949
         height: 534
         isCached: true
+  - title: "Nadella Highlights Microsoft's Data and AI Advancements at Build Dev Event"
+    excerpt: "Microsoft is a company of software developers that's simply addressing the needs other developers, CEO Satya Nadella indicated in a Microsoft Build keynote talk."
+    publishedDateTime: 2021-05-26T15:33:00Z
+    webUrl: "https://redmondmag.com/articles/2021/05/26/nadella-at-build.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 52
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BuildNadellaBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "BigID Partners with Databricks to Automate Data Discovery and Intelligence for Analytics and AI"
     excerpt: "BigID, the leading data intelligence and management platform for privacy, protection, and perspective, today announced their partnership with Databricks, the data and AI company, to drive business value by bringing transformative data discovery and context for analytics and artificial intelligence (AI)."
     publishedDateTime: 2021-05-26T13:10:00Z

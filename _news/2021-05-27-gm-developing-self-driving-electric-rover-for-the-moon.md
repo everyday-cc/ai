@@ -1,29 +1,29 @@
 ---
 category: news
-title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
-publishedDateTime: 2021-05-26T22:45:00Z
-originalUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+title: "GM developing self-driving, electric rover for the moon"
+excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
+publishedDateTime: 2021-05-27T02:09:00Z
+originalUrl: "https://www.13newsnow.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+webUrl: "https://www.13newsnow.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: WVEC
+  domain: 13newsnow.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://media.13newsnow.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "GM developing self-driving, electric rover for the moon"
-    excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
-    publishedDateTime: 2021-05-27T02:09:00Z
-    webUrl: "https://www.13newsnow.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
     type: article
     provider:
-      name: WVEC
-      domain: 13newsnow.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 44
     images:
-      - url: "https://media.13newsnow.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
     excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
@@ -92,6 +92,6 @@ related:
         height: 315
         isCached: true
 
-secured: "UwbNzbb8CO/DezBfg7GfNt3icrrb4SDQG9TnUpSd2SuZpSjCahg1s4lqDm/UHWSFz8/L83aX9Dxft5ItzPUPVZvTwgMsasFXie/2pK6hXNmxwBOJmLLLA4lBxCi+xyLGNDHN+S9CibNW1vOzp29TY5bsj0mq3pCNLrJLtxRK+a0H6S4XiWdAdwbemRtXB67EIJ2KinX2cOCv2oT+sPMHCRMZXgwPOlpQ3Orx4fv8STqTTv+cNxHrOMEFoz2pv74yMz3Yb8HpEJj+fhlgnT2161VIHgdrf4azubSlRGPjU4Wwpb4FTQxkANMEdFDT0KdZzD0s9ozKa9Odqd17qI/+6fFBPFcJrURIKau6cK2JbNs=;havqoH8+qnQw3XticxIeOw=="
+secured: "m9KqYvfu0/HPxjQgqUCT3MtaCV5BT3QEkJ+8+/bH1XXqJqUfCBzYR3z3uPRJZtYtsjU5ITQHHfUIMiekHJErsJjdAO0MFQ/sKtfq4sPpfn5uXX49Idnte4aJeyLli6R/7JoT+Dj78obVzKLSvd2f9LBeQThyg2pbbQd1/9idi4UzTUPsy6WDXBflLJFiR0BjmiD5JQ//Tu7UUeh7Jg495W+f871CGm7gvP1cr9ciFCUm6uzIQ077P7TEdQVdc+ZsVhxbwAE4qR/cwahZD9V0wfYs1njosYY42ufKrVka6W0oR+KsibKPP6Vc1Y1xiPzkFPuAHG8ami8WdjSgEviWsso5a9VE+vwRsvMAoyJtJH0=;8QMiMPRxlP8TzT06lEHOGQ=="
 ---
 
