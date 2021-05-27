@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles—for the moon."
-    publishedDateTime: 2021-05-26T20:10:00Z
-    webUrl: "https://phys.org/news/2021-05-gm-vehicle-off-road-self-driving-rover.html"
-    ampWebUrl: "https://phys.org/news/2021-05-gm-vehicle-off-road-self-driving-rover.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-gm-vehicle-off-road-self-driving-rover.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/gms-newest-vehicle-off.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
 
 secured: "Y5MCkypdcPZQ0BMvdxKcvMDTvnuQBfx8eFLfRIyDi80tob4O3z1NhbVCYB5tf29Qp7xKcFlzrFSZV6VoLBd44omeS/YOLY1NaLp1Zf4bb/9MzhM0LDI722J7xWTNBMEQjYtdQeh3bScj5U3jExK/eejwNtlJFznYSDdQg5NMgMF+ixrjhLZAvMwjBnD4DKj4b7tD2r7NJ+BNGWrhF1uGluz1PTuGj0OeI4SwJFQCJvpJxkNVh3Q3YbljN7p6i6vEspx2n4UIWJ6CZ6tJLRSHkSWI9iHEx9W61oxm6xmeRafOOMJ64SBK65AziqczlrW8uZOs47oU6WlUaINwzaC0IpIeYOEIyzwXma8aOsM+R3s=;8aTld/2rat39p/ryZAF7ug=="
 ---

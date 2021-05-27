@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
     excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
     publishedDateTime: 2021-05-26T20:50:00Z

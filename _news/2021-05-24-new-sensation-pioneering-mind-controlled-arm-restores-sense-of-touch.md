@@ -65,22 +65,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Mind-controlled arm restores sense of touch"
-    excerpt: "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand."
-    publishedDateTime: 2021-05-22T07:00:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mind-controlled-arm-restores-sense-of-touch-bc12fa67-b93e-4e03-9f6b-df6cab911f2c"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 44
-    images:
-      - url: "https://image-prod.iol.co.za/resize/5519x366/Nathan-Copeland-who-is-quadriplegic-controlling-a-robotic-arm-thanks-to-electrodes-implanted-in-his-brain-at-the-University-of-Pittsburgh-Pennsylvania-Picture-Handout-UPMC-Pitt-Health-Sciences-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4bab8285-62c1-5381-abd8-5bca694d39ee&operation=CROP&offset=0x290&resize=5519x3104"
-        width: 651
-        height: 366
-        isCached: true
 
 secured: "EAZbRqVrkRIL0xyvJiC+qv90D3i8Qpa4W0IDFk4vNpCtv/Nev1hFkKgxpgBxmu/mVpli9454oRk+Gchb629/WrJKTZPzmetP2YmOiFA2mv7PMMq3xrXdj4zR07i3TGG1ExYPn3aCjkfSGjFsXp9tphuezsSjlvfKe/W479g39HHSwbNHdbDgHwMnCCx4XSa5RDeewzZ8YjP8ceuKxwkblTRRXD6si1F1QBBM0Ea+GFVw+SE1+C4LhxfDJ/SzEVkX0r9+wy1M05Z+s+pHqDhrrFy3nO9W97spxlNSFEiJBCG504s+jw1V8JvMg/64jkE4+I58kIyRIDDVM1jxSKH5ojIhZ/F13D2hyZ2WZ/AnV5soO3Dm4zX0D8LslzuYATEbUtcTlb+2NxJHybvw06lUZJKhlN+WlgRFYMoLbtJdw9ogq2QoRFWfy96DV1dUX5Qg3j/MIKQh+wSIvUYahT4QOKk77jnZFz7ubW7bBeAzvw8Ip7jnPqoL/T31V5l+1GtwjjpasK5Ir3lL9LH5KqiJrA==;hpC1bp34vEfztw5cBODC3A=="
 ---

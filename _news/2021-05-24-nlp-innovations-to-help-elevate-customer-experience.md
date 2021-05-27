@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Artificial Intelligence Can Help Dancehall And Reggae Music"
+    excerpt: "Currently, artificial intelligence makes it easier to find and listen to your favorite songs. Many moons ago Reggae and Dancehall music fans were only able to legally listen to music curated by a"
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    ampWebUrl: "https://www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    cdnAmpWebUrl: "https://www-dancehallmag-com.cdn.ampproject.org/c/s/www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    type: article
+    provider:
+      name: DancehallMag
+      domain: dancehallmag.com
+    quality: 59
+    images:
+      - url: "https://www.dancehallmag.com/assets/2021/05/Spotify-Music.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Crayon opens AI Center of Excellence"
     excerpt: "Crayon officially opens its AI Center of Excellence in Singapore to offer additional Data and AI services to customers"
     publishedDateTime: 2021-05-24T09:31:00Z

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service"
-excerpt: "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service"
-publishedDateTime: 2021-05-20T12:06:00Z
-originalUrl: "https://www.lelezard.com/en/news-19816657.html"
-webUrl: "https://www.lelezard.com/en/news-19816657.html"
+excerpt: "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service."
+publishedDateTime: 2021-05-20T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial"
+webUrl: "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "2yxKRioWq0e3J3jrafD0V1R/tei8bzBCGnSm3sqaimXZuoInpmoUZrDfRZ743IWg4QsmzQHU8rIKce4kWQ7p5ZlBcoJNptiDMmB+qrwWuUwOAaBMJ2SyG0fUKR+RRJSdsC1JzsYABK0QbUaKEIPjcoX0zbgpfksuIBzeUhCUttfnVojyJAGyq6HGQYfuDeenwZoNx1vQBQecZIWGsYT4Te9D5CvkxI6JHXaowKVlU1KSQAAAbnCVM+QYGdquwo5DTBunjCJ73JRWtufTR0070EngOz4Sptj9HTgk7sy2ga4tJ1pUROzepaBKeRM6nZYRfoqXjfFiF7grcyANVeXOGcCtDUzZO2TIo6uyfYYd9gQ=;H1YEiXEPcypX7wumjh0YcA=="
+secured: "zt3E+bfPRUWr/dzqlz2N2+cuVsvF2ptOJSt38EPxY8214Hpllh1niEfWg7kLzNvBq9MDGeGz+Hd9O8GceSTKvgZCxR8dtpqJCHxqKbig7Ruz8ODAq0IwK1LRPWSPZEyF92HJbXMmLulYWpO/lJ1Dy9DGFPGvRqzMDkvFrSH9erUDjsM/WAHhOgeH22w1zKUcFVp8dD7YRwYXJhqDq+TSu1TyV8WbPUGLN76rlPZtC8jM1RtxU6X+NEVwb1k4lOSsJTHDHe4L6XVOoToIwKvLnTSXiRFj8Fa6PcGGHYUkK1eC9jfJxRSOubiiSrRNxwTGFLrOc3uWN4rxAusKFL9VsiBaIg5aNlH/Ta5uhhRkEto=;9ScP4/GHFWU6kmYfO/KCtw=="
 ---
 

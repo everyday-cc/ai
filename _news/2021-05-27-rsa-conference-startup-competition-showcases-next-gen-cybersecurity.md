@@ -1,0 +1,66 @@
+---
+category: news
+title: "RSA Conference Startup Competition Showcases Next Gen Cybersecurity"
+excerpt: "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world."
+publishedDateTime: 2021-05-26T23:29:00Z
+originalUrl: "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/"
+webUrl: "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: eWeek
+  domain: eweek.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
+    width: 2560
+    height: 1280
+    isCached: true
+
+related:
+  - title: "RSA 2021: Can Artificial Intelligence Play a Role in Cybersecurity?"
+    excerpt: "AI is becoming an increasingly common tool to defend against cyberattacks. But is it being employed by cybercriminals as well? AT RSA 2021, we spoke with thought leaders about the use of AI in both offensive and defensive tactics."
+    publishedDateTime: 2021-05-25T13:29:00Z
+    webUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity"
+    ampWebUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/RSA%202021%20Thumbnail%20Video%205.jpg?itok=hnNwWiyE"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "3 ways artificial intelligence will drive a new frontier in cybersecurity"
+    excerpt: "Advancements in artificial intelligence technologies, processing capabilities, and data availability are enabling computer systems to perform security tasks"
+    publishedDateTime: 2021-05-24T08:53:00Z
+    webUrl: "https://www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/"
+    ampWebUrl: "https://www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 56
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/cyborg-3728014_640-1.jpg"
+        width: 850
+        height: 400
+        isCached: true
+
+secured: "vyqpaktXXm8Dt6sI5YEmzS6ztUbFblAMKL4wkRr+TN+ojjs1noJenPpFxBqVEwFEHn5v/S6J42I6uTArsbqxS2n9RNLGsPWxwZipzRb+tFSype+TlfgIF64vy3chXweRdOE+FB35SpWrd7eU7bl6p3pcG+kE7VtyApFt7+5fNg0OnaIpwc/cPtMk7UTQKfiANOz2Aw2tcUAzlkGS+tIaDrkpyEu5s9ToKPQ10VrQ1akM5oxKfM8xXoCNb0jkajmORAy9E1r4MoUjE4lh+0faBa99MU0fb6UyGCtsruoTmpXp3oIyWOKPBt9CHYhNVM0WgRupfKep9yCJes1j4/WZb71RgYmWKzey1Nz8vRQYnhg=;dmNouKF5dEU2rNznezpBMQ=="
+---
+

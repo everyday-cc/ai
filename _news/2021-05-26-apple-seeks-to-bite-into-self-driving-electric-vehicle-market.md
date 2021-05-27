@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8099f86d9bca57b5b640%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2697%26cropY1%3D0%26cropY2%3D1518"
         width: 1199
         height: 675
+        isCached: true
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
     excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"

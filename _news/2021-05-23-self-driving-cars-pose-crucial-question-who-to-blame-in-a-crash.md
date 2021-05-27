@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Raise Liability Questions for Insurers"
+    excerpt: "When cars can operate themselves, the central question will be whether accidents are the manufacturer’s responsibility or whether the fault would lie with the driver and be covered by personal auto insurance."
+    publishedDateTime: 2021-05-26T22:30:00Z
+    webUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers"
+    ampWebUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/99b70eb/2147483647/strip/true/crop/2123x1107+0+153/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F39%2Fb0%2F852c83724c7398885f394bee8e7b%2Fbiz-auto-selfdriving-insurance-dmt.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "When a self-driving car doesn't know what to do"
     excerpt: "The incident raised concerns about Waymo's self-driving technology, called Waymo Driver, and the humans who are supposed to oversee its operation. From the rear seat, Johnson caught the whole thing on video,"
     publishedDateTime: 2021-05-24T04:00:00Z

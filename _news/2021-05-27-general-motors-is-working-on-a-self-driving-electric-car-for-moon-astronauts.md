@@ -59,6 +59,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "d0ij5D7FoLpt234KAx9xPImKqIQeTTxGF0L6keafL9dY2BuYY+lexbQjd1uEPM57GEC+jUlie36r4y/zFYmM2rAkB9SVnITWz8q9LkG0UBfjlbfUADTe8Y/ghcUqG4iRjWijc3/gw3nrCOM9oQXgNdgcosGOZ2JUsM8N4dnADfm5w5INXsQKRr3oToa2y41QP1Eoj70cbLYORKUtQC32ohaHqc2DdM42oq1Z6+a5CQgK4fkB9xoL35spQfw/gDfphsLBkmBc9Tb2dJWqX68vm6sc6Ki6HVrb1uZE1Yrbs8/AMRXX27vgoPcJ0Mlq4CWFiR5WcKXxk/RCIRyrs1MjUueJMpgf14YC9fJV52VxGQs=;4DwMsa5ozVlO3vYtXGIauA=="
 ---

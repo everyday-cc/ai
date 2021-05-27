@@ -3,8 +3,8 @@ category: news
 title: "Testing begins as first standalone 5G network in the UK is launched in Milton Keynes including remote controlled cars"
 excerpt: "Look out for more robots and driverless cars in Milton Keynes as a new standalone 5G network will be used to test futuristic technology, starting today (May 26). Once again Milton Keynes will be the testing ground for more futuristic and novel uses of modern technology."
 publishedDateTime: 2021-05-26T13:44:00Z
-originalUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
-webUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104"
+originalUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104?itm_source=parsely-api"
+webUrl: "https://www.miltonkeynes.co.uk/business/testing-begins-as-first-standalone-5g-network-in-the-uk-is-launched-in-milton-keynes-including-remote-controlled-cars-3251104?itm_source=parsely-api"
 type: article
 quality: 1
 heat: 1
@@ -24,6 +24,6 @@ images:
     height: 1536
     isCached: true
 
-secured: "FBrmLG0vCTnIsx1RY8lZPQ64xMojP/MJ+pAeuWSJQE4f2YnwoyJgc2YIppJtUA6kvgohghO+Ul9c6JxBv+0zWiCy0jaJJX9Co1CktI8fMWStty0D23zYPT5u+M2RuPddy2TfnEcUJeF5A7sQs2lh0eS4D5qYKJPZbCsxe3hQF836DWLJ5LdPARIO9iqQNXmzETTJ9+RjmfBrtMdW5dDlBRIVvFd78aME7TvxfRjWwkmdtk+lmF19pTIMcCikwI4E5m88wi68BYO7frAS1OAQ7z+4oA6kn3UMy1y8KCJuLsvKfm0lMIIpi3hpzNHvCd+u53AWDWxqgYP0PgLnyqbwzk7A6tbPsKWiCazKRgObqe8WgImv6HmflfFJrMlKpVvmzNY4106WvaSLKc3LiocsYin02bFtoznfRuz+kak1/pCa21xVx7WnoC9Lh5o6VhRW6RIZXEqOLVJXMMxE2rajx13ZJC9N2ySfKTvRT30/PSepbR+tqIxrZUFOGy/5YeNBh10z8GGqMHpdLQxQYVTx6A==;Di5IRau33wKRPQE+93kx+A=="
+secured: "Wngrhy6UZBrRt2BTffgYzKA/yzxw+AEAT6tc3Q1ZsQu1TW+pByQEqBZAFfVL1bBWJhy7Pf1jZ2C/KXG1SvcfxB+UunszKZJG5KC5Nx1iJJU0aqydrwMG7+9twP1E9lmVy8v2QjZxKYzqWJonH0IWZNKaMGKmuKCjWn4eO6O5p28SkjNgnZhGHhNctjkKIYZ7AHGSRrFi0L5J/igB/KM+nb1cV9SknD9g+yBrd15TeqCXPzcF4fuWeFHslSvrtKLgRZZ8rSavV9hYTBwq3JsRTnSnZtm2juPkuN2tO0k7PyT5Byx7i/UzC1/c2PEQS9lgv1N3pJiDFY7mKWkKinviuj+qrY6+9Oqon71l8ysvqco=;+s+mMOjN20uGllN61IvILA=="
 ---
 

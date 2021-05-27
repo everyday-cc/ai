@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-05-23/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-23/five-things-you-need-to-know-to-start-your-day"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Bloomberg
@@ -41,6 +41,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4LIEVrc9u0Y/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Five Things you need to know about Machine Learning"
+    excerpt: "By Marcin Kacperczyk, a Professor of Finance at Imperial College Business School, and teaches on the AI & Machine Learning in Financial Services virtual Executive Education programme Like most industries,"
+    publishedDateTime: 2021-05-25T17:48:00Z
+    webUrl: "https://www.globalbankingandfinance.com/five-things-you-need-to-know-about-machine-learning/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 41
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/05/Machine-Learning.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "MxlPYd0fjG2bXxDTriyMk4TSk27VyNgFaRAGjLJ9+woYVBp4AeApPDxD6HrqRJz+q9T4hOJf+5TjToxS8MfCOKrWpHcnsfL53wRWn1ReoatVQzf7jPHeJEea5B6RBNWQdZVaZgtJhefUYIEsRiAmstAc/2tEAgv3X6ZPZjc+FETEZ8fn7C9o+aVOE1/tgfaTGuLLavQwU3sNYR5HpzxkkQJhOpD1u0Xt7IEhXUwpcnKd1r8txk1xPfxCWms1Fnzutat6Iql+yKqa2OLy+6xByOQ2BbFUxr+NvASkhkweMujSy9+1Lrw4Ctl+qZ429HYKWpVnA/5ppQNik7I2YY3eSXhIbUAO81oKuz6DIkU/XDM=;3WEOD2uZLXFvqsoFyp0/QQ=="

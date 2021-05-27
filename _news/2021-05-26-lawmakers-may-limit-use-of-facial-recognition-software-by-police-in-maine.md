@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Minn. Police Use of Facial Recognition Leads to Concerns"
+    excerpt: "An investigation revealed that more than 40 law enforcement agencies in Minnesota used facial recognition tech from Clearview AI. Experts have raised questions about the legality and reliability of this tech."
+    publishedDateTime: 2021-05-26T22:26:00Z
+    webUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns"
+    ampWebUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Legislature may limit use of facial recognition software by police in Maine"
     excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
     publishedDateTime: 2021-05-25T17:17:00Z

@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 559
         isCached: true
+  - title: "Kodiak Robotics To Bring Autonomous Trucking Tech to Asia"
+    excerpt: "Kodiak Robotics has partnered with South Korea-based SK to bring autonomous truck technology to the Asia-Pacific market, a $1.5 trillion freight market."
+    publishedDateTime: 2021-05-26T22:12:00Z
+    webUrl: "https://www.truckinginfo.com/10144442/kodiak-robotics-to-bring-autonomous-trucking-tech-to-asia"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 54
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2021-05/kodiak-robotics-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kodiak targets 2023 for driverless trucks in U.S. as it sets up a future in Asia"
     excerpt: "In a partnership with a South Korean conglomerate that creates autonomous vehicle components, Kodiak Robotics gets its ‘foot in the door’ of Asia’s freight market as it eyes U.S. expansion beyond Texas."
     publishedDateTime: 2021-05-26T14:37:00Z

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "The world's smallest fruit picker controlled by artificial intelligence"
-excerpt: "The goal of Kaare Hartvig Jensen, Associate Professor at DTU Physics, was to reduce the need for harvesting, transporting, and processing crops for the production of biofuels, pharmaceuticals, and other products."
-publishedDateTime: 2021-05-26T14:41:00Z
-originalUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html"
-webUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html"
-ampWebUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp"
+excerpt: "Inspired by insects that suck nutrients directly from plant veins, physicists have studied whether valuable chemical substances can be harvested directly from the cells of plants. Using a harvester measuring only a few microns,"
+publishedDateTime: 2021-05-26T16:52:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/05/210526115531.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/05/210526115531.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-worlds-smallest-fr.jpg"
-    width: 1440
-    height: 1440
-    isCached: true
-
-secured: "cEskB+pL5Wm/cyhbyY6oDY9kp2joEcYh3vxqacjBy5XXx28eKewM7acuI9yPhKS73VADPMQsp+kPix+aRxHpmvWFWSTzeZJL1ZmyvU94OhEKyqSrhwUbsou8fqbQIl/AmFL3+qoFY6HqDIGd0+KVx3R4yOoncrGQzvUs1QCyk0v7Fl4bS4hSz/V6/2lTit8496e7WQ3HGu2pkp6PcWkEw51SixaYaY+qZhJ2ypqo67ymapJavmJAtS4nkNV3MidnNB0SXQ0I1X8aADKeGGKDcGqr/pgtKLJQ+g1pQvJ7fxrb/voeLxQXT2NokksKdisAJJaZHh0a+XdqyYPLdVTmrP4s8k7QigK5lxNpfJNdcF8=;HlcI+rBAbW7/Q76dBE0ZPQ=="
+secured: "2udbx9+m+6GpB5Ir0qTE4WsN2OKCzfE8wB5xM5f741dOzToKMCCiAMFn9AjpDvh2qQFQDUfbOvnZeapppKUP6wtMXvuKoN/0x8n5o2ygaFIwvy2xLNPJBss3gOk7MryE3WnUp2jptmNDkPLJ1OybQ1o0lhw80+JEqDUbW2y/DxAJn1Nv4HyikVkWccdP1AqmCiM3Ze/QNvFjEsmPpRC/oF7Mg6jfElN6/OxiGZIkoyTN4jFk56JVCtJWAYspLlJGSBncJeqa8VUesTghSwbA+wZBGV77NLi5JLExBEnDoOMnAjN9dTLunr5ZOfLqcuPr1HEAsAI+TqwoImLWD0nrGRqEiIEQCvyGApaXfQ3IJws=;f+LTYM+A5b/tXYo1CDUoLw=="
 ---
 

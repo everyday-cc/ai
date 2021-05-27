@@ -9,8 +9,8 @@ ampWebUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-inte
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BizTech
@@ -41,6 +41,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/05/cyborg-3728014_640-1.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "RSA Conference Startup Competition Showcases Next Gen Cybersecurity"
+    excerpt: "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world."
+    publishedDateTime: 2021-05-26T23:29:00Z
+    webUrl: "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 52
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
+        width: 2560
+        height: 1280
         isCached: true
 
 secured: "8HHJ4qvxJhF3DOugvuU3gsGcYcZtF8eLMSATQE5KT5GG9NtPVAYD2qMfGANoSR2zsLIA0ZkHofg6NMmm3SV2omTgbWr/E81h0kCfjeF/7em5aycmjKfoLlz+PBKL3rqYijjP4nNvzfBCMWi/B1sfpyZL4kEeoCDvC/6mtlR66FS3AABx40GpmYMI9hp+F/3zQ0mwURiXpKmMq0mOS7pzIj5Oc5W3z7o6b8EbGG8IwXdH0tWZN3N+urmqpTW3dgqK6+HF9ljxC2+ehe+uKa58nWDM5owH9JecetuZp4bhdhr+SIoCxMp4xa24E9LostliwKQNiDrnY/HL/gJDwhAh7UpICOF5lxZDLIvLX03ZKGDLCLJ+W+/U6blnzRjfgBQkAVbHaFdSgGL6EYYWmX6MB8nDVXgJ437SikWEHYby3FBtGYE7L4w3AKa10uAVDKBHZs0Joif/XyH7qwu99Qq3nuaFzLq9nh2tKXdeOuaoMg+6zS2lm0/WP9Y+91jmR3f8m5aXks4ZYmpsfl5lV2Diig==;+Tred1hJfJE5Shf+nmCl8A=="

@@ -56,6 +56,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "How Artificial Intelligence Can Help Dancehall And Reggae Music"
+    excerpt: "Currently, artificial intelligence makes it easier to find and listen to your favorite songs. Many moons ago Reggae and Dancehall music fans were only able to legally listen to music curated by a"
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    ampWebUrl: "https://www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    cdnAmpWebUrl: "https://www-dancehallmag-com.cdn.ampproject.org/c/s/www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    type: article
+    provider:
+      name: DancehallMag
+      domain: dancehallmag.com
+    quality: 59
+    images:
+      - url: "https://www.dancehallmag.com/assets/2021/05/Spotify-Music.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "+esYV1wZV8vrLRhsPjfjtBSTXEQuO+qhXv7Nqp+UoeltiPZLt/ohWwqR1Z8r0wYG/uBxlH/rgBBohuJr0Ci9oiHr2hMrxo9n7DMN/Zbc7U9WzqtI1TJZMEB1OPV8WWpxHZD4LvtMrAl48Bv2Ih3tWKUjrGZHip1QrugoDOdCUTbWVU2FIf4q58gjpwcAavmL6LdupwxUbOziDDhwB56qDa83yoMLL4wGzkn1vCQBb+DD3LBM+ngd9Aab1MEcqbuskvehUVQRTf3XavRBhMvwzBGry8E2stzpI34LVzsMkZVTtmHiH074d8TUuyCKWEy1LQcHoblMZINo3yLKFDIWsog6JqVQvROGPRsYmPJntUU=;xafaWA5o5kde9PxjlZAMQg=="
 ---

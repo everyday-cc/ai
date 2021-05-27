@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Cars Raise Liability Questions for Insurers"
+    excerpt: "When cars can operate themselves, the central question will be whether accidents are the manufacturer’s responsibility or whether the fault would lie with the driver and be covered by personal auto insurance."
+    publishedDateTime: 2021-05-26T22:30:00Z
+    webUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers"
+    ampWebUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/99b70eb/2147483647/strip/true/crop/2123x1107+0+153/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F39%2Fb0%2F852c83724c7398885f394bee8e7b%2Fbiz-auto-selfdriving-insurance-dmt.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "zXCdCU0XgioLxvB0QZ6Wy/ZxE2801xhurHvB+XOSuMUhTd1wfTHnp6MjQ1G2E9f6+v5lUF77dgqByTeTb1nID0nnlgYakTHldD5w6IHjZrE4mBTKKJKNnzeyG46WHAVU6F5ix5ngqYDMUebKSDPHISL0SNdzDKj/MnRtiWnyUdtiaUe8ZewSBfCiV9qjtSPJ5QOsKT990iYMim8tmO0SJ2Zp8Sw8mD5RDElahEopNuNPJnwjzPTDPXK8+GEVS1+ak/V3f5SaFa1zHF/jXbmWX0iKQ6iVNBbcu/BOXRuZan6JHh+OdZJB+qGW6jIGDxJAuDsB3PWQGI8T6W3UQCJqBEu3JSNHcp+xGiffqSZuIYChepCzSUrEPgcLgo2EglTQbHU2zYYK7zRiA9PrWiM6P4h3lo+DS+NnnUzPpEExOc4Iu6Q5TAA+i8HWu7hN9F25gYdf/gof0SW21RRPL4tZ4BHI/f+33Q9fl0vs4HHs3IRiugiLNsSt7Lc3nzRh5m/SWNQdUASWGMEj9EgA9tKkIA==;ddiVumeBc/fouGP3Jt+nww=="
 ---

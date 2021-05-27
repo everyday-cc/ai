@@ -42,6 +42,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "RSA Conference Startup Competition Showcases Next Gen Cybersecurity"
+    excerpt: "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world."
+    publishedDateTime: 2021-05-26T23:29:00Z
+    webUrl: "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 52
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "I9FUWfK30wCfU2RiKUTRT1l7qBm8SG0X7XlnBJDe34hT6S+UP/j1UkJozoxBrm19Yu0P/xxYgM1Jy8E0i/GOyjdaYBEGn1ZvZy8HEswNDI0r8uc4yijRRTZciZe5+f2/yC1b4a22p5x3B1U4Uf4XLWKHsT0F9HFQHfFkd/eC9ThGsJBQJ5vExBPe5Zj8INCoNziEPvnNEkb4mrbO6KV0myQwOsjBI7cBnToGY5NTLMf+CmIgsPlCBCPcfDg5dL69dMDoQN+/WBCgtuT92S4SiqZdfHfR2Sw7u2L0t5PNe91MwUQap0F1PbhI75Ne1i9wQF5fa6uWRN0wy+m1OAWHQG+khNEFNkJZo38fnjXCsx8=;1O/vNspIVDETOAPRUdxz4A=="
 ---

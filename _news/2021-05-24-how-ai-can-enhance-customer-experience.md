@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3618173/how-ai-can-enhance-custome
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-82899053,imgsize-57573,width-800,height-434,overlay-etcio/nlp-innovations-to-help-elevate-customer-experience.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "How Artificial Intelligence Can Help Dancehall And Reggae Music"
+    excerpt: "Currently, artificial intelligence makes it easier to find and listen to your favorite songs. Many moons ago Reggae and Dancehall music fans were only able to legally listen to music curated by a"
+    publishedDateTime: 2021-05-26T22:45:00Z
+    webUrl: "https://www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    ampWebUrl: "https://www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    cdnAmpWebUrl: "https://www-dancehallmag-com.cdn.ampproject.org/c/s/www.dancehallmag.com/2021/05/26/features/how-artificial-intelligence-can-help-dancehall-and-reggae-music.html"
+    type: article
+    provider:
+      name: DancehallMag
+      domain: dancehallmag.com
+    quality: 59
+    images:
+      - url: "https://www.dancehallmag.com/assets/2021/05/Spotify-Music.jpg"
+        width: 1350
+        height: 900
         isCached: true
   - title: "Crayon opens AI Center of Excellence"
     excerpt: "Crayon officially opens its AI Center of Excellence in Singapore to offer additional Data and AI services to customers"

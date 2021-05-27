@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Everything You Need To Know About Facebook’s Deep Learning Library PyTorchVideo"
-    excerpt: "Facebook looks to enhance the PyTorchVideo library to enable and support more groundbreaking research in video understanding."
-    publishedDateTime: 2021-05-22T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/everything-you-need-to-know-about-facebooks-deep-learning-library-pytorchvideo/"
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "Bitcoin’s wild price swings keep investors on edge. Mile-high drama as Belarus forces airliner to land. Cannibal mice are threatening Sydney. Here's what you need to know to start your day."
+    publishedDateTime: 2021-05-23T23:17:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-23/five-things-you-need-to-know-to-start-your-day"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 52
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/pytorch-video.gif"
-        width: 1440
-        height: 810
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieQSSTu_obOM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "Americans told to avoid travel to Japan. Concerns about Asia’s recovery deepen as vaccination pace lags. The EU discusses more sanctions on Belarus after it forced a passenger jet to land. Here's what you need to know to start your day."
+    publishedDateTime: 2021-05-24T23:16:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-24/five-things-you-need-to-know-to-start-your-day-kp38bdwk"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 52
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4LIEVrc9u0Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "t6XDO+FLTqMR8IZksB4AQN/wrkGi2GvyLtL9MxkPHbj2JBxZhciBsES9sYMCue/DS1Iz9B4YGfJrv5fde+1Sb0KmUhPhnWyTAiJmQu3epYIeayoLA326tBd24MZJbiNqVI4cnbVZhql3tqwSP56vD//7KVlp3HNyxXSb0mM7FKVDz17NNw8ASevPqCGFYcA/hHWqhWKmlM7vRIWXSWxmjm4kxKAm+KAiKygfijekaRJiSwtk/WucUoecWmqkfFRV0xhTYaGq8atsbQhfs42mB0nzsoyjfH5VNh8HEoRWeI5xP4wIYoT6x5rghdMtpGBEYm4dfOkfwaCbvfdbATf5pAJcemxTuylS1pBj2nZe6smaWbqiEi7FyzB3eF3U/xkOhLHUmwNwgFSqfSfCTTFJMI/peXLoG+lCrpKq+2UVqtwLuf39UKDtfOa+aJonvgsyrs+F2tAXQEuBRlru7USBBDxsyi3OVuOiAlb1/VUOmwGjdPd4JMJUjom0TwZee0RJ29HRnE55Z6uvlaJC4bExPQ==;h84PSpWH0kas/xhjYVeQCg=="
