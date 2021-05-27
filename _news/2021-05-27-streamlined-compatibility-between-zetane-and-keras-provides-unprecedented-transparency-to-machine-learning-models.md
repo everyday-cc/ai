@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2292552/streamlined-compatibility-between-z
 ampWebUrl: "https://www.openpr.com/amp/2292552/streamlined-compatibility-between-zetane-and-keras-provides"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2292552/streamlined-compatibility-between-zetane-and-keras-provides"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.openpr.com/U/5/U527268091_g.jpg"
@@ -26,6 +27,6 @@ images:
     height: 481
     isCached: true
 
-secured: "ihgdkQWlZ4ySlakCSzJ8DqNgka4TcQ2IKTGS+7swJen05TdQucfC3wqyhRnvXWO6APC1UgHjsgR9qfhx207WDVXifgkMD1ohGob0BLF7tSt5nlD3Rc8UfkU38PjN5YgqPp2EVZDCs8LScOTUdrsPuGHOh3Qb19JCq5bij1uyxyvEPbgMVhiXHG5H63Iu/93E6x4q7aJ7Co/arSgY4RdR7GQh0lzszTfQuoEJ5NitTSAPY0In7jmIl6GlPDjn4p8AtVpzqnRQOsGZ9W9Qk7faAU0muzoddbSkkPkQaOnh7gyE+p7GloruR+5U1YuAuh2pAuTzCrUwq4J5ypd4AB2UoLXvkumnuAibIzcA3PHnCRY=;iJCL1pzltVLUyPO4zxgrKA=="
+secured: "blNfQK6bGJS7EsFsovAj+IJewNxp56UFl2Zh817/+3nUOsuarA5LQj78XKRpYgKU9FT/5HS3vheN+vYb8yw60nH9HY5ydQrAzMqDuQgBRxE4nY5niYDwPZYmGSzhqpOzJXYkiMuRxDaTGIcsECD6Mw0hWD1uPsItcb/DGqAcpWzLShWJdmjPxbLgD5pojSj7Ujr3HtAvvOtKYtvtmSaULtY/Y9dMoRSEgGVbn1+rQQFvZKarhPPalbFcGHvFMUcJ7wY8nWEQkO1mZtQa1aUg/07gLJZce3bp6MfmBjfwHZfYUhOBFX5uDlmBUkdURziLcutmpfwEoXdfmU9PnHiTopp9xyUjlvwHnXoQ5X2BfrjjvAopj+pp447tZxLdXyN3cqflkIAygHA9iqxMJlHtUYi7TMqF6z5kk2vri1Lqj6QwSJ0ijXu0HNDU9XrkE4frrB6ZCuC0vfKoNv4iwy8P98YvQ3tyqC4vRzxXATMCJoBf74w5meOHr8ZTbG6tB1/TIDLETdL5G7Zl6ULeT9LyBw==;F3/w/9ArbhdsRfx4epPbGg=="
 ---
 

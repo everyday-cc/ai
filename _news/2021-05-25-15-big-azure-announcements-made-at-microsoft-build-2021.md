@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -197,6 +197,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
+    publishedDateTime: 2021-05-27T16:14:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 69
+    images:
+      - url: "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Build 2021: Microsoft announces new capabilities for Azure database services."
     excerpt: "Microsoft is announcing several new capabilities for Azure database services at Build. The Azure Database's ledger capability, which is in preview for users,"
     publishedDateTime: 2021-05-25T15:27:00Z
@@ -230,6 +244,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "uLv882GXthU3gZnzuZBbSY7uGPcOOvm9k2TJbxN1R9Kc5xDKuENYI85UA2vzi4Z3BkUGGq4z7NsbXEHxzsymL3c8bPCuu3wS+ETRn5dMZfCJn0hqtJiVKbTl3a0w/+l7SMPfweU5XlwGvrNO7Yxn8WdV2H5W/DDtnzVIepzGNJcU17+87OR6YxUR6R6LWqRUH0fvu70UttE3mrxj15gAl5hkgLIHygLVMMVJqDVcJASbfWnnH/X/flKdtUaSKZFwUKaDiuxLCUbkOsR/JYo/6zwR+Rq7QO5zGCa21ruwRWyR0UBUPeqM5wr0fsHBs1+FfZ3J/R7Gsocf43/hUSG8dWwfHst+XJTd0awN7vnW7Fg=;6Z/oJGVo2lwxc7STUIGuyA=="
+secured: "czlGrcD+Hqcn/CYNvwxR3Vyny84XrD55fsKRHJQL8XPl8EW9M6sTAMIBO+tBLcmtAMjgOUaaG80PF7Iwh+b+9Gmf1yenIw+7gjLQ82NUOCb0A2ZdL2LvbUJHiN9Tv3nTx7UmPXBNAxWb68qypCpeDBtrYENW5SVCvayPenx+a5iNEV0clAP+RjVVCw9ykypCA0Ake6dlLih7/Lt/ZeD5OMDnMMi3xIXtLC1bN6jx6nFnwwbRebYVZlU1ESeD+3F05uT6S8r2XnQthJ6wKtJ6I0jJA4IzxqCbw2zngYOyV7N8usIVIGdTkeEAE96GEz7tZEzLKS6gu7T09UiqMb7ld65ivpH6QaPTIzsSXn/zS1Q=;VHUoyn4Ne17yGumOVF1NWA=="
 ---
 

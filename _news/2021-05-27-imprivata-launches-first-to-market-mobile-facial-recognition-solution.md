@@ -39,6 +39,20 @@ related:
         width: 900
         height: 542
         isCached: true
+  - title: "Imprivata launches face biometrics for healthcare through Aware and Idemia partnership"
+    excerpt: "Imprivata is bringing facial recognition to the healthcare industry through a new biometrics partnership with Aware and Idemia."
+    publishedDateTime: 2021-05-27T17:14:00Z
+    webUrl: "https://www.biometricupdate.com/202105/imprivata-launches-face-biometrics-for-healthcare-through-aware-and-idemia-partnership"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/03142859/healthcare-patient-identity-governance-biometric-authentication.jpg"
+        width: 800
+        height: 350
+        isCached: true
 
 secured: "gqGfJsmmTbsRetlIUKwAtB/m/Km1Mpj88YRbDg8DKzYgPW6zA3XKwlk061a39Dlwbj/Yf2v7H7CfgUSdJkTUVDgbfRPpUeMOTTyvxoss4aOqBtGAwaBzcmSjLXKs1UiHxK0QUkwjwBWTwR1qGQfVzLskZB3N+fK8onItaynaSmDrjk4f6la0CD+ZOAY2zrabEo5BZRlpforq0hzJL1oGz029YkJoJo4qwsl46VAiwjzVfGGNDBMMYwelrbh6MiRRYYhDNl+0m4TO4ovn/cl8PnGAht3M2ezuqoJDM8Chvta2jZcZkXyHqSQ00/4OSxD9oM2po1GT/YYxKJlNe6YO1gFYtBnmjIHxKGGl4YV1n0FOU/tCLh9BItDYfnM5aTGfMMUP3B9iF0Ku7gaUl7umVfgwolf0w/qPCsHAi2mrdFVcZa03rtwX2inESVKzcpHELfhtJSwmLbTxM5emKSmQPoeYkWqY3b+d8iW59n+4rwDb4UelARy2Kg1qojjGFWxy/L1+6fZLVqiX8T49uBsM1Q==;WZLcnkNyhPQVTrIxeaiDbg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-sp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/05/21/1db8e864-c81a-4469-bc51-e26e0da17610/thumbnail/770x578/e92ae5e29d9fb07f756017f9f9d2bf40/ai-and-data-science-specialists-are-in-b-60a77b167503d44654241f02-1-may-21-2021-10-24-57-poster.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "Thales, Atos take on big data and artificial intelligence in new joint venture"
+    excerpt: "This new partnership comes as nations across Europe, and beyond, are targeting AI and big-data as key enabling technologies for future military capabilities."
+    publishedDateTime: 2021-05-27T16:06:00Z
+    webUrl: "https://www.defensenews.com/industry/2021/05/27/thales-atos-take-on-big-data-and-artificial-intelligence-in-new-joint-venture/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 33
+    images:
+      - url: "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "uU0/tZsyVFB6jmOpSlhkDdE++2Uw+Z0Nz25YYYnhjah+9yRPAHQqHGEYBkQtyJbEgs029xNuyjdU+nHUOB+eHi0pWh1ZiXVbuS1HZKDkSKPVZZQIg7cRwzUb4Nk7sLxphywnG3qwX7bUCgeWEFlqz3y53bk//F8oTPsl/5L4SLiCjFSdDZ7vIZdioxrlwClbqp8u/uyLA12h36BhNhkUtw1IEtUkHxlKu1us5BF5LF4uVg0mbE/OIdxQLzdfqaIbbW6n6ItqrZFBrZC+jujfUOJKdiTV+hbs4daHzsGzjrKvrBa0Gn+Knr7VCzuFJEqUd2J8KzZ5MM7Ky/TG6AcBlMboyB4iGFNK4kYWNlsOJzDBcqkNZxazkF5T6obkldYevl8IUlqWKW5b6ZdrhPwji8+nj8sTDiNeBGFXJzhkSwlhkk61H+9eDrU3hCqd7pum6P48uT5UTJzt9GnSVAIEE0W88ut+V6J+SnAsTgdeptCd/C0kGgxHHkqXdAQImBUe+lJjv2UOq1WPMjwpNX0/Mw==;yNrrF+ks64URNm2OQ36UCQ=="

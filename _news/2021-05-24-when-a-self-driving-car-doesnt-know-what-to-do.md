@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/when-self-driving-car-doe
 webUrl: "https://www.autonews.com/mobility-report/when-self-driving-car-doesnt-know-what-do"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Self-driving cars pose crucial question: who to blame in a crash"
-    excerpt: "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ..."
-    publishedDateTime: 2021-05-22T23:30:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/21/2fabb15a-b954-11eb-9461-e80e43f535ad_image_hires_153618.jpeg?itok=2T7WWRIP&v=1621582591"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Cars Raise Liability Questions for Insurers"
-    excerpt: "When cars can operate themselves, the central question will be whether accidents are the manufacturer’s responsibility or whether the fault would lie with the driver and be covered by personal auto insurance."
-    publishedDateTime: 2021-05-26T22:30:00Z
-    webUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers"
-    ampWebUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/99b70eb/2147483647/strip/true/crop/2123x1107+0+153/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F39%2Fb0%2F852c83724c7398885f394bee8e7b%2Fbiz-auto-selfdriving-insurance-dmt.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "zXCdCU0XgioLxvB0QZ6Wy/ZxE2801xhurHvB+XOSuMUhTd1wfTHnp6MjQ1G2E9f6+v5lUF77dgqByTeTb1nID0nnlgYakTHldD5w6IHjZrE4mBTKKJKNnzeyG46WHAVU6F5ix5ngqYDMUebKSDPHISL0SNdzDKj/MnRtiWnyUdtiaUe8ZewSBfCiV9qjtSPJ5QOsKT990iYMim8tmO0SJ2Zp8Sw8mD5RDElahEopNuNPJnwjzPTDPXK8+GEVS1+ak/V3f5SaFa1zHF/jXbmWX0iKQ6iVNBbcu/BOXRuZan6JHh+OdZJB+qGW6jIGDxJAuDsB3PWQGI8T6W3UQCJqBEu3JSNHcp+xGiffqSZuIYChepCzSUrEPgcLgo2EglTQbHU2zYYK7zRiA9PrWiM6P4h3lo+DS+NnnUzPpEExOc4Iu6Q5TAA+i8HWu7hN9F25gYdf/gof0SW21RRPL4tZ4BHI/f+33Q9fl0vs4HHs3IRiugiLNsSt7Lc3nzRh5m/SWNQdUASWGMEj9EgA9tKkIA==;ddiVumeBc/fouGP3Jt+nww=="
 ---

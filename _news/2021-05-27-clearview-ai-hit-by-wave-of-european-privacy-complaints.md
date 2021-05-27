@@ -44,6 +44,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Privacy watchdogs take legal action against Clearview AI in five countries"
+    excerpt: "Clearview AI is under the gun once again as privacy watchdogs in Europe file legal complaints against its data collection practices. On Thursday, Privacy International (PI),"
+    publishedDateTime: 2021-05-27T16:43:00Z
+    webUrl: "https://www.techspot.com/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 85
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-27-image-20.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Clearview AI hit with sweeping legal complaints over controversial face scraping in Europe"
     excerpt: "Privacy International (PI) and several other European privacy and digital rights organizations announced today that they’ve filed legal complaints against the controversial facial recognition company Clearview AI. The complaints filed in France ..."
     publishedDateTime: 2021-05-27T09:48:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-26T13:10:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
 type: article
-quality: 53
-heat: 73
+quality: 55
+heat: 75
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg"
@@ -44,6 +45,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "YzvyGuHC9OeVoVFfHkeJPGy+t19mmqPQO34fFZMf8ToxUrmQOjR6QE+J+IcX3dTF9HY46tKs7znChyX3v6vwNAus/ngNuRl1t58B6kCN7eXWxQMDTqJkpNSsNHNWE0JjfrxJ+5s+JIiaEG3+cwBn0WMrrJEmcW47qD0g7MpTXqq/hdEdtYUcCi5mEY53Jq1yZrZVknZxDsE2GjaCXAxpzgjKBanITLdNF77R54HIrjVnvR7bdihhIu4cVDB2RT+Q24hhdVJ43dxL19u9SVk5/9zDo2R9DU4dK1INrZIek9KPBxZzVurp1cvoZj9pgEz4szbRihwUN45ASdH5jnHl5tQAQ8xMCZ+RWJaS6F2UHmY=;y8w+8ruEbJ+RHzfAfu+q4A=="
+secured: "6gDu0Pzk4ScXf6TuLnhWY1qeHmjAksr8/OapxaOLyHWjTH8OiQaBXwanU7xpPxvnEcu+5YRmYvujHBxFTVBXJP3eVQ61/+Q5DKysnMUcJZ3TTg9Wn2+HbHTc7AbRovF62lRGTwSUadgadifIo46LNIMRLqHzbpMLIzTbNX6MxQwwFsvdiC0ZJCDamz97gii3LkJWG5hhI/IL5hIPbjZd6GYXbRlD3AzhL40ix2OkvTNwTjI7JqvTvT7jJokobgfUQqXXZRp4caPFHyjspmyxvaSr4qWmOpvPPYppqe5rGYZzNT4jCToxYEaaGEEYxGkVJlAI9y4O2LAK55HUt+MsRh9fRP4BeQIHmmgljATa/P+otHiA+Yv6E/sofV5y5S+88m9kbZ/1PKXiDeKIB4VupOMCWINMrRZLPnbDW3EywPgLuTTRKTa0btf2yud1KJmIWsrkJje/0tLYzdQTnNDgjGW8iIRCm/iDEpC92LXJlR3OtdyUbynm6jE+DuWxpQKNdi5TKAOq9N+uIah6DsPPHA==;6enBKJHNulec52DMYBeeQw=="
 ---
 

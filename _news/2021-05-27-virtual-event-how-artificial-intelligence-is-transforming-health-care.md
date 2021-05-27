@@ -75,6 +75,20 @@ related:
         width: 487
         height: 469
         isCached: true
+  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
+    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"
+    publishedDateTime: 2021-05-27T16:48:00Z
+    webUrl: "https://www.miragenews.com/incorporating-health-equity-and-racial-justice-567708/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 29
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
     publishedDateTime: 2021-05-25T11:01:00Z

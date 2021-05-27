@@ -86,7 +86,7 @@ related:
   - title: "Vectra AI Joins Microsoft Intelligent Security Association (MISA)"
     excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association (MISA). MISA is an ecosystem of independent software vendors and managed security service providers currently spearheading enterprise defense against the latest cyber threats."
     publishedDateTime: 2021-05-27T12:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-joins-microsoft-intelligent-security-association-misa-/2021/05/27/9379278.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379278.htm"
     type: article
     provider:
       name: TMCnet

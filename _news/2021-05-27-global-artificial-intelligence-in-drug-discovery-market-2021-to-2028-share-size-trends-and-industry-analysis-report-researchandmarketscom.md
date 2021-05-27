@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-27T12:59:00Z
 originalUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
 webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
@@ -24,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Robo Taxi Market Research Revealing the Growth Rate and Business Opportunities to 2030"
-    excerpt: "According to a recent report published by Allied Market Research titled Robo Taxi Market by Application Component Propulsion and Level of Autonomy Global Opportunity Analysis and Industry Forecast 2023 2030 the global robo taxi market size is expected to be"
-    publishedDateTime: 2021-05-25T14:50:00Z
-    webUrl: "https://www.openpr.com/news/2290105/robo-taxi-market-research-revealing-the-growth-rate-and-business"
-    ampWebUrl: "https://www.openpr.com/amp/2290105/robo-taxi-market-research-revealing-the-growth-rate-and-business"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290105/robo-taxi-market-research-revealing-the-growth-rate-and-business"
+  - title: "Investment in Robotics Research: Global Report 2021"
+    excerpt: "May 27, 2021 - As the economies reopen from the pandemic, Asia, Europe and America adjust their robotics research funding pro"
+    publishedDateTime: 2021-05-27T16:55:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2021/investment-robotics-research-global-report-2021"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
+      name: Automation
+      domain: automation.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/5/U525388978_g.jpg"
-        width: 800
-        height: 499
+      - url: "https://www.automation.com/getmedia/ffab88ae-e560-4f5a-b15a-d2bff7282ecd/IFR-news-May-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
+  - title: "Artificial Intelligence mechanism should protect safety of citizens, promote equal opportunity for research: Amitabh Kant"
+    excerpt: "There must be a robust and reliable enforcement of Artificial Intelligence (AI) mechanism that protects the safety of citizens, government and businesses while promoting equal opportunity for research and innovation,"
+    publishedDateTime: 2021-05-24T19:00:00Z
+    webUrl: "https://www.sify.com/news/artificial-intelligence-mechanism-should-protect-safety-of-citizens-promote-equal-opportunity-for-research-amitabh-kant-news-national-vfytafhfdbgai.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 12
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/WhatsApp_Image_2021-05-24_at_7.31.43_PM.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Global Agricultural Robots Market (2021 to 2026) - by Application, Product and Geography - ResearchAndMarkets.com"
+    excerpt: "The \"Agricultural Robots Market by Application, by Product, and Geography - Global Forecast up to 2026\" report has been added to ResearchAndMarkets.com's offering. Agriculture robots are the automated machines used in agricultural activities such as seeding,"
+    publishedDateTime: 2021-05-27T04:10:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210527005404/global-agricultural-robots-market-2021-to-2026-by-application-product-and-geography-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "ey6QRqZ3ZSKEm17supnw2z6NaJBUmthTNvYUAA52hLZ3kOS3tJ2oOwDP2/BItLTpzbcRA3hBBbViONDqVFJvUgy8RB0iJ9xo4hod4CRYcB8QLjaDGwTufpSpLnw/KlLWvq9zxnODF06QRdRSnkpaSlaj21KnrZxTSvIRIjKtiV7cUEd835bRnFFirqfa73DOEGEoztbStaysHbO8wfk5d9cNuBva8S/2iUNOr5HOIVjjcVxcl03yFvrJFesBLVkI92OWcCttLlBTITgCkBCBitB0IYxBj8BptWn7ItOzvNUDCyTex27QsUhOAkRgvhp0x+VovfZx1JtzwArAK9jss6XXQKprOxDMOZ6yYexK65I=;VKFTvAj/dcP8fGyQTPkFXA=="
 ---

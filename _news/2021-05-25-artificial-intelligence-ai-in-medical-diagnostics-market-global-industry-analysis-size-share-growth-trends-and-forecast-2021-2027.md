@@ -85,6 +85,20 @@ related:
         width: 487
         height: 469
         isCached: true
+  - title: "Incorporating Health Equity and Racial Justice into Medical Artificial Intelligence Systems"
+    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer programs can distinguish between images of benign growths and"
+    publishedDateTime: 2021-05-27T16:48:00Z
+    webUrl: "https://www.miragenews.com/incorporating-health-equity-and-racial-justice-567708/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 29
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
 
 secured: "fJX35jLrnrye1c0Gq0JXvrfZRRtAGnGGaIWdzO8lrMauWiLAA/0DGblzjI8NkBePXxrEnYEvKjyz5dHWI4A5UL9QRHW9l9fRgwK/8jfps2tLfp7fhxS7eU+BN1aPg/5G7j24H+cF4r4uIevv2ildjHQZi6GNzRo7yiHOT8p7WrmB9kqhMuxtwuw4v3DxRU3wwdZpqPeiy+sWSEOoWBxjRZmiIyKskY/LRJzstvB6gQ0qvZMGkfEFDc9O7p/BGSGMsuBaYV3AHnG1LPEP+3tTHXLz4Jn0w6ll74K0RfI/Uk6x/TAWF36Nd89qUikgY4YwxzcVxDJGF0wbt1ZdH4I3RCTe1p3caMVDY9RMuj40fL8=;+z4Ax9Gef3sc3lJd1Fz9Dw=="
 ---

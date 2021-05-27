@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Thales, Atos take on big data and artificial intelligence in new joint venture"
+    excerpt: "This new partnership comes as nations across Europe, and beyond, are targeting AI and big-data as key enabling technologies for future military capabilities."
+    publishedDateTime: 2021-05-27T16:06:00Z
+    webUrl: "https://www.defensenews.com/industry/2021/05/27/thales-atos-take-on-big-data-and-artificial-intelligence-in-new-joint-venture/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 33
+    images:
+      - url: "https://www.armytimes.com/resizer/M0XN0aKszsNZZScRAM73oF5eitU=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CAZ6NoPKDjH7ZX+Ypwn+ftqoOpLOcdjS56jFVxD16YnuMonFjUcbrLuuKYitGtj55fdb1IKBrR25ZcU83rfRdOEqWdxzg27tEiHcS60WqagdYrcnkSfHP4L3Vsdlv9NfCExXcHxKF7N/IZlrbG3L43sczqLWIboNAsLLPwlVB1TPjRUc7pSOZQIamj0GOUu2yC7QylvSIDCxLlIKEdumJ91jyRwptsmiDyZMghT9szA4VNMdT28vAZZMZQQM2XSPIOi9+YMa+U2o/mnsPb4OvPWHjnC2Jv1MQ4B2IRdwoDa1p5Z/52fnVaSPInSnQWlvlgv2PA9NgPElkj59+adJnYK5QiNZBwYKjFDKjSelRm8ppfY+/ZRV2JMcparhgMvIeAXtURBqA2Y3a6R9GLLvPuRXwJKsWuxtNb9yU4pAlk3T8t1Yx6cAAYzbCMuIbj3hVxZoD7BNOWAYlNwCkHv0C5124fqvDUz7CDz2sZTeDrscfgwTX5GscJNxwZDGdf/4Ilc0skAUj/gOVACMlekUGw==;0yxCDNInLWggL5VfOqCCNQ=="
 ---
