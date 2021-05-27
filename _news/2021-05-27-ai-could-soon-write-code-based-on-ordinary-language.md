@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-26T18:50:00Z
 originalUrl: "https://www.wired.com/story/ai-write-code-ordinary-language/"
 webUrl: "https://www.wired.com/story/ai-write-code-ordinary-language/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/60ad5c13c9a03589c58256a3/191:100/w_1280,c_limit/business_microsoft-build.jpg"
@@ -27,6 +28,6 @@ images:
     height: 670
     isCached: true
 
-secured: "6GAQq1c/XlOWoGCZ1KIJvAsmWx/q4fzNwH48uopVGMYPUlIbKSFjXqkYGIeaZwDt51QN2uM4ufDCCkeYBtZfeq17dlF1yQNzqf/Cch5qCfE2sJ72U9Tj9LIoV0VqvsIGOYrA9v6EPfOU35A0XYSlPK5+UcIgDVMc93GIPf9pfIbXQYy/rUa+rSlj+cXgBsZtuO0FXSFnc6g8hX7rlod/7Y5O7b3PGPJikbyk2p/uwhLJ83ktvE7hBKsg7wM/jqNrrYOZmwknihe3/yTAheuFCNoFhum7NlLYjRsd7qszzKpjiK0aSUHo/WJ6DX5VZJseRnMMda+HUET53xj+8usSE9W0d/GnrIO2PGEHTfpSO60=;SYcjyr1B8Z8UYB3nSmlsMQ=="
+secured: "3uZB2GsL5zg2WSEiuqn/063wj7ly723A7PRhzPIxsS7X7rATd/ETesqWksg2M7tG2LXrGmmNedBEYRKKZIF8bnB3ncq6iIQdp8t4eDUG8irKFBCxpuTlFCRudmWQa4qjrsmjkKninx3pMY+G8OmiAJ/BVNX2J6kveNbauByoVA6lIDSeeog12iRO//fx+nq5+rT/BLOt6c8Qpx0eHUUT1xDNQzKGGMxAD9fJQVSeu1GV1tePH+pBtnrhgBOg1Fy+gjf1NiXcEFu812jBlJ49alR562eCuTMUzwLyA/jlyDX6fJz16SLyMU+kUYd4UK8slSVtMqUtKsYbxGEg7onlLVMrsr4H0mYfJu/rD2R7MV1tgyty3JiPoFm4cIXZOLpGU/Ccv6PCE8ANHbZCxOjVllJf7XHG9AsoKdERjXooJ58Fl+KahYqrqrI76xZo3EICvIX8zgCWAv3f63Ts3u1VozhBKrsqttAx76NnMdIPy3ihotlWObiCIE4oGU1pfuXXWDy4Aqup3HgkpTxn1eitdw==;fjAa1X2Xz5VmOZ4/yE2jSA=="
 ---
 

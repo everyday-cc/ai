@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-startup-merlin-labs-autonomous-flig
 webUrl: "https://thenextweb.com/news/ai-startup-merlin-labs-autonomous-flight-ai"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Investing in startups with big ideas about AI."
-    excerpt: "The fund is managed by OpenAI, with investment from Microsoft and other OpenAI partners. In addition to capital, companies in the OpenAI Startup Fund will get early access to futu"
-    publishedDateTime: 2021-05-26T16:47:00Z
-    webUrl: "https://openai.com/fund/"
-    type: article
-    provider:
-      name: OpenAI
-      domain: openai.com
-    quality: 39
-    images:
-      - url: "https://openai.com/content/images/2021/05/fund-social.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google Ventures-backed Merlin Labs is building AI that can fly planes"
     excerpt: "Merlin Labs, which develops autonomous systems that fly airplanes, has emerged from stealth with $25 million in funding from Google Ventures and others. The company says it wants to be the “the definitive autonomy platform for things that fly."
     publishedDateTime: 2021-05-26T16:00:00Z

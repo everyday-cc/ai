@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 things self-driving cars need to fix before anyone will buy them"
+    excerpt: "But more than that, manufacturers and marketers need to take steps to address the unease regarding online security and the reduced autonomy of the driver. That’s the only way they can enhance the adoption of autonomous products."
+    publishedDateTime: 2021-05-27T09:00:00Z
+    webUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix-before-anyone-will-buy-them"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-43.jpg&signature=b76d54724d5f3a1fd4d62fcacff96a8c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Waymo warns against calling cars 'self-driving' before they really are"
     excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
     publishedDateTime: 2021-05-26T13:55:00Z

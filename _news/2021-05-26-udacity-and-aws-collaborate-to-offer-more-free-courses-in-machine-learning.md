@@ -40,7 +40,23 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Udacity and AWS collaborate to offer more free courses in Machine Learning"
+    excerpt: "Read Article Udacity, an online learning platform powering the careers of the future, has announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS)."
+    publishedDateTime: 2021-05-27T08:44:00Z
+    webUrl: "https://www.crn.in/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
+    ampWebUrl: "https://www.crn.in/amp/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 74
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2018/12/06142541/Partnership.jpg"
+        width: 696
+        height: 465
+        isCached: true
 
-secured: "dcO4sEspj1nUNGlBnT90/sW5V7Z+W+G1X2oTpTxNcEP+pWIdjDy34wdXsQ4D/lXraqoxoa9glqh6f+BYa+muLiBYhVsDyOtY0DB2hvykcJ0CXQbHDPJ7gU/sg2p5DqxCyQGwHBfyvwINJzjHdRUSYFGEip19C3H/A0o3QX65qbn/+/8R7baoO+1FHjsqmbaNd62KzUhQWV7r5HOHCdszDnW211En7lZudbpzo494L2QJ1c1cSPzzDxcE3HWwrb77YPyvpRsdExAxiq9EHhO3O7TdoKySpuVBNqRYrHvApMT5DdwO39wehtZNEksOXpysGbgIT96qBEWjEGTe7kKE2mxUlhvCEAVJR1QCp+LiJR0=;Fs1ySx0M2t/xgWmB4qzCWg=="
+secured: "RJKicZJsDUiDjwu54RZzraccl3LAyWebqKpTQQ73gC9OOa4vrwQGHzNuqkzTvMyXkSEsLlDGfrn7CT+scdTd00XEEhW8drbMis4qMp9QoE9dbOwhzNN9pMVU3rMoNNWBVu3ctdr05+mbgfa6WAKo8Yo5NSifQQZb2NFdvZa1e8i/ghzv6i7CmcU0gtbeD2jlqgAni1tHw3ILgNI8RdiV2UbxPkUlQ2THDPZPFpLS5/4tm+XRcL7SW9KVpwFEkOMaAEW7vLqyWIlp5MF8z2Gm/P8MC08VUZSb+Y2rAH0H9aM6aZNAXd9yR8Fo6ccVqs4A//1Kda6+o6DNI3exatfWa8f6iaQl/qhhUk3Jm3hihKy8s1XFtYe8ajHs9elFVB/3MOnSCen/QQAmFQg2CttO1f1UT7oKg3I2jYnBM/ElFWp7kTrB75I2v2yrJLpfc2feSiH/U7JxMLQXJVVS5cE14PyYpKUTZiGPCSr9lw09+FCXLK7zPLY0xRY7oSbmcG9CR3BRw7bMWQF8L4hpAiYaMg==;ysYVHnxc5jn9VRhIS2+G4w=="
 ---
 
