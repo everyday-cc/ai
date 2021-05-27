@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-inte
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
         width: 2560
         height: 1280
+        isCached: true
+  - title: "How to improve cybersecurity using machine learning and applied data science"
+    excerpt: "Cybersecurity prevents infiltration and data breaches while saving your business from the heavy financial impacts of cyberattacks."
+    publishedDateTime: 2021-05-27T12:38:00Z
+    webUrl: "https://knowtechie.com/how-to-improve-cybersecurity-using-machine-learning-and-applied-data-science/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 36
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2018/10/tls-connection-security-1000x600.jpeg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "8HHJ4qvxJhF3DOugvuU3gsGcYcZtF8eLMSATQE5KT5GG9NtPVAYD2qMfGANoSR2zsLIA0ZkHofg6NMmm3SV2omTgbWr/E81h0kCfjeF/7em5aycmjKfoLlz+PBKL3rqYijjP4nNvzfBCMWi/B1sfpyZL4kEeoCDvC/6mtlR66FS3AABx40GpmYMI9hp+F/3zQ0mwURiXpKmMq0mOS7pzIj5Oc5W3z7o6b8EbGG8IwXdH0tWZN3N+urmqpTW3dgqK6+HF9ljxC2+ehe+uKa58nWDM5owH9JecetuZp4bhdhr+SIoCxMp4xa24E9LostliwKQNiDrnY/HL/gJDwhAh7UpICOF5lxZDLIvLX03ZKGDLCLJ+W+/U6blnzRjfgBQkAVbHaFdSgGL6EYYWmX6MB8nDVXgJ437SikWEHYby3FBtGYE7L4w3AKa10uAVDKBHZs0Joif/XyH7qwu99Qq3nuaFzLq9nh2tKXdeOuaoMg+6zS2lm0/WP9Y+91jmR3f8m5aXks4ZYmpsfl5lV2Diig==;+Tred1hJfJE5Shf+nmCl8A=="

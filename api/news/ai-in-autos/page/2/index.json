@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-16-tesla-crashes-bitcoin-microsoft-azure-ditches-blockchain-and-more-in-this-weeks-top-news.md",
+      "title": "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News",
+      "excerpt": "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
+      "originalUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
       "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
       "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
@@ -1346,49 +1390,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-uber-launches-new-toronto-based-autonomous-vehicle-research-hub.md",
-      "title": "Uber launches new Toronto-based autonomous vehicle research hub",
-      "excerpt": "The company announced this week that it will be launching a new research hub in Toronto focused on developing artificial intelligence (AI ... announcement comes amid Uber’s legal battle with Waymo, the company that runs Google’s self-driving car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
-      "originalUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/05/uber-toronto-e1494445629969-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
-      "publishedDateTime": "2021-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },

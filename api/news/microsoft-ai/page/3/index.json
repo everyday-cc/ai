@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-10-cogniflare-unveils-data-management-and-catalog-platform-for-google-cloud.md",
-      "title": "Cogniflare unveils data management and catalog platform for Google Cloud",
-      "excerpt": "Cogniflare plans to add connectors that will extend Kyra’s data management reach into the various cloud services provided by Microsoft and ... In addition, Cognitive is working to give Kyrah ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
-      "publishedDateTime": "2021-05-09T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
       "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
       "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
@@ -1330,6 +1278,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-perceptmobile-azure-percept-obstacle-avoidance-lego-car.md",
+      "title": "Perceptmobile: Azure Percept Obstacle Avoidance LEGO Car",
+      "excerpt": "Obstacle avoidance with LEGO Boost car, powered by Azure Percept. Azure Percept is a platform of hardware and services that simplifies use of Azure AI technologies on the edge. I decided to give a try at building simple obstacle avoidance car over the weekend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/gvuksic/perceptmobile-azure-percept-obstacle-avoidance-lego-car-1cde4f",
+      "originalUrl": "https://www.hackster.io/gvuksic/perceptmobile-azure-percept-obstacle-avoidance-lego-car-1cde4f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1292097/_1fabWh5ahm.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

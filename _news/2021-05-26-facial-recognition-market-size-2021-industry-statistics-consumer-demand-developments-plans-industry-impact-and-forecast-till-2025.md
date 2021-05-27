@@ -29,45 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Outlook, Size, Forecasts, Demand, Competitive Analysis, Growth Factors, And Key Players"
-    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
-    publishedDateTime: 2021-05-25T07:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
+  - title: "Emerging Face Recognition Systems Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2026"
+    excerpt: "(The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Face Recognition Systems Market”"
+    publishedDateTime: 2021-05-26T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
-    publishedDateTime: 2021-05-25T05:39:00Z
-    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
+  - title: "Voice and Speech Recognition Software Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Sales, Profits & Analysis"
+    excerpt: "As per the new study published by Data Library Research, titled, “Voice and Speech Recognition Software Market by"
+    publishedDateTime: 2021-05-24T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2021-leading-growth-drivers-emerging-audience-segments-sales-profits-analysis-2021-05-24"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
-        width: 780
-        height: 470
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
-    publishedDateTime: 2021-05-25T13:53:00Z
-    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+  - title: "Artificial Intelligence Market Share, Size 2021-2025, Industry is Growing Rapidly at a CAGR of 46.76%"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
+    publishedDateTime: 2021-05-25T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-size-2021-2025-industry-is-growing-rapidly-at-a-cagr-of-4676-2021-05-25"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vBwIsPPbtPYplvZmJYzFI0kjphVx5ce41khDL0d+o9Hk0A0E9LDKd5SN5grhfOAAAMomz6GsFWc/MMadokMwAQOgD2UKgjaEiOkU5herDsiW8iRfTCjgq35RvXp14f66e0Th7BYfQi3cGRlk0W49EsTd9aDTzd1mpf7c1lnVnVUTBs0DctttOtgGlnELU2bkSfM7moLsXHdu/qHU8eO8zHqGqdt4N2K0gku2W5HGtpPW8dgTQRBx1UGqYA817VZOOOGWJdWWzggIhk0nwdDPvfNrhp0yrNx2zTOvIOfALbYet8U/PNxQ4Q7DviHDtkxhpNgWtpJolNMD8QpwTkjPXhB2XgX98CSbhMQvTh9ws58=;MwscplIphh3p8lpS/w5Q7g=="
 ---

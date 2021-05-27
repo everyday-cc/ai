@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-24-qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost.md",
+      "title": "Qualcomm’s Snapdragon 7c Gen 2 gives entry laptop chip a speed boost",
+      "excerpt": "Qualcomm is launching a new version of its chipset for laptops, with the Snapdragon 7c Gen 2 promising more performance for affordable Windows notebooks and Chromebooks. The successor, as you",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "originalUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Qualcomm-Snapdragon-7c-Gen-2-compute-platform-Still-Animation-Chip-on-board.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "publishedDateTime": "2021-05-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-koreas-riiid-raises-175m-from-softbank-to-expand-its-ai-based-learning-platform-to-global-markets.md",
+      "title": "Korea’s Riiid raises $175M from SoftBank to expand its AI-based learning platform to global markets",
+      "excerpt": "AI is eating the world of education,” Riiid co-founder and CEO YJ Jang notes in his biographical description on his LinkedIn profile, and today his startup — which builds AI-based personalized learning,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "originalUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1273917891.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/",
+      "publishedDateTime": "2021-05-24T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm.md",
+      "title": "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm",
+      "excerpt": "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/",
+      "originalUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/05/robotic-arm-sense-of-touch-1.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/",
+      "publishedDateTime": "2021-05-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
       "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
       "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
@@ -591,6 +738,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-24-autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast.md",
+      "title": "Autonomous Cars Market to Witness Remarkable Growth Through the Forecast",
+      "excerpt": "Autonomous Cars Market is anticipated to exceed 60 million units by 2024. The market is driven by the increasing R&D activities for the development of self-driving technology. The automakers around the world are implementing various strategies to accelerate the innovations in the self-driving vehicles landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-23T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-five-things-you-need-to-know-to-start-your-day.md",
       "title": "Five Things You Need to Know to Start Your Day",
       "excerpt": "Bitcoin’s wild price swings keep investors on edge. Mile-high drama as Belarus forces airliner to land. Cannibal mice are threatening Sydney. Here's what you need to know to start your day.",
@@ -1027,208 +1226,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-google-cloud-launches-vertex-ai-a-machine-learning-platform.md",
-      "title": "Google Cloud Launches Vertex AI, A Machine Learning Platform",
-      "excerpt": "Google Cloud has launched Vertex AI, a fully managed cloud platform that simplifies the deployment and maintenance of machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a8ee6977b717c6109b388e%2F0x0.jpg%3FcropX1%3D98%26cropX2%3D3278%26cropY1%3D2%26cropY2%3D1791",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/05/22/google-cloud-launches-vertex-ai-a-machine-learning-platform/amp/",
-      "publishedDateTime": "2021-05-22T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-understanding-transformers-the-machine-learning-model-behind-gpt-3.md",
-      "title": "Understanding Transformers, the machine learning model behind GPT-3",
-      "excerpt": "How this novel neural network architecture changes the way we analyze complex data types, and powers revolutionary models like GPT-3 and BERT.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/understanding-transformers-the-machine-learning-model-behind-gpt-3-machine-learning-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FAI-Transformers-abstract-hed.jpg&signature=7dad3d13328b212e6fc49afed1eb2819",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-22T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sofic-news-microsoft-socom-highlight-need-for-ethical-use-of-artificial-intelligence.md",
-      "title": "SOFIC NEWS: Microsoft, SOCOM Highlight Need for Ethical Use of Artificial Intelligence",
-      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/05/istock-1150199386_resave.ashx?h=500&w=878&la=en&hash=279D049267A88C2C38978D40F816A53C",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-22T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031.md",
-      "title": "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031",
-      "excerpt": "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-22T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

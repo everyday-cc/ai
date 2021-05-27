@@ -2,6 +2,265 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
+      "title": "Google details new AI accelerator chips",
+      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-05-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-googles-new-ai-technology-could-make-assistant-more-human-like.md",
+      "title": "Google’s new AI technology could make Assistant more human-like",
+      "excerpt": "Google is developing LaMDA technology that could lead to more natural Assistant conversations. It responds with logical, consistent answers rather than raw data. The technology is still quite early. Unlike with typical AI language models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
+      "originalUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-IO-2021-LaMDA-in-action-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
+      "publishedDateTime": "2021-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective.md",
+      "title": "What’s In Store For The Next Generation Of AI? The Jaseci Perspective",
+      "excerpt": "The way we articulate solutions to problems in computer science has not fundamentally changed in decades and we’re hitting a new ceiling with the unique complexities that come with building sophisticated AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a40b4d033264ba316a2ebd%2F0x0.jpg",
+          "width": 1199,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
+      "publishedDateTime": "2021-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-tackling-tuberculosis-screening-with-ai.md",
+      "title": "Tackling tuberculosis screening with AI",
+      "excerpt": "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
+      "originalUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
+      "publishedDateTime": "2021-05-18T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-using-ai-to-help-find-answers-to-common-skin-conditions.md",
+      "title": "Using AI to help find answers to common skin conditions",
+      "excerpt": "Artificial intelligence (AI) has the potential to help clinicians care for patients and treat disease — from improving the screening process for breast cancer to helping detect tuberculosis more efficiently. When we combine these advances in AI with other technologies, like smartphone cameras, we can",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/ai-dermatology-preview-io-2021/",
+      "originalUrl": "https://blog.google/technology/health/ai-dermatology-preview-io-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/derm_-_hero_image_2_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/ai-dermatology-preview-io-2021/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/",
+      "publishedDateTime": "2021-05-18T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better.md",
       "title": "Google AI advancements: next gen AI chips and LaMDA to make AI conversations better",
       "excerpt": "Google has announced two major advancements in the field of AI-v4 TPUs and the LaMBDA model for more natural AI conversations.",
@@ -991,250 +1250,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect.md",
-      "title": "Blue Prism Announces Comprehensive New Enterprise Contact Center Offering with Amazon Connect",
-      "excerpt": "Blue Prism has a complete library of native integrations with Amazon Textract, Amazon Rekognition, and Amazon Comprehend for out-of-the box integrations. Organizations can quickly scale cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512616/Blue_Prism_Service_Assist.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
-      "title": "Less watching, more learning: AI enabling a smarter world",
-      "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
-      "publishedDateTime": "2021-05-18T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-insight-recognized-again-as-a-microsoft-security-2020-winner-for-microsoft-azure-security-deployment-partner-of-the-year.md",
-      "title": "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year",
-      "excerpt": "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has been named a Microsoft Security 20/20 award winner for a second year in a row in the Microsoft Azure Security Deployment Partner of the Year category.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=471062",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=471062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd.md",
-      "title": "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D",
-      "excerpt": "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
-      "originalUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
-      "publishedDateTime": "2021-05-18T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ai-redefined-commits-to-better-training-models-under-new-ceo.md",
-      "title": "AI Redefined commits to better training models under new CEO",
-      "excerpt": "AI Redefined (AIR) appoints new CEO as it seeks to drive adoption of its human-centered Cogment framework for training AI agents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/AIR.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
-      "publishedDateTime": "2021-05-18T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -60,6 +60,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Virtual event: How artificial intelligence is transforming health care"
+    excerpt: "Reporters Casey Ross and Erin Brodwin examine the possibilities and pitfalls of artificial intelligence, and offer recommendations for best practices."
+    publishedDateTime: 2021-05-27T13:30:00Z
+    webUrl: "https://www.statnews.com/2021/05/27/virtual-event-how-artificial-intelligence-is-transforming-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/plugins/stat-lazy-load/images/330x400-00000000.png"
+        width: 330
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Artificial Intelligence Ai in Medical Diagnostics Market size is expected to grow at an annual average of 46 during 2021 2027 AI based technologies increasing demand for AI tools in healthcare decreasing the workload of radiologists influx of"
     publishedDateTime: 2021-05-25T11:01:00Z

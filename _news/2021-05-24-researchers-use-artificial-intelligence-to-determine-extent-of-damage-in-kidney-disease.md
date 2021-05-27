@@ -42,6 +42,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence system can predict the impact of research"
+    excerpt: "Scientists say the system could be used to find 'hidden gems' of research and guide research funding allocations"
+    publishedDateTime: 2021-05-27T13:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/artificial-intelligence-system-can-predict-the-impact-of-research/4013750.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 37
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/9/4/513494_shutterstock_1011271585_561510.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "2Uv5y8A3pKOxBbTds16eAwvtVwuwMrPbPqJfuqISM6Z3A5db6IPw/Y2zPj/KWY3JQjPbBloXM46CY2szjKxvEOnCeXBilzcl8roMAPO95U29+OLlHxgB3HeS2qTMF04Fz+RsoQg/In888RUkb1eguhOU4KiSqVL8oKqLu3M6EUs1wgqmJ3rLHRJ/+LX8lG0lHz1Xlywl4jsfaiE9biW+qWC2TXMYLHvQVyBNi3RnXLndjvXBUlCtxDpszI0oXTBusCSXVRG+gACyiRN24bUTzy2XU8NaUh8J/DBlyaN4vBIEQvsOpqiqzRgtICJsn6jvUziA9XrPq61Dw3nJWMh56O+GlAyLpNp/Ss3h8cJBUJvVCirD4ZT6sislff715UsZi6zG9un3dw5Imn9O736As68WTxEAzn7dhvpa2/t4tIgQuw9LTtsuMgpqyPP6IjYOXBmoe5dPIY7wOCi3e6DkLL9wjYNSvDK2+d12XPtgDPxNCZeLBrbP5+Ij4q4b/rUxyCRh+iCinTNevQLIhmwDHg==;6g8hpsOqHslh3NchtGkFow=="
 ---

@@ -47,6 +47,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms.md",
+      "title": "Google Strikes Deal With Hospital Chain to Develop Healthcare Algorithms",
+      "excerpt": "Google and national hospital chain HCA will work to develop algorithms to help improve operating efficiency, monitor patients and guide doctors’ decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-05-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare.md",
       "title": "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare",
       "excerpt": "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic.",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -532,19 +584,19 @@
     {
       "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
       "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
-      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a DICOM format to standardize acquisition.",
+      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging-1030454892",
+      "webUrl": "https://www.lelezard.com/en/news-19819004.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19819004.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1515536/AAT_New_Platform_AI.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -554,21 +606,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T07:17:00-07:00",
+      "publishedDateTime": "2021-05-21T05:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -673,31 +716,22 @@
       "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
       "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
+      "publishedDateTime": "2021-05-20T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -707,9 +741,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -768,24 +801,33 @@
     {
       "path": "_news/2021-05-20-carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial-intelligence-as-a-service.md",
       "title": "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service",
-      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service.",
+      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial",
-      "originalUrl": "https://www.nasdaq.com/press-release/carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial",
+      "webUrl": "https://www.lelezard.com/en/news-19816657.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19816657.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T05:00:00-07:00",
+      "publishedDateTime": "2021-05-20T05:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1335,49 +1377,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-helps-predict-treatment-outcomes-for-patients-with-diseased-dental-implants.md",
-      "title": "AI helps predict treatment outcomes for patients with diseased dental implants",
-      "excerpt": "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dentalimplant.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
-      "publishedDateTime": "2021-05-12T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -298,7 +298,7 @@
       "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -387,6 +387,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-25-from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3.md",
+      "title": "From conversation to code: Microsoft introduces its first product features powered by GPT-3",
+      "excerpt": "The post From conversation to code: Microsoft introduces its first product features powered by GPT-3 appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/",
+      "originalUrl": "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/05/GTP-3-for-Power-Platform-1200-x630-1-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T08:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-microsoft-azure-launches-enterprise-support-for-pytorch.md",
       "title": "Microsoft Azure launches enterprise support for PyTorch",
       "excerpt": "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a",
@@ -395,7 +447,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 383,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -490,101 +542,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-harness-the-power-of-data-and-ai-in-your-applications-with-azure.md",
-      "title": "Harness the power of data and AI in your applications with Azure",
-      "excerpt": "Our commitment to developers is to make Azure the best cloud for developing intelligent applications that harness the power of data and AI. At Microsoft Build, we are announcing several exciting new capabilities and offers that make it easy and cost-effective for developers to get started with Azure",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-in-your-applications-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-in-your-applications-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T01:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt-3-ai-model.md",
-      "title": "Microsoft to make coding 'in plain English' easier with PowerFx and GPT-3 AI model",
-      "excerpt": "Microsoft's integration of the OpenAI GPT-3 technology into Power Apps is the first time GPT-3 will be available commercially in one of its own products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/24/3a9b5a8f-8991-44cb-b3aa-a3da0a171c10/powerfxgpt3.jpg",
-          "width": 1046,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/",
-      "publishedDateTime": "2021-05-25T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1421,6 +1378,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-sas-flexes-ai-ambitions-with-viya-platform-expansion.md",
+      "title": "SAS flexes AI ambitions with Viya platform expansion",
+      "excerpt": "SAS today announced an expansion for its SAS Viya platform, which is used for analyzing data and building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/vivian-sas-itrc-chatbot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/sas-flexes-ai-ambitions-with-viya-platform-expansion/amp/",
+      "publishedDateTime": "2021-05-18T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

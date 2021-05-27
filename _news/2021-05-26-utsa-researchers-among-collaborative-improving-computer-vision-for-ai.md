@@ -25,35 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "Research team improves fetal heart defect detection using machine learning"
-    excerpt: "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools."
-    publishedDateTime: 2021-05-26T14:28:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
+  - title: "Improving computer vision for AI"
+    excerpt: "Led by Sumit Jha, professor in the Department of Computer Science at UTSA, the team has changed the conventional approach employed in explaining machine learning decisions that relies on a single injection of noise into the input layer of a neural network."
+    publishedDateTime: 2021-05-27T13:39:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210527091439.htm"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Using Artificial Intelligence to Improve the Way Videos Are Organized"
+    excerpt: "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content. At any given moment, many thousands of new videos are being posted to sites like YouTube,"
+    publishedDateTime: 2021-05-22T22:52:00Z
+    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/"
+    ampWebUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg"
-        width: 1920
-        height: 1289
+      - url: "https://scitechdaily.com/images/Netra-Artificial-Intelligence-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
-  - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
-    excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
-    publishedDateTime: 2021-05-26T23:09:00Z
-    webUrl: "https://www.ucsf.edu/news/2021/05/420661/fetal-heart-defect-detection-improved-using-machine-learning"
+  - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
+    excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
+    publishedDateTime: 2021-05-26T12:13:00Z
+    webUrl: "https://slator.com/industry-news/why-data-for-ai-providers-need-a-problem-solving-mindset/"
     type: article
     provider:
-      name: UC San Francisco
-      domain: ucsf.edu
+      name: Slator
+      domain: slator.com
     quality: 39
     images:
-      - url: "https://www.ucsf.edu/sites/default/files/styles/quarter/public/2021-05/fetal-ultrasound-heart-structures-highlighted.jpg"
-        width: 330
-        height: 413
+      - url: "https://slator.com/assets/2021/05/Data-for-AI-Panel-Article-Image.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Collaboration focuses on AI processing-based 3D sensing for next-gen AIoT"
+    excerpt: "The new joint reference designs from Ambarella, Lumentum, and ON Semiconductor offer approaches for biometric access control, 3D electronic locks, and intelligent sensing."
+    publishedDateTime: 2021-05-26T17:31:00Z
+    webUrl: "https://www.laserfocusworld.com/detectors-imaging/article/14204122/collaboration-focuses-on-ai-processingbased-3d-sensing-for-nextgen-aiot"
+    type: article
+    provider:
+      name: laserfocusworld.com
+      domain: laserfocusworld.com
+    quality: 38
+    images:
+      - url: "https://img.laserfocusworld.com/files/base/ebm/lfw/image/2021/05/Photo__Ambarella_Lumentum_and_ON_Semiconductor_Collaborate_on_Joint_Platform.60ae8575e4ccf.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 751
+        isCached: true
+  - title: "Clouds for AI and HPC"
+    excerpt: "While HPC has traditionally been the purview of academic research and national laboratories, it is now going mainstream as a way to derive value out of growing stores of data"
+    publishedDateTime: 2021-05-26T12:55:00Z
+    webUrl: "https://www.cio.com/article/3620052/clouds-for-ai-and-hpc.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/cloud-network-100890065-large.jpg"
+        width: 1200
+        height: 768
+        isCached: true
+  - title: "How AI is shaping food innovation"
+    excerpt: "Technology experts from consulting firm ZS Associates highlighted the various ways artificial intelligence is coming to life in food innovation and product development during a session at The Natural Products Expo West Virtual Week."
+    publishedDateTime: 2021-05-27T13:44:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/18725-how-ai-is-shaping-food-innovation"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 37
+    images:
+      - url: "https://www.foodbusinessnews.net/ext/resources/2021/5/FoodTechConcept_Lead.jpg?height=635&t=1622118933&width=1200"
+        width: 953
+        height: 635
+        isCached: true
+  - title: "CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design"
+    excerpt: "In summary, the research reported in this article has provided strong evidence of the promise of the co-design principle, indicating it is possible to instill AI directly on existing commodity computing devices while offering even higher speeds and better ..."
+    publishedDateTime: 2021-05-25T07:52:00Z
+    webUrl: "https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 26
+    images:
+      - url: "https://dl.acm.org/cms/attachment/c0d80842-6217-4df7-9531-d996cf7520b2/f1.jpg"
+        width: 1021
+        height: 562
         isCached: true
 
 secured: "ndDwkhvHGd1AwCW5kqki/t3U48uOmIY5SkuDIgFyAtxDGhl823XODUFAKKE7YKP5P3MhSM2FES+cdpSawIXRuWSk6C3O+iUdVQRGy6q6q7I2a9Y+QKfbtLSOKUuGZOr5Zt+qls7Xwy4/uCh0r4BYQE6aOXAgDhwpc7DBeeHeraKsg5VHwzJ85+wp5Xz+XaGK+HKQ2L1yGXYS45eVpikrfJDC0dRYBhPeH0m0OFbw0L5vg2t1KvfuU7B+PIcoAi0lAv5ejyHgVnB8PTo0UEDFLgAAVLFaUVvMJf5om8nDrTvJ4WwMms82qX4VkPCcCyuS/6q7lsZEAzBkh+vGeIzehrjcnd55pql0cgDMHAE+Z3RlqC0KUmMeMVBLJgbYcWvawmwCzZcxEK2FPjnwZ7beUevFZ3k6j81YuTmEhdcUamtPbvZxGM6RD19EyVN2HatYjuvep7bPkSLJP3Z0pMQxSFsAGa3GXsz/E4/2Eii3zvDS4gcckG00pxjaAnEhn+P1aXL8pW5kvHYhL1eaUXS9ng==;QkbWurf2/81qXFkGCHPNdA=="

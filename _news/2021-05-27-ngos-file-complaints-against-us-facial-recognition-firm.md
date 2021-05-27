@@ -25,33 +25,99 @@ images:
     isCached: true
 
 related:
-  - title: "Imprivata Launches First-to-Market Mobile Facial Recognition Solution"
-    excerpt: "Imprivata together with technology partners Aware and IDEMIAinnovative announced the launch of mobile facial recognition solution"
-    publishedDateTime: 2021-05-26T21:16:00Z
-    webUrl: "https://hitconsultant.net/2021/05/26/imprivata-mobile-facial-recognition-solution/"
+  - title: "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse"
+    excerpt: "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,"
+    publishedDateTime: 2021-05-27T12:45:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
     type: article
     provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 39
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 93
     images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2014/07/The-Imprivata-Report-on-the-Economic-Impact-of-Inefficient-Communications-in-Healthcare.jpg"
-        width: 610
-        height: 335
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Imprivata Unveils Mobile Facial Recognition Solution"
-    excerpt: "Developed in partnership with established facial recognition providers, this first-to-market healthcare mobile facial recognition solution will help healthcare organizations improve security and compliance,"
-    publishedDateTime: 2021-05-26T20:50:00Z
-    webUrl: "https://www.darkreading.com/endpoint/imprivata-unveils-mobile-facial-recognition-solution/d/d-id/1341149"
+  - title: "Clearview AI hit with sweeping legal complaints over controversial face scraping in Europe"
+    excerpt: "Privacy International (PI) and several other European privacy and digital rights organizations announced today that they’ve filed legal complaints against the controversial facial recognition company Clearview AI. The complaints filed in France ..."
+    publishedDateTime: 2021-05-27T09:48:00Z
+    webUrl: "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
+      name: The Verge
+      domain: theverge.com
+    quality: 79
     images:
-      - url: "https://img.deusm.com/darkreading/DR_toon_may2021.jpg"
-        width: 900
-        height: 542
+      - url: "https://cdn.vox-cdn.com/thumbor/EqpnoKuVRrv3_njRwsySzjXaMGk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69349432/acastro_210512_1777_deepfake_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Clearview AI — The Facial Recognition Company Embraced By U.S. Law Enforcement — Just Got Hit With A Barrage Of Privacy Complaints In Europe"
+    excerpt: "The firm claims to have over 3 billion faces in its database, many controversially acquired from public web sources and social media."
+    publishedDateTime: 2021-05-27T12:22:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60af8ee1bde1dd11882247cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D0%26cropY2%3D2700"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Clearview AI Hit by Wave of European Privacy Complaints"
+    excerpt: "Clearview AI Inc. was hit by a wave of complaints across Europe for allegedly breaking the region’s tough privacy laws by scraping billions of facial images from social-media profiles and the internet."
+    publishedDateTime: 2021-05-27T06:17:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-27/clearview-ai-hit-by-wave-of-european-privacy-complaints"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxAkAloJsP8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Minn. Police Use of Facial Recognition Leads to Concerns"
+    excerpt: "An investigation revealed that more than 40 law enforcement agencies in Minnesota used facial recognition tech from Clearview AI. Experts have raised questions about the legality and reliability of this tech."
+    publishedDateTime: 2021-05-26T22:26:00Z
+    webUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns"
+    ampWebUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "European privacy groups challenge facial scan firm Clearview"
+    excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
+    publishedDateTime: 2021-05-27T13:26:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/European-privacy-groups-challenge-facial-scan-16206789.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "4pa44xgPkG02+2hJa+PVbwnFv25H65MowzF2xsC09HghoP1G9Cklo/EIp1xhAZmcAofbkdnJtbC8PF84yXdmCga3GCtRXKFH0EQoFHqER85AzpohtkJl/r5PlNDlxqgRODxrs5EtduTAq3d7qa6Iy/nN96jTBie1ihpT39HTeHQbby/p7LRQhzyOCcZ3NI+mGlTmRkklIJkEHmYKiVXkWR+U9HWeaUatQpNfucNdebHqp0fGTh5PhrsduMId54oIapNTGMhnGNiGbyHciH6z7JWiaWUPnPIfX1S5MBESRpy42y6jvIw2iNpGa6woahRC6GguEiEyFymR6kERsohHajC5Ffbw278kOhNEqrJ1VPw=;QYAWXHmmo2uVpUMKklT7sQ=="

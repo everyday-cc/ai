@@ -32,48 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure launches enterprise support for PyTorch"
-    excerpt: "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a"
-    publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/"
-    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/"
+  - title: "From conversation to code: Microsoft introduces its first product features powered by GPT-3"
+    excerpt: "The post From conversation to code: Microsoft introduces its first product features powered by GPT-3 appeared first on The AI Blog.\n"
+    publishedDateTime: 2021-05-25T15:00:04Z
+    webUrl: "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 123
+      name: Microsoft
+      domain: microsoft.com
+    quality: 179
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-951875250.jpg?w=1024"
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/05/GTP-3-for-Power-Platform-1200-x630-1-1024x538.jpg"
         width: 1024
-        height: 685
-        isCached: true
-  - title: "Microsoft adds enterprise support for PyTorch AI on Azure"
-    excerpt: "Microsoft makes Facebook's AI Python library more friendly for enterprises with patches and hotfixes for Windows 10."
-    publishedDateTime: 2021-05-25T08:45:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-enterprise-support-for-pytorch-ai-on-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 120
-  - title: "Facebook and Microsoft launch PyTorch Enterprise Support Program"
-    excerpt: "Facebook partnered with Microsoft to launch the PyTorch Enterprise Support Program, a service offering for organizations using PyTorch."
-    publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/25/facebook-and-microsoft-launch-pytorch-enterprise-support-program/"
-    ampWebUrl: "https://venturebeat.com/2021/05/25/facebook-and-microsoft-launch-pytorch-enterprise-support-program/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/facebook-and-microsoft-launch-pytorch-enterprise-support-program/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 108
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+        height: 538
         isCached: true
   - title: "Microsoft is teaching AI to write apps for you"
     excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help you write programs using its PowerApps suite, and will probably adopt the technology across Microsoft 365 apps, too."
@@ -123,22 +94,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
-    excerpt: "At its Build developer conference today, Microsoft announced a new set of Azure services (in preview) that businesses can now run on virtually any CNCF-conformant Kubernetes cluster with the help of its Azure Arc multi-cloud service."
-    publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/"
-    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-495666121.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft enables more Azure services to run anywhere via Azure Arc"
     excerpt: "Microsoft is filling out and repositioning some of its key Azure services, including its Azure Application Services, Azure Applied AI Services and Azure Communication Services."
     publishedDateTime: 2021-05-25T08:01:00Z
@@ -154,22 +109,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
         width: 997
         height: 734
-        isCached: true
-  - title: "OpenAI launches $100 million startup funded with backing from Microsoft"
-    excerpt: "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft."
-    publishedDateTime: 2021-05-26T17:40:00Z
-    webUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/"
-    ampWebUrl: "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft expands Azure Communication Services with call recording, UI library"
     excerpt: "At its Build 2021 conference, Microsoft announced a range of updates to Azure Communication Services, including call recording."
@@ -187,58 +126,37 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft announces PyTorch Enterprise for Azure and Spark enhancements for Synapse"
-    excerpt: "Developers utilizing Azure Synapse, Cognitive Services, AI, Cosmos DB, Database for PostgreSQL and MySQL, and SQL Database have a lot to be excited today for what Microsoft has in store for them."
-    publishedDateTime: 2021-05-25T11:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-pytorch-enterprise-for-azure-and-spark-enhancements-for-synapse/"
+  - title: "Microsoft to make coding 'in plain English' easier with PowerFx and GPT-3 AI model"
+    excerpt: "Microsoft's integration of the OpenAI GPT-3 technology into Power Apps is the first time GPT-3 will be available commercially in one of its own products."
+    publishedDateTime: 2021-05-25T08:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-make-coding-in-plain-english-easier-with-powerfx-and-gpt3-ai-model/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1621920155_azure_at_build_2021_1a_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/24/3a9b5a8f-8991-44cb-b3aa-a3da0a171c10/powerfxgpt3.jpg"
+        width: 1046
+        height: 727
         isCached: true
-  - title: "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI"
-    excerpt: "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning."
-    publishedDateTime: 2021-05-26T10:00:00Z
-    webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/"
+  - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
+    excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
+    publishedDateTime: 2021-05-27T11:05:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/microsoft-build-unveils-ai-powered-assistance-for-coding-using-gpt-3-and-azure.html"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 94
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 84
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
-  - title: "Azure at Microsoft Build recap: build amazing things on your terms, anywhere"
-    excerpt: "At digital Microsoft Build this week, we announced a host of new capabilities that help developers create intelligent, connected, and secure cloud-native apps that harness the power of data and AI and run anywhere. Below are the key stories we landed this week at Microsoft Build, with ways to explore"
-    publishedDateTime: 2021-05-26T09:00:23Z
-    webUrl: "https://azure.microsoft.com/blog/azure-at-microsoft-build-recap-build-amazing-things-on-your-terms-anywhere/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "How Microsoft is transforming football with data and machine learning"
-    excerpt: "Companies will focus on building innovative technology solutions for the sports industry to enhance the fan engagement experience with data-enhanced match coverage, next-generation over the top (OTT) streaming services,"
-    publishedDateTime: 2021-05-25T15:47:00Z
-    webUrl: "https://www.dqindia.com/microsoft-transforming-football-data-machine-learning/"
-    ampWebUrl: "https://www.dqindia.com/microsoft-transforming-football-data-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-transforming-football-data-machine-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 76
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2018/08/FOOTBALL.jpg"
-        width: 714
-        height: 400
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wuhf06h3xyik4ld9_1622111084.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
         isCached: true
   - title: "Microsoft is using AI to turn natural language into code"
     excerpt: "Microsoft's AI powered solution is limited right now but shows immense potential for the future of app development"
@@ -255,50 +173,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/02/Microsoft-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "Nokia makes AI move with Microsoft"
-    excerpt: "Nokia claimed a significant reduction in time taken to add AI to mobile networks through use cases employing Microsoft’s Azure public cloud."
-    publishedDateTime: 2021-05-25T19:01:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/nokia-microsoft-ai/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 74
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2016/05/microsoft-finland.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Microsoft Adds Enterprise Support For PyTorch AI"
-    excerpt: "Microsoft has now added enterprise support for PyTorch AI on Azure. With this, Microsoft aims to give users of PyTorch a more reliable production experience. For the uninitiated, PyTorch is a library for the Python programming language that integrates with important Python add-ons like NumPy and data-science tasks that require faster GPU processing."
-    publishedDateTime: 2021-05-26T05:59:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-adds-enterprise-support-for-pytorch-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 73
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
-    publishedDateTime: 2021-05-26T17:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/kms-lighthouse-now-available-in-microsoft-azure-marketplace-301299746.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Top ML Announcements From Microsoft Build 2021"
     excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
@@ -328,20 +202,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
-    excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
-    publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
-        width: 500
-        height: 375
-        isCached: true
   - title: "15 Azure announcements from Microsoft Build 2021"
     excerpt: "Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure announcements ranged from artificial intelligence (AI) features,"
     publishedDateTime: 2021-05-26T00:56:00Z
@@ -356,29 +216,6 @@ related:
         width: 1196
         height: 769
         isCached: true
-  - title: "Build 2021: Microsoft announces new capabilities for Azure database services."
-    excerpt: "Microsoft is announcing several new capabilities for Azure database services at Build. The Azure Database's ledger capability, which is in preview for users,"
-    publishedDateTime: 2021-05-25T15:27:00Z
-    webUrl: "https://www.onmsft.com/news/azure-database-services-new-capabilities"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 51
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Azure-AI.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
-    excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-05-26T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Build 2021: Microsoft extends low code Power Platform with VS extensions, GPT-3 support"
     excerpt: "The Power Platform team uses Azure Machine Learning managed endpoints, a new capability announced in preview at Build that helps users to deploy models of all"
     publishedDateTime: 2021-05-25T15:23:00Z
@@ -393,15 +230,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-05-25T18:08:00Z
-    webUrl: "https://www.bio-itworld.com/pressreleases/2021/05/25/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 30
 
 secured: "/R6K5qBVTwYG1/ywfQxq3Yg7Ljy4FfGWgLnw8tIPMEPhm64qOk1mYaFLzpJSfdHn2eYfSjbj+POU0NR2fTHF6L753s5lNwor6sa0tPVGFNhHxl9AtvtvbTBflmTbZZKr9uAPkYux4VCworage2Pxo3MgTO00jkbSMvaNzIHl7KMb0E+/L7XpBiFsfZJVeV19j2CBbDfh1iX7iT1LjYvfIzi8OLOmZk9wqjYJimS30lmVxKf5gJ68ChCZ/ve+3/JCS22nsbvt0rB1jFF5VAeqB5m8rl2LJt3rzr1nWafU2A/P7SD3w93nUTjBWY1geEvcMiBdK298tae9dktnE3QYqdaKv7mH9RAu0spB2S0jdVmuznH2paj4KLg03hODqt+4gsp1lG3bIb7/ztifw4TYicV1pwgww9kbrazJzQSIjl+QfI8cCyUus1q8pko9puBcchALRYugOifCuN+3Oti7ftpNAjfuVXcmJLTpV451mtLb0EnjbNXMsvzKtKRUHh+U19jYoAPQgY0/YAV8FRn5iQ==;vfsZSwQu7wfOk7dV1+ESiw=="
 ---

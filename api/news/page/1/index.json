@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-27-clearview-ai-hit-with-sweeping-legal-complaints-over-controversial-face-scraping-in-europe.md",
-      "title": "Clearview AI hit with sweeping legal complaints over controversial face scraping in Europe",
-      "excerpt": "Privacy International (PI) and several other European privacy and digital rights organizations announced today that they’ve filed legal complaints against the controversial facial recognition company Clearview AI. The complaints filed in France ...",
+      "path": "_news/2021-05-27-how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers.md",
+      "title": "How To Advance Blue-Collar AI: Eight Actions For Citizens, Governments And Employers",
+      "excerpt": "An AI workforce won't materialize overnight, and on our current path, the supply of AI experts will not catch up with demand any time soon.",
       "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu",
-      "originalUrl": "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/EqpnoKuVRrv3_njRwsySzjXaMGk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69349432/acastro_210512_1777_deepfake_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75eecebb93fcb9e68a2ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,215 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu",
-      "publishedDateTime": "2021-05-27T02:48:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/amp/",
+      "publishedDateTime": "2021-05-27T06:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-improving-computer-vision-for-ai.md",
+      "title": "Improving computer vision for AI",
+      "excerpt": "Led by Sumit Jha, professor in the Department of Computer Science at UTSA, the team has changed the conventional approach employed in explaining machine learning decisions that relies on a single injection of noise into the input layer of a neural network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210527091439.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210527091439.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-foundations-of-trustworthy-ai-governed-data-and-ai-ai-ethics-and-an-open-diverse-ecosystem.md",
+      "title": "Foundations of trustworthy AI: governed data and AI, AI ethics and an open diverse ecosystem",
+      "excerpt": "Companies around the world are realizing that building trust in AI is key to widespread adoption of the technology. They know that trust in AI and being able to explain decisions made through AI algorithms are crucial to the success of their business from a brand perspective. According to Morning Consult,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/foundations_of_trustworthy_ai_blog_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T06:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-dream-bot-l10-pro-review-a-robot-vacuum-newcomer-that-cleans-well.md",
+      "title": "Dream Bot L10 Pro Review: A robot vacuum newcomer that cleans well",
+      "excerpt": "The Dreame Bot L10 Pro is one of the first bots from Dreame Technology, which is looking to make a name of itself in the always competitive robot vacuum space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/",
+      "originalUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dreame-bot-l10-pro-review-11-of-12.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/?amp",
+      "publishedDateTime": "2021-05-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-clearview-ai-hit-with-legal-complaints-in-5-countries-accused-of-facial-recognition-abuse.md",
+      "title": "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse",
+      "excerpt": "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "originalUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "publishedDateTime": "2021-05-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +261,7 @@
       "originalUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -105,7 +304,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -136,7 +335,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Ethics"
       ]
     },
     {
@@ -148,7 +348,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -435,6 +635,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms.md",
+      "title": "Google Strikes Deal With Hospital Chain to Develop Healthcare Algorithms",
+      "excerpt": "Google and national hospital chain HCA will work to develop algorithms to help improve operating efficiency, monitor patients and guide doctors’ decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-05-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-kpmg-survey-finds-execs-worry-about-ai-hype-but-they-can-address-it.md",
       "title": "KPMG survey finds execs worry about AI hype — but they can address it",
       "excerpt": "A lack of AI literacy, and combating the long-term damage caused by the last AI Winter, has helped fuel fear about AI hype.",
@@ -701,7 +953,7 @@
       "originalUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -972,249 +1224,6 @@
       "provider": {
         "name": "TweakTown",
         "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-memorial-day-traveling-in-an-era-of-ai-self-driving-cars.md",
-      "title": "Memorial Day Traveling In An Era Of AI Self-Driving Cars",
-      "excerpt": "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-26T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-nokia-unveils-the-worlds-first-telecom-ai-library.md",
-      "title": "Nokia unveils the world’s first telecom AI library",
-      "excerpt": "Nokia has released a library of artificial intelligence (AI) use cases for telecommunication providers through a public cloud, an industry first. Developed in collaboration with Microsoft, the Nokia AVA AI-as-a-service combines Nokia's security framework with Microsoft Azure's digital architecture to help communications service providers (CSPs) take on 5G and cloud computing challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615893259/itpro/NokiaSign_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
-      "publishedDateTime": "2021-05-26T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals.md",
-      "title": "Mumbai: Railway cops to have a facial recognition app to identify criminals",
-      "excerpt": "The Government Railway Police (GRP) is on the verge of developing an in house software to identify criminal with the previous criminal records. The software would have a facial recognition system which will enable the police to go through previous criminal history of a person with just a click.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
-      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2019-10/3cadeda3-d9ee-48f8-9d87-f4165d72dc90/MUMBAI_GRP.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
-      "publishedDateTime": "2021-05-26T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
-      "title": "Rock picking robotics startup TerraClear raises $25 million",
-      "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
-      "originalUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S1ELdkR1Bbo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
-      "publishedDateTime": "2021-05-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
-      "title": "Research team improves fetal heart defect detection using machine learning",
-      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
-          "width": 1920,
-          "height": 1289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "publishedDateTime": "2021-05-26T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

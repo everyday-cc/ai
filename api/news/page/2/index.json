@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-memorial-day-traveling-in-an-era-of-ai-self-driving-cars.md",
+      "title": "Memorial Day Traveling In An Era Of AI Self-Driving Cars",
+      "excerpt": "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-26T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-nokia-unveils-the-worlds-first-telecom-ai-library.md",
+      "title": "Nokia unveils the world’s first telecom AI library",
+      "excerpt": "Nokia has released a library of artificial intelligence (AI) use cases for telecommunication providers through a public cloud, an industry first. Developed in collaboration with Microsoft, the Nokia AVA AI-as-a-service combines Nokia's security framework with Microsoft Azure's digital architecture to help communications service providers (CSPs) take on 5G and cloud computing challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615893259/itpro/NokiaSign_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
+      "publishedDateTime": "2021-05-26T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals.md",
+      "title": "Mumbai: Railway cops to have a facial recognition app to identify criminals",
+      "excerpt": "The Government Railway Police (GRP) is on the verge of developing an in house software to identify criminal with the previous criminal records. The software would have a facial recognition system which will enable the police to go through previous criminal history of a person with just a click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2019-10/3cadeda3-d9ee-48f8-9d87-f4165d72dc90/MUMBAI_GRP.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "publishedDateTime": "2021-05-26T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
+      "title": "Rock picking robotics startup TerraClear raises $25 million",
+      "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "originalUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S1ELdkR1Bbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "publishedDateTime": "2021-05-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
       "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
       "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
@@ -54,50 +254,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year.md",
-      "title": "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year",
-      "excerpt": "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia.md",
       "title": "SK partnership brings Kodiak Robotics’ autonomous technology to Asia",
       "excerpt": "Kodiak Robotics strikes a partnership with South Korea’s SK conglomerate to move its autonomous trucking software to Asia.",
@@ -137,6 +293,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026.md",
+      "title": "Emerging Face Recognition Systems Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2026",
+      "excerpt": "(The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Face Recognition Systems Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -442,7 +650,7 @@
       "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -837,7 +1045,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -917,6 +1125,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-25-from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3.md",
+      "title": "From conversation to code: Microsoft introduces its first product features powered by GPT-3",
+      "excerpt": "The post From conversation to code: Microsoft introduces its first product features powered by GPT-3 appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/",
+      "originalUrl": "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/05/GTP-3-for-Power-Platform-1200-x630-1-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T08:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-microsoft-azure-launches-enterprise-support-for-pytorch.md",
       "title": "Microsoft Azure launches enterprise support for PyTorch",
       "excerpt": "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a",
@@ -925,7 +1185,7 @@
       "originalUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 383,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -968,256 +1228,6 @@
         "AI",
         "Facebook AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-new-tools-for-azure-data-at-build-2021.md",
-      "title": "New tools for Azure Data at Build 2021",
-      "excerpt": "From immutable ledgers in SQL Azure to in-memory cache in Cosmos DB, Microsoft is adding more features to its Azure data platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html",
-      "originalUrl": "https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/data_explosion_proliferation_transmission_spiral_data_streams_volume_velocity_by_matjaz_slanic_gettyimages-637952444_cso_2400x1600-100852890-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.amp.html",
-      "publishedDateTime": "2021-05-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-powered-financial-research-platform-sentieo-nabs-20m.md",
-      "title": "AI-powered financial research platform Sentieo nabs $20M",
-      "excerpt": "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
-      "originalUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
-      "publishedDateTime": "2021-05-25T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-taipei-based-computer-vision-startup-eys3d-gets-7m-series-a.md",
-      "title": "Taipei-based computer vision startup eYs3D gets $7M Series A",
-      "excerpt": "Ys3D Microelectronics, a fabless design house that focuses on end-to-end software and hardware systems for computer vision technology, has raised a $7 million Series A. Participants included ARM IoT Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/eYs3D1.png?w=1024",
-          "width": 1024,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
-      "publishedDateTime": "2021-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m.md",
-      "title": "Security startup Tessian, which uses AI to fight social engineering, trousers $65M",
-      "excerpt": "In the latest chunky funding round out of Europe, UK-based email security startup, Tessian, has closed $65 million in Series C funding. The startup applies machine learning to build individual behavior models for enterprise email use that aims to combat human error by flagging problematic patterns",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/",
-      "originalUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/06/Tessian-Co-founders-L-R-Tim-Sadler-CEO_-Ed-Bishop-CTO_-Tom-Adams-Head-of-Client-side-engineering.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/amp/",
-      "publishedDateTime": "2021-05-25T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-rsa-2021-can-artificial-intelligence-play-a-role-in-cybersecurity.md",
-      "title": "RSA 2021: Can Artificial Intelligence Play a Role in Cybersecurity?",
-      "excerpt": "AI is becoming an increasingly common tool to defend against cyberattacks. But is it being employed by cybercriminals as well? AT RSA 2021, we spoke with thought leaders about the use of AI in both offensive and defensive tactics.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity",
-      "originalUrl": "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/RSA%202021%20Thumbnail%20Video%205.jpg?itok=hnNwWiyE",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp",
-      "publishedDateTime": "2021-05-25T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

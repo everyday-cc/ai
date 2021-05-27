@@ -41,6 +41,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Vectra AI Joins Microsoft Intelligent Security Association (MISA)"
+    excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association"
+    publishedDateTime: 2021-05-27T12:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-ai-joins-microsoft-intelligent-security-association-misa-301300473.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 71
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to"
     publishedDateTime: 2021-05-25T15:45:00Z

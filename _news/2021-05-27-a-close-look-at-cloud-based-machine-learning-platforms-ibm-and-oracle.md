@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-27T10:00:00Z
 originalUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-ibm-and-oracle/"
 webUrl: "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-ibm-and-oracle/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/05/1d6c616b-opera-594592_640.jpg"
@@ -40,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+MzjenLsLTqb6TNv6X90+R+Pf5oJJb0/vOgY282j7KG+IsZ++GOSUF8vs3gyJcfpB072MxDEQT/wLvp4KnaW08tdDyK3iyAsYTstKcpbbl6M0LeVdS1+xJcMg32Ta5R2MeCHYmuDNFzQeH2OxhV1XDCxLd3K6asEwnZ7S0O4CAt5L0hSIfKonLGDQXe2vqvXKsEb/FCE6O48qAw6Bo+blRIpRh6bmcGCN0WS6D2eEWwCIltPPwz3Ehg3uOuUXGmLYlNI6fcZ7WrgF3AJChqSsAZzNRAIy/o/MARpbqVD9lqjz1TRJy1o8lzOtdk30sch7GXkI3k66Js1b/OQNh23plVaSH5Qzksm2IY5tBoqLLY=;yJu93JtEBKGY9KiS1C/rUQ=="
+secured: "cH5z+qYe6HBY2kOK8vNpwZL7SuVoJkwK8qNamM1Dbph9kcOKkNL11vokBp9rKgXP7UvY1hb/mNhJ2621276fMdnKJgolPn16suEz7DdF0mEznJD9A3BLm6iNXbDwEzasmnOOPKec5t80D75lcQ6x/Sre0q50sxaGAGuyymneYOVPxSXnqaL1d4w02eGo70TP7I8HsfTF6muRNdcH7VduDHw2K8y3yh+q0NXk/5wI6bkJaA8ZEp0GT8FLY7TE8DLzsQTgEO55BXRRxg+yH/wLpX6HZwT64+PX3qKYxr+ZHgQRUzjFo5gB0ZOZEtoNKe7WTSS+KP58IPQyMyF3urV4bteVwjZkzJJMBW6ikSo9JKlkpWnu9v+lmhowKUI1A+9YJ1sekeehxUnctMc7rapoxCX7L0o+WIqRZ3zIbOJbCAu4+xvuysHAiB1cfCIZvNPor0Ui2sMfDru+Khh7Vo5/CBg5FmPEH626i5oE3s3g8yFCggSnfY462yreYw105tAlUI8Y0aIfV7acn/HoyVkQuQ==;HlY40Qvr6Acqiy1iTctvMQ=="
 ---
 

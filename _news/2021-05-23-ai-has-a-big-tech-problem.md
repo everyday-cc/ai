@@ -24,22 +24,6 @@ images:
     height: 366
     isCached: true
 
-related:
-  - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
-    excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
-    publishedDateTime: 2021-05-26T12:13:00Z
-    webUrl: "https://slator.com/industry-news/why-data-for-ai-providers-need-a-problem-solving-mindset/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 39
-    images:
-      - url: "https://slator.com/assets/2021/05/Data-for-AI-Panel-Article-Image.png"
-        width: 600
-        height: 400
-        isCached: true
-
 secured: "RK2NpNwJbi89QiE6Z5rlgagrPPnYG5hsr/sgcBJjMEn+PObLwly1xAOblIy4uZE3i0XnZT8W/vRHu5sOZmoojcf+HNL/DFHTapvv+vQ4JAgX6QmlOgLEVWykaF1+j9S9sZgbpb+QtooBEcR3AKU8ObiN+Ms71y+s6vtz/5L5JQkWKq8f/0zABWH77FF+exn67+ZUA5FhqLOsZUzRpzY/KOZ0a/WUejasdLMJSKwxU4tMFZv7kp2mpbQPUo6ZoEnO2j4U3MiE5DNXAgUaI+LREaeI/saLIWybndoYeeDcLEy3iREOf4hPADpTIpCv9yvBRX4CYFZ8uypBv2O+XbKt73asF6fHcp0WwObCCdWmw4I60locf6Iim/8ijQbxpBhHt5Nuwhod5A3XVWb8PtwJy/lvFJc4gwpoveZQ2fQFq2FOZ7ky2jEC23VCvbh6YWlppAQO3gGYYUAjCT3J7Wcw7ZirEJ7lUyggKcqaRYvIdhme74xbMiR+vP7t1W2UzrEDyD3pvu1jwsU8DHn3fj01Jw==;4BTMRy0AAvIYbaNAmmpbOw=="
 ---
 

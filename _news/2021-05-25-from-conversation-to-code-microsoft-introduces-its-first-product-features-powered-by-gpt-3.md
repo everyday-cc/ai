@@ -6,9 +6,9 @@ publishedDateTime: 2021-05-25T15:00:04Z
 originalUrl: "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/"
 webUrl: "https://blogs.microsoft.com/ai/from-conversation-to-code-microsoft-introduces-its-first-product-features-powered-by-gpt-3/"
 type: article
-quality: 79
-heat: -1
-published: false
+quality: 179
+heat: 309
+published: true
 
 provider:
   name: Microsoft
@@ -29,6 +29,86 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft is teaching AI to write apps for you"
+    excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help you write programs using its PowerApps suite, and will probably adopt the technology across Microsoft 365 apps, too."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://www.pcworld.com/article/3619561/microsoft-is-teaching-ai-to-write-apps-for-you.html"
+    ampWebUrl: "https://www.pcworld.com/article/3619561/microsoft-is-teaching-ai-to-write-apps-for-you.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3619561/microsoft-is-teaching-ai-to-write-apps-for-you.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 106
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/gpt-3-power-fx-still_under-embargo-until-may-25-8am-pt-cms-resized-100889858-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft uses GPT-3 to add AI features to Power Apps"
+    excerpt: "Microsoft says it's bringing OpenAI's language model, GPT-3, to its Power Apps platform for the purpose of generating formulas."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/"
+    ampWebUrl: "https://venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-uses-gpt-3-to-add-ai-features-to-power-apps/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft Azure is now smarter and more powerful than ever"
+    excerpt: "Microsoft has unveiled a raft of additions to its Azure cloud suite, geared towards helping developers streamline and modernize business processes. The company used its annual Build conference as a launchpad for the upgrades,"
+    publishedDateTime: 2021-05-25T15:10:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Microsoft enables more Azure services to run anywhere via Azure Arc"
+    excerpt: "Microsoft is filling out and repositioning some of its key Azure services, including its Azure Application Services, Azure Applied AI Services and Azure Communication Services."
+    publishedDateTime: 2021-05-25T08:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-enables-more-azure-services-to-run-anywhere-via-azure-arc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/24/687574ae-057e-489c-ba4b-5ac60b9a1f2a/arcenabledkubernetes.jpg"
+        width: 997
+        height: 734
+        isCached: true
+  - title: "Microsoft expands Azure Communication Services with call recording, UI library"
+    excerpt: "At its Build 2021 conference, Microsoft announced a range of updates to Azure Communication Services, including call recording."
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/25/microsoft-expands-azure-communication-services-with-call-recording-ui-library/"
+    ampWebUrl: "https://venturebeat.com/2021/05/25/microsoft-expands-azure-communication-services-with-call-recording-ui-library/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/microsoft-expands-azure-communication-services-with-call-recording-ui-library/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2014/07/microsoft-windows-azure-rainer-stropek-flickr-e1572847917832.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft to make coding 'in plain English' easier with PowerFx and GPT-3 AI model"
     excerpt: "Microsoft's integration of the OpenAI GPT-3 technology into Power Apps is the first time GPT-3 will be available commercially in one of its own products."
     publishedDateTime: 2021-05-25T08:00:00Z
@@ -44,6 +124,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/05/24/3a9b5a8f-8991-44cb-b3aa-a3da0a171c10/powerfxgpt3.jpg"
         width: 1046
         height: 727
+        isCached: true
+  - title: "Microsoft uses GPT-3 to let you code in natural language"
+    excerpt: "Unlike in other years, this year’s Microsoft Build developer conference is not packed with huge surprises — but there’s one announcement that will surely make developers’ ears perk up: The company is now using OpenAI’s massive GPT-3 natural language model in its"
+    publishedDateTime: 2021-05-25T15:00:00Z
+    webUrl: "https://techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/"
+    ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-uses-gpt-3-to-let-you-code-in-natural-language/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1205980433.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft Build Unveils 'AI-powered Assistance' For Coding Using GPT-3 And Azure"
     excerpt: "Using an advanced AI model like this can help our low-code tools become even more widely available,\" Corporate vice president for Microsoft said on the event."
@@ -61,21 +157,79 @@ related:
         width: 1242
         height: 709
         isCached: true
-  - title: "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model"
-    excerpt: "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,"
-    publishedDateTime: 2021-05-25T13:07:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/"
+  - title: "Microsoft is using AI to turn natural language into code"
+    excerpt: "Microsoft's AI powered solution is limited right now but shows immense potential for the future of app development"
+    publishedDateTime: 2021-05-26T12:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-is-using-ai-to-turn-natural-language-into-code-6943631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-is-using-ai-to-turn-natural-language-into-code-6943631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-is-using-ai-to-turn-natural-language-into-code-6943631.html/amp"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/02/Microsoft-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "Top ML Announcements From Microsoft Build 2021"
+    excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
+    publishedDateTime: 2021-05-26T11:47:00Z
+    webUrl: "https://analyticsindiamag.com/top-ml-announcements-from-microsoft-build-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/microsoft.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft is teaching AI to write apps for users"
+    excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
+    publishedDateTime: 2021-05-26T04:41:00Z
+    webUrl: "https://www.arnnet.com.au/article/688648/microsoft-teaching-ai-write-apps/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
     quality: 56
     images:
-      - url: "https://res.infoq.com/news/2021/05/microsoft-zero-infinity/en/headerimage/microsoft-zero-infinity-header-1621783123438.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_197728332.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "15 Azure announcements from Microsoft Build 2021"
+    excerpt: "Microsoft Build 2021 developers conference started virtually today with the No. 2 cloud provider introducing a slew of updates to its Azure cloud computing capabilities. Azure announcements ranged from artificial intelligence (AI) features,"
+    publishedDateTime: 2021-05-26T00:56:00Z
+    webUrl: "https://www.crn.com.au/news/15-azure-announcements-from-microsoft-build-2021-565068"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210526115623_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+        width: 1196
+        height: 769
+        isCached: true
+  - title: "Build 2021: Microsoft extends low code Power Platform with VS extensions, GPT-3 support"
+    excerpt: "The Power Platform team uses Azure Machine Learning managed endpoints, a new capability announced in preview at Build that helps users to deploy models of all"
+    publishedDateTime: 2021-05-25T15:23:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-extends-low-code-power-platform"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 31
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Power-Platform-GPT-3.png"
+        width: 1024
+        height: 768
         isCached: true
 
-secured: "LNkGRlOT/7v+Ysxo+IcgqnXqtBUTX3z0tXLhZh98Z8AQmM8uW9Kc51ydE0o9DczrVeFDFb452s/riq/ZIu69st7lhg/KtxZtFF49rwiHPgSusB9gN6/TfaT66i7GH/swmeg+kbSUowl3k5Adbc/QskNDRGVCAO1ZF4vQ+J4rjkOz/BmQg+5StbHu2Wjai3bdUx9MT0+Idz7OE1buNyhOP/CIpiGXNO9nC3rq1Km8brwRV9p0tSH4oIxgiREYl4RWu6Ht/eiCPOKvfDHeHrD2236+UfFnjDadu9FZqowi8WhgSpPSrQSx4E57I+2+3r4q6LOgxSIwBtIQ+4ZJQjagbwtxo5yMmFcECpk/VHuAOqU=;0Dbrxgnehfc2Brvj6YTeCQ=="
+secured: "zcUj7nAlxGTNSG0id/ZnvHt9Nh0KyYk8joyH8AkEBr760oE4MPQXb2lGxJRK3NKTVMjZZY/g2XfOBSUI1fQHxWCagwxIHiR1HSi/1dow2lyfVcGq4YFUcH0cwIL1ZiQzgfwLQ4OQ1174D63i+jKHfcQ0mdKnkCTStuyeeLDneiyDvZ0dIHnwbdJxVY0RorSSvhDzmb8LOaGevb0euhzGB0hm8I2w6GLSMGm8VCufQaKgGm37SVTdFgqUySJnlJmXL9jBsl8dUnIl1FO92k289GV97KYVScxOJetolmfUX5VTAdTF4mHYjVoHAODwB/KHpW1v7K/yYWOauKLUwFe/B40c7fwz0efxVfHJw1Fg5ewuHLY1R9fA14XIaERDUJkkia+Dkc2yP71/BfGM0LQYl4aQy23+SnsbZsqzNRTwh+WA3tuyluGlCSbPkGvoAkMM6zYl76Lh2rZDU9OcLLYRHqfPAmRPZM5cOAjJE10/P80kU+BWnlASaBAhNcLGA3QuAXaA92TquXPb2ytZ3dGZd1B63EW3FIUXJ3P9CbBJbyMAOB08NvPCwwlSZKM+/Fdh;bFKdN0n4N55Y2JU+Lz13/Q=="
 ---
 

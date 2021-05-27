@@ -2,6 +2,250 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-18-blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect.md",
+      "title": "Blue Prism Announces Comprehensive New Enterprise Contact Center Offering with Amazon Connect",
+      "excerpt": "Blue Prism has a complete library of native integrations with Amazon Textract, Amazon Rekognition, and Amazon Comprehend for out-of-the box integrations. Organizations can quickly scale cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-301293487.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512616/Blue_Prism_Service_Assist.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-less-watching-more-learning-ai-enabling-a-smarter-world.md",
+      "title": "Less watching, more learning: AI enabling a smarter world",
+      "excerpt": "Industries from health care to transportation now leverage vast amounts of video data to deliver business value and improve quality of life.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1196161943.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/less-watching-more-learning-ai-enabling-a-smarter-world/amp/",
+      "publishedDateTime": "2021-05-18T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-insight-recognized-again-as-a-microsoft-security-2020-winner-for-microsoft-azure-security-deployment-partner-of-the-year.md",
+      "title": "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year",
+      "excerpt": "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has been named a Microsoft Security 20/20 award winner for a second year in a row in the Microsoft Azure Security Deployment Partner of the Year category.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=471062",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=471062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd.md",
+      "title": "Artificial raises $21M led by Microsoft’s M12 for a lab automation platform aimed at life sciences R&D",
+      "excerpt": "Automation is extending into every aspect of how organizations get work done, and today comes news of a startup that is building tools for one industry in particular: life sciences. Artificial, which has built a software platform for laboratories to assist with,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
+      "originalUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222705459.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/18/artificial-raises-21m-led-by-microsofts-m12-for-a-lab-automation-platform-aimed-at-life-sciences-rd/amp/",
+      "publishedDateTime": "2021-05-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-ai-redefined-commits-to-better-training-models-under-new-ceo.md",
+      "title": "AI Redefined commits to better training models under new CEO",
+      "excerpt": "AI Redefined (AIR) appoints new CEO as it seeks to drive adoption of its human-centered Cogment framework for training AI agents.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/AIR.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/ai-redefined-commits-to-better-training-models-under-new-ceo/amp/",
+      "publishedDateTime": "2021-05-18T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-sequitur-labs-joins-edge-ai-and-vision-alliance.md",
       "title": "Sequitur Labs Joins Edge AI and Vision Alliance",
       "excerpt": "Sequitur Labs today announced that it has joined the Edge AI and Vision Alliance, a global community of technology providers, leaders and startups dedicated to advancement in AI-powered computer vision and edge technologies.",
@@ -949,239 +1193,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-the-future-workforce-how-conversational-ai-is-changing-the-game.md",
-      "title": "The Future Workforce: How Conversational AI Is Changing The Game",
-      "excerpt": "AI was among the many emerging technologies to take hold in 2021. Companies are using AI to streamline everyday workplace tasks and transform the client experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a2fff5ff2f7cc62ab87605%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/05/17/the-future-workforce-how-conversational-ai-is-changing-the-game/amp/",
-      "publishedDateTime": "2021-05-17T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-research-launches-movenet-with-tensorflowjs-api.md",
-      "title": "Google Research launches MoveNet with TensorFlow.js API",
-      "excerpt": "Google has launched its new MoveNet model with an API for TensorFlow.js to help developers create apps that can track movements. In future updates, MoveNet should be able to track multiple people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
-      "originalUrl": "https://www.neowin.net/news/google-research-launches-movenet-with-tensorflowjs-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621293350_movenet-still_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ethical-ai-is-our-responsibility.md",
-      "title": "Ethical AI Is Our Responsibility",
-      "excerpt": "Similarly, so does Responsible AI. In digital, many things can lead to ethical incidents with AI but we can distill them down to four major causes. So how do we adhere to Responsible AI? A ton of resources are available on this topic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6414197398b9485ea46c91da9ff40d67.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/ethical-ai-is-our-responsibility/amp/",
-      "publishedDateTime": "2021-05-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-researchers-call-for-bias-free-artificial-intelligence.md",
-      "title": "Researchers call for bias-free artificial intelligence",
-      "excerpt": "Clinicians and surgeons are increasingly using medical devices based on artificial intelligence. These AI devices, which rely on data-driven algorithms to inform health care decisions, presently aid in diagnosing cancers,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-call-for-b.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-free-artificial-intelligence.amp",
-      "publishedDateTime": "2021-05-17T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services.md",
-      "title": "US Federal Regulators Add Time to Comment Period on AI and Financial Services",
-      "excerpt": "As was reported last March, five federal regulatory agencies joined in a consultation pertaining to the usage of artificial intelligence (AI) and machine learning (ML) within financial institutions. The Federal Reserve Board,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence-600x784.jpg",
-          "width": 600,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175470-us-federal-regulators-add-time-to-comment-period-on-ai-and-financial-services/amp/",
-      "publishedDateTime": "2021-05-17T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

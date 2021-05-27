@@ -22,30 +22,16 @@ related:
   - title: "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year"
     excerpt: "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor."
     publishedDateTime: 2021-05-26T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 55
+    quality: 38
     images:
       - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg"
         width: 400
         height: 209
-        isCached: true
-  - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
-    excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision"
-    publishedDateTime: 2021-05-27T11:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-301300413.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
   - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
     excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."

@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping"
-    excerpt: "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,"
-    publishedDateTime: 2021-05-24T21:36:00Z
-    webUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362"
-    ampWebUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
+  - title: "Russia has war robots ready, will take out John Connor first probably"
+    excerpt: "Russia developing AI-powered platforms, high-tech weapons including -- announces serial production of combat robots of the future."
+    publishedDateTime: 2021-05-27T00:46:00Z
+    webUrl: "https://www.tweaktown.com/news/79594/russia-has-war-robots-ready-will-take-out-john-connor-first-probably/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79594/russia-has-war-robots-ready-will-take-out-john-connor-first-probably/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79594/russia-has-war-robots-ready-will-take-out-john-connor-first-probably/amp.html"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 102
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
     images:
-      - url: "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg"
-        width: 2618
-        height: 1374
+      - url: "https://static.tweaktown.com/news/7/9/79594_01_russia-has-war-robots-ready-will-take-out-john-connor-first-probably.jpg"
+        width: 620
+        height: 348
         isCached: true
-  - title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
-    excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
-    publishedDateTime: 2021-05-24T18:43:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 35
-    images:
-      - url: "https://www.armytimes.com/resizer/50cKkI-h56CsIkoM65q7J7Fl6bk=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/XCNUTPI7ZFAO7OK4ICXENPKE2Y.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Autonomy in Russia"
-    excerpt: "As Russian leadership attempts to come to terms with technology's impact on its military power and role in the world, artificial intelligence and autonomy stand out as an area of particular growth and"
-    publishedDateTime: 2021-05-25T03:58:00Z
-    webUrl: "https://www.realcleardefense.com/articles/2021/05/25/artificial_intelligence_and_autonomy_in_russia_778579.html#!"
-    type: article
-    provider:
-      name: RealClearDefense
-      domain: realcleardefense.com
-    quality: 17
 
 secured: "yuebIRkTXK9fWThA6EouWl2cWgvXUcbORImanv0LEtlyHwlHCBZmHX9nT+VfND+1u16mxwiZ67vL2xVoClPi4Z/EAoujhRBz2nKPAYcosMarfSoXKogY9nMnmQEF+yTdKwCx+wB2JEKoLN6SstTTMPhEFvEahArlnjOzZq8G2hlAc1hQm/bdnjAR6D2zGm5V9gGvKu8gXDTGa6a4rG9xDl/o0FQm09RWsNPPnITewnk+HBJQgLsUD1xQjHtS5mlVWk3fH6kHGv7JVybmjNAhhC8UrZ1FQ7VUOpbBCaw4lAie9QIQN9bTLk+XHyiW0FbSE+azCTXSPjjV6Txa1ohbkzuWyIfiIfKfHoBLtkizcGk=;zymSyd6etZmvfojV/PABRw=="
 ---

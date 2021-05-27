@@ -1,27 +1,31 @@
 ---
 category: news
 title: "The world's smallest fruit picker controlled by artificial intelligence"
-excerpt: "Inspired by insects that suck nutrients directly from plant veins, physicists have studied whether valuable chemical substances can be harvested directly from the cells of plants. Using a harvester measuring only a few microns,"
-publishedDateTime: 2021-05-26T16:52:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/05/210526115531.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/05/210526115531.htm"
+excerpt: "The goal of Kaare Hartvig Jensen, Associate Professor at DTU Physics, was to reduce the need for harvesting, transporting, and processing crops for the production of biofuels, pharmaceuticals, and other products."
+publishedDateTime: 2021-05-26T14:41:00Z
+originalUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html"
+webUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.html"
+ampWebUrl: "https://phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-world-smallest-fruit-picker-artificial.amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
-secured: "DMWvvs3+Mz3At9bWKvNIsu46aWWI3seeO0pLqGB37H7TUo0XfLz5cruaL6jKgDKL3TpX2jRiwJEs3AzFII+yT8qyefhgiXaa/WjNVv3tiV7koGZTRxN9uARkzA7JS532MhhCowSSaqkzf3CdeqeI/23Ep8FnQLkzpiiulyjc4c0W7OGq0u7inIiKK3SjUD0cYPo5RcsGXz6NXqpTDJG1JRq3EKMpcMsmKXuB/Rmjk2Q7ppSHYY7UHZW5QBuM70ckAUlCvdtKkIFHDlZu5TOFZA7epi+yE0ZE/AdmdBZJ+PLCZcRSW93SL/gAX1yOtg+eKdVdJ8IbhJ0360MemBHUkhbov6p8AHmCk9GXwT/eLUY=;TB7rwj9coCHlB39RpB7tpg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-worlds-smallest-fr.jpg"
+    width: 1440
+    height: 1440
+    isCached: true
+
+secured: "DWFjkrtQ2+sKJ0Ac6jbLHFkJro2exW7tmk2fz3DxsijeBAGNFJOEzxG+kqrRwdpa1XAlUXBREuhoprNRJRO1vsGa87QxH7lrYugZVZFlyI2VB0fIsp5bUTcg9boJxmDrXllugkoEV51Y3UqxTmVPblQix7w643UroAT1qT8WG+JxOtwGW1mA2tJR3nxIa8q8o1/CYNdM+hyPnYEGJ3RPOinKdwihfMKI61J5GHGMJYXH2TNvS0iA7JNjG1S1n3OK+nshqaHzQP2uvIb8c02yRdJzMKOA6v7IuwoFRbdCIIP+IffMPAf17tb5esFKnGm+3HEzRowT7kGBwG7IO/S0ePvfNVUw6k5UMKBOv5RVOLQ=;KSXruMhTccOyABxGmEffBQ=="
 ---
 

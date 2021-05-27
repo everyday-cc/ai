@@ -2,6 +2,247 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-10-artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice.md",
+      "title": "Artificial Intelligence Is Developing A Sense Of Smell: What Could A Digital Nose Mean In Practice?",
+      "excerpt": "Is it possible to teach machines to smell? You might be surprised to learn that we’re already doing it? Find out how digital olfaction mimics real human odor detection, and how this tech is being used in today’s business world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6098b3bc2cd0e76d77a5e166%2F0x0.jpg",
+          "width": 1199,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/10/artificial-intelligence-is-developing-a-sense-of-smell-what-could-a-digital-nose-mean-in-practice/amp/",
+      "publishedDateTime": "2021-05-09T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-behavioural-and-cognitive-psychotherapy.md",
+      "title": "Behavioural and Cognitive Psychotherapy",
+      "excerpt": "This was a multi-site evaluation of psycho-educational transdiagnostic seminars (TDS) as a pre-treatment intervention to enhance the effectiveness and utilisation of high-intensity cognitive behavioural therapy (CBT). 106 patients across three services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/firstview",
+      "originalUrl": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/firstview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/services/aop-file-manager/file/56ab7c9d40b4e47e0c389966",
+          "width": 512,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-mega-man-11-review-i-hate-bounce-man.md",
+      "title": "'Mega Man 11' Review: I Hate Bounce Man",
+      "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "originalUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-the-startup-born-from-googles-self-driving-car-project-plans-to-automate-semis-meet-the-leaders-behind-it.md",
+      "title": "The startup born from Google's self-driving car project plans to automate semis. Meet the leaders behind it.",
+      "excerpt": "Insider talked to three of Waymo Via's top leaders about the company. Trucking is an $800 billion business in the US, so the opportunity is huge.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/5f17ab202618b9121c5778d3?format=jpeg",
+          "width": 790,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-uber-launches-new-toronto-based-autonomous-vehicle-research-hub.md",
+      "title": "Uber launches new Toronto-based autonomous vehicle research hub",
+      "excerpt": "The company announced this week that it will be launching a new research hub in Toronto focused on developing artificial intelligence (AI ... announcement comes amid Uber’s legal battle with Waymo, the company that runs Google’s self-driving car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
+      "originalUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/05/uber-toronto-e1494445629969-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
+      "publishedDateTime": "2021-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-cogniflare-unveils-data-management-and-catalog-platform-for-google-cloud.md",
       "title": "Cogniflare unveils data management and catalog platform for Google Cloud",
       "excerpt": "Cogniflare plans to add connectors that will extend Kyra’s data management reach into the various cloud services provided by Microsoft and ... In addition, Cognitive is working to give Kyrah ...",
@@ -963,240 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture.md",
-      "title": "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture",
-      "excerpt": "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/",
-      "publishedDateTime": "2021-05-07T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-global-natural-language-processing-market-2020-to-2026-by-component-deployment-mode-type-application-vertical-and-region-researchandmarkets.md",
-      "title": "Global Natural Language Processing Market (2020 to 2026) - by Component, Deployment Mode, Type, Application, Vertical and Region - ResearchAndMarkets.",
-      "excerpt": "The Global Natural Language Processing Market was valued at $11.82 billion in 2020 and is projected to reach $53.08 billion by 2026. Rise in usage of voice assistants, availability of large volume of datasets and increased engagement on social media platforms are the primary factors for the growth of the Global Natural Language Processing Market in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=465764",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=465764",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-microsoft-surface-duo-review-beautiful-hardware-terrible-software.md",
-      "title": "Microsoft Surface Duo Review: Beautiful Hardware, Terrible Software",
-      "excerpt": "I’ve been a huge fan of the Surface devices ever since I first got the original Surface Pro after waiting in line during a snowstorm at the Microsoft ... take up too much cognitive energy ...",
-      "sourceUrl": null,
-      "webUrl": "https://pocketnow.com/microsoft-surface-duo-review",
-      "originalUrl": "https://pocketnow.com/microsoft-surface-duo-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2020/09/SurfaceDuo_AZL3448.jpg",
-          "width": 780,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks.md",
-      "title": "Artificial Intelligence Ranks Moderna And IBM Among Trending Stocks",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified Moderna and IBM among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001ebea375c531889c54471%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "publishedDateTime": "2021-05-07T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-cybergangs-connected-to-russian-intelligence-cisa-on-fivehands-scripps-cyber-incident-insecure-routers-ryuk-vs-research.md",
-      "title": "Cybergangs connected to Russian intelligence. CISA on FiveHands. Scripps cyber incident. Insecure routers. Ryuk vs. research.",
-      "excerpt": "Signs of cybergangs' connections to Russian intelligence. CISA analyzes FiveHands. Scripps cyber incident. Insecure routers. Ryuk vs. research.",
-      "sourceUrl": null,
-      "webUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/88",
-      "originalUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/88",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thecyberwire.com/images/social-media/2021/05/cw-briefing-050721.jpg",
-          "width": 2640,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Wire",
-        "domain": "thecyberwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/05/27/1025453/artificial-intellig
 ampWebUrl: "https://www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/amp/"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/0511-final.jpg?w=3000"

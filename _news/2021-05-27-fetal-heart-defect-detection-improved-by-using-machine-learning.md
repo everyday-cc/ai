@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1289
         isCached: true
-  - title: "UTSA researchers among collaborative improving computer vision for AI"
-    excerpt: "Researchers from UTSA, the University of Central Florida (UCF), the Air Force Research Laboratory (AFRL) and SRI International have developed a new method that improves how artificial intelligence learns to see."
-    publishedDateTime: 2021-05-26T08:22:00Z
-    webUrl: "https://www.utsa.edu/today/2021/05/story/jha-sumit-AI-computer-vision.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 54
-    images:
-      - url: "https://www.utsa.edu/today/2021/images/ai-machine-learning_780.png"
-        width: 780
-        height: 350
-        isCached: true
 
 secured: "MQOzU6pIPu4OcAr1yXX6FVEiJGCTuMF+1KYddvPaxoz4fnZck1rYZ5sVTtx9WLy9MyevW9FhslumH/NmNscf0yJBcEgFQ0AsO2qgI5XOvCHSy37TpQ5RlmUS+fB6335F6m0ViFW4OIeL2vJtSmoBLlgaTDVgK9MMQB2h6EjwHxy8xojOhPg9aqXK2DOvnMj7mB/2c32+onK1E0a9CJOC4PeFbfuYCw6QhSDjc35XteLTbK3TvJIBFXiPi9XGPY60/JchkCxES1+QcK0s5ffMvL61wgcCCNpScUnicJA43awrdmxaM0F4i9pmzfz6Yj1EgMCgjUkpjPJvHPqTOogUDvxjiMRwqiwWISVX5YaypV2FZn79e7gcCc/xfhyttbEpxuLgV0a72SD4s7RuA9OqPIvqzI3WVgttGh6tuCPTZK+AzuPsRZRNfjaTIjqNooQSqlUD5oVQRBvJUAkPXonScmDIRy4ZFZ+zoO/HCjOnkbGIk2Q4NWA8PxnghdBAm0tY6GM7F59n/VUwIQT29+zn8w==;a22KT3dfDQt/cwVJxCsb7w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/deepmind-loses-negotiations-with-google-more-
 webUrl: "https://techstory.in/deepmind-loses-negotiations-with-google-more-autonomy/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind lost a yearlong bid of asking more independence from Google"
-    excerpt: "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor"
-    publishedDateTime: 2021-05-22T20:42:00Z
-    webUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
-    ampWebUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
-    cdnAmpWebUrl: "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
-    type: article
-    provider:
-      name: Micky
-      domain: micky.com.au
-    quality: 59
-    images:
-      - url: "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg"
-        width: 741
-        height: 486
-        isCached: true
   - title: "Google calls off Deepmind talks"
     excerpt: "We don't want free-thinking here Senior managers at Google artificial-intelligence unit DeepMind have been negotiating for years with the parent company for more autonomy. The arm wants an independent legal structure for the sensitive research similar to the one used by nonprofit groups."
     publishedDateTime: 2021-05-24T10:33:00Z
@@ -68,6 +52,20 @@ related:
       - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg"
         width: 1278
         height: 724
+        isCached: true
+  - title: "Google Turns Down DeepMind’s Autonomy Bid"
+    excerpt: "AI research lab DeepMind’s reported attempt to get more autonomy from its parent company Alphabet has fallen flat. As per a recent Wall Street Journal report, DeepMind’s team has been negotiating with the tech giant for two years now."
+    publishedDateTime: 2021-05-27T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/google-turns-down-deepminds-autonomy-bid/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/DeepMind.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "OYvXQKTf8ggvWbWEaSc7eCHYpOZm2ZwXbu4m8cZ7N47YlhHqmVKAm4Ruv+YkDrkxVEvmeyI1t4kEifT5/jy4Y3wsolBit2UQZkih1C8Ja1hmVM2q+/8kcnN0lboN/E+ZZnqx0agezYdRxxzZWgwNacdwF28bgI6jyO2oCb90GSZdP0MmOZ67nL2vcKXuWzLp/DpmeucUr1xivCZogT9xwishRoAgE8vK3qr64WG2YGcCbbmeB+Co8r2wmsXQhKAKsNICWoEsA96cDqqQ+8N/ZtgdwDEctaAF9OkiS0oIs3gTDvHnrSfawhtyElM0wk2/qTU25PGG3uM9ndI2/WccxEDOi42A6Mtngr16HCwMtsBh0OLxmpegfUNPnrXf/b1JGRdci7K6bmHsQTGNQP4tEAFGC/3xNAw8/nyLURDFfZaTyiiCDkjJGa70nyZxewQVXb7d0K5Z0x5HqcPP7YNIYrXDkcAGu/+aPNaZdVxDfKY8/CQCo/L2ZJ5m6wv3stk+MMNAcoO8i6Tf5zf8gow8sw==;zk5YRrDKn0nocHP1xAvUvQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/05/is-ai-disrupting-enhancing-asset-management.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Virtual event: How artificial intelligence is transforming health care"
+    excerpt: "Reporters Casey Ross and Erin Brodwin examine the possibilities and pitfalls of artificial intelligence, and offer recommendations for best practices."
+    publishedDateTime: 2021-05-27T13:30:00Z
+    webUrl: "https://www.statnews.com/2021/05/27/virtual-event-how-artificial-intelligence-is-transforming-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/plugins/stat-lazy-load/images/330x400-00000000.png"
+        width: 330
+        height: 400
         isCached: true
   - title: "How is the Adoption of AI Helping the Gaming Industry?"
     excerpt: "How is the Adoption of AI Helping the Gaming Industry?  - Game developers will most likely work to completely incorporate AI into a game's structure in the future to learn"

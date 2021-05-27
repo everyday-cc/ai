@@ -2,6 +2,246 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-05-us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again.md",
+      "title": "U.S. chip startups, long shunned in favor of internet bets, stir excitement again",
+      "excerpt": "Silicon Valley venture capitalists, long focused on software and internet companies, are again pouring money into the semiconductor industry, lured by the promise of a new generation of artificial-intelligence chips that could challenge incumbents like Intel Corp and",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S",
+      "originalUrl": "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210505&t=2&i=1560981592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH440J4",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2CM10S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2CM10S",
+      "publishedDateTime": "2021-05-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
+      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
+      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-fast-companys-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category.md",
+      "title": "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category",
+      "excerpt": "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/apply/world-changing-ideas",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fast-company-s-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category-1030391333",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-how-to-build-compliance-into-ai-projects.md",
+      "title": "How to Build Compliance into AI Projects",
+      "excerpt": "Dana Rao, General Counsel and Corporate Secretary at Adobe, presents a case study on how to incorporate AI into compliance projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-projects/C551F757-57C3-4317-B799-22AE672561BB.html",
+      "originalUrl": "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-projects/C551F757-57C3-4317-B799-22AE672561BB.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20210505/050521rc7casestudy/050521rc7casestudy_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-an-artificial-neural-network-joins-the-fight-against-receding-glaciers.md",
+      "title": "An artificial neural network joins the fight against receding glaciers",
+      "excerpt": "What makes a neuron? In the 1940s, at the dawn of the computer age, researchers gave the word a second meaning. In the case of neural networks, the artificial neurons comprising them are more simple than one might expect: structure a unit of code to take in information,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.html",
+      "originalUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/an-artificial-neural-n.jpg",
+          "width": 637,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-neural-network-receding-glaciers.amp",
+      "publishedDateTime": "2021-05-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health.md",
       "title": "What We Can Learn From AI Healthcare Initiatives Like Watson Health",
       "excerpt": "Healthcare professionals aren't going to rely on AI as a decision-maker. Rather, they might use AI analysis as a tool integrated into their workflow.",
@@ -943,212 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp",
-      "publishedDateTime": "2021-05-05T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-correction-extracting-family-history-information-from-electronic-health-records-natural-language-processing-analysis.md",
-      "title": "Correction: Extracting Family History Information From Electronic Health Records: Natural Language Processing Analysis.",
-      "excerpt": "Either your web browser doesn't support Javascript or it is currently turned off. In the latter case, please turn on Javascript support in your web browser and reload this page.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/33939618",
-      "originalUrl": "https://europepmc.org/article/MED/33939618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-gene-therapy-in-alzheimers-disease-mouse-model-preserves-learning-and-memory.md",
-      "title": "Gene Therapy in Alzheimer’s Disease Mouse Model Preserves Learning and Memory",
-      "excerpt": "Novel gene therapy treatment prevents learning impairments and memory loss in mouse models of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
-      "originalUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/05/alzheimers-gene-therapy-neurosciences-public.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
-      "publishedDateTime": "2021-05-04T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025.md",
-      "title": "At 36% CAGR, Artificial Intelligence (AI) Market Size and Forecasts Research Report up to 2025",
-      "excerpt": "Market Forecast Report provides details analysis of Artificial Intelligence (AI) industry which will accelerate your business. Artificial Intelligence (AI) market report covers the current state of business and the growth prospects of the worldwide Artificial Intelligence (AI) Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-driverless-taxis-are-now-operating-in-beijing-china.md",
-      "title": "Driverless taxis are now operating in Beijing, China",
-      "excerpt": "There are now fully autonomous taxis operating in China. This was made possible thanks to tech giant Baidu who recently launched the self-driving taxi service. Called the Apollo Go Robotaxi, the autonomous transport is currently seeing service in Beijing’s Shougang Park - one of the venues for the 2022 Bejing Winter Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china.html",
-      "originalUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoindustriya.com/images/posts/post20065.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china/amp",
-      "cdnAmpWebUrl": "https://www-autoindustriya-com.cdn.ampproject.org/c/s/www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china/amp",
-      "publishedDateTime": "2021-05-04T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AutoIndustriya.com",
-        "domain": "autoindustriya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -30,20 +30,45 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Software Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Sales, Profits & Analysis"
-    excerpt: "As per the new study published by Data Library Research, titled, “Voice and Speech Recognition Software Market by"
-    publishedDateTime: 2021-05-24T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2021-leading-growth-drivers-emerging-audience-segments-sales-profits-analysis-2021-05-24"
+  - title: "Artificial Intelligence In Healthcare Market Outlook, Size, Forecasts, Demand, Competitive Analysis, Growth Factors, And Key Players"
+    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
+    publishedDateTime: 2021-05-25T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
+    publishedDateTime: 2021-05-25T05:39:00Z
+    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
+    publishedDateTime: 2021-05-25T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "H6XT3+UX8qp1+S87J9M28tBRmh0JocLh+2fxw+7cKtVE3ysd4IXnb0Jg7UtKKW7mv1dp+tATCsppAGp18opsv0spn0LUAjWRkpwOai8wgFUXp5LuUqOXVx3may6r75oKpATE41ztBs3ch+dz3rOfPa4+Gyifk5sINt8W3sqMWVePWW1QljlvJ6ZQm3pvpTdjoo++bFRvyDM4PADnyyJumSE1icAXnyThz+eWQQlcFmRlVbKh/Vowfc5xI9iQP/qJrBq+yWAP47/UZlS09p+AyC4sGQv1DRw7VJJi1UUMNFzmKrwB4RHxKQnMHaISkih2O5Bb/w2EZGtv6FRC8nY/AyWepVaOr0IH7Dv1rGtnUgk=;4v2tPVjwha9c4R4HXeDHwQ=="
 ---

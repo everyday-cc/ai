@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind lost a yearlong bid of asking more independence from Google"
-    excerpt: "Tension and conflicts between Google and its AI brain firm, DeepMind, are always fascinating and exciting to watch. Talking about both these companies' histor"
-    publishedDateTime: 2021-05-22T20:42:00Z
-    webUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
-    ampWebUrl: "https://micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
-    cdnAmpWebUrl: "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/deepmind-lost-a-yearlong-bid-of-asking-more-independence-from-google/"
-    type: article
-    provider:
-      name: Micky
-      domain: micky.com.au
-    quality: 59
-    images:
-      - url: "https://micky.com.au/wp-content/uploads/2021/05/maxresdefault-2021-05-23T054124.063.jpg"
-        width: 741
-        height: 486
-        isCached: true
   - title: "DeepMind loses negotiations with Google for more autonomy"
     excerpt: "DeepMind, the unit at Google Inc. dealing with Artificial Intelligence, has lost in its attempts to coax the leaders at the parent"
     publishedDateTime: 2021-05-23T06:56:00Z
@@ -68,6 +52,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d6d4bc3c0e7fc7de1e3fc7765480cb4e_L.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Google Turns Down DeepMind’s Autonomy Bid"
+    excerpt: "AI research lab DeepMind’s reported attempt to get more autonomy from its parent company Alphabet has fallen flat. As per a recent Wall Street Journal report, DeepMind’s team has been negotiating with the tech giant for two years now."
+    publishedDateTime: 2021-05-27T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/google-turns-down-deepminds-autonomy-bid/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/DeepMind.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "tVBsFEW08cH6k80+X0+FStK+oIZYlzXyqYQLkUWpXoWlneB80ArUltzqtUgfE/JPj5uO4zzagzvFcDnBmW7UsUr2LjueVlYy4BcfGjTXJMZj1uGhD+iY+/tG4+Rc9jrcv7rlxGYMF0F++ZXAvdO0QzxDTSU4x8vHVqWEraRoBqHHCmIyu1OexGPNObsWD5kMgA8YR+MhsGkueK6CnA7AyPczxiktUvlh7wNqc8k+CYWgfwAtQx3lEf/meBTtvd6eE+afm+cMCLrFKLN2WKrKGw4z4mjgq9WljrGeUDDedM28oyuChQWP8j+jSPbDnnHA+RQwb+L6MVgCtiNdABVQ7ydxXH2AZvCiH6afi1tiV74=;Fe9aezQWc7Mih+1YCj5U7w=="

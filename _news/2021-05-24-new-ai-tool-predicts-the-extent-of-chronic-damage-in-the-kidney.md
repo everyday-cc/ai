@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210524/New-AI-tool-predicts-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210524/New-AI-tool-predicts-the-extent-of-chronic-damage-in-the-kidney.aspx"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: News Medical
@@ -41,6 +41,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/kidney.jpg"
         width: 2880
         height: 1620
+        isCached: true
+  - title: "Artificial intelligence system can predict the impact of research"
+    excerpt: "Scientists say the system could be used to find 'hidden gems' of research and guide research funding allocations"
+    publishedDateTime: 2021-05-27T13:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/artificial-intelligence-system-can-predict-the-impact-of-research/4013750.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 37
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/9/4/513494_shutterstock_1011271585_561510.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "YohDJgJFLXScGBHKwMPKvqQ91UwB5i2v8cIQjzKpwuZRIJ1xhN6mnKtaGAo4ia1gYYVewfvs/gNSl6t2MlFRH81mS2tO+4yg2+P8IukX/bRhh76/+CiHXJwSLipA1OVXrLoNGO7Mt4PNwfAOzORgADEqre2dZLyITdeVa5/SUaF51DDm/JxNTWM9n1XLrPjHyXoTUiAK/zdVs/DfEp7vWtWV2hr6mdqAuj2w3xOkaVNXWlWLUioaNQvRJOM76J1/40wKsaDYd03z0/v9VjWAY9eevtwbsUWbs/ri2kmChzfi2NPd9AI8Ptqs0gbbZtMe5HVpTS5g8qBgG4EX6PBuneZsAaPRck9vpXOAdew3yvU=;Cq+bXEUMsN8BwZvRmhjPJg=="

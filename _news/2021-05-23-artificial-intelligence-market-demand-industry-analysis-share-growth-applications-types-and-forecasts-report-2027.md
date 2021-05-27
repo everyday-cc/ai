@@ -25,30 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Harness the power of data and AI in your applications with Azure"
-    excerpt: "Our commitment to developers is to make Azure the best cloud for developing intelligent applications that harness the power of data and AI. At Microsoft Build, we are announcing several exciting new capabilities and offers that make it easy and cost-effective for developers to get started with Azure"
-    publishedDateTime: 2021-05-25T08:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/harness-the-power-of-data-and-ai-in-your-applications-with-azure/"
+  - title: "Autonomous Cars Market to Witness Remarkable Growth Through the Forecast"
+    excerpt: "Autonomous Cars Market is anticipated to exceed 60 million units by 2024. The market is driven by the increasing R&D activities for the development of self-driving technology. The automakers around the world are implementing various strategies to accelerate the innovations in the self-driving vehicles landscape."
+    publishedDateTime: 2021-05-24T03:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "7 weird and wonderful applications of artificial intelligence"
-    excerpt: "Backed by technology investors including Tej Kohli, we believe that AI has the potential to positively impact every segment of economic activity and to improve every aspect of human life. Here we reveal seven weird and wonder applications of artificial intelligence,"
-    publishedDateTime: 2021-05-26T16:05:00Z
-    webUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/"
-    ampWebUrl: "https://www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/7-weird-and-wonderful-applications-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 63
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/05/Flippy_Grilling1-scaled.jpeg"
-        width: 1600
-        height: 899
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Vision Screeners Market: Growth, Trends and Forecast to 2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
+    publishedDateTime: 2021-05-25T07:45:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-25/global-vision-screeners-market-growth-trends-and-forecast-to-2029"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "J/AhJq0vkhx2cG5eHV1/ELFGT2npJ3XnZMQWyhvoendvuVef3ZP5BdabWTMVjr8TKBfVFoK3uKlSh0R62/x3ZuuhT/gX733Ml8ibjUo7tAJkbInNFMJY/tjp3i9Zwzwt3oGCUdrMug3MI+yr4FDEgK9Ade7JOO826qRqK3EKiLw33nANgb9GGvzBMaIzZy9oV72QC/s9/N5TweBzK5JK7KNMFF5Q01RCvU+4tvvz5DyXz0WdcVqFqTgEaIbwKvi36PVhwKFmNCWsKfvwaQZ8/YwV8OA7tgBhq9ji50+iryvWk78rJjra7+2aaoF5bWYR05KDh8b+k8X6XktomxQMGMWUHay8HWXdx9DDCuvJEF0=;mcyvfOCDTeIH5isMxFbAVw=="

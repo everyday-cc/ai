@@ -60,6 +60,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "How to improve cybersecurity using machine learning and applied data science"
+    excerpt: "Cybersecurity prevents infiltration and data breaches while saving your business from the heavy financial impacts of cyberattacks."
+    publishedDateTime: 2021-05-27T12:38:00Z
+    webUrl: "https://knowtechie.com/how-to-improve-cybersecurity-using-machine-learning-and-applied-data-science/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 36
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2018/10/tls-connection-security-1000x600.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "vyqpaktXXm8Dt6sI5YEmzS6ztUbFblAMKL4wkRr+TN+ojjs1noJenPpFxBqVEwFEHn5v/S6J42I6uTArsbqxS2n9RNLGsPWxwZipzRb+tFSype+TlfgIF64vy3chXweRdOE+FB35SpWrd7eU7bl6p3pcG+kE7VtyApFt7+5fNg0OnaIpwc/cPtMk7UTQKfiANOz2Aw2tcUAzlkGS+tIaDrkpyEu5s9ToKPQ10VrQ1akM5oxKfM8xXoCNb0jkajmORAy9E1r4MoUjE4lh+0faBa99MU0fb6UyGCtsruoTmpXp3oIyWOKPBt9CHYhNVM0WgRupfKep9yCJes1j4/WZb71RgYmWKzey1Nz8vRQYnhg=;dmNouKF5dEU2rNznezpBMQ=="
 ---

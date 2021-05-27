@@ -2,6 +2,240 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-19-baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars.md",
+      "title": "Baidu Awards Contract to Hesai for Customized Lidar Sensor That Will Power Its Self-Driving Cars",
+      "excerpt": "Baidu Apollo and Shanghai-based laser guidance system developer Hesai Technology have clinched a deal in which Hesai will produce a lidar sensor tailored to Baidu’s fifth-generation driverless vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-05-19/1621415590045976_560_373.jpg",
+          "width": 560,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-revamps-its-cloud-based-machine-learning-platform-yet-again.md",
+      "title": "Google Revamps Its Cloud-Based Machine Learning Platform Yet Again",
+      "excerpt": "With Vertex AI, Google not only unifies its AI offerings but also closes the gap with similar offerings from its key competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a4bfc594b2b134fb5ea400%2F0x0.jpg",
+          "width": 1000,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "publishedDateTime": "2021-05-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning.md",
+      "title": "Forecast nabs $19M for its AI-based approach to project management and resource planning",
+      "excerpt": "Project management has long been a people-led aspect of the workplace, but that has slowly been changing. Trends in automation, big data, and AI have not only ushered in a new wave of project management applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/",
+      "originalUrl": "https://techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1216508343.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/amp/",
+      "publishedDateTime": "2021-05-19T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas.md",
+      "title": "Google I/O 2021: An AI model to diagnose dermatological dilemmas",
+      "excerpt": "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/",
+      "originalUrl": "https://www.zdnet.com/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/7e5f14e9-7437-4a6b-b8ed-3e78346e812c/google-skin-ss.png",
+          "width": 419,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas/",
+      "publishedDateTime": "2021-05-19T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365.md",
+      "title": "Vectra Identifies Top 10 Threat Detections Across Azure AD and Office 365",
+      "excerpt": "Vectra AI, a leader in threat detection and response, today released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210519ny82777/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210519ny82777/vectra-identifies-top-10-threat-detections-across-azure-ad-and-office-365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-martech-startup-affableai-raises-2-million-in-latest-funding-round.md",
       "title": "Martech startup Affable.ai raises $2 million in latest funding round",
       "excerpt": "Singapore-based Martech startup Affable.ai has raised $2 million from Prime Venture Partners, Decacorn Capital, and SGInnovate. Affable’s AI-driven, Self-service SaaS platform helps brands and agencies run high-impact influencer marketing campaigns.",
@@ -956,265 +1190,6 @@
       "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
       "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
-      "title": "Google details new AI accelerator chips",
-      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-googles-new-ai-technology-could-make-assistant-more-human-like.md",
-      "title": "Google’s new AI technology could make Assistant more human-like",
-      "excerpt": "Google is developing LaMDA technology that could lead to more natural Assistant conversations. It responds with logical, consistent answers rather than raw data. The technology is still quite early. Unlike with typical AI language models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
-      "originalUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-IO-2021-LaMDA-in-action-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
-      "publishedDateTime": "2021-05-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective.md",
-      "title": "What’s In Store For The Next Generation Of AI? The Jaseci Perspective",
-      "excerpt": "The way we articulate solutions to problems in computer science has not fundamentally changed in decades and we’re hitting a new ceiling with the unique complexities that come with building sophisticated AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a40b4d033264ba316a2ebd%2F0x0.jpg",
-          "width": 1199,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
-      "publishedDateTime": "2021-05-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-tackling-tuberculosis-screening-with-ai.md",
-      "title": "Tackling tuberculosis screening with AI",
-      "excerpt": "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
-      "originalUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
-      "publishedDateTime": "2021-05-18T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-using-ai-to-help-find-answers-to-common-skin-conditions.md",
-      "title": "Using AI to help find answers to common skin conditions",
-      "excerpt": "Artificial intelligence (AI) has the potential to help clinicians care for patients and treat disease — from improving the screening process for breast cancer to helping detect tuberculosis more efficiently. When we combine these advances in AI with other technologies, like smartphone cameras, we can",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/ai-dermatology-preview-io-2021/",
-      "originalUrl": "https://blog.google/technology/health/ai-dermatology-preview-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/derm_-_hero_image_2_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/ai-dermatology-preview-io-2021/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-dermatology-preview-io-2021/amp/",
-      "publishedDateTime": "2021-05-18T11:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

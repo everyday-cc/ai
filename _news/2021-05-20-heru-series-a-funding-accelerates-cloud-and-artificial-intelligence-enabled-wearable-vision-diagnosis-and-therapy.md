@@ -2,26 +2,19 @@
 category: news
 title: "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy"
 excerpt: "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform."
-publishedDateTime: 2021-05-20T13:13:00Z
-originalUrl: "https://www.lelezard.com/en/news-19817130.html"
-webUrl: "https://www.lelezard.com/en/news-19817130.html"
+publishedDateTime: 2021-05-20T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AWS AI
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "fi7MTJSiSWPZnqfzyT2xwEqHpBhM+TvuvyIUS/jn4w+RgROJJDltewXG8f8sPkmpjtwb1EfFWuTMPr1+gPbdKkbnN8L61OWLFoAROynGcqIaML5/hxAQLKN/80kjzGk9vpWmE53MaTjjgPtuL+y4cgbP3DxPCWKI4ux0ux4Dv4weLCFBI2zY2O2wvd548lGgwTj/0cMjRswo/6k3cbG8OHYcKT73LNS/5LckuVE/UOcExtximFs+RQ0LIbS1AXOuO7H1va00a9DO1qdVBPRN9rEb3xyL/MgC/Gh31W6HMc5OORI8Bm8WUXTyLUAMkRgFVmAaQAZII42nEcyE/W+4mfus//6DXvxoyTEUpjlr3pw=;QNmf7OeCmx/N7GNZ9MRWYA=="
+secured: "FjnY5gOeno9KGYP1cj6DNEW7kiNXcfcWVvKwnILHKUQB47r42W3QUqwR3zt579wxrIOB3JpoWC+1koHkNG3Y+ejaZFQcMJgyEgj1DnsxoALNMSqU2fpA2WWsR4tw4wCCaOJ0p9zXi6UR1DCdnzGr7+boankPqEqRHWwSLBbKJsEH1dqLNW/28oBiSNOMrlmqtAT9Iv2HRNe1pi4T7N4n/CtxJVmjMJ+mjbFK690GgHMQ89Kr/Cr8kpzHSYyVbuZIM5FABlNEKBOpLZvUsrMzFEbhw2VuCT3lnZga53ODA4iY5Ty6vETYnZhAJl1bh8ozhneqhrx3jGGV7e0MbjBGZiRIewZYbLqDyPwbYz6+Eec=;GRdJ1vt/rPxQFyqXrewjnw=="
 ---
 

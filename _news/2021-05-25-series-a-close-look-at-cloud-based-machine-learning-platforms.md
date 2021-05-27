@@ -36,7 +36,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.thenewstack.io/media/2021/05/1d6c616b-opera-594592_640.jpg"
         width: 640

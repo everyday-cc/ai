@@ -27,6 +27,15 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 14
+  - title: "Tellius Enhances AI-Driven Decision Intelligence Platform with Proactive and Personalized Insights"
+    excerpt: "Tellius, the AI-driven decision intelligence platform, today announced a series of major feature improvements designed to help businesses accelerate their analytics journey beyond dashboards to make better data-driven decisions."
+    publishedDateTime: 2021-05-27T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tellius-enhances-ai-driven-decision-intelligence-platform-with-/2021/05/27/9379451.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "GQV3pFOAk4Ud1d7UDRz/s0VQIa/GRE7ksKLkcBB2n4vxo8imBS0+A5onrS2np4BguhQXqc0ZJANAdycY2mmYMe5Q0Q0MkysnS5v39fep5Ziu7pUZcXd5wKtXu153KQaxLZn9BsCCauFg0MbXwtcIPP9BZTevtPD/vT73cXn0gXyERSSYh4IDLuNckT1XTwbtSfz71vN0CBo+J4OKMYsfDCo0BFxtOMUdRhBP5h4eT6LuHD3q1xxWZm81VMIaUGfKcAiZrlUSdYbp9g0wwTVLOuRY6KW1nxN6OGhfNjgjr6rFR/1SYW31rFbbRFS7sax26TjWAN/3mcfJv8ZlFqiBW5aF69+ZeMzh3DXK3NwiLpw=;4dM/ACYRQwi+5v1793l11g=="
 ---

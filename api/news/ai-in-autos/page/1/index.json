@@ -413,6 +413,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-24-autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast.md",
+      "title": "Autonomous Cars Market to Witness Remarkable Growth Through the Forecast",
+      "excerpt": "Autonomous Cars Market is anticipated to exceed 60 million units by 2024. The market is driven by the increasing R&D activities for the development of self-driving technology. The automakers around the world are implementing various strategies to accelerate the innovations in the self-driving vehicles landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-23T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash.md",
       "title": "Self-driving cars pose crucial question: who to blame in a crash",
       "excerpt": "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ...",
@@ -1411,50 +1463,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-tesla-crashes-bitcoin-microsoft-azure-ditches-blockchain-and-more-in-this-weeks-top-news.md",
-      "title": "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News",
-      "excerpt": "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
-      "originalUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

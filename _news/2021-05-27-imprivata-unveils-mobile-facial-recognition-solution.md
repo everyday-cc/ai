@@ -39,20 +39,6 @@ related:
         width: 610
         height: 335
         isCached: true
-  - title: "NGOs file complaints against US facial-recognition firm"
-    excerpt: "A group of digital rights organisations on Thursday filed legal complaints against the company Clearview AI -which uses facial-recognition to have \"the largest known database of 3+ billion facial images\"."
-    publishedDateTime: 2021-05-27T05:18:00Z
-    webUrl: "https://euobserver.com/tickers/151962"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "pdEYby9FI0pQiJ1xWrpR11mA6gjtL9ENB7PrO3ffKb39DM90ylHndFYfKVAyZ6ChjsURxB/LichDjq3iaN0veZbWAsWhuRDGQ8M1gmraZjq6X6YyKutffRLRryTzHRHtMuTkeJGhU4sawLCg/0pJ34wx0UJLBxcS4ZfMp0fdJ1BGh8BMm8UQurpAkKVJ+JW6bNXj603Y6ecHmfJHHbfId4GJqA8n02orvNig7fFC8mb5d7KEbX8Ms1ulk3lW/qgn9YCEZhnWhfiXkIbc6t0JNYqldq5C0vmD/Ek8qc+Sy3BMB/KsleoyBNhSqNXro1Rq1l4AF+MmvRzHefljRiKv4jjxh+bfOBqrv4rZMJRR5tk=;PLZN5GMbGjfXwIjkG7lq/A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UTSA researchers among collaborative improving computer vision for AI"
-    excerpt: "Researchers from UTSA, the University of Central Florida (UCF), the Air Force Research Laboratory (AFRL) and SRI International have developed a new method that improves how artificial intelligence learns to see."
-    publishedDateTime: 2021-05-26T08:22:00Z
-    webUrl: "https://www.utsa.edu/today/2021/05/story/jha-sumit-AI-computer-vision.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 54
-    images:
-      - url: "https://www.utsa.edu/today/2021/images/ai-machine-learning_780.png"
-        width: 780
-        height: 350
-        isCached: true
   - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
     excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
     publishedDateTime: 2021-05-26T23:09:00Z

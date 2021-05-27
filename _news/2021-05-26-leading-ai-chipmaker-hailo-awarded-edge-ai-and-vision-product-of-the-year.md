@@ -3,21 +3,20 @@ category: news
 title: "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year"
 excerpt: "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor."
 publishedDateTime: 2021-05-26T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
 type: article
-quality: 55
-heat: 85
-published: true
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg"
@@ -26,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
-    excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision"
-    publishedDateTime: 2021-05-27T11:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-301300413.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
     excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
     publishedDateTime: 2021-05-25T21:05:00Z
@@ -59,6 +44,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "De7IBjrS7KVWI1Z5aqMxUu4ASXaeLPkRoG69SGDwgSdBiZL0lOyZ75k9d2iusuShlwMXy28nG7KO28GrrSbKOAqt6xqUjC9j3wCDzzWCmNfQ8qy9ORKPan9mJT0OEy1OyFewdVR0GOHEHXhtqogHsX5+DKavGEaifioPIRsQwPO1diA1E/s4ZpPmnO64LdXk49/3HDof7I11usSSH0sYaOypZazarsaQoQPheIfwL1AdDd6QXOfrfg5/5jnYMvhm/rdteRIfPVGGIBeqtqPIKH37ZfBgWxm7K5gOc0QMgCmnwrPzJIlKoQcc+fO8clwudCnujdkSj6Q1LegKbWmuc9VJSbavXWBAxf39wNg53HRkMypEiqhLPzGXrSzctosbDtDMTIvlG6VcB1npjPXp7N/2vSOYuANZDbMhFxajp0L6/HKhOL2l3o3fRz/TVVkK8XQm1OwJFpAXeL8HxvLTxw7AVgLFOtvffceeE12okuFdDo3vwnzklerKk45NkWF3V0WsPtSnWR03yHAohWVjtg==;USQdOZiy3+9VOd5bAEOgxQ=="
+secured: "y0ONrSKN1IX4g/EYCeQHPXHidsSCP8GVEIsBUrXowAFXdMVF2V/GDDE4xD3yklSWTv7anzu6naaO3zFg0yp389L0cy8RcjG0nQ7550BWjqvDPEo2qT0ga6XI4TGTaJwIodhp8bhGVmuY1SH1hs8XQ6+6BYmDNszDJedi3FNAwelHC5lDrWv5WNsSPYW98B9lIXTcFiZ0t/sb8Tq9tJosHexSHnxLb+5sgdNeYsMoYIYdM9nsshhahtRuMckJmxLlF52dKvhLiclawcMawhKuAyeOdJ0vXfczgqZWO+Z5pwEmu0VHE4EMq7rYDEcS5vHlgLLvujts6s0Rujvn9TVUMwwGu9r4NJAJCu0tCkpzaT0=;i+tbnOXLem3Y1KXdwS0qLA=="
 ---
 
