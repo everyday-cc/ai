@@ -86,13 +86,13 @@ related:
         isCached: true
   - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
     excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
-    publishedDateTime: 2021-05-27T11:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-eyeon-eye-tracking-device-wins-2021-edge-ai-/2021/05/27/9379175.htm"
+    publishedDateTime: 2021-05-27T11:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award-1030470882"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "sMnfvCNM8QmmuANGPiv6ztsgKYHXBQEqUqPh0DkeO+0LRdA1jnp+nnP7jIMv1YLwj9kI/mYtBDoH01J/TVHullG7z2NkzETKtJ4hS6xYoZtDwp+KMkQ0dBR0SXA0DPT7Qf8q2wT1C+i4M5fM0pka3TfhnEx7xL8X9Cejc6Q/B30/JbhOn8bcwDxaxGnFLr4yxGX6HvxNqXRBtQBTAlOPjFFMswnMWI4XA3gEw/O4AuO5DevhqMWcCOPDzxGnrLtHE1fgHJ+6FWiB0CcEGwE4zT0sOXss4YTJ1KRTJ8wm0s/y7F3LrRyeEnxFRw/VQQZnn/2zNzzuqdyX5xU0Q88RStP8KOzPkA/HzYXRg2S80y39EbAJv5hvYvKW1mLZgYljWW9F2iFGo381TwX3y9FBEjGMYGEs6X1C1SxOtPRxb79UOJqn2B4YSu5sjepbBhCvBWbmWSARe04wv187+fJB1X+9/7uZbIg/VYBfw415XZi/nwYukYCMIMSMfLMNAH0pAZQF9uZcJlDEOZqJRo3QDA==;idzOe5HD7/KATLU/e2ThYQ=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 505
         isCached: true
+  - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
+    excerpt: "Cadence is collaborating with TSMC to accelerate mobile, AI and hyperscale computing application design on TSMC N3 and N4 process technologies."
+    publishedDateTime: 2021-05-27T14:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210527005332/en/Cadence-Collaborates-with-TSMC-to-Accelerate-Mobile-AI-and-Hyperscale-Computing-Application-Development-on-N3-and-N4-Processes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "un4kxCF+7GewmW4MfO4M7hmP8LMLs+oaTx8nPz6fI3J0qFaHJW55Omkb8BR68bXSu/31sk5fdiqnRDEQygSPSjRRgfkY+b+N9Sq14TpEKr074Q6vI15cxyEtzXuvMq6jkz4yG2zKYLDf8DbsTcvXZljXDO5RUOJheoARWDxJKj+p2Mkj5/ZGVwjFHqY8tx2FyRPQBZYYRnaHp8t8PyTZ+w1GyBevxFmElBn2hbsr4n/hlZiWIZRcQIaaab1UJuK0bXWH+JPIHNcevvrmjLg8m1Rup3NJ8MiroeOH2k1/MuWF4a2slFKaZFJZ3G4PYoiIyFULpnl6gdm/e9iHxNYNAxxXanFBjMRg+SI4da3Wb7tww1gcYRuIOzqf9/4v+Dr/4eGERU0KFECH0niXvFmBw+p73SSDlrq5c1l6SI/O2LMuLLNfjT4iRBjFmne16bRHEtJiF5rLLjA2CR0e92YQBKrO21F5pMy6OZmltske73okA1EaAz/cjGaVqYkMorZUtH7FHIpugWL/QwzqyGw8JQ==;V3UlVdNF/mLLk/fsdzY4aQ=="
 ---

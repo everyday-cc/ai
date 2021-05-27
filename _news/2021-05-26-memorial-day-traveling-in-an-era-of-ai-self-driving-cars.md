@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-trav
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/more-efficient-lidar-s.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tapping into the drug discovery potential of AI"
+    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
+    publishedDateTime: 2021-05-27T15:37:00Z
+    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
     excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."

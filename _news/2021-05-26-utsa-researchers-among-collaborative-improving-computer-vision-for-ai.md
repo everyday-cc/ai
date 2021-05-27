@@ -34,22 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Using Artificial Intelligence to Improve the Way Videos Are Organized"
-    excerpt: "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content. At any given moment, many thousands of new videos are being posted to sites like YouTube,"
-    publishedDateTime: 2021-05-22T22:52:00Z
-    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/"
-    ampWebUrl: "https://scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-artificial-intelligence-to-improve-the-way-videos-are-organized/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/Netra-Artificial-Intelligence-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
     excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
     publishedDateTime: 2021-05-26T12:13:00Z

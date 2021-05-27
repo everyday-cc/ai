@@ -94,20 +94,20 @@ related:
         height: 438
         isCached: true
   - title: "European privacy groups challenge facial scan firm Clearview"
-    excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
-    publishedDateTime: 2021-05-27T13:26:00Z
-    webUrl: "https://www.greenwichtime.com/news/article/European-privacy-groups-challenge-facial-scan-16206789.php"
-    ampWebUrl: "https://www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
-    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
+    excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."
+    publishedDateTime: 2021-05-27T15:34:00Z
+    webUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/"
+    ampWebUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
     type: article
     provider:
-      name: Greenwich Time
-      domain: greenwichtime.com
+      name: KSAT
+      domain: ksat.com
     quality: 44
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YTKXXSHF5NA2RBISHDRMT2IFJ4.jpg"
+        width: 2951
+        height: 1971
         isCached: true
   - title: "NGOs file complaints against US facial-recognition firm"
     excerpt: "A group of digital rights organisations on Thursday filed legal complaints against the company Clearview AI -which uses facial-recognition to have \"the largest known database of 3+ billion facial images\"."
@@ -124,6 +124,6 @@ related:
         height: 270
         isCached: true
 
-secured: "/c4AOD7eA56jsww0mHw8eg9Ym0d5fWV4u2K8utKMkQ/XM9U47oWsFLqCRCGClQxZqkvN9VCd1kcjBJGS1HTxWHcjO+lcABR1sRLEvjxzl3Lz4PxOy1rfr8u5RdI0+5/BLb47ZYYc3JIK08OtE6rqJcVECcx+HSIR2w/CCh+4GgIOYcarveTyYYajEveIqQo1/FNkMaJSzZu7ddEkWGin47aUPQ0qlzO2/Ke9KSsA51Nj1BpxZFQSmAquH4KsL+SoGqiudSyPRRQq+OyhVE4D7jWxNWDJ/65qZLia+uN0y6HkHhUSa760xYmMOW0fmzIXFQvKpjYR24bIn4TzVxu5Z9uO5O5uknBhYXTejqOvnEQ=;VpHH9QlA8dPxR6gAU5Rj4A=="
+secured: "RZXw6tD9WD/r+QJszIq/hRYu2yDwYZItpO6GMJE3DvB77DPbGUZBMOwi161HWBNyMi5Ii4JdjhvOgr5vm/3WqtlOHrz/3jQTofqkXkLPpqetFUtumVedQ/mQrlAgGBfg40AiwZmZubLW35qFhBLWThiVw+xleTTBKEsVZr0VRBxrl/2w7XKzXAW8oJbs4BXW8rp/5VUDWLERZgU9jta5EJ7ABeA9LKqtsaWVPrEfzQP6gVj55Q+7JWvPOlauQ1zvpwXmp3zv2q8iglNV4oXiBXIboufH6Fne7qjEcnYC1StHGxCKGAqD5E8dqvJHL/fGWWKaIWj9J0YPS1PopeWzFd9KmOvUnudhO72GOxQtBld1ehiUaVLtP8r5F3wxm2+At2X81sZKOyOl55NwhEBKm3hQePqvZ4Ix2csPBRRQjYht8MXOy5E3/AEaKCVj1hijqiVfQvYtLa5x1j9eH34uN6Lms0xDt7UImG6yPyIqbIXW+L9N6lNXoJs2JSfGq25ys4Pmd+Aegnz9Swrpx94r/Q==;LkYoL/vE+rtQqInjbuDLoQ=="
 ---
 

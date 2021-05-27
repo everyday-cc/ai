@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Alder Hey Places Its Trust In Diveplane's GEMINAI With New Partnership"
-excerpt: "Diveplane, the company keeping humanity in artificial intelligence (AI), announced today that it is entering a new partnership with Alder Hey Children's NHS"
-publishedDateTime: 2021-05-26T15:48:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alder-hey-places-its-trust-in-diveplanes-geminai-with-new-partnership/article_eb1b383e-f886-5d07-a847-c3a3adbef2d3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alder-hey-places-its-trust-in-diveplanes-geminai-with-new-partnership/article_eb1b383e-f886-5d07-a847-c3a3adbef2d3.html"
+excerpt: "Diveplane, the company keeping humanity in artificial intelligence (AI), announced today that it is entering a new partnership with Alder Hey Children's NHS Foundation Trust, one of Europe's leading pediatric healthcare institutions."
+publishedDateTime: 2021-05-26T16:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/alder-hey-places-its-trust-in-diveplane-s-geminai-with-new-partnership-1030467967"
+webUrl: "https://markets.businessinsider.com/news/stocks/alder-hey-places-its-trust-in-diveplane-s-geminai-with-new-partnership-1030467967"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/d8/dd87565c-c4e9-590e-9b5c-a4677b5a32ea/6080226f3688e.image.jpg?resize=1200%2C455"
-    width: 1200
-    height: 455
-    isCached: true
-
-secured: "WV1hOsEbwDMpbRpLTgUhXRhpDQTF4GZ1L1PjqlrzUkBPrtWkOxA0lAGSi4OE/ClzKYG1YO+euRauyLdrsIY91E1UU6lP1sX4CAgBkwMqSAVnphXGSi7WUArPmzTLJD5rYnsnTZoKIyrk6nNmyeFgq8ZgpNnQUa97wBAvtTJSVTvyIb3wDTNV58f+tHdHkGke0YIRKrwmkNR9bxIlTVeW8Qq5akWYGRXFfaXN1DuyDomOW6T3KP6GfkM51ioxl2j/fkcUUb68UEUUTD4TIsQupzh6MVyl0AZb4rFla8LCDYCPeYxZIQfLI/d5o71l7bo8ui76mqr6Po+I7UCA2s9e3yBknRfUKfn0OYHxaN0AmGZi75+WTBHB1Cpmtb6P2QpRiFbe4U1Q5XaAswHUtryshBwdtUGgttL5Fw7K3NpAEWNW6ZSxrYHjiLhuaTzFLgdCwcGF9NIcJCPr4CrYoz6wUP/gT9+PS8LZKHQdE6Ieqp2GrttI5AOAkkwEAWRzxI8FUEes2jmc/npio/8J+sIQ4w==;acueaswsDohEb3ehYl28PA=="
+secured: "c+9upewYLjvjH4/xDiR82Xtjxd8H7mqA9MEJ/MhwueSENP+LJjUqxkpUj780lqeYP1LMpRZRKRd0NJNMytDv2/1Y4v3UGh+Zch6ECKfoSf9yJyJZAwgq4U9T/Jj8cBMCle65IAWMvO6n/5PSwLkadSY6UlEe+LdZWhIx4E0xbQysSFohuhvG/w7sFaorPtoYMQJlD6doRoe583VGMqL/BtfnhsyjAps+xwTPf9GYcwfDLy8wF2AvsxaB+KX1qUPK3fFFw4B8Bx1idgq1xD3dOiTdP48766JY/Y4wnOqJ7oxWkpmU+JsQfMQU8S8gffFjlVii2Go9Cm6ZWm1vIjir3rN0MNjakeERyB+9Ieka2oJCzwO3ilgMQ1+oYJ4SffKKyEL0lUDs2P6SBTi95b0ae4gb80RgLYC1Dhz+9afoV64iXlg4lUN/o6wtCmTMkUEPvHcUSr1Wx2tsKgwrIF8B8u6YYVYTRmvVjbjVUQWfWWDxKq7XbBk7KlMlYSdbQg3QZqwuGLBFqkoMgIUbBnmQRg==;aovX0zmLIwPisGE1WTHwhw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/25/why-busine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 649
     isCached: true
+
+related:
+  - title: "What, me worry? Businesses missing the importance of ethics in AI development"
+    excerpt: "Almost everyone involved in AI research at least pays lip service to the critical need for ethical and responsible programming."
+    publishedDateTime: 2021-05-27T15:14:00Z
+    webUrl: "https://www.biometricupdate.com/202105/what-me-worry-businesses-missing-the-importance-of-ethics-in-ai-development"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "A5aS43lcJDAle/fv16IK3tcF4yAv+QCK4PkqHuyuC7Nqg3Z99gZgNcroFkJWmJ+zunir6prmOoxeZ8A9e8pPfZ1YRXkSt52Fx7r2Rs8wnaF1Duj1i57d4Bk50Gny9ZQSOqc2GpCsoeWAPs3LOFbfcVM7bcq2qTAQTatTlBiZnWoJ2BiTm5fY7HYNdiHIo81P5Zq7fsI8Y5/0GCNcKl2/74wXvdChEHzZ2LbW82Rk2JfB5XOiZ0PGcLd4DG2GcTyMkI92RD6ooIGcDhFv9Cdtnc/7mF8UNKouD8am/b+9gv9IYqOn2YjSwYPZvduR/LO3goGd1ZNYN2VCoMBp7/W0JxDHzObc5fSBuLkRd2QbEE+fA0P1WY5uO8dv2EOAwaqO8wxASV9MGgip6OEJxrdzj3sJ38Hxbp78Uz2/DtNmZ4/NJIPY0FL7OTyc+Eruy1FJJFnuBOOJ/P3zbCzO663lsG2Ruo/9S/a5HPnEk9kc4p4H1ZhMotb9vSXb4PpS3HJIPJ5Rqsi1u5wXv8OECE6mPg==;WghatmF1aVt9qCMSA/5APg=="
 ---

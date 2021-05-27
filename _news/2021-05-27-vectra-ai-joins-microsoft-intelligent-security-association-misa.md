@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Vectra AI Joins Microsoft Intelligent Security Association (MISA)"
-excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association"
-publishedDateTime: 2021-05-27T12:08:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-ai-joins-microsoft-intelligent-security-association-misa-301300473.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-ai-joins-microsoft-intelligent-security-association-misa-301300473.html"
+excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association (MISA). MISA is an ecosystem of independent software vendors and managed security service providers currently spearheading enterprise defense against the latest cyber threats."
+publishedDateTime: 2021-05-27T12:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-joins-microsoft-intelligent-security-association-misa-/2021/05/27/9379278.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-joins-microsoft-intelligent-security-association-misa-/2021/05/27/9379278.htm"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "OpenAI fund of $100 million for AI startups with Microsoft"
@@ -127,6 +121,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Yla2bQXbTai9L4+I0JK/HQwtqK7Rntn56xK88Z2k2crKF/mHSgGvYD3ORezyqhyyv6o7Xii3rznsWqDsZjoq/Mlgcljs/JiO7s5i25BuXNGq7UgClRCyX9vG5eS3cUdlyArGYo6QEJv7//kIPAIEf5jYIOwkKIDTSOw4g5yzWd1pmvTjvQxCItEbJrNN5apnOU/DsaIjIo7EQhc1TSE/9vUoJEwt+30nQZL7AcCvQfcn7MlfQ6DRQsfcDv5CX3742TK6vh5+PLbqXNoNmhlM6/c9FJPYs8nX4sbERWCSceDhQaxpUxqbxsJke9oMCe7JGYcr/IgfxYaVLpMaF3hDUx3gAgXOH+SloNcfo23yrrw=;fNQyfsOI01JO5sXf97aV9g=="
+secured: "WaVyiMXfEIqnuEivVn2cGy1rabeFi2RkAmqKxI7gOP08BLqrbe+Usv1RIJuQse5yGerE1MDFf9XVVoBQQLzvXOdfSPUrOcldFcnQbHGuFWWKxM4tUUnvitkkvL3AphhZHRdhgqua5uPBNpvv+W8TRlY3YrBtS76FGADPkntGI3jo9BHppsmIyCASQeCjJQv6F12h0fwMOE0QKhzI6OnNIZdduQhuXfUUzXZYF8VxlkA56/wIFCI8Emr9pIBG5bvSA1PUkdb1k3Sypenrt0bLevmHjUunIVvg0NZNVfwTS7GH4/w+KPglhyN20OWKhyYjDgXWlftIzuoXSDgFMCRqc9FmQtasvlAD5SRRcvynflw=;Nr/0JuwLBpXrJDmWWVTZMQ=="
 ---
 

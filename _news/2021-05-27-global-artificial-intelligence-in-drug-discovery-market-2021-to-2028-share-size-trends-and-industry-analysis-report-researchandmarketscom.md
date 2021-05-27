@@ -3,25 +3,24 @@ category: news
 title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) - Share, Size, Trends and Industry Analysis Report - ResearchAndMarkets.com"
 excerpt: "The \"Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 - 2028\" report has been added to ResearchAndMarkets."
 publishedDateTime: 2021-05-27T12:59:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=476343"
-webUrl: "https://us.acrofan.com/detail.php?number=476343"
+originalUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
+webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028---share-size-trends/article_d9b577a1-b028-5305-ae1e-f0858310ccf0.html"
 type: article
-quality: 1
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -42,6 +41,6 @@ related:
         height: 499
         isCached: true
 
-secured: "eI0Q9SovqLreXINZMIIYmjTaXVYq10OTTXyxhJx0XDvWajfBipbhN+roRpWXdHBH4JVqeG713p/gkJuune3GUkjXrJuP+ZZdGQknYT3qUfY7VWf5oQnygyS0Nsmu0JIHPo3AsPwnbwh26yd0HhXfGvO77uVDcm6R0YTCP5NwIeFH3Fl755ViUwqzZIAo/Ov6d3a4ehJPUT3Ut//CRB4TYWv+i9pzbgADfUTnLq12EawnKeBkHtqd/K0Gqt+dPjEtOxB2VJxU62TtGvKX3lqw0OT9pMPuebI/H3zI278UJJNkl+VVGMC8ftNDylJljMd4+3fJAGt1YHUQcHXBPEVgyar1BfY5drSpeVJvAcEjxik=;DpzcVXkuzyNjbWOPswA2zg=="
+secured: "ey6QRqZ3ZSKEm17supnw2z6NaJBUmthTNvYUAA52hLZ3kOS3tJ2oOwDP2/BItLTpzbcRA3hBBbViONDqVFJvUgy8RB0iJ9xo4hod4CRYcB8QLjaDGwTufpSpLnw/KlLWvq9zxnODF06QRdRSnkpaSlaj21KnrZxTSvIRIjKtiV7cUEd835bRnFFirqfa73DOEGEoztbStaysHbO8wfk5d9cNuBva8S/2iUNOr5HOIVjjcVxcl03yFvrJFesBLVkI92OWcCttLlBTITgCkBCBitB0IYxBj8BptWn7ItOzvNUDCyTex27QsUhOAkRgvhp0x+VovfZx1JtzwArAK9jss6XXQKprOxDMOZ6yYexK65I=;VKFTvAj/dcP8fGyQTPkFXA=="
 ---
 

@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tapping into the drug discovery potential of AI"
+    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
+    publishedDateTime: 2021-05-27T15:37:00Z
+    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Self-driving cars could spike CO2 — study"
     excerpt: "Self-driving vehicl"
     publishedDateTime: 2021-05-24T11:05:00Z

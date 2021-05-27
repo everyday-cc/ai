@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/azure-applied-ai-services-accelerat
 webUrl: "https://blogs.microsoft.com/ai/azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1051
         height: 630
         isCached: true
+  - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
+    excerpt: "Cadence is collaborating with TSMC to accelerate mobile, AI and hyperscale computing application design on TSMC N3 and N4 process technologies."
+    publishedDateTime: 2021-05-27T14:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210527005332/en/Cadence-Collaborates-with-TSMC-to-Accelerate-Mobile-AI-and-Hyperscale-Computing-Application-Development-on-N3-and-N4-Processes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "n/zxeNjVabX8GsdPUj7kZ5Ggar0h2dw//mHC6feYy7AEHHXUA+Rk3XsNDXrRIJWWk5SNyPirLKtt41eY7nmBMuwS6QkhTC1EF9nOTjr+MopMv625nlc3vcCOwPriotssvBXtzoqGPd0479ZPDgu8YXZC/VaMRqL+tj+vpiNKiFOcrWPj9zk5GBZryYJbQ1yLNM7gKsOasQZlE4ORf9Xsc6tcAalNU6rSLQeZYCpjO8qWN20nybTY0C+d7PGPDOsdssB865QlPbB5miC2SMDk7Q8TS5D1x9Za/2TAzwKQM+zODlWyAqMSIg/wfCDScur0wTmtc2cOqDcCG8woqtaNkxZssnJu0Jcvm4fo/YMAAZc=;bjmF7yGlbD2QAKUiTARM4A=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Abu Dhabi boosts digital economy capabilities with upcoming AWS cloud infrastructure"
+    excerpt: "Abu Dhabi’s digital economy will be boosted through the launch of Amazon Web Services’ (AWS) cloud infrastructure region in the UAE, as part of the Abu Dhabi Investment Office’s (Adio) efforts to attract investments that build technology capabilities."
+    publishedDateTime: 2021-05-27T02:22:00Z
+    webUrl: "https://menafn.com/1102146472/Abu-Dhabi-boosts-digital-economy-capabilities-with-upcoming-AWS-cloud-infrastructure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/26/KT_43359image_story.jpg"
+        width: 904
+        height: 502
+        isCached: true
 
 secured: "de7ZWWR8+mwPq/zOpoGa0i/2JX2C8mk01S6IuvwXYnlZtYTxaaf1NvswvI/msl666KgbHLpV6nwAyW9okazXEcBhnUCcLGq79eq6mi58vvXp5piN4AIRLAXo8jD+s6dwoPUeWsPPU44qbLpafyAwC8ofEelzrqJ3+ep2vo5p5BkduXJQJUgXd66Ng2iomGxzDUWRD1ShXS9ITQntABNmmpFTbHllGAHuT++pcsj9rQtRfYLktWCBZdE6FDinuTjWfNTFHD3tx8yxwj41Ff1Jc9sfAMiJjB6OcVHZ6Qv0gGayHYiG0O2qszbFwVX2I8sh3G0VUjmh4T6PcdR2DlpzRjxzd78ISJmwQvnUEoCUoS8=;0M6OMsK8ex1u4S0NF2eSvA=="
 ---

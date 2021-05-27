@@ -1,29 +1,29 @@
 ---
 category: news
 title: "European privacy groups challenge facial scan firm Clearview"
-excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
-publishedDateTime: 2021-05-27T13:26:00Z
-originalUrl: "https://www.greenwichtime.com/news/article/European-privacy-groups-challenge-facial-scan-16206789.php"
-webUrl: "https://www.greenwichtime.com/news/article/European-privacy-groups-challenge-facial-scan-16206789.php"
-ampWebUrl: "https://www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
-cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
+excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."
+publishedDateTime: 2021-05-27T15:34:00Z
+originalUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/"
+webUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/"
+ampWebUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
+cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Greenwich Time
-  domain: greenwichtime.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YTKXXSHF5NA2RBISHDRMT2IFJ4.jpg"
+    width: 2951
+    height: 1971
     isCached: true
 
 related:
@@ -120,6 +120,6 @@ related:
         height: 270
         isCached: true
 
-secured: "aMX/TAkKIXhbhwCD2KnPFtQhhvpjaia7x+n9dFvzM7bYMTM159Tj1lhdY50cKk5vO9cENOBfbK1PNgLtnSY7Q05X6TVOiL6TPx5vOeF7v7rDQ3Y4D3CxMazNbwlF+0UviqPqT/G2uPP2OKkpoJmnpSt4m5LkLUgtOGg0hi8h0cxVH25MvlAiwW86RspAr5wgLfKBKnmDVYHcV29o23zmlwQh32ZwZVEZvZcBkleqKi7ZWvl70kVEp28yqyRFIc5q6ALzDpXnm0qdMUUHvO0TFxoFriRiI8fcXoTRupDryR+EMHTaqx0zbvT8cio70Ks7ugmhnDULP+UH6Ra8pYjgnvqkegbrqxNt+BwlaIW05t4=;+ZtKfJ0PenLqFeqkJPw7NA=="
+secured: "plqkhikwDZTUPAfc3jihsCZgixxLN1vGw1TnxJhz/xVb2hK7o/9BEqA6WIZdMes10kRMzRjE2RsYnqMl84QJZHMGzDhcVWoo0BY/MvKUuioOx2bEWtf00KtPmBAkliuNUzfD9oybnSRijURoF0FxDMfQthc0tuIS6CDvabEV8ZwAnxI1BnTKISW8lxXlXi4U3CF0imUWyau8RmWLZ62rQ/vE2bip+Rt1uw/Y92hTHUDk+JqP/RFTsXhECWIwmelVsAhWSergtrs4S9BJ1GEu1WvL5Bzh2hnhN2R5u7wnr7NxiU1I/WB9sKhEk+XMXptRfVJNTg/0VaSnQnOvbiDLOZ0Os0GuxhX0fzU8wGxaLFw=;NpwogioOnR3HiMYIF4bPZQ=="
 ---
 

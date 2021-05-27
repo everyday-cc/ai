@@ -105,6 +105,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Tapping into the drug discovery potential of AI"
+    excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
+    publishedDateTime: 2021-05-27T15:37:00Z
+    webUrl: "https://www.nature.com/articles/d43747-021-00045-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-021-00045-7/d43747-021-00045-7_19194754.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
     excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
     publishedDateTime: 2021-05-26T14:38:00Z

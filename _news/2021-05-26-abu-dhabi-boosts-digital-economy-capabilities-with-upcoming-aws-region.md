@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-ec
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-boosts-digital-economy-capabilities-upcoming-aws-region-1429580"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/5/26/abu-dhabi.ashx?h=450&w=750&hash=FA6462381B2C67FC9E9921DDD4ABE5DA"
         width: 750
         height: 450
+        isCached: true
+  - title: "Abu Dhabi boosts digital economy capabilities with upcoming AWS cloud infrastructure"
+    excerpt: "Abu Dhabi’s digital economy will be boosted through the launch of Amazon Web Services’ (AWS) cloud infrastructure region in the UAE, as part of the Abu Dhabi Investment Office’s (Adio) efforts to attract investments that build technology capabilities."
+    publishedDateTime: 2021-05-27T02:22:00Z
+    webUrl: "https://menafn.com/1102146472/Abu-Dhabi-boosts-digital-economy-capabilities-with-upcoming-AWS-cloud-infrastructure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/26/KT_43359image_story.jpg"
+        width: 904
+        height: 502
         isCached: true
 
 secured: "1DTlzHBcj55zydWaK+4PSVp/mZ4NXWMdYh2Ee8NDb4aDtIkRxjYVFBrODED30NM4e9Z17dh7UJgA0VCnZtuynOBGCfilhQmUI3eY4G43x1zLx52l5JR4dV5df/rLDZ6j7a/CkCPwPTthZJyWTpFQDNQ7EiOf953EMKCVvImPd2wvEKA+1w9AjiYLQymZ1Jykv/TEOU1ZFIyoPCDJrPG5wEpvb4EaEu6U0ER5ewtYZVyZvC8AfssZkBlyMrd2tbx+diDLnk0DWWqYEQFfSTFhllQtaskpTYpnmykX/Pyt8FHBAWl++dCao2FeoUHp/E0Tofo/7N5sxZe/2/FMYazQSgqkhVgT6SREkMw9IHwlvLlGSBZOrFmwKlV2CNQeNHJ4UKvG91zorzkEHOSkdV3hDwo+4LJc50KIUBKumvW+8tuiAjBv8xJ1mld4K+bDVxiL8UO8Nv6Hjjv7AThBJnAPAkjotsExq39HBtsPahWtmXBlqZV3r+9IjDVjGezVn0yYXzid6S4udhroFA1Vr78Rvg==;XYNBt8kqwLIpfaUnu5hfNw=="

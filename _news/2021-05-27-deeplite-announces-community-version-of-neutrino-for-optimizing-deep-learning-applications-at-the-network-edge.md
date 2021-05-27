@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-27T12:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-301300545.html"
 webUrl: "https://www.prnewswire.com/news-releases/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-301300545.html"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1519720/Deeplite_Logo.jpg?p=facebook"
@@ -24,6 +25,6 @@ images:
     height: 976
     isCached: true
 
-secured: "qj8SgivgfIY+Gt819T38ag3IIKZZxA/+NrpZZA1CI5WuzOc+V0xCZKZAzwg1Fx3sFRVMFUvBPNuwkQCKXzuNoSKjwHvEP8jpTf9ctByYTzpwmr6gJdbDvz9YffZry6cKjzLiX2SBeI3LM0de4BA1d2UclULxW6XIaGSx4WdvRfu0gsa1tNa5C8vHLG3fbKqel5NZLeWMqZZ9eN9FL/rZzBZXn/ncDNtpB4DZJ6MiTkdyCCHZrzcLPezBTgfFy7tk71G3sHI5iOVVv86A632PRmJ+G9K2virb3kCT6ILrVcjJYKd8zPOeVQngDd6sOwTxN01YxT1j67DvBCt/bzQ+uq2kV7dSHMCai6Fu1rNkuyY=;/Ot5HcuBh+5OdUhaL/29rA=="
+secured: "CVeSD3PegEkIKsqTppkoHAtnnG+2oF1pCAXE+t0alWejKRT+MhKe3A4FiiOgWGUl0D2bTCgH/YnhkPUpzBjIOaiAqbtRDCQVv40VdcFLqt68pkwlR2/hCva22n9/ZwIolFyOlQgQBhr46r1CgcuEhrIeWdqyJTAvAi4F8SDe08vTonKdnxCOniM5VoxS8btTAONj6hfViormglWE247bbHccImwbwrIB1HeFbxrrNO+ZzNe09sKD0r0WheIMiH3AAyB73XybV+lyysfFWtLpMKkh3HdaLDea7NmtQMcq9959XppcKVu2qHF2YLcHqIBFhBYg0wyi6T2r3agIbl6eJ5X/kaoWZeM8c59TR7jdAhDqqpqD5Oz+MXCKitirqajQdfPjdQkjiiGN4dJWR4XDkKJIfgasSAiTMrpFwVATpYBf8zWONszSyoJvfj+wIqKYiMRoMgJ3DOLPci2azl9ugEud5iC/fY2IIcNFWlox/6eZf0JinAjpbYZfEWE/9rPPXOQouRqgMYguwcCLd67EDg==;W5ynaf6NPwqKzYYld6f4/A=="
 ---
 

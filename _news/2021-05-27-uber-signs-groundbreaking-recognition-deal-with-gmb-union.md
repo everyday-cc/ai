@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "GMB hails ‘historic’ union recognition deal with Uber"
+    excerpt: "THE GMB union has hailed its “historic and groundbreaking” recognition deal with Uber. Under the agreement announced on Wednesday evening, the union will potentially represent tens of thousands of private hire drivers across the country – there are 70,"
+    publishedDateTime: 2021-05-27T14:55:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/gmb-hail-historic-union-recognition-deal-uber"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 39
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/GMB%20flags.jpg"
+        width: 1024
+        height: 391
+        isCached: true
   - title: "Uber signs 'groundbreaking' recognition deal with UK's GMB union"
     excerpt: "A groundbreaking union recognition deal has been announced by ride-hailing giant Uber Technologies Inc, with predictions that it is the first step to a \"fairer working life\" for millions of people. Under the collective bargaining agreement,"
     publishedDateTime: 2021-05-26T21:00:00Z

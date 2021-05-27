@@ -104,20 +104,20 @@ related:
         height: 438
         isCached: true
   - title: "European privacy groups challenge facial scan firm Clearview"
-    excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
-    publishedDateTime: 2021-05-27T13:26:00Z
-    webUrl: "https://www.greenwichtime.com/news/article/European-privacy-groups-challenge-facial-scan-16206789.php"
-    ampWebUrl: "https://www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
-    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/European-privacy-groups-challenge-facial-scan-16206789.php"
+    excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."
+    publishedDateTime: 2021-05-27T15:34:00Z
+    webUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/"
+    ampWebUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
     type: article
     provider:
-      name: Greenwich Time
-      domain: greenwichtime.com
+      name: KSAT
+      domain: ksat.com
     quality: 44
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YTKXXSHF5NA2RBISHDRMT2IFJ4.jpg"
+        width: 2951
+        height: 1971
         isCached: true
 
 secured: "4pa44xgPkG02+2hJa+PVbwnFv25H65MowzF2xsC09HghoP1G9Cklo/EIp1xhAZmcAofbkdnJtbC8PF84yXdmCga3GCtRXKFH0EQoFHqER85AzpohtkJl/r5PlNDlxqgRODxrs5EtduTAq3d7qa6Iy/nN96jTBie1ihpT39HTeHQbby/p7LRQhzyOCcZ3NI+mGlTmRkklIJkEHmYKiVXkWR+U9HWeaUatQpNfucNdebHqp0fGTh5PhrsduMId54oIapNTGMhnGNiGbyHciH6z7JWiaWUPnPIfX1S5MBESRpy42y6jvIw2iNpGa6woahRC6GguEiEyFymR6kERsohHajC5Ffbw278kOhNEqrJ1VPw=;QYAWXHmmo2uVpUMKklT7sQ=="

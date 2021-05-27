@@ -44,6 +44,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Maine could limit use of facial recognition technology by law enforcement"
+    excerpt: "Rep. Grayson Lookner is sponsoring L.D. 1585, \"An Act To Increase Privacy and Security by Regulating the Use Of Facial Surveillance Systems by Public Employees.\""
+    publishedDateTime: 2021-05-27T13:58:00Z
+    webUrl: "https://www.newscentermaine.com/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    type: article
+    provider:
+      name: newscentermaine.com
+      domain: newscentermaine.com
+    quality: 73
+    images:
+      - url: "https://media.newscentermaine.com/assets/WCSH/images/f601ef17-d757-4068-ad39-0230d942cf24/f601ef17-d757-4068-ad39-0230d942cf24_1140x641.png"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Healey defends limited use of no-knock warrants, facial recognition"
     excerpt: "Healey said she supported last year’s policing accountability bill that limited the use of no-knock warrants and facial recognition technology, but believes both can be valuable in limited"
     publishedDateTime: 2021-05-25T19:53:00Z
@@ -129,6 +145,20 @@ related:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
         width: 700
         height: 417
+        isCached: true
+  - title: "Facial Recognition Technology: A tool for 21st century policing"
+    excerpt: "S Gallagher explains the current legal position in the balance between human rights, privacy and the use of biometric technology by the police"
+    publishedDateTime: 2021-05-27T14:18:00Z
+    webUrl: "https://www.openaccessgovernment.org/facial-recognition-technology-a-tool-for-21st-century-policing/111606/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/05/dreamstime_xl_104779649-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "cZpbER7YdjC5V2NXRoUxayO12rUf3PjUG2T9ZLTaLPJBCtyw2hJWHJkjgK3RI2tcwx15hmMhx2k9hIPDNrrS35k4OMr/W6YLEPDNuN0tiy0r/l4Y31J659vpAcsHxMHep7x9WjlLEfWxKyUIjlBfJVn4bCQqmDanQWYs88WlpUc1+dM0cDHO1tf0t8+h+qZdQzetzzMV8E2ZAktkgYsp8p4IFh7+5bMxFyMtgHQH9//g9Vk67NJTXuX64fdMSwxn4xoeGgl3JnSEibI4vVmbPF76cHjlxVtSWbIxEn6fucavVnygUlzc6wR4HetiOFmy82YnrVjf2xXKPyXY8aWp7LWbNa1fDAFGm0CMOa7WOaEs3TJuLfGAB5ahTmKB8Ploer2JLR+79L+9RmKzM+0TnsxTfwgcGDQOpupxPeNlhS2yknJdHNqvhi5qGlpQ3JQsxvIhIk7jO6T7J+ZtFp+kJPO8fQ5JwMUY1VkTFqwngq/QlEfxMi5jHK4EKTpovDgSeHLzm8oW0UhMkjDxijVesw==;uU3BKmluQWBmQVx/9W0OGg=="
