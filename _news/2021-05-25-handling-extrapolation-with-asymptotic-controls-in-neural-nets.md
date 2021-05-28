@@ -3,8 +3,8 @@ category: news
 title: "Handling extrapolation with asymptotic controls in neural nets"
 excerpt: "As machine learning continues to permeate many areas of quantitative finance, artificial neural networks are now being applied to derivatives pricing applications."
 publishedDateTime: 2021-05-24T23:23:00Z
-originalUrl: "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/"
-webUrl: "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/"
+originalUrl: "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/?tactic-page=429888"
+webUrl: "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/?tactic-page=429888"
 type: article
 quality: 34
 heat: 34
@@ -22,6 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "6ElRA+wgna7+QiVcFNbRUn0KozI6s5HMHXdSXPLpyHVBAoIuvt6Gg21Kznd4MhXeLZ9HSAY4XaC7vqHm9dmm2W9D+NRudAWXhEBrg6XHxvPsMyCPTA6uDgt7+SLQxgsY4wX5R46I4gzopPs5VsXKK0g1daQJ8KTfCKR5LuM+V0bj2T8vgMWyEG0SI0W49Pcxbju9WN+C6cx8Vn5HAwbM9SPPUkfxxbz5Vt7BNVu/6rpKMFjWv0v1ZjhAJL1LpcegaOz+qyUpjNBJhmtEDdumxMcC2CS7ei1WK08us7rRDj5FlGL+6jcfi/YpZi89GgM1z3edkVP6y+DanJ++2ZsYHhXUr6Fpv2I5EwHCpjqZwrk=;DK7dQ7WbF5z6P12GQTnUxA=="
+secured: "NHZ0x5M0tC8SAdeh8hnb44kbg2uMziswik827GumZ4wQRc0WkJfHusADUztbOvezQYYZsperrUyh/OXZ1quR81D3KwwgEhZvrLnybp61v9Llgr0Ux85X/Y47sCVBUtduWJkLfFNnXJq+xy0A9fX/8vuSo85TNsnqa87iZNcRqMXekeeK336qTmnd4kLv0sA6y2H1TVIqvIU87Ohf1iyvDnJ7SbpvZspn1Igwrq6Jy7LOwlT8e6L1qH8lYwXAfz+wJl3nCk1HMXm6EHU3dLV/+HvxZGb3npQIeEUimbsoPCDj6z09fFMW9Mb1UUUqPj/YwqTkxFQM7aIAgxw5DWiCjAQqDpX00sVVFRFpCQbDKbGnrTJ4A76DWh/rgsXDHyQRMArk9oS/DxygcSDZuGBtcBGfvhmQdV0WG0y/htoUSsdWvCsvEhpyGVo+SCIKnF5mphkdtq4jyoNmgsXEHynkfuums+LLE+xoE9GQt2idkdE9Fzn6E2bCdYhXMs7wFnnRZBIl4NdURpe+MqSv6trVVQ==;O/hD6vGdMSUkrvkmi6o8/w=="
 ---
 

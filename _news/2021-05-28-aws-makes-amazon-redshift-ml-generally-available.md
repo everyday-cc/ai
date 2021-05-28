@@ -42,7 +42,21 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Redshift ML brings machine learning to Amazon’s cloud data warehouse"
+    excerpt: "Amazon Redshift ML makes it possible to create, train and deploy machine learning models using basic Structured Query Language commands. It works in tandem with Amazon SageMaker, the company’s fully managed machine learning service,"
+    publishedDateTime: 2021-05-28T02:24:00Z
+    webUrl: "https://siliconangle.com/2021/05/27/amazon-redshift-ml-brings-machine-learning-cloud-data-warehouse/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/46600198075_8477bdd292_k-1-1.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
-secured: "t2I9qdWcOIMenItjPv7mpxM948Rzn61HV7docajoh3kAzybUUoIT7FRwBBVhtjdZe4n79otcDkKpJxzXIWPIxPHZWXlNNUv/6G1jK3U7JbRJm4VmxWSby529grACzgFmAe40xR5GL9z3JdJdBpUxRuIw6djq/tfydlt0WruLkMRkOn24EqiDZrJZbSU5NfaLo89YaNxEZb/jfIQKBFZn/eJB4wGKMgmsu2O0Xnq2TrQR9E62/MjHOTyfzS8R3XDIpebtfJjMcmUiwAs8MgOgNUuwVKzq1NsHJU9R5Ri4IuaOuY+0nj4Mqg6cOnf5n+8J08tvuUcic6voumHm+0OJusLZfHh8VToLmbQOrl2lGbU=;etM44U+LcXMqGyFASnf7eg=="
+secured: "NDdUosNcxcFKI+a6YvRoMOO9d6Ri3SR7tSM+s0wp5zBxAq1IpTJk1DI5zil/XjyKYdmiCTwdjIBrBgz+JIcamCGa7W3QzKk0GXi++oc6LtzSUTbpVwUTm9zK4cXXoNVegWxIQ94rMgUy0+0RZP28f2oZK7i1SzMOGL0BFxVP5Bcwvv/xWkNHN8vCemOiZ7aRN6IwCwmISJgukznQ1Um5vhx/CiqtAkmKWoSdls+HkPmd+tAK1sF9xN/VqziM4/E+GHIrs2xEi1DqekG3Y7v3KQjrLtZf/GT/fXhOSyhE3SRaB6HiCyYZCbs3wo5iHacs/XmPKWXGuw1SJc743e77FE8oWwGqwPr0+fvLKVudsfmLkEP+lMq0Sio5lfPeCpF+x9Rf0bs5VUrgU7bMSBbgjkWM6gIZdhDX7o0Nx8RSpk7jjfhMXRrYUTSO6DNqIGBdz9JyJBF2qz6ChwIJ4MwLlNzk2qop74WIfMiMjx8TEP2+MhQSJzvld19/Ke1GKWVl6QvQIQa+m76UkDtDR9roXA==;IyPxJH83aSCgr5sTvlGI/Q=="
 ---
 

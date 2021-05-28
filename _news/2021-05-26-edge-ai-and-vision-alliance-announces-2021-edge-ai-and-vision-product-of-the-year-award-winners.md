@@ -33,20 +33,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
-    excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and"
-    publishedDateTime: 2021-05-27T11:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n21315699/eyeon-eye-tracking-device-wins-2021-edge-ai-and-vision-product-of-the-year-award"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
     excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
     publishedDateTime: 2021-05-25T16:00:00Z

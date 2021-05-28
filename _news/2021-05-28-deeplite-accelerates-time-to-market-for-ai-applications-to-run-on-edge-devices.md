@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
-excerpt: "Cadence is collaborating with TSMC to accelerate mobile, AI and hyperscale computing application design on TSMC N3 and N4 process technologies."
-publishedDateTime: 2021-05-27T14:45:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210527005332/en/Cadence-Collaborates-with-TSMC-to-Accelerate-Mobile-AI-and-Hyperscale-Computing-Application-Development-on-N3-and-N4-Processes"
-webUrl: "https://www.businesswire.com/news/home/20210527005332/en/Cadence-Collaborates-with-TSMC-to-Accelerate-Mobile-AI-and-Hyperscale-Computing-Application-Development-on-N3-and-N4-Processes"
+title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
+excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
+publishedDateTime: 2021-05-28T01:54:00Z
+originalUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
 type: article
-quality: 0
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
+    width: 336
+    height: 336
+    isCached: true
 
 related:
   - title: "Azure Applied AI Services accelerate AI solution development to help businesses soar"
@@ -33,20 +38,6 @@ related:
         width: 1024
         height: 505
         isCached: true
-  - title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
-    excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
-    publishedDateTime: 2021-05-28T01:54:00Z
-    webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 33
-    images:
-      - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
-        width: 336
-        height: 336
-        isCached: true
   - title: "Digital.ai Introduces AI-Powered Innovation Platform to Help Enterprises Continuously Deliver Customer-Centric, Software-Driven Business Outcomes"
     excerpt: "Digital.ai, the intelligent value stream management company, today announced the Digital.ai Platform, an AI-powered end-to-end solution that enables enterprises to orchestrate the delivery of software-driven business outcomes."
     publishedDateTime: 2021-05-26T13:02:00Z
@@ -61,7 +52,16 @@ related:
         width: 1051
         height: 630
         isCached: true
+  - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
+    excerpt: "Cadence is collaborating with TSMC to accelerate mobile, AI and hyperscale computing application design on TSMC N3 and N4 process technologies."
+    publishedDateTime: 2021-05-27T14:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210527005332/en/Cadence-Collaborates-with-TSMC-to-Accelerate-Mobile-AI-and-Hyperscale-Computing-Application-Development-on-N3-and-N4-Processes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "2HXv+2P9/a/siftaDmrWJ8Yzyvs/87LQRomGy//66qmjnoBFwXwPgbP5FJV+OM1Uq50Oj/V9lvhTQSDXha+7z00MgJ3P3lsKZGasFKvs/h34UHU+OcKMdcjILoLDzj8wxzs/EmxYvDL/iXiEFkR1zIzqCE3zizWtD/NVoMlnzZbfwYMuKZpk4xOusiKM5FDnRzHyRrNuk7AKBh5vRFKYXvSFTD1tap1UxAtVIBoc1cJJ7ajzjvOUd7GOXMy5g41NX+aRos7FQShFOpbeE6b2rdE3pk2+cIOO+TAnZJTdjqmgM/QRCpS07WEdyUym+CtZ0MVAvYYv3hN/E2o2kT5u6mYJJ5uYdqcIQZFvBjoYqIE=;Id/kbK+n1MUF+7cpADrSyQ=="
+secured: "vyoo6rohFBzBhc50YD4NNMA+oExFaSXXdRlgFYbgEo0TqccJSGY6FMvgMaBr4dDFwQOCHTENez5cKwLusGA9AZSkBkyu0RhIX2V8W3X4H3qSVWahpt25KJYh6vqwlAcef1SnWZF93us0zyjN+w8WMQPipdKeoK62poj9O4fiQ5FsYEZXrbXOvVz/xiUVyHiwcKfTEljaeZq1LXB1ZtB3TttjzNN6N6hMve+qNNZqQKRxBRzN4xDLYBYM4JciZeNUOr6VuUXkPB4/0TEf96OTRWJiLUMANzN1OrO+G0GTpq69hkbiuP08mFEKKxz4LQepCT1S0NXKncEYofkjIC6+MPB0WlrOxx093GVQrN7it1w=;59ZTKL89U8Wk8U6pUD09vg=="
 ---
 

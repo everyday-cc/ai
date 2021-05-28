@@ -3,8 +3,8 @@ category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
 excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
 publishedDateTime: 2021-05-27T15:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379647.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379647.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
 type: article
 quality: 8
 heat: -1
@@ -87,6 +87,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "A8xQTVLFAKo6T0fHtBSZwnTIVQxVi4wA/y0NrFu0vxyVfi8b1bNUK4P3upe4FQ6Khbrhk5TrhDCJvcF/7ip/a2bFiIEUDM7WooGKyLOWU0utE/xgzXIy16jY1IbsGM/vVOsATHqJ9DvS48DpogLhqv0KnbgMCPQiRr+spOg39Izq8pK/DS8qgu1dDZR8g1K3cO7mhjtOXSgpKQRojFvz478mxYZpvfyzuX+CyP9ORl15CQ8DnMkwhH3Ve2QQqliZQ1en/x1JGoMJDjfOYVqg6+jVVOr7eTjYgbr1nflluF8lrbgo88I/ibGqD6rOwAY8odhWBiliLyt2taShypDgAjSG3yhZO1FoSHLTmCCBQTI=;jHziJPmiR0Ng/+fYvvlTFw=="
+secured: "NYTXHBXzSGmWOigmpd+qL+cshf+S5u2irEsao/YLPVPgWyZKNPxfsVraWrndsNjnPerUAGbiFRH024s8XbAkxE1ZamO7Y1GlEuwdUwz3h4ibWAU82mVbxvSFB7dP8D/rNXVuBgqRvT5PHgrk17JKOHOmw1Nt9i8RZeW7asOuz5//DkYX0svyBMZLHRcLzrWnUI8GZWlesDc4FfD7pdjw3zsQw8n90roHMd2UOk/Bp0gJvBGGV1ZQFDu+9HhYSAtTPmyr4M2KqKScVddFxjhJamTEJKq+hamuxwQYijtaz9Ah5mqLKWTYW3rJMN6CmFYpFYHhrp+vk5lE50mvNGUoqdNFHMEokz3trdrLeNdSC6M=;wapQv5yLX7NiyL93VR7KOg=="
 ---
 

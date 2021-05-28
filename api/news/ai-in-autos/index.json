@@ -465,58 +465,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-24-autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast.md",
-      "title": "Autonomous Cars Market to Witness Remarkable Growth Through the Forecast",
-      "excerpt": "Autonomous Cars Market is anticipated to exceed 60 million units by 2024. The market is driven by the increasing R&D activities for the development of self-driving technology. The automakers around the world are implementing various strategies to accelerate the innovations in the self-driving vehicles landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-23T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-23-self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash.md",
       "title": "Self-driving cars pose crucial question: who to blame in a crash",
       "excerpt": "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ...",
@@ -1461,6 +1409,49 @@
       "provider": {
         "name": "The Star",
         "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-tesla-driver-who-died-in-crash-praised-full-self-driving-in-tiktok-videos.md",
+      "title": "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos",
+      "excerpt": "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/",
+      "originalUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp",
+      "publishedDateTime": "2021-05-16T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
         "images": null,
         "publishers": null,
         "authors": null

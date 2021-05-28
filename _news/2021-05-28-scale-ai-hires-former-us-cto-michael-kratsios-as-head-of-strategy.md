@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-micha
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "0y0QWzHY9ZXK9V97WttpgqQNtkbs7iWQzP1M+0IjX4Yd3Pmmqms4LUM0nptgNT9YdI67608G+LRHT+KXVKAdogMkWEh/6AVVQKVmfc0I8t4/gEgjEQ9CSYMfyJSxsUwBAX8L9BPahLrz6PYjYWLixdO/pGO+rvqqSRqgHh9ccAWzsUSdc8wbPJLwlWr7QgnrvNZXuCBX75hs27mk1+PeSiWVGjRoUe3pFRrRyTqRardVqibDOYij6RegclajGsOSG036tGMFTRW5zuGcpEAQ7jeEfeKxORIquyT7Owd5x3Bx994h3cw5O8ZG17A0/hYatGoE0ptqgZfUf0TYv+k1Ikx+VQGsdS/TMQP2SfxIg6k=;SjKFPWMia4PuVrHtQoe9uQ=="
+secured: "gdQ+7uUsN5JuBiutGMYdUR6082RRgewtAE0Qld3vTiedhOlVszHatDUIfQEugyuLZU2fzBp4LlG65GAPYPhqcGHLALwjwbyMJKxhdmnf4/OSzKQOv6Cb8GfuiCHd2RIObsoeMcElHwkQfgHmc/B0lJ3kI5md7Tm+kVQr5uKjj2IkpDWM7/2oOPxHfXmDYwxbKCn5b+E+cK5WilBmQeuHIM0l0Yy4Cmfzi43veN7hPSEKtMwTGHu485N8uqleJWdTL5yqhViWJfoww1dzTkLMuzjXPh/g3pcOGnCOCk4bfbIDQp76vHoi6NgOYsUXrLamOf8BodNOpzUvsJwsyA/E7R6S7PdCioaVxmnv4aLRyvot06DEWaiXJvLxEHLrZ6F/WlxbECRRM53+UwbBWoFkJxHgO2avtuAlLLAeMve38ENj7nFmXtmBu96e+KStNuhL5jgQ7EjpDweHOm+qlos7wyh/2ieCN9/fCiaQHfFYy0XXlyJdmBwJ5gCoYNctHrqZDI1gXmmVQ5KQUlmjyVyYfQ==;TrF7YMvMij/PvNJk1VfIgQ=="
 ---
 

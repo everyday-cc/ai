@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg"
         width: 740
         height: 462
+        isCached: true
+  - title: "Redshift ML brings machine learning to Amazon’s cloud data warehouse"
+    excerpt: "Amazon Redshift ML makes it possible to create, train and deploy machine learning models using basic Structured Query Language commands. It works in tandem with Amazon SageMaker, the company’s fully managed machine learning service,"
+    publishedDateTime: 2021-05-28T02:24:00Z
+    webUrl: "https://siliconangle.com/2021/05/27/amazon-redshift-ml-brings-machine-learning-cloud-data-warehouse/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/46600198075_8477bdd292_k-1-1.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "ZbRTeya1L7EFfNdty1a+VEHeKhjmOc0jll37d2k4RlnM0x5uQPFFl8WC7vUaLrjt5enrycmHDYoeNrUbU5cTNjnmYXUfnQHnNEIeezIwJ/9u+YVRUsqrdhIyP1Qt/fiRCFwjzMtBeAOQ6sHp+uIM0lCgv483Gdetd4CT/wEyv+9H/DaYXH8++bCXkWKBalXN+65arfpJLdHDSR5aoiPwSXLRBjAOuez4v95qcd/8miVT2gZeChYECGWI/Pp5cHQGpBxAwAU8akXT1TzQAb5IPKNcWT4ZMYv60TRPq0NN/tMXWEZvJm+6oC1g6uVX8ufc8KIaJPQUsRWX/9lcWQlMbzRT4/rlaH/77IOm1vsLeY2XTPxUIe6L1MfdKzd9OllNfJBy8XQcfsUKISZBegdW02njiNiFc8bkyZzOOIc+bDxnmOQe8VP5c3MSrcr9wBBPZIbP34fLpopPhUdKWr+a439HMVVvaIGpXugA7w9o4tW3oF0tY7WHwcOUEk7oTIfefmqCW2QL7JQDdeoaiFOyrw==;CjsfNE3PO9a93gGeaKfT5w=="

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 505
         isCached: true
+  - title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
+    excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
+    publishedDateTime: 2021-05-28T01:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 33
+    images:
+      - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
+        width: 336
+        height: 336
+        isCached: true
   - title: "Cadence Collaborates with TSMC to Accelerate Mobile, AI and Hyperscale Computing Application Development on N3 and N4 Processes"
     excerpt: "Cadence is collaborating with TSMC to accelerate mobile, AI and hyperscale computing application design on TSMC N3 and N4 process technologies."
     publishedDateTime: 2021-05-27T14:45:00Z

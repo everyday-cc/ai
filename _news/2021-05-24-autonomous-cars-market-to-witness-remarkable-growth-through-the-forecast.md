@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-t
 webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
-        isCached: true
-  - title: "Artificial Intelligence Market Demand, Industry Analysis, Share, Growth, Applications, Types and Forecasts Report 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-05-23T09:22:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-demand-industry-analysis-share-growth-applications-types-and-forecasts-report-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 15
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Promotion_Poster_01-27-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
 
 secured: "SFFMYYa/0bdsS2jGwSVYvJrtBkdgcZryQoHDlR1tfbL67B6WcfGoLUKgAFyWaLrsLTYtTvZbL4BWzVps62HdTX4MRxRHkpgtNQf9l+rz6WxchMUNPC5fUSKbJajvvVSV2whh0C7HXePIp4FCzIZfsIojZjs9C15jy08WLiGtYoTT+y0D7FjoXfbXxByZMeI2OPxPw9eLw+96eqKQla+GYZtzLgg1Sa/vPjOofltQNTNgi+o9mqjwRd66L/s0epY5Lf+7t5IZzM6HULWrk3zhCqdqMxOOo2ayEVDdsCbT8xCAafo+gdhkPy4BMIRWd3ZPBBn+tpttuqkM8qupl+9h+6U7dPuLC8aBL0SbJHhTReY=;Lja4k5pbo8KpBUYMv0jWGg=="

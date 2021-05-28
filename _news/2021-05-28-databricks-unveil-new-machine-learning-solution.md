@@ -72,7 +72,7 @@ related:
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
     publishedDateTime: 2021-05-27T15:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379647.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
     type: article
     provider:
       name: TMCnet
