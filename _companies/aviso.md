@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "AvisoInc"
   url: "https://twitter.com/AvisoInc"
-  followers: 862
+  followers: 860
 
 locations:
   - Redwood City, CA
