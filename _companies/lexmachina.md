@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lexmachina"
   url: "https://twitter.com/lexmachina"
-  followers: 5328
+  followers: 5327
 
 size: 51-200 employees
 yearFounded: 2010
