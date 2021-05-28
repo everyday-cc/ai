@@ -47,6 +47,20 @@ related:
         width: 780
         height: 350
         isCached: true
+  - title: "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision"
+    excerpt: "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert vision giving industrial workers immediate access to the content,"
+    publishedDateTime: 2021-05-27T12:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision-1030471412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Why Data-for-AI Providers Need a Problem-Solving Mindset"
     excerpt: "“We started thinking about this as highly structured language data that could help refine AI engines. We started with English ... led vendor management practices typical of LSPs. “In translation vendor management, you build a relationship and work ..."
     publishedDateTime: 2021-05-26T12:13:00Z
@@ -118,6 +132,6 @@ related:
         height: 562
         isCached: true
 
-secured: "fxG71dGO/OGomCsA6aJBDvci3JLb+UVPUQ3DrtoaI//7rygtiJE1J2D8dRxC85U7pPHoqkPBhSuDpWExeKCW5k5RSAFyPTLzFZi0/oDIaBan0+cvnA87EPktwx3lqoyoZ64ADzj1Gguj8btTt/sIHHihMIndIRDt5YfRtkRERTPQfs6V9rBaGIfhL6ZdqlyI0rqOAysHPhZEBAOZ0OEvtNweW5EezfHHOoQXRzGK2Cw4LFZOaL/rDeuoPlhOiU/l7HjsXo7CuftK8hIsORdJkUTv/qSxCU11cLXll272LGlAVIQkrRfeV0Vvo5+uWtnrFYx8gCqp+7cSMW4UpKVRG8gQnR23J3UjskZizDfjhjc=;WwrrgMjUzLN8p8tgyW6Zpg=="
+secured: "4/kcawpZnAucybWHaioNQRL3Ud+FsCiuwwzHvKnfTTR3IPo6FewxpMCqNNfkrJ4ztIM7c36IZA08xgs0qjRsZFVgezsyO3Jo+xzTJQm/3kVTnt8t8lgkEj5RJXrfJRRnFCpZxe3RuVdpYmqO55NNOUPVTBlcDqM/IZN9WmEi0t6JT/Vy6ljyrhlnFWq8ZFBv2pWfYsG3iFvxESWzfL6sBa+X+gn6H1LFDa+BV74IgLNJRqU8thzKWxHJ3Etu+DAxpKzR0NaNTBQHb5+tGn2yolZKUB0ZDjALZpaQC4Ezt3h1ojeoSTr2leQiPrmk6d1DrGbwPdcnU/5rLdFBCw1gcqYBh8UKgOFhLlTBACQQw980uebxGhANZtboOxb1WqhOZ0+ImmKdHxv0az1BV3f3eLVUB8xPTrUUEuwVzD+TmVd9pBfQBQuWiIVhOpgniyFXAH0Eiy7S5ZSOYrrMDcJpXNXJNbyJHnuQskUUBOH4ZNfiHQhUgzsucY1LfwCr4X6soG+nlnXbqO/phTLM2sStQQ==;AJ68j/+g19L2+G2E3Mx02g=="
 ---
 

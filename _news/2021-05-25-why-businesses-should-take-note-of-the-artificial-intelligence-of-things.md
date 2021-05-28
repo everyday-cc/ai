@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/25/why-busine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/25/why-businesses-should-take-note-of-the-artificial-intelligence-of-things/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Applied AI takes the spotlight at Build 2021"
+    excerpt: "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week."
+    publishedDateTime: 2021-05-27T22:05:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What, me worry? Businesses missing the importance of ethics in AI development"
     excerpt: "Almost everyone involved in AI research at least pays lip service to the critical need for ethical and responsible programming."
     publishedDateTime: 2021-05-27T15:14:00Z

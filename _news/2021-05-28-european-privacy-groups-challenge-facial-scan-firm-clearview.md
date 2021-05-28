@@ -123,7 +123,7 @@ related:
     provider:
       name: Security
       domain: securityinfowatch.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200"
         width: 1200

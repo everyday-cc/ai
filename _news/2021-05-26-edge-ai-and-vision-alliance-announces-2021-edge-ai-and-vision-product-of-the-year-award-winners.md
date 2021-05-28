@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Edge AI and Vision Alliance Announces 2021 Edge AI and Vision Product of the Year Award Winners"
-excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards. The awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-publishedDateTime: 2021-05-25T21:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377729.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/25/9377729.htm"
+excerpt: "The Edge AI and Vision Alliance today announced the 2021 winners of the Edge AI and Vision Product of the Year Awards."
+publishedDateTime: 2021-05-25T21:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year/article_c481754c-ab14-5936-9d91-8923820d9113.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2021-edge-ai-and-vision-product-of-the-year/article_c481754c-ab14-5936-9d91-8923820d9113.html"
 type: article
-quality: 9
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year"
@@ -44,6 +43,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "wniiY1gLNDqjffbbk2O+aCFGCXAVhikNGqPQ4FPLQuTWpA6yNAUYIf40YzpbAoq58hc0FHM7eAjwpjs0MpeuCvAEz2lnDXrc3WxiMDTW3HenjGAkcXV2HccYuoibmIpXNe2coR+ZvYdrtx3ir1vlKJXZ7em+rMoIl0zA36MG6N9eq021qYBX/E5mzwobo3CQh8I02EfY5rUZcKMnEJcNEK09Gfcj/ALh3WMmL+fRvAIdBWV5knSosxAR3cqMYJWLXpN+GxL+XaFrhAtYQTrx3Fc8Rs7Xc3SqzJbYGl1JfQbjosjtROJz7AbmvKyP13+/tFqvpDb46nGMU7SOl7nUHA2n0ti2B1W5oBwlLLfJ6qU=;t5t+N1uQMKEYnX3Rcz6gNA=="
+secured: "xMsk64N4oJo35A9mLoMAiDOLX4+RMMaCB7X91b30NV0S9jq/nyEiHSRYGeQQ1uLMX1lrDfJVEMTaG7uTsQcxJ30HxtlBww2rKAM3ik7PZwnYkgXGFP3vRI8WXk+xWEr11DzX1T1G0cghNHRuCRthb9MW/0lA7wfzyRjkBz0K98AT8BXOqw0XNOU2GlzmuGrTDag9ML9caF3DHfYvbeo9tmcMzTcdMJb+uNrWISnPW2YAl3kZnBPWIAAbmLEE7Ab1S/yuuyIsRiL4DDwBQOY1S40BJAh3mtJo1kQUTU/vkrQ4XXrvw6aRcYDeHw0x/f1zwLMSXHMC2CD7cjwknkP3qvGv2ipUKhm2LJqbbB29xSk=;EiU0iq7fk+xJWLUbF/rNjw=="
 ---
 

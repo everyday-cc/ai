@@ -45,6 +45,22 @@ related:
         width: 4000
         height: 3300
         isCached: true
+  - title: "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer"
+    excerpt: "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing."
+    publishedDateTime: 2021-05-27T22:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Perlmutter.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "6,000 GPUs: NERSC Says Perlmutter Delivers 4 Exaflops, Claims Top Spot in AI Supercomputing"
     excerpt: "Claiming the no. 1 position among AI supercomputers, the U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
     publishedDateTime: 2021-05-27T17:31:00Z

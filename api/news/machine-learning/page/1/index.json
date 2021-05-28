@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
+      "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
+      "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/AWS-Thomas-Cloer-Flickr-e1568998070790.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/",
+      "publishedDateTime": "2021-05-27T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
       "title": "How AI and machine learning help fight the COVID-19 battle",
       "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
@@ -62,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1387,58 +1440,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
-      "title": "Google Vertex AI unifies cloud machine learning toolkit",
-      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
-      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
-      "publishedDateTime": "2021-05-17T21:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

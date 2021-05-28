@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-27-nvidias-next-major-wave-of-ai-revenues.md",
+      "title": "Nvidia’s Next Major Wave Of AI Revenues",
+      "excerpt": "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
+      "originalUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
+          "width": 937,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
+      "publishedDateTime": "2021-05-26T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-artificial-intelligence-ai-in-supply-chain-and-logistics-market-the-latest-trends-ibm-google-baidu-microsoft.md",
       "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market: The Latest Trends | IBM, Google, Baidu, Microsoft",
       "excerpt": "The latest analysis released by HTF MI on Global Artificial intelligence AI in Supply Chain and Logistics Market Outlook 2020 Survey results sheds light on how investment and competitive landscape is impacted due to significant changes in the Artificial intelligence",
@@ -469,7 +512,7 @@
       "originalUrl": "https://www.geekwire.com/calendar-event/data-ai-ai-finance-impact-applications-adoption-sravan-kasarla-cdo-thrivent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1184,58 +1227,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026.md",
-      "title": "Emerging Face Recognition Systems Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2026",
-      "excerpt": "(The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Face Recognition Systems Market”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

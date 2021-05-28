@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Databricks Unveil New Machine Learning Solution"
+    excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
+    publishedDateTime: 2021-05-27T21:57:00Z
+    webUrl: "https://www.datanami.com/2021/05/27/databricks-unveil-new-machine-learning-solution/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/robots_digital_shutterstock_Ryzhi.jpg"
+        width: 900
+        height: 454
+        isCached: true
   - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
     excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with"
     publishedDateTime: 2021-05-27T15:30:00Z

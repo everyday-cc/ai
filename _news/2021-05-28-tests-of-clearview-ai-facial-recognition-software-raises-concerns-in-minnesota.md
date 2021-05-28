@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-27T20:28:00Z
 originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota"
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200"
@@ -161,6 +162,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "qjhD5n7sfuSDtP7UqcnmBE4QoLhlhkCdQwAraO5HxaxmUbjb3LXEm4Hk0ZAKRes74exs+LhXS6pN8/Xt6Hd5X//jwt0iUx4oETimfkI+1Qg/QKMrv6Bae4otWL3MVqe3vBFqsAxca1Ms+nuin+NJY7FZiXuKAz7j2Ur52LSOefV6hvj4gGK3DAWgjYajndEYK1tiagzUYe22PxSNJOBGSMyTYBHQ7gyFGCcIBTgsIPfPeEWjvdANKU7rVf5NYUUdALAi/8bx+cQltdgeOSvUBhZKhMG/CP9PnYhAdGt7HTimb2Gbtc55gjEa4H8ZBQs/xM6PQHO+GZ7YSbQJ0kgVPBcGKoVB1Gn7WRHWbNjQ33U=;rvBV6fIGyWBHxGhiVgjV8g=="
+secured: "6V6G4Rn1M2jSbwzsu0EhKqNZbP6g+QDw7xFiZOlhjG3gIWyKoxMu3SxO3XEZyaSAG7WLoag4dqeoULO0B3HBktrsPCtTNcJw2qnxNCV6tIbFd4wyu6whMZegjpZp48zZDzVvNa6PQJYF7pXJf+Qd6IJb3d8IQCaRQ0BkVOg5suOyoE7Pwy6jf6O65NDhf3t8qpeG1z0Jl5iBsF2ZdSXem/idgmlFzNX7V/fT1qZ87VKhjWPvwWmXywV1fNQwM0fPLtq6NgdxHF9g7f0/5N4NpL+33ujYJ620U9iKGE9JFOE7qGajV1pTL3HZr/IeN1ugCOUCJw91MBQK5s08OaY43aI6bmgVs7InpjjTzBzANDNBuCzxrSi+n8HxByxojUQDKuOgfMDOFRsU1mgw7dXR4xbA25WZAifYNA+Ey+D3D9ixwPBZMaMaGsj/0AcVfqe//W9evIequE/lyzrrkj0RwNZP9bf3k7lHXAhh8UjZnPRpYsFWwWn5sdraS1IS9pGtvBl38cq9IiQuJ/QT1C706w==;wrCyovac/iEsevzJMZCOeQ=="
 ---
 

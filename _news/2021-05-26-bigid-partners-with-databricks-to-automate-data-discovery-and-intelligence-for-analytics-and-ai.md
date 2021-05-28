@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Databricks Unveil New Machine Learning Solution"
+    excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
+    publishedDateTime: 2021-05-27T21:57:00Z
+    webUrl: "https://www.datanami.com/2021/05/27/databricks-unveil-new-machine-learning-solution/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/robots_digital_shutterstock_Ryzhi.jpg"
+        width: 900
+        height: 454
+        isCached: true
   - title: "SD Times news digest: OpenAI Startup Fund, JFrog Private Distribution Network, and Databricks Data Live Tables and Unity Catalog"
     excerpt: "The companies in the fund will also get early access to future OpenAI systems, support from its team and credits on Azure. The application and more information about the fund is available here. JFrog’s new JFrog distribution capability is part of the JFrog DevOps platform and it enables enterprises to easily set up and manage a secure,"
     publishedDateTime: 2021-05-27T15:53:00Z

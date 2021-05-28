@@ -1,20 +1,20 @@
 ---
 category: news
 title: "University of California, San Francisco joins forces with Philips to enhance the digital patient experience with Philips HealthSuite"
-excerpt: "Collaboration takes a Silicon Valley approach to the Quadruple Aim, setting new standard for modern healthcare with end-to-end"
-publishedDateTime: 2021-05-26T15:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/university-of-california-san-francisco-joins-forces-with-philips-to-enhance-the-digital-patient-experience-with-philips-healthsuite-1030467770"
-webUrl: "https://markets.businessinsider.com/news/stocks/university-of-california-san-francisco-joins-forces-with-philips-to-enhance-the-digital-patient-experience-with-philips-healthsuite-1030467770"
+excerpt: "Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, and the University of California, San Francisco (UCSF"
+publishedDateTime: 2021-05-26T15:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/university-of-california-san-francisco-joins-forces-with-philips-to-enhance-the-digital-patient-experience-with-philips-healthsuite-2021-05-26"
+webUrl: "https://www.marketwatch.com/press-release/university-of-california-san-francisco-joins-forces-with-philips-to-enhance-the-digital-patient-experience-with-philips-healthsuite-2021-05-26"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "YPxBx6DDcak3Svy1g/ZnEDr7AOCLSqea63nkjr9NwLiPACBQsWe1x4uJqBXySJBd0T/tMHZBlDC5cIjCcSffMcVPdKh7YPZvdaRVr2cHYvN5lHhj4aFlNAxfTc+wt4qlC6eLiJmUaUCOc/E4xPX8VpmOc+t30NBqbo+2eDoaS+rcI6CivoTANOt/v3ECTFyXo15bMZ/nPEwD9VQbf7nsKDd/gw6DWwHUUx1oZ7sKHQASXtNQqSX7ig44nyKHbJbD6ZxEHT8W1HghMVZy8xCCs5OvLayGEUcg/gkq78cX2R7rOZsqk4oZ//U8JSPOc85urknnwzgXnMs7hnK019Es4q3jHz+Sj3Mux6U9J8mQ7yw=;QnLLMSTXMvBT1/x144YTXA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "y7bV2Tl8rPqO/dhO/U4xlQNENBlzQ42pYjRA2WS7RCwMsxeFYErjshL8GM86BlwFI8O4IZCdop+labiawfj31SDackbT7C2A43b4FB9zh3kT5P/f9L4HopzfvjRXbxZ0pxs3JlZMH6KKVWo4r6Ffwv5yJ+7HIvp4lz+yZu1wKx+x+027VgFVlxf2HlZ9p2rWLdF+wBXWkFojMlwgxD+7Rb3hmWdIsUbmrZS9e34gXSBKb3uTksftdvLISHSkZqs9+oG/hwjQEnV1Sb2Ya6RbbmpSMSMj0zty+oZcGZWYH7IvR2V9oBIGNQwW3YLxfDNBJJ8rvIw6lwCA77XZDbkv1O2sW8c1OaXFAHLLyhlbNkI=;MmYphzky6y0BRpHHY+CbCg=="
 ---
 

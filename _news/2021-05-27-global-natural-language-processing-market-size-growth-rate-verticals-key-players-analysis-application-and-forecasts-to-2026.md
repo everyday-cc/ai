@@ -37,6 +37,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "IoT In Healthcare Market to Make Great Impact in Near Future by 2026"
+    excerpt: "Overview: Globally, the healthcare industry is at transition stage, where the rising competition level, changing business models, customer demands, increasing health concerns, and"
+    publishedDateTime: 2021-05-27T22:27:00Z
+    webUrl: "https://www.pr-inside.com/iot-in-healthcare-market-to-make-great-impact-in-near-future-by-r4832214.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 19
 
 secured: "0DtBbwtgjrNeUy3XhtaxgU1G1DqqhJbdty1JZTC65moCygQ8C+my29yAFOFv/dcpHp2SUR+UGgqCBQqP1QBA4DM5DifB9OKJV5OHNmaNlRPycK7bSYV27Y82BIBf9iSsrOlonF5rXS6I0F2RhUjchNgW1aFreWnCHN2YXwcrXuV4sGOunio9FKy2/7iCNOMNAhtd2NG75NCizfge19igGwyjAHMIBICcDMelnVs4KRm2/aJBxkl01GjSVWuKPljBFLmJiHxgE2KiUw2ffllKQRCXqHW1Cn/ezYqgNMH542HiggIJ6P3lej6hoIGCRMgmmcHl/XtXexvcmxPCpJFUL5b1uw5sTQnnKaSCoMByACs=;KpMqD5PbelHJJeMnWKVdAA=="
 ---

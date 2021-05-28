@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/data-ai-ai-finance-impact-
 webUrl: "https://www.geekwire.com/calendar-event/data-ai-ai-finance-impact-applications-adoption-sravan-kasarla-cdo-thrivent/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

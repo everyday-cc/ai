@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-22-computer-vision-developer-stradvision-to-showcase-its-most-advanced-perception-camera-for-autonomous-driving-adas-at-auto-tech-2021.md",
+      "title": "Computer Vision Developer StradVision to Showcase its Most Advanced Perception Camera for Autonomous Driving & ADAS at Auto Tech 2021",
+      "excerpt": "StradVision, a pioneer in AI-based vision processing technology for autonomous vehicles and automotive ADAS systems, will showcase the latest features of its camera perception software named “SVNet” during The China Guangzhou International Automotive Technology Expo 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
+      "originalUrl": "https://www.futurecar.com/4632/Computer-Vision-Developer-StradVision-to-Showcase-its-Most-Advanced-Perception-Camera-for-Autonomous-Driving-&-ADAS-Next-Week-at-Auto-Tech-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202105/21/l_60a838a13e331.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
       "title": "Best practices in customer service automation",
       "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
@@ -1033,6 +1076,40 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai.md",
+      "title": "RAI INDUSTRY SHOWCASE SHAPING UP TO BE THE BIGGEST EVENT IN UK ROBOTICS & AI",
+      "excerpt": "Robotics & AI Showcase, 25 - 27 May, has more than 70 exhibitors booked in and over 800 visitors registered to attend and counting, making it the biggest robotics and AI events of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/05/21/rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai/16895/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/05/21/rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai/16895/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-big-brains-new-books-on-artificial-intelligence.md",
       "title": "Big Brains: New Books on Artificial Intelligence",
       "excerpt": "Reading ‘Genius Makers,’ ‘A Brief History of Artificial Intelligence,’ ‘Atlas of AI’ and ‘Futureproof.’",
@@ -1135,102 +1212,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-appteks-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks.md",
-      "title": "AppTek's Workbench Delivers 85% More Efficiency in Computer Vision and Speech Recognition Data Labeling Tasks",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced significant productivity gains through improvements to its Workbench Data Annotation and Labeling Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-s-workbench-delivers-85-more-efficiency-in-computer-vision-and-speech-recognition-data-labeling-tasks-1030454962",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1515605/AppTek_Workbench.jpg",
-          "width": 400,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-the-american-academy-of-thermology-announces-the-formation-of-new-platforms-for-artificial-intelligence-in-medical-infrared-imaging.md",
-      "title": "The American Academy of Thermology Announces The Formation of New Platforms For Artificial Intelligence in Medical Infrared Imaging",
-      "excerpt": "The American Academy of Thermology (AAT), the nation's premier medical thermology organization whose mission is to promulgate the use of infrared imaging into clinical medicine, announces the creation of three new platforms which will utilize a",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19819004.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19819004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

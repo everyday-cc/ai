@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
+      "title": "Google Vertex AI unifies cloud machine learning toolkit",
+      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "publishedDateTime": "2021-05-17T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-google-and-seagate-think-they-can-tell-when-your-hdd-will-fail.md",
       "title": "Google and Seagate think they can tell when your HDD will fail",
       "excerpt": "Google Cloud and Seagate has devised a machine learning (ML) system to predict when disks inside Google’s data centers might fail. Despite their volatility and high fail rates, hard disk drives (HDD) are the preferred means of housing data inside a data center.",
@@ -1341,58 +1393,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-smart-breakthrough-uses-artificial-neural-networks-to-enhance-travel-behavior-research.md",
-      "title": "SMART breakthrough uses artificial neural networks to enhance travel behavior research",
-      "excerpt": "SMART researchers created a synthetic framework known as theory-based residual neural network, which combines discrete choice models and deep neural networks, to improve individual decision-making analysis used in travel behavior research.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/smart-breakthrough-uses-artificial-neural-networks-enhance-travel-behavior-research-0507",
-      "originalUrl": "https://news.mit.edu/2021/smart-breakthrough-uses-artificial-neural-networks-enhance-travel-behavior-research-0507",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202105/hong-kong-traffic-smart-mit-a1.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

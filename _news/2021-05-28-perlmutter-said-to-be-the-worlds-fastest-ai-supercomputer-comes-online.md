@@ -41,6 +41,22 @@ related:
         width: 4000
         height: 3300
         isCached: true
+  - title: "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer"
+    excerpt: "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing."
+    publishedDateTime: 2021-05-27T22:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Perlmutter.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
     excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
     publishedDateTime: 2021-05-27T19:42:00Z

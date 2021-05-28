@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind loses negotiations with Google for more autonomy"
-    excerpt: "DeepMind, the unit at Google Inc. dealing with Artificial Intelligence, has lost in its attempts to coax the leaders at the parent"
-    publishedDateTime: 2021-05-23T06:56:00Z
-    webUrl: "https://techstory.in/deepmind-loses-negotiations-with-google-more-autonomy/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/images-1-11.jpeg"
-        width: 783
-        height: 391
-        isCached: true
   - title: "Google calls off Deepmind talks"
     excerpt: "We don't want free-thinking here Senior managers at Google artificial-intelligence unit DeepMind have been negotiating for years with the parent company for more autonomy. The arm wants an independent legal structure for the sensitive research similar to the one used by nonprofit groups."
     publishedDateTime: 2021-05-24T10:33:00Z

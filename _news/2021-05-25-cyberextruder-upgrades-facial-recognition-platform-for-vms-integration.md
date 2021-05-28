@@ -28,11 +28,11 @@ related:
   - title: "Cops deliver special recognition for 4th grader"
     excerpt: "His teachers wanted to do something special for him in honor of a well-earned academic achievement. Rafael wants to be an officer one day, so the Madera Police Department made a visit delivering a special bag of goodies."
     publishedDateTime: 2021-05-27T20:40:00Z
-    webUrl: "https://abc7news.com/localish/cops-deliver-special-recognition-for-4th-grader/10594886/"
+    webUrl: "https://abc11.com/localish/cops-deliver-special-recognition-for-4th-grader/10594886/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: WTVD
+      domain: abc11.com
     quality: 24
     images:
       - url: "https://cdn.abcotvs.com/dip/images/10594885_050721-localish-LSH5335-MADERAPOLICEHONOR4THGRADER-KFSN-vid.jpg?w=1600"

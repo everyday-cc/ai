@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289232/nlp-in-healthcare-life-sciences-market-forecasts-to-2026"
 type: article
 quality: 76
-heat: 87
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "IoT In Healthcare Market to Make Great Impact in Near Future by 2026"
+    excerpt: "Overview: Globally, the healthcare industry is at transition stage, where the rising competition level, changing business models, customer demands, increasing health concerns, and"
+    publishedDateTime: 2021-05-27T22:27:00Z
+    webUrl: "https://www.pr-inside.com/iot-in-healthcare-market-to-make-great-impact-in-near-future-by-r4832214.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 19
   - title: "Global Natural Language Processing Market Size, Growth Rate, Verticals, Key Players Analysis, Application and Forecasts to 2026"
     excerpt: "The need to make sense of unstructured data and extract insights is expected to drive the adoption of NLP solutions and services which will contribute to the growth of the NLP market The global Natural Language Processing NLP market size"
     publishedDateTime: 2021-05-27T05:35:00Z

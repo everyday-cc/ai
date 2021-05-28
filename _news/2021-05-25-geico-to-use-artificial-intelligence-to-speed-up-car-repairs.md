@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/geico-to-use-artificial-intelligenc
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/geico-to-use-artificial-intelligence-to-speed-up-car-repairs-11621944000"
 type: article
 quality: 102
-heat: 123
+heat: 122
 published: true
 
 provider:

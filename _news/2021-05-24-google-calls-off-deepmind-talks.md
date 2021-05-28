@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/52916-google-calls-off-deepmind-t
 webUrl: "https://www.fudzilla.com/news/ai/52916-google-calls-off-deepmind-talks"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind loses negotiations with Google for more autonomy"
-    excerpt: "DeepMind, the unit at Google Inc. dealing with Artificial Intelligence, has lost in its attempts to coax the leaders at the parent"
-    publishedDateTime: 2021-05-23T06:56:00Z
-    webUrl: "https://techstory.in/deepmind-loses-negotiations-with-google-more-autonomy/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/images-1-11.jpeg"
-        width: 783
-        height: 391
-        isCached: true
   - title: "Watch Google Deepmind's AlphaGo Documentary for Free"
     excerpt: "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ..."
     publishedDateTime: 2021-05-24T00:00:00Z
