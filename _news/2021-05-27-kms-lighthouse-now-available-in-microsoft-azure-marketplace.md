@@ -183,6 +183,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How do you apply AI to Azure? Microsoft explains"
+    excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
+    publishedDateTime: 2021-05-28T07:15:00Z
+    webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
+    ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 71
   - title: "Senseye PdM Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime."
     publishedDateTime: 2021-05-27T16:14:00Z
@@ -200,7 +211,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
     type: article
     provider:
       name: CRN

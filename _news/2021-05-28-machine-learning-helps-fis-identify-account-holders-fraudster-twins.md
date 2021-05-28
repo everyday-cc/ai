@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/digital-onboarding/2021/machine-learning-helps-f
 ampWebUrl: "https://www.pymnts.com/digital-onboarding/2021/machine-learning-helps-fis-identify-account-holders-fraudster-twins/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-onboarding/2021/machine-learning-helps-fis-identify-account-holders-fraudster-twins/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/Feature-Image-36-457x274.jpg"
@@ -26,6 +27,6 @@ images:
     height: 274
     isCached: true
 
-secured: "jxiYuXsAL/b+dLaDL/oNAyBdug7Buz7/zu61/VQZ7yEcEQ2F3cCFROromV7IOkg8OJ8zchMV3aNJ+zQoogJaxTnworlv1soFx+nV22l23jia2mrz4birXq0vYQpL1k8j/ECUXSukGOLwM3tGnyGGrHIKimnAQGuNOBEpp98BglAtbbywAvju1gN77oIqCNuUKwHWLkazl++QnhFNmQHhFomaqM8xcd58RLRvrg6xqIjznwwqE7eTJpDFmUNJlkf+mVKoLyu0N/qcwc/ydf4VmAQgQdaLHmI8kqPM2eU3HMfJsHQeP5QsIBLzNSF9nxWPkhk0RbfcJBPYSUyGii9hfALVk5pVo43JAggb1NeT++o=;4xlT5J9Q5bi+wF0Vp48/zQ=="
+secured: "IX0wbTDupXar9lZ9CV6QFeQBsPvd7MRFbUCEn5K1x4v4AxVbmKB4B0kZvab2W5Jla6aBenq7Du5zOHKSU+F5qfhuogxhsivQvGdzk6PatU3bTNF+PWZ1BdwjjLw/muimp89E8EovxnlWBWggeQQmzavzNu7vNCXZ16A1ZCG4xCeNWVv6h+KWob15ELNSoldgmBLxNwdWW0RMtxLQ9F5gAfmItBjyvQC2lP/tjFMReS6/dsAfjq5S9NZ0/VsfaxKgG34Io+OOSX1NNNkyGpUf5cDu1dbaFvBcX2dBasVVDGvbVT4VqOZfzDpgEybVVErKTtmm5RDMSjTnwnd81/ZGQ3CkLd+L4bIBt+ODfOWkN3nl/YIe1U8Qo1ZKjztzGlX5ANaow9aF+rBP08AFKn6kukmDKbAzIyCBug3+dnV8ZLu5nHj8vV8zSDYS1XZ3BrmPGnZdBHk6ndG2/6RF6pgWa+4wz6tmxyeP/nhiUPaFRLBn0pX/IIeBodCP4lmAlS6WrHBtFKbN75YPvThvUsn+XA==;Kvx+5yOcVuXzOS3kYijd4w=="
 ---
 

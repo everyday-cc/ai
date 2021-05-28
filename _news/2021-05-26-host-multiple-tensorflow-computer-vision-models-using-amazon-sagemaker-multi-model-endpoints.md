@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensor
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints/"
 type: article
 quality: 129
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
+  - title: "How TensorFlow Lite Fits In The TinyML Ecosystem"
+    excerpt: "TensorFlow Lite has emerged as a popular platform for running machine learning models on the edge. A microcontroller is a tiny low-cost device to perform the specific tasks of embedded systems. In a workshop held as part of Google I/O, TensorFlow founding ..."
+    publishedDateTime: 2021-05-24T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-tensorflow-lite-fits-in-the-tinyml-ecosystem/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/tensorflow-lite-1024x576.gif"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "c9aafJ9r7NFJiDyHLFZF2KI9ncELh7cuRDokHdBYU3mcFk/oGPo/0bmlo/0dRoU8gTMtrlkvXlSeimPIFt/IndeyEeybgouxIGN0R/2zqoycefPouM7ZX4nGTkJwGW0/ZkN7m0OF7/1IeGFu3icIzgYaoLC/sS0c+dDZ1kqrtoLpYZqcDlX1a+aYm2+HC4jy8M3JyJWdJdJSjUa19y9TPsjKDBjy9WomrIJnUSJnNh9N9QbXWOQrXT2nEUYo5tfhiRqK5wwTiTUiNgD9x+Wa2lELDzazSpKINIjp3RV5LEmymYhfiknEDnAZ5QR7lf43Hf8faRsTShNK6Fjrxe5HjAz0gkszUBi8oS3J4CO5eYc=;qZaf3Ki4P1O2sSIL686WYQ=="
 ---

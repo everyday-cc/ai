@@ -92,20 +92,20 @@ related:
         height: 675
         isCached: true
   - title: "Privacy groups file complaint to EU countries over facial recognition technology"
-    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition"
-    publishedDateTime: 2021-05-28T08:45:00Z
-    webUrl: "https://www.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
-    ampWebUrl: "https://amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
+    publishedDateTime: 2021-05-28T10:25:00Z
+    webUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
     type: article
     provider:
-      name: RFI
-      domain: www.rfi.fr
+      name: Modernghana.com
+      domain: modernghana.com
     quality: 69
     images:
-      - url: "https://s.rfi.fr/media/display/8b645cec-5f20-11eb-87ed-005056a964fe/w:1280/p:16x9/4295d2e4dc504e6087fae39d501c19615044132c.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Clearview AI Hit by Wave of European Privacy Complaints"
     excerpt: "Clearview AI Inc. was hit by a wave of complaints across Europe for allegedly breaking the region’s tough privacy laws by scraping billions of facial images from social-media profiles and the internet."
@@ -134,6 +134,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 643
+        isCached: true
+  - title: "Facial recognition: Legal complaints lodged against Clearview AI in five countries"
+    excerpt: "Privacy campaigners filed a series of legal complaints with five European regulators against the US tech firm Clearview AI on Thursday, alleging the company scraped facial images of 3 billion people from the web without their knowledge or permission,"
+    publishedDateTime: 2021-05-28T10:07:00Z
+    webUrl: "https://www.computing.co.uk/news/4032109/facial-recognition-legal-complaints-lodged-clearview-ai-countries"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 48
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/389858a/efa7e633-dc2f-4f30-92f4-8b0b5f86cfd1/2/surveillance-eye-370x229.jpeg"
+        width: 370
+        height: 229
         isCached: true
   - title: "European privacy groups challenge facial scan firm Clearview"
     excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."

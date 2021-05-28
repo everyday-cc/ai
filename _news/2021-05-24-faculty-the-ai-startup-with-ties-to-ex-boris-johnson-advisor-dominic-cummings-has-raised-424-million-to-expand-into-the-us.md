@@ -58,6 +58,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Brazil: AI startup Adroit Robotics raises seed funding"
+    excerpt: "Brazilian startup Adroit Robotics has raised 2.25 million reals ($427,000) in seed funding. The capital has come in from several new private investors, including Pericles Pereira,"
+    publishedDateTime: 2021-05-28T11:46:00Z
+    webUrl: "https://www.freshplaza.com/article/9325477/brazil-ai-startup-adroit-robotics-raises-seed-funding/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 69
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/05/28/Add.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/Nsei3AuCRO/GsuLtmG8uG5hMNbPwNkuN4IbXhmvNMPif8kdwb751gFAcHyvX08D7D5uyto6wF0bDck1luanWFKa1rZxvx6V/16yhm+lKDFH4EoehzBtRFnHgvYxVqfKu6DonTqG5GXWWZtkJkxkMXS7gSB8N59S75cH1pTxWdQRmvUToogxwiCdEUzNixcFued/NfD2pltTGWEkwkm55sapv4MB55rfS28vI1OQpFvRfSHeZuhM1fBlX2zB/nVschgbM38KoPjghZbq50M2X8qPbYeIFTt8i6+zZeSL5mLehcqp+Z3NSEn8PEBgIR1CplNpOuVhcpSTNG1isatYd+IcWYv5/ScEmnGmS0yHaw8t7B2nS0JyfoHSoGunouP54ODHjccEGyexUYHCo4Dnf4/C2N2MmIQvVNexY8/vt/grRQBp4T65o1SQzGkEh878tjvFkzLpBoG+0BJoasoU1j0VrhKPbz5JPtjwJU43kpMumSGUy653WqV8uRHwki3vKQaz1lXrt6VRkso8pyHfeQ==;rK38ykAJ/88miaZ7WJYYmg=="
 ---

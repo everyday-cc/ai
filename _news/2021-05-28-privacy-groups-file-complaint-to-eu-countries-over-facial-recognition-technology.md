@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Privacy groups file complaint to EU countries over facial recognition technology"
-excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition"
-publishedDateTime: 2021-05-28T08:45:00Z
-originalUrl: "https://www.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
-webUrl: "https://www.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
-ampWebUrl: "https://amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
-cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
+publishedDateTime: 2021-05-28T10:25:00Z
+originalUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+webUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+ampWebUrl: "https://www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: RFI
-  domain: www.rfi.fr
+  name: Modernghana.com
+  domain: modernghana.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.rfi.fr/media/display/8b645cec-5f20-11eb-87ed-005056a964fe/w:1280/p:16x9/4295d2e4dc504e6087fae39d501c19615044132c.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 643
         isCached: true
+  - title: "Facial recognition: Legal complaints lodged against Clearview AI in five countries"
+    excerpt: "Privacy campaigners filed a series of legal complaints with five European regulators against the US tech firm Clearview AI on Thursday, alleging the company scraped facial images of 3 billion people from the web without their knowledge or permission,"
+    publishedDateTime: 2021-05-28T10:07:00Z
+    webUrl: "https://www.computing.co.uk/news/4032109/facial-recognition-legal-complaints-lodged-clearview-ai-countries"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 48
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/389858a/efa7e633-dc2f-4f30-92f4-8b0b5f86cfd1/2/surveillance-eye-370x229.jpeg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "European privacy groups challenge facial scan firm Clearview"
     excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."
     publishedDateTime: 2021-05-27T15:34:00Z
@@ -177,6 +191,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "m/sZUbUgQHKV9D91rybB80kKkzskeizKHBNeXMbP7nw8zlcgQCZKt80HbUrhDCIepsIHvt2J6thHYVzyb4lJsFeCWVxgPmU/TgsRiLLN+r2RjdYEMzmISnu8oIuBsPdbnztWWld+M2oztik8PagYd1U+VMMmWeh1JFKIAItPQdKxsb9J7sq+/6Fu6ltglKSirmS6KIMpBgcPwh0h6ORB0vT/OYR0gsdX10qmLvVdR0YzS2iAN44o/VAV+dYW48zdhaETRZx6upOEwy/QL2REHgMHn8Jxqwl79+n97bFIFkxBuBfsnxBj+PUIoeV7h73PQCq4OK11NHe2kRXIw29x6BeZ+SqTNcY62IfE2cWwIFY=;fX6ggYWbtbtwggPcL33ZGw=="
+secured: "UOWg3WPnbOecw00A7e7WklcP87pV5mXbG2zFP2HUrdvjPwtPVe0MB3k2paI/u+qKXgX6xl6I2lw7RlPmcopR33EDtnvTbgnzT57JklvDtZlwlZS2ZP1KUS07xfxLzrRqtpWSZYuWuKqx3GbDln/jaMcseSVuTliWFQyNdefLwAEyTTSybL2yI5mSkK5Hbv5y3lEKXEzIRc+SDqw5/QN4NZmB69KnoP+nBpqduBCPLvwTskiCyWujeFcPI+u0GiCQAD7ncDojbv3qY8bHY3atOPTCo+4zt19kYWcNa9dF6nMjKBKDkiP/Wl2+E9dK8V7srwOHRY/+rZh0lzfYEQ41gOJAEYQCMQe911YdTDvDABg=;wvwaZGLy4l3NXbglZcFrlQ=="
 ---
 

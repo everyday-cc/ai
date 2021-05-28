@@ -174,6 +174,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How do you apply AI to Azure? Microsoft explains"
+    excerpt: "These services combine Azure Cognitive Services with task-specific AI and business logic, so developers can accelerate building AI solutions for common scenarios, such as document processing, customer service,"
+    publishedDateTime: 2021-05-28T07:15:00Z
+    webUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/"
+    ampWebUrl: "https://www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/apply-ai-azure-microsoft-explains/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 71
   - title: "KMS Lighthouse Now Available in Microsoft Azure Marketplace"
     excerpt: "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft"
     publishedDateTime: 2021-05-26T17:00:00Z
@@ -205,7 +216,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/4"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
     type: article
     provider:
       name: CRN

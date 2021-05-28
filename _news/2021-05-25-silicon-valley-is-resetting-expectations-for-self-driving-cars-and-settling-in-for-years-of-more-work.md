@@ -93,6 +93,22 @@ related:
         width: 1179
         height: 663
         isCached: true
+  - title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
+    excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
+    publishedDateTime: 2021-05-28T11:57:00Z
+    webUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
+    ampWebUrl: "https://www.azosensors.com/amp/article.aspx?ArticleID=2237"
+    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/article.aspx?ArticleID=2237"
+    type: article
+    provider:
+      name: Azo Sensors
+      domain: azosensors.com
+    quality: 59
+    images:
+      - url: "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/ImageForArticle_2237_1622198779183791.jpg"
+        width: 1000
+        height: 620
+        isCached: true
   - title: "More efficient lidar sensing for self-driving cars"
     excerpt: "If you see a self-driving car out in the wild, you might notice a giant spinning cylinder on top of its roof. That's a lidar sensor, and it works by sending out pulses of infrared light and measuring the time it takes for them to bounce off objects."
     publishedDateTime: 2021-05-25T11:29:00Z

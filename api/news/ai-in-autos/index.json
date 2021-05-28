@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-28-britains-first-self-driving-bus-launches-in-cambridge.md",
+      "title": "Britain’s first self-driving bus launches in Cambridge",
+      "excerpt": "Self-driving buses will drive alongside other traffic for the first time in the UK as part of a trial in Cambridge. The three-wheel ‘autonomous passenger shuttles’ or ‘Auto-Shuttles’ were launched Thursday at the University of Cambridge.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/",
+      "originalUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/05/Grey-Autonomous-Shuttle-May-2021.xb009f880-fff1.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/28/britains-first-self-driving-bus-launches-in-cambridge-14666619/amp/",
+      "publishedDateTime": "2021-05-28T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-russias-sberbank-unit-unveils-self-driving-vehicle-flip.md",
       "title": "Russia's Sberbank unit unveils self-driving vehicle FLIP",
       "excerpt": "SberAutoTech, a subsidiary of Russia's largest lender Sberbank, has developed a fully self-driving vehicle, FLIP, which the company on Thursday described as a \"taxi of the future\".",
@@ -114,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1409,49 +1452,6 @@
       "provider": {
         "name": "The Star",
         "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-tesla-driver-who-died-in-crash-praised-full-self-driving-in-tiktok-videos.md",
-      "title": "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos",
-      "excerpt": "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/",
-      "originalUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/05/tesla_driver_dies_tiktok_videos.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/steven-hendrickson-death-tesla-tiktok-videos/?amp",
-      "publishedDateTime": "2021-05-16T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -57,6 +57,15 @@ related:
         width: 3482
         height: 2250
         isCached: true
+  - title: "Artificial neurons recognize biosignals in real time"
+    excerpt: "Researchers have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures."
+    publishedDateTime: 2021-05-27T20:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210527112501.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "oRUkvD/W3NrCpL6uqR4oUg+QHQLwGRHlC7bB/FcEb2WkHaa32Ysr2nqahr6r+/rkNmHOF7hjfDkS+Z9HBYvkxP2tpxJGU/0WqLCl2sn6OiBg843fk5cK7rjNhRUzQB6Qw8v4hFUEZ8komz8x0xeYcoMGIomHK14mT3bjuzq9zOXgiVwnv+KN9MVGhL+8ws2dhyXCZqmmuLaErnGdwtPeRogtSfn0jQEJqke0ooxR8XnrsPA6pXT1jOTUSPUExo1j03+ceaLzJVEKup/eXs27IWRAC1F2qYTanMPTiNO/Ug4ErYMdaBHttKTeLgrxXctPPD26G4mXwU+8spCJgvVUEpHFeLVF77BXnJOu8zJL5ZbiNyj+Vxb/GRD86ei/sn9+tPm4Jbx/O/Pj7sBVn93TloePpfFNeLnOPAByweeKotLTKwy9pc0K2FKXNwzINXMZD54mdfLVCk0+ST2kpB44JMiRiuKI3Dd4NISdH5bycBSJ0+HKw9RFmZ3KLuz0NLW1kvXfTgCYYILfndfZ23zVLA==;DFHrV+S+EQxK+TcuGPIDKw=="
 ---

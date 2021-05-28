@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-28-ai-rises-to-the-challenge-with-cobol.md",
+      "title": "AI rises to the challenge with COBOL",
+      "excerpt": "From Connecticut to California, states across the country are in desperate need of COBOL - Common Business-Oriented Language - programmers. When the deluge of coronavirus-related unemployment claims began pouring in at the pandemic’s onset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/ai-rises-to-the-challenge-with-cobol",
+      "originalUrl": "https://www.techradar.com/sg/news/ai-rises-to-the-challenge-with-cobol",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/ai-rises-to-the-challenge-with-cobol",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/ai-rises-to-the-challenge-with-cobol",
+      "publishedDateTime": "2021-05-28T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-lemonade-jk-jk-we-dont-use-facial-recognition-to-reject-your-insurance-claims.md",
       "title": "Lemonade: JK, JK, We Don't Use Facial Recognition to Reject Your Insurance Claims",
       "excerpt": "The insurance startup is walking back tweets saying its AI-trained facial recognition could detect fraudulent claims.",
@@ -1453,49 +1505,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-language-models-like-gpt-3-could-herald-a-new-type-of-search-engine.md",
-      "title": "Language models like GPT-3 could herald a new type of search engine",
-      "excerpt": "The way we look for information online hasn’t changed in decades. A new idea from Google researchers could make searching the web more like talking to human experts",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/",
-      "originalUrl": "https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/files-1614223.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/amp/",
-      "publishedDateTime": "2021-05-14T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
