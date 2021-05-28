@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
-excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
-publishedDateTime: 2021-05-28T18:52:00Z
-originalUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
-webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
+title: "10 recent big tech partnerships in healthcare: Google, Amazon & more"
+excerpt: "Here are 10 recent partnerships between healthcare organizations and big tech companies including Amazon, Apple and Google. 1. Detroit-based Henry Ford Health System partnered with Google Cloud and Miracle Software Systems to launch an international competition in Detroit to propose ideas for reducing health inequalities through technology."
+publishedDateTime: 2021-05-28T19:30:00Z
+originalUrl: "https://www.beckershospitalreview.com/digital-transformation/10-recent-big-tech-partnerships-in-healthcare-google-amazon-more.html"
+webUrl: "https://www.beckershospitalreview.com/digital-transformation/10-recent-big-tech-partnerships-in-healthcare-google-amazon-more.html"
 type: article
-quality: 29
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-    width: 730
-    height: 499
+  - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -55,21 +55,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "10 recent big tech partnerships in healthcare: Google, Amazon & more"
-    excerpt: "Here are 10 recent partnerships between healthcare organizations and big tech companies including Amazon, Apple and Google. 1. Detroit-based Henry Ford Health System partnered with Google Cloud and Miracle Software Systems to launch an international competition in Detroit to propose ideas for reducing health inequalities through technology."
-    publishedDateTime: 2021-05-28T19:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/10-recent-big-tech-partnerships-in-healthcare-google-amazon-more.html"
+  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
+    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
+    publishedDateTime: 2021-05-28T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
-        width: 400
-        height: 300
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
-secured: "waZxl3rBCalBHtovqn38TDF+il7jtcVsShrHwOh9SPIDh0+V5l2CLuC2vjwcPpwcuiPDkiKKQ9r1SgBV+AF2Alw3FTo6oSDhDXC/LtjR31f9k/LQUnLBeQxnSglSF6Dfrk1ms3tCKSR8+vytjx1EiyAqbEf6+ZnDPPlBbM0swGahdeQbCJT94LPFZEf1sreKGNgFnDDLuPFbzAGCseQn0Wul8z9hRf1BHdhG0kzHpRLs4l2gZJOgXr+Sh3MI1FW7jAiiVbKgpsnC5iajFSOxALjdCt1LaGoP9TOEX1vTrdXIowKrjkTtxNRm3E8ryA2YxtLyHTraV4uDAEinHLnCoYvx4Q1pamJiUbZsqUnPp6xKYDBAMoile7zlv3I3hS8D3udLp6dcryx9nrvjDO5rh1YtlasHqnsa9Xne0PMPpCY7R9X8znhpI4k2qrKdVYZ5QVnSrQxGhFnnu9bUoW5zVNroER7f9++AGmvWtu542Ld5EDxWrWG/Ex3fZ6b3EOdI85YRWVvmqZXjNs8/ILz0PA==;ZNxZqJQzSNIAnogDhmJA2A=="
+secured: "ZuSYiANN/vjorrjq/ZcorQgE701D9E25rL7NpvKs0g2raa+ZI5Nk0I7G/7CYZa2YHZ8pyBWSQrhUmctFPiGboSmNU+MYFHgHZKZeOfM/Z09NDA4Qu4XWOznPfniPKh4TPOevt5JaR/tv9W7PzmrH4JdX5Yw+8CKrgoh8M6lvICwxFm8zQRgpKPSdS8g9tIC3PlyRAdQqADR+jLat+xkrFkvjwuhTw0ktil/RABqAVAk22JwaPXZggsreMMbKg3bsUiCrKeI9nQP0DYnYrfuE4hAMDKrQ9LvD0tnky82V9WMB8oHqFEKpcWFMsuz1kdzRPa1rovHM/4YLdXrADuAOlL+6U5S6mhWWYqqf+YljfS0=;K5PVrI2V5zoPkmPiVj8m3g=="
 ---
 

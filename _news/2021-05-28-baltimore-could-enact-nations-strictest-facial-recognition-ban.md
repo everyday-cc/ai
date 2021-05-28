@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "10 recent big tech partnerships in healthcare: Google, Amazon & more"
+    excerpt: "Here are 10 recent partnerships between healthcare organizations and big tech companies including Amazon, Apple and Google. 1. Detroit-based Henry Ford Health System partnered with Google Cloud and Miracle Software Systems to launch an international competition in Detroit to propose ideas for reducing health inequalities through technology."
+    publishedDateTime: 2021-05-28T19:30:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/10-recent-big-tech-partnerships-in-healthcare-google-amazon-more.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
     excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
     publishedDateTime: 2021-05-28T18:52:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NLP innovations to help elevate customer experience"
-    excerpt: "With the latest NLP innovations, companies of all sizes can put in place mechanisms to identify and resolve issues impeding the customer experience. C.."
-    publishedDateTime: 2021-05-24T03:28:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/nlp-innovations-to-help-elevate-customer-experience/82899053"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/nlp-innovations-to-help-elevate-customer-experience/82899053"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/nlp-innovations-to-help-elevate-customer-experience/82899053"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82899053,imgsize-57573,width-800,height-434,overlay-etcio/nlp-innovations-to-help-elevate-customer-experience.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Crayon opens AI Center of Excellence"
     excerpt: "Crayon officially opens its AI Center of Excellence in Singapore to offer additional Data and AI services to customers"
     publishedDateTime: 2021-05-24T09:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sbcnews.co.uk/technology/2021/05/25/all-in-global-debuts
 cdnAmpWebUrl: "https://www-sbcnews-co-uk.cdn.ampproject.org/c/s/www.sbcnews.co.uk/technology/2021/05/25/all-in-global-debuts-new-ai-translation-solution/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The New Global AI Arms Race: How Nations Must Compete On Artificial Intelligence"
-    excerpt: "As governments race to unlock AI’s potential within their countries, who is leading the pack, and who is falling behind? Get the latest research and advice about what it takes to get an advantage in the global AI arms race."
-    publishedDateTime: 2021-05-24T04:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/"
+  - title: "How Metadata Is Staging the Next Revolution in AI-Enabled Translation Workflows"
+    excerpt: "AppTek will launch a machine translation system that can toggle between style, gender, domain, topic, length, dialect, context, and glossaries."
+    publishedDateTime: 2021-05-26T11:00:00Z
+    webUrl: "https://slator.com/sponsored-content/how-metadata-is-staging-the-next-revolution-in-ai-enabled-translation-workflows/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: Slator
+      domain: slator.com
+    quality: 35
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ab281ca1b0ba2e75b5b640%2F0x0.jpg"
-        width: 1200
-        height: 649
+      - url: "https://slator.com/assets/2021/05/Untitled-design.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "Cpn9ezE+KrDp4jmZiqIwmFSqtWvE/g1Bc9EIMD0HiMTgIXvdEkBawRJ2CM9BtXr0dQgimAw28kwaC2Cd/OJlxR/1mLPlAPLxs7I6mSnUUFmJC685hyiFnOXLOkckbDacsUlplAeYHlEgUMHWYoGTvxtUpENif0QRInuT5nf1NpratWKmzXZbPmsBZ7AMi85y/XkAOGkEoJBBX2XkoncZDsHB8KVnPNTTffKYs91Pa2bUjQV0my58fCaFhCITqlIVCJ+tq1w01mJ1S+4T3tTTuEhBHnBEWN1YQmvnjr6QEQAnngmthzq2/fkcCwApyKHQTn4f4kVxcXLodD0LGE5US64ojl9lcsNDLhvijJoavh/nzIYrF6lA43b+2tfPderr8f8l60Xn9JUQIHCT/BFMHFf+8uxjUBzmZTGcEUWvNX1Zk3+bSw/qXI5CfCYXUmpNWnXxEqU2OmlSQn+7GF21oAqEyPbGp9x16/qkW5RYLNCFQYzk/+s8USu/y61lKzHHfKiFCoZNvr19lVRCpObs5g==;piy2gSN8NlLPJzAEnwjnHA=="

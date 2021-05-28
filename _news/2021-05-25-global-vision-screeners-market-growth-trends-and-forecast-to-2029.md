@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Cars Market to Witness Remarkable Growth Through the Forecast"
-    excerpt: "Autonomous Cars Market is anticipated to exceed 60 million units by 2024. The market is driven by the increasing R&D activities for the development of self-driving technology. The automakers around the world are implementing various strategies to accelerate the innovations in the self-driving vehicles landscape."
-    publishedDateTime: 2021-05-24T03:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-to-witness-remarkable-growth-through-the-forecast-2021-05-23"
+  - title: "Speech and Voice Recognition Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-05-25T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

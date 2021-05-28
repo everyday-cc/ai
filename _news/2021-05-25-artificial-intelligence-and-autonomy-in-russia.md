@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "The Shifting US Economy: AI and Automation Lead the Way"
-    excerpt: "The Biden administration is 125 days old, and things certainly feel different. What strategies are you employing to take advantage of the shift?"
-    publishedDateTime: 2021-05-25T15:04:00Z
-    webUrl: "https://www.fxempire.com/forecasts/article/the-shifting-us-economy-ai-and-automation-lead-the-way-733430"
-    ampWebUrl: "https://amp.fxempire.com/en/the-shifting-us-economy-ai-and-automation-lead-the-way/733430"
-    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/the-shifting-us-economy-ai-and-automation-lead-the-way/733430"
+  - title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
+    excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
+    publishedDateTime: 2021-05-24T18:43:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
     type: article
     provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 59
+      name: Defense News
+      domain: defensenews.com
+    quality: 35
     images:
-      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2020/04/Depositphotos_196499292_s-2019.jpg"
-        width: 615
-        height: 410
+      - url: "https://www.armytimes.com/resizer/50cKkI-h56CsIkoM65q7J7Fl6bk=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/XCNUTPI7ZFAO7OK4ICXENPKE2Y.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7ES3fGDVmZvtrvjf8DxLUXHqEOXFMwTQq2vWbZ/8Bx8Av0523x9kflyYzVV5JukHP5FCZCvJekRX5ciUH9SPcJUThEgZ2H6H8kH44jD5rEGgI5cLeHqDaTg0+xKKT3hb5xMlYd3S9ka3aCL3PYshJlpJhWpI/72Laj4+Q39gjlkXZAxpHLSSsX7yPENjeJTKLoQ3PewDzc6msVzXROaFWafyvjl7t9krWhu2RTaeoPMZy9Ay/RMiAn4Mne9ffSbT6W44Z0n6BcFy/KYdcI04iMfIGcvSBvw2YnAVp3Zwqcjea9bIei5n4P+5Pyj7kjpfjY8W2a7tH3ATlvKh9fHPTahkf3WhO4R6IgmWWJ5xiAo=;agrYIcXOCBHPx8CNmbmAzA=="
