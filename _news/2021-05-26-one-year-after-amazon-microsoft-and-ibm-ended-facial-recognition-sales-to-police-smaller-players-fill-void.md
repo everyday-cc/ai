@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/one-year-after-amazon-micro
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Neural Networks Software Market Next Big Thing | Major Giants IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Neural Networks Software Market offers a detailed overview of the factors influencing the global business scope Neural Networks Software Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-05-28T12:47:00Z
+    webUrl: "https://www.openpr.com/news/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 69
+    images:
+      - url: "https://cdn.openpr.com/U/5/U528233394_g.jpg"
+        width: 512
+        height: 335
+        isCached: true
   - title: "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model"
     excerpt: "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,"
     publishedDateTime: 2021-05-25T13:07:00Z

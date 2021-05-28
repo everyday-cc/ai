@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/us-energy-department-launch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "6,000 GPUs: Perlmutter to Deliver 4 Exaflops, Top Spot in AI Supercomputing"
+    excerpt: "The U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."
+    publishedDateTime: 2021-05-28T15:37:00Z
+    webUrl: "https://insidehpc.com/2021/05/6000-gpus-perlmutter-to-deliver-4-exaflops-top-spot-in-ai-supercomputing/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 52
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/05/Perlmutter-NERSC-Nvidia-052721.jpg"
+        width: 600
+        height: 252
         isCached: true
   - title: "6,000 GPUs: NERSC Says Perlmutter Delivers 4 Exaflops, Claims Top Spot in AI Supercomputing"
     excerpt: "Claiming the no. 1 position among AI supercomputers, the U.S. National Energy research Scientific Computing Center today unveiled the Perlmutter HPC system, a beast of a machine powered by 6,159 Nvidia A100 GPUs and delivering 4 exaflops of mixed precision performance."

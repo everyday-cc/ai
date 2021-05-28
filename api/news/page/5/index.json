@@ -2,6 +2,194 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-25-these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics.md",
+      "title": "These Indian Edtech Companies are Shaping the Future of AI & Robotics",
+      "excerpt": "Edtech companies have partnered with NITI Aayog to develop an interest in STEAM fields in young minds using AI and robotics. Read more about this here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics/",
+      "originalUrl": "https://www.analyticsinsight.net/these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/EdTech.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good.md",
+      "title": "TikTok Viral ‘Uberduck.AI’ Text To Celebrity Speech Bot Is Quite Quacking Good",
+      "excerpt": "Uberduck.AI is a text to speech tool that allows you to turn any text into a celebrity, rapper, or famous politician's voice. TikTok's new voice change and the internet's love for innovation have combined into the next AI internet spectacle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
+      "originalUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac60fe8714a2b9c17f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
+      "publishedDateTime": "2021-05-24T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-facial-recognition-and-biometric-technology-to-end-airport-passport-queues.md",
+      "title": "Facial recognition and biometric technology to end airport passport queues",
+      "excerpt": "Queueing at passport controls could become a thing of the past under plans for fully automated border checks.Priti Patel, the home secretary, has published plans to install “contactless corridors”",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7",
+      "originalUrl": "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F608aa02c-bc0d-11eb-a904-b6ed9daa84aa.jpg?crop=2857%2C1607%2C58%2C190&resize=685",
+          "width": 685,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-creating-impact-with-ai-doing-well-by-doing-good.md",
+      "title": "Creating Impact With AI: Doing Well By Doing Good",
+      "excerpt": "From pandemic prevention and fighting cancer, to fighting hunger, wildlife conservation and boosting accessibility, this article will explore exactly how AI is doing well by doing good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac1169057baa980eb5b648%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
+      "publishedDateTime": "2021-05-24T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-ai-e-discovery-company-reveal-taps-gibson-dunn-legal-tech-vet-for-c-suite.md",
       "title": "AI e-discovery company Reveal taps Gibson Dunn, legal tech vet for C-Suite",
       "excerpt": "Reveal-Brainspace, which provides an artificial intelligence-enabled electronic discovery platform, has looked to legal technology company DISCO for its latest hire.",
@@ -351,49 +539,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm.md",
-      "title": "Scientists Added a Sense of Touch to a Mind-Controlled Robotic Arm",
-      "excerpt": "The patient controlled the robotic arm using a direct connection to his brain while simultaneously receiving sensory information from the device.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/",
-      "originalUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/05/robotic-arm-sense-of-touch-1.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/amp/",
-      "publishedDateTime": "2021-05-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1087,153 +1232,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa.md",
-      "title": "Leading Autonomous Cyber AI Powerhouse Darktrace Joins World Cyber Security Summit -Africa",
-      "excerpt": "The first company to apply AI to the challenge of cyber security, Darktrace, will feature at Trescon's virtual edition of the World Cyber Security Summit on May 24 2021. With a special focus on Africa,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
-      "originalUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
-      "publishedDateTime": "2021-05-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash.md",
-      "title": "Self-driving cars pose crucial question: who to blame in a crash",
-      "excerpt": "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/21/2fabb15a-b954-11eb-9461-e80e43f535ad_image_hires_153618.jpeg?itok=2T7WWRIP&v=1621582591",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3134342/self-driving-cars-pose-crucial-question-who-blame-crash",
-      "publishedDateTime": "2021-05-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks.md",
-      "title": "China fund managers rely on AI to manage trading data and pick stocks",
-      "excerpt": "Chinese fund managers grappling with mountains of trade data and a long list of publicly-traded stock rely on AI and ML to boost efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
-      "originalUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1218868159.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/22/china-fund-managers-rely-on-ai-to-manage-trading-data-and-pick-stocks/amp/",
-      "publishedDateTime": "2021-05-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-ex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Baltimore could enact nation's strictest facial recognition ban"
+    excerpt: "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city."
+    publishedDateTime: 2021-05-28T15:28:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JdeVEARK561oxCLtaNs6pxrs4xhnmbzI31ugd3CdBPu71NzedBVa4KcTPojqy6g7bQDWCYFjoXDUSlYzcsWD0eHkLpta8FK37mpGagwGvxxvIiaMZmhNkYSEo+1AX644a/5o8CkYbpxC3uvzTCTAx+vE5gOZUY5ro7MUpAz50+YKKTZdU6AhXVIeD4r+FTOoFzol0xeK+BpKAlzfeRrfVbUdmpu5r6+y+hE1RGPJCXZz3vvPYsKbgkOC7hREa4zVRRPBTR4Hk48wg4e8/N40C2jSMwMqey95z32wAJv6ror4EQ7lOj8VMyygqhJPIAcKWCHGJjiAT8WMTo4mpvRo2weVhjlw03g3//rAES+uM8/URFrySupslBOVo72lUPV9lcK2huOHBr7IUYvbnngcUxfq9o8J2vm1w9kGtIpqt6zz2fZT3YBO7mW62Hl/laDesMiZwQmxFxuepKUyAfHajA0dKrFkyQbb5Y0pjsUOb7fb66sECyvIVNmzdJ/rCf/ydwQyPQMbg7KoSn3DgRsNdw==;q72VfIef7JDvPJI60gVC9Q=="
 ---

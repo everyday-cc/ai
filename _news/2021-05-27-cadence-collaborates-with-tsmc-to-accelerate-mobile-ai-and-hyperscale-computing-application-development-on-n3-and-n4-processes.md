@@ -41,7 +41,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 37
+    quality: 35
     images:
       - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
         width: 336

@@ -39,15 +39,6 @@ related:
         width: 599
         height: 608
         isCached: true
-  - title: "Transforming our understanding of deep learning"
-    excerpt: "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms."
-    publishedDateTime: 2021-05-26T10:55:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
 secured: "I39kgtOvcFcT7qfthAXQeD8UYITdgZgAfHeGqnL3Y0QLlpQHz9YK3fyYOMWNNM8lstCT5AOqe1AkxpVxHzAJEQMhFmMuRXQQrHGfAtqKoBzC51Q20qoSgg53il58dXh2kscZ8x5+eSLppVOnhaewONGg8tGA/WCMEyZ33S+qDeGKfyNe5UcoZVuNavCvV+WSY8FhNsPHwlkzXg+WdZK69m/E+9LAImZvzwpvJmS3peDkeB3AaYD8s1UR4EWsH2Anv2mFwMDyEd3KBYBUZcyrddyokj7W+QsPrIXRukWGT+DufulXzREiopgORmSvRw/YjLXwGho5+8SisU34T40d0XpoAjoMEnpX+3yOYJSLoEWAEPGyzo3KKC7C6chmk0WWiG/QmmqnSApu5BrmfdKWav9G+MNGCYZNDfg3EIE9qxcaCDl382AvjRapfspHoEfykvj+RbbaqqfDuKehZTbG5GfrjmfcYantXtuO7oyANu58DD9Z3J5BsbGvSdMIBzGAKUTL3o0Lbc9d1d7DKsi7Tw==;YzBW1UepyQSnhVAyaAgzhQ=="
 ---

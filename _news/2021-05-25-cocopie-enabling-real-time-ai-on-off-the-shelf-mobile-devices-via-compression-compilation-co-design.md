@@ -57,7 +57,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://mma.prnewswire.com/media/1519650/AI_Connected_Expert_PR_Image_Web.jpg"
         width: 400
@@ -90,20 +90,6 @@ related:
       - url: "https://img.laserfocusworld.com/files/base/ebm/lfw/image/2021/05/Photo__Ambarella_Lumentum_and_ON_Semiconductor_Collaborate_on_Joint_Platform.60ae8575e4ccf.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 751
-        isCached: true
-  - title: "Clouds for AI and HPC"
-    excerpt: "While HPC has traditionally been the purview of academic research and national laboratories, it is now going mainstream as a way to derive value out of growing stores of data"
-    publishedDateTime: 2021-05-26T12:55:00Z
-    webUrl: "https://www.cio.com/article/3620052/clouds-for-ai-and-hpc.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/05/cloud-network-100890065-large.jpg"
-        width: 1200
-        height: 768
         isCached: true
   - title: "How AI is shaping food innovation"
     excerpt: "Technology experts from consulting firm ZS Associates highlighted the various ways artificial intelligence is coming to life in food innovation and product development during a session at The Natural Products Expo West Virtual Week."

@@ -1,53 +1,72 @@
 ---
 category: news
 title: "Transforming our understanding of deep learning"
-excerpt: "A team of scientists aims to make Deep Learning more accountable and transparent by better understanding the decision making process behind the algorithms."
-publishedDateTime: 2021-05-26T10:55:00Z
-originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
-webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58093.php"
+excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
+publishedDateTime: 2021-05-26T04:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
-  - title: "Optimizing Risk Management with Machine Learning in Banking"
-    excerpt: "The enormous amounts of data accessible to banks and their high demand for forecasting make the financial industry a perfect area for machine learning (ML) to shine."
-    publishedDateTime: 2021-05-26T17:24:00Z
-    webUrl: "https://financialit.net/blog/banking/optimizing-risk-management-machine-learning-banking"
+  - title: "Research team improves fetal heart defect detection using machine learning"
+    excerpt: "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools."
+    publishedDateTime: 2021-05-26T14:28:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg"
+        width: 1920
+        height: 1289
+        isCached: true
+  - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
+    excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
+    publishedDateTime: 2021-05-26T23:09:00Z
+    webUrl: "https://www.ucsf.edu/news/2021/05/420661/fetal-heart-defect-detection-improved-using-machine-learning"
+    type: article
+    provider:
+      name: UC San Francisco
+      domain: ucsf.edu
     quality: 39
     images:
-      - url: "https://financialit.net/sites/default/files/andrey.png"
-        width: 599
-        height: 608
+      - url: "https://www.ucsf.edu/sites/default/files/styles/quarter/public/2021-05/fetal-ultrasound-heart-structures-highlighted.jpg"
+        width: 330
+        height: 413
         isCached: true
-  - title: "Automatic detect lung node with deep learning in segmentation and imbalance data labeling"
-    excerpt: "In this study, a novel method with the U-Net-based network architecture, 2D U-Net, is employed to segment the position of lung nodules, which are an early symptom of lung cancer and have a high probability of becoming a carcinoma,"
-    publishedDateTime: 2021-05-27T10:25:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90599-4"
+  - title: "Machine Learning Helps Detect Fetal Heart Defect"
+    excerpt: "Combining routine ultrasound imaging with machine-learning computer tools helps detect fetal heart defects, say UC San Francisco researchers. The team, led by UCSF cardiologist Rima Arnaout, MD, trained a group of machine-learning models to mimic the tasks that clinicians follow in diagnosing complex congenital heart disease (CHD)."
+    publishedDateTime: 2021-05-27T17:49:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-detect-fetal-heart-defect-201421-1.htm"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 30
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90599-4/MediaObjects/41598_2021_90599_Fig1_HTML.png"
-        width: 606
-        height: 685
-        isCached: true
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
-secured: "/BUwfybbkMgNqchSRpEJnOsuFjE23ftEZv97rKLtw9kZFzmYlEaanJoapmLFDtRAAvj0UA5raeF7By1klSPLFoWU/av6rX3DksCPnHqa7onSpLkLdcdF1uv8uJokTfPoODzwwYEEIfZF+ENskRRwGD9nbffeVpX3O3ZVBqFVWVewiktdj1nGN4Xv4A0GxCq+LoKgcQKmLP6KshsRf51HX4Flfr8A0uANmA6B4QD+mkvOdiljVlg2yCy14em30nFTtE7aT3393V36/aB6EgalO5m0m1Ia5xbBBCEg96opZxZryu1XHWtbgnpVRW7ZzZcJeVfKAFzApEw9g99yVDWojtXMGKzODXuwFhKZXCGd2+j0aoipXVP3WotQ6v3HSaNo2NNTwdjP//5hBC0EKVOA4keEced+xgGQgb5kPipuV+Oo0IHdGv6qjOW+VM9mdgDceWhFFBs8bUkQnaprGlvKeY+GhkomGwqeYZE4RIOc+4lyWnL8rb8IJKfEXIq7awjRcJ5jJOM8iSCdM9yjpeCvhQ==;sMTdwcOGajTiVI7T0eluyQ=="
+secured: "8ykuQCPpuqRRGYo5SBisxmDvvNCGf5xcnbSozTq38STXw2ZaHE/5k2qG73Z64cr5S1PrI3GS1vsl0xJ4n8gKTrhs171JAqOnORRJUTb9FD3N5P5xq0iVGelnX9MqGa/9Sae5IlInDvLW1SHnvYuf4g1iVnFlZElhiI501pArOuStFyrzQxNsvTDVsEMLvLBf/r5wtj9GP0BRcIP4j0GazIb+qZH73XmMMnh9r+N07KCTUgfcW7+Z2JHjHtL/WO4ZeDOSOfSvpirjzU6itRbSARJvxQo1o6aiHDVd/zYyVvQJVCZ6WyXFR4AzQgX9S7k2WlnwI2SoACz/7/Sm/qQ5d9ktPfrv29DC5VRHlpFH6Ks=;PZzZJ3Nsq+6t/1Qec9Q9aw=="
 ---
 

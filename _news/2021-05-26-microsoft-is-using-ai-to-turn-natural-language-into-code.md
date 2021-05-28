@@ -169,6 +169,20 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "SD Times news digest: Amazon Redshift ML, Microsoft’s GPT-3 features, and OpenCilk 1.0 released"
+    excerpt: "Amazon Redshift ML is now generally available. The cloud data warehouse enables users to create machine learning models and make predictions from data directly from their Amazon Redshift cluster. Users just have to use a simple SQL query to specify what data they want to use to train their model as well as the output value they want to predict,"
+    publishedDateTime: 2021-05-28T15:43:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-redshift-ml-microsofts-gpt-3-features-and-opencilk-1-0-released/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 76
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/redshift-ml-create-model-1024x416-1.png"
+        width: 1024
+        height: 416
+        isCached: true
   - title: "Top ML Announcements From Microsoft Build 2021"
     excerpt: "Microsoft kicked off its annual developer’s conference, Microsoft Build. The event, which will be held digitally for the second time in a row, had a jam-packed first day where multiple announcements within various facets of Microsoft,"
     publishedDateTime: 2021-05-26T11:47:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-28T01:54:00Z
 originalUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
 webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
@@ -64,6 +63,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "XLb4IKx5emU15FGpDx3O965d2WyG+zSi+qzDIIdd7j1r4sIMYXYSvIJdrYrjWyEV8KLQ3vMZU3mlYMwH87f+3ykoSGneafQ/nz+XQYG26kn3ivADXQhO68AZVxC+0yGHFhYQwww5rvv+aAJLAkfSRxXyVyds5IaWsqjgNYkU97iV9pdWxvY2Zw3y3AGEdYfxkd8hbmfGu59fBH0rzd1nELayp8rS1RR1iqSDNlr5mnsit40l/7PRo6q/4icXJkXh2MU7B3MvgLZ8ph2XK14BBH3mX4n0B9GSC7nr1FHJVjOujzzSNUMQXRUNeb4gjlZA9iua8N0lCXag46XjSZrJT8D+RKWbwzouHgroMM1BdnHKyhQ4luc/IfP+VpE689xPr+TvJZHPnQO87QRcXg2fo01pKyYKX2zndx5aaWTkmLe2g2E9yB+Hoh5/nnQvGQ/YS/truZwAchKB9LG82WpniiB2/qF+OjRqD45kmrpyzQTm0lvSy9Ix/T2kay+p/VSbWjMfFmgMWSZi5wn3DMlGrA==;w10ZdS9C5619GgVcgmHY6A=="
+secured: "vepNu52UQFOANKaxsc4bZxzMmDERfrLPOn0HNFrRxx/JgWmaUPGBHFRnEB4ZGHdv1ypZ/FNlGss16Vk7076rjN6PVuefFsq/tjpmYrvcVEGprP+rbsyIvZdgGwLXBJTt86g7TmlzG0gDqEHgv3Ys2uPFjFwLDfNclLuQ0iEdWGSSos83qTky6rsCwJs+VvOfMcUU92uZhSVw6wQz5iaoKixAGazVBU9HbDcx9SDvxM9nSGzH5Fe4CRRIAABD+2CUhZ64YFFt5Efb1EVPHEnIq/uXLuIoYNrug4SXfvpI1dYonzGCfl+YtWpwmcXsov7+p48TERkB9P/0ALd7n9CzzFT2u2nBGeqVsjLBY8pYuj8=;P6v5Bb/ZOEbVOE6F2DSkYw=="
 ---
 

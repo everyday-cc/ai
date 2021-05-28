@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1289
         isCached: true
+  - title: "Transforming our understanding of deep learning"
+    excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
+    publishedDateTime: 2021-05-26T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Machine Learning Helps Detect Fetal Heart Defect"
     excerpt: "Combining routine ultrasound imaging with machine-learning computer tools helps detect fetal heart defects, say UC San Francisco researchers. The team, led by UCSF cardiologist Rima Arnaout, MD, trained a group of machine-learning models to mimic the tasks that clinicians follow in diagnosing complex congenital heart disease (CHD)."
     publishedDateTime: 2021-05-27T17:49:00Z
