@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-28T04:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-i-created-curryai-a-computer-vision-aided-indian-food-nutrition-calculator/"
 webUrl: "https://analyticsindiamag.com/how-i-created-curryai-a-computer-vision-aided-indian-food-nutrition-calculator/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/How-I-Created-CurryAI-A-Computer-Vision-Aided-Indian-Food-Nutrition-Calculator-min-scaled.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "LBQH8G38RXat9TjY7ZwEWUMazX3F1r56ZwdAv9bBl+Vg8B1PObeNK3ddfTuVTDi+rDa/ETHi+zpYorUrIfALTbzGcFzOVrUC0dCU1PkjLVi5y1uEIyeDFkDE/PFKZSrhQ8zO8umWcmS8VLGB4ZNlVF4tSJR+PCbNSe3DwN/fVzpzQCWVS1HiswCMCkWXQU+GFl41ThbBDi1Y69oYoPMzfARRqqEpIC2Qa41yTCfvzVMT5tzmYGtDMDDEeCYqZdwM3V6MOo25uoM95nKJUSeAZshzFHKMsEuygFnFujGtNZK53qxDur4CIDsbMZ4YcaltgjdXL/7Hh/3CcMNFUw3ANDXFeUk1NjeEK4mqFTmEMaw=;QNCGaOPzR2jntLITb9X+1w=="
+secured: "kZRiED4NJZQVo/lPwjFVWtGt+0tJRwCgYzsOBqL814sRD+irEgcJ4CjyfkzdWc3FcpKXTJ3t5+y6a3pBqeDQQNmXYXMs2tJrKFaN5miRBlq+7EN/JIAFTqsh2nOw526NbbC8e6/u6+sHJYQ2KATfoBgQy28vV6Zf1tEdVIee411pkIBWItsitdEWaJ3k3vlvXtlDuKaXMBTTILeT2borBwbrRPRzBpGVPw00iz2ccoqEiuEAc4gafgkbInmgpyhVkR2d+6+h/BhViesU7QMKUU1cQ6v7BdlAXbzbhmAqHkYadGl84nyAKgTH585bhiFSPbiXrfkKyk+YOCAt2qfy/CqDHoluwvbeDm4HwPRuU1L18UFutKj2aviIEGP0INzCeCjtdQ+NFKjZLUrOPYHHtqET24cc+6N2dToa4opR1ePWaTLOwwLQAi7+1FFjjhbn6uoFzJQUn5ybY4ygGd4wfCF0nGAgvjNlXphBU7bH67JyrOJbvA7gfBCL8xbu630UaGAt0/zq2wrA/4Z1cxSL3Q==;CdsBnMUBsjwGXn6u5cEPLg=="
 ---
 
