@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Chamber doesn’t want facial recognition technology banned"
+    excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
+    publishedDateTime: 2021-05-28T01:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
 
 secured: "b7TdrK3MTzhuvuA+zq6yTay1/WN3cJGFcQv2K+eIfRUvVvL44qTGQI0P7y2yrmfb3v59MrxejPw4JInE0C3CTeXJxu9nlcAuvhHFXIJPAvUFKU0ngiTIC12IgxkZAGWrbLMppbfBkK1hMfirDPATDz7zaE0Vegu2ASOuKyrd8M/JH62wVK/D2z3FxhJcQVLv/CMraKL8rCLtDHuTr+1bY+12G53y9rsiP02AWmxKNEqv/GPq3NUO6Kp6pjy9wBUGSHlsMuPca/7kTT8TANta4/tR3Dm/Z75duxY8Wb68ynEvWrNd/DJAZAsGtzzJTkcCApQ42/BuYcPASunIEMHg3r07QTzsAsHoBw2ELAYdZR4DjFNfZZI3fGMzX8jWlv0/CcAIoOI5ejem+4WniV449O8AmkK61lW3lG1sTuIlijZBKdAqb9XWVaLFwPt+xKfemcOexBtMP9uXUD8PdLs8B1LpsaxACunZosPUMGJRPavbIe6zfyQtiVtst1v+shgKtQvixK9H0oHhsGMJldu4tg==;9WIzahAxXqEaGshG8zjlNg=="
 ---

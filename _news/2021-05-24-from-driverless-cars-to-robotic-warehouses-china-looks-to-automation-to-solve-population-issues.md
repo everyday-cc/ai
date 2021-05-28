@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-sol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
 type: article
 quality: 76
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://mma.prnasia.com/media2/1517703/image.jpg?p=medium600"
         width: 600
         height: 450
-        isCached: true
-  - title: "Chinese startup Pony.ai approved to test driverless vehicles in California"
-    excerpt: "Chinese autonomous vehicle startup Ponyai has received a permit from California Department of Motor Vehicles DMV to test its"
-    publishedDateTime: 2021-05-23T07:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269602056/chinese-startup-ponyai-approved-to-test-driverless-vehicles-in-california"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
     excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."

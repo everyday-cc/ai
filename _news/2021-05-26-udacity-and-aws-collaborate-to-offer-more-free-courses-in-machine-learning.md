@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning"
-excerpt: "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,"
-publishedDateTime: 2021-05-26T13:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm"
+excerpt: "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning"
+publishedDateTime: 2021-05-26T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning-301299648.html"
+webUrl: "https://www.prnewswire.com/news-releases/udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning-301299648.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://mma.prnewswire.com/media/1121585/Udacity_Logo.jpg?p=facebook"
+    width: 717
+    height: 377
+    isCached: true
 
 related:
   - title: "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity"
@@ -81,6 +87,6 @@ related:
         height: 427
         isCached: true
 
-secured: "JHOd6G21g0Hi/mwoqn4Ky3QQi4BqJ6SirBAB7rdS9WMp1CaBdfc+T6MkY9fBBLubcqOBWTFo3fggsUsuP3bg5ITt4pmF7hL/lXiugADfHzD/3UmJ8TXPs6z1xm3J/3hovMavN+zeNEqgv28NyGdH8lGJB3fuMhZH67VHHs/yyGPA5Gtxs3GfCYoCxETeAcySXqXu/HUj3qPyXWM+ylUTlOSb4GlyiS2cadKpJ9SIUUUcxaaPm4fnICJHnMapjBpwseT8ZiDoRMwPVyaeMd5Ws2jggpRB0G/tJLGA/jLM67lAPQEbde4pnE5q92rMWx9xTBZy8PX4gr2ER+DO+V1JhTqt4novA5br1h5TB98CbzV2Cp478jdyFiAC1/3FM+p56mcZD4cjzSBOmwH35aWPJkK3AaHiNXjfJrKBKtpHu3gA+38jQNTel9zKuVWW6K3j9Rx6cmbmi3NNw+VTIGPWyHLpCDa9zz19Rx0YPWB2SuvFOO95e8qpyz7uIWPqSYsp2n1eItIpo3eEM6xNNQR1OQ==;NvBFcXWCOjfWBp2r8b53oQ=="
+secured: "N3vjnREwLMdd5E61mlVadFL2vHxTISOpF4eX9BCC/7gyV0sf6pTFalfgsfJwIMnZwadSQYc4GwTzrcTNWhuTjzIhiXJ6ZnHGiJ5y4ODjO3fuYpk/s1zMZp330Ja+tkyRUpX3rPx5n7/eonj6kWhQqlZ9Ohh6n85YwdEoic5cgTm6My8hsbCjLPHzS1mCuRe9a5zmYZpFwOj7xUGWi4FSAqgDDVwugIuR4/vVfS4K6p4lW/3gCJh+aef6Xi5/mxjFRjsa5k+kd3d44qnF37ycig0/vqVrr7MZ/2IA5uqOwBzcyNLVShT2G55tQB9dvzNa05JrG/eaW64Pwsc+HG7AAcGZWbWJtb+dEErrFzUyOiI=;GnQnxaMM3+mafHa/UsBkKQ=="
 ---
 

@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-bu
 ampWebUrl: "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
@@ -46,21 +47,7 @@ related:
         width: 1200
         height: 649
         isCached: true
-  - title: "What, me worry? Businesses missing the importance of ethics in AI development"
-    excerpt: "Almost everyone involved in AI research at least pays lip service to the critical need for ethical and responsible programming."
-    publishedDateTime: 2021-05-27T15:14:00Z
-    webUrl: "https://www.biometricupdate.com/202105/what-me-worry-businesses-missing-the-importance-of-ethics-in-ai-development"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
-        width: 800
-        height: 450
-        isCached: true
 
-secured: "8w6OHg+2Xz4kY0Y6JAoP6dd9rQ+NRSfplIPOzoyy/W2+5RJAGlXMDyR6Q6OEEijtRWR6jG8B1t3D+gqw/7cXw0NilixuiByIhet0VOQ54SSnjeB4OralN0w/aS7Q7cm75uS+T/eL2VEpWpgyY01GKppC3txNjU97zPWUs7xVRb0tu9j7Jzr2/Gfrp1paWO+0hhJ4a22kBDPMiNNez9E8H1cm7BnEVUPQo7mg5PdjwOa6843WuuWR3hli29Xq4+86LfV7h35x0e75KOai9MAWkPCluNyZqXAl1LluealWQ1W5rlXFYg283Qy1nq8+G9d5cIwglH/zEjydb4ygG6VLGC6vbjsD5shBokYbM5p8LN4=;zIM7VlxWqe3WyyjxX/l0Mg=="
+secured: "MKZ7fAf8yxVUbbclZ9Mu/96QnT2/wz8cjETRcZpwPZISVEYeVZyOB/pUXSEoC5Z95l7MU3VRNejgGrCDmxS3DHTtT5SlosgaWptActtEaf3idnZBb4s7dewx5XOmqcBfWvPYeaEaBE3evExfqLxjk6BGHCNltwLg+f2M4IdodEdCgqYll5K68/yLRRlgpCAf/LFzL9jb4M3QW6H8ajsRgAtM+KB8DGQDYhP5aWo3SZfTutRnP0gOlvB4+flx21BwhXyMUkqwP68jcPY/TzHlKpdcx9aw5ZHoC7sNOKBVBg4sj/UcwIthOhdYg3BkWRRHPni4TdNjLJeVZlWU2aFFDr87C9A5vt0t0YLy/GZ3gteis9eVRPNWNlE3aD004837kuiYropxqLtOshCa4sQvWLXfqLfy7NSzFJCU3FldJDVA4YrKKoO7AhyNZU2DpAoJ/lr8oDsCwPhrX4ctXERVHARdbaD2HJniTK8QM8vNEHXoBN6izJwqBPryeVVPZOdXpesVctUWW/wDUKFeJsL+/A==;8tlLkfnziwGS18rfXuGqTg=="
 ---
 

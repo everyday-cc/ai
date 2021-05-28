@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     height: 674
     isCached: true
 
-secured: "bqHkGdf6DREiy4SY1idXGIAIUf4ynIOvV6tyIxTpgCAqxv3ZJTkD1jJO1Jdow2o4TsYxd3b610G/3H6QPJ9iqfUb9+smuCzlR9yEAGdH4DXP2qkxzUQ39sg6onbWMzy6FZVkpPl/hCwvJXxolfB8sIbEjPQdmZudaf/bFgjcaKKVoj7pTOYhj5BQGfH1fSJgQ3ebXUkyPo0bbjGe/yngIJ2fFfYN2x9Yaf2Q7diGU7krlMkQzjX9g+np7IIAB+CU4jUxR2zxhjhQOpGxfFViB/e89UgD4WFE2yceocqDR/1oP/JenEuMUJ+sGOmsmGDDMznrPuxtHSehZTe3jJWXggwD8nrgJRlIRiBeuKqd0Sk=;UVbGRoiDh9mvH2VI39Yueg=="
+related:
+  - title: "AWS makes Amazon Redshift ML generally available"
+    excerpt: "Amazon Web Services (AWS) has made its data warehouse product Redshift ML generally available, including in Asia Pacific."
+    publishedDateTime: 2021-05-27T23:02:00Z
+    webUrl: "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 71
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg"
+        width: 740
+        height: 462
+        isCached: true
+
+secured: "ZbRTeya1L7EFfNdty1a+VEHeKhjmOc0jll37d2k4RlnM0x5uQPFFl8WC7vUaLrjt5enrycmHDYoeNrUbU5cTNjnmYXUfnQHnNEIeezIwJ/9u+YVRUsqrdhIyP1Qt/fiRCFwjzMtBeAOQ6sHp+uIM0lCgv483Gdetd4CT/wEyv+9H/DaYXH8++bCXkWKBalXN+65arfpJLdHDSR5aoiPwSXLRBjAOuez4v95qcd/8miVT2gZeChYECGWI/Pp5cHQGpBxAwAU8akXT1TzQAb5IPKNcWT4ZMYv60TRPq0NN/tMXWEZvJm+6oC1g6uVX8ufc8KIaJPQUsRWX/9lcWQlMbzRT4/rlaH/77IOm1vsLeY2XTPxUIe6L1MfdKzd9OllNfJBy8XQcfsUKISZBegdW02njiNiFc8bkyZzOOIc+bDxnmOQe8VP5c3MSrcr9wBBPZIbP34fLpopPhUdKWr+a439HMVVvaIGpXugA7w9o4tW3oF0tY7WHwcOUEk7oTIfefmqCW2QL7JQDdeoaiFOyrw==;CjsfNE3PO9a93gGeaKfT5w=="
 ---
 
