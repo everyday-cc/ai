@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
+    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with"
+    publishedDateTime: 2021-05-27T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+        width: 1094
+        height: 576
+        isCached: true
   - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
     excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
     publishedDateTime: 2021-05-26T18:26:00Z
@@ -69,15 +83,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
-    publishedDateTime: 2021-05-27T15:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
   - title: "BigID Partners with Databricks to Automate Data Discovery and Intelligence for Analytics and AI"
     excerpt: "BigID, the leading data intelligence and management platform for privacy, protection, and perspective, today announced their partnership with Databricks, the data and AI company, to drive business value by bringing transformative data discovery and context for analytics and artificial intelligence (AI)."
     publishedDateTime: 2021-05-26T13:10:00Z

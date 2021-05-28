@@ -70,19 +70,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Kiwis using AI to fight Covid"
-    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
-    publishedDateTime: 2021-05-23T12:00:00Z
-    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
+  - title: "Artificial Intelligence Can Help Doctors Manage COVID-19"
+    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,"
+    publishedDateTime: 2021-05-28T05:03:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 59
     images:
-      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg"
+        width: 777
+        height: 489
         isCached: true
   - title: "COVID-19 diagnosis by routine blood tests using machine learning"
     excerpt: "Physicians taking care of patients with COVID-19 have described different changes in routine blood parameters. However, these changes hinder them from performing COVID-19 diagnoses. We constructed a machine learning model for COVID-19 diagnosis that was based and cross-validated on the routine blood tests of 5333 patients with various bacterial and viral infections,"
@@ -111,6 +113,20 @@ related:
       - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/EcoEnergy-Virtual-Diagram-W-1200-x-H-675-pix-01-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Helping doctors manage COVID-19"
+    excerpt: "New tool uses AI technology to assess the severity of lung infections and inform treatment Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
+    publishedDateTime: 2021-05-28T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uow-hdm052721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/266191_web.jpg"
+        width: 685
+        height: 431
         isCached: true
 
 secured: "0qnk+bVRAyILDAbYGXp5Ap1TjX8+7hbcJI4xUH3IJHkZYqug1Nc+eV+6gIXIFNZwf9yDGQYM9CvVVhhasUiZntr1WvpZ6i6nFbqlUJZ71OF1FWqiNvdFdC2gcxSTxxEoOv5akrp7eK79G1kbW+eaNU5AKDytWgyy0dUC0IYJu1YxQqw+tBpoWvr8bcJbVJOK86do/51sLZqKsboNcbeXzCjDlw4EsUSkm1SnrUpWoB5vo/0+jOkQg/EfzaOZE5vGKMnwgSbI27emRSnPD9n80uAbWtVIjNmZ2hKOjGPX5gatyDEriJXYjRc6toZB/0NNfTCuSPaboex10k/HRqyDXut6B86V7bD7wmn6Y09VZj4=;5BHhxbymD+kxhQhTHr1mug=="

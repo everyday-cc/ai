@@ -3,8 +3,8 @@ category: news
 title: "How AI Is Reimagining the Customer Experience"
 excerpt: "Customers know that AI-driven tools exist for personalizing the experience because they encounter the technology everywhere they go online: Amazon, Netflix, Spotify, etc. Fortunately, organizations of all sizes can use AI-driven tools to power their customer experience and compete in the big leagues."
 publishedDateTime: 2021-05-20T04:00:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/How-AI-Is-Reimagining-the-Customer-Experience-146990.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/How-AI-Is-Reimagining-the-Customer-Experience-146990.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "/i4wRW0yf1NthovFz7rZjyDpF5XMSFjsJdXYurOR71gP63jn3EsaugpJNoDht670EuFgz7UyRtv+FrkBMzUZF9PBGAFf6FHbJtZKQDQGP7hWKupFew9xIhXAb0S3MplPXDT+kL5ZjaxgNC82ZnHK47mjZ2plzLvESO/65VPzxVFx7SRfuq7jwdPN0hdqJ9ExNl/iUM4buKI+nGvZf209S7tDwjy34ZKN7Z8mLblV8NF2qAQe0a0XwiBoj8+lBPdyx+SSW6ewfDXhTQYalGpHDKN58+MxK0Ug2gqQGvtCf2CfST5GskAPtIl4uZoGNy8L5HeFXW5GUHHgLj1I5t1z4hYVxJMoDBDIlrHnAyDCt68=;B0Vt4aUL5ZQ706KFANTOaA=="
+secured: "DfpXpv5UF7UriJdf+Mokv2S45onL8yhSsUGAW04h8UtWpWIzvdBFzI6OOvTxs+iZtfLlEdfN5LNDlqKlDzL25D+OBkfZmc/RrHD9Yaivtj3F5AG2a2NOzCLXSBcqTveLVOlSR9xa0u961p59L0+1Yixl9uG5YOL5+4nRQiOPSk8JfdUtwJHHY21d6ptBFa81C7EdI1aQ6tLrpXNaXNPTP6dmxBoYS5I8K0Tz87tMegrsD3JkvB1kucmiQgsN7dVAcVrSrhqmHQHZHy9T/Tv0H/o6B36r2Fy1tTAedInWGsBD6c9BrPG+TrcH4Lp+Z/Auj0Z2Y/Ah+jUeEeQu6bWntRl2M0SjiHoY8hhYs5rr/nE=;AaO+WZE/VLySxPEuK1FACw=="
 ---
 

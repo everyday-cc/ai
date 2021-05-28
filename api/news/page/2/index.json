@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-27-ahrc-high-risk-facial-recognition-should-be-banned.md",
+      "title": "AHRC: ‘High-Risk’ Facial Recognition Should Be Banned",
+      "excerpt": "The Australian Human Rights Commission (AHRC) calls for protecting human rights in the regulation of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/",
+      "originalUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heimdalsecurity.com/blog/wp-content/uploads/MicrosoftTeams-image-22-2.png",
+          "width": 698,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/",
+      "cdnAmpWebUrl": "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/the-ahrc-calls-for-protecting-human-rights/amp/",
+      "publishedDateTime": "2021-05-27T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heimdal Security",
+        "domain": "heimdalsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
       "title": "OpenAI fund of $100 million for AI startups with Microsoft",
       "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
@@ -1183,49 +1226,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
-      "title": "Research team improves fetal heart defect detection using machine learning",
-      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
-          "width": 1920,
-          "height": 1289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "publishedDateTime": "2021-05-26T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

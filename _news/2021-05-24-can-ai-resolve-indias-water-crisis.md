@@ -27,7 +27,7 @@ related:
   - title: "Concern voiced over militarisation of space and artificial intelligence by India"
     excerpt: "ISLAMABAD: Officials on Thurs­day termed militarisation of space and artificial intelligence by India through western support an emerging threat for Pakistan’s security. This was the upshot of a discussion hosted by the Islamabad Policy Institute on the occasion of the 23rd anniversary of the 1998 nuclear tests."
     publishedDateTime: 2021-05-28T01:06:00Z
-    webUrl: "https://www.dawn.com/news/1626120/concern-voiced-over-militarisation-of-space-and-artificial-intelligence-by-india"
+    webUrl: "https://www.dawn.com/news/1626120"
     ampWebUrl: "https://www.dawn.com/news/amp/1626120"
     cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1626120"
     type: article

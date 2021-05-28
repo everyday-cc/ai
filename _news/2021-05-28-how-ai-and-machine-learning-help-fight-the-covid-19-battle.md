@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Can Help Doctors Manage COVID-19"
+    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,"
+    publishedDateTime: 2021-05-28T05:03:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 59
+    images:
+      - url: "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg"
+        width: 777
+        height: 489
+        isCached: true
   - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
     excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
     publishedDateTime: 2021-05-26T15:00:00Z
@@ -74,20 +90,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "The Kiwis using AI to fight Covid"
-    excerpt: "A Kiwi company able to predict future outbreaks of Covid-19 and its speed of spread is playing a key role in the global fight against the pandemic. The free online forecasting model, built by Wellington-based CloseAssociate and being used by governments and organisations here and around the world,"
-    publishedDateTime: 2021-05-23T12:00:00Z
-    webUrl: "https://www.nzherald.co.nz/sponsored-stories/the-kiwis-using-ai-to-fight-covid/FFVGCCW2EU62N6BL4C6IANF37E/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/U7b-L3qXUkIOSTrUgyQW0l6prHY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LWZXZPOISXREBERNEU3QOB3YXI.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "COVID-19 diagnosis by routine blood tests using machine learning"
     excerpt: "Physicians taking care of patients with COVID-19 have described different changes in routine blood parameters. However, these changes hinder them from performing COVID-19 diagnoses. We constructed a machine learning model for COVID-19 diagnosis that was based and cross-validated on the routine blood tests of 5333 patients with various bacterial and viral infections,"
@@ -116,6 +118,20 @@ related:
       - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/EcoEnergy-Virtual-Diagram-W-1200-x-H-675-pix-01-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Helping doctors manage COVID-19"
+    excerpt: "New tool uses AI technology to assess the severity of lung infections and inform treatment Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
+    publishedDateTime: 2021-05-28T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uow-hdm052721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/266191_web.jpg"
+        width: 685
+        height: 431
         isCached: true
 
 secured: "WuHaSPHwBIMpjIf8FGfdzGCS9q0ct/Ldw/R0Bsy8kyGKF+WZIfpMv+Xr2HlBWmTY0/EFaDiauNZkEuzd9QQIkUQPHKLZlFoA6xWfVIoB4coCaQsFoof115Dv/CW+MpWiyy+uoJuGKrpkmSCM1qui3kDLEZYGt8C5R1xbXCbgqZPj8TiVLVLRwnj4NPvNWdDR5y+2SSuTe5dp339kwW2a05tFb364QCUe0iF1nXZfRlviXTmIwJtTTlrAUScrbFhYuEaMv4gnIoXpFDpibO9eQ7enXSs2bK0bF9sIPQ25kC21QMzWQXPBd7v7igwIQXF0okPHYB3q0KayCR5acx6nNivg4/3M3yraspjV4dW7wD7mOvHu5xAEDAhnmB79R32PdRBlN4PV0d8EyfFhpfXukW90EG2O0GqiSwdkZ6aZgf8F5mIpWw8HBulY+opFVl4Q+PPaKXqexpk364FE7jBgcJtUz/pXCKIk/9+kij6tvSjZlXrwrcxFdDEmGjUN1QX1DbdMVudIfN7XnESGDLbGzg==;lLRTydyPzyd2evDgiFoQqA=="
