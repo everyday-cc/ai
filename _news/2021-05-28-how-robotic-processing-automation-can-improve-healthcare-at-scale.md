@@ -43,19 +43,14 @@ related:
         height: 278
         isCached: true
   - title: "Techforce.ai Enters G2 High Performer Category for Its Full Stack Intelligent Automation Software"
-    excerpt: "Techforce.ai, the world's first autonomous workforce company, with its mission to amplify human potential by digitally augmenting everyone at work with a self-learning"
-    publishedDateTime: 2021-05-27T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/techforce-ai-enters-g2-high-performer-category-for-its-full-stack-intelligent-automation-software/article_bfde8988-7eed-56f5-aa68-2fc6b3d6b56e.html"
+    excerpt: "Enters the prestigious list of companies offering hyperautomation software; Also ranks high on easiest to do business with; Offers industry’s first 100% cloud-based pay-per-work model in RPA (robotic process automation) software category;"
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/837198"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: PR
+      domain: pr.com
+    quality: 6
 
 secured: "SLKgjlNClCYl7aFfSG4NPttVkIJVy8yovkTKJHKeergq1BqLPwH9Bk3J0HXVdBRaBm4vlKXAcUVybSGHrBspkXPDI2sE2gDDodoFY46cv0+cyTbHqvlkmkO5SEWA64cJgoopjkIIyPn3cMx0dpDccrd/iEZ3DxRmwbspR4VL2CHR18FXg5bOiKY2IREoKYQjwguOycRWMXBSF/IdHAz8tXq/iW5awOrrCYc7fmRpiufMkvfxhMoIZZRY6eh/X0qGoLKf8PXcDjTKki7dh18wqU+6q9JzOBPfFRN56UOjwpPUxvBI1zRoonFmeS+PYvIuMseMEJeI3ijb0ZNTQNfwAOnGEt34R7FPcoj2F4ng2n2yudnJ5PaE5zAvcTDT7sj7PbfHnrT6A4sH5v2DFu6hAtKbReVtMt68AQIJQpI5p1X40KjSvlXTb3yc9s3upn17U6SOyzS7jv6iaBa4wFE3guwz5dfkZ3g0BLq5IcXLJTD5KtVQ9o32aDp6ipqj+kq+jx81w4yt+MAAK0pNaXbZbw==;WO8lTp0RYjzUNl868oixSg=="
 ---

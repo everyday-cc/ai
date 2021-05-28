@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Strong take-up of facial recognition technology in gaming venues"
-    excerpt: "More than 230 gambling venues in South Australia have installed Facial Recognition Technology, as part of moves aimed at tackling gambling-related"
-    publishedDateTime: 2021-05-23T23:13:00Z
-    webUrl: "https://www.miragenews.com/strong-take-up-of-facial-recognition-technology-564941/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
   - title: "Facial Recognition Technology: A tool for 21st century policing"
     excerpt: "S Gallagher explains the current legal position in the balance between human rights, privacy and the use of biometric technology by the police"
     publishedDateTime: 2021-05-27T14:18:00Z

@@ -2,26 +2,26 @@
 category: news
 title: "GM developing self-driving, electric rover for the moon"
 excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
-publishedDateTime: 2021-05-27T02:09:00Z
-originalUrl: "https://www.13newsnow.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-webUrl: "https://www.13newsnow.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+publishedDateTime: 2021-05-27T04:28:00Z
+originalUrl: "https://www.wzzm13.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+webUrl: "https://www.wzzm13.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WVEC
-  domain: 13newsnow.com
+  name: WZZM
+  domain: wzzm13.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.13newsnow.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
+  - url: "https://media.wzzm13.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -106,6 +106,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "dA9ordC2l1LtVO+9Ly/gQ/y6erW/EyA7QUOhbrUiKL1CFAcGoG2g4ngre5koJ9cpK47wxb/nwzFMPni2+qdCyV/J/HT1VbeqguxC666ql/oiUC2e4ywSYu8TuF1r8fhTDuwSb6uohkPzQwhbhD7SRF4v7BWBDIP+9omSxehKrb6MWyXfZuif6oCMwxiNHp8zbG483SMGp7xHhcXS/vRH6QpuRaBwA4zjlO/WqRMHa4onBKTWUKYqcdxefJ7j0KbJAfe//Z+YbYiyOtd/veo/u3yGK5G3s10zad5f1NWNfQvugUfx2r2huelEs0kwz+c+wF2MxkQn03xXXvAIFs3sSfNGEWaowiyBJKPv7EX4Jet1sTADtcypRRT4lev1uTJXO/M1/e/l0sjm9V3c2D/V5IWsNR0K0BgNRbtErmvlCEJT1kKBxEPF4zy245SdtqGKfoutjeIOLQXs23qwYXf2MfRS7xnlRsC58wDtgiE/87WsWFuJucq4xpUUP/zm7+FELKzuG80VcTv02kymIyLtyg==;gjio3LITyT53gobNiwrSkA=="
+secured: "xN17LZjSjxCdvM9CxNV3KohBw/cXpxc0mYI2mRJF6U4iw+ogXzgDFAZtPKha/fK3uODxI99bz6Ng9iJX8dDoqC6E3k+sBJzyakVnulwgY8AvJK4zqeD0TAHX/h7lTdMtiDybf03MhS4HUpDryswSNI1ar9NstDR6mbaXaiZaXvUWtf+UDlVqUbdvm4a4YG91twtJund8EyVCJrp3oz2atDTuZ7Uq4iNMi735B726Q7BVo9veSqVcVMUQbDZLlF+JR/ZalrdN12CNb0TqgpgbONYQJbMen3fG8n+kZuGilBfdklx+hH5YDxVkTmLMJ8kUJ9cW6i4z6BN7TY89fBcknxWBZQ9idEHesA2UWhEBIHA=;zsT34VD0ExzBsckrcOD/Gg=="
 ---
 

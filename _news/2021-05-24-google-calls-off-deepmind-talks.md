@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Google Deepmind's AlphaGo Documentary for Free"
-    excerpt: "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ..."
-    publishedDateTime: 2021-05-24T00:00:00Z
-    webUrl: "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg"
-        width: 1278
-        height: 724
-        isCached: true
   - title: "Google Turns Down DeepMind’s Autonomy Bid"
     excerpt: "AI research lab DeepMind’s reported attempt to get more autonomy from its parent company Alphabet has fallen flat. As per a recent Wall Street Journal report, DeepMind’s team has been negotiating with the tech giant for two years now."
     publishedDateTime: 2021-05-27T12:30:00Z

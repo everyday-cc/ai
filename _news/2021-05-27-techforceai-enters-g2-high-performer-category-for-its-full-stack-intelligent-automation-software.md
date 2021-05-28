@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Techforce.ai Enters G2 High Performer Category for Its Full Stack Intelligent Automation Software"
-excerpt: "Techforce.ai, the world's first autonomous workforce company, with its mission to amplify human potential by digitally augmenting everyone at work with a self-learning"
-publishedDateTime: 2021-05-27T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/techforce-ai-enters-g2-high-performer-category-for-its-full-stack-intelligent-automation-software/article_bfde8988-7eed-56f5-aa68-2fc6b3d6b56e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/techforce-ai-enters-g2-high-performer-category-for-its-full-stack-intelligent-automation-software/article_bfde8988-7eed-56f5-aa68-2fc6b3d6b56e.html"
+excerpt: "Enters the prestigious list of companies offering hyperautomation software; Also ranks high on easiest to do business with; Offers industry’s first 100% cloud-based pay-per-work model in RPA (robotic process automation) software category;"
+publishedDateTime: 2021-05-27T07:00:00Z
+originalUrl: "https://www.pr.com/press-release/837198"
+webUrl: "https://www.pr.com/press-release/837198"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR
+  domain: pr.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "How Healthcare Workflows Can Use Intelligent Automation for Better Care"
@@ -56,6 +50,6 @@ related:
         height: 465
         isCached: true
 
-secured: "0+q3Sw/k2Rk3wdMFALLbqvaknIAdik9bzOPfffZehExwPDrywDzMZv/AgFb36W/q7yIySHvrerrgIPqG4ncDuOTAzmLHZhUqDlM2ocparGumTg1sSY7w8SACgna85SDGGaEyfvMCd8o3rdUHFPlN0uBXIekecIGMLiNiAVV+NXPMpa5yDVoKNpNMGxqr0xJ2haSGsVqQqf+fpe4LnD4P23pozcOmuJrIm5JF9BdNadr+u9/SOaNfELBCCZF37okE0Xe2VoLh2hMNjtQborABHGuFtueJN332hCtmTbLF2SwGYHwVhhMmbGwc/JyCAAQPBIdRFpzjNyOcXtVsapyMQuT+YE6Nj5MzfOVy6mFC820=;Xcibh0rpUNdWtQcLC72pLg=="
+secured: "re0GRPopSNj8sejUy/x+z7XfCNms4+StGz5JbK/acQ+lD2jhS3PIvzPxbGrHSlZEq6NQNteQUlGyU7dscoazkH4wndtq5C9+rngUWdVlrsTGMqVYN14BeqztbgJyUA42+ru7SEZQPYkwI8PcNfBKRIsSomvxTjeq6Li8YWocdxPM/O7lBo0r45s26E2brbsKUel96j3ATk0lsH7/Kn3sD52hYKPMrBkMjbivvmh/FryUNXszns8UhOtRXybEwCypuS8pji9wI+RFrWOW+8SaFzO4KLZPUd52MQcUzmd2Quy7So4A4beB7L3ThIu7Tpt1+YfEptcFqt3Ipkski+VZXd93sR8l1tjS1qxfPcspank=;YtpjH8Kqbq7VD158MyWm+A=="
 ---
 

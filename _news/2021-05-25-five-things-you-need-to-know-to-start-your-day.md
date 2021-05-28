@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-05-24/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-24/five-things-you-need-to-know-to-start-your-day-kp38bdwk"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Bloomberg
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "Bitcoin’s wild price swings keep investors on edge. Mile-high drama as Belarus forces airliner to land. Cannibal mice are threatening Sydney. Here's what you need to know to start your day."
-    publishedDateTime: 2021-05-23T23:17:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-05-23/five-things-you-need-to-know-to-start-your-day"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 52
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieQSSTu_obOM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Five Things You Need to Know to Start Your Day"
     excerpt: "The U.S. says the period of “engagement” with China is over. Asia’s super-rich are making a beeline for Singapore. And China is struggling to maintain order in its financial markets. Here's what you need to know to start your day."
     publishedDateTime: 2021-05-26T23:30:00Z

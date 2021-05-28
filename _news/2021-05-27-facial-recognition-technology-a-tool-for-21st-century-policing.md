@@ -145,20 +145,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Strong take-up of facial recognition technology in gaming venues"
-    excerpt: "More than 230 gambling venues in South Australia have installed Facial Recognition Technology, as part of moves aimed at tackling gambling-related"
-    publishedDateTime: 2021-05-23T23:13:00Z
-    webUrl: "https://www.miragenews.com/strong-take-up-of-facial-recognition-technology-564941/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
 
 secured: "N4A2VO3nfD8IfN8g+ls4CC2VYLQvahqsNgy3Xgnql8W9V3zbZ/05CwTtHY9/yh7LP1LDuJCB+Z+kLFMf0s0taJ+uOmjU04aIB5LvXJVz7c9GJz+MFqdLdrcJqxC0CZpjTsJWbwzqVLab8C2pH8RrvXUh+U30M1FMpwzBZMkKy7uS6SL+nMa9b1bQnyCAHvKjVrLeCVV5OPC7mRNdCc2FyoHJXBbJeo+BzrwnkLznS5RLYHNbFEoFor5yyFvcoVFGB/sus1CBMn5Fh64UA7KxTa1Ivs1sT7JFxGwnCrFQkfAxEgj2/CJKlsqWp3rd8Vk6kyNP3naU1hj+2t1VMJ+Q+UPeZbetTG9zaOJZG7AbcCqD4Py+x5o0zRuok4TpxuP3fp9hQWLizp667fj+W14xA3x2mA0mn2RWFB63aJKiqp5N0u5BA5K1KA0oTyGZrmedOLdHE8qxdUPV3sbNhbrRZgWcSbLqiWF0Vl8FECEAaadajRkQWMGbBKcj+eiMRMJGpy3BAbaPiu+On7YO1Yyp5w==;qe9oYnV8wwFJ5N0ca1ncZg=="
 ---

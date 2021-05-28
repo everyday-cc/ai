@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 400
         isCached: true
+  - title: "Comments On Tesla’s Full Self-Driving"
+    excerpt: "Whitney Tilson's email to investors discussing the 60 Minutes segment on Steve Jobs; Ford F-150 Lightning; Tesla starts using in-car camera"
+    publishedDateTime: 2021-05-28T16:29:00Z
+    webUrl: "https://www.valuewalk.com/comments-teslas-full-self-driving/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Tesla to Replace Radar in its Model 3, Model Y in the U.S. - Rolling Out ‘Pure Vision Autopilot' Using Cameras"
     excerpt: "Electric automaker Tesla Inc said on Tuesday that it will replace a radar sensor in the Model 3 and Model Y vehicles sold in North America with a camera to better support Tesla’s latest automated driving feature called “Full Self-Driving” (FSD)."
     publishedDateTime: 2021-05-26T15:00:00Z

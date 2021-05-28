@@ -215,7 +215,7 @@ related:
   - title: "15 Big Azure Announcements Made At Microsoft Build 2021"
     excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
     publishedDateTime: 2021-05-25T15:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
     type: article
     provider:
       name: CRN
@@ -225,6 +225,20 @@ related:
       - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
         width: 500
         height: 375
+        isCached: true
+  - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
+    excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
+    publishedDateTime: 2021-05-28T17:39:00Z
+    webUrl: "https://www.itbusinessedge.com/development/aera-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 54
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/05/Aera-Technology-Partners-with-Microsoft-Digital-Twins-Service.jpeg"
+        width: 600
+        height: 300
         isCached: true
   - title: "Build 2021: Microsoft announces new capabilities for Azure database services."
     excerpt: "Microsoft is announcing several new capabilities for Azure database services at Build. The Azure Database's ledger capability, which is in preview for users,"

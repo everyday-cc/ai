@@ -3,8 +3,8 @@ category: news
 title: "15 Big Azure Announcements Made At Microsoft Build 2021"
 excerpt: "The Microsoft Build 2021 developers conference started virtually today with a slew of updates to Microsoft‘s Azure cloud computing capabilities, from new AI features to app services running on Kubernetes clusters with Azure Arc to Azure Cosmos DB enhancements."
 publishedDateTime: 2021-05-25T15:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
-webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/3"
+originalUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/15-big-azure-announcements-made-at-microsoft-build-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -222,6 +222,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Aera Integrates AI Platform with Microsoft Digital Twin Service"
+    excerpt: "The platform enables data scientists to use low-code tools to construct AI models for a wide range of automated business processes."
+    publishedDateTime: 2021-05-28T17:39:00Z
+    webUrl: "https://www.itbusinessedge.com/development/aera-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 54
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/05/Aera-Technology-Partners-with-Microsoft-Digital-Twins-Service.jpeg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Build 2021: Microsoft announces new capabilities for Azure database services."
     excerpt: "Microsoft is announcing several new capabilities for Azure database services at Build. The Azure Database's ledger capability, which is in preview for users,"
     publishedDateTime: 2021-05-25T15:27:00Z
@@ -255,6 +269,6 @@ related:
       domain: bio-itworld.com
     quality: 30
 
-secured: "Zt+zEAhqunscy1sPz2iDW9c2RK0SPkO7VQal524g3xvmJ68BfXBoah6DB2KsbQySmc74MIVzrVynY+1GWTpGUipNHYaXoZqmTbF/N3jCVnlBRfKoME9MqTUknI29jxIxLOj8zZp9AvBCvZcD1x3fhPI5TMeEDk3sRY9lKIeXelWqxnJR6DQSIbwk/EaVvfjAwv58+h25JuGKYG2H+ZJwtcNYIQxW2CUjRMzEfmXdsQ9YPavTs3j7T/KUMFn7wRu8G4OQNW0k03EwZ2ARmE16uvRyqi7KmEOvdKOR2eEz6dsgXyPY580xopTcPGh18VlUbTwYGzBrPb6NlvbzgjWVZWq3Y7UzU1uzuaD1G3XOzoQ=;BBBwk1lHfa8/uzMwi+5eOg=="
+secured: "/SLNYKFOjusOONe9nvpBE2lyVJSaL56/B8Tkb8U5th3qOihcy9eO9uAEtfm73ftpcuyowyAdaCsVofkSGkK6hkBbpWneJDBG0eliJDbB8m7Md2OlK+qhJhjym7kjZnsHhObFaZ5an4SHfjmZexvZRbqCbXmLbZ226C693VYTyFcNM93nlw78rdYAhTawAn8XwtH1x6kq45NewJRsdjrPn2ssqnMA1TY4QfbexEGCytLfPkXi8MWxrhLFsOwM5cfGyKlbzjh+rCSbxNrOM3xFSyIhjJhgTUoihC6wRG1aSSAQ+R/rMbSAEx6nDrkyeNF7pQrQfmU3R6KaqkTx/Xw4UnfpYj0KAOomoC74kBbbFos=;yzc3lh+acQuwvoCe0/JcWg=="
 ---
 
