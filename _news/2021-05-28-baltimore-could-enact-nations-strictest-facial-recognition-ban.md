@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
+    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
+    publishedDateTime: 2021-05-28T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "rPJksB6wpt2PkUC28fMdnp3AUTgjgQOT/GdSsLlvNfv5riBvWCeWW9wksgk0awEJPAvhEPu7ClMCuBr/ZY43Ip8eTHSxmLhwUWNWnEmkz6K1crfxkFLpA91hs+pLSJDiEDw+PWFlJqqKGn9FI5/Y9e7tYVC8LxrT/dReALHrJnoqaIIpP+9J7d6pk4EzbCV0nPsZC10OnGVytIG3+7/oWj83nh0WeE36LGeesS+mVoMzw37UongzsiXPx87kk3e/7lLrUJ80utdVJ85Pk+2HkMJghlHZ+XS7utR9cwh9keLwGc2kqEEUA2Pzj0d6AoMave6pqhlSU1q8TlpJmytUk1nJ4gholOMxFEdrs8rgcXA=;dGVqQu1OASvRCKL8HGJpbw=="
 ---

@@ -58,6 +58,15 @@ related:
         width: 1483
         height: 1021
         isCached: true
+  - title: "Relativity acquires AI startup"
+    excerpt: "Two months after landing an investment from Silver Lake at a $3.6 billion valuation, Chicago tech company Relativity has acquired an artificial intelligence startup that helps organizations identify sensitive data."
+    publishedDateTime: 2021-05-28T14:18:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2021/05/28/relativity-acquires-text-iq.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "UiwBle0O8gpt4yrdV1X9sW+GSQK7sSYzAdbWOynFIscHT2RtHi0rZOC7/Q5i3D8iSK1JAQFl90tkZnUAMsIXVEfMO048lW/P1O+yR3IpagDAM4T4tX/zn7YAB+gOksmBfOWXYOjvtzdfOdcF41pvMeg7eRAB4Miqn5tPMa4QSlBHSU7HG4s+6PpBpy711uBzWWoeF+1Xy+kQvC39YxZ+AvsmzSNiCMfTLDMnArzImIaQWYVxttgBdrY5cXx5g2W2jT9v6HhQEjNfhRMvjgZpjRar2l5VnU91sKrD6041i8Hodc8mB6Pp9j1h3dqKtjxwRBb93UZrTe6OBdHWVkErAsk1oI6iomm1GSzoIqgCDjk=;PC3COjcQ+3s/K1yiAQnBVg=="
 ---

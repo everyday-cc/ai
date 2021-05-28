@@ -193,6 +193,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Mountain View self-driving trucking company Aurora Innovation expanding in Dallas area"
+    excerpt: "It’s been less than a year since Aurora said it would test its technology in Texas with a push into Dallas and now it's expanding to accommodate its growing employee base."
+    publishedDateTime: 2021-05-28T18:52:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/28/aurora-expanding-dallas.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
 
 secured: "mCbosNMe/NHbIxw9ePFwUCG/rPbh7jnyJx8MUZkKM+M7B2kBc4DqsoeTf3Po20lzz71AiZJ50N53+2jM8irkNyOQGxulPDn+MDJX6vm+vAwxjGvvQ4QCTznficnguXXWqWjYMuLYGzCAF1KvQNJycJsgXAx9Qrz+oeskSvd5KK6QanYJ9amVEi2ZnK8Ln/Q6CQ4Ma1yWUq5ChZsG0y/N+hNZirg9+ROO4CRW7eVe1HnU+Dcp/FKBSRHxe7lz+5wvAgRyw4T5A4s8qUxWR7L+Zq5xU0jLkikX3d4zMet9DGrcTkJr1z0EY6kS1Q8Mnd5rmEBt8rw48xF0O+HaH9IQlYu2manrUB+Sv0u+zUTMsRxxVXj5Q+nwkIJQM7OIy4NMmlrBCArkHOs/gvTv3yrnBh5lRDfcOy75F4oSXUZXAoEkh6nNr1S9cRnLDwNgSKiruaTb/oj6cm+muBmwIMA0glLiaKx13XMGFnCwVzbfmVbdBLSrGtbJY2jdMjHElRJs3lS+372AdwxezvYYzROIBg==;iZEKc1nZycJKbFbrveCKTg=="
 ---

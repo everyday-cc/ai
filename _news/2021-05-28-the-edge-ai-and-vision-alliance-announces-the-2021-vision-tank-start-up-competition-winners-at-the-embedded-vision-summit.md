@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-28T16:23:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-301301793.html"
 webUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-301301793.html"
 type: article
-quality: 14
+quality: 12
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
@@ -40,6 +39,6 @@ related:
         height: 400
         isCached: true
 
-secured: "kGeYfjpFhdoDS6THYecHCUzxK1vtKy5Pqivveseuec7L8BtLLNi6Zra5z9ftS1vnHZihh4r1oejjYzzuDikT0HCtukxOB1nLVZbWhOW8YuRG57LYuoD4IFoCdOM/Dd/+RHp8MHRNiTqjY+u4u5uFM8tvS7F/Npy7B2JtHWCmBPytu7prRFS5hogRSqHu/bg54FB4VfiItig6OvFqiPwSMYfqu3ATqbR96CPowJl77cz5gc7whcbMU1pB3L+2i9dAvjzVTWdhfjtgepXRhVF2ZnsoXEqjNYlI1pINfSjGMKDHPoyNUQ+M7oXExPBe2livUF9JhGs2aioGsSxBWGOZPywgLbQkryXLvAeMX24AxL4=;G2+wAKnOk3TQXC0tZl7MXw=="
+secured: "1jEzOwDKulen7rCTbrK7jlzzTbwwrFTcZ8Pg7qQpWQfGWVIJ+eibzg6+YBzEN0zMJehitFwc951OL6tFDcgrfNchQgReZXLQKaYtd0iQxU+fqJ5tDP7WdmbpawUIP5drjs/41PdehjtiGqC/7vxysS93xK4zfXDm9Hh7rT6oEHYCvw/Ioee7fdxBLfM38+DrJBGMFpICgjqQH+HIpf9FAY1J5kNR5UWsJwOfbl0yWAb9/szk8GRh+pH0wYKpA7DbZaOT59D2g8fX1ysjkqm3le8H3EHKw2WIVZhjW/8NzLTPHhBJXjc79uiyMvOVMerP+Wmspmc4SDrIOZxDvrASDZ5sXv7OGu0ctq53UXCEFa8=;QykVj2WmZ5fhPVwo2NmMdQ=="
 ---
 

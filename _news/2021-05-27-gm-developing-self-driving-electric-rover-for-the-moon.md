@@ -59,22 +59,17 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
-    publishedDateTime: 2021-05-26T22:45:00Z
-    webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-    ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+  - title: "GM's Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
+    publishedDateTime: 2021-05-26T18:49:00Z
+    webUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon"
+    ampWebUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
     excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
     publishedDateTime: 2021-05-26T20:50:00Z
@@ -106,6 +101,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "xN17LZjSjxCdvM9CxNV3KohBw/cXpxc0mYI2mRJF6U4iw+ogXzgDFAZtPKha/fK3uODxI99bz6Ng9iJX8dDoqC6E3k+sBJzyakVnulwgY8AvJK4zqeD0TAHX/h7lTdMtiDybf03MhS4HUpDryswSNI1ar9NstDR6mbaXaiZaXvUWtf+UDlVqUbdvm4a4YG91twtJund8EyVCJrp3oz2atDTuZ7Uq4iNMi735B726Q7BVo9veSqVcVMUQbDZLlF+JR/ZalrdN12CNb0TqgpgbONYQJbMen3fG8n+kZuGilBfdklx+hH5YDxVkTmLMJ8kUJ9cW6i4z6BN7TY89fBcknxWBZQ9idEHesA2UWhEBIHA=;zsT34VD0ExzBsckrcOD/Gg=="
+secured: "xTsjqS53bQ3nEHVtiF7nd9lLAq/VTgZZLx+Wl9hVW50ymQYwoOW9kXcGMaZV0gWH0lBkOo8DNkcstVU0PPccTP7dFIXPSYO5FgKtxTRSsDinSHax1P5wdMwin1SF+bf92sygC0VtJh3hrSqFs6Cfv+IYa+fEtgtmwlLTGv6Sr6xu6saUxwjx/47zw0CA4g4E8UJNjt+uA3umEvD4I1ox28bHwhKUxSTnmCMLwO+mAQmp5tC9VcKSvBIUNO+ui2v2I+AEVC/rPajDiqpu9dgLHfNUxvFOZ0vqBVFrPUKxNhilYZguV31b51MC393hiAggP1iF/DW8VNStdBa+E8I0GznrcMhyVpETTOJKCWq5DG9PlQgyi6nY8Wo1AR5gItJOPKo99XoYhLhbRY4zLzDaGg7imAqxrZyTjBg+g86j9ycEFWW25C/0vC7/SgOc3357GHOo49hbmDbIA1tDVJR2Hq9pwWK2uD8FLEjd5C57C8pJDQEUxZbCSUS1JMEZ0bXIsEJh6LMrWPIRVKXTXDHfsw==;CVGu2lDHL1ATSzixuT+2zQ=="
 ---
 

@@ -1,30 +1,28 @@
 ---
 category: news
-title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
-publishedDateTime: 2021-05-26T22:45:00Z
-originalUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
+title: "GM's Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
+excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
+publishedDateTime: 2021-05-26T18:49:00Z
+originalUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon"
+webUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon"
+ampWebUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market"
@@ -106,6 +104,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "UwbNzbb8CO/DezBfg7GfNt3icrrb4SDQG9TnUpSd2SuZpSjCahg1s4lqDm/UHWSFz8/L83aX9Dxft5ItzPUPVZvTwgMsasFXie/2pK6hXNmxwBOJmLLLA4lBxCi+xyLGNDHN+S9CibNW1vOzp29TY5bsj0mq3pCNLrJLtxRK+a0H6S4XiWdAdwbemRtXB67EIJ2KinX2cOCv2oT+sPMHCRMZXgwPOlpQ3Orx4fv8STqTTv+cNxHrOMEFoz2pv74yMz3Yb8HpEJj+fhlgnT2161VIHgdrf4azubSlRGPjU4Wwpb4FTQxkANMEdFDT0KdZzD0s9ozKa9Odqd17qI/+6fFBPFcJrURIKau6cK2JbNs=;havqoH8+qnQw3XticxIeOw=="
+secured: "s3v3wBgAvdHstYTBWb+tQS7o16ZvbQ1b5WL6xGBPIPs0FA2RCw/T6H1Rhpyq4l9u+06Cp5NN057L6G0XbDZ4A97a5WVw8jLmNZ73SxHa6AL1clznHfajTMNuIMbihehdkWegeOsk/xHr+m5Zm1dBqJukdcuKaS9PHiO87BnAzmUl1RXR+r4VLnS7MvTsFXfzB33LSV5oJxlfyK0BJuSlpYHfLKwwlUK0fT0cnqBjKDNu/9g9r+4X6ktFw+ABi9g4s9ptxMzX2d2a2j4+CQAZJc463Pvzfz4POcD90hNQ5PKOCEKU9nE/npaiCIgn4bu1pNLDjFEfbsOzN+FjPhe7DmFucm3wZpShf4SnpuUmfF9U07/0n2Cs7UbfagM8KHMq2eRraBQ+UopH10yLujD3Fx8+Bd+qZoaS6n/EH97daNsZ3gRD/L/ZXTzl/DDwn+xp67utEvi4nu5ouDNiGnEXqLwcIIHpcZ54K92Hwi1ADVjm7HdYthFq5FTuiJbRBAcFKdisNhMBe7hKB2cNbuxCCA==;4kfkR8F/S0RxFKt7CwvBww=="
 ---
 

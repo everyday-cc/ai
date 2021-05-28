@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 665
         isCached: true
-  - title: "The latest on Pixel 6 and 5a: Whitechapel chip performance, green color, and price"
-    excerpt: "Tech journalist Myriam Joire and leaker Max Weinbach talk about the Google Pixel 6 in a new podcast, discussing the need for an in-house chip and the Galaxy S series-level marketing budget for Google's upcoming phones."
-    publishedDateTime: 2021-05-24T01:30:00Z
-    webUrl: "https://www.phonearena.com/news/google-pixel-6-whitechapel-performance-camera-sensor_id132299"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 33
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/132299-wide-two_1200/New-Pixel-6-and-5a-rumors-Whitechapel-chip-performance-green-color-and-price.jpg"
-        width: 938
-        height: 527
-        isCached: true
 
 secured: "1uOazP5YYDT54xUP40HEOodBBE8eUtiyFpMWzAF4jKHjS3t6x9eCW4EuGJbGwfSRS4nZlN378MtHn24St/3ItCei3JoLN+xIYSA30xUv0VR+zlFPu5phK6n/WHsYHG2vad6NZy8X3bvWrhtTVzjJ3vOHacV6XGrjlflwWpX2KdE9IalB5hu0oRg715bUG5gNvzB7Ga4OA4mj2M6Wfw2CmleP8xXAeJsFmGe8OF3c5CXTc4NUQVuGSRQ/2HpsYNXcgyNvLWBMwjmczBz7B51ki5pAYgq9AWwsVSDA5xN1F++MAT332HFdvFdG5jzy/Ui/FiromEZLtC+2JNkzQJcsybriwOSkTrx49qMH2WLZD7Sx8RvdKP8/b57MmUaFjj5g2+IdaLLkMf6FVf9qSw8R9ooin9LAmaIm5I+ycwRd6yhd4Ut0iVEx4U6Tfx4PTv2UIcFmIfGwmcy2ujdssHkqHcEg0KxxcG9/Ub0ySkDFdF3d7CRAXpyiNbsNcBoOjlEt04h5CuRBdH3m4es2dCJa/g==;BAXgIrHT/sC+smW7QYK0+A=="
 ---

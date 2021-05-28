@@ -40,6 +40,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "India will see breakthrough application of AI"
+    excerpt: "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom"
+    publishedDateTime: 2021-05-28T17:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Investment, research driving AI growth in India, says study"
     excerpt: "Higher investment and research is driving significant growth of Artificial Intelligence (AI) in India, finds a study."
     publishedDateTime: 2021-05-24T09:26:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/27/1025453/artificial-intel
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "How This 15-Year-Old Created A Research Career In Machine Learning"
-    excerpt: "The 15-year-old has also worked on an AI-based sign language detector, a mental health companion app, & diabetic retinopathy diagnostic tool."
-    publishedDateTime: 2021-05-26T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-15-year-old-created-a-research-career-in-machine-learning/"
+  - title: "On Thinking Machines, Machine Learning, And How AI Took Over Statistics"
+    excerpt: "In the sixty years since Arthur Samuel first published his seminal machine learning work, artificial intelligence has advanced from being not as smart as a flatworm to having less common sense than a house cat."
+    publishedDateTime: 2021-05-28T19:15:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Pranjali_AIM.jpg"
-        width: 1024
-        height: 576
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b13f395e70ff270e5f6bc0%2F0x0.jpg"
+        width: 620
+        height: 350
         isCached: true
 
 secured: "XxnhPMj2VRBSUfSXNR8AVGbdcamUPSf//Dv9AwjBSGmrJWmN/WUR66XsG0++t6tibKBuaaAvj+W9o7u8CL5yDbXYDRXfhZrTNqPccmTFgh3EpqnweqYUJ8eJdELyc5YTMGI7MYVPICGG44ah9Z1T+3RhKpHFWcZhG1rwvJfYRLo/QyWIw3c9IOwQdd64OutOc1oHxBhaTCxa/gYEDFaa7jCI2fRXNGhHw5OMF9lZ1HE7oAAGYv2ElVe5J08MZMktaKBnzU0lB2aqepLLdwObMPy6EgROK83zIx3M0H/CNpocGR/T0pRVOQy8nuwcHJqrH1gt1al3ZocolAyxpu/waXhAntkYiPtMUdgsO3E7l1+f3/8ItwnZNwyGAaa8jZ6Y1XWVQhz5wsK5owVfKvKJx46Kg4cLJoKnopLeXqdsUkhwz1Gc/zEkXfk2+GfirtrdU3O+tddjl5ebcgx3y5RHfHeS6ec3dIyCAgor9v3sAvehmVotP4G89aHKlEnoDL45Rv/hKuJLpFR+r43WOcaw8A==;uNYnVhouSAOlfRrOxCWY6w=="

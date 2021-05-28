@@ -36,7 +36,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 14
+    quality: 12
     images:
       - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
         width: 1000

@@ -59,6 +59,17 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "GM's Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicle _ for the moon."
+    publishedDateTime: 2021-05-26T18:49:00Z
+    webUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon"
+    ampWebUrl: "https://www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/news/articles/2021-05-26/gms-newest-vehicle-off-road-self-driving-rover-for-moon?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "GM developing self-driving, electric rover for the moon"
     excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
     publishedDateTime: 2021-05-27T04:28:00Z
@@ -74,22 +85,6 @@ related:
       - url: "https://media.wzzm13.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon. The project announced Wednesday is still in the early stages and has yet to score any NASA money."
-    publishedDateTime: 2021-05-26T22:45:00Z
-    webUrl: "https://www.chron.com/news/space/article/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-    ampWebUrl: "https://www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/space/amp/GM-s-newest-vehicle-Off-road-self-driving-rover-16205973.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."

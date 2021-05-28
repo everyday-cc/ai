@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with"
-publishedDateTime: 2021-05-27T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
-webUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
+excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
+publishedDateTime: 2021-05-27T15:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-    width: 1094
-    height: 576
-    isCached: true
 
 related:
   - title: "Databricks unifies data science and engineering with a federated data mesh"
@@ -40,6 +34,34 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "3Cloud Partners with Databricks to Help Companies Build Modern Data + AI Platforms in Microsoft Azure"
+    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to"
+    publishedDateTime: 2021-05-25T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/3cloud-partners-with-databricks-to-help-companies-build-modern-data--ai-platforms-in-microsoft-azure-301298982.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
+  - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
+    excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
+    publishedDateTime: 2021-05-26T08:03:00Z
+    webUrl: "https://www.hostreview.com/news/210526-3cloud-partners-with-databricks-to-help-companies-build-modern-data-ai-platforms-in-microsoft-azure"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1518026/Databricks_Partner_Award_Rising_Star_3Cloud.jpg?p=publish&w=950"
+        width: 949
+        height: 534
         isCached: true
   - title: "Databricks Unveil New Machine Learning Solution"
     excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
@@ -93,6 +115,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "wMioOMuqTgl9BiJVgc9h2s4EbzbIjCfVKuT8YsLBqZBLGALmzhtwEOTezn7CThXrcxyDiOL5tgIuKmeq+4Mu1JOqFBlb8IpjGv3xeiCnxBLdBNCxPJ7fw4Fkw7x9hK5R4zQWrDhL/UJ82D2d/y/YTItskdFHi5QRD2OmCJOPXcjSTMqsRYZGWNVHw4pEO/VPvPdbjo5UfAQUxDVQw90Ro4eTw8jaQ7pGRKQkZu5iZnL1wsD9F2onTzexWJp77qre7Ens2WWbt51Le1dbehWsMuWjvJRIAwcgFzlYieBiU7gcKRqDrE9C6bUSy642D+UE9Y4V14toKufafyfogvvl+8x3iWpamU3sCVcPuKCDMs0=;O0ONlJQ79v5QFB3RwAVx6Q=="
+secured: "CdqTF7QvMoGApr/lZcirB3dM+WiwObZrD4YsJk4RnNil4Sas613opzUqlCHqbKEXdb+JGOsqXstMlckYJx5cclqo+14S7JfcoX+lLE4Zk6GgrEgtbDdx5Q03sCSlxQ18SoNix1N2tGNd6xrk0tGByNoMT2x6YF19tGGcx0TXgysTYwQ6AUqSUkGqSKJFl2rQ9wOvHWesJ1r6a8Yuey5B0wGS0x6V0HkD7kWy7qmvsW93GOqwQCk1lP4G3hn14ZipQgZBsJ4P6Dv9dFu8P3Ltd1nHASu7qwsVgaaQtImXukOtsSB7OtYDLC4VkfTZUxaw4AuZxJgT7WewWuKBdbSmrzwQzcW2nEandwlW2oNLU80=;dalujv4yTKCq+J/bDl2LqQ=="
 ---
 

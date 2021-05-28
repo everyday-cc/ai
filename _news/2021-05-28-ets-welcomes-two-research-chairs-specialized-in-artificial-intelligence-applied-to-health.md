@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-28T16:35:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/dts-ewt052821.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-05/dts-ewt052821.php"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
@@ -23,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "N4vYKecxMTpm3XdVd6GpAU26eK54YPKjAcGL9N+ihNTwurVY895uwiO8Spz5iiXpMfcnHoW0jHUYo+yCBF/g4CzEE1NpIMZZwOvWxm4O5KZ7sw9MkbvOrcHg9Lqd0Aeqn1qsbIpb4GuapmfneGXA+HWuey18ACFznXKIN7vGZ6+FBR9g0PlltCkcTwra06dU89O/V4moyB6WFfaRKUJAL62mfW7UWnFJkte1J4EhVXdzibWnvePKeXr8KN2FltO5xJBEDN4JAkKsuL1bc8XvB+RLwq4fY0l6tYtx45mu7MI7vgNar76dxt1yns0Z6GpC+QysqFrwaSrSD1PVYT6BEB8jMMWGOdk5ePlM7oCEeU0=;9k1TNC0ta3RZ4CA0+HAbFw=="
+secured: "/zTtEH6H9AiLZUEW9E40Ma821Oh1/0+CHr3KeifPYKz4yX8xg5ok9tLJ3nBS4rWETluijypt4rbCAe7HvrrNS5h6T84rpxA7hWyyVNgj+zvk/Zq+UkwbvybO604bttW+Myc55KbduNNPKmsSuaUck+QdERNL+orxNFSllsbfL1ekyHIerllJm3Xk+12qtwEyXtuyKVHOunk1MJ4Qi2fc3KpdRMFW0K+wLqM1OHy8MhUeETYaMZfmafmroWDlE/50D+ltLRWfu07eKRFhoySNKJFbozc+4bFrsM2NSKyY+PvsAkppT+tV/T+HKpKjxOhnlmci6uKcNsthu13UyTHNGNpk4++eqBqV0+8/zVTtNtdNK44BID9xh+1TSAYZczHHstnesiDjIrLk1IOIUBa6KpfuUDNr7DqQI12hk6LiXX1lxURDvzQMkiiIJC6I6PHTHaiBEabijHAVeWRGiAftvDLTjkcJW2df3LMmzyY9HeQ78zu1yawvONSECTSr0U3Pzpi9oiyyoJDlYMdX8BnLCg==;pAefv1xDU1zsaEGsIXDySQ=="
 ---
 

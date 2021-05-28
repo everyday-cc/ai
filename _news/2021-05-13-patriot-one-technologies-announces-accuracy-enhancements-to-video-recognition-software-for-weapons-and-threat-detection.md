@@ -1,39 +1,20 @@
 ---
 category: news
 title: "Patriot One Technologies Announces Accuracy Enhancements to Video Recognition Software for Weapons and Threat Detection"
-excerpt: "Key enhancements to VRS include: High Fidelity Object Recognition: The system accurately detects guns while automatically distinguishing them from umbrellas, phones or other innocuous items. Its accuracy enables the system to notify security personnel at ..."
-publishedDateTime: 2021-05-13T13:14:00Z
-originalUrl: "https://www.nasdaq.com/press-release/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition"
-webUrl: "https://www.nasdaq.com/press-release/patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition"
+excerpt: "Patriot One Technologies Inc. (TSX: PAT) (OTCQX: PTOTF) (FRANKFURT: 0PL) (“Patriot One” or the “Company”) today announced enhancements to its Video Recognition Software (VRS) for identifying weapons and other threats in crowds."
+publishedDateTime: 2021-05-13T13:29:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm"
 type: article
-quality: 10
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "GBT Technologies developing long-range, real-time biometrics and object detection"
-    excerpt: "Calibre is intended to enable the real-time collection and analysis of data for object recognition and biometric identification."
-    publishedDateTime: 2021-05-13T21:28:00Z
-    webUrl: "https://www.biometricupdate.com/202105/gbt-technologies-developing-long-range-real-time-biometrics-and-object-detection"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18144612/long-distance-biometric-identification-small.jpg"
-        width: 720
-        height: 385
-        isCached: true
-
-secured: "pFQEuHdp62XbUIRLY9djEhKtd9A9oVCsDanM/3+hLJACV+UO3jJ3hkVO6OwcPnabJHT7M2jRf9Qn2+K1qxYEfSAB13kBqNEEFPrIo7fmQB2Afn0vIDa/Zfosiaj/EBO6edOOHhPUbzirGIuUKLcLVfUJEOeFXJvu60AvGwBYcmW/MdQTWJDyHFVboYg5ghEuP8IiJPBnw1NDDu75AJjf7u7ofpZL9rjfvKGZg0rJPjT0WI6VPDSEx2k+TNgLWUbZKmyfuRl6GR3nUvE3KUBFzadfqFd5CqTteOg1GQpuumHN7AadGdrbcHxqxcGrCAgBmRclz61hsoPr0R39zv6/C6w+cpQ0S/K+S0S/TgFbJvs=;iz5NfhoDKmIof5AZCbuZcw=="
+secured: "COl3fGPfYd22ONMHKJWYXYUNKyQIV/ahvnAylkjr/hR5zn8BVART2yDkD0YQFWMsqz0NFgD/x9Ko6dpYg+8fbSKJrrPvcQzgfFU/1HfTWw6gNvBjbI0OnTYP1q21/fabd4mBhSsl5NJC9P62ZJO19oU07UIpaBRLDlJp/BjRMqaulRDucIejZe+zYBj4/c5lJvyF9QFNesGSICQmCIJpwbIBu/oCuAZTtF/CHyr9x69T8tm6c2gLakj1sL3UmLiK4fzLInhBpEeHvuxkQ2jzeg4XZSmaF8C5AIcrAIGPHeS+dpUVIMC4MA2HsiyC2/U/uRbXY2qxUuqwJN0kNO4vlZ8wMjF/5vhdHFMqIfJBo4Y=;h/dF67PwQX19wLF/Vo6RAQ=="
 ---
 

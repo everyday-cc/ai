@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/google-whitechapel-pixel-6-1229322/
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-whitechapel-pixel-6-1229322/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://pocketnow.com/wp/../files/2021/05/pixel-6-pro-onleaks-digit.png"
         width: 1920
         height: 1199
-        isCached: true
-  - title: "The latest on Pixel 6 and 5a: Whitechapel chip performance, green color, and price"
-    excerpt: "Tech journalist Myriam Joire and leaker Max Weinbach talk about the Google Pixel 6 in a new podcast, discussing the need for an in-house chip and the Galaxy S series-level marketing budget for Google's upcoming phones."
-    publishedDateTime: 2021-05-24T01:30:00Z
-    webUrl: "https://www.phonearena.com/news/google-pixel-6-whitechapel-performance-camera-sensor_id132299"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 33
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/132299-wide-two_1200/New-Pixel-6-and-5a-rumors-Whitechapel-chip-performance-green-color-and-price.jpg"
-        width: 938
-        height: 527
         isCached: true
 
 secured: "Mu0FcJk7UfokG2FCn5JVoxtIFgHGgMFieTl2/qwzbgNJXU6P5+ow15My2SgtQek7lvuEba268YpD2PIUX7aOWRJqNd9fAqJac080y11B5VkH9+XgBN5/4NEY1+O8NrEpeETwppc8qvD70e+bbJSKCDrc9fTliw9m2Fol/frCEpcV5c+uygWs58VkC/BdYgGJ56l8FVQhbIPc5y1V+tiY5eJYKTABqqe3ASLIEj7JPEQrNSLGqJ3wTVWWB8/iOABY320Dh0qgN/TbWhuzQ89YUgMfxnJRrnlOhTwTcw2XLFIstFLjoO394N1F3K3zRmoIYhvaN2bRbs1TqSEn1jQp4aZIk+DAtHcApJ20vzBS0X/j/74N8ilv1DIuHhb+IdMtWrOH9sR2NP2b45/0mvXHiPCATarwvrvsUIJr/9z9Kv938JbkWC0k31NG4ySQ/m0AQeMmVCz6yntLqTvVWRDpf3hCFWzWnqIw7u8xprIMqf6ZFNc0oSfLtP4Zz37ioND2dUPt9JlqR6c5UZvIlicUGQ==;ij1OPio8XkaRIITj1lCbkA=="

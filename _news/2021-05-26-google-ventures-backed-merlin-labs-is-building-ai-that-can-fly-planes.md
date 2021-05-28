@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Investing in startups with big ideas about AI."
+    excerpt: "The fund is managed by OpenAI, with investment from Microsoft and other OpenAI partners. In addition to capital, companies in the OpenAI Startup Fund will get early access to futu"
+    publishedDateTime: 2021-05-26T16:47:00Z
+    webUrl: "https://openai.com/fund/"
+    type: article
+    provider:
+      name: OpenAI
+      domain: openai.com
+    quality: 39
+    images:
+      - url: "https://openai.com/content/images/2021/05/fund-social.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "XDu2Ti7LvpJ2H6cgap4RJA5bPvCukddagtLcDvtIVqB3HZApDIcq5Vcvfjh3r7SwO0HmmLdX0LwiuyjHLAYwk/A6n9//wyFjY711+Qvvz4nMjt+ZQ4ZqwndfYMDLqCcCZ8TbEl32B0WIM49ttoyLmgHGt/ZBaq9nHsWFxIHGlvGVgMCQQEcysIJWeclPFlSlrZFwt0iDNTxpsltGFJSzXi9fS6KmbreJeg9tYeqUJa0ULaI2ZZ22DJDypflN+APCjefqGU2MlbqNbGf6NebgQQNeyPCx1D1zLL1slosviIQ6z0dquxg6hufKBVqmuMZuHMk3v8fBARP7IqQo5LzPRtAibLszu7wfQlFYykGJjgaYZuKA4aV5on+XFyQipUBgzitaAVeUH2Kow9sN1O/s0BJgUsH4kz4oY6MlECbf6S1yFu6E8Ixi3d83gQHVDGSiVmNMsHrFZyAHq5kgZGJ01VmpcWzG5+dfCTuKJ84tzOIcNKOrvoSkRkxF6E+/xDWiN9Uk7qt2bJygU3QVQI47JA==;cQBMvwBIXwarBlJvxUQPUQ=="
 ---

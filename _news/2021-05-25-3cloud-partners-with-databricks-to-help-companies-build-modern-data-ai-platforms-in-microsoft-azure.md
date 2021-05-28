@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI fund of $100 million for AI startups with Microsoft"
-    excerpt: "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world."
-    publishedDateTime: 2021-05-27T09:18:00Z
-    webUrl: "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/"
-    ampWebUrl: "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/"
+  - title: "Databricks unifies data science and engineering with a federated data mesh"
+    excerpt: "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models."
+    publishedDateTime: 2021-05-27T15:30:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
-        width: 850
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "3Cloud Partners With Databricks To Help Companies Build Modern Data + AI Platforms In Microsoft Azure"
     excerpt: "Cloud, a leading Microsoft Azure services firm, today announced they have partnered with Databricks, the data and AI company, to drive business value"
@@ -55,71 +55,66 @@ related:
         width: 949
         height: 534
         isCached: true
-  - title: "Nadella Highlights Microsoft's Data and AI Advancements at Build Dev Event"
-    excerpt: "Microsoft is a company of software developers that's simply addressing the needs other developers, CEO Satya Nadella indicated in a Microsoft Build keynote talk."
-    publishedDateTime: 2021-05-26T15:33:00Z
-    webUrl: "https://redmondmag.com/articles/2021/05/26/nadella-at-build.aspx"
+  - title: "Databricks Unveil New Machine Learning Solution"
+    excerpt: "Databricks today unveiled a new cloud-based machine learning offering that’s designed to give engineer everything they need to build, train, deploy, and"
+    publishedDateTime: 2021-05-27T21:57:00Z
+    webUrl: "https://www.datanami.com/2021/05/27/databricks-unveil-new-machine-learning-solution/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 52
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BuildNadellaBig.jpg"
-        width: 1665
-        height: 1158
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/robots_digital_shutterstock_Ryzhi.jpg"
+        width: 900
+        height: 454
         isCached: true
-  - title: "Vectra AI Joins Microsoft Intelligent Security Association (MISA)"
-    excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association (MISA). MISA is an ecosystem of independent software vendors and managed security service providers currently spearheading enterprise defense against the latest cyber threats."
-    publishedDateTime: 2021-05-27T12:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379278.htm"
+  - title: "SD Times news digest: OpenAI Startup Fund, JFrog Private Distribution Network, and Databricks Data Live Tables and Unity Catalog"
+    excerpt: "The companies in the fund will also get early access to future OpenAI systems, support from its team and credits on Azure. The application and more information about the fund is available here. JFrog’s new JFrog distribution capability is part of the JFrog DevOps platform and it enables enterprises to easily set up and manage a secure,"
+    publishedDateTime: 2021-05-27T15:53:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-openai-startup-fund-jfrog-private-distribution-network-and-databricks-data-live-tables-and-unity-catalog/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 38
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/fund-social.png"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Booz Allen Partners with Databricks to Drive Value for Federal Agencies with Unified Data Analytics"
+    excerpt: "Booz Allen Hamilton announced today it is partnering with Databricks, the data and AI company, to drive business value by unifying data and artificial intelligence (AI) to meet federal agencies' data challenges and advance their missions."
+    publishedDateTime: 2021-05-26T18:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-19826714.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
+    excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
+    publishedDateTime: 2021-05-27T15:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 51
-  - title: "LaLiga teams up with Microsoft to digitally transform football globally"
-    excerpt: "LaLiga, Spain’s premier football association and Microsoft have announced an expansion of their partnership focused on digitally transforming the sports experience globally. The companies will also collaborate on developing technology solutions to the media and entertainment industry through LaLiga’s technology offering,"
-    publishedDateTime: 2021-05-24T13:28:00Z
-    webUrl: "https://www.intelligentcio.com/eu/2021/05/24/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally/"
+    quality: 8
+  - title: "BigID Partners with Databricks to Automate Data Discovery and Intelligence for Analytics and AI"
+    excerpt: "BigID, the leading data intelligence and management platform for privacy, protection, and perspective, today announced their partnership with Databricks, the data and AI company, to drive business value by bringing transformative data discovery and context for analytics and artificial intelligence (AI)."
+    publishedDateTime: 2021-05-26T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378352.htm"
     type: article
     provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 39
-    images:
-      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2021/05/AdobeStock_321260329_Editorial_Use_Only-w.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "Investing in startups with big ideas about AI."
-    excerpt: "The fund is managed by OpenAI, with investment from Microsoft and other OpenAI partners. In addition to capital, companies in the OpenAI Startup Fund will get early access to futu"
-    publishedDateTime: 2021-05-26T16:47:00Z
-    webUrl: "https://openai.com/fund/"
-    type: article
-    provider:
-      name: OpenAI
-      domain: openai.com
-    quality: 39
-    images:
-      - url: "https://openai.com/content/images/2021/05/fund-social.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Invoca buys contact center AI startup DialogTech for reported $100M"
-    excerpt: "Invoca announced the acquisition today without disclosing the deal size. The transaction’s $100 million price tag was reported by TechCrunch. Invoca makes artificial intelligence software that enables companies to analyze contact center representatives’ conversations with shoppers to identify ways of improving the customer experience."
-    publishedDateTime: 2021-05-24T17:13:00Z
-    webUrl: "https://siliconangle.com/2021/05/24/invoca-buys-contact-center-ai-startup-dialogtech-reported-100m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/image.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "RYic0tTTlr9NqlAb5zBy0UANGXvxcYUyLnzj29WxcEK4TT30w65tD1/Cq/OWqzxPZHmoWaGDtihByzD8xJ3/CfkzJ/atCCic/VjNPv7EU1HE2B9QO9KHe9+jKhoAiuiOoK4GsANcQd7aU+bZtEXqMOS1h9sOQfrm8Ask3pygAkkAMWIQh7oOcKzU9h1LREnnS3tuUZ1S+DGRUGXWwa6D+a113x+WbYYy2S33ju51DWUXebKr3lomqep8rDt6ROiqGlL4UapPEtKbxN6SIApwLIGUDoANb1RcTTllicSltbZDpgTAAM15BtHJW5yMms2x25PnYV8dWa/WMaOavOWv2Hk/j22lOMUEqp65PlatOfCf5NiG97gy8qzBILDFcG2jDP6AdErDI5q3MHk7ffRByv5kT70oB8P8HNh4UHZGLvL84KKc+vq+n+O6bFgBUxfv2UH6JGb4CvAJb0qtxLRQnv7ieOUjNfz+R/3EZn1+yxYwtk0yHvLmrQAFeUPZnXOLEnaFumd63eIPZv7h+21jQw==;NJ9zoQN84FKxGcmeNF/q7w=="
 ---
