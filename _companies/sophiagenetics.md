@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sophiagenetics"
   url: "https://twitter.com/sophiagenetics"
-  followers: 21799
+  followers: 21797
 
 size: 201-500 employees
 yearFounded: 2011
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KSr8445vqPg"
 
-secured: "3GO6+UAw5FJnwfzNsyiGkvezQIfWL5K/mkd+KvYGo+nITfKTxj7sbTUP6wnsI6RU0b/rA23kmcZg8Ort1QSvYSRWsIHS7rwz6yVM4MsC5WJ0ocUpC1fKs6Rcig9/sBT8UwPTxDa2baxpt3YshviiXshzJRkHhUWMWfchlKcww9eFuz4WSIotu93nbZWW+qU7PHA8oHNIyWCj1Olh0sONwa7LNfCr8L+BHSEeYzXJEKcKyaP3P+ybCzHiuxCAThKW40pp1EvCB1vjKWaC5FFnMnFnYgaB0JnqqwhHSYQCYnDMosxj2TLsUWjCEn4ofhRBhgfrvmmSKPeiLJn/Cfi0jMuhyQbZFPYtp5crOiPays2xUXPHyB6Cih7sH8KiZElbTimCddCVSHhBhNpUhfo64WaT53qINsp1HaZyahw0KvY=;XSK+HIUbFONSfduWNRX9JQ=="
+secured: "hk9TNWAGdc/vjEaqO8HHys5GoOmfGUlXhwYOb0NMcuYothqJb4T2joJz2xBgy9W+F1opVbvBI3slN1PKNFmjsN6cGv8YAxycytP+dwVLjzLUdf6w3b4Nk37PZuTbLACRX1JswX5ksMO8+Z9UNwQUSMT36DESN22pZico2oUkM0jpy0LlO5W3C03RA+1LfUkDIYNQUfwwSg8jPzUnggwOdp6ZPS65ID/vkpm2+Fpymnz6Oy/E0nPQZhCJQjqqK8pfc2WA31eJnOWxfRjQ1ry5MDfDRCQVLp75t+GDw4ArHMxnrc+fh4nKMVSrHJ35xkKzv0+PVeUXB2fK2Dw+m8EYCbmw0POa9MOzN692RpPyap38gnRX7COeZj/3GlOeGpFA1UtCwSUPgL4udyWQGwOGmenI4xZn4B1m7A+x5zk2Nvg=;ryU2fGQmojCWdzuBduq5sg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "AlphaSense"
 overview: "AlphaSense transforms the way companies get information and make critical decisions with its AI-powered market intelligence platform. The company mission is to organize and semantically index global investment and market research data, allowing clients to be more efficient and outdo the competition. Used by the largest and fastest-growing corporations and financial firms worldwide, AlphaSense is headquartered in NYC with offices in London, Helsinki, San Francisco, and Boston."
 type: "profile"
-heat: 72
+heat: 57
 
 website: https://www.alpha-sense.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AlphaSenseInc"
   url: "https://twitter.com/AlphaSenseInc"
-  followers: 3970
+  followers: 3969
 
 size: 51-200 employees
 yearFounded: 2011
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "aRXbYPZA7nNA/dAj1Mu0PSxHyF0vs3hD/CyCn6ODvTbBr0jQcduquAVo5mmRIuqtd2viU95jvPggFUiXKzGRBEDgU3xkabTtlAwX8FbzuGr9nE+p2VUP53Bp18Htczh96tFsNXg+hj+2NkE2dqVu+JU98Xlaj16fqfaKsguxkuh1QGSLJKVtQmmPFpTVbObKeEQNtRDfHE+FIGmpQcMFw33DGPdVFNIzoEegv3bnQS0CgNPQMApZ8MQzI1iVmJlwz4Kw6o8HM3DzHBuJUmNyCCZ9weksUzaPmCwcyJHwwHu0vF6/UY+ZyI1xCdrYGdpI59V11hly4ynGVOWsE1ezyvBQU5Yk8yzpoiI0bUFAnQo2caU0WPbgazuFP3l+mLUCq19upUwwIwBKhhXRVZ5VERb2eMKoAkY4ZoymNh5lVW0=;ry3t82k8eJsLP7lwHHYOYQ=="
+secured: "dM0v64o9Hvfny4dePuB9mMYUCzuZdf11tAWwXkhqLw7APsVNDQtaDeEoyE2GoHGNDdlFX9Hi/ZRAAPBGGlSVZuv5aHN6WxZ5mIAlQMN2s++h2dAFz56LfemT72oc68jaS2s/iwS7NfP9M2z/IE422nXaQMvKtTwyGyRO7TWM2g0TqSlG7VMRTY/QwTPjAM2MZ1Wcf2sYg3A4SsFxHU68y3NVV1HzO+d+3P1ldlwg/vTvyluscH2xk+JG9o4ppkinDAmekfWrxAz/oFJcn+2D6yZsW3hdBTMmo+H/i94qhDPvsE26FarPnlP/bTA8+STVZ5JlvK8HJFG+SQ+9CfI8C71c5M8JzZNUFDo1OLaUUSuGnEB6EuroX4Rs0MgGT6K2Njrt9EU9B9nrGiCcuzRL0rX85W3snnmSnFl3fKkzKkk=;rnhLuLG43cNpT8eheEBHpw=="
 ---
 
