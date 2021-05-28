@@ -35,6 +35,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "All The Free ML/AI Courses Launched At Google I/O"
+    excerpt: "At Google I/O, the global tech giant announced a bunch of free courses to help budding developers explore the potential of machine learning and artificial intelligence technology across various open-source frameworks and platforms like TensorFlow."
+    publishedDateTime: 2021-05-28T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-free-ml-ai-courses-launched-at-google-i-o/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/210518_1004_3S1A4903_B_1_1.max-1000x1000-1.jpg"
+        width: 1000
+        height: 622
+        isCached: true
 
 secured: "icMmgoqj+vRnjM0PHRNbp8YPCDQ5YXpUEp+JBB7MEYg65gtEsb88tTVWla5CRYJexluO/nMsLsqfhTSdMoFQohuahdXzr+UHLjdqgdmfcifba8yckDv3B5mJOFCoiK2Ny6IzLzc/yXvsyBEzdaFCgeEwIowqmCsuskIC2IAsBEP3iipMLwYpNu1SIkP1MuqdLRkFeify0umhvn2zwp8jwKJntiW6/h8g6ThRv3j3Lel72An6fgvRy3gG6gh3dE/MqbtB7MdAt2pw7seTyLsfkbwrp3p6mhLBesEX+DeryF00MlJRN+vpMqfn1kX23gEFjc9FlhAYijgzTPlRfiOoFd0RhDCB2cOzGPu6hJdLtwQ=;p1WEqoQ5ZnDYRJn69BU90w=="
 ---

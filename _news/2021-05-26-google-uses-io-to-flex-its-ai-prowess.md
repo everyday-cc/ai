@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/google-uses-io-flex-its-ai-prowess?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-uses-io-flex-its-ai-prowess?amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "All The Free ML/AI Courses Launched At Google I/O"
+    excerpt: "At Google I/O, the global tech giant announced a bunch of free courses to help budding developers explore the potential of machine learning and artificial intelligence technology across various open-source frameworks and platforms like TensorFlow."
+    publishedDateTime: 2021-05-28T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-free-ml-ai-courses-launched-at-google-i-o/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/210518_1004_3S1A4903_B_1_1.max-1000x1000-1.jpg"
+        width: 1000
+        height: 622
+        isCached: true
   - title: "Google I/O Reveals the Brand New AI Innovations"
     excerpt: "Google in its recent Google I/O meet revealed several new products and AI innovations. It includes the launch of their Quantum AI Campus which will produce the first-ever error-corrected quantum computer."
     publishedDateTime: 2021-05-25T05:49:00Z

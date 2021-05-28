@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-05-14-canadian-tech-firm-diversio-honoured-for-pioneering-work-in-ai-and-data-at-prestigious-digital-awards.md",
+      "title": "Canadian Tech Firm Diversio Honoured for Pioneering Work in AI And Data at Prestigious Digital Awards",
+      "excerpt": "Diversio is being recognized in three categories of Fast Company's 2021 World Changing Ideas Awards. As a finalist in the AI and Data category, Diversio is recognized for its work harnessing the power of data and artificial intelligence to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19805210.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19805210.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
       "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
       "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
@@ -1108,49 +1151,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-driverless-buses-rolling-toward-commercial-runs.md",
-      "title": "Driverless buses rolling toward commercial runs",
-      "excerpt": "Driverless buses are currently in operation ... laser sensors and radar sensors to navigate predetermined routes. Artificial intelligence-based technologies and cameras also work together to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202105/13/WS609c7a8ea31024ad0babd8af.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202105/13/WS609c7a8ea31024ad0babd8af.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202105/13/609c7a8ea31024adbdc76cf9.jpeg",
-          "width": 474,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

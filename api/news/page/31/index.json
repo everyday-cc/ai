@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-04-5-virtual-physical-therapy-startups-to-watch.md",
+      "title": "5 virtual physical therapy startups to watch",
+      "excerpt": "Digital physical therapy outfits think they can improve outcomes and reduce costs by making it easier for patients to stick to the program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
+      "originalUrl": "https://www.statnews.com/2021/05/04/5-virtual-physical-therapy-startups-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_406527128-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.md",
       "title": "Achieving true situational awareness in operation centres with computer vision & AI",
       "excerpt": "This webinar dives into the growing capabilities and use cases for Computer Vision and AI in Operation Centres and beyond. Join industry innovators Userful and Security & Safety Things in this round table discussion on how Computer Vision and AI helps ...",
@@ -1073,40 +1116,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams.md",
-      "title": "ContractPodAi Partners with Qualitas Consulting Group to Introduce AI-Powered Contract Management to More Legal Teams",
-      "excerpt": "ContractPodAi ®, the award-winning legal tech company and leader in AI-powered contract lifecycle management (CLM) solutions, today announced its partnership with Qualitas Consulting Group, a leading full-service consulting organization providing technical and functional expertise for business process,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12455-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12455-contractpodai-partners-with-qualitas-consulting-group-to-introduce-ai-powered-contract-management-to-more-legal-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-19-forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning.md",
+      "title": "Forecast nabs $19M for its AI-based approach to project management and resource planning",
+      "excerpt": "Project management has long been a people-led aspect of the workplace, but that has slowly been changing. Trends in automation, big data, and AI have not only ushered in a new wave of project management applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/",
+      "originalUrl": "https://techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1216508343.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning/amp/",
+      "publishedDateTime": "2021-05-19T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-google-io-2021-an-ai-model-to-diagnose-dermatological-dilemmas.md",
       "title": "Google I/O 2021: An AI model to diagnose dermatological dilemmas",
       "excerpt": "An AI-powered dermatology assist tool will require users to take photos of their area of concern and have a possible diagnosis returned.",
@@ -1153,57 +1204,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective.md",
-      "title": "What’s In Store For The Next Generation Of AI? The Jaseci Perspective",
-      "excerpt": "The way we articulate solutions to problems in computer science has not fundamentally changed in decades and we’re hitting a new ceiling with the unique complexities that come with building sophisticated AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a40b4d033264ba316a2ebd%2F0x0.jpg",
-          "width": 1199,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
-      "publishedDateTime": "2021-05-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

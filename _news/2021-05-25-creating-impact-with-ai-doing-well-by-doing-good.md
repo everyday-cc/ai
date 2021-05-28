@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Women in AI: Exploring gender gap in coding industry"
-    excerpt: "Stephen Hawking, in an online Reddit Q&A session about AI, had said, “A super-intelligent AI will be extremely good at accomplishing its goals, and if those goals aren’t aligned"
-    publishedDateTime: 2021-05-23T15:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/sabujsreewrites/women-in-ai-exploring-gender-gap-in-coding-industry-32426/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "XjIh2J5RZhtJWBEKYWxZg3+XhiQg2NF3/mCPVTexDIOrkZ4Kek6i+rdH8iwJ+e/15y/SvL6YUkyzB3lfRAmFpWwgbkUCyRPRzl4Stkwu5prhJQTqOvQsRmdmMRaJR8kFU1UUbiuNSyqg0a05ultu2Jj/SaiKR0kcvv6RV0137LXF9udlSqxQKhnjZfxIoH7B3e+W2ID/94lWJ4/3I56zJbESBvKYSHkL5rx5ywRbWR8Gs6+YNQBYKwEeOFgjJxN+w9T99XuR+Q62uIBY2fz9IsSD1HsQ3371P7g/Dk9Pp64PrXbIrk+CVmzuzj3ZZMZvqQP4WbAwBYwxLeabyjaKlQISniJg0ohLKRDvLruq3Q8E6D9M6VdA6u3i71q8IvU1bt7nsp+K6hMVuexPWZz6ChIp47cC0sjgjelWPL0cB0I+6DtcXXyvl+tOIL/GLYiggfHFA+LgSkRi47BDI17UN+BCwJGF1uPLf6p+EbX5sAt0At4n0NjQ+UaAHNIGazx6tlbNsQ8CJc9xDW5YW51eyw==;vfvn4yqqW7USvPXVAG0vnQ=="
 ---

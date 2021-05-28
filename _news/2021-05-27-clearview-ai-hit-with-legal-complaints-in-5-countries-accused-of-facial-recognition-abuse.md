@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
 type: article
 quality: 93
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60af8ee1bde1dd11882247cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D0%26cropY2%3D2700"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Privacy groups file complaint to EU countries over facial recognition technology"
+    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition"
+    publishedDateTime: 2021-05-28T08:45:00Z
+    webUrl: "https://www.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    ampWebUrl: "https://amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    type: article
+    provider:
+      name: RFI
+      domain: www.rfi.fr
+    quality: 69
+    images:
+      - url: "https://s.rfi.fr/media/display/8b645cec-5f20-11eb-87ed-005056a964fe/w:1280/p:16x9/4295d2e4dc504e6087fae39d501c19615044132c.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Clearview AI Hit by Wave of European Privacy Complaints"
     excerpt: "Clearview AI Inc. was hit by a wave of complaints across Europe for allegedly breaking the region’s tough privacy laws by scraping billions of facial images from social-media profiles and the internet."

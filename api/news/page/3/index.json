@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
+      "title": "Rock picking robotics startup TerraClear raises $25 million",
+      "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "originalUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S1ELdkR1Bbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "publishedDateTime": "2021-05-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
       "title": "Research team improves fetal heart defect detection using machine learning",
       "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
@@ -296,7 +348,7 @@
       "originalUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1166,57 +1218,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-powered-financial-research-platform-sentieo-nabs-20m.md",
-      "title": "AI-powered financial research platform Sentieo nabs $20M",
-      "excerpt": "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
-      "originalUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
-      "publishedDateTime": "2021-05-25T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

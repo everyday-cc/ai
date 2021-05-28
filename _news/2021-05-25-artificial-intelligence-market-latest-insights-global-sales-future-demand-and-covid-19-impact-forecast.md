@@ -133,6 +133,20 @@ related:
         width: 685
         height: 431
         isCached: true
+  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
+    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
+    publishedDateTime: 2021-05-27T00:00:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
+        width: 685
+        height: 388
+        isCached: true
 
 secured: "YHe2zPJGryMv1A+iomBrIjuiZEJ5AY21ooRg41AekNS+YdpgAS+77nOW+X5mAEfw4VdHDWQQeVLfxsbMiE55ArekYowFXmmLnSYHC9HMr+OB4U1J2WIgZ5gqjE6LwbHsmjDHLxylJHWInE0jXDieH92wmTQ4VIwU0PoJEWvc1yaTUfqOYojaKcb1C8I0jOfI+wSkU8y1S9PkxjPI3YWEi06OZnLYei/2IQZG9VCUgm0xPqifkEmpWBO048LKNwRTxSyY4lbwwTps4CA6sllGa7bkHgIsuiCaLZRCCF91oCsg6CZlgE2yMPImzhAR8PPugTzl5yFxpFzxrnnCHkWLuuB/b5N+efuFLji8h+/5Rdw=;DOf8neai32fqHXF3Ypiz9Q=="
 ---

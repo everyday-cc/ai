@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-22-berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center.md",
+      "title": "Berry Robotics unveils plastic sorting robot at Evansville recycling center",
+      "excerpt": "Mayor Lloyd Winnecke joined officials from Berry Global Friday morning to officially cut the ribbon on a plastic sorting robot at Tri-State Resource Recycling making",
+      "sourceUrl": null,
+      "webUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
+      "originalUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/05/snapshot22.jpg?w=1280",
+          "width": 1280,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
+      "cdnAmpWebUrl": "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
+      "publishedDateTime": "2021-05-21T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVW",
+        "domain": "tristatehomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-deepmind-reportedly-lost-a-yearslong-bid-to-win-more-independence-from-google.md",
       "title": "DeepMind reportedly lost a yearslong bid to win more independence from Google",
       "excerpt": "Tensions between Google and its AI brain trust DeepMind have always been fascinating. To put the relationship in crude terms: DeepMind, founded in 2010, is home to some the best AI researchers in ...",
@@ -1176,40 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai.md",
-      "title": "RAI INDUSTRY SHOWCASE SHAPING UP TO BE THE BIGGEST EVENT IN UK ROBOTICS & AI",
-      "excerpt": "Robotics & AI Showcase, 25 - 27 May, has more than 70 exhibitors booked in and over 800 visitors registered to attend and counting, making it the biggest robotics and AI events of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/05/21/rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai/16895/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/05/21/rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai/16895/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

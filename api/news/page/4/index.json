@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-25-ai-powered-financial-research-platform-sentieo-nabs-20m.md",
+      "title": "AI-powered financial research platform Sentieo nabs $20M",
+      "excerpt": "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
+      "originalUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/investor-e1621954392410.jpg?fit=800%2C400&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/ai-powered-financial-research-platform-sentieo-nabs-20m/amp/",
+      "publishedDateTime": "2021-05-25T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-taipei-based-computer-vision-startup-eys3d-gets-7m-series-a.md",
       "title": "Taipei-based computer vision startup eYs3D gets $7M Series A",
       "excerpt": "Ys3D Microelectronics, a fabless design house that focuses on end-to-end software and hardware systems for computer vision technology, has raised a $7 million Series A. Participants included ARM IoT Capital,",
@@ -759,7 +810,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1195,50 +1246,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-how-healthcare-workflows-can-use-intelligent-automation-for-better-care.md",
-      "title": "How Healthcare Workflows Can Use Intelligent Automation for Better Care",
-      "excerpt": "Intelligent automation improves operational efficiency and helps payers ensure the delivery of high-quality care to members to improves the member experience.",
-      "sourceUrl": null,
-      "webUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "originalUrl": "https://healthpayerintelligence.com/news/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1163245446-3f32efd853ffed8e5d8a1184abc2c18d.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care",
-      "publishedDateTime": "2021-05-24T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthpayerintelligence.com",
-        "domain": "healthpayerintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

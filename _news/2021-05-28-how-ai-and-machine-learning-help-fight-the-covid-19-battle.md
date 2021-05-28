@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/266191_web.jpg"
         width: 685
         height: 431
+        isCached: true
+  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
+    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
+    publishedDateTime: 2021-05-27T00:00:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
+        width: 685
+        height: 388
         isCached: true
 
 secured: "WuHaSPHwBIMpjIf8FGfdzGCS9q0ct/Ldw/R0Bsy8kyGKF+WZIfpMv+Xr2HlBWmTY0/EFaDiauNZkEuzd9QQIkUQPHKLZlFoA6xWfVIoB4coCaQsFoof115Dv/CW+MpWiyy+uoJuGKrpkmSCM1qui3kDLEZYGt8C5R1xbXCbgqZPj8TiVLVLRwnj4NPvNWdDR5y+2SSuTe5dp339kwW2a05tFb364QCUe0iF1nXZfRlviXTmIwJtTTlrAUScrbFhYuEaMv4gnIoXpFDpibO9eQ7enXSs2bK0bF9sIPQ25kC21QMzWQXPBd7v7igwIQXF0okPHYB3q0KayCR5acx6nNivg4/3M3yraspjV4dW7wD7mOvHu5xAEDAhnmB79R32PdRBlN4PV0d8EyfFhpfXukW90EG2O0GqiSwdkZ6aZgf8F5mIpWw8HBulY+opFVl4Q+PPaKXqexpk364FE7jBgcJtUz/pXCKIk/9+kij6tvSjZlXrwrcxFdDEmGjUN1QX1DbdMVudIfN7XnESGDLbGzg==;lLRTydyPzyd2evDgiFoQqA=="

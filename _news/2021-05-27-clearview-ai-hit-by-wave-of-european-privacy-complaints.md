@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Privacy groups file complaint to EU countries over facial recognition technology"
+    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition"
+    publishedDateTime: 2021-05-28T08:45:00Z
+    webUrl: "https://www.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    ampWebUrl: "https://amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/europe/20210528-privacy-groups-file-complaint-to-eu-countries-over-facial-recognition-technology-france-china-surveillance-data"
+    type: article
+    provider:
+      name: RFI
+      domain: www.rfi.fr
+    quality: 69
+    images:
+      - url: "https://s.rfi.fr/media/display/8b645cec-5f20-11eb-87ed-005056a964fe/w:1280/p:16x9/4295d2e4dc504e6087fae39d501c19615044132c.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Minn. Police Use of Facial Recognition Leads to Concerns"
     excerpt: "An investigation revealed that more than 40 law enforcement agencies in Minnesota used facial recognition tech from Clearview AI. Experts have raised questions about the legality and reliability of this tech."
     publishedDateTime: 2021-05-26T22:26:00Z

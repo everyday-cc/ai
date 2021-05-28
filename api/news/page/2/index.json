@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-27-clearview-ai-hit-with-legal-complaints-in-5-countries-accused-of-facial-recognition-abuse.md",
+      "title": "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse",
+      "excerpt": "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "originalUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "publishedDateTime": "2021-05-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-ahrc-high-risk-facial-recognition-should-be-banned.md",
       "title": "AHRC: ‘High-Risk’ Facial Recognition Should Be Banned",
       "excerpt": "The Australian Human Rights Commission (AHRC) calls for protecting human rights in the regulation of facial recognition technology.",
@@ -1174,58 +1226,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
-      "title": "Rock picking robotics startup TerraClear raises $25 million",
-      "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
-      "originalUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S1ELdkR1Bbo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
-      "publishedDateTime": "2021-05-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
