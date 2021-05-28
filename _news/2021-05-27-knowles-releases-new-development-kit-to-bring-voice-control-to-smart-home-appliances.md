@@ -43,6 +43,15 @@ related:
         width: 726
         height: 277
         isCached: true
+  - title: "Knowles Releases New Development Kit to Bring Voice Control to Smart Home Appliances"
+    excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precisi"
+    publishedDateTime: 2021-05-27T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210527005031/en/Knowles-Releases-New-Development-Kit-to-Bring-Voice-Control-to-Smart-Home-Appliances"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "rS31hxk3++DjXyBwod1lHoN7Lz/+/fvaFi+LPnmeXx6SEjiv0p+49US5R1AfQUsd4SrifdPyog+I90wkIgE9zHFboQT6wa7rTEkyhKOMqKVRNwQQiw1GEvlKqRYmBwVaI9TUUidFekdFPz2A2h8ZP62kt6AqJY9iImIA96ehA9iT1IVK+KygkYuZFETfQea8R47WyAUVZ/oZ7ewIZAVOqaIhj2WoV+aiiycxCpewb0srFdQo5fWeswtepsihX2jXV28uCwrzO9P5K91ctIRxsvkFVjhz93Nu8m1Nh6oRZlizYpJvLHdoENkAufxtv9e08B3oa75h8d3npRCqVEOob2KuslT9d5xoKjAS/dbed4E=;gO37AqSdUOvU6O26BWrMqw=="
 ---

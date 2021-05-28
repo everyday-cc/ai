@@ -9,7 +9,7 @@ ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-healthcare-workflow
 cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-healthcare-workflows-can-use-intelligent-automation-for-better-care"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Robotic Processing Automation can improve healthcare at scale"
+    excerpt: "When used correctly, RPA solutions can completely transform operational processes to drive financial efficiency, enhance employee engagement, and improve the customer (or in this case, patient) experience."
+    publishedDateTime: 2021-05-28T11:50:00Z
+    webUrl: "https://medcitynews.com/2021/05/how-robotic-processing-automation-can-improve-healthcare-at-scale/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 41
+    images:
+      - url: "https://medcitynews.com/uploads/2021/05/GettyImages-1156502194.jpg"
+        width: 752
+        height: 465
+        isCached: true
   - title: "Techforce.ai Enters G2 High Performer Category for Its Full Stack Intelligent Automation Software"
     excerpt: "Techforce.ai, the world's first autonomous workforce company, with its mission to amplify human potential by digitally augmenting everyone at work with a self-learning"
     publishedDateTime: 2021-05-27T16:00:00Z

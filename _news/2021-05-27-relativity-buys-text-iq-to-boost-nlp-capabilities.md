@@ -7,7 +7,7 @@ originalUrl: "https://www.artificiallawyer.com/2021/05/27/relativity-buys-text-i
 webUrl: "https://www.artificiallawyer.com/2021/05/27/relativity-buys-text-iq-to-boost-nlp-capabilities/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1483
     height: 1021
     isCached: true
+
+related:
+  - title: "Relativity acquires Text IQ to augment AI platform for lawyers"
+    excerpt: "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort."
+    publishedDateTime: 2021-05-28T13:20:00Z
+    webUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/"
+    ampWebUrl: "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/relativity-textiq-ancmnt_1500x750.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Digital.ai Platform brings artificial intelligence to value stream management"
+    excerpt: "The new Digital.ai Platform is meant to be an intelligent value stream solution that accelerates value, increases efficiency and reduces risks."
+    publishedDateTime: 2021-05-26T15:46:00Z
+    webUrl: "https://sdtimes.com/value-stream/digital-ai-platform-brings-artificial-intelligence-to-value-stream-management/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 79
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-26-at-11.26.17-AM.png"
+        width: 2306
+        height: 1222
+        isCached: true
 
 secured: "6iqLcyLMyJQlktZqzt6UpMP+fVa7fekHUT0z9CGHTqosJN5YIJvI+yuBKtVS5Z6+/29n+g1F5I4fMQ55gcd+Sz14cgl+V4ysyHOLI9jRT+iaHhDRz06QT1UlHYr/tum936gNTnyTBMgFBCInY9SgKM+424U4JFdnKDFDZcNPRIqgjFHQWVhCWxUMCAE5DPVwp8t589abgYdJjiXbcdzQBLGdvwdzMSxiMe4fhUWHwIlPg4g3mjhIgMnHJ7uoVz7rTUmTBeB0rL3f00D7xp7wgKHhC95zfren8/y1uil6Dxg1NA5cPlA/Ag39KCYBZq81b/IIEXX8tBFYvGa4UJVuaW+e5KPqpfWqQGD53RdzRdQlCbie2GKwhJCokbJ2hjr+KLC9M8M1EGO2LuWZi8pHSK5G9feRd6CH1yQiLdi81R59IkcJTj4TslIDwcmKkCwIJPUakyttefiUS1VdAiszi4fo9N7voHkEpgppYngjMlhd5j8lMYL4FJEmmzitceQGw+lHSCFvYRFO2VDKPVnETA==;Gt9aYKbX7kzWp0LUAP5diA=="
 ---

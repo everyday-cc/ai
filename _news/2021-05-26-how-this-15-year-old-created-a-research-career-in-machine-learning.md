@@ -41,20 +41,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "Researchers create new AI-powered deep learning model to support medical diagnostics"
-    excerpt: "A new deep learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of"
-    publishedDateTime: 2021-05-27T06:56:00Z
-    webUrl: "https://www.miragenews.com/researchers-create-new-ai-powered-deep-learning-567398/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 47
-    images:
-      - url: "https://www.ualberta.ca/folio/media-library/2021/05/210527-ai-pouneh-main.jpg"
-        width: 3000
-        height: 1690
-        isCached: true
 
 secured: "XBxLiLp/v+Opi9LYptLJPiR0hsTmOvUty5bQ4/PRPU6SGLubJUa4pnVgZCAPtzQBQBsQhWpqvGK0AHooONP0xa5HKOMJJYcvHw+PZ4b5osN3ZAK95tTWgZj59QiiBu01NvIXqJ9p5jV6zgSXOqAHvYfLFOYdtA74z9nF6iFEihLnzz7S9TBoX4XM7qYV0QJZBk9lnboXb0equg8yRKqkyK6k9z2GAD+S/5zPjLD0RMqy98Nm7n0LkyAxDiayo8voiZFo3OA9bGCI/PUsrK6ybCt3m6ZWDnuLLZOf8EvDcUXn4v+6RYyYD+5lX/FaNLEGhmoJqviCe3CAoZkrEQQHKfHMfzMv1aB9aqbRB1w1bHH98RZAD54giGJl88ttdlC/MPoCAAc2XdarJXBTuovZoZQRfNAr8XUu28VsskPw77FQf7TdQFOOOEOLWWxxZuSoPfBNFMOoXOF0fVH7RUnve+zuWP+RAfYiPNX9JkMu2RQ8/FFGgpUvIz8pl//D+Mp41NswiKT1exAMiMd2PmSi4A==;eOXHmjWXsiXNuKewJeLloQ=="
 ---

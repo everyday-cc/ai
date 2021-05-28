@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/27/1025453/artificial-intel
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers create new AI-powered deep learning model to support medical diagnostics"
-    excerpt: "A new deep learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of"
-    publishedDateTime: 2021-05-27T06:56:00Z
-    webUrl: "https://www.miragenews.com/researchers-create-new-ai-powered-deep-learning-567398/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 47
-    images:
-      - url: "https://www.ualberta.ca/folio/media-library/2021/05/210527-ai-pouneh-main.jpg"
-        width: 3000
-        height: 1690
-        isCached: true
   - title: "How This 15-Year-Old Created A Research Career In Machine Learning"
     excerpt: "The 15-year-old has also worked on an AI-based sign language detector, a mental health companion app, & diabetic retinopathy diagnostic tool."
     publishedDateTime: 2021-05-26T11:30:00Z

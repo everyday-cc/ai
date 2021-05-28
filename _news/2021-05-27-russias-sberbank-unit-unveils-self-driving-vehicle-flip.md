@@ -37,6 +37,15 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Russian startup unveils first self-driving robotaxi"
+    excerpt: "Russian technology transportation firm SberAutoTech has unveiled its first fully autonomous vehicle, a mobility platform that can be used for passenger or cargo delivery. Called Flip, the autonomous vehicle is an all-electric vehicle (EV) powered by a replacement battery module at the core."
+    publishedDateTime: 2021-05-28T12:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16783/russian-startup-unveils-first-self-driving-robotaxi"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "naju1yDCLtTe+zqSenVQLPjlq6oez+r/zCCbssIHfGR9TkzrBYvi2EJWAE6GPuq6jjAXMTrCTJEAuyDgoI3ryEjNaE/39eyMkUbG72tZbRSYMFsj1J8Blmea6DTliaWnSNHSuVEdeJTdtCgmmFiSSvtGmYshvI0BOiUG40YNuWwZcXiksRCd0iZAhvmxqavVTwb7P5qm6/7Pw773agxQvbrIhSVDMmslZc0gBTjOkY3qDIjz9Vg/zyTWTHww1dPER74Icjo/v9aLiS7eH5vx0F0RQL4NpM3gLYbFxRBvSs8gV7Tmkq68J83lT8248ACA81jlw6schXB6nBHFtnKW99DAnZqBJe2y6VsT7q5PVryTZw72D45oC61PQLFWuXJ9vL+XtyIvd1ZHYALsh1mKpgBSBYmlZiF46A/idXMPHk/PhaBqy1Im7805VPowumvlFBdWh2qI5u4VyfdDr9yyyiY4JEpZ0NYcPfTZPIBcgJB3e2UH1suY95ok/o7cMwnAyBxEeCVmu9X42okRqHs4Ag==;EJn9vHekqr8WB3ClYoutiA=="
 ---

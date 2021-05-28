@@ -41,6 +41,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "How Robotic Processing Automation can improve healthcare at scale"
+    excerpt: "When used correctly, RPA solutions can completely transform operational processes to drive financial efficiency, enhance employee engagement, and improve the customer (or in this case, patient) experience."
+    publishedDateTime: 2021-05-28T11:50:00Z
+    webUrl: "https://medcitynews.com/2021/05/how-robotic-processing-automation-can-improve-healthcare-at-scale/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 41
+    images:
+      - url: "https://medcitynews.com/uploads/2021/05/GettyImages-1156502194.jpg"
+        width: 752
+        height: 465
+        isCached: true
 
 secured: "0+q3Sw/k2Rk3wdMFALLbqvaknIAdik9bzOPfffZehExwPDrywDzMZv/AgFb36W/q7yIySHvrerrgIPqG4ncDuOTAzmLHZhUqDlM2ocparGumTg1sSY7w8SACgna85SDGGaEyfvMCd8o3rdUHFPlN0uBXIekecIGMLiNiAVV+NXPMpa5yDVoKNpNMGxqr0xJ2haSGsVqQqf+fpe4LnD4P23pozcOmuJrIm5JF9BdNadr+u9/SOaNfELBCCZF37okE0Xe2VoLh2hMNjtQborABHGuFtueJN332hCtmTbLF2SwGYHwVhhMmbGwc/JyCAAQPBIdRFpzjNyOcXtVsapyMQuT+YE6Nj5MzfOVy6mFC820=;Xcibh0rpUNdWtQcLC72pLg=="
 ---
