@@ -15,7 +15,7 @@ website: https://t.co/s5ydlRJnm8
 twitter:
   username: huahaiy
   url: https://twitter.com/huahaiy
-  followers: 985
+  followers: 986
 
 linkedin:
   url: https://www.linkedin.com/in/huahaiyang/
