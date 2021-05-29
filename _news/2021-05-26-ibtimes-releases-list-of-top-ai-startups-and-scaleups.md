@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "IBT’s Top AI Startups & Scaleups: Trailblazers With Promise And Real-World Potential"
-    excerpt: "This is the age of Artificial Intelligence. The benefits of AI are already impacting people’s lives in more ways than it was ever imagined."
-    publishedDateTime: 2021-05-24T19:46:00Z
-    webUrl: "https://www.ibtimes.com/featured/ai-startups-scaleups"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 34
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/24/ai-startups-scaleups.jpg"
-        width: 1200
-        height: 458
-        isCached: true
-
 secured: "kwcKkHS4KzdaDLbbeKx4fYlswF0CFX2iNi/iIlx2cahpoDrKj57gL+KChA9Q1y+Pxh2QEHJ3s6ueI0swylO4jdJBNORNBvPS8+xbgCuqoTUGsdML45CxVihabVd6ccOxgQMDwUMi4eFD5HULFt6xuYZJcNgZG4aDYWx+Sg3rgJjUpBS3XfWX3dbbajnaSrePfRXMIw5E6Ks/JKPY9o6JCPdSbD5gXFyAdwuVhnVlo4pT65ukSmPNPVhpWnltYNd4kqoLccpKvEwfP+9MHNBYwNTcke9B2/LlWNNi7XedQOc2GrG9MmQgojev3fyO5AqgB7eosLqy+9Er6cQa3BFDMENRM9hNQ3bLbbTON2d9O80=;LQ7moHGBbxoPxhQqbnYgtg=="
 ---
 

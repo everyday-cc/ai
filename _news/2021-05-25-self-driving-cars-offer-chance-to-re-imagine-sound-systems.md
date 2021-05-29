@@ -103,6 +103,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The costly pursuit of self-driving cars continues on. And on. And on."
+    excerpt: "New tests, in years of tests, revealed more and more distractions for the driverless cars. Their road skills improved, but matching the competence of human drivers was elusive. The cluttered roads"
+    publishedDateTime: 2021-05-29T12:00:00Z
+    webUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
+    ampWebUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 44
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AUTOS-DRIVERLESS-OUTLOOK-1-0.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tapping into the drug discovery potential of AI"
     excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
     publishedDateTime: 2021-05-27T15:37:00Z

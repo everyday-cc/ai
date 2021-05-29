@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Maine May Limit Use of Facial Recognition Tech by Police"
-    excerpt: "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder."
-    publishedDateTime: 2021-05-26T16:30:00Z
-    webUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police"
-    ampWebUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
+  - title: "Baltimore could enact nation's strictest facial recognition ban"
+    excerpt: "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city."
+    publishedDateTime: 2021-05-28T15:28:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: Security
+      domain: securityinfowatch.com
+    quality: 139
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "New Partnership Expands Healthcare Access For 80,000 Baltimore City Students And Families"
+    excerpt: "When schools shut down suddenly due to Covid-19, students lost more than classrooms. Many also lost access to healthcare. Digital health companies are helping close those gaps."
+    publishedDateTime: 2021-05-27T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/"
+    ampWebUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8b94e9349da79f1d3c16%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Maine could limit use of facial recognition technology by law enforcement"
     excerpt: "Rep. Grayson Lookner is sponsoring L.D. 1585, \"An Act To Increase Privacy and Security by Regulating the Use Of Facial Surveillance Systems by Public Employees.\""
@@ -57,65 +71,51 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "CBP expands use of facial recognition technology in New Mexico, West Texas"
-    excerpt: "U.S. Customs and Border Protection is expanding its use of facial recognition technology at border crossings in the El Paso Sector."
-    publishedDateTime: 2021-05-25T19:54:00Z
-    webUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/"
-    ampWebUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
-    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
+  - title: "Privacy groups file complaint to EU countries over facial recognition technology"
+    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
+    publishedDateTime: 2021-05-28T10:25:00Z
+    webUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
     type: article
     provider:
-      name: BorderReport
-      domain: borderreport.com
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 69
+    images:
+      - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Minn. Police Use of Facial Recognition Leads to Concerns"
+    excerpt: "An investigation revealed that more than 40 law enforcement agencies in Minnesota used facial recognition tech from Clearview AI. Experts have raised questions about the legality and reliability of this tech."
+    publishedDateTime: 2021-05-26T22:26:00Z
+    webUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns"
+    ampWebUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2021/05/Facial-recognition-tech-CBP-courtesy-photo.png?w=1280"
-        width: 980
-        height: 700
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Healey defends limited use of no-knock warrants, facial recognition"
-    excerpt: "Healey said she supported last year’s policing accountability bill that limited the use of no-knock warrants and facial recognition technology, but believes both can be valuable in limited"
-    publishedDateTime: 2021-05-25T19:53:00Z
-    webUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/"
-    ampWebUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
+  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
+    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
+    publishedDateTime: 2021-05-25T09:31:00Z
+    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
     type: article
     provider:
-      name: WWLP
-      domain: wwlp.com
-    quality: 59
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 54
     images:
-      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lawmakers may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 53
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
-        isCached: true
-  - title: "Legislature may limit use of facial recognition software by police in Maine"
-    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 52
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
-        width: 816
-        height: 554
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
+        width: 1600
+        height: 684
         isCached: true
   - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
     excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."
@@ -131,20 +131,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Facial Recognition Technology: A tool for 21st century policing"
-    excerpt: "S Gallagher explains the current legal position in the balance between human rights, privacy and the use of biometric technology by the police"
-    publishedDateTime: 2021-05-27T14:18:00Z
-    webUrl: "https://www.openaccessgovernment.org/facial-recognition-technology-a-tool-for-21st-century-policing/111606/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/05/dreamstime_xl_104779649-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "US Chamber doesn’t want facial recognition technology banned"
     excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
     publishedDateTime: 2021-05-28T01:39:00Z
@@ -156,6 +142,34 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 39
+  - title: "Human Rights Commission calls for temporary ban on 'high-risk' govt facial recognition"
+    excerpt: "The Australian Human Rights Commission has used a landmark report to call for a temporary ban on the use of facial recognition and other biometric technology in “high-risk” government decision making until new laws are developed."
+    publishedDateTime: 2021-05-27T19:30:00Z
+    webUrl: "https://www.itnews.com.au/news/human-rights-commission-calls-for-temporary-ban-on-high-risk-govt-facial-recognition-565173"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 31
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics_face_scan.jpg"
+        width: 1314
+        height: 798
+        isCached: true
+  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
+    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
+    publishedDateTime: 2021-05-28T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "h3wIj3pEZeuZqoPqM0oT8g9ywuF9xYJArFurj/F6mYMkCGFZqMNQRa90c48qLQza5JqhxlWUSEaU7yDHt9gq3h7Za0XNI+hWTBnNp7FUH+/Mot8qqtaphIp1uaixey6vLZZPpZmyx8qIhQ+bZzoVM+bw4TndpDXSLwkbGJNuHhgBbUM6puvkf/8G7ALIWKVAV1eMvorVp5kGwUQkVabqSeAmsTulGR30Qb2VAJxl96JR+fP9soe3PGFTQW5VoJmvxjDriI4YOa58s7qL4P6/fN+AnQTIdgzNQdVAzH+Q12Nr0Of61qfQTgm8jIPSQFqcsUT12Fko2tCzzt05gojFQYr3bCWQEAPXig4HSykUADVQm8LNTz8PFSeAYNGp4p9m66nCDflgyoh6ptZEHDgwBhg8qHc+hLjhvRJkUip54h755XLHUAQdrpJMEoKkClTZE9uPxKYHlkMR2KTRRnMR/yHIHN/wDh/IdJ8mpz/v5oH3uUYDoYyVJP/oTIkiwjD/ZU9JnRUSdpbsdNKRMdfiCg==;3xF5tzNM7T/uxOI2ZEcAVQ=="
 ---

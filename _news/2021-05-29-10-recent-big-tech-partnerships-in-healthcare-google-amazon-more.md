@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New Partnership Expands Healthcare Access For 80,000 Baltimore City Students And Families"
-    excerpt: "When schools shut down suddenly due to Covid-19, students lost more than classrooms. Many also lost access to healthcare. Digital health companies are helping close those gaps."
-    publishedDateTime: 2021-05-27T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/"
-    ampWebUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
+  - title: "Future Trends in Healthcare Technology"
+    excerpt: "Technology is a driving force behind many healthcare advances. One silver lining of the pandemic was advancements in areas of growth in healthcare technology"
+    publishedDateTime: 2021-05-28T10:41:00Z
+    webUrl: "https://dataconomy.com/2021/05/future-trends-healthcare-technology/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8b94e9349da79f1d3c16%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Baltimore could enact nation's strictest facial recognition ban"
-    excerpt: "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city."
-    publishedDateTime: 2021-05-28T15:28:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: dataconomy.com
+      domain: dataconomy.com
     quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
-    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
-    publishedDateTime: 2021-05-28T18:52:00Z
-    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
+      - url: "https://dataconomy.com/wp-content/uploads/2021/05/future-trends-healthcare-technology.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ZuSYiANN/vjorrjq/ZcorQgE701D9E25rL7NpvKs0g2raa+ZI5Nk0I7G/7CYZa2YHZ8pyBWSQrhUmctFPiGboSmNU+MYFHgHZKZeOfM/Z09NDA4Qu4XWOznPfniPKh4TPOevt5JaR/tv9W7PzmrH4JdX5Yw+8CKrgoh8M6lvICwxFm8zQRgpKPSdS8g9tIC3PlyRAdQqADR+jLat+xkrFkvjwuhTw0ktil/RABqAVAk22JwaPXZggsreMMbKg3bsUiCrKeI9nQP0DYnYrfuE4hAMDKrQ9LvD0tnky82V9WMB8oHqFEKpcWFMsuz1kdzRPa1rovHM/4YLdXrADuAOlL+6U5S6mhWWYqqf+YljfS0=;K5PVrI2V5zoPkmPiVj8m3g=="

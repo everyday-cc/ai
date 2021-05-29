@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/science/2021/05/forget-vr-goggles-and-gene
 webUrl: "https://arstechnica.com/science/2021/05/forget-vr-goggles-and-genetic-engineering-restore-some-sight/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Ars Technica
@@ -27,22 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
-    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
-    publishedDateTime: 2021-05-25T09:31:00Z
-    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 54
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
-        width: 1600
-        height: 684
-        isCached: true
 
 secured: "8AAcT2ieyyye8akgVT6CG61PPKU4SAwJOONy7bY05lURzNFt506JvlOWfCVGG+UFqLJZrllA7jz41VR8qvnkNgbC7uL7vvayjfYyZ/ShrZMfKPgxYeaJzMV01xqpQk1e94PatrXLN7z4g0gX4+4cFmwDKHM499UOdU5XXDP1vzk/dwceb9AOJZ9qibmxSwMqYuA+4DiacbSaXFIhOHIVDifr/PqHQWv+Bv3YCQiaXWnR6Xy4sOEi6kP8NmtYS1eoeQG0qTwGH4Xy5oNxZOMnmsKvWrafQV5PGZJoVelGeO2lDdYDeoxdCAEpm9C3kcYv2Qgxm6tXLqfXhUpcBslz+ABSBVJQwR1cireit2Z1K7yPnyTHsz+wTVynar2b2eZ1utGe1ccOieHp88EFBeJG0hO36V/ISN+i9Mq1Kas8T+qdUtExJC4kxEYcrhHQINdJ2Jqdezk0XTfF4+Nu8zJCVz1h+WU39oz99Xxu7NCsfzGZ/TmzYFIkHrXqRQ2QGrd6PNymxBfWXCYWRm88ia9KgA==;/rVlXVDPv2hTuC/Bd6JAvQ=="
 ---

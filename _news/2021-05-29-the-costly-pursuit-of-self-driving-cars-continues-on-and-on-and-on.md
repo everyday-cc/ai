@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
-excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
-publishedDateTime: 2021-05-28T11:57:00Z
-originalUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
-webUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
-ampWebUrl: "https://www.azosensors.com/amp/article.aspx?ArticleID=2237"
-cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/article.aspx?ArticleID=2237"
+title: "The costly pursuit of self-driving cars continues on. And on. And on."
+excerpt: "New tests, in years of tests, revealed more and more distractions for the driverless cars. Their road skills improved, but matching the competence of human drivers was elusive. The cluttered roads"
+publishedDateTime: 2021-05-29T12:00:00Z
+originalUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
+webUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
+ampWebUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Azo Sensors
-  domain: azosensors.com
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/ImageForArticle_2237_1622198779183791.jpg"
-    width: 1000
-    height: 620
+  - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AUTOS-DRIVERLESS-OUTLOOK-1-0.jpg?w=1024&h=576"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
+    excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
+    publishedDateTime: 2021-05-28T11:57:00Z
+    webUrl: "https://www.azosensors.com/article.aspx?ArticleID=2237"
+    ampWebUrl: "https://www.azosensors.com/amp/article.aspx?ArticleID=2237"
+    cdnAmpWebUrl: "https://www-azosensors-com.cdn.ampproject.org/c/s/www.azosensors.com/amp/article.aspx?ArticleID=2237"
+    type: article
+    provider:
+      name: Azo Sensors
+      domain: azosensors.com
+    quality: 59
+    images:
+      - url: "https://d10lvax23vl53t.cloudfront.net/images/Article_Images/ImageForArticle_2237_1622198779183791.jpg"
+        width: 1000
+        height: 620
         isCached: true
   - title: "Silicon Valley is resetting expectations for self-driving cars and settling in for years of more work."
     excerpt: "After years of hype, billions of dollars of investments and promises that people would be commuting to work in self-driving cars by now, the pursuit of autonomous cars is undergoing a reset. Expectations are that tech and auto giants could still toil for years on their projects."
@@ -88,22 +104,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/more-efficient-lidar-s.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The costly pursuit of self-driving cars continues on. And on. And on."
-    excerpt: "New tests, in years of tests, revealed more and more distractions for the driverless cars. Their road skills improved, but matching the competence of human drivers was elusive. The cluttered roads"
-    publishedDateTime: 2021-05-29T12:00:00Z
-    webUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
-    ampWebUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 44
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AUTOS-DRIVERLESS-OUTLOOK-1-0.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Tapping into the drug discovery potential of AI"
     excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."
@@ -159,6 +159,6 @@ related:
       domain: bizjournals.com
     quality: 11
 
-secured: "tMp3V6Q3aLxJjq+BKfV0nGlpoLrqChSoUlof1OaGyw+ncllLn+Sm1F7ayDa4BrGmNq/zyjOoPJxKHJRP0VZcWScRjGnhO6WtNM2bZ78VfVvnT5lea2hLfbL1vlmrfaqMdcikRJ8GBzr/HHGE2TXvHbA87V2kU7IDNUeGyJjZSSJKekvQdpSNF6gWHA0fDMiXHrAJqGCSoHTPStJuOwsfY1r2NPk10+wbnqK85cl0LISuNlQ1BARNWElkI0QhgBKXvlz/q4Yum90uwCyuSZBblir0mgeteJMEo4oGa9fNM+dssgxo4wpbiIyBpn1RLSbDH653bXzChtHgJ2xLEMbN5ZTkKZH//reROdqnC3XURpg=;H/6wdWOHhcL/pZ1fIXfMyA=="
+secured: "mTahegmc782cu+dYzAiQwkLQDD1y/7pEDG5f3wlUDsdfRBgR1If/3LbLswM8fYKDIr8ZihCJs3T7IhkPZl1r3vYfTiyvFZzquB4pqSLJ1XH1mDqAG2LupEEKVWzxImizdb4xfnt5npuNdECnF2AXwRV/lSDAvvWR0d/5H9vkKvPve9FTjFnEXMcJErR2LzduQntgM+72laN1OI+soW8rR/88ImF+Svuskzjsxv6K5+Abhu7C4bI5r3HQDfQzQgElNA4ZevpeiuCpXB61UzTDlNhaQ3vakuFDAT3lKJ9dstfdC7X4p3tEge/XOuowAWRpDLsbFjQN5K1ebwduvduB/7OKZrM61z4pfwS8naMUsDw=;eQflSpbGmmE/68y/fvu2gA=="
 ---
 

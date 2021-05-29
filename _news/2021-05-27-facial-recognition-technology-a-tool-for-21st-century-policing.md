@@ -41,22 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Maine could limit use of facial recognition technology by law enforcement"
-    excerpt: "Rep. Grayson Lookner is sponsoring L.D. 1585, \"An Act To Increase Privacy and Security by Regulating the Use Of Facial Surveillance Systems by Public Employees.\""
-    publishedDateTime: 2021-05-27T13:58:00Z
-    webUrl: "https://www.newscentermaine.com/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
-    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
-    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
-    type: article
-    provider:
-      name: newscentermaine.com
-      domain: newscentermaine.com
-    quality: 73
-    images:
-      - url: "https://media.newscentermaine.com/assets/WCSH/images/f601ef17-d757-4068-ad39-0230d942cf24/f601ef17-d757-4068-ad39-0230d942cf24_1140x641.png"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "CBP expands use of facial recognition technology in New Mexico, West Texas"
     excerpt: "U.S. Customs and Border Protection is expanding its use of facial recognition technology at border crossings in the El Paso Sector."
     publishedDateTime: 2021-05-25T19:54:00Z
@@ -117,45 +101,6 @@ related:
         width: 816
         height: 554
         isCached: true
-  - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
-    excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."
-    publishedDateTime: 2021-05-26T17:38:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21224445/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 52
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/05/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV.60ae76bebbbff.png?auto=format&fit=max&w=1200"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
-    excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
-    publishedDateTime: 2021-05-25T17:17:00Z
-    webUrl: "https://www.mainepublic.org/politics/2021-05-25/legislative-committee-backs-proposed-limits-on-maine-agencies-using-facial-recognition-software"
-    type: article
-    provider:
-      name: Maine Public
-      domain: mainepublic.org
-    quality: 42
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/050ee76/2147483647/strip/true/crop/2016x1058+0+227/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "US Chamber doesn’t want facial recognition technology banned"
-    excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
-    publishedDateTime: 2021-05-28T01:39:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 39
 
 secured: "N4A2VO3nfD8IfN8g+ls4CC2VYLQvahqsNgy3Xgnql8W9V3zbZ/05CwTtHY9/yh7LP1LDuJCB+Z+kLFMf0s0taJ+uOmjU04aIB5LvXJVz7c9GJz+MFqdLdrcJqxC0CZpjTsJWbwzqVLab8C2pH8RrvXUh+U30M1FMpwzBZMkKy7uS6SL+nMa9b1bQnyCAHvKjVrLeCVV5OPC7mRNdCc2FyoHJXBbJeo+BzrwnkLznS5RLYHNbFEoFor5yyFvcoVFGB/sus1CBMn5Fh64UA7KxTa1Ivs1sT7JFxGwnCrFQkfAxEgj2/CJKlsqWp3rd8Vk6kyNP3naU1hj+2t1VMJ+Q+UPeZbetTG9zaOJZG7AbcCqD4Py+x5o0zRuok4TpxuP3fp9hQWLizp667fj+W14xA3x2mA0mn2RWFB63aJKiqp5N0u5BA5K1KA0oTyGZrmedOLdHE8qxdUPV3sbNhbrRZgWcSbLqiWF0Vl8FECEAaadajRkQWMGbBKcj+eiMRMJGpy3BAbaPiu+On7YO1Yyp5w==;qe9oYnV8wwFJ5N0ca1ncZg=="
 ---

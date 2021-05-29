@@ -73,20 +73,6 @@ related:
         width: 800
         height: 395
         isCached: true
-  - title: "How lekker got more insights into their customer churn model with Amazon SageMaker Debugger"
-    excerpt: "With over 400,000 customers, lekker Energie GmbH is a leading supraregional provider of electricity and gas on the German energy market. lekker is customer and service oriented and regularly scores top marks in comparison tests. As one of the most important suppliers of green electricity to private households,"
-    publishedDateTime: 2021-05-24T19:46:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-lekker-got-more-insights-into-their-customer-churn-model-with-amazon-sagemaker-debugger/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3-2942-Shap.jpg"
-        width: 800
-        height: 845
-        isCached: true
   - title: "It’s a wrap for Amazon SageMaker Month, 30 days of content, discussions, and news"
     excerpt: "Did you miss SageMaker Month? Don’t look any further than this round-up post to get caught up. In this post, we share key highlights and learning materials to accelerate your machine learning (ML) innovation. On April 20, 2021, we launched the first ever Amazon SageMaker Month, 30 days of hands-on workshops,"
     publishedDateTime: 2021-05-24T23:29:45Z

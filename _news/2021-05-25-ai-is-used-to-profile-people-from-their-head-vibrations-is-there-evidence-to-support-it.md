@@ -25,19 +25,6 @@ images:
     height: 668
     isCached: true
 
-related:
-  - title: "‘AI’ is being used to profile people from their head vibrations – but is there enough evidence to support it?"
-    excerpt: "Police, private security and sporting events are turning to a growing but largely unregulated industry that claims its technology can detect suspicious individuals."
-    publishedDateTime: 2021-05-24T19:03:00Z
-    webUrl: "https://theconversation.com/ai-is-being-used-to-profile-people-from-their-head-vibrations-but-is-there-enough-evidence-to-support-it-160566"
-    ampWebUrl: "https://theconversation.com/amp/ai-is-being-used-to-profile-people-from-their-head-vibrations-but-is-there-enough-evidence-to-support-it-160566"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-is-being-used-to-profile-people-from-their-head-vibrations-but-is-there-enough-evidence-to-support-it-160566"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 18
-
 secured: "0z0GKI+AhANxHCoI+UG5J/3WU2kC0fUYh+Xq7TmU38Na5Yae42G5vk2EqWwKPeyRCt+CVeYxul/pgzNJRyf1seXC4/niTJrfzLt+WOAvFa//l5jS1TL4a/HdJb1aWEWlvZGbMJt0L4uO3EYXYFlI2/xiUkYlJLA05UHF4xjtgsNejL488acpSCjax8XmCbC1pnSd1BrRQplkoRvZvHmB1gbzblQVoSKd0wjcU9NAF7/DZ2Yb/hc9kcBkmjBPdFBMRnvr4m65vO1kaMZqqTxnx8VdTASpgW5BE+BCPQzujX7QNb6seLvfREOmmOcsR6uWvs8Q5FGNtJbZZOBNnqlNz4Y70RXTWOVVjp4w8QDn9Q9to91mrZ7IQhAFuJUaQHctD/9MZKZwbDYvGhTVgr+2uLwvLG3b+5k/J09w+0Hzs6zMPhl/HXivE1UPqQySbNen3Xn12ZuTKicADydy64Rfl1yeqoYkfDg7shSLk5hvHHgMWC0IiXIjHaFDHZSqdsk85pst0FeYsmxEgsMOjtK0Yw==;a6KVtIORE9y431e6K745bw=="
 ---
 

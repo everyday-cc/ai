@@ -103,6 +103,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The costly pursuit of self-driving cars continues on. And on. And on."
+    excerpt: "New tests, in years of tests, revealed more and more distractions for the driverless cars. Their road skills improved, but matching the competence of human drivers was elusive. The cluttered roads"
+    publishedDateTime: 2021-05-29T12:00:00Z
+    webUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/"
+    ampWebUrl: "https://www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 44
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AUTOS-DRIVERLESS-OUTLOOK-1-0.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Hacking and loss of driving skills are major consumer concerns for self-driving cars"
     excerpt: "A new study from the University of Kent, Toulouse Business School, ESSCA School of Management (Paris) and ESADE Business School (Spain) has revealed the three primary risks and benefits perceived by consumers towards autonomous vehicles (self-driving cars)."
     publishedDateTime: 2021-05-26T14:38:00Z

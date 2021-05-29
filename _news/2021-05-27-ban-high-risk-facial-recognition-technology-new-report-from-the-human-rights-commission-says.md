@@ -49,20 +49,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "Human Rights Commission calls for temporary ban on 'high-risk' govt facial recognition"
-    excerpt: "The Australian Human Rights Commission has used a landmark report to call for a temporary ban on the use of facial recognition and other biometric technology in “high-risk” government decision making until new laws are developed."
-    publishedDateTime: 2021-05-27T19:30:00Z
-    webUrl: "https://www.itnews.com.au/news/human-rights-commission-calls-for-temporary-ban-on-high-risk-govt-facial-recognition-565173"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 31
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics_face_scan.jpg"
-        width: 1314
-        height: 798
-        isCached: true
 
 secured: "Eyfc8EoP8EpcOv9GJrbt6KVojF0ZTOZvn8GAYWxrphGaH2fpkaXkcZUWGyoXVcfFbsN/7nx9q80jP9lH/nDSGsOltWIKHnY1b/TkmA7O11MGiwf4Y1nyZ48z0CmB+MvzCaMC2RdmZANuPLQcclSoqYJOtSO/5ROb58Gg7TGHMuBOPe5Dz1fKOQTlqAn2Dv/uWjs7zyct+f2+kdeekIr7mpXPnpreNov2A5faoFqMxSQJbbn0qYk3bGaVRwd1OqOCkWKIyTN/7prlkNAYqi1XxuEewr0T0ZFyxKmDnBxLAw4HqOYfMk7u1Dw0OJZLjjuY7mZIi/jDC7cyqvmYOogK7DCtO0M3x5xTxwLWWyfQsw4p0Yn9thSBbrE/GuyYL0ZwgZz4D8erActA+OuptaKTnmteGZRYDJidvoaHAESv8HJLYv8LkgEA1Y2lOuh526LHoYN1D/Durqm22qearzKOxzHZtnwFr8iYJTdAyaCznxpc4tuyDfguCFphomfljGkXVPD1nZGAWZpaMBqURM0jVA==;2yiFnwCFeOaladuLG3nv6g=="
 ---

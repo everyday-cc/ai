@@ -7,7 +7,7 @@ originalUrl: "https://abc7chicago.com/madera-ca-4th-grader-police-motorcycle-cop
 webUrl: "https://abc7chicago.com/madera-ca-4th-grader-police-motorcycle-cops/10594886/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "CyberExtruder upgrades facial recognition platform for VMS integration"
-    excerpt: "Aureus Insight has been updated with alerting features for faces with masks and for those without. The company also announced a new subscription licensing plan."
-    publishedDateTime: 2021-05-24T19:48:00Z
-    webUrl: "https://www.biometricupdate.com/202105/cyberextruder-upgrades-facial-recognition-platform-for-vms-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
-
-secured: "kLKY9rmiDW9iIH+6MN7Xu/w8LbILmtxNL52wXHMGmPZCw2zsLwhqwHGssw05QaTEQHM/Vsx62pNob6UM9cCUqNLN2NxilcjL4e6wZZyw6TX5NBhhm++WqBnXpqPG6OkyjljoDoshyQcR2X8g3YwF/HcfMY8kKRBzlRJMB/L6dU8NFnp+YokXCAxD5c/uFYsNVAjsTpcyFd9BacZM52XylX1TUKwl9kYk2NZx/EVSW9YZPMbapooQbpBvBXb4bSdh2GuNtRNkMACzTwDhViIv+QNEF3Po/Q1EFsnvs+PDopajiUqlJCu4dlqNz/VC7uJhVlcScrXOpTwqNcxfoA99YD3nwALKkYaOCd3VYps5EW4=;xHWNh9jUF3aqOvQDa3Op1w=="
+secured: "cgWMqc/6KZ63sEffTkt5JqOjL5Hm4q64/MJ5K0jXiZYsidOlj7pkzeZ9Euk+IQV37ASvGYzuxu3rhEhNXigoBl7uFDTgNYdMK4AKVU3XydI7zyHbFGwFqMTpDhaTrjPgys4H97dMUilC4uG+0sLF24ns92jvnv2HqoyhQYKwGN+Qv01QoeljsGdTYFQPOgEMnHgCsrjCdGnUeDmtd4Ygfwpi9oC7mcURx3D/eGgTVniaGv/GQWYpRh5e6MfWqpf/SFee9ZhHQbBs399zgmoMWQs+JWmZlZ5zj/qQXw6V1YKWnN+Aowq/Wdv5Y9TyKvMKjlIKuM0nCP16MScLqkZpZDRspF1OqHw83Hm1PjY1zwQO6nMKI9Z3kP1CWcoBPkx5HngkK4Uom5mAcS67Q0tjUoftmYMsDIngXxH69IoqGBqg7X6oxMPILgexgN/X0OUXuDXVoM1HhAKkAPVnucu5UcOHuxx78dwIxqA4K3yzOptTlJA0bomEbgYQKLnU4d4qtyGgbmi5eS37Ijardj/CmA==;CYR5B+e3AensDe/2ejyDTg=="
 ---
 

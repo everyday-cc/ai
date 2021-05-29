@@ -92,38 +92,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Privacy groups file complaint to EU countries over facial recognition technology"
-    excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
-    publishedDateTime: 2021-05-28T10:25:00Z
-    webUrl: "https://www.modernghana.com/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1084159/privacy-groups-file-complaint-to-eu-countries-over.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 69
-    images:
-      - url: "https://cdn.modernghana.com/images/content/5282021110606-m6htk8v331-4295d2e4dc504e6087fae39d501c19615044132c.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Minn. Police Use of Facial Recognition Leads to Concerns"
-    excerpt: "An investigation revealed that more than 40 law enforcement agencies in Minnesota used facial recognition tech from Clearview AI. Experts have raised questions about the legality and reliability of this tech."
-    publishedDateTime: 2021-05-26T22:26:00Z
-    webUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns"
-    ampWebUrl: "https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Tests of Clearview AI facial recognition software raises concerns in Minnesota"
     excerpt: "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,"
     publishedDateTime: 2021-05-27T20:28:00Z

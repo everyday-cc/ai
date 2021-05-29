@@ -27,69 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse"
-    excerpt: "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,"
-    publishedDateTime: 2021-05-27T12:45:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp"
+  - title: "Baltimore could enact nation's strictest facial recognition ban"
+    excerpt: "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city."
+    publishedDateTime: 2021-05-28T15:28:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 93
+      name: Security
+      domain: securityinfowatch.com
+    quality: 139
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg"
-        width: 800
-        height: 450
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Privacy watchdogs take legal action against Clearview AI in five countries"
-    excerpt: "Clearview AI is under the gun once again as privacy watchdogs in Europe file legal complaints against its data collection practices. On Thursday, Privacy International (PI),"
-    publishedDateTime: 2021-05-27T16:43:00Z
-    webUrl: "https://www.techspot.com/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89845-privacy-watchdogs-take-legal-action-against-clearview-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 85
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-27-image-20.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Clearview AI hit with sweeping legal complaints over controversial face scraping in Europe"
-    excerpt: "Privacy International (PI) and several other European privacy and digital rights organizations announced today that they’ve filed legal complaints against the controversial facial recognition company Clearview AI. The complaints filed in France ..."
-    publishedDateTime: 2021-05-27T09:48:00Z
-    webUrl: "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/EqpnoKuVRrv3_njRwsySzjXaMGk=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69349432/acastro_210512_1777_deepfake_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Clearview AI — The Facial Recognition Company Embraced By U.S. Law Enforcement — Just Got Hit With A Barrage Of Privacy Complaints In Europe"
-    excerpt: "The firm claims to have over 3 billion faces in its database, many controversially acquired from public web sources and social media."
-    publishedDateTime: 2021-05-27T12:22:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2021/05/27/clearview-ai---the-facial-recognition-company-embraced-by-us-law-enforcement---just-got-hit-with-a-barrage-of-privacy-complaints-in-europe/amp/"
+  - title: "New Partnership Expands Healthcare Access For 80,000 Baltimore City Students And Families"
+    excerpt: "When schools shut down suddenly due to Covid-19, students lost more than classrooms. Many also lost access to healthcare. Digital health companies are helping close those gaps."
+    publishedDateTime: 2021-05-27T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/"
+    ampWebUrl: "https://www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2021/05/27/new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 80
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60af8ee1bde1dd11882247cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D0%26cropY2%3D2700"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8b94e9349da79f1d3c16%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
+        isCached: true
+  - title: "Maine could limit use of facial recognition technology by law enforcement"
+    excerpt: "Rep. Grayson Lookner is sponsoring L.D. 1585, \"An Act To Increase Privacy and Security by Regulating the Use Of Facial Surveillance Systems by Public Employees.\""
+    publishedDateTime: 2021-05-27T13:58:00Z
+    webUrl: "https://www.newscentermaine.com/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    type: article
+    provider:
+      name: newscentermaine.com
+      domain: newscentermaine.com
+    quality: 73
+    images:
+      - url: "https://media.newscentermaine.com/assets/WCSH/images/f601ef17-d757-4068-ad39-0230d942cf24/f601ef17-d757-4068-ad39-0230d942cf24_1140x641.png"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Privacy groups file complaint to EU countries over facial recognition technology"
     excerpt: "Privacy organisations have filed a complaint to regulators in five European countries, including France, over the practices of an online company that has built a powerful facial recognition database using images scraped from the web."
@@ -107,89 +89,87 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Clearview AI Hit by Wave of European Privacy Complaints"
-    excerpt: "Clearview AI Inc. was hit by a wave of complaints across Europe for allegedly breaking the region’s tough privacy laws by scraping billions of facial images from social-media profiles and the internet."
-    publishedDateTime: 2021-05-27T06:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-27/clearview-ai-hit-by-wave-of-european-privacy-complaints"
+  - title: "Which Retailers Are Using Facial Recognition In Stores – Scorecard"
+    excerpt: "Fight for the Future has launched a scorecard that tracks whether or not top retailers use, don’t use, or might use facial recognition"
+    publishedDateTime: 2021-05-25T09:31:00Z
+    webUrl: "https://www.valuewalk.com/retailers-using-facial-recognition-stores/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 54
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxAkAloJsP8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/05/facial-recognition-1.jpg"
+        width: 1600
+        height: 684
         isCached: true
-  - title: "Tests of Clearview AI facial recognition software raises concerns in Minnesota"
-    excerpt: "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,"
-    publishedDateTime: 2021-05-27T20:28:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota"
+  - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
+    excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."
+    publishedDateTime: 2021-05-26T17:38:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21224445/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: Officer
+      domain: officer.com
     quality: 52
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200"
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/05/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV.60ae76bebbbff.png?auto=format&fit=max&w=1200"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
+    excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.mainepublic.org/politics/2021-05-25/legislative-committee-backs-proposed-limits-on-maine-agencies-using-facial-recognition-software"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 42
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/050ee76/2147483647/strip/true/crop/2016x1058+0+227/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
         width: 1200
-        height: 643
+        height: 630
         isCached: true
-  - title: "Facial recognition: Legal complaints lodged against Clearview AI in five countries"
-    excerpt: "Privacy campaigners filed a series of legal complaints with five European regulators against the US tech firm Clearview AI on Thursday, alleging the company scraped facial images of 3 billion people from the web without their knowledge or permission,"
-    publishedDateTime: 2021-05-28T10:07:00Z
-    webUrl: "https://www.computing.co.uk/news/4032109/facial-recognition-legal-complaints-lodged-clearview-ai-countries"
+  - title: "US Chamber doesn’t want facial recognition technology banned"
+    excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
+    publishedDateTime: 2021-05-28T01:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 48
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/389858a/efa7e633-dc2f-4f30-92f4-8b0b5f86cfd1/2/surveillance-eye-370x229.jpeg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "European privacy groups challenge facial scan firm Clearview"
-    excerpt: "Privacy campaign groups filed a slew of legal complaints Thursday with European regulators against Clearview AI."
-    publishedDateTime: 2021-05-27T15:34:00Z
-    webUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/"
-    ampWebUrl: "https://www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/05/27/european-privacy-groups-challenge-facial-scan-firm-clearview/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YTKXXSHF5NA2RBISHDRMT2IFJ4.jpg"
-        width: 2951
-        height: 1971
-        isCached: true
-  - title: "NGOs file complaints against US facial-recognition firm"
-    excerpt: "A group of digital rights organisations on Thursday filed legal complaints against the company Clearview AI -which uses facial-recognition to have \"the largest known database of 3+ billion facial images\"."
-    publishedDateTime: 2021-05-27T05:18:00Z
-    webUrl: "https://euobserver.com/tickers/151962"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
+      name: Washington Examiner
+      domain: washingtonexaminer.com
     quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "European privacy groups challenge facial scan firm Clearview"
-    excerpt: "Privacy campaign groups filed legal complaints Thursday with European regulators against Clearview AI, alleging the facial recognition technology it provides to law enforcement agencies and businesses breaches stringent European Union privacy rules."
-    publishedDateTime: 2021-05-27T19:41:00Z
-    webUrl: "https://www.seattletimes.com/business/european-privacy-groups-challenge-facial-scan-firm-clearview/"
-    ampWebUrl: "https://www.seattletimes.com/business/european-privacy-groups-challenge-facial-scan-firm-clearview/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/european-privacy-groups-challenge-facial-scan-firm-clearview/?amp=1"
+  - title: "Human Rights Commission calls for temporary ban on 'high-risk' govt facial recognition"
+    excerpt: "The Australian Human Rights Commission has used a landmark report to call for a temporary ban on the use of facial recognition and other biometric technology in “high-risk” government decision making until new laws are developed."
+    publishedDateTime: 2021-05-27T19:30:00Z
+    webUrl: "https://www.itnews.com.au/news/human-rights-commission-calls-for-temporary-ban-on-high-risk-govt-facial-recognition-565173"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 31
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics_face_scan.jpg"
+        width: 1314
+        height: 798
+        isCached: true
+  - title: "Baltimore City Council proposes overarching ban on facial recognition, SIA calls for sanity"
+    excerpt: "The Baltimore proposed ordinance would be the second in the United States to restrict the use of face biometrics by businesses."
+    publishedDateTime: 2021-05-28T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202105/baltimore-city-council-proposes-overarching-ban-on-facial-recognition-sia-calls-for-sanity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "MUO0kUw+ltAubO/m1DkY6FvlLn2Ivcqkv99GOUSETcPRF9JfGTuDYi6bkjBjuUC73ZdTv2xxQ+SXWCLitkb09If0E8+E6ZuTo5LnkRTUSNbIdcC7POvKGW9l2zo8ht+CmADlI2PfUf8MsrAU2fpq71qn7MoLPvaswPlwPZejLF5Y9iSjVUoOKVbArj2z/duLmaiDCTXeevU05JEwqKXyD/g3vAicAfhcv96QXoCt2g6MYb7Ni4DYtn9SbM0+m9aVx77SlAEgye0kYgcRo0FY/N+nPx45nZy+ZKPNcQYsTN+Yx+RifRUI+IvLSta9DhqF3yOD0eCYQb38teMPdm6rmyIfbPaoS7WmYEcfjHi7Bwlg51BzO7zlMh+RrgMWJ9ctpdG5ykMBSxtV01JhnfDv7doVispI9z+FRAC3ALrJt5uilV+wg1cnkmkHZxtcO27yphQCTy9fbb81Kn7b5sPMz5g2irIa0nDwjxSceyB24aRvqh7TBgBMcjYCFN4w5jH1IEBoM/OQJ3hKoX4Nt13/Uw==;9qyob497pJyb6AsWrG8plg=="
 ---
