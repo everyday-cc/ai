@@ -165,7 +165,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 37
+    quality: 39
   - title: "Helping doctors manage COVID-19"
     excerpt: "New tool uses AI technology to assess the severity of lung infections and inform treatment Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
     publishedDateTime: 2021-05-28T04:00:00Z

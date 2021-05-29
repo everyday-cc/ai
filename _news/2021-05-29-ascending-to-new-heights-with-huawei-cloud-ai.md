@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-29T16:17:00Z
 originalUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/34/ascending-to-new-heights-with-huawei-cloud-ai"
 webUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/34/ascending-to-new-heights-with-huawei-cloud-ai"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/34/cn/06-1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "rrJz36FHh+f4tQSi1Qmkhz4wdqezA+u6NBsO0EbnA1FyeRcLO2TfDdk0hBfP5p0AKiAOFQ96uoA5dxM1Xk84p5UuiN8m4tRy1mV1USIoqVm/2+wtLYPFdcr0yWPqPU4vaXNyvA5l2adQvOjFdEo62INdvH72yPf4gPrrMdU8e07kM1EpgOOFsnNy37nsFSapSAN/juXDryeMR+6QykcvS4vpfYThoVyklg5WY+AqqJARzRpnXMGP8wziA6mSNG2YRO5pYcn+KEcmmOemNYRY/8ACcvIYUPLK4irEowcAZB5DVwbU4rUzLqhBUFs+r9I0aUbCIpupFFQ1IA0qgryH4sEp4WctbhdIGwwXgw7WqaE=;/YU4/+qvPOJJsxYTKzJWHQ=="
+secured: "S+gCxExDuHdlY42gqJsVME/ISW2SA9w5dnzVKU7KUbmk7ucIbmCQkQALVMuBhizf4jNuYFyRheLv+DIYwESRraia6YDJQGCtw6wpE1bqqcnKojIXdvQVUDFD9/IDmQS+xXVXu0QWU2tn+JBLkyF/yRYnqHbEWBdvvpJj0rocLT66EkXEFgkDnF9XtgOEDGYUIyNSImiqCVWfpQtqsC0MHE2iT2LDIGsPAFtfvSVZLBFF6Jl4DjAfLIVolTVzLl9SXpq3nAHaPWBCUwx8U5CXkx3/FUjdQaLg++k4lGGhswyx43qWW/AAV4hhONI6s37Id7PFLnJmj94TiVCJIEASTVHawfbMx/2lA9grDd7+5HmcJDoV+L1YISoUi/m3Y8EHY6WszaHVlwh19zoTLCbwTmGasMnTuuQoXoiINhQQ74gJYygoMwbJftb9E+VmV9GdFuloWG28ofAsEqVCc6IMMtP+u+mzqvDTHuxNy+8Buw1ea6sQ1eeth1EudfxuRP+B57AWwACRtR/GU3EzLWEoKg==;VjfjNZ0Mpk7kKMTkCi+Q6A=="
 ---
 

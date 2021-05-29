@@ -175,7 +175,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 37
+    quality: 39
   - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
     excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
     publishedDateTime: 2021-05-29T11:20:00Z
