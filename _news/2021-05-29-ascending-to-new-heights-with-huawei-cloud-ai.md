@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-29T16:17:00Z
 originalUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/34/ascending-to-new-heights-with-huawei-cloud-ai"
 webUrl: "https://www.huawei.com/nl/technology-insights/publications/winwin/34/ascending-to-new-heights-with-huawei-cloud-ai"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Google AI
+  - Natural Language Processing
 
 images:
   - url: "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/34/cn/06-1.jpg"

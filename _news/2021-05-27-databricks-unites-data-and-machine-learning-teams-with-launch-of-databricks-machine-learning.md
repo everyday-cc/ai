@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning"
-excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with the launch of Databricks Machine Learning, a new data-native platform built on top of an open lakehouse architecture."
-publishedDateTime: 2021-05-27T15:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-databricks-unites-data-machine-learning-teams-with-launch-/2021/05/27/9379647.htm"
+excerpt: "Today, at the Data + AI Summit, Databricks announced the latest generation of its industry-leading machine learning (ML) offering with"
+publishedDateTime: 2021-05-27T15:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
+webUrl: "https://www.prnewswire.com/news-releases/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-301300988.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+    width: 1094
+    height: 576
+    isCached: true
 
 related:
   - title: "Databricks unifies data science and engineering with a federated data mesh"
@@ -115,6 +121,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "T9wWy7IdxdkOlPDrl7oTsmzuPNAyLl5htrU+BSAxuw5jGEphNHGnsqQOkFe1BG8cb6i1jBK9vcWCErg9HftI2WxoMjJ9uBjN7dRxcbxnnG1OmGWPaOO6o5qvQIukd4i2QzEnt68FDG68Pf0uXoGSBAnJGAstYITcmiDvAdsE+nqhNwlayEHshyITJrSXej9aR4zbBEZ9EkWmfOJbDbX3+rqmn/w21hS3MesDRCml1gZquxTaX5GSwgBPJjd23x8ZB6wEorSZJUTDhb5lvyJft6ofbY6usnknuDtXTHWeQdTSnhJTZW5c2INqG+CRDLMGW5dDW7fWca0D0EV7AK2b5VDLff9m/1l0lzSNQa6vsE0=;d1NrKcNf6zf5bMECoBanmA=="
+secured: "CBpyPe6juszK7gnTpwcpyI6f80XviJsO8jshn4VmyElyGW9JA8WgSapUiQJuu4HZfC5/OeqrTapsV0RxmhYUGoHHNjR5Vu6V4ZcxaDcy5TnJrJH9zPLPQgRLmA4NLI+0ql8HEgYnyISnLNqobaZRDMpPDI8VRUGzexiGgQFoWalzs3Rrj9BTIi0++cpY2QAw8suIhG7HNF7R0HB1NzYNmB52i2+nw16L6W3Nupf2ZKeAbo9JzVGquL0LQ6lbSdt2zQIvSMWTgcbJFS0+TuUydi9/CLVVmwJN5ruT1ZrO0p4gJR1JuxBmUu8QH0XhWW+NGajUn3XdL/wS3xv2FrKdFDLZVpvKcmSxe+7KQLGsRDk=;vVxL1Jyl6EvEBTXB/71LMg=="
 ---
 

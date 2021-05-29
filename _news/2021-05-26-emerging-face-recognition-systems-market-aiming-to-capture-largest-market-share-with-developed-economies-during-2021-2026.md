@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/emerging-face-recognitio
 webUrl: "https://www.marketwatch.com/press-release/emerging-face-recognition-systems-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2026-2021-05-26"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Systems Market Statistics, Cagr, Outlook, And Covid-19 Impact 2021 - 2023"
-    excerpt: "Global Face Recognition Systems Market Overview:Global Face Recognition Systems Market Report 2020 comes with the"
-    publishedDateTime: 2021-05-25T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-systems-market-statistics-cagr-outlook-and-covid-19-impact-2021---2023-2021-05-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Share, Size 2021-2025, Industry is Growing Rapidly at a CAGR of 46.76%"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
     publishedDateTime: 2021-05-25T10:57:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.tampabay.com/opinion/2021/05/25/whats-it-like-to-ride-
 webUrl: "https://www.tampabay.com/opinion/2021/05/25/whats-it-like-to-ride-dunedins-driverless-shuttle-futuristic-and-fun/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,51 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "From driverless cars to robotic warehouses, China looks to automation to get ahead of labor shortage"
-    excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
-    publishedDateTime: 2021-05-25T03:31:00Z
-    webUrl: "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127"
-        width: 4032
-        height: 3024
-        isCached: true
-  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
-    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
-    publishedDateTime: 2021-05-26T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
-    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 53
-    images:
-      - url: "https://mma.prnasia.com/media2/1517703/image.jpg?p=medium600"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
-    excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."
-    publishedDateTime: 2021-05-25T10:00:00Z
-    webUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 26
 
 secured: "qJAYekhSVyc6y77msY4vRhkikJ/9QoxIb17niRRnlnGXY3uXmGcfikpSVK3wZEaMztmnyF74H9y6vE7FcJzr+RCMGEK3g7ODYHnITTTZ3DS9iJjuOUW7giP9GNDOWWbVg5ohb/PxUuRWcyXuhHZwPj7hPucpdqEppLGZ+//L0MW9M2sFGM3+lh0MJgedKjyLtwX0I5H4ysLQxG0FOyqvUSCRTUhReemI2SXedO3nJ+BepFjqXoDYlDcxWmmEq/Erg7fTfMTBRhJr/giVqSFLeI/MPdMcDWgaVLWIz199DxZZ1LitH//lCDEyDjSCWJdFVM3YDkB2w9S3xJKQ7oEXqN6rHZ6ETwSnTKj3Y/Nf9o6h3vPRnGsCLGLq+Yg+lGYDKwf7fYsqvQ/sPuAyvKgH7Mnwf4p8sZVB4xnh7MCKC+UcdezF7UUxwQHZ+3Og0zQi33U5Z49SxMqXtrHo/O0poatFjflPz2duYwl3z35h3wq/tOp532OI2mX7HF4pqYXd7SE5szGn6odGb2ub7sJtaA==;OFv0mOojfgkyXlSqCLc00Q=="
 ---

@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Forrester Total Economic Impact of IBM OpenPages With Watson"
-excerpt: "Learn how IBM OpenPages with Watson, an AI-driven integrated GRC platform, can cut license and implementation costs and drive savings due to regulatory fine and penalty avoidance, reduced risk management effort and legacy system costs."
-publishedDateTime: 2021-05-26T11:44:00Z
-originalUrl: "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
-webUrl: "https://www.infoworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2021-05-25T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
+webUrl: "https://www.computerworld.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "kiKGCY+QZdx/LUGDj3jzxypW7EHyeCNOc5TEF5oG6sF8Wydn0AoKMjB+lxRJ3mxQwEb8eG8uFElS8NFizLWBmSD29p1SZi8beRS3QJquM+THkcCG/qWdgMbPfIZoVa4i5MBS/dPb7XQVhtBloNW9KVFZByYYV28h5BZEPjwuMgM5WUWFf1f60JDE3BQX0Y4yOdUXlmkif/P8xhXWAWfVMBJssF08bcEeh35iiMmcHv04wCDuOA2lZCv563p+5rzoxgB/xUDrmrIr86vhp9P66NRVUn/J7iQskyiXMo0U3lvco3bpAZ1SdnUiwZQOnev/mDS+hBnqMAK2GFcwisV7S7HIQd6rm5LPI4ovxtulZo0=;eKz9Y2Xx58xl3H0vHdWiFw=="
+secured: "BmS7WEb3G3l8po1brnWe1apTxP+jIA0JX9Q4Ce8oKUAAspyKk2+CTGr3A0CEm8+7dRqcA39v2dFq/FjpU87hnIHy3zLnWZPyz3ifvZ0pdlZiW1QjEQJKFUybTpjHpCpr6ZruOIB2uw3CNYl7eUl5lL78/FWyW7FzhS9ZXvdtHxD9mA7ICeodW1oACSCqaHSNhLrIaPNkbajXok7N13M5mElleLhGPCsOrx6DI+fqARMW3gRniDH4iEAHO9vsw3KOxVqN+8PqWzzq7FJ2U25Oy+5pEtRHr1/fOImpWo/wYuD3/aUK9hgf38OWw3avjrLv+7DR8uShjHNyVyiLlxAyH0E2WCWdeyK27fAEyNMig2Y=;64pw/3aZ1rDpXKE67ieiNg=="
 ---
 

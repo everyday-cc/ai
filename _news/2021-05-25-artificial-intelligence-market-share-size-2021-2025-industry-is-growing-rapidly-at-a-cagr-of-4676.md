@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Systems Market Statistics, Cagr, Outlook, And Covid-19 Impact 2021 - 2023"
-    excerpt: "Global Face Recognition Systems Market Overview:Global Face Recognition Systems Market Report 2020 comes with the"
-    publishedDateTime: 2021-05-25T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-systems-market-statistics-cagr-outlook-and-covid-19-impact-2021---2023-2021-05-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zXPGV69DChgum4wcR7rcyFA1tkGEKJ6hPGLUVYiHmZOFjOmvXqyOETv6EsUOdd21SKwgigUi062eVLL1JAB10W7O4Rx7d/Hc86h0UrkAlY5B0bJ7rl0VZLMQ/K6zW6xKNy5AjCAMJ4AYi9kXT2w6PzQxIn+v2YkxCFllN58a/BdUYBFqtNA3La2IXTSmoIWE9nDY5GAHNXtgrEI+/MTYEwpMA4RMbP19E6mq53Ke2YWHDFJz7sARQuEo6evuqEtJrKcdy3H0nY8sQ3YHHtPP501Lh/P/jrpic6IxaaNhZGvEaOTSViA32LTBzsJPyLTyzTqfVkmlJn5S/Ch/9S630dA7bvRZfNO6he6w4vBeBMc=;VHhNftKkwn87ur+Ks5EXHg=="
 ---
