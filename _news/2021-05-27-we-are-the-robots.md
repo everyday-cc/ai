@@ -7,7 +7,7 @@ originalUrl: "https://thefinanser.com/2021/05/we-are-the-robots-3.html/"
 webUrl: "https://thefinanser.com/2021/05/we-are-the-robots-3.html/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "It is time to tax robots"
-    excerpt: "As well as embracing automation's upside, we should be protecting against its downside. That protection will become harder to fund because the government stands to lose billions of dollars in income tax as workers are replaced by robots."
-    publishedDateTime: 2021-05-24T23:53:00Z
-    webUrl: "https://news.cgtn.com/news/2021-05-24/It-is-time-to-tax-robots-10wZtfHp7O0/index.html"
+  - title: "These Are The Apps Tracking Your Face And Voice The Most"
+    excerpt: "A new study by digital privacy software company, Clario, has analysed what personal data the world’s most downloaded apps are tracking."
+    publishedDateTime: 2021-05-26T18:59:00Z
+    webUrl: "https://www.valuewalk.com/apps-tracking-face-voice-most/"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 24
     images:
-      - url: "https://news.cgtn.com/news/2021-05-24/It-is-time-to-tax-robots-10wZtfHp7O0/img/2e15a13834384122b47e99bf7500dd7c/2e15a13834384122b47e99bf7500dd7c.png"
-        width: 724
-        height: 407
+      - url: "https://valuewalkpremium.com/wp-content/uploads/2018/03/crypto_1522240634-1024x670.jpg"
+        width: 1024
+        height: 670
         isCached: true
 
 secured: "+RY9Tm+3jWxH8bPNViGqmhx21xyTBRkQUQyBdP82kF7bgwa37PleBT328yLCh/iCUEe4YunkApBR41ZDq6JEZEInLCzKKmdeFF42w55dzejeqI0eNOcvlM2eDoZU5uy7cumK4o6x8kpRappuoux667ydUL5gdIClrJHmQ1lvUwL1aTMPFrnskZVR33XUtaYvp8B+aHvT8mFHBQe0yX+YBGyrVeEup2SweoTanMt1Xc9tXJD4WpeGg+uvXRnmEbRzaqkIDsugNvDS5pcoqlw3khnuBAkXPyon/0wFGHhpU5yqxF4+0v70hRQsg9/Gf/FpL/dAnK0QhRAzrED+hgzhyqr5N8YKvvCWbJSsmKFsIEsqGPvfIFyj/OJhkxhWFBxnkxZtbzF6nyVQI5WK0SNptVcDb7skPTW8To2nq8VzozR/pUfVh0I9PinnAK/Oywsv/d0qIeehQ+kQW4zfbmOtPolV3Y8x+Ka1CMm/GJi2Nb+XCoHkA/wr48pSLwaNZXhrmz4mIzpS41FZspaYVOL2Eg==;Ae4nbr9799H4tDL8nIHZWQ=="

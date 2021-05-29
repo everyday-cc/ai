@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/data/sas-announces-expanded-cl
 webUrl: "https://itwire.com/business-it-news/data/sas-announces-expanded-cloud-provider-support-and-ai-powered-chatbot.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Telstra turned its AI chatbot into an HR tool"
-    excerpt: "As at most companies, the COVID-19 pandemic sent Telstra scrambling to keep remote staff supported – but for digital experience principal Melissa Dorey, that disruption proved to be the perfect time to introduce artificial intelligence (AI) to a human resources function that had become more critical for staff than ever before."
-    publishedDateTime: 2021-05-24T23:55:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/how-telstra-turned-its-ai-chatbot-into-an-hr-tool.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/telstra%20chatbot.jpg"
-        width: 821
-        height: 462
-        isCached: true
   - title: "Distinguishing between chatbots and conversational AI"
     excerpt: "In your business you need to learn how to distinguish between chatbots and conversational AI, here are some tips on how to do that."
     publishedDateTime: 2021-05-25T12:29:00Z

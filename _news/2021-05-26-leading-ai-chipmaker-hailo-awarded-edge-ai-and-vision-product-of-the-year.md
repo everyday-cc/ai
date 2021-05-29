@@ -3,19 +3,19 @@ category: news
 title: "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year"
 excerpt: "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor."
 publishedDateTime: 2021-05-26T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
 type: article
-quality: 38
-heat: 38
-published: false
+quality: 53
+heat: 73
+published: true
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 images:
@@ -44,6 +44,6 @@ related:
       domain: wfmz.com
     quality: 7
 
-secured: "exgWUMPjIemFT3QJfNuiqFL3wtHWp/Lsdq07hSX9WxnEFqLwiCAGEG2TbWZPj5nu/y4cE8LfyNLBpOJp+oRa3iXJW154Of9ehlHMhVioyGTy9yF1t+GwaFc0+/8puqaqLdT5N2ZNAkYaybgqKIIA4MH1t07HtHyaunA4Y5kq8VZVwKUcO4lBGcWbxB2M3eNlhZqq7LLllmETbSBU+mLsiVOPmmiDec/lVxx2L8J3ijB8IC60ZBoVmMmx0fBodWf3YS01S771XkXV+ljSyfU/ZbvO+BmUlp8crrYBvK4Dk0n1Jy+XG/B5kgcfClXm1x2sV+NbE+3zGGA82XRLbCNweG9tPP3wB9wxhLk9cowdeNw=;qpEu9WAflB/5GIHKJflulA=="
+secured: "JwQnPMeRMgOFK9X7flORsJPPBN4yPqjNKCn79zKp+mGy59CqStlU7MtbRDg3ak6EUiAPER/+RlsSo3YS/WALSYrZk6EgDPRkEyBAm2RLffqoWDNnQP7RryHnmBFKLJAqqlBIBkfM+ykIZZKpnhjbSTJ0of7y0aRApTgv/6+qoBo6eFISeXtOhDQ+tUHVdKuZDBonfpWPVauw0KLZ7Gn3Q4Z3zuO1tu5m8Egs/HV8D4bAPWbfCVNrptdKwVG9jbL1iru1taW+AzQCHWnsrXjRDulQadkRtiS/28qvEj8MuNHJxn7aldBy5CVnDa7vnVdM75JtYuk4BmHFWILzGn66mNtfQLXwRFojjn04viQCoW4=;sTK8WcDC0RLibIgTVCdjzg=="
 ---
 

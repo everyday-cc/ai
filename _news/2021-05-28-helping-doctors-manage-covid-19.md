@@ -165,6 +165,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "New Artificial Intelligence Tool Assesses COVID Severity"
+    excerpt: "A new Artificial Intelligence (AI) technology is capable of assessing the COVID-19 severity with a promising degree of accuracy."
+    publishedDateTime: 2021-05-29T17:36:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-assesses-covid-severity-201461-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 37
   - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
     excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
     publishedDateTime: 2021-05-29T11:20:00Z
