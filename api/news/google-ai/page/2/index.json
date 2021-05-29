@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-07-advancing-sports-analytics-through-ai-research.md",
+      "title": "Advancing sports analytics through AI research",
+      "excerpt": "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+      "originalUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-game-theory-as-an-engine-for-large-scale-data-analysis.md",
       "title": "Game theory as an engine for large-scale data analysis",
       "excerpt": "Our research explored a new approach to an old problem: we reformulated principal component analysis (PCA), a type of eigenvalue problem, as a competitive multi-agent game we call EigenGame.",

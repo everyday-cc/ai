@@ -157,20 +157,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "Self-driving cars could spike CO2 — study"
-    excerpt: "Self-driving vehicl"
-    publishedDateTime: 2021-05-24T11:05:00Z
-    webUrl: "https://www.eenews.net/energywire/stories/1063733275/feed"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2021/05/image_asset_119343.jpg?1621865577"
-        width: 938
-        height: 483
-        isCached: true
   - title: "Self-driving cars offer chance to re-imagine sound systems"
     excerpt: "Self-driving cars won't only be used for transportation. Conveniently, passengers will be able to work as they travel along, holding video meetings and conference calls. Or they will enjoy music, TV and movies much as they would in their own home theaters."
     publishedDateTime: 2021-05-25T13:39:00Z

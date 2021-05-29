@@ -38,24 +38,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Global Agricultural Robots Market (2021 to 2026) - by Application, Product and Geography - ResearchAndMarkets.com"
-    excerpt: "The \"Agricultural Robots Market by Application, by Product, and Geography - Global Forecast up to 2026\" report has been added to ResearchAndMarkets.com's offering. Agriculture robots are the automated machines used in agricultural activities such as seeding,"
-    publishedDateTime: 2021-05-27T04:10:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210527005404/global-agricultural-robots-market-2021-to-2026-by-application-product-and-geography-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-05-27T12:59:00Z
-    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "yUpxWTfeo0gm1rzGFXg63TtB6tqztvV88w+KA8dl2jMDfjerWeQfrtozPxHnkufiCHKxBqewY/cHeJa7WQgLiAIAaRp2dHtbdoo+kxJCHaD32IwyVYRnlag/Y9KqQwlJCVxUyRZb8c9s5leo/oyJ9hEBKTRQc2q2yvAIeYS3RHmcBTv0clEV4L6CiCqaK2pz2gtHtGvee3///ZVm4gXKg+1SdSVmnTlTqw+AalW0XlZsRtWEAQYibQXdY29KVU73FekCaJmPWyR1YWufMF+5roGX8Y3RglR1xw42ZzTurvPCxmWMwgO8ZX9fl+9EBJvUAZFQ6iDPg3X6B/ywhpDRSUymtFvfubZmc0/irwJBPN8=;a9VQqcKTo+rrp7NnSn+edg=="
 ---

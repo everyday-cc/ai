@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2291510/artificial-intelligence-ai-in-sup
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security"
-    publishedDateTime: 2021-05-27T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27"
+  - title: "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science"
+    excerpt: "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,"
+    publishedDateTime: 2021-05-28T14:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

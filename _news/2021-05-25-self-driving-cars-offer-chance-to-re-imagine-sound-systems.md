@@ -163,20 +163,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "Self-driving cars could spike CO2 — study"
-    excerpt: "Self-driving vehicl"
-    publishedDateTime: 2021-05-24T11:05:00Z
-    webUrl: "https://www.eenews.net/energywire/stories/1063733275/feed"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2021/05/image_asset_119343.jpg?1621865577"
-        width: 938
-        height: 483
-        isCached: true
   - title: "Mountain View self-driving trucking company Aurora Innovation expanding in Dallas area"
     excerpt: "It’s been less than a year since Aurora said it would test its technology in Texas with a push into Dallas and now it's expanding to accommodate its growing employee base."
     publishedDateTime: 2021-05-28T18:52:00Z

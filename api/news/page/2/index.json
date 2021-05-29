@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-28-researchers-create-robot-that-smiles-back.md",
-      "title": "Researchers create robot that smiles back",
-      "excerpt": "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-robot.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/the-robot-smiled-back.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp",
-      "publishedDateTime": "2021-05-27T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-majority-of-europeans-would-replace-government-with-ai-oof-theyre-so-wrong.md",
       "title": "Majority of Europeans would replace government with AI — oof, they’re so wrong",
       "excerpt": "A recent survey conducted by researchers at the IE Center for the Governance of Change indicates that a majority of people would support replacing members of their respective parliaments with AI systems.",
@@ -247,49 +204,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-investment-in-robotics-research-global-report-2021.md",
-      "title": "Investment in Robotics Research: Global Report 2021",
-      "excerpt": "May 27, 2021 - As the economies reopen from the pandemic, Asia, Europe and America adjust their robotics research funding pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/may-2021/investment-robotics-research-global-report-2021",
-      "originalUrl": "https://www.automation.com/en-us/articles/may-2021/investment-robotics-research-global-report-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/ffab88ae-e560-4f5a-b15a-d2bff7282ecd/IFR-news-May-27-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -991,6 +905,60 @@
       ]
     },
     {
+      "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
+      "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
+      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-scared-human-emotion-detection-ai-meets-eye-tracking-technology.md",
       "title": "Scared, human? Emotion-detection AI meets eye-tracking technology",
       "excerpt": "Benefits and risks of artificial intelligence The increasing scale of AI is raising the stakes for major ethical questions. Read More That reality is closer than ever after an eye-tracking AI company has agreed to acquire emotion-detection software firm.",
@@ -1082,51 +1050,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-artificial-intelligence-ai-in-supply-chain-and-logistics-market-the-latest-trends-ibm-google-baidu-microsoft.md",
-      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market: The Latest Trends | IBM, Google, Baidu, Microsoft",
-      "excerpt": "The latest analysis released by HTF MI on Global Artificial intelligence AI in Supply Chain and Logistics Market Outlook 2020 Survey results sheds light on how investment and competitive landscape is impacted due to significant changes in the Artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "originalUrl": "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U527291217_g.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "publishedDateTime": "2021-05-26T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
       ]
     },
     {
@@ -1231,6 +1154,110 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-google-unveils-cloud-products-to-help-analyze-and-organize-data.md",
+      "title": "Google unveils cloud products to help analyze and organize data",
+      "excerpt": "At its inaugural Data Cloud Summit, Google introduced a slew of new products, including Dataplex, Datastream, and Analytics Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/",
+      "originalUrl": "https://venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/amp/",
+      "publishedDateTime": "2021-05-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms.md",
+      "title": "Google Strikes Deal With Hospital Chain to Develop Healthcare Algorithms",
+      "excerpt": "Google and national hospital chain HCA will work to develop algorithms to help improve operating efficiency, monitor patients and guide doctors’ decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-05-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

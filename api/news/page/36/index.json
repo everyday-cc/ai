@@ -2,93 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-04-30-baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may.md",
-      "title": "Baidu to Roll Out Driverless Robotaxis in Beijing in May",
-      "excerpt": "Baidu will launch a paid robotaxi service in Beijing on Saturday, allowing users to book rides in vehicles without a driver behind the wheel, as the tech giant seeks to become one of China’s first companies to make money from self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-04-30/1619778592746922_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand.md",
-      "title": "Global Artificial Intelligence (AI) Robots Market Industries Significant Growth Analysis and Future Sales Demand",
-      "excerpt": "Global Artificial Intelligence 40AI41 Robots Market Industries Significant Growth Analysis and Future Sales Demand",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand",
-      "originalUrl": "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1619495378541.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-autoggn-a-gene-graph-network-automl-tool-for-multi-omics-research.md",
       "title": "AutoGGN: A Gene Graph Network AutoML Tool for Multi-Omics Research",
       "excerpt": "Here, we proposed a new multimodal method called AutoGGN to aggregate multi-omics data and molecular interaction networks based on graph convolutional neural networks. We evaluated AutoGGN using two different tasks: cancer type classification and single-cell stage classification.",
@@ -1187,7 +1100,51 @@
         "AI in Robotics",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2021-04-30-china-publishes-draft-security-standard-on-facial-recognition.md",
+      "title": "China Publishes Draft Security Standard on Facial Recognition",
+      "excerpt": "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
+      "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
+      "publishedDateTime": "2021-04-29T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
     }
   ],
-  "nextPage": 37
+  "nextPage": null
 }

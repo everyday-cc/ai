@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science",
+      "excerpt": "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-applied-ai-takes-the-spotlight-at-build-2021.md",
       "title": "Applied AI takes the spotlight at Build 2021",
       "excerpt": "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week.",
@@ -103,51 +155,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-artificial-intelligence-ai-in-supply-chain-and-logistics-market-the-latest-trends-ibm-google-baidu-microsoft.md",
-      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market: The Latest Trends | IBM, Google, Baidu, Microsoft",
-      "excerpt": "The latest analysis released by HTF MI on Global Artificial intelligence AI in Supply Chain and Logistics Market Outlook 2020 Survey results sheds light on how investment and competitive landscape is impacted due to significant changes in the Artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "originalUrl": "https://www.openpr.com/news/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U527291217_g.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2291510/artificial-intelligence-ai-in-supply-chain-and-logistics",
-      "publishedDateTime": "2021-05-26T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
       ]
     },
     {

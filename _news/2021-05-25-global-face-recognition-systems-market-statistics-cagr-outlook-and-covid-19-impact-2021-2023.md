@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
-    excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
-    publishedDateTime: 2021-05-26T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-industry-statistics-consumer-demand-developments-plans-industry-impact-and-forecast-till-2025-2021-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "h0hHboo2yLhlZiHV86a7LwU7+IjtLfbVrwSQIDG0isPlGC0w+1hiH2ZLJr1/UXocheR9rEOi8Vuk3xNWQofR5XTBcFyQs5/hJvtws+mBXU4gFH2Y1Q/wUf7pimVtgk1ejo6/BnpAeXCUkxMC9WoThzCvk11Z4BFhXZaOaEvRQ7bv25UfKnXYgYlEkvqgnoCHHtCXGM4X1vDpHf1gRmhlzZoLc5MnW1VG+iIdqL03xdcGgcGE6F1yAlBy5KtCEAK9P8x7jy0Ml3TH8NYNOVGa4ho7QJvf6xiQqU6SqAuZHjLvAw5Ui14U22KOsLApmcxnjtmoq8rHprvIvPvTxD+lQrSVZu2Ig5cfMuW9rrJ/zvs=;gBlvfZ0QswhlFm/9zqFHYA=="
 ---

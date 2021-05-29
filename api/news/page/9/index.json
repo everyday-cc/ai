@@ -2,92 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
-      "title": "Slicing up pizza robots",
-      "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Pj1j9cioj_w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
-      "publishedDateTime": "2021-05-20T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-industrywired-names-top-revolutionary-digital-transformation-companies-in-the-world.md",
-      "title": "IndustryWired Names 'Top Revolutionary Digital Transformation Companies in the World'",
-      "excerpt": "IndustryWired has announced 'Top Revolutionary Digital Transformation Companies in the World' in its May magazine issue. The issue recognizes ten disruptive companies leveraging leading-edge technologies to redefine customer experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
       "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
       "excerpt": "In a new white paper released today, Numenta detailed how it used sparse algorithms derived from its neuroscience research to achieve breakthrough performance in machine learning in a proof-of-concept demonstration.",
@@ -264,31 +178,22 @@
       "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
       "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:13:00-07:00",
+      "publishedDateTime": "2021-05-20T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -298,9 +203,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1142,6 +1046,93 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-prosthesis-powered-by-googles-machine-learning-lets-amputee-drummer-play-naturally-again.md",
+      "title": "Prosthesis powered by Google’s machine learning lets amputee drummer play naturally again",
+      "excerpt": "Google’s machine learning technology has given an amputee drummer the ability to play again, highlighting developments in robotic prostheses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
+      "originalUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.musictech.net/wp-content/uploads/2021/05/Jason-Barnes-Google@1400x1050.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
+      "cdnAmpWebUrl": "https://www-musictech-net.cdn.ampproject.org/c/s/www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
+      "publishedDateTime": "2021-05-19T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MusicTech",
+        "domain": "musictech.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
+      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
+      "excerpt": "The brain-computer interface user was able to transfer objects with a robotic arm at twice the ... let alone a mind-controlled one. In a paper published today in Science, a team of bioengineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210520145351.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

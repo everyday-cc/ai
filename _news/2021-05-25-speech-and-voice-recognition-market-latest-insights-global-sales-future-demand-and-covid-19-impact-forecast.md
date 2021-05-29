@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Vision Screeners Market: Growth, Trends and Forecast to 2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2021-05-25T07:45:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-05-25/global-vision-screeners-market-growth-trends-and-forecast-to-2029"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "C88VXGtkwtCvynjxyLhqruj1n/HFlX0zDTYUbviANGf/A7q38I9cjCqHSxppdRIx+nuU2agtEUloGKW3DxDMl+4TiZ6YTAGZCf+JRvQ7bCAu3oUmkMgL+OqqQ4bNHymoWEt0aSMkSOmpkxYufYtCKCLHx6ag7elmSWs+6+g/kQtKMPXGfBQPR/f4C2CxDQqemBnFt+m4GTpANNH6xZO4VATj1QB5xoxmluu9jd7M6AECfiLGApaP1rwniQQzg6Ok3UGJXAVnaaVd/g5BOAXpfO4zAy8pk7xH4euhURWsPvfx2OKTMMdZ/6re89j294mesHFbCmbqJfz7gx7zr/RqqyDY0xLetdwTD/LD4mST1Kc=;wy1by+T0FK5nSV0BfpB25g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-ar
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -42,20 +42,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Top 10 Women Data Scientists in India in 2021"
-    excerpt: "Data science opportunities are thriving in the field of AI in 2021. Women data scientists encourage women empowerment by joining reputed companies that enhance the female workforce. Here is the list of top women data scientists in India on LinkedIn."
-    publishedDateTime: 2021-05-24T12:36:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-women-data-scientists-in-india-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Top-10-Women-Data-Scientists-in-India-in-2021.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "DVA+OVPVthEFpTR5HsBxfM/yuRVUqiRBL2q3sylur7z+UI1lVJFb2X4YgRxKRMrAGr3gxKZyDmWkhdRqizQRTCJmIK3zeCqfej+XfMpr1n9ok91yBhiifDSdwFUddHrp3ZTPDOumpZbAhYNV2em2QjV49SRBKS+5bqjeUJrVNDUPu5jrNhcNvqYpngXvT2y2cBeSjSbjvHrJ2Pdd0cYVqrS3A2+yeECz9eLqOBoYC3GpGXxD3ny32UApHBKdHs6rjsABaQo2LJL2sGVN0r6bhCLkoSe7Kn04oDDZl4FwXi9YrOqpeKFCwYs5ZRLf5/974mZJq383XnHm2/qdVkkVLWCpvsaSzgSbLqw47uzdzIAka0kWRfbFn8EqiQpgDwZfqrAmLl8Y65+YpikfQFnfFgYtzcmMZV5DOIEy+2MfKwm1xLODsEnQc40uo+hpRO868LTXQspJBvej/r2WcDVM88hamfPcrCHtlR+6GgIkd6y6c3Un6Q/XHRX276IN7d9QJRTmEWnVP0Ifj8y16Jo18g==;ni74Qp9cSBYjnVoPmHWtSA=="

@@ -25,20 +25,147 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-05-25T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security"
+    publishedDateTime: 2021-05-27T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Outlook, Size, Forecasts, Demand, Competitive Analysis, Growth Factors, And Key Players"
+    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
+    publishedDateTime: 2021-05-25T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-05-28T09:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine learning Market 2021 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine learning Market for 2021"
+    publishedDateTime: 2021-05-26T16:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2030-2021-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
+    excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
+    publishedDateTime: 2021-05-26T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-industry-statistics-consumer-demand-developments-plans-industry-impact-and-forecast-till-2025-2021-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
+    publishedDateTime: 2021-05-25T05:39:00Z
+    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
+    publishedDateTime: 2021-05-25T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
+  - title: "Voice Assistant Market Research Trend 2027- Future Scope, Regional Development, and In-depth Manufacturers Analysis"
+    excerpt: "Market Overview <br /> Global Voice Assistant Market Research Trends valuation stood at USD 1.68 Billion in 2010 and is projected to reach USD 7.30 Billion by 2023, registering a 24.32% CAGR during the forecast period (2019 to 2025)."
+    publishedDateTime: 2021-05-28T06:35:00Z
+    webUrl: "https://menafn.com/1102155668/Voice-Assistant-Market-Research-Trend-2027-Future-Scope-Regional-Development-and-In-depth-Manufacturers-Analysis&source=24"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/28/pr_12202_38d8afc3_image_story.jpg"
+        width: 768
+        height: 1087
+        isCached: true
+  - title: "Global Natural Language Processing Market: 2021 Strategic Plans by Globally Industry Demand, Top Manufacture, Business Growth and Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Natural Language Processing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-05-28T08:35:00Z
+    webUrl: "https://menafn.com/1102156052/Global-Natural-Language-Processing-Market-2021-Strategic-Plans-by-Globally-Industry-Demand-Top-Manufacture-Business-Growth-and-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Global Agricultural Robots Market (2021 to 2026) - by Application, Product and Geography - ResearchAndMarkets.com"
+    excerpt: "The \"Agricultural Robots Market by Application, by Product, and Geography - Global Forecast up to 2026\" report has been added to ResearchAndMarkets.com's offering. Agriculture robots are the automated machines used in agricultural activities such as seeding,"
+    publishedDateTime: 2021-05-27T04:10:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210527005404/global-agricultural-robots-market-2021-to-2026-by-application-product-and-geography-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-05-27T12:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "E5gwza3B7LASD0vAJ9PKePuD+qaDwDGxj4zsmz+Y8On5Sr+OmIL8WaYJBjE8pvIIZWv4N1z53NmtNOAurpxkNBs0p/Ws3frtrs8PiQWACMSzEqVrUzjsIvB1h/LBk02w/a0FKi9QSaOzJphU/mTQRIRzrUglphuxWFl2RoVYNsYc1CBkqlJmv3nNTlJIlNpnEGIHJrIljNLMRYo7+R1lrQX0DCFCsRYT6xkYK7EAnKwx0GYWLI+1RFTpLCnsUdKFULlkNY8+JLsnNs55teQiszz8QFcqRXC6Zc1fZ6f/KKaZvruuK+gBrw9P5zHWymbMg2KOl+XzRHHZ3gd00RgJe8pIoolB6//nveYP7dekYDA=;0k956AlVh2pT3dzWv6zNew=="
 ---

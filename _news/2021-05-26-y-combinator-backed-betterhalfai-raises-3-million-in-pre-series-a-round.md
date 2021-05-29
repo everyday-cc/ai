@@ -36,22 +36,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI startup Fireflies.ai raises Rs 100 crore in Series A funding"
-    excerpt: "Fireflies.ai, a conversation-tracking platform, will use the funding to expand its 50-member team across five countries and invest in technologies like GPT-3."
-    publishedDateTime: 2021-05-24T11:42:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-fireflies-ai-raises-rs-100-crore-in-series-a-funding/articleshow/82908790.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-fireflies-ai-raises-rs-100-crore-in-series-a-funding/amp_articleshow/82908790.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-fireflies-ai-raises-rs-100-crore-in-series-a-funding/amp_articleshow/82908790.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-151040,msid-82908780/saas.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Y-Combinator-Backed AI Startup Betterhalf.ai Raises $3 Mn"
     excerpt: "AI-based matrimony app Betterhalf.ai has raised $3 million in its Pre-Series A round. The Y Combinator Winter-21 batch startup raised money from S2 Capital, Quiet Capital, and angel investors Kunal Shah and Samvit Ramadurgam,"
     publishedDateTime: 2021-05-27T06:24:00Z

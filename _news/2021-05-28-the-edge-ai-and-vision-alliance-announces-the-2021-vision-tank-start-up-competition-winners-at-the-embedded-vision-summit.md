@@ -1,24 +1,23 @@
 ---
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
-excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
-publishedDateTime: 2021-05-28T16:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-1030476103"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-1030476103"
+excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The"
+publishedDateTime: 2021-05-28T16:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21342638"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21342638"
 type: article
-quality: 22
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Computer Vision
   - AI
 
 related:
@@ -37,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ZgIYwShNj7UNgEtaJfvqOU6yrCdiJ2AsGeyWfC8tm2L8cQPyZmtRHY+cAWyLNZqH9qOt0PB3K20HmwAn4c1Gyo0PSOZElhkMFks4ChUyqXNGXrJoyGfndn1aJyEaC+YzyTGfvv7cMJxn47kIeMdsDl1Rju9Z0Gvtc1KWDwtjGF7L+zDgVQ2sc+Ek1gl+fZVfu877TsIaFu6PGFptutZQRVIYe5Ybjlq9CwfPJ37mfybCP+NjZcNI05fd4zgAnn0L1OjD3maFJK5bdxQrOtUBT5HTowSbU9L8MmTjCj9t9hzftkrhB/NxmWFOX16rlJ6e8mLLvjcp21nproR4g7RhrKJXgygPFNticXbb0htcesw=;jKb9hIREzVNBn5Si0MARXQ=="
+secured: "EJUpljncTktrKctdFiiFcIJyk8ILAB+p6U1PjJKUmUccdc7vzo1kpdjD0Cyp5H+suXNeAbfs7um3j9QJ0Uj/hpYEA7KTcPMUwbVYZORca3E3N+COgCrualYF3V/JlqJ5I9bJGFjHc1K46kPwBQdPUah0jGgoIySDy9VDld4xJp5deC7KPH9HTID7+VkWDw/NjITmgjv95uTVDUJZZv1y8G0H4ACtA3ch75W5OdLiDnKqfq4uryEaOmjtZJ5UolmwTMiY/gHWCqQgFpe5uhJTgNBP9G+FBPCTBPXL4G+49c1zEoIZE0zCqU8PlLQhmlo8TJAc4tsUAwDKzNvxApPnTAXL+akghAMHnijBXYkgFXs=;TCS6JEuT+/TSObpgCjx0pw=="
 ---
 

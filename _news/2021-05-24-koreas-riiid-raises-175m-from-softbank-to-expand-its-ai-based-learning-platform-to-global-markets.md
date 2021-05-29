@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/riiid-ai-education-softbank/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "EXCLUSIVE-Korean AI tutor Riiid raises $175 million from SoftBank, heads to public schools"
-    excerpt: "Riiid Inc, a South Korean AI tutorial startup, on Monday said it raised $175 million from SoftBank Group Corp's 9984.T Vision Fund 2 as it looks to shake up the world of standardized testing, and take its technology to public schools."
-    publishedDateTime: 2021-05-24T13:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/exclusive-korean-ai-tutor-riiid-raises-%24175-million-from-softbank-heads-to-public-schools"
-    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-korean-ai-tutor-riiid-raises-%24175-million-from-softbank-heads-to-public-schools?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-korean-ai-tutor-riiid-raises-%24175-million-from-softbank-heads-to-public-schools?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
 
 secured: "H5pfylv1o5XlOgV/DzW/fS10Y3sLnr5uc/cVJI97d7NhZhrVY8plSj1rmDjq5HAH21Bp3vuI5TWAGqNNPnGKFjKEsvH6ivyzMsBqyxc4bwiiMBj8xhqxU+/ax4bicGhj7F7f2UWXCMVlasiYlzfkX31H121D31KP7CcrOTXQ9+P9cOZodd6aRpnUzQLBAuetMA+AqRyl9ktmc5Udwj3JH9W+GIXTtzvhXnKgkpz5ohYUd4xLsUb5WFuabs8tO+n1p6TWafFNevo2mBw92US+bQ7L/iMeiFWRKaP1F7rR/rI0polYMxKKe9S6b7UC9YNK/5NHuQKGS3AE3EKpQVHaDmLn6lcDBX3FWhiA/Md8G7+fVuzGRODZ67emaXDcZSZigleinhOXQGncRM2RHinoMLkk6ADIy4b8Y8oF4jA5+i5tE292zzrMG67x48Hj8TAooGTZv/tl8GfxGRG5Sn0SkXGs9yfAp7lgdvz69rJNx1lxZyAlK3lz0hToIQzdinmwDMkYqReVy1ib9TTmqf8Nng==;FQhg28xR5JCbmI7dGw7V2A=="
 ---

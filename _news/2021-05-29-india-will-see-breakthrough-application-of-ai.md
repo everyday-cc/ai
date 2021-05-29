@@ -43,20 +43,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Top 10 Women Data Scientists in India in 2021"
-    excerpt: "Data science opportunities are thriving in the field of AI in 2021. Women data scientists encourage women empowerment by joining reputed companies that enhance the female workforce. Here is the list of top women data scientists in India on LinkedIn."
-    publishedDateTime: 2021-05-24T12:36:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-women-data-scientists-in-india-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Top-10-Women-Data-Scientists-in-India-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "T40h2H371xKNu/PDSdCTRDOk6uEGzKbwGTnrnhUADQPzAf+WIt2Z7j32cxzNIgnQEL6tZkI+euD43g5sQm+Mja/9ACvKlQOVt/nVF8vqRthlm4Y3gslU1B9HU5z5BchzZNIUjrdKUiyXZuN0XA7foiqWQ2+zr4XbEN9gnTttzbVBR+xa4bqL384AXx4hhgitrnTTl7W0TDfuYcIfBNrbo6928VI5hsNBEk7YIdL84+W/Vxba3CdVKZrN8N9YduGQfe/BPbvqNl9YG8WLvHEZoRPKia7TNgKb4ous+l+aoaz2aeyLGdjK3f6ELDoQ4fAgOoUt+jjjY/S9sA3ABgLWFO6V9z++VV9o3VX6P45niiZwHt81EbBHkowOQbT49Q/+h72PpYJYnHs/LZB3yJz6FC+aWor+DlGVUmF96SPtiiVGthi34n64bdUWksqkQi6vjcLqXlZcDc+RXRq/+FJDQ6WSt3F4RflABrKsu28lqWdX7SvYEGnXVWF2IgqrI0vtDGu/NKFN++DTTD/n46OXgg==;A6jFqRIxKlfJtyn4ZRDlyw=="
 ---

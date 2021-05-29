@@ -19,33 +19,142 @@ topics:
   - AI
 
 related:
-  - title: "Investment in Robotics Research: Global Report 2021"
-    excerpt: "May 27, 2021 - As the economies reopen from the pandemic, Asia, Europe and America adjust their robotics research funding pro"
-    publishedDateTime: 2021-05-27T16:55:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2021/investment-robotics-research-global-report-2021"
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security"
+    publishedDateTime: 2021-05-27T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://www.automation.com/getmedia/ffab88ae-e560-4f5a-b15a-d2bff7282ecd/IFR-news-May-27-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence mechanism should protect safety of citizens, promote equal opportunity for research: Amitabh Kant"
-    excerpt: "There must be a robust and reliable enforcement of Artificial Intelligence (AI) mechanism that protects the safety of citizens, government and businesses while promoting equal opportunity for research and innovation,"
-    publishedDateTime: 2021-05-24T19:00:00Z
-    webUrl: "https://www.sify.com/news/artificial-intelligence-mechanism-should-protect-safety-of-citizens-promote-equal-opportunity-for-research-amitabh-kant-news-national-vfytafhfdbgai.html"
+  - title: "Artificial Intelligence In Healthcare Market Outlook, Size, Forecasts, Demand, Competitive Analysis, Growth Factors, And Key Players"
+    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
+    publishedDateTime: 2021-05-25T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-and-key-players-2021-05-25"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 12
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/WhatsApp_Image_2021-05-24_at_7.31.43_PM.jpg"
-        width: 600
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market By Key Players, Deployment Type, Applications, Vertical, and Region Forecast 2025"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence (AI) Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-05-28T09:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-by-key-players-deployment-type-applications-vertical-and-region-forecast-2025-2021-05-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine learning Market 2021 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Machine learning Market for 2021"
+    publishedDateTime: 2021-05-26T16:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2030-2021-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size 2021 Industry Statistics, Consumer-Demand, Developments Plans, Industry Impact and Forecast till 2025"
+    excerpt: "Kenneth Research has recently added a report on Facial Recognition market which is studied for the forecast period 2021-2026. The market is anticipated to witness growth by a CAGR of 13.5% during the forecast period."
+    publishedDateTime: 2021-05-26T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-industry-statistics-consumer-demand-developments-plans-industry-impact-and-forecast-till-2025-2021-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Vision Screeners Market: Growth, Trends and Forecast to 2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
+    publishedDateTime: 2021-05-25T07:45:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-25/global-vision-screeners-market-growth-trends-and-forecast-to-2029"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
+    publishedDateTime: 2021-05-25T05:39:00Z
+    webUrl: "https://manometcurrent.com/educational-robot-market-forecast-2021-26-industry-trends-key-players-and-competitive-analysis-imarc-group/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/Educational-Robot-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Artificial Intelligence In Genomics Market size is expected to grow at an annual average of 56 3 during 2021 2027 The need to control the cost and time of drug development and discovery increasing public and private investment"
+    publishedDateTime: 2021-05-25T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290064/artificial-intelligence-in-genomics-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
+  - title: "Voice Assistant Market Research Trend 2027- Future Scope, Regional Development, and In-depth Manufacturers Analysis"
+    excerpt: "Market Overview <br /> Global Voice Assistant Market Research Trends valuation stood at USD 1.68 Billion in 2010 and is projected to reach USD 7.30 Billion by 2023, registering a 24.32% CAGR during the forecast period (2019 to 2025)."
+    publishedDateTime: 2021-05-28T06:35:00Z
+    webUrl: "https://menafn.com/1102155668/Voice-Assistant-Market-Research-Trend-2027-Future-Scope-Regional-Development-and-In-depth-Manufacturers-Analysis&source=24"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/updates/pr/2021-05/28/pr_12202_38d8afc3_image_story.jpg"
+        width: 768
+        height: 1087
+        isCached: true
+  - title: "Global Natural Language Processing Market: 2021 Strategic Plans by Globally Industry Demand, Top Manufacture, Business Growth and Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Natural Language Processing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-05-28T08:35:00Z
+    webUrl: "https://menafn.com/1102156052/Global-Natural-Language-Processing-Market-2021-Strategic-Plans-by-Globally-Industry-Demand-Top-Manufacture-Business-Growth-and-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Global Agricultural Robots Market (2021 to 2026) - by Application, Product and Geography - ResearchAndMarkets.com"
     excerpt: "The \"Agricultural Robots Market by Application, by Product, and Geography - Global Forecast up to 2026\" report has been added to ResearchAndMarkets.com's offering. Agriculture robots are the automated machines used in agricultural activities such as seeding,"
