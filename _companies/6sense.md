@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "6senseInc"
   url: "https://twitter.com/6senseInc"
-  followers: 18829
+  followers: 18830
 
 locations:
   - San Francisco
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "6sense"
 
-secured: "BThWIQUKyMhoiw6/CP9kP+3gXSPjw0cI0RGVxncZxUyARzi49qBwN3b8hoBLa7h6PTdVkIf4IlVXdARPWzhRWWPmzFb2mXpAPgrB/TNaYnEKzFPIfcvY9BDX2cAMiFjCXWwPSKXbK68azN/nA9rzZInWRaIAWNBikzoic8yXWLyovlB0AkWngCdpc9361LcPfCn33X74RnxAqrQfqBHlP+kFApYcoCk1Y8E6ajIuNbc314Shr8twWITUesTL5utcBgV4g+A6vCaq/fPzb0UIQFVSs0kdjvotAfLscW4qnZPHfpEogjJ1+96Hi5ysdm6bWGXTHFIsratX6l5oNSYXsRPYLbvsUI6pPal9OVtWzF9rinBQGtZnYeVrimxCZQOjw6X249UZgt1B2/uDGuOmWaOUQ48VMpNUo6EIyJlFrV0=;Z/gRyvEuWadatcxjrejIuQ=="
+secured: "xTRpU2fOWZmYxr/eftw1a6HQaVQqgbFs40eyGaQSWKIZ8Aw7XGkCweORndi1iNDoWAnop/P8XPZM3fSMuvAmCASee0CWZg1Cz2BczsRoSB5vJf/mgQ24f65XwPIreoKZ++Z1vSovYQEE4JHVtOl0zq0Zut2zsfdFE5hgjTjqXMFyRNJmO0CdhbbqKRoVJBQ9ew3w7AUJgn8Esq1oeXW4wx3kltlN0s8evkxL7bzC9mxQVuZH76En2WIUVPwybVbf9ucgJGMPa7VJS3VfUp330I/0jgeV1IFHSydtgJqBILA/lcI5mnF5Ts/LPwJlDeWwZCyv/kejAFaC7Pa9tPymTq8EuQuR9xeKYWwnR2hdMFI3vNejWkmDevQXWNCLpQQCG3ujtNEkMr8GCJE4siLNSmyTFXFC4tkYmbmQgBRFnPQ=;3UR6pjJ98zNHDTZxsKTGRQ=="
 ---
 
