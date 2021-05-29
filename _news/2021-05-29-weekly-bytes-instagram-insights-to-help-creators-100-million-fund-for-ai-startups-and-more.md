@@ -26,6 +26,22 @@ images:
     height: 384
     isCached: true
 
+related:
+  - title: "OpenAI Launches $100 Mn Fund To Catch AI Startups Young"
+    excerpt: "Microsoft acquired an exclusive license to GPT-3 last year, in the wake of its $1 billion investment in OpenAI."
+    publishedDateTime: 2021-05-29T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/openai-launches-100-mn-fund-to-catch-ai-startups-young/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/sam-altman.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "vaMG/eawJHggXGQnCkgytaZ7GuWcEas77jboP0tpVpY1EXAHHNqgcGngovS5t1rjR/ekMfQnm8kVeKHRycGkJIHCDc8wdfIyUh4ilojU1PZ5malW5Gz1oIP00MSXwdftUE9lXmDrey1410V2pMbjEejXq8yuRMK/Y6a45hOVtVHmW5dnzm1eMhNY3lDAy501RNlDoPXZxybenJanbFiUE/hhF1bj2x/mUoQHW0GVzXxApAUlStPSFhvPuQ8v5YmwZBnupKOFMTo4z4hV4ldV71TWIO/08cCL5LIPoYMTgaZhT+X92lQaC50evjgmhgqpaEO1LEQuqboUhRzKyoMh5SXokCiG5EqTDsY4yJo/Ms8=;f39S1aLvw4QNpv1cR4VWNA=="
 ---
 

@@ -53,18 +53,18 @@ related:
         height: 600
         isCached: true
   - title: "eYs3D Microelectronics, Co. Raises $7 Million Series A from Leading Industry Strategic Investors for Vision/AI Chips"
-    excerpt: "TAIPEI, TAIWAN /  / May 25, 2021 / eYs3D Microelectronics, Co., a silicon-centric fabless design house enabling enhanced computer vision for edge AI, today announced it has raised $7 million in Series A funding from strategic partners ARM IoT Capital,"
-    publishedDateTime: 2021-05-25T15:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269629789/eys3d-microelectronics-co-raises-7-million-series-a-from-leading-industry-strategic-investors-for-visionai-chips"
+    excerpt: "ARM, Etron, WI Harper and MARUBUN CORPORATION contribute to the round to back eYs3D to deploy its computer vision ICs to AIoT, robotics and VR/AR technologies TAIPEI, TAIWAN / ACCESSWIRE / May 25, 2021 / eYs3D Microelectronics,"
+    publishedDateTime: 2021-05-25T14:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/eys3d-microelectronics-co-raises-7-million-series-a-from-leading-industry-strategic-investors-for-vision-ai-chips"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 35
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1621725732735.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/6834585e6baf38cb8126b398560c8f582bcb404e-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Arm invests in edge vision startup"
     excerpt: "Arm has invested in the $7 million Series A funding round of eYs3D Microelectronics, which spun off from Etron Technology of Taiwan in 2016. Etron was foun"

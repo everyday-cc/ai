@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Software Market 2021 Leading Growth Drivers, Emerging Audience, Segments, Sales, Profits & Analysis"
-    excerpt: "As per the new study published by Data Library Research, titled, “Voice and Speech Recognition Software Market by"
-    publishedDateTime: 2021-05-24T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2021-leading-growth-drivers-emerging-audience-segments-sales-profits-analysis-2021-05-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Share, Size 2021-2025, Industry is Growing Rapidly at a CAGR of 46.76%"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this Artificial Intelligence industry/market.”"
     publishedDateTime: 2021-05-25T10:57:00Z

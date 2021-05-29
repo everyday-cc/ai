@@ -61,20 +61,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Infusing A Dose Of Human Driver Skepticism Into The AI Driving Systems Of Self-Driving Cars"
-    excerpt: "Human drivers make use of skepticism while driving, and the question for self-driving cars is how much skepticism ought to be infused into the AI driving systems."
-    publishedDateTime: 2021-05-24T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/24/infusing-a-dose-of-human-driver-skepticism-into-the-ai-driving-systems-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604d39ac3a24a026f900e871%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1179%26cropY1%3D26%26cropY2%3D689"
-        width: 1179
-        height: 663
-        isCached: true
   - title: "Argo AI's Game-Changing LiDAR Sensors for Safer Self-Driving Cars"
     excerpt: "A US-based self-driving car developer, part-owned by Ford Motors and Volkswagen, could be set to redirect focus in the nascent – and turbulent – LiDAR sensor industry. Argo AI developed the new LiDAR sensor for autonomous cars in-house,"
     publishedDateTime: 2021-05-28T11:57:00Z

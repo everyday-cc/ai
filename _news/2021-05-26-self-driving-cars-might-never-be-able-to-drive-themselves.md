@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Waymo warns against calling cars 'self-driving' before they really are"
-excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
-publishedDateTime: 2021-05-26T13:55:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
+title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
+excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
+publishedDateTime: 2021-05-26T00:00:00Z
+originalUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
+webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - AI in Autos
@@ -49,16 +49,16 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
-    excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
-    publishedDateTime: 2021-05-26T00:00:00Z
-    webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
+  - title: "Waymo warns against calling cars 'self-driving' before they really are"
+    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
+    publishedDateTime: 2021-05-26T13:55:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
-secured: "J9+Vicb57pMeVmi7CCTRN/RWy2m8dWHobyIBZdk/lYlHxdDlB515NxGwdwOa6X8eW6MGXGGxFnssVhnzZOhWGibF5KjQQiRA8b5L5A/EcfOcoL3yT28VC3O/2pJVXRkv/4Y3RaTiQhziPCqtoXe+Q36XvKtoqyzcQQxn6yc5X/3C7TJsnGyzGErlT1JUMsgvITyl7kNj7SWYlZ8Tb6HKsCJOB+vL0VI5XD9Ve3hyg1MStmJ22HKrlq0vnyK+iU2cX46APtd+7JRE+T0WBh2IzVTD5FDqMufQB3iLMbLDuRdcXFLvng/F/LTKDgMhg9/byNO7LF/4E0rWONQBsBE1Mom+Cyl9wdSYD9l2bn/ksA8wDCDDun5LPyddCmWYm10iKvZ9PAsOVhR+gFD7WAi4hWzxWMlhSvjDP7iIaJD+W8p4wE/icgD+UBryMByxjivgujKhHpuDWceCs7ay7ZcDwdupaMApWnkOwpgef1rtTodIW1HUY2a1k1GfguAicLH8l9eKUxb5svcMnvA+RX/iCA==;vXSbEN68DxzR42X1FHaotA=="
+secured: "FkQSXdz0r+gH7pBzchjBtZZ3smU3yv3pTRjYTSgWJ3H3rFOBfgwqo1S2zso0j2bebHXtLNahZqp5yC4m+HhRfrDNccwCo6DFkUu43bi5XndCXZEGoPc52tGz7rFaTAC45GFNsh6YSTAHiVsjGw4JCXwxKL7NjyTFB967DJh36j7/h3eDtbx7uZS8uznywusDAdymBcvDmwcV2ytOuTfnNb2sHqdBhwcPJnUySWb7JPPik7KeIx9lU4qOGjekt+hda5s8oAehSUIsJtMIbJdQZ7Inoi2g16jOBMYUnMwBoOHUz9iN+pTK+tkHWfl0T5cXcJTCwrGEWkrBZw3knd0vZgs6ktR59Z3j9wR4gFgdrsJ6i/nWuSWBBzHmLb7yZAn5/g2s5uLbBaKBXLOPvOaj9hQwL2V1iOsW/BMIqzO4yEil4dyDzlilN+tCOCeYLrAX/enyiMkmGcz9+8nc4yJCE9sYgBLLZaqcZ4oaWEcnj4koVIDvAt40Oy4xJ5v6jk6Ie8cTYwLYAzzW0aKyS9lRKg==;6Ka2vNPHYLzQNXWALaSY5Q=="
 ---
 

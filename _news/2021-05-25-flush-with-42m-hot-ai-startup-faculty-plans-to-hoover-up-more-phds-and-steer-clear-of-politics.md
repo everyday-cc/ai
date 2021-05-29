@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-facu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Faculty, the AI startup with ties to ex-Boris Johnson advisor Dominic Cummings, has raised $42.4 million to expand into the US"
-    excerpt: "The London-based startup has raised £30 million ($42.4 million) from UK and US-focused VC firm Apax Digital Fund."
-    publishedDateTime: 2021-05-24T15:24:00Z
-    webUrl: "https://www.businessinsider.com/faculty-ai-startup-brexit-campaign-us-expansion-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/60abb8fbe25d05001880d145?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Boris Johnson News – Flush with $42M, hot AI startup Faculty plans to hoover up more PhDs… and steer clear of politics"
     excerpt: "In the wake of the news that UK.-based AI startup Faculty has raised $42.5 million in a growth funding round, I teased out more from CEO and co-founder Marc Warner on what his plans are for the company."
     publishedDateTime: 2021-05-25T03:01:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/05/28/why-it
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/05/28/why-its-time-for-your-agency-to-finally-adopt-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial Intelligence used at sea for first time"
+    excerpt: "For the first time, Artificial Intelligence (A.I.) is being used by the Royal Navy at sea as part of Exercise Formidable Shield, which is currently taking place off the coast of Scotland."
+    publishedDateTime: 2021-05-29T09:00:00Z
+    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-at-sea-for-first-time"
+    type: article
+    provider:
+      name: gov.uk
+      domain: www.gov.uk
+    quality: 37
+    images:
+      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/122316/s960_HMS_Dragon_Operations_Room.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "8uZ+5bBI7Z4wPNPVq2m2EDMt7Ls3fuPWJ7MiTDAwBws3lXclz6v+kmgDJps+/nzDiJy6H62issCEAp/YC+HE79Qw/lomlkJpY2SLN7fYU8niDW8VAUHR591zqXWXHefTESjnGQXkVCVnMqE44EQvExV8kZt9be+Du61Lx5j0MRmBL7HcojNeJrVKaBfew7G+OF/t9Ge3jc0WUA13hav9V1Kr6oGxhzXdJp2aMy4dq5tTbR1YNYvWfKkB+MffgvyPa/CFCVb/YuY7n2UCQ+1G/kLRPUpAvnU55Hs/YvUHOQugQQUfXy2NzyTwaGqy7ACBPP5FeFcE51EOAyhnQsK8y7c6P8O1M3GwZc5jt5bw1DM=;Tmv2O5qfEX3IF0RH2ly3/Q=="
 ---

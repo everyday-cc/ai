@@ -1,36 +1,48 @@
 ---
 category: news
-title: "How AI and machine learning help fight the COVID-19 battle"
-excerpt: "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications."
-publishedDateTime: 2021-05-27T21:40:00Z
-originalUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
-webUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
-ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+title: "AI technology can assess COVID-19 severity with a promising degree of accuracy"
+excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
+publishedDateTime: 2021-05-29T08:12:00Z
+originalUrl: "https://www.news-medical.net/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+webUrl: "https://www.news-medical.net/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
 type: article
-quality: 104
-heat: 204
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: News Medical
+  domain: news-medical.net
 
 topics:
+  - AI in Healthcare
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+    width: 620
+    height: 480
     isCached: true
 
 related:
+  - title: "How AI and machine learning help fight the COVID-19 battle"
+    excerpt: "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications."
+    publishedDateTime: 2021-05-27T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-05-25T12:56:00Z
@@ -123,22 +135,6 @@ related:
         width: 1200
         height: 749
         isCached: true
-  - title: "AI technology can assess COVID-19 severity with a promising degree of accuracy"
-    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
-    publishedDateTime: 2021-05-29T08:12:00Z
-    webUrl: "https://www.news-medical.net/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
     excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
     publishedDateTime: 2021-05-26T15:00:00Z
@@ -184,6 +180,6 @@ related:
         height: 388
         isCached: true
 
-secured: "WuHaSPHwBIMpjIf8FGfdzGCS9q0ct/Ldw/R0Bsy8kyGKF+WZIfpMv+Xr2HlBWmTY0/EFaDiauNZkEuzd9QQIkUQPHKLZlFoA6xWfVIoB4coCaQsFoof115Dv/CW+MpWiyy+uoJuGKrpkmSCM1qui3kDLEZYGt8C5R1xbXCbgqZPj8TiVLVLRwnj4NPvNWdDR5y+2SSuTe5dp339kwW2a05tFb364QCUe0iF1nXZfRlviXTmIwJtTTlrAUScrbFhYuEaMv4gnIoXpFDpibO9eQ7enXSs2bK0bF9sIPQ25kC21QMzWQXPBd7v7igwIQXF0okPHYB3q0KayCR5acx6nNivg4/3M3yraspjV4dW7wD7mOvHu5xAEDAhnmB79R32PdRBlN4PV0d8EyfFhpfXukW90EG2O0GqiSwdkZ6aZgf8F5mIpWw8HBulY+opFVl4Q+PPaKXqexpk364FE7jBgcJtUz/pXCKIk/9+kij6tvSjZlXrwrcxFdDEmGjUN1QX1DbdMVudIfN7XnESGDLbGzg==;lLRTydyPzyd2evDgiFoQqA=="
+secured: "HzwlqWJcfpYvb8/5WJA/ysDPRbF79MgqwgdtVaZV6mcqURiZVGmYLFtoLgkszghQQAcd09UBuChicsHq6eK34diSx3YwGpkj0qDGS3dobiOmiz6xZmnGp4TpdDubrVgGxbW4/BXxBYTO9hZSxk0wm6PAswAAPIJWJ+lpYvDbY+e6MsupyeyeG0aNqIjnRDMsgz7LoYHSq84dpLHn1tb87IqssZ1qm5jchZbHaht4AfDNZb05p2HHpA5bSi4nLVISZrCo1smw9ydLdlA38v6y7J/yql0O32cPKk5bg2W5VZb7hwtsaoGHoTL5GLWqL2uQqqxIhIIHbt8Gb2iV505ADckRv7A/ax6h9rSeVqoZ7T8=;wwYfIuiYoVh1LQWhn8TROA=="
 ---
 

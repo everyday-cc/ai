@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
+    excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
+    publishedDateTime: 2021-05-26T00:00:00Z
+    webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 4
 
 secured: "hoHsKptPZc2l2dHdbW24FSsyYMCT5RS5jCJDG7vh+2JyysTxr82rNX6sL0S1Ly5nfF9thOXWLhxYrkAve7tPCuucPF+xLmDo0GPyeMjJ/mfWEt0Z3Qq0EdYD7HRUVa1Tqp/3jycF8uvhODmQrMEVYuO2ofDRAUXk9OC/1L+Vj52ZZK7aLcmhYIP9kf5e9Q3x8CqAAgqkDqfrZl7hKUDdTr67mc0QO7ihQE5NMGocFrgX3MIDMIxkqfeq1MCvSo+MVtwmgpzaG3idOP4JWxbK2t6U+ZO4Q+NQtayDUgTpUeAH7Bi2UCWhgIwKLO1TAWFkztxuKpkUIsPNaiJ+MYGJBUBG/Zp/CrmXN+B4K3HDLNJ8F+M3FrURKljXmmz8ppmhiPSV45TAb07Kd0yMLjOdv3d7jSvUKgvuWIy8l0biJwoy896BLWDIJh2tr9mq1ILKe9luwtMADnBetYQ1HWtVQ2AVc9gk6m7Gaof3WjGAjlGmjjzQ3VoIVK7dAI8LE9hRKalNtR3BysyJi5R/iX/MUw==;qqZtBL9x1pzhUKFkwWo4zA=="
 ---

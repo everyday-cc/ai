@@ -101,6 +101,22 @@ related:
         width: 600
         height: 298
         isCached: true
+  - title: "Novel AI tool to help assess Covid severity"
+    excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
+    publishedDateTime: 2021-05-29T09:38:00Z
+    webUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
+    ampWebUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Researchers develop Novel AI tool to help assess Covid severity"
     excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
     publishedDateTime: 2021-05-29T07:46:00Z
@@ -116,6 +132,22 @@ related:
       - url: "https://www.orissapost.com/wp-content/uploads/2021/05/BL21ARTIFICIAL.jpg"
         width: 1200
         height: 749
+        isCached: true
+  - title: "AI technology can assess COVID-19 severity with a promising degree of accuracy"
+    excerpt: "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."
+    publishedDateTime: 2021-05-29T08:12:00Z
+    webUrl: "https://www.news-medical.net/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210529/AI-technology-can-assess-COVID-19-severity-with-a-promising-degree-of-accuracy.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 55
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
     excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"

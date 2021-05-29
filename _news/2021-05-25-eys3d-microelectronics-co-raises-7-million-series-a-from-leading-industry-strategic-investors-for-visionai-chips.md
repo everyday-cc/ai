@@ -1,29 +1,27 @@
 ---
 category: news
 title: "eYs3D Microelectronics, Co. Raises $7 Million Series A from Leading Industry Strategic Investors for Vision/AI Chips"
-excerpt: "TAIPEI, TAIWAN /  / May 25, 2021 / eYs3D Microelectronics, Co., a silicon-centric fabless design house enabling enhanced computer vision for edge AI, today announced it has raised $7 million in Series A funding from strategic partners ARM IoT Capital,"
-publishedDateTime: 2021-05-25T15:08:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/269629789/eys3d-microelectronics-co-raises-7-million-series-a-from-leading-industry-strategic-investors-for-visionai-chips"
-webUrl: "https://www.bignewsnetwork.com/news/269629789/eys3d-microelectronics-co-raises-7-million-series-a-from-leading-industry-strategic-investors-for-visionai-chips"
+excerpt: "ARM, Etron, WI Harper and MARUBUN CORPORATION contribute to the round to back eYs3D to deploy its computer vision ICs to AIoT, robotics and VR/AR technologies TAIPEI, TAIWAN / ACCESSWIRE / May 25, 2021 / eYs3D Microelectronics,"
+publishedDateTime: 2021-05-25T14:28:00Z
+originalUrl: "https://www.digitaljournal.com/pr/eys3d-microelectronics-co-raises-7-million-series-a-from-leading-industry-strategic-investors-for-vision-ai-chips"
+webUrl: "https://www.digitaljournal.com/pr/eys3d-microelectronics-co-raises-7-million-series-a-from-leading-industry-strategic-investors-for-vision-ai-chips"
 type: article
-quality: 35
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI Hardware
   - AI
-  - Computer Vision
-  - AI in Robotics
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1621725732735.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/6834585e6baf38cb8126b398560c8f582bcb404e-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -83,6 +81,6 @@ related:
       domain: design-reuse.com
     quality: 13
 
-secured: "ZTjLClywq5j6f8hz5R8akhYLbs1U48C2KKKqBKfVAepHPpLKZjwnZdUAsPg4iLr2XnkN/gvvsMfS/QavXrFEFLEjWgLfscZLAWRpj5CveJ5cixluxIVC0a465rPWRV5C01gdzWuRcjhArK65fk0cduC0JCIfkj563x7BxfBSpD/PE6rkXLekY+iz0BSkiy/krq5txxDkY37Fr1sMrJgOrOaZ9Va7xZGksGck1oPPpc5Opsdd9wSgq0arJF9nFHNvzBgdDsEMGFCQO1MI/6dCsC/gMQa1ed1s4+yfwkNWiyJ/X9zxrqsPypobLNTzqWR+ZIFn/1uy0S6ekI5w5Xidh5n6/kyOfD/Vm/QGGy+NYmQ=;lsHelXNCSBMsI60p/Cwyug=="
+secured: "szgGVTzSqU+4QpZvGGD7z4LAhOilvDKdivePxCzcLN8es+T3HIP/gby8be+TFuPwy8HEIDqdpoRuU+1SeS3lBfqbIvMKubHdCQDs4Ps9hzhJA0Mt1XktImL6Nf7p1tzjoghLhRXv9qw3y8x+afLVINnCAP1/DazoFL+2yDMdWOpexK2Y0fUu8fjDZwHArVSyYLDNJ6dIGEsvJ29L2r008JiUT+ob+vzAiB97307OG6xm7dnRv84RY5h+lTE9euZ5qYLdun2lVAiYIwJLfWOW561ttpVPw0TZmZ4xC5eUn6o7RP2S+7uL5EqbKiOVnPpdDjjAoK0f5i41mH2e8vun2KwEdUlvRwrwSnLAxdiVQwk=;Wz6rnOBSu9Thff2yR89oqg=="
 ---
 

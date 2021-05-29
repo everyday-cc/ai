@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Faculty, the AI startup with ties to ex-Boris Johnson advisor Dominic Cummings, has raised $42.4 million to expand into the US"
-    excerpt: "The London-based startup has raised £30 million ($42.4 million) from UK and US-focused VC firm Apax Digital Fund."
-    publishedDateTime: 2021-05-24T15:24:00Z
-    webUrl: "https://www.businessinsider.com/faculty-ai-startup-brexit-campaign-us-expansion-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/60abb8fbe25d05001880d145?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "mcqk3azZtqDP5J4JFNm3+a4ayX8OzXZanCKNisPia8H8HbyEDNSS7OvVkV+y4NjLSR8XK7+l1MI8NOkhK3neA82IDxTfrzgC835xDX/jYcMY+/ITPMEGWjnoi+gpbicQ3XMZrJO7m8q3OpuXeGuNY4wtVp6cowjANlpcqIWnPOWj04jJljipekN3jqK334xlVQqKmmcN9xxzWw7eTIHsOpyV04iQlt3POrXMEQV1oU40ElJXN/eq4Rt0UE2y647NWHUNdPf4PdJZp6ZyOFCiWQQFDmxpsc/o//JDn71p9zmjkHvW/EPLXvaFB7WIrRXVrRucwn6QVx5DRtDLe7XnwUAgUtgbw3y1Q3IA2TeNkcU=;GdPU37D/0R/dUetIflNzZw=="
 ---

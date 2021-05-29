@@ -54,6 +54,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
+    excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
+    publishedDateTime: 2021-05-26T00:00:00Z
+    webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 4
 
 secured: "2kkEJMHXQqUpMtZXFKIFI+jlxemD2jsGQZj4rEUs+lB0Bn9mP0629ykGyh2osT4RAUxpIY/vB90yS7RZDEapd+JPrfObMzwCk/sG1YzmSwMO/DDZIxshQ3yLC3lX0LqfrUd1YdcqxdbEgXACiE9j9AucNpI0tWlAwleMimAPa3TlUc/bo05lj38iEg5aTzgZY8MfZmGfYkeO0+JaGk0+Jgb2tkQL9uC6RIKyPbwQdW0T84ILdIVjaiCkauE7/HTrjkwY7GZ+D7L40LNYf9ImzAC6wea6nG83R0hT7La4NBCIBOUbKL2qMOtWRR9LHbAjyCC5vMKsFEOZFItCETA596UOWt4Ui67yEhY5gyjoujLYJzWlMMAQ5abq8mDDEjaQoideRaOh9mYnGpr8Cevl/k1iM+xOkZrtZ+Xbz/5qje+4FFIb/rExcMMs8g59f3TR2wmXGle/9DQBAz5mbxg4t5LTWcitu9OQq/+tRhf1TExhTEVytVqPGHe8QttNaO5f0UPyiceBhOBACw6beUFN/Q==;/eWqKS60xhueMwn2bRr7Ug=="
 ---

@@ -36,16 +36,16 @@ related:
   - title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
     excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
     publishedDateTime: 2021-05-28T01:54:00Z
-    webUrl: "https://www.digitimes.com/news/a20210527PR201.html?chid=9"
+    webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 37
+    quality: 35
     images:
-      - url: "https://www.digitimes.com/newsshow/20210527PR201_files/2_r.jpg"
+      - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
         width: 336
-        height: 224
+        height: 336
         isCached: true
   - title: "Digital.ai Introduces AI-Powered Innovation Platform to Help Enterprises Continuously Deliver Customer-Centric, Software-Driven Business Outcomes"
     excerpt: "Digital.ai, the intelligent value stream management company, today announced the Digital.ai Platform, an AI-powered end-to-end solution that enables enterprises to orchestrate the delivery of software-driven business outcomes."

@@ -1,36 +1,48 @@
 ---
 category: news
-title: "How AI and machine learning help fight the COVID-19 battle"
-excerpt: "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications."
-publishedDateTime: 2021-05-27T21:40:00Z
-originalUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
-webUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
-ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+title: "Novel AI tool to help assess Covid severity"
+excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
+publishedDateTime: 2021-05-29T09:38:00Z
+originalUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
+webUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
+ampWebUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
 type: article
-quality: 104
-heat: 204
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
+  - AI in Healthcare
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
+  - title: "How AI and machine learning help fight the COVID-19 battle"
+    excerpt: "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications."
+    publishedDateTime: 2021-05-27T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/"
+    ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-05-25T12:56:00Z
@@ -90,22 +102,6 @@ related:
       - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
         width: 600
         height: 298
-        isCached: true
-  - title: "Novel AI tool to help assess Covid severity"
-    excerpt: "\"Assessing the severity of a patient with Covid-19 is a critical step in the clinical workflow for determining the best course of action for treatment and care, be it admitting the patient to ICU, giving a patient oxygen therapy,"
-    publishedDateTime: 2021-05-29T09:38:00Z
-    webUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html"
-    ampWebUrl: "https://www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/coronavirus/novel-ai-tool-help-assess-covid-severity-1502969726.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Researchers develop Novel AI tool to help assess Covid severity"
     excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
@@ -184,6 +180,6 @@ related:
         height: 388
         isCached: true
 
-secured: "WuHaSPHwBIMpjIf8FGfdzGCS9q0ct/Ldw/R0Bsy8kyGKF+WZIfpMv+Xr2HlBWmTY0/EFaDiauNZkEuzd9QQIkUQPHKLZlFoA6xWfVIoB4coCaQsFoof115Dv/CW+MpWiyy+uoJuGKrpkmSCM1qui3kDLEZYGt8C5R1xbXCbgqZPj8TiVLVLRwnj4NPvNWdDR5y+2SSuTe5dp339kwW2a05tFb364QCUe0iF1nXZfRlviXTmIwJtTTlrAUScrbFhYuEaMv4gnIoXpFDpibO9eQ7enXSs2bK0bF9sIPQ25kC21QMzWQXPBd7v7igwIQXF0okPHYB3q0KayCR5acx6nNivg4/3M3yraspjV4dW7wD7mOvHu5xAEDAhnmB79R32PdRBlN4PV0d8EyfFhpfXukW90EG2O0GqiSwdkZ6aZgf8F5mIpWw8HBulY+opFVl4Q+PPaKXqexpk364FE7jBgcJtUz/pXCKIk/9+kij6tvSjZlXrwrcxFdDEmGjUN1QX1DbdMVudIfN7XnESGDLbGzg==;lLRTydyPzyd2evDgiFoQqA=="
+secured: "EykUMiT/NQ3akbZ7+yNEoDOriRYSV80ZztAL8gZ0l7Hvn+pC/2xqDn6SwWwIuzOYrk6GEM7pcYPC+XnsG0Nw68a2AywTGWCkhRf3hvdtu6+c7zbAcm0NgaFlG7oWNO+jueF8FuiyMam5ZFifYRDFrvT9B/a95isFw6bJc68wFBZq5dTMxLZRW3EOFOrKvOKVng0IYQ/5rNy9sDtyYNAb+wrZRLMY29ht+miAXZDphwj82EROsfoUmagZ0mBQDVkUTM8TxEL220WD6LXuNXRtQjxMWxTn2lpx0k1yshbv6RGMNbMD/fu5ibrq48rrOFWsqJvcEBlFH6K/CS4VcYNWH5q61xZxcHCFoW/DlvB/Qz8=;zY8Rjy5ee2gxZIecuFkYhg=="
 ---
 
