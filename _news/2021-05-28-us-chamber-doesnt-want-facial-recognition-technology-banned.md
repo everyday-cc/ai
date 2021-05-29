@@ -21,35 +21,139 @@ topics:
   - AI
 
 related:
-  - title: "Mayhill: Facial recognition technology used after Swansea disorder"
-    excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash."
-    publishedDateTime: 2021-05-24T06:58:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-wales-57213543.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp"
+  - title: "Maine May Limit Use of Facial Recognition Tech by Police"
+    excerpt: "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder."
+    publishedDateTime: 2021-05-26T16:30:00Z
+    webUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police"
+    ampWebUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3EF3/production/_118651161_ethan1.jpg"
-        width: 1024
-        height: 576
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Tech Digest daily round up: Facial recognition tech used in Swansea"
-    excerpt: "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea"
-    publishedDateTime: 2021-05-24T13:56:00Z
-    webUrl: "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-facial-recognition-tech-used-in-swansea.html"
+  - title: "Maine could limit use of facial recognition technology by law enforcement"
+    excerpt: "Rep. Grayson Lookner is sponsoring L.D. 1585, \"An Act To Increase Privacy and Security by Regulating the Use Of Facial Surveillance Systems by Public Employees.\""
+    publishedDateTime: 2021-05-27T13:58:00Z
+    webUrl: "https://www.newscentermaine.com/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
+    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/local/as-seen-on-tv/bill-ld-1585-would-limit-use-of-facial-recognition-surveillance-technology-by-state-and-local-law-enforcement-maine-legislature-police/97-31a18eac-f508-4a71-8a86-69ec7e08ab5e"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 54
+      name: newscentermaine.com
+      domain: newscentermaine.com
+    quality: 73
     images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/05/facial-recognition-feature_1200x675_hero_090418.jpeg"
+      - url: "https://media.newscentermaine.com/assets/WCSH/images/f601ef17-d757-4068-ad39-0230d942cf24/f601ef17-d757-4068-ad39-0230d942cf24_1140x641.png"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "CBP expands use of facial recognition technology in New Mexico, West Texas"
+    excerpt: "U.S. Customs and Border Protection is expanding its use of facial recognition technology at border crossings in the El Paso Sector."
+    publishedDateTime: 2021-05-25T19:54:00Z
+    webUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/"
+    ampWebUrl: "https://www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
+    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/border-crime/cbp-expands-use-of-facial-recognition-technology-in-new-mexico-west-texas/amp/"
+    type: article
+    provider:
+      name: BorderReport
+      domain: borderreport.com
+    quality: 59
+    images:
+      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2021/05/Facial-recognition-tech-CBP-courtesy-photo.png?w=1280"
+        width: 980
+        height: 700
+        isCached: true
+  - title: "Healey defends limited use of no-knock warrants, facial recognition"
+    excerpt: "Healey said she supported last year’s policing accountability bill that limited the use of no-knock warrants and facial recognition technology, but believes both can be valuable in limited"
+    publishedDateTime: 2021-05-25T19:53:00Z
+    webUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/"
+    ampWebUrl: "https://www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/healey-defends-limited-use-of-no-knock-warrants-facial-recognition/amp/"
+    type: article
+    provider:
+      name: WWLP
+      domain: wwlp.com
+    quality: 59
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lawmakers may limit use of facial recognition software by police in Maine"
+    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 53
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
+        isCached: true
+  - title: "Legislature may limit use of facial recognition software by police in Maine"
+    excerpt: "Portland, would limit police use of facial recognition technology to investigations of only the most serious crimes."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.pressherald.com/2021/05/25/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 52
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
+        isCached: true
+  - title: "Legislature May Limit Use of Facial Recognition Software by Police in Maine"
+    excerpt: "Maine could become the first state to impose strict limits on the use of facial recognition technology by police and other government agencies statewide."
+    publishedDateTime: 2021-05-26T17:38:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21224445/legislature-may-limit-use-of-facial-recognition-software-by-police-in-maine"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 52
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/05/16x9/20210427_AMX_US_NEWS_FUNDAMENTALLY_FLAWED_MASSLIVE_TO_DISCUSS_1_MLV.60ae76bebbbff.png?auto=format&fit=max&w=1200"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Legislative Committee Backs Proposed Limits On Maine Agencies Using Facial Recognition Software"
+    excerpt: "Maine could become one of the first states in the nation to adopt limits on the use of facial recognition software by government agencies."
+    publishedDateTime: 2021-05-25T17:17:00Z
+    webUrl: "https://www.mainepublic.org/politics/2021-05-25/legislative-committee-backs-proposed-limits-on-maine-agencies-using-facial-recognition-software"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 42
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/050ee76/2147483647/strip/true/crop/2016x1058+0+227/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Technology: A tool for 21st century policing"
+    excerpt: "S Gallagher explains the current legal position in the balance between human rights, privacy and the use of biometric technology by the police"
+    publishedDateTime: 2021-05-27T14:18:00Z
+    webUrl: "https://www.openaccessgovernment.org/facial-recognition-technology-a-tool-for-21st-century-policing/111606/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/05/dreamstime_xl_104779649-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "WQ2BJVOwPxYTkyvVwcoUJxoaWsZsUlqoAkYz4s15ZZf7zUden5W4uxgtv77Fm6lrQwAReXchOkEaPrMrn7hIyWSnTxmmHuQ0qoDLUT/7eMDr03Edi62U3EllllaYoY1buZr9okU6xBdm5w6FnlL3ke1D01CF1mZ+c4bbjXdJkAQkxWNx4L0B8ARql2xF9A9J8bRZuoiIkq11u2loFVDzRw8KE2bCCjVen/OCrsdJQjhE3c9Lfn8pd+BWDzFxEkrpr/0kycfoEv7H/Z17ZW0tJYLeIVfhawXPuID951EW0P1TQBF+WtOY2otURZ3F9zKIu7Fs1HiDpXRxUgqz97rUW3iCFpwH6/h+z6zMKa+H44BSELnhqUL2yXoQAy1/f6IICAieNVyPRkO31+HKJEFXa33+nrep6ciHDlb52uYnIwJSMJHpb7VhtzezdIXZ+uN4eBHaKbj5/hvnRo4eZLKGtwOVqTluW0X7EmyCqmfcFUpPbTxV7WUbnPV1EZxc/XyYFVwJjn/eu8tKS7JELPYf8w==;IMO1Oqs9L3k6mCIwAHaANg=="

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kodiak targets 2023 for driverless trucks in U.S. as it sets up a future in Asia"
-    excerpt: "In a partnership with a South Korean conglomerate that creates autonomous vehicle components, Kodiak Robotics gets its ‘foot in the door’ of Asia’s freight market as it eyes U.S. expansion beyond Texas."
-    publishedDateTime: 2021-05-26T14:37:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21165229/kodiak-targets-2023-for-driverless-trucks-in-us-as-it-sets-up-a-future-in-asia"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 34
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/Kodiak_vision.60ae55e336ebe.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "BVGqOqxfjlMW/fnQkfIsWoRitFudXWdh/Y15ey6Wsu27SdcLmtLaocCHPrPdFK6951me5qvjr5zE6WlxytyzZzw1Cm0Fzf8x0LQmvA3ZaNRlARboBpqSifU4YkTOUgs5KS1F19KVABkINS5HOobcMjhoJXxmW4ugNYrk8EYisB3tIK/06nJ/sBgOqJF3hBszwrD2i3PyRtvvfgQybJard6EPN2i6TNKLcNJerDuGUz6ecSahrwSYkhbOhIPtvsU2vhyOHPL7LAMlMl8IIcdgsQj135g4EWJ5kKKg9Fi1qjBY4z96Ui3ynbPOIGxQPQSa3QNUgDjMF8XDBDvAKN3he+hEkfP6WEgP3eig9S0kImA88oNOVZw03Jr0sS8amoo6TmvwRUmsUoxA9klUK6UNU0snR8vLaslNvbhHmVFGAFLSmHRxEGtHSah+vPEPjPYEjA1fQMGWT6DvNEt2P4LNW5CwGC5CBv77xSQvknJgI3f8aBm+wD79AA8hQKdUWfRWBX0P6R4W7ULYL81znGttvg==;9FfFymEAO1n3Vjtq52Gk6Q=="
 ---

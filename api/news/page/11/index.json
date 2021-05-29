@@ -2,6 +2,154 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-19-clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.md",
+      "title": "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body",
+      "excerpt": "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1513251/Clarius.jpg",
+          "width": 400,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-south-korean-startup-cryptocurrency-platform-to-start-blockchain-bank.md",
+      "title": "South Korean startup, cryptocurrency platform to start blockchain bank",
+      "excerpt": "South Korean startup Bloom Technology announced it will join cryptocurrency trading platform IDCM Asia to set up a blockchain-based bank in Dubai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/4431621433182/2021/1/16214336372176/v1.5/South-Korean-startup-cryptocurrency-platform-to-start-blockchain-bank.jpg",
+          "width": 679,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
+      "publishedDateTime": "2021-05-19T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-amazon-extends-ban-of-police-using-its-facial-recognition-indefinitely.md",
+      "title": "Amazon extends ban of police using its facial recognition indefinitely",
+      "excerpt": "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372432",
+      "originalUrl": "https://www.entrepreneur.com/article/372432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-372432.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372432",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372432",
+      "publishedDateTime": "2021-05-19T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports.md",
       "title": "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports",
       "excerpt": "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. LaLiga will offer new experiences such as augmented reality,",
@@ -1029,153 +1177,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ai-driving-game-changing-competitive-differentiation.md",
-      "title": "AI Driving Game-Changing Competitive Differentiation",
-      "excerpt": "Banks leveraging AI are poised to realize game changing differentiation. Over the past three years, AI in corporate banking has moved from",
-      "sourceUrl": null,
-      "webUrl": "https://www.celent.com/insights/563621451",
-      "originalUrl": "https://www.celent.com/insights/563621451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.celent.com/system/insights/logos/563/621/451/large/379341462.jpg?1621459448",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Celent",
-        "domain": "celent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-im-not-a-robot-so-why-wont-captchas-believe-me.md",
-      "title": "I’m Not a Robot! So Why Won’t Captchas Believe Me?",
-      "excerpt": "If clicking crosswalks makes your blood boil, you’re not alone. Fortunately, there are some tips that make solving those challenges way less frustrating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/",
-      "originalUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60a433cd350a66847bed9422/master/pass/Sec_Captcha_GettyImages-90404009.jpg",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/amp",
-      "publishedDateTime": "2021-05-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
-      "title": "Ground processing with space data 5x faster with Azure",
-      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
-          "width": 1028,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T23:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

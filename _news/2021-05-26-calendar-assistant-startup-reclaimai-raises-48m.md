@@ -34,6 +34,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Brazil: AI startup Adroit Robotics raises seed funding"
+    excerpt: "Brazilian startup Adroit Robotics has raised 2.25 million reals ($427,000) in seed funding. The capital has come in from several new private investors, including Pericles Pereira,"
+    publishedDateTime: 2021-05-28T11:46:00Z
+    webUrl: "https://www.freshplaza.com/article/9325477/brazil-ai-startup-adroit-robotics-raises-seed-funding/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 69
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/05/28/Add.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Conversational AI Startup Rezo.ai Raises Seed Funding Led by Modulor Capital with Participation from Dexter Angel Network, Veda and Prominent Angels"
     excerpt: "Rezo.ai , a conversational AI startup has raised an undisclosed amount in seed funding led by Modulor Capital, Dexter Angel Network, Veda"
     publishedDateTime: 2021-05-26T05:26:00Z

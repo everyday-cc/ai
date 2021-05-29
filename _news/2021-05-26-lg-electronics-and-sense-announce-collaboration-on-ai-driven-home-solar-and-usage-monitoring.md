@@ -29,14 +29,19 @@ images:
 
 related:
   - title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
-    excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
-    publishedDateTime: 2021-05-28T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
+    excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual"
+    publishedDateTime: 2021-05-28T16:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-301301793.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
 
 secured: "rLPH7kcG6Vg6ACEYNwLEgHd1XNOSwytcFqVoGeP5f0aiMQUou0+fhjGxWQLVVy3XAO43erxud+6xdhTTGlgTw/V21yXWh+4yCqa7yR65wXF2QZsw18QtOEzAbir0Y33CZvYyxzMfur8BOjfvPY6yDzGz2fK8xb30Sk+7vZvOUH//9jgjrlhTP56r9Rlx67fbTW/fB4GU5eG6PVWPDir2FMEf8HjXqCZu/OcoDCIvW9Zs5URVv4i8JBWDsrrmcDUij30aQf6diy3N+xQt4+C+WGxaS24PnR+AXD7y+tdTDMKPHkLcKuBz94L4ttmrsnuFKWoMncpZEt82bdkr9ygLO3YyfvBcf1u7hxetbaHlDybH8c7/Na+ijKSGDJ+tY7/ps6yXQWXb4MwHBiBx4PqlCCseEfL03ueHOcO/c96xTmI9vIo5kCB9fbUNhZkPD3cjYFIw+BZdz9g3/jgm/TfJB6P0FAnl101YCL7oNTPeYf8e3oKjlr9WwxPJGogoPaKj9nm8iT86oafB6gwghGhZog==;95xVWMCyprNFFBRPdeZPTQ=="
 ---

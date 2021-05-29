@@ -43,20 +43,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Can AI Resolve India’s Water Crisis?"
-    excerpt: "Digital water technology can help India tackle the water crisis. Around 163 million people in India have no access to clean water. Further, water wastage in India is appallingly high at about 125 million litres a day."
-    publishedDateTime: 2021-05-24T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/can-ai-resolve-indias-water-crisis/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-5.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Investment, research driving AI growth in India, says study"
     excerpt: "Higher investment and research is driving significant growth of Artificial Intelligence (AI) in India, finds a study."
     publishedDateTime: 2021-05-24T09:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/372901"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Brazil: AI startup Adroit Robotics raises seed funding"
+    excerpt: "Brazilian startup Adroit Robotics has raised 2.25 million reals ($427,000) in seed funding. The capital has come in from several new private investors, including Pericles Pereira,"
+    publishedDateTime: 2021-05-28T11:46:00Z
+    webUrl: "https://www.freshplaza.com/article/9325477/brazil-ai-startup-adroit-robotics-raises-seed-funding/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 69
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/05/28/Add.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Calendar assistant startup Reclaim.ai raises $4.8M"
     excerpt: "Portland-based time management startup Reclaim.ai raised $4.8 million from investors after the company saw larger than anticipated traction for its product last summer. The round was led by Index Ventures and included Gradient Ventures,"
     publishedDateTime: 2021-05-26T14:21:00Z

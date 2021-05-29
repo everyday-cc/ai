@@ -145,6 +145,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "US Chamber doesn’t want facial recognition technology banned"
+    excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
+    publishedDateTime: 2021-05-28T01:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
 
 secured: "QHwHl/AnJ2FCi35C918ZyEC0hZnRFI4VkgN4y8Ihin3dU1Qub66rBkGAWLeu8ELIzXdVXFLHlO5qAazUGS+P8NGG5Hd0Mk7ReBJlvHvivsR+NmyO8AqeJRsKlZPlMs0bH0RFlQyYtXqGWp5soM9tEaSyTYvoXCIl90Vz+Q2HnydCGEmAqlfLoYskXTqWQ/JvhXf2lARLU0hGTclLkHGN2NUbwtyp3oBfiimJIyP5G/ZbComUonm0ywDBUZnJnw2hauywwmJFltyAl8ffojk6SVjgpIPvGH97mi2iloGK9EeMbzUbJFkp/Ti92W4f2xGb+um/oAIbI6ct+bLwcmX1EvjQEBfzmF0+m1Z72EZJ8sMvF0xm8/dPAyC1fO+ePYST36G+i8F4mm153h2X9R9GKPXlBlpGrvcR+orV0UCAknThmnQWhMTdNTGSf5fBe9OscT2ypb9dXntj5f3elOxhrkUHkPQax+nr2CdsvXvoBGA8lhlrEnxrGayk8EobBPk6jXQBWObWRYL/R5+ZwyzKYg==;iAYMEyM4GiuCWD6fgWJ1jg=="
 ---

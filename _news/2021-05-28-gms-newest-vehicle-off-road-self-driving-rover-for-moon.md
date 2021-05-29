@@ -70,17 +70,17 @@ related:
     quality: 54
   - title: "GM developing self-driving, electric rover for the moon"
     excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
-    publishedDateTime: 2021-05-27T04:28:00Z
-    webUrl: "https://www.wzzm13.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+    publishedDateTime: 2021-05-27T02:09:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
     type: article
     provider:
-      name: WZZM
-      domain: wzzm13.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 44
     images:
-      - url: "https://media.wzzm13.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
+      - url: "https://media.11alive.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

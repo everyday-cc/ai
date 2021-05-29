@@ -402,6 +402,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-24-chinese-startup-ponyai-gets-the-nod-to-start-testing-its-driverless-vehicles-in-california.md",
+      "title": "Chinese startup Pony.ai gets the nod to start testing its driverless vehicles in California",
+      "excerpt": "The US state of California has granted permission to Chinese firm Pony.ai to carry out a pilot run of its driverless vehicles in three cities in the state. Six Pony’s autonomous vehicles will be allowed without a safety driver at the wheels in Fremont,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/05/24/chinese-startup-pony-ai-nod-start-testing-driverless-vehicles-california/",
+      "originalUrl": "https://www.gizmochina.com/2021/05/24/chinese-startup-pony-ai-nod-start-testing-driverless-vehicles-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png",
+          "width": 731,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-artificial-intelligence-where-it-is-working-and-where-it-is-not.md",
       "title": "Artificial Intelligence: Where It Is Working And Where It Is Not",
       "excerpt": "The use of artificial intelligence (AI) has been spreading in every industry. It was once a sci-fi myth found on shelf corners. Now, AI is becoming a core part of almost every technology. It plays a role in everything from helping people with disabilities to video games.",
@@ -1410,59 +1462,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-cloudflare-wants-to-kill-the-captcha-using-hardware-security-keys.md",
-      "title": "Cloudflare wants to kill the CAPTCHA using hardware security keys",
-      "excerpt": "Cloudflare is one of the top providers of web infrastructure and security, content delivery, DNS, among others. The company has also been offering businesses bot management",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "originalUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-16-image-4.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
-      "publishedDateTime": "2021-05-16T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

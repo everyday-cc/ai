@@ -2,6 +2,142 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-17-artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week.md",
+      "title": "Artificial Intelligence Identifies IBM And Netflix Among Trending Stocks This Week",
+      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified IBM and Netflix among other trending stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a29349196dab928cb87605%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
+      "publishedDateTime": "2021-05-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-provectus-cto-on-how-enterprises-can-boost-ai-implementation.md",
+      "title": "Provectus CTO on how enterprises can boost AI implementation",
+      "excerpt": "Provectus, a consulting firm that helps enterprises navigate AI adoption, is adding new tools via a Tecton partnership.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
+      "originalUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data.GettyImages-1173239901.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
+      "publishedDateTime": "2021-05-17T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-corestack-cloud-governance-and-compliance-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "CoreStack Cloud Governance and Compliance Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "CoreStack, a global cloud governance provider, today announced the availability of its CoreStack AI-powered, multi-cloud compliance and governance solution in the Microsoft (News - Alert) Azure Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/17/9370837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/17/9370837.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-ai-driven-etf-grabbed-up-shares-of-tesla-this-month.md",
       "title": "AI-driven ETF grabbed up shares of Tesla this month",
       "excerpt": "An exchange-traded fund managed by artificial intelligence has bought a large number of Tesla Inc (NASDAQ:TSLA) shares. What makes the purchase especially significant is the AI’s previous track record in predicting movements in the automaker’s stock.",
@@ -1022,135 +1158,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound.md",
-      "title": "This Israeli startup thinks AI should be operating your next ultrasound",
-      "excerpt": "UltraSight develops smart technologies, offering accurate ultrasound diagnostics, and operated by untrained personnel. The startup's technology will also be traveling to space with another Israeli",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/",
-      "originalUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2021/05/UltraSight-1620728963.png",
-          "width": 1788,
-          "height": 1117,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/this-israeli-startup-thinks-ai-should-be-operating-your-next-ultrasound/amp/",
-      "publishedDateTime": "2021-05-16T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-tesla-crashes-bitcoin-microsoft-azure-ditches-blockchain-and-more-in-this-weeks-top-news.md",
-      "title": "Tesla Crashes Bitcoin, Microsoft Azure Ditches Blockchain And More In This Week’s Top News",
-      "excerpt": "Bitcoin peaked following this news. Elon Musk became a messiah for the crypto community. His tweets had the potential.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
-      "originalUrl": "https://analyticsindiamag.com/tesla-bitcoin-drop-microsoft-azure-blockchain-top-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/top-news-may-2021.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-new-medical-image-fusion-method-draws-on-deep-learning-to-improve-patient-outcomes.md",
-      "title": "New medical image fusion method draws on deep learning to improve patient outcomes",
-      "excerpt": "Researchers at the College of Data Science Software Engineering at China's Qingdao University, have developed a new 'multi-modal' image fusion method based on supervised deep learning that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/kccl-nmi051621.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/kccl-nmi051621.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/265068_web.jpg",
-          "width": 720,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

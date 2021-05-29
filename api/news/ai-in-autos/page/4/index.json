@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-04-baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing.md",
+      "title": "Baidu Has Just Introduced A Fleet Of Autonomous Taxis In Beijing",
+      "excerpt": "Baidu has launched a fully driverless robotaxi ... BMW fans turned off by the 4-series’ new nose. “Hamburgers in self-driving cars” sounds like nonsense, but is a reality VW wants to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/",
+      "originalUrl": "https://www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/05/Baidu-Autonomous-a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/baidu-has-just-introduced-a-fleet-of-autonomous-taxis-in-beijing/amp/",
+      "publishedDateTime": "2021-05-04T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-baidu-launches-driverless-robotaxi-in-beijing.md",
       "title": "Baidu Launches Driverless RoboTaxi in Beijing",
       "excerpt": "Baidu Apollo Robotaxis move on a street at the Shougang Park in Beijing, Sunday, May 2, 2021. [Image - The Associated Press] Chinese tech",
@@ -1339,59 +1382,7 @@
         "AI in Autos",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-04-30-baidu-will-launch-driverless-robotaxis-in-beijing-this-week.md",
-      "title": "Baidu Will Launch Driverless Robotaxis In Beijing This Week",
-      "excerpt": "Baidu announced that it will open the first paid, driverless robotaxi service in China, starting Sunday, May 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b036c8c75d6a7c12b2c88%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/",
-      "publishedDateTime": "2021-04-29T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

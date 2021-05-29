@@ -43,20 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Neuromorphic technologies will meet AI workload demands"
-    excerpt: "The neuromorphic sensing market is set to grow at a CAGR of 116% between 2025 and 2030 to reach $5 billion in 2030, says Yole Developpement, and the neurom"
-    publishedDateTime: 2021-05-24T05:24:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/neuromorphic-technologies-will-meet-ai-workload-demands-2021-05/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/05/21075630/6F822FA5-7FBE-464D-84C0-C8E2B2F276BE.jpeg"
-        width: 3482
-        height: 2250
-        isCached: true
   - title: "Artificial neurons recognize biosignals in real time"
     excerpt: "Researchers have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures."
     publishedDateTime: 2021-05-27T20:22:00Z

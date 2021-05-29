@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -145,6 +145,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "US Chamber doesn’t want facial recognition technology banned"
+    excerpt: "The U.S. Chamber of Commerce and other groups that represent facial recognition technology vendors oppose the government banning the technology and instead are pushing for greater regulation of the industry to mitigate risks posed."
+    publishedDateTime: 2021-05-28T01:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/us-chamber-doesnt-want-facial-recognition-technology-banned?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
 
 secured: "NB46qa76spKzIwqpeGkZERQ0zPc48JtwQ4BGfmIvgKsbfzRRRFYoOX1GUY32e/VCHeytDvCi5rxW+MUWtoLQdwYsMsiYgcSbcFwAuHY9krP8kPmcWH6o9HcRq7tlgN0ED12MJCQITfaKBJUepxnv4P0RLCXACXPQ+R7dEXCIs/zjSrJhqBBcHJJiq0p/cpVs1WPg0+BRrUBB3u18FVrXOs2KGZ7WmzLr2lhCWPrxv79f/L/qAL+G0q0L9z4RWqjlXDeEhqY3g1L9U5rT3DolMPeM3TDvkpo8bOBYBO8TT/R+u/Mop1NeD4MP6thA1kLmO1e3g2+yu5k5geSrbNRbRWgyUqYATyFgHm7yjWzOFEhtd7SyT52vqdO0SJD9bkG2BXJsoHU+HSV9hDqmA5gQrFQ99nHkBOWux1zmxH7T/sjKV+vi/aHndd3F7jnWrtH1OnKVQ3INsJYNj0y/qqi4Y6dj1vdmzbE/LKMobGBMr6GBWYKdFfcJKIRaKFJb2kh5y8GP8VNsSD40iI5Wbq5i7w==;1DH/1m69CkN9q2rpggF4Zg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robot
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1385508/Kodiak_Robotics_Logo.jpg"
         width: 400
         height: 382
-        isCached: true
-  - title: "Kodiak targets 2023 for driverless trucks in U.S. as it sets up a future in Asia"
-    excerpt: "In a partnership with a South Korean conglomerate that creates autonomous vehicle components, Kodiak Robotics gets its ‘foot in the door’ of Asia’s freight market as it eyes U.S. expansion beyond Texas."
-    publishedDateTime: 2021-05-26T14:37:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21165229/kodiak-targets-2023-for-driverless-trucks-in-us-as-it-sets-up-a-future-in-asia"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 34
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/Kodiak_vision.60ae55e336ebe.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
         isCached: true
 
 secured: "W2HRwiTA49ARBy5b8KrcHbukLJAmLrp6sSfM4sI+f/ZayOI7N6dZa1L6CYLtv3crfjy4TCazfGOODgi3Uq9dTzQpQEq/VgjUV/7IcU5dtFHx6cCUvh26nGmI0T1SA+IQBvZn2cJTuJxkEALxWPr8znzi9FobAmhAJLucuCDFW2jXSIMMY7P9nQI7UlhEg1+9P0Sq6INVEUAimDpI4Fex/Mr8P30KP1q+UtOhu+KfqhcOhgtDg8SCYfZzinLeNPTeQmtqvoz/BfvjZTTNdWevqIGdb1ah2aW+uqhB3m1JjXYZmn7mfFwIz4TUmOPpiridTwi707wBAi1do0PJc1UA/MSilJm08+KPK7CQAWTABWkZGNMyoPjd0xLSzgarzsLdU7BOcoBY+T5TauLIK8hUM8/5BGdfmOO59ST6rPOM7I1fkG6Y/Go/8jrGFe/cwCwZIxtMm2xier0O3GrnPplU4kJwhkYBZiMubGX+YJQzcg+HlM4+XYc6EqxD6YteCZ/Tpw0+0DL6ZvvFUdNLDmlNBQ==;68NTHFvuvBb6am9Wc8MuUA=="
