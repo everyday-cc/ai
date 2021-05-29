@@ -2,20 +2,23 @@
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
 excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
-publishedDateTime: 2021-05-28T16:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
+publishedDateTime: 2021-05-28T16:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-1030476103"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-1030476103"
 type: article
-quality: 0
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
   - AI
 
 related:
@@ -34,6 +37,6 @@ related:
         height: 400
         isCached: true
 
-secured: "nFAF4cBAvPWb6TFTzlHMGnyApfRYc9QASDqFB93YTG77e5gg0+Fswvksh7DYkGr2pCllYJCVLdYFbToBjjMNygMF80UMH4Rqwrq0n7TfHo8jqFSjHid1wMMcFQyjMG9MaG6J9huHQvW7c06RIuvhfcotmnAJt8D5hqsILZwhOIICIGEz2E95ub7RQLWuGSnU2HRmDYS+7bHJ36PVj+udFsT9vW5BRN8bArSXjN1KQpCj750xAFI0Ad4a4mQmE+mylGPkIuRoVYaAKa3jfj1SecBOnlboS1UzOUozXm+rCcmDxoIATzqyUZgIoknTyE3JwHc9OP6fkKvvP8XVJiHVZ/0K8OPojrsDLuPMW39ooBw=;JCe1piYDo4o9xLyo6irc/g=="
+secured: "ZgIYwShNj7UNgEtaJfvqOU6yrCdiJ2AsGeyWfC8tm2L8cQPyZmtRHY+cAWyLNZqH9qOt0PB3K20HmwAn4c1Gyo0PSOZElhkMFks4ChUyqXNGXrJoyGfndn1aJyEaC+YzyTGfvv7cMJxn47kIeMdsDl1Rju9Z0Gvtc1KWDwtjGF7L+zDgVQ2sc+Ek1gl+fZVfu877TsIaFu6PGFptutZQRVIYe5Ybjlq9CwfPJ37mfybCP+NjZcNI05fd4zgAnn0L1OjD3maFJK5bdxQrOtUBT5HTowSbU9L8MmTjCj9t9hzftkrhB/NxmWFOX16rlJ6e8mLLvjcp21nproR4g7RhrKJXgygPFNticXbb0htcesw=;jKb9hIREzVNBn5Si0MARXQ=="
 ---
 

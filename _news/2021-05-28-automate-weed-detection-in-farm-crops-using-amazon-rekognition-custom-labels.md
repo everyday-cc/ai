@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-weed-detect
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 488
     isCached: true
-
-related:
-  - title: "Reaction GIFs Offer A New Key To Emotion Recognition In NLP"
-    excerpt: "New research out of China is offering a novel method for Natural Language Processing (NLP) to perform sentiment analysis on social media forums and language research datasets – by categorizing and labeling animated GIFs that are posted in response to text announcements."
-    publishedDateTime: 2021-05-24T09:19:00Z
-    webUrl: "https://www.unite.ai/reaction-gifs-offer-a-new-key-to-emotion-recognition-in-nlp/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2021/05/emotion_recognition_reactive_gif-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "f6hPY4OqCG3eY1rhM5bMVwDxGxkyrIpSouTlN9VohLDtvR0d0pHTzXZs6/R5wGPVhZ25HJ+gKcbDF4y+oLYZT5y5uh/TCErgsdXVvf2ciGoPyM9enuKhy7EiLPbM/URVOxQ9gf9Pr2IWsAOMAoxN0ue/g7WF/LV/8SVWk8XKtPh941lkOkErteBbrXiMgBDwhCBYKL9kAyO8pkbavfe2539f5FZN1S/p8S62hKz3E2qRBnhguoNLaCUMv3bQ0/9qEZX6VUe/s9+ikZdMbyJ4qsXWfNfRfjdQKtapOnE3g17v01xeEPFHAlSJo5orVA4I797qpSYqN5xG2ogHZEBf4fUuSrLcNpRPnN0YwHrQeT8=;PbSLY5PzlGu9WvAD1/zaeQ=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AI and data science specialists are in big demand"
-    excerpt: "Up to 10,000 jobs in AI and data science open each month, and the trend is only growing - but candidates often lack the right skills."
-    publishedDateTime: 2021-05-24T11:00:00Z
-    webUrl: "https://www.zdnet.com/video/ai-and-data-science-specialists-are-in-big-demand/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/05/21/1db8e864-c81a-4469-bc51-e26e0da17610/thumbnail/770x578/e92ae5e29d9fb07f756017f9f9d2bf40/ai-and-data-science-specialists-are-in-b-60a77b167503d44654241f02-1-may-21-2021-10-24-57-poster.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "+bAbNjEiTH8KQR/gixzyzEprXfjZljcNC693h1TT7C3NTBhk9rwBr2K+dTEhdHIKQYNwi8OsB+HeoGi7imvo8TBHE96m4zlR4T/Wkw8tIs+9jYVTuyUsMizE3CsvAxMo52k+lZSnwxmnRT/RzagnXFBmLdxyug5OAeIEyl1gZuG5o8AVKw4G/tUCVNiEB8mEDkPBAevwrEPmxo26LiOtPmi2Bu8Vr0btV80re0wKp6W1a8gbfqT0AJBm5LuBhXk6nVFMzKtOu4nR+X3Q4C+pBvRvxno9Qo5rftQR+XIGPZCyAfT+9nQG32gwudQmtGl6HniWO96C0fYz/Zngg4ug6Gn+N4ofsspzC8/S0T5fGV6Fr2cDMT1epEscPH9kwIOid92eIgLqF+OnsVv3c8QUO9pkI65QZsqfB43Felved7ZG2GnZg8TzxbaBpQ0Ayy5gjPyi44Xju9nl6U1AObmTc+CTyELiGGpGlcKgX7NqBQoBzep8NlVmzYIwiHLcrTG9jSRN0JfJaf2I0n1uL8UB3w==;0RvWM4/1kEF0fdXBmbaiQw=="
 ---

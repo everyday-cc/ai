@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/gi-ai-developer-docbot-nets-
 webUrl: "https://www.fiercebiotech.com/medtech/gi-ai-developer-docbot-nets-new-ceo-series-a-funding"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Docbot CEO highlights how AI can be applied to gastrointestinal image analysis"
-    excerpt: "Docbot CEO Andrew Ritter talked about how the predictive analytics business seeks to shake up how clinicians diagnose gastrointestinal disease by changing the way medical images are analyzed."
-    publishedDateTime: 2021-05-24T10:30:00Z
-    webUrl: "https://medcitynews.com/2021/05/docbot-ceo-highlights-how-ai-can-be-applied-to-gastrointestinal-image-analysis/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 33
-    images:
-      - url: "https://medcitynews.com/uploads/2021/03/GettyImages-1206796363.jpg"
-        width: 810
-        height: 431
-        isCached: true
   - title: "Docbot Raises $4M For AI Diagnosis Tools"
     excerpt: "Irvine-based Docbot, a startup developing artificial intelligenec tools for diagnosing gastrointestinal (GI) disease, has raised $4M in a Series A funding round, according to the company. The funding was led by Khosla Ventures,"
     publishedDateTime: 2021-05-25T13:04:00Z

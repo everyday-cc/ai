@@ -43,20 +43,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Investment, research driving AI growth in India, says study"
-    excerpt: "Higher investment and research is driving significant growth of Artificial Intelligence (AI) in India, finds a study."
-    publishedDateTime: 2021-05-24T09:26:00Z
-    webUrl: "https://www.sify.com/finance/investment-research-driving-ai-growth-in-india-says-study-news-topnews-vfyj05dejgdaj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/artificial_intelligence_uiepq9gafiaif.jpeg"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Top 10 Women Data Scientists in India in 2021"
     excerpt: "Data science opportunities are thriving in the field of AI in 2021. Women data scientists encourage women empowerment by joining reputed companies that enhance the female workforce. Here is the list of top women data scientists in India on LinkedIn."
     publishedDateTime: 2021-05-24T12:36:00Z

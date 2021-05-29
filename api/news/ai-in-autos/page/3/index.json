@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-10-autonomous-vehicles-market-size-to-surpass-us-55527-billion-by-2027.md",
+      "title": "Autonomous Vehicles Market Size to Surpass US$ 555.27 Billion by 2027",
+      "excerpt": "According to Report, the global autonomous vehicle market size is projected to surpass US$ 555.27 billion by 2027, with registering a CAGR of 39.20% from 2019 to 2027. The global autonomous vehicle market is valued at US$53.23 billion in 2019, and market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
+      "originalUrl": "https://www.reseller.co.nz/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-china-tech-giants-bet-us19bil-on-global-electric-car-frenzy.md",
       "title": "China tech giants bet US$19bil on global electric car frenzy",
       "excerpt": "SHANGHAI: China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost US$19 billion (RM78bil) into electric and self-driving vehicle ventures widely seen as the future of transport.",
@@ -1323,58 +1357,6 @@
         "name": "Seattle Times",
         "domain": "seattletimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
-      "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
-      "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
-      "publishedDateTime": "2021-05-04T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

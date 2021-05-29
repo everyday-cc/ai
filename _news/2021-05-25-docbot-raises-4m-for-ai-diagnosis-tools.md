@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Docbot CEO highlights how AI can be applied to gastrointestinal image analysis"
-    excerpt: "Docbot CEO Andrew Ritter talked about how the predictive analytics business seeks to shake up how clinicians diagnose gastrointestinal disease by changing the way medical images are analyzed."
-    publishedDateTime: 2021-05-24T10:30:00Z
-    webUrl: "https://medcitynews.com/2021/05/docbot-ceo-highlights-how-ai-can-be-applied-to-gastrointestinal-image-analysis/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 33
-    images:
-      - url: "https://medcitynews.com/uploads/2021/03/GettyImages-1206796363.jpg"
-        width: 810
-        height: 431
-        isCached: true
   - title: "Gastrointestinal AI developer Docbot nets new CEO, series A funding for clinical trials"
     excerpt: "Docbot aims to hit the ground running with a Series A cash infusion and a new CEO—and move forward with clinical trials of its real-time artificial intelligence programs for spotting potential cancers during colonoscopy."
     publishedDateTime: 2021-05-24T15:24:00Z

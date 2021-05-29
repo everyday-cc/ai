@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-ar
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Investment, research driving AI growth in India, says study"
-    excerpt: "Higher investment and research is driving significant growth of Artificial Intelligence (AI) in India, finds a study."
-    publishedDateTime: 2021-05-24T09:26:00Z
-    webUrl: "https://www.sify.com/finance/investment-research-driving-ai-growth-in-india-says-study-news-topnews-vfyj05dejgdaj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/artificial_intelligence_uiepq9gafiaif.jpeg"
-        width: 650
-        height: 366
         isCached: true
   - title: "Top 10 Women Data Scientists in India in 2021"
     excerpt: "Data science opportunities are thriving in the field of AI in 2021. Women data scientists encourage women empowerment by joining reputed companies that enhance the female workforce. Here is the list of top women data scientists in India on LinkedIn."

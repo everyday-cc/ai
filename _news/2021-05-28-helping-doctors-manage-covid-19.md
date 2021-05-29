@@ -101,20 +101,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "COVID-19 diagnosis by routine blood tests using machine learning"
-    excerpt: "Physicians taking care of patients with COVID-19 have described different changes in routine blood parameters. However, these changes hinder them from performing COVID-19 diagnoses. We constructed a machine learning model for COVID-19 diagnosis that was based and cross-validated on the routine blood tests of 5333 patients with various bacterial and viral infections,"
-    publishedDateTime: 2021-05-24T10:11:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-90265-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90265-9/MediaObjects/41598_2021_90265_Fig1_HTML.png"
-        width: 587
-        height: 685
-        isCached: true
   - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
     excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
     publishedDateTime: 2021-05-27T00:00:00Z
