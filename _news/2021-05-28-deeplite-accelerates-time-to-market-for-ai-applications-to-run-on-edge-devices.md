@@ -3,10 +3,10 @@ category: news
 title: "Deeplite accelerates time-to-market for AI applications to run on edge devices"
 excerpt: "In today's world of computer vision AI, there is a significant challenge of running AI models on the limited compute power of edge device chipsets, as they are typically too large, process heavy and consume significant power."
 publishedDateTime: 2021-05-28T01:54:00Z
-originalUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
-webUrl: "https://www.digitimes.com/news/a20210527PR201.html&chid=9"
+originalUrl: "https://www.digitimes.com/news/a20210527PR201.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20210527PR201.html?chid=9"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
@@ -17,12 +17,11 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://www.digitimes.com/NewsShow/20210527PR201_files/1_r.jpg"
+  - url: "https://www.digitimes.com/newsshow/20210527PR201_files/2_r.jpg"
     width: 336
-    height: 336
+    height: 224
     isCached: true
 
 related:
@@ -64,6 +63,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "b59/4KCWfp7U4QHcisFPewBGaDjUATHNG4414UhwlNoTSfgcAalvq/FSq2B61Bx1a1KauFb81mRt5l3OI+jiZZMim+uTs4VkNTS8et/4Hv3wdUE/e+XrQJ1OU1OAVi2K6IAc+iZtK+d6l4x53kZp4G1CS4kRNYLhYyDqMtIFwKqabbeXztSPHv66tmdeahemycSSVh+7MQzZiHT6c1MWiQOOsN84RhYSeoSL0GgXSr+JWiogvCqcuR4ZD/8mdVF7ymSsypVmbQ+/6QmQCdhpHNPx7scKCNNaYdVzXkOVXdS0TRuLx9VXqq9hYgO1t2qWeBxOO+/h1Vxh85XKhu6H5WHLk0NTEp8Rfses6JgvZMDhQ+L9T+sEPMsGnTVZyyxwA42yRHiRdDN9C5OwjtZH2S/zi8VmSa91DZxBb083flMDi0zvwQnptfYOzYI67outuDHm4kwqQi5Do0ciI1w2WH4UXTuvuD8ENtYU2ix5apqvmYOU0qP3ho044phGUbZ0OsYMnR2zCodVKG0UO7o3SQ==;BageAHEHxloWriTwmHTr4Q=="
+secured: "EOIr2Tuu1uHNkU5xHzlPoNhIfzrzKYM8PK9q91nwg8QSsuSK6xWWVvCa/ytqDNZpg1MB8NuGBjM7RMhbjydPzZq7X4FPHT2TPDIIWRCg9zOW9/txT4rTchhiHPhLXhrv8Ve13zOYlUjpQfgrzVk3Vr+PzU9Q/9Q82nD50CF1EpwUWsvSj58q7+L9B8Qxyy2RvajkUkoyGM8bKGq0QEoLZrnSXP6HVkmBigxKKmQnHXoNQLo/RWbpUHDWFklrV6mmzDNk56cQ2bFAa4HS3PgfHB2VqyFGIpyvTu+YtrvkLxm1+0P1/VKFykMYs2dlcX8p8IHsiohZ4TlspZi0rX0Dfjq9okrSLZqKo9ij2O2OTqI=;1ad5J4C/HIr9yTmm/x5NWg=="
 ---
 

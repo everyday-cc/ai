@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1199
     height: 674
     isCached: true
-
-related:
-  - title: "Computer vision is like investing in the internet in the ‘90s"
-    excerpt: "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision."
-    publishedDateTime: 2021-05-24T09:00:00Z
-    webUrl: "https://www.mauldineconomics.com/editorial/computer-vision-is-like-investing-in-the-internet-in-the-90s"
-    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/computer-vision-is-like-investing-in-the-internet-in-the-90s"
-    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/computer-vision-is-like-investing-in-the-internet-in-the-90s"
-    type: article
-    provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 59
-    images:
-      - url: "https://ggc-mauldin-images.s3.amazonaws.com/uploads/newsletters/FEATURE_20210520_RHRmauldin.jpg"
-        width: 725
-        height: 363
-        isCached: true
 
 secured: "IEgaslAO9/NEUaJbrcyskZ8FUyxAE9ej/p/2ldlPH9AAdMf00LV1hbZEzLiZankvCO8b3Hnd8ej48dlnyqD67Eg2IcN1zQk43jY0zCkuhX6Qz5upQBjLT3rIMR2l2O+AeIDd8KQVsN/T/l3KAuW1WnNmizrpU8svcwIbl7D6G5w5XN/zoGbjzj359zIWvK3Jrqmj6/F3e5vOcfQRdO6PCAJuSt+OGxP69HZLWCbJWff2J3+rrusXU3C81fXUXLfzEd55D7FivVP+M3+t1pN5pSgQgzA56TNSMUYgVEd+H+ARZAkqyyGv2ME8vXcGT0zA+2d4VO28tQh4jtcGBsDdhdyI+qiIiS0z3RmaJvp9WGX66BNJnjolpyVN5nloQxaHta7WMYLnEcBKkMS+Hxb/MYQuiLPquCaFRsJpUWaFd5EdwTZGwS004EMgkavr5PUpJcb7uOu3EBN66xYTKwAMckU7XoBag3sRRHyszMoJzVs+pGfbs36HAZrrla3YpCqSkJq8sfti4yPA5pZAl71MfQ==;tlIQ0WbJo2F+Gl79zWwE1A=="
 ---

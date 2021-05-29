@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90265-9/MediaObjects/41598_2021_90265_Fig1_HTML.png"
         width: 587
         height: 685
-        isCached: true
-  - title: "Interview: how AI and IoT enable businesses to adapt to a post-Covid-19 world"
-    excerpt: "The pandemic has accelerated the transformation led by AI-based building solutions and IoT-enabled remote services."
-    publishedDateTime: 2021-05-24T07:08:00Z
-    webUrl: "https://business-reporter.co.uk/2021/05/24/interview-how-ai-and-iot-enable-businesses-to-adapt-to-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 34
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/EcoEnergy-Virtual-Diagram-W-1200-x-H-675-pix-01-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Helping doctors manage COVID-19"
     excerpt: "New tool uses AI technology to assess the severity of lung infections and inform treatment Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy."

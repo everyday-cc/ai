@@ -44,22 +44,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "3 ways artificial intelligence will drive a new frontier in cybersecurity"
-    excerpt: "Advancements in artificial intelligence technologies, processing capabilities, and data availability are enabling computer systems to perform security tasks"
-    publishedDateTime: 2021-05-24T08:53:00Z
-    webUrl: "https://www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/"
-    ampWebUrl: "https://www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 56
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/cyborg-3728014_640-1.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "AI Runs Into Skepticism From Cybersecurity Experts"
     excerpt: "How effectively AI can be applied to cybersecurity was debated at a recent industry conference, with one supplier proposing an AI assessment tool."
     publishedDateTime: 2021-05-27T21:21:00Z

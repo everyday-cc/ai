@@ -1,29 +1,29 @@
 ---
 category: news
-title: "GM developing self-driving, electric rover for the moon"
-excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
-publishedDateTime: 2021-05-27T02:09:00Z
-originalUrl: "https://www.11alive.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-webUrl: "https://www.11alive.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
+publishedDateTime: 2021-05-29T00:30:00Z
+originalUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
+webUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
+ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.11alive.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/12/31252ce4-edc7-528d-a87f-11b7dad4201f/60aea53ec72e1.image.jpg?resize=1024%2C576"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -70,21 +70,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
-  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
-    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
-    publishedDateTime: 2021-05-29T00:30:00Z
-    webUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
-    ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+  - title: "GM developing self-driving, electric rover for the moon"
+    excerpt: "The goal is to design light yet rugged vehicles that will travel farther and faster than the lunar rovers that carried NASA’s Apollo astronauts."
+    publishedDateTime: 2021-05-27T02:09:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gm-moon-rover/507-0e71d04a-8f14-4da3-9d1a-17b22cd22570"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/12/31252ce4-edc7-528d-a87f-11b7dad4201f/60aea53ec72e1.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
+      - url: "https://media.11alive.com/assets/CCT/images/57a2979e-e17a-452b-920a-00d696b0d186/57a2979e-e17a-452b-920a-00d696b0d186_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "General Motors Is Working on a Self-Driving Electric Car for Moon Astronauts"
     excerpt: "Lockheed Martin and General Motors are partnering to build an electric car meant to allow astronauts to travel across the surface of the Moon. According to an official statement, the two juggernaut companies are hoping to “design the next generation of lunar rovers,"
@@ -117,6 +117,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "AN0IA+US2cDwB5SRIS2DWU9Fr+2HgzXenEPDKnL9Y1thr1Kauz0y58tCex3m1VozQbdd2HM+jkQWcTbA6FDRbeAz7RrkkQ0vbwbFPHyPbAR9+L/uDfMzrXOKiSMmiuxnV2aV+UKqhszrHboC+/9DCLhHs5wbSMUStIv+h6SaV3tMtYz173e+f+Xz8nU8C4ghXcGWgJHykofzeU8+MYM/l+R/Vb+nEXlsUpamRge5tCtiTgt8SFo01M725auRPqLJ/EzcacCzKYXbxRhVvf9SJGX6jX4Ftn3kEAy39Pp1vCg1OtbhVMWmnBtiQdoX1obYMWW1/bVIZ5jrBxM8iHoR5hJ5b+aXG8nMQgVoJ5dp0/0=;DFIWwlJxuFc/XEgAqDyn4A=="
+secured: "XXd5z/TvkfuNnu9+FCal6AUUP3VZHDpaHnM63SOUq9xRy1OM87KJ/FNdcugCNPnPYuYjPEbFi4n7wUOcpj1hCrxG7TtBx/8Juj0WdS2ZbYCfd4AidIgzQVGYNK/V6AbxtM4zmrb7p7hbJeAjg1dvJQCLhBlJbwCzLZtPcPuV/pt3VIAJzM3IVzWTKVQlhHVSa26UEl0xXv9OJVA1lVJ5KGvCzJExkAUlywWKIissxqpx5LZIDLt3+X1hwzb60ef3CJaiJsClUj1QaMzHGqdetXKcwInt3yQ/lIvtEOQ+zxkZl0pr7uREGWLaUKq2smz/OZS6Hk+xfCC6JerkGoH4R//mUKOqFhw6Tw7EsmQU/u4=;YyNRx98PyTXroLcQUEMARg=="
 ---
 

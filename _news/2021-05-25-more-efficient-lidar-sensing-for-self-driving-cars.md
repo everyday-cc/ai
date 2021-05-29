@@ -45,22 +45,6 @@ related:
         isCached: true
   - title: "The Costly Pursuit of Self-Driving Cars Continues On. And On. And On."
     excerpt: "Many in Silicon Valley promised that self-driving cars would be a common sight by 2021. Now the industry is resetting expectations and settling in for years of more work."
-    publishedDateTime: 2021-05-24T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/24/technology/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/24/technology/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/24/technology/the-costly-pursuit-of-self-driving-cars-continues-on-and-on-and-on.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/22/business/22driverless/22driverless-facebookJumbo.png"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "The Costly Pursuit of Self-Driving Cars Continues On. And On. And On."
-    excerpt: "Many in Silicon Valley promised that self-driving cars would be a common sight by 2021. Now the industry is resetting expectations and settling in for years of more work."
     publishedDateTime: 2021-05-24T18:21:00Z
     webUrl: "https://www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.html"
     ampWebUrl: "https://www.nytimes.com/2021/05/24/technology/self-driving-cars-wait.amp.html"

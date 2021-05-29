@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-inte
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways artificial intelligence will drive a new frontier in cybersecurity"
-    excerpt: "Advancements in artificial intelligence technologies, processing capabilities, and data availability are enabling computer systems to perform security tasks"
-    publishedDateTime: 2021-05-24T08:53:00Z
-    webUrl: "https://www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/"
-    ampWebUrl: "https://www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/3-ways-artificial-intelligence-will-drive-new-frontier-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 56
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/cyborg-3728014_640-1.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "RSA Conference Startup Competition Showcases Next Gen Cybersecurity"
     excerpt: "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world."
     publishedDateTime: 2021-05-26T23:29:00Z

@@ -86,6 +86,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "GM's newest vehicle: Off-road, self-driving rover for moon"
+    excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
+    publishedDateTime: 2021-05-29T00:30:00Z
+    webUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.html"
+    ampWebUrl: "https://tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/science/gms-newest-vehicle-off-road-self-driving-rover-for-moon/article_885a3ac1-5ede-5d15-a77e-8c39eb055147.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/12/31252ce4-edc7-528d-a87f-11b7dad4201f/60aea53ec72e1.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "GM’s Newest Vehicle: Off-Road, Self-Driving Rover for Moon"
     excerpt: "General Motors is teaming up with Lockheed Martin to produce the ultimate off-road, self-driving, electric vehicles — for the moon."
     publishedDateTime: 2021-05-27T18:25:00Z

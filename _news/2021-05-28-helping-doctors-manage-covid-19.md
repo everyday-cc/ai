@@ -115,20 +115,6 @@ related:
         width: 587
         height: 685
         isCached: true
-  - title: "Interview: how AI and IoT enable businesses to adapt to a post-Covid-19 world"
-    excerpt: "The pandemic has accelerated the transformation led by AI-based building solutions and IoT-enabled remote services."
-    publishedDateTime: 2021-05-24T07:08:00Z
-    webUrl: "https://business-reporter.co.uk/2021/05/24/interview-how-ai-and-iot-enable-businesses-to-adapt-to-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 34
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/EcoEnergy-Virtual-Diagram-W-1200-x-H-675-pix-01-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
     excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
     publishedDateTime: 2021-05-27T00:00:00Z

@@ -1,27 +1,22 @@
 ---
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
-excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual"
-publishedDateTime: 2021-05-28T16:23:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-301301793.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit-301301793.html"
+excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
+publishedDateTime: 2021-05-28T16:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
 type: article
-quality: 12
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
 
 related:
   - title: "LG Electronics And Sense Announce Collaboration On AI-Driven Home Solar And Usage Monitoring"
@@ -39,6 +34,6 @@ related:
         height: 400
         isCached: true
 
-secured: "AsDeYGmzHnNAME0/D5PpsMsfTyqyOvt/8yrSuHNZpPMJP9+zLyJUnP2lhEtdQJ14ty777sh3c4PCNnh1fjb4YYyOQOcQcEPEmVf7xOKUWxFlKBlnjMD1G8pFauCiCkhhr7hjrjNP5WgYDaXwYdCmNl6H5fpg3ydY/p5Fol2RL1qpSIfMBNTLLIErIQPwgDnOEKRTDjJV7lrSGO50ldE9SyMhSQhm8om9MJoncWcahjRwfN929H3KyORcuyy2dIomSXu7XvGXaeNSbpMrPCgzzUYZcyN+gR1zVS1A3rTQsHYI88AUBaXFf3xWuzjMDxKTAlNrHxpZpArnq+Uu7iaTZMGe0wlyWkJsRX5iA+OoAE8=;1X4Uad9ftnuTPc7eOs4ZfQ=="
+secured: "nFAF4cBAvPWb6TFTzlHMGnyApfRYc9QASDqFB93YTG77e5gg0+Fswvksh7DYkGr2pCllYJCVLdYFbToBjjMNygMF80UMH4Rqwrq0n7TfHo8jqFSjHid1wMMcFQyjMG9MaG6J9huHQvW7c06RIuvhfcotmnAJt8D5hqsILZwhOIICIGEz2E95ub7RQLWuGSnU2HRmDYS+7bHJ36PVj+udFsT9vW5BRN8bArSXjN1KQpCj750xAFI0Ad4a4mQmE+mylGPkIuRoVYaAKa3jfj1SecBOnlboS1UzOUozXm+rCcmDxoIATzqyUZgIoknTyE3JwHc9OP6fkKvvP8XVJiHVZ/0K8OPojrsDLuPMW39ooBw=;JCe1piYDo4o9xLyo6irc/g=="
 ---
 
