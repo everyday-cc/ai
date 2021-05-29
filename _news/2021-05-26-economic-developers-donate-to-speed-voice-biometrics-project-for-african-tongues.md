@@ -39,20 +39,6 @@ related:
         width: 685
         height: 385
         isCached: true
-  - title: "Geisinger uses biometric facial recognition to check-in patients, improve workflow"
-    excerpt: "Geisinger Health System is using a biometric technology to check in patients with just a photo of their face. Matt Henry, associate director on the health information technology team and program owner of the biometrics project,"
-    publishedDateTime: 2021-05-24T17:32:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/geisinger-uses-biometric-facial-recognition-check-patients-improve-workflow"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 33
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/biometrics_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "aZksgCZ3RwuO8EuGDL6LCZ34qinM7E7W+5Vay8JZUrJIVoLwdXpok/r6K1r2s021x4+qnTjQ+hOqqLUUkdvRL8r6WxYroJU4OD4aK2G/61ZxLbnEmoWLTpDsA6Z5iB41AJwl5wtHrB2Kzw5qls0ghDOYGOVLlLRMG7KsVFDnxLT0F+UJt4zdJl2se7kdP9OSyWcmvvP0LaTToC2QUCQFB3moN/ASJ6QKbbHxOh7MUVapoRW/LT9gkvIYcurdhMEG+66syvlscF9Nv87FO16NAciXX4QypfPFKZ6xSzrFCScPgMYS8jabSEKaekEQTDBK6NJNN2y6eD73GzuHKt9fI2OrPFjJPle22tXZvLugZA0SAzPaJEzVu77HuVQJC7bUiXh1AEl8WvZaJma8EPwPDXDGys2FuWzil2FhSdKuv+KTFpD7j/F6+KPFy+IO5e5F6uQZ8+nS1E0JO0UsDkdoAFCLJsYpQjFJviU58DvQoMCSkIiE/W3ESE5f8ZZCckRDQVpszylbD6zQIxHVbNG2XA==;4hm2VTlMqWgZK+7qi2br/w=="
 ---

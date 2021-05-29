@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Updates Website To Reflect Removal Of Radar In Self-Driving Suite"
-    excerpt: "CEO Elon Musk recently said the company will be eliminating radar from its self driving hardware. Going forward, Tesla vehicles will be"
-    publishedDateTime: 2021-05-24T18:58:00Z
-    webUrl: "https://www.benzinga.com/tech/21/05/21260784/tesla-updates-website-to-reflect-removal-of-radar-in-self-driving-suite"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21260784"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21260784"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_8.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Items tagged with tesla vision"
     excerpt: "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles."
     publishedDateTime: 2021-05-26T14:32:00Z

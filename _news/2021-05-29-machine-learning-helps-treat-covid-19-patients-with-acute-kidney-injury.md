@@ -1,33 +1,24 @@
 ---
 category: news
-title: "Natural Language Processing Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-publishedDateTime: 2021-05-25T13:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
+excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
+publishedDateTime: 2021-05-29T11:20:00Z
+originalUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+webUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
 type: article
-quality: 67
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medindia
+  domain: medindia.net
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
-  - AI in Sales
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "How AI and machine learning help fight the COVID-19 battle"
@@ -50,6 +41,20 @@ related:
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-05-25T12:56:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
+    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-05-25T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
     type: article
     provider:
       name: MarketWatch
@@ -170,17 +175,6 @@ related:
         width: 685
         height: 431
         isCached: true
-  - title: "Machine-learning Helps Treat COVID-19 Patients With Acute Kidney Injury"
-    excerpt: "Researchers designed machine-learning techniques to help healthcare professionals in predicting treatment for COVID-19 patients with kidney problems."
-    publishedDateTime: 2021-05-29T11:20:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-treat-covid-19-patients-with-acute-kidney-injury-201453-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 24
   - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
     excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
     publishedDateTime: 2021-05-27T00:00:00Z
@@ -196,6 +190,6 @@ related:
         height: 388
         isCached: true
 
-secured: "DE9EKFg9EroiHK2mXiv8XAU1Gn6Dj2VE8fAk29tDVyXukaYzrGZwkHpbj1W94ccnbjts+28dj3H9oTCP5P5rNWCjS4cisgEd9BJjEGpZGw3vut9J01DIl1NPOvBJJkvyHFS6kL9IwDn2LuskqO2ymwTDwi85/vNo8iAGwFEU74aspE3Gl1pzwZJjX9h1GN19sabUv/ondRN9ZxDtJD5cnbAXivv29ASUXTlIglRDkdkyssLm2GP5QPi7ltHAO4CDngM1FGGyECiSprmN8aYmJNmzCXsf0pfNkcEMMXYkN10ZzPE7EE8dkeJZYUbpDpxYdXH7+PCQjZGUQ19WGkoOTRJ+4cqQCA74N4LXqzj8Y10=;HS8N65FWLGeVSQBkKCXnZQ=="
+secured: "BUB+3KGWQiGpFx46KhNKwC/OKZ9+7eYDQRihwymS8pzH625aiKTPMLtSudaFSjLT1WvBjcgPCJ4/EOmir9hPzPzBA3Aa0Mdhoj/5YcYi+NjnyJSZ5HlrDip8g6pNpIsmmZSKPwnAJ0QYL2WIab5Aj7w2zUYZO8x0+iMLXHtEKwYpfLLA4lrGKdfx9dW3cCSTNaMRpQMH8SGCvpLa2jWcACUdtgfwOhF5QzPfIsYkTfIZXsjY3Td0z+V5ZjCHbtfRhI2nDCZRVAISgcZeAL6Nu68t5pfV1UdVaDCxxMogrnHroFjWIy5NzvkEE3S2AtzKqV1sv8wnbMcUBjG+M+h/RsVubIhxgXcbc19yz1X/Hgs=;oTyzo1tMM103UQPgXPa+pA=="
 ---
 

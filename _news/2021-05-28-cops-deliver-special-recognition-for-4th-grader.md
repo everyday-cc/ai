@@ -2,17 +2,17 @@
 category: news
 title: "Cops deliver special recognition for 4th grader"
 excerpt: "His teachers wanted to do something special for him in honor of a well-earned academic achievement. Rafael wants to be an officer one day, so the Madera Police Department made a visit delivering a special bag of goodies."
-publishedDateTime: 2021-05-27T20:40:00Z
-originalUrl: "https://abc11.com/localish/cops-deliver-special-recognition-for-4th-grader/10594886/"
-webUrl: "https://abc11.com/localish/cops-deliver-special-recognition-for-4th-grader/10594886/"
+publishedDateTime: 2021-05-28T01:40:00Z
+originalUrl: "https://abc7chicago.com/madera-ca-4th-grader-police-motorcycle-cops/10594886/"
+webUrl: "https://abc7chicago.com/madera-ca-4th-grader-police-motorcycle-cops/10594886/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WTVD
-  domain: abc11.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - Natural Language Processing
@@ -40,6 +40,6 @@ related:
         height: 432
         isCached: true
 
-secured: "C7s0YPfEpZOjZP54QPeZYe1eUD1AFHRmwqyi44Yw7q8XakeGucNo5QMcWMOEprr7PtYkB3l+UoS8DZNDyLeHe884RakusbbccBZWx56FEfCOruFTSaBKRvLhk1E6ugsQG6G8JoB7WYyUbXAz4RXuf6JEfIGcf0aNogIJXRTKaacYah2TSCdWliMuTm6UDMqz9J8nVEqo2NTKaGWMjjq9fsVHaQQoaif7JDj7mMyfM2ksK4Zl4jdVkvpI2lZw/ALAIffwILc2LRgQX4cW0b9n4p+ArLGraI41yanmtpr/iSXPFsnly3uqa+dl/s9Xe1nzJeYWld/fqGwnoO/qdhu/FsSkdNq0ABlOlM5oPEmjEodk+GNaVoaSsrAF4xZzbz8urOFoECIveThksFi9hpmsVOKLKyjicWNmnoLcYC0tHOxubTjSVnha6dX4KY7Z7tnMz12z+M3DgxPjU6ggfop48avQRhFC07SHqA2rMgq1XXAtydY7YvvZCa8GQWLjQUiRJJdqlX1WGEuSXhBMVX5VSw==;gRZJiAt3hGXWkdfWdLYVaA=="
+secured: "kLKY9rmiDW9iIH+6MN7Xu/w8LbILmtxNL52wXHMGmPZCw2zsLwhqwHGssw05QaTEQHM/Vsx62pNob6UM9cCUqNLN2NxilcjL4e6wZZyw6TX5NBhhm++WqBnXpqPG6OkyjljoDoshyQcR2X8g3YwF/HcfMY8kKRBzlRJMB/L6dU8NFnp+YokXCAxD5c/uFYsNVAjsTpcyFd9BacZM52XylX1TUKwl9kYk2NZx/EVSW9YZPMbapooQbpBvBXb4bSdh2GuNtRNkMACzTwDhViIv+QNEF3Po/Q1EFsnvs+PDopajiUqlJCu4dlqNz/VC7uJhVlcScrXOpTwqNcxfoA99YD3nwALKkYaOCd3VYps5EW4=;xHWNh9jUF3aqOvQDa3Op1w=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes.co.uk/article/facial-recognition-and-biometri
 webUrl: "https://www.thetimes.co.uk/article/facial-recognition-and-biometric-technology-to-end-airport-passport-queues-8x6gtkxw7"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Times
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geisinger uses biometric facial recognition to check-in patients, improve workflow"
-    excerpt: "Geisinger Health System is using a biometric technology to check in patients with just a photo of their face. Matt Henry, associate director on the health information technology team and program owner of the biometrics project,"
-    publishedDateTime: 2021-05-24T17:32:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/geisinger-uses-biometric-facial-recognition-check-patients-improve-workflow"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 33
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/biometrics_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Economic developers donate to speed voice biometrics project for African tongues"
     excerpt: "Bill Gates philanthropic foundation is making an investment in efforts by Mozilla to expand the languages understood by speech and voice recognition apps."
     publishedDateTime: 2021-05-26T15:10:00Z

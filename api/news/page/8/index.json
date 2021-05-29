@@ -469,49 +469,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
-      "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
-      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpbs.org/news/2021/may/20/a-sense-of-touch-boosts-speed-accuracy-of-mind/",
-      "originalUrl": "https://www.kpbs.org/news/2021/may/20/a-sense-of-touch-boosts-speed-accuracy-of-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kpbs.media.clients.ellingtoncms.com/assets/img/2021/05/20/ncopelandap_16287736148815_wide-e8361f8e7a448f75234b05e079ea4a88834a97a9.jpg",
-          "width": 3746,
-          "height": 2107,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPBS",
-        "domain": "kpbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-overwatch-2-monte-carlo-map-has-a-flying-ai-driven-f1-car-for-a-payload.md",
       "title": "Overwatch 2: Monte Carlo Map Has A Flying, AI-Driven F1 Car For A Payload",
       "excerpt": "Among the updates Blizzard revealed for Overwatch 2 in today’s gameplay livestream was a map that hadn’t been discussed much until now. The sequel will take players to Monte Carlo, which includes a ton of references to the famous F1 Monaco Grand Prix.",
@@ -746,6 +703,49 @@
       "provider": {
         "name": "Houston Public Media",
         "domain": "houstonpublicmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
+      "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
+      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to the man's brain as he uses his thoughts to control the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcrw.com/news/shows/npr/npr-story/998725924",
+      "originalUrl": "https://www.kcrw.com/news/shows/npr/npr-story/998725924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/05/20/ncopelandap_16287736148815_wide-e8361f8e7a448f75234b05e079ea4a88834a97a9.jpg",
+          "width": 3746,
+          "height": 2107,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCRW",
+        "domain": "kcrw.com",
         "images": null,
         "publishers": null,
         "authors": null

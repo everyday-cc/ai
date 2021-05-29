@@ -7,7 +7,7 @@ originalUrl: "https://www.realcleardefense.com/articles/2021/05/25/artificial_in
 webUrl: "https://www.realcleardefense.com/articles/2021/05/25/artificial_intelligence_and_autonomy_in_russia_778579.html#!"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "A warning to DoD: Russia advances quicker than expected on AI, battlefield tech"
-    excerpt: "A new report written for the Pentagon warns of more technologically advanced Russian force that's focused on winning information advantage over the United States."
-    publishedDateTime: 2021-05-24T18:43:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/05/24/a-warning-to-dod-russia-advances-quicker-than-expected-on-ai-battlefield-tech/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 35
-    images:
-      - url: "https://www.armytimes.com/resizer/50cKkI-h56CsIkoM65q7J7Fl6bk=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/XCNUTPI7ZFAO7OK4ICXENPKE2Y.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7ES3fGDVmZvtrvjf8DxLUXHqEOXFMwTQq2vWbZ/8Bx8Av0523x9kflyYzVV5JukHP5FCZCvJekRX5ciUH9SPcJUThEgZ2H6H8kH44jD5rEGgI5cLeHqDaTg0+xKKT3hb5xMlYd3S9ka3aCL3PYshJlpJhWpI/72Laj4+Q39gjlkXZAxpHLSSsX7yPENjeJTKLoQ3PewDzc6msVzXROaFWafyvjl7t9krWhu2RTaeoPMZy9Ay/RMiAn4Mne9ffSbT6W44Z0n6BcFy/KYdcI04iMfIGcvSBvw2YnAVp3Zwqcjea9bIei5n4P+5Pyj7kjpfjY8W2a7tH3ATlvKh9fHPTahkf3WhO4R6IgmWWJ5xiAo=;agrYIcXOCBHPx8CNmbmAzA=="
 ---
