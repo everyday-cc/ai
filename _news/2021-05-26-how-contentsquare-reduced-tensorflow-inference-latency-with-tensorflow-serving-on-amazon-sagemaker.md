@@ -96,20 +96,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
-  - title: "How TensorFlow Lite Fits In The TinyML Ecosystem"
-    excerpt: "TensorFlow Lite has emerged as a popular platform for running machine learning models on the edge. A microcontroller is a tiny low-cost device to perform the specific tasks of embedded systems. In a workshop held as part of Google I/O, TensorFlow founding ..."
-    publishedDateTime: 2021-05-24T13:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-tensorflow-lite-fits-in-the-tinyml-ecosystem/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/tensorflow-lite-1024x576.gif"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "xTU/sNI/eKj3eZpfrw5EPlfqn0+nIGyS37wczSGMuZj8FRyH2FxcrL6efEpOsR09wtt+AXqIdQnc523yR2P3ctI25qzIEkszYUXiVRI1ksWBtAUAd9zBow90Z1ITTqwY9VY+2ZLIVzbyaxiumER1Zh61XTZxn/2a/3sQxnXB/8Ueh2GU/hNdPSNojs9xf3cFGsF8WqNYX1lLEHYm5mX5AohEVhvROJjO7ZOqVD6O93mQVT91sr3ohY9kbNcXUhaif+m5AOZsQfpsK1eY5Ym97CFKrWlDFlaBROjLVRYD4DDgN0UqlAKAB8P9zt6c8Uv709HAJ9vFKi5/Q0Pz0xnMwQhUb0ur+/IPBD10BPdma5U=;tHJ+MRd+mabzukwvDGAkJw=="
 ---

@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-26-squirro-launches-the-app-studio-a-no-codelow-code-platform-to-build-ai-powered-applications.md",
+      "title": "Squirro launches the App Studio - a no code/low code platform to build AI-powered applications",
+      "excerpt": "Launch will take place at upcoming App Building Day, an expert-led training session, where attendees will learn how to build a Cognitive Search app in just a few steps Zürich, 26 May 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://squirro.com/",
+      "originalUrl": "https://pressreleases.responsesource.com/news/101312/squirro-launches-the-app-studio-a-no-code-low/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://squirro.com/wp-content/uploads/2020/07/M_GenericWorld-01.png",
+          "width": 3130,
+          "height": 1646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "responsesource.com",
+        "domain": "responsesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027.md",
+      "title": "Artificial Intelligence (AI) In Retail Market Size to Record 29.7% CAGR Through 2027",
+      "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution, Services), by Function, by Technology and Regional Forecasts 2020-2027',",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027-2021-05-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027-2021-05-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-tesla-aspires-to-become-a-robotics-firm-in-artificial-intelligence.md",
       "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
       "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
@@ -185,7 +278,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-multiple-tensorflow-computer-vision-models-using-amazon-sagemaker-multi-model-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -687,49 +780,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-25-aera-technology-to-integrate-microsoft-azure-digital-twins-with-aeras-cognitive-operating-system.md",
-      "title": "Aera Technology to Integrate Microsoft Azure Digital Twins With Aera's Cognitive Operating System™",
-      "excerpt": "Aera Technology today announced a collaboration with Microsoft to integrate Microsoft Azure Digital Twins with Aera's Cognitive Operating System. Azure Digital Twins is the platform that enables the creation of next-generation connected IoT solutions that model the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aera-technology-to-integrate-microsoft-azure-digital-twins-with-aera-s-cognitive-operating-system-1030463317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-25-ai-powered-financial-research-platform-sentieo-nabs-20m.md",
       "title": "AI-powered financial research platform Sentieo nabs $20M",
       "excerpt": "Sentieo, which offers AI-powered financial investment research tools, raised $20 million in a venture funding round.",
@@ -1182,57 +1232,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge.md",
-      "title": "AnyClip Gets $47 Million For Recruiting AI To Manage The Video Deluge",
-      "excerpt": "Visual intelligence company AnyClip raised $47 million to help businesses manage their video assets and consumers to find the video clips they need",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60abd1ce0a130948a5b5b642%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/25/anyclip-gets-47-million-for-recruiting-ai-to-manage-the-video-deluge/amp/",
-      "publishedDateTime": "2021-05-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

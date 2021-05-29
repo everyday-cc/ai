@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-ar
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -42,6 +42,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Behind SUPACE: The AI Portal Of The Supreme Court of India"
+    excerpt: "The Supreme Court of India launched its first Artificial Intelligence portal SUPACE (Supreme Court Portal for Assistance in Courts Efficiency) last month. The idea is to leverage machine learning to deal with huge chunks of case data."
+    publishedDateTime: 2021-05-29T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/behind-supace-the-ai-portal-of-the-supreme-court-of-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-illustration.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "DVA+OVPVthEFpTR5HsBxfM/yuRVUqiRBL2q3sylur7z+UI1lVJFb2X4YgRxKRMrAGr3gxKZyDmWkhdRqizQRTCJmIK3zeCqfej+XfMpr1n9ok91yBhiifDSdwFUddHrp3ZTPDOumpZbAhYNV2em2QjV49SRBKS+5bqjeUJrVNDUPu5jrNhcNvqYpngXvT2y2cBeSjSbjvHrJ2Pdd0cYVqrS3A2+yeECz9eLqOBoYC3GpGXxD3ny32UApHBKdHs6rjsABaQo2LJL2sGVN0r6bhCLkoSe7Kn04oDDZl4FwXi9YrOqpeKFCwYs5ZRLf5/974mZJq383XnHm2/qdVkkVLWCpvsaSzgSbLqw47uzdzIAka0kWRfbFn8EqiQpgDwZfqrAmLl8Y65+YpikfQFnfFgYtzcmMZV5DOIEy+2MfKwm1xLODsEnQc40uo+hpRO868LTXQspJBvej/r2WcDVM88hamfPcrCHtlR+6GgIkd6y6c3Un6Q/XHRX276IN7d9QJRTmEWnVP0Ifj8y16Jo18g==;ni74Qp9cSBYjnVoPmHWtSA=="

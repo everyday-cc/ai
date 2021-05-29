@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-28-telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.md",
+      "title": "Telcos back Artificial Intelligence, Internet of Things for 5G in India",
+      "excerpt": "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, ..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-83032108,imgsize-30418,width-800,height-434,overlay-ettelecom/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "publishedDateTime": "2021-05-28T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-new-partnership-expands-healthcare-access-for-80000-baltimore-city-students-and-families.md",
       "title": "New Partnership Expands Healthcare Access For 80,000 Baltimore City Students And Families",
       "excerpt": "When schools shut down suddenly due to Covid-19, students lost more than classrooms. Many also lost access to healthcare. Digital health companies are helping close those gaps.",
@@ -673,22 +716,31 @@
       "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
       "excerpt": "Heru Inc., the developer of wearable AI-powered vision diagnostics and augmentation software, closed its Series A financing of $30 million to advance the company's eye diagnostic and vision correction technology platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-heru-series-funding-accelerates-cloud-artificial-intelligence-enabled-/2021/05/20/9374335.htm",
+      "webUrl": "https://www.lelezard.com/en/news-19817130.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19817130.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T06:05:00-07:00",
+      "publishedDateTime": "2021-05-20T06:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -698,8 +750,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1334,49 +1387,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-helps-predict-treatment-outcomes-for-patients-with-diseased-dental-implants.md",
-      "title": "AI helps predict treatment outcomes for patients with diseased dental implants",
-      "excerpt": "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dentalimplant.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
-      "publishedDateTime": "2021-05-12T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

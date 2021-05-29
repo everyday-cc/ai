@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -74,6 +74,38 @@ related:
       - url: "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg"
         width: 777
         height: 489
+        isCached: true
+  - title: "New AI tool to help doctors assess severity of COVID in patients"
+    excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
+    publishedDateTime: 2021-05-29T07:56:00Z
+    webUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+    type: article
+    provider:
+      name: Madhyamam
+      domain: madhyamam.com
+    quality: 59
+    images:
+      - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
+        width: 600
+        height: 298
+        isCached: true
+  - title: "Researchers develop Novel AI tool to help assess Covid severity"
+    excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
+    publishedDateTime: 2021-05-29T07:46:00Z
+    webUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+    ampWebUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 59
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/05/BL21ARTIFICIAL.jpg"
+        width: 1200
+        height: 749
         isCached: true
   - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
     excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"

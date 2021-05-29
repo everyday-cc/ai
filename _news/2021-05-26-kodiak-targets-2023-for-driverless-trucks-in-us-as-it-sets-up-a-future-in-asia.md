@@ -25,61 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese startup Pony.ai gets the nod to start testing its driverless vehicles in California"
-    excerpt: "The US state of California has granted permission to Chinese firm Pony.ai to carry out a pilot run of its driverless vehicles in three cities in the state. Six Pony’s autonomous vehicles will be allowed without a safety driver at the wheels in Fremont,"
-    publishedDateTime: 2021-05-24T14:21:00Z
-    webUrl: "https://www.gizmochina.com/2021/05/24/chinese-startup-pony-ai-nod-start-testing-driverless-vehicles-california/"
+  - title: "SK partnership brings Kodiak Robotics’ autonomous technology to Asia"
+    excerpt: "Kodiak Robotics strikes a partnership with South Korea’s SK conglomerate to move its autonomous trucking software to Asia."
+    publishedDateTime: 2021-05-26T12:00:00Z
+    webUrl: "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia"
+    ampWebUrl: "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
+      name: freightwaves.com
+      domain: freightwaves.com
     quality: 74
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
-        width: 731
-        height: 393
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/05/052621-Kodiak-SK.jpg"
+        width: 595
+        height: 373
         isCached: true
-  - title: "From driverless cars to robotic warehouses, China looks to automation to get ahead of labor shortage"
-    excerpt: "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues."
-    publishedDateTime: 2021-05-25T03:31:00Z
-    webUrl: "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
+  - title: "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia"
+    excerpt: "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the"
+    publishedDateTime: 2021-05-26T14:53:00Z
+    webUrl: "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/"
+    ampWebUrl: "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127"
-        width: 4032
-        height: 3024
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/Kodiak-Truck-Sunset.jpg?w=1024"
+        width: 1024
+        height: 559
         isCached: true
-  - title: "Robotaxi Company Pony.ai Gets Permits To Test Vehicles In Irvine"
-    excerpt: "Pony.ai, a Chinese company developing driverless \"robo-taxi\" vehicles, has gained permission from the California Department of Motor Vehicles (DMV) to test its vehicles on public roads in Irvine, along with Fremont and Milpitas."
-    publishedDateTime: 2021-05-24T13:52:00Z
-    webUrl: "https://www.socaltech.com/robotaxi_company_pony_ai_gets_permits_to_test_vehicles_in_irvine/s-0081300.html"
+  - title: "Kodiak Robotics To Bring Autonomous Trucking Tech to Asia"
+    excerpt: "Kodiak Robotics has partnered with South Korea-based SK to bring autonomous truck technology to the Asia-Pacific market, a $1.5 trillion freight market."
+    publishedDateTime: 2021-05-26T22:12:00Z
+    webUrl: "https://www.truckinginfo.com/10144442/kodiak-robotics-to-bring-autonomous-trucking-tech-to-asia"
     type: article
     provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 37
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 54
     images:
-      - url: "https://www.socaltech.com/images/story/ponyaicar21.png"
-        width: 391
-        height: 220
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2021-05/kodiak-robotics-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
-    excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."
-    publishedDateTime: 2021-05-25T10:00:00Z
-    webUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues/amp/"
+  - title: "Kodiak Robotics and SK Inc. Partner to Bring Autonomous Trucking to Asia's $1.5 Trillion Freight Market"
+    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, and SK Inc., a holding company of SK Group, South Korea's third-largest conglomerate with more than 120 operating companies, today announced a partnership to bring the Kodiak Driver,"
+    publishedDateTime: 2021-05-26T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-sk-inc-partner-bring-autonomous-trucking-/2021/05/26/9378080.htm"
     type: article
     provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 26
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1385508/Kodiak_Robotics_Logo.jpg"
+        width: 400
+        height: 382
+        isCached: true
 
 secured: "L1FkivhX9mYtYm8PdT+lUJ0nSsJ/lqBh4X476D4aEoUr322vzvPi8Dk/cD1SZxPe06Zi7stfoWSVanxyc8VFYjWwha9cR5ilpf8MAIU8ac5LN/nQ+s+Ygg/vDsOIdqwV55epQMKvhVmbEi+optNGXWBL7yCzqQQg7QQqORwOrMIhoQdq7VGcDiJWJUdVFii5rD23qqlK8tHu53xwmGPAgc7WVnk+tQpzNR+ev/UUJ/HTXDvpMMUGFpDsGKI1UOfW+YKCo0uSo4wz4gwOOiJX6IXUJz1yUsC5l1HCok6IBhggnW6OV/Kruyn5qLpJychvIMxISMKtXKw1jdAUdQNJDKLHMKkxcKWeeOdk8aamNwA=;xIqjYvSwfmOr0TJdZjezCQ=="
 ---

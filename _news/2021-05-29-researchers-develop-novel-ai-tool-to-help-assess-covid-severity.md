@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
-excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
-publishedDateTime: 2021-05-27T00:00:00Z
-originalUrl: "https://www.nature.com/articles/s41598-021-90411-3"
-webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
+title: "Researchers develop Novel AI tool to help assess Covid severity"
+excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
+publishedDateTime: 2021-05-29T07:46:00Z
+originalUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+webUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+ampWebUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
+cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
 type: article
-quality: 0
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nature
-  domain: nature.com
+  name: orissapost.com
+  domain: orissapost.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
-    width: 685
-    height: 388
+  - url: "https://www.orissapost.com/wp-content/uploads/2021/05/BL21ARTIFICIAL.jpg"
+    width: 1200
+    height: 749
     isCached: true
 
 related:
@@ -101,22 +103,6 @@ related:
         width: 600
         height: 298
         isCached: true
-  - title: "Researchers develop Novel AI tool to help assess Covid severity"
-    excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
-    publishedDateTime: 2021-05-29T07:46:00Z
-    webUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
-    ampWebUrl: "https://www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/researchers-develop-novel-ai-tool-to-help-assess-covid-severity/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 59
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2021/05/BL21ARTIFICIAL.jpg"
-        width: 1200
-        height: 749
-        isCached: true
   - title: "AI with swarm intelligence learns to detect cancer, lung diseases and COVID-19"
     excerpt: "Communities benefit from sharing knowledge and experience among their members. Following a similar principle—called \"swarm learning\"—an international research team has trained artificial intelligence algorithms to detect blood cancer,"
     publishedDateTime: 2021-05-26T15:00:00Z
@@ -147,7 +133,21 @@ related:
         width: 685
         height: 431
         isCached: true
+  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
+    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
+    publishedDateTime: 2021-05-27T00:00:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
+        width: 685
+        height: 388
+        isCached: true
 
-secured: "K0hBy81mvAxV4ovtvYZI4vOWNSQTgCYNNSaPCwNwBYhNCa1Dqeq9elgY8sSJGiPt6NMzOaFMDCzYC6lHw98oyTY7oF7PYOF65D7xi7zVI6QEXHiwZ+XfDuDVZEtNvawhJMPsgTtguh7l0ATl6K7bsTuPmigjVNqfsTzCQsDFQJEb0FcNcEsuQ4sTvZDSAg/mR+veMTgJ0IOnwkatAmUcTbyFRWSpCAdAkVaeIL4N9i2y3mkUNja/d9RxtWeUVatbnVXWberFGXOf9fnKq5KWd1tpAHNmiKs8wtbSYX1nrNLyAfydHADusSkDUlUZP7VmITS9yFZoOKRvY1AW67FQSDRYjKQl/Ugp8JDZiW5Dw/8=;FIG/QD1nxn/N3OZ0NUscOQ=="
+secured: "stzsDPlDdj6mT+h4HpX8AmBYCW9oRWl60GZRQ4k3HX+HuI+WocovC1DO7UUK+YHYsNS51YALmh+fkBeif3s7FhpXATSIm+5tEphCZTD25X8J+FyPfqn8UXDLi1i/EZJPWGPOa3W8BanVsr7sGWHjInJ2buPL0/zaz/+xBynfnaTsLhhA8TUD+3JNQhvx2FsFgIUtx2zFdpTnH/zMlU1mXDrQstwZgigWOCmHAJrJLg/ePOSQ6dX4A9Dc63sK/SPHFwYCE9FgODVBfiLHyrDkr11lABTpn7aweetTsctrLNE8MiSzyu+yuNkDxynbdgbCYlL6mGDhKK+CLEgvG26rV+o742x8kvgsXHw1BV+zebY=;X7XqtFR8owy7vSrwX99ibg=="
 ---
 

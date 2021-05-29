@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
-excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
-publishedDateTime: 2021-05-27T00:00:00Z
-originalUrl: "https://www.nature.com/articles/s41598-021-90411-3"
-webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
+title: "New AI tool to help doctors assess severity of COVID in patients"
+excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
+publishedDateTime: 2021-05-29T07:56:00Z
+originalUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+webUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
+cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
 type: article
-quality: 0
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nature
-  domain: nature.com
+  name: Madhyamam
+  domain: madhyamam.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
-    width: 685
-    height: 388
+  - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
+    width: 600
+    height: 298
     isCached: true
 
 related:
@@ -85,22 +87,6 @@ related:
         width: 777
         height: 489
         isCached: true
-  - title: "New AI tool to help doctors assess severity of COVID in patients"
-    excerpt: "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree"
-    publishedDateTime: 2021-05-29T07:56:00Z
-    webUrl: "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
-    ampWebUrl: "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
-    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903"
-    type: article
-    provider:
-      name: Madhyamam
-      domain: madhyamam.com
-    quality: 59
-    images:
-      - url: "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg"
-        width: 600
-        height: 298
-        isCached: true
   - title: "Researchers develop Novel AI tool to help assess Covid severity"
     excerpt: "Toronto: Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy. The researchers from the University of Waterloo and Alexander Wong,"
     publishedDateTime: 2021-05-29T07:46:00Z
@@ -147,7 +133,21 @@ related:
         width: 685
         height: 431
         isCached: true
+  - title: "Toward understanding COVID-19 pneumonia: a deep-learning-based approach for severity analysis and monitoring the disease"
+    excerpt: "We report a new approach using artificial intelligence (AI) to study and classify the severity of COVID-19 using 1208 chest X-rays (CXRs) of 396 COVID-19 patients obtained through the course of the disease at Emory Healthcare affiliated hospitals (Atlanta,"
+    publishedDateTime: 2021-05-27T00:00:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-90411-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-90411-3/MediaObjects/41598_2021_90411_Fig1_HTML.png"
+        width: 685
+        height: 388
+        isCached: true
 
-secured: "K0hBy81mvAxV4ovtvYZI4vOWNSQTgCYNNSaPCwNwBYhNCa1Dqeq9elgY8sSJGiPt6NMzOaFMDCzYC6lHw98oyTY7oF7PYOF65D7xi7zVI6QEXHiwZ+XfDuDVZEtNvawhJMPsgTtguh7l0ATl6K7bsTuPmigjVNqfsTzCQsDFQJEb0FcNcEsuQ4sTvZDSAg/mR+veMTgJ0IOnwkatAmUcTbyFRWSpCAdAkVaeIL4N9i2y3mkUNja/d9RxtWeUVatbnVXWberFGXOf9fnKq5KWd1tpAHNmiKs8wtbSYX1nrNLyAfydHADusSkDUlUZP7VmITS9yFZoOKRvY1AW67FQSDRYjKQl/Ugp8JDZiW5Dw/8=;FIG/QD1nxn/N3OZ0NUscOQ=="
+secured: "/04cHdhzvsrWtLelWBL/v1yLxSS4/3Cn4YDMAwSvPq3PlhHslFhCKm4el85ryIGtkuAPu0IcSlP5cSQQw8D87Z1sg3BXiQJhtNPQDB57FQ6f6M3jZN0VbGcDv1CdZlIdDi5G/Mf9Jxlt1isW3imsuVVtneOtLqPW5Fh+++ZLMfGVnevlC2AGLB5DXOb9/ZLQ0dv3OGOGQxffa51KKATs7ciwRGCN0kYVtospVVgefs4OMVnnQ03/IiFSfie6sSjbTP7p+vOijZdVYEmq0wLaKPr0RKwa3+GX+gF3gLGWl5XUiIP/jE9dURd4kaw++ALt2y6lQxbovOEs1w1wQN7eSqnbcKxA4zrx96OUNh57We4=;pdbZSUmIQVZ7b2Fcjv3ofQ=="
 ---
 

@@ -501,7 +501,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -541,7 +541,8 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI in Finance"
       ]
     },
     {
@@ -837,6 +838,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.md",
+      "title": "Telcos back Artificial Intelligence, Internet of Things for 5G in India",
+      "excerpt": "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, ..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-83032108,imgsize-30418,width-800,height-434,overlay-ettelecom/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "publishedDateTime": "2021-05-28T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-neuromorphic-chip-detects-complex-biosignals-in-real-time.md",
       "title": "Neuromorphic chip detects complex biosignals in real time",
       "excerpt": "Current neural network algorithms produce impressive results that help solve an incredible number of problems. However, the electronic devices used to run these algorithms still require too much processing power.",
@@ -1096,7 +1140,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1169,49 +1213,6 @@
       "provider": {
         "name": "Technical",
         "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-researchers-create-robot-that-smiles-back.md",
-      "title": "Researchers create robot that smiles back",
-      "excerpt": "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-robot.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/the-robot-smiled-back.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp",
-      "publishedDateTime": "2021-05-27T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

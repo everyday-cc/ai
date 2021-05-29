@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-29T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/facebook-launches-ai-that-understands-language-without-labels/"
 webUrl: "https://analyticsindiamag.com/facebook-launches-ai-that-understands-language-without-labels/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/facebook-speec.png"
@@ -40,6 +41,6 @@ related:
         height: 513
         isCached: true
 
-secured: "CEDxsU8UVstIqlQ5Tqhe3K5hgnepn+3LVVZuw+ex62LbD1c9qrvAtPl8mDgTuXr6cqJ1xCuC19H5vKlEBs05G8Rwtg+Om1NkpQKEUV+DJXBuxSXFm+B8KezaDnVv1081oIlQ16cxADG0o7siv4oJa2RP2tGCfSJdEoc17Z+P/IN8QCrYqBaFApIfTkuCEcskldXnYcn2P8vfOnaCeIeUadFPo3M8xpk+X5sWb5o3EQ89bU5ysYrAcquThBsKm/YKJKY50SnrkgkDfZRVG81GVWobciWYD4v/mQbPyU3nBekNU8jiR/yRQXwuD4YotVZcu2+qXtcfT35B0dvnjG8us+g015bsBqYhUMofOnJl5/8=;ZQeDhZlMFAavCMYDT5a8hA=="
+secured: "T/hSPhHGvB+SRKwZInSmeA5/xjnLpZERTwxkEnOYey3PVEKEzjTPB5rUeo+1K9LSSCgSo+EpBD5peo86/oBv0DyE/G+ZbuJFmWy149nHBzk2XpidZLtYdPigzUfd9AJmZ38wSLQwVsqRxodvxSPZgamYYkGJYMV4xFHv6xCvAxHIasPfI40RymDLiin++utUPRskB231cjSJ/kOINwt7CX7M1x4cIooUFBbolaFmasBe2kyI8Aw1b6p/NGV2w7IRwfdc6FzNoydJUrdlplO+d8CuQHdHS/ypH0vGgZ+53PnC8ky4ZtVagswoncXyQKLlmaLwmFozLyXB1vk5TmL3MHkhal3/2OcGQqGYtyaScdHUfJFOIGV2s9gzPxuIfSbkFM4PE3U/juL7OexhxB79sO/CVAnYvMRcsFQq0/aOvhLrh9cFF7AxH+iBDYraI1vE7gYReZ6wQFIWr7jBhhBWXMzMN4DHXRfaMQXED/myPMUj0Hdsp9riqVWqU0Ay1g4Av5JMHtUDduTtvngMV3oWBQ==;Ah2UL95rpazkWsYtoZzHJA=="
 ---
 

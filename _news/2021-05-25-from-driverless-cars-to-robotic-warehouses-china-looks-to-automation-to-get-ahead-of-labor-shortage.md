@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-sol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: CNBC
@@ -31,47 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese startup Pony.ai gets the nod to start testing its driverless vehicles in California"
-    excerpt: "The US state of California has granted permission to Chinese firm Pony.ai to carry out a pilot run of its driverless vehicles in three cities in the state. Six Pony’s autonomous vehicles will be allowed without a safety driver at the wheels in Fremont,"
-    publishedDateTime: 2021-05-24T14:21:00Z
-    webUrl: "https://www.gizmochina.com/2021/05/24/chinese-startup-pony-ai-nod-start-testing-driverless-vehicles-california/"
+  - title: "VisionNav showcased latest driverless industrial vehicles and solution at KoreaMAT"
+    excerpt: "VisionNav Robotics, a globally leading supplier of driverless vehicles, showcased their latest unmanned logistics solution for flexibility and expansive"
+    publishedDateTime: 2021-05-26T08:00:00Z
+    webUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat"
+    ampWebUrl: "https://www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/visionnav-showcased-latest-driverless-industrial-vehicles-and-solution-koreamat?amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
+      name: Asia One
+      domain: asiaone.com
+    quality: 53
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
-        width: 731
-        height: 393
+      - url: "https://mma.prnasia.com/media2/1517703/image.jpg?p=medium600"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Robotaxi Company Pony.ai Gets Permits To Test Vehicles In Irvine"
-    excerpt: "Pony.ai, a Chinese company developing driverless \"robo-taxi\" vehicles, has gained permission from the California Department of Motor Vehicles (DMV) to test its vehicles on public roads in Irvine, along with Fremont and Milpitas."
-    publishedDateTime: 2021-05-24T13:52:00Z
-    webUrl: "https://www.socaltech.com/robotaxi_company_pony_ai_gets_permits_to_test_vehicles_in_irvine/s-0081300.html"
+  - title: "What’s it like to ride Dunedin’s driverless shuttle? Futuristic and fun."
+    excerpt: "We aren’t teleporting in bad face paint like the original Star Trek, but things aren’t that far off. We walk around with pocket computers and connect across the world. Don’t get me started on cryptocurrency."
+    publishedDateTime: 2021-05-25T09:00:00Z
+    webUrl: "https://www.tampabay.com/opinion/2021/05/25/whats-it-like-to-ride-dunedins-driverless-shuttle-futuristic-and-fun/"
     type: article
     provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 37
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 38
     images:
-      - url: "https://www.socaltech.com/images/story/ponyaicar21.png"
-        width: 391
-        height: 220
-        isCached: true
-  - title: "Kodiak targets 2023 for driverless trucks in U.S. as it sets up a future in Asia"
-    excerpt: "In a partnership with a South Korean conglomerate that creates autonomous vehicle components, Kodiak Robotics gets its ‘foot in the door’ of Asia’s freight market as it eyes U.S. expansion beyond Texas."
-    publishedDateTime: 2021-05-26T14:37:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21165229/kodiak-targets-2023-for-driverless-trucks-in-us-as-it-sets-up-a-future-in-asia"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 34
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/Kodiak_vision.60ae55e336ebe.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.tampabay.com/resizer/v-ulquMw-DwA1j1FUjnWvQf_Mk8=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TDGQ4BQDLFGAJFL5EORYIY6FJY.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "From driverless cars to robotic warehouses, China looks to automation to solve population issues"
     excerpt: "In the past, I was responsible for collecting goods and putting them on shelves … Now, after the goods get here, the automation equipment will put goods at a designated place, and then put them on shelves."
