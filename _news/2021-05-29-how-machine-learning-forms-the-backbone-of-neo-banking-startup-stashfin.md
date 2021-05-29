@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-29T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-machine-learning-forms-the-backbone-of-neo-banking-startup-stashfin/"
 webUrl: "https://analyticsindiamag.com/how-machine-learning-forms-the-backbone-of-neo-banking-startup-stashfin/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/stashfin.png"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "9wMP9V3Qog0dUWqWKb6oPTpZOPzvNR3/F3Kvf3O7c54IyUyiONzqJNqMw74+cbMl/aUFhLSmgs99wRgClWrFmlXz1TMqXSVix8zY6vmXmTWEcifs7teqFW18XtUFAPP15bsUx3jMaC9/EpJQ1tSYC+/o7riAIQUhDExZaNqJs5tGdJVGKNRW9yASKjJHw5cxCIcgKP7aXo9T45JbogVJg/cvxN4tsILRcea4s/z9WBgXonWtrePdNSYw3/Liz9uy5Agrjg7gOhbJfaWb49mjjAMiXcUZ3cp1b1smnvr+nTWBczAE8gb87aqvpOquBRn+blf6XD/q5z8v6Ev3aMPENb7aTTNfL4ObhRGLZN9VVjc=;Jp307FJFOQd7gOt7Rec2Fg=="
+secured: "j4e0fFWAOlt8ReHQHzl20rwIKt36qhL1vA1HIzGHBAD7upPFoGusAtMEWi/u9LpUWKs6+yuk97tjQEf3GrDLy4EEHSepb/fT2R8sywnqcac5gbgi2XZ3BYZ+dXba4eog1cJbGm3AtdK0RXfZ0MjNglq6W3V7hlptclcH3q6Wso05PDmonP64zXto2H4fPdfnptW8MbmJ50Ux7ZDR6x2WztPScZffFe1ddT7/F/3ZQM0RDtQSIyB3rWr/smLUVY9DdLI3LVyqhQONLHNeuL/kSbfsQN+R2GR3XczfycqR6rLmTbsNeete2hlKu2/MbtLWAFUsu3YJrF6rGvUK/jGd7i8iaJWD4ukoeUd6aAm8e746navDoakYUgseDEHzpv56mQkQOtdh6ON4JQVRij1mqivrTmBlt7UIyevEKJUJG/ys6UzEwUIkXdm5uvsTEmHzqE+FJp/paIn/GOmRCLdLG/gvbKZ5Dxw+/sLE7TC5lmkaU4mrYLyKIWGunWE52R3gtbehkGC+MJMVE0HfUkouvA==;0lWkpMPBUUK9QHrrsGYEIw=="
 ---
 

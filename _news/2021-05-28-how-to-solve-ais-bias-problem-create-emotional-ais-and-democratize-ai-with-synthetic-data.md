@@ -45,22 +45,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping"
-    excerpt: "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,"
-    publishedDateTime: 2021-05-24T21:36:00Z
-    webUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362"
-    ampWebUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 102
-    images:
-      - url: "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg"
-        width: 2618
-        height: 1374
-        isCached: true
   - title: "Harness the power of data and AI in your applications with Azure"
     excerpt: "Our commitment to developers is to make Azure the best cloud for developing intelligent applications that harness the power of data and AI. At Microsoft Build, we are announcing several exciting new capabilities and offers that make it easy and cost-effective for developers to get started with Azure"
     publishedDateTime: 2021-05-25T08:00:15Z

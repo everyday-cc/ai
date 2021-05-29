@@ -37,22 +37,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Russia Is Building an Army of Robot Weapons, and China's AI Tech Is Helping"
-    excerpt: "\"In the context of increasing tensions with the United States, China and Russia have clearly made an agreement to expand their technological cooperation, with artificial intelligence playing a key role in their plans for the future,"
-    publishedDateTime: 2021-05-24T21:36:00Z
-    webUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362"
-    ampWebUrl: "https://www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-building-army-robot-weapons-chinas-ai-tech-helping-1594362?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 102
-    images:
-      - url: "https://d.newsweek.com/en/full/1805531/russia-military-unmanned-robot-vehicle.jpg"
-        width: 2618
-        height: 1374
-        isCached: true
   - title: "How To Solve AI’s Bias Problem, Create Emotional AIs, And Democratize AI With Synthetic Data"
     excerpt: "Artificial Intelligence is transforming so many aspects of our lives, but in order to work, it needs large volumes of data that is free of errors and biases. I spoke to Affectiva CEO Rana el Kaliouby and Synthesis."
     publishedDateTime: 2021-05-28T04:11:00Z

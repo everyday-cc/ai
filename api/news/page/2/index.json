@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
+      "title": "How AI and machine learning help fight the COVID-19 battle",
+      "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
+      "publishedDateTime": "2021-05-27T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-umd-and-umbc-are-teaming-with-the-army-research-lab-on-a-68m-effort-to-advance-ai-robotics.md",
       "title": "UMD and UMBC are teaming with the Army Research Lab on a $68M effort to advance AI, robotics",
       "excerpt": "The reserach collaborative will develop new technologies and devices that can help humans and machines work alongside each other. \"We want to change the world by quickly getting AI and autonomy into the hands of the people who need it,",
@@ -799,7 +851,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai-foundations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1093,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1178,59 +1230,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lemonade-jk-jk-we-dont-use-facial-recognition-to-reject-your-insurance-claims.md",
-      "title": "Lemonade: JK, JK, We Don't Use Facial Recognition to Reject Your Insurance Claims",
-      "excerpt": "The insurance startup is walking back tweets saying its AI-trained facial recognition could detect fraudulent claims.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "originalUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5fec531d86029d32932e6fe7e266d001.png",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "publishedDateTime": "2021-05-26T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

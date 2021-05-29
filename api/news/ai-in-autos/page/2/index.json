@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-17-deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024.md",
+      "title": "Deposits keep TuSimple on pace for driverless trucks by 2024",
+      "excerpt": "Ten fleets put down deposits on nearly 7,000 Navistar tractors running TuSimple's self-driving solution that would run across the Southern U.S. by 2024 and possibly curtail the industry's driver shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21164330/deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21164330/deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/TuSimple_Fleet.60a28571ab906.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-ai-driven-etf-grabbed-up-shares-of-tesla-this-month.md",
       "title": "AI-driven ETF grabbed up shares of Tesla this month",
       "excerpt": "An exchange-traded fund managed by artificial intelligence has bought a large number of Tesla Inc (NASDAQ:TSLA) shares. What makes the purchase especially significant is the AI’s previous track record in predicting movements in the automaker’s stock.",
@@ -1338,58 +1381,6 @@
         "name": "ARN",
         "domain": "arnnet.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars.md",
-      "title": "Trillions Of Cicada Aiming To Bugout The Northeastern USA And Spur Swarmageddon Messiness For AI Self-Driving Cars",
-      "excerpt": "After a 17 years long wait, the cicada of Brood X are about to emerge, in the trillions, bringing a buggy mess and swarms, which has ramifications for human drivers and self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093384b8a78a6d19cdd77be%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-05-10T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

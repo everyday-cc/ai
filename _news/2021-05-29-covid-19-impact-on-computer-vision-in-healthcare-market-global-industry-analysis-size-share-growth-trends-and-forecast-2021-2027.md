@@ -1,22 +1,25 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
-excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-05-27T12:59:00Z
-originalUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
+publishedDateTime: 2021-05-29T14:00:00Z
+originalUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+webUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+ampWebUrl: "https://www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
 type: article
-quality: 0
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - AI in Healthcare
+  - Computer Vision
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030"
@@ -103,17 +106,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
-    publishedDateTime: 2021-05-29T14:00:00Z
-    webUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    ampWebUrl: "https://www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
   - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
     publishedDateTime: 2021-05-25T05:39:00Z
@@ -176,7 +168,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 0
+  - title: "Global Artificial Intelligence in Drug Discovery Market (2021 to 2028) – Share, Size, Trends and Industry Analysis Report – ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Therapeutic Area; By Application; By Regions; Segment Forecast, 2021 – 2028” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-05-27T12:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-in-drug-discovery-market-2021-to-2028-share-size-trends-and-industry-analysis-report-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
-secured: "wnyHxz3dUU21JEw3h1z67ToBwdi8dxul5j2lu9aOoUH0Nu7Pqq0Eqg4XAMDnyPzRTw4SIuST1nkjChDPJzlMgTOdvhKZ64+HxEM8jcW9Dg+pnKK8oBNZl0DoSHpRtw/g4DHzByk31mqWFL4qls/EFU9PYK/49/xgFu199yp4Pp1hogoshE7Y+NmM2QbhyaII3nn+lTfxdL5jnHNhTxHr1DV8G7CWn7F1l1RQyIedh96tntfYdFQdzS9fLcsDNdyJSVIgGf+3yNdY5aB1E7h5epTBhKDikPdpDTMCQEG+NnxJwgt3t409SSWzOzYZ36kQla9426OZBLBIaNh/AYuz7Ct8zK/1E/HFoCx2124TwYs=;OM4RNNiORuC16kHpx1NBKA=="
+secured: "xeiCOAhgqa8sC2jyIMg1QrcX1u4DkE8cQ7ogMKbj/LtXfl1CcU+GYe3Gj4O83+6MAgHmf+sH7U2gl/b2BAPpxs5vGOexUV0bCBQuZ0nfDI6wECtdpc0dCrQGHxMICBHkJLXaqJN5d3V5JfC0FdOYB8RVLdMIFbpUXlcAfTMxLjOh9XHLvl2N+f9orWLfwZayT1owgBLh0E0MgVTywEbOiO7J6FjYm01xhkj930YIVDbQoZFQq9EtwxK1eUnQNFaSZu68+5FysUZy7jA4yN6qa6OosgpYVbmdAcl6RBHu+b+Sa95syrMH8CL3/Z+DqkTD+7RsdeoYaxXpVWOVA3AN6AQYzZukX8AYzS67Ap/H0d8=;//3qbYFqIPw0fF96x2dfGA=="
 ---
 

@@ -245,50 +245,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-leading-ai-chipmaker-hailo-awarded-edge-ai-and-vision-product-of-the-year.md",
-      "title": "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year",
-      "excerpt": "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-chips-designed-by-ai-are-the-future-of-semiconductor-evolution-beyond-moores-law.md",
       "title": "Chips Designed By AI Are The Future Of Semiconductor Evolution Beyond Moore's Law",
       "excerpt": "Synopsys CEO Aart de Geus believes his company and its advanced AI design automation tools may have an answer to scale complexity of Moore’s Law and the systemic complexity of hyper-convergent integration.",
@@ -1086,8 +1042,8 @@
       "title": "The 10 Hottest AI Chipmakers You Should Be Watching In 2021",
       "excerpt": "CRN looks at the 10 hottest AI chipmakers to watch in 2021, which includes Intel, Nvidia and several startups in the AI hardware space.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/5",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1451,6 +1407,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
+      "title": "AI Has Eaten IBM Think",
+      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "publishedDateTime": "2021-05-11T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

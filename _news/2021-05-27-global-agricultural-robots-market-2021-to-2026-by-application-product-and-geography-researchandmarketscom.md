@@ -103,6 +103,17 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "COVID-19 Impact on Computer Vision in Healthcare Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Computer Vision in Healthcare Market size is expected to grow at an annual average of 36 3 during 2021 2027 The demand for computer vision systems in the healthcare industry government initiatives to increase the adoption of AI"
+    publishedDateTime: 2021-05-29T14:00:00Z
+    webUrl: "https://www.openpr.com/news/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+    ampWebUrl: "https://www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293800/covid-19-impact-on-computer-vision-in-healthcare-market-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "Educational Robot Market Forecast 2021-26: Industry Trends, Key Players, and Competitive Analysis – IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global educational robot market is currently experiencing robust growth during 2015-2020."
     publishedDateTime: 2021-05-25T05:39:00Z

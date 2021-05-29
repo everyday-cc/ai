@@ -1,22 +1,21 @@
 ---
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit"
-excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The"
-publishedDateTime: 2021-05-28T16:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21342638"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21342638"
+excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition showcases the best new ventures developing visual AI and computer vision products."
+publishedDateTime: 2021-05-28T16:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-vision-alliance-announces-2021-vision-tank-/2021/05/28/9380289.htm"
 type: article
-quality: 12
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - Computer Vision
   - AI
 
 related:
@@ -35,6 +34,6 @@ related:
         height: 400
         isCached: true
 
-secured: "jQaXPyJ6x6IEk1eXAotFyAD8mPLkpqDzMbSEIWwcqCPY9SorCeVNTrFtU3A8RH8nqg9wykcNrBMgfF5Qp6OpPD08A4NUNLkB474uGChJp8FTSbaOgXI2ekzni/XO/E4Q/BzPbwbDkZ/Cq3YY2Rx/HC8mndxm78olhOjJCnFexy/prpozWEvkalnAF2WiIVZJKu3/PP+XLJSS3WcCdK2OPJ86ape0+J2nE4uCrrahch/LLxmoeQg265VBjOihxYPINTI1HK/Z/hqcchIIWBCqTTxftn+i2ktxibVSKMskFTawtrGbOfusyxjxJUpTgSZRiTYY6ZKBRfCXqB/bGrP+uNBQ/IYHFtTLrNsjd23pLX8=;tJUOo2cRLpgHs8FfzKRbLg=="
+secured: "jslhVapjM8TJIoiXCHCo0TCRUEfsHd+cTVZeg0iGvveu5boe5qDQbruWgOv/93+dxm64gLo07U+ocKO0N3mX4hSdrvEYLnFqH2A5lAIdfOXnl+ylyf/z8oe9Uj9fb0MWyX9frd8ourcVpIWuUdSOCIoUIgp/B6erjmyQO1phAUk5YvOD5ErOcFxtwWVLvxv4AO0ForXozfjUsvU7T0nLI7Xpff0wC9i2LYqhl5rf0OkrEBFfmniVhuFqMLf9kxZDkecWwzCHqpaxZqGKz3Kx6JOWZvNn5S1fg/QgMWSeyBQgrfzZsBqsmmjN4FTKga5VgrDg2d3MjVgnIhr4alh1yLNvEpJx0xc5oo7en6gi2FE=;9ReYYgAZeBbWMicdm1CyHQ=="
 ---
 

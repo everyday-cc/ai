@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "South Korea Telecom KT Cooperates With KAIST to Establish AI Research Institute"
+    excerpt: "South Korea's largest telecommunications company will join hand with the Korea Institute of Science and Technology (KAIST) to establish a AI research institute focusing on the technology and software development in Daejeon,"
+    publishedDateTime: 2021-05-29T15:05:00Z
+    webUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/"
+    ampWebUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-29-at-11.04.39-PM.png?fit=950%2C535&ssl=1"
+        width: 949
+        height: 535
         isCached: true
   - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
     excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"

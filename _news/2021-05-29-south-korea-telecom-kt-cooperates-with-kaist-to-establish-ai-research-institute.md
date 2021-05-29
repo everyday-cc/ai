@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
-excerpt: "Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture,"
-publishedDateTime: 2021-05-25T12:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
-webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
+title: "South Korea Telecom KT Cooperates With KAIST to Establish AI Research Institute"
+excerpt: "South Korea's largest telecommunications company will join hand with the Korea Institute of Science and Technology (KAIST) to establish a AI research institute focusing on the technology and software development in Daejeon,"
+publishedDateTime: 2021-05-29T15:05:00Z
+originalUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/"
+webUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/"
+ampWebUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
+cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
 type: article
-quality: 61
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: syncedreview
+  domain: syncedreview.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-29-at-11.04.39-PM.png?fit=950%2C535&ssl=1"
+    width: 949
+    height: 535
     isCached: true
 
 related:
@@ -45,21 +43,19 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "South Korea Telecom KT Cooperates With KAIST to Establish AI Research Institute"
-    excerpt: "South Korea's largest telecommunications company will join hand with the Korea Institute of Science and Technology (KAIST) to establish a AI research institute focusing on the technology and software development in Daejeon,"
-    publishedDateTime: 2021-05-29T15:05:00Z
-    webUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/"
-    ampWebUrl: "https://syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/05/29/south-korea-telecom-kt-cooperates-with-kaist-to-establish-ai-research-institute/amp/"
+  - title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
+    excerpt: "Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture,"
+    publishedDateTime: 2021-05-25T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 55
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-29-at-11.04.39-PM.png?fit=950%2C535&ssl=1"
-        width: 949
-        height: 535
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
     excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
@@ -78,6 +74,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zvpP9+7kMICgoQitprhQRapWazJGnCYNArDXIrQJV6E5iml8526lF6N3pVVQsCYkh7x7tERXPRbLuf5lnbqx4AH0InvuuH1MCpUHiuyt/o6OTYeXNc8mBRZ47GoB8uusorDzKDr2kmAjeei5XWvLxIOSaTCZzesigi0zufXxMB0BMd6Zu3NHgWLNZyvRH1xyeT+rImNIOxngTmPPwJkTO9S65p4ZbGW5patc5pJsQAaWiocXRqfXyHwp13ghBtNL9RuFu7Rb/LxBZi5LTg/vO9FAhyypr18vE+E3LGOjM/taDlwoCONrWind90fTlgUs44Ny2AWJ7kcal0dvmm5l/8WuF2DS6WsfG8vyhygC7o8=;H+aC1kJlwcMfX4/m3Ygdvg=="
+secured: "8qEp/mewD5xPYDH+bhRjzGt8En+dCs8k4uBJ4V0xAqZNtXlTmeYK8hHJ684A2/EuF7AANOAVIbaF49xmqotX9brF7U49SKig1D2Yp4KeOMihI0hanVV0MStKD6r1N1tRJuf12U1rU/fqjurtWHw3w46aRqGk2o96lADeFtUI0NhE6EF5rOA8kP3snYu3rqeZIsKtQCsnaK6QidKPfTDy8e5EfVNu84eGo3DCEvJRcDgK3AWdtz9/KJRphvSjG3+Tz85bLlJ5CRzDQQVyNrFbGHeFY/0Z+1d0iKGwGBJzNKtwbFG3CeZ3SglbJzm4TG6dNCgqVOSqibLrOr2TRQWQaHMIyZpavR0swcJiZqnJvZQ=;1ghewTZ/aqr9hvc2Oq2EiA=="
 ---
 

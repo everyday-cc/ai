@@ -252,6 +252,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-28-self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
+      "title": "Self Driving Trucks Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
+      "excerpt": "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027-2021-05-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-make-artificial-intelligence-real.md",
       "title": "Make Artificial Intelligence Real",
       "excerpt": "The global datasphere is growing exponentially, and predicted to reach 175ZB by 2025. AI has the power to help organizations make",
@@ -1171,58 +1223,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-how-ai-and-machine-learning-help-fight-the-covid-19-battle.md",
-      "title": "How AI and machine learning help fight the COVID-19 battle",
-      "excerpt": "Artificial intelligence and machine learning have become life-saving agents in combating Covid thanks to their innumerable applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/how-ai-and-machine-learning-help-fight-the-covid-19-battle/amp/",
-      "publishedDateTime": "2021-05-27T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

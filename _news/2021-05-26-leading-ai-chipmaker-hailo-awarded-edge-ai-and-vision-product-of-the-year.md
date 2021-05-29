@@ -3,21 +3,20 @@ category: news
 title: "Leading AI Chipmaker Hailo Awarded Edge AI and Vision Product of the Year"
 excerpt: "The Hailo-8™, the AI processor for edge devices from leading AI (Artificial Intelligence) chipmaker Hailo, has been selected as winner of the 2021 Edge AI and Vision Product of the Year Awards for \"Best Edge AI processor."
 publishedDateTime: 2021-05-26T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leading-ai-chipmaker-hailo-awarded-edge-ai-vision-/2021/05/26/9378330.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/26/9378330.htm"
 type: article
-quality: 55
-heat: 75
-published: true
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1518973/Hailo_Best_Edge_AI_Processor.jpg"
@@ -45,6 +44,6 @@ related:
       domain: wfmz.com
     quality: 7
 
-secured: "HT3T6rAeJ3VcMTUK69+jgRF1cTPrDUQvaFCwDpRLoxZowJDRcuWE6QX/zADcAREncYK5bBIIM3/tNY1t8CqfCq1Lqn8V3YucVy/37q8cjOClc9QXn6fAY9RUo9vLCvIO/zymX9DG4lyhC4XehBUbsKa8keODihqNS0Cw9PAZnlUAqoYHpBr1PFzCER0oEXoklAS7Si/5poTWAkvksz6NedHPK8S6fVRCkUnw3fcMquB+h1+wVd0K1jN9ynNXv9Kkz7KKhVWfkBc7w8+jYLnKmDAx8Zlxa7fP7ldHgWdo6cTb4q31Q58HgjMKrq8xiZXkGDtWn5Su94Tv4juv9XQhNW2B2ql08MyKReRP2JQ3jKGzJt+9jIaGKqa1ZXSjGtWEI8bZFj8A/xW7OxGNvgeC2INFTpzGaU7/e7WKA7QFVkcrZFX/BGBJdGW7Z1zYv+qtZz+wmV0l/fQgUpQsQ3gQIZQ+XR4YPinTsI/7EUlQvuNHiyPok08nDFdbcFIVuEn0PrFecNS/1InnqocvZzIhIQ==;8oMmQYLeOA0d2BmHEsvw4w=="
+secured: "exgWUMPjIemFT3QJfNuiqFL3wtHWp/Lsdq07hSX9WxnEFqLwiCAGEG2TbWZPj5nu/y4cE8LfyNLBpOJp+oRa3iXJW154Of9ehlHMhVioyGTy9yF1t+GwaFc0+/8puqaqLdT5N2ZNAkYaybgqKIIA4MH1t07HtHyaunA4Y5kq8VZVwKUcO4lBGcWbxB2M3eNlhZqq7LLllmETbSBU+mLsiVOPmmiDec/lVxx2L8J3ijB8IC60ZBoVmMmx0fBodWf3YS01S771XkXV+ljSyfU/ZbvO+BmUlp8crrYBvK4Dk0n1Jy+XG/B5kgcfClXm1x2sV+NbE+3zGGA82XRLbCNweG9tPP3wB9wxhLk9cowdeNw=;qpEu9WAflB/5GIHKJflulA=="
 ---
 
