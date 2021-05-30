@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge"
-excerpt: "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ..."
-publishedDateTime: 2021-05-27T12:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm"
+excerpt: "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and"
+publishedDateTime: 2021-05-27T12:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070"
+webUrl: "https://markets.businessinsider.com/news/stocks/deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge-1030471070"
 type: article
-quality: 0
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -48,6 +52,6 @@ related:
         height: 224
         isCached: true
 
-secured: "rKHsiyij9qjMo0ZsPINVYk+yIBplljM4UaEpwugkg45YBPLMsAI6PPyvFoLzaq/2P5LSrNaOSUvkfglMIquaCE8YkYjS4IuQ6Mrezud28XnuCyWUTcQg+VbwTFyz+Xg5CyNr7EamnRPdPNMCuXW+qdNe5+DIxAwUYGBkxQCdOBzm8YLom7Ci6ePcI22Et3fOrvO/ZQlzZMXlcc8MTDlhIJAkwCJUznqtbhXPI8eD/ipFUOBgbk6UqeL/UqjoJaaimgdXHMvMkgPbkroz7bPbnpEGF6gEsTEfPOR1M5iDWd78RhV935fz7EeeIX+80n9n2cL2woDZlpWnylcqiSuhZeqLBK4vvpAUowKu0EYekVQ=;wVJNv5wdjRPkgpBjcGG/DA=="
+secured: "FrPSKTDOuzZzHwz3aOEUZAKYtMYhQFNaFS/2KFpgaKXlM/qDhJ8PCz9nomotkXjiqCXQImSdzyi/d4xorIUM4Al+MBvvUqkwV8R2Yas++5wn4EWMAiS7lA5VRnd7wSltQzk2aePB5AviAPXnUyMNNNRr/K6aIWHwCuPrHK5Tt8SHNDyzwzvz5sPboOPWG30KEGKDg8OnKOybnCe3J/s9o+5FWKR3a2rIsVspM8ypI4QxmNlv/V50BXmeZrU4ZaQKAWKVLXlXukFIUsx2+f1y9Vl4gcma405rheEBKadqDyDxfbAlLxzgwHXeg5J8WjdKuWX5bOvqyvXSK2iwsroC+mn7XuJRhoyTotIrW3Pk0qQ=;8mFh03aB33oJWF9t10Hg9g=="
 ---
 

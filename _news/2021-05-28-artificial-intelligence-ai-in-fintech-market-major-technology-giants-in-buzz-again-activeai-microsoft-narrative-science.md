@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.openpr.com/U/5/U527291217_g.jpg"
         width: 480
         height: 320
+        isCached: true
+  - title: "Neural Networks Software Market Next Big Thing | Major Giants IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Neural Networks Software Market offers a detailed overview of the factors influencing the global business scope Neural Networks Software Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-05-28T12:47:00Z
+    webUrl: "https://www.openpr.com/news/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2293222/neural-networks-software-market-next-big-thing-major-giants"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 69
+    images:
+      - url: "https://cdn.openpr.com/U/5/U528233394_g.jpg"
+        width: 512
+        height: 335
         isCached: true
 
 secured: "ZTyCK2ejAVG/LqdPIuYRThXLGf/wEvldKmM8e+UoP3/gAtqnhVj+3uuM1ClBX/xN2z6Jcs4xcsbu+v+zL8jKNcekjnbS5noNBNpe7a8HvNcXiuQzHrWYug+FLuZhZdx6LlxjIii6wIIFCwqY0HqCaeCsu0tc52KkOh33htdGYMn4ZoqZ2snnw7aDEbhWjeCBYPRDSHXm129tzVH9LP2mYvCmG0RBAfG7IYA8wSQt2P2qnyoiT5lCxo7/z4fVKTLkB7s8gh/dIM+gJ54c4HG2X6w7QAAZNNS8wKDcnyKVuGr6e1T8BqMy+0kDwoTalbCwBF8WQS47EXiXtPK9dLXNWu/EvWdq/tt6f2qpRkFtwTw=;aasAloj2F/h9rkGZH4SHVA=="

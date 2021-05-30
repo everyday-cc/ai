@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions.md",
+      "title": "A Robot That Smiles: Scientists Have Created A Robot That Responds To Human Facial Expressions",
+      "excerpt": "Yet, the robotic systems that are seen today in airports, hospitals, or even restocking shelves in grocery stores are quite obviously robotic in nature; that is, they don’t resemble or understand human nature—rather,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b3f7bcd8be7c6a32bf20a4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/05/30/a-robot-that-smiles-scientists-have-created-a-robot-that-responds-to-human-facial-expressions/amp/",
+      "publishedDateTime": "2021-05-30T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-flying-killer-robot-hunted-down-a-human-target-without-being-instructed-to-un-experts-say.md",
       "title": "Flying Killer Robot 'Hunted Down' a Human Target Without Being Instructed to, UN Experts Say",
       "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
@@ -212,49 +265,6 @@
       "provider": {
         "name": "Technical",
         "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-researchers-create-robot-that-smiles-back.md",
-      "title": "Researchers create robot that smiles back",
-      "excerpt": "While our facial expressions play a huge role in building trust, most robots still sport the blank and static visage of a professional poker player. With the increasing use of robots in locations where robots and humans need to work closely together,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-robot.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/the-robot-smiled-back.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-robot.amp",
-      "publishedDateTime": "2021-05-27T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1124,8 +1134,8 @@
       "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
       "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wamc.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
-      "originalUrl": "https://www.wamc.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
+      "webUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
+      "originalUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1144,11 +1154,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T15:12:00-07:00",
+      "publishedDateTime": "2021-05-20T14:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WAMC",
-        "domain": "wamc.org",
+        "name": "WSHU news",
+        "domain": "wshu.org",
         "images": null,
         "publishers": null,
         "authors": null

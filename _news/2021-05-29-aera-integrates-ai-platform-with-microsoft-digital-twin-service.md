@@ -142,20 +142,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft is teaching AI to write apps for users"
-    excerpt: "Microsoft has licensed the GPT-3 natural-language AI technology to help users write programs using its PowerApps suite."
-    publishedDateTime: 2021-05-26T04:41:00Z
-    webUrl: "https://www.arnnet.com.au/article/688648/microsoft-teaching-ai-write-apps/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_197728332.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft and Elastic Partner to Offer Elastic Stack on Azure"
     excerpt: "Microsoft and Elastic have recently announced Elastic on Azure, a preview service that offers managed Elastic, Logstash, and Kibana to search, analyze, and visualize data in real time on Azure."
     publishedDateTime: 2021-05-30T06:47:00Z

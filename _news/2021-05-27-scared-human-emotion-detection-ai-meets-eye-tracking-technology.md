@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/scared-human-emot
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/scared-human-emotion-detection-ai-meets-eye-tracking-technology/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "EyeOn Eye-Tracking Device Wins 2021 Edge AI and Vision Product of the Year Award"
+    excerpt: "EyeTech Digital Systems has been announced as a winner in the Edge AI and Vision Product of the Year Awards by the Edge AI and Vision Alliance. EyeTech's EyeOn eye-tracking tablet earned the 2021 Best Consumer Edge AI End Product award,"
+    publishedDateTime: 2021-05-27T11:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379175.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "Z3EBR+RnI0xCPmEjYXD4YJVpBQyIWGboHY25Tmta0iitApxNX9o+nnJC5GlGbUjBUI0cpFoSlWXMyRQUJjPHLgzEwYhDCVnM30dfVX9U1awOq+bWRWSL7kgWRMQTbbKgO1l70AWx86vzAqbZJHxqSbsi2iF6nGEtCHmkK4yP8o4MuygSh12V6vaeZFkGmgnMCu3TJCTZ4PZ3Aa5/nbvA5oQMTWJfnOkbt2E1tflGASalE+TFPw443U/+6LvAWvDtLTxchHUYD4ANfFb/a+BBZNXCYdLOgPe9jP/ZBSb8WvOoPPgNja+i01YdnNbdMoF6D9kh/k4J8Bd2ShHI80XaMsitb/GfGcAk7rgB/GApfOQ=;muYqIbTAbJXehmJD2JeZng=="
 ---

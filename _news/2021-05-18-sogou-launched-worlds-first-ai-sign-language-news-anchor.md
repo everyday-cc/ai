@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sogou Launched World's First AI Sign Language News Anchor"
-excerpt: "PRNewswire/ -- (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first"
-publishedDateTime: 2021-05-18T05:06:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launched-worlds-first-ai-sign-language-news-anchor/article_930a7a1c-bf7e-57d4-b8d0-ef539c803a1d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launched-worlds-first-ai-sign-language-news-anchor/article_930a7a1c-bf7e-57d4-b8d0-ef539c803a1d.html"
+excerpt: "Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first AI sign language news anchor in Chinese at 2021 Sohu Tech 5G & AI Conference held in Beijing on May 17th."
+publishedDateTime: 2021-05-18T05:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sogou-launched-worlds-first-ai-sign-language-news-/2021/05/18/9371204.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sogou-launched-worlds-first-ai-sign-language-news-/2021/05/18/9371204.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/fa/9fad2d92-e059-5f5b-9426-8a101096bed6/60a34d763b73c.image.jpg?resize=983%2C549"
-    width: 983
-    height: 549
+  - url: "https://mma.prnewswire.com/media/1512449/Xiao_Cong__the_world_s_first_AI_sign_language_news_anchor.jpg"
+    width: 400
+    height: 223
     isCached: true
 
-secured: "+mDdNb+x+eQEz2V4QbrK7JqMK//t4GM5HzSMpRbQEHOaBeEGGQeQjoACHkhoDqQVZcJoILp01UuRpUxpVVhDV3V2tQtudFn+45WS5FS9zZk2ulKiub9WHZT1u5rfORy1lkDxRmnaHjxO2ZJhrezsBkJMCrh3W2c+DIiE6oqhLgbSMLopMgcBQgo0fH155c8HSa9hKpLtQcT6M/UKHAkmfdLXZOYxgzsRF+xVyChFjUuomrK2R5CGOdR4CRauLdohjLiDTG7gyfsOSUIKXuE2o4bMIpRMHBoBBhLAamRXPN5btbqUoH9sopsftmAAN1I0BlKav8SoAR/HfOvUmQiLmmlNgdAXUe8Ni7B41/um3RQ=;WxLpMGH+71mD647o2Gyk0Q=="
+secured: "KZRTIFThCGGI8XUpvaE/AVZrkfiqZf3oj4v+na4uSYibKpCLrPWGgtXByKwjYuLtxndctHjG4AEcrD4G+m5ixwOgT00LAbBtsJY/egup4SCer5o77dPAGBBqvL7RELWYt9MgurbdYrqdvdw2f8UaBiSnIukr+KfkDnlwg5TuDPvpoCVEot4MiQ4GTa8rh1Mwk7m520huxG+DrM9qhBD4SdtUqqvi17csPe1jg3pJTGW+6Kj5pF+7WpSz+GzTAQuBgizvG/0esUI4xg7E81Y/DAnovg3aIgJt3l6dvrxg+g7d9yyYCXb+tcHfew2FkjfHjseXagTklMzhPFpCAOLjG+JQb0ddTLGv5Ien8LjMe3s=;Eg1CKbBN8zaLOXZPq/P+bg=="
 ---
 

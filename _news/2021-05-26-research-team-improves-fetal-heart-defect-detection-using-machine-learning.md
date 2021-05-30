@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming our understanding of deep learning"
-    excerpt: "M programme will combine theory, modelling, data and computation to improve our understanding of deep learning, making it more accountable and transparent."
-    publishedDateTime: 2021-05-26T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fetal Heart Defect Detection Improved by Using Machine Learning"
     excerpt: "UCSF researchers have found a way to double doctors’ accuracy in detecting the vast majority of complex fetal heart defects in utero."
     publishedDateTime: 2021-05-26T23:09:00Z

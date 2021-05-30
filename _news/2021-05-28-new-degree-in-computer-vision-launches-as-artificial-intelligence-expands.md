@@ -1,27 +1,31 @@
 ---
 category: news
 title: "New Degree in Computer Vision Launches as Artificial Intelligence Expands"
-excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the"
-publishedDateTime: 2021-05-27T19:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-301301267.html"
-webUrl: "https://www.prnewswire.com/news-releases/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-301301267.html"
+excerpt: "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,"
+publishedDateTime: 2021-05-27T21:31:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072"
 type: article
-quality: 53
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg?p=facebook"
-    width: 1600
-    height: 838
+  - url: "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -111,6 +115,6 @@ related:
         height: 240
         isCached: true
 
-secured: "iI6YxI5k6sJSCs3hqW1n1o91o2DrdXB5f1zl3zuF3loI9s1Nak9vvw29OfUJ5+ItO1Tsr5y9Hh4j6WCqg6sz87nWixMOlE10Az0LPkpsLLdLJhAeiQixRO87+e4sgz/aNQY/sq8bi4CBBE4l465WexgDkp+Sl8ATXI2wOWDuf5OPZ8dPr0vw1WZhcfeqZCw7xjm4a9OWZENYyiOXYD2lFAemntldTgH/ZvusBbggs8ZstPgsKrE0FcZWTO2CItkBNm4Mo4gi7zAr+5xvqAv43EONzvjAYn4GmPVtmHmDIg2mN3rc7yq6DTjkYL40ayHJiin264tlJcaJThkIK8Nn03+QY1PRerGqZql2VHDVYVQ=;/flSeBEOlXbn29LjVUvUGQ=="
+secured: "vj9uIjFO2TDWgap9DvBlgHEeS/0p2JmRTc4ikHj+RN9x6pcE0yq/lfZZWj7gS8CMDPPkkC16izTnGQmdXIjWgj7H51cM9tnxaYIpkjyVDV8AzgSBVPxBRFGLir9Yf+u+RGOCwFlwk3G4HvSomwig88D9Pzop8vpH2DWcJREH5L6XJMzZAO6e70guor3SZBwm4xqSJOZEEirIKo68dEKCkRWwqT8X6cQ7zMmKBFZDLwupcGWarVqytDlTifV4Zd6ZcS90tKiB2jdJvU88snMoT3xgskD6AAZ0uw6dzUH5EMg9CupK5DxK+YWj2QUYpFnS7EBd3HS3s8hGJUQGGXfhYzK7WpmCkjZQN2EF5g4Euxs=;v+Epc5aNpSB2AS02+eHvmQ=="
 ---
 
