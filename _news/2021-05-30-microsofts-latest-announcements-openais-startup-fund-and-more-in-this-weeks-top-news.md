@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Vectra AI Joins Microsoft Intelligent Security Association (MISA)"
-excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association (MISA). MISA is an ecosystem of independent software vendors and managed security service providers currently spearheading enterprise defense against the latest cyber threats."
-publishedDateTime: 2021-05-27T12:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379278.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379278.htm"
+title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
+excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
+publishedDateTime: 2021-05-30T04:30:00Z
+originalUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
+webUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
 type: article
-quality: 51
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI in Security
+
+images:
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Identifies Netflix And Microsoft Among Today’s Trending Stocks"
@@ -64,21 +69,16 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
-    excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
-    publishedDateTime: 2021-05-30T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
+  - title: "Vectra AI Joins Microsoft Intelligent Security Association (MISA)"
+    excerpt: "Vectra AI, a leader in threat detection and response, today announced that it has joined the Microsoft Intelligent Security Association (MISA). MISA is an ecosystem of independent software vendors and managed security service providers currently spearheading enterprise defense against the latest cyber threats."
+    publishedDateTime: 2021-05-27T12:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/05/27/9379278.htm"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 45
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
 
-secured: "duouc907iGCaFdZVK6iFewi/dSBlCvVCkeW7wyotnZZOtyxYo7aCwKS5QIEcNIWZwr8dr91/zPcmktym9wZy4EBJN3jD1yRWGJdx8fTIsX278t0B+jUhyCauUDgFAZ/SEBBRu1uu1J4JLq7nn6W0LQPuSVyndCuqLFOSnZzeKxXIjUlPQCJudC+jKrB0iQPd8+6npUWIUBlmSogMYRg0hClM+EMag6JwVvdgTLgV0IF+CM3OESvUyT10NZJjrda+ryFQtYYTpbkWc3elaQqka7nAsf/PEINp3JWD6KSMW/sTpxrMmFpOQQbbEIeG5TIGzHuXtHfTP9xky5hdQ3BFBN4jDEhyS1Rqdqye0eMAmw4=;j5j3B65ZEAEE+lMfHI1RNQ=="
+secured: "ZvDlrvpbNlOoWYUfbcjtPyCllTe/O3bC26t4W/KSLQk98vMvf8+N69bbM3mzwb3VpIiCpdiXlAJLtfpMMkv1wNXdXS6Vpym/+HDLT96lJXUsmLX13rQz5yDmir6urDJLOjBdnhR2gKJRVyUP/bf5ZEp8JWQ/4GyX5u51q3/73wyzF39Udz2Un6eNLOvIaCfwQruFZfqMnmQY/oqLQh5eg2aGc2mS9EgZAuY5Onxqc4x41H2zUTKHs4kNgzHsvY32ARd40qyYUtODslxejSNlG71yV02wOjkSqfAVtO9EIxYb827lv/n5OaPoKQB7/7jGhTJDqku4aib/1eXvRqPB2lz8mZb9OZ1kh1crf8noXHQ=;BqWneELqYpI5u9uD6Jthsw=="
 ---
 

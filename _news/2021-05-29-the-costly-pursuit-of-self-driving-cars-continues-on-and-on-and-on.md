@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 620
         isCached: true
-  - title: "Silicon Valley is resetting expectations for self-driving cars and settling in for years of more work."
-    excerpt: "After years of hype, billions of dollars of investments and promises that people would be commuting to work in self-driving cars by now, the pursuit of autonomous cars is undergoing a reset. Expectations are that tech and auto giants could still toil for years on their projects."
-    publishedDateTime: 2021-05-25T11:57:00Z
-    webUrl: "https://www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/25/business/silicon-valley-is-resetting-expectations-for-self-driving-cars-and-settling-in-for-years-of-more-work.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 58
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/25/business/22driverless/22driverless-facebookJumbo.png"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "New Research Says Human Drivers Are Accelarousal-Prone Which Is Especially Eye-Catching For AI Self-Driving Cars"
     excerpt: "Research indicates that acceleration can lead to more stress in some drivers over other drivers, which has notable ramifications for drivers and for self-driving cars."
     publishedDateTime: 2021-05-28T15:30:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0085456d92dc2e2231a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1952%26cropY1%3D113%26cropY2%3D1212"
         width: 1200
         height: 676
-        isCached: true
-  - title: "More efficient lidar sensing for self-driving cars"
-    excerpt: "If you see a self-driving car out in the wild, you might notice a giant spinning cylinder on top of its roof. That's a lidar sensor, and it works by sending out pulses of infrared light and measuring the time it takes for them to bounce off objects."
-    publishedDateTime: 2021-05-25T11:29:00Z
-    webUrl: "https://techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-efficient-lidar-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/more-efficient-lidar-s.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Tapping into the drug discovery potential of AI"
     excerpt: "Plentiful financing and multiple pharma partnerships illustrate the burgeoning interest in applying artificial intelligence tools to drug research and development."

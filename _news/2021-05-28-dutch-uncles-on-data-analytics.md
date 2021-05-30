@@ -7,7 +7,7 @@ originalUrl: "https://www.controlglobal.com/articles/2021/dutch-uncles-on-data-a
 webUrl: "https://www.controlglobal.com/articles/2021/dutch-uncles-on-data-analytics/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "An AWS exec details how firms like JPMorgan and Millennium are using data analytics in the public cloud as Wall Street leans more into the tech"
-    excerpt: "Financial firms are pushing into the public cloud as analytics reshape the future of banking. AWS is trying to lead the charge."
-    publishedDateTime: 2021-05-25T11:31:00Z
-    webUrl: "https://www.businessinsider.com/aws-finspace-public-cloud-wall-street-analytics-jpmorgan-millennium-2021-5"
+  - title: "TCN Launches Voice Analytics for Improving Agent Performance and Increasing Efficiency of Contact Center Operations"
+    excerpt: "TCN’s powerful search and discovery tools combined with automated call transcription and reduction deliver insights for improving call center operations, customer experience, agent training and compliance GEORGE,"
+    publishedDateTime: 2021-05-28T17:19:00Z
+    webUrl: "https://customerthink.com/tcn-launches-voice-analytics-for-improving-agent-performance-and-increasing-efficiency-of-contact-center-operations/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 2
     images:
-      - url: "https://i.insider.com/60ac14aa5e3457001926545c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
         isCached: true
 
 secured: "RsC/m8gouYuMygX39wIgjebJHQpaLZS9zlxEMdMqU5MI40vDVXgf4IA7xCq+uwVs2sbi7+9U2AecuuyU6fSr5xLH7c4flOaMK5daKZoExlDM9Byid+Z5fuMgvsX362d3VKzPKyIVbMy4kFi2mOKuCb4KFg3YPEwVaxLYpKTjAWj48Nz9bEJLLlu7+sXrQBm8NjqDyRxl6aKkWw6SjZ+iM3MByIppuZezCkt2r0rJ/Es1qFEeFCdX6MbMAIArDxTPxNvR5OBNoODWQNpUnY58MRSiLtQ/d6PlS4asKFH7pXJn+MaBM7HGssr7/xW/5x+qkuKSvs2CDglurb/+jc32CUZYE0qnV7w9boExISHYk+A=;7V7LvdoQnyOuZyE6Skk8rg=="

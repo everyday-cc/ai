@@ -43,20 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
-    excerpt: "Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture,"
-    publishedDateTime: 2021-05-25T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nokia launches world’s first AI use case library on public cloud for telecoms providers"
     excerpt: "Nokia’s AVA AI use case library is now delivered as a service on Microsoft Azure’s public cloud, combining telco grade security and instant web scale architecture scalability. Accelerates communication service providers (CSPs) digital transformation,"
     publishedDateTime: 2021-05-26T12:14:00Z

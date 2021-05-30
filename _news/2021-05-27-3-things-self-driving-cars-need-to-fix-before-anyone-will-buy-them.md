@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix
 webUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix-before-anyone-will-buy-them"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior"
-    excerpt: "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief."
-    publishedDateTime: 2021-05-25T13:00:00Z
-    webUrl: "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105098635-IMG_0057.jpg?v=1522347530"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Waymo warns against calling cars 'self-driving' before they really are"
     excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
     publishedDateTime: 2021-05-26T13:55:00Z
@@ -54,15 +38,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Self-Driving Cars Might Never Be Able to Drive Themselves"
-    excerpt: "Producing truly autonomous vehicles requires a fundamental shift in current approaches."
-    publishedDateTime: 2021-05-26T00:00:00Z
-    webUrl: "https://cacm.acm.org/opinion/interviews/252899-self-driving-cars-might-never-be-able-to-drive-themselves/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 4
 
 secured: "2kkEJMHXQqUpMtZXFKIFI+jlxemD2jsGQZj4rEUs+lB0Bn9mP0629ykGyh2osT4RAUxpIY/vB90yS7RZDEapd+JPrfObMzwCk/sG1YzmSwMO/DDZIxshQ3yLC3lX0LqfrUd1YdcqxdbEgXACiE9j9AucNpI0tWlAwleMimAPa3TlUc/bo05lj38iEg5aTzgZY8MfZmGfYkeO0+JaGk0+Jgb2tkQL9uC6RIKyPbwQdW0T84ILdIVjaiCkauE7/HTrjkwY7GZ+D7L40LNYf9ImzAC6wea6nG83R0hT7La4NBCIBOUbKL2qMOtWRR9LHbAjyCC5vMKsFEOZFItCETA596UOWt4Ui67yEhY5gyjoujLYJzWlMMAQ5abq8mDDEjaQoideRaOh9mYnGpr8Cevl/k1iM+xOkZrtZ+Xbz/5qje+4FFIb/rExcMMs8g59f3TR2wmXGle/9DQBAz5mbxg4t5LTWcitu9OQq/+tRhf1TExhTEVytVqPGHe8QttNaO5f0UPyiceBhOBACw6beUFN/Q==;/eWqKS60xhueMwn2bRr7Ug=="
 ---

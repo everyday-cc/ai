@@ -24,22 +24,6 @@ images:
     height: 594
     isCached: true
 
-related:
-  - title: "Synthetic neural-like computing in microbial consortia for pattern recognition"
-    excerpt: "Complex biological systems have individual cells acting collectively to solve complex tasks. Here the authors implement neural network-like computing in a bacterial consortia to recognise patterns."
-    publishedDateTime: 2021-05-25T12:04:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-23336-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-23336-0/MediaObjects/41467_2021_23336_Fig1_HTML.png"
-        width: 685
-        height: 494
-        isCached: true
-
 secured: "ChDxycWx8rLw4Liuzdz4Zx8eWwLlp1U0QtSYsCgDwhTEXdkMd9FJsb+Kab9EJjchUz6U3B+fEK5Yg5DE7Ca/Yc8kH2e/oHe7HIlE3BSN5i5RaL5HTDbydSQiTJwqq33jLSLJ8KoOy56bosSV/+tl9EcS0xmOiLgnaFfQaQuCbPzzsDLpOmi0WtGmDU3LP82zoGy2xtLd/SgZPPW4bW+IDcSyjFKMf3iAYIHW+V1x/MyzztgMCI32//viOZU25oC77970V7koNeN0o+VmVHFPSjtEIbnFOs0pSzIH4lIBQcj/sR6LL3I7i9LBZRZil0oA9BGmvAQ2TH+SPa4OF7SPa0DJJlLF3Ig59PiDIaYObROIzKNBDA3jaSP3uWdikjqMFX/WtXXBAxUwA/rqgvwScxii4hLN0vsTO7tmK9oxBIoZGo3mFFzWWCQPxvzJdb3TTJ2n89suN5pxpQS9EhOxs/hzMDbudLHbxcZydexebeJYk3OZ2JDWGOzt3Fsb/cAy+QYRMYq760cBZFxCsKJG4Q==;UnoV+Tjkl5eV/BGbqLfhKQ=="
 ---
 

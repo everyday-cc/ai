@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/qai/2021/05/28/artificial-intelligenc
 webUrl: "https://www.forbes.com/sites/qai/2021/05/28/artificial-intelligence-identifies-netflix-and-microsoft-among-todays-trending-stocks/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
+    excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
+    publishedDateTime: 2021-05-30T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 45
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "anrlCBZD98ksODtsQzv80Z7N+D9STtIbAOsF4uBpiuoKZwQGxOrcJDkefM9QQsWoeI1Px0lz2Tcf3DtJ8FdzJgpts13/hK1Qfck//wHzyK4x6CFL3jeQGJx25TlWMJq7JfUMHA0ieqkkGwstruXK2FBiCeitji9OrHRqQb5GzBxIb031drczvWQ6XrZK7Io/3hhMwvEP5kZKC06I1WQnkJWZOCw4OgVwFzHtxuQdIsgY1/BWCrnMBE2ShB/2LVs0vAU/KdG1fqrA9wX8FYOeZw1GSpfAexAUBKKzoaaNNshGxzGuhLUpuV0WxuZFMrNTltKKhz6JLaNLkRefb9WXKJ0fpj8cHtpiU8OE94QdwvRSXPhISZYDgY8uiN4CZD+njBA/QwGdi4T9m90tcrHRHbYWFG9C6SCIONgklg+kIUft1cW5VFka4aTlI+jTPLc9HyaBDb0i9m3BnP7/VNhS4jXJH4ZccwjXvw2P32c/2qyk6J0dhrDBD8OlbkU9JKCT+c05L5sGR+BOAVe14blFew==;VCG9arA3R97OMPg9xeZv5w=="
 ---

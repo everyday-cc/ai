@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-05-25T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-insights-global-sales-future-demand-and-covid-19-impact-forecast-2021-05-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market Latest Insights, Global Sales, Future Demand and COVID-19 Impact Forecast"
     excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-05-25T13:22:00Z

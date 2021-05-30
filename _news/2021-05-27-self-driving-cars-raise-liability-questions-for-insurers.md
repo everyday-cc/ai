@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/self-driving-cars-raise-liability-questio
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-cars-raise-liability-questions-for-insurers?_amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 840
     height: 438
     isCached: true
+
+related:
+  - title: "Insurers ask who is responsible, who pays when self-driving vehicles crash"
+    excerpt: "The advent of self-driving cars is raising questions in the insurance sector about who should pay when the vehicles crash and how insurers will set equitable rates."
+    publishedDateTime: 2021-05-30T05:43:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/may/30/insurers-ask-who-is-responsible-who-pays-when-self-driving-vehicles-crash/873143/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 22
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/05/27/198476953_BIZ-AUTO-SELFDRIVING-INSURANCE-DMT458323238_t1070_h77627e104634e1fa149f834ee3ab7ae57f6274f6.jpg"
+        width: 1070
+        height: 712
+        isCached: true
 
 secured: "idO4CPLRE7RQa30iaWEVQGCN+Ty/DhFVdj1dlH9F0xr43DgBnUBNqO2TMFR5QzPMdmbXjGhat1lwUu1RJDbfPJ0lhBuKgIAxYgeSu4bL14R4rXXeRtNaAX5ulc1ImsLg5yyfa/wOg1aGli4R2oFMbfs1TlRN0heji7nkG+Ifz5L5Fr2pYBZ+1/6JEeWcO9ZVnz72wsNoXVKJ+iouLd+ys/xhJwt88ClN7EFLU2dnrSkXbPNRwrmsEgGdg7BbEe3iQAtKToCZpMaa97YMvzQYwMmQpnzL1oQ63wCjQ3VmCKDxRI9sywZplthxeyYiKfZ/CC1GHHuAHNSM7ygvlhYrBeEEBZFYPG9LYYg+XvcLjUhSeP7wNlYzLJfMEwWSvSxD+yvgT4n8oxz8GqAGX05WWMR+Y01jr0OUmMNqjqBUsl9jcSgPxpmXPaNJDhPgYjZXkx0Ktmipn7a0rg69m79mNqhyyykfxPvM9oD/TDxRqsja6VuAB+ouphtqJt2t68W2bWDDAOle3aLywDbs2I+rrg==;AOTVZXbg5irGvAj0HZ18Bw=="
 ---

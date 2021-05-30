@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia launches world's first AI use case library on public cloud for telecoms providers"
-    excerpt: "Nokia today announcedthe world's first deployment of multiple AI use cases delivered over public cloud, through collaboration with Microsoft.By integrating Nokia's security framework with Microsoft Azure's digital architecture,"
-    publishedDateTime: 2021-05-25T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nokia-launches-worlds-first-ai-use-case-library-on-public-cloud-for-telecoms-providers-2021-05-25-81841035"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "South Korea Telecom KT Cooperates With KAIST to Establish AI Research Institute"
     excerpt: "South Korea's largest telecommunications company will join hand with the Korea Institute of Science and Technology (KAIST) to establish a AI research institute focusing on the technology and software development in Daejeon,"
     publishedDateTime: 2021-05-29T15:05:00Z

@@ -64,6 +64,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "Microsoft’s Latest Announcements, OpenAI’s Startup Fund And More In This Week’s Top News"
+    excerpt: "In his keynote speech, Satya Nadella said that they would be using the world’s most powerful language model, GPT3, to Power Platform."
+    publishedDateTime: 2021-05-30T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-ms-build-openai-million-fund-top-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 45
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/download_20210530_100536.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "yEj5IcYSJ5w0XczjzvGtX4eLRM4ZekOOsxjMgncplHN0LbYTPP6KhvtYHzQDSirHz4gleX8xxR84UW+66wHz9DVbNv3yQqddaSOzF4czXmnXoAjMJZu3lK+UWOHfN4QHkv9qEf6T60+nB1yHRcuOKnDK4ZQQjeiouV59hxIFIwJ/pPa8OFtyEJTTFhqGOTZ+UWruwBXq0i9XnpyA2sNo6RRG54lhzxQec7pHZJwSb8ytLH8rep+Lbt9f+TZAjeGODETOZWLvVM4V9pkAl4FynK8XCLtmOLdsI9pRQqu3UUKilFXK17VdMGmEyFYPhhIYst4kLH5TokWBzYa7PuhFpYg5Y3BLJ4w1YA06qNz4oQzcHbzsGcs8BroiaCzqeZYnAGzQNpO58nw9rz+PO385VMlttW4AMZ+VyKbDhgilstzkFsu1QpmFU89zsO2maktlXmhw+CTuT5EgqbdUjr+x54PrrRoMBAfjx7JXNbLdyYMJLUquhVDe79C5FUPXFbdfWhaPjcilAqg/vb+VnkMj/w==;V+MJsU8jMwyEQcUThmvV0Q=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Platform
@@ -41,15 +41,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "Manufacturing AI Startup ExLattice Joins NVIDIA Inception"
-    excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine."
-    publishedDateTime: 2021-05-25T12:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "9pZ1/Kp2N5BaqyCSLIVKECnEtCdohv1DgynQothcVTslPUgs8aPU3RTNruW4FqQNpoE+C/0RFmtSPJt5cTE6IKXDDWf4QSE5nlp+luuAS8/3+x+6VXJN7Z8rh2oSZsZU3R5QG5m1lO74GBKCV+Q+EaHt1uHncCFCSfmsJSF+u4UsHHWNZHdqpuPy5PLVLIbsO8VT7uyeGJ8pRLdx9rnqQGO9CgO4Z56l4hgwIXj9+Z8VmjK7wnvGU12lrTxh8XeqZsE9klbn0KpcUtGSYeaODSrr+UNnSRSRjN4dI/kAeHnO3fFCgWY/yqpvPd8bkHsgDZoLY+zVKNHYuips8iKLH5+8XaHl5dyVIErltDy9U/3DfhZ4CRNYYq/2VU9wzw4ryL1GbGe6mjFoBYPZvhMkW5CG7cG61M7xdmgPnB3rhkojf37DniZ+TYGo/c9rorlLZzc7P81FP3+vpE/HuSAp7jkA23I8Zr+pcDDx6QtscQOyuRuOKUxg+m+9TjwAkxnulESlLin4dGBYmt4ncP/4IQ==;iNXljiexj6wqaejwSIKqEA=="
 ---

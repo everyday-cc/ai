@@ -41,15 +41,6 @@ related:
         width: 937
         height: 592
         isCached: true
-  - title: "Manufacturing AI Startup ExLattice Joins NVIDIA Inception"
-    excerpt: "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine."
-    publishedDateTime: 2021-05-25T12:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-manufacturing-ai-startup-exlattice-joins-nvidia-inception-/2021/05/25/9377005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "rVtjJYnTLyBlFBQXi8tcvn5iuCOv6SGbskOvyrQ39yjrMuAitAuaxMfDIN2Q8AizUovR0I1RiU3Wvku/UTI1EmcWUcywnWlc5ukW56tRz/YMy5JhWKyLmPVOcaOGbo2O+VL+jaF8Q3U4olcZmRxwYfez3NlvX8SQGrYQ3s5OMNjfSsmnGh/W5eaLkgVAeeEPkghZm5L6drU3zWnBixOeiirhny26ImnegChQJ2RF3ZEAynd9q1rDJFrPf0SSVVUHT++HRQXlaGGFNch5Q1SzRuZxIM9EAbsQwLhF1byTJ7ItAZQpC18/x+0ILV5cXKH2FrAZEgDSNjehECpn43R/YGoT/0No3jkHiCFyxz5GlxkV5beId7OT54aB9jNLQnxTVtn22LBQ2yRlqN2E+ZlIsQphNeLDKofZLNuxRqycxgh/e5Vq7ZxxLrznF+0whE/LTeep+IHvlanxkK2UjD3vLGBnBQzzm8oEN0G4XxdrBEHNaFu3SGJX9wOBy1jD08bfF7opKgxrB3aG35kuggKXjw==;by3Yn+W3CwxcxI3BZ4HmWg=="
 ---

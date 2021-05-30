@@ -19,45 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior"
-    excerpt: "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief."
-    publishedDateTime: 2021-05-25T13:00:00Z
-    webUrl: "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html"
+  - title: "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny"
+    excerpt: "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous"
+    publishedDateTime: 2021-05-26T14:19:00Z
+    webUrl: "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/"
+    ampWebUrl: "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105098635-IMG_0057.jpg?v=1522347530"
-        width: 1000
-        height: 667
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/tesla-model-3-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "3 things self-driving cars need to fix before anyone will buy them"
-    excerpt: "But more than that, manufacturers and marketers need to take steps to address the unease regarding online security and the reduced autonomy of the driver. That’s the only way they can enhance the adoption of autonomous products."
-    publishedDateTime: 2021-05-27T09:00:00Z
-    webUrl: "https://thenextweb.com/news/3-things-self-driving-cars-need-to-fix-before-anyone-will-buy-them"
+  - title: "TikTok is now tagging dangerous ‘self-driving’ videos — but it’s not enough"
+    excerpt: "TikTok is now tagging dangerous \"self-driving\" videos, but that's not enough to protect its community. Much content featuring \"driverless\" stunts still remains on the platform."
+    publishedDateTime: 2021-05-26T15:10:00Z
+    webUrl: "https://thenextweb.com/news/tiktok-is-now-tagging-dangerous-self-driving-videos-but-its-not-enough"
     type: article
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 54
+    quality: 52
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-43.jpg&signature=b76d54724d5f3a1fd4d62fcacff96a8c"
-        width: 1280
-        height: 640
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-40.jpg&signature=cdf62cb9ace92635c90885a2a290d49c"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Waymo warns against calling cars 'self-driving' before they really are"
-    excerpt: "The warning comes as Tesla promises to offer a beta version of its \"full self-driving\" software beginning next month."
-    publishedDateTime: 2021-05-26T13:55:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/26/waymo-warns-against-misuse-of-self-driving-label.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "FkQSXdz0r+gH7pBzchjBtZZ3smU3yv3pTRjYTSgWJ3H3rFOBfgwqo1S2zso0j2bebHXtLNahZqp5yC4m+HhRfrDNccwCo6DFkUu43bi5XndCXZEGoPc52tGz7rFaTAC45GFNsh6YSTAHiVsjGw4JCXwxKL7NjyTFB967DJh36j7/h3eDtbx7uZS8uznywusDAdymBcvDmwcV2ytOuTfnNb2sHqdBhwcPJnUySWb7JPPik7KeIx9lU4qOGjekt+hda5s8oAehSUIsJtMIbJdQZ7Inoi2g16jOBMYUnMwBoOHUz9iN+pTK+tkHWfl0T5cXcJTCwrGEWkrBZw3knd0vZgs6ktR59Z3j9wR4gFgdrsJ6i/nWuSWBBzHmLb7yZAn5/g2s5uLbBaKBXLOPvOaj9hQwL2V1iOsW/BMIqzO4yEil4dyDzlilN+tCOCeYLrAX/enyiMkmGcz9+8nc4yJCE9sYgBLLZaqcZ4oaWEcnj4koVIDvAt40Oy4xJ5v6jk6Ie8cTYwLYAzzW0aKyS9lRKg==;6Ka2vNPHYLzQNXWALaSY5Q=="
 ---
