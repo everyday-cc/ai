@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Elevatus Wins Best AI Powered Hiring Solution in the United Kingdom at the 2021 Technology Innovator Awards"
-excerpt: "Elevatus, the AI solution provider, is leveling the playing field for HR with its hiring solution EVA-REC, which was presented with the award \"The Best AI Powered Hiring Solution\" in the highly coveted 6 th annual Technology Innovator Awards."
+excerpt: "Elevatus has been applauded for its innovation by winning a highly acclaimed award that recognized its AI hiring solution for its major"
 publishedDateTime: 2021-05-30T13:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477428"
-webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477428"
+originalUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477429"
+webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477429"
 type: article
 quality: 49
 heat: 49
@@ -22,7 +22,7 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1521597/Elevatus_Technology_Innovator_Award.jpg"
+  - url: "https://mma.prnewswire.com/media/1521598/Elevatus_Technology_Innovator_Award.jpg"
     width: 400
     height: 210
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ZxpqXvlGpWOEdt1R7mSS0YMJkQd0Uo7GcDIMjiUb/IyuPXH09Eu0qeINK4TZIJxwHj6+pFuFoPA4nJoJyIuWLNXq1ekWdrqzdZKwP7prgl/2r6bSKx01Cl0pV57KyJ8xqALrTqXQeUu5GAH5czXKyUZ/AqC8H0I3uXxGYke+QG59cnc50PznRADhEsO4IwBaoQDsgpCxLbg36FIzaVsyg070kiVRAY0+rrDN9XHlP2ayFfkLL0/HtTOkI9dZUztB9OXlvGt2j2or87DqtH5Tmug4dIQBuv3dByzjxmuhvNnpPfMNQWZvK3m6iqkO6Eg7PodS0y0v9cQvq/QLXS1KGSDrmwHX7kQaqAy4uxdAtQI=;TRCaao772Kx0+o1ogaR22Q=="
+secured: "jqtIsNetFlheD6gOc5k4FC0kvln3Jxc8uiOIqh21euSa03SgycvmtUUFW/8TPhymHlhyYoF1hyo9w/+wiaK7kg3XsQjWV86k65NlMwrNYl35vkKuGiEMXB3AfM2+1XMlvBRshXYi0fXtxP4hoHY1lWt474bg6k6A3vt3HddFLFk5MBPNzgOrtEms90vN5bixHfA8f/jvEWyMbMz3WasPNG1qrLDjWjiph2RR5c7xB5XWzcvPwPtt4i8MSRmGx4/0pCpvh7f5mYK/3J4aNu9sledJ/epTGyq3ZD/jLXYSCZGVJ94zaltCkaqQU+71mbGY9zJJyIUFPkUPMSKUOyCeRBMmYY4BjarVF7uYm66VD3E=;a5exs86EjhsKIppxhBpekg=="
 ---
 

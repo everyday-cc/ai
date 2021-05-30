@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-05-path-human-like-robot-skills.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-path-human-like-robot-skills.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The path to more human-like robot object manipulation skills"
+    excerpt: "Scientists summarize, compare and contrast research in learned robot manipulation through the lens of adaptability and outline promising research directions for the future."
+    publishedDateTime: 2021-05-26T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210526150213.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "The path to more human-like robot object manipulation skills"
     excerpt: "What if a robot could organize your closet or chop your vegetables? A sous chef in every home could someday be a reality."
     publishedDateTime: 2021-05-28T09:42:00Z

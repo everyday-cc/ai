@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Elevatus Wins Best AI Powered Hiring Solution in the United Kingdom at the 2021 Technology Innovator Awards"
-    excerpt: "Elevatus, the AI solution provider, is leveling the playing field for HR with its hiring solution EVA-REC, which was presented with the award \"The Best AI Powered Hiring Solution\" in the highly coveted 6 th annual Technology Innovator Awards."
+    excerpt: "Elevatus has been applauded for its innovation by winning a highly acclaimed award that recognized its AI hiring solution for its major"
     publishedDateTime: 2021-05-30T13:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477428"
+    webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-wins-best-ai-powered-hiring-solution-in-the-united-kingdom-at-the-2021-technology-innovator-awards-1030477429"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
     images:
-      - url: "https://mma.prnewswire.com/media/1521597/Elevatus_Technology_Innovator_Award.jpg"
+      - url: "https://mma.prnewswire.com/media/1521598/Elevatus_Technology_Innovator_Award.jpg"
         width: 400
         height: 210
         isCached: true

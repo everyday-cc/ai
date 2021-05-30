@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Digital.ai Introduces AI-Powered Innovation Platform to Help Enterprises Continuously Deliver Customer-Centric, Software-Driven Business Outcomes"
+    excerpt: "Digital.ai, the intelligent value stream management company, today announced the Digital.ai Platform, an AI-powered end-to-end solution that enables enterprises to orchestrate the delivery of software-driven business outcomes."
+    publishedDateTime: 2021-05-26T13:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/digital-ai-introduces-ai-powered-innovation-platform-to-help-enterprises-continuously-deliver-customer-centric-software/article_461bef32-9595-5fe0-beb5-bb6833f7f178.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 2
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/6a/b6aa7ed5-1554-5869-90df-8eab76279030/60ae4a87f01db.image.jpg?resize=1051%2C630"
+        width: 1051
+        height: 630
+        isCached: true
 
 secured: "/m8HeF9+BgDZfb8wUUG5MGyuVGfrQzOIhnCdo60/lWfii4A8oLVovwvdg6BDW6KUzWglFF2vZ+1tgf2zL4uZgqzk8WEWAY7KIFV4ohQrDXa32q3AO7w5WVOkJZIC0D1LG39b80PGSWQd4P2mr5pL3GlPgDD8frG/nJQSjHYl5HaGgg0bP2YR9tslQjzIcQ09PphJYbwQn4aqzeluASoI1rO4ZWIcEXtJAITRqd6ucARc6gZEHFVnE7zG+jKmd3rAC9B4O8RKumRyef84dVFSOLpbrbjeOPFCIoLta73ZlRXWYc7xgR86+O/Q4wFmukjvqnG00+dSTe9x0PpBsb1MQgSFkwfdngeaj0IRDsLY0R+7lfhh7S23WivBYW+g8xuxX7GN9W+DaM2HZH3HjzwgNzVtx9xYQo19RaECUa/RCNqAbashOjNsmHOtznwjmbyfpy9ygkMG3gIoKWUEhzc8bl/X9feKEn9DG8Q8YkEboAp0obfHboDITallUMjffjYL5uEKKfVejhmhg7uaCc6S2A==;Ax9uP1shYjBGBlAFMQz36Q=="
 ---

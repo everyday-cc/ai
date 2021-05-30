@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-30T12:10:00Z
 originalUrl: "https://www.huawei.com/fr/technology-insights/publications/huawei-tech/86/driving-ai-to-new-horizons"
 webUrl: "https://www.huawei.com/fr/technology-insights/publications/huawei-tech/86/driving-ai-to-new-horizons"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://www-file.huawei.com/-/media/corporate/images/home/head-pic/2020/p40-nav-en.jpg"
